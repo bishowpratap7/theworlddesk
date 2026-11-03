@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T17:57:32.241902+00:00",
+ "generated_at": "2026-11-03T17:57:57.955104+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-03T17:57:32.241871+00:00",
+   "fetched_at": "2026-11-03T17:57:57.955053+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-03T17:57:32.241886+00:00",
+   "fetched_at": "2026-11-03T17:57:57.955068+00:00",
    "stale": false,
    "items": [
     {
@@ -222,15 +222,39 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-03T17:57:32.241890+00:00",
+   "fetched_at": "2026-11-03T17:57:57.955072+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Beware the \u2018red mirage\u2019 if California Republicans have an election night lead",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0lkVG9raFA5dUU0TUdxSVp3Mnd4MVB0V0ZYU2lpZXM2dnRPUFhZcjZUT1hFM29CajJ5OWI2U3FRNF8tNHVXYk9YNDlDWmpzUTJ4R09BWFVmeTNaOTFlaUhLdmdGckE2NEVmQkZYRVl6aWV6Umx6NnUtWEtwSERpSDVuVXhIOGU2Wm5WNDJ5RTBRalRPVGRIekpLY2lwMEM3eGFMeEdRS0pSWTlOY0hfeXdLdmJRQ3dsWHRzMXFR?oc=5",
+     "source": "capradio.org",
+     "published": "2026-11-03T17:50:44+00:00",
+     "summary": "Beware the \u2018red mirage\u2019 if California Republicans have an election night lead&nbsp;&nbsp;capradio.org",
+     "image": ""
+    },
+    {
+     "title": "Energy affordability tops voter concerns in election set to shake up Congress",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHhNY0VKUUcwVkh4N0s2WURod09aaTk0b1NyUkhIQzZxa2cybXR1WkNaZGd5cEdfTkZDMlBuUVVuM3hndTdLU2l2Q1hTV1hSelkxSmhTT1RMYWNxMDRZSndxeFdXUjhteU4wQV9qRnkzSjh6R0pRQjE5bnQ2NzgwWVRYcG9jTWMxSU5SVXBqcEZlV1QyU2hLUTFpdkp6YXF3YkZCR25ST1Y2TTg?oc=5",
+     "source": "Utility Dive",
+     "published": "2026-11-03T17:50:25+00:00",
+     "summary": "Energy affordability tops voter concerns in election set to shake up Congress&nbsp;&nbsp;Utility Dive",
+     "image": ""
+    },
     {
      "title": "When will Texas election results be available? What to know Election Day",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYlNWcjJpUURfS2hjQ0x1OU5CRGxSb2xPUmhuc0U2WVZrb1NMTV9PcGtxYmowX1lVaXVJWTJwWmdRSU1XakMxYzJ1cEkydFpKTWRic2ZXdUQwTXN2ZzBhbERLZDJxYllnT0NkZk9ra3JLYkx4QzF5dVVmNHlLVS1lQWZOSGNrVU9uQ2JycTl3S3NKcWlqMDh6N3VzbTcxeUUzamY1ejNsV09waS1NUF84S1RUd2pyWEExWUVKZFJwdW9ZLVlDcHBLVUFRNA?oc=5",
      "source": "USA Today",
      "published": "2026-11-03T17:48:00+00:00",
      "summary": "When will Texas election results be available? What to know Election Day&nbsp;&nbsp;USA Today",
+     "image": ""
+    },
+    {
+     "title": "Ongoing 2026 Tennessee election coverage",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVDRSR185a2J2OEJoMHF1TmR1RnZQX2lJZmhtSHpyNUpWUllpM210ekQ3Z1QxZTZQWkpha3RSbnU3eXhCc1Frall2X2VPMzhURlFCQk5Od2RucmMzYUdxSlUxc1pJaVYzaEhKUjZfaFg5QnZ2alZzaF9Ta1Y3OTNfZGQ3R21Sd0ZI?oc=5",
+     "source": "Tennessee Lookout",
+     "published": "2026-11-03T17:45:17+00:00",
+     "summary": "Ongoing 2026 Tennessee election coverage&nbsp;&nbsp;Tennessee Lookout",
      "image": ""
     },
     {
@@ -242,11 +266,27 @@
      "image": "https://i.guim.co.uk/img/media/210edea69d6da127f4ca539fe823e9d3c0d5b1d9/98_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=01c8ed270efa4ea4a02e2e5dcea32c29"
     },
     {
+     "title": "Jeffco Public Schools Ballot Issues 5A and 5B 2026 election results: Live updates",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlpoWjkzWnNhbzdxNXFUeUtUTVd4UzVHNVd6NldrSVlwU3c4NER3VDlzUWdHY0NqdG93eDJFOGs2NkZEUmdWMVdUdUtBd3dORllKeFVrOVpaTHdqLWRGNXJlRTNDem52S1hLY2Z2MGlZOXhvYWZ4Q2JJdnQ1MzZ0VVZJNWVzWGFEaWVKb3BnSTlZQ1Q3dHN4OW04bzNtUG0td2FQOFdhaTVsbmpvYUZEVHVKT0lqV0U?oc=5",
+     "source": "Chalkbeat",
+     "published": "2026-11-03T17:35:00+00:00",
+     "summary": "Jeffco Public Schools Ballot Issues 5A and 5B 2026 election results: Live updates&nbsp;&nbsp;Chalkbeat",
+     "image": ""
+    },
+    {
      "title": "Colorado State Board of Education 2026 election results: Live updates",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1JWQVgtT2d3VzM3TVZpcEVUZGZfZkNOZDI0bkFhaV8tamZ3MFhhbFpzSDQ4dldhVHVUZW80LXpDSGJyM1Jkb3d5Vl9tWmtGdm1DVEp4RHdHOVpmZmszUGN6OVdaQWFlU3phOHktbnNQQXcwbE1qd3NxYXpVWG5vNmhOZHl2TDZjTEFIU3lZWGs0bm1jU2F4YXJfM1I3bzJlc3ZsNw?oc=5",
      "source": "Chalkbeat",
      "published": "2026-11-03T17:34:00+00:00",
      "summary": "Colorado State Board of Education 2026 election results: Live updates&nbsp;&nbsp;Chalkbeat",
+     "image": ""
+    },
+    {
+     "title": "Denver Public Schools Ballot Issue 4A 2026 election results: Live updates",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXNCemhGODlYOWZJUGxKYXdxUnQySGF5MElqWS1IdGJaczJ5YlBVUHV6NVp1dC1JcUo0QmhfeGNlMjBndVNPVXVyZThPdFNwQm0yWWN0YUpTNmNrRzBXM1laaEZ5SEthYllXMWUxdXJhWTJleUNQMDhYWWwzdEozU29sMmFScENzUUIyRXBGTlFFVk4wN2JFX0hOWVRpdk9RQlRiLVhxczROYlMwd19QUzln?oc=5",
+     "source": "Chalkbeat",
+     "published": "2026-11-03T17:34:00+00:00",
+     "summary": "Denver Public Schools Ballot Issue 4A 2026 election results: Live updates&nbsp;&nbsp;Chalkbeat",
      "image": ""
     },
     {
@@ -266,65 +306,25 @@
      "image": ""
     },
     {
+     "title": "Federal election monitors present in three NC counties",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZk5tVDFJb1JsTzVWcE8tX3NXQnByeGtlNVU3ZlRjSFV5c1dLbzJlMjZDaXZsc3BMNTAwTkcwMGxBcGxRTG9yUjZoM1BKcEdJTlNQS2Y1LXJkemNnUG95TnVYZUZvampWSWtkcHNPR0cxcW01WWlPakJkNUZ4dG5tV3FNbVlfQ0FNYzl1N3R5QQ?oc=5",
+     "source": "WUNC News",
+     "published": "2026-11-03T17:31:00+00:00",
+     "summary": "Federal election monitors present in three NC counties&nbsp;&nbsp;WUNC News",
+     "image": ""
+    },
+    {
      "title": "King tells Commonwealth leaders that Britain\u2019s role in slave trade was \u2018shameful\u2019 but stops short of apology \u2013 as it happened",
      "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
      "source": "The Guardian",
      "published": "2026-11-03T17:30:19+00:00",
      "summary": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeting (Chogm) in AntiguaQ: Do you think the UK should reconsider Commonwealth membership, given other c",
      "image": "https://i.guim.co.uk/img/media/f61bc27a7893d6c0fe415e9ca2a45d6a8cfda54f/189_84_6141_4913/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=9934cacae4ff01ddf14b2d7fddc6149e"
-    },
-    {
-     "title": "Family wealth, Epstein, \u2018vanity projects\u2019: How Democrats plan to investigate Trump after midterms",
-     "url": "https://www.france24.com/en/americas/20261103-trump-family-wealth-epstein-vanity-projects-democrats-plan-to-investigate-after-midterms",
-     "source": "\u00a9 J. Scott Applewhite, AP",
-     "published": "2026-11-03T17:30:16+00:00",
-     "summary": "Democrats are preparing to launch a flurry of investigations into President Donald Trump\u2019s administration and business dealings if they retake one or both chambers of Congress, dev",
-     "image": "https://s.france24.com/media/display/cc781a30-d7a0-11f1-bb6c-1beafce15fea/w:1024/p:16x9/AP26057665262358.jpg"
-    },
-    {
-     "title": "Protect Poundland from predatory capitalism, MPs tell government",
-     "url": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
-     "source": "The Guardian",
-     "published": "2026-11-03T17:29:00+00:00",
-     "summary": "Budget retailer and 12,000 jobs at risk after US owner fails to accept buyout offersMPs have called on the government to protect Poundland and other high street stores from \u201cpredat",
-     "image": "https://i.guim.co.uk/img/media/1b649855fa074407e8669b52440db74680645869/622_0_4636_3711/master/4636.jpg?width=140&quality=85&auto=format&fit=max&s=d3de01cc7638dc266c7aee2d3960c128"
-    },
-    {
-     "title": "Prediction markets face US midterms test as election bets soar",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-03T17:27:21+00:00",
-     "summary": "Prediction markets face US midterms test as election bets soar&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Election Day, 2026",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90Yk5vNEVtWTBZRFl1VHV0UjdGbTNLVlVCdWVWZGZrZEk1bVhyNUFZVE41ckNVRGRiYVRScFM0T1Z4U1AzczY2TXUwQzJFVENpRDRDWHZwUlpEbGdWY2xjcDJONDZnQQ?oc=5",
-     "source": "Nevada Current",
-     "published": "2026-11-03T17:25:28+00:00",
-     "summary": "Election Day, 2026&nbsp;&nbsp;Nevada Current",
-     "image": ""
-    },
-    {
-     "title": "Californians Express Confidence in Elections Despite Low Government Trust",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWJtNVVIQnNMZmhWc1JRQXplM3VUbS1QR3RXSTY1RUhzcGFTV2s4Vy1NNGZfQTJSTHFsWEh0RWRfSnZ5N1pFSnpibUZRblU1OXgzYXp4UUlzMWZiU0hmQTBDSTNjVTM0enVlanpIeHVrZGx5SDZYdWZPaVNmTE81Sm81RDhSbG4yeVRhUDVvX0FxMks4RGRmR0V4ZkFpUFZ4UEE?oc=5",
-     "source": "Public Policy Institute of California",
-     "published": "2026-11-03T17:19:05+00:00",
-     "summary": "Californians Express Confidence in Elections Despite Low Government Trust&nbsp;&nbsp;Public Policy Institute of California",
-     "image": ""
-    },
-    {
-     "title": "Some Voters are Facing a Rainy Election Day",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWlISkdQMGRFOEV5eXVRb2I0aG9ZMWNOeElWWEZzTFNyRXY2NWo1VGxHdU1WeVpaaHN1dDR0b2hBM3IySDhEY1FhRE5uRVl6ck0tNktTTHNYcW5SRUhZQTMyZ2kzc2hIODRyWFVIaEFTZkx5aUFJSVFHVUhndWxEQ2laVlpuQQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-03T17:06:07+00:00",
-     "summary": "Some Voters are Facing a Rainy Election Day&nbsp;&nbsp;The New York Times",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-03T17:57:32.241893+00:00",
+   "fetched_at": "2026-11-03T17:57:57.955075+00:00",
    "stale": false,
    "items": [
     {
