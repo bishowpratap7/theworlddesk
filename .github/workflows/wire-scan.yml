@@ -7,6 +7,8 @@ on:
   schedule:
     - cron: "18,48 * * * *"
   workflow_dispatch:
+  push:
+    branches: [pinger]
 
 permissions:
   contents: write
@@ -22,6 +24,8 @@ jobs:
     steps:
       - name: Check out the site repo
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -46,7 +50,7 @@ jobs:
           fi
           echo "changed=true" >> "$GITHUB_OUTPUT"
           git commit -m "Wire update $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+          git push origin HEAD:main
 
       - name: Ping IndexNow
         if: steps.commit.outputs.changed == 'true'
