@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T12:24:22.421311+00:00",
+ "generated_at": "2026-11-03T12:26:45.343217+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-03T12:24:22.421243+00:00",
+   "fetched_at": "2026-11-03T12:26:45.343175+00:00",
    "stale": false,
    "items": [
     {
@@ -120,9 +120,17 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-03T12:24:22.421280+00:00",
+   "fetched_at": "2026-11-03T12:26:45.343190+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFhlcUtjbWRJa2V2VDZNNDRNVDVuYWRfd3B0b1VYMHBiRF9qX2lQOThKbDRXM3dHckxFZkNVemU3RHNxRXhyb0NBclJwQWJYUkM5Rmc1SVBwX3NvSFdJbnZUOGpWRnJNdHpDb0hTOUM0eENVSy14UTVEdUNHM2pVVk9SWGJnUGtHV1RHR3hGUjBTRlZRNkNsRFBJdWd4UFBu0gGmAUFVX3lxTE0wQUMyVzRrUGdyd1R6VExqeExKT2w2RlhoS0pPVDVjZUhBVnc1aXJjVWktYlpza01vaGdDSWNVeml6dlV0b0lnTEJ6MHlrZkI4ZW9kUzlkcGJKVjlNSlB6TDhKdUVyUTYweUFRR1FUc2YtRUtMVHdQSFVsaC1aLWJ4dDhFLXlTU2htUlJqWE9BaWNiSzVXRU9wSldVVEx3QzlIVy1jV1E?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T12:13:38+00:00",
+     "summary": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
     {
      "title": "US strikes Iran's Qeshm Island as midterm elections start",
      "url": "https://www.france24.com/en/us-strikes-iran-s-qeshm-island-as-midterm-elections-start",
@@ -148,6 +156,22 @@
      "image": "https://s.france24.com/media/display/afe44278-d77c-11f1-bdcf-d18c5759e759/w:1024/p:16x9/capture-0fbd1c25.jpg"
     },
     {
+     "title": "Lavrov says EU calls for Ukraine ceasefire seek to give Kyiv \u2018breather to restore combat potential\u2019",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdENGbWpVWlRFXzNqZVF4UFE0OWRXTWtmUE8wMHA5ai02cUZMUndLU0N6TE1pMmFaVm5JUzc1X3Ixd1pnZnc5enpCNkk3LXV5eHhzRm9OeXNrTjRWYjRMVnlYOEh0VmUyUnhOS20yLTk1TmlDS1lpcUFZdjUzVnU0bGRLeVFfYUNRTGZHZWd6NXVGMnNzOVd1M1lLUGw1WFdoMWVxcmZhSGdpakxTWmhTTmo1ZF9RT3RUT2cxdi1QYkJMNHpFX0l3LVBZT0RxdkRrUmJGMUk1d2tjb2xBcExvMXRqRmQ?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-03T11:42:20+00:00",
+     "summary": "Lavrov says EU calls for Ukraine ceasefire seek to give Kyiv \u2018breather to restore combat potential\u2019&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "UNICEF warns of worsening threats to children's education, safety in Ukraine, Myanmar",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnFzNV92dVFRMUwxQ0RBNDd1R2g1QUMtbXVvcTNlNHZnYjBjZmhNaThRRnZEVnZTYVFJSjBKbmRLYWs3WllMLU9hdlcwUlUyb0NiVjhSdDI0RXlvTTFhcm1UTEZNZF9lSzhTQ2pFaUxwMjF0NmxtYzJlMHpINEZUUW5nUzE5V01DVzBUbWhmSmVnVXFpcXB3M1AyTGU4VmRQOXRzRG14SnpxNG5uTXZTcEFwQ0ZoOXIt?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-03T11:42:20+00:00",
+     "summary": "UNICEF warns of worsening threats to children's education, safety in Ukraine, Myanmar&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
      "title": "US strikes Iranian island ahead of midterm elections",
      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -156,11 +180,35 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg"
     },
     {
+     "title": "Camouflaged Russian Msta-S Knocked Out by Ukraine\u2019s Achilles Brigade",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFNHcHZWWXNiVjk3S1l3Z1Ywc2h5RmROXzZKdjNzcDZDSndjSk5DRlZBQzIxbG84WUxiOFVMUnpJY0xiVWtWczRCN29XLVM5X25XaUROcVJTUEFuOGtFMWJldWphemVVYXZLNGRLT0lUcDZ0aWlFcXA5el9PeWFkb2tlT1JIa19kTEdRZjVOdDdjb0JGQzhaNW40QnZhOUotVGtlU0ZTTzNacEgwUHpXQTVGN3o?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-03T11:23:10+00:00",
+     "summary": "Camouflaged Russian Msta-S Knocked Out by Ukraine\u2019s Achilles Brigade&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Ukraine ceasefire enables families to reunite before drones start up again",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmttazFySjdiZXBVcWhleW82c05zOWJXTW92QzZYLUhBM18wMFJlUGNkWWpoelhKMDJVSDRsRmJPNjRCei1CZHJJR3lXRnFzTWZyMzM0Ynh3Qm5jZnl4YTMzdkFfaVJTYVhzMW1Wdm9IalNrVmprdkZlVjA0X0s4SVl1V21EdEstblR0R2pRclJlbVFUNFNvYUpfWV8tLWhrOFBCYlBZRGlvdw?oc=5",
+     "source": "Aleteia EN",
+     "published": "2026-11-03T11:18:48+00:00",
+     "summary": "Ukraine ceasefire enables families to reunite before drones start up again&nbsp;&nbsp;Aleteia EN",
+     "image": ""
+    },
+    {
+     "title": "U.S. to mediate Ukraine-Russia talks aimed at brokering \"next steps toward peace,\" U.S. envoy Witkoff says",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OamptYjliRXBJdHBuUWwxMDluSXJGY3ZrSjd1c3VFZG9ELTh0OFlUa0tjS192ZUMzb3JtakZMb1NqOFBpenFVR1pGVTNDSGZaRVljWThvVllXdjlUdzRrd1BDTnhVNkVDZHBMTzRkQVo0Z0ItQ3pwamdRRGM?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-03T11:16:18+00:00",
+     "summary": "U.S. to mediate Ukraine-Russia talks aimed at brokering \"next steps toward peace,\" U.S. envoy Witkoff says&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
+    {
      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-     "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KZVhsZ3BzZmM0STNOWllabDNURkFSNnctM0l6MkFmUFRHZW11RzI0TzB5bnZDbXlnTWYyTWc1OEQ4a0VQNktCNUl3RVdZc21rWk1xS0Z0UlhVTklyX3NoUC1YdC1SZnRrbS1ybEtR?oc=5",
      "source": "NPR",
      "published": "2026-11-03T11:01:14+00:00",
-     "summary": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided wit",
+     "summary": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing&nbsp;&nbsp;NPR",
      "image": ""
     },
     {
@@ -170,59 +218,11 @@
      "published": "2026-11-03T10:58:38+00:00",
      "summary": "The death toll from a Russian attack in southern Ukraine on a site where people had gathered to receive humanitarian aid rose to 29 on Tuesday, with 48 still missing, as a wave of ",
      "image": "https://s.france24.com/media/display/1693306a-d773-11f1-8e56-bf1914cabd52/w:1024/p:16x9/EN-20261103-102136-102456-CS.jpg"
-    },
-    {
-     "title": "\u2018I am deeply sorry\u2019: Craig Silvey pens 9,000-word apology for child exploitation material offences",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-for-child-exploitation-material-offences-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-03T10:47:41+00:00",
-     "summary": "The children\u2019s author claims he experienced trauma in childhood as he begins seven-month sentence for possessing depraved materialWarning: This article contains graphic contentGet ",
-     "image": "https://i.guim.co.uk/img/media/0cf89741bcf58a24b644749ab1f9074f9a6b949b/124_0_1433_1146/master/1433.jpg?width=140&quality=85&auto=format&fit=max&s=c444db33f8945690d269d1c91994f768"
-    },
-    {
-     "title": "Unclear what comes next as US strikes Iranian island in the Strait of Hormuz",
-     "url": "https://www.france24.com/en/video/20261103-unclear-what-comes-next-as-us-strikes-iranian-island-in-the-strait-of-hormuz",
-     "source": "France 24",
-     "published": "2026-11-03T10:47:37+00:00",
-     "summary": "The United States on Monday attacked Iran's Qeshm Island, the Wall Street Journal reported, even as President Donald Trump signaled progress in negotiations with Tehran to end the ",
-     "image": "https://s.france24.com/media/display/7272c7de-d772-11f1-8809-bf1914cabd52/w:1024/p:16x9/EN-20261103-101041-101201-CS.jpg"
-    },
-    {
-     "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-     "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T10:40:34+00:00",
-     "summary": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
-     "image": ""
-    },
-    {
-     "title": "US conducts series of \u2018defensive strikes\u2019 against Iran",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T10:39:36+00:00",
-     "summary": "The US has carried out a series of \u2018defensive strikes\u2019 on Iranian locations near Hormuz, with explosions heard on Qeshm.",
-     "image": ""
-    },
-    {
-     "title": "Russia bombs aid centre and shelter in Ukraine, killing at least 29 people",
-     "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-     "source": "The Guardian",
-     "published": "2026-11-03T10:37:57+00:00",
-     "summary": "Volodymyr Zelenskyy says attack in Komyshuvakha was \u2018vile\u2019 and shows Putin does not want to de-escalateRussia has bombed an aid distribution centre and neighbouring shelter in sout",
-     "image": "https://i.guim.co.uk/img/media/436bce2007dc08d0bcfdb3fe1f57b9790f46f3a1/213_0_3774_3019/master/3774.jpg?width=140&quality=85&auto=format&fit=max&s=3f8efb8327129f011f6c0a3cb6ed0f5a"
-    },
-    {
-     "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-     "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T10:29:56+00:00",
-     "summary": "Sudan demands UN accountability after devastating drone attacks expose a complex regional crisis.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-03T12:24:22.421290+00:00",
+   "fetched_at": "2026-11-03T12:26:45.343194+00:00",
    "stale": false,
    "items": [
     {
@@ -232,6 +232,22 @@
      "published": "2026-11-03T12:13:50+00:00",
      "summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump\u2019s second termSign up for the Breaking News US emai",
      "image": "https://i.guim.co.uk/img/media/210edea69d6da127f4ca539fe823e9d3c0d5b1d9/98_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=01c8ed270efa4ea4a02e2e5dcea32c29"
+    },
+    {
+     "title": "It\u2019s Election Day. Here\u2019s what we\u2019re keeping an eye on in North Texas",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2tnQVB3TmcycDZMRDBpZFQxZVU1NGc4di1QMEFzVU1hUGVJUTFheXg1eWNncTJGM3FZTFhSVlFTUVgyZGFiemZ2blBKcGdkVkgyYmpTMVRUeG9fZTFwSWt2YkxtVVJsNTRTNjkwakV6YWRpWmlHV1lmYVhDVUY2WU80ejRodTBETUd1WExZOVZHNVRhMkJQWTJpVkJ1RWc?oc=5",
+     "source": "www.kera.org",
+     "published": "2026-11-03T12:13:43+00:00",
+     "summary": "It\u2019s Election Day. Here\u2019s what we\u2019re keeping an eye on in North Texas&nbsp;&nbsp;www.kera.org",
+     "image": ""
+    },
+    {
+     "title": "2026 elections: Track results for Tuolumne County races, measures here",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLXNrdVRzbUVzT2FTb21iTFBOQzMwSEM4TGRBVEFVZENUXzdNMDZ2QmI0UUJ1TUQxQnRITXh5REl3dzJIaF9GZWJsNmlTN1BpeW9FU2phT1gybGxyQmRjYVlIek1NeFI4ZlJkSndUMUV0T1JBRGxNQlZXb1pqa0VuUg?oc=5",
+     "source": "KCRA",
+     "published": "2026-11-03T12:11:07+00:00",
+     "summary": "2026 elections: Track results for Tuolumne County races, measures here&nbsp;&nbsp;KCRA",
+     "image": ""
     },
     {
      "title": "First Thing: US goes to polls in vote that will define the last years of Trump\u2019s presidency",
@@ -250,81 +266,65 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/951d/live/fb246e50-d76a-11f1-a956-ff083523ef77.jpg"
     },
     {
-     "title": "French schools blockade resume on smaller scale as holidays end",
-     "url": "https://www.france24.com/en/video/20261103-french-schools-blockade-resume-on-smaller-scale-as-holidays-end",
-     "source": "France 24",
-     "published": "2026-11-03T12:01:02+00:00",
-     "summary": "Students blockaded dozens of high schools across France on Tuesday to maintain pressure on the government over education reforms as trade unions prepared for a nationwide strike la",
-     "image": "https://s.france24.com/media/display/6dc43350-d775-11f1-9032-d18c5759e759/w:1024/p:16x9/capture-5c543cf4.jpg"
-    },
-    {
-     "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-     "url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-     "source": "NPR",
-     "published": "2026-11-03T11:43:49+00:00",
-     "summary": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder",
+     "title": "It\u2019s Election Day: Here\u2019s why 12 election monitors are in Utah",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnFuTnhkekRoRUkyYVNqRE5vZXlSRzJKM3pYQy1tRnl2d25jeDdSUENPeHJGU3dWZmxxYzJqMjNVNzI4cUY5dW0zMW5pSkNOZ0hmdkV1Y2VYS2RoeDFGUWNVU0FHWXN5S3FVSWc1a2tlWE8wU2xjMmZqMkRsM2k2UDVNWjBiYkw1dUNkVlVSaUVydWJTTW9uNEFUdw?oc=5",
+     "source": "Utah News Dispatch",
+     "published": "2026-11-03T12:07:56+00:00",
+     "summary": "It\u2019s Election Day: Here\u2019s why 12 election monitors are in Utah&nbsp;&nbsp;Utah News Dispatch",
      "image": ""
     },
     {
-     "title": "Burnham says he has not proposed return to EU freedom of movement \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-03T11:43:46+00:00",
-     "summary": "The prime minister wants an \u2018honest discussion\u2019 about how immigration has changed since Brexit Q: Do you think the UK should reconsider Commonwealth membership, given other countri",
-     "image": "https://i.guim.co.uk/img/media/31d906d61c644f90b9198f93f7a23485f7abc703/356_73_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=6f08fc57b7e275b506edb29493ea4550"
-    },
-    {
-     "title": "South Africans demand security and basic services as they vote in local elections",
-     "url": "https://www.france24.com/en/video/20261103-south-africans-demand-security-and-basic-services-as-they-vote-in-local-elections",
-     "source": "France 24",
-     "published": "2026-11-03T11:39:25+00:00",
-     "summary": "High crime rates and a lack of basic services are causing concern among many of South Africa\u2019s 29 million registered voters. Water shortages and unreliable electricity supplies hav",
-     "image": "https://s.france24.com/media/display/1a578556-d76f-11f1-9761-bf1914cabd52/w:1024/p:16x9/capture-88604f9b.jpg"
-    },
-    {
-     "title": "US midterm elections: Food stamp crisis a key campaign issue in Arizona",
-     "url": "https://www.france24.com/en/tv-shows/focus/20261103-us-midterm-elections-food-stamp-crisis-a-key-campaign-issue-in-arizona",
-     "source": "France 24",
-     "published": "2026-11-03T11:35:06+00:00",
-     "summary": "Arizona, a battleground state in the US midterm elections, is at the centre of a sweeping overhaul of America's social safety net. Since US President Donald Trump's tax and spendin",
-     "image": "https://s.france24.com/media/display/1009890e-d77a-11f1-bf3b-695cb59fade5/w:1024/p:16x9/capture-2b89cc2f.jpg"
-    },
-    {
-     "title": "Polls open in closely contested US midterm elections 2026",
-     "url": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T11:27:14+00:00",
-     "summary": "Democrats are eyeing historic gains in the US Congress that could change the trajectory of the country.",
+     "title": "Election Day Live Updates: Chicago Area Votes as Control of Congress in Play",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3VNVzJmNXBidGQyVDVkZVh5UXdlVGdjVlA4dUFEOXpZMElJNDcyd0RUSlgtLVZfNHNvNkVmeXNiaW9meG5fb2hFcEVFOG9nX0xHRXJPYXhheDRKRmpfRHZjcWd3U1JlaGdaREIzaUIwa2RMWGZpMmFIMGdVU2hvQmlFb2dZV1ZuWGt5U1RBSFFsaDNoT2tFLVR3Uk5ydjFZ?oc=5",
+     "source": "WTTW News",
+     "published": "2026-11-03T12:07:35+00:00",
+     "summary": "Election Day Live Updates: Chicago Area Votes as Control of Congress in Play&nbsp;&nbsp;WTTW News",
      "image": ""
     },
     {
-     "title": "Alaska Senate candidates trade accusations ahead of election",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T11:01:27+00:00",
-     "summary": "Alaska Senate candidates trade accusations ahead of election",
+     "title": "When and where to find November 2026 Oregon election results",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUEFLc25FaGZwOTEtb2xYcHdEMmpkYi1wRmNyMzV4RU9IcDlvU0NWeFVJT3YyTzlFZnpvaUFLUUZOMjVHcEE5Snh4NDEzYUhTcHdEZGVhaHdqU2ZVTEk0R1RYSlZlaDVnYURuNHZrNE1GUzF2RVdqZ3d2SUE1ak5RUGNhMnJvSy1OeGJMblZvTGVZaVNHS0N2Nk9wN2Y3TEI4ZWQ2QmRETENGN0tQSW15V0hlQkd5eDZxeE9NYlhCX2NQNWxwTUxjLUgtZ1lMZDdwOXpRTw?oc=5",
+     "source": "Statesman Journal",
+     "published": "2026-11-03T12:07:00+00:00",
+     "summary": "When and where to find November 2026 Oregon election results&nbsp;&nbsp;Statesman Journal",
      "image": ""
     },
     {
-     "title": "Americans to vote in US midterms: Trump's Republicans scramble to stop Democratic wave",
-     "url": "https://www.france24.com/en/video/20261103-americans-to-vote-in-us-midterms-trump-s-republicans-scramble-to-stop-democratic-wave",
-     "source": "France 24",
-     "published": "2026-11-03T10:56:17+00:00",
-     "summary": "Republicans made a final push to avoid a predicted thumping in the US midterm elections, as Democrats seek to win control of Congress. A Democratic-controlled House would impose th",
-     "image": "https://s.france24.com/media/display/56a7f5d4-d76c-11f1-a52a-1beafce15fea/w:1024/p:16x9/EN-20261103-100207-100329-CS.jpg"
+     "title": "How to track your Oregon ballot for November 2026 election",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0pyaDVNb3N1YjltRVNNRnFuX2xVeXV5a3Zfb3JUajhOejNLc1lCYTRXTTRGeVplNzdDZE9IY29qVVJTVEU5U2ZmWS1ENTN1UTBvQW1UQV9hZllKQUYzVTVObWo2LXR3NkhxeHBrLXBKWUpYX0k0SHQwdVFRSjU1ckRNeWNRNVB5VVdmdURHbWhsRl9CeUw3R3Q0R1VJRnZGZXJjTmM4eU5KeVJwYm1ad0tDTE9xbzhuZ0dFdEZHMjVvMHJweGtBb3lpQmF4cFVyamc?oc=5",
+     "source": "Statesman Journal",
+     "published": "2026-11-03T12:07:00+00:00",
+     "summary": "How to track your Oregon ballot for November 2026 election&nbsp;&nbsp;Statesman Journal",
+     "image": ""
     },
     {
-     "title": "'Hopefully we make history': El-Sayed fires up Michigan Democrats on eve of crucial US Senate race",
-     "url": "https://www.france24.com/en/video/20261103-hopefully-we-make-history-el-sayed-fires-up-michigan-democrats-on-eve-of-crucial-us-senate-race",
-     "source": "France 24",
-     "published": "2026-11-03T10:53:29+00:00",
-     "summary": "Abdul El-Sayed, the doctor vying for a crucial US Senate seat for the Democrats, made his closing pitch to Michigan voters at the Majestic Theatre in Detroit, in one of America's p",
-     "image": "https://s.france24.com/media/display/2d14c1ce-8ff1-11f1-be2c-005056bf30b7/w:1024/p:16x9/AP26216233591327.jpg"
+     "title": "See how Oregon's mail-in ballots are processed",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdHhSZVFMY0dmcFYwdFZLai15a1JJTXJtVHFEM0NwS0FzTE8tNWRZN0tHTWFrUU93QXc1ekhhR2hVWlpWdUpfODI0bW4teExjSnQ2cW4xbnFnM0tqbkxSYVF1blJlVExHS0lOU3BmOUcxeEQzYzhSQkUybUVLTkllb2VQbnRQZzBMR0lVYmM3amJzNkp4VGl5R0d3emg5cnJJQ2pCQm9NUHI4NkIyUDlrSzdLMEpwUkVKTDIwRl8wOVVWdDdYM2ROZm1TWE5UNWVwcnJzX1JjQ2hnSzFveUlsN1FrbFI?oc=5",
+     "source": "Statesman Journal",
+     "published": "2026-11-03T12:06:00+00:00",
+     "summary": "See how Oregon's mail-in ballots are processed&nbsp;&nbsp;Statesman Journal",
+     "image": ""
+    },
+    {
+     "title": "Nearly 1.3M ballots returned before Election Day in Oregon",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXk2eGFGNUFlUjExT25NZVJfNUlsUUw1X1JycXNmVkdKbjZSWHByRHpRb0lmVU8zcmdqeXFwSUE2bm9GVEhzbHdwQWo1Qk1RT1FpN2RfYktQNWdYZmd3OVdOU3psWG9Dcm5ZQXNCQzFLbXRNTzYzNjltUzlPdXpzS0JIaG0wdkg1enR0ZGlFdUlSVzkyWExlaTZodWVTVFpRRnlmRk5wVjFRTkhhcXFJV1R4eW5PaTlzSzVLZnpn?oc=5",
+     "source": "Statesman Journal",
+     "published": "2026-11-03T12:06:00+00:00",
+     "summary": "Nearly 1.3M ballots returned before Election Day in Oregon&nbsp;&nbsp;Statesman Journal",
+     "image": ""
+    },
+    {
+     "title": "A warm and humid Election Day",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oZGUyeDFWZkZXMWhoM0hTNDlMNkUyNHR1ZGNtNVZmMFlHN2U2WDhZczVieUI4dHpTdFpoSDd4RlJ5UlFLVDM2Mzdub2wyd3dERW1xZHBla3hrZ2VZVjZCc2VpZ2tUWHJJMS1oTtIBgAFBVV95cUxPVHNfUHpDR1NnT2p6WVFVZXc0cW1RdG5mMlpxUExjQVRILUhONXlwTHBZS3JnR3Mtdm9WVnFJNk9FUUJELVZ6SjJ1eW1DR05xRDB4QXlhRmpJV3RqeFZxcHlrdW56RFJGX0tJc1dGa3U3aUxfWkVYU2pEXy1VMmFSWA?oc=5",
+     "source": "FOX 8 Local First",
+     "published": "2026-11-03T12:06:00+00:00",
+     "summary": "A warm and humid Election Day&nbsp;&nbsp;FOX 8 Local First",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-03T12:24:22.421296+00:00",
+   "fetched_at": "2026-11-03T12:26:45.343196+00:00",
    "stale": false,
    "items": [
     {
