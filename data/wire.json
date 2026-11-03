@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T18:20:12.570386+00:00",
+ "generated_at": "2026-11-03T18:20:42.395535+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-03T18:20:12.570346+00:00",
+   "fetched_at": "2026-11-03T18:20:42.395494+00:00",
    "stale": false,
    "items": [
     {
@@ -120,15 +120,15 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-03T18:20:12.570362+00:00",
+   "fetched_at": "2026-11-03T18:20:42.395508+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Bread under fire: Pope Leo\u2019s envoy witnesses hunger in war-torn Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ05YSVgzVnVORG45cTNENm1YdXZKYVdHaHZSM2RtY0x6clJHT2NEb1YwQ0hGcUxsaEcwajFPbXl5QnVuUnJpZkVUSnBRMmd0YUFLeFgyUFZraE8xMzNmMmxGX0QtUTRiRXREMWFSdGlmb3hNeWFvS3dONmFaLW9OeHN3S3BLWDYwYzdFVnhCbEpkT2JmLV9Z?oc=5",
-     "source": "The Leaven Catholic Newspaper",
-     "published": "2026-11-03T18:08:32+00:00",
-     "summary": "Bread under fire: Pope Leo\u2019s envoy witnesses hunger in war-torn Ukraine&nbsp;&nbsp;The Leaven Catholic Newspaper",
+     "title": "Lukashenko: Ukraine War Will End Within Months",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmhiby1ZRTExbkhSbElLcTE3dE9nbVhNU0RuZkc4VGZiS1RLV3VHQlJlcEVid3hXbWF0MVVRYjRRcVBPM09SR1FqRlRCdmlyNEdpZjRBSEE5RlUwa0NaZTBTbmFyZjhjbF9HYWpNS0NkY0ppTUdzOWFJVGRRelpJMXpyWU82VS14OXNmTDFJdXVEczdrelo5dHMtMk5FNzDSAaQBQVVfeXFMTS04U2dsX3lzX3NsVmxaN3BtT2lFLUpsbEtsc2dhc2N4TlFhajdNV0JtX0dEYmJEbWFlelRUM2g3T01lZ2ZSV1diMkNiR1gwWTRLYVd0XzlLUjBKWS16V0RqbUh0VGNzWWgwSW1JNkVqMmVCZVBQdjJpMEtOVURfTEdhZjFOTnVSVmIwYmpTQXl4Q2F3bkNlMUpwTHVzcG45Z0QxTEc?oc=5",
+     "source": "Al Arabiya English",
+     "published": "2026-11-03T18:10:50+00:00",
+     "summary": "Lukashenko: Ukraine War Will End Within Months&nbsp;&nbsp;Al Arabiya English",
      "image": ""
     },
     {
@@ -222,17 +222,9 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-03T18:20:12.570367+00:00",
+   "fetched_at": "2026-11-03T18:20:42.395513+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Election Day and the Battle to Come",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZTZnakJUdlZ3VnlQM2tiNmJRcGtPUkpScHV5N043YlVJbDVGUGtOVFphNGF4MVB1VmhPRTlYeXZ0V1ljeEtqVzBqaUtJXzl4cTc0X2p5cG5GRHVjV0phQ0t3VlRmZHZRYTdZb1ZpTlNvMW5ZQ3BTOGVuVjNIRGtVZ2paOEIyYXV0R3NRNU96VHA1UE8xX0VWb1JESk1OTFJmSEZ6WE41U0U?oc=5",
-     "source": "Mother Jones",
-     "published": "2026-11-03T18:16:14+00:00",
-     "summary": "Election Day and the Battle to Come&nbsp;&nbsp;Mother Jones",
-     "image": ""
-    },
     {
      "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
@@ -240,14 +232,6 @@
      "published": "2026-11-03T18:06:33+00:00",
      "summary": "Voters are casting ballots across the US in a referendum on Donald Trump\u2019s agendaSign up for the Breaking News US emailWhat are the races to watch and why do they matter?Midterm el",
      "image": "https://i.guim.co.uk/img/media/210edea69d6da127f4ca539fe823e9d3c0d5b1d9/98_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=01c8ed270efa4ea4a02e2e5dcea32c29"
-    },
-    {
-     "title": "ICE arrests citizen of the Philippines for federal election fraud",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmxoMW9JclJPcHM1eWJaU2pKeG51ak85TnQ1TmtBYzNnampqeXhnQ2FHdjNELVg0Q1ZFeWpRZ2tsOG1CY0RJYkRjRjJMTzBIZGhBQUFyc0M3dTVEQk9USGRSQVJPdzBSTHpIVmMtWTdoNTNndGhtZVVLb2F4Z3l5OUU1NFA1T3Nsd2FHcHNLMm1qUQ?oc=5",
-     "source": "ICE | U.S. Immigration and Customs Enforcement (.gov)",
-     "published": "2026-11-03T18:02:11+00:00",
-     "summary": "ICE arrests citizen of the Philippines for federal election fraud&nbsp;&nbsp;ICE | U.S. Immigration and Customs Enforcement (.gov)",
-     "image": ""
     },
     {
      "title": "See latest 2026 midterm election results from Illinois",
@@ -298,14 +282,6 @@
      "image": ""
     },
     {
-     "title": "Jeffco Public Schools Ballot Issues 5A and 5B 2026 election results: Live updates",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlpoWjkzWnNhbzdxNXFUeUtUTVd4UzVHNVd6NldrSVlwU3c4NER3VDlzUWdHY0NqdG93eDJFOGs2NkZEUmdWMVdUdUtBd3dORllKeFVrOVpaTHdqLWRGNXJlRTNDem52S1hLY2Z2MGlZOXhvYWZ4Q2JJdnQ1MzZ0VVZJNWVzWGFEaWVKb3BnSTlZQ1Q3dHN4OW04bzNtUG0td2FQOFdhaTVsbmpvYUZEVHVKT0lqV0U?oc=5",
-     "source": "Chalkbeat",
-     "published": "2026-11-03T17:35:00+00:00",
-     "summary": "Jeffco Public Schools Ballot Issues 5A and 5B 2026 election results: Live updates&nbsp;&nbsp;Chalkbeat",
-     "image": ""
-    },
-    {
      "title": "Colorado State Board of Education 2026 election results: Live updates",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1JWQVgtT2d3VzM3TVZpcEVUZGZfZkNOZDI0bkFhaV8tamZ3MFhhbFpzSDQ4dldhVHVUZW80LXpDSGJyM1Jkb3d5Vl9tWmtGdm1DVEp4RHdHOVpmZmszUGN6OVdaQWFlU3phOHktbnNQQXcwbE1qd3NxYXpVWG5vNmhOZHl2TDZjTEFIU3lZWGs0bm1jU2F4YXJfM1I3bzJlc3ZsNw?oc=5",
      "source": "Chalkbeat",
@@ -314,17 +290,41 @@
      "image": ""
     },
     {
-     "title": "Denver Public Schools Ballot Issue 4A 2026 election results: Live updates",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXNCemhGODlYOWZJUGxKYXdxUnQySGF5MElqWS1IdGJaczJ5YlBVUHV6NVp1dC1JcUo0QmhfeGNlMjBndVNPVXVyZThPdFNwQm0yWWN0YUpTNmNrRzBXM1laaEZ5SEthYllXMWUxdXJhWTJleUNQMDhYWWwzdEozU29sMmFScENzUUIyRXBGTlFFVk4wN2JFX0hOWVRpdk9RQlRiLVhxczROYlMwd19QUzln?oc=5",
-     "source": "Chalkbeat",
-     "published": "2026-11-03T17:34:00+00:00",
-     "summary": "Denver Public Schools Ballot Issue 4A 2026 election results: Live updates&nbsp;&nbsp;Chalkbeat",
+     "title": "Election 2026: Live updates from Pa., Philly, New Jersey, Delaware",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaDFTekRUU0YzWndnVzItSk5IZmtpeE45Z3BkZzQ3Z2ZwZm5GSDJTSjRnUm5ubDhCdm1GbHpDR1pLZHZacElMNkNuOXZfclZSRWhqNEt1X0YzcVNPVmhJZmFvRFMzeWVYVmt0N0JkRS03MmVkWkNoRi01UU5kc1hYckNVaThiR3pSMjczbUk1Rmh0Wkp2dkE?oc=5",
+     "source": "WHYY",
+     "published": "2026-11-03T17:33:42+00:00",
+     "summary": "Election 2026: Live updates from Pa., Philly, New Jersey, Delaware&nbsp;&nbsp;WHYY",
      "image": ""
+    },
+    {
+     "title": "Angry voters in red America will swing the election",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2haMFNLWVhIQXJTUC14c0xjdWFGS3U1Q2pFYkJ1bTdXaHhQb3NwR19pQUpZWTJOanV4Ni15OXF4Skl1NzMxTW5sTDJEdEgyT3pyeEszYXJ5SGVzYVJRdTluVzZJbU90WThBb3Z0Sm1MV20wN2V0VHRJM2ZUek1TeGduTEcyZ0xYaWxrVG55Rk81T00zcldqZFNuX3VVaHdTb2FXd3VEU3Yydw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-03T17:32:07+00:00",
+     "summary": "Angry voters in red America will swing the election&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Federal election monitors present in three NC counties",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZk5tVDFJb1JsTzVWcE8tX3NXQnByeGtlNVU3ZlRjSFV5c1dLbzJlMjZDaXZsc3BMNTAwTkcwMGxBcGxRTG9yUjZoM1BKcEdJTlNQS2Y1LXJkemNnUG95TnVYZUZvampWSWtkcHNPR0cxcW01WWlPakJkNUZ4dG5tV3FNbVlfQ0FNYzl1N3R5QQ?oc=5",
+     "source": "WUNC News",
+     "published": "2026-11-03T17:31:00+00:00",
+     "summary": "Federal election monitors present in three NC counties&nbsp;&nbsp;WUNC News",
+     "image": ""
+    },
+    {
+     "title": "King tells Commonwealth leaders that Britain\u2019s role in slave trade was \u2018shameful\u2019 but stops short of apology \u2013 as it happened",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
+     "source": "The Guardian",
+     "published": "2026-11-03T17:30:19+00:00",
+     "summary": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeting (Chogm) in AntiguaQ: Do you think the UK should reconsider Commonwealth membership, given other c",
+     "image": "https://i.guim.co.uk/img/media/f61bc27a7893d6c0fe415e9ca2a45d6a8cfda54f/189_84_6141_4913/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=9934cacae4ff01ddf14b2d7fddc6149e"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-03T18:20:12.570369+00:00",
+   "fetched_at": "2026-11-03T18:20:42.395515+00:00",
    "stale": false,
    "items": [
     {
