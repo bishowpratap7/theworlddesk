@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T18:19:09.578008+00:00",
+ "generated_at": "2026-11-03T18:20:12.570386+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-03T18:19:09.577978+00:00",
+   "fetched_at": "2026-11-03T18:20:12.570346+00:00",
    "stale": false,
    "items": [
     {
@@ -70,14 +70,6 @@
      "image": "https://i.guim.co.uk/img/media/61e594b1210c01096b7fe42a61561df52b3fcece/447_0_4467_3574/master/4467.jpg?width=140&quality=85&auto=format&fit=max&s=3f1abd595e8abca05083f841de970b48"
     },
     {
-     "title": "France's dermatology crisis: Patients desperate for appointments",
-     "url": "https://www.france24.com/en/tv-shows/france-in-focus/20261103-france-s-dermatology-crisis-patients-desperate-for-appointments",
-     "source": "France 24",
-     "published": "2026-11-03T17:34:50+00:00",
-     "summary": "Around 200,000 cases of skin cancer are diagnosed in France every year. Yet as more and more patients seek medical advice, getting an appointment with a dermatologist is becoming i",
-     "image": "https://s.france24.com/media/display/0777416c-d79a-11f1-ba73-1beafce15fea/w:1024/p:16x9/CEF-6.jpg"
-    },
-    {
      "title": "Seven planes across Europe searched or diverted after \u2018malicious hoax\u2019 bomb threats",
      "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
      "source": "The Guardian",
@@ -94,14 +86,6 @@
      "image": "https://i.guim.co.uk/img/media/f61bc27a7893d6c0fe415e9ca2a45d6a8cfda54f/189_84_6141_4913/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=9934cacae4ff01ddf14b2d7fddc6149e"
     },
     {
-     "title": "Family wealth, Epstein, \u2018vanity projects\u2019: How Democrats plan to investigate Trump after midterms",
-     "url": "https://www.france24.com/en/americas/20261103-trump-family-wealth-epstein-vanity-projects-democrats-plan-to-investigate-after-midterms",
-     "source": "\u00a9 J. Scott Applewhite, AP",
-     "published": "2026-11-03T17:30:16+00:00",
-     "summary": "Democrats are preparing to launch a flurry of investigations into President Donald Trump\u2019s administration and business dealings if they retake one or both chambers of Congress, dev",
-     "image": "https://s.france24.com/media/display/cc781a30-d7a0-11f1-bb6c-1beafce15fea/w:1024/p:16x9/AP26057665262358.jpg"
-    },
-    {
      "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
      "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
      "source": "The Guardian",
@@ -116,11 +100,27 @@
      "published": "2026-11-03T17:26:02+00:00",
      "summary": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
      "image": ""
+    },
+    {
+     "title": "Russian strikes on Dnipro kill two, injure 20 others",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T17:24:08+00:00",
+     "summary": "Russian strikes on Dnipro damaged residential areas and several medical facilities.",
+     "image": ""
+    },
+    {
+     "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+     "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T17:22:45+00:00",
+     "summary": "Shrimpers worry about fuel costs, tariffs and Trump&#039;s proposed cuts to the agency that provides vital weather data.",
+     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-03T18:19:09.577993+00:00",
+   "fetched_at": "2026-11-03T18:20:12.570362+00:00",
    "stale": false,
    "items": [
     {
@@ -204,25 +204,25 @@
      "image": "https://i.guim.co.uk/img/media/60b8ee8c7578d9966d060062362646a8be71b3ad/225_0_2339_1872/master/2339.jpg?width=140&quality=85&auto=format&fit=max&s=03ec41256beb29a0268c0a565964ade0"
     },
     {
-     "title": "Russian households face increasing financial strain as war in Ukraine drags on",
-     "url": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
-     "source": "France 24",
-     "published": "2026-11-03T17:05:54+00:00",
-     "summary": "As Moscow continues to launch strikes across Ukraine, Russian citizens are facing increasing financial strain. Since the start of the war in 2022, utility bills in Russia have rise",
-     "image": "https://s.france24.com/media/display/aee025ec-d7a7-11f1-8d0d-1beafce15fea/w:1024/p:16x9/capture-69532ec1.jpg"
-    },
-    {
      "title": "APTOPIX Russia Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTm1nZ0k5eHZDdVQ3QTM1d0VUZFlRZTRhWnFEWDltaDVaX2VJSDRWcmgxUWFCUjVYc19Mai1vUkJWUzd3LUtBLVRvaHpBMktCMlNrckpiSWsyRUdaVkFfbnVDRk1MbGZjTTRMb3JfVXpkbExvVnU5b3J6bG90eTlnU3JhVWJjWlpNeThYYVJDNUpsNDdBZUFwcVM4Y3NHTzN5RXVIMXFLTXBYdnlUem9jaVk1NlJCQ1B0VENITlFtTVFCQ1pJSFB3?oc=5",
      "source": "dailyrecordnews.com",
      "published": "2026-11-03T17:05:26+00:00",
      "summary": "APTOPIX Russia Ukraine War&nbsp;&nbsp;dailyrecordnews.com",
      "image": ""
+    },
+    {
+     "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+     "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T17:03:24+00:00",
+     "summary": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
+     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-03T18:19:09.577997+00:00",
+   "fetched_at": "2026-11-03T18:20:12.570367+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-03T18:19:09.578000+00:00",
+   "fetched_at": "2026-11-03T18:20:12.570369+00:00",
    "stale": false,
    "items": [
     {
