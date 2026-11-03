@@ -4,8 +4,6 @@ name: World Desk Wire Scan
 # GitHub cron uses UTC. Two slots per hour (:18 and :48): GitHub is known to
 # delay or drop individual scheduled runs, so a dropped slot costs ~30 min.
 on:
-  schedule:
-    - cron: "18,48 * * * *"
   workflow_dispatch:
   push:
     branches: [pinger]

@@ -1,0 +1,86 @@
+name: World Desk Loop Scan
+
+# Self-perpetuating loop that lives entirely in GitHub Actions.
+# One job scans, sleeps, and rescans for ~5.5 hours, then dispatches its own
+# successor before GitHub's 6-hour job limit kills it - an endless relay.
+# The hourly schedule below is only a backup starter in case a handoff ever
+# fails (GitHub's scheduler is flaky; a missed hour just delays a restart).
+# Concurrency keeps exactly one loop running, with at most one queued.
+on:
+  workflow_dispatch:
+    inputs:
+      iterations:
+        description: "Scans per loop job"
+        required: false
+        default: "11"
+      sleep_seconds:
+        description: "Sleep between scans (seconds)"
+        required: false
+        default: "1800"
+  schedule:
+    - cron: "37 * * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: world-desk-loop
+  cancel-in-progress: false
+
+jobs:
+  loop:
+    name: Loop-scan the feeds and keep the page fresh
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      ITERATIONS: ${{ inputs.iterations || '11' }}
+      SLEEP_SECONDS: ${{ inputs.sleep_seconds || '1800' }}
+    steps:
+      - name: Check out the site repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Loop - scan, commit, sleep, repeat
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for i in $(seq 1 "$ITERATIONS"); do
+            echo "::group::Scan $i of $ITERATIONS - $(date -u +%H:%M:%SZ)"
+            python3 tools/scan.py || echo "scan.py reported an error; continuing the loop"
+            git add data/wire.json index.html feed.xml sitemap.xml
+            if git diff --cached --quiet; then
+              echo "No changes this round."
+            else
+              git commit -m "Wire update $(date -u +%Y-%m-%dT%H:%MZ)"
+              pushed=0
+              for try in 1 2 3; do
+                if git push origin HEAD:main; then pushed=1; break; fi
+                echo "Push rejected (attempt $try); rebasing onto latest main and retrying"
+                git pull --rebase origin main || true
+              done
+              if [ "$pushed" = "1" ] && [ -f "cb8e34963ecd47266ddc3f7eca4e5b00.txt" ]; then
+                KEY=$(tr -d '\r\n' < "cb8e34963ecd47266ddc3f7eca4e5b00.txt")
+                curl -s --max-time 20 "https://api.indexnow.org/indexnow?url=https%3A%2F%2Fbishowpratap7.github.io%2Ftheworlddesk%2F&key=${KEY}" >/dev/null || true
+              fi
+            fi
+            echo "::endgroup::"
+            if [ "$i" -lt "$ITERATIONS" ]; then
+              echo "Sleeping $SLEEP_SECONDS seconds before the next scan"
+              sleep "$SLEEP_SECONDS"
+            fi
+          done
+
+      - name: Hand off to the next loop
+        if: success() || failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run loop-scan.yml --ref main
