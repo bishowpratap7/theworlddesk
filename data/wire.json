@@ -1,49 +1,89 @@
 {
- "generated_at": "2026-11-04T04:52:41.551317+00:00",
+ "generated_at": "2026-11-04T05:22:45.579718+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-04T04:52:41.551288+00:00",
+   "fetched_at": "2026-11-04T05:22:45.579689+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Republicans suffer stunning defeat as voters deliver verdict on Trump agenda",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-voters-republican-democrats-trump-second-term",
-     "source": "The Guardian",
-     "published": "2026-11-04T04:45:00+00:00",
-     "summary": "After campaign blitz and urging voters to pretend he was on the ballot, president claims Republicans \u2018would have won in a landslide\u2019 if he had beenUS midterms 2026 live \u2013 latest up",
-     "image": "https://i.guim.co.uk/img/media/023f69a6ffd36ab865e11fb6600a253e2541db33/0_0_4393_3515/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=1fa3261d0099503fd8968d090275b93f"
+     "title": "US midterms: \"Keeping our fingers crossed\" (Leila Meresman)",
+     "url": "https://www.france24.com/en/video/20261104-us-midterms-keeping-our-fingers-crossed-leila-meresman",
+     "source": "France 24",
+     "published": "2026-11-04T05:15:46+00:00",
+     "summary": "Democrats who once saw the political map as an almost impossible lift are now hopeful that a Senate majority is within reach, even though their path runs through several more conse",
+     "image": "https://s.france24.com/media/display/1609c5de-d807-11f1-b309-bf1914cabd52/w:1024/p:16x9/EN-20261104-041245-042303-CS.jpg"
     },
     {
      "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
      "source": "The Guardian",
-     "published": "2026-11-04T04:44:25+00:00",
-     "summary": "James Talarico defeats Trump loyalist Ken Paxton; Sherrod Brown defeats incumbent John Husted; Trump says he will accept results in a dire night for RepublicansTrack live results f",
+     "published": "2026-11-04T05:14:50+00:00",
+     "summary": "Democrats flip seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; Trump says he will accept results in a dire night for RepublicansTrack live results from all 5",
      "image": "https://i.guim.co.uk/img/media/2caf8037204f882b7aa19cde62094ae5685774af/620_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=849ad19e43978aeeab54115deaadd5de"
+    },
+    {
+     "title": "Democrats claim staggering victories in districts gerrymandered to favor Republicans across the US",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-florida-wins-redistricting",
+     "source": "The Guardian",
+     "published": "2026-11-04T05:14:11+00:00",
+     "summary": "Mid-cycle redrawing of district boundaries, especially in states president won in 2024, did not yield results party was hoping forUS midterm elections \u2013 live updatesTrack live resu",
+     "image": "https://i.guim.co.uk/img/media/679fc5a59ec6591167c53fc59f00780f2538bc24/530_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=f22e7dbaf3f6e59c16ae591980a6b3ff"
+    },
+    {
+     "title": "US midterms: Democrats celebrate early victories at a watch party in Los Angeles",
+     "url": "https://www.france24.com/en/video/20261104-us-midterms-democrats-celebrate-early-victories-at-a-watch-party-in-los-angeles",
+     "source": "France 24",
+     "published": "2026-11-04T05:12:37+00:00",
+     "summary": "Our correspondent Wassim Cornet reports from a Democratic watch party in Los Angeles where \"people are opening bottles of champagne\" following the Democrats' first victories in the",
+     "image": "https://s.france24.com/media/display/cdedb0e0-d805-11f1-8606-a575454bc579/w:1024/p:16x9/EN-20261104-040106-041156-CS.jpg"
     },
     {
      "title": "Democrats win control of Senate as US voters reject Trump\u2019s agenda",
      "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump",
      "source": "The Guardian",
-     "published": "2026-11-04T04:42:27+00:00",
-     "summary": "Republicans routed as Democrats gain powerful new leverage over Trump for remainder of his presidencyUS midterm elections \u2013 live updatesTrack live results from all 50 statesDemocra",
+     "published": "2026-11-04T05:03:41+00:00",
+     "summary": "Republicans routed as Democrats gain powerful new leverage over Trump for remainder of his presidencyUS midterm elections \u2013 live updatesTrack live results from all 50 statesTell us",
      "image": "https://i.guim.co.uk/img/media/21aee7a770d02a6ce06c2ce0e5f3cc68b71a10f0/0_0_4710_3768/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=c54257174cbe35e6b9e9e18c77838e63"
+    },
+    {
+     "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+     "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
+     "source": "The Guardian",
+     "published": "2026-11-04T05:00:25+00:00",
+     "summary": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absenceThe UK has apologised to Ukrainian child refugees ",
+     "image": "https://i.guim.co.uk/img/media/b8b0aec11536af2c3c7b7cf86a5da84b4af00125/454_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=74b474865059c12e3680ed91f940a352"
+    },
+    {
+     "title": "Trump and Republicans trampled in the midterms",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T04:47:55+00:00",
+     "summary": "Al Jazeera\u2019s Alan Fisher says Republicans are facing a worse-than-expected midterm performance.",
+     "image": ""
+    },
+    {
+     "title": "Republicans suffer stunning defeat as voters deliver verdict on Trump agenda",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-voters-republican-democrats-trump-second-term",
+     "source": "The Guardian",
+     "published": "2026-11-04T04:45:09+00:00",
+     "summary": "After campaign blitz and urging voters to pretend he was on the ballot, president claims Republicans \u2018would have won in a landslide\u2019 if he had beenUS midterms 2026 live \u2013 latest up",
+     "image": "https://i.guim.co.uk/img/media/023f69a6ffd36ab865e11fb6600a253e2541db33/0_0_4393_3515/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=1fa3261d0099503fd8968d090275b93f"
     },
     {
      "title": "James Talarico wins Texas Senate race in historic victory for Democrats",
      "url": "https://www.theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate",
      "source": "The Guardian",
      "published": "2026-11-04T04:41:37+00:00",
-     "summary": "Ken Paxton\u2019s defeat a crushing blow to Trump and Republican efforts to keep control of CongressUS midterm elections \u2013 live updatesTrack live results from all 50 statesDemocrat Jame",
+     "summary": "Ken Paxton\u2019s defeat a crushing blow to Trump and Republican efforts to keep control of CongressUS midterm elections \u2013 live updatesTrack live results from all 50 statesTell us: what",
      "image": "https://i.guim.co.uk/img/media/946b580c4063a322bc795dfb0da867e05bd7ed11/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=91ade55099cf1a2d932346be355db26c"
     },
     {
-     "title": "Amy Acton wins Ohio race for governor, ending 16 years of Republican control of office",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/ohio-governor-amy-acton-vivek-ramaswamy",
-     "source": "The Guardian",
-     "published": "2026-11-04T04:40:46+00:00",
-     "summary": "Democratic doctor wins over Vivek Ramaswamy, the biotech entrepreneur endorsed by Donald TrumpUS midterm elections \u2013 live updatesTrack live results from all 50 statesDemocrat Amy A",
-     "image": "https://i.guim.co.uk/img/media/9a8d502cc0112cf3cd26294d0656c2db7b009637/1144_0_2856_2284/master/2856.jpg?width=140&quality=85&auto=format&fit=max&s=09d89599d9310de2d7c87d88c86fce10"
+     "title": "Iran says US reply to Hormuz plan \u2018unconvincing\u2019; Trump confirms strikes",
+     "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T04:39:31+00:00",
+     "summary": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
+     "image": ""
     },
     {
      "title": "Aukus is \u2018worst, riskiest and most costly\u2019 Australian defence decision ever, public inquiry into submarine deal says",
@@ -62,74 +102,66 @@
      "image": ""
     },
     {
+     "title": "Kansas elects first Democratic senator in almost a century",
+     "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T04:37:12+00:00",
+     "summary": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
+     "image": ""
+    },
+    {
      "title": "Democratic Party flips US Senate in 2026 midterm elections",
      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-04T04:37:05+00:00",
      "summary": "The outcome is widely seen as a rebuke to Trump&#039;s Republican Party which took control of the upper chamber in 2024 race.",
      "image": ""
-    },
-    {
-     "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor\u2019s race",
-     "url": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T04:25:54+00:00",
-     "summary": "Acton is the first Democrat to become governor of Ohio since 2006.",
-     "image": ""
-    },
-    {
-     "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
-     "url": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T04:19:14+00:00",
-     "summary": "More than $500m was spent on the contest, making it one of the most expensive Senate races in US history.",
-     "image": ""
-    },
-    {
-     "title": "\ud83d\udd34 Midterms live: Texas, Ohio, North and South Carolina... Democrats have already flipped 4 Senate seats",
-     "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-     "source": "France 24",
-     "published": "2026-11-04T04:18:53+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-04T04:10:03+00:00",
-     "summary": "Police also allege Torquay man was attacked with a \u2018blunt weapon\u2019 rather than a baseball bat as originally reportedGet our breaking news email, free app or daily news podcastAn all",
-     "image": "https://i.guim.co.uk/img/media/40e81fe853927f8afaddf6bbf8b776bbd6d5f851/14_0_2461_1970/master/2461.jpg?width=140&quality=85&auto=format&fit=max&s=8e1583eaa24747d03c12f1a914568a06"
-    },
-    {
-     "title": "Talarico wins Texas Senate race, ending decades of Republican dominance",
-     "url": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T04:03:41+00:00",
-     "summary": "This is a breaking news story.",
-     "image": ""
-    },
-    {
-     "title": "ANC faces anger over poor services as South Africans vote in local elections",
-     "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-     "source": "The Guardian",
-     "published": "2026-11-04T04:00:23+00:00",
-     "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cutsThe African National Congress is on course for a bruising result in South Afri",
-     "image": "https://i.guim.co.uk/img/media/ab849d0dfce7fca0440c040983efe4e27460cf1e/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=d1afb9ab291e0f9db2fa068014f10740"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-04T04:52:41.551302+00:00",
+   "fetched_at": "2026-11-04T05:22:45.579703+00:00",
    "stale": false,
    "items": [
     {
      "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
      "source": "The Guardian",
-     "published": "2026-11-04T04:44:25+00:00",
-     "summary": "James Talarico defeats Trump loyalist Ken Paxton; Sherrod Brown defeats incumbent John Husted; Trump says he will accept results in a dire night for RepublicansTrack live results f",
+     "published": "2026-11-04T05:14:50+00:00",
+     "summary": "Democrats flip seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; Trump says he will accept results in a dire night for RepublicansTrack live results from all 5",
      "image": "https://i.guim.co.uk/img/media/2caf8037204f882b7aa19cde62094ae5685774af/620_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=849ad19e43978aeeab54115deaadd5de"
+    },
+    {
+     "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+     "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
+     "source": "The Guardian",
+     "published": "2026-11-04T05:00:25+00:00",
+     "summary": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absenceThe UK has apologised to Ukrainian child refugees ",
+     "image": "https://i.guim.co.uk/img/media/b8b0aec11536af2c3c7b7cf86a5da84b4af00125/454_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=74b474865059c12e3680ed91f940a352"
+    },
+    {
+     "title": "Iran says US reply to Hormuz plan \u2018unconvincing\u2019; Trump confirms strikes",
+     "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T04:39:31+00:00",
+     "summary": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
+     "image": ""
+    },
+    {
+     "title": "Kansas elects first Democratic senator in almost a century",
+     "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T04:37:12+00:00",
+     "summary": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
+     "image": ""
+    },
+    {
+     "title": "Russian Offensive Campaign Assessment, November 3, 2026",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmpNdUpVV29tcE9CNkxzb3cxcFBvOVpGSDl0MllGX3FXN0pqY0NyWmw2RDhaWXVLampmb3lRa01TY0ZROWJxNWJCWHBvNTBTcGhvdEFGVTNHcmNfc1JCOVlqY3doTVV1YU9QaENEY3VXRHhPcGpnUzBJTU1QOUVSR3A4QkV4SVVqWHdFVWdEU1FOOGlUUzA5YzI2eDlCZ1lTeTdrS0hEUFhHeVU?oc=5",
+     "source": "Institute for the Study of War",
+     "published": "2026-11-04T04:09:57+00:00",
+     "summary": "Russian Offensive Campaign Assessment, November 3, 2026&nbsp;&nbsp;Institute for the Study of War",
+     "image": ""
     },
     {
      "title": "US: \"Even in places where the Democrats haven't won, the swing towards them has been significant\"",
@@ -175,7 +207,7 @@
      "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHlUZFVMYWpEOXAzb1dVNVhKOFJ3Wjh5MVZtVGNpV0M1X1U3UjlkbHNQRmFQcVZ1TG5Zc2NSQkJWbURydGpXeTJtMHgtWGV0bW9SWEdIbmM5V2lDSmhMTUNEbWJqYkdTbnBYRzdJU0wxS3NpdlRSVnVfSEw1ZmNYMGxDSlJzaUMzTGhZZmktcDhNd3p1YkZMTGgxTVFnMkpMbVlNWjB3ODMzV0UyN3dBSVQwZ3BJUWxx?oc=5",
      "source": "The Guardian",
-     "published": "2026-11-04T01:35:18+00:00",
+     "published": "2026-11-04T01:31:00+00:00",
      "summary": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war&nbsp;&nbsp;The Guardian",
      "image": ""
     },
@@ -186,84 +218,60 @@
      "published": "2026-11-04T01:13:49+00:00",
      "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
      "image": ""
-    },
-    {
-     "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzduNVhmUVVuYXh2YUp2MFFMSE15WHpVQ3ZJanJQTFhvdzEyU1E3cEI2QUdrdWhQWEFwbUVkaUM4MldGanJMNHlBQmZDNmVqRTBEZTlVMlk2dWpFVUN0WEk2Nko1OVJjZ2VMODVVN1JnUFJDMFd6UUFQc0drcHBHN3BTV3Q3UnNleVQ5X2h5U052bGZHNlpWZ01qNXo1SFRtMlZDVG9JaFI1TlBfSXFV?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-04T01:12:47+00:00",
-     "summary": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Ukrainians in Syracuse hope midterms bring change to war",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEdHeWVGNkZWY0tiVXp6Tkt2SU1wMm1xMmpuTFdhbmowQnRVcW1rWERkMGc0TVVXQ0JkTlU3UHQ1ZTYyN0FVT0Q4Wlh0RzA4RkdlS0lnYVZLYWoxbTdkU3lsU2lnN1FmWEVYbGF3Wld6QlJORDZNcHdIYzNvV3VxY0xRMDduTkVpOVJxRmNPU3dkblJUNnlUbWtIZV83Y1BxTlFrTFRzV0FFV3J1ZGc4S2NpeWRmVWJkbXc?oc=5",
-     "source": "Spectrum News",
-     "published": "2026-11-04T01:11:00+00:00",
-     "summary": "Ukrainians in Syracuse hope midterms bring change to war&nbsp;&nbsp;Spectrum News",
-     "image": ""
-    },
-    {
-     "title": "US to Mediate Russia-Ukraine Peace Talks in Abu Dhabi on November 10\u201311",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81M21LUVZxbmlfQlZXc2U2THlDVzZiOUI0QnFkem11c0l4QkZaZlpzTmdETFlrcjlORmdsbmFwZEhXcThNcGJTZ25jYzJwV0tWU0N0QzRsWXhuTnYyMXNEVnJ1eVhmdlE?oc=5",
-     "source": "\u5929\u4e0b\u96dc\u8a8c",
-     "published": "2026-11-04T00:51:03+00:00",
-     "summary": "US to Mediate Russia-Ukraine Peace Talks in Abu Dhabi on November 10\u201311&nbsp;&nbsp;\u5929\u4e0b\u96dc\u8a8c",
-     "image": ""
-    },
-    {
-     "title": "FBI arrests man for sending over 700 threatening letters to US officials",
-     "url": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T00:44:04+00:00",
-     "summary": "The suspect, an Oklahoma City man, is accused of mailing hoax letters with white powder and treason warnings.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-04T04:52:41.551306+00:00",
+   "fetched_at": "2026-11-04T05:22:45.579707+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Republicans suffer stunning defeat as voters deliver verdict on Trump agenda",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-voters-republican-democrats-trump-second-term",
-     "source": "The Guardian",
-     "published": "2026-11-04T04:45:00+00:00",
-     "summary": "After campaign blitz and urging voters to pretend he was on the ballot, president claims Republicans \u2018would have won in a landslide\u2019 if he had beenUS midterms 2026 live \u2013 latest up",
-     "image": "https://i.guim.co.uk/img/media/023f69a6ffd36ab865e11fb6600a253e2541db33/0_0_4393_3515/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=1fa3261d0099503fd8968d090275b93f"
+     "title": "US midterms: \"Keeping our fingers crossed\" (Leila Meresman)",
+     "url": "https://www.france24.com/en/video/20261104-us-midterms-keeping-our-fingers-crossed-leila-meresman",
+     "source": "France 24",
+     "published": "2026-11-04T05:15:46+00:00",
+     "summary": "Democrats who once saw the political map as an almost impossible lift are now hopeful that a Senate majority is within reach, even though their path runs through several more conse",
+     "image": "https://s.france24.com/media/display/1609c5de-d807-11f1-b309-bf1914cabd52/w:1024/p:16x9/EN-20261104-041245-042303-CS.jpg"
     },
     {
-     "title": "Trump Says in Interview That He Will Accept Election Results",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-04T04:44:04+00:00",
-     "summary": "Trump Says in Interview That He Will Accept Election Results&nbsp;&nbsp;The New York Times",
-     "image": ""
+     "title": "Democrats claim staggering victories in districts gerrymandered to favor Republicans across the US",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-florida-wins-redistricting",
+     "source": "The Guardian",
+     "published": "2026-11-04T05:14:11+00:00",
+     "summary": "Mid-cycle redrawing of district boundaries, especially in states president won in 2024, did not yield results party was hoping forUS midterm elections \u2013 live updatesTrack live resu",
+     "image": "https://i.guim.co.uk/img/media/679fc5a59ec6591167c53fc59f00780f2538bc24/530_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=f22e7dbaf3f6e59c16ae591980a6b3ff"
     },
     {
      "title": "Democrats win control of Senate as US voters reject Trump\u2019s agenda",
      "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump",
      "source": "The Guardian",
-     "published": "2026-11-04T04:42:27+00:00",
-     "summary": "Republicans routed as Democrats gain powerful new leverage over Trump for remainder of his presidencyUS midterm elections \u2013 live updatesTrack live results from all 50 statesDemocra",
+     "published": "2026-11-04T05:03:41+00:00",
+     "summary": "Republicans routed as Democrats gain powerful new leverage over Trump for remainder of his presidencyUS midterm elections \u2013 live updatesTrack live results from all 50 statesTell us",
      "image": "https://i.guim.co.uk/img/media/21aee7a770d02a6ce06c2ce0e5f3cc68b71a10f0/0_0_4710_3768/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=c54257174cbe35e6b9e9e18c77838e63"
+    },
+    {
+     "title": "Midterm Election Results (Live Updates): Democrats Win Senate In Stunning Rout",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0xQOWtNdEZTOC00UHBIR3VLWmhUb0I3WjIxWlZSSnMyVjAzRF9yT3hCd2pFSkhaTzI0NG1NVXB1cTRMYUJjdXRrWjhUalNnUDAzMWpHeDd6ZjhLM1YybUdMSTZQa09DVjlwbFQ0VllVRHVJZmpuNDlzLVVZdW1QOVhxcm9QUzZrS3g4THlXRHFkZ3AwbzdCMm1mYk14Nzktb2VMczFWbWU0RlVROWJGNFNlWUtwbExmQkNIbHZWbVNGVFU?oc=5",
+     "source": "Forbes",
+     "published": "2026-11-04T04:49:00+00:00",
+     "summary": "Midterm Election Results (Live Updates): Democrats Win Senate In Stunning Rout&nbsp;&nbsp;Forbes",
+     "image": ""
+    },
+    {
+     "title": "Republicans suffer stunning defeat as voters deliver verdict on Trump agenda",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-voters-republican-democrats-trump-second-term",
+     "source": "The Guardian",
+     "published": "2026-11-04T04:45:09+00:00",
+     "summary": "After campaign blitz and urging voters to pretend he was on the ballot, president claims Republicans \u2018would have won in a landslide\u2019 if he had beenUS midterms 2026 live \u2013 latest up",
+     "image": "https://i.guim.co.uk/img/media/023f69a6ffd36ab865e11fb6600a253e2541db33/0_0_4393_3515/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=1fa3261d0099503fd8968d090275b93f"
     },
     {
      "title": "James Talarico wins Texas Senate race in historic victory for Democrats",
      "url": "https://www.theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate",
      "source": "The Guardian",
      "published": "2026-11-04T04:41:37+00:00",
-     "summary": "Ken Paxton\u2019s defeat a crushing blow to Trump and Republican efforts to keep control of CongressUS midterm elections \u2013 live updatesTrack live results from all 50 statesDemocrat Jame",
+     "summary": "Ken Paxton\u2019s defeat a crushing blow to Trump and Republican efforts to keep control of CongressUS midterm elections \u2013 live updatesTrack live results from all 50 statesTell us: what",
      "image": "https://i.guim.co.uk/img/media/946b580c4063a322bc795dfb0da867e05bd7ed11/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=91ade55099cf1a2d932346be355db26c"
-    },
-    {
-     "title": "Amy Acton wins Ohio race for governor, ending 16 years of Republican control of office",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/ohio-governor-amy-acton-vivek-ramaswamy",
-     "source": "The Guardian",
-     "published": "2026-11-04T04:40:46+00:00",
-     "summary": "Democratic doctor wins over Vivek Ramaswamy, the biotech entrepreneur endorsed by Donald TrumpUS midterm elections \u2013 live updatesTrack live results from all 50 statesDemocrat Amy A",
-     "image": "https://i.guim.co.uk/img/media/9a8d502cc0112cf3cd26294d0656c2db7b009637/1144_0_2856_2284/master/2856.jpg?width=140&quality=85&auto=format&fit=max&s=09d89599d9310de2d7c87d88c86fce10"
     },
     {
      "title": "\ud83d\udd34 Midterms live : Democrats take control of Senate, ending Republican dominance in Washington",
@@ -282,49 +290,41 @@
      "image": ""
     },
     {
-     "title": "Democrat Rob Sand wins election to be Iowa's next governor",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0NwdVdOYkFoWUxyV1Z2TGpraFgtcFo3T0E2clRRXy1NZnB0ejdQYnF2RWE3cnpyTE5GSHNKb0pjcFRfTWdiREtjQTVHdDlFSmw4OERiYjBYc3M4b29ld0ZfMWNmdU5lU042cUlkZFByaW1DazRYTjQ1QTZXRmlKQmVGanlkN1JJVGZLRVhBU0pJS2xEYmE0Wlg5Y9IBoAFBVV95cUxOQ0FjdDMyN3JBOUpJU3dnc0gyTkdrZ3FnOEdTTGZjSThxOWQtMEJyVzBvT3VIUkVpdnZIX2ZCRGQ2QkRGZ0lsV3RDVzhyay1RbTFrSXdnS3o1NGU1c3d5MXotd2FCRTE2dWVkS21wVWpyMEtEYlpQb2YtamNTcmZYUzZudFd2Sko0S3lwTTVhbEh3NkkxWGt4RlNDd0RDWEtu?oc=5",
-     "source": "PBS",
-     "published": "2026-11-04T04:30:52+00:00",
-     "summary": "Democrat Rob Sand wins election to be Iowa's next governor&nbsp;&nbsp;PBS",
+     "title": "Election results for Colorado Proposition NN: Measure to move TABOR money to education is ahead",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbGNWXy12b3dINjdablVvbHd0WWlMbjc3QWlrN1c0UHlqeE94Zklkcm9GTFk4cFFOYVNtQktZT2t1cGlTQW1oNjFxVVVZNXJVQ0o1blQ5eGRTcTJHOGtsUGhCcDhUZV9ENHZCZ1Vxbl9ranMybHFkQ2hMU2ViTDF3QlZDTkwwb2RPbmRWYjI4ZFdQZG8?oc=5",
+     "source": "Colorado Public Radio",
+     "published": "2026-11-04T04:34:04+00:00",
+     "summary": "Election results for Colorado Proposition NN: Measure to move TABOR money to education is ahead&nbsp;&nbsp;Colorado Public Radio",
      "image": ""
     },
     {
      "title": "Results Come in for Midterms That Will Shape Rest of Trump\u2019s Presidency",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFE2MnhLMmZSZVptb3p4TlhDQzBUMEpZWERVaHN2dG1YbTJZWGRKZWZvM1laTzRubG5WLXdkMW93bW80VEhOcjhFRm92TTdJNlQtSGF5bWFkZWZDak54ZVdCYmdrS3dEQ2hvT0dpaGtJQ0tVbnNENFNtRHpDQWhfN3dFZlpaY2NucHBaSFN1NU4xWGpLdXBhMkxBU0tMSDluQ3NET0FQcDdabExT?oc=5",
      "source": "Time Magazine",
-     "published": "2026-11-04T04:30:00+00:00",
+     "published": "2026-11-04T04:32:42+00:00",
      "summary": "Results Come in for Midterms That Will Shape Rest of Trump\u2019s Presidency&nbsp;&nbsp;Time Magazine",
      "image": ""
     },
     {
-     "title": "2026 midterm election results: who won the key House and Senate races?",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVS1mMWRlZ18wVENidVdlX0QxR3FIV2NqWGctbVJfclJXc2UwY0dqT29USGt6MGRzbjN4dkNKMTZ1ZzBNVkt4M2VBT3lkV2ZvQ1lyRXRIVWpVT1ZVSXphRDRIMmNTLWZ2RTEzanY3WHJVZ3ZZYXA4WUZGTGVEZjJycU1nNjRsbXc?oc=5",
-     "source": "Northeastern Global News",
-     "published": "2026-11-04T04:27:27+00:00",
-     "summary": "2026 midterm election results: who won the key House and Senate races?&nbsp;&nbsp;Northeastern Global News",
+     "title": "Trump congratulates Democrats in election night call with CBS News",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWRMWlFHRGx3R091dTJwYTdWb1B3UW5La3ZlWXc1bmpBVmZ6OWdvZzU5MzVJamRXd01ZVDZWY2NGaW9QZnNWTTZmekFaRDdfNU96WEx2UWdITzZ5b2phNE5YSWIzalo1SGREZHNoM1I3R3Z3ZV9uTkMta2NHVkVrV3U0d0NPUQ?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-04T04:32:00+00:00",
+     "summary": "Trump congratulates Democrats in election night call with CBS News&nbsp;&nbsp;CBS News",
      "image": ""
     },
     {
-     "title": "Democrat Gina Hinojosa wins election for governor in Texas",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTTBmTjMyYjNmb3pENXpnbTJvM2ZkWW1QRnIxVi1kRE9FZi12cWxQV0JEZUpEVU82bkR5RFJMajdQaVkyTmdCS0w3RVRmMG1BMkRLUXNRODJQMlV3aU45VUpMeVMxV0pyNUgyeXZxd0x3WmJaYlJSeU9vbWdEVVpPbHRkM2NCTkg4UTlheEcxS0NjTC0zdEliTFpCOTHSAaIBQVVfeXFMUE80UFZScjB4dVJ6eE1kaXZYcHpxb1lpY2FzMjZWYkN1QVM0VS1FQ2VFTzdNcVF6VzZ5NU52YWhKSnFWc0hHQTFQV2szZ0RiTXBWNjFpOHRPeWcxSUh6bDlubVBHWVNvSVdVMnQ3NnBRdGVEZVVBeW9UT1A4WUdCVlJIelhmOGs4Ui1WMktvcXVmTHpXQ2d4SmU1eGZDZm5rZW9B?oc=5",
+     "title": "Democrat Rob Sand wins election to be Iowa's next governor",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0NwdVdOYkFoWUxyV1Z2TGpraFgtcFo3T0E2clRRXy1NZnB0ejdQYnF2RWE3cnpyTE5GSHNKb0pjcFRfTWdiREtjQTVHdDlFSmw4OERiYjBYc3M4b29ld0ZfMWNmdU5lU042cUlkZFByaW1DazRYTjQ1QTZXRmlKQmVGanlkN1JJVGZLRVhBU0pJS2xEYmE0Wlg5Y9IBoAFBVV95cUxOQ0FjdDMyN3JBOUpJU3dnc0gyTkdrZ3FnOEdTTGZjSThxOWQtMEJyVzBvT3VIUkVpdnZIX2ZCRGQ2QkRGZ0lsV3RDVzhyay1RbTFrSXdnS3o1NGU1c3d5MXotd2FCRTE2dWVkS21wVWpyMEtEYlpQb2YtamNTcmZYUzZudFd2Sko0S3lwTTVhbEh3NkkxWGt4RlNDd0RDWEtu?oc=5",
      "source": "PBS",
-     "published": "2026-11-04T04:26:33+00:00",
-     "summary": "Democrat Gina Hinojosa wins election for governor in Texas&nbsp;&nbsp;PBS",
-     "image": ""
-    },
-    {
-     "title": "Live updates: Election Day 2026 in Oregon",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPanhMY3JnQ3Z2VFVQeUhtMnA5X21OSzcxdERUdjl1MmJQc1pfVnZaelRkUG1vWm5EcE55b3VTbjg1Z05DVUtxRzFESzVuWDltd3BoUUVROEcxd3BZSVVOV0lrSktSNVBBTldtZ2VYXzF3VmFBeUU4Q1ZTMS1hQVlmaldjbmRoVkZmS1dFTHdQZEpGUms?oc=5",
-     "source": "OregonLive.com",
-     "published": "2026-11-04T04:23:00+00:00",
-     "summary": "Live updates: Election Day 2026 in Oregon&nbsp;&nbsp;OregonLive.com",
+     "published": "2026-11-04T04:30:52+00:00",
+     "summary": "Democrat Rob Sand wins election to be Iowa's next governor&nbsp;&nbsp;PBS",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-04T04:52:41.551308+00:00",
+   "fetched_at": "2026-11-04T05:22:45.579709+00:00",
    "stale": false,
    "items": [
     {
