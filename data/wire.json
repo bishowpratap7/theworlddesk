@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-04T20:56:16.771700+00:00",
+ "generated_at": "2026-11-04T21:26:21.246468+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-04T20:56:16.771668+00:00",
+   "fetched_at": "2026-11-04T21:26:21.246438+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US midterm elections 2026 live: Democrats hope for more wins in tight races as Trump downplays his role in blue wave",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-04T21:14:52+00:00",
+     "summary": "Senate contests in Mississippi and Alaska are still too close to call after Republicans suffered historic losses across the countryLive results | Republican losses mappedTell us: h",
+     "image": "https://i.guim.co.uk/img/media/5046d555128db1d47a613bd8500587d35c4727e2/676_1121_4970_3977/master/4970.jpg?width=140&quality=85&auto=format&fit=max&s=10368c4f060c0dd5408d6e8d0bab7ef0"
+    },
+    {
+     "title": "Debt relief and aid no replacement for slavery reparations, UK told",
+     "url": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
+     "source": "The Guardian",
+     "published": "2026-11-04T21:10:55+00:00",
+     "summary": "Leading figures in Caribbean reparatory justice movement speak out after UK PM announced infrastructure packageOffers of debt relief and development assistance from the UK cannot b",
+     "image": "https://i.guim.co.uk/img/media/fd2785cfbd8978791c5ddc516656e88641b4c2aa/382_0_4106_3285/master/4106.jpg?width=140&quality=85&auto=format&fit=max&s=450459c5478c79863e56aaeb3a2a17da"
+    },
+    {
+     "title": "Telstra apologises after customers mystified by phantom missed call notifications",
+     "url": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
+     "source": "The Guardian",
+     "published": "2026-11-04T21:10:20+00:00",
+     "summary": "Telco blames its MessageBank service and apologises for customer confusion Thousands of Telstra users have reported phantom calls on their mobile devices, with some receiving delay",
+     "image": "https://i.guim.co.uk/img/media/796ecda27558efe2f42c6a46e199155c449ea794/182_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c66291c98c9d09e22c976c2f2610a8b0"
+    },
+    {
+     "title": "US midterm election results live: Trump blames Iran war after losses",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T21:00:00+00:00",
+     "summary": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
+     "image": ""
+    },
+    {
+     "title": "Democrat leaders hail midterm election success",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T20:50:31+00:00",
+     "summary": "The top Democrats in the two chambers of US Congress have been hailing their party\u2019s resounding victory in the midterms.",
+     "image": ""
+    },
     {
      "title": "UK government considers smart glasses ban over secret filming concerns",
      "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
@@ -20,14 +60,6 @@
      "published": "2026-11-04T20:42:14+00:00",
      "summary": "Interior ministry claims suspects tortured and intimidated protesters detained in garage of government compoundSerbian authorities detained nine active police officers and one form",
      "image": "https://i.guim.co.uk/img/media/da51a25ecdcbf83ba6d04cf572dfd37c0ca9ac7d/534_0_5335_4268/master/5335.jpg?width=140&quality=85&auto=format&fit=max&s=de326afac0b5bb90f9d778f90ef767eb"
-    },
-    {
-     "title": "US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war\u2019s unpopularity",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-04T20:39:57+00:00",
-     "summary": "President again insisted that if he were on the ballot Republicans would have won, despite historic losses: \u2018They just couldn\u2019t transfer that love\u2019Live results | Republican losses ",
-     "image": "https://i.guim.co.uk/img/media/5046d555128db1d47a613bd8500587d35c4727e2/676_1121_4970_3977/master/4970.jpg?width=140&quality=85&auto=format&fit=max&s=10368c4f060c0dd5408d6e8d0bab7ef0"
     },
     {
      "title": "California progressive Randy Villegas ousts longtime Republican in redrawn House district",
@@ -58,7 +90,7 @@
      "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-wealth-midterm-elections",
      "source": "The Guardian",
      "published": "2026-11-04T20:29:09+00:00",
-     "summary": "Trump Media stock and WLFI coin saw declines but he is still $2.7bn wealthier than when he won election in 2024Trump\u2019s wealth is falling along with his political fortunes.Tradeable",
+     "summary": "Trump Media stock and WLFI coin saw declines but he is still $2.7bn wealthier than when he won election in 2024Donald Trump\u2019s wealth is falling along with his political fortunes.Tr",
      "image": "https://i.guim.co.uk/img/media/16627ba722030280d4c2e9eb752ee5248918f912/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=0be5bdbbd33add565e6f88d401ce6f59"
     },
     {
@@ -84,45 +116,29 @@
      "published": "2026-11-04T20:06:55+00:00",
      "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewershipOn a midterm election night that was a huge disappointment for Republicans, w",
      "image": "https://i.guim.co.uk/img/media/37ef84d79f4790da044e8b58f149f13760b476a7/421_0_4210_3368/master/4210.jpg?width=140&quality=85&auto=format&fit=max&s=c08732c2af13b82821d498f38ed06ce6"
-    },
-    {
-     "title": "Food grown in illegal West Bank settlements being sold in Australia as \u2018produce of Israel\u2019",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-04T20:00:43+00:00",
-     "summary": "Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlementsGet our breaking news em",
-     "image": "https://i.guim.co.uk/img/media/be71b877cb2e8bb55e4cec8626f019ed8ed04805/3223_1601_4272_3418/master/4272.jpg?width=140&quality=85&auto=format&fit=max&s=c78e9f33cabf7e7c50d03b0b1ef6e9a8"
-    },
-    {
-     "title": "Iranians celebrate Democrat victory in US midterms",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T19:59:14+00:00",
-     "summary": "US President Donald Trump acknowledged the Republicans\u2019 crushing defeat was partly due to the war on Iran.",
-     "image": ""
-    },
-    {
-     "title": "Democratic progressive wing notches win in California Central Valley",
-     "url": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T19:50:37+00:00",
-     "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
-     "image": ""
-    },
-    {
-     "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
-     "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-     "source": "The Guardian",
-     "published": "2026-11-04T19:42:47+00:00",
-     "summary": "Conservation officers say more than one bear may have been involved in attack on women near their homeSearch teams in Canada have discovered the body of a 20-year-old woman and con",
-     "image": "https://i.guim.co.uk/img/media/65b4c4a1a9683a21b818d78b4c4f95490cb925a4/163_0_912_730/master/912.jpg?width=140&quality=85&auto=format&fit=max&s=0fcfa933816a7a0a37280599039e1728"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-04T20:56:16.771684+00:00",
+   "fetched_at": "2026-11-04T21:26:21.246453+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US midterm election results live: Trump blames Iran war after losses",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T21:00:00+00:00",
+     "summary": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine has handed the United States its proposals for ending the war - Zelenskyy",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSFd3Sm5uNGdkQWFqZm9vWVJWUi1CTDl0UUQwREFJby1XSnpIVURDSjgzUUlDeGwwOVRMbDRMMDlfM0ZkZnAtSnJybnduSlMzX0JSbjRUSWZPZDZRWVVuR1hfZ00wcHEyTkloRm1nQVl0clItU0R5TmlRMEVfZ3l3M0JsaWoxRVMxdWcxSGJHQy1aeXlWdUtWTXdBZlJJR2Q0QUVkNF84amNIQXNZ0gGrAUFVX3lxTFB1Rzd0X0FuOXBKWEluUFNaenhHYlRRVDBfUlFPUzBKTWJNWTdjOURPQm1FbHNUckRJdDZnajNNODBpSWI2Y3hZRjNrRll1V1IxZWt3OWwwRHdZV0VsRmJHa083QUhFa3dOcUdUQmFnNmRJbnA1MnBwdXhkRnVGWklFcEhhQkYtVkEwLUl1VzloTlJMRWhqeXFhbXN3ZnBkV2tCOWFhU3p0MVBjOA?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "published": "2026-11-04T20:54:14+00:00",
+     "summary": "Ukraine has handed the United States its proposals for ending the war - Zelenskyy&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "image": ""
+    },
     {
      "title": "Ukraine\u2019s Railways Launch Online Memorial to 1,220 Rail Workers Killed in Russia\u2019s War",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFVOOHJqYXpqWGNqNGNUUTFHeEFTa2Fmc3lfT1Vqak5DTE9oY1k4aHlUSnZ0ZTJZWGhzWDdONnpRdmlvQ1NTaU5LV0lreDlfX2g2SGMxd2d5allhdVhFbGhMeGNNdnNUUF83SE80Uk5rdmRzbE56dVFrSG9NbWtPckhYQVRNUXVzS01aUW8tYlNsZTRzNFBlNkhCTGd3UGg0VHZJZ2RRS2IxdnF1WlFNMXVWSEVLNzIxblZuRXNLTnBOYmRnSlZQYnVXOA?oc=5",
@@ -132,12 +148,12 @@
      "image": ""
     },
     {
-     "title": "US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war\u2019s unpopularity",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-04T20:39:57+00:00",
-     "summary": "President again insisted that if he were on the ballot Republicans would have won, despite historic losses: \u2018They just couldn\u2019t transfer that love\u2019Live results | Republican losses ",
-     "image": "https://i.guim.co.uk/img/media/5046d555128db1d47a613bd8500587d35c4727e2/676_1121_4970_3977/master/4970.jpg?width=140&quality=85&auto=format&fit=max&s=10368c4f060c0dd5408d6e8d0bab7ef0"
+     "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcVRFdTRVRUpQZXAtOU5PSVZiR0g2SFFzMktoWHlJeXRNdjI3VXpsRlpqam1MV1J1NEFmNEZFYzhfNFdoTFN4WDZhdUJYQXV0TWFDb0NudVpyOXhPaWZlcTBtTWVZRXFvWXZCb2I5dzd2YTZkRkkwWnBMLS1GODFXX2VKMHNiUWpUbmVuOWg1bTQ5NmRUaEJLY1dvUEdnX3MzczFNeF9NeWZjZ2xuVURac21nNNIBuAFBVV95cUxQeng1QzJNVi1pdnV4Y0JZQWNkTVRiQ3JMbDJuTkxNUEsxZnJKSVlMMUZGcVZVVHpzRVRYZFdpbF9NZ215MlZMS0pERFZISThJeWRPanNpb0tMa3ZMeERwbC0tSEp0bElncFh5cWhsR25mU2h4MG5URF9xUGxpNWdvZjI1X3NobWRfQi13Q3dlTTJHeUUweHFTcFZsZWQzOVVNQm0yUmpuVGhUM2NOcTlZeHJZRkFraVpJ?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T20:37:53+00:00",
+     "summary": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people&nbsp;&nbsp;Al Jazeera",
+     "image": ""
     },
     {
      "title": "Ukraine Police Release Bodycam Showing Russian Double-Tap Bombing of Kamyshuvakha Aid Centre",
@@ -145,14 +161,6 @@
      "source": "NewsCord",
      "published": "2026-11-04T20:37:40+00:00",
      "summary": "Ukraine Police Release Bodycam Showing Russian Double-Tap Bombing of Kamyshuvakha Aid Centre&nbsp;&nbsp;NewsCord",
-     "image": ""
-    },
-    {
-     "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcVRFdTRVRUpQZXAtOU5PSVZiR0g2SFFzMktoWHlJeXRNdjI3VXpsRlpqam1MV1J1NEFmNEZFYzhfNFdoTFN4WDZhdUJYQXV0TWFDb0NudVpyOXhPaWZlcTBtTWVZRXFvWXZCb2I5dzd2YTZkRkkwWnBMLS1GODFXX2VKMHNiUWpUbmVuOWg1bTQ5NmRUaEJLY1dvUEdnX3MzczFNeF9NeWZjZ2xuVURac21nNNIBuAFBVV95cUxQeng1QzJNVi1pdnV4Y0JZQWNkTVRiQ3JMbDJuTkxNUEsxZnJKSVlMMUZGcVZVVHpzRVRYZFdpbF9NZ215MlZMS0pERFZISThJeWRPanNpb0tMa3ZMeERwbC0tSEp0bElncFh5cWhsR25mU2h4MG5URF9xUGxpNWdvZjI1X3NobWRfQi13Q3dlTTJHeUUweHFTcFZsZWQzOVVNQm0yUmpuVGhUM2NOcTlZeHJZRkFraVpJ?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T20:37:30+00:00",
-     "summary": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
     {
@@ -210,21 +218,37 @@
      "published": "2026-11-04T19:59:14+00:00",
      "summary": "US President Donald Trump acknowledged the Republicans\u2019 crushing defeat was partly due to the war on Iran.",
      "image": ""
-    },
-    {
-     "title": "Ukraine, US, and EU Advance Post-War Recovery Plan at Brussels Talks",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWVtVXZKbjVma1gtZWc5SXB2RU5IemxrUndZQzF5eVJROURIQl95ZF9NTWoyWnh6OU9nMWZvSU5FQ195SUlFajdoMFdwSmJ3aHUyeDlSLWdnMzVfa3BGMnBtOV85eUN5ZDI4VmNDSmllU0J0bTJJWDJwVWNXa0p2R0F4Rno2WDFYdXdUT05ZRnJKQ09teWhWMmY3M3pBaTc4S01hVUZnbw?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-04T19:26:36+00:00",
-     "summary": "Ukraine, US, and EU Advance Post-War Recovery Plan at Brussels Talks&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-04T20:56:16.771688+00:00",
+   "fetched_at": "2026-11-04T21:26:21.246457+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "North Carolina Republicans might have had the worst night of all",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXZoN1NjSmVSUkM3cW1OQWFHMFVvamQ4MFVUNW5obUdweml1NnAzWHM0T3R2WUdtNGtVbVI5akpJLTV6OEI0Y25RdGFia1dPeldZdlh6aWhveXRTTDNSVFRfZ29CS1NlczItaU5Xd1lvb1MwMEowaDNNS0J6emhlSG5XMzhvRmpWREVkQjlxcEJLLTk3UnhYLWhNSTA5Rm43aW1pbGxHSXFMOEVH?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-04T21:20:31+00:00",
+     "summary": "North Carolina Republicans might have had the worst night of all&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "US midterm elections 2026 live: Democrats hope for more wins in tight races as Trump downplays his role in blue wave",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-04T21:14:52+00:00",
+     "summary": "Senate contests in Mississippi and Alaska are still too close to call after Republicans suffered historic losses across the countryLive results | Republican losses mappedTell us: h",
+     "image": "https://i.guim.co.uk/img/media/5046d555128db1d47a613bd8500587d35c4727e2/676_1121_4970_3977/master/4970.jpg?width=140&quality=85&auto=format&fit=max&s=10368c4f060c0dd5408d6e8d0bab7ef0"
+    },
+    {
+     "title": "Midterm election results will slow data center buildout, experts predict",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlNzM3Q5bnhtZlJDZl9FeVFiaVI4ZlZyTkxSMDl6d0ViME85OEVpTm82Z1BGcFlxVEQ4Zk9Tbk1heWlaWGVlN1hMbU1IUm80Mkp5Z2dna2p3Sk8xamRTT29vemt2RS1TbW45cWl1ajM4NDEtUER2NVpxYXFOaHEzMmVhT2xrYTF6ZXlJeXUwZ19vREhlLWE5ZzQ1eEx4Z0lQeTgtN2VWOA?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-04T20:57:17+00:00",
+     "summary": "Midterm election results will slow data center buildout, experts predict&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
     {
      "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUJMNUhfVmg3dHlfRHhVb0tham91N0NObjZjNXl0bWN0Yno0QVdFNFVueHlnNEo2eGJJbTUzajY3cVZ6cnR2TG9vN0VpVVBpcEttSm1sZVgwbmpnTE5JZ2EycUV3ZXY5WVk4VTRZaHpHTTNSVHMtZUl3d0l2UXI0LWZsWTR1dkpmcF9R?oc=5",
@@ -234,12 +258,28 @@
      "image": ""
     },
     {
+     "title": "Democrat leaders hail midterm election success",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T20:50:31+00:00",
+     "summary": "The top Democrats in the two chambers of US Congress have been hailing their party\u2019s resounding victory in the midterms.",
+     "image": ""
+    },
+    {
      "title": "UK government considers smart glasses ban over secret filming concerns",
      "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
      "source": "The Guardian",
      "published": "2026-11-04T20:43:21+00:00",
      "summary": "Minister hints at restriction on selling technology \u2018to certain users\u2019 amid worries over surreptitious filming of womenThe government is considering placing restrictions on smart g",
      "image": "https://i.guim.co.uk/img/media/4715f465419ef48f670873b52cf277ecc33598de/186_0_4168_3335/master/4168.jpg?width=140&quality=85&auto=format&fit=max&s=3cbfed1bbf2f2888a614772b7b09b79f"
+    },
+    {
+     "title": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-04T20:43:17+00:00",
+     "summary": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks&nbsp;&nbsp;Reuters",
+     "image": ""
     },
     {
      "title": "Serbia detains police officers over alleged use of force against protesters",
@@ -258,27 +298,11 @@
      "image": "https://i.guim.co.uk/img/media/5de13c3c79a8f5ddaf79427a31bab9962a947ab4/703_0_6994_5599/master/6994.jpg?width=140&quality=85&auto=format&fit=max&s=ee63a12bfacf5bb5b2b7b38988b245a4"
     },
     {
-     "title": "Election stiffens the Fed's guardrails, but independence risks remain",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-04T20:32:57+00:00",
-     "summary": "Election stiffens the Fed's guardrails, but independence risks remain&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Kornacki explains his exit 10 hours into election night",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUlXNXZFZkg1SnJqbHRna25mOEJ0LTh0YVA4cm8xUXpoVkNZYkVrOGctcUplWjBTOWtyOEs5WEJaRlFVZWppanZGTTlBbXpjOEpzTHpqZGxwSlhyS0duV0JRd0xwWWhGdVgxLUlFemc5Sk54TzlUOHBNU3dHamtUcmxneEFaMDFaWHk5Mnp1bzZ0bnJvQ3c4Mm94VXZYNW9QS2JITmRJZko?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-04T20:29:29+00:00",
-     "summary": "Kornacki explains his exit 10 hours into election night&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
      "title": "Trump\u2019s wealth dented after Democrats trounce Republicans in midterms",
      "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-wealth-midterm-elections",
      "source": "The Guardian",
      "published": "2026-11-04T20:29:09+00:00",
-     "summary": "Trump Media stock and WLFI coin saw declines but he is still $2.7bn wealthier than when he won election in 2024Trump\u2019s wealth is falling along with his political fortunes.Tradeable",
+     "summary": "Trump Media stock and WLFI coin saw declines but he is still $2.7bn wealthier than when he won election in 2024Donald Trump\u2019s wealth is falling along with his political fortunes.Tr",
      "image": "https://i.guim.co.uk/img/media/16627ba722030280d4c2e9eb752ee5248918f912/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=0be5bdbbd33add565e6f88d401ce6f59"
     },
     {
@@ -290,41 +314,17 @@
      "image": ""
     },
     {
-     "title": "North Carolina Republicans might have had the worst night of all",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXZoN1NjSmVSUkM3cW1OQWFHMFVvamQ4MFVUNW5obUdweml1NnAzWHM0T3R2WUdtNGtVbVI5akpJLTV6OEI0Y25RdGFia1dPeldZdlh6aWhveXRTTDNSVFRfZ29CS1NlczItaU5Xd1lvb1MwMEowaDNNS0J6emhlSG5XMzhvRmpWREVkQjlxcEJLLTk3UnhYLWhNSTA5Rm43aW1pbGxHSXFMOEVH?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-04T20:13:08+00:00",
-     "summary": "North Carolina Republicans might have had the worst night of all&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "\u2018We want our taxes spent here\u2019: 12 Democrats weigh in after sweeping the US midterm elections",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmpwd1BnLVZFSXhpaXhHbkd5V3ltZjlnTkFtdTVQdHlRWDVJczNYeVk1QURfOUxpRGNNamxuSEVMb1g2UXFVeXVNZkxVWkFGdGNfRHhIYkp3T2xMR2xVbWp4V2hyYmZwTWl5M1R1ZXpmN242MG5GOVJ4RnZRakh0bm5CaUlRZ05i?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-04T19:56:00+00:00",
-     "summary": "\u2018We want our taxes spent here\u2019: 12 Democrats weigh in after sweeping the US midterm elections&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmplNFEtTXU2b1NKbUJMa01Wd09UUGVIdGVFLS1UM053RUNzRlpKX0pOb3JTcWFzZjlUSkdobEcyVTM5V3U5WTJKWDNnWHN4ejF1dXpGcFZ5eXY5eVVWaHVfZGpSb3pVVW8zWnlWeG5LUlFsWHF4V2FiWlFEbW4wSUt1MDE4UDZUSmdCclYycFdwNERTWTk2MlpCb2hUbUg2Q3Zmc3Jn0gGrAUFVX3lxTE9Rc0NOODZwbWVUdjMwQTNON09qTzYtcFdOSy1MaVRsWTh5TW1jT2NVdndaeW55RkowcXlwOEpiUTVzLXBsWjhWbmtSRWVzZWJBSi1DWnAxUlA3elBKUGdvZFpEQlNBckpUUjNFeWVYbENaTDNDT0Fqczdyd3VoU1JQS2wzcXd6QkRSUUxPU1c0c0J6ak1NUEdGZGk1Sms0X2hBbC1LNUNmV0I0VQ?oc=5",
-     "source": "CNBC",
-     "published": "2026-11-04T19:37:43+00:00",
-     "summary": "Hyperscalers and Apple surge after election results remove investor uncertainty&nbsp;&nbsp;CNBC",
-     "image": ""
-    },
-    {
-     "title": "2026 State Legislative Elections: The Results and What They Mean",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMS15bUdjUzRYUlkyMzdwTkw4YVE5VzI4TGtpS2dhbkdPdmhfYmpsSFZpVHBZQnJWSW5lMjBuN0FFLXBRNFJOcVk0NWs1a2NOYkx3M1hKMkZOU2VBaE55dndXbTF4ZXdSRHJ5SEpMU3RPZWk1QUxUdE1fZDVXNTV3amNRZHpYUjBndnh6emJDMXdhRlVPRzVLdmdtOU1UM2NKRktXYQ?oc=5",
-     "source": "National Conference of State Legislatures",
-     "published": "2026-11-04T19:29:46+00:00",
-     "summary": "2026 State Legislative Elections: The Results and What They Mean&nbsp;&nbsp;National Conference of State Legislatures",
+     "title": "Mississippi\u2019s Senate Race Is Close. The State Has No Vote Recount Law.",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdVFrTnpfc3UxeXZIWW9CWXNNck1mbGhFR0ZWQ0gzVWxBUFdrSWFPRjlBUjdVMVlpNFdCVi11ZXBMeklRMHRxNThZc3NxeWJyWVJJa3BFMkR3azRvVWI0ZklheU40Uk5XN21BRF9ZM29MaG1ZTWpld1k0UzM3bXNKeWdRZWhHX3ZaRmc?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-04T20:15:03+00:00",
+     "summary": "Mississippi\u2019s Senate Race Is Close. The State Has No Vote Recount Law.&nbsp;&nbsp;The New York Times",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-04T20:56:16.771691+00:00",
+   "fetched_at": "2026-11-04T21:26:21.246460+00:00",
    "stale": false,
    "items": [
     {
