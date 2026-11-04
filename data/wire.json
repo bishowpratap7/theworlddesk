@@ -1,15 +1,23 @@
 {
- "generated_at": "2026-11-04T21:56:25.436278+00:00",
+ "generated_at": "2026-11-04T22:26:28.674471+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-04T21:56:25.436245+00:00",
+   "fetched_at": "2026-11-04T22:26:28.674437+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce",
+     "url": "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce",
+     "source": "\u00a9 Angelos Tzortzinis, AFP",
+     "published": "2026-11-04T22:17:58+00:00",
+     "summary": "Real Madrid maintained their perfect Champions League record as Federico Valverde\u2019s stoppage-time strike secured a 3-2 comeback win at AEK Athens on Wednesday. Madrid twice trailed",
+     "image": "https://s.france24.com/media/display/7394906c-d889-11f1-a2e1-d18c5759e759/w:1024/p:16x9/59cca8cf697732ef2e207385238d87640ec92383.jpg"
+    },
     {
      "title": "US midterm elections 2026 live: Democrats hope for more wins in tight races as Trump downplays his role in blue wave",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
      "source": "The Guardian",
-     "published": "2026-11-04T21:37:02+00:00",
+     "published": "2026-11-04T22:07:28+00:00",
      "summary": "Senate contests in Mississippi and Alaska are still too close to call after Republicans suffered historic losses across the countryLive results | Republican losses mappedTell us: h",
      "image": "https://i.guim.co.uk/img/media/5046d555128db1d47a613bd8500587d35c4727e2/676_1121_4970_3977/master/4970.jpg?width=140&quality=85&auto=format&fit=max&s=10368c4f060c0dd5408d6e8d0bab7ef0"
     },
@@ -108,19 +116,11 @@
      "published": "2026-11-04T20:42:14+00:00",
      "summary": "Interior ministry claims suspects tortured and intimidated protesters detained in garage of government compoundSerbian authorities detained nine active police officers and one form",
      "image": "https://i.guim.co.uk/img/media/da51a25ecdcbf83ba6d04cf572dfd37c0ca9ac7d/534_0_5335_4268/master/5335.jpg?width=140&quality=85&auto=format&fit=max&s=de326afac0b5bb90f9d778f90ef767eb"
-    },
-    {
-     "title": "California progressive Randy Villegas ousts longtime Republican in redrawn House district",
-     "url": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
-     "source": "The Guardian",
-     "published": "2026-11-04T20:37:17+00:00",
-     "summary": "Community college professor unseats incumbent Republican David Valadao in seat redrawn under Prop 50Democrat Randy Villegas, a community college professor with notable progressive ",
-     "image": "https://i.guim.co.uk/img/media/3e9249221b60a5d2637555f16a0c2b1d3804a3b8/369_0_4566_3654/master/4566.jpg?width=140&quality=85&auto=format&fit=max&s=30f5b9e0e43e76f988ed54c87909fa5b"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-04T21:56:25.436262+00:00",
+   "fetched_at": "2026-11-04T22:26:28.674455+00:00",
    "stale": false,
    "items": [
     {
@@ -222,9 +222,65 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-04T21:56:25.436266+00:00",
+   "fetched_at": "2026-11-04T22:26:28.674459+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Mississippi has 10 days to certify election results, secretary of state says",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0RBWjZWdS1qUVZ4clpzY0swTXJaYVBMcDI5VkpYRFpqaUhOUmNmRjlTbGtySkpMYXA2aXVvWmdsQWlhNjh2cTBTNks2UVdhVEYyTmxZdzhDdHRIdDQ0NVlyMFJ0dUpvQzJlOEtzNDVkS1VzNWxlZjBpSTcwMGNUamlXOERRYXFoZTZCd3pGN0NTRkVmUlU3M1NDOWo0VW15dWNlddIBuAFBVV95cUxOclJiTTBTQkNXMi1oSzFoUGlzV2F2YjRaQ1ZHM0lFNUVPZ1NVTG91LWQ1Rm96ckVwVUxkRGlmUENTYjhxODc5YzNjVlltUlMyUDF1NzF3QmVRb3JRMUx5WlFwaXFlOE1fUnk5ekstcXJ6TkNKX05kMXNzMF9qeE5wb3RMZEMwdG00Y3czV1dSRUxzaEdURFdlSmIyRVdJbHVpRGhYVndUTUdGSFBSWTFTVlB4WjFLS0Y3?oc=5",
+     "source": "WLBT",
+     "published": "2026-11-04T22:17:00+00:00",
+     "summary": "Mississippi has 10 days to certify election results, secretary of state says&nbsp;&nbsp;WLBT",
+     "image": ""
+    },
+    {
+     "title": "Trump concedes Iran war angered voters, triggered Democratic landslide",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUlGcnVxOUNGdUpRN1hoM2FIcHRHMGdqQUpGRGZJeWVqb0NBNmgtbzBXV3I2eWt4bVd1U3h6MXJQTURlRnRVc1RZMEZRNm4zSlNSQnUwNzhrMWxqNmcyVFdtdmFwN3Awd0ZSNmpEckdmbXlhUkM0NmdYSjQtQlNYZllyVXRsOW9EU1BWNU9rMTJDcTAtR2FWTjdaSE9OR2RpU2JFV3c5cw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-04T22:16:59+00:00",
+     "summary": "Trump concedes Iran war angered voters, triggered Democratic landslide&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Finalizing North Carolina\u2019s Election Results: What Happens Next?",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUFp0OENndEszS1RlT1g0RTNycUs4eEdtNTBpLUthcktoZS1KSVJ4SGpFUTVMc2N4bkxkQnZvVVYxcHlMa0twYWc0cHpaVWZpUWxEaFJCMGpYSFp1cHlLQmhXX3FOWWpuNl80YVVTdF8wZ01MSURqWnZTanpPNUpZV3l0UXpTT1JvOWJyYTlPV2d5bG0xTjZCOFdDRFJYdm5aNkxxS21QQVdsZ0NGcHNncmpsNkt6Mnk3M1l5UElKUzR2UHAwYjIweFA5Z1ZPN0JUNGU3V1JzaUxYT1ZVd2lwMEJBYkcyRnJxNHRicEJBWF8?oc=5",
+     "source": "wfmynews2.com",
+     "published": "2026-11-04T22:16:00+00:00",
+     "summary": "Finalizing North Carolina\u2019s Election Results: What Happens Next?&nbsp;&nbsp;wfmynews2.com",
+     "image": ""
+    },
+    {
+     "title": "Voter turnout up in Minnesota's midterm election",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVhCZmx6MFZzM2l3eXY3TXpDT3hONlpJWURfR2VWWTFuWDRLeVNYbmo5OXlTbU9BQ05ublpBZU9LTy0za1l5amJEdktTNXg5emYzYWVkMmhsOUowbGY4aHpsSE53QnlJcUtQZXRoaGhIMU5md2g1eW14NlVycG1Qa2tDYXBWMnFQZHVXYS0zS3lWQlA0YUxYZw?oc=5",
+     "source": "MPR News",
+     "published": "2026-11-04T22:13:00+00:00",
+     "summary": "Voter turnout up in Minnesota's midterm election&nbsp;&nbsp;MPR News",
+     "image": ""
+    },
+    {
+     "title": "US midterm elections 2026 live: Democrats hope for more wins in tight races as Trump downplays his role in blue wave",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-04T22:07:28+00:00",
+     "summary": "Senate contests in Mississippi and Alaska are still too close to call after Republicans suffered historic losses across the countryLive results | Republican losses mappedTell us: h",
+     "image": "https://i.guim.co.uk/img/media/5046d555128db1d47a613bd8500587d35c4727e2/676_1121_4970_3977/master/4970.jpg?width=140&quality=85&auto=format&fit=max&s=10368c4f060c0dd5408d6e8d0bab7ef0"
+    },
+    {
+     "title": "Brazil's central bank ends run of rate cuts after Lula election win",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEFUME9sYnFseThMNGczNTU1OGwtT1ZzWk5yNXpVWGpfZWpFbjVYcHJ0NS1iRjNVNGcyQnZ4cXp3WkRuVTJ3UF8takxXTnV6ZjZ5RXFsVkVGazQwbkdkZ3czRTZ1QXp6RVo4eVZxRGpJSkN0dXhzSWZ6V0N4RGwzdTVsTF9vYlFHdUlrakdlZGF4bnFPYzlNZ1dUT2FHTnlJZTlYSWlYZ1psV2NQSHB2RExDZUg?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-04T21:55:03+00:00",
+     "summary": "Brazil's central bank ends run of rate cuts after Lula election win&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Mitch Recaps Election Results",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sWGVPZFRkVjNqSWRoNWNBdmp4SnhjU1JIQ1dqTjQyaUk0MkEtdXBQd3gyV3hqSFA3QUlzTDJZcWtKa3dydjZRTWlxblAzdFp4OU1hTHJPNGhiSlJJdUM3WklNMWZTRXdCdlNLZEE1djBFaWcyTjEzNQ?oc=5",
+     "source": "WDBJ7",
+     "published": "2026-11-04T21:49:00+00:00",
+     "summary": "Mitch Recaps Election Results&nbsp;&nbsp;WDBJ7",
+     "image": ""
+    },
     {
      "title": "Jackie McDonnough wins Richmond School Board special election",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnAtS080dUw1SEJnYXB4NnpnbVp5NjAzWkkzOWgzTWp2ZWt2UUZ6VkJUVkhyRE5YdVJYb3RXSUdyUnFZbDkwTjlVekwxS0FhQmZoYzU2OFZES3llUExOTVZqem0zajA0aUJEZXlkWGs4NTNSUHAzNllMZFo1Q0tiYTFkVHNlWmhjZGRUV0s3RGZhZ2I4a28zY2Z1V2hBekFWRnZ5Y3VSYzdrZw?oc=5",
@@ -234,12 +290,20 @@
      "image": ""
     },
     {
-     "title": "US midterm elections 2026 live: Democrats hope for more wins in tight races as Trump downplays his role in blue wave",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-04T21:37:02+00:00",
-     "summary": "Senate contests in Mississippi and Alaska are still too close to call after Republicans suffered historic losses across the countryLive results | Republican losses mappedTell us: h",
-     "image": "https://i.guim.co.uk/img/media/5046d555128db1d47a613bd8500587d35c4727e2/676_1121_4970_3977/master/4970.jpg?width=140&quality=85&auto=format&fit=max&s=10368c4f060c0dd5408d6e8d0bab7ef0"
+     "title": "The Election\u2019s Impact On U.S. Immigration Policy",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEtNQWhSdFpkVFJsa0h6bS0tMXNFbHBETFNhQm0wQkVJUU43YTVpTHpOQThRaW1FeEQ2NzU1c01UMjBQeWZjeHRJdTluUGt1QnBLbHJ2VWpjcU9ZVVIzRjFmNEU3T2hDbGZzRXV1MHczQWpJWW5qNDJHc0hrZll3dnk1dzhIWHpzajBFWkt2eGM0X0JBNVBKNTZ6eXg0TW1CXzZB?oc=5",
+     "source": "Forbes",
+     "published": "2026-11-04T21:27:26+00:00",
+     "summary": "The Election\u2019s Impact On U.S. Immigration Policy&nbsp;&nbsp;Forbes",
+     "image": ""
+    },
+    {
+     "title": "Who were winners of races in Rankin County general election?",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVGFQQ00wdDQtZkw3OGktUWVvRFJZelNra3RCRlFsdk1fWFZUTE5JVkFFVDlYZFlqRnJiRGhJM2lxLW5HVm9ob1VnS2VIakJyamNodk51TUlGUV93YjhleXJxWVJFT3Q0WnIyX0ZIZ0xhTHVGeUNfZDY3Tk1feG1WNWZob1BZR2s1R2JvV1pGcTRBb0VHMlFoNGVNOXgtay1nRDhLTHRIVXozVjEzTjJNUUlPN3hpN3BERG9pckpRX0hUR0ZaM29xS2NvRTM5WWFJVURVR3AzdTV1QWxsOU9uMWc3cVp3Y0RPWkFF?oc=5",
+     "source": "The Clarion-Ledger",
+     "published": "2026-11-04T21:26:00+00:00",
+     "summary": "Who were winners of races in Rankin County general election?&nbsp;&nbsp;The Clarion-Ledger",
+     "image": ""
     },
     {
      "title": "Social media reacts to Democrats\u2019 takeover of US Congress",
@@ -256,75 +320,11 @@
      "published": "2026-11-04T21:20:31+00:00",
      "summary": "North Carolina Republicans might have had the worst night of all&nbsp;&nbsp;The Washington Post",
      "image": ""
-    },
-    {
-     "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUJMNUhfVmg3dHlfRHhVb0tham91N0NObjZjNXl0bWN0Yno0QVdFNFVueHlnNEo2eGJJbTUzajY3cVZ6cnR2TG9vN0VpVVBpcEttSm1sZVgwbmpnTE5JZ2EycUV3ZXY5WVk4VTRZaHpHTTNSVHMtZUl3d0l2UXI0LWZsWTR1dkpmcF9R?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-04T21:19:26+00:00",
-     "summary": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Israel's president takes first steps on building new government after accepting election results",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPckhTYTdoNmhkQXZPUXFXY1lVNG9iYjEzT2Z4Umx1WFZPNTdKbEFpV2NTMFpnUktRUUJmZ0kzT1U1Q1JHLXRneGtuc1QyV2g2V0ZadGh0UDBBcmNQVW50UWhLRVQ0c1NGb0hxRkdnelIwR3BDRjhfSmJWQW04N2J5b2NnTkhuMDdJbXJYSzMzdm14QTBvdlRIdHJZbHdrQUE3NG1na0o4d29nOVFKVkdwSm83SFM4Qm81dW9kaVhkYXNGZnd3QnZpak530gHPAUFVX3lxTE5VU1ZqYW5rY3YtRzlqMzZtbmZsNUV4TFRwZG1iODdUWFdOSTl2TDd3NFlrdWFTMlhZczE4cks0alNLNjVhUjJJY0tpdUlIMDViSEJYcWdKU0xIVWZmWnFRMGprd1g0V3dFdmhJZm1KNElzX3U2R0NFTkNrNzZ1UVRCZGtfTnBoR3FtVm5vcWJMdWIwdGowbk8zZUxHVUxpSW9FRl9lUGxFMVFLM1Y0c0E4Z1ROVzA5MUlCV1hXOXRjT1ppZHptbzd6UGJNWDMtMA?oc=5",
-     "source": "PBS",
-     "published": "2026-11-04T21:16:26+00:00",
-     "summary": "Israel's president takes first steps on building new government after accepting election results&nbsp;&nbsp;PBS",
-     "image": ""
-    },
-    {
-     "title": "Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFB1cnJfcnJmRFI3NlJjTWlHeWxkM3V3cEhtYzA5QzkwdURtSnVQM2JEMWhOVnp5bmQtblhZWDlMNHFwTEJOUkwtb0Q4X1MyWXdlNGhTODFKTk52NE0yaW1sZF9OS0Z5OER2NS1YdE1SM2pVQVF0SE5pU0lwdlNnSVFvMm83NWpGV3JmWG9vdUJZdw?oc=5",
-     "source": "NPR",
-     "published": "2026-11-04T21:11:23+00:00",
-     "summary": "Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "Musk-backed candidates lose midterms despite financial backing",
-     "url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
-     "source": "France 24",
-     "published": "2026-11-04T21:06:09+00:00",
-     "summary": "Shares of Tesla and SpaceX dropped after the Democratic party swept to power in America's midterm elections. Their founder, tech titan Elon Musk, poured over $440 million into Repu",
-     "image": "https://s.france24.com/media/display/5ac9150e-d892-11f1-86ac-d18c5759e759/w:1024/p:16x9/capture-bb0d8832.jpg"
-    },
-    {
-     "title": "Midterm election results will slow data center buildout, experts predict",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlNzM3Q5bnhtZlJDZl9FeVFiaVI4ZlZyTkxSMDl6d0ViME85OEVpTm82Z1BGcFlxVEQ4Zk9Tbk1heWlaWGVlN1hMbU1IUm80Mkp5Z2dna2p3Sk8xamRTT29vemt2RS1TbW45cWl1ajM4NDEtUER2NVpxYXFOaHEzMmVhT2xrYTF6ZXlJeXUwZ19vREhlLWE5ZzQ1eEx4Z0lQeTgtN2VWOA?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-04T20:57:17+00:00",
-     "summary": "Midterm election results will slow data center buildout, experts predict&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Democrat leaders hail midterm election success",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T20:50:31+00:00",
-     "summary": "The top Democrats in the two chambers of US Congress have been hailing their party\u2019s resounding victory in the midterms.",
-     "image": ""
-    },
-    {
-     "title": "UK government considers smart glasses ban over secret filming concerns",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
-     "source": "The Guardian",
-     "published": "2026-11-04T20:43:21+00:00",
-     "summary": "Minister hints at restriction on selling technology \u2018to certain users\u2019 amid worries over surreptitious filming of womenThe government is considering placing restrictions on smart g",
-     "image": "https://i.guim.co.uk/img/media/4715f465419ef48f670873b52cf277ecc33598de/186_0_4168_3335/master/4168.jpg?width=140&quality=85&auto=format&fit=max&s=3cbfed1bbf2f2888a614772b7b09b79f"
-    },
-    {
-     "title": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-04T20:43:17+00:00",
-     "summary": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks&nbsp;&nbsp;Reuters",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-04T21:56:25.436269+00:00",
+   "fetched_at": "2026-11-04T22:26:28.674462+00:00",
    "stale": false,
    "items": [
     {
