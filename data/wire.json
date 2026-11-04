@@ -1,40 +1,88 @@
 {
- "generated_at": "2026-11-04T01:21:59.333796+00:00",
+ "generated_at": "2026-11-04T01:52:03.181888+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-04T01:21:59.333765+00:00",
+   "fetched_at": "2026-11-04T01:52:03.181856+00:00",
    "stale": false,
    "items": [
     {
-     "title": "US midterm elections 2026 live updates: Ossoff and Warner win re-election as Democrats vie for Senate control",
+     "title": "US midterm elections 2026 live updates: Democrats flip first Senate seat from Republicans; Ossoff wins re-election",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
      "source": "The Guardian",
-     "published": "2026-11-04T01:14:18+00:00",
-     "summary": "Democratic US senators from Georgia and Virginia win re-election; polls close in Ohio, North Carolina, and South Carolina as Americans decide the direction of CongressTrack live re",
-     "image": "https://i.guim.co.uk/img/media/f4b214d88f5c5331331ce81d44e48d134bf5fe55/376_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=40a670daccdb687db46dcb73a7162c1e"
+     "published": "2026-11-04T01:44:47+00:00",
+     "summary": "Former governor Roy Cooper wins in North Carolina to become first Democratic senator since 2008; Jon Ossoff and Chris Pappas win in Georgia and New Hampshire, respectivelyTrack liv",
+     "image": "https://i.guim.co.uk/img/media/45a902cc795ca19f2a311b02ad8124e87628b493/0_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=f97c83b6a06d0e8351b44f48bb7fba93"
     },
     {
-     "title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
+     "title": "Republican Ashley Moody defeats progressive Angie Nixon in Florida Senate race",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/ashley-moody-wins-florida-senate-race",
      "source": "The Guardian",
-     "published": "2026-11-04T01:12:58+00:00",
-     "summary": "Rising Democratic star made his re-election campaign a referendum on the Trump administration\u2019s misdeedsUS midterm elections \u2013 live updatesTrack live results from all 50 statesJon ",
-     "image": "https://i.guim.co.uk/img/media/a8a2468cf86e121bf772fd951dc3411eeb18d984/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=838527c68cb5b671eed108abccce71d1"
+     "published": "2026-11-04T01:41:54+00:00",
+     "summary": "Moody was elected over Nixon in a contest seen as a measure of whether the state remains reliably RepublicanUS midterm elections \u2013 live updatesTrack live results from all 50 states",
+     "image": "https://i.guim.co.uk/img/media/ae004033dfd56bf1055b749d65ddb5db89611bee/5_0_2849_2280/master/2849.png?width=140&quality=85&auto=format&fit=max&s=34a31e5de020cda6ad4fb34aa256be11"
     },
     {
-     "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+     "title": "\ud83d\udd34 Midterms live: Democrat Roy Cooper flips first Senate seat, follow the results",
+     "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+     "source": "France 24",
+     "published": "2026-11-04T01:38:44+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/new-hampshire-senate-chris-pappas-john-sununu",
      "source": "The Guardian",
-     "published": "2026-11-04T01:08:42+00:00",
-     "summary": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in fullUS midterm elections - live u",
-     "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
+     "published": "2026-11-04T01:34:31+00:00",
+     "summary": "Pappas focused campaign against Republican John Sununu on serving as a bulwark against Trump administrationUS midterm elections \u2013 live updatesTrack live results from all 50 statesC",
+     "image": "https://i.guim.co.uk/img/media/7041c3748784bc7c306e4c2cc584762b51c6afb9/458_0_4568_3655/master/4568.jpg?width=140&quality=85&auto=format&fit=max&s=ca6b7f28808cac1b0db8d464e1283d74"
+    },
+    {
+     "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+     "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+     "source": "The Guardian",
+     "published": "2026-11-04T01:31:46+00:00",
+     "summary": "Growing number of countries are resisting Russia\u2019s reintegration into international hockey after a sports court lifted a ban on competitionCanada has joined a coalition of countrie",
+     "image": "https://i.guim.co.uk/img/media/f0bbcfe146440a78d027f9f2fbcb5c78f9284465/493_0_4911_3931/master/4911.jpg?width=140&quality=85&auto=format&fit=max&s=e53d6466eac9b04a0121cc2a905364e3"
+    },
+    {
+     "title": "North Carolina voters elect Roy Cooper, state\u2019s first Democratic senator in 10 years",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/roy-cooper-michael-whatley-north-carolina-senate",
+     "source": "The Guardian",
+     "published": "2026-11-04T01:31:13+00:00",
+     "summary": "State\u2019s ex-governor bests Michael Whatley, ex-chair of Republican National Committee, by focusing on lower costsUS midterm elections \u2013 live updatesTrack live results from all 50 st",
+     "image": "https://i.guim.co.uk/img/media/ebcadb1f5fa44acb2d793c8523d7a859472caa55/127_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=97be88b738b06cb0e2fa29af47bb75c7"
+    },
+    {
+     "title": "Democrats aim to retake Senate from Republicans as Americans go to polls",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
+     "source": "The Guardian",
+     "published": "2026-11-04T01:28:24+00:00",
+     "summary": "Party hopes disapproval with Trump\u2019s presidency gives them advantage as Republicans defend slim majorityUS midterm elections \u2013 live updatesTrack live results from all 50 statesRepu",
+     "image": "https://i.guim.co.uk/img/media/5d352c76e8cff67f4382f6010c168f71b2b7ccb9/55_0_3760_3008/master/3760.jpg?width=140&quality=85&auto=format&fit=max&s=7c879f61ce9ede76731c7d0f6145587b"
+    },
+    {
+     "title": "Scepticism as Trump says he\u2019s ending Israel\u2019s $3.8 bn military aid deal",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T01:13:49+00:00",
+     "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
+     "image": ""
+    },
+    {
+     "title": "UN elects five judges to International Court of Justice amid record cases",
+     "url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T01:03:12+00:00",
+     "summary": "The election, held at UN headquarters, required several rounds of voting to fill the fifth and final seat.",
+     "image": ""
     },
     {
      "title": "Democrat Jon Ossoff wins Georgia US Senate race",
      "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-04T00:59:58+00:00",
-     "summary": "Ossoff re-elected to a second term, winning a key seat for Democrats as party tries to retake the Senate.",
+     "summary": "Ossoff is re-elected to a second term, winning a key seat for Democrats as the party tries to retake the Senate.",
      "image": ""
     },
     {
@@ -62,74 +110,66 @@
      "image": ""
     },
     {
-     "title": "Democrats look poised to win House control in midterm elections after two turbulent years of Trump",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
-     "source": "The Guardian",
-     "published": "2026-11-04T00:25:51+00:00",
-     "summary": "Victory for the party comes despite unusual and aggressive efforts by Republicans to redraw congressional districtsUS midterm elections \u2013 live updatesTrack live results from all 50",
-     "image": "https://i.guim.co.uk/img/media/bc0ff1eb304e5bb81f3084face46257e483a195d/1_0_3364_2693/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=e4b2f281d457ce3d4fd38063f50e4d8d"
-    },
-    {
      "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
      "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
      "source": "The Guardian",
      "published": "2026-11-04T00:14:49+00:00",
      "summary": "Chief executive Melanie Perkins describes job cuts as \u2018without doubt the hardest moment in our thirteen-year history\u2019 in email to staffGet our breaking news email, free app or dail",
      "image": "https://i.guim.co.uk/img/media/1df62ce1cc8ffecf2d4291f28ff2212397c08553/473_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a3cd1b1ec9b2997cc425b36c0410e91c"
-    },
-    {
-     "title": "Stevie Wonder endorses Abdul El-Sayed",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T00:13:41+00:00",
-     "summary": "American singer Stevie Wonder has delivered a last minute endorsement of Democrat Abdul El-Sayed for the US Senate.",
-     "image": ""
-    },
-    {
-     "title": "Democrats aim to retake Senate from Republicans as Americans go to polls",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
-     "source": "The Guardian",
-     "published": "2026-11-04T00:12:38+00:00",
-     "summary": "Party hopes disapproval with Trump\u2019s presidency gives them advantage as Republicans defend slim majorityUS midterm elections \u2013 live updatesTrack live results from all 50 statesRepu",
-     "image": "https://i.guim.co.uk/img/media/5d352c76e8cff67f4382f6010c168f71b2b7ccb9/55_0_3760_3008/master/3760.jpg?width=140&quality=85&auto=format&fit=max&s=7c879f61ce9ede76731c7d0f6145587b"
-    },
-    {
-     "title": "Ballot scanner glitch disrupts voting in New York",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T00:08:02+00:00",
-     "summary": "There have been voting machine scanner failures at polling sites 50 km north of New York City",
-     "image": ""
-    },
-    {
-     "title": "ANC under pressure to reverse South Africa decline",
-     "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-04T00:03:19+00:00",
-     "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Houses of Parliament at risk of \u2018Notre Dame-style fire\u2019 as renovation costs rise",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
-     "source": "The Guardian",
-     "published": "2026-11-04T00:01:18+00:00",
-     "summary": "Report says cost of maintenance could soon reach \u00a32m a week, including 24-hour patrols to avert fire riskThe Palace of Westminster will be at risk of a Notre Dame-style fire or a s",
-     "image": "https://i.guim.co.uk/img/media/4e450e588a2ccf37ad5e5de47f1b2aabdba8f9df/284_0_4216_3372/master/4216.jpg?width=140&quality=85&auto=format&fit=max&s=b571dc86350409b63cbaebd1ea3f9613"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-04T01:21:59.333779+00:00",
+   "fetched_at": "2026-11-04T01:52:03.181871+00:00",
    "stale": false,
    "items": [
     {
-     "title": "US midterm elections 2026 live updates: Ossoff and Warner win re-election as Democrats vie for Senate control",
+     "title": "US midterm elections 2026 live updates: Democrats flip first Senate seat from Republicans; Ossoff wins re-election",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
      "source": "The Guardian",
-     "published": "2026-11-04T01:14:18+00:00",
-     "summary": "Democratic US senators from Georgia and Virginia win re-election; polls close in Ohio, North Carolina, and South Carolina as Americans decide the direction of CongressTrack live re",
-     "image": "https://i.guim.co.uk/img/media/f4b214d88f5c5331331ce81d44e48d134bf5fe55/376_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=40a670daccdb687db46dcb73a7162c1e"
+     "published": "2026-11-04T01:44:47+00:00",
+     "summary": "Former governor Roy Cooper wins in North Carolina to become first Democratic senator since 2008; Jon Ossoff and Chris Pappas win in Georgia and New Hampshire, respectivelyTrack liv",
+     "image": "https://i.guim.co.uk/img/media/45a902cc795ca19f2a311b02ad8124e87628b493/0_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=f97c83b6a06d0e8351b44f48bb7fba93"
+    },
+    {
+     "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHlUZFVMYWpEOXAzb1dVNVhKOFJ3Wjh5MVZtVGNpV0M1X1U3UjlkbHNQRmFQcVZ1TG5Zc2NSQkJWbURydGpXeTJtMHgtWGV0bW9SWEdIbmM5V2lDSmhMTUNEbWJqYkdTbnBYRzdJU0wxS3NpdlRSVnVfSEw1ZmNYMGxDSlJzaUMzTGhZZmktcDhNd3p1YkZMTGgxTVFnMkpMbVlNWjB3ODMzV0UyN3dBSVQwZ3BJUWxx?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-04T01:35:18+00:00",
+     "summary": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/new-hampshire-senate-chris-pappas-john-sununu",
+     "source": "The Guardian",
+     "published": "2026-11-04T01:34:31+00:00",
+     "summary": "Pappas focused campaign against Republican John Sununu on serving as a bulwark against Trump administrationUS midterm elections \u2013 live updatesTrack live results from all 50 statesC",
+     "image": "https://i.guim.co.uk/img/media/7041c3748784bc7c306e4c2cc584762b51c6afb9/458_0_4568_3655/master/4568.jpg?width=140&quality=85&auto=format&fit=max&s=ca6b7f28808cac1b0db8d464e1283d74"
+    },
+    {
+     "title": "North Carolina voters elect Roy Cooper, state\u2019s first Democratic senator in 10 years",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/roy-cooper-michael-whatley-north-carolina-senate",
+     "source": "The Guardian",
+     "published": "2026-11-04T01:31:13+00:00",
+     "summary": "State\u2019s ex-governor bests Michael Whatley, ex-chair of Republican National Committee, by focusing on lower costsUS midterm elections \u2013 live updatesTrack live results from all 50 st",
+     "image": "https://i.guim.co.uk/img/media/ebcadb1f5fa44acb2d793c8523d7a859472caa55/127_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=97be88b738b06cb0e2fa29af47bb75c7"
+    },
+    {
+     "title": "Scepticism as Trump says he\u2019s ending Israel\u2019s $3.8 bn military aid deal",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T01:13:49+00:00",
+     "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzduNVhmUVVuYXh2YUp2MFFMSE15WHpVQ3ZJanJQTFhvdzEyU1E3cEI2QUdrdWhQWEFwbUVkaUM4MldGanJMNHlBQmZDNmVqRTBEZTlVMlk2dWpFVUN0WEk2Nko1OVJjZ2VMODVVN1JnUFJDMFd6UUFQc0drcHBHN3BTV3Q3UnNleVQ5X2h5U052bGZHNlpWZ01qNXo1SFRtMlZDVG9JaFI1TlBfSXFV?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-04T01:12:47+00:00",
+     "summary": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub&nbsp;&nbsp;The Guardian",
+     "image": ""
     },
     {
      "title": "Ukrainians in Syracuse hope midterms bring change to war",
@@ -137,22 +177,6 @@
      "source": "Spectrum News",
      "published": "2026-11-04T01:11:00+00:00",
      "summary": "Ukrainians in Syracuse hope midterms bring change to war&nbsp;&nbsp;Spectrum News",
-     "image": ""
-    },
-    {
-     "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
-     "source": "The Guardian",
-     "published": "2026-11-04T01:08:42+00:00",
-     "summary": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in fullUS midterm elections - live u",
-     "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
-    },
-    {
-     "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzduNVhmUVVuYXh2YUp2MFFMSE15WHpVQ3ZJanJQTFhvdzEyU1E3cEI2QUdrdWhQWEFwbUVkaUM4MldGanJMNHlBQmZDNmVqRTBEZTlVMlk2dWpFVUN0WEk2Nko1OVJjZ2VMODVVN1JnUFJDMFd6UUFQc0drcHBHN3BTV3Q3UnNleVQ5X2h5U052bGZHNlpWZ01qNXo1SFRtMlZDVG9JaFI1TlBfSXFV?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-04T01:08:00+00:00",
-     "summary": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
@@ -194,137 +218,113 @@
      "published": "2026-11-03T23:40:02+00:00",
      "summary": "Russia Ukraine War&nbsp;&nbsp;TelegraphHerald.com",
      "image": ""
-    },
-    {
-     "title": "Ukraine\u2019s SBU Accuses Iuliia Mendel of Treason Over Russia-Linked Narratives: 18 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYmYxdm1XazQyaU1yVXhvWkZSTzljN2VlVGxRTFZiV2h5ZzNVYU14QWZxMGhMRWc1U2JIeUR2empqWUZDbUN5b1BRcXpLRGpwRFhTWUhTMU15Um1tMVFGN08wYzR1NUVsTzBIZldWTV9FOS1MSXVGMFNoUEZ4QlV6MVh4bGN4SVhXejZfS195ZnhnYUVRRUlCTmhndGhSaWU2b2lmRlQ2ZXF5UVROWUxoLXUzUDIxQ2x5Wk0wZDhIOUYwOWc0YmlSRnphN3hHeng3STFGSWg2UE80UHNqRFY4aHczdw?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-03T23:19:40+00:00",
-     "summary": "Ukraine\u2019s SBU Accuses Iuliia Mendel of Treason Over Russia-Linked Narratives: 18 outlets compared&nbsp;&nbsp;NewsCord",
-     "image": ""
-    },
-    {
-     "title": "Hail Melania Trump, the one US diplomat making a difference in the Russia-Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX19MMDE1NE56bVpXWXY4TnFiUTdYbDM4ZGVDWEVQNGQ1YkJJX3ZLVTZkLVVjWHJScVViNWRhWkp1blktSzVYSmhMNVVKQUp1a1k1YkVoM1lzVU5HWXEzTXBTZ1B5RW9FSGxlajZtWEpSOWpqTUk2ZGZDc2IyVzg3VEo0MzlHU1dBc2xlTnFRVUpnS3d4OWdMcHFIQ0tjT0RtWGhmUTNzSGQzQQ?oc=5",
-     "source": "New York Post",
-     "published": "2026-11-03T23:15:00+00:00",
-     "summary": "Hail Melania Trump, the one US diplomat making a difference in the Russia-Ukraine war&nbsp;&nbsp;New York Post",
-     "image": ""
-    },
-    {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 4, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Yb29QcTk2dzJybXNQYkU0OVdJQ0t3Z2FYMGdZc3hpNElLTmc4ZGpHZ1hlOG1ybm5MVmhveXBaSHR6YTFQdEhmX2RyRWdtQQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-03T23:05:37+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 4, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-04T01:21:59.333784+00:00",
+   "fetched_at": "2026-11-04T01:52:03.181875+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
+     "title": "Republican Ashley Moody defeats progressive Angie Nixon in Florida Senate race",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/ashley-moody-wins-florida-senate-race",
      "source": "The Guardian",
-     "published": "2026-11-04T01:12:58+00:00",
-     "summary": "Rising Democratic star made his re-election campaign a referendum on the Trump administration\u2019s misdeedsUS midterm elections \u2013 live updatesTrack live results from all 50 statesJon ",
-     "image": "https://i.guim.co.uk/img/media/a8a2468cf86e121bf772fd951dc3411eeb18d984/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=838527c68cb5b671eed108abccce71d1"
+     "published": "2026-11-04T01:41:54+00:00",
+     "summary": "Moody was elected over Nixon in a contest seen as a measure of whether the state remains reliably RepublicanUS midterm elections \u2013 live updatesTrack live results from all 50 states",
+     "image": "https://i.guim.co.uk/img/media/ae004033dfd56bf1055b749d65ddb5db89611bee/5_0_2849_2280/master/2849.png?width=140&quality=85&auto=format&fit=max&s=34a31e5de020cda6ad4fb34aa256be11"
     },
     {
-     "title": "Democrat Jon Ossoff wins Georgia US Senate race",
-     "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T00:59:58+00:00",
-     "summary": "Ossoff re-elected to a second term, winning a key seat for Democrats as party tries to retake the Senate.",
+     "title": "\ud83d\udd34 Midterms live: Democrat Roy Cooper flips first Senate seat, follow the results",
+     "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+     "source": "France 24",
+     "published": "2026-11-04T01:38:44+00:00",
+     "summary": "",
      "image": ""
     },
     {
-     "title": "Midterms 2026 Election Results",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4waUtsajhfOE1IQlByU3F2TG82ZEJoc1Zhem1td2UtaV9OTjl2RkF4eWpFQzdkcGtpTE9UaGd0SzBLNWZEaktfR2JRY01zU3NPMEJ5dEdzWkNZSjlEVDdJLXd5dFNWSzRCejJCZXNn?oc=5",
-     "source": "Deadline",
-     "published": "2026-11-04T00:56:00+00:00",
-     "summary": "Midterms 2026 Election Results&nbsp;&nbsp;Deadline",
+     "title": "Democrats aim to retake Senate from Republicans as Americans go to polls",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
+     "source": "The Guardian",
+     "published": "2026-11-04T01:28:24+00:00",
+     "summary": "Party hopes disapproval with Trump\u2019s presidency gives them advantage as Republicans defend slim majorityUS midterm elections \u2013 live updatesTrack live results from all 50 statesRepu",
+     "image": "https://i.guim.co.uk/img/media/5d352c76e8cff67f4382f6010c168f71b2b7ccb9/55_0_3760_3008/master/3760.jpg?width=140&quality=85&auto=format&fit=max&s=7c879f61ce9ede76731c7d0f6145587b"
+    },
+    {
+     "title": "Black voter turnout appears high on Election Day, according to voter coalition",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM21HdHhNZDNvclFtUUktWENjSkNCNlRIQVN3QWttVDlWMkVJT2psZDhTREEyWWNrSVo0VTlGLWt3MC1tb0lDeEVHSEhEd1BVSzNBNW1iZ0o1V2M4ZjZrbWdWY2dMcUdFLU1nX096YUtNcG1zNzF1bVFjZXBkUlZMOEhQOEJfeDhjMmlNUHlNUkRnaFdOWkZjNnREeG1CRVJtU2tNY1JTQV9ZTmV4UFpadzAyeUhNUdIBuwFBVV95cUxNTVFhYm4tUVRsWmplenBfQVBpTjl1TzMxZV9NT2FKdlAwTjZubFVYY3RPQ2VsRmZYdDVlMDEwLWNwRTFPS2lydkxOelNQYW9GSzlURzc3Q0prODNOSFFOcmVUQ0hSd3luQndVREdOaG1ZcTRzcjUyRW85dXp3Z2dCWEgtQnQ0aW1za1J6RzJObjM1VWU2WHdMUjZULUhrRG1Qa3Q5MjdTeVJPZDRjak4zSjc5SmxsLS1PQjBV?oc=5",
+     "source": "PBS",
+     "published": "2026-11-04T01:24:52+00:00",
+     "summary": "Black voter turnout appears high on Election Day, according to voter coalition&nbsp;&nbsp;PBS",
      "image": ""
     },
     {
-     "title": "See all the Pennsylvania Election Day results",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWpjbE9lYWpFZ2NtRGY5NnMxSFA5X1lrOFBwUEY3bE5nVERTSVdmOUVPMTRtaS1pbVllVlpxZ0hORXFqdTZYS0hPZmk4UUVVNVJMVzk5anhsMWFpUFV1QlZfa3F0dURieTN5M2FFYkNkRTlTOTZLa3ZZMTJFdk9JQ1JIVVplTzU0SVV4MFVfM0hjZi1xU2l2ekxUYXpIWUxweE1GTUExelfSAbABQVVfeXFMTUV1ZVJwVTZPYVpqZ0tMdmtfZWYyZ3JXN1I1RnVPNTRJYkdiT1RjMGtkMmRFWW1rc09aakdDZE9VU1VaVjVWRS1DWkk5MVR0aThLZHpoNWdvZzEyamRvODJPeVJFT25XbDE1LWNQeXhhR1ZqTGpvV2Z0aE9NZDVvZTdsY2tDVkJZZ3pKTjd0U3RZZmFiU1J3ZzV6UFJ4N0hQMlN6LWJnSVdMR0lncy1waUY?oc=5",
-     "source": "NBC10 Philadelphia",
-     "published": "2026-11-04T00:50:58+00:00",
-     "summary": "See all the Pennsylvania Election Day results&nbsp;&nbsp;NBC10 Philadelphia",
+     "title": "Maine 2026 live midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjFJel9kNjFZUXI5X0pRMjhacFp6NDNYYXdyWXBubkV0UHc3MjQ1V2c3UHFybkh2Q1k4LU50ekZQNE1Nb2hyTnpHVFk1Y2ktcThyQnlBcDkzb1g3T3J5ZUdKTmx1OEY5MGFTMWpndEdIbDYwRnVfcHg3X29VWl9aTHl3aw?oc=5",
+     "source": "ABC7 Bay Area",
+     "published": "2026-11-04T01:23:04+00:00",
+     "summary": "Maine 2026 live midterm election results&nbsp;&nbsp;ABC7 Bay Area",
      "image": ""
     },
     {
      "title": "Analysis | Five races that will tell us where election night is headed",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0xUdXB0RUx3NkRsczJ6RnJON1VEai1nbGlTVWxQZUE0TmtmV0p5dFpmUVlGcXU2NjNMU2ZpY1Y4TXg0VUkxYmFJbVNpUWRfc19UcU82MmdRYkZnUklDZlRaT3lDVkpkLXd6bEtSdGx6UEQyX3gydGx2QU1oak5Jc3REdldkRVVpWkM3dVZmeHI4NkFyTEF2WTNPV2VPRlo5NGNDWk5aZmw1Mk5FcGh1ZQ?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-04T00:49:46+00:00",
+     "published": "2026-11-04T01:21:16+00:00",
      "summary": "Analysis | Five races that will tell us where election night is headed&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
-     "title": "LIVE | ELECTION RESULTS: Nov. 3 races in TN, MS, AR",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkVjQU1hOUR0Ty1ub25TUDVEN3dBLS1BNjNoSUh5al9pOHlRckdFZzVRbk1QQ2txZXhtd0xTN0YtWF84czcxZ3EzeVM1YXQ0VXo0TnhSbmlQendVWk5zVl85Wlp1Rlp6YzMzTGFyQVJrZ2ZGZ0FyR1hGZldNX3FKRGxyamZhRmpERjc1M1ItRlpkNTdTWTFCWU95eWbSAaIBQVVfeXFMT0hvRDUyX2o3RHVKR2lVb0NLV1RCYUptWE15ZlhkUWRucjh1MVRpNXVQd0RoTXljSzdlT3g3VUdfdmZjakppQ3ZMVWNGc09aUUpXbDRiRWhhNGZVWWMwM3d4OEJLM0pZd0dRVS1razc1aDYzNFNqWmthVklOWXVydjljeGR2NUdaRGpfbUNjaXNBWnFEWC1tRXBhQzh5YU5ldExB?oc=5",
-     "source": "WREG.com",
-     "published": "2026-11-04T00:45:00+00:00",
-     "summary": "LIVE | ELECTION RESULTS: Nov. 3 races in TN, MS, AR&nbsp;&nbsp;WREG.com",
-     "image": ""
-    },
-    {
-     "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VlcDd4VEtEWWtPYUNnck5rekRyWlBCQmc5ZW9odGVWVDlLdDN3NlZzZHRuMXk5TDZ5YjY4QmpKc3RZc2RaTkVGc3hEbEIxb2c4aFRhNGhPM0gtSlRsaDM1Y2V3RWYwbXBVTjVBYlU5TnhLU0hiLVpfTldKbXg3UDZxbzEwMEppSEN0YzM1SDlrb0xETjMzWEtqSnNlMUhUSFE?oc=5",
-     "source": "AP News",
-     "published": "2026-11-04T00:43:00+00:00",
-     "summary": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "Jon Ossoff wins Georgia 2026 Senate election, CBS News projects",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iT3AtcU9oclVGSC1nUUhtREk4QjNUZjJodThGYlNDNmlvU1FXV2ludmtac193QUhLVVZhN0RzT0JhYngzZ0N0X1VHWFpoNG1QRHZKOVB5Y1BGVmdZR1ljU3BCZVhMZDYzVTBZY0pKbzE0QQ?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-04T00:41:00+00:00",
-     "summary": "Jon Ossoff wins Georgia 2026 Senate election, CBS News projects&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Polls close in South Florida. See live election results for state, federal races",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWlJZ1lBbEllX3NXTGl5TGVCeVhCWTlVcG1uOEVJeG5XSHhVNEVpYmlmTS1LYjBaVnF4b0Q0WmtOdlhrQ2pueEVGU1JLd2FmckNOd24tNWNzR3lNdEx4aDJfeHVqV1QxS1VXem55eXp6ZUEwbUdmWmlnOVpQakNuZ3NTQlpTelowYm9V0gGLAUFVX3lxTE8xYzk0LTVOcGg4NzFBeDl4TS1ad0lvZVV6R0tqUEhTcmJKNDNwZHVNTnlndXZuY3REZHhWVEQ1MHFQTWlyZmg1UGV2U0ZJeWtiS0cwcXBVNVFVQnpYcVpRMXhGdHdNcll1blNuTGE4Um9PVDVlOVV3cDY1UU1qR3daTnVtSVpKU1NOSmM?oc=5",
-     "source": "Miami Herald",
-     "published": "2026-11-04T00:39:56+00:00",
-     "summary": "Polls close in South Florida. See live election results for state, federal races&nbsp;&nbsp;Miami Herald",
-     "image": ""
-    },
-    {
-     "title": "Midterm Election Results (Live Updates): First Races Called",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckdyejZNZXdlXzN1TWJQemZDSnJiTUJNQmtlU3BydDFXYTVZUVdpZVZ4cEhYMHV4b1YxRkc2dUwyeFhwYW0wMlI1MXF2ZXUwcDZfN2V4UTFzMFR2LXd1MDBCajRZNGNwd1pTMWVWM3BqTkpTOVZTU1lWd09fR1FUdW9TUWxZMVZ3MHdzQ1BsNkszTWxxVXI5RmxiS2xtLUxQNE5JVkM4NTBhQQ?oc=5",
+     "title": "Trump Repeatedly Bashes Fox News In Election Night Posting Rants",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEx2emxxRnVWVTlaeUlfcnFyQXJEcU9DT3V2WG5XMEhnb3lPQjYwOFhjVi1yWXNkdXhnSm1XdmMwNWNVRXNrWnVNaC1WQ1hCQ0RIMXVwSU5ROUhkVXItZkhtZzkyR0FkRXhwdUdzSjNPV0NGSFJDS001WHc5UHhqWF9hR3RZRnN0aTc1aGtabkNCWXJDQWdfdHE4OUhwX3Y4Z0kyN2pJcEcwdVIxRTVqc0R5cVota1l3VGZHT0YxWQ?oc=5",
      "source": "Forbes",
-     "published": "2026-11-04T00:39:00+00:00",
-     "summary": "Midterm Election Results (Live Updates): First Races Called&nbsp;&nbsp;Forbes",
+     "published": "2026-11-04T01:19:01+00:00",
+     "summary": "Trump Repeatedly Bashes Fox News In Election Night Posting Rants&nbsp;&nbsp;Forbes",
      "image": ""
     },
     {
-     "title": "2026 Election Results: Los Angeles Mayor, Local Races",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZjVfSVBKRkIyaTU1TGFZSzJrMFgwdi1saHFWR2ZNaGxWREZ5UVMxUlZqSmk2QkNSUkd0TW5EVDZoUDlmUjM4WFo4Wmt3UzBucHpJOXJqWG5uTWIyQnVuTlpZMzJJLVB5WXp1R0hPSk84cUg0M0dKX05LM0JMV0xhdnFFLU1ia1FpSVRIQU1R0gGTAUFVX3lxTE4tMU5aaUpxODh6eENMb3owcXpkTC1QS0tKM3pBQlowX2szdzFHYTU1NVhCQmZYMXhQRWM4NkNtQnhoaFl1X0pDOFI3UkJMUXVnMFk2TTFxSU5yWTRpTlk4Z0J1XzZjV3F6NVRISThOd1Uxcm1MSUJ5UnlvYXZ4am1wQUZQR2tzSWJMWTJ3VWdQTDQxNA?oc=5",
-     "source": "KTLA",
-     "published": "2026-11-04T00:34:56+00:00",
-     "summary": "2026 Election Results: Los Angeles Mayor, Local Races&nbsp;&nbsp;KTLA",
+     "title": "It's Election Day. Control of Congress is on the line, and what else you need to know",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMFMyWVA4MThqMWhrYm1VeVZNTFNJSzJjOGFOZHliaVZSWEdTV1JkTWdNMEdacDRwZ1I3dURLcC02eEJDbXY0RFVOUDFwQVhDUzlFRnZqYmNjV1I4MC1WeDdwRlhSUHE5ZFVyOGthQ3RBNXhvU295aHV3SnRsVUo3aUtXOTVwVG8?oc=5",
+     "source": "NPR",
+     "published": "2026-11-04T01:18:13+00:00",
+     "summary": "It's Election Day. Control of Congress is on the line, and what else you need to know&nbsp;&nbsp;NPR",
      "image": ""
     },
     {
-     "title": "2026 Election Results: California governor, statewide races and propositions",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlZQZnhPS1BjNWRjSkd6YUpZNmJLeWYwMm5adXJEcTBtaklBY2YxejhWUVVVajJFUVNTQmd3YkhkQUdYd1h2TlJSMjBsd3ZtRjMtRmhfLUQ2MWp3RlpuOGhFSDRSNUZ2MWEyNDZxOEhtYTV1dkkxYV9TZ3RiQXlxYnRrQncta0NyLWJsTFdZdXNjQdIBlwFBVV95cUxNTGZaOHo4NHNmQm9OUzRBSjJXQnBqblhyUlFRVy0xNnd6REQ2Vjd4dzN2a040dm1OZE9iWWNCZk5TTWlsQVZNQjdMcVBDczd4ZWV6QXlCVkZyYmpRMGhkWVpfamlwQjYtd0EyeEcxLTUzLWlaSVJGTUpBQXV3Znlfd2JCUzVDcWN3cjNlaHJBbUltOWFWOVpv?oc=5",
-     "source": "KTLA",
-     "published": "2026-11-04T00:34:46+00:00",
-     "summary": "2026 Election Results: California governor, statewide races and propositions&nbsp;&nbsp;KTLA",
+     "title": "Live Updates: Democrats win in Virginia, Georgia and more as first results arrive",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHJ0aWtTUVhBSU1OQ2VNYTZ5cTZmZjlOUXZsT0tUWWg3dUJpMzc3cHh2ejhRVWljUXcyc29OWm9pMzB0STJwQ1BKWmJuaFNNbU9GcVdzaDRxb3FIbTUyTXZRakVnRXF2Q0trd1ZTVTVPclNyRjRHUU9IWnk1TTQ5cVUwZXpkYW9CY0Vkd1VTS3Vkay02UnFUR2l4dG1zZ9IBowFBVV95cUxPSW1KaEozUXFEanAxMWZIUmlQbko2SHFqWVM3aFBqbHhUVmtOQjVNUGJZNHRSeng3REtjekJOQkRYMlhpdExoeUY5UFM5dUZhS0JwdFlLX1VwS2lXTGtDaElXVXg4bW9HVHZmb2NSd202bFRhbkpwbjBiZXBHcC1iMnNsYjI5RE0yeVExOFNFSFMyRkhSVTZvd1pFYXZMMTFtNE9F?oc=5",
+     "source": "PBS",
+     "published": "2026-11-04T01:15:03+00:00",
+     "summary": "Live Updates: Democrats win in Virginia, Georgia and more as first results arrive&nbsp;&nbsp;PBS",
+     "image": ""
+    },
+    {
+     "title": "US stock futures dip as investors await midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZWFDY2tZeDZfbXdVWnE2QWZwVlNpX3NqVm1OdmR0bDBGTlJjU3dJWG5yWEFpSG4tSHVhY2NEeVBsNnllVFQyb0tWRU1naXZQLWN3Tlk4VE1PV3o2cU1tVHFYX1hDT1ZtRkVWUWtYR3JwWFRyTXZIRldDWQ?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-04T01:06:00+00:00",
+     "summary": "US stock futures dip as investors await midterm election results&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "WATCH LIVE: Mississippi Election Results",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvbnVKM3BYSUVXN21ZdjN0WVVEeDNDc1d6ZG5KaGF2QWRzcHVSdWtUcWZLb3IwSk9neUt3dmVDRnZTNEMtMDNHTnJMUGd1UDd3NS13dEJZSU1QYnBZaGV4VUhaUjhFNUhORWVpYVdIX29ORk5TWUVmWGQwWkQ?oc=5",
+     "source": "WLOX",
+     "published": "2026-11-04T01:05:00+00:00",
+     "summary": "WATCH LIVE: Mississippi Election Results&nbsp;&nbsp;WLOX",
+     "image": ""
+    },
+    {
+     "title": "Gov. Josh Shapiro wins reelection in Pa., defeating Stacy Garrity",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2xqTWNvSmJRU3VHM25fbXZ3OVdRZFZuaExWdWhjVEVENXdlSnd4c0Z4WFJ1VVVEM0l2T2E1SUsyMWJOZWRiRnkzZVBUN2NMTUljT1JEOUc5N0hGSUJ0UU01M3lRelhWZ0tpQU0yQ0FLR0xPc091MF9pb0dzMi1wUXlkRGI?oc=5",
+     "source": "WHYY",
+     "published": "2026-11-04T01:04:52+00:00",
+     "summary": "Gov. Josh Shapiro wins reelection in Pa., defeating Stacy Garrity&nbsp;&nbsp;WHYY",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-04T01:21:59.333786+00:00",
+   "fetched_at": "2026-11-04T01:52:03.181878+00:00",
    "stale": false,
    "items": [
     {
