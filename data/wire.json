@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T09:23:16.268919+00:00",
+ "generated_at": "2026-11-04T09:23:29.945217+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-04T09:23:16.268888+00:00",
+   "fetched_at": "2026-11-04T09:23:29.945166+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-04T09:23:16.268904+00:00",
+   "fetched_at": "2026-11-04T09:23:29.945182+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-04T09:23:16.268908+00:00",
+   "fetched_at": "2026-11-04T09:23:29.945185+00:00",
    "stale": false,
    "items": [
     {
@@ -232,6 +232,14 @@
      "published": "2026-11-04T09:14:43+00:00",
      "summary": "Democrats flip Senate seats in Michigan, Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; voters reject Trump\u2019s agenda in \u2018blue wave\u2019 Track live results from all 50 st",
      "image": "https://i.guim.co.uk/img/media/4ab69f763ed7999e4c40c3864e1f7c775b107016/799_0_7922_6336/master/7922.jpg?width=140&quality=85&auto=format&fit=max&s=147a0407a089310d71fd0baf88695134"
+    },
+    {
+     "title": "[Photo Story] Penn Staters Cast Their Votes On Election Day",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGZjZjBMYUJGaVVwMUJJUFF2NFd5TFdlQ2wzVE0tMUFDWGpIQ3RYUjlrc1FNM1JqMWo1aFRPMEhCWnZ2RV91LS14ZDlFcTFPR0VFS3hzTk9lT0NtQ0RZOUZ3YU1pVE9zZ2JGU0VISkJ6QlQ0ZlZaWnIxUGhETy1TWWkzWlNKazFFUVlRWEFPVGNFNjE4SmloLVF3TQ?oc=5",
+     "source": "Onward State",
+     "published": "2026-11-04T09:12:37+00:00",
+     "summary": "[Photo Story] Penn Staters Cast Their Votes On Election Day&nbsp;&nbsp;Onward State",
+     "image": ""
     },
     {
      "title": "2026 South Dakota general election results",
@@ -258,6 +266,14 @@
      "image": "https://i.guim.co.uk/img/media/ce46b1c0f6f221fd38efbad95ec2b74c290fcd87/1246_0_6330_5064/master/6330.jpg?width=140&quality=85&auto=format&fit=max&s=39a8fcebfd7a4f91bd231533317701fa"
     },
     {
+     "title": "Nevada election results: Democrats take early lead in key statewide races",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObndtWjJMdFpiYmpNRVNmZUlEdktCbXJmbmhFTWNRNjNpRVpEMDd1Umt2aUpOaHRtU3ZFUGFleER6Q0IwNGJCNnRaSnRJQURmMWxqUUxfMnRKVTVwWHJ2d0ludlJpcmZtTV9pTmhPT0pHLW9qS0NETGJDeTlKS0JyWEhxVzNJUG5tY2tjdlV4N2p6OXg1NG1ZVGR2VE1wbW81TjFkSmZTMEFseWs?oc=5",
+     "source": "FOX5 Vegas",
+     "published": "2026-11-04T09:04:00+00:00",
+     "summary": "Nevada election results: Democrats take early lead in key statewide races&nbsp;&nbsp;FOX5 Vegas",
+     "image": ""
+    },
+    {
      "title": "Key moments from a night of midterm election firsts",
      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -266,11 +282,27 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cd/live/742f05d0-d82e-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+     "title": "Pete Ricketts wins Nebraska 2026 Senate election, CBS News projects",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Qcy1DYlYtbDRvYkwwNVJVdUtIZGRHOHhqS1pXZWdtcENaSFd0NldpUWxtZHotR0ZsUTJ3N0czc2lfTWxIUkNPaTJfa2l2cWUxc3k1Q3lHUmg2WE1IeWxPTzRpWm5ZRS00eEhON2o2Y2w1VzJq?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-04T09:00:42+00:00",
+     "summary": "Pete Ricketts wins Nebraska 2026 Senate election, CBS News projects&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
+    {
      "title": "Democrats\u2019 blue wave and a bad night for Trump: key US midterms takeaways",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ05rcll1Mk1lWEFPUW9hUHdpTjgydlpPN0JjZ2JlVWw1MHp4U2c3dFlZV3o4RkJtQjdyNktJenZCNWhDYzlGTmlGaGRhODM0Nzh1T3B5VFR1b0lYNll0Wm83WlF3dmN4T2FQVkF6X2h4Wm9OYmxWcVBoWXdNUWgzUTlMQmtVUUU?oc=5",
      "source": "The Guardian",
      "published": "2026-11-04T08:58:00+00:00",
      "summary": "Democrats\u2019 blue wave and a bad night for Trump: key US midterms takeaways&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Preliminary results from Alaska\u2019s 2026 general election",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3FsX3M1T1hMSlNrS1FlSk5PYVdoakRzbC1DVkFaSXZsWmdxLUEyOFh5LUF2ZVJZeDRsU0Q2Uzh5U2RVRWc0UDgyN2ttdkM2MGtBbXJBREQ0NDBVQTh0RThENExUQkppa2xIS0piQ3BtNjVIUHZGVVUyMXNodkFIMjhvcVNEM3ZrNzlaVS1MOVQxQmhhS0ZuS0lLRQ?oc=5",
+     "source": "Anchorage Daily News",
+     "published": "2026-11-04T08:57:49+00:00",
+     "summary": "Preliminary results from Alaska\u2019s 2026 general election&nbsp;&nbsp;Anchorage Daily News",
      "image": ""
     },
     {
@@ -282,49 +314,17 @@
      "image": ""
     },
     {
-     "title": "US midterms: Trump 'has done everything to make life difficult for business owners'",
-     "url": "https://www.france24.com/en/video/20261104-us-midterms-trump-has-done-everything-to-make-life-difficult-for-business-owners",
-     "source": "France 24",
-     "published": "2026-11-04T08:44:21+00:00",
-     "summary": "As Democrats take control of Congress at the midterms, what impact did the global tariffs imposed by President Donald Trump have on the vote? Many small businesses in the United St",
-     "image": "https://s.france24.com/media/display/63ba240a-d829-11f1-9db0-d18c5759e759/w:1024/p:16x9/EN-20261104-084604-084817-CS.jpg"
-    },
-    {
-     "title": "Four oil tankers destroyed in Hormuz after hitting mines, Tehran says",
-     "url": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says",
-     "source": "\u00a9 Majid Asgaripour, West Asia News Agency via Reuters",
-     "published": "2026-11-04T08:43:31+00:00",
-     "summary": "Four oil tankers caught fire after hitting mines in the Strait of Hormuz, Tehran claimed Wednesday, a day after US President Donald Trump said the United States had launched strike",
-     "image": "https://s.france24.com/media/display/be2077cc-aabc-11f1-a324-005056bf30b7/w:1024/p:16x9/2026-09-05T073044Z-418193367-RC2RCNA4KO6N-RTRMADP-3-IRAN-CRISIS-HORMUZ.jpg"
-    },
-    {
-     "title": "Republicans fuming after Democrat Talarico flips Texas Senate blue",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/republicans-fuming-after-democrat-talarico-flips-texas-senate-blue?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T08:42:50+00:00",
-     "summary": "Republicans in Texas are trying to make sense of how they lost to the Democrats for the first time in almost 40 years.",
-     "image": ""
-    },
-    {
-     "title": "Becerra elected California governor, Prop. 39 rejected as election results for key 2026 races roll in",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUld6QlFlbElNQml0ejBjOXREaUwzdzZERkdvaGNuQVoza1ZibUVEejREeFNIdlBocmc5NWppOERqOERObl9YQzJYQS1IMkU4dTYxMFpBRGx6WDg3N1FHQnF5LWtSQ3RCVERUSWMwd2dNek9oYXdua2FQVE5lYURKWTJLdlgtLWdoby1ES0NMQmNFVlZvVUptSVBQRGp0bzE5aVJsT3FRdWduU3VnR1dEZlBPc3laTFk?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-04T08:42:29+00:00",
-     "summary": "Becerra elected California governor, Prop. 39 rejected as election results for key 2026 races roll in&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Minute-by-minute updates on the 2026 election",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUxvY05zU0dBdUpzcGFwS3JvZURjSzhRMWo0aXN6dXM5bjBJRERfRGNnWGdfUVZua1k4dHVNUmtZZ0QwSDlLaDJNRmNsb1hST3dsN0hHeTZmZjJQamtJQndxajRCeUhJZzNPZmFXNHNiT2pDa1pkWklKWnFOYUFjcHpfWF82TnkxSU45Vk5GZXByQQ?oc=5",
-     "source": "Votebeat",
-     "published": "2026-11-04T08:34:49+00:00",
-     "summary": "Minute-by-minute updates on the 2026 election&nbsp;&nbsp;Votebeat",
+     "title": "Democratic Gov. Tina Kotek wins re-election bid in Oregon",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYzY4V25QVW94REpTRkdNZkViWjZXRmN3SFo0MVN2SDFFYVBnZkJkVDZKME1PT0E5U3RlY3JJR0hkb1NOQ3FUaDFTYVYzeTZfZFpvX0RBNTlfZHNYczR1RHl0ZGFjeG1IU09VZnFaYzVEcjFyeVVQQ2NpVnU1dUwtRFhjeEx6OGI2dzU1dlk0X2dXMlFKd3M5N1RyZXRXUEp0QjBnOGFWYkFqWGRkMjlscXQzSnp2ZUI1aUROX1phYzFsSHRBUldV?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-04T08:50:00+00:00",
+     "summary": "Democratic Gov. Tina Kotek wins re-election bid in Oregon&nbsp;&nbsp;NBC News",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-04T09:23:16.268910+00:00",
+   "fetched_at": "2026-11-04T09:23:29.945188+00:00",
    "stale": false,
    "items": [
     {
