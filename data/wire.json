@@ -1,12 +1,68 @@
 {
- "generated_at": "2026-11-04T02:52:11.540073+00:00",
+ "generated_at": "2026-11-04T03:22:16.492983+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-04T02:52:11.540041+00:00",
+   "fetched_at": "2026-11-04T03:22:16.492952+00:00",
    "stale": false,
    "items": [
     {
-     "title": "US Midterms: Democrats flip Senate seat in North Carolina",
+     "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+     "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T03:16:37+00:00",
+     "summary": "EU says supermarket hacks in at least 11 countries are &#039;not isolated&#039;, but a Romanian official suspects no state actor.",
+     "image": ""
+    },
+    {
+     "title": "US midterm elections 2026 live updates: Democrats win key Senate and House races in battle for control of Congress",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+     "source": "The Guardian",
+     "published": "2026-11-04T03:14:23+00:00",
+     "summary": "Democrats Roy Cooper, Jon Ossoff, and Chris Pappas notch key Senate wins; Florida Republican Ashley Moody and Byron Donalds prevail in Senate and governor races, respectivelyTrack ",
+     "image": "https://i.guim.co.uk/img/media/45a902cc795ca19f2a311b02ad8124e87628b493/0_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=f97c83b6a06d0e8351b44f48bb7fba93"
+    },
+    {
+     "title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
+     "source": "The Guardian",
+     "published": "2026-11-04T03:11:26+00:00",
+     "summary": "Rising Democratic star made his re-election campaign a referendum on the Trump administration\u2019s misdeedsUS midterm elections \u2013 live updatesTrack live results from all 50 statesJon ",
+     "image": "https://i.guim.co.uk/img/media/a8a2468cf86e121bf772fd951dc3411eeb18d984/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=838527c68cb5b671eed108abccce71d1"
+    },
+    {
+     "title": "Democrats poised to flip House in midterm elections after two turbulent years of Trump",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
+     "source": "The Guardian",
+     "published": "2026-11-04T03:01:56+00:00",
+     "summary": "Victory for party comes despite unusual and aggressive efforts by Republicans to redraw congressional districtsUS midterm elections \u2013 live updatesTrack live results from all 50 sta",
+     "image": "https://i.guim.co.uk/img/media/bc0ff1eb304e5bb81f3084face46257e483a195d/1_0_3364_2693/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=e4b2f281d457ce3d4fd38063f50e4d8d"
+    },
+    {
+     "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+     "source": "The Guardian",
+     "published": "2026-11-04T03:01:51+00:00",
+     "summary": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in fullUS midterm elections \u2013 live u",
+     "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
+    },
+    {
+     "title": "Trump-endorsed Republican Byron Donalds becomes Florida\u2019s first Black governor",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/florida-governor-byron-donalds-david-jolly-desantis",
+     "source": "The Guardian",
+     "published": "2026-11-04T02:56:01+00:00",
+     "summary": "Donalds, who billed campaign as \u2018a continuation of the DeSantis-era of success\u2019, becomes state\u2019s first black governorUS midterm elections \u2013 live updatesTrack live results from all ",
+     "image": "https://i.guim.co.uk/img/media/5faa84c7326a90ee891ebe11b9c7f6ede0bf93b4/675_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=e3e8f26819913a079aa788860937c7b3"
+    },
+    {
+     "title": "Midterms: Abdul El-Sayed, Mike Rogers face off for Michigan Senate seat",
+     "url": "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
+     "source": "France 24",
+     "published": "2026-11-04T02:53:45+00:00",
+     "summary": "With New Hampshire and Georgia staying in Democratic hands, Republicans now look to Michigan for a pickup, where Democrat Abdul El-Sayed is competing with Republican Mike Rogers. F",
+     "image": "https://s.france24.com/media/display/dc5ddf66-d7fa-11f1-a8fe-d18c5759e759/w:1024/p:16x9/capture-b2e393bd.jpg"
+    },
+    {
+     "title": "US midterm elections: Democrats flip Senate seat in North Carolina",
      "url": "https://www.france24.com/en/video/20261104-us-midterms-democrats-flip-senate-seat-in-north-carolina",
      "source": "France 24",
      "published": "2026-11-04T02:46:07+00:00",
@@ -22,22 +78,6 @@
      "image": "https://i.guim.co.uk/img/media/b4e1beb9289777d2f43ea37d46d243b60ee7efff/822_0_4941_3953/master/4941.jpg?width=140&quality=85&auto=format&fit=max&s=27a8bb0ba02f6caea11a9d528f622203"
     },
     {
-     "title": "Democrats poised to sweep Florida congressional districts redrawn by Republicans",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-florida-wins-redistricting",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:44:01+00:00",
-     "summary": "Major blow to Trump\u2019s party as effort to redraw maps in its favor fizzles on excellent night for Democrats in FloridaUS midterm elections \u2013 live updatesTrack live results from all ",
-     "image": "https://i.guim.co.uk/img/media/679fc5a59ec6591167c53fc59f00780f2538bc24/530_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=f22e7dbaf3f6e59c16ae591980a6b3ff"
-    },
-    {
-     "title": "US midterm elections 2026 live updates: Democrats show strength in key Senate and House races in battle for control of Congress",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:40:46+00:00",
-     "summary": "Democrats Roy Cooper, Jon Ossoff, and Chris Pappas notch key Senate wins; Florida Republican Ashley Moody and Byron Donalds prevail in Senate and governor races, respectivelyTrack ",
-     "image": "https://i.guim.co.uk/img/media/45a902cc795ca19f2a311b02ad8124e87628b493/0_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=f97c83b6a06d0e8351b44f48bb7fba93"
-    },
-    {
      "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
      "url": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
      "source": "The Guardian",
@@ -46,36 +86,12 @@
      "image": "https://i.guim.co.uk/img/media/266f4c58f8e7d0232209b2bdc9e37d3fc51472fb/0_0_3702_2962/master/3702.jpg?width=140&quality=85&auto=format&fit=max&s=f413770cc7f76d33cb402714147bb2ce"
     },
     {
-     "title": "Minnesotans leave \u2018I Voted\u2019 stickers at Alex Pretti and Renee Good memorials as \u2018democracy guardians\u2019 watch polls",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/minneapolis-i-voted-stickers-alex-pretti-memorial",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:35:15+00:00",
-     "summary": "Residents send message on deportations while grassroots organizers aim to prevent federal election interferenceUS midterm elections \u2013 live updatesTrack live results from all 50 sta",
-     "image": "https://i.guim.co.uk/img/media/5b1f24cdf98e331bda1a9d69d48d3122547fcd3c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=077b734925f8a2ce045d17323f4a8f4b"
-    },
-    {
-     "title": "Democrats look poised to win House control in midterm elections after two turbulent years of Trump",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:34:11+00:00",
-     "summary": "Victory for the party comes despite unusual and aggressive efforts by Republicans to redraw congressional districtsUS midterm elections \u2013 live updatesTrack live results from all 50",
-     "image": "https://i.guim.co.uk/img/media/bc0ff1eb304e5bb81f3084face46257e483a195d/1_0_3364_2693/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=e4b2f281d457ce3d4fd38063f50e4d8d"
-    },
-    {
      "title": "Keisha Lance Bottoms makes history as Georgia\u2019s first Black woman governor",
      "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-04T02:25:51+00:00",
      "summary": "Bottoms, a former adviser to ex-President Joe Biden, beat Republican Rick Jackson.",
      "image": ""
-    },
-    {
-     "title": "Key US Senate races called as Democrats aim to retake chamber from Republicans",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:22:08+00:00",
-     "summary": "Roy Cooper wins election in North Carolina as Democrats hope disapproval with Trump gives them advantageUS midterm elections \u2013 live updatesTrack live results from all 50 statesDemo",
-     "image": "https://i.guim.co.uk/img/media/5d352c76e8cff67f4382f6010c168f71b2b7ccb9/55_0_3760_3008/master/3760.jpg?width=140&quality=85&auto=format&fit=max&s=7c879f61ce9ede76731c7d0f6145587b"
     },
     {
      "title": "Uber pays its drivers \u2018wages\u2019 and is liable for $81m payroll tax bill, Australia\u2019s high court rules",
@@ -100,29 +116,21 @@
      "published": "2026-11-04T01:39:46+00:00",
      "summary": "Kazakhstan has released a second Siberian tiger, this time a male named Amur, into a nature reserve.",
      "image": ""
-    },
-    {
-     "title": "\ud83d\udd34 Midterms live: Democrat Roy Cooper flips first Senate seat, follow the results",
-     "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-     "source": "France 24",
-     "published": "2026-11-04T01:38:44+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
-     "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T01:36:33+00:00",
-     "summary": "Roy Cooper beat out Republican Michael Whatley.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-04T02:52:11.540057+00:00",
+   "fetched_at": "2026-11-04T03:22:16.492967+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+     "source": "The Guardian",
+     "published": "2026-11-04T03:01:51+00:00",
+     "summary": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in fullUS midterm elections \u2013 live u",
+     "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
+    },
     {
      "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHlUZFVMYWpEOXAzb1dVNVhKOFJ3Wjh5MVZtVGNpV0M1X1U3UjlkbHNQRmFQcVZ1TG5Zc2NSQkJWbURydGpXeTJtMHgtWGV0bW9SWEdIbmM5V2lDSmhMTUNEbWJqYkdTbnBYRzdJU0wxS3NpdlRSVnVfSEw1ZmNYMGxDSlJzaUMzTGhZZmktcDhNd3p1YkZMTGgxTVFnMkpMbVlNWjB3ODMzV0UyN3dBSVQwZ3BJUWxx?oc=5",
@@ -210,44 +218,76 @@
      "published": "2026-11-03T23:15:00+00:00",
      "summary": "Hail Melania Trump, the one US diplomat making a difference in the Russia-Ukraine war&nbsp;&nbsp;New York Post",
      "image": ""
-    },
-    {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 4, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Yb29QcTk2dzJybXNQYkU0OVdJQ0t3Z2FYMGdZc3hpNElLTmc4ZGpHZ1hlOG1ybm5MVmhveXBaSHR6YTFQdEhmX2RyRWdtQQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-03T23:05:37+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 4, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-04T02:52:11.540061+00:00",
+   "fetched_at": "2026-11-04T03:22:16.492971+00:00",
    "stale": false,
    "items": [
     {
-     "title": "North Carolina U.S. House Midterm Election 2026: Live Results",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNHRRemMxeVMzbE9NUlpVRGt4Zk8xZXJLcUFNN3VDeXU0bW9mV2F3T24tLV9KMjFBc1h0TlRkV2NoTUdlMWpWeGd0d0U5SDByX0gzQ0JmSmI3TlFnMkZpVkhYa3ctRzNEb2NzNXlKUklnNTRXaTJLQmZDODdDYzVLbVpn?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-04T02:47:45+00:00",
-     "summary": "North Carolina U.S. House Midterm Election 2026: Live Results&nbsp;&nbsp;NBC News",
+     "title": "US midterm elections 2026 live updates: Democrats win key Senate and House races in battle for control of Congress",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+     "source": "The Guardian",
+     "published": "2026-11-04T03:14:23+00:00",
+     "summary": "Democrats Roy Cooper, Jon Ossoff, and Chris Pappas notch key Senate wins; Florida Republican Ashley Moody and Byron Donalds prevail in Senate and governor races, respectivelyTrack ",
+     "image": "https://i.guim.co.uk/img/media/45a902cc795ca19f2a311b02ad8124e87628b493/0_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=f97c83b6a06d0e8351b44f48bb7fba93"
+    },
+    {
+     "title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
+     "source": "The Guardian",
+     "published": "2026-11-04T03:11:26+00:00",
+     "summary": "Rising Democratic star made his re-election campaign a referendum on the Trump administration\u2019s misdeedsUS midterm elections \u2013 live updatesTrack live results from all 50 statesJon ",
+     "image": "https://i.guim.co.uk/img/media/a8a2468cf86e121bf772fd951dc3411eeb18d984/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=838527c68cb5b671eed108abccce71d1"
+    },
+    {
+     "title": "Texas 2026 live midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGlrOU8xeEN6Q3hvMmNDMHJlN3FTZ3l2LUl2dHd6YmkySG03OWRtdnNlVnVUWmxZb3ZQbWRtSG95OFl5Q0xSZzk2Z2lNcVBXbUxqakE2b0stLTNQQi1SNF9OUmF1QndLZFBlbDU1RThxM1NKakJnaEhUbHViUGJKcEttTnl4aHluczBQamVzcmJJZ9IBlwFBVV95cUxNbFc2NmhISFAtNUwycUllOEtmWTNoQ005UlFxRWxjUTlYS0pOSjVYdzkwUmVwRWUyc2JBU25pb2pKWWU2WkJBbUNlREtmOU93Yi1HQkFRNi1lTFNiSWoyZlpCUU81SkJfSDhYTmRVanBVYUlGOHZFYWsxT3lISXNwb1RwYzFMWHRVTDRYR2luVldyTThRamdv?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-11-04T03:11:15+00:00",
+     "summary": "Texas 2026 live midterm election results&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
      "image": ""
     },
     {
-     "title": "US Midterms: Democrats flip Senate seat in North Carolina",
+     "title": "Democrats poised to flip House in midterm elections after two turbulent years of Trump",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
+     "source": "The Guardian",
+     "published": "2026-11-04T03:01:56+00:00",
+     "summary": "Victory for party comes despite unusual and aggressive efforts by Republicans to redraw congressional districtsUS midterm elections \u2013 live updatesTrack live results from all 50 sta",
+     "image": "https://i.guim.co.uk/img/media/bc0ff1eb304e5bb81f3084face46257e483a195d/1_0_3364_2693/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=e4b2f281d457ce3d4fd38063f50e4d8d"
+    },
+    {
+     "title": "Trump-endorsed Republican Byron Donalds becomes Florida\u2019s first Black governor",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/florida-governor-byron-donalds-david-jolly-desantis",
+     "source": "The Guardian",
+     "published": "2026-11-04T02:56:01+00:00",
+     "summary": "Donalds, who billed campaign as \u2018a continuation of the DeSantis-era of success\u2019, becomes state\u2019s first black governorUS midterm elections \u2013 live updatesTrack live results from all ",
+     "image": "https://i.guim.co.uk/img/media/5faa84c7326a90ee891ebe11b9c7f6ede0bf93b4/675_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=e3e8f26819913a079aa788860937c7b3"
+    },
+    {
+     "title": "Midterms: Abdul El-Sayed, Mike Rogers face off for Michigan Senate seat",
+     "url": "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
+     "source": "France 24",
+     "published": "2026-11-04T02:53:45+00:00",
+     "summary": "With New Hampshire and Georgia staying in Democratic hands, Republicans now look to Michigan for a pickup, where Democrat Abdul El-Sayed is competing with Republican Mike Rogers. F",
+     "image": "https://s.france24.com/media/display/dc5ddf66-d7fa-11f1-a8fe-d18c5759e759/w:1024/p:16x9/capture-b2e393bd.jpg"
+    },
+    {
+     "title": "False accusations and unverified claims quickly spread about Election Day voting",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmJYMVV0OEFVbHI4cFA0dEI4eUtTcGlteXhwV2JiVEFwbE9ZQlo3azZxS0UzbFZveF8yZFZtZy16UVVTc1pRMnBCUW16YjhBMkROTTQ0b2NSOURIYTdNNDFxOGhkM1c2VlJUNFBucnJlNVFBdUNqTWhtQjJ2bXg0MUZYcmJaSFRNZ0JXNGtjZzVBWUJIcHRVRWEwX3VHQ2w1VnJobEtYcEdvSmRfTjJhVG9lelJyVGdNdlHSAb8BQVVfeXFMTnZvODkzaEpWaFlKOEM4Uld0QmUxSlZOWHkxMzNRdGp1UHBPY2p6VDJnTDRWRFI4UUh1RTNYZld3SmE2MWkwVUlsaE9MZk1yUFdfVmNiWWJoWEpENHZuYVdVYWJvajBJbEk5S1pKTFc5ckZ2UzlJZm9MUmhvY21KOWZzclN0MjZWakFVNGM2SFhHZmk1dEl1QVAtczI2aWVBTjV4OG5vbUJTaDdrQlZla0dzejEzSGZWMVRJTE9JX1U?oc=5",
+     "source": "PBS",
+     "published": "2026-11-04T02:53:01+00:00",
+     "summary": "False accusations and unverified claims quickly spread about Election Day voting&nbsp;&nbsp;PBS",
+     "image": ""
+    },
+    {
+     "title": "US midterm elections: Democrats flip Senate seat in North Carolina",
      "url": "https://www.france24.com/en/video/20261104-us-midterms-democrats-flip-senate-seat-in-north-carolina",
      "source": "France 24",
      "published": "2026-11-04T02:46:07+00:00",
      "summary": "Democrats have flipped a Senate seat in North Carolina as they try to recapture majorities in Congress and break Republicans\u2019 unified hold on power in Washington. France 24's Flore",
      "image": "https://s.france24.com/media/display/39130d60-d7f8-11f1-8bf4-d18c5759e759/w:1024/p:16x9/EN-20261104-030003-030547-CS.jpg"
-    },
-    {
-     "title": "U.S. House Midterm Election Live Results 2026",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zb3FDMGdwaC1OZmxSWVh1cThkeDRQcVlLaFh2NUg1WlJuX19CMV82aHJrajJvM3RrZGpmeHMyWjRzcXptN1V2NWVSb2F0OVZUc19tSXNjb1EyaUgxcmtOeFJhdlJZU3Bob0JWb2xn?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-04T02:45:50+00:00",
-     "summary": "U.S. House Midterm Election Live Results 2026&nbsp;&nbsp;NBC News",
-     "image": ""
     },
     {
      "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
@@ -258,44 +298,12 @@
      "image": "https://i.guim.co.uk/img/media/b4e1beb9289777d2f43ea37d46d243b60ee7efff/822_0_4941_3953/master/4941.jpg?width=140&quality=85&auto=format&fit=max&s=27a8bb0ba02f6caea11a9d528f622203"
     },
     {
-     "title": "Democrats poised to sweep Florida congressional districts redrawn by Republicans",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-florida-wins-redistricting",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:44:01+00:00",
-     "summary": "Major blow to Trump\u2019s party as effort to redraw maps in its favor fizzles on excellent night for Democrats in FloridaUS midterm elections \u2013 live updatesTrack live results from all ",
-     "image": "https://i.guim.co.uk/img/media/679fc5a59ec6591167c53fc59f00780f2538bc24/530_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=f22e7dbaf3f6e59c16ae591980a6b3ff"
-    },
-    {
-     "title": "Florida House District 25 Midterm Election 2026: Live Results",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzk1ZlNMc0p3ZjBfQ254dlZ2WmdydXdOUml6SVBFVnYwZ3Z6ZlUzVU5JWG5tRlM0dndhaW54QzUzRlAwdHNzbHNEUF9PdDVkVUN0aTNwdkVmU2JoQnVyZVRFRW96cnVrTVZGQWpJYnNJb3lfRDFSTmpQVDZtUlRZQU5uYVUyUzU5MWNYOA?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-04T02:41:59+00:00",
-     "summary": "Florida House District 25 Midterm Election 2026: Live Results&nbsp;&nbsp;NBC News",
+     "title": "Election 2026: Hageman defeats Byrd for Wyoming U.S. Senate seat",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFpsX2t6S0tUMnZMekN0UUUtYzJhS2VMRDRPZWpEMlJfRWNVUDFQa0cyR0xhWjM3WU5rTnJJajlDNTdLT2JvcGtMcVpYNXNXVXhNdDdMYldkaXVqeXRhTjZfMjE1TWM2am9vQjBhVFRSZ2lKakJ4WkdfOVA3M0lyUkd2UnQxeUphdUE0OWVTS0VGeFFBc3pZTGRxT3RlUllXSFlzN1lZNW1Jb1ZjTm93R0pJMDRrZw?oc=5",
+     "source": "Oil City News",
+     "published": "2026-11-04T02:28:00+00:00",
+     "summary": "Election 2026: Hageman defeats Byrd for Wyoming U.S. Senate seat&nbsp;&nbsp;Oil City News",
      "image": ""
-    },
-    {
-     "title": "US midterm elections 2026 live updates: Democrats show strength in key Senate and House races in battle for control of Congress",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:40:46+00:00",
-     "summary": "Democrats Roy Cooper, Jon Ossoff, and Chris Pappas notch key Senate wins; Florida Republican Ashley Moody and Byron Donalds prevail in Senate and governor races, respectivelyTrack ",
-     "image": "https://i.guim.co.uk/img/media/45a902cc795ca19f2a311b02ad8124e87628b493/0_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=f97c83b6a06d0e8351b44f48bb7fba93"
-    },
-    {
-     "title": "Minnesotans leave \u2018I Voted\u2019 stickers at Alex Pretti and Renee Good memorials as \u2018democracy guardians\u2019 watch polls",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/minneapolis-i-voted-stickers-alex-pretti-memorial",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:35:15+00:00",
-     "summary": "Residents send message on deportations while grassroots organizers aim to prevent federal election interferenceUS midterm elections \u2013 live updatesTrack live results from all 50 sta",
-     "image": "https://i.guim.co.uk/img/media/5b1f24cdf98e331bda1a9d69d48d3122547fcd3c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=077b734925f8a2ce045d17323f4a8f4b"
-    },
-    {
-     "title": "Democrats look poised to win House control in midterm elections after two turbulent years of Trump",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:34:11+00:00",
-     "summary": "Victory for the party comes despite unusual and aggressive efforts by Republicans to redraw congressional districtsUS midterm elections \u2013 live updatesTrack live results from all 50",
-     "image": "https://i.guim.co.uk/img/media/bc0ff1eb304e5bb81f3084face46257e483a195d/1_0_3364_2693/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=e4b2f281d457ce3d4fd38063f50e4d8d"
     },
     {
      "title": "Keisha Lance Bottoms makes history as Georgia\u2019s first Black woman governor",
@@ -306,25 +314,17 @@
      "image": ""
     },
     {
-     "title": "Voter Guide: 2026 General Election",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wRUlvNjZmTU5xa1FvOFZHSEJ5WUR4M2hNVWI0VmphcHNGZXBIbndSRnplSUFVRVNobDA1QzNXd0V3c0tlWUZENThqUWQweVlEME9xdXU3d2lQdkd6NV84QXUyRnNGOW4tSXRfY0ZGRVo?oc=5",
-     "source": "Idaho Capital Sun",
-     "published": "2026-11-04T02:22:20+00:00",
-     "summary": "Voter Guide: 2026 General Election&nbsp;&nbsp;Idaho Capital Sun",
+     "title": "Pennsylvania 2026 Election Results",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyaGdNRlZkTUpGWkdGZUZ5a0dqYkdBc2o5djQ5MDFWRk1oNkt3clFNUkExcVFCLWJfQXpWZmxPT29ZMUFpdTNFUTNJZ3J3N0U0V1gwLVNuZ3hHUHJiQVdHdFhpeUFXYVJJd3NLQnlB?oc=5",
+     "source": "MultiState",
+     "published": "2026-11-04T02:25:35+00:00",
+     "summary": "Pennsylvania 2026 Election Results&nbsp;&nbsp;MultiState",
      "image": ""
-    },
-    {
-     "title": "Key US Senate races called as Democrats aim to retake chamber from Republicans",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
-     "source": "The Guardian",
-     "published": "2026-11-04T02:22:08+00:00",
-     "summary": "Roy Cooper wins election in North Carolina as Democrats hope disapproval with Trump gives them advantageUS midterm elections \u2013 live updatesTrack live results from all 50 statesDemo",
-     "image": "https://i.guim.co.uk/img/media/5d352c76e8cff67f4382f6010c168f71b2b7ccb9/55_0_3760_3008/master/3760.jpg?width=140&quality=85&auto=format&fit=max&s=7c879f61ce9ede76731c7d0f6145587b"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-04T02:52:11.540064+00:00",
+   "fetched_at": "2026-11-04T03:22:16.492974+00:00",
    "stale": false,
    "items": [
     {
