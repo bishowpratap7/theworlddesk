@@ -1,49 +1,73 @@
 {
- "generated_at": "2026-11-04T05:52:49.573176+00:00",
+ "generated_at": "2026-11-04T06:22:53.337009+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-04T05:52:49.573142+00:00",
+   "fetched_at": "2026-11-04T06:22:53.336981+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-     "source": "The Guardian",
-     "published": "2026-11-04T05:43:21+00:00",
-     "summary": "Democrats flip seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; Trump says he will accept results in a dire night for RepublicansTrack live results from all 5",
-     "image": "https://i.guim.co.uk/img/media/2caf8037204f882b7aa19cde62094ae5685774af/620_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=849ad19e43978aeeab54115deaadd5de"
-    },
-    {
-     "title": "Democrat Gina Hinojosa defeats Texas governor Greg Abbott in stunning upset",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas",
-     "source": "The Guardian",
-     "published": "2026-11-04T05:40:21+00:00",
-     "summary": "Hinojosa wins momentous victory, shatters Republican grip on key office and will become state\u2019s first Latina governorUS midterm elections \u2013 live updatesTrack live results from all ",
-     "image": "https://i.guim.co.uk/img/media/ae2ef97772e53ba30bf1809451ccbbc7d73c7b02/3221_440_5419_4334/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=5be17d0ffc23c57f1222e13c44753cbe"
-    },
     {
      "title": "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans",
      "url": "https://www.theguardian.com/us-news/2026/nov/03/maine-senate-midterm-results",
      "source": "The Guardian",
-     "published": "2026-11-04T05:38:01+00:00",
+     "published": "2026-11-04T06:15:02+00:00",
      "summary": "Democratic nominee toppled the five-term Republican incumbent in one of the most hard-fought midterm contestsUS midterm elections \u2013 live updatesTrack live results from all 50 state",
      "image": "https://i.guim.co.uk/img/media/bc1d16b6af52207f57dcde8388b8470ecc0bb132/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b68c58c519312f8c5e35242c72e4bc66"
-    },
-    {
-     "title": "Democrat Rob Sand wins Iowa\u2019s gubernatorial race as party plans rebuild",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/rob-sand-wins-iowa-governor-election",
-     "source": "The Guardian",
-     "published": "2026-11-04T05:31:33+00:00",
-     "summary": "Sand, auditor for state with strong Trump support, defeats Maha-backed Republican Zach Lahn as Democrats win bigUS midterms 2026 live \u2013 latest updatesTrack live results from all 50",
-     "image": "https://i.guim.co.uk/img/media/58f6e5eac9460ae193987df5c679f02ca9e68170/1335_979_5606_4485/master/5606.jpg?width=140&quality=85&auto=format&fit=max&s=f07287e36d6b5f07461fe50d93621911"
     },
     {
      "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
      "source": "The Guardian",
-     "published": "2026-11-04T05:28:59+00:00",
+     "published": "2026-11-04T06:14:29+00:00",
      "summary": "Latest results suggest the Democrats are almost certain to win a House majority, having already seized control of the Senate. Find live updating results in full hereUS midterm elec",
      "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
+    },
+    {
+     "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-04T06:14:20+00:00",
+     "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f263/live/3f174b00-d815-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+     "source": "The Guardian",
+     "published": "2026-11-04T06:11:21+00:00",
+     "summary": "Democrats flip seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; Trump says he will accept results in a dire night for RepublicansTrack live results from all 5",
+     "image": "https://i.guim.co.uk/img/media/067258ace158545540961dc58329b3c90432c420/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=7820e01da9141204610a649122fd418b"
+    },
+    {
+     "title": "Democrat Rob Sand wins Iowa\u2019s gubernatorial race as party plans rebuild",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/rob-sand-wins-iowa-governor-election",
+     "source": "The Guardian",
+     "published": "2026-11-04T06:10:54+00:00",
+     "summary": "Sand, auditor for state with strong Trump support, defeats Maha-backed Republican Zach Lahn as Democrats win bigUS midterms 2026 live \u2013 latest updatesTrack live results from all 50",
+     "image": "https://i.guim.co.uk/img/media/58f6e5eac9460ae193987df5c679f02ca9e68170/1335_979_5606_4485/master/5606.jpg?width=140&quality=85&auto=format&fit=max&s=f07287e36d6b5f07461fe50d93621911"
+    },
+    {
+     "title": "Democrat Gina Hinojosa defeats Texas governor Greg Abbott in stunning upset",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas",
+     "source": "The Guardian",
+     "published": "2026-11-04T06:04:12+00:00",
+     "summary": "Hinojosa wins momentous victory, shatters Republican grip on key office and will become state\u2019s first Latina governorUS midterm elections \u2013 live updatesTrack live results from all ",
+     "image": "https://i.guim.co.uk/img/media/ae2ef97772e53ba30bf1809451ccbbc7d73c7b02/3221_440_5419_4334/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=5be17d0ffc23c57f1222e13c44753cbe"
+    },
+    {
+     "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
+     "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T05:49:43+00:00",
+     "summary": "CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.",
+     "image": ""
+    },
+    {
+     "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
+     "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T05:27:30+00:00",
+     "summary": "Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.",
+     "image": ""
     },
     {
      "title": "Midterms: Why is California slower at counting its votes?",
@@ -92,52 +116,44 @@
      "published": "2026-11-04T05:00:25+00:00",
      "summary": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absenceThe UK has apologised to Ukrainian child refugees ",
      "image": "https://i.guim.co.uk/img/media/b8b0aec11536af2c3c7b7cf86a5da84b4af00125/454_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=74b474865059c12e3680ed91f940a352"
-    },
-    {
-     "title": "Democrat Josh Turek flips Iowa Senate seat",
-     "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T04:55:10+00:00",
-     "summary": "Turek beat Republican Ashley Hinson, a US House member.",
-     "image": ""
-    },
-    {
-     "title": "Trump and Republicans trampled in the midterms",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T04:47:55+00:00",
-     "summary": "Al Jazeera\u2019s Alan Fisher says Republicans are facing a worse-than-expected midterm performance.",
-     "image": ""
-    },
-    {
-     "title": "Iran says US reply to Hormuz plan \u2018unconvincing\u2019; Trump confirms strikes",
-     "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T04:39:31+00:00",
-     "summary": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-04T05:52:49.573162+00:00",
+   "fetched_at": "2026-11-04T06:22:53.336995+00:00",
    "stale": false,
    "items": [
     {
      "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
      "source": "The Guardian",
-     "published": "2026-11-04T05:43:21+00:00",
+     "published": "2026-11-04T06:11:21+00:00",
      "summary": "Democrats flip seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; Trump says he will accept results in a dire night for RepublicansTrack live results from all 5",
-     "image": "https://i.guim.co.uk/img/media/2caf8037204f882b7aa19cde62094ae5685774af/620_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=849ad19e43978aeeab54115deaadd5de"
+     "image": "https://i.guim.co.uk/img/media/067258ace158545540961dc58329b3c90432c420/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=7820e01da9141204610a649122fd418b"
     },
     {
      "title": "Democrat Rob Sand wins Iowa\u2019s gubernatorial race as party plans rebuild",
      "url": "https://www.theguardian.com/us-news/2026/nov/03/rob-sand-wins-iowa-governor-election",
      "source": "The Guardian",
-     "published": "2026-11-04T05:31:33+00:00",
+     "published": "2026-11-04T06:10:54+00:00",
      "summary": "Sand, auditor for state with strong Trump support, defeats Maha-backed Republican Zach Lahn as Democrats win bigUS midterms 2026 live \u2013 latest updatesTrack live results from all 50",
      "image": "https://i.guim.co.uk/img/media/58f6e5eac9460ae193987df5c679f02ca9e68170/1335_979_5606_4485/master/5606.jpg?width=140&quality=85&auto=format&fit=max&s=f07287e36d6b5f07461fe50d93621911"
+    },
+    {
+     "title": "Why Are Indonesians Dying in Ukraine?",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTlmaVVHNjZsRFU4R1djc2RmeE5iVUpNQjVkYW1uTlBPOXY5aGNmcDB5UkcwQi1PMXNUV0tpTWd6WGFPcXN0ODJyS0pfdGFITzFfd05jMGZKeFF3SzI3bXduV0ozX3JsSGNfZnA1dy1NQ05EMm9LNU9YNnN2Nk96SXVJQzhDOVBleWRyYzRDdjVvT3dYMDY1Z0hySkFqa1B3TXVZdFFFVmR1THprWERaXzh6RTJEaHFQSkE?oc=5",
+     "source": "Foreign Policy",
+     "published": "2026-11-04T06:03:05+00:00",
+     "summary": "Why Are Indonesians Dying in Ukraine?&nbsp;&nbsp;Foreign Policy",
+     "image": ""
+    },
+    {
+     "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
+     "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T05:49:43+00:00",
+     "summary": "CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.",
+     "image": ""
     },
     {
      "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
@@ -202,42 +218,26 @@
      "published": "2026-11-04T03:36:09+00:00",
      "summary": "Georgia Senator Jon Ossoff was reelected Tuesday to a second term, holding a key seat for Democrats by defeating Republican Representative Mike Collins in a race that catapulted th",
      "image": "https://s.france24.com/media/display/b38b5bd6-d7ff-11f1-8783-1beafce15fea/w:1024/p:16x9/EN-20261104-033315-034435-CS.jpg"
-    },
-    {
-     "title": "South Carolina elects Democratic senator for first time in almost three decades",
-     "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-04T03:24:34+00:00",
-     "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e5f/live/0aeeffa0-d804-11f1-85f7-474f0be56cef.jpg"
-    },
-    {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 4, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BSjliT3JweE40ck8zWVdEQWdEM083MC1SdVpTVUhMNjJRNkN5cVNqa0dzV1BxdXJucVA5LUJJX0QtamVESnJNdm96eGYzdw?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-04T02:09:20+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 4, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-04T05:52:49.573165+00:00",
+   "fetched_at": "2026-11-04T06:22:53.336998+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Democrat Gina Hinojosa defeats Texas governor Greg Abbott in stunning upset",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas",
-     "source": "The Guardian",
-     "published": "2026-11-04T05:40:21+00:00",
-     "summary": "Hinojosa wins momentous victory, shatters Republican grip on key office and will become state\u2019s first Latina governorUS midterm elections \u2013 live updatesTrack live results from all ",
-     "image": "https://i.guim.co.uk/img/media/ae2ef97772e53ba30bf1809451ccbbc7d73c7b02/3221_440_5419_4334/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=5be17d0ffc23c57f1222e13c44753cbe"
+     "title": "Ballot Measure 2, repeal of Alaska\u2019s election system, trails with many votes uncounted",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUI2MXRKaTJvdnoySzRTX08xandoVHhrQXotbXduajlhMlRZV3dJOFlhcGJBMjdDTkNHaTd1RHlWa2c1R3JmeHVidGJlSW5yTzEwcGctQXpSYXp5LTN5WVFfRDNlNFNVSWNpNkZYQ1Q5WEhGN1h2QXFpMzY5NXVNb3NsV01lb1dPemJKb1ZLU01la3RqZEVKZ0QzUVJCcFlNdFhxVUlqUEhHamdTNWZ6N2p6S3FYYW1URzJSaA?oc=5",
+     "source": "Alaska Beacon",
+     "published": "2026-11-04T06:16:44+00:00",
+     "summary": "Ballot Measure 2, repeal of Alaska\u2019s election system, trails with many votes uncounted&nbsp;&nbsp;Alaska Beacon",
+     "image": ""
     },
     {
      "title": "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans",
      "url": "https://www.theguardian.com/us-news/2026/nov/03/maine-senate-midterm-results",
      "source": "The Guardian",
-     "published": "2026-11-04T05:38:01+00:00",
+     "published": "2026-11-04T06:15:02+00:00",
      "summary": "Democratic nominee toppled the five-term Republican incumbent in one of the most hard-fought midterm contestsUS midterm elections \u2013 live updatesTrack live results from all 50 state",
      "image": "https://i.guim.co.uk/img/media/bc1d16b6af52207f57dcde8388b8470ecc0bb132/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b68c58c519312f8c5e35242c72e4bc66"
     },
@@ -245,86 +245,86 @@
      "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
      "source": "The Guardian",
-     "published": "2026-11-04T05:28:59+00:00",
+     "published": "2026-11-04T06:14:29+00:00",
      "summary": "Latest results suggest the Democrats are almost certain to win a House majority, having already seized control of the Senate. Find live updating results in full hereUS midterm elec",
      "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
     },
     {
-     "title": "US midterms: \"Keeping our fingers crossed\" (Leila Meresman)",
-     "url": "https://www.france24.com/en/video/20261104-us-midterms-keeping-our-fingers-crossed-leila-meresman",
-     "source": "France 24",
-     "published": "2026-11-04T05:15:46+00:00",
-     "summary": "Democrats who once saw the political map as an almost impossible lift are now hopeful that a Senate majority is within reach, even though their path runs through several more conse",
-     "image": "https://s.france24.com/media/display/1609c5de-d807-11f1-b309-bf1914cabd52/w:1024/p:16x9/EN-20261104-041245-042303-CS.jpg"
+     "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-04T06:14:20+00:00",
+     "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f263/live/3f174b00-d815-11f1-b441-2b33b063138f.jpg"
     },
     {
-     "title": "Santa Barbara County Live Election Results: 2026",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZejgwYTlzQ21mUl9xSmhyTVB5QlhMWGtuZFFMVDVOWGRIT2toeHkyQmlXa0p2eTU5Wm5fZkZUOXhnNWNjRG95STlYOHZybzA0TU9vQjhNa3FSTU9xY25JNkhqVDNScGliNEZfZXd2dnBZTHBHNkUzbTZfVlVPRVk?oc=5",
-     "source": "Santa Barbara News-Press",
-     "published": "2026-11-04T05:03:45+00:00",
-     "summary": "Santa Barbara County Live Election Results: 2026&nbsp;&nbsp;Santa Barbara News-Press",
+     "title": "Democrat Gina Hinojosa defeats Texas governor Greg Abbott in stunning upset",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas",
+     "source": "The Guardian",
+     "published": "2026-11-04T06:04:12+00:00",
+     "summary": "Hinojosa wins momentous victory, shatters Republican grip on key office and will become state\u2019s first Latina governorUS midterm elections \u2013 live updatesTrack live results from all ",
+     "image": "https://i.guim.co.uk/img/media/ae2ef97772e53ba30bf1809451ccbbc7d73c7b02/3221_440_5419_4334/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=5be17d0ffc23c57f1222e13c44753cbe"
+    },
+    {
+     "title": "Live updates: Election Day 2026 in Oregon",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPanhMY3JnQ3Z2VFVQeUhtMnA5X21OSzcxdERUdjl1MmJQc1pfVnZaelRkUG1vWm5EcE55b3VTbjg1Z05DVUtxRzFESzVuWDltd3BoUUVROEcxd3BZSVVOV0lrSktSNVBBTldtZ2VYXzF3VmFBeUU4Q1ZTMS1hQVlmaldjbmRoVkZmS1dFTHdQZEpGUms?oc=5",
+     "source": "OregonLive.com",
+     "published": "2026-11-04T05:58:00+00:00",
+     "summary": "Live updates: Election Day 2026 in Oregon&nbsp;&nbsp;OregonLive.com",
      "image": ""
     },
     {
-     "title": "Democrats win big in midterm elections",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMFMyWVA4MThqMWhrYm1VeVZNTFNJSzJjOGFOZHliaVZSWEdTV1JkTWdNMEdacDRwZ1I3dURLcC02eEJDbXY0RFVOUDFwQVhDUzlFRnZqYmNjV1I4MC1WeDdwRlhSUHE5ZFVyOGthQ3RBNXhvU295aHV3SnRsVUo3aUtXOTVwVG8?oc=5",
-     "source": "NPR",
-     "published": "2026-11-04T05:01:00+00:00",
-     "summary": "Democrats win big in midterm elections&nbsp;&nbsp;NPR",
+     "title": "Record number of female governors elected",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHdsYnFfUFZfVGl4cjRXQ0hkdXJnQy1IOTJiMDdMRmd1UDZzakEyWTNXRWtYT0I5WVk1NXpINW1QaUQwRHF6UmVQQ0xHN21uekhvZTBkb0d1cHVYMEVjZkpfMEZUcUx3dGZoUjVINlJwSU9zSVo0MzdnYU9qZzZxZm96MENrY2lYaEZGV3g0a2FXRjVuT2NSd0R2bE8?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-04T05:45:00+00:00",
+     "summary": "Record number of female governors elected&nbsp;&nbsp;NBC News",
      "image": ""
     },
     {
-     "title": "Democrat Josh Turek flips Iowa Senate seat",
-     "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T04:55:10+00:00",
-     "summary": "Turek beat Republican Ashley Hinson, a US House member.",
+     "title": "Democrat Christina Bohannan wins election to U.S. House in Iowa's 1st Congressional District",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOW5XUnJSTzZGdVUwQjBVLW9tS3A1am5VSnVOb1JpTU9FUDNZeUd1YVVESS1QTG5oZnhCUjlheUJUc2UyUE9yS09JbVJHVnNEeEJNN2Z4cE1iQWpjSl9LNWFNT0NNbkIyVUtqdUtUeUtqUjg2cjY2UEhLRVhob1NMV21Gd2cwalR3N1A4Z2gtakZXcjNpQzJ6VGdKamRsMDV3bkJLZXkwZ21LMFR1dXlXbEIyejV0VGJ4SHdLXzlEWXV5bm1KZHNF0gHMAUFVX3lxTE1wWldIUzQ3Um13OUF1NDVoNmNGNUVKRVVDWWw5UVFJdVJvU1dyVzlJeHlySWsxVkhiNlJCaVBXSFREcmhITkZQcFV2UGRwdW1jS21kVVNsU2VXVHJ6Nm1HcFNxS3JQeTU0ckpkUUVHN2RGUGtQLWN6S2xtR05rbzNBVU9fMFFHa0RWemlEcVc3N2sxLXBZUlZDTENJNHBfMGI3T243NFRxLXBPZWFFQTk2VlNSN0NqZzNWU0hMenpnWjFneGIyNzh6U2FwVw?oc=5",
+     "source": "PBS",
+     "published": "2026-11-04T05:43:15+00:00",
+     "summary": "Democrat Christina Bohannan wins election to U.S. House in Iowa's 1st Congressional District&nbsp;&nbsp;PBS",
      "image": ""
     },
     {
-     "title": "Midterm Election Results (Live Updates): Democrats Win Senate In Stunning Rout",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0xQOWtNdEZTOC00UHBIR3VLWmhUb0I3WjIxWlZSSnMyVjAzRF9yT3hCd2pFSkhaTzI0NG1NVXB1cTRMYUJjdXRrWjhUalNnUDAzMWpHeDd6ZjhLM1YybUdMSTZQa09DVjlwbFQ0VllVRHVJZmpuNDlzLVVZdW1QOVhxcm9QUzZrS3g4THlXRHFkZ3AwbzdCMm1mYk14Nzktb2VMczFWbWU0RlVROWJGNFNlWUtwbExmQkNIbHZWbVNGVFU?oc=5",
+     "title": "The historic firsts of the 2026 election",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzQ3BRWjVJOVllcFZfNnVtQmlGcjhBQ2k3MW9faFg0TmNjeTgwdW1YazUwVUI3UTJxY25rTEtZOXZkSllub0R5M0NLUEZCek1CVHRCYXRhdXNIUktxUEFNaUgtR1VrNGpDTWdKSzRzdzRnaUx2cm1IZA?oc=5",
+     "source": "CNN",
+     "published": "2026-11-04T05:41:51+00:00",
+     "summary": "The historic firsts of the 2026 election&nbsp;&nbsp;CNN",
+     "image": ""
+    },
+    {
+     "title": "Trump Congratulates Democrats On Midterm Election Wins",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0JGdkV0clBBOXhJSmxmSmJrQzhDWVBhWGZFQ21IblMxaU0wV0NMVlNCVEFWUmtBLXI1VWlWQlZFdzJub0s1NU5WM3ctZG9DQUctZHBOT2h1QUJ1UUVjVHlUZmlwUHFyajBRbk95eUNsczZsMWMxWlVqVVlScEhsSjJpQlMxckNJdWNINmRJUjhlTzBCblg5dHUzSGVRTXBuYkZBUTE5UnRXVjRYVkQ5VF9xLURvcVR4OGVsdQ?oc=5",
      "source": "Forbes",
-     "published": "2026-11-04T04:49:00+00:00",
-     "summary": "Midterm Election Results (Live Updates): Democrats Win Senate In Stunning Rout&nbsp;&nbsp;Forbes",
+     "published": "2026-11-04T05:41:00+00:00",
+     "summary": "Trump Congratulates Democrats On Midterm Election Wins&nbsp;&nbsp;Forbes",
      "image": ""
     },
     {
-     "title": "\ud83d\udd34 Midterms live : Democrats take control of Senate, ending Republican dominance in Washington",
-     "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-     "source": "France 24",
-     "published": "2026-11-04T04:37:39+00:00",
-     "summary": "",
+     "title": "President Trump says he will accept the results of the election",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeER3aFYzV2JWSjFybFRDcWdVWkNyVGFHNm5WM0J4NFZaMVVPVFB3YjdteGxxdW0xaHFuSktzdkJta3dad1JEcExMaVZ5NHIycFN6SGV4YnEwdjBtSE5kdWVIWjVvTnRWdVFVVXpWRFZhYm9xSUJaY0V4aS04Nm5HN19UcTBOTXM0b0k1eWYxS0wwOGdiNE9tNVVleWNIWUtYelJBZ3A5S1otRkktaFNVOUp3S0FNUmRLdFFBVGM0V19aY0E?oc=5",
+     "source": "CNN",
+     "published": "2026-11-04T05:41:00+00:00",
+     "summary": "President Trump says he will accept the results of the election&nbsp;&nbsp;CNN",
      "image": ""
     },
     {
-     "title": "Democratic Party flips US Senate in 2026 midterm elections",
-     "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T04:37:05+00:00",
-     "summary": "The outcome is widely seen as a rebuke to Trump&#039;s Republican Party, which won control of the chamber in 2024.",
-     "image": ""
-    },
-    {
-     "title": "Election results for Colorado Proposition NN: Measure to move TABOR money to education is ahead",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbGNWXy12b3dINjdablVvbHd0WWlMbjc3QWlrN1c0UHlqeE94Zklkcm9GTFk4cFFOYVNtQktZT2t1cGlTQW1oNjFxVVVZNXJVQ0o1blQ5eGRTcTJHOGtsUGhCcDhUZV9ENHZCZ1Vxbl9ranMybHFkQ2hMU2ViTDF3QlZDTkwwb2RPbmRWYjI4ZFdQZG8?oc=5",
-     "source": "Colorado Public Radio",
-     "published": "2026-11-04T04:34:04+00:00",
-     "summary": "Election results for Colorado Proposition NN: Measure to move TABOR money to education is ahead&nbsp;&nbsp;Colorado Public Radio",
-     "image": ""
-    },
-    {
-     "title": "Results Come in for Midterms That Will Shape Rest of Trump\u2019s Presidency",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFE2MnhLMmZSZVptb3p4TlhDQzBUMEpZWERVaHN2dG1YbTJZWGRKZWZvM1laTzRubG5WLXdkMW93bW80VEhOcjhFRm92TTdJNlQtSGF5bWFkZWZDak54ZVdCYmdrS3dEQ2hvT0dpaGtJQ0tVbnNENFNtRHpDQWhfN3dFZlpaY2NucHBaSFN1NU4xWGpLdXBhMkxBU0tMSDluQ3NET0FQcDdabExT?oc=5",
-     "source": "Time Magazine",
-     "published": "2026-11-04T04:32:42+00:00",
-     "summary": "Results Come in for Midterms That Will Shape Rest of Trump\u2019s Presidency&nbsp;&nbsp;Time Magazine",
+     "title": "San Antonio voters go honking downtown after historic Texas election",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0N2SlEwSzJtVVNSZVNFY3NwWER3TlUwaDNZZG84UHN1TGNsWEZ1cExDWHBiaS1Dem9LVm40TFpzSTgwaDliVnhYemZhLXdRTThVZ3BFMGZKNlBHR1BjWkZCT1BvWkszTFlpVVBkNFpaN3Nqb0trUzVyX294bS1abTgtLUxMOUEwZzFfVEJRQWdGRnNBMURDc1ZsaGNNdG1OZ3hYS1BsOHhrb0VfRW1pSjJ3?oc=5",
+     "source": "KSAT",
+     "published": "2026-11-04T05:37:09+00:00",
+     "summary": "San Antonio voters go honking downtown after historic Texas election&nbsp;&nbsp;KSAT",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-04T05:52:49.573168+00:00",
+   "fetched_at": "2026-11-04T06:22:53.337000+00:00",
    "stale": false,
    "items": [
     {
