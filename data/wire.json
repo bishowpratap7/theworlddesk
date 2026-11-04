@@ -1,12 +1,76 @@
 {
- "generated_at": "2026-11-03T23:51:48.008170+00:00",
+ "generated_at": "2026-11-04T00:21:52.054465+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-03T23:51:48.008137+00:00",
+   "fetched_at": "2026-11-04T00:21:52.054434+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Trump fatigue, democracy, cost of living are top issues with US voters, AP survey finds",
+     "title": "US midterm elections 2026 live updates: polls close in some key states as Americans deliver referendum on Trump\u2019s second term",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+     "source": "The Guardian",
+     "published": "2026-11-04T00:08:53+00:00",
+     "summary": "Voters say the economy and state of democracy are crucial issues for them as Americans decide the direction of Congress for remainder of Trump\u2019s termTrack live results from all 50 ",
+     "image": "https://i.guim.co.uk/img/media/f38e53992a4d4710d5f5aa36f21725c50d113210/698_0_7202_5760/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=aef90719611db7cfb59cdca37268b008"
+    },
+    {
+     "title": "Ballot scanner glitch disrupts voting in New York",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T00:08:02+00:00",
+     "summary": "There have been voting machine scanner failures at polling sites 50 km north of New York City",
+     "image": ""
+    },
+    {
+     "title": "US midterm voting goes smoothly with only a handful of issues nationwide",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-voting-problems",
+     "source": "The Guardian",
+     "published": "2026-11-04T00:03:52+00:00",
+     "summary": "Voting machine issues affected Westchester county, New York, but emergency ballots were provided to votersUS midterm elections \u2013 live updatesTrack live results from all 50 statesVo",
+     "image": "https://i.guim.co.uk/img/media/da3524f6824cc3ecf46db3ff917688bfa94a2c71/0_0_4915_3933/master/4915.jpg?width=140&quality=85&auto=format&fit=max&s=2dc752f4e32d2010848effcf23132653"
+    },
+    {
+     "title": "ANC under pressure to reverse South Africa decline",
+     "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-04T00:03:19+00:00",
+     "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Houses of Parliament at risk of \u2018Notre Dame-style fire\u2019 as renovation costs rise",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
+     "source": "The Guardian",
+     "published": "2026-11-04T00:01:18+00:00",
+     "summary": "Report says cost of maintenance could soon reach \u00a32m a week, including 24-hour patrols to avert fire riskThe Palace of Westminster will be at risk of a Notre Dame-style fire or a s",
+     "image": "https://i.guim.co.uk/img/media/4e450e588a2ccf37ad5e5de47f1b2aabdba8f9df/284_0_4216_3372/master/4216.jpg?width=140&quality=85&auto=format&fit=max&s=b571dc86350409b63cbaebd1ea3f9613"
+    },
+    {
+     "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+     "source": "The Guardian",
+     "published": "2026-11-04T00:00:02+00:00",
+     "summary": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in fullUS midterm elections - live u",
+     "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
+    },
+    {
+     "title": "Iran war live: Tehran prepares \u2018maximum deterrence\u2019 plan for any new attack",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T00:00:00+00:00",
+     "summary": "Iran says a &#039;maximum deterrence&#039; plan is ready against any new US attack, warning of an immediate response.",
+     "image": ""
+    },
+    {
+     "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+     "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-03T23:58:36+00:00",
+     "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b6/live/6d128820-d7cb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds",
      "url": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
      "source": "\u00a9 Kristopher Radder/The Brattleboro Reformer via AP",
      "published": "2026-11-03T23:46:02+00:00",
@@ -14,20 +78,12 @@
      "image": "https://s.france24.com/media/display/8f173e06-d7d6-11f1-a16f-a575454bc579/w:1024/p:16x9/Vote.jpg"
     },
     {
-     "title": "US midterm elections 2026 live updates: economy a top issue for voters as Americans deliver referendum on Trump\u2019s second term",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-     "source": "The Guardian",
-     "published": "2026-11-03T23:40:54+00:00",
-     "summary": "Voters say the economy and state of democracy are crucial issues for them as Americans decide the direction of Congress for remainder of Trump\u2019s termTrack live results from all 50 ",
-     "image": "https://i.guim.co.uk/img/media/f38e53992a4d4710d5f5aa36f21725c50d113210/698_0_7202_5760/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=aef90719611db7cfb59cdca37268b008"
-    },
-    {
-     "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
-     "source": "The Guardian",
-     "published": "2026-11-03T23:30:14+00:00",
-     "summary": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in fullUS midterm elections - live u",
-     "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
+     "title": "Where have there been technical issues so far during US midterm elections?",
+     "url": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T23:42:36+00:00",
+     "summary": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
+     "image": ""
     },
     {
      "title": "First polls close in pivotal US midterm elections",
@@ -60,91 +116,35 @@
      "published": "2026-11-03T22:45:59+00:00",
      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "US voters share why they cast their ballots \u2013 from frustration with Trump to affordability concerns",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/republican-voters-maine-susan-collins-trump",
-     "source": "The Guardian",
-     "published": "2026-11-03T22:30:16+00:00",
-     "summary": "\u2018It\u2019s the disregard for the rule of law. It just seems like they\u2019re thumbing their nose at it\u2019US midterms 2026 live \u2013 latest updatesTrack live results from all 50 statesIn the batt",
-     "image": "https://i.guim.co.uk/img/media/7a0163ffaecac12be495826c441c423c341b552f/691_0_6885_5511/master/6885.jpg?width=140&quality=85&auto=format&fit=max&s=96e3c2d1f86ff82280001b93fa64c9f9"
-    },
-    {
-     "title": "US midterm voters poised to deliver verdict on Trump\u2019s second term",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-voters-republican-democrats-trump-second-term",
-     "source": "The Guardian",
-     "published": "2026-11-03T22:30:16+00:00",
-     "summary": "Results will determine makeup of Congress and other key offices and could define president\u2019s final two years in officeUS midterms 2026 live \u2013 latest updatesTrack live results from ",
-     "image": "https://i.guim.co.uk/img/media/023f69a6ffd36ab865e11fb6600a253e2541db33/0_0_4393_3515/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=1fa3261d0099503fd8968d090275b93f"
-    },
-    {
-     "title": "US midterm election results live: Polls start closing in some states",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T22:30:00+00:00",
-     "summary": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.",
-     "image": ""
-    },
-    {
-     "title": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
-     "url": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
-     "source": "France 24",
-     "published": "2026-11-03T22:28:56+00:00",
-     "summary": "As Americans head to the polls for the midterm elections, Fran\u00e7ois Picard welcomes historian Timothy Snyder, professor at the University of Toronto's Munk School of Global Affairs,",
-     "image": "https://s.france24.com/media/display/75819288-d7cd-11f1-b8fc-a575454bc579/w:1024/p:16x9/EN-20261103-183022-184342-CS.jpg"
-    },
-    {
-     "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
-     "url": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
-     "source": "NPR",
-     "published": "2026-11-03T22:25:15+00:00",
-     "summary": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned the",
-     "image": ""
-    },
-    {
-     "title": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
-     "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T22:19:13+00:00",
-     "summary": "Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.",
-     "image": ""
-    },
-    {
-     "title": "King Charles addresses summit as demands for slavery apology grow",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
-     "source": "The Guardian",
-     "published": "2026-11-03T22:15:19+00:00",
-     "summary": "Speaking in Antigua, the king did not give explicit support for reparations but said he wanted to \u2018address past wrongs\u2019King Charles has said that deepening his understanding of the",
-     "image": "https://i.guim.co.uk/img/media/f13d813f4944225d9e3fdd9b53b81ee380e526e0/458_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=e3a274eb471db4c17ff19528c8c24639"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-03T23:51:48.008153+00:00",
+   "fetched_at": "2026-11-04T00:21:52.054448+00:00",
    "stale": false,
    "items": [
     {
      "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
      "source": "The Guardian",
-     "published": "2026-11-03T23:30:14+00:00",
+     "published": "2026-11-04T00:00:02+00:00",
      "summary": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in fullUS midterm elections - live u",
      "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
     },
     {
-     "title": "Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONGtkVWx5RjFIcHZEdjJ1WWd6ZVRUMXRkUWNLZnhmQlBCVXZ5SnExMGhHTE1JQVdiWG9BdEpWZ0U3R3I1V0RqeWlKSFNaYlJ5MkZmbzlyMy1XaVlyVUZSSFJOY1U5SDdhQmhieVFyRjJzenlXZHViTmJUeDQ5M3lCeG5EWU16d3NxeElaYy0wNFQ4cmlRUlRyN1FhRnhyYmJ2dVpxZFBSdWRfR1o1emxVWnBENW1rOVpwX2E4?oc=5",
-     "source": "Columbia Missourian",
-     "published": "2026-11-03T23:24:25+00:00",
-     "summary": "Russia Ukraine War&nbsp;&nbsp;Columbia Missourian",
+     "title": "Iran war live: Tehran prepares \u2018maximum deterrence\u2019 plan for any new attack",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-04T00:00:00+00:00",
+     "summary": "Iran says a &#039;maximum deterrence&#039; plan is ready against any new US attack, warning of an immediate response.",
      "image": ""
     },
     {
-     "title": "APTOPIX Germany Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFJiR1FQYl95UWlDYlZjY19QS1lHcHJMUkVJNUdpQ0Q2d0ZjVDg3LUJ0VFZndjhQNVpNS29Ic2pEQTNpNUh1TWVIVzhOVnJIMzJIaEZLWjJHZlpfT2Exd1NzdjFwWWdkal95dHdEODhqTjFrZkZpMGl2X2loWHFTckdsYXJHUmVvY241TlRTeVoxZ1Nxa0tvTjNaaklGTkdzNDRxU0tCSGFHTW9EcXRHV0dEWWFOTnhmZEdFLUJyZXU5QQ?oc=5",
-     "source": "Columbia Missourian",
-     "published": "2026-11-03T23:24:20+00:00",
-     "summary": "APTOPIX Germany Ukraine&nbsp;&nbsp;Columbia Missourian",
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXFZLW9CMFNfRUxEYVpYOFpBdmZ1X25GYkpKTmlWRzRfSjNnYzdGM2xDY0U1YVVTNE50ZEd5UFhuY0RsNVl0cGFsN2dfMm9ORzNGamcwM0N6V1E1QWk3Y0lUQWRqUGdIeFE4NHFRYzh4WGt6WGRtd3NXU2VfZUNBbXhmb0tUb040MVpkX1RlcTR6MlVQemItRw?oc=5",
+     "source": "TelegraphHerald.com",
+     "published": "2026-11-03T23:40:02+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;TelegraphHerald.com",
      "image": ""
     },
     {
@@ -161,6 +161,14 @@
      "source": "New York Post",
      "published": "2026-11-03T23:15:00+00:00",
      "summary": "Hail Melania Trump, the one US diplomat making a difference in the Russia-Ukraine war&nbsp;&nbsp;New York Post",
+     "image": ""
+    },
+    {
+     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 4, 2026 from Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Yb29QcTk2dzJybXNQYkU0OVdJQ0t3Z2FYMGdZc3hpNElLTmc4ZGpHZ1hlOG1ybm5MVmhveXBaSHR6YTFQdEhmX2RyRWdtQQ?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-03T23:05:37+00:00",
+     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 4, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
      "image": ""
     },
     {
@@ -210,121 +218,113 @@
      "published": "2026-11-03T21:35:42+00:00",
      "summary": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdownOne of the \u201cgodfathers of AI\u201d, Geoffrey Hinton, has said it could turn out t",
      "image": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=140&quality=85&auto=format&fit=max&s=72ea6b35d68dbf21a28aa061a29ce3fb"
-    },
-    {
-     "title": "Palestinian families return home after Israeli siege of Hebron",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T21:15:17+00:00",
-     "summary": "Palestinian families return home after Israeli siege of Hebron",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-03T23:51:48.008157+00:00",
+   "fetched_at": "2026-11-04T00:21:52.054452+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Trump fatigue, democracy, cost of living are top issues with US voters, AP survey finds",
-     "url": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
-     "source": "\u00a9 Kristopher Radder/The Brattleboro Reformer via AP",
-     "published": "2026-11-03T23:46:02+00:00",
-     "summary": "Roughly 6 in 10 voters deeply disapprove of US President Donald Trump's presidency, according to an AP survey released Tuesday. About 4 in 10 say the economy is the most important ",
-     "image": "https://s.france24.com/media/display/8f173e06-d7d6-11f1-a16f-a575454bc579/w:1024/p:16x9/Vote.jpg"
-    },
-    {
-     "title": "Polls begin to close in midterm elections as voters pass judgment on Trump\u2019s second term",
+     "title": "Polls are closing in midterm elections as voters pass judgment on Trump\u2019s second term",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
      "source": "AP News",
-     "published": "2026-11-03T23:45:00+00:00",
-     "summary": "Polls begin to close in midterm elections as voters pass judgment on Trump\u2019s second term&nbsp;&nbsp;AP News",
+     "published": "2026-11-04T00:16:00+00:00",
+     "summary": "Polls are closing in midterm elections as voters pass judgment on Trump\u2019s second term&nbsp;&nbsp;AP News",
      "image": ""
     },
     {
-     "title": "US midterm elections 2026 live updates: economy a top issue for voters as Americans deliver referendum on Trump\u2019s second term",
+     "title": "US midterm elections 2026 live updates: polls close in some key states as Americans deliver referendum on Trump\u2019s second term",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
      "source": "The Guardian",
-     "published": "2026-11-03T23:40:54+00:00",
+     "published": "2026-11-04T00:08:53+00:00",
      "summary": "Voters say the economy and state of democracy are crucial issues for them as Americans decide the direction of Congress for remainder of Trump\u2019s termTrack live results from all 50 ",
      "image": "https://i.guim.co.uk/img/media/f38e53992a4d4710d5f5aa36f21725c50d113210/698_0_7202_5760/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=aef90719611db7cfb59cdca37268b008"
     },
     {
-     "title": "Wisconsin election results and live counts for 2026 midterm election",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlJXMHhRY2dPdXpxcTBCdGM1RUdPb00yTjJNbl9sQ0N2MnNUUlk2TUhHamI5ZDNQdXJIUi1FUlF2NGNLd1lVcUpKRjZHdnBLTTlCTUdBZ1dvQV80cUh2eHVyaExWYWZzcVNhMXk0WjBNY0s1NzBZTmtkMVZXeFZrR21YaUpydWxtWmYyRVVyOTBQeEh3M0hZUkttR0lkT2stZW1MWWJEVkNTNkNR?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-03T23:33:00+00:00",
-     "summary": "Wisconsin election results and live counts for 2026 midterm election&nbsp;&nbsp;CBS News",
+     "title": "US midterm voting goes smoothly with only a handful of issues nationwide",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-voting-problems",
+     "source": "The Guardian",
+     "published": "2026-11-04T00:03:52+00:00",
+     "summary": "Voting machine issues affected Westchester county, New York, but emergency ballots were provided to votersUS midterm elections \u2013 live updatesTrack live results from all 50 statesVo",
+     "image": "https://i.guim.co.uk/img/media/da3524f6824cc3ecf46db3ff917688bfa94a2c71/0_0_4915_3933/master/4915.jpg?width=140&quality=85&auto=format&fit=max&s=2dc752f4e32d2010848effcf23132653"
+    },
+    {
+     "title": "ANC under pressure to reverse South Africa decline",
+     "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-04T00:03:19+00:00",
+     "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Franklin County election results, live updates for 2026 midterm",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkFEbXJQbGtna1A5QWxCTXI3QnBlZ2tTdW1YcjBYbFZ3WjAwcVBQdVFVT0Q3Ty1UN21TV2xfZlhNSG9aN3YxbzRsVmFTZ2tmWVlkQ1dmNHpCU3pjaFAzbzhCZWxCa05kaV9uMkQ3WVYtWXVONE9jYWt2MlJkdEtZb2ZTbUl1MmRSX2VWN1dpc3BjeTZPaWt6TkJCZGxfdFpMc2ZFR2tVS0F5bV9mSkR4UUxNMC0xRjZlSUUwNWl6V052UHFlX2ZVWUgxcmxSa1ZEU2o1dGVUTDBoZw?oc=5",
+     "source": "10tv.com",
+     "published": "2026-11-04T00:03:00+00:00",
+     "summary": "Franklin County election results, live updates for 2026 midterm&nbsp;&nbsp;10tv.com",
      "image": ""
     },
     {
-     "title": "Midterm Election Results (Live Updates): First Polls Close",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODQ1QTNnbTBrVlNBSXpUTnBxZDlpTmlhUTJwUVVqSVBsMEhlSXA0SWZXMmgyM0JsaXAzamFlTm12RERQMTF1YUQxcHAzTzdRQ2dkUnZZSWNCX29pcmM2MElXd3hIZjl3enpMOXo0d0l5bVVaZERLWnFEZkF6S09oS1FDV04xRzlVMmxnRWU2YVdfM3RKQ1FaTGVWd0hnYzV1ajZaelFjRkY?oc=5",
-     "source": "Forbes",
-     "published": "2026-11-03T23:27:00+00:00",
-     "summary": "Midterm Election Results (Live Updates): First Polls Close&nbsp;&nbsp;Forbes",
+     "title": "Virginia projected midterm election winners | Live Updates",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZ19UbE0wdG0tdTRXUTVoZTEwUGhvU2d5M2hocXZ3VVhzT1RGVWUtSEo0YVhwNzVJS3ZPVC00bUdWWmdVZHVuUHlJTnVBanozdC1YTTQ3Z2NGemdTUDFGU0drZUFGWVJlMUhvdno3NzE2dFpSUXlZSEZnbGwwRjRBcHMtRzhHR0pPMVptdU9WU0JpZkdFeEtYbVVBa3pDZEpzXzl5SzJqYmdqSkluS2ROeWtxMUJBTjY3cDhhMUVqUU9leWw3X2IyeFdhNUVyUHdhOVNEUG5Qcmh0VWUtbTVNMWhwNEZLcVlNQ25QWHpjdWpFamhIbThmS1d1WWhyUTZaUkRfQ1NlM1R2RVRrYmFzMWRBS0FTblYxT3RvelJzdk1wVk00QWZvczk0N2ZFUVVUb1VxVg?oc=5",
+     "source": "WUSA9",
+     "published": "2026-11-04T00:03:00+00:00",
+     "summary": "Virginia projected midterm election winners | Live Updates&nbsp;&nbsp;WUSA9",
      "image": ""
     },
     {
-     "title": "First election night polls close with Trump in battle mode",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2NuQjk0WHBCeHd2cklzXzluYnhEMmU2LWR4UmQ3RWpra3FTTUU1dGNzNjNZSUktanE0VnBzZ1Zta2FHSEF6eTV1MnI3WkZTVi13TXRpdFZRR1ktdnlTVHp1ZDh5N2xJOTdIZjd4OE8tV1Y3OHNJMWtla1gyNmhveGt1OHFxNWZD?oc=5",
-     "source": "Axios",
-     "published": "2026-11-03T23:26:15+00:00",
-     "summary": "First election night polls close with Trump in battle mode&nbsp;&nbsp;Axios",
+     "title": "Houses of Parliament at risk of \u2018Notre Dame-style fire\u2019 as renovation costs rise",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
+     "source": "The Guardian",
+     "published": "2026-11-04T00:01:18+00:00",
+     "summary": "Report says cost of maintenance could soon reach \u00a32m a week, including 24-hour patrols to avert fire riskThe Palace of Westminster will be at risk of a Notre Dame-style fire or a s",
+     "image": "https://i.guim.co.uk/img/media/4e450e588a2ccf37ad5e5de47f1b2aabdba8f9df/284_0_4216_3372/master/4216.jpg?width=140&quality=85&auto=format&fit=max&s=b571dc86350409b63cbaebd1ea3f9613"
+    },
+    {
+     "title": "Election Day 2026: Photos from around the country : The Picture Show",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcjFlbUlZajJnT1M0R0c4aWVBZXZfSFl4Ym50RnNmOWxBOHRLd2E5eHhwWTY2MzJqT19lOEdVbkhOMUUza0JweFRrS3VNbERaNVdWNE56OTVsSTF6SmEyZk5Cd0VJYTNaRFFPV3h3cTRna2RCWXlDbldaOExpYjV2aS1jbE9sYXdTTkE2RXVrbzNLVGhiT3BRU2RKUDNMOTZJMGViUnN2cjVLdlZFeDBEcU8yc3BRYjZl?oc=5",
+     "source": "NPR",
+     "published": "2026-11-04T00:00:10+00:00",
+     "summary": "Election Day 2026: Photos from around the country : The Picture Show&nbsp;&nbsp;NPR",
      "image": ""
     },
     {
-     "title": "Live election results: Minnesota governor",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjMm5BWGVTWWtacUQ0SHRKaUhRRnl5STF6RlhjcHMzcVZkcldYc1BMbmdmZGZZTWxCMVAyTEJSMUxqN0JkN1B1UWJRUUlDLWxlek5RS0FfMW1UM0tOcTVzS0pRLWo4SUc1V2FoZ0p4MUxmVFFP?oc=5",
-     "source": "FOX 9 Minneapolis-St. Paul",
-     "published": "2026-11-03T23:22:29+00:00",
-     "summary": "Live election results: Minnesota governor&nbsp;&nbsp;FOX 9 Minneapolis-St. Paul",
+     "title": "2026 Midterm Election Results",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uZE5meWRKYlJBb2oyWDZYbTRRMnhZUUQ5V1dFbWV3WWtRU1hVcTZZTHowYmxoZDFOak1IeVoxek4wV3RSdzNiOGstQlFBMUZaZ0RZX2tyQVR5V0VKMVRNU25LY191SkxrY0w3UG1va18zZw?oc=5",
+     "source": "WVIR",
+     "published": "2026-11-04T00:00:00+00:00",
+     "summary": "2026 Midterm Election Results&nbsp;&nbsp;WVIR",
      "image": ""
     },
     {
-     "title": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VlcDd4VEtEWWtPYUNnck5rekRyWlBCQmc5ZW9odGVWVDlLdDN3NlZzZHRuMXk5TDZ5YjY4QmpKc3RZc2RaTkVGc3hEbEIxb2c4aFRhNGhPM0gtSlRsaDM1Y2V3RWYwbXBVTjVBYlU5TnhLU0hiLVpfTldKbXg3UDZxbzEwMEppSEN0YzM1SDlrb0xETjMzWEtqSnNlMUhUSFE?oc=5",
-     "source": "AP News",
-     "published": "2026-11-03T23:21:00+00:00",
-     "summary": "Election Day unfolds with relatively few problems. Some voters disrupted by weather, machine issues&nbsp;&nbsp;AP News",
+     "title": "\ud83d\udd34LIVE: Election Results",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iUjRYbjNkUWs2Q2lpS3VVQzZpZC0tQ2ZlQl9iMU9DQ0VLb1JXYkhuV2VhanR4Q0s3dEhLU2szdnhrN0FSZW9TSWpkUjdMOVd1ci05bzRxZHhCR005UzZDcXdqdnViTkVNUEtJ?oc=5",
+     "source": "Live 5 News",
+     "published": "2026-11-03T23:58:00+00:00",
+     "summary": "\ud83d\udd34LIVE: Election Results&nbsp;&nbsp;Live 5 News",
      "image": ""
     },
     {
-     "title": "Analysis | Five races that will tell us where election night is headed",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0xUdXB0RUx3NkRsczJ6RnJON1VEai1nbGlTVWxQZUE0TmtmV0p5dFpmUVlGcXU2NjNMU2ZpY1Y4TXg0VUkxYmFJbVNpUWRfc19UcU82MmdRYkZnUklDZlRaT3lDVkpkLXd6bEtSdGx6UEQyX3gydGx2QU1oak5Jc3REdldkRVVpWkM3dVZmeHI4NkFyTEF2WTNPV2VPRlo5NGNDWk5aZmw1Mk5FcGh1ZQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-03T23:19:46+00:00",
-     "summary": "Analysis | Five races that will tell us where election night is headed&nbsp;&nbsp;The Washington Post",
+     "title": "Inside Iowa Politics: Why this national election legal scholar is concerned about close elections",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZXFXbzVoQUtXTFFleDdPeHcxWGtDblFPbDIzX1VJbTA1d3F1X2d3MUE0eUFLZWdUVVVUYWZkZ1B1Y2lPYmxLUnB0NVJNRVgwUFU1UDFtTUhpaVdYS0hXaXMyR2JOdWhHLWthamFIMEFHdjczLVFQTDdIelNHalctaWdGdV9yU2VRNDNHOGxLemYzRzE4Mk4tOU5pZDdSX0JGOGZjVVhUcnRGRHJ1ZmFLbDg1TGppbk5tOGJpNm5HRHhfd01ScW9hNdIB3AFBVV95cUxQSERsWF9ZSTBYeFpGeUtvaFJfcU4ydzQ3SXdiYXNmZTMyRS1yeVlVXzRHOW1NdmZUVmZjcldyQnBZTjJPbllTWWZEaDdwOFlUMExRTzlhd2VRek9ZVGtndFpJYnNpbzlLZ3Q0RHlYcGNBZ1NnaW1VVzE1T2NKd21ta2ZJanpOWmhsUHpkRG4wU3lwNWlFYmpNaDJqZEhOQW1EWHhSUFhqR3Z2VDR4YnllelpuWVFPNGZicmRsdVJHVE00RHJuT2hQTmZ0VDUtcEhLdlZRME1nWWczTHNR?oc=5",
+     "source": "KTIV",
+     "published": "2026-11-03T23:56:00+00:00",
+     "summary": "Inside Iowa Politics: Why this national election legal scholar is concerned about close elections&nbsp;&nbsp;KTIV",
      "image": ""
     },
     {
-     "title": "Federal election monitors arrive in Colorado amid election scrutiny",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43cV93cEhlWWRzS0wwb1c1TEwzUWtnSzRtQVNYV0pRRkhBaU9RdjRTY2g2eTFzMWl4eFp2eDFRZldrTDFWMHJpdXlBb3JjSGFkR1BrdVpCRG5va0RIV2dlNlJGUl93UDB1VGlzaFJnYWh4bi10YWNoZlN3?oc=5",
-     "source": "Colorado Public Radio",
-     "published": "2026-11-03T23:19:44+00:00",
-     "summary": "Federal election monitors arrive in Colorado amid election scrutiny&nbsp;&nbsp;Colorado Public Radio",
-     "image": ""
-    },
-    {
-     "title": "Virginia Beach: November 2026 Election Results",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeVJYRWNxYU4yc0t1MHlMTkZoYzlzbmpFdVBrOW55TGRUemQxeGpxQWFiY0hHM2tFRDAwby1sT2phU3hsV0w2bXJVeEpnUWdNOW5NSlNHTllaWXdhVjBrcGEzSnFpRndGR2hnekRtNDZjR21Iay0wVEpDRURubV9mQWVwUXh5M2FEOGpYUzZtZVA0dUZidjZPbll2cVNiY1nSAaQBQVVfeXFMTVZPNlNCNGRhc0V2S3BBbDFteTFFTDFPemdjMU8zNDhpaUMtN3R4eHdPT2dlUnFQSUdkUHVWWU9aMUtTTGk2MU4tTTZHQkpnd0piejl4bnpEaUVyZHlzaTNTUGMxUnpLZmZfODdoNU81MVdhcFp2M3NxM3FNcWJxRnpTSWV4Y2pwYU9JOFZENUZ4Tlh2MFVYVGRUWVo5YnlSN3BtNTg?oc=5",
-     "source": "WAVY.com",
-     "published": "2026-11-03T23:18:36+00:00",
-     "summary": "Virginia Beach: November 2026 Election Results&nbsp;&nbsp;WAVY.com",
-     "image": ""
-    },
-    {
-     "title": "Cost of living, corruption top issues and voters deeply unhappy with Trump: Early election takeaways",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjkyWmJqMU9FSGNlZDU1XzEzZ2IzTUNlZ25OV1BuYmxTREU5NE41R0tldnU4Z3lCclBGYzltRFJySF9jMldXMDZxTTBaaGtYTU4tbHVJcXNCemdqblJfUXY3QTk0alF6VmJtWjBBS3kwaWVZOV9GTzdrM05aVXFRSlpjZTBPcWY2RHlDbnF6b21kRUVQZDNsUk5ZOUpwNnN0VkNENlhzWnBwQzdzTDkycVpyM1hJa3VYRC1SUWdWbGlGdw?oc=5",
-     "source": "AP News",
-     "published": "2026-11-03T23:18:00+00:00",
-     "summary": "Cost of living, corruption top issues and voters deeply unhappy with Trump: Early election takeaways&nbsp;&nbsp;AP News",
+     "title": "2026 election results: Senate, House races in Virginia and North Carolina",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbTM2TWdlMFdxZTJwVHl5Q3lrTC1sZllTUWQtSm9TMHRsazhQYXF6a0pXX0RQQkRudmlTdkJIUmxDSDZ6RDBrQjhsUTNiY3B2TW9fdUw3M1BiaXN6MGEwTUs3MmtDNDZ6NVpBbTZXUzlBa2pHNmkxY21VbWhfRWpzTzJfc0pUNHVSZmxaNGsyZXBmRWNEcEtKMmI3RVJjb1otREt1NEVJS1pUSTRVY3ktdDR3M3UyR1Q4ZE1qUnlFeU4yREotczhmcHBTQU5ReXFoRk9EUF8xcV9QX1V6R3pGaGVwNUxqeXF6Vl9LbUNOdzhDNFJWSTRZcm83VmtOeVM0YlJDSQ?oc=5",
+     "source": "13newsnow.com",
+     "published": "2026-11-03T23:55:00+00:00",
+     "summary": "2026 election results: Senate, House races in Virginia and North Carolina&nbsp;&nbsp;13newsnow.com",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-03T23:51:48.008160+00:00",
+   "fetched_at": "2026-11-04T00:21:52.054455+00:00",
    "stale": false,
    "items": [
     {
