@@ -1,17 +1,81 @@
 {
- "generated_at": "2026-11-05T08:58:07.420326+00:00",
+ "generated_at": "2026-11-05T09:28:11.128163+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-05T08:58:07.420295+00:00",
+   "fetched_at": "2026-11-05T09:28:11.128133+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+     "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T09:13:35+00:00",
+     "summary": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
+     "image": ""
+    },
+    {
+     "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:08:39+00:00",
+     "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the \u2018obvious\u2019 culprit for resultsLive results | How do you fe",
+     "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874"
+    },
+    {
+     "title": "Dublin-Rome flight diverted to France over bomb threat",
+     "url": "https://www.france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat",
+     "source": "\u00a9 AP via Business Wire",
+     "published": "2026-11-05T09:08:19+00:00",
+     "summary": "An Airbus A320 \u200bflying from Dublin to Rome was diverted to France's Evreux airbase \u200bfollowing a \u200cbomb threat, \u2060the French prime minister's office said Thursday, in the latest in a ",
+     "image": "https://s.france24.com/media/display/b94992d0-d8fa-11f1-b977-d18c5759e759/w:1024/p:16x9/AP7634796123653860.jpg"
+    },
+    {
+     "title": "Aer Lingus flight to Rome diverted to military base after latest bomb threat, France says \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:07:41+00:00",
+     "summary": "French prime minister\u2019s office says Aer Lingus flight from Dublin to Rome now heading to military base in Evreux The plane appears to have just touched down in Evreux, according to",
+     "image": "https://i.guim.co.uk/img/media/f88047fff40cd32f637f149cc85a181ed5d2d471/177_0_2183_1747/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=1b0fe384171a62bd094571977272ab33"
+    },
     {
      "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
      "source": "The Guardian",
-     "published": "2026-11-05T08:48:04+00:00",
+     "published": "2026-11-05T09:05:39+00:00",
      "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiableGood morning. Andy Burnham is back from the Commonwealth summit, but ",
      "image": "https://i.guim.co.uk/img/media/4b94b6a7e0fa914e0e9631c8e95b070142d49d57/1628_155_1872_1499/master/1872.jpg?width=140&quality=85&auto=format&fit=max&s=4d2e0aa3c7630540cb160c30aa2a2422"
+    },
+    {
+     "title": "Tech barons cozied up to Trump. What will they do in newly blue America?",
+     "url": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:00:02+00:00",
+     "summary": "Democrats\u2019 success was helped by popular anger over tech, AI and the super rich \u2013 life for billionaires could become much more difficultThe photo of Silicon Valley centi-billionair",
+     "image": "https://i.guim.co.uk/img/media/b8782004aafbc4cbcf5de4f84c322c671ea8db15/354_0_3516_2814/master/3516.jpg?width=140&quality=85&auto=format&fit=max&s=35ad787c95a8cfa59004fd578fcbc90f"
+    },
+    {
+     "title": "Trump accepts midterm results as system holds up against election interference efforts",
+     "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:00:01+00:00",
+     "summary": "Administration had waged aggressive bid to sow doubt about midterms results but worst fears were not realizedIn the months leading up to the midterm elections, Donald Trump\u2019s admin",
+     "image": "https://i.guim.co.uk/img/media/e36cb0da59c7ecd166f385cd9829ab4cdd4d0ec2/300_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c7a3b64bbc55a50906df235d9e94fd9"
+    },
+    {
+     "title": "Poundland\u2019s US owner says retailer remains \u2018vulnerable\u2019, after talks with ministers",
+     "url": "https://www.theguardian.com/business/2026/nov/05/poundland-gordon-brothers-us-vulnerable-talks-ministers",
+     "source": "The Guardian",
+     "published": "2026-11-05T08:57:13+00:00",
+     "summary": "Gordon Brothers still in \u2018active discussions\u2019 with interested parties and seeking to \u2018protect as many jobs as possible\u2019The US owner of Poundland has said the high street chain rema",
+     "image": "https://i.guim.co.uk/img/media/3bb125ce0e2a593e4d0c6e40250eadad81d11264/893_109_4466_3576/master/4466.jpg?width=140&quality=85&auto=format&fit=max&s=2e945824507bf90cb8ee6fd82ec3a9d8"
+    },
+    {
+     "title": "Champions League : Lens suffer historic 9-1 defeat against Como",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261105-champions-league-lens-suffer-historic-9-1-defeat-against-como",
+     "source": "France 24",
+     "published": "2026-11-05T08:45:02+00:00",
+     "summary": "RC Lens suffered the heaviest defeat in the history of French football in European competition, losing 9-1 at home to Como in the Champions League. Having already been beaten by Cl",
+     "image": "https://s.france24.com/media/display/3f65db44-d8d8-11f1-abb9-695cb59fade5/w:1024/p:16x9/lens-1.jpg"
     },
     {
      "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
@@ -20,14 +84,6 @@
      "published": "2026-11-05T08:33:19+00:00",
      "summary": "With many seats still to come in, the Democrats have taken control of the Senate, House and several key governorships. Find live updating results in full hereVisual analysis: the k",
      "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
-    },
-    {
-     "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-05T08:32:21+00:00",
-     "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the \u2018obvious\u2019 culprit for resultsLive results | How do you fe",
-     "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874"
     },
     {
      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
@@ -60,69 +116,37 @@
      "published": "2026-11-05T07:50:44+00:00",
      "summary": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
      "image": ""
-    },
-    {
-     "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-     "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T07:44:47+00:00",
-     "summary": "Seoul proposes extending its Cheonghae unit\u2019s patrols to waters near Oman\u2019s Duqm amid US pressure over Iran war.",
-     "image": ""
-    },
-    {
-     "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
-     "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T07:41:25+00:00",
-     "summary": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
-     "image": ""
-    },
-    {
-     "title": "Germany\u2019s Merz expects Trump to keep ignoring Congress",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/germanys-merz-expects-trump-to-keep-ignoring-congress?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T07:25:56+00:00",
-     "summary": "German Chancellor Friedrich Merz expects US President Donald Trump to keep bypassing Congress despite midterm losses.",
-     "image": ""
-    },
-    {
-     "title": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
-     "url": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T07:21:01+00:00",
-     "summary": "Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.",
-     "image": ""
-    },
-    {
-     "title": "Guinness World Record broken as 53 red cards shown in Brazil under-20 match",
-     "url": "https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T07:20:18+00:00",
-     "summary": "Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.",
-     "image": ""
-    },
-    {
-     "title": "Live: France braces for nationwide strikes in fresh test for Macron\u2019s policies",
-     "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
-     "source": "France 24",
-     "published": "2026-11-05T07:10:32+00:00",
-     "summary": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide ",
-     "image": ""
-    },
-    {
-     "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-     "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
-     "source": "NPR",
-     "published": "2026-11-05T07:02:12+00:00",
-     "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-05T08:58:07.420310+00:00",
+   "fetched_at": "2026-11-05T09:28:11.128147+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2hVb2JpTzJSeTNndmFNYTNhUXdXOXc5SzFCM1RpOU1Wb2tQcW9iNXNvOWF2c2l5dTdvX1BnWmQyTFU5LUs2VkU2dVZrc3VBbldSU2lQMDZjaHpiWlVTQWlacEZIY2FDSVlRWXh0MDVKQ1JfeVlOb0lXMmM3eWtmUm9vMWRqYkxfSFhHR1R3T0doSkp0OHZHMlJRRU55MzFnSFp2RmFBNUpZY3MwZGlWMy1ZX05Qd9IBuwFBVV95cUxNQWRLSkJmS2VhN2E1ZEV6RjN5ajJvU3dvdndKcDdzOXdBZnVTN09UalJLMVdoQ1hsYUx1M3cxREZqM19rOHozdE9nR3BtN19LemFGd1R3eVJQOFVtWFlkZlUzaDBVQ2ZjUnVQMFVqU25JZ21VaGF4MGFIZ1p0NkNmR25CSHBZLWhQSEV4SV80eENCNktTcmdSUFVLMlg5dmRhSG1lTkJtY1FVcEJzUG5zQzMzTnZDNS12Uy1Z?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T09:16:56+00:00",
+     "summary": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:08:39+00:00",
+     "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the \u2018obvious\u2019 culprit for resultsLive results | How do you fe",
+     "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874"
+    },
+    {
+     "title": "Aer Lingus flight to Rome diverted to military base after latest bomb threat, France says \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:07:41+00:00",
+     "summary": "French prime minister\u2019s office says Aer Lingus flight from Dublin to Rome now heading to military base in Evreux The plane appears to have just touched down in Evreux, according to",
+     "image": "https://i.guim.co.uk/img/media/f88047fff40cd32f637f149cc85a181ed5d2d471/177_0_2183_1747/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=1b0fe384171a62bd094571977272ab33"
+    },
     {
      "title": "Ukraine War, Day 1,715: Zelensky Speaks with Trump Envoys Witkoff and Kushner",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXhQd3l2RlRjeTJNOWtvRkVRUExVWGpyM2RSVTVsZm43ekRSSHpUazRtRWZaYkxNZUJEX2ZLTUsyOWV3Y2QwQTZKZGoyOUV5VFNaRlA2Vml6dHdYb2FwR1V6M1BBeENBNDBwZmg4TnBaWVUybUg4X0pPRW4xbW50Wmk5YXkxdVNEempVVzRWMA?oc=5",
@@ -138,14 +162,6 @@
      "published": "2026-11-05T08:45:35+00:00",
      "summary": "Russia Tries to Break Through Ukraine\u2019s Defenses Across Multiple Fronts but Fails to Advance, ISW Says&nbsp;&nbsp;UNITED24 Media",
      "image": ""
-    },
-    {
-     "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-05T08:32:21+00:00",
-     "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the \u2018obvious\u2019 culprit for resultsLive results | How do you fe",
-     "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874"
     },
     {
      "title": "Italian chef fired after refusing to put pineapple on pizza",
@@ -202,36 +218,52 @@
      "published": "2026-11-05T07:07:59+00:00",
      "summary": "General Staff: Russia has lost 1,599,390 troops in Ukraine since Feb. 24, 2022&nbsp;&nbsp;The Kyiv Independent",
      "image": ""
-    },
-    {
-     "title": "A Democratic-controlled Congress will likely try to constrain Trump\u2019s foreign adventures",
-     "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis",
-     "source": "The Guardian",
-     "published": "2026-11-05T07:00:57+00:00",
-     "summary": "But the president still has veto power, which he can wield to dictate policy over tariffs, the war in Iran or aid for UkraineIn a rare occurrence, a US election may have actually b",
-     "image": "https://i.guim.co.uk/img/media/a8b3bb928f994e09cd76af0632d777c56c21daec/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fb245ce645bdc42bdf1e79b1b6b8928f"
-    },
-    {
-     "title": "Warming UK seas could \u2018fundamentally reshape marine ecosystems\u2019 \u2013 report",
-     "url": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
-     "source": "The Guardian",
-     "published": "2026-11-05T07:00:56+00:00",
-     "summary": "Four-year study warns destabilised marine food webs could jeopardise food security by 2050Warming seas around the UK and the wider north-east Atlantic could destabilise marine food",
-     "image": "https://i.guim.co.uk/img/media/02e296e4df0fea6e4441d0acc9dc29f8ffe4bc87/0_797_1386_1108/master/1386.jpg?width=140&quality=85&auto=format&fit=max&s=fe97e33bfd39c0c24ea2d235bcbc2840"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-05T08:58:07.420314+00:00",
+   "fetched_at": "2026-11-05T09:28:11.128151+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Dublin-Rome flight diverted to France over bomb threat",
+     "url": "https://www.france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat",
+     "source": "\u00a9 AP via Business Wire",
+     "published": "2026-11-05T09:08:19+00:00",
+     "summary": "An Airbus A320 \u200bflying from Dublin to Rome was diverted to France's Evreux airbase \u200bfollowing a \u200cbomb threat, \u2060the French prime minister's office said Thursday, in the latest in a ",
+     "image": "https://s.france24.com/media/display/b94992d0-d8fa-11f1-b977-d18c5759e759/w:1024/p:16x9/AP7634796123653860.jpg"
+    },
+    {
+     "title": "Why Connecticut election results can take hours to come in",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMDJTQWx5LUNqSmFOV2taUjdtOW5hMk0tNDFhd2J3OHBJS1NpYWZRdm0ySXdQSzFhUDZySUJGNVgwWTJvQU9ZZE55NnU0blA2OTNCYUV5ejN2RlJDQ3VMWm9NdXljQ3dRcUJXS3lkVElTZ0xwbzBKNWlGRXVYXzRQdkJhQjZkZlpwWjhUeW5DRFQ2T0loNWZn?oc=5",
+     "source": "CT Insider",
+     "published": "2026-11-05T09:05:50+00:00",
+     "summary": "Why Connecticut election results can take hours to come in&nbsp;&nbsp;CT Insider",
+     "image": ""
+    },
     {
      "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
      "source": "The Guardian",
-     "published": "2026-11-05T08:48:04+00:00",
+     "published": "2026-11-05T09:05:39+00:00",
      "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiableGood morning. Andy Burnham is back from the Commonwealth summit, but ",
      "image": "https://i.guim.co.uk/img/media/4b94b6a7e0fa914e0e9631c8e95b070142d49d57/1628_155_1872_1499/master/1872.jpg?width=140&quality=85&auto=format&fit=max&s=4d2e0aa3c7630540cb160c30aa2a2422"
+    },
+    {
+     "title": "Trump accepts midterm results as system holds up against election interference efforts",
+     "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:00:01+00:00",
+     "summary": "Administration had waged aggressive bid to sow doubt about midterms results but worst fears were not realizedIn the months leading up to the midterm elections, Donald Trump\u2019s admin",
+     "image": "https://i.guim.co.uk/img/media/e36cb0da59c7ecd166f385cd9829ab4cdd4d0ec2/300_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c7a3b64bbc55a50906df235d9e94fd9"
+    },
+    {
+     "title": "Poundland\u2019s US owner says retailer remains \u2018vulnerable\u2019, after talks with ministers",
+     "url": "https://www.theguardian.com/business/2026/nov/05/poundland-gordon-brothers-us-vulnerable-talks-ministers",
+     "source": "The Guardian",
+     "published": "2026-11-05T08:57:13+00:00",
+     "summary": "Gordon Brothers still in \u2018active discussions\u2019 with interested parties and seeking to \u2018protect as many jobs as possible\u2019The US owner of Poundland has said the high street chain rema",
+     "image": "https://i.guim.co.uk/img/media/3bb125ce0e2a593e4d0c6e40250eadad81d11264/893_109_4466_3576/master/4466.jpg?width=140&quality=85&auto=format&fit=max&s=2e945824507bf90cb8ee6fd82ec3a9d8"
     },
     {
      "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
@@ -248,6 +280,14 @@
      "published": "2026-11-05T08:07:22+00:00",
      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "Polling experts hail \u2018great night\u2019 after correctly calling most key US midterm election races",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPanp3djNRMGsyR0Z4TXJoYkwyQzVZVFRFRG5PTHE0WUU3OWVPY1hwUzQ2VXZaQnlNMGNGVFVFcnZXbnZWUjExam05c1p6bkZnV3FNakc0dXpabldGMkFCeVhjT2VLZ1ZfbW8wZzhQY0RXM0pSSGQ0RVpvV1VKQzlMeWhXMHU5Zw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-05T08:00:00+00:00",
+     "summary": "Polling experts hail \u2018great night\u2019 after correctly calling most key US midterm election races&nbsp;&nbsp;The Guardian",
+     "image": ""
     },
     {
      "title": "Germany\u2019s Merz expects Trump to keep ignoring Congress",
@@ -280,58 +320,18 @@
      "published": "2026-11-05T06:35:08+00:00",
      "summary": "New Zealand braces for knife-edge election: What you need to know&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "5 takeaways on what the election results could mean for immigration",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGJiUU1CMlNTTnl1bk53QVFfa09LOXF5dUttZjlVaGZOOWdrNE5VTzlNVjRhRGVLeVFPTEpydzNqbjBNY3hOeTdMQ2JTQ0ZPcHB0Y19jUno5UjBsYVUxMjE0QUNuOHR0UDBTRFEyN0lMeTlsekktdEl5dGZLVUNYc2o1YW9DX0lrdW5HRjhfaHFUZVFQNEIwYTFBYktkUF82djkyYi1oZGNrQVkteTh5TQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-05T06:34:26+00:00",
-     "summary": "5 takeaways on what the election results could mean for immigration&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "France braces for fresh protests in test for Macron's policies",
-     "url": "https://www.france24.com/en/france-braces-for-fresh-protests-in-test-for-macron-s-policies",
-     "source": "France 24",
-     "published": "2026-11-05T06:24:09+00:00",
-     "summary": "Hundreds of thousands of protesters are expected to march through French cities and public workers to strike on Thursday, in a fresh test for President Emmanuel Macron after weeks ",
-     "image": "https://s.france24.com/media/display/1182cb7c-d8df-11f1-837f-d18c5759e759/w:1024/p:16x9/EN-20261105-063742-063927-CS.jpg"
-    },
-    {
-     "title": "5 things to know after election night: From the Politics Desk",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2JYQ2VRcVpRVXVQUVROYmlyQ3pIMmpreDVTYkxkREp2VktaVFRKNWE5RG9RNTZDWWdmSkVxNWhFanZwWGVEdXFQTU1TakZHLWNZTFdSYzI1d0EtREhqUnU0Z2ZTUHNaUTRCR0NvTXVBbk1CTmxINEtPdW55LU5RTXF4c21FZFN0X2tLaklIX0twdUY4TU9ONTlncU9mNWFrSHc?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-05T06:19:18+00:00",
-     "summary": "5 things to know after election night: From the Politics Desk&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "How did your neighbors vote? County-by-county election results from Minnesota, Wisconsin midterms",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFlGWWR5eGhENTlTcWlIT3Zsam1VQnkwQlRmcklQc3VWMnFyLWNuLWhRZDJvNVZmcVJMN2VHVUJBR3d0M2lWQzFNSVJUTlZaTGJ0Z19aaUY1Ylo3VjNPck9rbm4wdkd3LWxsOXJxWTA0aVpxYThnQ2k4YnpkdUlZQWhoRkE3VTV4bFR5bTZJcFFMeWtxSWZtMFRHZkZKUTdlc21SRGRSV3lsa2J0aHY1S2wxZVJXY3BLaGwwaDhvRTdJMlpleGJDZ2EtaUFXaTd3SmQ4?oc=5",
-     "source": "5 EYEWITNESS NEWS",
-     "published": "2026-11-05T06:02:09+00:00",
-     "summary": "How did your neighbors vote? County-by-county election results from Minnesota, Wisconsin midterms&nbsp;&nbsp;5 EYEWITNESS NEWS",
-     "image": ""
-    },
-    {
-     "title": "New Zealand leaders make final appeals as election remains tight",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMW1LODR1eW8yNFdoQUYzMGd0bGtUWTJhMGZveVViNERIT2FGWURqY3BPNXFGWmZtWFdtbzZyRzdOLWVneVJCY2UzYnBhaUh4ZVpTRkhOMHJoTUpZZW9Ja3U3azZ1VUZoS1RWbGdyQThia2JBNVJkbWNWU3VtcUZ5X1Boc01FbUw3NTRGd1dId19MQ3FaaXJuYUZjZkxzVy1oaG9VdmtqdTBMRlRwS3A3RElUZkFybFk?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-05T05:48:00+00:00",
-     "summary": "New Zealand leaders make final appeals as election remains tight&nbsp;&nbsp;Reuters",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-05T08:58:07.420317+00:00",
+   "fetched_at": "2026-11-05T09:28:11.128154+00:00",
    "stale": false,
    "items": [
     {
      "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
      "source": "The Guardian",
-     "published": "2026-11-05T08:48:04+00:00",
+     "published": "2026-11-05T09:05:39+00:00",
      "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiableGood morning. Andy Burnham is back from the Commonwealth summit, but ",
      "image": "https://i.guim.co.uk/img/media/4b94b6a7e0fa914e0e9631c8e95b070142d49d57/1628_155_1872_1499/master/1872.jpg?width=140&quality=85&auto=format&fit=max&s=4d2e0aa3c7630540cb160c30aa2a2422"
     },
