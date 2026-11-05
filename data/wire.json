@@ -1,10 +1,74 @@
 {
- "generated_at": "2026-11-05T21:00:18.007914+00:00",
+ "generated_at": "2026-11-05T21:30:21.895649+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-05T21:00:18.007883+00:00",
+   "fetched_at": "2026-11-05T21:30:21.895617+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T21:26:21+00:00",
+     "summary": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
+     "image": ""
+    },
+    {
+     "title": "Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-05T21:25:57+00:00",
+     "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg"
+    },
+    {
+     "title": "California governor commutes sentences for state's 548 death row inmates",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-05T21:25:48+00:00",
+     "summary": "California has historically had the largest population of people on death row in the US.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg"
+    },
+    {
+     "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats\u2019 election triumph",
+     "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+     "source": "The Guardian",
+     "published": "2026-11-05T21:23:18+00:00",
+     "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across boursesThe Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday",
+     "image": "https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=140&quality=85&auto=format&fit=max&s=06500e89cb38f5ecdd58baa634d2acb4"
+    },
+    {
+     "title": "US elections 2026 live: Democrats hold nearly 100 House seats more than Republicans as blue wave continues to grow",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-05T21:22:13+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Ho",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass",
+     "url": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass",
+     "source": "The Guardian",
+     "published": "2026-11-05T21:12:41+00:00",
+     "summary": "Major shake-up as LA councilmember, once considered long shot, ousts Democratic rival she had once endorsedWho is Nithya Raman, Los Angeles\u2019s next mayor?Nithya Raman was elected to",
+     "image": "https://i.guim.co.uk/img/media/723df3f9c1b63824fe76ccab3a0fa4a1737538cd/828_0_6019_4817/master/6019.jpg?width=140&quality=85&auto=format&fit=max&s=ebd3e1cd6e3a64db2635ff0cd1fc1159"
+    },
+    {
+     "title": "Google, Meta and TikTok sue California to block law protecting children from addiction risk",
+     "url": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta",
+     "source": "The Guardian",
+     "published": "2026-11-05T21:10:21+00:00",
+     "summary": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive useGoogle, Meta and TikTok have sued California to block enforcement of \u2060a n",
+     "image": "https://i.guim.co.uk/img/media/2e625b0b0dc104fac0991f36acae25500080dbde/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3ca9b7f82baa3bf8a02490736c080090"
+    },
+    {
+     "title": "Saudi coalition intercepts missile fired towards Medina",
+     "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T20:48:47+00:00",
+     "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+     "image": ""
+    },
     {
      "title": "Why are wealthy countries failing developing nations?",
      "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
@@ -30,44 +94,12 @@
      "image": ""
     },
     {
-     "title": "Trump administration holds secret talks to deport Iranians even as war presses on, court documents show",
-     "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians",
-     "source": "The Guardian",
-     "published": "2026-11-05T20:43:26+00:00",
-     "summary": "The development emerges from a lawsuit alleging violations of national immigration regulationsThe Trump administration held secret talks with Iran on deporting Iranians even as the",
-     "image": "https://i.guim.co.uk/img/media/050a0828a6d8747399e62b0a726b7671efcc7dd5/548_0_5478_4383/master/5478.jpg?width=140&quality=85&auto=format&fit=max&s=6e23f3f7ae72bd70ca4da37e83081197"
-    },
-    {
      "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
      "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
      "source": "France 24",
      "published": "2026-11-05T20:39:49+00:00",
      "summary": "\u201cYou can be as repressive as you want. The grievances are still here.\u201d With this stark observation, Ariane Bogain, lecturer in French and politics at Northumbria University, captur",
      "image": "https://s.france24.com/media/display/f0afb24c-d952-11f1-a604-695cb59fade5/w:1024/p:16x9/EN-20261105-130308-131637-CS.jpg"
-    },
-    {
-     "title": "Google, Meta and TikTok sue California to block law protecting children from addiction risk",
-     "url": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta",
-     "source": "The Guardian",
-     "published": "2026-11-05T20:39:11+00:00",
-     "summary": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive useGoogle, Meta and TikTok sued California to block enforcement of \u2060a new st",
-     "image": "https://i.guim.co.uk/img/media/1c16b22f7389ebfe41a587f173b438cf242d0346/760_73_3240_2593/master/3240.jpg?width=140&quality=85&auto=format&fit=max&s=0dd335305c3a4a5feb39b4a8998114a4"
-    },
-    {
-     "title": "US elections 2026 live: Democrats hold nearly 100 House seats more than Republicans as blue wave continues to grow",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-05T20:35:44+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Ho",
-     "image": "https://i.guim.co.uk/img/media/2d74642ff0459809ae0e038abee7d53046e79273/0_0_3233_2587/master/3233.jpg?width=140&quality=85&auto=format&fit=max&s=fa5e5043233800d8c2d44dfaf7e83516"
-    },
-    {
-     "title": "Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass",
-     "url": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass",
-     "source": "The Guardian",
-     "published": "2026-11-05T20:33:38+00:00",
-     "summary": "Major shake-up as LA councilmember, once considered long shot, ousts Democratic rival she had once endorsedNithya Raman was elected to serve as the mayor of Los Angeles, defeating ",
-     "image": "https://i.guim.co.uk/img/media/723df3f9c1b63824fe76ccab3a0fa4a1737538cd/828_0_6019_4817/master/6019.jpg?width=140&quality=85&auto=format&fit=max&s=ebd3e1cd6e3a64db2635ff0cd1fc1159"
     },
     {
      "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
@@ -78,51 +110,59 @@
      "image": "https://i.guim.co.uk/img/media/b58a5b463f1a943c738a5d7c55d8aa4d09f9ba33/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b6a82955507141e93cb6c304d2fe7819"
     },
     {
-     "title": "California governor commutes death sentences for all 548 people on death row",
-     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-05T20:28:38+00:00",
-     "summary": "California has historically had the largest population of death row inmates in the US.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg"
-    },
-    {
      "title": "Mass protests in France driven by nationwide strike action",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-05T20:11:37+00:00",
      "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
      "image": ""
-    },
-    {
-     "title": "The blame game: How the US midterm shock is shaping Israel\u2019s race for PM",
-     "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T20:07:04+00:00",
-     "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu\u2019s US ties turn toxic.",
-     "image": ""
-    },
-    {
-     "title": "'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences",
-     "url": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences",
-     "source": "\u00a9 Apu Gomes, AFP",
-     "published": "2026-11-05T19:59:48+00:00",
-     "summary": "California Governor Gavin Newsom on Thursday said he would commute all 548 death sentences in the state to life in prison without parole, marking a major step away from capital pun",
-     "image": "https://s.france24.com/media/display/dd2a0d00-d950-11f1-ad62-d18c5759e759/w:1024/p:16x9/063-2302639014.jpg"
-    },
-    {
-     "title": "Who could be behind hoax bomb threats to European air travel?",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-05T19:58:40+00:00",
-     "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-05T21:00:18.007898+00:00",
+   "fetched_at": "2026-11-05T21:30:21.895633+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Last week\u2019s brief Ukraine ceasefire did not stop Russian attacks on civilians",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRURncVNqM3ZEcVA1a3JsRlg5NHJHcTd4dXlxZDA2NEdFZ1ZUWE9Hc25oZ2kxcE5jNTRqR3RZSzdKaUYyWEQyaHd2ZElfMTRXLW9tZUI1TlBoT2hnaVh4SzhDeGVFZ2tZR3p4emplZ1lpWXpqdVFoS0tLSUNBVUtlQU1GbHpXMXpWOXVaYmwtTU1hTXNueUVPUEVxYnM1cDZIbHU2Q192YnpGemdJQk5UYlhPZzFzdzlkOGkzdXkyOVJweWNFSjBR?oc=5",
+     "source": "Atlantic Council",
+     "published": "2026-11-05T21:11:00+00:00",
+     "summary": "Last week\u2019s brief Ukraine ceasefire did not stop Russian attacks on civilians&nbsp;&nbsp;Atlantic Council",
+     "image": ""
+    },
+    {
+     "title": "Russian and Ukrainian officials thank Melania Trump for brokering ceasefire - video",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkJYRl9JazMzT1lRbmtBeWRtWnRacVBHcWpxTkZ5Q0hUYUF4NnJjZ3RaMnVSRFZfZDd6WnRtS21qNkYwQjA4NWRlTDJRb1dOQVUxajloWF9tZmp2MG8yRG83UUttdm1EM25zN0NHeWU0UlhVVGZnOGFDaTNuQjd5dUFjZjd3X0pLR3ZvZnkwb1Y1WldTWVhzRW9YTGJ5Tl94SmI0VU9ZRTN5RVFuX0NiUG9KNWVmUFhOb3duNXFVZXZJWVBrcE00WVVLVkZUUQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-05T21:04:00+00:00",
+     "summary": "Russian and Ukrainian officials thank Melania Trump for brokering ceasefire - video&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0tINFFwWUt6V3E4d0JjbTlKV2lKMHZqM0szQTZFemhtWTN4T21yX0ROVTJvNFJ1Qnd6YllCS1hSMm1UVjV4SzFjUUc1ZmJRdUdjc3dXT3psazE2U0R5bTdTaEROWVF2dDBPVlNFWWNBVFNLMnRKTW9pbmEybEZhRXFfdE53SWVsaktrandkLUlXQThUQmZLR1BqVFNnTjdIUlJOTk1Odi1idw?oc=5",
+     "source": "Post Register",
+     "published": "2026-11-05T20:54:56+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;Post Register",
+     "image": ""
+    },
+    {
+     "title": "Russia and Ukraine exchange airstrikes as reconstruction and security talks resume in Brussels",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONU8xbTg4VENlQUJjcEpnTzVYNGNSYWFsS2xxS3EtZWhFaDJzOGs5c1Mza1lvNFpDOWx3dlN5NEUzYzBBcEFvSVNoLTlMeDFLdlhQT0daQlFveWp0MFVmbUVxY0xER1F5TkRNbHFnZE8wRXR3TE53emR4cmVlaDJIdGxNbmpKdXN1eHFNakJfZTZLZExQOTVUbWt5bUZLRXV5QjgzSUV1SlRDS1F2RnJv?oc=5",
+     "source": "AP News",
+     "published": "2026-11-05T20:49:00+00:00",
+     "summary": "Russia and Ukraine exchange airstrikes as reconstruction and security talks resume in Brussels&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "Saudi coalition intercepts missile fired towards Medina",
+     "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T20:48:47+00:00",
+     "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+     "image": ""
+    },
     {
      "title": "Zelenskyy hopes US midterm election results lead to stronger support for Kyiv",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHZ5MHhrXzRtWE9aQ2I2VGo5dXZWRTA2R1JOVEN3T3BsOUxJeTdWTVY5cFVWeGRDblVwV2syN1Vhd2l3UjVja2E4UW9QWnhmY2FpUGVrdGJZT3RMTGlqSV9QVHdoQ3FBRWhxYXhrRmFremk0VFotY0dsMkxQb3ZzMG9DVTZUdmJUMVFFRk1ieFp4ZmdjVlpxamhTZ20zaXJWNnlLbXVVV3RncmIxalp5SHhQSVZxbUJrdWtQdFBQVUdZdDJfZWV6Rg?oc=5",
@@ -148,12 +188,12 @@
      "image": ""
     },
     {
-     "title": "Trump administration holds secret talks to deport Iranians even as war presses on, court documents show",
-     "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians",
-     "source": "The Guardian",
-     "published": "2026-11-05T20:43:26+00:00",
-     "summary": "The development emerges from a lawsuit alleging violations of national immigration regulationsThe Trump administration held secret talks with Iran on deporting Iranians even as the",
-     "image": "https://i.guim.co.uk/img/media/050a0828a6d8747399e62b0a726b7671efcc7dd5/548_0_5478_4383/master/5478.jpg?width=140&quality=85&auto=format&fit=max&s=6e23f3f7ae72bd70ca4da37e83081197"
+     "title": "The business of war: Inside Russia\u2019s multimillion prosthetics boom",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmdyR0FMVUJaTnA1eEZsSFZKUm5jVmxfZi12NnZ0dVBlcE1IYmd5LWNRV0lTLUY4U2h4dkk1ZzFOWWJDaDRjZG5FOGpSeEJrS1B4RS1DcTBobThHMWJfSkU4QUk1emJXYzh0ZlRRLXBLV0oyMWRqLW9CNmlicjB5VGEybnhnNVlVV1lNNWpVRGd2c1F1Ym50RGRFX2xiOE1iVnBhc2VOSGM?oc=5",
+     "source": "TVP World",
+     "published": "2026-11-05T20:44:00+00:00",
+     "summary": "The business of war: Inside Russia\u2019s multimillion prosthetics boom&nbsp;&nbsp;TVP World",
+     "image": ""
     },
     {
      "title": "Melania Trump hosts Russian, Ukrainian officials to mark ceasefire she brokered",
@@ -178,53 +218,101 @@
      "published": "2026-11-05T20:07:04+00:00",
      "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu\u2019s US ties turn toxic.",
      "image": ""
-    },
-    {
-     "title": "First lady Melania Trump delivers remarks on ceasefire in Oleshky, Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUnVBeHAtZFo0ZmZoM0xvVUhmYTBjOGtqWlZ6S2tlSjhqNWJ2dWdNa3pMa1FSWTR1dFk3Y2xUb0FWSElfcnlRa3owN3BNUGNpZjRBWW9acV9aakF1Tk1XWHFWUV9TOXM2VlpjNTlmQzFDWHAtSDFzLUdMVVZtM0FFMmxrb2s4RWZZeXViOWZXQm9pcVVHMVJGbERaMHJmc09xSlpYU3h3TlpDMDl3TFRrSE92M1h6QTcxNXNROGxFMHJPeDd4YWpnMlpnaEVZOWpYS3FTbi1taXNzcFIwYVNtaXppUWYyLWxSWFk5NnRuR1h4UW9QSXZMVW1VaXVLeE5obUVleg?oc=5",
-     "source": "Central Oregon Daily",
-     "published": "2026-11-05T20:03:44+00:00",
-     "summary": "First lady Melania Trump delivers remarks on ceasefire in Oleshky, Ukraine&nbsp;&nbsp;Central Oregon Daily",
-     "image": ""
-    },
-    {
-     "title": "Who could be behind hoax bomb threats to European air travel?",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-05T19:58:40+00:00",
-     "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEVOY21XQ1NLYVlEcXhsQ0FoSlNhOVRJMDN3ak9HcEJvd2Vlek5ZQzl6eHBLY0NzdUJvWlZpMjBLckxJTE5za1NKOHREcFlpNHJuZk5EeHo5dUJBTGp4VUh4QUwydkZ5UkVTWjJoeC1PMml2ZURfcjJKNzdLT09zZzczd2lJVndoWEtzSVNDSU9oNTRTLTJuMXdaaHZQaHVnQmc1MlJiWjU1enY3OGozatIBtgFBVV95cUxQbk9Da09WWGFfRFh6UlJ3bEdFSmE4UW92T1BBTWEwUjRkZEpLX1VYR0R3NlZiT2ZXSWVrM0V6eVdoSnVpT3FfaDlaMWhXUVpSRWZvYi12Tm13MWdUTGZxV19KcUpTWGlhRnNHWkVCSWZXNC1aTG1HN0JLMGN0aExLU3BPVHd6STctcTQ1SlVaLXdXMjJjbk9sa3BhQWhZZGNRSWpiLTF6eThqX2duQk9hV3ZSUjdnQQ?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T19:56:31+00:00",
-     "summary": "Melania Trump calls for peace at meeting with Russia, Ukraine officials&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Russia and Ukraine representatives honor Melania Trump\u2019s ceasefire efforts",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MYU41RTBpNUoyMkI2N2g4MzRtQmFUeUtnX1Fzdlc3cmVQeTAyZjNJR24tSW44V0h2S3lKeDRyekEyZ01qRnlFNW81NXczNDY1X2tMWm1QdVhnNThJLWtIQnIzM3FtZlJJZUlKYWZOcDNlREoyaEdiMw?oc=5",
-     "source": "CNN",
-     "published": "2026-11-05T19:42:00+00:00",
-     "summary": "Russia and Ukraine representatives honor Melania Trump\u2019s ceasefire efforts&nbsp;&nbsp;CNN",
-     "image": ""
-    },
-    {
-     "title": "Ukraine is running out of time",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QckVHRTNiOUJlX3ppT21jeFpHZGFuWHVsSUd0S0FDZS1ZanVmY2hWNV8yU25SdlZRWUVIRW94QkxOME85ZDlxOXVtUnpWcGxDQmFxbE5ZY1JHV3RyM01ycmtZUXlvSDA?oc=5",
-     "source": "Responsible Statecraft",
-     "published": "2026-11-05T19:41:31+00:00",
-     "summary": "Ukraine is running out of time&nbsp;&nbsp;Responsible Statecraft",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-05T21:00:18.007902+00:00",
+   "fetched_at": "2026-11-05T21:30:21.895637+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats\u2019 election triumph",
+     "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+     "source": "The Guardian",
+     "published": "2026-11-05T21:23:18+00:00",
+     "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across boursesThe Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday",
+     "image": "https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=140&quality=85&auto=format&fit=max&s=06500e89cb38f5ecdd58baa634d2acb4"
+    },
+    {
+     "title": "US elections 2026 live: Democrats hold nearly 100 House seats more than Republicans as blue wave continues to grow",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-05T21:22:13+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Ho",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "At Least 7 Muslims Win Election to Congress, a Record",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekxSWUdZLXNyQnFIV0hCSUpqYkdTdWdldFI4YTdDdUkyNWtwWmxXb0NBaEZjZW94Q2tjOEtIb2RQSlZKV25uMF93NVBNMzZ1R2dFSDhyVzF2azFfVS1SMXJLUTlVd0t3cHdlbEstellaR05ET0IxcThrR3BPdlN5NkZTcw?oc=5",
+     "source": "Interfaith America",
+     "published": "2026-11-05T21:21:11+00:00",
+     "summary": "At Least 7 Muslims Win Election to Congress, a Record&nbsp;&nbsp;Interfaith America",
+     "image": ""
+    },
+    {
+     "title": "Brazil\u2019s Election Shows Organized Voters Can Beat the Algorithm",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEpVUWxHbjRUajBSMzBhbkF1WC1lVzJKdFBVQ2tfbUZCaHd3dko3M1IzTzBubng4MU9hMENWYklCWmFsOXRkZ3RVT0RRR1dkUElzclpDNkNpTVpCRHRQMk15b3ozOGhvdDlQTFNJN1JpREZpd1dVUG5QUU0wSVpueXZBN3c3azNiU0U4TnhyU2VOR2V1dlNOVnBycF90MGV0X1owU2pDcWk?oc=5",
+     "source": "Jurist.org",
+     "published": "2026-11-05T21:13:52+00:00",
+     "summary": "Brazil\u2019s Election Shows Organized Voters Can Beat the Algorithm&nbsp;&nbsp;Jurist.org",
+     "image": ""
+    },
+    {
+     "title": "Apparent election ploy to oust Chittenden County state\u2019s attorney fails",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0xsQUtGZHB6UmZpbnNSTUtZR0I1R3RSd081aG16X1VwcTZraVhKWmpjQ0ktQjZ3Y1hMdjh0TkRwLXIxUzZJbjBRLUxET2ZmWk5TUmItem1wdkx2cDFGbHI3OGpsTFNGVmJBSDJCd0NXUzlVRVFmd0RHNnB2NG0yOXBVZUUzaXFDYzNIQjlfQlhyVmhBVWNRa3h6X2ltaHBvWTI1LXhB?oc=5",
+     "source": "VTDigger",
+     "published": "2026-11-05T21:11:19+00:00",
+     "summary": "Apparent election ploy to oust Chittenden County state\u2019s attorney fails&nbsp;&nbsp;VTDigger",
+     "image": ""
+    },
+    {
+     "title": "Colom widens lead over Hyde-Smith with thousands of Mississippi ballots uncounted",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDFBUXl1ZFBZNmVUazdWOG5VeHFrakxqM0pmdW05V2NuUko3LWF4bVVVQ3hoNlNaSlF6eDA1VDdLd0pEVnlPM0RpcEZ3UEF2RDdYZ09VOE03aGtOalYxVUNUU0h1QWVjZTkxRjFPVmlKZXpjR2lvOG1aY1V4SXBkLUl2MFBGeWRhNFlkYzFqM3lOUW1EZWc4?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-05T21:10:11+00:00",
+     "summary": "Colom widens lead over Hyde-Smith with thousands of Mississippi ballots uncounted&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Petersburg voters reflect on an eventful and chaotic election season",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUJsdjJWQldoZ2FtQjU0djd0TlM4bnpvSkdKaUFjOERlLVRUVDlBeWxpdFRMeTlrU0t2Q3JxVUg5Yk56RmliNnNuYXVIcG96cUdVTE5xa2MwNVlQUDFCbzQzWGxyWmRqTXdoMWd5dnhSbWxuZGY4eU9CaWpfQzFhNGVsVlNpSXBZNzl6NHVhUnRWTERtTktOVWNlbkZzaUlrbm53?oc=5",
+     "source": "KTOO",
+     "published": "2026-11-05T21:08:22+00:00",
+     "summary": "Petersburg voters reflect on an eventful and chaotic election season&nbsp;&nbsp;KTOO",
+     "image": ""
+    },
+    {
+     "title": "Mississippi GOP Chair Mike Hurst: \"There Is No Election-Denying Here\"",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTDJHaTUwdFFXbDd5enY5NG1jS1hvOGFqNTMzQUZiS1ctaUZObzFnd2I1VHdZaDR6WVpWVmZkRno2XzlGTTh0TVJfT0FOcy0xd2ZyQ1BaQ2hXRlNsNktJTWpyRkpIYl9nWGpLY2diV0hNTE1pYUlyNV9CQVZvTWE1N0E2LS1CRE42U0FCeXpiZWQzeHBPdlM3bGlHZHhvZlZid1dtdXZYSVlMQ2ZVV1NacEhJWnhjanM?oc=5",
+     "source": "C-SPAN",
+     "published": "2026-11-05T21:06:01+00:00",
+     "summary": "Mississippi GOP Chair Mike Hurst: \"There Is No Election-Denying Here\"&nbsp;&nbsp;C-SPAN",
+     "image": ""
+    },
+    {
+     "title": "What the New Democratic Congress Can (and Can\u2019t) Do on Foreign Policy",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVJ4TnZPdjQyRzIyU2RCc2xNR1Vfa3V6NDFuSF90ck1HUWUzNjEyOGhqQXlJY0h5aVlOTURhMGNYSU5qZGpMZXFDSGJHY2RRaDFveEVPclJlSHlGSUtsV3F2V19qVDAya3VtT042Wng1VWdzandYdEhFNmtjRlpSdkpuTTFQZ2JORmZMbThlRWIzY2dFUGhBdTZXR0Q0RkpjXzAxbmdxeDM?oc=5",
+     "source": "Carnegie Endowment for International Peace",
+     "published": "2026-11-05T21:04:22+00:00",
+     "summary": "What the New Democratic Congress Can (and Can\u2019t) Do on Foreign Policy&nbsp;&nbsp;Carnegie Endowment for International Peace",
+     "image": ""
+    },
+    {
+     "title": "Why Arizona's election could have profound effect on public schools",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWVxWE9oT3FqR1lOTVR4VnZWWFJ6NzEzN25jcUJ2NUp2VzJ5TzZEaUZIWDhWY2tMRVg4bkdoYnFFT0o4SWhvV3JWeC1XXzdMR3AwTzlpdUtPbkpvSDM1LVBlTTBPZ0Q0UndWYXpIYUUtMFBXYzR2bU13YW9Bck8wekJvN3E?oc=5",
+     "source": "Merced Sun-Star",
+     "published": "2026-11-05T20:57:00+00:00",
+     "summary": "Why Arizona's election could have profound effect on public schools&nbsp;&nbsp;Merced Sun-Star",
+     "image": ""
+    },
+    {
+     "title": "French Hill defeats Chris Jones to win re-election in Arkansas's 2nd District",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbVcyTFdQS29xQTlpUWFwWFlqRHZiX3U0Yy0zcVNzeVlIb0RoVnNoOUd4YjJ0aEtvZlZoS3M5UGdEbDlTb3JKYkVjVzhNYUdvVE1JcWpWUE83QjkzLVZOTkRRM0ZZanFVY3J1b2NHSmVlOHpnLUFfUjJNcUg3R1NYYzFGdmxDMmNKbmtDNnZOTFNxNzI4eXJFOERSc1dXMTIxMUpLcVhXaUtSLVpNT3ZEekN2VF96V0p6VVZEZkpXZV9NMlBzTE15RGxXcXliVW5XZVl6UVEwX1RmLXRLakRLa0l6NGFzY2hQNlRsb1AwTnUydjV4WnhZaE1xNXQyWlk?oc=5",
+     "source": "thv11.com",
+     "published": "2026-11-05T20:53:33+00:00",
+     "summary": "French Hill defeats Chris Jones to win re-election in Arkansas's 2nd District&nbsp;&nbsp;thv11.com",
+     "image": ""
+    },
     {
      "title": "Missouri Senate Republicans choose new leaders as election losses reshape chamber",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUFozQXpqUGdqeGxkSnJtU0daemM1ZDBxMWpHMktJWEdPNEhhYzJ2RDRzM2dwdnhTSThidUNfYkx4VWZaLUk3N2pNVHhrMUYyMGV3dHpHLVhsX3lrNnF5dk1GZ1JqOVBJc0hjc3pGWTdwVGlISXFUcEZNVEYtcjFwLUF5WG81bkxhYktpQXJZZjhiQ0RPc2s2NXZkVEZ0T09QOWZRNGJ4ODg5bTkwRmJYVmJYWm84NWZaeUFteC1qSDU5VUE?oc=5",
@@ -232,108 +320,20 @@
      "published": "2026-11-05T20:52:13+00:00",
      "summary": "Missouri Senate Republicans choose new leaders as election losses reshape chamber&nbsp;&nbsp;Missouri Independent",
      "image": ""
-    },
-    {
-     "title": "Kansas United uses election to build familiarity and support for new party",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc000MlFxWmlOSzZTZkJCbzF2dzdpbzNtQ0lCT2luTEVNbFY2VG54emkyTlRFTjlJRTVHdERNWS03T2lzTHVMZ295dFYtd1hJVk55UmQxWXdNd0IwU3FkTmhIVncwdG9BVzBZWHBpb1FFS2l2SHV5TjBpaUNUUEgzOE5sbC1jeWxHZDdIYjZLaTJEMXl0QThUTGNRSl9sbVRndHk3NVZsUUlmS1phS09kcnNVUnQ?oc=5",
-     "source": "Kansas Reflector",
-     "published": "2026-11-05T20:49:18+00:00",
-     "summary": "Kansas United uses election to build familiarity and support for new party&nbsp;&nbsp;Kansas Reflector",
-     "image": ""
-    },
-    {
-     "title": "Israel's president pledges to pick candidate on Sunday to form government",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXl2TW1pRDd2eEFya2FTU0pkOWJWd3lFZG1PdUdSNlBWTVR5VGp3UWtLb2E0Ri1iTmt1SWhRckdOVVhkN2ItZ1Y2QlhjT2NrcGR0ZTg3MklhcENpZUFOM0I1SDRYdTZwMFlYeGMwMTM1SWF5ZzNnd2h4ZnJ1bC1BZWhlNDlYUXM3S3FRdXVyR1p3SE5GYUFoMm1wSWRYSlBYY3NkcTBpVklrTnZibm51eURCWkszdHBtdU9vYQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-05T20:46:13+00:00",
-     "summary": "Israel's president pledges to pick candidate on Sunday to form government&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
-     "url": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
-     "source": "France 24",
-     "published": "2026-11-05T20:39:49+00:00",
-     "summary": "\u201cYou can be as repressive as you want. The grievances are still here.\u201d With this stark observation, Ariane Bogain, lecturer in French and politics at Northumbria University, captur",
-     "image": "https://s.france24.com/media/display/f0afb24c-d952-11f1-a604-695cb59fade5/w:1024/p:16x9/EN-20261105-130308-131637-CS.jpg"
-    },
-    {
-     "title": "Election takeaways with \u2018Soundside,\u2019 \u2018Sound Politics,\u2019 and a whole lot of guests",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUlScDBRVkticG1rREhaSGNqV3BLLWtjTGNmcUEwbmRaZWhCUS1vVFVLcldTZlNWUUJMXzBvTGFFUG5URVJSb2IwQ29sMUVCMm5xU0ZVbFdpT1huTm5wZ3BDeDBUTXVpMGtMeWotX0gwMXhWUmFVYnRMdWhmeEFPMEJCSDgtSkY4Y1otejFudkJBUGlFTWgzM0JmbmFNbWkwbGhrUTJBMlJJWlE2bC1zR0pUdlMwOHlGVm9QMXN4YVo?oc=5",
-     "source": "KUOW",
-     "published": "2026-11-05T20:36:00+00:00",
-     "summary": "Election takeaways with \u2018Soundside,\u2019 \u2018Sound Politics,\u2019 and a whole lot of guests&nbsp;&nbsp;KUOW",
-     "image": ""
-    },
-    {
-     "title": "US elections 2026 live: Democrats hold nearly 100 House seats more than Republicans as blue wave continues to grow",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-05T20:35:44+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Ho",
-     "image": "https://i.guim.co.uk/img/media/2d74642ff0459809ae0e038abee7d53046e79273/0_0_3233_2587/master/3233.jpg?width=140&quality=85&auto=format&fit=max&s=fa5e5043233800d8c2d44dfaf7e83516"
-    },
-    {
-     "title": "Dentons Global Policy Outlook \u2013 Special Edition: The 2026 US Midterm Elections",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlRSSTFBRGxKREhkV09FeDdYeDJBRDV5anF4aC1yd0RYZER2ZjVNWkZQakdrVXE1a0p6SEN0alF6MmI4NEJGNm1WY19xLUNHcDZuUnQyRDl1X0dRQndKTFl6VU5fdVJnYnRYaDR0amMwRG5vMFpDeWhnZk8zU09nNkg0dFNGT1JFRXJWYldicHAyUQ?oc=5",
-     "source": "Dentons",
-     "published": "2026-11-05T20:26:03+00:00",
-     "summary": "Dentons Global Policy Outlook \u2013 Special Edition: The 2026 US Midterm Elections&nbsp;&nbsp;Dentons",
-     "image": ""
-    },
-    {
-     "title": "US midterm election results in graphics and charts",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-05T20:19:17+00:00",
-     "summary": "US midterm election results in graphics and charts&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Mass protests in France driven by nationwide strike action",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T20:11:37+00:00",
-     "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
-     "image": ""
-    },
-    {
-     "title": "Agriculture and Food Policy Working Group Policy Paper",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGh1NGUzRDRKbFhwLUdFLXVqXzE1UnNqRElUTkMtanU1R3pKMjJqRVc4X1RtSnRrQ1FQTUpnUnBleDY2cDg1Tm1pUUxNaUFpUERvcHhQT3BmX2xVaFJ0SDRFYWNILXlRV3Qtc1c0N2wwY1JDRjVaTHk3em43VUVkUkFlUDJrcTFXMWR1UU5FbHAyZVU?oc=5",
-     "source": "U.S. Chamber of Commerce",
-     "published": "2026-11-05T20:10:15+00:00",
-     "summary": "Agriculture and Food Policy Working Group Policy Paper&nbsp;&nbsp;U.S. Chamber of Commerce",
-     "image": ""
-    },
-    {
-     "title": "Agriculture and Food Policy Working Group Priorities",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnZOTFpQVW1MRXZXYXNXdHZieHpOZEpSU2JEcUh2blU4QXJGRGRxWUFBX2FiWTM1THdCb3d1ajFIRGlBdU9kTTRMaW9PMkZ6SlFpMlR3Q3ZxVURHWlprZFFIRVVsLTVwSk1wbHNBNzU0aVN5YUhKZlB4LUxtTEE4MU5xbnVrOGVfcGFrTEFGS1k?oc=5",
-     "source": "U.S. Chamber of Commerce",
-     "published": "2026-11-05T20:10:15+00:00",
-     "summary": "Agriculture and Food Policy Working Group Priorities&nbsp;&nbsp;U.S. Chamber of Commerce",
-     "image": ""
-    },
-    {
-     "title": "This midterm election just burst Republicans\u2019 2028 bubble",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjc2S01rWnhHNW95aHZiTVRaSkgxRFQzdUtyNm1hZGxYbEMyTjJsbnVPRURGVGk0TndmN2M4ZHJ4NE4tZkJkVlV1UkVRdk9hM1MwTFBjME9VcElBU0t1Mzk4bVB1czRxalBXVWlnbmVNSGdfSUNyVHFIX0RXUjVxNDhQM09Qajc2bFd5NW9mZm5aTUZNbFREUUhEX1MybXBxdkNxODY3NUxLUQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-05T20:01:44+00:00",
-     "summary": "This midterm election just burst Republicans\u2019 2028 bubble&nbsp;&nbsp;The Washington Post",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-05T21:00:18.007905+00:00",
+   "fetched_at": "2026-11-05T21:30:21.895640+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+     "title": "Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet",
      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-05T17:57:57+00:00",
+     "published": "2026-11-05T21:25:57+00:00",
      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2258/live/1f0da230-d934-11f1-8bce-2396c9c50357.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg"
     },
     {
      "title": "AI stocks plunge after US election, driving down markets",
