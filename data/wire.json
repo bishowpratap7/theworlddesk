@@ -1,33 +1,57 @@
 {
- "generated_at": "2026-11-05T23:00:32.331700+00:00",
+ "generated_at": "2026-11-05T23:30:35.740853+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-05T23:00:32.331665+00:00",
+   "fetched_at": "2026-11-05T23:30:35.740824+00:00",
    "stale": false,
    "items": [
     {
-     "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-05T23:21:34+00:00",
+     "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg"
+    },
+    {
+     "title": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-05T22:51:01+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live resultsSign ",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+     "published": "2026-11-05T23:16:57+00:00",
+     "summary": "Lamarre-Condon returns to witness box for day two of his evidence. He\u2019s accused of shooting couple Jesse Baird and Luke Davies in Sydney in 2024Get our breaking news email, free ap",
+     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/178_0_2715_2171/master/2715.jpg?width=140&quality=85&auto=format&fit=max&s=f28f36d7c46b054d98cea30d7767e80c"
+    },
+    {
+     "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+     "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-05T23:16:53+00:00",
+     "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg"
     },
     {
      "title": "California governor commutes sentences for state's 548 death row inmates",
      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-05T22:31:40+00:00",
+     "published": "2026-11-05T23:09:33+00:00",
      "summary": "California has historically had the largest population of people on death row in the US.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg"
     },
     {
-     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-05T22:13:38+00:00",
-     "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg"
+     "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-05T23:06:47+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live resultsSign ",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Powerhouse Parramatta opens this weekend \u2013 and it\u2019s dazzling inside and out",
+     "url": "https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival",
+     "source": "The Guardian",
+     "published": "2026-11-05T23:00:36+00:00",
+     "summary": "Coups de th\u00e9\u00e2tre abound in the $915m addition to western Sydney\u2019s skyline, which opens on Saturday with five new exhibitions \u2013 and a 23-day festivalGet our weekend culture and life",
+     "image": "https://i.guim.co.uk/img/media/f98712649872f00498ef7bae039a13ef7ee16f70/605_0_6623_5301/master/6623.jpg?width=140&quality=85&auto=format&fit=max&s=95930b57eb532e9b0f8777ff5d602f8d"
     },
     {
      "title": "Fox News suffers ratings drop on bleak election night for Republicans",
@@ -38,7 +62,7 @@
      "image": "https://i.guim.co.uk/img/media/37ef84d79f4790da044e8b58f149f13760b476a7/421_0_4210_3368/master/4210.jpg?width=140&quality=85&auto=format&fit=max&s=c08732c2af13b82821d498f38ed06ce6"
     },
     {
-     "title": "Generation Z and diversity redefine US politics in groundbreaking election",
+     "title": "Generation Z and young voters help redefine US politics after midterms",
      "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-05T21:49:31+00:00",
@@ -92,37 +116,29 @@
      "published": "2026-11-05T21:23:18+00:00",
      "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across boursesThe Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday",
      "image": "https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=140&quality=85&auto=format&fit=max&s=06500e89cb38f5ecdd58baa634d2acb4"
-    },
-    {
-     "title": "Nigeria court bars opposition candidate two months before election",
-     "url": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
-     "source": "France 24",
-     "published": "2026-11-05T21:22:18+00:00",
-     "summary": "In tonight's edition, a Nigerian court disqualifies a leading presidential candidate, adding fresh complications for the electoral process two months before the election. Also, ten",
-     "image": "https://s.france24.com/media/display/a47ac0fe-d95e-11f1-b71a-695cb59fade5/w:1024/p:16x9/DN00001654-VOD-00013405.jpg"
-    },
-    {
-     "title": "Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass",
-     "url": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass",
-     "source": "The Guardian",
-     "published": "2026-11-05T21:12:41+00:00",
-     "summary": "Major shake-up as LA councilmember, once considered long shot, ousts Democratic rival she had once endorsedWho is Nithya Raman, Los Angeles\u2019s next mayor?Nithya Raman was elected to",
-     "image": "https://i.guim.co.uk/img/media/723df3f9c1b63824fe76ccab3a0fa4a1737538cd/828_0_6019_4817/master/6019.jpg?width=140&quality=85&auto=format&fit=max&s=ebd3e1cd6e3a64db2635ff0cd1fc1159"
-    },
-    {
-     "title": "Saudi coalition intercepts missile fired towards Medina",
-     "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T20:48:47+00:00",
-     "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-05T23:00:32.331679+00:00",
+   "fetched_at": "2026-11-05T23:30:35.740837+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump predicts deal with Russia on Ukraine and 'all of Europe' after meeting with Putin's envoy",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zYXVHZHkwTFpfZ3ZJRHRyalhSRGEtODNMWFJXYWhMd080SHpYcjdDS3dFVUNGS1l3a3Y4UU5ucXVLRkxOREM5ckliQVpDajUyMmZYQ0xZZjE?oc=5",
+     "source": "TRT World",
+     "published": "2026-11-05T23:24:11+00:00",
+     "summary": "Trump predicts deal with Russia on Ukraine and 'all of Europe' after meeting with Putin's envoy&nbsp;&nbsp;TRT World",
+     "image": ""
+    },
+    {
+     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 6, 2026 from Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Zd0hJV05vNmJaLUEtX0hLdEp1NnFHYzNKelZJN1dET3FEVGNBWDBsckhJREtVNm5jYWs1dHpqQmVlNjdsLV92akVKRnJrQQ?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-05T23:03:03+00:00",
+     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 6, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
     {
      "title": "Russian, Ukrainian officials speak at White House after Oleshky ceasefire",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczA4bi1hQW9lcHJXN19EMnJ1dmJmUE04YlRQeWlPaU5tcUw0ZGpHdG1fZnZOTmlrYk5tWXlGdXZLSzZvZTZadnJLbFllYlV1U0gzZHVzS2JWYlFqNFQtNVlRekhGTHZSaHhnTC12OGhUa29xVkVMN3h1WDNVdnREaFpPN3BxUXhtOGRkQ2s1SXYtSDdYekhHT3RKVXZmZUYyYXR3aw?oc=5",
@@ -145,6 +161,14 @@
      "source": "WIVT - News 34",
      "published": "2026-11-05T22:24:35+00:00",
      "summary": "JC Ukrainian church to help children impacted by war&nbsp;&nbsp;WIVT - News 34",
+     "image": ""
+    },
+    {
+     "title": "Melania Trump's adviser Marc Beckman on her localized Ukraine ceasefire",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjk2bFJqWXJXcWlDQUpOM19PcVlUZ1J2Mkl6RnJMYVpwcWR5SFZreG1Scy1UQnl6WGNxRG50Qk56S3hDREZfcVFaRm5nVnI5REhySVdEak5WZFowQlBKNE1oRjRMemF1SXo5NVB0Sl9RbWJxTU9zak5QdHdPUFRMcmpUc0hjN0pTNk5EMXJhTDlSOUg2dU5zY2FkRFFaUDNVeUdn?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-05T22:24:00+00:00",
+     "summary": "Melania Trump's adviser Marc Beckman on her localized Ukraine ceasefire&nbsp;&nbsp;CBS News",
      "image": ""
     },
     {
@@ -180,27 +204,11 @@
      "image": ""
     },
     {
-     "title": "Trump Meets Putin Envoy, Predicts \"Very Big\" Deal With Russia On Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTDYtcG9paFNjRVo0UVY1NkJPdll5QWx1bDBCZzllc1A5cGNvaDhNUnlTX0pvc0c0bWxtMVNDS2RtWGZ0dWVpOE9ndVlqOGlaUmI4SzF5dC1nSVFiMG5uT21oR0dha3ltTDVtVzNfWVE0TGJnY2Z1TkdCMHN0R2lKZjFabnBhSWtYOW15bEg5WGlHRFJwTXVHR05IOVJkLVVpNFMtZW92X3M0MHFTVThqcEYzS1pVWXFsMWRlNS1hZmpfMEhZdlM1UjRoMA?oc=5",
-     "source": "NDTV",
-     "published": "2026-11-05T22:10:54+00:00",
-     "summary": "Trump Meets Putin Envoy, Predicts \"Very Big\" Deal With Russia On Ukraine&nbsp;&nbsp;NDTV",
-     "image": ""
-    },
-    {
      "title": "Trump stated that a peace agreement regarding Ukraine would affect all of Europe",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDVFQkc1dEFxLTVVWm9zeDZqd2FXUFJJUUhnREJEamNWR25mVXg2RWtGMXRaR3lZVk5MWlg5NnYweG9oV1pfZGotNnduU2JJd0lIS2dZeEM5TGNjd00zSV9uLUhvY1JHRlFmZEpSXzV6SlBZQlMxdHJtNnQwa3otaTR2R3lnUXZVNU1RUGVkamRyMWU3RVBtNXJnSnZBdG96bDdpM3hoWXVBWjZyV1IxRFJET2_SAboBQVVfeXFMUGpsOTIzZXpKZmJNT2ZhMVowUG5ZQTBZdW56Y1pGS1FUT2FnejA5eXNtOU9qS1dhS2QxZGVNLTJQS3g0cE41bWJHeHhqblZPQVZrT1pRVGttVjdsTUZreG8zNWFqX2lUNkFmMl9yczVKZ1JneFpTb0FTMzNGTFhLNHRnTVVTdkg3Z1NESjZ6V3pWcFFNNDg5dlFvMURTdzJrcV9LUXZmN0UwSC1HNElmNHA3Wlk2SGdWakd3?oc=5",
      "source": "LIGA.net",
      "published": "2026-11-05T22:10:00+00:00",
      "summary": "Trump stated that a peace agreement regarding Ukraine would affect all of Europe&nbsp;&nbsp;LIGA.net",
-     "image": ""
-    },
-    {
-     "title": "Belarus Sentences Priest Who Opposes War on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlYwcVlFck1fNUIzT2M1dFc3R3Rla1FVbXpVODg3RVY4bDlnaTVnbk1EaHRyUVluNm9tbTJjSXpvcEtLbkkxTzFMTHE3d3RCWFlFSW1jZjJKLVhoVmxBVHpQOTdvaUdYMEVRX1QtTWt1S21wNDRwdEk5eTVtNUZuc094TUxuV3YtaXI0QUVocnpZUFp4Rk44?oc=5",
-     "source": "Newser",
-     "published": "2026-11-05T22:06:00+00:00",
-     "summary": "Belarus Sentences Priest Who Opposes War on Ukraine&nbsp;&nbsp;Newser",
      "image": ""
     },
     {
@@ -210,28 +218,52 @@
      "published": "2026-11-05T22:05:53+00:00",
      "summary": "Italy's Meloni blasts Europe's 'disarray' on Ukraine talks&nbsp;&nbsp;France 24",
      "image": ""
-    },
-    {
-     "title": "WATCH: First lady Melania Trump hosted Russian and Ukrainian officials. Trump met with Putin's envoy",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWm13UURlaks4VWVwQng3c21RZEJwdExDYl9FOU9ZRURyT2VJeGIzdUYwMURkVE1JTUxobUJnVFlheW1xYVM4ejRTZHJpeUJnM00yMVp6N3JhMExWR1JDRnNKLTJlRzJDYnBVYzdQZmR0UkVQV3N1Q2dsREFPa2N3RXpzcmQydXZ1OHZaeERqWEduUjFOeDNYQXhrMThMMTl4STRzak1heWhpbmF2UDRrWVRXOC05eVRxN2RYRDVpTk9jQkU5Z09pWmNaQmFudHg50gHWAUFVX3lxTE85bm8yQXZ1ekJHVUJ0MjBFa3I5VkFTbVVjbXcwakowdURpdnptbml5SEt5N3I2MnlZLU1ESFVGdlA2ZnBKSG9lSVNrQWNUQ1FkcmlKbElhOWFKNTFsWVVRRkJZS3p5X1FHQ3RYZjI1ZGdNaUs5ZVJRZXFHRHJYVmVDVHBHSDItb2JrZ0hMRnVURHpTSlliaGlEZ2JhQ19ick5odVZKLS1teU14R056QnlyQ1J5TWJxdUdyNllIek85eXlvdmpqdThXMThlUW1Mekh1dnNDblE?oc=5",
-     "source": "PBS",
-     "published": "2026-11-05T22:04:18+00:00",
-     "summary": "WATCH: First lady Melania Trump hosted Russian and Ukrainian officials. Trump met with Putin's envoy&nbsp;&nbsp;PBS",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-05T23:00:32.331683+00:00",
+   "fetched_at": "2026-11-05T23:30:35.740841+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Missouri Democrats see world of opportunity after Tuesday\u2019s election wins",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRnlUWmZrYlhVWm54OWlabVNycUF4TTdVbkpZcE1Rc2l3R3g3QjlBSnM3amxndVVIRDcyUHFGNlI3bi1Ob2xRakRzQ2tSUHdwN2N5SlRWWm9RaGZZa1dOVVloZl9wUWFMd01tVzJ3WmRsSWRrOE90czJHenVBRlRDeFRPVDJSYnc3YUw0ajlQc1B1NllncndlQ0wwY2Y5M1dzeDZ3bEpPVm9TeGhNeXlwTXpUcEpYdmk4WW52REczTk1YYzdQVWRKMDhNdW4?oc=5",
+     "source": "STLPR",
+     "published": "2026-11-05T23:18:11+00:00",
+     "summary": "Missouri Democrats see world of opportunity after Tuesday\u2019s election wins&nbsp;&nbsp;STLPR",
+     "image": ""
+    },
+    {
+     "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+     "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-05T23:16:53+00:00",
+     "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "16-year-old poll worker shares experience from Election Day",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEdrNjhtTlFEZFdoTm9NY1BqVVlpaFZPZDRrZl93LVRUb2ZxZ3NEWGUyZDFhOG54SjRTeWlYaGhZcTh2N0xSZkV5Wk1sbGRRU3M4ZWg1ejVBSmxUSEtaZjVUS1JRdVE1dHlIaF9RZS00YjRjQ204UFBXRnEtTC05cVlkUmtGY2FsLXJOMQ?oc=5",
+     "source": "Shasta Scout",
+     "published": "2026-11-05T23:07:43+00:00",
+     "summary": "16-year-old poll worker shares experience from Election Day&nbsp;&nbsp;Shasta Scout",
+     "image": ""
+    },
     {
      "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
      "source": "The Guardian",
-     "published": "2026-11-05T22:51:01+00:00",
+     "published": "2026-11-05T23:06:47+00:00",
      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live resultsSign ",
      "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Democratic socialist Nithya Raman ousts embattled Los Angeles Mayor Karen Bass",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjhIMWFLekdpYW92dVlfVkVsU0RuMUVLVURERkh2eVhqdDBPSEowZVN4VTNfeGJzNjFZenNTQTdPY09veHJILVYybk9fRFlPMmZrbk9YVWF0RGM0YkxBVnAycHFPMFZMc3JHaU5ReGhQNU9MNTlkWXN1OG44V3FJRllKdVZBeEhEMmFVdWwyZDVVQ1pa?oc=5",
+     "source": "AP News",
+     "published": "2026-11-05T22:55:00+00:00",
+     "summary": "Democratic socialist Nithya Raman ousts embattled Los Angeles Mayor Karen Bass&nbsp;&nbsp;AP News",
+     "image": ""
     },
     {
      "title": "New Research from the AARP Public Policy Institute Highlights High Costs Caregivers Bear",
@@ -282,56 +314,24 @@
      "image": ""
     },
     {
-     "title": "Trump\u2019s first post-election executive action: Preserving his Oval Office changes",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTy1JUnlGX0ljdWMyVlI2bVVrNU9fNnctQTl3Vmp0ZTJqN2xWVWRCcWt1NHpUUFRVM2NGNHFoTG9JdnFwTkl4UldjWld5Q1hWZk5JdE9rVnJueWFPamIyRURVZHU4MHR6RzhUbzVIUHNQWE9IZmluTWpjdXZnbjlveHlmSXA2Snl3WGxsQnBQaHpDTl9pWHFqMFd0Rkt4WnJoYW43U25vWGpOSGs0YjNzTmZQQmI4Z3Q2R1AyeXFWZzB1VXZTeVc4?oc=5",
-     "source": "Politico",
-     "published": "2026-11-05T22:24:00+00:00",
-     "summary": "Trump\u2019s first post-election executive action: Preserving his Oval Office changes&nbsp;&nbsp;Politico",
-     "image": ""
-    },
-    {
-     "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSFFWalBwTVNjcGd4bmtVank5ckdkdk41WkhqNHkwU2ZuaVFlUnNaOFIxVjUycFFJVDlFZE9NN3QxQmIwdTRNaTBZVUJmT2tXdUI4RG0zSGx1R29QeDlCaC1WYjZUbjYzeG5pTlRmRmotNWR4bDlON2ZSLXdiVDF2dGJiaUowZWRpRTVyZ1BnRnA0NGc?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-05T22:21:55+00:00",
-     "summary": "Why a Merciless Supreme Court Rebuke on Election Eve Matters&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Sen. Lisa Murkowski reflects on \u2018blue wave\u2019 in 2026 election",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRlBwMEVBTWpSQkVDLXlzdVdYclJhb3lsWGdNbC1WbjlMdUwwQTZra3A5d3cwNTd2a1o3WVB6X004WGpZZHhvYnNUWW05UVVoUjhEVWVVTGVyaUctYUZuNXBXZnplMDNxQzk2Z1pXQk16cm53M2J2ZHVSdWFOWXV6UE5yeWRNbnl6T2Y2anFIdw?oc=5",
-     "source": "KNOM Radio Mission",
-     "published": "2026-11-05T22:20:25+00:00",
-     "summary": "Sen. Lisa Murkowski reflects on \u2018blue wave\u2019 in 2026 election&nbsp;&nbsp;KNOM Radio Mission",
-     "image": ""
-    },
-    {
-     "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakxhcDZneXF2MVZCSXh2YzFDVWp5UVBOT0w1cmtoQ1R4NHBKTkNRMTJFOV9DN18xd3hwTEo5cGNUWVhLdElWd3VvLUcteXRzMThLek4tWXE0UWV1WHJwWEhacmQtRkszZDNVcTVKaGpjYzdGMkFSLWphTk41OGxmb0UxMnBfbUhVLUNQbm5CN3nSAZYBQVVfeXFMUGk2V0ZVVUdnZFo4M2tuUklLTy1SQVZBZUR3b19SdWxreWpLOExrVzcyeUwzTTg0MlZ1bW1Zd1dsUmNUcVJYb2VXY3B6MDRMbjl4YndEa2Z4eW9YYmo2bjlkajV3aHhvYm1YVzUxaG01ck1OYklJQl9FUGlraHotVlZuTkVfU0ZVWTVMckV5S0ZONlJnMmZ3?oc=5",
-     "source": "CNBC",
-     "published": "2026-11-05T22:20:19+00:00",
-     "summary": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith&nbsp;&nbsp;CNBC",
-     "image": ""
-    },
-    {
-     "title": "NY counties begin election certification process",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3pzTVpEQllPTU1jUjlmTVhfTHZwS0NEMzN2em5rZ1JCMFVvcHZkZk5BV09lZlIzdkxhS0pSZ1R1T0FvNEdCLVBRR0NhcEtZVWd1cm5zVnRHNjRZbG10cFpvY0Q0MVJYU1pTSXA3Q25UNS1mTEF4TEtKUWJILU1MWlFlOE1xSlJDNGV4TdIBkgFBVV95cUxPc2RvWEVrUEo3ek9VVFJvOWU3RUZMaTgtZlpLOXY0ZjlUb1RvZ0Y4bEd1TGVZdWduZFBmcG52a3hFckZiLUx4dVdDdVROa2RCemtETFRpY04zQ2lOcldSU2VEcG01UUFrMGZjMVR6QmJsTS1McXBtSGtwVzMycks3YldZZUs3VEc2NDFmU21ucHNNZw?oc=5",
-     "source": "NEWS10 ABC",
-     "published": "2026-11-05T22:16:09+00:00",
-     "summary": "NY counties begin election certification process&nbsp;&nbsp;NEWS10 ABC",
+     "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMXZrTjFnak5lRFhsb3JLdU1zd2JPOXd0YTRLM3hIN1kxMDhhUlQwNnd1RDFPQlJQYVZFcF9vNFA0NUVuUmRtaVY5ZkR1eGZIUjRWOXBJSDNpdUZnanpvS2Qtd0djVEhReXJuMXBrWDkyU09mMWF3bVp1X3NQd2o0TDdnNC1ieE9VM0s0UmRyNW1jWkVoUlppcWF2SGU?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-05T22:25:00+00:00",
+     "summary": "Herzog to meet Israeli election rivals as decision nears on path to power&nbsp;&nbsp;The Guardian",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-05T23:00:32.331686+00:00",
+   "fetched_at": "2026-11-05T23:30:35.740844+00:00",
    "stale": false,
    "items": [
     {
      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-05T22:13:38+00:00",
+     "published": "2026-11-05T23:21:34+00:00",
      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg"
     },
@@ -350,14 +350,6 @@
      "published": "2026-11-03T06:00:39+00:00",
      "summary": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of Vantara zoo ahead of UK-chaired Cites meeting on endangered animal importsBritish government ministers wer",
      "image": "https://i.guim.co.uk/img/media/076de5bb7166059a75c6e25a62ae64a4e33e5120/0_0_6148_4919/master/6148.jpg?width=140&quality=85&auto=format&fit=max&s=8a89bedee2d9070c71ac01c9314cf5ac"
-    },
-    {
-     "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-     "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-02T17:34:58+00:00",
-     "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffe/live/f76751a0-d6ee-11f1-93e1-3b657b665bcf.png"
     }
    ]
   }
