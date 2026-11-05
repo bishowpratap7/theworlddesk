@@ -1,17 +1,25 @@
 {
- "generated_at": "2026-11-05T01:27:03.220076+00:00",
+ "generated_at": "2026-11-05T01:57:06.508102+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-05T01:27:03.220047+00:00",
+   "fetched_at": "2026-11-05T01:57:06.508071+00:00",
    "stale": false,
    "items": [
     {
      "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
      "source": "The Guardian",
-     "published": "2026-11-05T01:04:51+00:00",
+     "published": "2026-11-05T01:43:37+00:00",
      "summary": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted \u2013 a small but growing marginLive results | Republican losses mappedTell us: how do you fee",
      "image": "https://i.guim.co.uk/img/media/4df18077e6ef6dbd140ed398cd00e92926713dc6/312_0_4859_3888/master/4859.jpg?width=140&quality=85&auto=format&fit=max&s=833f341739064bf50a2b68cc1d779bc5"
+    },
+    {
+     "title": "Datacenters were on the ballot. US voters rejected them",
+     "url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+     "source": "The Guardian",
+     "published": "2026-11-05T01:30:14+00:00",
+     "summary": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total in Tuesday\u2019s electionsTrack live results from all 50 statesSend us your questions about t",
+     "image": "https://i.guim.co.uk/img/media/f594423b57cee6e45ba9951cb98ac36d4d61d61a/545_0_5450_4360/master/5450.jpg?width=140&quality=85&auto=format&fit=max&s=329e99710e6cf8215cffb52d1e7e44eb"
     },
     {
      "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
@@ -108,21 +116,21 @@
      "published": "2026-11-04T23:34:47+00:00",
      "summary": "A giant banner depicting US President Donald Trump and Israel\u2019s Prime Minister Benjamin Netanyahu was burnt in Tehran",
      "image": ""
-    },
-    {
-     "title": "Trump blames Iran war for midterms losses",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-04T23:30:01+00:00",
-     "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-05T01:27:03.220060+00:00",
+   "fetched_at": "2026-11-05T01:57:06.508085+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia-Ukraine war endangers shipping in Black Sea off Bulgaria, Romania",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTlwUjVZZWFqX0ZlNnFkZ2R5elN2SXItdVJfeFNxU1lTeEdiMm5weEhUQkdwdEJVZjRzVGxNa2pUc1dEX0JOZzlvWEVacXNEWW1lYmNocndYVEM1cG91Y3U3Tmo4eGgtcWhNR09uYlAtdmt5SUo4LWQ0OUFiVGFsQlpVdkNYSFYxbUhPOGd1RmNoWlJKdVdsWUs0OTRWV3VTaTY1NGV5UjVJdDBpMFNyRGQ3aw?oc=5",
+     "source": "WISH-TV",
+     "published": "2026-11-05T01:43:00+00:00",
+     "summary": "Russia-Ukraine war endangers shipping in Black Sea off Bulgaria, Romania&nbsp;&nbsp;WISH-TV",
+     "image": ""
+    },
     {
      "title": "Pete Hegseth may take fall for Republicans\u2019 midterm losses, despite Trump support",
      "url": "https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses",
@@ -210,21 +218,93 @@
      "published": "2026-11-04T23:11:08+00:00",
      "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 5, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
      "image": ""
-    },
-    {
-     "title": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdFotNkNza2pjeEJZQVU0M01GempGbzZEYTF0QTk0NXFoUm1KMHdOdXVEXzh3Sk9ZR3dDbGhSVUNqbGxnb2xUZG1iMjhjenh4alktSndnVmM1ZndBN2Fz?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-04T23:01:08+00:00",
-     "summary": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-05T01:27:03.220064+00:00",
+   "fetched_at": "2026-11-05T01:57:06.508089+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "8 Oregon school measures pass, 1 fails in November election",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNkNKSXBsN3dGS3NEVlp2VEZMYmZ2RUh4aVdjbzRJYWVON2Zna3ZNUmg3ZTZ2MUtfWERaME5SWllFMkZBMTFMWGw2aWlLbHRtWUVqYWN5R0cwZ3p1UDVOeXJEdWpLMTFMR0x1NmcyYzFzMFVMZTI0emlnNVUyTl9aa1VjSV9uM0E1UURxLVVQOE8?oc=5",
+     "source": "Oregon Public Broadcasting - OPB",
+     "published": "2026-11-05T01:54:17+00:00",
+     "summary": "8 Oregon school measures pass, 1 fails in November election&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
+     "image": ""
+    },
+    {
+     "title": "California election 2026: Sacramento State students reflect on voting experiences",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3ZZazlkeEloSVVUbERlbkZYTHJjNU1iSkExZVdXQlBsZElVcksxNXRvdklkZlF4NkNaaUtoSHJDbVF4cW5RWUFmVmJJQ3ZJeUhDY1REYkN4Z2oyU3Z0Q24waUZlTmlpRVNET3RZS2tsSDNHV2tFczVJU0NnS3BuVU1IZmZVRG5zOGR1Q3gydEp4MWhQXzRZ?oc=5",
+     "source": "KCRA",
+     "published": "2026-11-05T01:49:00+00:00",
+     "summary": "California election 2026: Sacramento State students reflect on voting experiences&nbsp;&nbsp;KCRA",
+     "image": ""
+    },
+    {
+     "title": "Kansas Governor Election Live Results 2026",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nWHBNNWZibldPNElQNFdGbHpZVmdlaFY0em9Va3BrSlZ6djdaV0ZYQWdXLVIyQm1rb2xpeVdueDdvRmRZdjc3SEJ4WFk0V1ZqWW1zUG12eEpoVmxnbXd1SlpITzBEMHVlZVNyTlE0ekYwVmRQS2c?oc=5",
+     "source": "AP News",
+     "published": "2026-11-05T01:48:27+00:00",
+     "summary": "Kansas Governor Election Live Results 2026&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "After Election Day rout, Trump returns to the White House ballroom, his \u2018safest place\u2019",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVQxeElqN3laWmNWRVROTENQbE42OHlOY1R1Ny1xQ24wcWhDemcwQUdTc3pDVmdHREZWcE95UmpFRHA2SHpUYnRDYmo0cUNVOUFDQkM0ZEdjRnp4X1NqREt2YzByeDRtMUlveWNXNWJwUDJEbzA4c0U5M3M2Y1JIa3R4cERZc2FLdjRvdHVZcE9QTkY3Q3pia1VadjgyQnc1ei0zM1R0NlBxU2M3SXV1bjBOQXJJdmpUZVRmUk9tQ3IwQVVuUFE?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-05T01:47:37+00:00",
+     "summary": "After Election Day rout, Trump returns to the White House ballroom, his \u2018safest place\u2019&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Elected officials, union members and grassroots groups celebrate Tuesday\u2019s election results",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVHByMk5hbHZfdkJpQmhyMzZMY2ZKYVUxOTFWWWw2OTVKVWZZVnZueUJrNnRvTFhfSWVPTnA5NDRDMGhKaFNxREZadk8zVlRqYnJoOEFQZWdkUzQwSUNCcWhyMDUwUzhDdVhGWXg4M2JlU0FZeUpKWW1WWS1KQURuYVF0SlYzWVR6ZG42amlDNmF4NXNsbUwwdFMzTm0yeEtzeGN4ZlJ2bkQ3UlUxSFoxaHpQZ29WVExRbXhvUDFQUUNTRnJZUlpOc2Z4UTM?oc=5",
+     "source": "KPBS",
+     "published": "2026-11-05T01:47:00+00:00",
+     "summary": "Elected officials, union members and grassroots groups celebrate Tuesday\u2019s election results&nbsp;&nbsp;KPBS",
+     "image": ""
+    },
+    {
+     "title": "\u2018Who cares? It\u2019s my last election anyway\u2019: Shasta ROV responds to election mistakes",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdERFMWtiNlJPRTc5WHAzRWhqTjhvdjBuTjU3alZUVjZFQXJvMFZJblVXbmpoUEJxM3h5ZU93cmczUThSUUdiRU5jNkFLemJJejZiUGVWOE03dklFWXA1VDRPUU9BekVJcm01V1dtcmdYQng0Y0syeXpjcUpQaXdZNGE5RWN6Z2VQa2xMdmNvYmQtazgwM3hPTmp4dXV5aWFZVnEzVUdR?oc=5",
+     "source": "Shasta Scout",
+     "published": "2026-11-05T01:44:32+00:00",
+     "summary": "\u2018Who cares? It\u2019s my last election anyway\u2019: Shasta ROV responds to election mistakes&nbsp;&nbsp;Shasta Scout",
+     "image": ""
+    },
+    {
+     "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-05T01:43:37+00:00",
+     "summary": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted \u2013 a small but growing marginLive results | Republican losses mappedTell us: how do you fee",
+     "image": "https://i.guim.co.uk/img/media/4df18077e6ef6dbd140ed398cd00e92926713dc6/312_0_4859_3888/master/4859.jpg?width=140&quality=85&auto=format&fit=max&s=833f341739064bf50a2b68cc1d779bc5"
+    },
+    {
+     "title": "Photo gallery: Scenes from Election Day",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRUdZWkI1eUdVNE1CcEZkWGpPOE1rUFpVbkJhY3JrWEFjTlFuZ1ZuLWp2OE0xR3M1WVRkTmR1RGhBVV92eXI1aTdCVnRPMU0wVVFDck1ENlFYNnRKNEZTSEZ1OHBRcV9pOHd5V01YdG9DSmlKbGk3RzI5S3ROdTRFZQ?oc=5",
+     "source": "News From The States",
+     "published": "2026-11-05T01:41:33+00:00",
+     "summary": "Photo gallery: Scenes from Election Day&nbsp;&nbsp;News From The States",
+     "image": ""
+    },
+    {
+     "title": "Datacenters were on the ballot. US voters rejected them",
+     "url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+     "source": "The Guardian",
+     "published": "2026-11-05T01:30:14+00:00",
+     "summary": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total in Tuesday\u2019s electionsTrack live results from all 50 statesSend us your questions about t",
+     "image": "https://i.guim.co.uk/img/media/f594423b57cee6e45ba9951cb98ac36d4d61d61a/545_0_5450_4360/master/5450.jpg?width=140&quality=85&auto=format&fit=max&s=329e99710e6cf8215cffb52d1e7e44eb"
+    },
+    {
+     "title": "6 takeaways from Alaska\u2019s election",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2tQd1VoaWhnZmdpTUcxMG9kRzZaOHAxZzl0WjBhdThrN3BXZnktWUJwbTA1UTE2ZFBtcnBUajJxVlN3b3EwMXpaaXNRU1h3NEs3RkJERklVUklkd1VGdFdNT1JiSWxXT2h4aTRXS2RzaVR6bU9kR0xZMTdmV19tYWVjcm5PNXhNeHRXN3dDS3luV2xsV3lDdg?oc=5",
+     "source": "Alaska Public Media",
+     "published": "2026-11-05T01:06:00+00:00",
+     "summary": "6 takeaways from Alaska\u2019s election&nbsp;&nbsp;Alaska Public Media",
+     "image": ""
+    },
     {
      "title": "Dollar edges lower as US election outcome cheers global markets",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3ZvRzF1aTlTZE9WT0NxYkU4TWFHTi04YnhEVXd1VTJRTXdibGtPdGZtTWkwZEVBLU0xNmtZaEc4R2lWZWVSdGJtY1FSdzhIazR5a2YwdDJoRzFFTHN1Z2FNb2l5b2x5SllyTE9sTTZTNkxFODFJVkhxOGhlblRTXzNiLTZpc3FKcXBqRzZUMjYtY3VXOHlnR0hPOFFYTldZaXpzSGNTbzlPNlhUdHF1amJTcFp1dw?oc=5",
@@ -234,97 +314,17 @@
      "image": ""
     },
     {
-     "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-05T01:04:51+00:00",
-     "summary": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted \u2013 a small but growing marginLive results | Republican losses mappedTell us: how do you fee",
-     "image": "https://i.guim.co.uk/img/media/4df18077e6ef6dbd140ed398cd00e92926713dc6/312_0_4859_3888/master/4859.jpg?width=140&quality=85&auto=format&fit=max&s=833f341739064bf50a2b68cc1d779bc5"
-    },
-    {
-     "title": "North Carolina election officials release provisional ballot counts after election",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWFrWTktQk5OQzBtd3I4WEdfQTFxMERFVVRvVlRyeXloRjBuN3BKOVF2eXRuN01HaG9Zanp4cUhIQXJTa3FYZDhfSVRtdlpWeHV2MTR3OU1ETkk0MVdESXl0V2tOOUJLNi05X21seERKa3VYN0tiTXBvelJOdHY1NFRFb2xrNk90ZWJKaEVEdmk2UmtkLTdxdEZVNnZVdnFhVVhUTmRRQmpFSE5PRnMwNVB6N0o1Z9IBygFBVV95cUxOMkViVGl5YU96a25mbUp2Mjhvb3RKZWUxZVRjcUF2dmpOVlJKdHN2ZHJ5bDN6cWMyRU55d3lDeW5BdDVLQVA5YWxxbWhUdktKVGdyYjFsMy1pcFZOS2cwVlBpVkV1NEJ5Sm1yOWswcnBJNU5VSXQyY2NBYm5tb0E4WXA4RXVWZWk5dGFOejdJbTl4RDhJVWN1WHcwaHRKajNRZXVlV2Y5SW1lMkQ2T1dUSERsOWpMSkVidEh1ZGQwanhUMXF5QU9HOTR3?oc=5",
-     "source": "WECT",
-     "published": "2026-11-05T00:59:00+00:00",
-     "summary": "North Carolina election officials release provisional ballot counts after election&nbsp;&nbsp;WECT",
-     "image": ""
-    },
-    {
-     "title": "\u2018It Was Never Enough\u2019: Susan Collins Couldn\u2019t Outrun Trump",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWNFVEdHZmNvYTNIdXk5MWh4MGUtZm5ZWlBRWkxySHJfZkpCUS0yeDRnbXI0Q0V1dkY3NWRYT3NWaDl2VTNxWk54WUZkLVNzSy1QOHMweWVKNkZVemhPQU1tT1A5REM1a3JDZktaX2wzSWxKN1Z4ZFUzUXMzTktlSG42QWtXVWRsVGNQT2lR?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-05T00:51:06+00:00",
-     "summary": "\u2018It Was Never Enough\u2019: Susan Collins Couldn\u2019t Outrun Trump&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Rochester mayoral candidates share reactions to election results",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzlTMmhPdlRrTUM4aVRydUZUakRqbFZ6bU9WZU9UQkVKcVJkd3FwWHI0N29MZVE0X0Q5X0pMNmtGdURDQzJMa0VNUlVWc3VfRmNIczN4cVFTdk10QllycjRPc0tmd2NkV0NTZGFsbC1sWEdsSDlrWXYzNTNoVTVjdWdiNG5sOVU3aEFNWmhMX0JmaXJPX09uUWdETldNVE1mR1E?oc=5",
-     "source": "KTTC | Rochester, MN",
-     "published": "2026-11-05T00:51:00+00:00",
-     "summary": "Rochester mayoral candidates share reactions to election results&nbsp;&nbsp;KTTC | Rochester, MN",
-     "image": ""
-    },
-    {
-     "title": "2028 White House talk begins after historic Midterm Election Day",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORkVCdUx2emtiRmRUdUpsbnNkLUFVT1lLZWdYNlEzcFktdmVENFdhbXJjWFNIbjYzWE50cEpBMDZtRjVtQkhueUhCX0xkZnpCWFZpbU95RmxZU1R2M0Fzd1FrLXhudFFxUklaUXV5S3M2NmVTdmRGaGljVnpQdXBMS3hYV2JpbHE2blNKckFiVWpvUWo5Rm53THlHTmVPS3hFRFpjWHpTNUVhUTVSWUpWbk93?oc=5",
-     "source": "www.localnewslive.com",
-     "published": "2026-11-05T00:49:00+00:00",
-     "summary": "2028 White House talk begins after historic Midterm Election Day&nbsp;&nbsp;www.localnewslive.com",
-     "image": ""
-    },
-    {
-     "title": "The 2028 election season begins as both parties navigate midterm fallout",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3hlZ0V5MlpaRUp6ZVRlam54Wk9reFdLYzV2X21EMkg3aEJEdGEyeWNwaFF4VTNUSEttNjd3QUYxSmo1TnBrWml0UzNpVkFkdGlQUmtYNDV4ejI3ZE1NLXRWMDdIcEtzbUc4bUJIRGhzeUZQOE5Sa2hlQ0EwUFRoZFhuOUNYSGxIaXhN?oc=5",
-     "source": "AP News",
-     "published": "2026-11-05T00:37:00+00:00",
-     "summary": "The 2028 election season begins as both parties navigate midterm fallout&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "Ohio\u2019s voters tell Republicans: don\u2019t take us for granted",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T00:36:25+00:00",
-     "summary": "Democrats flipped a Senate seat and recaptured the governor\u2019s mansion in Ohio.",
-     "image": ""
-    },
-    {
-     "title": "Historic firsts redraw US political map in 2026 midterm elections",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T00:24:20+00:00",
-     "summary": "The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim, gay and Native American politicians.",
-     "image": ""
-    },
-    {
-     "title": "8 Midterm Election Takeaways: A Democratic Landslide Punishes Trump\u2019s Party",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN0l0WHIwUGVUdW9wU3JQUzVqWS1GLW1zUEEwcmR3cEJwVkZSQWI4Ul8tTi0xRkIxVXFIYmxLdXByN000cW9GSzlaaTNXcWhDdlNJcTNWSHEyVHk1enJDZnlvU3ZrNlJBRUhFUFlaUWo4aUFZeGN1NlB5bGhCQ2lYMGxyTWZpSTI0cG43cQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-05T00:04:18+00:00",
-     "summary": "8 Midterm Election Takeaways: A Democratic Landslide Punishes Trump\u2019s Party&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Milburn review to call for jobs \u2019revolution\u2019 for young people with disabilities",
-     "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
-     "source": "The Guardian",
-     "published": "2026-11-05T00:01:47+00:00",
-     "summary": "Exclusive: Government should introduce \u2018flexi-jobs\u2019 alongside subsidies and skills support, former minister will sayThe British state should create and subsidise paid jobs for thou",
-     "image": "https://i.guim.co.uk/img/media/89f33b1d727422f8f73a9cf519924b5efb1cfd3a/89_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=ea4efd546df7a7b3b17135868e2762f1"
-    },
-    {
-     "title": "Indiana House Republicans pick new leader after big election losses",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlh2X3VaNElpQkJWU2VES0swdVVIbW1lcFJpal83WUxDVjd2VUVlcEx5amNpc25uQXhVWDU2SmVIME81Y2RndzdyZEt3RGZMX1BuLVBucVdxa2pmb1d3N0VvOFF3SjQtMFJZalZPWEEzNlZ2OWE5M2dyZEE3SXVJWUFCaVhsRkFFdW5lRC0yclNvQWlQdy1lWGs1emtGXzdEcWI2cHRBV2pHRWkyWW9CMmpHZ2lwUQ?oc=5",
-     "source": "Indiana Capital Chronicle",
-     "published": "2026-11-04T23:55:55+00:00",
-     "summary": "Indiana House Republicans pick new leader after big election losses&nbsp;&nbsp;Indiana Capital Chronicle",
+     "title": "Reporter forced out of Republican candidate\u2019s election party during profane-laced speech on live television",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcHZTSWxiclpBNExBWEd5VjYtUHJuUEMxUzdLTVJWazRnQ210WldYR3k2TERrUEVoLXcxbHMtQzVzUGlnQ0dpbFBpQm5uR051R2EyRlZaQXZ6TTJWZ2Iyb00xTU9BcFVwbC1JZDZyYXVyVTBoQWJwaXotb25HSEVBamRpRkEzYkkzTGxNSUM5QTBtSWlMd0VqbHV6WkpURUtpZDJLRUVVTUdqcHN3WEZzaVoxZGtrc1BsWE91UWlZckFzM0xGQVZ6UHZlMXdFYmt4NHBTU1Qzbk0xekVRT2F2N2ZaVdIB9wFBVV95cUxPWG9qWTdURnZmeXlYT3F3SDF5WUhPVm5aeFNza0pTWXJ0NDZDTDJlanRQWURtaUI2czVBRWZVTWtSNXZaeG01NFRTYnVqRlgyWGlXLTJyT1pPTmp5NmZlNVJGUEtRMjl0V21CRFVBUnAta0dkSFhLU0J0cGdqdU5rLXVhVHpIbDdscG44S2tYemF6T0EtRnNJZ2drM1hfSHZmT0ZaZGc5dlZxN1B6SWZFWUN4eDNWY251clRkUVFoeVU4WE9XNGdWamJ1SUFBNTFIam9BZ1VzUGxsM05UdXNFSVZ0c0JKaEdhWTQ4MEdEWUYtdXBmNVpn?oc=5",
+     "source": "Upper Michigan's Source",
+     "published": "2026-11-05T01:03:00+00:00",
+     "summary": "Reporter forced out of Republican candidate\u2019s election party during profane-laced speech on live television&nbsp;&nbsp;Upper Michigan's Source",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-05T01:27:03.220067+00:00",
+   "fetched_at": "2026-11-05T01:57:06.508092+00:00",
    "stale": false,
    "items": [
     {
