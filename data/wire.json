@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-05T09:28:11.128163+00:00",
+ "generated_at": "2026-11-05T09:58:15.100514+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-05T09:28:11.128133+00:00",
+   "fetched_at": "2026-11-05T09:58:15.100485+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Multiple planes diverted amid bomb threats to commercial flights across Europe \u2013 live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:48:33+00:00",
+     "summary": "France confirms Dublin-Rome flight has landed in military base, while media in Bulgaria and Belgium also report threatsBelgian newspaper Le Soir also reported a bomb threat against",
+     "image": "https://i.guim.co.uk/img/media/f88047fff40cd32f637f149cc85a181ed5d2d471/177_0_2183_1747/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=1b0fe384171a62bd094571977272ab33"
+    },
+    {
+     "title": "Met settles claim brought by Palestine activist \u2018treated like a criminal\u2019 during arrest",
+     "url": "https://www.theguardian.com/world/2026/nov/05/met-settles-claim-brought-by-palestine-activist-treated-like-a-criminal-during-arrest",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:47:01+00:00",
+     "summary": "Tej Singh Bhandal, 68, was pulled from a queue and detained under terrorism law in \u2018creeping criminalisation of protest action\u2019The Metropolitan police have settled a claim brought ",
+     "image": "https://i.guim.co.uk/img/media/5c6595a55a7626b114fce6986e72949c377f0338/460_0_4177_3340/master/4177.jpg?width=140&quality=85&auto=format&fit=max&s=964220dd1b55b628065c967fcf409f80"
+    },
+    {
+     "title": "It\u2019s Gaza, stupid",
+     "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T09:44:33+00:00",
+     "summary": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel\u2019s wars.",
+     "image": ""
+    },
+    {
+     "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:44:07+00:00",
+     "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiableNigel Farage is holding a press conference later to formally announce",
+     "image": "https://i.guim.co.uk/img/media/4b94b6a7e0fa914e0e9631c8e95b070142d49d57/1628_155_1872_1499/master/1872.jpg?width=140&quality=85&auto=format&fit=max&s=4d2e0aa3c7630540cb160c30aa2a2422"
+    },
+    {
+     "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:32:54+00:00",
+     "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the \u2018obvious\u2019 culprit for resultsLive results | How do you fe",
+     "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874"
+    },
     {
      "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
      "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
@@ -14,36 +54,12 @@
      "image": ""
     },
     {
-     "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-05T09:08:39+00:00",
-     "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the \u2018obvious\u2019 culprit for resultsLive results | How do you fe",
-     "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874"
-    },
-    {
-     "title": "Dublin-Rome flight diverted to France over bomb threat",
+     "title": "Dublin-Rome flight diverted to French military base over bomb threat",
      "url": "https://www.france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat",
      "source": "\u00a9 AP via Business Wire",
      "published": "2026-11-05T09:08:19+00:00",
      "summary": "An Airbus A320 \u200bflying from Dublin to Rome was diverted to France's Evreux airbase \u200bfollowing a \u200cbomb threat, \u2060the French prime minister's office said Thursday, in the latest in a ",
      "image": "https://s.france24.com/media/display/b94992d0-d8fa-11f1-b977-d18c5759e759/w:1024/p:16x9/AP7634796123653860.jpg"
-    },
-    {
-     "title": "Aer Lingus flight to Rome diverted to military base after latest bomb threat, France says \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-05T09:07:41+00:00",
-     "summary": "French prime minister\u2019s office says Aer Lingus flight from Dublin to Rome now heading to military base in Evreux The plane appears to have just touched down in Evreux, according to",
-     "image": "https://i.guim.co.uk/img/media/f88047fff40cd32f637f149cc85a181ed5d2d471/177_0_2183_1747/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=1b0fe384171a62bd094571977272ab33"
-    },
-    {
-     "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
-     "source": "The Guardian",
-     "published": "2026-11-05T09:05:39+00:00",
-     "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiableGood morning. Andy Burnham is back from the Commonwealth summit, but ",
-     "image": "https://i.guim.co.uk/img/media/4b94b6a7e0fa914e0e9631c8e95b070142d49d57/1628_155_1872_1499/master/1872.jpg?width=140&quality=85&auto=format&fit=max&s=4d2e0aa3c7630540cb160c30aa2a2422"
     },
     {
      "title": "Tech barons cozied up to Trump. What will they do in newly blue America?",
@@ -70,7 +86,7 @@
      "image": "https://i.guim.co.uk/img/media/3bb125ce0e2a593e4d0c6e40250eadad81d11264/893_109_4466_3576/master/4466.jpg?width=140&quality=85&auto=format&fit=max&s=2e945824507bf90cb8ee6fd82ec3a9d8"
     },
     {
-     "title": "Champions League : Lens suffer historic 9-1 defeat against Como",
+     "title": "Champions League: Lens suffer historic 9-1 defeat against Como",
      "url": "https://www.france24.com/en/tv-shows/sports/20261105-champions-league-lens-suffer-historic-9-1-defeat-against-como",
      "source": "France 24",
      "published": "2026-11-05T08:45:02+00:00",
@@ -100,60 +116,84 @@
      "published": "2026-11-05T07:56:53+00:00",
      "summary": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a2/live/7cd3f370-d8ed-11f1-b7ca-cbaa67b24b8c.jpg"
-    },
-    {
-     "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-     "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-     "source": "The Guardian",
-     "published": "2026-11-05T07:56:21+00:00",
-     "summary": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security lawExclusive: Joshua Wong laments city\u2019s fate from inside maximum security pr",
-     "image": "https://i.guim.co.uk/img/media/d9bf9f9b9523e26c98269088295afe0101408a09/745_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=284bff972880f241577f2f12b909e083"
-    },
-    {
-     "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-     "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T07:50:44+00:00",
-     "summary": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-05T09:28:11.128147+00:00",
+   "fetched_at": "2026-11-05T09:58:15.100499+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2hVb2JpTzJSeTNndmFNYTNhUXdXOXc5SzFCM1RpOU1Wb2tQcW9iNXNvOWF2c2l5dTdvX1BnWmQyTFU5LUs2VkU2dVZrc3VBbldSU2lQMDZjaHpiWlVTQWlacEZIY2FDSVlRWXh0MDVKQ1JfeVlOb0lXMmM3eWtmUm9vMWRqYkxfSFhHR1R3T0doSkp0OHZHMlJRRU55MzFnSFp2RmFBNUpZY3MwZGlWMy1ZX05Qd9IBuwFBVV95cUxNQWRLSkJmS2VhN2E1ZEV6RjN5ajJvU3dvdndKcDdzOXdBZnVTN09UalJLMVdoQ1hsYUx1M3cxREZqM19rOHozdE9nR3BtN19LemFGd1R3eVJQOFVtWFlkZlUzaDBVQ2ZjUnVQMFVqU25JZ21VaGF4MGFIZ1p0NkNmR25CSHBZLWhQSEV4SV80eENCNktTcmdSUFVLMlg5dmRhSG1lTkJtY1FVcEJzUG5zQzMzTnZDNS12Uy1Z?oc=5",
+     "title": "Multiple planes diverted amid bomb threats to commercial flights across Europe \u2013 live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:48:33+00:00",
+     "summary": "France confirms Dublin-Rome flight has landed in military base, while media in Bulgaria and Belgium also report threatsBelgian newspaper Le Soir also reported a bomb threat against",
+     "image": "https://i.guim.co.uk/img/media/f88047fff40cd32f637f149cc85a181ed5d2d471/177_0_2183_1747/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=1b0fe384171a62bd094571977272ab33"
+    },
+    {
+     "title": "Turkey's Erdogan says he wants to discuss ending Russia-Ukraine war with Putin after talks with Zelenskiy",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWUNNWUhoeFE5TjREMnhfTklGVjBBRl91X1dobFVKRTFKUHN0dzY2YUppLVpUZVRaZ3QyNXdneWFxNzFiQVhvR2gxUXJyZnlSV19VN0trTkVJeWU1NmdiU09yTmFvNjYxNHlrQUpsS1NKZTM4cnBFVEEtN1ZQbnlrSEU0bzFLcl9yeFE1Z2ktQzA5YTZSSUExMV9ZanRMdXBDc0dnN1VTSkFjWHVBd3ZwT3dZQjdNUF8wWEFCSGRCZW5FQzdRel9OMHRMQVA4ZEJIam0zdW01c3JPamNEY0J3NGdyNWhwMHJtLTlqM2tlREVheGotTXfSAfsBQVVfeXFMT0JCVV9XSTItLTdRZWZxaU1uM1RSWkhneUxQVlR1eXF3SjJLU2NYN3h4eW54QWFjUHZWMXR2UURVWkExSnVKSjZUUFhLTTNxcHBoTHg4ZmJVaWZIejdydEVoWk5sYzhkanpJLWVSbHAzcGc5bUFxVjhvWDhIQzZLNjYzck8tWEpTRTdlMmhuMl95aC1adm1vZDRMYkJhaW9xSWlhTXVraEpyeEs5dEFqa2xiTjdiOFBLenI3LXJIVTg2UnlxQVB0VWhxTk8zTjZDa00tNkhWV19WaTJYWExrbVpjMGtzeWl6SmEtUDRTT1lPai10cm9EUzFfY0E?oc=5",
+     "source": "Devdiscourse",
+     "published": "2026-11-05T09:46:32+00:00",
+     "summary": "Turkey's Erdogan says he wants to discuss ending Russia-Ukraine war with Putin after talks with Zelenskiy&nbsp;&nbsp;Devdiscourse",
+     "image": ""
+    },
+    {
+     "title": "It\u2019s Gaza, stupid",
+     "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-05T09:16:56+00:00",
-     "summary": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan&nbsp;&nbsp;Al Jazeera",
+     "published": "2026-11-05T09:44:33+00:00",
+     "summary": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel\u2019s wars.",
+     "image": ""
+    },
+    {
+     "title": "T\u00fcrkiye to continue efforts to bring an end to Russia-Ukraine war: Erdo\u011fan",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYVNWa1pVWGdqZGgzNlhhd3doT095Smh2dmhDU2ZGMG1yZXVQRU5wbVpYR0RocTZCZkt6VGFNOTI4eExkYWVUMThnMmpOcUxkdWxSZGRQSG9MQWc0bnljS3o1bWk5Q0JjMTI2REdWZGFuRGlMbU0xX3BHZnFtc284ZC1tQlpGcGtQeGl6TW5aWS1Nd19pa2JwMFJBa2t6dW13Q1VxMFIweHV5RlR1UFZOb2xYRkd0TEZnR2NlY3VLaHV2QlFld0tkZdIBzgFBVV95cUxNLWJ5YnJjNEhmMExwUVNPeFlmamR4X2ZPUVpidTRnbHQwRDhPRGY1SEt5SmttZ0dWVThhbUJ6SGRzVjdLTVYtVzdKUDVqNjdWNWt6a2RYcnJ3LWxKMklNOHZfdjZscm1ZdWdXdS1sLWNXeXZxZTRrcDUwVnRpeFY3YWhJQlo5a0w2a3JVamFqSzRDRXUybG5UM1RwU2lKYm1feU9XNHFfNUhYMDNrTXM5SEdFSU82QXctQUFIcnUyNDVWMGdKbklTWlZhQUE5Zw?oc=5",
+     "source": "A News",
+     "published": "2026-11-05T09:44:00+00:00",
+     "summary": "T\u00fcrkiye to continue efforts to bring an end to Russia-Ukraine war: Erdo\u011fan&nbsp;&nbsp;A News",
      "image": ""
     },
     {
      "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
      "source": "The Guardian",
-     "published": "2026-11-05T09:08:39+00:00",
+     "published": "2026-11-05T09:32:54+00:00",
      "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the \u2018obvious\u2019 culprit for resultsLive results | How do you fe",
      "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874"
     },
     {
-     "title": "Aer Lingus flight to Rome diverted to military base after latest bomb threat, France says \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-05T09:07:41+00:00",
-     "summary": "French prime minister\u2019s office says Aer Lingus flight from Dublin to Rome now heading to military base in Evreux The plane appears to have just touched down in Evreux, according to",
-     "image": "https://i.guim.co.uk/img/media/f88047fff40cd32f637f149cc85a181ed5d2d471/177_0_2183_1747/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=1b0fe384171a62bd094571977272ab33"
+     "title": "APTOPIX Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOE5ZOEhQZkNwU1Z5SFNkOEpJVmZiOGJzRy1fRVZtOFplbEdUX081NlNtcWphMTJuMy0xTFdfaDZ0T2RrZ3dJdUpuMC1PaUxuRTZmbkt6NGljbkJEVDNra1NtUzVjaWxrZzROck41UVRfSEZrdlhsZy1uNVNkY0Y2RTdWRlJZRlc0dlhDYkpMN0FiekVlY1B3WDF0UHp0ZloyNnhMT0dR?oc=5",
+     "source": "The Herald Journal",
+     "published": "2026-11-05T09:24:26+00:00",
+     "summary": "APTOPIX Russia Ukraine War&nbsp;&nbsp;The Herald Journal",
+     "image": ""
     },
     {
      "title": "Ukraine War, Day 1,715: Zelensky Speaks with Trump Envoys Witkoff and Kushner",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXhQd3l2RlRjeTJNOWtvRkVRUExVWGpyM2RSVTVsZm43ekRSSHpUazRtRWZaYkxNZUJEX2ZLTUsyOWV3Y2QwQTZKZGoyOUV5VFNaRlA2Vml6dHdYb2FwR1V6M1BBeENBNDBwZmg4TnBaWVUybUg4X0pPRW4xbW50Wmk5YXkxdVNEempVVzRWMA?oc=5",
      "source": "EA WorldView",
-     "published": "2026-11-05T08:55:42+00:00",
+     "published": "2026-11-05T09:23:05+00:00",
      "summary": "Ukraine War, Day 1,715: Zelensky Speaks with Trump Envoys Witkoff and Kushner&nbsp;&nbsp;EA WorldView",
      "image": ""
+    },
+    {
+     "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2hVb2JpTzJSeTNndmFNYTNhUXdXOXc5SzFCM1RpOU1Wb2tQcW9iNXNvOWF2c2l5dTdvX1BnWmQyTFU5LUs2VkU2dVZrc3VBbldSU2lQMDZjaHpiWlVTQWlacEZIY2FDSVlRWXh0MDVKQ1JfeVlOb0lXMmM3eWtmUm9vMWRqYkxfSFhHR1R3T0doSkp0OHZHMlJRRU55MzFnSFp2RmFBNUpZY3MwZGlWMy1ZX05Qd9IBuwFBVV95cUxNQWRLSkJmS2VhN2E1ZEV6RjN5ajJvU3dvdndKcDdzOXdBZnVTN09UalJLMVdoQ1hsYUx1M3cxREZqM19rOHozdE9nR3BtN19LemFGd1R3eVJQOFVtWFlkZlUzaDBVQ2ZjUnVQMFVqU25JZ21VaGF4MGFIZ1p0NkNmR25CSHBZLWhQSEV4SV80eENCNktTcmdSUFVLMlg5dmRhSG1lTkJtY1FVcEJzUG5zQzMzTnZDNS12Uy1Z?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T09:18:39+00:00",
+     "summary": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Dublin-Rome flight diverted to French military base over bomb threat",
+     "url": "https://www.france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat",
+     "source": "\u00a9 AP via Business Wire",
+     "published": "2026-11-05T09:08:19+00:00",
+     "summary": "An Airbus A320 \u200bflying from Dublin to Rome was diverted to France's Evreux airbase \u200bfollowing a \u200cbomb threat, \u2060the French prime minister's office said Thursday, in the latest in a ",
+     "image": "https://s.france24.com/media/display/b94992d0-d8fa-11f1-b977-d18c5759e759/w:1024/p:16x9/AP7634796123653860.jpg"
     },
     {
      "title": "Russia Tries to Break Through Ukraine\u2019s Defenses Across Multiple Fronts but Fails to Advance, ISW Says",
@@ -178,60 +218,44 @@
      "published": "2026-11-05T07:51:36+00:00",
      "summary": "Zelensky urges faster peace talks to end Russia-Ukraine war&nbsp;&nbsp;Pajhwok Afghan News",
      "image": ""
-    },
-    {
-     "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-     "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T07:44:47+00:00",
-     "summary": "Seoul proposes extending its Cheonghae unit\u2019s patrols to waters near Oman\u2019s Duqm amid US pressure over Iran war.",
-     "image": ""
-    },
-    {
-     "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
-     "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T07:41:25+00:00",
-     "summary": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
-     "image": ""
-    },
-    {
-     "title": "1716 Days of russia-Ukraine War \u2013 russian Casualties in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzNSMUQ1Znpqdi1VQjVuWFR5SzlfZFZQM3FsSU9VZ1lwZ3RFQ2ZKdV9iay1jbWZUVF9OeUpwRkY4aW0zUXd5Z1VSMmNCRVh0b01Ic0ZMd2FwUUtZTXVZNnFFNWtTZUJTWk1pMVJJd2JfcksyVDRPZlcxSnVLbjBKb2tyX2FNbU14dDNocmR3c0swMklQSkZsZDlnUnJwUHI1R1dVeHFR?oc=5",
-     "source": "Defense Express",
-     "published": "2026-11-05T07:25:50+00:00",
-     "summary": "1716 Days of russia-Ukraine War \u2013 russian Casualties in Ukraine&nbsp;&nbsp;Defense Express",
-     "image": ""
-    },
-    {
-     "title": "CIA Director John Ratcliffe Steers Ukraine's War Effort Despite Trump",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ1dqNVNWektWbThsa0pTeDZ3akVpSWVPSVQyTnM1R2VlZThSc2xHNURZRjZHNkROOXpfZ3Z5OXJSWktGQjk0bk9nZEdVUGRSTm5UamZXQlYxTE1kLW9tUjdYR1JjT004OXZBcjNHX3pjdnR2Tks1bXVZVThwOHlFd0VtMy0?oc=5",
-     "source": "\uc870\uc120\uc77c\ubcf4",
-     "published": "2026-11-05T07:10:04+00:00",
-     "summary": "CIA Director John Ratcliffe Steers Ukraine's War Effort Despite Trump&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
-     "image": ""
-    },
-    {
-     "title": "General Staff: Russia has lost 1,599,390 troops in Ukraine since Feb. 24, 2022",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjhzdG1xN1FWLUlFbFV2ckpRTk1VUU9IQlVDcGllN1NhNWF4WGtwemFoS0dxZC1SUm1lTXFKY3pMUVBTbERRM3dtOXczaGRhVlZNNjE1R3hlTEV0Xy1zcWtFLUtEYk9TSkpWblB3R1J6TkQteFk5UFBuTXRXOFE3TFpSclp5YnhZWEpFNVh4X19WUWtXYTAzVFJyYUticjZFTmxzNmhDcw?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-05T07:07:59+00:00",
-     "summary": "General Staff: Russia has lost 1,599,390 troops in Ukraine since Feb. 24, 2022&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-05T09:28:11.128151+00:00",
+   "fetched_at": "2026-11-05T09:58:15.100503+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Dublin-Rome flight diverted to France over bomb threat",
-     "url": "https://www.france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat",
-     "source": "\u00a9 AP via Business Wire",
-     "published": "2026-11-05T09:08:19+00:00",
-     "summary": "An Airbus A320 \u200bflying from Dublin to Rome was diverted to France's Evreux airbase \u200bfollowing a \u200cbomb threat, \u2060the French prime minister's office said Thursday, in the latest in a ",
-     "image": "https://s.france24.com/media/display/b94992d0-d8fa-11f1-b977-d18c5759e759/w:1024/p:16x9/AP7634796123653860.jpg"
+     "title": "Democrats will control Congress. Will it change Trump's approach to foreign policy?",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0tKeUtFTm1JOWlyUnB2ZGZUdXhXS3ljd1RpNnZDTXh5NFFMSU1EMkZXNHA0V1pHUzFDdGpFMlBiYWRCbEJpY3JKM3dfM25SZmpYSVZ2NFZQbXdjRTRqNkVkYkxKOGEtSFdXN25QYlZpVjZsYWhWS2xtWkxRSDdCRGl6MkgxZ0pHSkNhZjByM3BYeFBCMGV0UUN6WE43Ml8tRG5hdld5TXVFa2xXNEgwbmZ0bW56Yk5RTEY0bUJjYXdLYjA?oc=5",
+     "source": "NPR",
+     "published": "2026-11-05T09:50:34+00:00",
+     "summary": "Democrats will control Congress. Will it change Trump's approach to foreign policy?&nbsp;&nbsp;NPR",
+     "image": ""
+    },
+    {
+     "title": "Met settles claim brought by Palestine activist \u2018treated like a criminal\u2019 during arrest",
+     "url": "https://www.theguardian.com/world/2026/nov/05/met-settles-claim-brought-by-palestine-activist-treated-like-a-criminal-during-arrest",
+     "source": "The Guardian",
+     "published": "2026-11-05T09:47:01+00:00",
+     "summary": "Tej Singh Bhandal, 68, was pulled from a queue and detained under terrorism law in \u2018creeping criminalisation of protest action\u2019The Metropolitan police have settled a claim brought ",
+     "image": "https://i.guim.co.uk/img/media/5c6595a55a7626b114fce6986e72949c377f0338/460_0_4177_3340/master/4177.jpg?width=140&quality=85&auto=format&fit=max&s=964220dd1b55b628065c967fcf409f80"
+    },
+    {
+     "title": "General election voter turnout declines in Oklahoma",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0ZtMDRkeDVBdXpDRzVINGhqaHIwRjBPVUxrVFd3c25VRFFWQTVXUjNtRHdIanVVY1NNNS1BRVZVdW1vcVd3LTVSVlNhTFI2c0s4NjlSci1qTDR4YzZBNmdQNGVZMzJtUjl1bmxoRFpWZjVobE1MWG5XOFllc1MtS1lfSUlBSVBKY0hfZ0h6TE52Q2RXU1NIME5Qa3ZxWS1wakRjTTlkVkxZZ2M?oc=5",
+     "source": "KGOU",
+     "published": "2026-11-05T09:39:04+00:00",
+     "summary": "General election voter turnout declines in Oklahoma&nbsp;&nbsp;KGOU",
+     "image": ""
+    },
+    {
+     "title": "Opinion | Election Chaos in Westchester County, N.Y.",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFpwaWgwZGNEY0F1cmpzZTZoSm5teklTTFpEem9mWnFHQmFGcjVpTGV6OGRucEp4cmNBamFRYjl3amNhMl9xZS1vamo2ZmcyZVJWQi1LRld1SlpITXBSaUtRN3BXTHlJX29kVGQ5N2tLcWVTb2prSDJFWXBETjRJUFRIOUtfMklud2dvWnV5LXkzTlhmMURBRA?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-05T09:34:59+00:00",
+     "summary": "Opinion | Election Chaos in Westchester County, N.Y.&nbsp;&nbsp;WSJ",
+     "image": ""
     },
     {
      "title": "Why Connecticut election results can take hours to come in",
@@ -240,14 +264,6 @@
      "published": "2026-11-05T09:05:50+00:00",
      "summary": "Why Connecticut election results can take hours to come in&nbsp;&nbsp;CT Insider",
      "image": ""
-    },
-    {
-     "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
-     "source": "The Guardian",
-     "published": "2026-11-05T09:05:39+00:00",
-     "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiableGood morning. Andy Burnham is back from the Commonwealth summit, but ",
-     "image": "https://i.guim.co.uk/img/media/4b94b6a7e0fa914e0e9631c8e95b070142d49d57/1628_155_1872_1499/master/1872.jpg?width=140&quality=85&auto=format&fit=max&s=4d2e0aa3c7630540cb160c30aa2a2422"
     },
     {
      "title": "Trump accepts midterm results as system holds up against election interference efforts",
@@ -274,6 +290,14 @@
      "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=140&quality=85&auto=format&fit=max&s=8e7034c5fc83af55731cdd4b18348fed"
     },
     {
+     "title": "The New Zealand Election That Could \u2018Flip the Table\u2019",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGtaU2R0T2h5SVdrVGdLWGc2djlxWGJpbDJzak1WczY4bDRVX003RHFKTW93ZXVsYUpfQ3RqSEdYZ203Tkt4dG5rT3ZzTXMtMGlUYzl5ZUp5TU5yTWRXOFQzdjRxMXdkclRsUFd5Y09udWZNNml2OEdkZEhCMjJvenItLTVfeG51QlE?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-05T08:11:46+00:00",
+     "summary": "The New Zealand Election That Could \u2018Flip the Table\u2019&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -296,43 +320,19 @@
      "published": "2026-11-05T07:25:56+00:00",
      "summary": "German Chancellor Friedrich Merz expects US President Donald Trump to keep bypassing Congress despite midterm losses.",
      "image": ""
-    },
-    {
-     "title": "Live: France braces for nationwide strikes in fresh test for Macron\u2019s policies",
-     "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
-     "source": "France 24",
-     "published": "2026-11-05T07:10:32+00:00",
-     "summary": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide ",
-     "image": ""
-    },
-    {
-     "title": "Ministers to target \u2018wild west\u2019 of ebikes blocking pavements",
-     "url": "https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport",
-     "source": "The Guardian",
-     "published": "2026-11-05T07:00:57+00:00",
-     "summary": "Exclusive: Consultation led by Department for Transport will consider parking standards, fleet sizes and insurance requirementsMinisters are seeking to end the \u201cwild west\u201d of parke",
-     "image": "https://i.guim.co.uk/img/media/aad2293f42995a889276d7a8abad4965de70ed32/631_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=44e28f27f140a8cfdbaea7b69b17a594"
-    },
-    {
-     "title": "New Zealand braces for knife-edge election: What you need to know",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPckhkbW1OTFpBT0tMVGQtOVRUQmhWMkN1cWg4Q0VVMG5ieWY3NkVMWldBTUd1NnFvYXp1RXNnWlBJVHpUODAtaHA0SHgtT3RQeFZhb1VFZ1dCQ1NGTnFnOHFMY1c5ZGVfdXFoQ1ljcTIxaWtFSnpCbFU0WTl1TEhNUDZRWDBTNXhuN1pvSElRUE5PVFp5TnY4V3o2OXllbTBlSHMwWXNHYVPSAa4BQVVfeXFMTXIyQml1SURUb192dmlkOXNHN2djVTB5QXlqVlRMVHpRMlZXa1JBQk9neUtuQm9NbTZYWE9Ram1oNjZaY0lxMU9FeF9fdzBEY24tU3lCbDFwWl85RFpGOUEyVHFhU2EtSzBkeFpfRmtCR0hFWXo0bGdvamx2elJGY3VlUEVld05wb0tEeXBCbzQxMWtpS2lxY0k1V1MtZ3hPdkZ2aWp1Vk9BemUzZWt3?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T06:35:08+00:00",
-     "summary": "New Zealand braces for knife-edge election: What you need to know&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-05T09:28:11.128154+00:00",
+   "fetched_at": "2026-11-05T09:58:15.100506+00:00",
    "stale": false,
    "items": [
     {
      "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
      "source": "The Guardian",
-     "published": "2026-11-05T09:05:39+00:00",
-     "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiableGood morning. Andy Burnham is back from the Commonwealth summit, but ",
+     "published": "2026-11-05T09:44:07+00:00",
+     "summary": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiableNigel Farage is holding a press conference later to formally announce",
      "image": "https://i.guim.co.uk/img/media/4b94b6a7e0fa914e0e9631c8e95b070142d49d57/1628_155_1872_1499/master/1872.jpg?width=140&quality=85&auto=format&fit=max&s=4d2e0aa3c7630540cb160c30aa2a2422"
     },
     {
