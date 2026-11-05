@@ -1,25 +1,81 @@
 {
- "generated_at": "2026-11-05T14:59:06.105764+00:00",
+ "generated_at": "2026-11-05T15:29:10.038735+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-05T14:59:06.105733+00:00",
+   "fetched_at": "2026-11-05T15:29:10.038703+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Burnham says long-awaited 10-year plan may be delayed until January \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
+     "title": "'Identity crisis': Can Democrats 'deliver' following their 'historic', once in a generation victory?",
+     "url": "https://www.france24.com/en/identity-crisis-can-democrats-deliver-following-their-historic-once-in-a-generation-victory",
+     "source": "France 24",
+     "published": "2026-11-05T15:27:11+00:00",
+     "summary": "A historic Democratic electoral breakthrough has transformed the American political landscape, but the magnitude of the victory may intensify competing claims over the party's futu",
+     "image": "https://s.france24.com/media/display/fa0c1d04-d924-11f1-b853-d18c5759e759/w:1024/p:16x9/EN-20261104-093517-094454-CS.jpg"
+    },
+    {
+     "title": "US elections 2026 live: Republicans blast their party\u2019s midterms collapse, blaming Iran war and affordability crisis",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
      "source": "The Guardian",
-     "published": "2026-11-05T14:47:43+00:00",
-     "summary": "The document has been described as the core policy statement coming from No 10Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned a",
-     "image": "https://i.guim.co.uk/img/media/aed2919813a17af91b19415c1b3bb956ef9ac548/200_180_3263_2610/master/3263.jpg?width=140&quality=85&auto=format&fit=max&s=67af9c30f96af2724e7f41e289e1b7d7"
+     "published": "2026-11-05T15:15:17+00:00",
+     "summary": "Ted Cruz and Newt Gingrich call the US midterms election a failure and \u2018Watergate-level repudiation\u2019 as Democrats overtake both chambers of CongressLive results | How do you feel a",
+     "image": "https://i.guim.co.uk/img/media/3b1b29336690b79e26e8c45270028f218e3b1c1b/0_0_6537_5230/master/6537.jpg?width=140&quality=85&auto=format&fit=max&s=cf36ecd2aaf9693db2111169c04b88bb"
     },
     {
      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe \u2013 live",
      "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-05T14:45:49+00:00",
-     "summary": "EU transport commissioner says \u2018too early\u2019 to say if bomb threats to 15 flights are linkedTell us: have you been affected by the bomb threats?And the Italian news agency Ansa repor",
+     "published": "2026-11-05T15:15:05+00:00",
+     "summary": "EU transport commissioner says \u2018too early\u2019 to say if bomb threats to 19 flights are linkedTell us: have you been affected by the bomb threats?And the Italian news agency Ansa repor",
      "image": "https://i.guim.co.uk/img/media/ea6a1228985c75548960879b1e07ce091681abe5/322_234_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=50e2936ab2cf39c0fdf76e1fb1df7301"
+    },
+    {
+     "title": "Why has Cristiano Ronaldo retired from international football?",
+     "url": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T15:14:05+00:00",
+     "summary": "Portugal superstar Ronaldo calls time on international career after a falling-out with head coach Jorge Jesus.",
+     "image": ""
+    },
+    {
+     "title": "Burnham says long-awaited 10-year plan may be delayed until January \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
+     "source": "The Guardian",
+     "published": "2026-11-05T15:13:24+00:00",
+     "summary": "The document has been described as the core policy statement coming from No 10Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned a",
+     "image": "https://i.guim.co.uk/img/media/aed2919813a17af91b19415c1b3bb956ef9ac548/200_180_3263_2610/master/3263.jpg?width=140&quality=85&auto=format&fit=max&s=67af9c30f96af2724e7f41e289e1b7d7"
+    },
+    {
+     "title": "Jerusalem Daily: Settler pogroms in Hebron",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T15:10:42+00:00",
+     "summary": "Israel\u2019s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.",
+     "image": ""
+    },
+    {
+     "title": "Ronaldo in records: International milestones from the football icon",
+     "url": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T15:09:31+00:00",
+     "summary": "Ronaldo, 41, ended an illustrious 23-year career that spanned six World Cups and six European Championships.",
+     "image": ""
+    },
+    {
+     "title": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies",
+     "url": "https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T15:01:35+00:00",
+     "summary": "Experts have said the US-funded trial would deny critical vaccines to thousands of infants.",
+     "image": ""
+    },
+    {
+     "title": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
+     "url": "https://www.theguardian.com/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
+     "source": "The Guardian",
+     "published": "2026-11-05T14:52:36+00:00",
+     "summary": "Concerns remain that media industry is still failing to confront troubling behaviourEven within the culture of casual misogyny and sexism that pervaded the TV world in the mid-noug",
+     "image": "https://i.guim.co.uk/img/media/5558d413a11af8bb7ebd96378b444dab4804bca1/31_35_4918_3935/master/4918.jpg?width=140&quality=85&auto=format&fit=max&s=c2df25d7457052df08d3aa86b32fd7c3"
     },
     {
      "title": "Can Iran\u2019s new supreme leader make peace from behind the scenes?",
@@ -54,75 +110,51 @@
      "image": "https://i.guim.co.uk/img/media/75f9625cde487839a0c0146d9836b5b62ee881c0/0_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=79f2e13bee036992e6b5fd0d4aa32cc4"
     },
     {
-     "title": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
-     "url": "https://www.theguardian.com/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
-     "source": "The Guardian",
-     "published": "2026-11-05T14:39:47+00:00",
-     "summary": "Concerns remain that media industry is still failing to confront troubling behaviourEven within the culture of casual misogyny and sexism that pervaded the TV world in the mid-noug",
-     "image": "https://i.guim.co.uk/img/media/5558d413a11af8bb7ebd96378b444dab4804bca1/31_35_4918_3935/master/4918.jpg?width=140&quality=85&auto=format&fit=max&s=c2df25d7457052df08d3aa86b32fd7c3"
-    },
-    {
      "title": "UK and US condemn \u2018cruel\u2019 second jail term handed to Hong Kong activist Joshua Wong",
      "url": "https://www.theguardian.com/world/2026/nov/05/uk-and-us-condemn-second-jail-term-handed-to-hong-kong-activist-joshua-wong",
      "source": "The Guardian",
      "published": "2026-11-05T14:38:37+00:00",
      "summary": "Foreign Office says 10-year sentence shows city\u2019s security law is being used to \u2018target individuals for political expression\u2019Hong Kong pro-democracy activist Joshua Wong sentenced ",
      "image": "https://i.guim.co.uk/img/media/50e77f7af847a3cd2dc10233bc09f64b43a3a5f9/0_17_2553_2044/master/2553.jpg?width=140&quality=85&auto=format&fit=max&s=afda166b0297f7a6d3b54fc362eefb18"
-    },
-    {
-     "title": "Amtrak workers\u2019 union denounces plan to let passengers bring guns on trains: \u2018Sheer lunacy\u2019",
-     "url": "https://www.theguardian.com/business/2026/nov/05/amtrak-workers-union-passengers-guns",
-     "source": "The Guardian",
-     "published": "2026-11-05T14:34:44+00:00",
-     "summary": "New policy would permit passengers to take firearms to their seats in lockboxes on 1,500 trains a day across the USThe Transport Workers Union, which represents 360 onboard service",
-     "image": "https://i.guim.co.uk/img/media/c3225930dc6f4640f0b0526c7ce3aff7aea36575/1479_395_4412_3532/master/4412.jpg?width=140&quality=85&auto=format&fit=max&s=b021aecdb3e6b0e6131f442ed89f2983"
-    },
-    {
-     "title": "Bringing the magic of Harry Potter to life through music",
-     "url": "https://www.france24.com/en/tv-shows/entre-nous/20261105-bringing-the-magic-of-harry-potter-to-life-through-music",
-     "source": "France 24",
-     "published": "2026-11-05T14:30:51+00:00",
-     "summary": "In this edition of Entre Nous, we meet Timothy Henty, the British conductor bringing the magic of Harry Potter to life in Paris. As part of the Harry Potter Film Concert Series, he",
-     "image": "https://s.france24.com/media/display/30a94d50-d91b-11f1-bcce-1beafce15fea/w:1024/p:16x9/EN-WB-ENTRE-NOUS-HARRY-POTTER.jpg"
-    },
-    {
-     "title": "\u2018Healthcare not bombs\u2019: How Gaza shaped Adam Hamawy\u2019s path to US Congress",
-     "url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T14:30:37+00:00",
-     "summary": "Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.",
-     "image": ""
-    },
-    {
-     "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-05T14:29:40+00:00",
-     "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
-    },
-    {
-     "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-05T14:29:06+00:00",
-     "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state by fewer than 1,200 votesLive results | How do you feel about the results?Sign up for Br",
-     "image": "https://i.guim.co.uk/img/media/5859deed0da200fb6108605c6ff37436ab09fd25/0_0_4627_3704/master/4627.jpg?width=140&quality=85&auto=format&fit=max&s=b03e8d648b9a33e81829f47138930c30"
-    },
-    {
-     "title": "Watch: How rapist Brand was never far from controversy",
-     "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-05T14:28:21+00:00",
-     "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/385f/live/1cce7ae0-d924-11f1-b441-2b33b063138f.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-05T14:59:06.105748+00:00",
+   "fetched_at": "2026-11-05T15:29:10.038718+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US elections 2026 live: Republicans blast their party\u2019s midterms collapse, blaming Iran war and affordability crisis",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-05T15:15:17+00:00",
+     "summary": "Ted Cruz and Newt Gingrich call the US midterms election a failure and \u2018Watergate-level repudiation\u2019 as Democrats overtake both chambers of CongressLive results | How do you feel a",
+     "image": "https://i.guim.co.uk/img/media/3b1b29336690b79e26e8c45270028f218e3b1c1b/0_0_6537_5230/master/6537.jpg?width=140&quality=85&auto=format&fit=max&s=cf36ecd2aaf9693db2111169c04b88bb"
+    },
+    {
+     "title": "Jerusalem Daily: Settler pogroms in Hebron",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T15:10:42+00:00",
+     "summary": "Israel\u2019s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.",
+     "image": ""
+    },
+    {
+     "title": "How a Diplomatic Row Ended a Korean Startup\u2019s AI War Test in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXltRUhrTUJBLXdQbV9KT05VWEFrMEpJbWlvakdfb0RSUlNYX1Z1MVFVTE1pci1yUU8yNHZ2dm1PZ0pHb1VkOE42bXRLTTZKcEUzem1JUlZ4NHdkZklVR0ROU2tuUWxlUUJzbmVlYVh6WUl1TFZMMXVUWG9kNzYxOVlVZVZHWlo0RGx1cHdRQ1JBM1dabWp6T2Nxc0UzQmc2VFE?oc=5",
+     "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+     "published": "2026-11-05T15:04:48+00:00",
+     "summary": "How a Diplomatic Row Ended a Korean Startup\u2019s AI War Test in Ukraine&nbsp;&nbsp;The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+     "image": ""
+    },
+    {
+     "title": "LIVE: Melania Trump delivers remarks on humanitarian ceasefire she brokered in Ukraine | NBC News",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tT0dMOXRfd19ueDhpTlhPQkNvRzdVMTg0Rm1qcDhkNU9EQTNDMGRUQ2dyLXBDWHpvbUlhQ1dYOEJGbXVBSmtlSDYwenR0amRsTUNGOERMaGpxSGVEZk1n0gFcQVVfeXFMTkM4Q0pIVHMzcHAtZGtCSmM5cTlqZEQzSVlrWThXV1phTXpRUk9sM0l3Z0swLVRDV082Y2FscXpIbHl4bmlCQmdwQ2VqVGZnR2szQnBiYnRyRENyb3M?oc=5",
+     "source": "Modern Ghana",
+     "published": "2026-11-05T15:00:00+00:00",
+     "summary": "LIVE: Melania Trump delivers remarks on humanitarian ceasefire she brokered in Ukraine | NBC News&nbsp;&nbsp;Modern Ghana",
+     "image": ""
+    },
     {
      "title": "Can Iran\u2019s new supreme leader make peace from behind the scenes?",
      "url": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
@@ -186,52 +218,28 @@
      "published": "2026-11-05T14:09:43+00:00",
      "summary": "EU Sends Ukraine $4.89 Billion in Loans, With $741 Million Earmarked for Defense&nbsp;&nbsp;UNITED24 Media",
      "image": ""
-    },
-    {
-     "title": "Ukraine\u2019s war risks a demographic collapse",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0U5ZTZpTGlfWDB6a3ZxT0x4ZFVCbGNtdFZoNDhMc09DLVg5Wm5ZVHY0SDFfNUFYc1NvTkZqcjJVVlB3cVh4Z2x5TWpZSHRXT2QyaFlWZEdfV0JGTGdHQ3JUTTNSVGN6SE5FdC05VTVzdXNVbFotdlNGd01HQWlNQUVmZ0NxeWd5WV9PdVJB?oc=5",
-     "source": "The Economist",
-     "published": "2026-11-05T13:58:17+00:00",
-     "summary": "Ukraine\u2019s war risks a demographic collapse&nbsp;&nbsp;The Economist",
-     "image": ""
-    },
-    {
-     "title": "Yemen\u2019s president sacks ministers and officers in attempt to turn tide of war",
-     "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
-     "source": "The Guardian",
-     "published": "2026-11-05T13:47:00+00:00",
-     "summary": "Dismissals follow Houthi victories and pressure from southern Yemenis for more powerThe UN-recognised government of Yemen has shaken up its political and military leadership in an ",
-     "image": "https://i.guim.co.uk/img/media/383606daa4f240ded1f7ec8a1b158003c8d3e84d/238_0_2383_1906/master/2383.jpg?width=140&quality=85&auto=format&fit=max&s=a06c5b49973e0b8f3da54b566fad5532"
-    },
-    {
-     "title": "Indonesia rushes thousands of troops to Jakarta amid wiretap scandal",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/indonesia-rushes-thousands-of-troops-to-jakarta-amid-wiretap-scandal?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T13:41:24+00:00",
-     "summary": "Indonesia is deploying thousands of troops in Jakarta amid an alleged wiretapping scandal targeting the president.",
-     "image": ""
-    },
-    {
-     "title": "Putin\u2019s latest atrocities in Ukraine show his contempt for the laws of war",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzMxelgwNEg2SnB1cUZZSmFYemFvQmk2dzFXOWw2UzVrSzMyZXVSM3JZdVZpTk5hbDFkbnl2a0hUM3Y4Y3BvTVM0NHRycEEwdmcwdVA4WkVfYmRES09lTmFpVV9GaU1xaWZQZFhidUVKVzh6TWhyb3pLWVRxbU9Uai10OTcwNUVleEkxcnVpVHZjdXp6QmItVlRjdEtXTC1YWkE?oc=5",
-     "source": "The Telegraph",
-     "published": "2026-11-05T13:40:00+00:00",
-     "summary": "Putin\u2019s latest atrocities in Ukraine show his contempt for the laws of war&nbsp;&nbsp;The Telegraph",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-05T14:59:06.105752+00:00",
+   "fetched_at": "2026-11-05T15:29:10.038722+00:00",
    "stale": false,
    "items": [
     {
      "title": "Burnham says long-awaited 10-year plan may be delayed until January \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
      "source": "The Guardian",
-     "published": "2026-11-05T14:47:43+00:00",
+     "published": "2026-11-05T15:13:24+00:00",
      "summary": "The document has been described as the core policy statement coming from No 10Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned a",
      "image": "https://i.guim.co.uk/img/media/aed2919813a17af91b19415c1b3bb956ef9ac548/200_180_3263_2610/master/3263.jpg?width=140&quality=85&auto=format&fit=max&s=67af9c30f96af2724e7f41e289e1b7d7"
+    },
+    {
+     "title": "Racial and Ethnic Disparities in Prisons After California's Justice Reforms",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWC1BSGN2MFFmcGZJdmJOZGlIMHk5emVJanBKc180UDcwdWFlNWdudzVIZnpSYnpHc3huOHlKTjM1QlBDZVV3MEJST0o0dkVHSXFyNll4bThPOEJIZkFXTkRvZ1hkQXduaVlKQVhsaUtJZXFrRDhuVGpHTHh0TDdnOTBaejdsa3prSWRsWmtfWFkzRHdBZnNfQXV0a0hwdEY3?oc=5",
+     "source": "California Policy Lab",
+     "published": "2026-11-05T14:44:15+00:00",
+     "summary": "Racial and Ethnic Disparities in Prisons After California's Justice Reforms&nbsp;&nbsp;California Policy Lab",
+     "image": ""
     },
     {
      "title": "France holds new strikes and protests as unions demand immediate answers",
@@ -247,6 +255,14 @@
      "source": "Reuters",
      "published": "2026-11-05T14:40:32+00:00",
      "summary": "Netanyahu's position weakens as rival secures broad backing to try to form government&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "District 5 candidates\u2019 reaction to election results",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmhRMnVNZy0xeWEzSWRrOWJKVkZldGd1a2xieHFNMHJ3WG9HSnpFdVFvVlEzbFJrcW1yZXdZeWhySDZVMlBsbDF4MzEzb0pIejc5ZGJOaGdHU3JKd1ZmQ2dQaGVpekluV0pvRWI5b2d2bWpvTjJLTHVXTmc1aVdqMTdFUk5zdnJzLXfSAZ4BQVVfeXFMTm5xUkZZeDFwdXc3SHdDb2p1cTFEWm1aWTAtemlwZjViUEo2aTJMWnJZc3lMRFBOdTRwUldZOS1fdWRJWlNUTERJWVZ1OWNscHRPV2EwcVlqWVA3LXE1RjRkRVVCekpTRjVvZzJoQUpyN2ZKWjRfT19KZ25NV2l2MlVTbnVDam9MZlR6dVc1QXBObjVXMW14ckFMNWQ0NXc?oc=5",
+     "source": "KFYR-TV",
+     "published": "2026-11-05T14:35:00+00:00",
+     "summary": "District 5 candidates\u2019 reaction to election results&nbsp;&nbsp;KFYR-TV",
      "image": ""
     },
     {
@@ -266,6 +282,14 @@
      "image": ""
     },
     {
+     "title": "Six Tennessee House seats flip blue: What election results could mean for voters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1Bpbk8xWkt6YkJSX2pZSF95UEs1OFROM0kweDA3LVZqRVk3VG8yYmUxRTBBWmgtTzhha1BNeUYyZFJlQVZyWDBlZEhVXzRxY2F2N0hLWTFLRVpUZk9SeEdTVUFQM2JXNUNWQ1JOcE5QWXRwV2l0YWNlTDNfNXJNNHN3SzZZU19hSGpVTEJQTmxvUDdTME1QY21IcUpuc3FpWVZIMy1XNU1aZm9HMmdoLW4zSkljMUpmaTRVbW5OTmpzTVHSAcgBQVVfeXFMUDFfXzVpZzVvdlplcDF4V2FJblc3WktkZjVqdHFEMXZiMUJwUnhHZ3R3c2wxUmVGNkkxSF8wQW1kN2JJdkhtVnhyRGJOUlZBalQ1WmZpQmlMSXFzMlVreGdSZElNTUdseGtFejU5dUhOcnJtOHVYa1VzOGpXTVJxNVZYVzN1TUlrc3VfU0F5MEVVeF9PV1ZkUDFHQTBoS3dPSXlYRXVuSk1WVjVpeVhrSWJXRDFTcmNNb1ZSQUdMbDhDUlhpcU55elU?oc=5",
+     "source": "WJHL",
+     "published": "2026-11-05T14:32:03+00:00",
+     "summary": "Six Tennessee House seats flip blue: What election results could mean for voters&nbsp;&nbsp;WJHL",
+     "image": ""
+    },
+    {
      "title": "How Democrats Flipped Congress \u2013 in Maps and Charts",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclItUlhhRTJZT2FwbTF4RTViOG9yWmNmbm52bE0zYWNQZy05a0JvQ25admFTX3pEOS11c2ZyQngyY3RIMVBLLUpBMXEydTlodFF6eGlUOHhfMHNTckI0UU5JSzZ2NlRQTS1fdzE4OHBLUmhMTXUzR2tNRE4tWTBZX3QwMUtNbVBJZjVKZmtzUlJpM1JpTE9YTVU4RDBqVGp6LWw1aWZiZHhRTXdESXF3T0k1N1ZZMjlrY3c?oc=5",
      "source": "U.S. News & World Report",
@@ -274,57 +298,33 @@
      "image": ""
     },
     {
-     "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-05T14:29:06+00:00",
-     "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state by fewer than 1,200 votesLive results | How do you feel about the results?Sign up for Br",
-     "image": "https://i.guim.co.uk/img/media/5859deed0da200fb6108605c6ff37436ab09fd25/0_0_4627_3704/master/4627.jpg?width=140&quality=85&auto=format&fit=max&s=b03e8d648b9a33e81829f47138930c30"
-    },
-    {
-     "title": "France faces new protests as government seeks to prevent violence",
-     "url": "https://www.france24.com/en/france-faces-new-protests-as-government-seeks-to-prevent-violence",
-     "source": "France 24",
-     "published": "2026-11-05T14:19:53+00:00",
-     "summary": "France faces new protests as the government seeks to prevent a repeat of October unrest. Protesters demand better public services, including education, and also critique the cost-o",
-     "image": "https://s.france24.com/media/display/98aad556-d923-11f1-8469-d18c5759e759/w:1024/p:16x9/capture-2ec8f03c.jpg"
-    },
-    {
-     "title": "Election reformers dissect loss after \u2018polling ahead the entire time\u2019",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YVnRkVVYycEVnSFl1OW5fUGVIcU83MG9yQThNM1Zxbkc2ZzNMaVNRVjc1d3hsU0h4TG15cGJSTjVVb2VYN2txYlNReEFGMXRKZmRpajZtbzFqaWplanZ3dExTa01oalZUYksyUmI5cmxVRndNRE9vbzJ3VQ?oc=5",
-     "source": "Greenfield Recorder",
-     "published": "2026-11-05T14:11:41+00:00",
-     "summary": "Election reformers dissect loss after \u2018polling ahead the entire time\u2019&nbsp;&nbsp;Greenfield Recorder",
+     "title": "Trump: Alaska\u2019s incumbent GOP senator would \u2018easily\u2019 win if given \u2018fake\u2019 challenger\u2019s votes",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDFxU0pUSmIwNk11RWU2ZFpZUzE1di1DNUR0Y3p6MG16Y3R3NGNOSUEtTnpSYkFsb0ZWcFZYdWloa1gzN2RQSU01T2h2SDEwUWlxU184VE1MVExrMWI2ak8tbGQyY0puMy1SN0NDa29XaktPYXRibFh1a3ZkT18ta0FTQm1kcGJabzhSVA?oc=5",
+     "source": "Politico",
+     "published": "2026-11-05T14:27:00+00:00",
+     "summary": "Trump: Alaska\u2019s incumbent GOP senator would \u2018easily\u2019 win if given \u2018fake\u2019 challenger\u2019s votes&nbsp;&nbsp;Politico",
      "image": ""
     },
     {
-     "title": "Health Policy Ideas for 2027: An Open Letter to Incoming Governors",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFV2QUU3Sk5sUUVpUmI4eGJTaFphM1ZlSU5nbUVRTkI1WktQdkxSc21ISlNyVEJDS0NOTWxoNnZZdnJzcVVmbEI2RUI0c09yaEpjN1lyZGk2cWlBZmJhNmlWN3U0bUZYV3BHNU5PQ2sxSnpXcFhPd012WGVoV3pWcHBzZVFjWmZBSmRvN1pZVXlrcnlaTzNLMVM2QTRvZnVZcC1KSkpB?oc=5",
-     "source": "Milbank Memorial Fund",
-     "published": "2026-11-05T14:10:07+00:00",
-     "summary": "Health Policy Ideas for 2027: An Open Letter to Incoming Governors&nbsp;&nbsp;Milbank Memorial Fund",
+     "title": "Illinois election officials say no rule bars children from voting booth",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUV9vMUJ6TGJWMWszN3VyX3kyU212TUdiOFROMEY4dXQ5VDlueFZDOFp1aVU1SEJUSVdULUR1dXV1a0RvTm1lOWc1ZEd1eEhrMDJkOHkwVENqNmZrNnExX0pmbWhjZDVldlpEeERObVN3SUxwaWZYQV9QT25EMWhzNlp3RTB6S1NrSVQyR3FmV0tsX0xYbXBmUGZJT1BBb0xVZ0EwZzFqNNIBuwFBVV95cUxNVU16cGZJeE5GUUFlVWNscWx3bHJTVWdqSUNRV3FMUXFfaEt6YlNGVVh3Z0hHc2xUSy1GSHZJcV9LUTI2eHNnSFlGSEtLVTVwNEZyU0dZLWdQTnZtaVFJZ3V1Y1RxLThKY0ZlcVpZSDNqWmIwZjFQQ0JsNTFOZ2MwV2RkMHVnNjlxakRfcUJrRzNHaEkzTnF0WXA2YWpTNjRvZFhBcWlJUXZUUm1xa0loWGdheEFSMW9Bd1VZ?oc=5",
+     "source": "WEEK | 25 News Now",
+     "published": "2026-11-05T14:26:00+00:00",
+     "summary": "Illinois election officials say no rule bars children from voting booth&nbsp;&nbsp;WEEK | 25 News Now",
      "image": ""
     },
     {
-     "title": "What SC voters had to say about the midterm election",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3Mwckx2WXMxcHFfcDVRUFFEa2YxUmIzZ3Z2QmtvNTJYRFl2T19iV0pNT0RfTFNvemJyLTlKdGhJdjlXWlFjZ3hYU2dFbXFZSjZmcDctb241X0ViNlFEUTFTb1FlWllHQm1KVWx6X0RKRkVtSWlJZWJ3eE9aUUZZbzEyc2M0bTdDbF9MaTJoaURTVC1uU3c?oc=5",
-     "source": "South Carolina Daily Gazette",
-     "published": "2026-11-05T14:03:13+00:00",
-     "summary": "What SC voters had to say about the midterm election&nbsp;&nbsp;South Carolina Daily Gazette",
-     "image": ""
-    },
-    {
-     "title": "Story eyes larger House coalition after Alaska election gains",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmZMMV9SLVJ2UUFzMjEtNFdKd3J0QXdRay02dHVmYncxcUJkaHV3LVNOTjBJRUVPZDE4MDJnMUhTV2hOX2FocUFnSlozWUxiY1dSeFZ0Wm0wUUFzM1daU0JySEx5ekRqOHIyaVZFLWRfaHR6aDNaNmk3dUxKSlZiYTE3VldHSWdUYjJmc2FDcURkRTBFMWs3SThQUGJGcjFROUFhTg?oc=5",
-     "source": "Juneau Empire",
-     "published": "2026-11-05T14:01:01+00:00",
-     "summary": "Story eyes larger House coalition after Alaska election gains&nbsp;&nbsp;Juneau Empire",
+     "title": "Herzog begins coalition talks after inconclusive Israeli election",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOclpoWVpIU0dZa2NsbVBDS1RFc0tzZTN3MF85bEdNbUdobDdKd3JXRy10UmRReUN4cExOLUVuSHFMUVBMMmNMcXo5UFdJREtzU09yc3BPYXJJUzhtUklnQnF5SG45R1BMR3ZlQjNYbGtCWWRxQnotWWJ4elBuZHdLSFpuWW1VMnNleDd4Wjg3bGtlRS1HQlhVM0xtd3pRaVU?oc=5",
+     "source": "Vatican News",
+     "published": "2026-11-05T14:20:16+00:00",
+     "summary": "Herzog begins coalition talks after inconclusive Israeli election&nbsp;&nbsp;Vatican News",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-05T14:59:06.105755+00:00",
+   "fetched_at": "2026-11-05T15:29:10.038725+00:00",
    "stale": false,
    "items": [
     {
