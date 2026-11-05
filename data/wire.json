@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-05T22:30:28.878447+00:00",
+ "generated_at": "2026-11-05T23:00:32.331700+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-05T22:30:28.878415+00:00",
+   "fetched_at": "2026-11-05T23:00:32.331665+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-05T22:51:01+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live resultsSign ",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "California governor commutes sentences for state's 548 death row inmates",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-05T22:31:40+00:00",
+     "summary": "California has historically had the largest population of people on death row in the US.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg"
+    },
     {
      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
@@ -14,19 +30,11 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg"
     },
     {
-     "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-05T22:10:28+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live resultsSign ",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
-    },
-    {
-     "title": "Fox News suffers ratings slump on bleak election night for Republicans",
+     "title": "Fox News suffers ratings drop on bleak election night for Republicans",
      "url": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
      "source": "The Guardian",
      "published": "2026-11-05T22:04:20+00:00",
-     "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewershipSend us your questions about the midterm resultsTrack live results from all 5",
+     "summary": "News channel trailed NBC and ABC, but edged out CNN, MS Now and CBS in primetime hours on midterm election nightOn a midterm election night that was a huge disappointment for Repub",
      "image": "https://i.guim.co.uk/img/media/37ef84d79f4790da044e8b58f149f13760b476a7/421_0_4210_3368/master/4210.jpg?width=140&quality=85&auto=format&fit=max&s=c08732c2af13b82821d498f38ed06ce6"
     },
     {
@@ -78,14 +86,6 @@
      "image": ""
     },
     {
-     "title": "California governor commutes sentences for state's 548 death row inmates",
-     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-05T21:25:48+00:00",
-     "summary": "California has historically had the largest population of people on death row in the US.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg"
-    },
-    {
      "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats\u2019 election triumph",
      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
      "source": "The Guardian",
@@ -120,9 +120,17 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-05T22:30:28.878431+00:00",
+   "fetched_at": "2026-11-05T23:00:32.331679+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russian, Ukrainian officials speak at White House after Oleshky ceasefire",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczA4bi1hQW9lcHJXN19EMnJ1dmJmUE04YlRQeWlPaU5tcUw0ZGpHdG1fZnZOTmlrYk5tWXlGdXZLSzZvZTZadnJLbFllYlV1U0gzZHVzS2JWYlFqNFQtNVlRekhGTHZSaHhnTC12OGhUa29xVkVMN3h1WDNVdnREaFpPN3BxUXhtOGRkQ2s1SXYtSDdYekhHT3RKVXZmZUYyYXR3aw?oc=5",
+     "source": "WORLD News Group",
+     "published": "2026-11-05T22:50:00+00:00",
+     "summary": "Russian, Ukrainian officials speak at White House after Oleshky ceasefire&nbsp;&nbsp;WORLD News Group",
+     "image": ""
+    },
     {
      "title": "Trump predicts \u2018big\u2019 deal on Ukraine that could involve \u2018all of Europe\u2019",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTI5UlFaUFZZaXFpSlN2dVJ1bFgxT3BUOXYxWWtUQ3lNZGV5eWdjUHBvUVl2Nmp5MFA0S1gyb01PaG5zZEY2ODl1ZVNBWUh1WmZEZ1pGNlhDdEpyLUNWVTlfQVpWblgzOHk0UVlqOXdsS2M3bk40VlZSTGlJUkZwbnI5LXkzQzNwblotWWhFNHM3YkRaQmYzclFmVUFnTlFCZmpzNzFQc0JNY1lFWGl3?oc=5",
@@ -132,11 +140,27 @@
      "image": ""
     },
     {
+     "title": "JC Ukrainian church to help children impacted by war",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVRhYmpxTENiV0xjTm5tUVlkMF96THFJNktvbEFreXFBZW5oNURPQjNWUmYtNzlNbGFicl9oN0NjSzRRZEFGSnM1cFJsaUJQaGlaaGxrc29hTkxxT0ZYNkRyeHlyeXhNZU52UkJtMXJUOGZMZ0Q2N1JkM0ZPNTFVVFF5Qjc2OFFyejNXMl9GMnVoMHl5eVFpWF85TlRCM08wSHpQM3AtY9IBrAFBVV95cUxPQjJaRE5ySlliYzlHLVNqQk1rRU83dFNDZmJ6ME1iZjF2Q1V6QXJLRGZjQk1pNWRyQlZnSGtCWTFYSEJIMUJLV3lJaHprV1hfTnRFcmdXajBDWHp5VXJuU3RCZzZBS1ViaS1sNW1TZnlmX2VJeXFHcTl2UzlMVXZpRmNJdS1oUHlSOWh1WlBKT0hJb1RaRHU3VWZHWlpManZvLTRyZTZyd01GeE01?oc=5",
+     "source": "WIVT - News 34",
+     "published": "2026-11-05T22:24:35+00:00",
+     "summary": "JC Ukrainian church to help children impacted by war&nbsp;&nbsp;WIVT - News 34",
+     "image": ""
+    },
+    {
      "title": "Spain to provide Ukraine $490 million in military aid, Zelensky says",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1l1dUVRVW1kX05GeVZicVJHM1NKdHk3SXUtUFAwa2lSTW5wWjZjdlBBSXczN0swT0hSU1pxQW1CX00wN09aR3M3QXo1OWR2aGJIMWNCVU9yX1RSaHRqZm1FT2RMVzRCNGl6RUlMcjRTWFZCOE51UGV4WjJuLWZsOE9YSEV6VEp6OUNVQVVFUzVXVkRuSHI3MGpvdw?oc=5",
      "source": "The Kyiv Independent",
      "published": "2026-11-05T22:21:17+00:00",
      "summary": "Spain to provide Ukraine $490 million in military aid, Zelensky says&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "Melania Trump says \u2018we have chosen humanity over war\u2019 amid partial Russia-Ukraine humanitarian ceasefire",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZ09KS0pnNHpxZEc0Tm5rR0RxNEVpNkJVbk9DYzUzVkx1UHdYalpST3ZrNDlZZDk3bG41aXdUNUt3VVdNX20xRWhnZFB4OEFCVGRYVkdn?oc=5",
+     "source": "Fox News",
+     "published": "2026-11-05T22:18:19+00:00",
+     "summary": "Melania Trump says \u2018we have chosen humanity over war\u2019 amid partial Russia-Ukraine humanitarian ceasefire&nbsp;&nbsp;Fox News",
      "image": ""
     },
     {
@@ -157,10 +181,34 @@
     },
     {
      "title": "Trump Meets Putin Envoy, Predicts \"Very Big\" Deal With Russia On Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTDYtcG9paFNjRVo0UVY1NkJPdll5QWx1bDBCZzllc1A5cGNvaDhNUnlTX0pvc0c0bWxtMVNDS2RtWGZ0dWVpOE9ndVlqOGlaUmI4SzF5dC1nSVFiMG5uT21oR0dha3ltTDVtVzNfWVE0TGJnY2Z1TkdCMHN0R2lKZjFabnBhSWtYOW15bEg5WGlHRFJwTXVHR05IOVJkLVVpNFMtZW92X3M0MHFTVThqcEYzS1pVWXFsMWRlNS1hZmpfMEhZdlM1UjRoMNIB0wFBVV95cUxNbnVfRGpBNnlONXFMVFpxMDFudnFvcm1xRnlvUWxjTFc1aUNVakFJeVU2ODFWazBWaHBMa1VHS1I1d2NxSnNsZXJSeTU2amlpTFdaMDVPMG5yd3BxeGdvWktINFoyN3FiYndnZmtIU2pIQVZRNERJN3E0SG9kMlVnRFg1d3ZvakpQVlI2cG1XWWx4OFh1R3JNTnplc3JmS19IcmRUNTlneC1IakQ2N2NBRGhVNFRLOUZlV2hMaEpEc2tHSHhCbmhhb05DNGNJcjZkcnJR?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTDYtcG9paFNjRVo0UVY1NkJPdll5QWx1bDBCZzllc1A5cGNvaDhNUnlTX0pvc0c0bWxtMVNDS2RtWGZ0dWVpOE9ndVlqOGlaUmI4SzF5dC1nSVFiMG5uT21oR0dha3ltTDVtVzNfWVE0TGJnY2Z1TkdCMHN0R2lKZjFabnBhSWtYOW15bEg5WGlHRFJwTXVHR05IOVJkLVVpNFMtZW92X3M0MHFTVThqcEYzS1pVWXFsMWRlNS1hZmpfMEhZdlM1UjRoMA?oc=5",
      "source": "NDTV",
      "published": "2026-11-05T22:10:54+00:00",
      "summary": "Trump Meets Putin Envoy, Predicts \"Very Big\" Deal With Russia On Ukraine&nbsp;&nbsp;NDTV",
+     "image": ""
+    },
+    {
+     "title": "Trump stated that a peace agreement regarding Ukraine would affect all of Europe",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDVFQkc1dEFxLTVVWm9zeDZqd2FXUFJJUUhnREJEamNWR25mVXg2RWtGMXRaR3lZVk5MWlg5NnYweG9oV1pfZGotNnduU2JJd0lIS2dZeEM5TGNjd00zSV9uLUhvY1JHRlFmZEpSXzV6SlBZQlMxdHJtNnQwa3otaTR2R3lnUXZVNU1RUGVkamRyMWU3RVBtNXJnSnZBdG96bDdpM3hoWXVBWjZyV1IxRFJET2_SAboBQVVfeXFMUGpsOTIzZXpKZmJNT2ZhMVowUG5ZQTBZdW56Y1pGS1FUT2FnejA5eXNtOU9qS1dhS2QxZGVNLTJQS3g0cE41bWJHeHhqblZPQVZrT1pRVGttVjdsTUZreG8zNWFqX2lUNkFmMl9yczVKZ1JneFpTb0FTMzNGTFhLNHRnTVVTdkg3Z1NESjZ6V3pWcFFNNDg5dlFvMURTdzJrcV9LUXZmN0UwSC1HNElmNHA3Wlk2SGdWakd3?oc=5",
+     "source": "LIGA.net",
+     "published": "2026-11-05T22:10:00+00:00",
+     "summary": "Trump stated that a peace agreement regarding Ukraine would affect all of Europe&nbsp;&nbsp;LIGA.net",
+     "image": ""
+    },
+    {
+     "title": "Belarus Sentences Priest Who Opposes War on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlYwcVlFck1fNUIzT2M1dFc3R3Rla1FVbXpVODg3RVY4bDlnaTVnbk1EaHRyUVluNm9tbTJjSXpvcEtLbkkxTzFMTHE3d3RCWFlFSW1jZjJKLVhoVmxBVHpQOTdvaUdYMEVRX1QtTWt1S21wNDRwdEk5eTVtNUZuc094TUxuV3YtaXI0QUVocnpZUFp4Rk44?oc=5",
+     "source": "Newser",
+     "published": "2026-11-05T22:06:00+00:00",
+     "summary": "Belarus Sentences Priest Who Opposes War on Ukraine&nbsp;&nbsp;Newser",
+     "image": ""
+    },
+    {
+     "title": "Italy's Meloni blasts Europe's 'disarray' on Ukraine talks",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaThXcG11NmdkbGZNb05OS1F1eXdadlJDOG1YSzJ0ZUs3Wm9qV2NRbU5HTW42eThHa2FVLS1neGVjcWdfNDBmX25XSGxtaXFRdUNHUUpjSFVTcy1OUHZJdlV1MUNvZ3QwQkZteEFwLUNoTGx6MWkyc2VhU0NXUmNZWnl2QURTanRXa19jZUtfS3d3TkU2dXotanVVVzVBdnk4ZkhpbEZn?oc=5",
+     "source": "France 24",
+     "published": "2026-11-05T22:05:53+00:00",
+     "summary": "Italy's Meloni blasts Europe's 'disarray' on Ukraine talks&nbsp;&nbsp;France 24",
      "image": ""
     },
     {
@@ -170,61 +218,85 @@
      "published": "2026-11-05T22:04:18+00:00",
      "summary": "WATCH: First lady Melania Trump hosted Russian and Ukrainian officials. Trump met with Putin's envoy&nbsp;&nbsp;PBS",
      "image": ""
-    },
-    {
-     "title": "Spain to Send Ukraine \u20ac437M Military Aid Package, Zelenskyy Says",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkUza09ZdUNVVTBpVXVxbGVxWnZYLTZRZV9Vc2U1eVRMMjgxeVV5WVcyaHdrZklyeUdkeDZrQUdLY2NjWlAwdVBweTBlbURwYnBjcnZmTXZUdW5jWjlGNlY1MFltc3VGVVRKalJFb3RDVjZ6b0ZZXzkyazBXX0pIdXNFV1R3U2Q0R3R4ZFdUUlRpM2lMZ1B0S213WkdldFZoQ2drZGVrdllMc3I1ZlRzX3lB?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-05T22:02:17+00:00",
-     "summary": "Spain to Send Ukraine \u20ac437M Military Aid Package, Zelenskyy Says&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T21:33:40+00:00",
-     "summary": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.",
-     "image": ""
-    },
-    {
-     "title": "Melania Trump calls for lasting peace after brokering local Russia-Ukraine ceasefire",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SVWxpY1NyZDNzdlRxZlp3MFJ4OHIydDlXS3hfNXpIYUNWYy14UDFiUTEyVExleVRjampvZnV0MEI2UU9qa2w3UHZ1RzBab013bDFMN2pySlVUZw?oc=5",
-     "source": "Yonhap News Agency",
-     "published": "2026-11-05T21:23:19+00:00",
-     "summary": "Melania Trump calls for lasting peace after brokering local Russia-Ukraine ceasefire&nbsp;&nbsp;Yonhap News Agency",
-     "image": ""
-    },
-    {
-     "title": "Last week\u2019s brief Ukraine ceasefire did not stop Russian attacks on civilians",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRURncVNqM3ZEcVA1a3JsRlg5NHJHcTd4dXlxZDA2NEdFZ1ZUWE9Hc25oZ2kxcE5jNTRqR3RZSzdKaUYyWEQyaHd2ZElfMTRXLW9tZUI1TlBoT2hnaVh4SzhDeGVFZ2tZR3p4emplZ1lpWXpqdVFoS0tLSUNBVUtlQU1GbHpXMXpWOXVaYmwtTU1hTXNueUVPUEVxYnM1cDZIbHU2Q192YnpGemdJQk5UYlhPZzFzdzlkOGkzdXkyOVJweWNFSjBR?oc=5",
-     "source": "Atlantic Council",
-     "published": "2026-11-05T21:11:00+00:00",
-     "summary": "Last week\u2019s brief Ukraine ceasefire did not stop Russian attacks on civilians&nbsp;&nbsp;Atlantic Council",
-     "image": ""
-    },
-    {
-     "title": "Russian and Ukrainian officials thank Melania Trump for brokering ceasefire - video",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkJYRl9JazMzT1lRbmtBeWRtWnRacVBHcWpxTkZ5Q0hUYUF4NnJjZ3RaMnVSRFZfZDd6WnRtS21qNkYwQjA4NWRlTDJRb1dOQVUxajloWF9tZmp2MG8yRG83UUttdm1EM25zN0NHeWU0UlhVVGZnOGFDaTNuQjd5dUFjZjd3X0pLR3ZvZnkwb1Y1WldTWVhzRW9YTGJ5Tl94SmI0VU9ZRTN5RVFuX0NiUG9KNWVmUFhOb3duNXFVZXZJWVBrcE00WVVLVkZUUQ?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-05T21:04:00+00:00",
-     "summary": "Russian and Ukrainian officials thank Melania Trump for brokering ceasefire - video&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0tINFFwWUt6V3E4d0JjbTlKV2lKMHZqM0szQTZFemhtWTN4T21yX0ROVTJvNFJ1Qnd6YllCS1hSMm1UVjV4SzFjUUc1ZmJRdUdjc3dXT3psazE2U0R5bTdTaEROWVF2dDBPVlNFWWNBVFNLMnRKTW9pbmEybEZhRXFfdE53SWVsaktrandkLUlXQThUQmZLR1BqVFNnTjdIUlJOTk1Odi1idw?oc=5",
-     "source": "Post Register",
-     "published": "2026-11-05T20:54:56+00:00",
-     "summary": "Russia Ukraine War&nbsp;&nbsp;Post Register",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-05T22:30:28.878435+00:00",
+   "fetched_at": "2026-11-05T23:00:32.331683+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-05T22:51:01+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live resultsSign ",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "New Research from the AARP Public Policy Institute Highlights High Costs Caregivers Bear",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRFNkLUw0VWp3VE9XeTNweXpfUEZqSWxZRUwzeW1vTFVCbktFWEt1Rm5ONE5NUmdRdC1hUHAwUnFNdWRoODV0VUtnUUQ0N1JXYkxMSUdxR1Q1VTN5ck5yQ09zMlpManVVR0tjNDgwNGN3MEI3R01UWTdWMGJKck5fbzZhWjNIV1pLM09aeEx4T0N2WnQtZ1dtc1pFcXFTOGRsdEtoTlFJYW9nOHVrbjhlR1JNekRLZ08xenlRSk9XZl9ZMjNxY1ZhUC02WGkxUU81SlQwSFlKeGRTcFpRTVE?oc=5",
+     "source": "Medicare Rights Center",
+     "published": "2026-11-05T22:47:42+00:00",
+     "summary": "New Research from the AARP Public Policy Institute Highlights High Costs Caregivers Bear&nbsp;&nbsp;Medicare Rights Center",
+     "image": ""
+    },
+    {
+     "title": "Oil prices hit two-month low following decisive midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjRzOW02X1N3VzNXZG41a1RLTF9aWEkyYnFfZy1OLThNbjhFTXlHN3FRLVRPM0l1ZWJPSGdVUGk0YTZBRHREWXlNS1l0SXp6Z3VnX3ByUUZFeV91V1F3cE5QRnBUY3JUWlY0V25IbnNHRmlJQnRhZEVpRVgtZUk3cC1yZW9UWC1NTHh2UDVtbGNKeDEzaVdUMEdVNC15dkNjN21oaFVQaGx5OUJRUWtQNXZ2RmdodXZFdjE1ZDN4OU90Zw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-05T22:47:35+00:00",
+     "summary": "Oil prices hit two-month low following decisive midterm election results&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Some election night winners rank as firsts in specific categories",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tcTJRUUtDQUhjSExaaHRmWk82cG5CMFY2bVN0ak5waUhVa2hXMDRYX1JoYkVhYmJoSTNQbE40Z3BFTENCN1RKaW40bXdOSGdHbUpvZEZGd1I3REQzUVJuYkMzU3pNdUdJeEtNaGdtcDlHUmNWdS1TcFFB?oc=5",
+     "source": "Northeastern Global News",
+     "published": "2026-11-05T22:43:27+00:00",
+     "summary": "Some election night winners rank as firsts in specific categories&nbsp;&nbsp;Northeastern Global News",
+     "image": ""
+    },
+    {
+     "title": "After favorable Illinois election results, governor JB Pritzker heads to Washington DC for post-midterm discussion",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjNFNmtFaHBIRzRvTXhVbkY4aEkyMU9GWXF4YkN3UnBrX0VlRUJmSVNhVDQ1cUhJQ25rOXdWOU5fOURXWDVmd05rUGNKaVd5V21iemQ2am1IbkZ4emFwYlVPS3lOZ3Jia0RESkh0S2pQcllOSlJHTldTQl9jclZQdzRXbDZrOE1MRHU1eGxqdXFocUJrcHdZYjBwSlhRYnVoQ0NGbklkOEFZM0FYRGVVYVZGN2FRZ2VrYXdkQUZSVGRkLS0xY3NyR1NDdDBfLVh1T0cyZGJn0gHbAUFVX3lxTFB4LUttb29lR0dhaXE5MW9aWVR6eUMwamtuRmpHYm1TSHhjNk8ySkR1UnJiZ2tnaUJmdjh3TmppR2ZuREhJRUx6RU5GTm1rNXZrR2U3Y2s4Z2tNaENZWHJvbWFJY3otaGVZTE5rcXZSUENkY0hxSEltLUF1MGxOcTVVTHQ3Ul83bGdHdjJHdHFEVU1zYk5qMVoyQmRTdUtQSWJMMnFqVG4tUjFGd2Q4TUNZZlNIRVg0aEs3c0RWTnBSUnNaXzRJSGx5em9RXzdEcFlMOFpqZGFKNkU0UQ?oc=5",
+     "source": "ABC7 Chicago",
+     "published": "2026-11-05T22:34:02+00:00",
+     "summary": "After favorable Illinois election results, governor JB Pritzker heads to Washington DC for post-midterm discussion&nbsp;&nbsp;ABC7 Chicago",
+     "image": ""
+    },
+    {
+     "title": "League City covers more than 50 Flock cameras after election results",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZTRBejN5MHlLZnVlYUVFTmZXSXBwNGN2Q0xuYkpwWHNjT1FPYWRMVHIwYTBkQzNuTHZrVjhwUHo1c1RycWl4N1dDSlRRdlBnN2tUNFBidy1ERWJmbUZNWllSYVBxZ2ZkMGpqY2dyaTdyWkpLYnJPQTJQbHB2ZzhmQXZYalJfTXlfeVlrb0Z2c2RBeE9mNWhLdFZESHdQSHRaOXNsZkEwYWQ1N2VnVnBKQ0tMWFpDZlpFUndiZWJpNE5hdTJnX25MMWV5c3BBYkJBN000ZE9WdkVleXhRbUNueXZR0gHqAUFVX3lxTFBIdjZkUG9WaHR0VEdFcGJfM044Ynh2SUMzQ0dScExnNm9PQzlEZFBOMzVVRkRtcEJDR3ZrSE85bGZHUXNCTnR2Vm56SmdESnlJa2xmeURRSXNhYVRrZUVUUGw3NEtRLW5MRDQ0MkNEZGFNYkVIYUxkVm9WcUotRWd5c0E3c0pNbzFNTUk5THBjRmkzY0xsVTZjNlU4VkMwN3lUY3A2UGhUblZ3VDNuWm1fT0ZXS2M5UkNXWUpRUjZVVW1fMV9aSDlkQ0FRejlvamJJdTJKLWVfN1ZQbDhIZERQQ0x6QjBrZ3hEdw?oc=5",
+     "source": "Houston Public Media",
+     "published": "2026-11-05T22:28:21+00:00",
+     "summary": "League City covers more than 50 Flock cameras after election results&nbsp;&nbsp;Houston Public Media",
+     "image": ""
+    },
+    {
+     "title": "TWU union opposes new Amtrak policy that would allow guns on trains",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWxUMi1rcjRMTUNYQkJLQ0ZlY0xNTm1pTUNPalNqYllZS3NiTHNMTUl4dHV4VGZvXzdFSElJekJJaXl5aEtUdVNfUXlabVhOUUw3MDFpRThLWndzVDNFdkh6WkJEbVNnSWdVMnhzZzVZSm9XMzB3aEpoX0VOTGFkT2dneUxkeVM1cXU3NnQ4eTEzc3Z5UXZfd9IBngFBVV95cUxQbHBBS1RXWGhmY1ZfdjZOVmR6dDkyWnQ4TkVUUjlxTjh5LWpzZW9IQTJaR0NpbkZLR3VxZElvSXF5R1NoRnQtUURRZWFwWTFrX0VwX1dhYV9BcW1VUlBMLU1fblYyUjdHQW9SV1c4d29zazkyRmp2cFBCT2VGeHNaVEFUc0pWakZLWlo4OWR2QjNRU0JKbW85UzFQVU4ydw?oc=5",
+     "source": "ABC7 New York",
+     "published": "2026-11-05T22:27:36+00:00",
+     "summary": "TWU union opposes new Amtrak policy that would allow guns on trains&nbsp;&nbsp;ABC7 New York",
+     "image": ""
+    },
+    {
+     "title": "Trump\u2019s first post-election executive action: Preserving his Oval Office changes",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTy1JUnlGX0ljdWMyVlI2bVVrNU9fNnctQTl3Vmp0ZTJqN2xWVWRCcWt1NHpUUFRVM2NGNHFoTG9JdnFwTkl4UldjWld5Q1hWZk5JdE9rVnJueWFPamIyRURVZHU4MHR6RzhUbzVIUHNQWE9IZmluTWpjdXZnbjlveHlmSXA2Snl3WGxsQnBQaHpDTl9pWHFqMFd0Rkt4WnJoYW43U25vWGpOSGs0YjNzTmZQQmI4Z3Q2R1AyeXFWZzB1VXZTeVc4?oc=5",
+     "source": "Politico",
+     "published": "2026-11-05T22:24:00+00:00",
+     "summary": "Trump\u2019s first post-election executive action: Preserving his Oval Office changes&nbsp;&nbsp;Politico",
+     "image": ""
+    },
+    {
+     "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSFFWalBwTVNjcGd4bmtVank5ckdkdk41WkhqNHkwU2ZuaVFlUnNaOFIxVjUycFFJVDlFZE9NN3QxQmIwdTRNaTBZVUJmT2tXdUI4RG0zSGx1R29QeDlCaC1WYjZUbjYzeG5pTlRmRmotNWR4bDlON2ZSLXdiVDF2dGJiaUowZWRpRTVyZ1BnRnA0NGc?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-05T22:21:55+00:00",
+     "summary": "Why a Merciless Supreme Court Rebuke on Election Eve Matters&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
     {
      "title": "Sen. Lisa Murkowski reflects on \u2018blue wave\u2019 in 2026 election",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRlBwMEVBTWpSQkVDLXlzdVdYclJhb3lsWGdNbC1WbjlMdUwwQTZra3A5d3cwNTd2a1o3WVB6X004WGpZZHhvYnNUWW05UVVoUjhEVWVVTGVyaUctYUZuNXBXZnplMDNxQzk2Z1pXQk16cm53M2J2ZHVSdWFOWXV6UE5yeWRNbnl6T2Y2anFIdw?oc=5",
@@ -234,97 +306,25 @@
      "image": ""
     },
     {
-     "title": "Three ways the 2026 midterm election could impact Michigan\u2019s environment",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVR3Z2ZIWFFSMGtZbUhnd0s3eTRLRi1ia1BEQjZOb1FNSUpueHBFQm5EUnhSSlRHYVliekp4MnkxQmtJVlR6UHh5WnpVaUZFeUVsX2pFNEVjeHVWOHdDOFhwVmEwUUp3dTFJZ001akVibUNJQ1p1a3ByMDhuNTNwZTRHWGdrS0dIOVZJYm5tb09Cb3dnZ1o0WkNIS19KMjN4X2IzZFRZRVdYVngyd2tJcnNiVno4ajJJRHRFLTlqTzJNZTd3M1EyVzJ3enF2bVpJWmhWQVRSUQ?oc=5",
-     "source": "Michigan Public",
-     "published": "2026-11-05T22:16:00+00:00",
-     "summary": "Three ways the 2026 midterm election could impact Michigan\u2019s environment&nbsp;&nbsp;Michigan Public",
+     "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakxhcDZneXF2MVZCSXh2YzFDVWp5UVBOT0w1cmtoQ1R4NHBKTkNRMTJFOV9DN18xd3hwTEo5cGNUWVhLdElWd3VvLUcteXRzMThLek4tWXE0UWV1WHJwWEhacmQtRkszZDNVcTVKaGpjYzdGMkFSLWphTk41OGxmb0UxMnBfbUhVLUNQbm5CN3nSAZYBQVVfeXFMUGk2V0ZVVUdnZFo4M2tuUklLTy1SQVZBZUR3b19SdWxreWpLOExrVzcyeUwzTTg0MlZ1bW1Zd1dsUmNUcVJYb2VXY3B6MDRMbjl4YndEa2Z4eW9YYmo2bjlkajV3aHhvYm1YVzUxaG01ck1OYklJQl9FUGlraHotVlZuTkVfU0ZVWTVMckV5S0ZONlJnMmZ3?oc=5",
+     "source": "CNBC",
+     "published": "2026-11-05T22:20:19+00:00",
+     "summary": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith&nbsp;&nbsp;CNBC",
      "image": ""
     },
     {
-     "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-05T22:10:28+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live resultsSign ",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
-    },
-    {
-     "title": "After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVdCMXZ3Y0NJQ3Y2ZG9YSHp3YW95Q2gtdm9QYTBjZDQzUGNvT2FHaDhuUnMxdXZXdlJrUzVrRW5RVXBzZExUTzhZT2JNSi1VWWVIWUw2RGpPS2pIcm4tUDJrMmRoQUpHVFRiY3p0c1pnazdEdUpDcThSbzV1NFNtbFF1ODhZczMtZkFYVTlwcjJEdw?oc=5",
-     "source": "AP News",
-     "published": "2026-11-05T22:05:00+00:00",
-     "summary": "After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "Fox News suffers ratings slump on bleak election night for Republicans",
-     "url": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
-     "source": "The Guardian",
-     "published": "2026-11-05T22:04:20+00:00",
-     "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewershipSend us your questions about the midterm resultsTrack live results from all 5",
-     "image": "https://i.guim.co.uk/img/media/37ef84d79f4790da044e8b58f149f13760b476a7/421_0_4210_3368/master/4210.jpg?width=140&quality=85&auto=format&fit=max&s=c08732c2af13b82821d498f38ed06ce6"
-    },
-    {
-     "title": "When will Santa Cruz County post its next election results update? Here\u2019s the schedule",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeGlfREx3U0xzMWkzTHhNdTNUZmdBYVF4ZzB6VzhrcFpJZnNGOGdFd2VQWllheG9WR3UwT1lfV2x6SUpqNm8xd0VvVTZOYzVUcTg4a05hM0dQQjgyeG4yVGVKX1ZoNGV0amRvUkVYZk9iSHdfeDJuVjZNMUhFSHY5T1JEZnlmaEg2RGh3Q1RaTHI3cm9aY3ViN2RsVTVIUzNiVVZJeUNSSE9wTlFFaUE?oc=5",
-     "source": "Lookout Santa Cruz",
-     "published": "2026-11-05T22:04:06+00:00",
-     "summary": "When will Santa Cruz County post its next election results update? Here\u2019s the schedule&nbsp;&nbsp;Lookout Santa Cruz",
-     "image": ""
-    },
-    {
-     "title": "Crypto\u2019s Megadonors Learn a Hard Election Day Lesson",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd2stLWUzN3JfcDVmY3hEbWgwbnJRNHRHTFZiR1gwMDNkRnRBWjVtM19XM1ZqR2ZBZmRoR2k0QWhXMEgwb3RzSG5oQjJyakRjT2gtYjdKU3h6WTgwWlQ1ZExrU3V2clgycERaZjhmNUxjblBCaGhuZWNTa2RsQy1MZXVlOTJtR0pibVlwcWE4czdxV01pTTNuUkd1Ym9CRjJHc3lsS3F0U0JZdw?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-05T22:00:01+00:00",
-     "summary": "Crypto\u2019s Megadonors Learn a Hard Election Day Lesson&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
-    },
-    {
-     "title": "Many Vermont towns still count election ballots by hand",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjJPSlROTDByODlJZFh2TEwteE1aY3NsYjhOT2VhQ2huM0NfS0F4OWhLX3BYUU5odlBSRGpvTnM5SUZuQkN2bTFfbndhbXJjR2pSMXdfdDhHZ1hDSVlwOGdZNE1fQTdncG9CYU1OOW1YMG1faGJsNzdNclVRbFBvVVBMU3BZU2phaUpIYTF4ck05Zw?oc=5",
-     "source": "WCAX",
-     "published": "2026-11-05T21:51:00+00:00",
-     "summary": "Many Vermont towns still count election ballots by hand&nbsp;&nbsp;WCAX",
-     "image": ""
-    },
-    {
-     "title": "NAACP deploys election protection resources, staff to Mississippi",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGR0bllxeS1jNDAxdXRfTmpuZDNnUmJHMXozTDZ0WnlYcWxPYndoZm44YkZiOTV5OXA0WU1uQU1BeTc3VHVYanBBTng5QlE0VTlkX0w5RDR2cWZUSEFRRWwtWHVWOVNzYXY5X3hGVm9lbmpGYjdqXzRzbmg1VzJrUU11YTJVZ2hyY2Rua0RKTDlLQjBkODRsZU9n?oc=5",
-     "source": "WLOX",
-     "published": "2026-11-05T21:50:00+00:00",
-     "summary": "NAACP deploys election protection resources, staff to Mississippi&nbsp;&nbsp;WLOX",
-     "image": ""
-    },
-    {
-     "title": "Generation Z and diversity redefine US politics in groundbreaking election",
-     "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T21:49:31+00:00",
-     "summary": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
-     "image": ""
-    },
-    {
-     "title": "South Africa\u2019s ANC on track for new lows in local polls",
-     "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T21:48:16+00:00",
-     "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
-     "image": ""
-    },
-    {
-     "title": "Oil prices hit two-month low following decisive midterm election results",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjRzOW02X1N3VzNXZG41a1RLTF9aWEkyYnFfZy1OLThNbjhFTXlHN3FRLVRPM0l1ZWJPSGdVUGk0YTZBRHREWXlNS1l0SXp6Z3VnX3ByUUZFeV91V1F3cE5QRnBUY3JUWlY0V25IbnNHRmlJQnRhZEVpRVgtZUk3cC1yZW9UWC1NTHh2UDVtbGNKeDEzaVdUMEdVNC15dkNjN21oaFVQaGx5OUJRUWtQNXZ2RmdodXZFdjE1ZDN4OU90Zw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-05T21:46:32+00:00",
-     "summary": "Oil prices hit two-month low following decisive midterm election results&nbsp;&nbsp;The Washington Post",
+     "title": "NY counties begin election certification process",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3pzTVpEQllPTU1jUjlmTVhfTHZwS0NEMzN2em5rZ1JCMFVvcHZkZk5BV09lZlIzdkxhS0pSZ1R1T0FvNEdCLVBRR0NhcEtZVWd1cm5zVnRHNjRZbG10cFpvY0Q0MVJYU1pTSXA3Q25UNS1mTEF4TEtKUWJILU1MWlFlOE1xSlJDNGV4TdIBkgFBVV95cUxPc2RvWEVrUEo3ek9VVFJvOWU3RUZMaTgtZlpLOXY0ZjlUb1RvZ0Y4bEd1TGVZdWduZFBmcG52a3hFckZiLUx4dVdDdVROa2RCemtETFRpY04zQ2lOcldSU2VEcG01UUFrMGZjMVR6QmJsTS1McXBtSGtwVzMycks3YldZZUs3VEc2NDFmU21ucHNNZw?oc=5",
+     "source": "NEWS10 ABC",
+     "published": "2026-11-05T22:16:09+00:00",
+     "summary": "NY counties begin election certification process&nbsp;&nbsp;NEWS10 ABC",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-05T22:30:28.878437+00:00",
+   "fetched_at": "2026-11-05T23:00:32.331686+00:00",
    "stale": false,
    "items": [
     {
