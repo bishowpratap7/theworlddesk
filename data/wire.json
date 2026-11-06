@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-06T03:01:12.972683+00:00",
+ "generated_at": "2026-11-06T03:31:16.811541+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T03:01:12.972661+00:00",
+   "fetched_at": "2026-11-06T03:31:16.811518+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump signs order preventing future presidents from changing Oval Office",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-06T03:17:39+00:00",
+     "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8beb/live/f899a990-d97f-11f1-bf3f-d5d9031d14b1.jpg"
+    },
+    {
+     "title": "Woman, 90, shot during Bondi beach massacre dies in hospital year after antisemitic attack",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-06T03:14:09+00:00",
+     "summary": "Woman was shot on 14 December 2025 during Hanukah festival and she has been in and our of hospital sinceA woman who was shot during the Bondi beach terror attack has died in hospit",
+     "image": "https://i.guim.co.uk/img/media/72259763e62364f247e27c55fd8470a097d78fcb/117_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3139c875b5f912c45fb980a8414a9b0d"
+    },
+    {
+     "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-06T03:00:46+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
     {
      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
@@ -22,19 +46,11 @@
      "image": ""
     },
     {
-     "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-06T02:34:18+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
-    },
-    {
-     "title": "Beau Lamarre-Condon trial live updates: prosecution begins cross-examination of double murder accused",
+     "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused \u2013 as it happened",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-06T02:30:00+00:00",
-     "summary": "Lamarre-Condon returns to witness box for day two of his evidence. He has pleaded not guilty to murdering the couple in Sydney in 2024Beau Lamarre-Condon tells double murder trial ",
+     "summary": "This blog has now closedBeau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn\u2019t intentional but \u2018it was my fault\u2019Get our breaking news email, free app or daily",
      "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/482_143_2922_2337/master/2922.jpg?width=140&quality=85&auto=format&fit=max&s=46ef6642807aa142505cd61ffe7241d7"
     },
     {
@@ -94,35 +110,51 @@
      "image": "https://i.guim.co.uk/img/media/c8e02014efcb6621df0185a3b2dd97463db96479/238_75_789_631/master/789.jpg?width=140&quality=85&auto=format&fit=max&s=bfce97c63034fd949cbcc621f93c55c2"
     },
     {
-     "title": "Trump signs order preventing future presidents from changing Oval Office",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T01:20:01+00:00",
-     "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8beb/live/f899a990-d97f-11f1-bf3f-d5d9031d14b1.jpg"
-    },
-    {
      "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
      "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation",
      "source": "The Guardian",
      "published": "2026-11-06T00:29:06+00:00",
      "summary": "President seeks to make Oval Office a national monument to ensure designs are not \u2018ripped down by stupid people\u2019Donald Trump signed a proclamation on Thursday that he says will pre",
      "image": "https://i.guim.co.uk/img/media/1fe52ce8beee665787ebdbb37488b09205cb218d/490_0_4903_3922/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=a334c1d8341ba34c3e676f38f7afd6f9"
-    },
-    {
-     "title": "Alabama, Florida and Indiana carry out executions on same day",
-     "url": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
-     "source": "The Guardian",
-     "published": "2026-11-06T00:27:20+00:00",
-     "summary": "Unusual instance of three states administering the death penalty on the same day previously happened in 2010Alabama, Florida and Indiana all carried out executions on Thursday in a",
-     "image": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/623_0_4319_3456/master/4319.jpg?width=140&quality=85&auto=format&fit=max&s=ec9a25fd3f45ad8ab384b471268e9b6b"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T03:01:12.972671+00:00",
+   "fetched_at": "2026-11-06T03:31:16.811529+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump says Russia-Ukraine deal is near after meeting Putin\u2019s envoy",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVdfY1VZdDJHQ1BwVHpvTWlBT1Z3dTJfYWEzNlFzZ0I2Mm1NZFVEUjdBX3VGVjJPT1JOZXl0NTZBSFQ3MVhqMGtjd3VKMGFJUHp0ZFFSZHR3YmdLUnFBMU1QNURmbVhMSjVHa0NKZExiNG9BYk9VTm8xWjVvSWczMm9aZ2Jld2NlWXVNSnUwVTk4SXVIYVNUbkRZTGNCdS1HOVF0X09LUkdkRXZ4cFlQaklWQ1Nfc1HSAbwBQVVfeXFMTUh3dVBBbS1CN2ZSQVpGMVB3MWxqNFMtUW5BMEFOOHg3ZEs0VkFkU0dOc1g2MnhsOUpjbHUyd254V2p4UWhUa1p4ZU94V2duQ3RTbVhTdUNKcFpZYmxCVjNrRFhlTk5aRlpXbzI4QjVmMy1LYUpZdXBFTW43Z2dGSGlCUEQ3MktGYnpBakhrekJQS0FybzZaSlgzZ1hhakJVd1hTeVZUdThNbXQ5WXZZME85YnA5MFFrMWJsWEM?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T03:13:58+00:00",
+     "summary": "Trump says Russia-Ukraine deal is near after meeting Putin\u2019s envoy&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Zelensky Calls for Winter Ceasefire to Enable Elections",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERW1CeTRNYVZxYTFJWGV1QnJ2czhXSTdpTk9wOWtvMVJGSVpJcWJiVDJjeFhIUlY5a3g1a3ptay14MFlnWkdKaDl5OA?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-06T03:06:38+00:00",
+     "summary": "Zelensky Calls for Winter Ceasefire to Enable Elections&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
+    {
+     "title": "Melania hosts Russia and Ukraine as Trump touts deal for 'all of Europe'",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdkNmTm9Jc0ktMUNJMFNTbkpseVZGWnBZT3Z6VTYzS2dCd2NsU0FUTlR0Wi1pOThFSXZacWM2TnhMX2ZzdGt1ckRPZTVtcDhER0VwZjFvTFlNUTBsQTIxQ3NNMFVqQ1NmNEJaaHBmWkE0ekZkc0YwSy16RjNJQjNqTmp4cWxlQQ?oc=5",
+     "source": "CNA",
+     "published": "2026-11-06T03:04:15+00:00",
+     "summary": "Melania hosts Russia and Ukraine as Trump touts deal for 'all of Europe'&nbsp;&nbsp;CNA",
+     "image": ""
+    },
+    {
+     "title": "US midterms offer hope on Ukraine aid, Russia scrutiny: analysts",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3Exd2RUTmxkRTZEMk9YU3pJZFRHaWR3UWkxUFFzZ2J0WVlvOUU0Yy1ubDhYallNUFk4VC10bUxraHNwc0dUdVZtLU9XX3IxcTRKOTd1NXJobnJOM1NnaEV3U05KSjVMazBXeUYyS1RfYmE1WHNjY0hIQ2E0WjJKMWxqdGtCcWViTFJjaWYtb3hXOXE1bXJqbERLNUxiWkFLX2JxejlHQQ?oc=5",
+     "source": "Bangkok Post",
+     "published": "2026-11-06T02:58:39+00:00",
+     "summary": "US midterms offer hope on Ukraine aid, Russia scrutiny: analysts&nbsp;&nbsp;Bangkok Post",
+     "image": ""
+    },
     {
      "title": "Iran\u2019s security chief meets Putin, delivers message from Khamenei",
      "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
@@ -186,52 +218,84 @@
      "published": "2026-11-06T01:06:30+00:00",
      "summary": "Can Melania Trump succeed where diplomats have struggled? First Lady hosts Russia-Ukraine talks&nbsp;&nbsp;Firstpost",
      "image": ""
-    },
-    {
-     "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T00:19:57+00:00",
-     "summary": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
-     "image": ""
-    },
-    {
-     "title": "Czech president rejects EU envoy role on Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOellnaDdNMVJtMHhEQVR4azBsVWlvYUxKUUJqSkxHRUZwdUNpT1BTeXpSbWh4S3hSZXNhaHZQNUx5cmlwLTFwdE9jWUdsN0RuVXFyaXdaa3JtTlU1OE1BMlJ3RzN3a1VwRlI3cXNOVmlrSGNReVJXa0hicDljYWY3Z0xXY000SjlmNEFXWnp1anVDc2JXLU1ZZkFlUdIBlwFBVV95cUxPaTlKcFlyR1lYZEQ2dTZjaXA2ZExib2R5bzFpTDl6ODcyQlJ4RGl2d0F2cmhwajIyR0lVM2FnZHhxM25fVXY4MnZ4QmVWSHBnV1I1ZUhuTklaNEpmR1lxWmxLbW9hQnNNMUhwZUVMR1hSa0ZOWWZ0bmVkV3lUWHFPVm9Mc0dOUXJmdUVjNHh3SEtEZnlXVEMw?oc=5",
-     "source": "The New Voice of Ukraine",
-     "published": "2026-11-06T00:16:00+00:00",
-     "summary": "Czech president rejects EU envoy role on Ukraine war&nbsp;&nbsp;The New Voice of Ukraine",
-     "image": ""
-    },
-    {
-     "title": "Ukraine needs to consolidate 'bipartisan support' in US following midterm elections, Zelensky says",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWRCT05qZThLa2hjTDdKYjZKaTRycHViM1JZX3NOX19Oc0pFZ2FlSzE0YnpvTWVfU2lWZldyTnNYUHJjdWdRNjlTYlNSaWlqLUJobVMwT08xbTJiN3N1OGVhZ01fSUhLNzlXamJpaXFSWkZZWUp3cmhILWhNRWNqNzBtZUlOR0RuMFJKRGUwQUVscHV4MjMteWpnN2JMd1VuZU1PTlpEdFdHc1dmb1dnUURidDNkMjNtWXZIUkszSFZldw?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-06T00:15:35+00:00",
-     "summary": "Ukraine needs to consolidate 'bipartisan support' in US following midterm elections, Zelensky says&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "Melania hosts Russia and Ukraine at the White House as Trump touts 'big agreement'",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmY3THh4MUpqUFhtVDMxYXZ2UGxBNV9RcVhaZmJVZXFtMEl3UVlsR2pVY0FxT1VHbkwzQ090NFgzNk15ZUFYQ0g5RXBfdFpQbEZGa3luMUdsOXFZVTctRzdlVWViRHZ6MFcybGd0VV9ISzZxWnozN2ptWF8xUmdEeE1IVm1ZVlBDdW8xd1ZqX3FEYzg5OWRzVVVJUGczcFZBYWY5U09JMW1wWnB4RnUzWEM2UVg2SXB3S0pqSGxJTTVMYmJGcWE2S2hJbExmLUxr?oc=5",
-     "source": "Le Monde.fr",
-     "published": "2026-11-06T00:11:26+00:00",
-     "summary": "Melania hosts Russia and Ukraine at the White House as Trump touts 'big agreement'&nbsp;&nbsp;Le Monde.fr",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T03:01:12.972674+00:00",
+   "fetched_at": "2026-11-06T03:31:16.811532+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Alaska Governor Election Live Results 2026",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVnF6Z256eUxiRnVxdl8zOHZZc1hya2VseWs4elFvOV9fZGVkdW1iOGVyVXh5LWxMa3NET0ZOSHNhWGhQd21sWUw0dXVNaTlhMnVaaFlWbzBYbVVMX0d6aU9ub2RoQ2Q0RlRkbEpBVzNFYjNPekE?oc=5",
+     "source": "AP News",
+     "published": "2026-11-06T03:24:25+00:00",
+     "summary": "Alaska Governor Election Live Results 2026&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "Election 2026: Nebraska voter turnout close to 60%, while Iowa surpasses 63%",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzMtb0o5b3EybXp0WHZJM29Dblh2N21PS2pkeFlqeFg4MHZnSUp0c0I5V3RIdTNSRUV0SlRjYzJTQjc1QUIxRjJiYVI2cG5uNVJmZXc5blUzazBpVm1LSTJVS1lDdXRlYW5UZjltLWo5clJpaUhWeS1nbHJSeEZHcU13MDNJVVYtNk9DRXZINVdKZEpoSDdvU0pESHF6ZE9EekZONg?oc=5",
+     "source": "WOWT",
+     "published": "2026-11-06T03:23:00+00:00",
+     "summary": "Election 2026: Nebraska voter turnout close to 60%, while Iowa surpasses 63%&nbsp;&nbsp;WOWT",
+     "image": ""
+    },
+    {
+     "title": "Trump signs order preventing future presidents from changing Oval Office",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-06T03:17:39+00:00",
+     "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8beb/live/f899a990-d97f-11f1-bf3f-d5d9031d14b1.jpg"
+    },
+    {
+     "title": "These Democratic Senate candidates won their races before Election Day",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1kUUlndS1NaFdiT2dtUDNKbWNLSTM4U2N0Q211dlZvTDJaVDFMRHQzYWRZOVY2VktCaGVONDF6ZU5TdFpRNjJOajU4NkVFb19aSENpUWtDSTJOT3ktMWdocEJPVnMxUGFFdzFnVERzMzdrdFpNME1rTUROdjc0WnNlOTlvakI0R0RVWWdoZ3F5QWlPYnM3NElZTUNROU56Z0dwbVhKVU1xeGdJa05Sc18zNEwteHlJd05GU2dhQQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-06T03:16:19+00:00",
+     "summary": "These Democratic Senate candidates won their races before Election Day&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Colom widens lead over Hyde-Smith with thousands of Mississippi ballots uncounted",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDFBUXl1ZFBZNmVUazdWOG5VeHFrakxqM0pmdW05V2NuUko3LWF4bVVVQ3hoNlNaSlF6eDA1VDdLd0pEVnlPM0RpcEZ3UEF2RDdYZ09VOE03aGtOalYxVUNUU0h1QWVjZTkxRjFPVmlKZXpjR2lvOG1aY1V4SXBkLUl2MFBGeWRhNFlkYzFqM3lOUW1EZWc4?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-06T03:10:11+00:00",
+     "summary": "Colom widens lead over Hyde-Smith with thousands of Mississippi ballots uncounted&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRW5XalRkamVpa3ZpbjZneDktVzZXeHlkVV91TVdMcFRQZ0VpOURMSy1fM0t5UmVrNTVMNlk2b0d0YXF4cFBhc0VOenVXRlIwdVpkck9VSmZxRWJQRU4zd1gxWjdjMlpCTkloYUh2d2tqS19KTkt5dTVPbXdqWG5PUTZlSXFfdTJkNDNlbkpvT2ZzRWxoWWZTaXdHU21icjQyenVlVmNOMU9Lc2dFdk1XUUtrYVBLa1RpeVlv?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-06T03:04:00+00:00",
+     "summary": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Michigan election watchers celebrate smooth operation in Tuesday's midterms",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTlZ4UWVxQzdzdTduTkRlRzJuZ2FFZ0liZURnYW9mQVo2aEJNZjI4WTRCUzBNeE5QSlR3anNpN2VWc2xoWjJYSXlaeEp2OXVtQjBmU2dFdGliSUI5ZnFqbFk2U1hUYVVKbW9BMnRDSm8tR1RJNXB5U1REOEMzNEV6YVpjdjd3dHBvQXljNXdaNERxaU5HTmpBQXdyRVVmNHVyaGE3ZGpaTjM4YXlCZ0pWLTUybWdfWUlCY0xzRDBSZGliTy1yaEtrU2tiOTJ1VzI2X3c?oc=5",
+     "source": "Michigan Public",
+     "published": "2026-11-06T03:01:00+00:00",
+     "summary": "Michigan election watchers celebrate smooth operation in Tuesday's midterms&nbsp;&nbsp;Michigan Public",
+     "image": ""
+    },
     {
      "title": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5",
      "source": "The New York Times",
-     "published": "2026-11-06T02:51:22+00:00",
+     "published": "2026-11-06T03:00:46+00:00",
      "summary": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift&nbsp;&nbsp;The New York Times",
      "image": ""
+    },
+    {
+     "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-06T03:00:46+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
     },
     {
      "title": "Arizonans vote no on Prop. 144, rejecting significant changes to the state\u2019s voting procedures",
@@ -240,14 +304,6 @@
      "published": "2026-11-06T02:35:32+00:00",
      "summary": "Arizonans vote no on Prop. 144, rejecting significant changes to the state\u2019s voting procedures&nbsp;&nbsp;Votebeat",
      "image": ""
-    },
-    {
-     "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-06T02:34:18+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
     },
     {
      "title": "US pro-Trump election deniers crash against 'blue tsunami'",
@@ -264,67 +320,11 @@
      "published": "2026-11-06T02:28:02+00:00",
      "summary": "Opposition leader Jess Wilson grimaced as the \u2018Jess Express\u2019, carrying Liberals and reporters, backs into the structure in suburban MelbourneGet our breaking news email, free app o",
      "image": "https://i.guim.co.uk/img/media/fc341bfdee8ecbb0db7ebd74914b764abfa779a1/515_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=13780e9d776baf5ee1bc1b3e3264f044"
-    },
-    {
-     "title": "Federal judge orders Justice Department to stop threatening election officials in Washington state",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd1hmTHNlU1dYVGIyRXpjN2I1blkyMlp1YjcxUzZOb0I0VDRYMFltc2d0YmpiaGpPOWlId2ZVUmhkMFB3NVNEM0FXR0pJenA1NGpTd3JWczZtTC1pTzVxZmlrU1RPX2hYN3d3dFFZeElDRWxWOHc5SFAwdWo4SHhycDV6TFhEWlBGeUk5Tm5WRzNWWktOOEt0UXc4VE1mNjFWS2FSWmdDZkJIcURidW9LVDkyX3lSd1owSURyc0FPajdwZTJRNzB1eUo3YnBMSU9hVXQtaTBRVzJpWjdmeXVOc25R?oc=5",
-     "source": "Politico",
-     "published": "2026-11-06T02:20:00+00:00",
-     "summary": "Federal judge orders Justice Department to stop threatening election officials in Washington state&nbsp;&nbsp;Politico",
-     "image": ""
-    },
-    {
-     "title": "Why Arizona\u2019s potential House speaker says election isn\u2019t a blank check",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHdiZGs4MjZ4X01HaURDWmJoem9oQ0hXSkN2SXBOZXI0c1g1TlJzdHVrYzdTRUYwT2xIeTRPVF9Rang4ODF1RGViRmZzVFFadGJNWUVOaGFkWDFIZ2lySHNRdEZaNU5WSTdCS3F5SUdvSllwZWNSU3NoSjJzOHdmUlNMaUo0SUUwOHl3dlowVUhZTFR5REl4TXRmbVR0NlMtY1NPMENBaw?oc=5",
-     "source": "AZ Family",
-     "published": "2026-11-06T02:15:00+00:00",
-     "summary": "Why Arizona\u2019s potential House speaker says election isn\u2019t a blank check&nbsp;&nbsp;AZ Family",
-     "image": ""
-    },
-    {
-     "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-     "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T02:08:57+00:00",
-     "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg"
-    },
-    {
-     "title": "Explainer: What you need to know ahead of New Zealand's election",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOTNYclo3WHBURVpoWmw1M0dWUlRnSEJXQy0zdUVDS2poeXVnNlEtWEJtYjAxZFJiTFJvTzE3bERsWXpmeE9IWmhhZFF2SU0yZjhSTUFIeGFaUFVmcFZTMHZ2QlJuLTBhOGM4Wk5YbW83dXpiRGNXbzk4ekxrZENNSkhJUFgtTnZFQnUwMVFpTGdKc0dKT3ZoampXc0NJVm5hcy1v?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-06T02:02:00+00:00",
-     "summary": "Explainer: What you need to know ahead of New Zealand's election&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "New Encinitas election results for mayor, City Council races",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkwtR21CdWpYemY3N2xFaTc0ckhpaVlUNkJFVzRuV2VGRGYySjkxQ2hLWkhOM0RvTUt6U3Vub2ZzQk1JbmdLeGFqb0p1U1Zyb3lvZVQ1TTN5ak5JVGduakRxT2dsYVpLM0t5WXoyTHdMeThpblF6RmEtTF9zTmY0dk9CMkV5T3F6X1pYbzJYXzc?oc=5",
-     "source": "inewsource",
-     "published": "2026-11-06T02:01:54+00:00",
-     "summary": "New Encinitas election results for mayor, City Council races&nbsp;&nbsp;inewsource",
-     "image": ""
-    },
-    {
-     "title": "Nithya Raman ousts incumbent Karen Bass in Los Angeles mayor's race, CBS News projects",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1diU19kemI0R0NUSkhaYXRhMER4dlRxVlBHX05LR3dpSlppVUZjV0VWZUh5QzM1eG9NdFlVbnZiXzM5dFNwTEo4clVtOEhJZ2RFbkozN0VERHRqaTJzbnhUNi1FeXNJVmc1dDR4ZW9naFlTaWZXNzVBTkdkbFFDbzlYMUdFd29ZR1FFOXJMSjF4M1NkLUVoMDl2M2o?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-06T01:59:10+00:00",
-     "summary": "Nithya Raman ousts incumbent Karen Bass in Los Angeles mayor's race, CBS News projects&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Stocks plunge as election outcome and AI worries crush tech shares",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-06T01:53:11+00:00",
-     "summary": "Stocks plunge as election outcome and AI worries crush tech shares&nbsp;&nbsp;NBC News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T03:01:12.972676+00:00",
+   "fetched_at": "2026-11-06T03:31:16.811534+00:00",
    "stale": false,
    "items": [
     {
