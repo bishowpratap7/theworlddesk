@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-06T17:03:47.176541+00:00",
+ "generated_at": "2026-11-06T17:33:51.341688+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T17:03:47.176510+00:00",
+   "fetched_at": "2026-11-06T17:33:51.341657+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+     "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+     "source": "The Guardian",
+     "published": "2026-11-06T17:14:31+00:00",
+     "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continuesA fresh wave of bomb threats disrupted air traffic across Europe on Fri",
+     "image": "https://i.guim.co.uk/img/media/1f88c9a52100be8318eb3a96107a54f59d0a5606/205_0_4147_3317/master/4147.jpg?width=140&quality=85&auto=format&fit=max&s=019361f7d5bba2227ccd0b0797d26c42"
+    },
+    {
+     "title": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-06T17:07:58+00:00",
+     "summary": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blue wave has already given the party more than 40 new House seatsLive results: see results from races ",
+     "image": "https://i.guim.co.uk/img/media/b1d790ccb479b21ccedc3d271390e1ae0b94190e/0_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=ebad5358740d1469664272e68336e8b5"
+    },
     {
      "title": "AI stocks climb after trillions wiped from market values",
      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -14,12 +30,44 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-     "title": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
+     "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T17:02:19+00:00",
+     "summary": "Jason Reding Quinones&#039; resignation comes as administration braces for Democrat-led investigations.",
+     "image": ""
+    },
+    {
+     "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+     "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T16:58:56+00:00",
+     "summary": "Political turmoil comes after a digital bank&#039;s failure has left half the population without access to their accounts.",
+     "image": ""
+    },
+    {
+     "title": "Russell Brand rape conviction must be \u2018wake-up call\u2019, says culture secretary",
+     "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy",
      "source": "The Guardian",
-     "published": "2026-11-06T16:48:11+00:00",
-     "summary": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blue wave has already given the party more than 40 new House seatsLive results: see results from races ",
-     "image": "https://i.guim.co.uk/img/media/b1d790ccb479b21ccedc3d271390e1ae0b94190e/0_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=ebad5358740d1469664272e68336e8b5"
+     "published": "2026-11-06T16:53:06+00:00",
+     "summary": "Lisa Nandy calls for whistleblowers to be protected and highlights bravery of women who came forward in caseLisa Nandy, the culture secretary, has warned that Russell Brand\u2019s convi",
+     "image": "https://i.guim.co.uk/img/media/5100981af09f16b0a461e529898a8fe68a030874/396_0_3959_3167/master/3959.jpg?width=140&quality=85&auto=format&fit=max&s=b618988ae9f5725a90a5c100f82907b7"
+    },
+    {
+     "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-06T16:51:01+00:00",
+     "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Burnham aims for \u2018quite radical change\u2019 in support for young people",
+     "url": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
+     "source": "The Guardian",
+     "published": "2026-11-06T16:50:13+00:00",
+     "summary": "Prime minister says \u2018root and branch review of childhood\u2019 is needed and he does not rule out some benefit cutsThe government is aiming for \u201cquite radical change\u201d in the way young p",
+     "image": "https://i.guim.co.uk/img/media/7b53bde25260aa64ec3937864c9368fe25fd84e3/171_0_4105_3284/master/4105.jpg?width=140&quality=85&auto=format&fit=max&s=1e2868829af9d5f861d3e933f5e88669"
     },
     {
      "title": "British comedian Russell Brand found guilty of rape and three sexual assaults",
@@ -46,6 +94,14 @@
      "image": "https://s.france24.com/media/display/d1462964-d9f1-11f1-8b86-695cb59fade5/w:1024/p:16x9/PHOTO-JOSEP-BORRELL-1.png"
     },
     {
+     "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+     "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T16:40:39+00:00",
+     "summary": "Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.",
+     "image": ""
+    },
+    {
      "title": "'Chaos within aviation industry' as European air traffic hit by bomb threats",
      "url": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats",
      "source": "France 24",
@@ -60,69 +116,21 @@
      "published": "2026-11-06T16:27:32+00:00",
      "summary": "Freshways lowers price paid to producers by 7p a litre, prompting warnings confidence in the sector is \u2018at rock bottom\u2019\u201cMilk is leaving the farm at a loss,\u201d says dairy farmer Ian H",
      "image": "https://i.guim.co.uk/img/media/023ddc9c0a6ea277ce369177da0ca489c5581b34/227_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=5f2f605c056016892400595753b054ae"
-    },
-    {
-     "title": "Bomb threats against European flights \u2018likely a coordinated campaign of disruption\u2019, Ireland says \u2013 as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-     "source": "The Guardian",
-     "published": "2026-11-06T16:26:17+00:00",
-     "summary": "This blog is now closed, you can read more on this story hereA Romanian airline Tarom flight from Prague to Bucharest is the latest believed to be affected by today\u2019s bomb threats.",
-     "image": "https://i.guim.co.uk/img/media/af13db51b17a65dbfc940a3980063bfbda88b6e9/253_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e1c3d8cd16983990d912eb500ae31508"
-    },
-    {
-     "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T16:21:57+00:00",
-     "summary": "Arab-majority parties in Israel, the Joint List and Ra\u2019am, have backed Netanyahu\u2019s rival Gadi Eisenkot to form a governm",
-     "image": ""
-    },
-    {
-     "title": "Meghan\u2019s father arrested in Florida on charges related to child sexual abuse material",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-     "source": "The Guardian",
-     "published": "2026-11-06T16:14:52+00:00",
-     "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors saidThomas Markle, father of the Duchess of Sussex, has been arrested by US federal agents in Flor",
-     "image": "https://i.guim.co.uk/img/media/f9cfec4c1e00591a43dd167e340d0109f7c8ff90/221_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=9078b8bb775528d5f74814b45223d30d"
-    },
-    {
-     "title": "What did the Republicans lose in the US midterms?",
-     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/6/what-did-the-republicans-lose-in-the-us-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T16:11:34+00:00",
-     "summary": "Democrats took the Senate and the House of Representatives from the Republicans. AJLabs maps the wave in US midterms.",
-     "image": ""
-    },
-    {
-     "title": "Millions fleeing Sudan\u2019s war risk losing shelter as funds run low, UN warns",
-     "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T16:10:51+00:00",
-     "summary": "Fewer than 1 million of the 15.4 million people in need emergency shelter in Sudan have received assistance.",
-     "image": ""
-    },
-    {
-     "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T16:04:19+00:00",
-     "summary": "French- and British-led military drills in Poland will testing post-ceasefire deployment in Ukraine.",
-     "image": ""
-    },
-    {
-     "title": "Global stocks plunge amid AI slowdown fears after Democrats\u2019 midterm triumph",
-     "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-     "source": "The Guardian",
-     "published": "2026-11-06T15:48:36+00:00",
-     "summary": "Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live \u2013 latest updatesEuropean stock markets have fallen sharply as a rout in US tech stoc",
-     "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T17:03:47.176526+00:00",
+   "fetched_at": "2026-11-06T17:33:51.341673+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russell Brand rape conviction must be \u2018wake-up call\u2019, says culture secretary",
+     "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy",
+     "source": "The Guardian",
+     "published": "2026-11-06T16:53:06+00:00",
+     "summary": "Lisa Nandy calls for whistleblowers to be protected and highlights bravery of women who came forward in caseLisa Nandy, the culture secretary, has warned that Russell Brand\u2019s convi",
+     "image": "https://i.guim.co.uk/img/media/5100981af09f16b0a461e529898a8fe68a030874/396_0_3959_3167/master/3959.jpg?width=140&quality=85&auto=format&fit=max&s=b618988ae9f5725a90a5c100f82907b7"
+    },
     {
      "title": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
      "url": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout",
@@ -145,6 +153,14 @@
      "source": "Newsweek",
      "published": "2026-11-06T16:41:00+00:00",
      "summary": "Putin says it has no details of Trump's \"beautiful\" deal on Ukraine war&nbsp;&nbsp;Newsweek",
+     "image": ""
+    },
+    {
+     "title": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRWt1ZXRTa2c2QzVzdThTMjNIc2NENWxmVU56UGo0RFFFdUlVSG9kUE9EYy1FaGlBcHdRSXJheTAtS0phNmNSZVUzWWl0c3J6ek8td0RhdzA2cW1IRm5BYkhKckNaZXRlb1ZsUVM3UEFLd3Q0MzJEMHhOdHJMRDg0NG12elNlZndZTXBkUzJTOUw4dVRtd1F3ZWJnWURlaS1BMENhcjFpUHVuNVh0Rkk3dGw4b2VuZ05ONTlkS24yZTM2a0E1WnVZTVBBUEU?oc=5",
+     "source": "Van Nuys News Press",
+     "published": "2026-11-06T16:38:56+00:00",
+     "summary": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire&nbsp;&nbsp;Van Nuys News Press",
      "image": ""
     },
     {
@@ -202,29 +218,69 @@
      "published": "2026-11-06T15:59:00+00:00",
      "summary": "EU says \u2018a lot of work\u2019 still needed to reach Ukraine peace deal&nbsp;&nbsp;Arab News",
      "image": ""
-    },
-    {
-     "title": "Italy's Meloni Blasts Europe's 'Disarray' on Ukraine Talks",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGVYQkRjZHkzck5tVjVWU0xjSjB6b0NJdUhWeU9iZnY0NC1SSUZnLURYTV96bHdnN3NwVHF0Q1JnQ3pCdmNtdGZnQmV1bFhtdDc5TE5jRFktMzIzMV9Cb2tLU3I1TmZFb2d2eWV6ZlBmSWZOdXZQMHBIdl81bkhQVFBablZ0eUtJcURQWEZlRF9scE5Lczdr?oc=5",
-     "source": "ASHARQ AL-AWSAT English",
-     "published": "2026-11-06T15:39:29+00:00",
-     "summary": "Italy's Meloni Blasts Europe's 'Disarray' on Ukraine Talks&nbsp;&nbsp;ASHARQ AL-AWSAT English",
-     "image": ""
-    },
-    {
-     "title": "Transparency and expertise are needed to defrost Russia's billions for Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjk2YTlqZ1AwTHA2SUdGNU5HMkRqUEdwcHo0S2FYLXdlTFpJWUFEeEVXQTVscFlHbC1MbWpuYTNfZFdGT2RNWW5IdFBBNmViX0ZELVcyamNnRFNCY2lVNHNUaGJ3UGF6YVZXYk01M0Y3ZWtaMmlISG8za1U1ajUzV1E2N0JOdHZORmJlVExhQTJqVmE5bkpSN3pscmJpVDdKMkNkTFM4Vzh6dU04?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-06T15:32:35+00:00",
-     "summary": "Transparency and expertise are needed to defrost Russia's billions for Ukraine&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T17:03:47.176530+00:00",
+   "fetched_at": "2026-11-06T17:33:51.341677+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Two top Justice Department officials resign as post-election exodus accelerates",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3d2VFhsUzJucjhiOHdzTnBuU0VDNF9PcEV3c2VvQ2FlQ3lZM2k5VXF3TXlseFJaMDlkekVxT19GUHJvbG1VdHdfbmNRWi1MdU9zdXpGVjJCSkhXc0NOSXVseldlXzZvOU1NVlJmaFlqNUlkUkJFeHFPZ2ZIRjNkdE5vb2Ixd01LVGttWEluTTNnakkybGVtMlFfM2VHcGVqbzBFbWJWWDNFcWVTSmJGWFdmRWlVVG9tS3hpcmVtQ3Jpd04yRmdKeg?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-06T17:13:35+00:00",
+     "summary": "Two top Justice Department officials resign as post-election exodus accelerates&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "NH News Recap: Election outcomes and a historic wildfire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVFILUktU3VwZ1ViVWUwd2VoeGNZRlR5a1NMYkxXMk1pVl9aNVdXSk4yOHdfcTR3b0ZyWFZfMFhqVEFxeXFaWVNULXdFbW9jZXdJc1NBRFQ2OC1JVnVmdVhMOGVlUDRoUG5NRFE2TlFWRkp4Njh0NUtsNWllYUVHRFVld1FjLUhaNzMzUjdMcGhuMEJpaWdXcnZvQQ?oc=5",
+     "source": "New Hampshire Public Radio",
+     "published": "2026-11-06T17:13:00+00:00",
+     "summary": "NH News Recap: Election outcomes and a historic wildfire&nbsp;&nbsp;New Hampshire Public Radio",
+     "image": ""
+    },
+    {
+     "title": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-06T17:07:58+00:00",
+     "summary": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blue wave has already given the party more than 40 new House seatsLive results: see results from races ",
+     "image": "https://i.guim.co.uk/img/media/b1d790ccb479b21ccedc3d271390e1ae0b94190e/0_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=ebad5358740d1469664272e68336e8b5"
+    },
+    {
+     "title": "Is California Ready for an Aging Workforce?",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SNmF2a0NyY3oyWWQxbmtRMmV2X01jX2tZV3JHNDF5TUo4TURLX0ZYajJ3MmRCek1DYVZ3ZFVHN3E3ZXFaY1ZKTE1iallNczhFTllHV1Q5eWVtUVVsTm5hMGF3WkNIZnRNaHFIY3ZGb3NTWGkwVnlTaA?oc=5",
+     "source": "Public Policy Institute of California",
+     "published": "2026-11-06T17:07:48+00:00",
+     "summary": "Is California Ready for an Aging Workforce?&nbsp;&nbsp;Public Policy Institute of California",
+     "image": ""
+    },
+    {
+     "title": "Some of the midterm election results are still sinking in for Republicans",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oUmlzN2pRTVZVblJNTV9HeXE5NUwxVnVGTVpXczZQU01SNV9wQ19RTnh5ZDFoaWtrcndBdkFWV3RrR0xKOVBNOFVOaVJtM25mcE02bklwRlRwWURvM2RydVRJOXY5WkJXcGF0M0FhdU00ZG9yNkE?oc=5",
+     "source": "WBUR",
+     "published": "2026-11-06T17:05:29+00:00",
+     "summary": "Some of the midterm election results are still sinking in for Republicans&nbsp;&nbsp;WBUR",
+     "image": ""
+    },
+    {
+     "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnZoMHhMcWtCenRFeEM4UG1Wd3pLRmppUkUydUJJckZFemJtbDV4aWtpbk1iX1VybkZ1cGNKbjl4ZHNhaG5LVk5JUmNkblNWR1V5YzRJa3hfQ3gwa2RQcElfU3BTdVROY2N5dU5PSkdPSXdKZEdCUVpLZkZJQXFUazROQTdWcllkZ0VVeFI2NnI3bUsweTZRWkNuNWlTQy1FbUEwNVh3bDhWLXpYWlhJUXBncURld9IBuwFBVV95cUxPMDBCYWxzOC01b0VNUmt2MVJMTVZMTlJZcFB4VW04R3poQnpnRVAxUUhwOUhKZl9rM3FCaEpJYXYzN2hLbkVONjlYa3Awbm5wRFczX1RiWE9weFdUWTRZdW9yenZER3dPR2hPYm1Zd010RV8zdHVNZmo5Z1ZFdmNoZG1FbFVTR1YxbFFTTDJSSXBDaXd6NHBxTmhnTFpHSUoxUUl0bUlSTk5PbGFiVXJ0cDZMTVF6UzFYX1k4?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T17:03:45+00:00",
+     "summary": "US prosecutor who led Trump-backed election probe exits Justice Department&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "2026 Election Results",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkVGR5Y0FRckdQZTlBOHQ5eHFDMDdnRll4eTNCSzJ1cjhTeDJsNTc3OGlBMEJtM0x3SU9JcDdzdFYtRElROVdpUy1KN0V6dDJoSWV4U1ZCUnBWeTlMZEJaQklaOF9CdHZWTnZIYl9vdHBvQQ?oc=5",
+     "source": "JD Supra",
+     "published": "2026-11-06T17:03:45+00:00",
+     "summary": "2026 Election Results&nbsp;&nbsp;JD Supra",
+     "image": ""
+    },
     {
      "title": "AI stocks climb after trillions wiped from market values",
      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -232,14 +288,6 @@
      "published": "2026-11-06T17:03:02+00:00",
      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "2026 Election Results",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkVGR5Y0FRckdQZTlBOHQ5eHFDMDdnRll4eTNCSzJ1cjhTeDJsNTc3OGlBMEJtM0x3SU9JcDdzdFYtRElROVdpUy1KN0V6dDJoSWV4U1ZCUnBWeTlMZEJaQklaOF9CdHZWTnZIYl9vdHBvQQ?oc=5",
-     "source": "JD Supra",
-     "published": "2026-11-06T17:00:51+00:00",
-     "summary": "2026 Election Results&nbsp;&nbsp;JD Supra",
-     "image": ""
     },
     {
      "title": "Gov. Pillen outlines key policy priorities for 2027 legislative session",
@@ -250,12 +298,20 @@
      "image": ""
     },
     {
-     "title": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-06T16:51:01+00:00",
+     "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Burnham aims for \u2018quite radical change\u2019 in support for young people",
+     "url": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
      "source": "The Guardian",
-     "published": "2026-11-06T16:48:11+00:00",
-     "summary": "Tight races in Mississippi and Alaska could further tip scale for Democrats; blue wave has already given the party more than 40 new House seatsLive results: see results from races ",
-     "image": "https://i.guim.co.uk/img/media/b1d790ccb479b21ccedc3d271390e1ae0b94190e/0_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=ebad5358740d1469664272e68336e8b5"
+     "published": "2026-11-06T16:50:13+00:00",
+     "summary": "Prime minister says \u2018root and branch review of childhood\u2019 is needed and he does not rule out some benefit cutsThe government is aiming for \u201cquite radical change\u201d in the way young p",
+     "image": "https://i.guim.co.uk/img/media/7b53bde25260aa64ec3937864c9368fe25fd84e3/171_0_4105_3284/master/4105.jpg?width=140&quality=85&auto=format&fit=max&s=1e2868829af9d5f861d3e933f5e88669"
     },
     {
      "title": "Cape Fear region General Assembly candidates on election results, plans for new session in Raleigh",
@@ -264,67 +320,11 @@
      "published": "2026-11-06T16:45:00+00:00",
      "summary": "Cape Fear region General Assembly candidates on election results, plans for new session in Raleigh&nbsp;&nbsp;WHQR",
      "image": ""
-    },
-    {
-     "title": "The Epstein Election and the End of MAGA",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWQ1N0lYX2NWREk1OTZieFc1bW9RZ2ZLRklPaEh3eTlPNU5zWTRrQkF2R0ozMDFRcnBNSjV4bkcwc0c4S2RqV05sMWlHTVp1ZEdmZXpOMjFScDFnQUlWRDZKM09YMUliblU2MXVBMWNEeDd1RmFyZVA1VVhjSUc3RmRVbUlyckhCSTN3SmcxSQ?oc=5",
-     "source": "The Atlantic",
-     "published": "2026-11-06T16:31:46+00:00",
-     "summary": "The Epstein Election and the End of MAGA&nbsp;&nbsp;The Atlantic",
-     "image": ""
-    },
-    {
-     "title": "Global Digital Policy Roundup: October 2026",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WRHlyMlhnRVFOVm9BYkplZHI3Yzl0ZnJQWHlGblI4Mjl4T3h3ZTZ0Y0xYcW9MSzVVZUZCUkkzUkd6MW5hUjJvQ2M1VjVxLVZKVVV1c3A0OVRGUWs3Y2JQMTE2c2F6VGVtQkVtNFpjVkU3bHpNdTdSenZ1LWU?oc=5",
-     "source": "Tech Policy Press",
-     "published": "2026-11-06T16:31:20+00:00",
-     "summary": "Global Digital Policy Roundup: October 2026&nbsp;&nbsp;Tech Policy Press",
-     "image": ""
-    },
-    {
-     "title": "How well did election polls predict the 'blue wave?'",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhMQWxXU1N0UnlsR1pZVzJsN0U3bC1qWUdQdVNybFdYcmdTa1hXMGZNWGE5YUpDVmVmS1A0RWNGMEZ3UjJ6ZUlxTXVHc1cxNWRDTlFfRF8ybzhULXJMUUNhUUlfR0J6dzMtM1c4X21yc1JlLWhEb19PREY4S3J1RmhBczFNVkVoM20ydnU0blRlMGN6X0Z0SDhTcDNjb29BV1pUWA?oc=5",
-     "source": "NPR Illinois",
-     "published": "2026-11-06T16:27:43+00:00",
-     "summary": "How well did election polls predict the 'blue wave?'&nbsp;&nbsp;NPR Illinois",
-     "image": ""
-    },
-    {
-     "title": "In Election Democrats Dominated, Voters in 4 States Limit Trans Athletes",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQmVYZUZDX3lGaTJ2RmZ2cGY5R2Y0SUsyeE90SldKTV96WWFQRXlkVnFCQnFGVl9MNjBOdnBZTkhCRnN6WE5mVkJjamJqOXRtNWFQNlkydmlDMXN4UUxuSXF2UHVYSnljN0JPS3ZrQTNiN0luRThXQ2p6RHd5bkVJRk9QZC1mUQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-06T16:27:00+00:00",
-     "summary": "In Election Democrats Dominated, Voters in 4 States Limit Trans Athletes&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bWpvVi13alRsTVY0VGFfT0dUS3JtMG4yYVZtNDhkN2lIUndZeFVvVEdwZExsNjNPeXR1aEVVZzNSZjlBS1lSdUdoeUg4RmpWc3VqcDREUzA0RGlxZ2kzaC1KYVNzX3pxTlBLSGJtUlA0LUVq?oc=5",
-     "source": "CNBC",
-     "published": "2026-11-06T16:22:49+00:00",
-     "summary": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC&nbsp;&nbsp;CNBC",
-     "image": ""
-    },
-    {
-     "title": "Post-election, Riverhead Town Board unanimously acts on all resolutions",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVG9MUG5LQjB2WFpJbWRXSnM3YzlYTVNkSk83bHlReVFPcFd0S1VZalNNMGY4cHMtWVRZSlhyVGdJYndkbUlmbnNHM0tXLWxoRkZlUGtRRlVUX0doLVlZYVUzVVZYR2xFZmI4YnFaUDBHa1dDdGZ5aVF5c242OWpXai1yLXdnUlRxQjRJQjZzSkpUWnlyOEsta3M3QlRobVlVeWZYU1ZJTlNGYXdfT0E?oc=5",
-     "source": "RiverheadLOCAL",
-     "published": "2026-11-06T16:13:25+00:00",
-     "summary": "Post-election, Riverhead Town Board unanimously acts on all resolutions&nbsp;&nbsp;RiverheadLOCAL",
-     "image": ""
-    },
-    {
-     "title": "What did the Republicans lose in the US midterms?",
-     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/6/what-did-the-republicans-lose-in-the-us-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T16:11:34+00:00",
-     "summary": "Democrats took the Senate and the House of Representatives from the Republicans. AJLabs maps the wave in US midterms.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T17:03:47.176532+00:00",
+   "fetched_at": "2026-11-06T17:33:51.341680+00:00",
    "stale": false,
    "items": [
     {
