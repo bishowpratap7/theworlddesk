@@ -1,17 +1,41 @@
 {
- "generated_at": "2026-11-06T05:01:29.292262+00:00",
+ "generated_at": "2026-11-06T05:31:32.644562+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T05:01:29.292240+00:00",
+   "fetched_at": "2026-11-06T05:31:32.644542+00:00",
    "stale": false,
    "items": [
     {
      "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
      "source": "The Guardian",
-     "published": "2026-11-06T04:48:36+00:00",
+     "published": "2026-11-06T05:14:53+00:00",
      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
      "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
+     "url": "https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T05:03:57+00:00",
+     "summary": "Republican redistricting largely backfired in Texas and beyond, but one redrawn district delivered for the party.",
+     "image": ""
+    },
+    {
+     "title": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules",
+     "url": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
+     "source": "\u00a9 Andrew Caballero-Reynolds, AFP",
+     "published": "2026-11-06T05:02:06+00:00",
+     "summary": "Asian tech stocks fell sharply on Friday, with Seoul and Tokyo leading losses after a Wall Street sell-off driven by fears of tighter AI regulation following Democrats\u2019 US midterm ",
+     "image": "https://s.france24.com/media/display/1be84736-d989-11f1-aed6-d18c5759e759/w:1024/p:16x9/0cb7dc483e38ff94c70690b196afde181d6bcadd.jpg"
+    },
+    {
+     "title": "Iraq\u2019s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+     "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T05:00:47+00:00",
+     "summary": "Call comes as Iraq&#039;s top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+     "image": ""
     },
     {
      "title": "Trump issues proclamation declaring Oval Office national monument",
@@ -92,43 +116,51 @@
      "published": "2026-11-06T02:57:24+00:00",
      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg"
-    },
-    {
-     "title": "Iran\u2019s security chief meets Putin, delivers message from Khamenei",
-     "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T02:48:19+00:00",
-     "summary": "Putin meets Iran&#039;s top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
-     "image": ""
-    },
-    {
-     "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused \u2013 as it happened",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-06T02:30:00+00:00",
-     "summary": "This blog has now closedBeau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn\u2019t intentional but \u2018it was my fault\u2019Get our breaking news email, free app or daily",
-     "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/482_143_2922_2337/master/2922.jpg?width=140&quality=85&auto=format&fit=max&s=46ef6642807aa142505cd61ffe7241d7"
-    },
-    {
-     "title": "Liberal bus crashes into shop awning on its first outing of Victorian election campaign",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election",
-     "source": "The Guardian",
-     "published": "2026-11-06T02:28:02+00:00",
-     "summary": "Opposition leader Jess Wilson grimaced as the \u2018Jess Express\u2019, carrying Liberals and reporters, backs into the structure in suburban MelbourneGet our breaking news email, free app o",
-     "image": "https://i.guim.co.uk/img/media/fc341bfdee8ecbb0db7ebd74914b764abfa779a1/515_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=13780e9d776baf5ee1bc1b3e3264f044"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T05:01:29.292251+00:00",
+   "fetched_at": "2026-11-06T05:31:32.644552+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia\u2019s losses in the war in Ukraine have exceeded 1.6 million people",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDBhbTBGT0V6YzVZWVVIOVBxTVBPVjEwR0MwWHJDV1RKbGEtX1ZLMVlIN0E5bGM3ZWdwWVBjQmxkcDZYa0ZGemoyMTVsWDcwV2c5M2x5U2p3RGZvOTBDaVFncWpsdkEtOGJvSmxoM2QwZDZyRXRMV1YteGtocTRmcWhzelBWb29FNlUwZ3ZPN3NYRWVnRVHSAZQBQVVfeXFMTkxORENjNi1sSEh3RmtKdm5oeEJRWFNqY2NvQVdGMExzQ29xRzdXY3hKUkh4S3BTZGdZQUh6MEx1dk5vMjRidVhpS1NCNTNxRTU4aGoxeVpEbkJfUGVrbnkxUThOd3RleFFIWGpKTzEySkoxc2RJdHhWdEdDSFJPNXYtZDk4RUQ4X2ZyNWxfVDNMSldZUQ?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "published": "2026-11-06T05:21:23+00:00",
+     "summary": "Russia\u2019s losses in the war in Ukraine have exceeded 1.6 million people&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "image": ""
+    },
+    {
+     "title": "Three cheers for Melania Trump-led ceasefire in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wQnpzY1NtdFNUZXl0b1IxdFktWk9HY2NnZE1NaWQ4bzdSQVpuX2ZVVks0ZWxoQlZDT1dBM2xuVkdhZHdINWwzLXR5UlBNSGNWVWMxQWtZLXhUaXJzclhZV19fQjZCajQ?oc=5",
+     "source": "Responsible Statecraft",
+     "published": "2026-11-06T05:05:59+00:00",
+     "summary": "Three cheers for Melania Trump-led ceasefire in Ukraine&nbsp;&nbsp;Responsible Statecraft",
+     "image": ""
+    },
+    {
+     "title": "Iraq\u2019s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+     "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T05:00:47+00:00",
+     "summary": "Call comes as Iraq&#039;s top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+     "image": ""
+    },
     {
      "title": "Trump Says Iran Strike Decision Coming Soon; Russia-Ukraine Deal Near",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01YUxfWW1TZ2lTQ1lUU0xyQnBlX0JYWWpnUmRrTXdTWE5xVVM4b05UQThjUFhJNVZLak9SNzhZc093aFF3b0p5NW8yd3NUV3R3WnM4eg?oc=5",
      "source": "bloomingbit",
      "published": "2026-11-06T04:52:44+00:00",
      "summary": "Trump Says Iran Strike Decision Coming Soon; Russia-Ukraine Deal Near&nbsp;&nbsp;bloomingbit",
+     "image": ""
+    },
+    {
+     "title": "Ukraine war briefing: Zelenskyy says Russia has damaged \u2018every power plant\u2019 as he seeks Latin American help",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbUZXOXBNZWtMVHlwOUV3TkdQaV84SGFKVnoyVG5mX3M1NVlTVVFadkMzVThCS09Za3dBOFluUHlXTWh5eEtLa3ZUYV9BNDRMWnYtdFZubVFqTzZ0Ty1WRlNGd1c2YXVoY3J5ZHdCd3JUOEs0SzlVQ0RUVk9DVWI1SnMyaERteFdpWWFneVhESmVaS2NnVVNxLUI4T1lYMFQ4Wms4b1R0T3MyMU53UmpmY3JaaVVuVl9BNjB0OUlscXdzZXVDWDNyR0xBU3N6amhsMVFtY1FDRzZWbXk5RU1iRjlfYXE?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-06T04:50:00+00:00",
+     "summary": "Ukraine war briefing: Zelenskyy says Russia has damaged \u2018every power plant\u2019 as he seeks Latin American help&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
@@ -140,11 +172,11 @@
      "image": "https://i.guim.co.uk/img/media/434b676957bcf76df3c92156dfeab6b9a4205f75/228_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=2321eaa579480cc31296c332af04b824"
     },
     {
-     "title": "Ukrainian forces reportedly target oil refinery as explosions reported across southern Russia",
+     "title": "Ukrainian forces target oil refinery as explosions reported across southern Russia",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkRLQm9wTUFBTVBqTnBpallGclVvYjBzaTNhU1B0Nk9zT1h1dzlrMUtnRGVLRFV0blpWQXU3ZHVrWG8xcGFkZHNuUHBrcGphbGJhVGdRU21IWmF4Vkkzak9zLW5Mc3hIeDNWYTdnejdOOWpmNHNfV3VvZ0lVN3o5NmtSWi1TYVBzVE9aTE1PeDVUOHlUeS1fcm42U1A3X0N6NHVhNHJ3M0k4UlZPSWpfbFBwcHJha3BkZUVkR1loWQ?oc=5",
      "source": "The Kyiv Independent",
      "published": "2026-11-06T04:41:12+00:00",
-     "summary": "Ukrainian forces reportedly target oil refinery as explosions reported across southern Russia&nbsp;&nbsp;The Kyiv Independent",
+     "summary": "Ukrainian forces target oil refinery as explosions reported across southern Russia&nbsp;&nbsp;The Kyiv Independent",
      "image": ""
     },
     {
@@ -164,19 +196,19 @@
      "image": ""
     },
     {
+     "title": "A Drone Maimed a Ukrainian Army Private. Could a Drone Also Save Him?",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4eUwyMWo1bjZiRVJQdWFCZ2dGa1FXTUdydkRlWWhaN0dhWmNYWU5UWldzc1VxR3hFbFM3WlRQTUtVMURCVVhaYThzQ1FtTGVKSTAteVVMd2lES0NpcWRwRk9LODlwRWl0bG1CYzdoM0IyMzR0?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-06T03:28:54+00:00",
+     "summary": "A Drone Maimed a Ukrainian Army Private. Could a Drone Also Save Him?&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
      "title": "Trump says Russia-Ukraine deal is near after meeting Putin\u2019s envoy",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVdfY1VZdDJHQ1BwVHpvTWlBT1Z3dTJfYWEzNlFzZ0I2Mm1NZFVEUjdBX3VGVjJPT1JOZXl0NTZBSFQ3MVhqMGtjd3VKMGFJUHp0ZFFSZHR3YmdLUnFBMU1QNURmbVhMSjVHa0NKZExiNG9BYk9VTm8xWjVvSWczMm9aZ2Jld2NlWXVNSnUwVTk4SXVIYVNUbkRZTGNCdS1HOVF0X09LUkdkRXZ4cFlQaklWQ1Nfc1HSAbwBQVVfeXFMTUh3dVBBbS1CN2ZSQVpGMVB3MWxqNFMtUW5BMEFOOHg3ZEs0VkFkU0dOc1g2MnhsOUpjbHUyd254V2p4UWhUa1p4ZU94V2duQ3RTbVhTdUNKcFpZYmxCVjNrRFhlTk5aRlpXbzI4QjVmMy1LYUpZdXBFTW43Z2dGSGlCUEQ3MktGYnpBakhrekJQS0FybzZaSlgzZ1hhakJVd1hTeVZUdThNbXQ5WXZZME85YnA5MFFrMWJsWEM?oc=5",
      "source": "Al Jazeera",
      "published": "2026-11-06T03:13:58+00:00",
      "summary": "Trump says Russia-Ukraine deal is near after meeting Putin\u2019s envoy&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Zelensky Calls for Winter Ceasefire to Enable Elections",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERW1CeTRNYVZxYTFJWGV1QnJ2czhXSTdpTk9wOWtvMVJGSVpJcWJiVDJjeFhIUlY5a3g1a3ptay14MFlnWkdKaDl5OA?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-06T03:06:38+00:00",
-     "summary": "Zelensky Calls for Winter Ceasefire to Enable Elections&nbsp;&nbsp;Kyiv Post",
      "image": ""
     },
     {
@@ -186,52 +218,28 @@
      "published": "2026-11-06T03:04:15+00:00",
      "summary": "Melania hosts Russia and Ukraine as Trump touts deal for 'all of Europe'&nbsp;&nbsp;CNA",
      "image": ""
-    },
-    {
-     "title": "Iran\u2019s security chief meets Putin, delivers message from Khamenei",
-     "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T02:48:19+00:00",
-     "summary": "Putin meets Iran&#039;s top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 6, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ydy11YjdmNERzVDdGeTV5X21CbDR1TjE3bFFqRHk2OU1EM2J3UDJHaHpibG9ubFhFWWF0WWc0SW1GNVJkWklLanlDTjJ0QQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-06T02:17:37+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 6, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war briefing: Zelenskyy says Russia has damaged \u2018every power plant\u2019 as he seeks Latin American help",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbUZXOXBNZWtMVHlwOUV3TkdQaV84SGFKVnoyVG5mX3M1NVlTVVFadkMzVThCS09Za3dBOFluUHlXTWh5eEtLa3ZUYV9BNDRMWnYtdFZubVFqTzZ0Ty1WRlNGd1c2YXVoY3J5ZHdCd3JUOEs0SzlVQ0RUVk9DVWI1SnMyaERteFdpWWFneVhESmVaS2NnVVNxLUI4T1lYMFQ4Wms4b1R0T3MyMU53UmpmY3JaaVVuVl9BNjB0OUlscXdzZXVDWDNyR0xBU3N6amhsMVFtY1FDRzZWbXk5RU1iRjlfYXE?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-06T02:12:00+00:00",
-     "summary": "Ukraine war briefing: Zelenskyy says Russia has damaged \u2018every power plant\u2019 as he seeks Latin American help&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Gaza turns discarded cooking pots into seawalls",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T02:03:47+00:00",
-     "summary": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T05:01:29.292254+00:00",
+   "fetched_at": "2026-11-06T05:31:32.644555+00:00",
    "stale": false,
    "items": [
     {
      "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
      "source": "The Guardian",
-     "published": "2026-11-06T04:48:36+00:00",
+     "published": "2026-11-06T05:14:53+00:00",
      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
      "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "These Democratic Senate candidates won their races before Election Day",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1kUUlndS1NaFdiT2dtUDNKbWNLSTM4U2N0Q211dlZvTDJaVDFMRHQzYWRZOVY2VktCaGVONDF6ZU5TdFpRNjJOajU4NkVFb19aSENpUWtDSTJOT3ktMWdocEJPVnMxUGFFdzFnVERzMzdrdFpNME1rTUROdjc0WnNlOTlvakI0R0RVWWdoZ3F5QWlPYnM3NElZTUNROU56Z0dwbVhKVU1xeGdJa05Sc18zNEwteHlJd05GU2dhQQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-06T05:08:21+00:00",
+     "summary": "These Democratic Senate candidates won their races before Election Day&nbsp;&nbsp;The Washington Post",
+     "image": ""
     },
     {
      "title": "Trump issues proclamation declaring Oval Office national monument",
@@ -239,14 +247,6 @@
      "source": "Al Jazeera",
      "published": "2026-11-06T04:48:00+00:00",
      "summary": "Following election losses, the signing marks Trump&#039;s third event of the week focused on signature renovation projects.",
-     "image": ""
-    },
-    {
-     "title": "These Democratic Senate candidates won their races before Election Day",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1kUUlndS1NaFdiT2dtUDNKbWNLSTM4U2N0Q211dlZvTDJaVDFMRHQzYWRZOVY2VktCaGVONDF6ZU5TdFpRNjJOajU4NkVFb19aSENpUWtDSTJOT3ktMWdocEJPVnMxUGFFdzFnVERzMzdrdFpNME1rTUROdjc0WnNlOTlvakI0R0RVWWdoZ3F5QWlPYnM3NElZTUNROU56Z0dwbVhKVU1xeGdJa05Sc18zNEwteHlJd05GU2dhQQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-06T04:46:19+00:00",
-     "summary": "These Democratic Senate candidates won their races before Election Day&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
@@ -263,6 +263,14 @@
      "source": "WIS News 10",
      "published": "2026-11-06T04:31:00+00:00",
      "summary": "SC Governor-elect Alan Wilson discusses the election&nbsp;&nbsp;WIS News 10",
+     "image": ""
+    },
+    {
+     "title": "Stocks plunge as election outcome and AI worries crush tech shares",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-06T04:30:54+00:00",
+     "summary": "Stocks plunge as election outcome and AI worries crush tech shares&nbsp;&nbsp;NBC News",
      "image": ""
     },
     {
@@ -290,19 +298,19 @@
      "image": ""
     },
     {
-     "title": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-06T03:35:00+00:00",
-     "summary": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
      "title": "Johnson County's election results could help decide six closely contested Kansas races",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTEzQ2JFWnRBc3I1RkFObDVseDEwQU9YMDBSS0NILTYxWFV0clhIVFZwRnlmdEk3SzY4ZzJsREhIMVF2Yk5BVzVKWXBQeHVPSUdkbkVnRHdrRVJqSml1RWJ4bmxnQnNQWnFmZ0twb1VaWjhIN0QtcGR5dER3WS1FbzAzclNwM2JwN3F3RE1ndFZqUU9QVGlXR0Jn?oc=5",
      "source": "KMBC",
      "published": "2026-11-06T03:33:00+00:00",
      "summary": "Johnson County's election results could help decide six closely contested Kansas races&nbsp;&nbsp;KMBC",
+     "image": ""
+    },
+    {
+     "title": "Florida\u2019s election system: From hanging chads to national model",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWlhVEdzdkxpYlhHUXd5VkxTLWlNVVpYNTAyNXlSSFJwczU5LXhGaDhSOFRWRXpNS2hmcHFKbmRaSHo3ZTRWZjlOeDA3YjBrclN5X0NmaEZCd3NmT2swS0RSVVFXUk5YTm10T1dtOHB2MU5QRHdINlBMcmo2STUyOVF2UWZ0cDNOZHVEVlJpYkhaMUVqWGlkdHhzQWN2SE5kb0ZUM1F6bE5USUdm?oc=5",
+     "source": "News4JAX",
+     "published": "2026-11-06T03:23:59+00:00",
+     "summary": "Florida\u2019s election system: From hanging chads to national model&nbsp;&nbsp;News4JAX",
      "image": ""
     },
     {
@@ -312,21 +320,21 @@
      "published": "2026-11-06T03:04:00+00:00",
      "summary": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate&nbsp;&nbsp;Reuters",
      "image": ""
-    },
-    {
-     "title": "Michigan election watchers celebrate smooth operation in Tuesday's midterms",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTlZ4UWVxQzdzdTduTkRlRzJuZ2FFZ0liZURnYW9mQVo2aEJNZjI4WTRCUzBNeE5QSlR3anNpN2VWc2xoWjJYSXlaeEp2OXVtQjBmU2dFdGliSUI5ZnFqbFk2U1hUYVVKbW9BMnRDSm8tR1RJNXB5U1REOEMzNEV6YVpjdjd3dHBvQXljNXdaNERxaU5HTmpBQXdyRVVmNHVyaGE3ZGpaTjM4YXlCZ0pWLTUybWdfWUlCY0xzRDBSZGliTy1yaEtrU2tiOTJ1VzI2X3c?oc=5",
-     "source": "Michigan Public",
-     "published": "2026-11-06T03:01:00+00:00",
-     "summary": "Michigan election watchers celebrate smooth operation in Tuesday's midterms&nbsp;&nbsp;Michigan Public",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T05:01:29.292255+00:00",
+   "fetched_at": "2026-11-06T05:31:32.644556+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules",
+     "url": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
+     "source": "\u00a9 Andrew Caballero-Reynolds, AFP",
+     "published": "2026-11-06T05:02:06+00:00",
+     "summary": "Asian tech stocks fell sharply on Friday, with Seoul and Tokyo leading losses after a Wall Street sell-off driven by fears of tighter AI regulation following Democrats\u2019 US midterm ",
+     "image": "https://s.france24.com/media/display/1be84736-d989-11f1-aed6-d18c5759e759/w:1024/p:16x9/0cb7dc483e38ff94c70690b196afde181d6bcadd.jpg"
+    },
     {
      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
