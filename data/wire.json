@@ -1,135 +1,199 @@
 {
- "generated_at": "2026-11-06T10:02:15.676204+00:00",
+ "generated_at": "2026-11-06T10:32:18.755515+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T10:02:15.676173+00:00",
+   "fetched_at": "2026-11-06T10:32:18.755483+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "'Several victims' after bus crashes in France, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T09:57:11+00:00",
-     "summary": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
-    },
-    {
-     "title": "'Sleazy', 'manipulative' and 'ruthless': Russell Brand convicted of rape, sexual assault",
-     "url": "https://www.france24.com/en/tv-shows/press-review/20261106-sleazy-manipulative-and-ruthless-russell-brand-convicted-of-rape-sexual-assault",
-     "source": "France 24",
-     "published": "2026-11-06T09:53:13+00:00",
-     "summary": "PRESS REVIEW \u2013 Friday, November 6: Italian, British, French and Bulgarian papers discuss the bomb threats that diverted multiple flights across Europe on Thursday. British papers d",
-     "image": "https://s.france24.com/media/display/c6726f4a-d9c7-11f1-b994-d18c5759e759/w:1024/p:16x9/capture-1fe5132a.jpg"
-    },
     {
      "title": "European skies on high alert after hoax bomb threats this week \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
      "source": "The Guardian",
-     "published": "2026-11-06T09:48:13+00:00",
-     "summary": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or divertedCopenhagen police has just said that it is once again present at the city\u2019s a",
+     "published": "2026-11-06T10:22:40+00:00",
+     "summary": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or divertedin DublinBomb threats against Irish media organisations have disrupted broadc",
      "image": "https://i.guim.co.uk/img/media/58e977d2b6d34908f3a1633b4fa07e17d6057f95/318_0_3183_2546/master/3183.jpg?width=140&quality=85&auto=format&fit=max&s=29222f7d7f4e7258fa14098766047133"
     },
     {
-     "title": "Burnham to force employers to publish salaries on job ads in latest government \u2018small fix\u2019 \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-06T09:40:18+00:00",
-     "summary": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobsHello and welcome to the UK politics live blog.Employers",
-     "image": "https://i.guim.co.uk/img/media/7d21f801a9b99774274ae32975f25f5875148bb3/828_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ec40a5e115b642ffc9596dffc934f49d"
+     "title": "Two dead after bus crashes in France, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-06T10:20:46+00:00",
+     "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg"
     },
     {
-     "title": "Live: European stocks plunge after US midterm election results shock markets",
-     "url": "https://www.france24.com/en/americas/20261106-live-european-stocks-plunge-after-us-midterm-election-results-shock-markets",
-     "source": "\u00a9 Reuters",
-     "published": "2026-11-06T09:37:30+00:00",
-     "summary": "European shares tumbled on Friday as global investors grappled with uncertainty over AI stocks, following the Democrats\u2019 sweeping victory in the US midterm elections. The drop is p",
-     "image": "https://s.france24.com/media/display/d71b2db8-d9be-11f1-82d6-a575454bc579/w:1024/p:16x9/2026-11-05T161457Z-54596775-RC2QHOA0MWI0-RTRMADP-3-EUROPE-STOCKS.jpg"
+     "title": "Death toll rises to 50 in Russian attack on aid distribution \u200cpoint in Ukraine",
+     "url": "https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine",
+     "source": "\u00a9 Stringer, Reuters",
+     "published": "2026-11-06T10:15:12+00:00",
+     "summary": "The death toll from Russia's bombing of an aid \u200bdistribution \u200cpoint in \u2060Ukraine's southeastern Zaporizhzhia region on Monday \u200chas risen to 50, Kyiv's Emergency Service said on Frid",
+     "image": "https://s.france24.com/media/display/46ae0b50-d9c9-11f1-b001-d18c5759e759/w:1024/p:16x9/2026-11-02T212716Z-2040630324-RC2QFOAUAPVF-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION.jpg"
+    },
+    {
+     "title": "Uncertainty over Nigeria vote as court bars opposition leader",
+     "url": "https://www.france24.com/en/video/20261106-uncertainty-over-nigeria-vote-as-court-bars-opposition-leader",
+     "source": "France 24",
+     "published": "2026-11-06T10:13:45+00:00",
+     "summary": "A Nigerian court Thursday declared invalid the nomination of Atiku Abubakar as the presidential candidate for the opposition African Democratic Congress, just two months before the",
+     "image": "https://s.france24.com/media/display/64cab970-d9c5-11f1-b494-1beafce15fea/w:1024/p:16x9/EN-20261105-214303-214445-CS.jpg"
+    },
+    {
+     "title": "Ethiopia clashes drive thousands into Kenya",
+     "url": "https://www.france24.com/en/video/20261106-ethiopia-clashes-drive-thousands-into-kenya",
+     "source": "France 24",
+     "published": "2026-11-06T10:11:31+00:00",
+     "summary": "Deadly clashes between armed forces in southern Ethiopia have driven tens of thousands into neighbouring Kenya with no idea when they can safely return home. Ethiopia, Africa's sec",
+     "image": "https://s.france24.com/media/display/692c041e-d9c6-11f1-b746-a575454bc579/w:1024/p:16x9/EN-20261105-214713-214854-CS.jpg"
+    },
+    {
+     "title": "Navi Pillay on the ICC and accusations of bias against Africa",
+     "url": "https://www.france24.com/en/video/20261106-navi-pillay-on-the-icc-and-accusations-of-bias-against-africa",
+     "source": "France 24",
+     "published": "2026-11-06T10:09:51+00:00",
+     "summary": "Former ICC judge and UN High Commissioner for Human Rights, Navi Pillay was awarded the 2026 Nobel Peace Prize for her work promoting peace and international law. The South African",
+     "image": "https://s.france24.com/media/display/0a53b142-d9c8-11f1-b4f9-695cb59fade5/w:1024/p:16x9/EN-20261105-214856-215347-CS.jpg"
+    },
+    {
+     "title": "Making history in Dakar 2026: Six young refugees, one Olympic dream",
+     "url": "https://www.france24.com/en/video/20261106-making-history-in-dakar-2026-six-young-refugees-one-olympic-dream",
+     "source": "France 24",
+     "published": "2026-11-06T10:08:09+00:00",
+     "summary": "The medals are already being won at Dakar 2026. But beyond the scores and the celebrations, some athletes have overcome far greater challenges. Members of the first Refugee Youth O",
+     "image": "https://s.france24.com/media/display/df56a2e6-d9c8-11f1-a449-a575454bc579/w:1024/p:16x9/EN-20261105-215348-215540-CS.jpg"
+    },
+    {
+     "title": "Mass protests sweep France as huge crowds demand higher wages",
+     "url": "https://www.france24.com/en/video/20261106-mass-protests-sweep-france-as-huge-crowds-demand-higher-wages",
+     "source": "France 24",
+     "published": "2026-11-06T10:05:40+00:00",
+     "summary": "Hundreds of thousands of striking workers protested across France on Thursday, November 5, against the rising cost of living following weeks of youth-led demonstrations, with polic",
+     "image": "https://s.france24.com/media/display/20db6206-d9c4-11f1-ac7f-1beafce15fea/w:1024/p:16x9/EN-20261106-100159-100338-CS.jpg"
     },
     {
      "title": "Tanzanian opposition leader found guilty of incitement",
      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-06T09:33:31+00:00",
+     "published": "2026-11-06T10:05:32+00:00",
      "summary": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c804/live/6a70d320-d8e7-11f1-8a29-751f921d505b.jpg"
     },
     {
-     "title": "Trump signs order to preserve Oval Office as national monument",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T09:19:57+00:00",
-     "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ff/live/e5957760-d9b2-11f1-93e1-3b657b665bcf.jpg"
+     "title": "California governor says commuting all death sentences in state",
+     "url": "https://www.france24.com/en/video/20261106-california-governor-says-commuting-all-death-sentences-in-state",
+     "source": "France 24",
+     "published": "2026-11-06T10:05:13+00:00",
+     "summary": "California Governor Gavin Newsom said Thursday, November 5, he was commuting all death sentences across the state to life imprisonment, in a move that will affect over 500 prisoner",
+     "image": "https://s.france24.com/media/display/0fd78a96-d9c6-11f1-b5f2-a575454bc579/w:1024/p:16x9/capture-61e1f7e1.jpg"
     },
     {
-     "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-     "url": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-     "source": "NPR",
-     "published": "2026-11-06T09:19:57+00:00",
-     "summary": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into questio",
-     "image": ""
-    },
-    {
-     "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
-     "url": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T09:01:40+00:00",
-     "summary": "Najib transitions to house arrest after his party UMNO raises $12m fine via crowdfunding.",
-     "image": ""
-    },
-    {
-     "title": "Global stocks plunge amid AI slowdown fears after Democrats\u2019 midterm triumph",
-     "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+     "title": "Burnham to force employers to publish salaries on job ads in latest government \u2018small fix\u2019 \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
      "source": "The Guardian",
-     "published": "2026-11-06T08:58:22+00:00",
-     "summary": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.5%Business live \u2013 latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks ",
-     "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126"
+     "published": "2026-11-06T10:03:12+00:00",
+     "summary": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobsShabana Mahmood has signalled she is considering a chang",
+     "image": "https://i.guim.co.uk/img/media/7d21f801a9b99774274ae32975f25f5875148bb3/828_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ec40a5e115b642ffc9596dffc934f49d"
     },
     {
-     "title": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
-     "url": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
+     "title": "Netanyahu rival Eisenkot secures broad backing in bid to form government",
+     "url": "https://www.france24.com/en/video/20261106-netanyahu-rival-eisenkot-secures-broad-backing-in-bid-to-form-government",
+     "source": "France 24",
+     "published": "2026-11-06T10:02:32+00:00",
+     "summary": "Israeli President Isaac Herzog said he will announce on Sunday, November 8, whom he will task with trying to form a new government, after the opposition's Gadi Eisenkot secured a c",
+     "image": "https://s.france24.com/media/display/ca4b03da-d9c6-11f1-9cf2-695cb59fade5/w:1024/p:16x9/capture-5edc64d1.jpg"
+    },
+    {
+     "title": "Trump wooed Latino voters, but his ICE tactics sent them back to the polls: \u2018They\u2019re taking our neighbors\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump",
      "source": "The Guardian",
-     "published": "2026-11-06T08:54:40+00:00",
-     "summary": "Workers\u2019 rights campaigners say measure will help young people and women in particular achieve more equal payBusiness live \u2013 latest updatesEmployers will be forced to publish salar",
-     "image": "https://i.guim.co.uk/img/media/7be38b4c9d96e2e92e9362d0d1df716fa0472332/634_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=05d8e92e573867f037d96116a46e368e"
+     "published": "2026-11-06T10:00:50+00:00",
+     "summary": "Texas business owner says he expected ICE raids to focus on those with criminal records not his relatives and employeesTuesday night\u2019s explosive rout of the Republican party was su",
+     "image": "https://i.guim.co.uk/img/media/6f129391f30cafbb380223987277cc4950371022/508_0_5078_4065/master/5078.jpg?width=140&quality=85&auto=format&fit=max&s=8147978402a7a9abfc7be0ebda20dbf1"
     },
     {
-     "title": "Met police chief urges potential victims of Russell Brand to come forward",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward",
+     "title": "Denmark\u2019s top court to rule on \u2018parallel societies\u2019 after \u2018non-western\u2019 people evicted",
+     "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
      "source": "The Guardian",
-     "published": "2026-11-06T08:52:22+00:00",
-     "summary": "Mark Rowley says he would not be surprised if many more people emerged with allegations against convicted rapistThe head of Scotland Yard has called for anyone with fresh allegatio",
-     "image": "https://i.guim.co.uk/img/media/9828fa333e7a9b09ff899bd2f2e512e93dcca31c/507_0_3076_2461/master/3076.jpg?width=140&quality=85&auto=format&fit=max&s=2640a4f010ceca15ed26a8392d626458"
-    },
-    {
-     "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
-     "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T08:41:05+00:00",
-     "summary": "Global markets are being roiled due to concerns over US data centre expansion and AI regulation.",
-     "image": ""
-    },
-    {
-     "title": "UK jailing of Indian sailor over Russia sanctions sets off \u2018perfect storm\u2019",
-     "url": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T08:32:57+00:00",
-     "summary": "Captain Ajay Pant was in international waters when his allegedly &#039;shadow&#039; tanker was captured by British soldiers.",
-     "image": ""
+     "published": "2026-11-06T10:00:49+00:00",
+     "summary": "Government claims removal of former residents of housing complex in Helsing\u00f8r is unrelated to their ethnicityDenmark\u2019s supreme court is expected to rule on whether the state\u2019s clas",
+     "image": "https://i.guim.co.uk/img/media/78a1fbc9e9a2d7c9ac07f49957cd83f6ffc3445e/155_105_3621_2897/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=3b59df3668cb721dc864f3cff5a2ee0d"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T10:02:15.676188+00:00",
+   "fetched_at": "2026-11-06T10:32:18.755499+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Death toll rises to 50 in Russian attack on aid distribution \u200cpoint in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUW0teWNKOFIyTHBFdm5TTW9uNms2WHk5N2p4ck9GYXVQYnlZRzNoR3JzbmVtWC1EaVlBaHlYRkRRNVJoUGV1VHU4ZndZTWN6blZBSzVhWndjbEZ5TnBzZmlRWlJiYVVPWWxpeFViNkdoRkUyWnBDMmtZd3dJREF3VkwzT2pYZlZPWGtsZ0dNN0gzeS0wbmthMU1SclBMb2V1TnFzV0xIbElyZ2VzaWxtMFV4Qm8xLXVZaEZ0a3Bn?oc=5",
+     "source": "France 24",
+     "published": "2026-11-06T10:15:12+00:00",
+     "summary": "Death toll rises to 50 in Russian attack on aid distribution \u200cpoint in Ukraine&nbsp;&nbsp;France 24",
+     "image": ""
+    },
+    {
+     "title": "Navi Pillay on the ICC and accusations of bias against Africa",
+     "url": "https://www.france24.com/en/video/20261106-navi-pillay-on-the-icc-and-accusations-of-bias-against-africa",
+     "source": "France 24",
+     "published": "2026-11-06T10:09:51+00:00",
+     "summary": "Former ICC judge and UN High Commissioner for Human Rights, Navi Pillay was awarded the 2026 Nobel Peace Prize for her work promoting peace and international law. The South African",
+     "image": "https://s.france24.com/media/display/0a53b142-d9c8-11f1-b4f9-695cb59fade5/w:1024/p:16x9/EN-20261105-214856-215347-CS.jpg"
+    },
+    {
+     "title": "Netanyahu rival Eisenkot secures broad backing in bid to form government",
+     "url": "https://www.france24.com/en/video/20261106-netanyahu-rival-eisenkot-secures-broad-backing-in-bid-to-form-government",
+     "source": "France 24",
+     "published": "2026-11-06T10:02:32+00:00",
+     "summary": "Israeli President Isaac Herzog said he will announce on Sunday, November 8, whom he will task with trying to form a new government, after the opposition's Gadi Eisenkot secured a c",
+     "image": "https://s.france24.com/media/display/ca4b03da-d9c6-11f1-9cf2-695cb59fade5/w:1024/p:16x9/capture-5edc64d1.jpg"
+    },
     {
      "title": "Met police chief urges potential victims of Russell Brand to come forward",
      "url": "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward",
      "source": "The Guardian",
-     "published": "2026-11-06T08:52:22+00:00",
+     "published": "2026-11-06T10:00:23+00:00",
      "summary": "Mark Rowley says he would not be surprised if many more people emerged with allegations against convicted rapistThe head of Scotland Yard has called for anyone with fresh allegatio",
      "image": "https://i.guim.co.uk/img/media/9828fa333e7a9b09ff899bd2f2e512e93dcca31c/507_0_3076_2461/master/3076.jpg?width=140&quality=85&auto=format&fit=max&s=2640a4f010ceca15ed26a8392d626458"
+    },
+    {
+     "title": "Ukraine and Russia Trade Volley of Strikes Against Each Other\u2019s Energy Infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMnZBZEpCUG9ONnZ5endYbVF1NkVzM0IxQllOamFQZE4xckt4TXctX2VlY0Rwc0FrWEJ2MFZkNndoRkR6TnhVRmhzY09zaGxJLUd2ajg5WkNYZlA0Y0x6dDJMWURtYVNzeElDUmFZUFItaEVIbmFoWHA4LUp1YjNwR2ZMQkpZVm9zN2NwZ3ozX21EVWxFTW9CME5BWUI4SE5WcmZuSGIyOE9Xa2pRX1ZnTTZFeG9HUXF2b1MtTHE2OUxOSk5jV0JIN0ljWjROdw?oc=5",
+     "source": "The Moscow Times",
+     "published": "2026-11-06T09:59:16+00:00",
+     "summary": "Ukraine and Russia Trade Volley of Strikes Against Each Other\u2019s Energy Infrastructure&nbsp;&nbsp;The Moscow Times",
+     "image": ""
+    },
+    {
+     "title": "Rutte Doubts Either Side Will Win Russia\u2019s War Against Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YYm1xRmJ4THc4YXpoR0pISkoyS0RBZDh5ajItVkJSM0k0RE1oTGE0NVBKYWFYS0J2WmxLc1BKeENUNVM0V241LVVIMA?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-06T09:58:38+00:00",
+     "summary": "Rutte Doubts Either Side Will Win Russia\u2019s War Against Ukraine&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
+    {
+     "title": "Seven Strikes in One Year: Russia\u2019s Afipsky Oil Refinery Faces Another Ukrainian Drone Attack",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUndQUXhXZ1VZeVJ0QVB3ZmhYekEyeUNVU3JEdlBNaDNqT0E2bWotN0txMno0VFJEUEhsY29ZSEtLUUJKZkVaZ2xlaGc4dEdyRmZsay1MQmM2b3JPdFo3TmtYeDQ3bExrVGk4UFlhQ2RzVGJ4ekc2MmpBVzRNMXVpeXl2cHczSE1USTRxci0wYzJMaHJUdnNQcE9LUXFHVFgxbUlSMHhlUmZDbzhCSXRHNUppS2Y4SGREMzhHakxHbWRQWnlDT01HN2VkLVRJM0psYkktMg?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-06T09:55:40+00:00",
+     "summary": "Seven Strikes in One Year: Russia\u2019s Afipsky Oil Refinery Faces Another Ukrainian Drone Attack&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Death toll in Russian strike on Ukrainian village rises to 50",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGdUYjRnZ1BXVEV1cHprZHNQMDFRRTlpUERySDFlWERRVEl5cVphRjVmbnBUa3ZhVWNIRm05NDR4c3FwYlo2U1ZuOENjVlFscTA3Y3d4NV9iTE1fNzJvMVB6RVk5YzFESGladWllZ1dnOTkxN3Z3Vks2WGdFX18yMVdCc2w2ZmE0eDVJVTNwaFVpTGRIdFZzcUprY0tFcHEtRnh4aWJpbnNYNEx4WUtBb0tWQdIBuAFBVV95cUxPQ0wxOFhKOE1fQV9taC00R1BYX1JoenFNdlRyRWhTU1hkUUlxTUZUYjFzR2hoeUNSdW5GbjJTVGp4SUpyUW5Ccnl0TDdla3VLMkZMQU9RYjdZd241Y3B4Z2wzbFgxd2YyancySm85SkJBM0hRaWRHLUdJME51TFRMRUNGTFM1OTcxRUR1NU9SZWp5bXhOTUF2VjUzZ1UtQkJaWnktYl9SbmswcDRDNDNSNzAtZUNScG1i?oc=5",
+     "source": "Al Arabiya English",
+     "published": "2026-11-06T09:28:00+00:00",
+     "summary": "Death toll in Russian strike on Ukrainian village rises to 50&nbsp;&nbsp;Al Arabiya English",
+     "image": ""
+    },
+    {
+     "title": "Ukraine\u2019s HUR Took the Forest, Broke the Offensive, and Fooled Russia for Two Weeks",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmdwNGJYWW5rQnpLOE9qTkRzbm9sNWpXNVpnQTUtQ3R3VWRLUWR2Q2xac01ENWt5MlVVVG9TazEwYXR4ckp4Q0tGOWxxMnVVN251WjJvVUNJLTJ3QjBlUGxyWjVnczJVSE9qaDJzekxPUWxWYVBYclR4RVpQUEVadHpreThFZWRPeGZrcmt4Rmd5VmJRYUF5R09Lc1pSb0xocnBpdDNxbmd6cnFkQWNHdTJuUE1NdGptMHdOaDlNbnRlejhkdUE?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-06T09:12:02+00:00",
+     "summary": "Ukraine\u2019s HUR Took the Forest, Broke the Offensive, and Fooled Russia for Two Weeks&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
     },
     {
      "title": "UK jailing of Indian sailor over Russia sanctions sets off \u2018perfect storm\u2019",
@@ -148,98 +212,74 @@
      "image": ""
     },
     {
-     "title": "Ukraine says it downed 196 Russian drones in overnight attack",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmd3Si1QeVA3RTYwYnFlVTBnRnA5aENSYUw1dGRKQ3RCUmM3OG9qeTBXcGZfWnhkaWhoRVlrUlhqcHFQeTI4cWRyNDdlZWVJbDM3Z194NnRMQlFlaXdQZ3FFam9QVEhMODBtSkhMbVFOMnRDQkR5N1NOSjlhb3lFcndBTDY1SXg2Tmc?oc=5",
-     "source": "Latest news from Azerbaijan",
-     "published": "2026-11-06T08:30:44+00:00",
-     "summary": "Ukraine says it downed 196 Russian drones in overnight attack&nbsp;&nbsp;Latest news from Azerbaijan",
-     "image": ""
-    },
-    {
      "title": "Ukraine\u2019s Drone Forces Break Their Own Record\u2014751 Russian Troops Hit in One Day",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFg5SEVHSGYxWnBkdWVaaVlSTERVWW5HMzg4V1FKODVRc3NsSHpjRTNlQnBIQ1BrUGx0Vm12SXFKSEZoMk1LWkVCTVcxSG5ES2pRZTRMVjBQZ1pEYUF4cm5ncDhFNzVxUkgwNDc1QkV6MmJjWm41N01WYVRUUlRDd1FvS3JnSXJpR2czLTBkYmd6Zm9YQlQ2b1lucWlJTVFiOEpVWm1oMTVoUDF0SXEwWVFoY2IySVVvcDVPQlBjTWNmUUU?oc=5",
      "source": "UNITED24 Media",
      "published": "2026-11-06T08:24:48+00:00",
      "summary": "Ukraine\u2019s Drone Forces Break Their Own Record\u2014751 Russian Troops Hit in One Day&nbsp;&nbsp;UNITED24 Media",
      "image": ""
-    },
-    {
-     "title": "Death a \u2018distinct possibility\u2019 in collision running and face-slapping competitions, inquiry hears",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
-     "source": "The Guardian",
-     "published": "2026-11-06T08:23:10+00:00",
-     "summary": "Impacts in emerging contact sports are akin to coward punches and cannot be made safer with regulation, neurologist saysGet our breaking news email, free app or daily news podcastC",
-     "image": "https://i.guim.co.uk/img/media/286062f82c7a7d95006741bfa7179e17aa4fda3b/253_0_2486_1989/master/2486.jpg?width=140&quality=85&auto=format&fit=max&s=6d909587748c49deade41cd47ae1e36c"
-    },
-    {
-     "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-     "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T07:56:19+00:00",
-     "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg"
-    },
-    {
-     "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-     "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T07:33:41+00:00",
-     "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "Cristiano Ronaldo brings his international football career to an end",
-     "url": "https://www.france24.com/en/tv-shows/sports/20261106-cristiano-ronaldo-brings-his-international-football-career-to-an-end",
-     "source": "France 24",
-     "published": "2026-11-06T07:32:03+00:00",
-     "summary": "Cristiano Ronaldo announced his retirement from international football on Thursday, ending his 23-year career with Portugal. At 41, the Al-Nassr forward leaves the national team wi",
-     "image": "https://s.france24.com/media/display/ca7fc22a-d992-11f1-b582-695cb59fade5/w:1024/p:16x9/cr7-2.jpg"
-    },
-    {
-     "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
-     "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T07:30:04+00:00",
-     "summary": "Lebanese who lived through two Israeli escalations are stocking up and packing bags in case of a third.",
-     "image": ""
-    },
-    {
-     "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
-     "url": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T07:28:53+00:00",
-     "summary": "Israeli restrictions on teachers and pressure to adopt Israeli curriculum threaten Palestinian education in the city.",
-     "image": ""
-    },
-    {
-     "title": "Rubio casts doubts on quick deal to end Kremlin\u2019s war on Ukraine, defends Russian contacts",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTFvM01UdThwYjFpNWVONWNKaV9nRkFHZEtXX0JYNlZQazJybk1TVGc3bDZqQWtzTE9kRGJsNVpHTEktaTA5SncweUlYSUkzME5pSlBrUWd4Mk4xZWhFQjFXS2JfU2JoTC1lOWtJYURPLWJmX0NaRmVoY01BTTFvMWpYRkVJV1BLRDJIMktZSGtsOXgxYjlMRVdiWUhnQ3BLanBWWExkRVZEdWlpZHdUVV9EUjlVOUdkMUpYc0xGRkZQdw?oc=5",
-     "source": "The Ukrainian Weekly",
-     "published": "2026-11-06T07:27:56+00:00",
-     "summary": "Rubio casts doubts on quick deal to end Kremlin\u2019s war on Ukraine, defends Russian contacts&nbsp;&nbsp;The Ukrainian Weekly",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T10:02:15.676192+00:00",
+   "fetched_at": "2026-11-06T10:32:18.755503+00:00",
    "stale": false,
    "items": [
     {
-     "title": "'Several victims' after bus crashes in France, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T09:57:11+00:00",
-     "summary": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+     "title": "Uncertainty over Nigeria vote as court bars opposition leader",
+     "url": "https://www.france24.com/en/video/20261106-uncertainty-over-nigeria-vote-as-court-bars-opposition-leader",
+     "source": "France 24",
+     "published": "2026-11-06T10:13:45+00:00",
+     "summary": "A Nigerian court Thursday declared invalid the nomination of Atiku Abubakar as the presidential candidate for the opposition African Democratic Congress, just two months before the",
+     "image": "https://s.france24.com/media/display/64cab970-d9c5-11f1-b494-1beafce15fea/w:1024/p:16x9/EN-20261105-214303-214445-CS.jpg"
+    },
+    {
+     "title": "Mass protests sweep France as huge crowds demand higher wages",
+     "url": "https://www.france24.com/en/video/20261106-mass-protests-sweep-france-as-huge-crowds-demand-higher-wages",
+     "source": "France 24",
+     "published": "2026-11-06T10:05:40+00:00",
+     "summary": "Hundreds of thousands of striking workers protested across France on Thursday, November 5, against the rising cost of living following weeks of youth-led demonstrations, with polic",
+     "image": "https://s.france24.com/media/display/20db6206-d9c4-11f1-ac7f-1beafce15fea/w:1024/p:16x9/EN-20261106-100159-100338-CS.jpg"
     },
     {
      "title": "Burnham to force employers to publish salaries on job ads in latest government \u2018small fix\u2019 \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
      "source": "The Guardian",
-     "published": "2026-11-06T09:40:18+00:00",
-     "summary": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobsHello and welcome to the UK politics live blog.Employers",
+     "published": "2026-11-06T10:03:12+00:00",
+     "summary": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobsShabana Mahmood has signalled she is considering a chang",
      "image": "https://i.guim.co.uk/img/media/7d21f801a9b99774274ae32975f25f5875148bb3/828_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ec40a5e115b642ffc9596dffc934f49d"
+    },
+    {
+     "title": "Denmark\u2019s top court to rule on \u2018parallel societies\u2019 after \u2018non-western\u2019 people evicted",
+     "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
+     "source": "The Guardian",
+     "published": "2026-11-06T10:00:49+00:00",
+     "summary": "Government claims removal of former residents of housing complex in Helsing\u00f8r is unrelated to their ethnicityDenmark\u2019s supreme court is expected to rule on whether the state\u2019s clas",
+     "image": "https://i.guim.co.uk/img/media/78a1fbc9e9a2d7c9ac07f49957cd83f6ffc3445e/155_105_3621_2897/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=3b59df3668cb721dc864f3cff5a2ee0d"
+    },
+    {
+     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-06T09:58:52+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
+     "image": "https://i.guim.co.uk/img/media/80593e5f930bee0b3bf71bfafafbf9005a0d7d9d/1012_143_5043_4036/master/5043.jpg?width=140&quality=85&auto=format&fit=max&s=a806581d4faeba767cfcdd1e9b51006d"
+    },
+    {
+     "title": "Wisconsin\u2019s election was held without a hitch, but Dems have plans for reform",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWJSbG5GR2V4SWNSWEk3ZWN4aGY0Vlp2N3h0b0tlWS1FU2pES0hUNmxfRE4zMEpWRmpZSjJyR2ZsbTgtb1JFaWFnVUdIeU0xb1ZTUU5lTHd3N1IwRXBQcGF6NUJXVkVhaFdSRy1lMHBjWTBLUXNrSFR5eFdpNzRVMXZCSUdSSnFFdFpwY2hKS0Q4LVBxWHFwTFM5ZTlqZGV4a1NUSDBnVVlDZURMUEg4ZHozcEVvXzF3?oc=5",
+     "source": "Wisconsin Examiner",
+     "published": "2026-11-06T09:50:26+00:00",
+     "summary": "Wisconsin\u2019s election was held without a hitch, but Dems have plans for reform&nbsp;&nbsp;Wisconsin Examiner",
+     "image": ""
+    },
+    {
+     "title": "Dearborn, Michigan, mayor on city's record turnout and the election of Abdul El-Sayed",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUVYNFJTMXBFNVd2SkZfQUdHSElSTjFGNFZKSnJLUjlvekgtZjVZZURtM2JKci1FMTZpcEVqY2xjUTlaeDFfZVZSSlZqcWJaODR3aGt3SWZid2NuR3Y4WkpybG84azZUWGhUMUU1cGUxeElmekJ2Q0xVTDVVemxMNnlTNDZfOGVodHJMZ2pUMW5mVmY5SFl4WVJYdjZPY1VIc3RFR2VUb0UwTnlfVVRfT2kzeWFpZmRjQXBLeDNBNDFHVERUeXc?oc=5",
+     "source": "NPR",
+     "published": "2026-11-06T09:47:31+00:00",
+     "summary": "Dearborn, Michigan, mayor on city's record turnout and the election of Abdul El-Sayed&nbsp;&nbsp;NPR",
+     "image": ""
     },
     {
      "title": "Live: European stocks plunge after US midterm election results shock markets",
@@ -266,65 +306,25 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ff/live/e5957760-d9b2-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+     "title": "Georgia Democrats ride national blue wave into power in history-making election",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1huM1RhNk9LelNZdF9LZW55SDFpa19FcjJtNFBnRmxfTEdNb1dvbEtocEt0NThHNlVHTkZrRVJheThudkxwRGNsczZnMGZOVURXVlBhb0gwTWxDWVQtbXNfNkszUktpSlV1TndPWFRmWkU1cTB6dnAtQWs2U0FJMFBtUDA3WHQxMzctdUFwUzNYYWIyRUQtRWF0U2lob2FTM1BZOWVFOTNFV0NrYXA0bVRtLVZMZTRKMnBN?oc=5",
+     "source": "Georgia Recorder",
+     "published": "2026-11-06T09:06:41+00:00",
+     "summary": "Georgia Democrats ride national blue wave into power in history-making election&nbsp;&nbsp;Georgia Recorder",
+     "image": ""
+    },
+    {
      "title": "Commentary: Ohio voters stood up for the power of the people this Election Day",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlpYZ0VsR29VeDVWWlktVl9PVVE5WG9XWjlTd2JFUkp5aFo3RDdDZlV0REdmT3c5R2dnTElfRUZNXzBhQ3VqTlptZmFPYWpwVWhTTnptMjBuZkZwa3VWQXBGWkloU3J4Rzg2UkFTTUFBRTc3eDJwZGd6YWlLWklnR1NKaWhwRnRqZnZ4LVFyaXRYYmFySEt6QmQ5WUt0czRiV0dIeWdSSVd4cHZfVVE?oc=5",
      "source": "Ohio Capital Journal",
      "published": "2026-11-06T08:39:48+00:00",
      "summary": "Commentary: Ohio voters stood up for the power of the people this Election Day&nbsp;&nbsp;Ohio Capital Journal",
      "image": ""
-    },
-    {
-     "title": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-06T08:30:00+00:00",
-     "summary": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Trump calls midterms 'crooked', demands Alaska votes go to Republican candidate",
-     "url": "https://www.france24.com/en/americas/20261106-trump-calls-midterms-crooked-demands-alaska-votes-go-to-republican-candidate",
-     "source": "\u00a9 Elizabeth Frantz, Reuters",
-     "published": "2026-11-06T08:20:00+00:00",
-     "summary": "Despite having previously accepted the US midterm election results, President Donald Trump told reporters on Thursday the elections were \"crooked\", and he demanded the remaining vo",
-     "image": "https://s.france24.com/media/display/2183d514-d9b8-11f1-9fd9-a575454bc579/w:1024/p:16x9/2026-11-05T213905Z-1662772902-RC2XHOA9PTOM-RTRMADP-3-USA-TRUMP.jpg"
-    },
-    {
-     "title": "Somalia's top court rejects president's term extension amid political crisis",
-     "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T08:18:10+00:00",
-     "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/679b/live/77438af0-d9b1-11f1-bbc7-9574ed12e2df.jpg"
-    },
-    {
-     "title": "New Zealand votes in an election expected to be tight after a tense campaign",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONlV4RGZLVlFPRDJZZmI2TkFjS1BBcVpZWFdDQkhmN0RCdnNSZ2pVZWNibzZvM1JZVkg1cUlRaXdUY2JOMHktTTNIOEVWZHZfd2Z1NUJOSVFOUXM0M2NVejVDYXIxSjQtTXk3cWNRUVkydk9DYldQQ0pKbV9jSG9aTHdVMVlVOUJCcDZsYVAwbU84ZGxQdnBDbFVlaVg0RW05OXRJZUNKVDRPaUxkb0I0NW92aDExUQ?oc=5",
-     "source": "AP News",
-     "published": "2026-11-06T07:56:00+00:00",
-     "summary": "New Zealand votes in an election expected to be tight after a tense campaign&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "Boulder\u2019s 2026 election results: Who won, what passed and what failed",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdFRQWW1rdC1SVGhsdlVtRXQ1Q19qNE93clhwXzhrOHNiMHhrejBvcUNCcVJlUDhsS1Y5VTU1c3ZBYm9aSUtSSGl6NFYyVXhJdHNSdzU3QUQzd3JHTVJKVS1kcGhRVGRGUGVSbmtJSTBNQkZNWTBKVEdMaFRpakM0enlUU0FVaDh5V3Bla3pKd193bWtqMWJwbEZiUWk1Z19nczV4aHExMjNhZ25XYThGUUpxY3Y4bjg?oc=5",
-     "source": "The Boulder Reporting Lab",
-     "published": "2026-11-06T07:47:22+00:00",
-     "summary": "Boulder\u2019s 2026 election results: Who won, what passed and what failed&nbsp;&nbsp;The Boulder Reporting Lab",
-     "image": ""
-    },
-    {
-     "title": "Across the Aisle: What Boulder\u2019s 2026 election results really tell us",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFN1LUR6b092STZmdDNlcEJKRW55Z2JUTVpTMEpEaUxwRWNxTzVmd3N3M2VfWGNoZGZjNEU2TzcxdWRkLWdseEliZWJmY2dZTTZvRlRaOTliZF9sQ1gyemIyVmRrUHRSNUw3WkNKSExUc0FfTTNKNUdCUGI3a1FNV0J0bWwxZnA0Z3EzaXBnODR1OFFidHlSVGc1ZUlsd2NTVzQ4QUhCRjUxN1dVMm9MOQ?oc=5",
-     "source": "The Boulder Reporting Lab",
-     "published": "2026-11-06T07:45:00+00:00",
-     "summary": "Across the Aisle: What Boulder\u2019s 2026 election results really tell us&nbsp;&nbsp;The Boulder Reporting Lab",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T10:02:15.676194+00:00",
+   "fetched_at": "2026-11-06T10:32:18.755505+00:00",
    "stale": false,
    "items": [
     {
