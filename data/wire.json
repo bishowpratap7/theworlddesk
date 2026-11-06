@@ -1,17 +1,33 @@
 {
- "generated_at": "2026-11-06T05:31:32.644562+00:00",
+ "generated_at": "2026-11-06T06:01:36.156282+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T05:31:32.644542+00:00",
+   "fetched_at": "2026-11-06T06:01:36.156262+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-06T06:00:59+00:00",
+     "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg"
+    },
     {
      "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
      "source": "The Guardian",
-     "published": "2026-11-06T05:14:53+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
+     "published": "2026-11-06T05:32:36+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019 Live results | Q",
      "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn\u2019t intentional but \u2018it was my fault\u2019",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-06T05:17:05+00:00",
+     "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024Beau Lamarre-Condon trial live updates: former p",
+     "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0"
     },
     {
      "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
@@ -99,28 +115,12 @@
      "source": "The Guardian",
      "published": "2026-11-06T04:11:57+00:00",
      "summary": "Eva Geller was shot on 14 December 2025 during Hanukah festival and she has been in and out of hospital sinceGet our breaking news email, free app or daily news podcastA woman who ",
-     "image": "https://i.guim.co.uk/img/media/72259763e62364f247e27c55fd8470a097d78fcb/117_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3139c875b5f912c45fb980a8414a9b0d"
-    },
-    {
-     "title": "Paraguay\u2019s president impeached amid bank collapse crisis",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T03:49:33+00:00",
-     "summary": "Lawmakers have voted to impeach Paraguay\u2019s President Santiago Pena amid a banking collapse that has roiled the country.",
-     "image": ""
-    },
-    {
-     "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T02:57:24+00:00",
-     "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg"
+     "image": "https://i.guim.co.uk/img/media/e95f544b0f82b645a0c30bbd786da9dc0f9a5069/563_227_1360_1088/master/1360.jpg?width=140&quality=85&auto=format&fit=max&s=2aad1a1d8b5a78340084edd75b137383"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T05:31:32.644552+00:00",
+   "fetched_at": "2026-11-06T06:01:36.156272+00:00",
    "stale": false,
    "items": [
     {
@@ -222,15 +222,15 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T05:31:32.644555+00:00",
+   "fetched_at": "2026-11-06T06:01:36.156275+00:00",
    "stale": false,
    "items": [
     {
      "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
      "source": "The Guardian",
-     "published": "2026-11-06T05:14:53+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
+     "published": "2026-11-06T05:32:36+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019 Live results | Q",
      "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
     },
     {
@@ -239,6 +239,14 @@
      "source": "The Washington Post",
      "published": "2026-11-06T05:08:21+00:00",
      "summary": "These Democratic Senate candidates won their races before Election Day&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "US midterm election results in graphics and charts",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-06T05:00:05+00:00",
+     "summary": "US midterm election results in graphics and charts&nbsp;&nbsp;Reuters",
      "image": ""
     },
     {
@@ -259,7 +267,7 @@
     },
     {
      "title": "SC Governor-elect Alan Wilson discusses the election",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQk9FXzNDWWN4bkVEUjRKVjcwRDVwZkpELVRzdUF0LVlzM3pLbFVzYmt4Y2hjbGlwWHNmRlNFSkVqTHQ0eWV5dENqR3VaOWZNMU1RaFIza0llemJXYVR5dTEwWW5UOUNSWlN4N3pIV3lRZ2p6MUYwcVdUaVA1RzhET3VlaTFERXpESmfSAZ4BQVVfeXFMTUxENkxyNE5JemphbGRVY2RCeVJERFVtMTJEbmpsU1FKRXkyb0tUWFZubWJmM2VyYmt4NXdhSENwbktNNk82elRWV21BeU92Vl9nQkNrbG1PNHYxSG9UdVluRlFQWVQ1THBnSEZMYUJUU0loM3cwZDBPMVppa2d3U3lzbzlTblZfMDhkRmE2SkpmQXlGd3ZjWDdtTmJrS0E?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQk9FXzNDWWN4bkVEUjRKVjcwRDVwZkpELVRzdUF0LVlzM3pLbFVzYmt4Y2hjbGlwWHNmRlNFSkVqTHQ0eWV5dENqR3VaOWZNMU1RaFIza0llemJXYVR5dTEwWW5UOUNSWlN4N3pIV3lRZ2p6MUYwcVdUaVA1RzhET3VlaTFERXpESmc?oc=5",
      "source": "WIS News 10",
      "published": "2026-11-06T04:31:00+00:00",
      "summary": "SC Governor-elect Alan Wilson discusses the election&nbsp;&nbsp;WIS News 10",
@@ -274,12 +282,28 @@
      "image": ""
     },
     {
+     "title": "Political analyst speaks on New Mexico\u2019s election results",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnlQOU9ab2xtTmJoNUw3eUd1bGRCU1VhcFRvU3MydmFKUXNIOTVTRDBOcmxPbThUMF9zelZSd21lUjRrZFNmVWZGU1FOSnl3QU96MzlqbkZjZTNBSGJDenpGeFJyVGR3d04tZ0d4aloyM05IMEhabXNaRFRxREwybHJZNmo1QWxBRXBnWnVrS2ZvZkVFU3NDU3c0TWVLX3hsMVlvOWdicUI5cXdDZ1FVdVNib9IBuAFBVV95cUxPUzF4LVVLdURNeEYwa3hzb1M2cFJDVlR5Rjc0TEhCNkIwenJDeUg0Z2RZSGh2NWp1RzdsU3NWSm41TC1VWUxNa0VSWXh6U1p6VW9CRV9SMV92ZDRaLTh5V0Z0cHFaZVlLNFpxSGF0bUlzNW5CSkpEaklrMExXOEZKanZiV2RmSmVNMkU1WEFXVmJEMy14aWlNcFBCS21HMVNQTHUwSFpLQXhRWVl4amJFUEJQcERzNTU3?oc=5",
+     "source": "KRQE",
+     "published": "2026-11-06T04:29:39+00:00",
+     "summary": "Political analyst speaks on New Mexico\u2019s election results&nbsp;&nbsp;KRQE",
+     "image": ""
+    },
+    {
      "title": "Trump signs order preventing future presidents from changing Oval Office",
      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-06T04:29:25+00:00",
      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6593/live/d5c2e140-d991-11f1-9ebf-51ca702e24e1.jpg"
+    },
+    {
+     "title": "AI faces tighter guardrails and potential growth roadblocks after election",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTJyNTNudDNwRXFGUnhIbEhZNVFxZWNlR2lKalc0dmh5bjIyYmp5cGJpd0d4N3BGaHZHRk0wNV9wbWk1U3NZMkg1aTM0YlBZMHNTYkJKTEROVVZjTU5FQ2dRZHBoM2RhRjFodWVDdEZqWk8zc1VlcEJuZEZBaXhPVEQ1ak1odmU0Zi1jV2EzOG1xZTIyX0d3aE9uc0NYZ28xZzRnT1FR0gG6AUFVX3lxTFBoU1JIaFp5SEc2d05McmNhby16cGR5NUlNVmN6WGZnTTNrX1A1aWFyZEhIT3BfNm1ENU9DX2dEeVVVdTAzT1JBUnRtVWtNVTRGczZuWmc3V0hXU0ViOTNZRmVmVXRhRjZUSXZkWHQ5UUlfNDFTUDJLLVp3UXNYLUh0YkxqdmhvU0RGamp2T2V2N2dHODVRRkhCU3RmN3FmQ1VOeXN0S1o1bjdybDFhYm5IYXJ6cFZBTGUwUQ?oc=5",
+     "source": "WKYT",
+     "published": "2026-11-06T03:54:00+00:00",
+     "summary": "AI faces tighter guardrails and potential growth roadblocks after election&nbsp;&nbsp;WKYT",
+     "image": ""
     },
     {
      "title": "Paraguay\u2019s president impeached amid bank collapse crisis",
@@ -290,43 +314,27 @@
      "image": ""
     },
     {
-     "title": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-06T03:35:27+00:00",
-     "summary": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
      "title": "Johnson County's election results could help decide six closely contested Kansas races",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTEzQ2JFWnRBc3I1RkFObDVseDEwQU9YMDBSS0NILTYxWFV0clhIVFZwRnlmdEk3SzY4ZzJsREhIMVF2Yk5BVzVKWXBQeHVPSUdkbkVnRHdrRVJqSml1RWJ4bmxnQnNQWnFmZ0twb1VaWjhIN0QtcGR5dER3WS1FbzAzclNwM2JwN3F3RE1ndFZqUU9QVGlXR0Jn?oc=5",
      "source": "KMBC",
      "published": "2026-11-06T03:33:00+00:00",
      "summary": "Johnson County's election results could help decide six closely contested Kansas races&nbsp;&nbsp;KMBC",
      "image": ""
-    },
-    {
-     "title": "Florida\u2019s election system: From hanging chads to national model",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWlhVEdzdkxpYlhHUXd5VkxTLWlNVVpYNTAyNXlSSFJwczU5LXhGaDhSOFRWRXpNS2hmcHFKbmRaSHo3ZTRWZjlOeDA3YjBrclN5X0NmaEZCd3NmT2swS0RSVVFXUk5YTm10T1dtOHB2MU5QRHdINlBMcmo2STUyOVF2UWZ0cDNOZHVEVlJpYkhaMUVqWGlkdHhzQWN2SE5kb0ZUM1F6bE5USUdm?oc=5",
-     "source": "News4JAX",
-     "published": "2026-11-06T03:23:59+00:00",
-     "summary": "Florida\u2019s election system: From hanging chads to national model&nbsp;&nbsp;News4JAX",
-     "image": ""
-    },
-    {
-     "title": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRW5XalRkamVpa3ZpbjZneDktVzZXeHlkVV91TVdMcFRQZ0VpOURMSy1fM0t5UmVrNTVMNlk2b0d0YXF4cFBhc0VOenVXRlIwdVpkck9VSmZxRWJQRU4zd1gxWjdjMlpCTkloYUh2d2tqS19KTkt5dTVPbXdqWG5PUTZlSXFfdTJkNDNlbkpvT2ZzRWxoWWZTaXdHU21icjQyenVlVmNOMU9Lc2dFdk1XUUtrYVBLa1RpeVlv?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-06T03:04:00+00:00",
-     "summary": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate&nbsp;&nbsp;Reuters",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T05:31:32.644556+00:00",
+   "fetched_at": "2026-11-06T06:01:36.156276+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-06T06:00:59+00:00",
+     "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg"
+    },
     {
      "title": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules",
      "url": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
@@ -334,14 +342,6 @@
      "published": "2026-11-06T05:02:06+00:00",
      "summary": "Asian tech stocks fell sharply on Friday, with Seoul and Tokyo leading losses after a Wall Street sell-off driven by fears of tighter AI regulation following Democrats\u2019 US midterm ",
      "image": "https://s.france24.com/media/display/1be84736-d989-11f1-aed6-d18c5759e759/w:1024/p:16x9/0cb7dc483e38ff94c70690b196afde181d6bcadd.jpg"
-    },
-    {
-     "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-     "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T02:57:24+00:00",
-     "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg"
     },
     {
      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
