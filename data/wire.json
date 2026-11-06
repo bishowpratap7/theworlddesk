@@ -1,17 +1,89 @@
 {
- "generated_at": "2026-11-06T20:34:17.317072+00:00",
+ "generated_at": "2026-11-06T21:04:21.647897+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T20:34:17.317039+00:00",
+   "fetched_at": "2026-11-06T21:04:21.647863+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
+     "url": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+     "source": "\u00a9 Chip Somodevilla, AFP",
+     "published": "2026-11-06T20:51:37+00:00",
+     "summary": "US President Donald Trump on Friday said advisor Stephen Miller would become his new chief of staff. Miller has been instrumental in driving the Trump administration's mass deporta",
+     "image": "https://s.france24.com/media/display/e4ccbd52-da20-11f1-92bf-a575454bc579/w:1024/p:16x9/000-D6PN3T3.jpg"
+    },
+    {
+     "title": "Trump promotes Stephen Miller to Chief of Staff \u2018to run things well\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T20:48:25+00:00",
+     "summary": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
+     "image": ""
+    },
     {
      "title": "Democrats blast Trump\u2019s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-06T20:14:51+00:00",
-     "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump \u2018learned nothing from his historic defeat\u2019 in the midtermsStephen Miller to b",
+     "published": "2026-11-06T20:45:48+00:00",
+     "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump \u2018learned nothing from his historic defeat\u2019 in the midtermsStephen Miller, arc",
      "image": "https://i.guim.co.uk/img/media/f8fc93692e548b1e70bcc2ba03680245c216cb19/0_207_2611_2089/master/2611.jpg?width=140&quality=85&auto=format&fit=max&s=e6648438d2bab36c29c20d742ad46449"
+    },
+    {
+     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+     "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+     "source": "NPR",
+     "published": "2026-11-06T20:42:51+00:00",
+     "summary": "Israel's center-right opposition has a chance to unseat Netanyahu \u2014 but backing of Arab-led parties will be key",
+     "image": ""
+    },
+    {
+     "title": "Thomas Markle, Meghan\u2019s father, arrested in Florida on charges related to child sexual abuse material",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+     "source": "The Guardian",
+     "published": "2026-11-06T20:41:11+00:00",
+     "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors saidThomas Markle, the father of Meghan, the Duchess of Sussex, was arrested by US federal agents ",
+     "image": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=140&quality=85&auto=format&fit=max&s=b510b9fca776a25502f9105ee07a92c2"
+    },
+    {
+     "title": "Meghan Markle\u2019s father arrested in US over alleged child sex abuse photos",
+     "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T20:28:07+00:00",
+     "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
+     "image": ""
+    },
+    {
+     "title": "Migrants arrive in Spain\u2019s Canary Islands after being rescued at sea",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T20:27:09+00:00",
+     "summary": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
+     "image": ""
+    },
+    {
+     "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
+     "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T20:22:22+00:00",
+     "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
+     "image": ""
+    },
+    {
+     "title": "How \u2018Street Medics\u2019 protect French protesters",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T20:17:32+00:00",
+     "summary": "French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests.",
+     "image": ""
+    },
+    {
+     "title": "Midterms: A Maga PostMortem, Europe\u2019s \u2018Shape Shifting\u2019 Protests",
+     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
+     "source": "France 24",
+     "published": "2026-11-06T20:08:32+00:00",
+     "summary": "A World This Week \u2018Mid Terms Special\u2019 Gavin Lee is joined by panel of four distinguished international correspondents to assess the aftermath of the worst Republican election resul",
+     "image": "https://s.france24.com/media/display/e82e01f4-da1b-11f1-b402-bf1914cabd52/w:1024/p:16x9/81f9ea5b-a81b-4236-b01d-3d25e74ea1f6.png"
     },
     {
      "title": "Stephen Miller, architect of Trump\u2019s immigration crackdown, to become White House chief of staff",
@@ -30,99 +102,43 @@
      "image": "https://i.guim.co.uk/img/media/f0e8acc5ff9e24724878c25106cb3494ac318760/149_0_1807_1446/master/1807.jpg?width=140&quality=85&auto=format&fit=max&s=a8a8468f7601eb8a03986edb9cefa0ed"
     },
     {
+     "title": "A homegrown Georgia moderate and pragmatist: Is Senator Ossoff the future of the Democratic Party?",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261106-a-homegrown-georgia-moderate-and-pragmatist-is-senator-ossoff-the-future-of-the-democratic-party",
+     "source": "France 24",
+     "published": "2026-11-06T19:49:25+00:00",
+     "summary": "Is Senator Jon Ossoff the future of the Democratic Party? Following a resounding midterm victory in Georgia, a former Republican stronghold, the 39-year-old senator has emerged as ",
+     "image": "https://s.france24.com/media/display/b07c7ea8-da0b-11f1-ba8e-d18c5759e759/w:1024/p:16x9/EN-20261106-181104-182336-CS.jpg"
+    },
+    {
      "title": "Macklemore says that nine US arenas turned down his Free Palestine tour",
      "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
      "source": "The Guardian",
      "published": "2026-11-06T19:46:56+00:00",
      "summary": "Rapper called out \u2018intimidation, manipulation and suppression\u2019 in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversyMacklemore says tha",
      "image": "https://i.guim.co.uk/img/media/f8956c6580a449e2ae9df6c2d8d46a752fd3cb36/0_527_1400_1119/master/1400.jpg?width=140&quality=85&auto=format&fit=max&s=86363e5053850846d463ec38b57348b2"
-    },
-    {
-     "title": "Tanzanian opposition leader jailed in \u2018politically motivated\u2019 case",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T19:42:46+00:00",
-     "summary": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
-     "image": ""
-    },
-    {
-     "title": "Incoming Democratic senators don\u2019t want Chuck Schumer as majority leader",
-     "url": "https://www.theguardian.com/us-news/2026/nov/06/chuck-schumer-majority-leader-incoming-democratic-senators",
-     "source": "The Guardian",
-     "published": "2026-11-06T19:37:25+00:00",
-     "summary": "New lawmakers from Annie Andrews and Adam Hamilton to Abdul El-Sayed indicate they will not support himIncoming Democratic senators want someone other than Chuck Schumer to become ",
-     "image": "https://i.guim.co.uk/img/media/51e42fd564f93d4ee3ae87fa007ba5d686f32bef/620_0_5761_4609/master/5761.jpg?width=140&quality=85&auto=format&fit=max&s=e8717a258fbb0afaf6b0b5013425ace1"
-    },
-    {
-     "title": "AI stocks climb after trillions wiped from market values",
-     "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T19:37:10+00:00",
-     "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Why is Britain refusing to pay slavery reparations?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T19:34:33+00:00",
-     "summary": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
-     "image": ""
-    },
-    {
-     "title": "Houston to limit police cooperation with federal immigration authorities",
-     "url": "https://www.theguardian.com/us-news/2026/nov/06/houston-police-ice-immigration",
-     "source": "The Guardian",
-     "published": "2026-11-06T19:29:55+00:00",
-     "summary": "Mayor said only immigrants that \u2018pose a danger\u2019 would be referred to ICE, after Democrats gain control of governor\u2019s seatThe mayor of Houston on Friday said the city would limit co",
-     "image": "https://i.guim.co.uk/img/media/ab7ce8fe44ab734e9272b4fdc72c8b7880ec4ef6/571_0_5711_4569/master/5711.jpg?width=140&quality=85&auto=format&fit=max&s=7e418f6a92456ddfb3a7905475e5700f"
-    },
-    {
-     "title": "Sebasti\u00e1n Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
-     "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
-     "source": "The Guardian",
-     "published": "2026-11-06T19:23:24+00:00",
-     "summary": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in SantiagoChilean film-maker Sebasti\u00e1n Lelio has died at the age of 52",
-     "image": "https://i.guim.co.uk/img/media/f6a6cae8f175168cacea46f4a86c8976eba48874/0_1_3771_3014/master/3771.jpg?width=140&quality=85&auto=format&fit=max&s=c6beebf168305ed73cd45df513ad0f52"
-    },
-    {
-     "title": "Russell Brand suspected to have attacked at least 10 other women",
-     "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
-     "source": "The Guardian",
-     "published": "2026-11-06T19:23:24+00:00",
-     "summary": "Met police chief says \u2018many more\u2019 victims could come forward, as actor and comedian awaits sentencingPolice are bracing themselves for more victims of Russell Brand to come forward",
-     "image": "https://i.guim.co.uk/img/media/78f703913b8bb129d666b06187eb2aca13440d34/605_20_5235_4187/master/5235.jpg?width=140&quality=85&auto=format&fit=max&s=19e0ad91d347cb864bad8a4a0d7ddef5"
-    },
-    {
-     "title": "Could Trump\u2019s veto stop the Democratic majority?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T19:18:33+00:00",
-     "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
-     "image": ""
-    },
-    {
-     "title": "Israel closes Hebron\u2019s Ibrahimi Mosque to Palestinians for Jewish holiday",
-     "url": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T19:16:07+00:00",
-     "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
-     "image": ""
-    },
-    {
-     "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-     "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-     "source": "NPR",
-     "published": "2026-11-06T19:13:06+00:00",
-     "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T20:34:17.317056+00:00",
+   "fetched_at": "2026-11-06T21:04:21.647881+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+     "url": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+     "source": "NPR",
+     "published": "2026-11-06T20:42:51+00:00",
+     "summary": "Israel's center-right opposition has a chance to unseat Netanyahu \u2014 but backing of Arab-led parties will be key",
+     "image": ""
+    },
+    {
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb00zbDBFdHhMTzZLRFlMdjAwN0tudS03SlI5R0ZMWlJpOU9ZcjhVclluRE1KZk0xU3I4dm9QWmVuQ1c4RXZVdUF1VS1ZYnFGam9iN1VDTDhSOXRIT2x2WU1NVXl6dDRPNVVOeVZ4cTFrTXBjTTM0a0I3eFBWZDFtTGNGYWxYeG5VT2hDMWtISzdSRlU1clVFYWs3WTJSRTJBbE5nV0JYQQ?oc=5",
+     "source": "WV News",
+     "published": "2026-11-06T20:36:54+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;WV News",
+     "image": ""
+    },
     {
      "title": "Zelensky warns of new Russian strikes on Ukraine energy sector",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOU1YTWt5QVA4THl5d21sS05mTnBUMnd1bmpCR2xwMTFYSlp1QVhBNDZBY05KYTloczNINFNHRUYtWDl4VzNkYUZMNS01TDQ0WU9KZlNESlA2b01TYXpBQTE3SlNUck13X29wWDQxbEc5Z3N5YUc2RldVTmFIeXM5WTZWWGFhX2hwT01WYWtEU1pKczR6OXJ2amhBUVQ2NWZNLVYw?oc=5",
@@ -146,6 +162,14 @@
      "published": "2026-11-06T19:51:36+00:00",
      "summary": "Russia preparing major attack against Ukraine's bridges, critical infrastructure, Zelensky warns&nbsp;&nbsp;The Kyiv Independent",
      "image": ""
+    },
+    {
+     "title": "A homegrown Georgia moderate and pragmatist: Is Senator Ossoff the future of the Democratic Party?",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261106-a-homegrown-georgia-moderate-and-pragmatist-is-senator-ossoff-the-future-of-the-democratic-party",
+     "source": "France 24",
+     "published": "2026-11-06T19:49:25+00:00",
+     "summary": "Is Senator Jon Ossoff the future of the Democratic Party? Following a resounding midterm victory in Georgia, a former Republican stronghold, the 39-year-old senator has emerged as ",
+     "image": "https://s.france24.com/media/display/b07c7ea8-da0b-11f1-ba8e-d18c5759e759/w:1024/p:16x9/EN-20261106-181104-182336-CS.jpg"
     },
     {
      "title": "How Melania Trump became an unlikely peace broker, amid doubts it'll last",
@@ -194,137 +218,113 @@
      "published": "2026-11-06T19:16:07+00:00",
      "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
      "image": ""
-    },
-    {
-     "title": "Who\u2019s the boss? Trump retreats into renovations as Melania takes on Ukraine diplomacy",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcy1rU25XMTJCVTZTR1VJNmNsQWs3QmRTY1BLSk13ZXFYY0NvUk5PY3AxbFZ2UUZnZGRuQzU4b2JwX3MzMngtU25Cdl9ZbFdaeUVQenlHdEVTc1pXUkJldXlHYnYzQ094TEdoLUxjT3JoZzFhWTltdy1KaEsteTdVeFV5aHIySFV5RTJrSW9vNlFSdXlNZmI2WVEwN3d3MS0yZjR1bEs3LVBYQ2RuMXV4QUJVTlBfQUgzelVILWZ1eDVMMHl2?oc=5",
-     "source": "The Independent",
-     "published": "2026-11-06T19:12:00+00:00",
-     "summary": "Who\u2019s the boss? Trump retreats into renovations as Melania takes on Ukraine diplomacy&nbsp;&nbsp;The Independent",
-     "image": ""
-    },
-    {
-     "title": "Melania Trump brings Russian and Ukrainian officials together at the White House after a six-day Oleshky ceasefire",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcU56NWk1dDNoWldONk5XZjVIbENSQ0dmZjJCVHAxeUhzRlVHcUJPbWVqeWlMZlhCTkM2Nzh2aENVdnQtNTR3OE1oYTdDQWhjUUNGTmtBaGlIbXRKUmJFT2ZnWjI1cWlMRkZkODN2cEJxNGVLOFQtbWhqTzIybGp5RDFHaw?oc=5",
-     "source": "Latin Times",
-     "published": "2026-11-06T19:10:25+00:00",
-     "summary": "Melania Trump brings Russian and Ukrainian officials together at the White House after a six-day Oleshky ceasefire&nbsp;&nbsp;Latin Times",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war latest: Komyshuvakha search operation enters 5th day as death toll rises to 53",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXE4bzhLeThWR3FrcEtCZkh3Z21WTVJoVm5OOWJWN1pZWk5Xb21xVTNTU1l0ekZPQldPOF8yTVU2b2NSU1JzMlJvbUNIcE1PZjdGemtDX05RQ3gzTXVXbnNpdjlsTmUya3hCNmo3ZDNhYlNRcDFkdFlJbnpQaGZtMTlkTDQ4VFY0a2x2ZE1EUFcwTGlPYzdWN2NLMzlFdUhvZ0lSUEJxdFo5SHBKMUFNMnJfSE11T2l3NUE?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-06T19:06:36+00:00",
-     "summary": "Ukraine war latest: Komyshuvakha search operation enters 5th day as death toll rises to 53&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T20:34:17.317061+00:00",
+   "fetched_at": "2026-11-06T21:04:21.647885+00:00",
    "stale": false,
    "items": [
     {
-     "title": "TRTA Legislative Priorities After the Election",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80SFBBMmtncGJ0aEh0Z3NSekFpcXp1WGFXV0dkaVQ0SXlxc2UybHVseFZWWjhNNXpoalRJdm1IRFFQU1BhTVkzWFRvVmJBZUhLZXhyOW9YemxwNGIxM0Q2Nmd2dXBRZERBcmVqUzhxSldOUQ?oc=5",
-     "source": "Texas Retired Teachers Association",
-     "published": "2026-11-06T20:22:04+00:00",
-     "summary": "TRTA Legislative Priorities After the Election&nbsp;&nbsp;Texas Retired Teachers Association",
+     "title": "Women put their stamp on Georgia election |",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSjZTLVE0MmE4RV9MTU0xVmlndWlhc1lyS2R5RVRmTWhqOHFlZDNPUUtweTBsUDRab1J3VThaeVEwOXJxaXdGamxIOGc2TWZwdHJrMjhTMkoyeE1wSlJzLXA2blFNWk5GUk8ySU96TkFGcUJjTlRmWDBOVENWMkd4MQ?oc=5",
+     "source": "Capitol Beat",
+     "published": "2026-11-06T20:52:47+00:00",
+     "summary": "Women put their stamp on Georgia election |&nbsp;&nbsp;Capitol Beat",
      "image": ""
     },
     {
-     "title": "How voters decided the 2026 campaign finance ballot measures",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemI0SWZkTUNMbDF6OEVjVG5iN1ROS2ZBTmlxYWt4YXhfdmloWmJtUFBYMmZZNVpVcHFvWVdDeVpWOUNkRnB0Xy1RQXlzZmd6cHl3cFlCcklvVUNtQTRCZlBsUk1XWFg3NU1lOWpVWTFETXZmY0EtS0d4dERKWEdkY0s2T2pLVTc0N3BsUmhLb1IwTUN0QzJuRlBNempEVjg5OEc1eXg4WFNvOXNENlpqakUycWJhSWV5MXJYQXROYVB2cFFX?oc=5",
-     "source": "OpenSecrets",
-     "published": "2026-11-06T20:15:00+00:00",
-     "summary": "How voters decided the 2026 campaign finance ballot measures&nbsp;&nbsp;OpenSecrets",
+     "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
+     "url": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+     "source": "\u00a9 Chip Somodevilla, AFP",
+     "published": "2026-11-06T20:51:37+00:00",
+     "summary": "US President Donald Trump on Friday said advisor Stephen Miller would become his new chief of staff. Miller has been instrumental in driving the Trump administration's mass deporta",
+     "image": "https://s.france24.com/media/display/e4ccbd52-da20-11f1-92bf-a575454bc579/w:1024/p:16x9/000-D6PN3T3.jpg"
+    },
+    {
+     "title": "Canvassing Board certifies election results, handing LCSD2 recount vote to Jessen",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU0tQYk1xNWdQMlVYNUhHNWZ3OVA5aF9RLURpTFFfcTlvcXI3NEFXWDJjeEF5QzBrbThpaTV4M3Y3U2ZzNG1TMmM0SkNVLTNNUUlsTnVGZ3hfOTlicXNyWl9la3pZZ0p1U2ZrMzB3eFc2NXkwQW5JUzNSUnUxdTQ4S2gwRUNsdnRiNVpDdVpyN2h0ckhsLWZEaEpqWWZfbVNRRTRDUFU5WW9EX3NtTXBRU29WWWlrSExLRERTWm1RMkd4QTJ5aXk5SU9BNlN1QQ?oc=5",
+     "source": "Cap City News",
+     "published": "2026-11-06T20:51:13+00:00",
+     "summary": "Canvassing Board certifies election results, handing LCSD2 recount vote to Jessen&nbsp;&nbsp;Cap City News",
      "image": ""
     },
     {
-     "title": "Gas was pricier on this Election Day than any before it \u2014 up almost 40% to $4.15 a gallon since the Iran war began",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnBFa0xvbkoxSHU2WC1OX3ZidFB2VkpWc1BVODQtcmJZZ09UZG9HaFF1S0VoVENjcTBpTzNZcGgwcE4wWmNFRXN6b2pDSzZvT1MyUkxVSDY3XzFrc0dKaURrRUNZVzZaMzROcUtEZXpoSEtNcXVoVmdndjI3UmVKN2FkbGlYQQ?oc=5",
-     "source": "Fortune",
-     "published": "2026-11-06T20:15:00+00:00",
-     "summary": "Gas was pricier on this Election Day than any before it \u2014 up almost 40% to $4.15 a gallon since the Iran war began&nbsp;&nbsp;Fortune",
+     "title": "Fewer ballots, higher turnout: Voter participation in Kentucky\u2019s 2026 election",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWc2V2JoQ0ltd0dCeUZkZXFyNFU0UGE2Yy1LWGlVOTUyaTR2Mk5xbEphWnBFZ05tM2pQbVF1QXRPYm9zeU9nZVhxWnk3MXhaaUNjaVE2N2tBQ1NTNkF0N09LcU85al9MSElsTVJtM1pjUWMtS3o0QzBPcEE5ak80QThlRmtsMjUzaXFuQ0ctMTl0SmFOci1lZ0c1c1MxT1JYc2tfMzJYMlAyekE?oc=5",
+     "source": "The Kentucky Association of Counties",
+     "published": "2026-11-06T20:49:17+00:00",
+     "summary": "Fewer ballots, higher turnout: Voter participation in Kentucky\u2019s 2026 election&nbsp;&nbsp;The Kentucky Association of Counties",
+     "image": ""
+    },
+    {
+     "title": "Trump promotes Stephen Miller to Chief of Staff \u2018to run things well\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T20:48:25+00:00",
+     "summary": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
+     "image": ""
+    },
+    {
+     "title": "A history-making Black governor can\u2019t believe Mississippi\u2019s Senate election",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDE3Z3hkdEUyMmV3OGpDRkVaSlRGZ3FMOUdyeVNseG1saWs2dkx5NVFOaDJUQ3Jfc0ljQkNlYVNqVFlOYW1qS04wV3YzQXZ4V3c3Wnp5VTl3R0JCS0JVZVFna09lM3dtTmFhZ0xHeTlHWGpnV3VGUUp3QW1Jb19IYVdqTGNKb1hWRlZ2bXdreTFnaFVHU2lsM3R0NGRrTXk1V2xlaElaVm5aOThkQ2c1TnNfSE9QT3g3aEhZVGZrSllzaGt6?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-06T20:47:31+00:00",
+     "summary": "A history-making Black governor can\u2019t believe Mississippi\u2019s Senate election&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
      "title": "Democrats blast Trump\u2019s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-06T20:14:51+00:00",
-     "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump \u2018learned nothing from his historic defeat\u2019 in the midtermsStephen Miller to b",
+     "published": "2026-11-06T20:45:48+00:00",
+     "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump \u2018learned nothing from his historic defeat\u2019 in the midtermsStephen Miller, arc",
      "image": "https://i.guim.co.uk/img/media/f8fc93692e548b1e70bcc2ba03680245c216cb19/0_207_2611_2089/master/2611.jpg?width=140&quality=85&auto=format&fit=max&s=e6648438d2bab36c29c20d742ad46449"
     },
     {
-     "title": "See how California's 58 counties voted on Prop 39 in the November election",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1IzSW4zb1drNXZzZl9JRktvYThmdFB4ckpjUHV3MjhmWnNKTWRZb2RQQ3E2NkRpSlpxN2JKRDZfdHpaRHVETHdvYnhuZkxFdDJrOVFkMkIybGROZS03aFBROWxKT2JrdVBjX19NQ09iM08zZkEzX3ZHQVhzLUxrbWFNdTZHR2JMRU8wcWlUUnVrY1kzT3F1ZHZTUVVmQdIBpgFBVV95cUxNbl9XbWNfbmlPR2hxdk5pZEVBMVpwSnNiVHhieFJRNzBROFVrQnhZU0FJWlpLcl9lTV84cGlJaWRsbVBrZ1NHVnhmYkNaaXpPRWpZbkMzQVFMdjRKeDM2MUNLdHplcUpEN1RaX1JPOGNrTElvUm5QN3hXb2ZhY1JmMHpaTjBaOFoyS0FsaUFDU1ZOTko2VU9JV1dTTDlzMjFTUnNTQ3hB?oc=5",
-     "source": "NBC Los Angeles",
-     "published": "2026-11-06T20:14:38+00:00",
-     "summary": "See how California's 58 counties voted on Prop 39 in the November election&nbsp;&nbsp;NBC Los Angeles",
+     "title": "How could Tuesday\u2019s election impact your wallet?",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnROSzJKSEt0b0s2ZTQ5a3l0M1dPakNHbHA4WmJYSzdRX2FzY0owdUlXU2ZTWENFd1JLemtOeWJBOEZFY1dXc2E2YjZkYzRpbmhtUEZ3T2llSkRkSHB6YVJxTzFENGdwNXJkNjdvemhfM2VZVGtkSFhQV1ppYkNqSWJDNkh3T0VNcE9IdWIwTQ?oc=5",
+     "source": "KMOV",
+     "published": "2026-11-06T20:44:00+00:00",
+     "summary": "How could Tuesday\u2019s election impact your wallet?&nbsp;&nbsp;KMOV",
      "image": ""
     },
     {
-     "title": "Boise Policy Pub discussion focuses on the press's role in policymaking",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZRUYycUg3V1JtbW5vUEpwVzFVUjZsNEIwdkJtVU43YUxwVlVIN1lQNzA4NkE2R1l3V0F2Tmc2MVVtOTNRdVQ1a2EtcUxJRUpGUXFyXzBabWFBclU?oc=5",
-     "source": "University of Idaho",
-     "published": "2026-11-06T20:07:40+00:00",
-     "summary": "Boise Policy Pub discussion focuses on the press's role in policymaking&nbsp;&nbsp;University of Idaho",
+     "title": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-06T20:34:00+00:00",
+     "summary": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy&nbsp;&nbsp;WSJ",
      "image": ""
     },
     {
-     "title": "Stephen Miller, architect of Trump\u2019s immigration crackdown, to become White House chief of staff",
-     "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-     "source": "The Guardian",
-     "published": "2026-11-06T20:06:11+00:00",
-     "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step downUS politics live \u2013 latest updatesStephen Miller, Donald Trump\u2019s most c",
-     "image": "https://i.guim.co.uk/img/media/52d5fedf0fefd80dc9f1af8b5afda07122a03309/884_0_4420_3536/master/4420.jpg?width=140&quality=85&auto=format&fit=max&s=7dc71eba919edf74946965211237db2e"
-    },
-    {
-     "title": "2026 Election: Democrat Brian Matlock projected to win Mine Inspector race",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzdnYVd2Y1VudkFqNS1OZ3NlMzhtS0MzNkhyZ2RlWFZCMUtMN3ZvQ3Y5Q2lxQ3F1YVdqQnpRdzc1NHhzSTktamo4U3JjNzk1R1ZjTThqQmJ2SVZQUEhQWjQ3OEQ2MVBmRlppTUFLLWp6dHp2VW55enNpVXFVc2otUjNlVEpIdnVnYmt6TEZDSXo1OFpVaFpUR2lPbm13d2FUSGc4dlBfdkVHclhS?oc=5",
-     "source": "FOX 10 Phoenix",
-     "published": "2026-11-06T20:00:19+00:00",
-     "summary": "2026 Election: Democrat Brian Matlock projected to win Mine Inspector race&nbsp;&nbsp;FOX 10 Phoenix",
+     "title": "Punahou Students and Faculty Gather for Election Day Watch Party",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdW1Ec2lNR0kxdzFGUFRWTGZhYnlNZVBoQVY4Q0Nxc3Fsd01tQ2lNOFNsa0JyM1VLZHQ0U3dCcldWNnZvNDc3N1BPR3JIS2RobG1DbmxlMmhNbnBlS3BZem03T3daR2ltVHlkTWdxd01TZWl6ZXR6X2pVUTJuODhXajVRUUdWM0c0cTRCWDdPN2lmUWRHblAyaGZB?oc=5",
+     "source": "Punahou",
+     "published": "2026-11-06T20:33:03+00:00",
+     "summary": "Punahou Students and Faculty Gather for Election Day Watch Party&nbsp;&nbsp;Punahou",
      "image": ""
     },
     {
-     "title": "US midterm results in maps and charts",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-06T20:00:05+00:00",
-     "summary": "US midterm results in maps and charts&nbsp;&nbsp;Reuters",
+     "title": "Q&A: Gary Kirsh, MD, on health policy for independent urology",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTdtMEFmOW85aVRXS1dYR0RmT3J1a29tbFJxcXA2STNxblM0Uk5ROGVTSzc2ZnlsQ0F2S3FNNlo4ZXc2WWpmdXJ1aVF6bGVrQ0xHNlNnTUZUQ3djQ3Y1M2RYWUxwRHpNY1NjNXJGUjltcHl3TlNhMnN5ZmVQVUg1M3k1WTh4WmNnTnVRMG5NV2kyQ09qNnFr?oc=5",
+     "source": "Urology Times",
+     "published": "2026-11-06T20:31:17+00:00",
+     "summary": "Q&A: Gary Kirsh, MD, on health policy for independent urology&nbsp;&nbsp;Urology Times",
      "image": ""
     },
     {
-     "title": "In These Midterms, Foreign Policy Mattered",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mcTVCZ19YQVU5VUJNcm9aZk8wS3FWOWVNb283dVBnSDBVSUJFYlAycHdxM1dhUGtMUWtXSnNWRGttUHZxQmJQMVh2UkNBZmtVSDczdmdlMEpfV1EtYmp6SlRSd3JkRXhlSFh6RHpkbjZVaG9YLWhkVWxn?oc=5",
-     "source": "Council on Foreign Relations",
-     "published": "2026-11-06T19:58:28+00:00",
-     "summary": "In These Midterms, Foreign Policy Mattered&nbsp;&nbsp;Council on Foreign Relations",
-     "image": ""
-    },
-    {
-     "title": "Johnson, staunch Trump ally, seeks to delay Senate GOP leadership election after big losses",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXA3b3pUaVZMN3JIU0JkbnV4UWhaOHliWHo4OGhIZWhCcnB4QkNUcDYxUWlhZmxRU0xOT2l2QTVqVkktbG1FQWticmhoN28tV2x5WGpvNktEc2UtUzNHclpmVVRNWlRqdXNVTFc0TjFwOWpCZklxUmExaFMwTXlGQklubHMzM0ZPZXhPbmltYVpCNDhMNnBRNVNSRC1aTVNXOG1VSWJENTBGLW9aSmhGTtIBtgFBVV95cUxNOU9RNVpwNngtSFRvME80Njd4UGFyc3F2OElsZGlXMmpRM3UyVVNmQVZXQnpGaUxnaWZveG50akRBRlMxeWVpSENXZFpKaVNwSURsYzZWT1B3YjBDZHFGQXBQblZqcTI4UmliZGJab1k4S25KUmVrT0NGS1lDY0dlenk4ek5JY09ibU5VSk1uRDNtUEhHRnNHQjMyWWlURjhWYTJlT2E1eHdKa29JdmtZbkxIdmlEdw?oc=5",
-     "source": "The Hill",
-     "published": "2026-11-06T19:53:00+00:00",
-     "summary": "Johnson, staunch Trump ally, seeks to delay Senate GOP leadership election after big losses&nbsp;&nbsp;The Hill",
-     "image": ""
-    },
-    {
-     "title": "MHA CEO Report: The Election Is Over. The Work Continues.",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVmhtRDVNZjZfWEtvSWR5TXdOZVdvaHk3cFdBQ05Yc1FqbzBMQjBRMVdHeEhKTGNXUWFUdlRDQ3M1RkdibDhPdXNMYUZPb3FCd0pPc2Z2SzFJa0x3RHh4a2tscDAwazNobDhJbkdLSTg4cFU2RTItSS04ZGg2czNPVEk5cU1aQks3T3dzdw?oc=5",
-     "source": "Michigan Health & Hospital Association",
-     "published": "2026-11-06T19:47:52+00:00",
-     "summary": "MHA CEO Report: The Election Is Over. The Work Continues.&nbsp;&nbsp;Michigan Health & Hospital Association",
+     "title": "Chalk Talk: The Education Election Debrief",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNME0wM2RMdDFnQnNBV0ZJUmE5WFBHU19hMHJWSmFLTnpyREo4T0s4X0ZIUjdwNjBxLS1sMC1PYm5pcGQyYnlHUE8xTWlPMWVpRWl1U20yUzFYSDFKdUJUSUNxb0dBY2p4RU9VVHYxRHJOQ21RcTFjd05n?oc=5",
+     "source": "KOLD",
+     "published": "2026-11-06T20:23:00+00:00",
+     "summary": "Chalk Talk: The Education Election Debrief&nbsp;&nbsp;KOLD",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T20:34:17.317063+00:00",
+   "fetched_at": "2026-11-06T21:04:21.647888+00:00",
    "stale": false,
    "items": [
     {
