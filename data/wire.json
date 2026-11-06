@@ -1,26 +1,10 @@
 {
- "generated_at": "2026-11-06T21:34:25.784801+00:00",
+ "generated_at": "2026-11-06T21:34:37.984756+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T21:34:25.784733+00:00",
+   "fetched_at": "2026-11-06T21:34:37.984727+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Global stocks fall amid \u2018big worries over AI\u2019 after Democrats\u2019 midterms triumph",
-     "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-     "source": "The Guardian",
-     "published": "2026-11-06T21:23:54+00:00",
-     "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to comeEuropean and Asian stock markets fell sharply on Friday after the Democrat",
-     "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126"
-    },
-    {
-     "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
-     "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
-     "source": "The Guardian",
-     "published": "2026-11-06T21:20:49+00:00",
-     "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large paymentsThree foreign nationals were arrested and charged with using AI to allegedly ",
-     "image": "https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=ea760337f8b9936ab96b5415c0bb868d"
-    },
     {
      "title": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
      "url": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour",
@@ -116,11 +100,27 @@
      "published": "2026-11-06T20:27:09+00:00",
      "summary": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
      "image": ""
+    },
+    {
+     "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
+     "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T20:22:22+00:00",
+     "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
+     "image": ""
+    },
+    {
+     "title": "How \u2018Street Medics\u2019 protect French protesters",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T20:17:32+00:00",
+     "summary": "French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests.",
+     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T21:34:25.784773+00:00",
+   "fetched_at": "2026-11-06T21:34:37.984742+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T21:34:25.784778+00:00",
+   "fetched_at": "2026-11-06T21:34:37.984746+00:00",
    "stale": false,
    "items": [
     {
@@ -324,17 +324,9 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T21:34:25.784781+00:00",
+   "fetched_at": "2026-11-06T21:34:37.984748+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Global stocks fall amid \u2018big worries over AI\u2019 after Democrats\u2019 midterms triumph",
-     "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-     "source": "The Guardian",
-     "published": "2026-11-06T21:23:54+00:00",
-     "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to comeEuropean and Asian stock markets fell sharply on Friday after the Democrat",
-     "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126"
-    },
     {
      "title": "AI stocks climb after trillions wiped from market values",
      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -342,6 +334,14 @@
      "published": "2026-11-06T21:06:25+00:00",
      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Global stocks fall amid \u2018big worries over AI\u2019 after Democrats\u2019 midterms triumph",
+     "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+     "source": "The Guardian",
+     "published": "2026-11-06T15:48:36+00:00",
+     "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to comeEuropean and Asian stock markets fell sharply on Friday after the Democrat",
+     "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126"
     },
     {
      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
