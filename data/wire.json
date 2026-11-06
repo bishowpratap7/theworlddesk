@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-06T06:01:36.156282+00:00",
+ "generated_at": "2026-11-06T06:31:40.114644+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T06:01:36.156262+00:00",
+   "fetched_at": "2026-11-06T06:31:40.114624+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Paraguay\u2019s president quits after millions of people\u2019s savings frozen in bank crisis",
+     "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:15:02+00:00",
+     "summary": "Santiago Pe\u00f1a\u2019s rightwing administration had authorised Ueno Bank to drastically expand operations before collapseParaguay\u2019s rightwing president, Santiago Pe\u00f1a, resigned on Thursda",
+     "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3"
+    },
+    {
+     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:13:08+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019 Live results | Q",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+     "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T06:06:24+00:00",
+     "summary": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
+     "image": ""
+    },
     {
      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +38,44 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg"
     },
     {
-     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+     "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-06T06:00:46+00:00",
+     "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of B\u00e9dar this summer.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83c/live/8fea78b0-d908-11f1-b72c-d16cdc75f35f.jpg"
+    },
+    {
+     "title": "Minister tells energy suppliers to do more to help households tackle unpaid bills this winter",
+     "url": "https://www.theguardian.com/business/2026/nov/06/minister-energy-suppliers-help-households-unpaid-bills-debt-relief",
      "source": "The Guardian",
-     "published": "2026-11-06T05:32:36+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019 Live results | Q",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+     "published": "2026-11-06T06:00:44+00:00",
+     "summary": "Bosses from Great Britain\u2019s biggest energy companies called to meeting as part of government\u2019s debt relief planAn energy minister has told the bosses of Great Britain\u2019s biggest ene",
+     "image": "https://i.guim.co.uk/img/media/e67f334ce2d02195caef171c26c43817bac276a4/250_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=8fc36a075a429c1863f4559f811dddda"
+    },
+    {
+     "title": "Police turn to charities for help with teenagers caught up in online child abuse",
+     "url": "https://www.theguardian.com/society/2026/nov/06/police-charities-pornography-online-child-abuse",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:00:44+00:00",
+     "summary": "As new pornography laws come into force, officers say viewing extreme content could lead young people towards abuse imagesPolice forces are turning to specialist charities and part",
+     "image": "https://i.guim.co.uk/img/media/578b3db4ad3c862273278a03cdc0c43e657a6239/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b3d36fb12a689e75e16973aced8bf4d7"
+    },
+    {
+     "title": "In Athens\u2019s pro-Palestinian heartland, Israeli buyers spark resentment",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T05:59:54+00:00",
+     "summary": "In Athens\u2019s pro-Palestinian heartland, Israeli buyers spark resentment",
+     "image": ""
+    },
+    {
+     "title": "US Justice Department sues Penn State over undocumented students\u2019 tuition",
+     "url": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T05:57:27+00:00",
+     "summary": "The lawsuit challenges Penn State&#039;s policy that allows undocumented students to qualify for reduced tuition rates.",
+     "image": ""
     },
     {
      "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn\u2019t intentional but \u2018it was my fault\u2019",
@@ -60,69 +116,53 @@
      "published": "2026-11-06T04:48:00+00:00",
      "summary": "Following election losses, the signing marks Trump&#039;s third event of the week focused on signature renovation projects.",
      "image": ""
-    },
-    {
-     "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
-     "source": "The Guardian",
-     "published": "2026-11-06T04:45:24+00:00",
-     "summary": "Anthony Albanese\u2019s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harderGet our daily political email, free app or dail",
-     "image": "https://i.guim.co.uk/img/media/434b676957bcf76df3c92156dfeab6b9a4205f75/228_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=2321eaa579480cc31296c332af04b824"
-    },
-    {
-     "title": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
-     "url": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
-     "source": "France 24",
-     "published": "2026-11-06T04:31:40+00:00",
-     "summary": "In American politics, the possession of presidential power does not necessarily guarantee the capacity to exercise it. Few contemporary leaders have embodied this contradiction as ",
-     "image": "https://s.france24.com/media/display/e5e866a6-d970-11f1-8121-695cb59fade5/w:1024/p:16x9/EN-20261105-182123-182823-CS.jpg"
-    },
-    {
-     "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
-     "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T04:30:26+00:00",
-     "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
-     "image": ""
-    },
-    {
-     "title": "Trump signs order preventing future presidents from changing Oval Office",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T04:29:25+00:00",
-     "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6593/live/d5c2e140-d991-11f1-9ebf-51ca702e24e1.jpg"
-    },
-    {
-     "title": "Democratic Socialist Nithya Raman wins LA mayoral race",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T04:29:04+00:00",
-     "summary": "Nithya Raman&#039;s victory in LA marks the second major win for Democratic Socialists in a year.",
-     "image": ""
-    },
-    {
-     "title": "Building wind turbines out of parts found in Gaza\u2019s rubble",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T04:20:22+00:00",
-     "summary": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
-     "image": ""
-    },
-    {
-     "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-06T04:11:57+00:00",
-     "summary": "Eva Geller was shot on 14 December 2025 during Hanukah festival and she has been in and out of hospital sinceGet our breaking news email, free app or daily news podcastA woman who ",
-     "image": "https://i.guim.co.uk/img/media/e95f544b0f82b645a0c30bbd786da9dc0f9a5069/563_227_1360_1088/master/1360.jpg?width=140&quality=85&auto=format&fit=max&s=2aad1a1d8b5a78340084edd75b137383"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T06:01:36.156272+00:00",
+   "fetched_at": "2026-11-06T06:31:40.114634+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine War, Day 1,716: Trump Meets Putin\u2019s Chief Maniuplator Dmitriev",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVkwWjZSNV9UZVNuT2Vqem13OTRzV1FRLU5CczFONDRXSllqMExXQnIyaW1IcUN3anVTZVVvSGtkSWhnMWxaSWx2cmM2NEZyd0Q2b1FPek5pd0VvUTR0MHB1TVY3T0pKdmFxbnZ5b1VPeUdsT1c0WExMZ2gzUEtXeDFPbVA2ZGJWTWgzWmM1bUVNaHZKM2E2Nw?oc=5",
+     "source": "EA WorldView",
+     "published": "2026-11-06T06:20:54+00:00",
+     "summary": "Ukraine War, Day 1,716: Trump Meets Putin\u2019s Chief Maniuplator Dmitriev&nbsp;&nbsp;EA WorldView",
+     "image": ""
+    },
+    {
+     "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+     "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T06:06:24+00:00",
+     "summary": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
+     "image": ""
+    },
+    {
+     "title": "Trump touts 'big' Ukraine deal after meeting Russian envoy",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHNPUEZWQW1TcjhNYWR0WjlHQmpmZEVNanIxVDVIRnNwcWVIeDI4eGZTZFhjTkpJY1BNaXprMmNzcnNHcnhTY1ltN1B4UExuOEs1cFhjdF8wcmdhOC02emZOUlMwTktYcExOLXhlUFkzdTl2QXVTRkVnOUo1QmtCdDZn?oc=5",
+     "source": "China Daily Global Edition",
+     "published": "2026-11-06T06:05:08+00:00",
+     "summary": "Trump touts 'big' Ukraine deal after meeting Russian envoy&nbsp;&nbsp;China Daily Global Edition",
+     "image": ""
+    },
+    {
+     "title": "Police turn to charities for help with teenagers caught up in online child abuse",
+     "url": "https://www.theguardian.com/society/2026/nov/06/police-charities-pornography-online-child-abuse",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:00:44+00:00",
+     "summary": "As new pornography laws come into force, officers say viewing extreme content could lead young people towards abuse imagesPolice forces are turning to specialist charities and part",
+     "image": "https://i.guim.co.uk/img/media/578b3db4ad3c862273278a03cdc0c43e657a6239/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b3d36fb12a689e75e16973aced8bf4d7"
+    },
+    {
+     "title": "In Athens\u2019s pro-Palestinian heartland, Israeli buyers spark resentment",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T05:59:54+00:00",
+     "summary": "In Athens\u2019s pro-Palestinian heartland, Israeli buyers spark resentment",
+     "image": ""
+    },
     {
      "title": "Russia\u2019s losses in the war in Ukraine have exceeded 1.6 million people",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDBhbTBGT0V6YzVZWVVIOVBxTVBPVjEwR0MwWHJDV1RKbGEtX1ZLMVlIN0E5bGM3ZWdwWVBjQmxkcDZYa0ZGemoyMTVsWDcwV2c5M2x5U2p3RGZvOTBDaVFncWpsdkEtOGJvSmxoM2QwZDZyRXRMV1YteGtocTRmcWhzelBWb29FNlUwZ3ZPN3NYRWVnRVHSAZQBQVVfeXFMTkxORENjNi1sSEh3RmtKdm5oeEJRWFNqY2NvQVdGMExzQ29xRzdXY3hKUkh4S3BTZGdZQUh6MEx1dk5vMjRidVhpS1NCNTNxRTU4aGoxeVpEbkJfUGVrbnkxUThOd3RleFFIWGpKTzEySkoxc2RJdHhWdEdDSFJPNXYtZDk4RUQ4X2ZyNWxfVDNMSldZUQ?oc=5",
@@ -178,67 +218,59 @@
      "published": "2026-11-06T04:41:12+00:00",
      "summary": "Ukrainian forces target oil refinery as explosions reported across southern Russia&nbsp;&nbsp;The Kyiv Independent",
      "image": ""
-    },
-    {
-     "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
-     "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T04:30:26+00:00",
-     "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
-     "image": ""
-    },
-    {
-     "title": "Building wind turbines out of parts found in Gaza\u2019s rubble",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T04:20:22+00:00",
-     "summary": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
-     "image": ""
-    },
-    {
-     "title": "A Drone Maimed a Ukrainian Army Private. Could a Drone Also Save Him?",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4eUwyMWo1bjZiRVJQdWFCZ2dGa1FXTUdydkRlWWhaN0dhWmNYWU5UWldzc1VxR3hFbFM3WlRQTUtVMURCVVhaYThzQ1FtTGVKSTAteVVMd2lES0NpcWRwRk9LODlwRWl0bG1CYzdoM0IyMzR0?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-06T03:28:54+00:00",
-     "summary": "A Drone Maimed a Ukrainian Army Private. Could a Drone Also Save Him?&nbsp;&nbsp;WSJ",
-     "image": ""
-    },
-    {
-     "title": "Trump says Russia-Ukraine deal is near after meeting Putin\u2019s envoy",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVdfY1VZdDJHQ1BwVHpvTWlBT1Z3dTJfYWEzNlFzZ0I2Mm1NZFVEUjdBX3VGVjJPT1JOZXl0NTZBSFQ3MVhqMGtjd3VKMGFJUHp0ZFFSZHR3YmdLUnFBMU1QNURmbVhMSjVHa0NKZExiNG9BYk9VTm8xWjVvSWczMm9aZ2Jld2NlWXVNSnUwVTk4SXVIYVNUbkRZTGNCdS1HOVF0X09LUkdkRXZ4cFlQaklWQ1Nfc1HSAbwBQVVfeXFMTUh3dVBBbS1CN2ZSQVpGMVB3MWxqNFMtUW5BMEFOOHg3ZEs0VkFkU0dOc1g2MnhsOUpjbHUyd254V2p4UWhUa1p4ZU94V2duQ3RTbVhTdUNKcFpZYmxCVjNrRFhlTk5aRlpXbzI4QjVmMy1LYUpZdXBFTW43Z2dGSGlCUEQ3MktGYnpBakhrekJQS0FybzZaSlgzZ1hhakJVd1hTeVZUdThNbXQ5WXZZME85YnA5MFFrMWJsWEM?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T03:13:58+00:00",
-     "summary": "Trump says Russia-Ukraine deal is near after meeting Putin\u2019s envoy&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Melania hosts Russia and Ukraine as Trump touts deal for 'all of Europe'",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdkNmTm9Jc0ktMUNJMFNTbkpseVZGWnBZT3Z6VTYzS2dCd2NsU0FUTlR0Wi1pOThFSXZacWM2TnhMX2ZzdGt1ckRPZTVtcDhER0VwZjFvTFlNUTBsQTIxQ3NNMFVqQ1NmNEJaaHBmWkE0ekZkc0YwSy16RjNJQjNqTmp4cWxlQQ?oc=5",
-     "source": "CNA",
-     "published": "2026-11-06T03:04:15+00:00",
-     "summary": "Melania hosts Russia and Ukraine as Trump touts deal for 'all of Europe'&nbsp;&nbsp;CNA",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T06:01:36.156275+00:00",
+   "fetched_at": "2026-11-06T06:31:40.114637+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-06T05:32:36+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019 Live results | Q",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
-    },
     {
      "title": "These Democratic Senate candidates won their races before Election Day",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1kUUlndS1NaFdiT2dtUDNKbWNLSTM4U2N0Q211dlZvTDJaVDFMRHQzYWRZOVY2VktCaGVONDF6ZU5TdFpRNjJOajU4NkVFb19aSENpUWtDSTJOT3ktMWdocEJPVnMxUGFFdzFnVERzMzdrdFpNME1rTUROdjc0WnNlOTlvakI0R0RVWWdoZ3F5QWlPYnM3NElZTUNROU56Z0dwbVhKVU1xeGdJa05Sc18zNEwteHlJd05GU2dhQQ?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-06T05:08:21+00:00",
+     "published": "2026-11-06T06:16:19+00:00",
      "summary": "These Democratic Senate candidates won their races before Election Day&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Paraguay\u2019s president quits after millions of people\u2019s savings frozen in bank crisis",
+     "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:15:02+00:00",
+     "summary": "Santiago Pe\u00f1a\u2019s rightwing administration had authorised Ueno Bank to drastically expand operations before collapseParaguay\u2019s rightwing president, Santiago Pe\u00f1a, resigned on Thursda",
+     "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3"
+    },
+    {
+     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:13:08+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019 Live results | Q",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Did a data centre revolt affect the US mid-term election results?",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kandoSW1feUh6QmltT08tT3JsTzVBWkxPcVJLWm5Lay1JX0VZUjhGN2tZSGg4RFRsR1k4cmo3TUFpbF9DSWF6dmNLX2drMzlwTVJnUmUyekR3OFk?oc=5",
+     "source": "BBC",
+     "published": "2026-11-06T06:01:13+00:00",
+     "summary": "Did a data centre revolt affect the US mid-term election results?&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "Minister tells energy suppliers to do more to help households tackle unpaid bills this winter",
+     "url": "https://www.theguardian.com/business/2026/nov/06/minister-energy-suppliers-help-households-unpaid-bills-debt-relief",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:00:44+00:00",
+     "summary": "Bosses from Great Britain\u2019s biggest energy companies called to meeting as part of government\u2019s debt relief planAn energy minister has told the bosses of Great Britain\u2019s biggest ene",
+     "image": "https://i.guim.co.uk/img/media/e67f334ce2d02195caef171c26c43817bac276a4/250_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=8fc36a075a429c1863f4559f811dddda"
+    },
+    {
+     "title": "US Justice Department sues Penn State over undocumented students\u2019 tuition",
+     "url": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T05:57:27+00:00",
+     "summary": "The lawsuit challenges Penn State&#039;s policy that allows undocumented students to qualify for reduced tuition rates.",
      "image": ""
     },
     {
@@ -262,7 +294,7 @@
      "url": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
      "source": "France 24",
      "published": "2026-11-06T04:31:40+00:00",
-     "summary": "In American politics, the possession of presidential power does not necessarily guarantee the capacity to exercise it. Few contemporary leaders have embodied this contradiction as ",
+     "summary": "In American politics, presidential power has its limits. And now the laws of gravity are catching up to Donald Trump's hyper-aggressive use of executive power. Following what polit",
      "image": "https://s.france24.com/media/display/e5e866a6-d970-11f1-8121-695cb59fade5/w:1024/p:16x9/EN-20261105-182123-182823-CS.jpg"
     },
     {
@@ -288,43 +320,11 @@
      "published": "2026-11-06T04:29:39+00:00",
      "summary": "Political analyst speaks on New Mexico\u2019s election results&nbsp;&nbsp;KRQE",
      "image": ""
-    },
-    {
-     "title": "Trump signs order preventing future presidents from changing Oval Office",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T04:29:25+00:00",
-     "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6593/live/d5c2e140-d991-11f1-9ebf-51ca702e24e1.jpg"
-    },
-    {
-     "title": "AI faces tighter guardrails and potential growth roadblocks after election",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTJyNTNudDNwRXFGUnhIbEhZNVFxZWNlR2lKalc0dmh5bjIyYmp5cGJpd0d4N3BGaHZHRk0wNV9wbWk1U3NZMkg1aTM0YlBZMHNTYkJKTEROVVZjTU5FQ2dRZHBoM2RhRjFodWVDdEZqWk8zc1VlcEJuZEZBaXhPVEQ1ak1odmU0Zi1jV2EzOG1xZTIyX0d3aE9uc0NYZ28xZzRnT1FR0gG6AUFVX3lxTFBoU1JIaFp5SEc2d05McmNhby16cGR5NUlNVmN6WGZnTTNrX1A1aWFyZEhIT3BfNm1ENU9DX2dEeVVVdTAzT1JBUnRtVWtNVTRGczZuWmc3V0hXU0ViOTNZRmVmVXRhRjZUSXZkWHQ5UUlfNDFTUDJLLVp3UXNYLUh0YkxqdmhvU0RGamp2T2V2N2dHODVRRkhCU3RmN3FmQ1VOeXN0S1o1bjdybDFhYm5IYXJ6cFZBTGUwUQ?oc=5",
-     "source": "WKYT",
-     "published": "2026-11-06T03:54:00+00:00",
-     "summary": "AI faces tighter guardrails and potential growth roadblocks after election&nbsp;&nbsp;WKYT",
-     "image": ""
-    },
-    {
-     "title": "Paraguay\u2019s president impeached amid bank collapse crisis",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T03:49:33+00:00",
-     "summary": "Lawmakers have voted to impeach Paraguay\u2019s President Santiago Pena amid a banking collapse that has roiled the country.",
-     "image": ""
-    },
-    {
-     "title": "Johnson County's election results could help decide six closely contested Kansas races",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTEzQ2JFWnRBc3I1RkFObDVseDEwQU9YMDBSS0NILTYxWFV0clhIVFZwRnlmdEk3SzY4ZzJsREhIMVF2Yk5BVzVKWXBQeHVPSUdkbkVnRHdrRVJqSml1RWJ4bmxnQnNQWnFmZ0twb1VaWjhIN0QtcGR5dER3WS1FbzAzclNwM2JwN3F3RE1ndFZqUU9QVGlXR0Jn?oc=5",
-     "source": "KMBC",
-     "published": "2026-11-06T03:33:00+00:00",
-     "summary": "Johnson County's election results could help decide six closely contested Kansas races&nbsp;&nbsp;KMBC",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T06:01:36.156276+00:00",
+   "fetched_at": "2026-11-06T06:31:40.114638+00:00",
    "stale": false,
    "items": [
     {
