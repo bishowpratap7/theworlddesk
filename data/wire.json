@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-11-06T06:31:40.114644+00:00",
+ "generated_at": "2026-11-06T06:31:51.646039+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T06:31:40.114624+00:00",
+   "fetched_at": "2026-11-06T06:31:51.646006+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Blue wave sweeping Congress grows \u2013 as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:19:03+00:00",
+     "summary": "This blog is now closedLive results | Q&amp;A: Ask your questions about Democrats\u2019 winSign up for Breaking News US emailElection night brought a series of dramatic developments, un",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
     {
      "title": "Paraguay\u2019s president quits after millions of people\u2019s savings frozen in bank crisis",
      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
      "source": "The Guardian",
-     "published": "2026-11-06T06:15:02+00:00",
+     "published": "2026-11-06T06:16:22+00:00",
      "summary": "Santiago Pe\u00f1a\u2019s rightwing administration had authorised Ueno Bank to drastically expand operations before collapseParaguay\u2019s rightwing president, Santiago Pe\u00f1a, resigned on Thursda",
      "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3"
-    },
-    {
-     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-06T06:13:08+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019 Live results | Q",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
     },
     {
      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T06:31:40.114634+00:00",
+   "fetched_at": "2026-11-06T06:31:51.646023+00:00",
    "stale": false,
    "items": [
     {
@@ -222,9 +222,25 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T06:31:40.114637+00:00",
+   "fetched_at": "2026-11-06T06:31:51.646027+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Blue wave sweeping Congress grows \u2013 as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:19:03+00:00",
+     "summary": "This blog is now closedLive results | Q&amp;A: Ask your questions about Democrats\u2019 winSign up for Breaking News US emailElection night brought a series of dramatic developments, un",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Paraguay\u2019s president quits after millions of people\u2019s savings frozen in bank crisis",
+     "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+     "source": "The Guardian",
+     "published": "2026-11-06T06:16:22+00:00",
+     "summary": "Santiago Pe\u00f1a\u2019s rightwing administration had authorised Ueno Bank to drastically expand operations before collapseParaguay\u2019s rightwing president, Santiago Pe\u00f1a, resigned on Thursda",
+     "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3"
+    },
     {
      "title": "These Democratic Senate candidates won their races before Election Day",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1kUUlndS1NaFdiT2dtUDNKbWNLSTM4U2N0Q211dlZvTDJaVDFMRHQzYWRZOVY2VktCaGVONDF6ZU5TdFpRNjJOajU4NkVFb19aSENpUWtDSTJOT3ktMWdocEJPVnMxUGFFdzFnVERzMzdrdFpNME1rTUROdjc0WnNlOTlvakI0R0RVWWdoZ3F5QWlPYnM3NElZTUNROU56Z0dwbVhKVU1xeGdJa05Sc18zNEwteHlJd05GU2dhQQ?oc=5",
@@ -232,22 +248,6 @@
      "published": "2026-11-06T06:16:19+00:00",
      "summary": "These Democratic Senate candidates won their races before Election Day&nbsp;&nbsp;The Washington Post",
      "image": ""
-    },
-    {
-     "title": "Paraguay\u2019s president quits after millions of people\u2019s savings frozen in bank crisis",
-     "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-     "source": "The Guardian",
-     "published": "2026-11-06T06:15:02+00:00",
-     "summary": "Santiago Pe\u00f1a\u2019s rightwing administration had authorised Ueno Bank to drastically expand operations before collapseParaguay\u2019s rightwing president, Santiago Pe\u00f1a, resigned on Thursda",
-     "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3"
-    },
-    {
-     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-06T06:13:08+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019 Live results | Q",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
     },
     {
      "title": "Did a data centre revolt affect the US mid-term election results?",
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T06:31:40.114638+00:00",
+   "fetched_at": "2026-11-06T06:31:51.646029+00:00",
    "stale": false,
    "items": [
     {
