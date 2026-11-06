@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-06T22:34:46.334176+00:00",
+ "generated_at": "2026-11-06T23:04:50.095293+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T22:34:46.334146+00:00",
+   "fetched_at": "2026-11-06T23:04:50.095260+00:00",
    "stale": false,
    "items": [
     {
      "title": "Democrats blast Trump\u2019s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-06T22:16:07+00:00",
+     "published": "2026-11-06T22:41:34+00:00",
      "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump \u2018learned nothing from his historic defeat\u2019 in the midtermsStephen Miller, arc",
      "image": "https://i.guim.co.uk/img/media/f9722987baf4b5522f5f6efd1409295823e842e7/1157_0_6660_5331/master/6660.jpg?width=140&quality=85&auto=format&fit=max&s=06c8c454d7b539adc847dede55eb8ea3"
     },
     {
-     "title": "Thomas Markle, Meghan\u2019s father, arrested in Florida on charges related to child sexual abuse material",
+     "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+     "source": "The Guardian",
+     "published": "2026-11-06T22:35:09+00:00",
+     "summary": "Wiles thanks president for \u2018honor of a lifetime\u2019 as departure leaves behind overwhelmingly male leadership teamUS politics live \u2013 latest updatesDonald Trump on Friday said Susie Wi",
+     "image": "https://i.guim.co.uk/img/media/d6499e3f63dde18f7bb2a51b347e1ff441c629ef/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ae10a4994ead9e50469741ef037db895"
+    },
+    {
+     "title": "Thomas Markle, Meghan\u2019s father, charged in Florida in connection to child sexual abuse material",
      "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
      "source": "The Guardian",
      "published": "2026-11-06T22:09:01+00:00",
@@ -108,27 +116,35 @@
      "published": "2026-11-06T21:06:25+00:00",
      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Protesters break into Microsoft data centre site in Amsterdam",
-     "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T21:04:40+00:00",
-     "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T22:34:46.334162+00:00",
+   "fetched_at": "2026-11-06T23:04:50.095278+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 7, 2026 from Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYdkozTENuNWIzQ3RwVWVCam5PdEV0Z0JPR3ZRNmVhc0k1Q3Y5Zi12bk1ueUZ6cTJxYmU0ZVdZTHUzZGt2aEZQX05LUzd1dw?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-06T23:00:52+00:00",
+     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 7, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
     {
      "title": "Europe Insists Putin End War Before Discussing Russia\u2019s Concerns",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGlTajBSaVZXVGdOT1RmVTFzNy0zcE9kNmdOSWQwQTlKSXlNYzhTYWM1Vm5Da3lfWGFSbTZ2Q18zaXBFQVN2YU9YX3VDeFBtZkFrSm9tYnVGS04yVWRvbzQ5MjBMd0l0N0c0cFNqeF9vSUs2WmxzVk14dDVfVUNzaWctZ3pqZGN0WE1nYjA0eUdqOUdtU1JqNFlaOVN5YlVtclpxYkgzdzhNNVFKNHFFb3NjVUJ1dw?oc=5",
      "source": "Bloomberg.com",
      "published": "2026-11-06T22:09:42+00:00",
      "summary": "Europe Insists Putin End War Before Discussing Russia\u2019s Concerns&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45OXRwNFFvSTBUTmhWMUp1OVgxSUQyVG1WSThlZEJnQUJpcWZ3QkpETC1raUpnNW5TeVNWUFdHQ0tyRUxOSGtYYkxmYW9vNDFCYjBLRlJvcjl3YXAxTFNNbXh1VXZpYnU3ZFJN?oc=5",
+     "source": "Mediazona",
+     "published": "2026-11-06T21:51:14+00:00",
+     "summary": "Russian losses in the war with Ukraine. Mediazona count, updated&nbsp;&nbsp;Mediazona",
      "image": ""
     },
     {
@@ -172,6 +188,14 @@
      "image": ""
     },
     {
+     "title": "EU Must Be Involved in Any Ukraine Peace Deal, Kallas Says",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZ2X2NMb3UwZGZCazRwNkNiX09FQ3VuUDUxYnpSZEVkcGRDZU42NU9NQl9udDhaX0kxVkx6WEdsTVN6cHZvaFZxdEFLYzhqM0N6N1NyMmt5R0g3WXg2UWNfamJQRThhUmpQVWh3SmxNTUF6djNoQU85N3BLWTlPT1hrbkJ3Q0xEVlo4SlQwckVWdkJFSU9kWnNFaWhPcUZhNlptM3Rqcw?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-06T20:57:28+00:00",
+     "summary": "EU Must Be Involved in Any Ukraine Peace Deal, Kallas Says&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
      "title": "APTOPIX Russia Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWnBjcWJ4S21MWFoxRy1oYWliT0ZybTB0MElUb1RuVW9zLXhBdGpoRW1Rbjg1YkZUVW1XWXo1VGZqdEJ4dXBxZkFrbnFJaFRyazktZVYyOEplV0hUNE5KN1hHM1NzZ0p5dFdmRURkZUxKeFhXaFBBNzdjYU1MRUkzQ3R3RkxMVzlCRjZzY0doTkFMTlk5YkVoaXVlQWY0dm13TkFGZUt5QVpONmNaZ1VKVGNMZ2NpeVdxMUZLRWQzSkp6WXAteng1bzZ1eW9FQkk?oc=5",
      "source": "Messenger-Inquirer",
@@ -194,43 +218,75 @@
      "published": "2026-11-06T20:42:51+00:00",
      "summary": "Israel's center-right opposition has a chance to unseat Netanyahu \u2014 but backing of Arab-led parties will be key.",
      "image": ""
-    },
-    {
-     "title": "Trump retreats into first lady territory as Melania takes on diplomacy: Who\u2019s the boss?",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcy1rU25XMTJCVTZTR1VJNmNsQWs3QmRTY1BLSk13ZXFYY0NvUk5PY3AxbFZ2UUZnZGRuQzU4b2JwX3MzMngtU25Cdl9ZbFdaeUVQenlHdEVTc1pXUkJldXlHYnYzQ094TEdoLUxjT3JoZzFhWTltdy1KaEsteTdVeFV5aHIySFV5RTJrSW9vNlFSdXlNZmI2WVEwN3d3MS0yZjR1bEs3LVBYQ2RuMXV4QUJVTlBfQUgzelVILWZ1eDVMMHl2?oc=5",
-     "source": "The Independent",
-     "published": "2026-11-06T20:38:00+00:00",
-     "summary": "Trump retreats into first lady territory as Melania takes on diplomacy: Who\u2019s the boss?&nbsp;&nbsp;The Independent",
-     "image": ""
-    },
-    {
-     "title": "Zelensky warns of new Russian strikes on Ukraine energy sector",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOU1YTWt5QVA4THl5d21sS05mTnBUMnd1bmpCR2xwMTFYSlp1QVhBNDZBY05KYTloczNINFNHRUYtWDl4VzNkYUZMNS01TDQ0WU9KZlNESlA2b01TYXpBQTE3SlNUck13X29wWDQxbEc5Z3N5YUc2RldVTmFIeXM5WTZWWGFhX2hwT01WYWtEU1pKczR6OXJ2amhBUVQ2NWZNLVYw?oc=5",
-     "source": "Arab News",
-     "published": "2026-11-06T20:21:24+00:00",
-     "summary": "Zelensky warns of new Russian strikes on Ukraine energy sector&nbsp;&nbsp;Arab News",
-     "image": ""
-    },
-    {
-     "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
-     "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
-     "source": "The Guardian",
-     "published": "2026-11-06T19:59:23+00:00",
-     "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand\u2019s victims coming forward: \u2018I hope you are pleased with yourself\u2019Russell Brand\u2019s barrister ha",
-     "image": "https://i.guim.co.uk/img/media/f0e8acc5ff9e24724878c25106cb3494ac318760/149_0_1807_1446/master/1807.jpg?width=140&quality=85&auto=format&fit=max&s=a8a8468f7601eb8a03986edb9cefa0ed"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T22:34:46.334166+00:00",
+   "fetched_at": "2026-11-06T23:04:50.095281+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Leah Halton-Pope heads to Albany after un\u00adcon\u00adtested election, raising questions about how she got on the ballot",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXE0QXZBMUN2ZlY0Sm1rYVd1TlB2X0pYU3g0QlFzWWdHTTZCS1RKTXc0TW50NF9LeHBCV3lTRW9lbkR5SmxaR1lVV0hfT3JtLWJ4cldmXzJiM0FtTnJzZGpSazR4Z19YSGp2bldfVXhHRFM0a2pWeTFNWTZBSFpqbXVlUnlXaTZwQXcyR1hZTWJIVFpqN2ZyMEYyUnNiSmlBYWcxOS05U084MTQ0WGo2dXhCemcwMlJf?oc=5",
+     "source": "Spectrum News",
+     "published": "2026-11-06T23:00:00+00:00",
+     "summary": "Leah Halton-Pope heads to Albany after un\u00adcon\u00adtested election, raising questions about how she got on the ballot&nbsp;&nbsp;Spectrum News",
+     "image": ""
+    },
+    {
+     "title": "Syracuse Fined for Violation of ACC Event Security Policy",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzhubmNaS2tHN3V1SXRSNVpIZ3RMUWxTRXRiXzBQdExaS1kxdy1JaktweElnYi1mdmNIcGdUcE1rTDhveHFld3l3S1NNU2ZncUdIMTdxQXIwWmd4RUxSNE04c0dTdUVDS090R21XLXhHSktJRDM0am5Zc1R3S3BHRTAxWjMxSXhwaURHTDlPYW4zT281YllwbGxTT3gtdFRybE9QTTkxUQ?oc=5",
+     "source": "Atlantic Coast Conference",
+     "published": "2026-11-06T22:52:19+00:00",
+     "summary": "Syracuse Fined for Violation of ACC Event Security Policy&nbsp;&nbsp;Atlantic Coast Conference",
+     "image": ""
+    },
+    {
+     "title": "Democrats blast Trump\u2019s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-06T22:41:34+00:00",
+     "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump \u2018learned nothing from his historic defeat\u2019 in the midtermsStephen Miller, arc",
+     "image": "https://i.guim.co.uk/img/media/f9722987baf4b5522f5f6efd1409295823e842e7/1157_0_6660_5331/master/6660.jpg?width=140&quality=85&auto=format&fit=max&s=06c8c454d7b539adc847dede55eb8ea3"
+    },
+    {
+     "title": "Oklahoma General Election results show interesting trends",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUXV1UjIxdUFkR2JGNXRzWlE0akRyZTNyb1FxYWRwZWQyNFpMWlRhVlFrTEUwZlhMZmFqbFBhV09zWjhJVnQ5eklGVUlmWWhSZmpQVTFUd0VaOGFaSm5Pa1k2RUQzZXZpSzQ4d21ZZ1VhbGczRFBZRHItOUtCUzJGMF9GQmJwSzVaeHQzVElBMXR6bEFMWllsNzhZWFRZN0RlVkd3U09MSjBHakliWjJF?oc=5",
+     "source": "KGOU",
+     "published": "2026-11-06T22:36:11+00:00",
+     "summary": "Oklahoma General Election results show interesting trends&nbsp;&nbsp;KGOU",
+     "image": ""
+    },
+    {
+     "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+     "source": "The Guardian",
+     "published": "2026-11-06T22:35:09+00:00",
+     "summary": "Wiles thanks president for \u2018honor of a lifetime\u2019 as departure leaves behind overwhelmingly male leadership teamUS politics live \u2013 latest updatesDonald Trump on Friday said Susie Wi",
+     "image": "https://i.guim.co.uk/img/media/d6499e3f63dde18f7bb2a51b347e1ff441c629ef/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ae10a4994ead9e50469741ef037db895"
+    },
+    {
+     "title": "Pope Leo says he voted in U.S. election because he's \"proud to be an American\"",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ud1A1eGJHZWxIcmJHZHZhZ0hTZE1IVDIxamktVzNNaW9rdTBLd0xIUDR0cVpsUVRVVW1JSENhVF9EV2NZUW53clRSOFVENkoyUndkbVRkejhIS1JkM1NzWDlTSEFqSFhyaWtuRDFEb3lnUjJLMFo0?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-06T22:27:42+00:00",
+     "summary": "Pope Leo says he voted in U.S. election because he's \"proud to be an American\"&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
     {
      "title": "Questions linger over UNH polling after Scott\u2019s Vermont election win",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdi16MUJiQU1YZVFrbFhJZ2puZHV2UUlLOEZNLW5OdVRQTkc0dTJfdENsWnMyZEVXWXAyaThhOGxSNnEwRnN6R2VaeF94ZkpGWlZ6VHUxNFBuZHNmRHctOWFoNzhMQTU2R3NFQ2pWVzNGc2JveTVQcEVTWG12OHo2VGs2c1QyUjhfYlZjZTFMcW5QUjJQTzVxeGl6VlVneDNEVnc?oc=5",
      "source": "WCAX",
      "published": "2026-11-06T22:21:00+00:00",
      "summary": "Questions linger over UNH polling after Scott\u2019s Vermont election win&nbsp;&nbsp;WCAX",
+     "image": ""
+    },
+    {
+     "title": "Independence to pursue legal action over special primary election tied to recalled councilmember",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFc1ZXJrdlBwMkVmVDhibXA0bHNpMHlJZHhqZG1Ka1c1UkFBcGRDMzdRRGlmQU5GajJnemtBRHo3M29wcU1GcElrUnhmT3U2Y0pYNjF2bFd3Tk5MZ1cxdFl4OVN2ZG10emk1cEZfd1JYTWpnV3pTSFB0bV9GRE0xSUZyQ3lDejZDTF9fU05PRWViVzQ5ZXhTWDJoQ1_SAbABQVVfeXFMUE5HZGZWNFZkRUNFRl9TM01RcjdyOXVYcXo3cDZmU2xnQTJZRFdoemI3ck1ob1JvY1VBLUR2ekNUTU82U1FGS3hJZHoxaGhteE16WDNybEx1RDhRWXZzNnpObnlHOVktOEl0RjVhZWxLS1l2LTI0NDRISldGeEFQZG1IdG5hVVZtRjhqT2hVUllRSTBPd0pwc3hMV1h3RWR4N3JVTk5iUnpQNXZZbU83LTY?oc=5",
+     "source": "KCTV",
+     "published": "2026-11-06T22:19:00+00:00",
+     "summary": "Independence to pursue legal action over special primary election tied to recalled councilmember&nbsp;&nbsp;KCTV",
      "image": ""
     },
     {
@@ -250,81 +306,25 @@
      "image": ""
     },
     {
-     "title": "Democrats blast Trump\u2019s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-06T22:16:07+00:00",
-     "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump \u2018learned nothing from his historic defeat\u2019 in the midtermsStephen Miller, arc",
-     "image": "https://i.guim.co.uk/img/media/f9722987baf4b5522f5f6efd1409295823e842e7/1157_0_6660_5331/master/6660.jpg?width=140&quality=85&auto=format&fit=max&s=06c8c454d7b539adc847dede55eb8ea3"
-    },
-    {
-     "title": "Federal lawsuit alleges Blaine County election map shortchanges Native voters",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMm5sTDNUWWJyWEpxZHZnWHJQeVVETVBXQ3VhbmNjV09lYlg0aXhnN0ozRGwta1dBUUlXVFhTLTlOQWMweElNcE53VVc0cjg0Nk9LT29tekxKRk9NVEhqOXUyOXlrLVZjeWdrZ2RsTHY2aUxfZ0VvMldHUHN5RVU3LWhFb2RNcjZDaVdpbU93?oc=5",
-     "source": "Montana Free Press",
-     "published": "2026-11-06T22:15:32+00:00",
-     "summary": "Federal lawsuit alleges Blaine County election map shortchanges Native voters&nbsp;&nbsp;Montana Free Press",
+     "title": "\u2018Like a falling house in Rodanthe\u2019: Inside the GOP\u2019s Election Day collapse in North Carolina",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXlxUndZc3ExZ2V4RVNwVklSdFh6OHRfM2dTZkNDZGFxc1lhNUMtaFcweTB2dlFIMFpRNVdtUU5Xb2FwdThld0p4T2UxSE4yUGVGYkgxY21kbThoTVFWM1h0OUh0cDJtYjd5d1hfU0FZZ3pyNWk2dVdEbjd5VlF3OHpGeVlmUG5uZUNNRTFXbjZRbHc5Q0c1MWZhZ1c0enFQdWZkbXRlMmRmSnVheU85bEZtN0N1Mm5vS1gyRUp5VXdGOEUwSC1pT1dLQUY?oc=5",
+     "source": "WRAL",
+     "published": "2026-11-06T22:12:48+00:00",
+     "summary": "\u2018Like a falling house in Rodanthe\u2019: Inside the GOP\u2019s Election Day collapse in North Carolina&nbsp;&nbsp;WRAL",
      "image": ""
     },
     {
-     "title": "Six takeaways from Queens\u2019 election results",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcE1DdmtuQWhJQXQ0VXFJMHRnNTFtNlZJbGVFcXNmb3pCcF84SnUzUE9MWklRd1hQNUZYaFFfdFYxQVdXWVpSOTNudlhDWUQxQkdXaUhlLU5xNUhLTVF1NmdzOTVuSVJYa2VxTjh4eW1sY0NHSXJialFlNmFfWnlSVmdEbTJZTzg?oc=5",
-     "source": "Queens Daily Eagle",
-     "published": "2026-11-06T22:06:49+00:00",
-     "summary": "Six takeaways from Queens\u2019 election results&nbsp;&nbsp;Queens Daily Eagle",
-     "image": ""
-    },
-    {
-     "title": "US midterm results in maps and charts",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-06T22:00:05+00:00",
-     "summary": "US midterm results in maps and charts&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "The White House\u2019s post-election shake-up: From the Politics Desk",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVNNeVVBN01VNTJkNWQ0MzdwNTlwZEQzcGZMejBiR2tXY1piZ3BEOUh0UE5fQmZQY3lXTnBNY0JZNlZBTUZrSkhrYVBlX3ZKNE5zWGlFVm5lM2IyQVNsTUhPNVlxU1BwU0Q3eFpxd2xVU1BNdW9OdFcyWmYwUm9oNUEwX1RQel80dGxzTGxDVm1OSllmMDBLWi1BNWNWa0YwWHBjQnNGVQ?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-06T22:00:00+00:00",
-     "summary": "The White House\u2019s post-election shake-up: From the Politics Desk&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Data centers were not winners in the 2026 elections, CBS News exit polls find",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TZWxXNEpzYmZVX0VhdEZSY0l3c0VaUlprbEE0OFMwLUlILWg5clBMWWstTTFtMWVhNTBpZS1GMUd0dTVWS1lWa3pvZXRyOXpxdHYtRGFKWm52alFVa0ZUMXJIV291RjVLS1F3cUJBNHhzZ1dmWXc?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-06T21:59:26+00:00",
-     "summary": "Data centers were not winners in the 2026 elections, CBS News exit polls find&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Cornell faculty declares \u2018no confidence\u2019 in school leaders in fallout from alleged gang-rape",
-     "url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
-     "source": "The Guardian",
-     "published": "2026-11-06T21:46:37+00:00",
-     "summary": "Faculty senate passed resolution expressing deep discontent with school\u2019s response to alleged fraternity rapeCornell University\u2019s faculty senate approved a resolution on Friday dec",
-     "image": "https://i.guim.co.uk/img/media/208f3baf785c851de0a8a0bd9d5f082eb25a9b62/958_607_3485_2788/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=cb0077fdc88415cf8710d12e60d16d21"
-    },
-    {
-     "title": "Shaping the Future of Maternal Mental Health Diagnosis Through Precision Technology",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1podi0td3NRSUpFMXpSS1Rfam85eU9OSzBDX3plQVR6NjJZWW1lQXNCa3dNNmhVSGFCVzFra0prbVJnTVdZUVphb29VTHFlQWMxQ1YwU251ckNPSnl5NUFPZEs1enJrQjBtY2ZPS1MxNC10Wl9aNXNNUzdfclZneUZ3YW1vRHBKeWpDb0hZUHJUckd1bFgwTW5QLW5tMS04cVBFeTd4SlI1ZktZM25VQUdB?oc=5",
-     "source": "Policy Center for Maternal Mental Health",
-     "published": "2026-11-06T21:46:35+00:00",
-     "summary": "Shaping the Future of Maternal Mental Health Diagnosis Through Precision Technology&nbsp;&nbsp;Policy Center for Maternal Mental Health",
-     "image": ""
-    },
-    {
-     "title": "What could the blue wave mean for economic policy in Michigan?",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFJjTFllcy1PbG1tQTBaa19IcW1aSllCeFBScHVIRm9uckhaZnVKQnN0eE5vVW45SzBWRHI3cFd3UngzSmI4WU40amFDYnVCNERjdTcxT0o4MGN1anBOQ09mbXk4VnQ2WWw1aEFjV2NrR1hVS1Z1cVVjU2o0NnRNTHFCNFRKb0VTd1c2aFdta3F0VlpUYU10V21xTUJxQ25Rb21YTm9sdUpMUQ?oc=5",
-     "source": "Michigan Public",
-     "published": "2026-11-06T21:43:00+00:00",
-     "summary": "What could the blue wave mean for economic policy in Michigan?&nbsp;&nbsp;Michigan Public",
+     "title": "National health experts dissect election wins, effects on healthcare policy",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjlkMGcxWEVRR0FVczBsMkotWkJkTC1UaEJDcVF5SEFKTnBJQk4tdjhyemJJWHM1MkhCSHVuZkR5Y3dDOUdYVlh2N3IwVVVDMDlBUzRfZml2REIwRHJkU1NmOWl5d1lmbldiMVh5c3JsN2tPY3pRWjdxSEZuajVSYlV3cEJIT1VqNDVQMUREeU9KelJQRkNfYWhJWmxoSWR3bkQ5WWRxMkFmS3BzUlhkNnZQSnc?oc=5",
+     "source": "Kansas Reflector",
+     "published": "2026-11-06T22:08:36+00:00",
+     "summary": "National health experts dissect election wins, effects on healthcare policy&nbsp;&nbsp;Kansas Reflector",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T22:34:46.334168+00:00",
+   "fetched_at": "2026-11-06T23:04:50.095284+00:00",
    "stale": false,
    "items": [
     {
