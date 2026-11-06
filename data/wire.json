@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-06T04:31:24.733856+00:00",
+ "generated_at": "2026-11-06T05:01:29.292262+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T04:31:24.733835+00:00",
+   "fetched_at": "2026-11-06T05:01:29.292240+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-06T04:48:36+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Trump issues proclamation declaring Oval Office national monument",
+     "url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T04:48:00+00:00",
+     "summary": "Following election losses, the signing marks Trump&#039;s third event of the week focused on signature renovation projects.",
+     "image": ""
+    },
+    {
+     "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+     "source": "The Guardian",
+     "published": "2026-11-06T04:45:24+00:00",
+     "summary": "Anthony Albanese\u2019s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harderGet our daily political email, free app or dail",
+     "image": "https://i.guim.co.uk/img/media/434b676957bcf76df3c92156dfeab6b9a4205f75/228_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=2321eaa579480cc31296c332af04b824"
+    },
+    {
+     "title": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
+     "url": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
+     "source": "France 24",
+     "published": "2026-11-06T04:31:40+00:00",
+     "summary": "In American politics, the possession of presidential power does not necessarily guarantee the capacity to exercise it. Few contemporary leaders have embodied this contradiction as ",
+     "image": "https://s.france24.com/media/display/e5e866a6-d970-11f1-8121-695cb59fade5/w:1024/p:16x9/EN-20261105-182123-182823-CS.jpg"
+    },
+    {
+     "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+     "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T04:30:26+00:00",
+     "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
+     "image": ""
+    },
     {
      "title": "Trump signs order preventing future presidents from changing Oval Office",
      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
@@ -14,20 +54,28 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6593/live/d5c2e140-d991-11f1-9ebf-51ca702e24e1.jpg"
     },
     {
-     "title": "Bondi beach shooting: Woman, 90, shot during massacre dies in hospital year after antisemitic attack",
+     "title": "Democratic Socialist Nithya Raman wins LA mayoral race",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T04:29:04+00:00",
+     "summary": "Nithya Raman&#039;s victory in LA marks the second major win for Democratic Socialists in a year.",
+     "image": ""
+    },
+    {
+     "title": "Building wind turbines out of parts found in Gaza\u2019s rubble",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T04:20:22+00:00",
+     "summary": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
+     "image": ""
+    },
+    {
+     "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
      "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-06T04:11:57+00:00",
      "summary": "Eva Geller was shot on 14 December 2025 during Hanukah festival and she has been in and out of hospital sinceGet our breaking news email, free app or daily news podcastA woman who ",
      "image": "https://i.guim.co.uk/img/media/72259763e62364f247e27c55fd8470a097d78fcb/117_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3139c875b5f912c45fb980a8414a9b0d"
-    },
-    {
-     "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-06T04:04:50+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
     },
     {
      "title": "Paraguay\u2019s president impeached amid bank collapse crisis",
@@ -68,61 +116,53 @@
      "published": "2026-11-06T02:28:02+00:00",
      "summary": "Opposition leader Jess Wilson grimaced as the \u2018Jess Express\u2019, carrying Liberals and reporters, backs into the structure in suburban MelbourneGet our breaking news email, free app o",
      "image": "https://i.guim.co.uk/img/media/fc341bfdee8ecbb0db7ebd74914b764abfa779a1/515_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=13780e9d776baf5ee1bc1b3e3264f044"
-    },
-    {
-     "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-     "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T02:08:57+00:00",
-     "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg"
-    },
-    {
-     "title": "Gaza turns discarded cooking pots into seawalls",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T02:03:47+00:00",
-     "summary": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
-     "image": ""
-    },
-    {
-     "title": "California governor commutes sentences of more than 500 people on death row",
-     "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T01:39:35+00:00",
-     "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
-     "image": ""
-    },
-    {
-     "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn\u2019t intentional but \u2018it was my fault\u2019",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-06T01:36:20+00:00",
-     "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024Beau Lamarre-Condon trial live updates: former p",
-     "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0"
-    },
-    {
-     "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-     "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-06T01:28:03+00:00",
-     "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b37/live/0e287b40-d96e-11f1-9fd0-cdf612d1539f.jpg"
-    },
-    {
-     "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
-     "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
-     "source": "The Guardian",
-     "published": "2026-11-06T01:22:49+00:00",
-     "summary": "Three suitcases\u2019 worth of the spiders were on their way to Germany, where they could fetch an estimated \u20ac1.5mMore than 3,000 tarantulas were seized at an airport in Lima on their w",
-     "image": "https://i.guim.co.uk/img/media/c8e02014efcb6621df0185a3b2dd97463db96479/238_75_789_631/master/789.jpg?width=140&quality=85&auto=format&fit=max&s=bfce97c63034fd949cbcc621f93c55c2"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T04:31:24.733846+00:00",
+   "fetched_at": "2026-11-06T05:01:29.292251+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump Says Iran Strike Decision Coming Soon; Russia-Ukraine Deal Near",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01YUxfWW1TZ2lTQ1lUU0xyQnBlX0JYWWpnUmRrTXdTWE5xVVM4b05UQThjUFhJNVZLak9SNzhZc093aFF3b0p5NW8yd3NUV3R3WnM4eg?oc=5",
+     "source": "bloomingbit",
+     "published": "2026-11-06T04:52:44+00:00",
+     "summary": "Trump Says Iran Strike Decision Coming Soon; Russia-Ukraine Deal Near&nbsp;&nbsp;bloomingbit",
+     "image": ""
+    },
+    {
+     "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+     "source": "The Guardian",
+     "published": "2026-11-06T04:45:24+00:00",
+     "summary": "Anthony Albanese\u2019s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harderGet our daily political email, free app or dail",
+     "image": "https://i.guim.co.uk/img/media/434b676957bcf76df3c92156dfeab6b9a4205f75/228_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=2321eaa579480cc31296c332af04b824"
+    },
+    {
+     "title": "Ukrainian forces reportedly target oil refinery as explosions reported across southern Russia",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkRLQm9wTUFBTVBqTnBpallGclVvYjBzaTNhU1B0Nk9zT1h1dzlrMUtnRGVLRFV0blpWQXU3ZHVrWG8xcGFkZHNuUHBrcGphbGJhVGdRU21IWmF4Vkkzak9zLW5Mc3hIeDNWYTdnejdOOWpmNHNfV3VvZ0lVN3o5NmtSWi1TYVBzVE9aTE1PeDVUOHlUeS1fcm42U1A3X0N6NHVhNHJ3M0k4UlZPSWpfbFBwcHJha3BkZUVkR1loWQ?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-06T04:41:12+00:00",
+     "summary": "Ukrainian forces reportedly target oil refinery as explosions reported across southern Russia&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+     "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T04:30:26+00:00",
+     "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
+     "image": ""
+    },
+    {
+     "title": "Building wind turbines out of parts found in Gaza\u2019s rubble",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T04:20:22+00:00",
+     "summary": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
+     "image": ""
+    },
     {
      "title": "Trump says Russia-Ukraine deal is near after meeting Putin\u2019s envoy",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVdfY1VZdDJHQ1BwVHpvTWlBT1Z3dTJfYWEzNlFzZ0I2Mm1NZFVEUjdBX3VGVjJPT1JOZXl0NTZBSFQ3MVhqMGtjd3VKMGFJUHp0ZFFSZHR3YmdLUnFBMU1QNURmbVhMSjVHa0NKZExiNG9BYk9VTm8xWjVvSWczMm9aZ2Jld2NlWXVNSnUwVTk4SXVIYVNUbkRZTGNCdS1HOVF0X09LUkdkRXZ4cFlQaklWQ1Nfc1HSAbwBQVVfeXFMTUh3dVBBbS1CN2ZSQVpGMVB3MWxqNFMtUW5BMEFOOHg3ZEs0VkFkU0dOc1g2MnhsOUpjbHUyd254V2p4UWhUa1p4ZU94V2duQ3RTbVhTdUNKcFpZYmxCVjNrRFhlTk5aRlpXbzI4QjVmMy1LYUpZdXBFTW43Z2dGSGlCUEQ3MktGYnpBakhrekJQS0FybzZaSlgzZ1hhakJVd1hTeVZUdThNbXQ5WXZZME85YnA5MFFrMWJsWEM?oc=5",
@@ -178,53 +218,53 @@
      "published": "2026-11-06T02:03:47+00:00",
      "summary": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
      "image": ""
-    },
-    {
-     "title": "Trump hints at 'big, beautiful' deal in Ukraine war after meeting with Russian envoy",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzFaaklNQlZBLTA1cmFuSDVXYUlMVHJEZWFMRkdnWDRNSm9KOW5KM1F0YzVISDdWcHZ4MV96YTFVVTRyT2lnckFXalY4ZlJYdmphQ1Q5VWNzY2FUdEdjLU8yb1NqS2xNdEdJcU00Z1RuM3A5Uld3NmVIa2szT0l2RGZFUUFDZDIweUVyOG9kREFVQzNlZmJCZTlyRzFhNlZ0a0FRd2hReVF3TFBqa1RTc0RJa0RPdElRNlVQRmg2dmhrR2h5R1HSAcsBQVVfeXFMT2s1QlBzWU1nV2VTeDc2TlExLWhrX1VMcEFXaG9xYUFJTUc0X1daNDRVSFNoczJ4WnREd0N6cllESDdjTUpuVjBDN2RWMWt6Zmw4S1hwWjN2ZTczT0ZPTktjYVJLeTNVdTI4VWk0RUh3NzVobklPTDJyX3Ytc0xMSFMzTlpjMndyTVM0c2NtcFRMVDlXN3VCd0IzWGc1M29pSkdpNl9VMHVLNFl0M1BvMklDOWI5bEs1VHp4OWVxRk1xdUctanZ0VEFGeDA?oc=5",
-     "source": "Firstpost",
-     "published": "2026-11-06T01:44:23+00:00",
-     "summary": "Trump hints at 'big, beautiful' deal in Ukraine war after meeting with Russian envoy&nbsp;&nbsp;Firstpost",
-     "image": ""
-    },
-    {
-     "title": "Donald Trump predicts deal with Russia on Ukraine and \u2018all of Europe\u2019",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1VJUHpmTWo4ZFd0bDl3bHJWUWZPNlRLRUZ5ZWlEMzhYRDd3QUJnME1KM2hQLXBOSjlJSTFMQjNyLVU3VnVLUUthSldudHlabC1OemhEaVVHcl9vX25yczBrSHpiTGJ4eHBYVFRSbkhuNF9xMl9tRkRjOUJzcGRlQlB4QVh1WlpTejF6T3lVX2I4LVNvUUl1MzdOZkRvSW1GWk4wSzVveUZUVEZBaEJjQ0hteXRfcGFWeHZ1NzZrWEZ6WExMVUhJM2ZrSdIB0gFBVV95cUxNTnBrSWxhRXFMRFJWbUpwZGk3Umk3NEJkZGprZkFZMHQ3UUxJMDBhMlpaSFJ5aDEzdmQyOE9HTHJrVml2S1lIV1VGVjBjNVpzdlBHZnd1dGtIT3BtV0ZLRWtHZzdQUHh2aHdLdUVoMUFBdjI5LUFBeEpHSDVHYUNkMnBVLWxiX281NnRkVjV6d1duUmtRaEJCWVBPUHBqTlIwbEYyTjJGd042NE93U0U1YVJSNjlPSlE3SEx3LV94dW5kbmZmdUdQWFBxN2dOSDlyNlE?oc=5",
-     "source": "The Hindu",
-     "published": "2026-11-06T01:07:49+00:00",
-     "summary": "Donald Trump predicts deal with Russia on Ukraine and \u2018all of Europe\u2019&nbsp;&nbsp;The Hindu",
-     "image": ""
-    },
-    {
-     "title": "Can Melania Trump succeed where diplomats have struggled? First Lady hosts Russia-Ukraine talks",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVVp1MWUxWUxtZHNZYklMSHBPcVlORmJiSTRRUFE0YS1ZSFBjaDNFTTlqMGpkcEt2OW9WUnVCRGlWeEd6YVlIekhXOWNkWlE1VUtwT0tlRTN3cUFOc2c3cUZERndEbWwzVy1GN0JmWXVCN1o5elVpSjJXcVY5RXFNRFJuajRXM2Q2TExlMmd4WEgyTWt6OU5zbm96aFRMSGs3dUhPY3dOYmx0c282LW9vd0dKcklYb3ZGX0tUdFhWSlhmY2I0dUxZb05SSzV0c09ySzc1bUFOaFRsVHpWQXpOd0lvX2g2RE9GV3fSAe8BQVVfeXFMTVVPa2x3VV8tTmg1VldSRUkxWjNSR0V4VlFOZUhrNVRZTko2clB2SjJDdmN2Y2RDc0llM1BkZzRVNlZ1aldrS1BPbzU5aDYzeDF6VjZpVFdNYndvYnhCbHAxUXRwM1Fic09QUW9ZaThONmhTOTI1dWlyRkMwaldTVjk2clc3WnY0cFl1ZWphbTVXQXJzLTROTVZvUFhaRXZwRmp5dEZfWG1CanBQNHFhNVNSOWlLVkxwMjg1RTlGYmJVdHRGTTd5T3VWem1HSWRRUmZxSGoyZjZ1am85d3M1bDJ3eTNyRU11NVJkOTVrMTA?oc=5",
-     "source": "Firstpost",
-     "published": "2026-11-06T01:06:30+00:00",
-     "summary": "Can Melania Trump succeed where diplomats have struggled? First Lady hosts Russia-Ukraine talks&nbsp;&nbsp;Firstpost",
-     "image": ""
-    },
-    {
-     "title": "Trump says 'big, beautiful' Russia-Ukraine deal in the works after meeting Putin's envoy",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUU9NLS1KWVJlck9EWlJpOXZfOXlhTDlLTjVQWW5HdGlhQXpxRzd3WkF3VXVyRlF2MlpSQ0s3eFdZVG51MWZBRVROOUQ3bWtYTXhpbUV5SWJTbnhoZ1RuOUdXeGkzX2xZWVIzZm8wWmNTNU1EY3pScUpfa3oyajQ4TFZJV3lXcVk5dkZkaWx1MURHU0dsZmfSAZYBQVVfeXFMTUN3RVdOVEpyblZuY0ZxOEQzY0tPaDNseGZzcHN2V1BXMUt3dHhqdWxudld0dTh3cVBqYWR3ZVItNDZURTlQYlZ1VGhhbHk1N3dGVlRuY1c2TGw4WXYyaU04ODU2MVdvaWNYR0J6dXh4N0cwcThabVYydTFhMFFJRkNrX1ZRS0lyMkF1OFJ0RjJXYUpoNzFR?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-06T00:26:17+00:00",
-     "summary": "Trump says 'big, beautiful' Russia-Ukraine deal in the works after meeting Putin's envoy&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T00:19:57+00:00",
-     "summary": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T04:31:24.733848+00:00",
+   "fetched_at": "2026-11-06T05:01:29.292254+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "source": "The Guardian",
+     "published": "2026-11-06T04:48:36+00:00",
+     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
+     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
+    },
+    {
+     "title": "Trump issues proclamation declaring Oval Office national monument",
+     "url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T04:48:00+00:00",
+     "summary": "Following election losses, the signing marks Trump&#039;s third event of the week focused on signature renovation projects.",
+     "image": ""
+    },
+    {
+     "title": "These Democratic Senate candidates won their races before Election Day",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1kUUlndS1NaFdiT2dtUDNKbWNLSTM4U2N0Q211dlZvTDJaVDFMRHQzYWRZOVY2VktCaGVONDF6ZU5TdFpRNjJOajU4NkVFb19aSENpUWtDSTJOT3ktMWdocEJPVnMxUGFFdzFnVERzMzdrdFpNME1rTUROdjc0WnNlOTlvakI0R0RVWWdoZ3F5QWlPYnM3NElZTUNROU56Z0dwbVhKVU1xeGdJa05Sc18zNEwteHlJd05GU2dhQQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-06T04:46:19+00:00",
+     "summary": "These Democratic Senate candidates won their races before Election Day&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
+     "url": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
+     "source": "France 24",
+     "published": "2026-11-06T04:31:40+00:00",
+     "summary": "In American politics, the possession of presidential power does not necessarily guarantee the capacity to exercise it. Few contemporary leaders have embodied this contradiction as ",
+     "image": "https://s.france24.com/media/display/e5e866a6-d970-11f1-8121-695cb59fade5/w:1024/p:16x9/EN-20261105-182123-182823-CS.jpg"
+    },
+    {
+     "title": "SC Governor-elect Alan Wilson discusses the election",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQk9FXzNDWWN4bkVEUjRKVjcwRDVwZkpELVRzdUF0LVlzM3pLbFVzYmt4Y2hjbGlwWHNmRlNFSkVqTHQ0eWV5dENqR3VaOWZNMU1RaFIza0llemJXYVR5dTEwWW5UOUNSWlN4N3pIV3lRZ2p6MUYwcVdUaVA1RzhET3VlaTFERXpESmfSAZ4BQVVfeXFMTUxENkxyNE5JemphbGRVY2RCeVJERFVtMTJEbmpsU1FKRXkyb0tUWFZubWJmM2VyYmt4NXdhSENwbktNNk82elRWV21BeU92Vl9nQkNrbG1PNHYxSG9UdVluRlFQWVQ1THBnSEZMYUJUU0loM3cwZDBPMVppa2d3U3lzbzlTblZfMDhkRmE2SkpmQXlGd3ZjWDdtTmJrS0E?oc=5",
+     "source": "WIS News 10",
+     "published": "2026-11-06T04:31:00+00:00",
+     "summary": "SC Governor-elect Alan Wilson discusses the election&nbsp;&nbsp;WIS News 10",
+     "image": ""
+    },
     {
      "title": "Trump signs order preventing future presidents from changing Oval Office",
      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
@@ -232,14 +272,6 @@
      "published": "2026-11-06T04:29:25+00:00",
      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6593/live/d5c2e140-d991-11f1-9ebf-51ca702e24e1.jpg"
-    },
-    {
-     "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-06T04:04:50+00:00",
-     "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a \u2018Watergate-level repudiation\u2019Live results | Q&",
-     "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d"
     },
     {
      "title": "Paraguay\u2019s president impeached amid bank collapse crisis",
@@ -274,30 +306,6 @@
      "image": ""
     },
     {
-     "title": "Florida\u2019s election system: From hanging chads to national model",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWlhVEdzdkxpYlhHUXd5VkxTLWlNVVpYNTAyNXlSSFJwczU5LXhGaDhSOFRWRXpNS2hmcHFKbmRaSHo3ZTRWZjlOeDA3YjBrclN5X0NmaEZCd3NmT2swS0RSVVFXUk5YTm10T1dtOHB2MU5QRHdINlBMcmo2STUyOVF2UWZ0cDNOZHVEVlJpYkhaMUVqWGlkdHhzQWN2SE5kb0ZUM1F6bE5USUdm?oc=5",
-     "source": "News4JAX",
-     "published": "2026-11-06T03:23:59+00:00",
-     "summary": "Florida\u2019s election system: From hanging chads to national model&nbsp;&nbsp;News4JAX",
-     "image": ""
-    },
-    {
-     "title": "These Democratic Senate candidates won their races before Election Day",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONk1kUUlndS1NaFdiT2dtUDNKbWNLSTM4U2N0Q211dlZvTDJaVDFMRHQzYWRZOVY2VktCaGVONDF6ZU5TdFpRNjJOajU4NkVFb19aSENpUWtDSTJOT3ktMWdocEJPVnMxUGFFdzFnVERzMzdrdFpNME1rTUROdjc0WnNlOTlvakI0R0RVWWdoZ3F5QWlPYnM3NElZTUNROU56Z0dwbVhKVU1xeGdJa05Sc18zNEwteHlJd05GU2dhQQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-06T03:16:19+00:00",
-     "summary": "These Democratic Senate candidates won their races before Election Day&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Colom widens lead over Hyde-Smith with thousands of Mississippi ballots uncounted",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDFBUXl1ZFBZNmVUazdWOG5VeHFrakxqM0pmdW05V2NuUko3LWF4bVVVQ3hoNlNaSlF6eDA1VDdLd0pEVnlPM0RpcEZ3UEF2RDdYZ09VOE03aGtOalYxVUNUU0h1QWVjZTkxRjFPVmlKZXpjR2lvOG1aY1V4SXBkLUl2MFBGeWRhNFlkYzFqM3lOUW1EZWc4?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-06T03:10:11+00:00",
-     "summary": "Colom widens lead over Hyde-Smith with thousands of Mississippi ballots uncounted&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
      "title": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRW5XalRkamVpa3ZpbjZneDktVzZXeHlkVV91TVdMcFRQZ0VpOURMSy1fM0t5UmVrNTVMNlk2b0d0YXF4cFBhc0VOenVXRlIwdVpkck9VSmZxRWJQRU4zd1gxWjdjMlpCTkloYUh2d2tqS19KTkt5dTVPbXdqWG5PUTZlSXFfdTJkNDNlbkpvT2ZzRWxoWWZTaXdHU21icjQyenVlVmNOMU9Lc2dFdk1XUUtrYVBLa1RpeVlv?oc=5",
      "source": "Reuters",
@@ -312,19 +320,11 @@
      "published": "2026-11-06T03:01:00+00:00",
      "summary": "Michigan election watchers celebrate smooth operation in Tuesday's midterms&nbsp;&nbsp;Michigan Public",
      "image": ""
-    },
-    {
-     "title": "Federal judge orders Justice Department to stop threatening election officials in Washington state",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd1hmTHNlU1dYVGIyRXpjN2I1blkyMlp1YjcxUzZOb0I0VDRYMFltc2d0YmpiaGpPOWlId2ZVUmhkMFB3NVNEM0FXR0pJenA1NGpTd3JWczZtTC1pTzVxZmlrU1RPX2hYN3d3dFFZeElDRWxWOHc5SFAwdWo4SHhycDV6TFhEWlBGeUk5Tm5WRzNWWktOOEt0UXc4VE1mNjFWS2FSWmdDZkJIcURidW9LVDkyX3lSd1owSURyc0FPajdwZTJRNzB1eUo3YnBMSU9hVXQtaTBRVzJpWjdmeXVOc25R?oc=5",
-     "source": "Politico",
-     "published": "2026-11-06T02:59:00+00:00",
-     "summary": "Federal judge orders Justice Department to stop threatening election officials in Washington state&nbsp;&nbsp;Politico",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T04:31:24.733850+00:00",
+   "fetched_at": "2026-11-06T05:01:29.292255+00:00",
    "stale": false,
    "items": [
     {
