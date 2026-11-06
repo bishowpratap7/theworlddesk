@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T11:32:25.803559+00:00",
+ "generated_at": "2026-11-06T11:32:38.600965+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-06T11:32:25.803526+00:00",
+   "fetched_at": "2026-11-06T11:32:38.600933+00:00",
    "stale": false,
    "items": [
     {
@@ -20,6 +20,14 @@
      "published": "2026-11-06T11:20:08+00:00",
      "summary": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or divertedA Romanian airline Tarom flight from Prague to Bucharest is the latest believ",
      "image": "https://i.guim.co.uk/img/media/58e977d2b6d34908f3a1633b4fa07e17d6057f95/318_0_3183_2546/master/3183.jpg?width=140&quality=85&auto=format&fit=max&s=29222f7d7f4e7258fa14098766047133"
+    },
+    {
+     "title": "Hoax or bomb threats? What we know about flight disruptions across Europe",
+     "url": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T11:18:02+00:00",
+     "summary": "Security inspections reveal no explosives as fighter jets escort planes amid Europe&#039;s major wave of bomb threats.",
+     "image": ""
     },
     {
      "title": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
@@ -108,19 +116,11 @@
      "published": "2026-11-06T10:37:42+00:00",
      "summary": "A bus carrying school children crashed south of Bourg-en-Bresse in eastern France on Friday, killing at least two people and injuring 16 others. The vehicle was carrying 43 passeng",
      "image": "https://s.france24.com/media/display/9fa0ca48-d9cb-11f1-bfa1-695cb59fade5/w:1024/p:16x9/000-D6M83MF.jpg"
-    },
-    {
-     "title": "Pollution, shortages, crime: Daily life in Pakistan's megacity Karachi",
-     "url": "https://www.france24.com/en/tv-shows/focus/20261106-pollution-shortages-crime-daily-life-in-pakistan-s-megacity-karachi",
-     "source": "France 24",
-     "published": "2026-11-06T10:32:02+00:00",
-     "summary": "Fed up with hours of power cuts, the residents of Pakistan's economic hub Karachi took to the streets in recent days and blocked several major roads. The outburst of anger highligh",
-     "image": "https://s.france24.com/media/display/365618b2-d940-11f1-a61a-d18c5759e759/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-PAKISTAN-KARACHI-BAIN-Lauren.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-06T11:32:25.803543+00:00",
+   "fetched_at": "2026-11-06T11:32:38.600948+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-06T11:32:25.803547+00:00",
+   "fetched_at": "2026-11-06T11:32:38.600952+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-06T11:32:25.803550+00:00",
+   "fetched_at": "2026-11-06T11:32:38.600954+00:00",
    "stale": false,
    "items": [
     {
