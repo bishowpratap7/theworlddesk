@@ -1,17 +1,25 @@
 {
- "generated_at": "2026-11-07T11:36:47.580650+00:00",
+ "generated_at": "2026-11-07T12:06:51.070399+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T11:36:47.580618+00:00",
+   "fetched_at": "2026-11-07T12:06:51.070368+00:00",
    "stale": false,
    "items": [
     {
      "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
      "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
      "source": "The Guardian",
-     "published": "2026-11-07T11:24:50+00:00",
+     "published": "2026-11-07T11:51:36+00:00",
      "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast",
      "image": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=842242f69139eccf98f50148f27a190a"
+    },
+    {
+     "title": "Nepal\u2019s fight to rebuild after flood disaster",
+     "url": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T11:30:00+00:00",
+     "summary": "101 East reveals Nepal&#039;s efforts to save lives and rebuild communities after a devastating natural disaster.",
+     "image": ""
     },
     {
      "title": "Rains flood thousands of displaced families\u2019 tents in Gaza",
@@ -108,21 +116,53 @@
      "published": "2026-11-07T09:39:55+00:00",
      "summary": "Democrats are also calling for tighter regulation of AI data centres, a concern shared across Europe. In Amsterdam, several hundred activists occupied the site of a planned Microso",
      "image": "https://s.france24.com/media/display/7b12b7e0-da8e-11f1-96c8-d18c5759e759/w:1024/p:16x9/EN-20261107-100946-101139-CS.jpg"
-    },
-    {
-     "title": "Yemen: 30 dead in strikes on Taiz market",
-     "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
-     "source": "France 24",
-     "published": "2026-11-07T09:37:16+00:00",
-     "summary": "At least 30 people have reportedly been killed in an attack on a market in Yemen\u2019s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authoriti",
-     "image": "https://s.france24.com/media/display/9da14e8a-da8d-11f1-9c90-bf1914cabd52/w:1024/p:16x9/EN-20261107-090700-090851-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T11:36:47.580633+00:00",
+   "fetched_at": "2026-11-07T12:06:51.070382+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Europe insists that Putin end the war in Ukraine before discussing Russia's \"concerns\" - Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa1JYYnR3Uk5SaDRlVW5EdnZmS01BRUJmRzh0TmNvWC1uZGdHUXE5Z29DOE83dE0ya1VKeksyd1M4aG5ROHBjalV1OTMxNVpFeXN0cG5KZ2N0SU5rdjVQVzVSeVBIRHl2Q05ocGpTeVlOR3VmSDc3a0ZGS3dLckRobVh0MUZMWFdMY1hDN3dFbXRZa3NRTnA1OThUM2QyRDMxa0xYd2gtdHhDZ3hMNVp3UUNwaG5ocDDSAbYBQVVfeXFMT0ZPSWtjeXpqNk9qTjhGMFppLW9sRXRwVFlDdkl5ZTZXV1FtcVA2aHBfZVdWWGYtX2NpSFprd3NGM2s4ZHQwSlYzUFdiNjZ3QlRvaHR0VnZyb2hFR2NWUW1Semd1TVpYX0VYU3BfUFdpd1JLeEdVNElvZ3hiWnhZVjJLTFY5NHFfN2x0aWFXdmlycGJQdk0yQUVKZFN0VFZ4akJPcFd4V3ZwZDZWcUwteGNBcG1MeUE?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "published": "2026-11-07T12:00:31+00:00",
+     "summary": "Europe insists that Putin end the war in Ukraine before discussing Russia's \"concerns\" - Bloomberg&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "image": ""
+    },
+    {
+     "title": "Russian Diplomats and Military Officials to Join Talks with U.S. and Ukraine, Kremlin Says",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzlybkloUEU2b20xaTN4bGZMZGE5ZHBlR1JXTFVaV0VVbWlVRVhkd1NuaHRyYmp1ZjhvclZUdWh6cTEtOXY4ZHdHYXRlbkQySk5HbldoSThFSlcxdGVIakNmUUlNdExPd1NMNG1aUXdyNElWQ1JmYmQzemVxcTFoMUFpeHBqckRYdlZnWHZPY3Jyd3RKQjZHcU1kSm5kdDBVbm1FUXF0YzVqNDlPc1FWN2FHVWdEZ096QlZZdlpsNk9wbFpUOGZ5bDZzdGM5c0VaMFE?oc=5",
+     "source": "The Moscow Times",
+     "published": "2026-11-07T11:58:03+00:00",
+     "summary": "Russian Diplomats and Military Officials to Join Talks with U.S. and Ukraine, Kremlin Says&nbsp;&nbsp;The Moscow Times",
+     "image": ""
+    },
+    {
+     "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45OXRwNFFvSTBUTmhWMUp1OVgxSUQyVG1WSThlZEJnQUJpcWZ3QkpETC1raUpnNW5TeVNWUFdHQ0tyRUxOSGtYYkxmYW9vNDFCYjBLRlJvcjl3YXAxTFNNbXh1VXZpYnU3ZFJN?oc=5",
+     "source": "Mediazona",
+     "published": "2026-11-07T11:51:31+00:00",
+     "summary": "Russian losses in the war with Ukraine. Mediazona count, updated&nbsp;&nbsp;Mediazona",
+     "image": ""
+    },
+    {
+     "title": "The tank isn\u2019t dead. The way it used to wage war might be.",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeUY1SUdsNEV2LTdZSGl1M0NFY2FNZGczeWY4UzhIaXdJTEh2Ylc0MkFWS243M2FfN0pCaDR3X3BtcjBFY1lWcXVIa1hoSlNIQmdsRTZxTzllZjZ5OTFDR2djZGNzQ2UtbnlJbXZrZXktYWxJQ3BQendsZTRCYThvQzNIY1loLTFIYVg3Nlp3Yw?oc=5",
+     "source": "Business Insider",
+     "published": "2026-11-07T11:47:00+00:00",
+     "summary": "The tank isn\u2019t dead. The way it used to wage war might be.&nbsp;&nbsp;Business Insider",
+     "image": ""
+    },
+    {
+     "title": "Russia Strikes Kyiv Energy Infrastructure, Northern Bridge Ahead Of Abu Dhabi Talks: how 5 outlets framed it",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDFWLXNwX2R3VGVGTHNYdVU1bW56QkhqcnVxcFotS3NWLXgySVBMcW1TRXRXM2Zzc3Z5dVcydHp3R2p1WUJoQzhmdzVGaFNtNGlPclB3R3VQVy12NFRQZ0JUSnRKYmotVjFldHVJN2lHRzhmX2Ryazk3ajhrVGNyQkdDQnNTUlBSSmJUaHBsOEpWdHNOOEdhMnNuRXhCalRneHE1N29XeTFmVHJGbGhjczNENVBaMXZIbWlNR2VaOGRRNHJESThoWUxIaDNVN2M?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-07T11:20:14+00:00",
+     "summary": "Russia Strikes Kyiv Energy Infrastructure, Northern Bridge Ahead Of Abu Dhabi Talks: how 5 outlets framed it&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
     {
      "title": "Rains flood thousands of displaced families\u2019 tents in Gaza",
      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
@@ -178,68 +218,68 @@
      "published": "2026-11-07T10:08:57+00:00",
      "summary": "Casualties reported in Kyiv as Russia, Ukraine trade accusations about overnight strikes&nbsp;&nbsp;Anadolu Ajans\u0131",
      "image": ""
-    },
-    {
-     "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
-     "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
-     "source": "The Guardian",
-     "published": "2026-11-07T10:04:01+00:00",
-     "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand\u2019s victims coming forward: \u2018I hope you are pleased with yourself\u2019Russell Brand\u2019s barrister ha",
-     "image": "https://i.guim.co.uk/img/media/f0e8acc5ff9e24724878c25106cb3494ac318760/149_0_1807_1446/master/1807.jpg?width=140&quality=85&auto=format&fit=max&s=a8a8468f7601eb8a03986edb9cefa0ed"
-    },
-    {
-     "title": "Inside the Operation That Helped Ukraine Turn the Tables",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlU5ZjdTamhLa1pJSHRwQlk2RDJ6TzJmOW1QN1VFR08xcDg2eDllcmlSbFhUZzZIcjVUdXpicWN3RjJmaUpZaUtwNFlmZ3RiQlpFbXUtZEM0eWx6N2xGS3R0Zzd0UV9KWGhKS3RTVHlrNGtsWkdhSmZLd09UWGFWMjZXbHB4RWt4WUtRazRPTEphRk0?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-07T10:01:41+00:00",
-     "summary": "Inside the Operation That Helped Ukraine Turn the Tables&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Palestinian citizens of Israel put to \u2018loyalty test\u2019 after election wins",
-     "url": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T09:48:11+00:00",
-     "summary": "Palestinian citizens of Israel say Arab parties&#039; success in recent elections has led to growing pressure.",
-     "image": ""
-    },
-    {
-     "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45OXRwNFFvSTBUTmhWMUp1OVgxSUQyVG1WSThlZEJnQUJpcWZ3QkpETC1raUpnNW5TeVNWUFdHQ0tyRUxOSGtYYkxmYW9vNDFCYjBLRlJvcjl3YXAxTFNNbXh1VXZpYnU3ZFJN?oc=5",
-     "source": "Mediazona",
-     "published": "2026-11-07T09:44:49+00:00",
-     "summary": "Russian losses in the war with Ukraine. Mediazona count, updated&nbsp;&nbsp;Mediazona",
-     "image": ""
-    },
-    {
-     "title": "Yemen: 30 dead in strikes on Taiz market",
-     "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
-     "source": "France 24",
-     "published": "2026-11-07T09:37:16+00:00",
-     "summary": "At least 30 people have reportedly been killed in an attack on a market in Yemen\u2019s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authoriti",
-     "image": "https://s.france24.com/media/display/9da14e8a-da8d-11f1-9c90-bf1914cabd52/w:1024/p:16x9/EN-20261107-090700-090851-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T11:36:47.580637+00:00",
+   "fetched_at": "2026-11-07T12:06:51.070386+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Who voted early in Idaho\u2019s election? Mostly Republicans.",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3NQV1ZfTmNkenVyd2FKNGNwb245LWowU3hhU1F0aXhTZy1WUGJabHdDTWpPTHZJV0I5VEJhNXNxZkdzUk5HWndwNWpvcUQwZHF2UnNLWlhxeVIzSDlJaTluZjBtY1l4VGVnaV9OdVUyY2cyR3p4dkd0QkxBR3RJbDVGRzdsY0tISjBkRzdlMnNoVDJPdUQzVQ?oc=5",
-     "source": "Idaho Capital Sun",
-     "published": "2026-11-07T11:34:36+00:00",
-     "summary": "Who voted early in Idaho\u2019s election? Mostly Republicans.&nbsp;&nbsp;Idaho Capital Sun",
+     "title": "Off the Charts newsletter: A post mortem of our election model",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3J0SDBqNHlFV3Zrdml1UnR3RGp2cDNwT2tRcmd0ZFc2bEQzTV93S2xqalVzTFdrbUJRVjh5R2dYbi1kVlBzNHoyT1h5cEZpWXZLRGxRNmZha1pXb0NCMTFzdHM0MjBtRjlGVHlXVk80VkdTd3RyblBpQV81SWozNXhfOXd1cTB0cmJWT2dBa3NSSDVpRGVydkR5Q0pNZ0I3empkWENpQ1dCMm04Wl9FOXV1SQ?oc=5",
+     "source": "The Economist",
+     "published": "2026-11-07T12:02:21+00:00",
+     "summary": "Off the Charts newsletter: A post mortem of our election model&nbsp;&nbsp;The Economist",
+     "image": ""
+    },
+    {
+     "title": "How Election Night felt on UW\u2019s campus",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcl81OFhmb3MycXB4eE85M21lMjRjbFJITnRtNmEzYU1hdDZ6Z3Y2SHhIcGR5c0l3Skt3Y1hoVzJMdVpDeGNqLXVtZlMwZkx5RS1CR0ZZRUZCWTZuVXlMbzl6VjVTSFlrV3FESUQzYmdKeTVEckxZWUI2WGo0TWNPQTJB?oc=5",
+     "source": "News From The States",
+     "published": "2026-11-07T12:00:00+00:00",
+     "summary": "How Election Night felt on UW\u2019s campus&nbsp;&nbsp;News From The States",
      "image": ""
     },
     {
      "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
      "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
      "source": "The Guardian",
-     "published": "2026-11-07T11:24:50+00:00",
+     "published": "2026-11-07T11:51:36+00:00",
      "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast",
      "image": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=842242f69139eccf98f50148f27a190a"
+    },
+    {
+     "title": "Conservative bloc takes a slim lead in New Zealand election that\u2019s still too close to call",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE?oc=5",
+     "source": "AP News",
+     "published": "2026-11-07T11:44:00+00:00",
+     "summary": "Conservative bloc takes a slim lead in New Zealand election that\u2019s still too close to call&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "New Zealand\u2019s Conservatives Narrowly Lead in Election",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTBvWDhndW1sNFJUNlQxU2w3ZHB0a1VJNHkwWUo1TUFucHREdHBOcFpZLWljR1oydFQtTzRTM3Z1d2NKdkxaR3liR29nSkhuZnJYNmU0UVhPaE1ISU5maXFobklRZW1MTl90aF9lQVZCcEZwdUJiNjg0T1ZTbV95Y0V6RWFGSjN1YUl4U1JxMUlyZUI5WnUyY2VBZw?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-07T11:40:00+00:00",
+     "summary": "New Zealand\u2019s Conservatives Narrowly Lead in Election&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
+     "title": "Who voted early in Idaho\u2019s election? Mostly Republicans.",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3NQV1ZfTmNkenVyd2FKNGNwb245LWowU3hhU1F0aXhTZy1WUGJabHdDTWpPTHZJV0I5VEJhNXNxZkdzUk5HWndwNWpvcUQwZHF2UnNLWlhxeVIzSDlJaTluZjBtY1l4VGVnaV9OdVUyY2cyR3p4dkd0QkxBR3RJbDVGRzdsY0tISjBkRzdlMnNoVDJPdUQzVQ?oc=5",
+     "source": "Idaho Capital Sun",
+     "published": "2026-11-07T11:34:15+00:00",
+     "summary": "Who voted early in Idaho\u2019s election? Mostly Republicans.&nbsp;&nbsp;Idaho Capital Sun",
+     "image": ""
+    },
+    {
+     "title": "Energy policy comes into focus after Dems take majorities in Michigan",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblRObmNwSk1Rcm9EYWlSX2h2NlkwSE11YkJGVEYtN2tOamNiODZ1TmlobEdsdTJ4RUYtN3Z6NjJHbUtHTnV0WVYwSk1nZmRYcHNjb2V5MUtHQ1FONW1rRTJoWkJael9BRWVsbktpbno3OVNSODJpbDA2UnhPbVQ2TGtNbXhhWjhRVVhDT0lWdURrelc3elNTUzcxWkNVcWxhNkUtMGYzQ3g1bTdOZ1U4?oc=5",
+     "source": "Detroit Free Press",
+     "published": "2026-11-07T11:07:00+00:00",
+     "summary": "Energy policy comes into focus after Dems take majorities in Michigan&nbsp;&nbsp;Detroit Free Press",
+     "image": ""
     },
     {
      "title": "NZ\u2019s next government hangs in the balance: 2026 election results at a glance",
@@ -280,51 +320,11 @@
      "published": "2026-11-07T10:50:00+00:00",
      "summary": "Who won in Manatee County? Here are key takeaways from Election Day&nbsp;&nbsp;Bradenton Herald",
      "image": ""
-    },
-    {
-     "title": "French presidential election: How far-left M\u00e9lenchon became a Gen Z favourite",
-     "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
-     "source": "\u00a9 Abdul Saboor, Reuters",
-     "published": "2026-11-07T10:44:34+00:00",
-     "summary": "Far-left presidential candidate Jean-Luc M\u00e9lenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonethe",
-     "image": "https://s.france24.com/media/display/056e4b3c-d9d3-11f1-9077-695cb59fade5/w:1024/p:16x9/2026-10-24T131136Z-1842472203-RC2O9OAUQRZE-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-     "title": "Conservative bloc takes a slim lead in New Zealand election that's still too close to call | National News | 2news.com",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWmhEdUZRaXRocUQ0RFlmZXBUQ2hIal9pS3FjUGZBVGZ2V1UyVWg3Sjl1QXJzRFFCMDY3bUJESmN4blM1Z285UEI5YWlzQUd1aHYySElsa0pUSDV0cGZZbmJyeTVNMW82N3hreGpUMWN0cUtDa0xzbU1iUklkMno3MmM1TGp2aUUxTXRqcDl4QTJzckR3R2t3SzVmTG9fX1VWQ01LX0hVdU5jeGdNdnVCYzViaVp1UGJ5Y3J1WHQ5NTZnZVBvX1RLNGw2MmRxUGxRV1pLRmZHQlN6aUVrWFhMVF9MNkw5X1BkekV5bDhKUDRZdmo5VFdQWElTenY?oc=5",
-     "source": "KTVN",
-     "published": "2026-11-07T10:39:20+00:00",
-     "summary": "Conservative bloc takes a slim lead in New Zealand election that's still too close to call | National News | 2news.com&nbsp;&nbsp;KTVN",
-     "image": ""
-    },
-    {
-     "title": "\u2018Like being hit between the eyes with a sledgehammer\u2019: Meet the one town in America that defied election trends and voted in favor of data centers",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUJOTWdabXRyQTJNeXdpc09pazJQaVByODYxZWdLZk15Y0pJSU8yS196dkNHSmlkOVhBT0ctWG1qX0NWV01UTG5nNzZ2T2thdEduR3Rtek1PY0xGYmxRTTRXZmxxaXVGZUxPc3dacWxSakdnWEhmM0liTlY5Wm1uMlA4REhUamRkVmNHemYxbUdfcEZuRWN2ZUJmRHZMMmRDd1JXZg?oc=5",
-     "source": "Fortune",
-     "published": "2026-11-07T10:19:00+00:00",
-     "summary": "\u2018Like being hit between the eyes with a sledgehammer\u2019: Meet the one town in America that defied election trends and voted in favor of data centers&nbsp;&nbsp;Fortune",
-     "image": ""
-    },
-    {
-     "title": "An election night of firsts, and a soccer legend steps off the international stage: The news quiz",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMUo3QnZJVExxdEw3YnBFRjVURzJ5TGlVZk11YW56U3dhR3RxbTVuTlVIMldRM2l4WWRsVkZLckxGYXVLQ3RwNmVwYmo3emhiNlNPRmJSb2tQVjV3Z2pSUUxZWDU0VHEwSW5NSlVjaVFoMDlqUkVBeHJqM214Tm1oVngzaWxIOFhWRlg4?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-07T10:15:00+00:00",
-     "summary": "An election night of firsts, and a soccer legend steps off the international stage: The news quiz&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Trump faces criticism for \u2018dangerous\u2019 Stephen Miller appointment as White House chief of staff",
-     "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
-     "source": "The Guardian",
-     "published": "2026-11-07T10:00:08+00:00",
-     "summary": "Democrats and Republicans blast promotion of \u2018xenophobe\u2019 who led administration\u2019s immigration crackdown in wake of US midterm electionsDemocratic lawmakers decried Stephen Miller a",
-     "image": "https://i.guim.co.uk/img/media/4bf2fa47568a8900b9eab3de3b35711cc466232f/710_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=22ef00c2cb8e0d4235eae1f544f1fac2"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T11:36:47.580640+00:00",
+   "fetched_at": "2026-11-07T12:06:51.070389+00:00",
    "stale": false,
    "items": [
     {
