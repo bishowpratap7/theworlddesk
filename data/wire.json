@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-07T02:05:15.129556+00:00",
+ "generated_at": "2026-11-07T02:35:18.751455+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T02:05:15.129524+00:00",
+   "fetched_at": "2026-11-07T02:35:18.751426+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+     "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "source": "The Guardian",
+     "published": "2026-11-07T01:55:11+00:00",
+     "summary": "Santiago Pe\u00f1a was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bankParaguay\u2019s rightwing",
+     "image": "https://i.guim.co.uk/img/media/3279bdc7ce3e00c2cbd356e73e342e1cba40051e/294_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=53fe013eafe5b6ddce4601a63f181f9a"
+    },
+    {
+     "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+     "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T01:55:03+00:00",
+     "summary": "Children and teenagers make up almost 60 percent of confirmed cases.",
+     "image": ""
+    },
     {
      "title": "Stephen Miller, architect of Trump\u2019s immigration crackdown, to become White House chief of staff",
      "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
@@ -100,27 +116,11 @@
      "published": "2026-11-06T23:33:28+00:00",
      "summary": "TikTok&#039;s algorithm &#039;leading users down rabbit holes they cannot easily escape from&#039;, European Commission says.",
      "image": ""
-    },
-    {
-     "title": "How Trump\u2019s unconvincing narrative on Iran lost him the US midterms",
-     "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T23:07:22+00:00",
-     "summary": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
-     "image": ""
-    },
-    {
-     "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
-     "source": "The Guardian",
-     "published": "2026-11-06T23:06:10+00:00",
-     "summary": "Primary school students bested 200,000 competitors across New South Wales to reach the Premier\u2019s Spelling Bee finals in SydneyGet our breaking news email, free app or daily news po",
-     "image": "https://i.guim.co.uk/img/media/ff549a712a3bdd87712f2192da48624a1c4eaad6/610_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=62d76cdd7c679f83d7d358febc8c544c"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T02:05:15.129540+00:00",
+   "fetched_at": "2026-11-07T02:35:18.751441+00:00",
    "stale": false,
    "items": [
     {
@@ -222,9 +222,89 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T02:05:15.129544+00:00",
+   "fetched_at": "2026-11-07T02:35:18.751445+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "California election results: Sacramento-area races remain close as ballots are counted",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHQ4SWw3SGg4THlEU29MQVh1U0R2QU1vQkFUYTdiWnV5RWxDa0dWV1A4R0l6Y3pDd3N0T2g3cDVtQUd4SDBjeU5KR1BnNU5RdU9KV0FWNktjcWtQV2tMRjNVaWpLRXJ1WGtEdjlBX0ktb1NuMlNzV0MxTC0zMk9FX01BQWdQNXVYOWRrTU5hN1hSWXJpRW9uMnJvSGtTUnl2aGU1SGFFOFlQLXFkYnc?oc=5",
+     "source": "ABC10",
+     "published": "2026-11-07T02:15:00+00:00",
+     "summary": "California election results: Sacramento-area races remain close as ballots are counted&nbsp;&nbsp;ABC10",
+     "image": ""
+    },
+    {
+     "title": "Portland election results: Where key races stand",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWdHZlk0OTFsbU9sa3RwTGk4Zmh1S0dIcmN4WGxpSVpVck5uZUVGb2RDX0dYel93ZWx0bk5Wd0tQb3RZc2V5QnpvWHBpbkZ0QV9FMGdfNUkxQTcya1JtT25kTmh5Ym5ORzFlQTBxSlZJd1dxd0o2WDRieHowMGk2U2RlWldHbGNVRXpUM0t5Z0JnVWVTSzZqSEl5YmYyc25F?oc=5",
+     "source": "Axios",
+     "published": "2026-11-07T02:09:46+00:00",
+     "summary": "Portland election results: Where key races stand&nbsp;&nbsp;Axios",
+     "image": ""
+    },
+    {
+     "title": "Justice Department drops bid to force California to set aside ballots from alleged noncitizens",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkVYNTAtZkdnZXpvYUF4cU1oRld6VERRY2xLSWJQMjhwa1pVOTltaHJlVGxXVXo5NUdveVpIbDRSdFQzejFsSGcxOUlhSEo1Q3BaVGtCQWpLV0V4cEJGbTJPbnFfSng1S3VSazdhc2JrWWk1YUJYVjdkUnc3X3VhNEVydC1tTllQTHlTdzlZSGpyblJBVW5VZEdsN2xSaWVTUE14OXY3Z2p3U2dJZklJdlJoOXZ4b2JRcTd0NUNyeUlIOUw1?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-07T02:09:00+00:00",
+     "summary": "Justice Department drops bid to force California to set aside ballots from alleged noncitizens&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "Lyon County rescheduling vote canvas to Thursday due to volume of election results and ongoing audit",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzQ5YnlvRWdmSDNLOFFWMUNhMGE1ODdKU2htelFmUEJqQUlHZEE4Um5KNTJPTlNvQzhCdmluSmI2VnJ6Yjk5dU1qby0tcGZQZGdaeE9GU1Naakg1Vy1MZlFoZlh2NkhrSG1ZZ2c0S1ZRLWV0Q2g2bHBMTXQ0Um5SUGszSmdid09pbTVXM2U0Y0pLcm1XV0lIaEFSVGdTMVRkUkFKeUtwVkhVNEswRkZ3dQ?oc=5",
+     "source": "KVOE",
+     "published": "2026-11-07T02:06:27+00:00",
+     "summary": "Lyon County rescheduling vote canvas to Thursday due to volume of election results and ongoing audit&nbsp;&nbsp;KVOE",
+     "image": ""
+    },
+    {
+     "title": "Latest Encinitas election results: mayor, City Council",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRE53czhBVmVfTXotdGJZQXNZVm92YVZzTGw5RE5iSS1COW1pZHM3TXd1WTEtdTZiYTBpWlczRDdsa19hUnB5OXFpbkZhcWtIMjhpQTRmS3B1RmhsUGhVWERmdDRrVUxXck54dDJaZ2dpSDI3bEg5QVA4ZmwtejRGTldZeFM1Rm5aT1ZIRUFzQ1E?oc=5",
+     "source": "inewsource",
+     "published": "2026-11-07T02:06:09+00:00",
+     "summary": "Latest Encinitas election results: mayor, City Council&nbsp;&nbsp;inewsource",
+     "image": ""
+    },
+    {
+     "title": "Alaska Senate race remains undecided days after Election Day",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaExkT1V5Um1rSzRZYnIyWHREY0V2bEg0ZXAwX3puTzI5dUFkOG5kV3lpYWxlVnB5S1BtbXE3RlBaa2lTbTNQNjRQeFluTjM5VTV6REtDWlU3RlRPQXJGbmtsNTlZdGZnanNsNjJVQnJvR0gxbDIwZHl5dUh1U2RFU1B4bXluZ2hPMWVnazZXTUQ3VVMxdll0QtIBrAFBVV95cUxNcURhd0J1VldOTHRDTmhTZlY3M1M1alRCRXp5RjRHZWFuc3FBM3o4WHlDcHZMTmRoc0xLazRqTDlTcmpMYTN3UEdNcUVjc1BiTGVjS20zMXpXelJLSEsyRGlEcWFEcVh0UjNvSHdDd3pyOTdGY2hMam9VWHdqQTBTOWE0MjdlcjRwTWhmQWM2X1NoN21pcEItWlZ0Nk53R1RqQ1NrRnJVOXBoRE5U?oc=5",
+     "source": "WJHG",
+     "published": "2026-11-07T02:06:00+00:00",
+     "summary": "Alaska Senate race remains undecided days after Election Day&nbsp;&nbsp;WJHG",
+     "image": ""
+    },
+    {
+     "title": "Election 2026: Skagit County continues to count ballots from election",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV1FHdjJJeHFta25oZElQOGk2ODBHWUJWOXVsSGtsU2ZfY3BsMUtNaXVZQk9UclI3VTgtZU8ydHBOc2xmVmhTdTJGbkNlR0tGeUlWX0VvTVFBRjRxcEFuc0ZOdDdhTmFRUkFWWlVXWFVqTXc0alJrM3pWYUxVYnZjV2lMQjQwUmhQMmwyQ2g0N1FFc01lWlVpWWt5NkFjM29mRzAxR2lLVXFhbDNJZnJuVXRYU0syZTRMMnkwblA2VFVMTkdYSkVxMXh2Nk12Nk9mQ2RqaHFoUzhoYUFxRzc1dkdkYnYzWTdLWG5sanlxQQ?oc=5",
+     "source": "goSkagit",
+     "published": "2026-11-07T02:00:00+00:00",
+     "summary": "Election 2026: Skagit County continues to count ballots from election&nbsp;&nbsp;goSkagit",
+     "image": ""
+    },
+    {
+     "title": "Trump administration drops lawsuit over California election procedures",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkFQLVlNZExtMGpaQ3kxZGRNZGx6Ri1kVEVyTlFYQUNjM3VHS2pIRnU5bFgyeWYzU0hPTGFNVXdpdDN3Xzd5U3pybXBQSktTRkFLdVpGVFBaaXBoVmpvdUFVTzFZVHE4a1lIX2lmWGlGb0ZIblRKajNZczB0MXVteUd3cXZTeUVtakZ1aFN2anlONW9YcXQtYTk4RUNZa19DeG9iaA?oc=5",
+     "source": "Courthouse News",
+     "published": "2026-11-07T01:59:55+00:00",
+     "summary": "Trump administration drops lawsuit over California election procedures&nbsp;&nbsp;Courthouse News",
+     "image": ""
+    },
+    {
+     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+     "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "source": "The Guardian",
+     "published": "2026-11-07T01:55:11+00:00",
+     "summary": "Santiago Pe\u00f1a was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bankParaguay\u2019s rightwing",
+     "image": "https://i.guim.co.uk/img/media/3279bdc7ce3e00c2cbd356e73e342e1cba40051e/294_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=53fe013eafe5b6ddce4601a63f181f9a"
+    },
+    {
+     "title": "Chairman of Mass. Dems shares election result that \u2018knocked me off my feet'",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOci03YnRWVzNtR1Vya1lZZjVCMDBlbXJyUTBuTENwbllxc0FFaWtSZWg5ZmdtaC1qdlk5NHZTRGtodjZ2SGYtLWFpYkFrRHhEZ0lma3J0NnBVOURYMmluemVfUGpXNXFrMUVQYmV0X2FCMjZweTBJX0RTMWRjZ3VKc3RYc3dKRGV6WGNUNjU3TWdLZHFDVklFVUE2UDdwa2hFSUVXMTln0gGuAUFVX3lxTFBaNVF4WDg0NkNscDVsVTdTZHU2bEZqV01vdFNWRUNvcHp5cDdTTWkzdkxkRDJUNW54Yzhxa2NsUlFRVG1ySWpCMHVwVFh2RUx5Nk9KamtMTExQWVZxQndNYnMwaXF6TWhYSWJzZGZ4NlUtVUx3QjU2c040eDdlNl9JS0YxTTdXa0FGUndoNUo1UHU5MU5VMm9NZDRhc0VOTDlEeXQxUV9ORXBNcUZyQQ?oc=5",
+     "source": "NBC Boston",
+     "published": "2026-11-07T01:43:38+00:00",
+     "summary": "Chairman of Mass. Dems shares election result that \u2018knocked me off my feet'&nbsp;&nbsp;NBC Boston",
+     "image": ""
+    },
     {
      "title": "Stephen Miller, architect of Trump\u2019s immigration crackdown, to become White House chief of staff",
      "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
@@ -240,91 +320,11 @@
      "published": "2026-11-07T01:34:27+00:00",
      "summary": "Pope Leo says he voted in U.S. election because he's \"proud to be an American\"&nbsp;&nbsp;CBS News",
      "image": ""
-    },
-    {
-     "title": "A labor look at the November 2026 election results",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVENpVkZSOXZEcW5oREltclIxbmRzZ29VQ040YXFtb1gyd01UZVlLdUtxamFaRUJIcS1lZUpQUFYtVEZzdldMWldzYXZ6Y2Fja2IxeWotQldVVldvV0lfMXNyZy1hc0t0d1hieVRRTGo3ZTlEcW9PMFVZZHlyMng0Uk9YajRFc1dqZzNObA?oc=5",
-     "source": "NW Labor Press",
-     "published": "2026-11-07T01:25:30+00:00",
-     "summary": "A labor look at the November 2026 election results&nbsp;&nbsp;NW Labor Press",
-     "image": ""
-    },
-    {
-     "title": "Democrats blast Trump\u2019s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-07T01:08:08+00:00",
-     "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump \u2018learned nothing from his historic defeat\u2019 in the midtermsStephen Miller, arc",
-     "image": "https://i.guim.co.uk/img/media/f9722987baf4b5522f5f6efd1409295823e842e7/1157_0_6660_5331/master/6660.jpg?width=140&quality=85&auto=format&fit=max&s=06c8c454d7b539adc847dede55eb8ea3"
-    },
-    {
-     "title": "Report from NJBIA\u2019s Workforce Development & Employment Labor Policy Committee",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3RWR0NRSFhvUV9QT0VfMjd4UHJaQnF4al9OQ2Rzb0RuaGhRR2xZR25qdWhnbFF1S0owcy16MFk5N1hWTzZvRTMxdjVRNHVrcVItMWJueXNfQkk1SDBraTNkbUdYYkcyTWY1YXVOekVRRHZ6c0xrYWdOODRrekd6TkNpZHZrX21WcklTdThMc1FqbnJhSFAxZw?oc=5",
-     "source": "New Jersey Business & Industry Association",
-     "published": "2026-11-07T01:06:01+00:00",
-     "summary": "Report from NJBIA\u2019s Workforce Development & Employment Labor Policy Committee&nbsp;&nbsp;New Jersey Business & Industry Association",
-     "image": ""
-    },
-    {
-     "title": "How Stephen Miller appointment shows Trump hasn\u2019t learned his lesson on immigration",
-     "url": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
-     "source": "The Guardian",
-     "published": "2026-11-07T01:04:52+00:00",
-     "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn\u2019t careOn Tuesday, voters resoundingly rebuked Donald Trump and his brutal mass de",
-     "image": "https://i.guim.co.uk/img/media/4c335dc7c5ebfe5400f0bc48dcf393c6617cea91/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ab9e00c284b6f2941a801e39068a3e9a"
-    },
-    {
-     "title": "Election turnout in Yakima County boosts even higher",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORzFXOGNXX0xhWWVNMENFVERIMndvNW4xMHN5QmhpenB1a0otaXBhRExiaHFXWTh6Qm1yOTQyQ3FJMWVzcVVfNExxRjMwNm1QMW1MYXFKeFJIaEhGZVBrRnZGRFMzQklGZ1Z1V0xJbUhoYUdCeEUzSC1ZM1MxWXA4SlNFc2d0TXdJTENCaGdtYTBGVXl2WG5aUEVCR1ZaVXhrV05tQXppdW9mck1sRUVlSkktV19JeFJJVl9BNThELTU1WDNHLTFacVV5a3RZYlh0Um5DelhqUWVjNWZIT3ZaeXExWEQ0VmZiQmVjVU8tZlhHNVZleHfSAfsBQVVfeXFMTzFrV1h4bDhoX0FiNEx0YTMxeWNGcmN5U0NsR1V5Mi1Dby0wZTlMNGNINnlkY1JIODNSeEtPZ3FSZ3M2ZlNSbVRyT3Nud1RGSm9jQUJMQTFJZjlfeEhjMDRHMDlsNER1anJqMXJEbDNxNDJpTGI0azRHMnI0UnY5RzJheHhCMllHUzdhQkRsVUdkWFBpQkVIWjhZR1pLSnFFTlNleGxVcmpManJ6b1Q2WjNlZzh0bjRXV3pCS2xYNFBjNi1xakdxckp4TDgwemNEN2FGYnlTeUF3Wk1WVlhQYkpMRjBnLXFkTVh0R1BUNTZMNDhpaHdFbm1xYjA?oc=5",
-     "source": "Yakima Herald-Republic",
-     "published": "2026-11-07T01:00:00+00:00",
-     "summary": "Election turnout in Yakima County boosts even higher&nbsp;&nbsp;Yakima Herald-Republic",
-     "image": ""
-    },
-    {
-     "title": "Marion County ballot count slowed by broken machine on election night",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3cwcDhuV2swTVVwdW9jLWgwUHB5WlNJRFFyOEZOVGVmVi02R21fNTNnOVF6NU9yVWVLUWYtalZhc3k2Yk1xX0FVQkJXYXVZeTRCOTFkM0tGQUFUbkZGdUstWHFiYms5MEJOeEhlNUdHY0psQTN6SWsxUzh3bnVmcTM5UUVWWkJld3U2QUs2OUY1ay1kV3FuSkh4d1dCQ2t4dkJ3STlPQmlvU2NndGFoNQ?oc=5",
-     "source": "Salem Reporter",
-     "published": "2026-11-07T00:59:43+00:00",
-     "summary": "Marion County ballot count slowed by broken machine on election night&nbsp;&nbsp;Salem Reporter",
-     "image": ""
-    },
-    {
-     "title": "Assessing the Threat: 2026 midterm Election Day interference attempts from outside, within US",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmNSUnZBdkxPTGRHZWgyUFJDT3B0SzZrZm9fRUExSURlaHlOZDBpeERHZi1LMmtjTUR4cGtHbHRZdVV4MVFqMG1nLXd5anlZRVJLZG55X0pFWTRqSWlMSGFVaWY4Z2pXWVJiYm43RWptaU1vUjFjSW1CMW1qY3lvb3BzcFdnNV9TWC1VVUo2SGtkTmpJbWM5SFNrTEZuX09jbFhKY094Nk1Yd2w2dXdfNG5kRjLSAboBQVVfeXFMTTRpaEJOcHNIeXhNT1hJUDR3eFl0WjZHbFc0dVQ2M2ZkbVJxblhXLU1KaFFYU0JVNDVTM0NIWVNyS2ZOZU44ekFBQnFjYlg5SUY4MGoydXJEX1BpZGMtY083T25pR1hoWTRTalRQSlJnQ1pnNm44a2ZFbEFOazFJSFFaZnBpQjJpbHBMQkdoOXVCREh4WjNLb19wR0p3ZlU0TUliVEg3dGQ2ZTlicENtTlZYVjRQXzlsbFBn?oc=5",
-     "source": "ABC7 Chicago",
-     "published": "2026-11-07T00:53:05+00:00",
-     "summary": "Assessing the Threat: 2026 midterm Election Day interference attempts from outside, within US&nbsp;&nbsp;ABC7 Chicago",
-     "image": ""
-    },
-    {
-     "title": "Updated Sacramento County election results: Cofer widens lead over Guerra",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcGU5TC14cElleldDSXNHZEEwaDNuT2hMY25qQ0F3QkJoc3BXcnRFZzlqbUNCbXBhYm1XX21QN3VLR3NkTFNzSHcxNDcxdi1DcHpSTkZUaTc1TXh0UGZnd0tBTncxTEpHSEkzTzdjVUIxZzNiNjZGaGc5WlRnMkd1UHVDY1hPN2NNYWk3dGk4VFhsSGNQa3dNONIBmAFBVV95cUxNcl9KZXI1dHlqXzJIQzV2SnRNWkU0cHpMVUdnS25vd3VaR2N0QlQ2V0hCWE5JSGZ1cUpQTG50V0Nid3NRSUxhaXZHWmZyYjgxZzhOM3kzZHdRaFFUMGcyVHVJYkxCSTBhUVV6a0NYSEZhUlpjM2c3dnZldkFjMEQxTTZsYU9LTWtXbW5fOENMWENUVTM1WUR2NA?oc=5",
-     "source": "Sacramento Bee",
-     "published": "2026-11-07T00:42:00+00:00",
-     "summary": "Updated Sacramento County election results: Cofer widens lead over Guerra&nbsp;&nbsp;Sacramento Bee",
-     "image": ""
-    },
-    {
-     "title": "Merced County releases latest election results update. How key races stand",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0NVRmFuOWFuOU82Sjg2a052MGYycXlZSjZmdkw2UFh4bG03WUNDRUROejZ1cE1DTjlIS0FHRU1EUk5lUV9FSy1rakxDbVAyZWN3bmxreXhxMjZGOGZWeE1MRkhSMFVCcXhCUzd3M1JpTEw1enhpSjFwRDJpcERXQXdPR3ZGbWljNzN6cXF30gGOAUFVX3lxTE5ac0tlRWcweGdQZGRNeTYxNXJVRVhTLVJmZHVXQzZib3hqcWdhRUR0MHl2S1d0VFF5OFViUHI2WDZadXMyVFhvMkFwNHBkaW1Fak00c3lxV2ZLWHhsdy0wSmNiQThNdlAwNXk4cnRiX192SkhsR2ZneWt6TGl2d0N3UEZaWXdVZWh6UGYzVUE?oc=5",
-     "source": "Merced Sun-Star",
-     "published": "2026-11-07T00:38:00+00:00",
-     "summary": "Merced County releases latest election results update. How key races stand&nbsp;&nbsp;Merced Sun-Star",
-     "image": ""
-    },
-    {
-     "title": "Man in custody after being found in vehicle near White House with guns",
-     "url": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
-     "source": "The Guardian",
-     "published": "2026-11-07T00:31:59+00:00",
-     "summary": "Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald TrumpThe US secret service said a suspect has been taken into custody",
-     "image": "https://i.guim.co.uk/img/media/30a42bd193109c7cf7e2854cf733ff3179bf6e89/436_0_4356_3485/master/4356.jpg?width=140&quality=85&auto=format&fit=max&s=11a25acc70a5aedd71f8e747816f1066"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T02:05:15.129547+00:00",
+   "fetched_at": "2026-11-07T02:35:18.751447+00:00",
    "stale": false,
    "items": [
     {
