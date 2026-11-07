@@ -1,17 +1,89 @@
 {
- "generated_at": "2026-11-07T19:08:15.596680+00:00",
+ "generated_at": "2026-11-07T19:38:19.933996+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T19:08:15.596653+00:00",
+   "fetched_at": "2026-11-07T19:38:19.933963+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "What we know about Krakow mass shooting so far",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T19:37:20+00:00",
+     "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+     "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+     "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:24:21+00:00",
+     "summary": "Attorney general postponed Najib Razak\u2019s transfer from jail after court cleared him for house arrest on Friday.",
+     "image": ""
+    },
+    {
+     "title": "Paraguay's former president charged after bank collapse",
+     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T19:17:22+00:00",
+     "summary": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+    },
     {
      "title": "Krak\u00f3w shooting latest updates: six killed and more than a dozen injured, police say",
      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-07T18:50:49+00:00",
+     "published": "2026-11-07T19:15:40+00:00",
      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injuredTom Rose, the US ambassador to Poland, wrote on X:We",
      "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
+    },
+    {
+     "title": "Latvian farmers protest over \u2018blood grain\u2019 trade with Russia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:10:34+00:00",
+     "summary": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow\u2019s war in Ukraine.",
+     "image": ""
+    },
+    {
+     "title": "Yemeni gov\u2019t forces report advances as Houthis say deadly strikes hit Sanaa",
+     "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:06:31+00:00",
+     "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
+     "image": ""
+    },
+    {
+     "title": "Demonstration in Berlin calls for an end to arming Israel",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:04:04+00:00",
+     "summary": "Demonstration in Berlin calls for an end to arming Israel",
+     "image": ""
+    },
+    {
+     "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+     "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
+     "source": "The Guardian",
+     "published": "2026-11-07T19:00:20+00:00",
+     "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuelsListen to the podcast: Chris ",
+     "image": "https://i.guim.co.uk/img/media/bb286d73fb7d844e4e9bbf6f098aca4d917fe76f/127_0_5701_4561/master/5701.jpg?width=140&quality=85&auto=format&fit=max&s=742f8319ef65817b462bb6fc943c7e16"
+    },
+    {
+     "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-07T19:00:19+00:00",
+     "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaignGet our daily political email, free app or daily news podcastThe commit",
+     "image": "https://i.guim.co.uk/img/media/8c639709fffda9b930d49d011734b4c7cba4ef67/294_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=f4cdd0a0f9c2b488500e29ec890f1dd9"
+    },
+    {
+     "title": "Houston mayor orders police to limit cooperation with ICE",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T18:55:40+00:00",
+     "summary": "Houston Mayor John Whitmire has instructed police to limit contact with ICE, reversing the city\u2019s previous approach.",
+     "image": ""
     },
     {
      "title": "Paraguay\u2019s ousted president charged over banking scandal",
@@ -20,14 +92,6 @@
      "published": "2026-11-07T18:35:15+00:00",
      "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
      "image": ""
-    },
-    {
-     "title": "What we know about Krakow mass shooting so far",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T18:22:11+00:00",
-     "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
     },
     {
      "title": "US offers $20m reward for information about Iran's nuclear programme",
@@ -52,77 +116,53 @@
      "published": "2026-11-07T17:58:41+00:00",
      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "Houthis report 25 killed in Yemen strikes",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T17:39:23+00:00",
-     "summary": "Yemen\u2019s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
-     "image": ""
-    },
-    {
-     "title": "'We must change everything': French far-left leader M\u00e9lenchon launches presidential programme",
-     "url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
-     "source": "France 24",
-     "published": "2026-11-07T17:30:04+00:00",
-     "summary": "Veteran leftist Jean-Luc M\u00e9lenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a sp",
-     "image": "https://s.france24.com/media/display/d0ee97ac-dace-11f1-b377-695cb59fade5/w:1024/p:16x9/EN-20261107-165034-175553-CS.jpg"
-    },
-    {
-     "title": "Six dead after gunman opens fire \u2018at random\u2019 in Krak\u00f3w market square",
-     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-     "source": "The Guardian",
-     "published": "2026-11-07T17:17:23+00:00",
-     "summary": "Reports say man fired shots from from his car in Poland\u2019s second city before being wounded by police while trying to fleeKrak\u00f3w shooting \u2013 latest updatesSix people have been killed",
-     "image": "https://i.guim.co.uk/img/media/44d89feb8fd3d623f15ee900fa818b7ea8bacb9e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b1112e07502aff450bcdb9a2908dda9"
-    },
-    {
-     "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T17:16:50+00:00",
-     "summary": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
-     "image": ""
-    },
-    {
-     "title": "Ousted Paraguayan president appears before prosecutors",
-     "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-     "source": "NPR",
-     "published": "2026-11-07T17:14:36+00:00",
-     "summary": "Paraguayan President Santiago Pe\u00f1a was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
-     "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: Heavy rains flood Gaza",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T17:11:29+00:00",
-     "summary": "Jerusalem Daily: Heavy rains flood Gaza",
-     "image": ""
-    },
-    {
-     "title": "Houthis say at least 25 killed in Saudi air strike",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T17:09:24+00:00",
-     "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg"
-    },
-    {
-     "title": "Rise in NHS birth centre closures \u2018shocking\u2019 denial of women\u2019s rights, experts say",
-     "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
-     "source": "The Guardian",
-     "published": "2026-11-07T17:00:16+00:00",
-     "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024NHS officials are shutting growing numbers of birth centres ",
-     "image": "https://i.guim.co.uk/img/media/c3c6b99f0a024d3deb184dea44054eed0944f26e/149_0_4233_3386/master/4233.jpg?width=140&quality=85&auto=format&fit=max&s=26c1dba7e069d172d2bf6f8fc2b4be74"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T19:08:15.596666+00:00",
+   "fetched_at": "2026-11-07T19:38:19.933980+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "What we know about Krakow mass shooting so far",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T19:37:20+00:00",
+     "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+     "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+     "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:24:21+00:00",
+     "summary": "Attorney general postponed Najib Razak\u2019s transfer from jail after court cleared him for house arrest on Friday.",
+     "image": ""
+    },
+    {
+     "title": "Latvian farmers protest over \u2018blood grain\u2019 trade with Russia",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHdTWWtZQUFZUmR4U2dTbE13WjNCRWFHS0NTUkhFU2J4TUtjT2wyQ2dpSTlVSE5BSEpTemxGb3NRd0h5WmVkWjRNZHp3dnVZSVh5UUdBeEY1djh0cDUyaUp4MnZvenRFc1QxSGo2d2ZIVzI2TnRLUDdINV9SWEgtZjlkYmNlRlhpWUdkTGR0TDVNNXBQMG1iQWg3c3l3cFhSdXBkdzhB0gGrAUFVX3lxTE9IYzB5cVQweUtJSy0tNGdDLW9xQURYcC1XSkdORDhmZUlwTW0tM25IZklGT2dtY21iMDYydUV4VFlhUmF5VUpHaXdKeEp3RGwyUXFjTkNjbk0yTTJnd1BjUzBqZklDUUNCYVBKQWkxbTBwRTAzdExTNHY0dUlYOXFseUhZUDUtY196ek81QnpkQ2JkUWUtWU5SSXZpQTRZNEdCcktORjRmZjdHMA?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:17:10+00:00",
+     "summary": "Latvian farmers protest over \u2018blood grain\u2019 trade with Russia&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Yemeni gov\u2019t forces report advances as Houthis say deadly strikes hit Sanaa",
+     "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:06:31+00:00",
+     "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
+     "image": ""
+    },
+    {
+     "title": "Demonstration in Berlin calls for an end to arming Israel",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T19:04:04+00:00",
+     "summary": "Demonstration in Berlin calls for an end to arming Israel",
+     "image": ""
+    },
     {
      "title": "Russia, Ukraine unleash missile and drone barrages days before Trump-brokered peace talks",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTl9NSEJQRDBIajZhZnlRZ1duUTlkbVA3N3B3TlBGRl93NmxiQ252cXRqY0ZNTGxDQllFQnBGNGxKeWZ4bDhHYWtxa1gwN2RqSG5Db28zbi1nUU5RcDllTTVsUk1ZZ1hyeDUyeTlVWm1IRU1YLUNMQlQwQmdNRWJYZTk5eUJ2YUVDaTFJSG4yYmh1dFAyVGZCLWRaTmxfbGxmMHQyekp4YUc0Y2NjWjdNZDdPLW9teUZ1Y3JHVzN6Z3RISEVmYWxRNzJ3?oc=5",
@@ -140,19 +180,19 @@
      "image": ""
     },
     {
-     "title": "What we know about Krakow mass shooting so far",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T18:22:11+00:00",
-     "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
-    },
-    {
      "title": "Melania Trump Hosts Russian, Ukrainian Officials at White House Following Humanitarian Ceasefire in Oleshky",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSk5FRzlkbTQ5MmxmT1NxZTkyQkdIRHpRUlduaU85bFduaEdGYkhWN19TZWljWEktNk9tNzZpTE96VS1PcTZZSzg4YXJkWHhqa0lPNXgzY3p2NEpFVEI3R3VrcGFnVXdHWFJ2X2JraGxYU3Vmc1FYNUYwbDhQWnRNejBYclFpdlNBRmxCNU5kcHEwQk5vOEgxemlydW9xblh1N1lzSG14WmRDWGxQODBDMDBrSWpzbFJOSW9EU3UxeHN0MnZXeHh5MV9zOGk2c2dna0pHMFNzM29nMEhZU0ZzVWk1cVBBTzk4WGY1SA?oc=5",
      "source": "caspiannews.com",
      "published": "2026-11-07T18:21:57+00:00",
      "summary": "Melania Trump Hosts Russian, Ukrainian Officials at White House Following Humanitarian Ceasefire in Oleshky&nbsp;&nbsp;caspiannews.com",
+     "image": ""
+    },
+    {
+     "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlU5ZjdTamhLa1pJSHRwQlk2RDJ6TzJmOW1QN1VFR08xcDg2eDllcmlSbFhUZzZIcjVUdXpicWN3RjJmaUpZaUtwNFlmZ3RiQlpFbXUtZEM0eWx6N2xGS3R0Zzd0UV9KWGhKS3RTVHlrNGtsWkdhSmZLd09UWGFWMjZXbHB4RWt4WUtRazRPTEphRk0?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-07T18:17:34+00:00",
+     "summary": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains&nbsp;&nbsp;The New York Times",
      "image": ""
     },
     {
@@ -164,74 +204,66 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+     "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+     "source": "AP News",
+     "published": "2026-11-07T18:10:00+00:00",
+     "summary": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
      "title": "Gaza wedding festival sees 250 couples married at the same time",
      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-07T17:58:41+00:00",
      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "What did Erdo\u011fan and Trump discuss? \u2013 Iran, Ukraine, Russia\u2026",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2Rkb3NYS3V3WUJJOVlZWUU1Z3VMZTNHTHpUUmVkUGh2SEs0dWdlVWhvN2d3OFJxR05vUkd0dTBKOHAyTHhqZkFZaG1iUGRwVmN5RS14Tk5pSEd6UERxUWNBQ0duQlJ3SEhGZzV3YlBhTkRnWVhpTVhVWlhNRWVyam9CbGtXQ0c0dXpXZG13?oc=5",
-     "source": "TodayPress.tv",
-     "published": "2026-11-07T17:44:48+00:00",
-     "summary": "What did Erdo\u011fan and Trump discuss? \u2013 Iran, Ukraine, Russia\u2026&nbsp;&nbsp;TodayPress.tv",
-     "image": ""
-    },
-    {
-     "title": "Houthis report 25 killed in Yemen strikes",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T17:39:23+00:00",
-     "summary": "Yemen\u2019s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
-     "image": ""
-    },
-    {
-     "title": "Opinion: Putin's diesel hurts Ukraine but won't help farmers",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRFR3XzllczVkcThnTHNXWUNpQlA4MzI0TGtQOFBNcHlscmlMNTB3VlNRUHZmMmJXdE5YTVZWTHlzYVRnU3pnM0Y1S0J4VWlzNGN1ZGRwRzh3UW5JUjgxenA3UHlIaUtXQThCakpqWHBLemlpaTBtMXJ6ZE81WGd4NzFLT0Zub0tpbFBad1dCWnlLX2k4QkFKcWhhT1F2N2ZsSjVrWGNLTGQzaklEN1JLSXFVNnZ1aU4ySlNsdlZkYUFZdm9PamkwdlV5WnR1TnByeGJ0V1VSeE1CZw?oc=5",
-     "source": "The Gazette",
-     "published": "2026-11-07T17:36:00+00:00",
-     "summary": "Opinion: Putin's diesel hurts Ukraine but won't help farmers&nbsp;&nbsp;The Gazette",
-     "image": ""
-    },
-    {
-     "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T17:16:50+00:00",
-     "summary": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
-     "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: Heavy rains flood Gaza",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T17:11:29+00:00",
-     "summary": "Jerusalem Daily: Heavy rains flood Gaza",
-     "image": ""
-    },
-    {
-     "title": "Houthis say at least 25 killed in Saudi air strike",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T17:09:24+00:00",
-     "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T19:08:15.596669+00:00",
+   "fetched_at": "2026-11-07T19:38:19.933983+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Paraguay's former president charged after bank collapse",
+     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T19:17:22+00:00",
+     "summary": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+    },
     {
      "title": "Krak\u00f3w shooting latest updates: six killed and more than a dozen injured, police say",
      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-07T18:50:49+00:00",
+     "published": "2026-11-07T19:15:40+00:00",
      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injuredTom Rose, the US ambassador to Poland, wrote on X:We",
      "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
+    },
+    {
+     "title": "New Zealand\u2019s election results are too close to call",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTJja18wY0QwT2N1eVlYSUxLaHg5bkxadjEwdXQxM016SG9kR1BSc2hIbGxYMy1ZMUZUdlJ3eGN3dGhTNGIzb1FCUDFSektURGszUDlrZzhjQUpuRzRSSnhrc2JfbXExaG1PMjNXRVkxYnlhUjNlNHBQQUVmTkl5LXVhOXNJYWpCNzJ5OG5ncEQxOXNneGFmWFRYaUhGZw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-07T19:01:59+00:00",
+     "summary": "New Zealand\u2019s election results are too close to call&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+     "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
+     "source": "The Guardian",
+     "published": "2026-11-07T19:00:20+00:00",
+     "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuelsListen to the podcast: Chris ",
+     "image": "https://i.guim.co.uk/img/media/bb286d73fb7d844e4e9bbf6f098aca4d917fe76f/127_0_5701_4561/master/5701.jpg?width=140&quality=85&auto=format&fit=max&s=742f8319ef65817b462bb6fc943c7e16"
+    },
+    {
+     "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-07T19:00:19+00:00",
+     "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaignGet our daily political email, free app or daily news podcastThe commit",
+     "image": "https://i.guim.co.uk/img/media/8c639709fffda9b930d49d011734b4c7cba4ef67/294_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=f4cdd0a0f9c2b488500e29ec890f1dd9"
     },
     {
      "title": "Cranbury mayor waited until after election to disclose $26 million cyber theft",
@@ -282,49 +314,17 @@
      "image": ""
     },
     {
-     "title": "Democrat Scott Colom\u2019s lead widens in Mississippi Senate race",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iNUpNaEtQUVI0RDBjdkdSQndjZmI4V0doZ3ZrbUNtb0E2RVNiNDdVSHVmblgzUE5VeFcwSWY1SXZLeW9rbmpvT3g4MkNjb3U3ZVlHRmpCNHV5aGozN2NwMTFhcGhxeVcxMVpMM2ttZzF0SERvT2VSMzdYcVY4TTA?oc=5",
-     "source": "MS NOW",
-     "published": "2026-11-07T17:54:19+00:00",
-     "summary": "Democrat Scott Colom\u2019s lead widens in Mississippi Senate race&nbsp;&nbsp;MS NOW",
-     "image": ""
-    },
-    {
      "title": "'We must change everything': French far-left leader M\u00e9lenchon launches presidential programme",
      "url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
      "source": "France 24",
      "published": "2026-11-07T17:30:04+00:00",
      "summary": "Veteran leftist Jean-Luc M\u00e9lenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a sp",
      "image": "https://s.france24.com/media/display/d0ee97ac-dace-11f1-b377-695cb59fade5/w:1024/p:16x9/EN-20261107-165034-175553-CS.jpg"
-    },
-    {
-     "title": "Food Tank\u2019s Weekly News Roundup: Election Surprises, an Investment in School Meals, Haiti's Hunger Crisis",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSy1Jekd1RmlFODlyWHY1X1J1cW5xUDBOTWZVaE0tSGY3eW5HR2wzSEtJaDhQNGRYVU9BN0hvUzhUbVo3SXRZRWtmVTV0bWJRWmVINEhqVUtMbV9QNkpZSThlN01JR1ZlMHdjNHpRNmZnU1lZYTRpTWNvZ2E3S3pSTHkzYkEzYzZOY1ZaTG00S1JwRGVmMF9aUkVWYUpXaEJtRU14WmtRTDJ5TGpzbFdSbWZ6VmEwUzE4cTRpLXEzN043allxaXVyeHdDTVNGa3Zr?oc=5",
-     "source": "Food Tank",
-     "published": "2026-11-07T17:17:46+00:00",
-     "summary": "Food Tank\u2019s Weekly News Roundup: Election Surprises, an Investment in School Meals, Haiti's Hunger Crisis&nbsp;&nbsp;Food Tank",
-     "image": ""
-    },
-    {
-     "title": "Ousted Paraguayan president appears before prosecutors",
-     "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-     "source": "NPR",
-     "published": "2026-11-07T17:14:36+00:00",
-     "summary": "Paraguayan President Santiago Pe\u00f1a was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
-     "image": ""
-    },
-    {
-     "title": "Two Florida election races in Brevard County face recounts, officials say",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXoyWDVpTXRYWUh3S1VGMWZKRXprU2paWXJkWnVFR2xCRndBOXJoMWNSU2FvMWxxNVczUkFxOTlsVHBzNGJ0VzhCOFNremRhN3ZDUGg5Ujh4SjVxRGZGN0tRZ19QVkFmTUhvMHB6WWUxaTBHVU10ME5KeGVmMkdFZzR2SWxBTTM0ZGpIVnVhaFJSQktBR05udi0wbF9hZktOQXlOa3hB?oc=5",
-     "source": "FOX 35 Orlando",
-     "published": "2026-11-07T16:50:02+00:00",
-     "summary": "Two Florida election races in Brevard County face recounts, officials say&nbsp;&nbsp;FOX 35 Orlando",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T19:08:15.596671+00:00",
+   "fetched_at": "2026-11-07T19:38:19.933985+00:00",
    "stale": false,
    "items": [
     {
