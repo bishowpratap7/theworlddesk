@@ -1,15 +1,23 @@
 {
- "generated_at": "2026-11-07T16:37:42.770646+00:00",
+ "generated_at": "2026-11-07T17:07:47.874665+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T16:37:42.770621+00:00",
+   "fetched_at": "2026-11-07T17:07:47.874640+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Italian foreign minister says hackers leaked his personal data",
+     "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T16:50:06+00:00",
+     "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"
+    },
     {
      "title": "Krak\u00f3w shooting latest updates: five killed and more than a dozen injured, police say",
      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-07T16:23:10+00:00",
+     "published": "2026-11-07T16:43:34+00:00",
      "summary": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attackTom Rose, the US ambassador to Poland, wrote on X:We are just learning details of the hor",
      "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
     },
@@ -17,9 +25,17 @@
      "title": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
      "url": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
      "source": "The Guardian",
-     "published": "2026-11-07T16:17:56+00:00",
-     "summary": "Armed police attended the scene, which led to two nearby schools going into lockdown on Friday Three teenagers have been arrested after a 17-year-old was injured in a suspected swo",
+     "published": "2026-11-07T16:41:07+00:00",
+     "summary": "Armed police attended the scene, which led to two nearby schools going into lockdownThree teenagers have been arrested after a 17-year-old was injured in a suspected sword attack n",
      "image": "https://i.guim.co.uk/img/media/0453031071a4359ad9f3f2d5a0161318653a79a5/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4ad44051a3555f0c5e5bd98dc35c5c23"
+    },
+    {
+     "title": "Israel builds 90km network of military roads across southern Lebanon",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T16:30:33+00:00",
+     "summary": "Israel is building roads and military outposts across southern Lebanon.",
+     "image": ""
     },
     {
      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
@@ -74,7 +90,7 @@
      "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
      "source": "\u00a9 Jakub Porzycki, Reuters",
      "published": "2026-11-07T15:23:48+00:00",
-     "summary": "A shooting in the main market square of Krakow in Poland killed at least five people on Saturday, local police said.",
+     "summary": "A shooting in the main market square of Krakow in Poland killed at least five people and wounded more than a dozen on Saturday, local police said, adding that the gunman was a Poli",
      "image": "https://s.france24.com/media/display/59a230dc-dabf-11f1-b499-d18c5759e759/w:1024/p:16x9/2026-11-07T152325Z-151899915-UP1EMB716QZIE-RTRMADP-3-POLAND-SHOOTING.jpg"
     },
     {
@@ -86,49 +102,57 @@
      "image": ""
     },
     {
+     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T15:19:35+00:00",
+     "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
      "title": "Stephen Miller, Trump\u2019s incoming chief of staff, pledges \u2018total devotion\u2019 to the president",
      "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
      "source": "The Guardian",
      "published": "2026-11-07T15:15:11+00:00",
      "summary": "Hardline aide offers \u2018unwavering commitment\u2019 to president amid fears White House will double down on far-right immigration agendaStephen Miller, Donald Trump\u2019s most controversial a",
      "image": "https://i.guim.co.uk/img/media/0513655571bc4088f5bb985eb507ce166bb05875/0_0_1688_1350/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=2d5272d0b153de2c51ded2a593e0dae8"
-    },
-    {
-     "title": "National Trust votes to seek banking partner more in tune with its environmental policies",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
-     "source": "The Guardian",
-     "published": "2026-11-07T15:06:59+00:00",
-     "summary": "Charity\u2019s AGM decides overwhelmingly to begin tendering process amid criticism of Barclays\u2019 fossil fuel investmentsThe National Trust has voted overwhelmingly to seek a new banking",
-     "image": "https://i.guim.co.uk/img/media/dc64bc6246e14e6cee84cc37de530fcb20e77631/0_1027_3599_2879/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=ba7e56551d26aadfae97c94f285e92ed"
-    },
-    {
-     "title": "Vetting candidates is a tricky process but Reform can\u2019t seem to get it right",
-     "url": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
-     "source": "The Guardian",
-     "published": "2026-11-07T15:00:14+00:00",
-     "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansionSpeaking to reporters after unveiling his new defence spokesperson this week,",
-     "image": "https://i.guim.co.uk/img/media/79076a3b05d8796724e0007bdd12c573ab1f8e2d/1172_0_5860_4688/master/5860.jpg?width=140&quality=85&auto=format&fit=max&s=9a6c47d0cba77ccee4d84a4af2abc56b"
-    },
-    {
-     "title": "LA\u2019s newer, bluer wave: Nithya Raman leads way as city\u2019s progressives make their mark",
-     "url": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-     "source": "The Guardian",
-     "published": "2026-11-07T15:00:14+00:00",
-     "summary": "Democratic socialists won the mayorship, a US House seat and powerful positions in Los Angeles \u2013 and a large network of volunteers helped them do itAs a blue tsunami overtook US po",
-     "image": "https://i.guim.co.uk/img/media/de0553be8f1e9959d7a8cc2b36c929f7d7aa7bef/526_0_5605_4488/master/5605.jpg?width=140&quality=85&auto=format&fit=max&s=2e4b52ad9ae2c6f92ee9e9f538f739ce"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T16:37:42.770633+00:00",
+   "fetched_at": "2026-11-07T17:07:47.874653+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Italian foreign minister says hackers leaked his personal data",
+     "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T16:50:06+00:00",
+     "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Israel builds 90km network of military roads across southern Lebanon",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T16:30:33+00:00",
+     "summary": "Israel is building roads and military outposts across southern Lebanon.",
+     "image": ""
+    },
     {
      "title": "The Spanish-speaking soldiers fighting for Ukraine",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUkN4Q0ZYWXBFRlBQZmRLdXZjSXZtWkQ5UGFRNkVFSjhnRGVEMXVTZ2c1ODRnX00td2RZS3NtcmZDSllqejdhV2R2WWx4VDRUZF9xb1g3aDBiSVdwWnk3RUtjVncwWVR4d0xJOGwtajA4WG1fQkRsTW5IMWRqU3VOSEU1Nzh3WjVwMkE?oc=5",
      "source": "www.lvivherald.com",
      "published": "2026-11-07T15:51:39+00:00",
      "summary": "The Spanish-speaking soldiers fighting for Ukraine&nbsp;&nbsp;www.lvivherald.com",
+     "image": ""
+    },
+    {
+     "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3d1Wkh2MmJfNHQ0MUFKQi1DQVV4U3dQc1gxOFZqU1hvS19EZDc0aGU4YkVkUmpDYTQyVUl1Sjh3TzJIZ3ZVa0hmWjh0QmthZnhvaHBXWTAzTTVEeE96MnlIazlnQkNhaGlVYzZ5RVFKeEdCQXpMT2Q5LVBfd0NWOXlBQmFLUm1UUlVudnBxWXZ6V1FjYW9UbFRGdVVRcEQ4TnAtdDl5WWpKSUhYbzV5MnNHWGU3QkNTd1JfdjlUUmc2QQ?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-07T15:48:01+00:00",
+     "summary": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield&nbsp;&nbsp;WSJ",
      "image": ""
     },
     {
@@ -164,6 +188,14 @@
      "image": ""
     },
     {
+     "title": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue.",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4eUwyMWo1bjZiRVJQdWFCZ2dGa1FXTUdydkRlWWhaN0dhWmNYWU5UWldzc1VxR3hFbFM3WlRQTUtVMURCVVhaYThzQ1FtTGVKSTAteVVMd2lES0NpcWRwRk9LODlwRWl0bG1CYzdoM0IyMzR0?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-07T15:01:21+00:00",
+     "summary": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue.&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
      "title": "Russia Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWV6bFdYT1ZKNS00TUlIMTloZHRyQzUySlktVWNGZWozaU9oalBobmRSU2tvSUF0UUVycG1aNWtMNlU4WGlhTHZKa3FSeDkzZHFacWpFcC1iMHE0LXNXQ2ptcnlid1FWeWtJWjFIR3RxNEoxamo0MEQzek1MbFZlMTctLW5jcXZFRmNoQWVOMFlReGg1LWdzZlZwUDJLa1lZeDBhVXZ4bw?oc=5",
      "source": "WV News",
@@ -173,10 +205,10 @@
     },
     {
      "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc0V4d2FQWmdPc1BfN0FnaHM2elJpcTgtZVItY3M4QXRDM2lnZUpPbVl4NTJ3U0xIbW5kX2plT2hGWm9YNUc1Q3RoUEVNS3VGb2twYmpHZjZVU3lrQUY2N3h5RFdIZEJ6OGNfWjZmQ01JeTRURDlNYlJOaGtJYndFc2IwekdXR0lvRkhQOW5IRXNkN1AzWTlDN0RIT19FREFjdjB2TmxFMVg3OGZlLTUyZkZHMGxDX1pYcGlRVFU0MzUtU3ZvN05NaVFjWXEydWd5cVhBQnFRdkI5dkE4Y1NZX3gwMVBMZkJhR2ZJYWZzVzhndHhOd1FR?oc=5",
-     "source": "The Killeen Daily Herald",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNblZrR0VadmNOWXA5RkZQOVBLN0ZiZS1HVjNpYm02VDQ3V01FQUVfRTlKTEszdWdWZ2tMZ3l4ck9CZ25CSnlLUzB4QWNIc2h5UlZRRFhJcDkyaUtGZzFmRVVVbk16X0VScTVMYnFoS3dMZzEwbVFEWE9sVjlhV0I5ZjdGWXJsZkRwTmFjNTJPUlQzRWFDNGNnVWkwd1ZvR2loeFFZelRVWUJCSF9sOG9sNFNqZjQzT256dnpKd1YzQ1h6YUdoV0Q1M3pfbFQwbEZ3MnlCTkc1UmtHdmU2NDJfVFlFREdWVGU2X2U1ZlFUWTY4MGhsbnZJT01ZRmg0OEloVXM3VWZIM0swYjZ5bmthbA?oc=5",
+     "source": "Ottumwa Courier",
      "published": "2026-11-07T14:58:25+00:00",
-     "summary": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US&nbsp;&nbsp;The Killeen Daily Herald",
+     "summary": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US&nbsp;&nbsp;Ottumwa Courier",
      "image": ""
     },
     {
@@ -186,52 +218,28 @@
      "published": "2026-11-07T14:49:55+00:00",
      "summary": "Zelensky says Russia ramping up strikes to \u2018pressure\u2019 Ukraine at talks&nbsp;&nbsp;Arab News",
      "image": ""
-    },
-    {
-     "title": "Zelenskyy accuses Russia of ramping up attacks on Ukraine ahead of U.S. talks",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMTgtUlYzR3A3NjcwaDVQTTVQd0l2cy1sbFN1RFZyWk1FYmtQZ3VjSW01Q1o5NHVRWU1KbkxKS2xLVnR1dlFLZWxUSGNjcVpHRlBpTEFDRzlrQTdFaDR6bDFZcGZpUXN4M2tzZElGNW8?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-07T14:20:25+00:00",
-     "summary": "Zelenskyy accuses Russia of ramping up attacks on Ukraine ahead of U.S. talks&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
-     "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T13:50:15+00:00",
-     "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
-     "image": ""
-    },
-    {
-     "title": "Russia Widens Strikes On Ukraine\u2019s War Machine, Claims Weapon Route & Military Cargo Vessel Targeted",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQUJsVGF1ZlZVOGl5NmgwTGVGWUhCb0NMZWhDTkpyazNuWkcwUXpfSXJTcWs2ZWNjX2dXWFluSFVfa2txMjJ5U2F6VkNNaDlNU3E1VU41NFRxUDFGQnhQR2s3OUJlWFZHdzljdjZBUGgxQXJWYVJHeVZFMTNQOXdmUFhVMXAwOVotMkh5VUdIWHNJZTFaU3ZmU216TFEyM2xZZFFHZlladUx2WXc1dXVlWnhVYm9ETlV3bE1pQW11N25qUl9OWm00akFVcVlMOVBSam9MNWVKSkNobXpzVGpFVDFJdkgzaU5xTVJLUDNyeV9VXy12MExZT2JmX21SYVM4S1NkeGJ2ZjbSAY4CQVVfeXFMUFdmRWdMXzl2VDRuTlZ4Znd6WGZrMXF4U2tfRWFvbjR1MXFVMEE2eVlWcXh2UzBrTV9fZ1d5T3hPd1Btdk96enpieXBZdV9pZDlGcUN3ZVBCYm9HQTJITkdSanY3dkgwcEMwRThlOHptZ25JaF9pSFlhWDNfM3VNSHJXWVVFMHp6d09tcFlURWYyS3VKc1VCT0hsc19mamRJY0MyeXFBLWFHd2lsQkRydm9fTjZvZjhnS3BxX1FSOUxOdnZmaUtQSkVWb2hRSHpBVWFyckZyZlktU29obDhnV2RlemY4MUFqbEY4WDh5RFhaV0JNUFQyOTEwOTRGOEdXX2gtLTROb19XS3JkNHJR?oc=5",
-     "source": "The Times of India",
-     "published": "2026-11-07T13:28:46+00:00",
-     "summary": "Russia Widens Strikes On Ukraine\u2019s War Machine, Claims Weapon Route & Military Cargo Vessel Targeted&nbsp;&nbsp;The Times of India",
-     "image": ""
-    },
-    {
-     "title": "Russia Upgrades Its Delegation for US-Led Ukraine Peace Talks in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOanUzdWlCU1doRFdfS3k2cU5tWHd2OG5ESkpzdHdsVnpVSWpxWktVNFdqdWJZVWZ4WFgzZXV1TmJnN2NJTHRHNVVCRjNzSVFyU2NYSUkySXZfZF91SmNfdElBX1JvZlRvdWJZSk92bWIxVXEtcnhIZGh3QV9tWTF3aHJtMGRkR2hMb093MFBmc0xoNVRCU1JfbVRmeUQ1V1cteEwtbVVidk1sbVdMblRla296dEhtUGVpMHpFdWhoRTlSZFk?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-07T13:25:27+00:00",
-     "summary": "Russia Upgrades Its Delegation for US-Led Ukraine Peace Talks in Abu Dhabi&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T16:37:42.770636+00:00",
+   "fetched_at": "2026-11-07T17:07:47.874656+00:00",
    "stale": false,
    "items": [
     {
      "title": "Krak\u00f3w shooting latest updates: five killed and more than a dozen injured, police say",
      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-07T16:23:10+00:00",
+     "published": "2026-11-07T16:43:34+00:00",
      "summary": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attackTom Rose, the US ambassador to Poland, wrote on X:We are just learning details of the hor",
      "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
+    },
+    {
+     "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeUx5RU12UVplODFqSmNGM2U3dGlNV2N5dXIyelhBdzI4U3RxTFQ1Zms1QVo4TThnYlo1dVg1ZWVGczc0UDR4RVJ1amxvdUJXWnBXdFdxOWthQXhPUTZIdGFJS3p2NVlYNzM3Q0dRZTFfdlEwVlVoWnBjWG91TFJSVDA1VHpicElzb2dDYWlwRnVMWHgwY2I4Y180b25xRHdubTNWWHNTenBqTVRZbmNYZVBTdlpDRDNaMUljRE5zOFh3SzNj?oc=5",
+     "source": "CNBC",
+     "published": "2026-11-07T16:31:00+00:00",
+     "summary": "Decisive election. Dramatic stock swings. How we handled the market last week&nbsp;&nbsp;CNBC",
+     "image": ""
     },
     {
      "title": "Schumer Lifts His Senate Standing With an Election Blowout",
@@ -239,6 +247,14 @@
      "source": "The New York Times",
      "published": "2026-11-07T16:10:25+00:00",
      "summary": "Schumer Lifts His Senate Standing With an Election Blowout&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Two Harris County Appraisal District races head to runoff following midterm Election Day",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGxvWkFfMWVzMEd1MVZnY1Z1U1hWeFFtWmtMajF0Zmk2OTA4VHJEa0NrVjVEWVVYaW9SVXNsZl9NbmVkcENxMkJCSTZac1FkME1RUEpzMWtoNjZiOG15Um9rWVhKemNRa211WWdNWW4xcFZGLUNtY0N0RW5ndFpWSDF3VHh6RWszbzhRMHF2U3ZTck8ySXkyM2xrcjFFdDRxRDNEN0Z0eXlfbG9OMEpucVpIbWhXZw?oc=5",
+     "source": "ABC13 Houston",
+     "published": "2026-11-07T16:08:13+00:00",
+     "summary": "Two Harris County Appraisal District races head to runoff following midterm Election Day&nbsp;&nbsp;ABC13 Houston",
      "image": ""
     },
     {
@@ -304,27 +320,11 @@
      "published": "2026-11-07T14:51:00+00:00",
      "summary": "Dearborn Mayor says Senate election drives record voter turnout&nbsp;&nbsp;Michigan Public",
      "image": ""
-    },
-    {
-     "title": "\ud83d\udd34 Watch live: 'We must change everything,' French far-left presidential candidate M\u00e9lenchon says",
-     "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-     "source": "\u00a9 Kenzo Tribouillard, AFP",
-     "published": "2026-11-07T14:44:24+00:00",
-     "summary": "Veteran leftist Jean-Luc M\u00e9lenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a sp",
-     "image": "https://s.france24.com/media/display/9d39473c-dac3-11f1-81fe-695cb59fade5/w:1024/p:16x9/000-D6R93X3.jpg"
-    },
-    {
-     "title": "Iraq\u2019s FM says external parties using Iraqi soil to attack neighbours",
-     "url": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T14:24:48+00:00",
-     "summary": "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T16:37:42.770638+00:00",
+   "fetched_at": "2026-11-07T17:07:47.874657+00:00",
    "stale": false,
    "items": [
     {
