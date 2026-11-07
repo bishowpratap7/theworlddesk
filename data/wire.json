@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T04:35:43.414150+00:00",
+ "generated_at": "2026-11-07T05:05:47.157587+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T04:35:43.414134+00:00",
+   "fetched_at": "2026-11-07T05:05:47.157564+00:00",
    "stale": false,
    "items": [
     {
@@ -28,6 +28,14 @@
      "published": "2026-11-07T03:53:01+00:00",
      "summary": "The US president also claims &#039;a lot of progress&#039; in Washington&#039;s negotiations with Tehran.",
      "image": ""
+    },
+    {
+     "title": "Paraguay's President Santiago Pe\u00f1a impeached and arrested",
+     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T03:25:00+00:00",
+     "summary": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
     },
     {
      "title": "How the US midterm elections reflected resistance to data centres",
@@ -78,6 +86,22 @@
      "image": ""
     },
     {
+     "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+     "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T01:27:47+00:00",
+     "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dd/live/b21e0c00-d9ce-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "The young Somali woman changing how the world sees Mogadishu",
+     "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T01:19:49+00:00",
+     "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0273/live/640a38d0-da01-11f1-84c1-dbcae60402d7.jpg"
+    },
+    {
      "title": "How Stephen Miller appointment shows Trump hasn\u2019t learned his lesson on immigration",
      "url": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
      "source": "The Guardian",
@@ -92,35 +116,11 @@
      "published": "2026-11-07T00:55:51+00:00",
      "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
      "image": ""
-    },
-    {
-     "title": "Man in custody after being found in vehicle near White House with guns",
-     "url": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
-     "source": "The Guardian",
-     "published": "2026-11-07T00:31:59+00:00",
-     "summary": "Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald TrumpThe US secret service said a suspect has been taken into custody",
-     "image": "https://i.guim.co.uk/img/media/30a42bd193109c7cf7e2854cf733ff3179bf6e89/436_0_4356_3485/master/4356.jpg?width=140&quality=85&auto=format&fit=max&s=11a25acc70a5aedd71f8e747816f1066"
-    },
-    {
-     "title": "Paraguay\u2019s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-     "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T00:31:41+00:00",
-     "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
-     "image": ""
-    },
-    {
-     "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T00:21:49+00:00",
-     "summary": "Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party\u2019s next presidential campaign.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T04:35:43.414141+00:00",
+   "fetched_at": "2026-11-07T05:05:47.157573+00:00",
    "stale": false,
    "items": [
     {
@@ -148,19 +148,19 @@
      "image": ""
     },
     {
+     "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHRCcDhuX0lWbVJuNHA2TFVfMzd0dTFhd21WZWR6Zlc1bm5YaTR1enFmQnJGSWtRVnAxdHN0eWhjY0I2bDVfcHFmMFRYV3pILVBQeTFPVDdCVm41dG15ZkZjS29oUzRpSFY5WWpLLXZZREVkOV9RbTJsbVZhMC1UMTNPQ3k3LXN2MThOZG5MRTdpVUFRRUZWbWZ4SEhrbmF1UjFhT1dGU3NWUkhvT2k2c2dKZF9TckV0d2JCVUhTaDBkaEFsWlhfeDhyRFY?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-07T03:26:00+00:00",
+     "summary": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
      "title": "Russia's war against Ukraine unlikely to end with either side winning \u2013 Rutte",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUxOekNaWWgySnRkUEtuVmZOdTlBeEZXN0VGOHN2TVA5dWtPcFdiazRCRjBkYTRSOGZaMUpCS1JRRHZtbnpGeDU1TW9uaHZmSFlwZ1NPVWlRLTFNeGtHR0J2OTRFVURfZFFyQ1F0UC1RU1NRSzYtaXlLaTB2R2lGblRETG9jb29TZmRfOXBKdkZFMTc5S3RSdFhweXM5NG15dTJvdW82LVJDZWd5LVkzZnM5T214LXE4eDJFWjBINGV4QjI3OVlpONIBzgFBVV95cUxNcEJ3cGRzWnpDa1hOZ1BNRmlHel8wYnVIa3V0aW1RU0d5Q3pzNENIV0N0UFVqMFBpQlpYMnN3WXB5X0VJQUVhLVdJTHJfM2ZmZlFFdDlEZnh5djV3cHloRUh4eDNMT2hlcGh3UG9lQnFIOFFQakFwa0Q1ZTNISmxlZ0VGNm0wbGE3UXdFTnlLbTFaYmhrR1g2aERXLTRYc0pid2tRWGdWemE5aWc1c3o0cTFyRWFQZ2pOVjhGeGp3WFc0UnZSN0dwcEE5c21LUQ?oc=5",
      "source": "Ukrinform",
      "published": "2026-11-07T03:21:00+00:00",
      "summary": "Russia's war against Ukraine unlikely to end with either side winning \u2013 Rutte&nbsp;&nbsp;Ukrinform",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHRCcDhuX0lWbVJuNHA2TFVfMzd0dTFhd21WZWR6Zlc1bm5YaTR1enFmQnJGSWtRVnAxdHN0eWhjY0I2bDVfcHFmMFRYV3pILVBQeTFPVDdCVm41dG15ZkZjS29oUzRpSFY5WWpLLXZZREVkOV9RbTJsbVZhMC1UMTNPQ3k3LXN2MThOZG5MRTdpVUFRRUZWbWZ4SEhrbmF1UjFhT1dGU3NWUkhvT2k2c2dKZF9TckV0d2JCVUhTaDBkaEFsWlhfeDhyRFY?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-07T03:12:00+00:00",
-     "summary": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
@@ -222,31 +222,39 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T04:35:43.414144+00:00",
+   "fetched_at": "2026-11-07T05:05:47.157577+00:00",
    "stale": false,
    "items": [
     {
-     "title": "In depth on midterm election results with political analyst",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXU1ZVAxbWl3RHRmRElOR1QzMTF0SjRVZFl5emlKTGJ5LW1zSzZFNnRKNDJUaTlVR05RQXpaa3NOb3d2aGZUdzRUU210cW9OaE1tQU1kQzYzZ29UZzdpa3JtdHpud2wyc1dfWWsxYTIybFo3SWVjcHd5Y2ZuanB2dDhKSHI3ZDZjT2xORDJSN3N1X0RuV1dN?oc=5",
-     "source": "WOWT",
-     "published": "2026-11-07T04:27:00+00:00",
-     "summary": "In depth on midterm election results with political analyst&nbsp;&nbsp;WOWT",
+     "title": "Montgomery Update: Election Day Sends a Clear Message to Washington, Slowing Down Drivers, Urging a Path Toward Zero Waste, Honoring Veterans",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaXNHRGxiQ1psbG9jLXk0RzY4YS1ZWHV6aXZZc0JrNl96S0NOeVM5TXJHZGhRcEt5OWZpMGlWWEV3TXh3eXlpbnBUNUFoMHZ5eE5EQ0JUeEN6S0RKQ2Vjbm9TRVF0cTlTQ0dZSmpYSlJLUXpFZ3hyLWI2Y28tUl81SnRZT1pBaFNWamxsbDU2akRuWTJ1bFRDZ3BQQTdrZC0xNV9mQWZ1ZW4zUXpid3A4VGY5eWRTNkd1SUlNNkMwOWZacVFSSld1OTFTTmJwR29iRUZaR3NaM2dheG5JU2RHSWFTc1lReEdxMGl0ZFZWUml0VjJrTXB3M2ZtbDJCZ0k?oc=5",
+     "source": "Montgomery County, MD (.gov)",
+     "published": "2026-11-07T04:50:03+00:00",
+     "summary": "Montgomery Update: Election Day Sends a Clear Message to Washington, Slowing Down Drivers, Urging a Path Toward Zero Waste, Honoring Veterans&nbsp;&nbsp;Montgomery County, MD (.gov",
      "image": ""
     },
     {
      "title": "Los Angeles reacts to historic mayoral election",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYkxRMm5kb3pWc3RpNXRLS1kxV0lkZE1fT3R2TVdEWkF0bmxrSzJwNkNuSlo4Y0l6U1M3Y0dVU1R3b2NkVkE2Z1NjNEVCZzN6NlJIU2xtWHZxSEpucmYxaXFqdnhoa0VjOEhHckRwcmFyNkIxeWNSWVgwTURXemZaSzNvVDVoU0ZvSS1YSExRNEtIMHpsV214cHNDbTQzZkXSAaQBQVVfeXFMUE1LdFpXY3g1Tzh2QV9hLWhLRktGcVFhdjRfbGZXb1lLUS1UX0s3U3hYeVpVSVItdktXNC04U3RXNTVlcHdvTW5tUERiWEkzRHpTV09iYzRrdWpCSlZwb2stek1qNnE2LVFlbHJwaFU5dGN2eVFLRGstazVmTkhXSGlqakdPNUI3dG1SS3ZGVUFhYnR4TGNCTGJkSDlxbHNtc2pqSGY?oc=5",
      "source": "Al Jazeera",
-     "published": "2026-11-07T04:14:12+00:00",
-     "summary": "Los Angeles reacts to historic mayoral election",
+     "published": "2026-11-07T04:43:07+00:00",
+     "summary": "Los Angeles reacts to historic mayoral election&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
     {
-     "title": "Midterm Elections Live Updates: Democrats\u2019 Lead in Mississippi Senate Race Grows",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-07T04:09:32+00:00",
-     "summary": "Midterm Elections Live Updates: Democrats\u2019 Lead in Mississippi Senate Race Grows&nbsp;&nbsp;The New York Times",
+     "title": "In depth on midterm election results with political analyst",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHYzMXgtLS1JbmdkYTFoTURfM3FkZG05R3VVWUdfT1ZudmJuV2JhM0hZQ1gzMHUyXzQxNTY3ZVJQNlJLcHhFQzNQMERLR0ZoMWliR1pqNzZXVGlRdFFqVnR4ZTBzTVcyNkhBVWtUQkxFb0xEQ3Z6aXJlNjZrZmV3cmh4a0xIZmpKNHlua09mTmUzbXZnc0Nta3ptQXFMcnVO?oc=5",
+     "source": "FOX Carolina News",
+     "published": "2026-11-07T04:27:00+00:00",
+     "summary": "In depth on midterm election results with political analyst&nbsp;&nbsp;FOX Carolina News",
+     "image": ""
+    },
+    {
+     "title": "Bernalillo County Clerk: Late-night voting line held up Bernalillo County election results",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMmtSSmw0T25NNnlESEl4OHFNdnlWb01EZ0dZbjRUUUlQUVVtZURqQkszSDJUX3lqeUNEQzkycm52WEtfRzAxYXpkeHZwb2lZRWtVTUZHaVgtYnoxTVVocF9KSkxnVjd4eWpOcFhiLUMya1BYcXQtT3ZRQUVhT0FYM2ZLRjhJMG9MOGlfNkZKc3BhNU5nUTEtMmp0UzV2U3NJY2xHeURqLVVrVXkzc3AwUG1IalVfdlFJSVZQX19qVWhBZnJjSURnVEdRUlBLZWfSAdQBQVVfeXFMTTU4ZDRNdVlSOGF1Zkk0Sm1xamZaRjFqNXJaYnhrdHZidVlyaE41SG5ZRW1Nb3ZiTTRlSU45ZVFZV3F5RktaRlZUQUc3em56akxEM19PZmpCMmV3b0Rva0hpaDctbUxaTFlublAybTNnNmRreU1MRjJUaVZLZ2Y4azFBVXpYdGdoRTk4dGVlNk5JSXp2YzI1aHp6bXBuZ3A0R2dsbXlOYkh2RENXUXFNR3J1eDhFQkx0MkFsSFpwTmlnS1oxNHhwSVN6UXZYS2FDLW8tUTQ?oc=5",
+     "source": "KRQE",
+     "published": "2026-11-07T04:19:47+00:00",
+     "summary": "Bernalillo County Clerk: Late-night voting line held up Bernalillo County election results&nbsp;&nbsp;KRQE",
      "image": ""
     },
     {
@@ -258,12 +266,20 @@
      "image": ""
     },
     {
-     "title": "Which sports figures won or lost in the midterm elections? Tracking 7 big names - The Athletic",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZl9UekNJNnVHYzY4cVFMWHNYZDk5ajFYdC0yQWNPcXo0V0dzVWMzbmpaNlliQmdqRmlYcGQzMTdnZFNnaFdwcUxDa2JHYnNJaFdWTGxLODBsR3lkcElUZHNSVENHMFoyQ0dFb2JfMDg2XzF2cFBZRkc3VHRqaXJlLVc0WENRNkFYa00tR2d0YTVLSjBmSmJfZEpBZ2diYm1vZ2hZZTJVaGw1QQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-07T04:03:00+00:00",
-     "summary": "Which sports figures won or lost in the midterm elections? Tracking 7 big names - The Athletic&nbsp;&nbsp;The New York Times",
+     "title": "Israel Election 2026 live updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uZjl1VVc1TDUyczRrVnYyWkMyTGx3Z1M3MEJpV29hLW5iV3dJWnR2SENxWnp6b2dwMFA3TDAtVGMxbFkzNVNQMmptXzQxNGViOFRLb1l5cEplblh1eDhVLXE1R2haRUtnQmg5T3o1WGxwWjJjREphRDVqRGlFQQ?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-07T04:00:05+00:00",
+     "summary": "Israel Election 2026 live updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
+    },
+    {
+     "title": "Paraguay's President Santiago Pe\u00f1a impeached and arrested",
+     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T03:25:00+00:00",
+     "summary": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
     },
     {
      "title": "How the US midterm elections reflected resistance to data centres",
@@ -304,27 +320,11 @@
      "published": "2026-11-07T03:00:47+00:00",
      "summary": "Counties to conduct audits and recount before certifying results&nbsp;&nbsp;WITF",
      "image": ""
-    },
-    {
-     "title": "Trump administration ends California balloting lawsuit",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXMtNVM2c2ZyaGZ0ZTFLQUlLNjJyZUxWcFpJaVhEMmxwZDJNam1GdHBKWFVrT0syVGRiU25mZXlvbXRvNWlUbE95MVJYUHpSbFdYbm9HMEw1eS1KQVRTTjZpMmlzeDdHTjhPZlFDSFZhalJJdDFxd3VnRlNDVTFLY3JzV0N6WktFUVRITUMtS0dpQjB0Mlc2cnhwYm1SaERTcEtjZUVaZXpfYjQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-07T02:55:00+00:00",
-     "summary": "Trump administration ends California balloting lawsuit&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Peltola campaign sues Alaska election officials, seeking information about rejected absentee ballots",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd2c2VkxjQmJxbEdXeFZGbmwxTUVqRXduSElXSkVfdnJISS12SkNVcjM4U19uSFFvd1MtS0Uxallmekp2RkNMOVIxdG5Ld2NKRDZTM1BCYUUxb01CTEhyV0Z3S3J2T3IzeXVzSE9rQ0x3NERHT2xnQmtfcXlXVDJwbjRDNXlxNWVvZVQxR2VTdkFlUFByRTF6RHh1UWxiVEZTZTA5ZDYyVDZtWXQ1Y0xBcFgyQkUxRnlpWGZERk0yNXJrRzhKX25Mc29zWDNRdGVQSmt0b1lybw?oc=5",
-     "source": "Anchorage Daily News",
-     "published": "2026-11-07T02:50:07+00:00",
-     "summary": "Peltola campaign sues Alaska election officials, seeking information about rejected absentee ballots&nbsp;&nbsp;Anchorage Daily News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T04:35:43.414145+00:00",
+   "fetched_at": "2026-11-07T05:05:47.157579+00:00",
    "stale": false,
    "items": [
     {
