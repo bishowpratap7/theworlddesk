@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-07T04:05:39.549624+00:00",
+ "generated_at": "2026-11-07T04:35:43.414150+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T04:05:39.549607+00:00",
+   "fetched_at": "2026-11-07T04:35:43.414134+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Los Angeles reacts to historic mayoral election",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T04:14:12+00:00",
+     "summary": "Los Angeles reacts to historic mayoral election",
+     "image": ""
+    },
+    {
+     "title": "Protesters storm site of Microsoft\u2019s planned Amsterdam data centre",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T04:08:02+00:00",
+     "summary": "Activists in Amsterdam have stormed the site of a proposed Microsoft data centre. Al Jazeera\u2019s Step Vaessen reports.",
+     "image": ""
+    },
     {
      "title": "Trump confirms new US strikes on Iran\u2019s Qeshm Island",
      "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
@@ -100,27 +116,11 @@
      "published": "2026-11-07T00:21:49+00:00",
      "summary": "Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party\u2019s next presidential campaign.",
      "image": ""
-    },
-    {
-     "title": "Russell Brand suspected to have attacked at least 10 other women",
-     "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
-     "source": "The Guardian",
-     "published": "2026-11-07T00:00:47+00:00",
-     "summary": "Met police chief says \u2018many more\u2019 victims could come forward, as actor and comedian awaits sentencing Police are bracing themselves for more victims of Russell Brand to come forwar",
-     "image": "https://i.guim.co.uk/img/media/78f703913b8bb129d666b06187eb2aca13440d34/605_20_5235_4187/master/5235.jpg?width=140&quality=85&auto=format&fit=max&s=19e0ad91d347cb864bad8a4a0d7ddef5"
-    },
-    {
-     "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T00:00:00+00:00",
-     "summary": "Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T04:05:39.549614+00:00",
+   "fetched_at": "2026-11-07T04:35:43.414141+00:00",
    "stale": false,
    "items": [
     {
@@ -196,6 +196,14 @@
      "image": ""
     },
     {
+     "title": "Russian Analyst Claims Ukraine Lost War Back in 2023",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVdzWVpsRV9xWGg4QmVCWllWSk05ZmZFTEl2bUtxSGZ2T2poYmNKdjdZMWw3XzBvYTZUNzNFOWZLLU0zdmtKSWNTVjIzTTZ5QnlfY0l4QTVJdFVLUWpjN0pWUEdtQnZqUk54bmtUbE5BWGtCRE1zZ2FtSFBmZlJtelNPam9kSTl1Znk4ZVFYbi1yUlZ1WDlCRw?oc=5",
+     "source": "\u0412\u043e\u0435\u043d\u043d\u043e\u0435 \u0434\u0435\u043b\u043e",
+     "published": "2026-11-07T00:43:02+00:00",
+     "summary": "Russian Analyst Claims Ukraine Lost War Back in 2023&nbsp;&nbsp;\u0412\u043e\u0435\u043d\u043d\u043e\u0435 \u0434\u0435\u043b\u043e",
+     "image": ""
+    },
+    {
      "title": "Europe insists Putin end Ukraine war before discussing Russia\u2019s concerns",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3dGWXdpQkpIREJINmpuSWQtTXYta3RLU3lGZ2lJUVBhYmV5enBCTGlRNVBCZUdVTFhvdk5pTV9zR2VUbEp1ak10YkhlN1JZQkJoUy1UU2phY2RNY0NSMWo5QXgyS2p5SFFJNGtCdnJzWC1MMGJhZXJOQWtKR082SE9EOWpndHg4WVUzNzY3WFl0alZiS2c3dWRGeTdOT05UdmM2T1pOeDBHRDR1RlJaam5RVQ?oc=5",
      "source": "The Straits Times",
@@ -210,27 +218,51 @@
      "published": "2026-11-07T00:23:00+00:00",
      "summary": "Zelensky \u2018thankful\u2019 for Melania Trump\u2019s Russia-Ukraine peace efforts&nbsp;&nbsp;CNN",
      "image": ""
-    },
-    {
-     "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T00:21:49+00:00",
-     "summary": "Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party\u2019s next presidential campaign.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T04:05:39.549617+00:00",
+   "fetched_at": "2026-11-07T04:35:43.414144+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "In depth on midterm election results with political analyst",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXU1ZVAxbWl3RHRmRElOR1QzMTF0SjRVZFl5emlKTGJ5LW1zSzZFNnRKNDJUaTlVR05RQXpaa3NOb3d2aGZUdzRUU210cW9OaE1tQU1kQzYzZ29UZzdpa3JtdHpud2wyc1dfWWsxYTIybFo3SWVjcHd5Y2ZuanB2dDhKSHI3ZDZjT2xORDJSN3N1X0RuV1dN?oc=5",
+     "source": "WOWT",
+     "published": "2026-11-07T04:27:00+00:00",
+     "summary": "In depth on midterm election results with political analyst&nbsp;&nbsp;WOWT",
+     "image": ""
+    },
+    {
+     "title": "Los Angeles reacts to historic mayoral election",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T04:14:12+00:00",
+     "summary": "Los Angeles reacts to historic mayoral election",
+     "image": ""
+    },
     {
      "title": "Midterm Elections Live Updates: Democrats\u2019 Lead in Mississippi Senate Race Grows",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5",
      "source": "The New York Times",
-     "published": "2026-11-07T03:23:05+00:00",
+     "published": "2026-11-07T04:09:32+00:00",
      "summary": "Midterm Elections Live Updates: Democrats\u2019 Lead in Mississippi Senate Race Grows&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Protesters storm site of Microsoft\u2019s planned Amsterdam data centre",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T04:08:02+00:00",
+     "summary": "Activists in Amsterdam have stormed the site of a proposed Microsoft data centre. Al Jazeera\u2019s Step Vaessen reports.",
+     "image": ""
+    },
+    {
+     "title": "Which sports figures won or lost in the midterm elections? Tracking 7 big names - The Athletic",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZl9UekNJNnVHYzY4cVFMWHNYZDk5ajFYdC0yQWNPcXo0V0dzVWMzbmpaNlliQmdqRmlYcGQzMTdnZFNnaFdwcUxDa2JHYnNJaFdWTGxLODBsR3lkcElUZHNSVENHMFoyQ0dFb2JfMDg2XzF2cFBZRkc3VHRqaXJlLVc0WENRNkFYa00tR2d0YTVLSjBmSmJfZEpBZ2diYm1vZ2hZZTJVaGw1QQ?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-07T04:03:00+00:00",
+     "summary": "Which sports figures won or lost in the midterm elections? Tracking 7 big names - The Athletic&nbsp;&nbsp;The New York Times",
      "image": ""
     },
     {
@@ -239,6 +271,14 @@
      "source": "Al Jazeera",
      "published": "2026-11-07T03:22:41+00:00",
      "summary": "Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday&#039;s midterms.",
+     "image": ""
+    },
+    {
+     "title": "Justice Department charges 63 individuals for election-related crimes; 5 in Texas",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTRZRmF2cXY5QXQycnNIU2kycWtBLU43ZFNSZXF1UDI2ZldUdGNDM3psT2pRUHNRUFNvWHduclRxc0xDcmtWVS1nb0ZvSzVvRnJzdmxSYmE3b2txRV9FSFVVZFQzbGpWTFQ3QkZlXzNPbjlXWnU5aHBlbUdkenZCTGtXbVE0OTR5MHdlRjhWS1ZKYTZnVkN2X0VFRnhCWC1TMk1BOXdkT19fS01ZZm05QzdDQzjSAboBQVVfeXFMTXkyNm1sNkNEbDZjQmZrSWV6amc2UDhkcDI4eUJiX2xucEQzLUdHc2oza0pHTVJjVjR1OWhxSUIycmtFRGpLTVBjOG1jSXhGYVlmTWEwUnZzWEljT0VoSk1jd2JBODc2UWxLLUdqU2w1WEdKaTJNYjhpQWd4ckRpM1VDMTVyTmM1aGtzY0hQOFY0WlBtanRBVWZBRWNvTHJpYzIySG9XOWlnY2JfMk04d3VMRVVjdjBkRW1n?oc=5",
+     "source": "KXAN Austin",
+     "published": "2026-11-07T03:22:04+00:00",
+     "summary": "Justice Department charges 63 individuals for election-related crimes; 5 in Texas&nbsp;&nbsp;KXAN Austin",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-07T02:50:07+00:00",
      "summary": "Peltola campaign sues Alaska election officials, seeking information about rejected absentee ballots&nbsp;&nbsp;Anchorage Daily News",
      "image": ""
-    },
-    {
-     "title": "Memory card with uncounted ballots found, launching investigation",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmI2VGJlclVaLU5QUzVUQy1VS2tydGVmbEN4Z2pjQTF1U09LaVNCZTRlU21zdFc1S21fNGdSLWNtLXVmUVJxS0JuekQzNnVvMVZHYUtUbjlNV0d0UWV0MFVwUWxFUHVTckVsbDZzX1M3R2tPZUZDVTl3ZThYRERVd0VxMC1KRFdoSktYSVpNQy1iMnl3Q2p6amJITm9lNlE?oc=5",
-     "source": "WIS News 10",
-     "published": "2026-11-07T02:50:00+00:00",
-     "summary": "Memory card with uncounted ballots found, launching investigation&nbsp;&nbsp;WIS News 10",
-     "image": ""
-    },
-    {
-     "title": "How 4 states voted on election-related ballot measures",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2NvSGFBMXJOUk4wMnQ3bGhKTF9FUzVsaWxjZVRKWU1keXk4TWw2V09nYUFpc0ZqSkxrTkx1U3NOeHhwWjFIVy1NYTJYWk5uZlNGUnYxaFg3NVJkc2hiRmlwUFh0Z0ZLTUNTYThoNktXN0hNcy1aWnFwNjFzRGl6dXZITWxCR29Bb2ZNT2ltcVJ3NFFhZG5VMWhDeHZudw?oc=5",
-     "source": "The Spokesman-Review",
-     "published": "2026-11-07T02:46:00+00:00",
-     "summary": "How 4 states voted on election-related ballot measures&nbsp;&nbsp;The Spokesman-Review",
-     "image": ""
-    },
-    {
-     "title": "La Crosse board certifies 2026 midterm election results",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaDV5ZVplREx5RHpxc3MwbEY1VGI5VUdsSFY5OEg2WVNJdGZtcEhnbVoxc3pIdl9vbXVVa2REOHNQODRuVWY2OHlRbllQVFRYbDY3NDdNcE1yVkk5elJzSzF2T2ZjTzhiMzQ4SHRKTEJtNWJvMDcySEUycEZhVDF6a2UzYnV0MURYV25tQ2FEdENQbGU0MUcwV2ZORmtXQUhkRGY2MEhYQWZaejUxc05pSnZUOVdOZ1BhME9iM0pxamptY2pBUEU2WGh4VnFlLVg4ZWdqMHVnTFdjbTdvcjZocVJ0bDVLWjRkNFlfMw?oc=5",
-     "source": "news8000.com",
-     "published": "2026-11-07T02:28:00+00:00",
-     "summary": "La Crosse board certifies 2026 midterm election results&nbsp;&nbsp;news8000.com",
-     "image": ""
-    },
-    {
-     "title": "Portland election results: Where key races stand",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWdHZlk0OTFsbU9sa3RwTGk4Zmh1S0dIcmN4WGxpSVpVck5uZUVGb2RDX0dYel93ZWx0bk5Wd0tQb3RZc2V5QnpvWHBpbkZ0QV9FMGdfNUkxQTcya1JtT25kTmh5Ym5ORzFlQTBxSlZJd1dxd0o2WDRieHowMGk2U2RlWldHbGNVRXpUM0t5Z0JnVWVTSzZqSEl5YmYyc25F?oc=5",
-     "source": "Axios",
-     "published": "2026-11-07T02:09:46+00:00",
-     "summary": "Portland election results: Where key races stand&nbsp;&nbsp;Axios",
-     "image": ""
-    },
-    {
-     "title": "Justice Department drops bid to force California to set aside ballots from alleged noncitizens",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkVYNTAtZkdnZXpvYUF4cU1oRld6VERRY2xLSWJQMjhwa1pVOTltaHJlVGxXVXo5NUdveVpIbDRSdFQzejFsSGcxOUlhSEo1Q3BaVGtCQWpLV0V4cEJGbTJPbnFfSng1S3VSazdhc2JrWWk1YUJYVjdkUnc3X3VhNEVydC1tTllQTHlTdzlZSGpyblJBVW5VZEdsN2xSaWVTUE14OXY3Z2p3U2dJZklJdlJoOXZ4b2JRcTd0NUNyeUlIOUw1?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-07T02:09:00+00:00",
-     "summary": "Justice Department drops bid to force California to set aside ballots from alleged noncitizens&nbsp;&nbsp;NBC News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T04:05:39.549619+00:00",
+   "fetched_at": "2026-11-07T04:35:43.414145+00:00",
    "stale": false,
    "items": [
     {
