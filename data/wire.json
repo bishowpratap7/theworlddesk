@@ -1,12 +1,28 @@
 {
- "generated_at": "2026-11-07T14:07:24.078975+00:00",
+ "generated_at": "2026-11-07T14:37:27.495250+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T14:07:24.078952+00:00",
+   "fetched_at": "2026-11-07T14:37:27.495225+00:00",
    "stale": false,
    "items": [
     {
-     "title": "New Zealand facing weeks of uncertainty with election \u2018too close to call\u2019",
+     "title": "New Zealand\u2019s prime minister says election is \u2018too close to call\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T14:03:06+00:00",
+     "summary": "New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.",
+     "image": ""
+    },
+    {
+     "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+     "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T13:50:15+00:00",
+     "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
+     "image": ""
+    },
+    {
+     "title": "New Zealand faces weeks of uncertainty with election \u2018too close to call\u2019",
      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
      "source": "The Guardian",
      "published": "2026-11-07T13:48:18+00:00",
@@ -58,7 +74,7 @@
      "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
      "source": "The Guardian",
      "published": "2026-11-07T13:12:22+00:00",
-     "summary": "This blog is closed. Another update here with 8% of the vote counted. National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity 5.7% and Te P\u0101ti M\u0101or",
+     "summary": "This blog is closed, you can read our report on the New Zealand election hereAnother update here with 8% of the vote counted. National on 31.2%, Labour 28.4%, the Greens 12.9%, Act",
      "image": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=842242f69139eccf98f50148f27a190a"
     },
     {
@@ -100,35 +116,35 @@
      "published": "2026-11-07T13:00:12+00:00",
      "summary": "Architect of Trump\u2019s far-right immigration agenda is now most powerful unelected figure in government \u2013 it suggests White House is moving to a war footingDonald Trump just gave the",
      "image": "https://i.guim.co.uk/img/media/60d582a626757ec72f79e844a2ef065af7c1b51c/0_0_2881_2305/master/2881.jpg?width=140&quality=85&auto=format&fit=max&s=c1b0aa3ba931de7e4d11a316938b8ccf"
-    },
-    {
-     "title": "Court rules against Home Office in asylum seeker kidnapping case",
-     "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-     "source": "The Guardian",
-     "published": "2026-11-07T13:00:11+00:00",
-     "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in LibyaThe court of appeal has rejected claims by",
-     "image": "https://i.guim.co.uk/img/media/ba6b66a9237796408a3d132a0a8ce3e5749ed595/542_7_3957_3166/master/3957.jpg?width=140&quality=85&auto=format&fit=max&s=5f753c6febd18fcebb8421ebd0de0ddb"
-    },
-    {
-     "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
-     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T12:49:36+00:00",
-     "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T14:07:24.078963+00:00",
+   "fetched_at": "2026-11-07T14:37:27.495238+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+     "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T13:50:15+00:00",
+     "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
+     "image": ""
+    },
     {
      "title": "Russia Widens Strikes On Ukraine\u2019s War Machine, Claims Weapon Route & Military Cargo Vessel Targeted",
      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQUJsVGF1ZlZVOGl5NmgwTGVGWUhCb0NMZWhDTkpyazNuWkcwUXpfSXJTcWs2ZWNjX2dXWFluSFVfa2txMjJ5U2F6VkNNaDlNU3E1VU41NFRxUDFGQnhQR2s3OUJlWFZHdzljdjZBUGgxQXJWYVJHeVZFMTNQOXdmUFhVMXAwOVotMkh5VUdIWHNJZTFaU3ZmU216TFEyM2xZZFFHZlladUx2WXc1dXVlWnhVYm9ETlV3bE1pQW11N25qUl9OWm00akFVcVlMOVBSam9MNWVKSkNobXpzVGpFVDFJdkgzaU5xTVJLUDNyeV9VXy12MExZT2JmX21SYVM4S1NkeGJ2ZjbSAY4CQVVfeXFMUFdmRWdMXzl2VDRuTlZ4Znd6WGZrMXF4U2tfRWFvbjR1MXFVMEE2eVlWcXh2UzBrTV9fZ1d5T3hPd1Btdk96enpieXBZdV9pZDlGcUN3ZVBCYm9HQTJITkdSanY3dkgwcEMwRThlOHptZ25JaF9pSFlhWDNfM3VNSHJXWVVFMHp6d09tcFlURWYyS3VKc1VCT0hsc19mamRJY0MyeXFBLWFHd2lsQkRydm9fTjZvZjhnS3BxX1FSOUxOdnZmaUtQSkVWb2hRSHpBVWFyckZyZlktU29obDhnV2RlemY4MUFqbEY4WDh5RFhaV0JNUFQyOTEwOTRGOEdXX2gtLTROb19XS3JkNHJR?oc=5",
      "source": "The Times of India",
      "published": "2026-11-07T13:28:46+00:00",
      "summary": "Russia Widens Strikes On Ukraine\u2019s War Machine, Claims Weapon Route & Military Cargo Vessel Targeted&nbsp;&nbsp;The Times of India",
+     "image": ""
+    },
+    {
+     "title": "Russia Upgrades Its Delegation for US-Led Ukraine Peace Talks in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOanUzdWlCU1doRFdfS3k2cU5tWHd2OG5ESkpzdHdsVnpVSWpxWktVNFdqdWJZVWZ4WFgzZXV1TmJnN2NJTHRHNVVCRjNzSVFyU2NYSUkySXZfZF91SmNfdElBX1JvZlRvdWJZSk92bWIxVXEtcnhIZGh3QV9tWTF3aHJtMGRkR2hMb093MFBmc0xoNVRCU1JfbVRmeUQ1V1cteEwtbVVidk1sbVdMblRla296dEhtUGVpMHpFdWhoRTlSZFk?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-07T13:25:27+00:00",
+     "summary": "Russia Upgrades Its Delegation for US-Led Ukraine Peace Talks in Abu Dhabi&nbsp;&nbsp;Bloomberg.com",
      "image": ""
     },
     {
@@ -202,35 +218,35 @@
      "published": "2026-11-07T13:00:11+00:00",
      "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in LibyaThe court of appeal has rejected claims by",
      "image": "https://i.guim.co.uk/img/media/ba6b66a9237796408a3d132a0a8ce3e5749ed595/542_7_3957_3166/master/3957.jpg?width=140&quality=85&auto=format&fit=max&s=5f753c6febd18fcebb8421ebd0de0ddb"
-    },
-    {
-     "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
-     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T12:49:36+00:00",
-     "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"
-    },
-    {
-     "title": "Trump says Russia-Ukraine war may be nearing an end, hopes for agreement",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YelVmem5PMkVVYmk5Y2drZmtGMG43Q0lCckdxOVhlS2hzak40UkhhQkFTS1djakFZREJ4Qmg5akxGdnI0YTRXaDdtTlZaWmJRRlNr?oc=5",
-     "source": "\u0633\u0627\u0646\u0627",
-     "published": "2026-11-07T12:47:41+00:00",
-     "summary": "Trump says Russia-Ukraine war may be nearing an end, hopes for agreement&nbsp;&nbsp;\u0633\u0627\u0646\u0627",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T14:07:24.078965+00:00",
+   "fetched_at": "2026-11-07T14:37:27.495241+00:00",
    "stale": false,
    "items": [
     {
-     "title": "No, your cat can\u2019t win this Oregon election as a write-in candidate",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1NxaVNjcThnZm1TTFk2VVU0OGZRNWFVbGlfZDVwRE04cnZFQVlhaUg2aDhhN21qQWh2ZGI3YnBqUFhXNVZGSGgyOV92R2lFZE9VenYzN2xKVmQ5Zy1zWU84Y2FKTU84TktaRm9mcUxpWmhZWVJ2WktZcm92YmNCSmtDZDFGNmY5TnZveGxuckVZaTFQcVRfeV9VYVU1UEpHYk8tUVhVWTd1aWV4enhsdWJzdTU?oc=5",
-     "source": "OregonLive.com",
-     "published": "2026-11-07T14:00:00+00:00",
-     "summary": "No, your cat can\u2019t win this Oregon election as a write-in candidate&nbsp;&nbsp;OregonLive.com",
+     "title": "Six Charts Explaining New York\u2019s 2026 Elections",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBRTl5UjFKUXRFQ0J6UWthOEdSMTlMbDlqeHhEYzBhWHRNenE2bU1xMmpTWDV3d1J1b0dIWXhCdWdUcjRKcDc2SjAyVi1ES25lcU9na2RpeDl3aE1iYzRyX19TbS1OVWxndks2dGc0ZUJuOEU?oc=5",
+     "source": "New York Focus",
+     "published": "2026-11-07T14:18:00+00:00",
+     "summary": "Six Charts Explaining New York\u2019s 2026 Elections&nbsp;&nbsp;New York Focus",
+     "image": ""
+    },
+    {
+     "title": "New Zealand\u2019s prime minister says election is \u2018too close to call\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T14:03:06+00:00",
+     "summary": "New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.",
+     "image": ""
+    },
+    {
+     "title": "Will this week's blue wave election usher in a Democratic president in 2028?",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjBFdHZSdUVnWkFJSEk5eXZ2Yl8tWjI5aWtsWDdCV1lEMFBYVXA5UHdsdk5yaW1ZV191WjZ5SFRwa3hmV2tEMFlpS0NwNkcyRUh5RVo3X1JOeTd2a01BUTNoWDlWbDh5X2JVZUpDT2lScWliUktabTRRcHdzcDFHMnlya3pabzg1MGFB?oc=5",
+     "source": "CNBC",
+     "published": "2026-11-07T14:00:01+00:00",
+     "summary": "Will this week's blue wave election usher in a Democratic president in 2028?&nbsp;&nbsp;CNBC",
      "image": ""
     },
     {
@@ -242,12 +258,28 @@
      "image": ""
     },
     {
-     "title": "New Zealand facing weeks of uncertainty with election \u2018too close to call\u2019",
-     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "title": "No, your cat can\u2019t win this Oregon election as a write-in candidate",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1NxaVNjcThnZm1TTFk2VVU0OGZRNWFVbGlfZDVwRE04cnZFQVlhaUg2aDhhN21qQWh2ZGI3YnBqUFhXNVZGSGgyOV92R2lFZE9VenYzN2xKVmQ5Zy1zWU84Y2FKTU84TktaRm9mcUxpWmhZWVJ2WktZcm92YmNCSmtDZDFGNmY5TnZveGxuckVZaTFQcVRfeV9VYVU1UEpHYk8tUVhVWTd1aWV4enhsdWJzdTU?oc=5",
+     "source": "OregonLive.com",
+     "published": "2026-11-07T14:00:00+00:00",
+     "summary": "No, your cat can\u2019t win this Oregon election as a write-in candidate&nbsp;&nbsp;OregonLive.com",
+     "image": ""
+    },
+    {
+     "title": "New Zealand faces weeks of uncertainty with election \u2018too close to call\u2019",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbllFdTJQdVlKWE5OeDZwclo5YURJem96UzNhRzdzM0JhdDNIQmUtWHY0a2lNN09rWmJHNnljNmtsVk1HcFgzS0NuYnpMbVJHRVVWdzVmS0JwakxfSWNDVFBUZlRJUV8yTlN2dFIzSlBzRmE2a19BM0JOdGpHQjlfQ2hVTDhsazJ5emhMV2VqYThnVU1ISUJVNTlwSQ?oc=5",
      "source": "The Guardian",
-     "published": "2026-11-07T13:48:18+00:00",
-     "summary": "National party will be largest in parliament but ultimate shape of next government won\u2019t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of ",
-     "image": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=030d6b177625782a5ee646ba1c1d9571"
+     "published": "2026-11-07T13:56:00+00:00",
+     "summary": "New Zealand faces weeks of uncertainty with election \u2018too close to call\u2019&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Not a pretty sight: Trump\u2019s \u2018beautiful\u2019 Republican men flop at midterms",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZYVkw1MDB6YWZPS25SN1FMbi1INFZsNnIwRUliZ2I0VlZEbUExN3JjU3IzNk5ZbHlrV0hoTEE0a1R2UlZ1WTc5X1lLVEpIcnFyRU00aEVhOXBpTjFpOHdhUm53M0UwYU5iTWQ1bGVHWTE2a3daTHFEOGhReThjTmFPT3ZfYWRscllMWXUzby1hRFB0RUtoOUxwVG5WaF91REo0U0tFZjdTZnRpU1Jn?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-07T13:49:00+00:00",
+     "summary": "Not a pretty sight: Trump\u2019s \u2018beautiful\u2019 Republican men flop at midterms&nbsp;&nbsp;The Guardian",
+     "image": ""
     },
     {
      "title": "\u2018Radical\u2019 or \u2018hero\u2019?: France debates leftist candidate Jean-Luc Melenchon",
@@ -278,7 +310,7 @@
      "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
      "source": "The Guardian",
      "published": "2026-11-07T13:12:22+00:00",
-     "summary": "This blog is closed. Another update here with 8% of the vote counted. National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity 5.7% and Te P\u0101ti M\u0101or",
+     "summary": "This blog is closed, you can read our report on the New Zealand election hereAnother update here with 8% of the vote counted. National on 31.2%, Labour 28.4%, the Greens 12.9%, Act",
      "image": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=842242f69139eccf98f50148f27a190a"
     },
     {
@@ -288,43 +320,11 @@
      "published": "2026-11-07T13:09:24+00:00",
      "summary": "New Zealand in political limbo after knife-edge election&nbsp;&nbsp;CNN",
      "image": ""
-    },
-    {
-     "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5",
-     "source": "CNBC",
-     "published": "2026-11-07T13:03:12+00:00",
-     "summary": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections&nbsp;&nbsp;CNBC",
-     "image": ""
-    },
-    {
-     "title": "What's next for Michigan Democrats after winning a state government trifecta?",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX29KUnFod1MtRmF5eGVoNU1nZTlELS1lWlZXX05EektFOVZzcnZXSkhFOXQ4d0VYQ0FzOUk0SE1VWjNFU3Y4SmVCOXl1Tlo3M2VHdjZlY3lnWGlwZjFNRGpWZ29pNFRPY2FvbkpmODV6SHUxYm9YTzZ6cElhQ2djOGVVUHN4eTlpNEhPanJZcDByUGFwaGh3UlBHeVVycGptRm42U29xa1JUaU9iZUx1dGtB?oc=5",
-     "source": "Michigan Public",
-     "published": "2026-11-07T13:00:00+00:00",
-     "summary": "What's next for Michigan Democrats after winning a state government trifecta?&nbsp;&nbsp;Michigan Public",
-     "image": ""
-    },
-    {
-     "title": "New Zealand election 'too close to call' - so who will be next PM?",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyMDdwT2VFY0VaQlBLTDB2OVZTc1lrMHBuc1J2aktoUlZkSkdwdGFkcDlTczVMNkhsY2JpRTFMeDd3OWE5Mng0UWlSQWZLcFdvdUZYOHFGRWo?oc=5",
-     "source": "BBC",
-     "published": "2026-11-07T12:40:38+00:00",
-     "summary": "New Zealand election 'too close to call' - so who will be next PM?&nbsp;&nbsp;BBC",
-     "image": ""
-    },
-    {
-     "title": "Two main parties neck and neck after New Zealand vote, near complete count",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaG5IckpSU0pKMzd1TGJpLVNPTEdwZFJBZjRaTDFVc0hHNXptUUs3Nml6bmhGeE5hNGx6cjZKM2xmWVFrcFVJT2VWTU9YbGVYZlAyZVlWazN0QzVjbk1vX2JDTGc5OEU1OVJrZmZha2N0Mm9ZeUZJQnlKNGVkWXNNWklQaTVNbUprVWdRRU5jWkRDRllfTF9UODZKTE1ESjZFT1UtMGdySWtNV1pJ0gGyAUFVX3lxTE5ucGdMYnFfM0toX1BkOEFMYzVmWnU4RnRZdjFUYktRdnVWQ1NWVlVkTk0yZ0lPYjlSYlViSGR4VGRreUdnVHh5d2hIM080TDJna3prZV9UeTl3SmFfUlBUSG12UFdKMnRObjlnaTlnZmFHbTM5bWVtejI2NnBGYldmMkU4OU9uV3VfOEhseHU2emctV1gzdXVVOHhXMWhRYUFGQTFXT0dmOUctM2J2eEM1cEE?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T12:33:45+00:00",
-     "summary": "Two main parties neck and neck after New Zealand vote, near complete count&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T14:07:24.078967+00:00",
+   "fetched_at": "2026-11-07T14:37:27.495242+00:00",
    "stale": false,
    "items": [
     {
