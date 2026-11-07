@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-07T17:38:04.727662+00:00",
+ "generated_at": "2026-11-07T18:08:07.947212+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T17:38:04.727631+00:00",
+   "fetched_at": "2026-11-07T18:08:07.947182+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Gaza wedding festival sees 250 couples married at the same time",
+     "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T17:58:41+00:00",
+     "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Krak\u00f3w shooting latest updates: six killed and more than a dozen injured, police say",
+     "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-07T17:41:45+00:00",
+     "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injuredTom Rose, the US ambassador to Poland, wrote on X:We",
+     "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
+    },
+    {
+     "title": "Houthis report 25 killed in Yemen strikes",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T17:39:23+00:00",
+     "summary": "Yemen\u2019s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
+     "image": ""
+    },
     {
      "title": "'We must change everything': French far-left leader M\u00e9lenchon launches presidential programme",
      "url": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
@@ -34,16 +58,8 @@
      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
      "source": "NPR",
      "published": "2026-11-07T17:14:36+00:00",
-     "summary": "Paraguayan President Santiago Pe\u00f1a was removed from office and placed on House arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+     "summary": "Paraguayan President Santiago Pe\u00f1a was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
      "image": ""
-    },
-    {
-     "title": "Krak\u00f3w shooting latest updates: six killed and more than a dozen injured, police say",
-     "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-07T17:11:29+00:00",
-     "summary": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attackTom Rose, the US ambassador to Poland, wrote on X:We are just learning details of the hor",
-     "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
     },
     {
      "title": "Jerusalem Daily: Heavy rains flood Gaza",
@@ -86,43 +102,59 @@
      "image": "https://i.guim.co.uk/img/media/0453031071a4359ad9f3f2d5a0161318653a79a5/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4ad44051a3555f0c5e5bd98dc35c5c23"
     },
     {
+     "title": "France investigating if bogus bomb threats against airlines linked to 'foreign powers'",
+     "url": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
+     "source": "\u00a9 Nikolay Doychinov, AFP",
+     "published": "2026-11-07T16:33:53+00:00",
+     "summary": "French prosecutors are investigating a series of fake bomb threats that targeted commercial flights in Europe this week, including trying to establish whether foreign powers may be",
+     "image": "https://s.france24.com/media/display/04c53f78-dac9-11f1-b612-a575454bc579/w:1024/p:16x9/0e4210476305ece4f8a6aabff01978500875331c.jpg"
+    },
+    {
      "title": "Israel builds 90km network of military roads across southern Lebanon",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-07T16:30:33+00:00",
      "summary": "Israel is building roads and military outposts across southern Lebanon.",
      "image": ""
-    },
-    {
-     "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-     "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T16:15:18+00:00",
-     "summary": "It happened in a region of the country known to have drug trafficking activity.",
-     "image": ""
-    },
-    {
-     "title": "Hundreds march in Pau, France against high living costs",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T16:09:11+00:00",
-     "summary": "Hundreds march in Pau, France against high living costs",
-     "image": ""
-    },
-    {
-     "title": "Five killed and at least 10 injured in Krakow shooting",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T16:06:58+00:00",
-     "summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T17:38:04.727645+00:00",
+   "fetched_at": "2026-11-07T18:08:07.947197+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Gaza wedding festival sees 250 couples married at the same time",
+     "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-07T17:58:41+00:00",
+     "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "What did Erdo\u011fan and Trump discuss? \u2013 Iran, Ukraine, Russia\u2026",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2Rkb3NYS3V3WUJJOVlZWUU1Z3VMZTNHTHpUUmVkUGh2SEs0dWdlVWhvN2d3OFJxR05vUkd0dTBKOHAyTHhqZkFZaG1iUGRwVmN5RS14Tk5pSEd6UERxUWNBQ0duQlJ3SEhGZzV3YlBhTkRnWVhpTVhVWlhNRWVyam9CbGtXQ0c0dXpXZG13?oc=5",
+     "source": "TodayPress.tv",
+     "published": "2026-11-07T17:44:48+00:00",
+     "summary": "What did Erdo\u011fan and Trump discuss? \u2013 Iran, Ukraine, Russia\u2026&nbsp;&nbsp;TodayPress.tv",
+     "image": ""
+    },
+    {
+     "title": "Houthis report 25 killed in Yemen strikes",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T17:39:23+00:00",
+     "summary": "Yemen\u2019s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
+     "image": ""
+    },
+    {
+     "title": "Opinion: Putin's diesel hurts Ukraine but won't help farmers",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRFR3XzllczVkcThnTHNXWUNpQlA4MzI0TGtQOFBNcHlscmlMNTB3VlNRUHZmMmJXdE5YTVZWTHlzYVRnU3pnM0Y1S0J4VWlzNGN1ZGRwRzh3UW5JUjgxenA3UHlIaUtXQThCakpqWHBLemlpaTBtMXJ6ZE81WGd4NzFLT0Zub0tpbFBad1dCWnlLX2k4QkFKcWhhT1F2N2ZsSjVrWGNLTGQzaklEN1JLSXFVNnZ1aU4ySlNsdlZkYUFZdm9PamkwdlV5WnR1TnByeGJ0V1VSeE1CZw?oc=5",
+     "source": "The Gazette",
+     "published": "2026-11-07T17:36:00+00:00",
+     "summary": "Opinion: Putin's diesel hurts Ukraine but won't help farmers&nbsp;&nbsp;The Gazette",
+     "image": ""
+    },
     {
      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
@@ -180,51 +212,35 @@
      "image": ""
     },
     {
-     "title": "Iran\u2019s IRGC says building underground sites for weapons production, storage",
-     "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T15:34:58+00:00",
-     "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
-     "image": ""
-    },
-    {
-     "title": "Finland Eyes Ukraine-Style Tank Traps to Fortify Its 830-Mile Border With Russia",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnFMaENUM3ZYUG1XNFp0ZGRBa3p4SFN5ZTc2MUdxSU5PNlZQU1h1cUEwNWJBZ3F2YjBMRDFuNFMzTFVpTUxQMzBpNmlxYkQ4ZkJJbkIwS1A3Y0dGQ3JJLV9XcHRyTWtRM0FHVUFlbHY4bG1tSGtpSk1FTDdweFQtUTZnTktZbE93M3VvbGpfLWszcHdBc1pnSWx0cHUxV0lnTGJ3WEdKWU53LXREOUNzUElmbzRMTEd5NEdKb1J0LUNQOTNUMXc?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-07T15:01:52+00:00",
-     "summary": "Finland Eyes Ukraine-Style Tank Traps to Fortify Its 830-Mile Border With Russia&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWV6bFdYT1ZKNS00TUlIMTloZHRyQzUySlktVWNGZWozaU9oalBobmRSU2tvSUF0UUVycG1aNWtMNlU4WGlhTHZKa3FSeDkzZHFacWpFcC1iMHE0LXNXQ2ptcnlid1FWeWtJWjFIR3RxNEoxamo0MEQzek1MbFZlMTctLW5jcXZFRmNoQWVOMFlReGg1LWdzZlZwUDJLa1lZeDBhVXZ4bw?oc=5",
-     "source": "WV News",
-     "published": "2026-11-07T15:01:03+00:00",
-     "summary": "Russia Ukraine War&nbsp;&nbsp;WV News",
-     "image": ""
-    },
-    {
-     "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNblZrR0VadmNOWXA5RkZQOVBLN0ZiZS1HVjNpYm02VDQ3V01FQUVfRTlKTEszdWdWZ2tMZ3l4ck9CZ25CSnlLUzB4QWNIc2h5UlZRRFhJcDkyaUtGZzFmRVVVbk16X0VScTVMYnFoS3dMZzEwbVFEWE9sVjlhV0I5ZjdGWXJsZkRwTmFjNTJPUlQzRWFDNGNnVWkwd1ZvR2loeFFZelRVWUJCSF9sOG9sNFNqZjQzT256dnpKd1YzQ1h6YUdoV0Q1M3pfbFQwbEZ3MnlCTkc1UmtHdmU2NDJfVFlFREdWVGU2X2U1ZlFUWTY4MGhsbnZJT01ZRmg0OEloVXM3VWZIM0swYjZ5bmthbA?oc=5",
-     "source": "Ottumwa Courier",
-     "published": "2026-11-07T14:58:25+00:00",
-     "summary": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US&nbsp;&nbsp;Ottumwa Courier",
-     "image": ""
-    },
-    {
-     "title": "Zelensky says Russia ramping up strikes to \u2018pressure\u2019 Ukraine at talks",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamhZWElaRk9uSzhCNm10aDRjc0N6aGY5NmZsRGtSZlRWM3ktVENRckdfdEptTUN6OWM5NkJHcURkYk5FRHNoVXVTQjN4NC1zdE81aXpCd2M1WGZWT3FLamtxTEJyNnZ3b0VDQlh5TXJka0VCTEtiTUFoekIwdU1fNXA0TXZQRU5uT3NfRTlnaHhIeVdMcHNJQVl2cUFadmF0N01NbGI3d3ZrMXc?oc=5",
-     "source": "Arab News",
-     "published": "2026-11-07T14:49:55+00:00",
-     "summary": "Zelensky says Russia ramping up strikes to \u2018pressure\u2019 Ukraine at talks&nbsp;&nbsp;Arab News",
+     "title": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue.",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4eUwyMWo1bjZiRVJQdWFCZ2dGa1FXTUdydkRlWWhaN0dhWmNYWU5UWldzc1VxR3hFbFM3WlRQTUtVMURCVVhaYThzQ1FtTGVKSTAteVVMd2lES0NpcWRwRk9LODlwRWl0bG1CYzdoM0IyMzR0?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-07T15:45:47+00:00",
+     "summary": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue.&nbsp;&nbsp;WSJ",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T17:38:04.727648+00:00",
+   "fetched_at": "2026-11-07T18:08:07.947201+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "2026 General Election Ballot Processing Update \u2013 Nov. 7, 2026",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDJXTmRSX2ZhNG1WMGxiNE5tVl80UF81ci01aG5keDlUNWdRYXNfQktUSVlrYXFVU0g4eURGRE50NG1Yb2FySWpLaS1ZcUhMYjZUQVhTRk1wYXprYlI5X1NIWUN2ZkJWVFJwdmVaS1p5Rk9xa3hKc2NBRHJEVUpITTdsbUw2QlktUzdHYmoyREZRSXZIam5YcG9aeDR5RGtLb1FSMmxmck1tRWg1?oc=5",
+     "source": "Washoe Life (.gov)",
+     "published": "2026-11-07T18:02:06+00:00",
+     "summary": "2026 General Election Ballot Processing Update \u2013 Nov. 7, 2026&nbsp;&nbsp;Washoe Life (.gov)",
+     "image": ""
+    },
+    {
+     "title": "Krak\u00f3w shooting latest updates: six killed and more than a dozen injured, police say",
+     "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-07T17:41:45+00:00",
+     "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injuredTom Rose, the US ambassador to Poland, wrote on X:We",
+     "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
+    },
     {
      "title": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY0lzaUxCUDdFNllvbzRrSXFyRHVDNXRhSUUwYUU1MnBsY3UtZWtrWXQ1c1FUeEVCeWM2eWYtZ2RSTWVuc09MU3VJTjFJTGZibmxQNnMtemc2aE96dmtEUC1NSlhlUWpuYVU0VnIwOEVMT2w4Y0JEQVNqUTlnbzZNa3dsM2hzNUlYZmhHSw?oc=5",
@@ -254,16 +270,8 @@
      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
      "source": "NPR",
      "published": "2026-11-07T17:14:36+00:00",
-     "summary": "Paraguayan President Santiago Pe\u00f1a was removed from office and placed on House arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+     "summary": "Paraguayan President Santiago Pe\u00f1a was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
      "image": ""
-    },
-    {
-     "title": "Krak\u00f3w shooting latest updates: six killed and more than a dozen injured, police say",
-     "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-07T17:11:29+00:00",
-     "summary": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attackTom Rose, the US ambassador to Poland, wrote on X:We are just learning details of the hor",
-     "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
     },
     {
      "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
@@ -271,6 +279,14 @@
      "source": "CNBC",
      "published": "2026-11-07T16:31:00+00:00",
      "summary": "Decisive election. Dramatic stock swings. How we handled the market last week&nbsp;&nbsp;CNBC",
+     "image": ""
+    },
+    {
+     "title": "Six-year legal battle over Barbers Hill ISD's hair policy ends in settlement",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHAzanlxcWdNVHA2WmhzNk1INUVVSDhGMXhzTVpZdERHa1dIQUZuaHd4UnhiLWlJcTZHOVhuU3FxMHlXdWtyT0lfdERxbHBsaXB5TzBTSVpGdjBSS1RyTzNuVVZXQ1RSM05GaWlXYU9lWjhqOUZHWmZTaXZCOHcwWlVMMENqOEFJamF4WVFpV0VsTWtySnVGQjA3emhnQnE3OEdmMDFvdHRoZk1feWthSFRiRWJrNng3V3J3d1ZhbE8xd19CcVd5ZQ?oc=5",
+     "source": "Houston Chronicle",
+     "published": "2026-11-07T16:18:11+00:00",
+     "summary": "Six-year legal battle over Barbers Hill ISD's hair policy ends in settlement&nbsp;&nbsp;Houston Chronicle",
      "image": ""
     },
     {
@@ -290,14 +306,6 @@
      "image": ""
     },
     {
-     "title": "No clear winner after tight New Zealand general election",
-     "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T15:56:28+00:00",
-     "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
-    },
-    {
      "title": "Trump\u2019s new chief of staff Stephen Miller says he \u2018saved America\u2019",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
      "source": "Al Jazeera",
@@ -312,19 +320,11 @@
      "published": "2026-11-07T15:22:55+00:00",
      "summary": "Polish Prime Minister Donald Tusk says police are investigating after &#039;tragic shooting&#039; in second-largest city.",
      "image": ""
-    },
-    {
-     "title": "Stephen Miller, Trump\u2019s incoming chief of staff, pledges \u2018total devotion\u2019 to the president",
-     "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-     "source": "The Guardian",
-     "published": "2026-11-07T15:15:11+00:00",
-     "summary": "Hardline aide offers \u2018unwavering commitment\u2019 to president amid fears White House will double down on far-right immigration agendaStephen Miller, Donald Trump\u2019s most controversial a",
-     "image": "https://i.guim.co.uk/img/media/0513655571bc4088f5bb985eb507ce166bb05875/0_0_1688_1350/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=2d5272d0b153de2c51ded2a593e0dae8"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T17:38:04.727650+00:00",
+   "fetched_at": "2026-11-07T18:08:07.947203+00:00",
    "stale": false,
    "items": [
     {
