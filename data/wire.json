@@ -1,17 +1,41 @@
 {
- "generated_at": "2026-11-07T10:36:40.384633+00:00",
+ "generated_at": "2026-11-07T11:06:44.089477+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T10:36:40.384603+00:00",
+   "fetched_at": "2026-11-07T11:06:44.089446+00:00",
    "stale": false,
    "items": [
     {
      "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
      "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
      "source": "The Guardian",
-     "published": "2026-11-07T10:17:49+00:00",
+     "published": "2026-11-07T10:52:42+00:00",
      "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast",
      "image": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=842242f69139eccf98f50148f27a190a"
+    },
+    {
+     "title": "French presidential election: How far-left M\u00e9lenchon became a Gen Z favourite",
+     "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
+     "source": "\u00a9 Abdul Saboor, Reuters",
+     "published": "2026-11-07T10:44:34+00:00",
+     "summary": "Far-left presidential candidate Jean-Luc M\u00e9lenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonethe",
+     "image": "https://s.france24.com/media/display/056e4b3c-d9d3-11f1-9077-695cb59fade5/w:1024/p:16x9/2026-10-24T131136Z-1842472203-RC2O9OAUQRZE-RTRMADP-3-FRANCE-PROTEST.jpg"
+    },
+    {
+     "title": "Sudan war and climate change see parents struggle to feed their children",
+     "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T10:36:32+00:00",
+     "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
+     "image": ""
+    },
+    {
+     "title": "Pakistani astronaut to join China\u2019s next space station mission",
+     "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T10:17:53+00:00",
+     "summary": "The unnamed individual will be the first foreign national to visit China&#039;s space station as part of Shenzhou-24 mission.",
+     "image": ""
     },
     {
      "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
@@ -92,37 +116,29 @@
      "published": "2026-11-07T09:18:53+00:00",
      "summary": "The first Muslim senator&#039;s new committee will let him raise money for other candidates.",
      "image": ""
-    },
-    {
-     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-     "source": "The Guardian",
-     "published": "2026-11-07T09:15:35+00:00",
-     "summary": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an \u2018error\u2019The Home Office is being sued for alleged breach of the Brexit withdrawal agr",
-     "image": "https://i.guim.co.uk/img/media/838ba7f69956d265d77e9f70e4f810129f1225ec/0_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=359a51ab4e53c21874955230fb8034c0"
-    },
-    {
-     "title": "TikTok accused of helping to promote sex industry to girls",
-     "url": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
-     "source": "The Guardian",
-     "published": "2026-11-07T09:00:07+00:00",
-     "summary": "Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyleTikTok is helping to promote and normalise the sex industry, allowing ",
-     "image": "https://i.guim.co.uk/img/media/4c15ad088ea9124f8235261941f6a598cbe96eb1/0_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=49db3bd2ae088c593641c5fcdf9fe21d"
-    },
-    {
-     "title": "Will Trump strike nuclear sites again as Iran engages \u2018cognitive warfare\u2019?",
-     "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T08:45:36+00:00",
-     "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T10:36:40.384617+00:00",
+   "fetched_at": "2026-11-07T11:06:44.089461+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Sudan war and climate change see parents struggle to feed their children",
+     "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T10:36:32+00:00",
+     "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
+     "image": ""
+    },
+    {
+     "title": "Russia-Ukraine war escalates with attacks on energy facilities and bridges",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpWGlXZjVUQzNOQkJJallFbEp3M1d5NE1zNmNwS3g4dG5MNXZ6d3p4Qllra096TE1mTEczU3JfNjR0X0JCUkxCb3VVQjdhVVNyQ0hv?oc=5",
+     "source": "\u0633\u0627\u0646\u0627",
+     "published": "2026-11-07T10:16:01+00:00",
+     "summary": "Russia-Ukraine war escalates with attacks on energy facilities and bridges&nbsp;&nbsp;\u0633\u0627\u0646\u0627",
+     "image": ""
+    },
     {
      "title": "Casualties reported in Kyiv as Russia, Ukraine trade accusations about overnight strikes",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeklhYmtFVlVFLVhYY0tuV09wSFR0Nk5SSzV4ZExhcmN5Nkc4UlpwQ1VyVFJuMldyU1BWNW9ya0Rxb1h4RWtidl9XcTlIdjhVbE1wbVd3dGMzZWpqbXlhWkpScW8wRnNpV1ZhQ3R6M2FzWEZHTjNHX3VnS2Nab1pjSnV2TXpaNDQtRGsyZ2FkSUZxSGsxNjZ2d2k4eDZwZy1RQkRIZmxkTFNlWlJtbVZ6bzJzNFZVWmdJbXpzNEdqM2ljbnZC?oc=5",
@@ -188,43 +204,67 @@
      "image": ""
     },
     {
+     "title": "Russia says it hit targets in and around Kyiv in massive overnight strike",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXNCV0RialczRVdaV0JqcjNfb0FZWkYweTRqMkZOcFd2MFpKcFBUbmNoZzM2WWFvTU1Fei1EanE4QnNSN3UwdnpaX0lHYlBsNmZiNEt0VlcyUW11RmRBdUxhNE1jeXBoUWd6UDZHOHNGZjFOR29yOFJCa1FCMWwtUGNMUVc1VWlBU0xyYjhfNllmZFZSVnoyTjl3Zm1NUkpGaFhIR3BzcGhEQVRlb3V2YWhvcFZpOEJUMmtnak91Tno?oc=5",
+     "source": "Deccan Herald",
+     "published": "2026-11-07T09:02:13+00:00",
+     "summary": "Russia says it hit targets in and around Kyiv in massive overnight strike&nbsp;&nbsp;Deccan Herald",
+     "image": ""
+    },
+    {
      "title": "Will Trump strike nuclear sites again as Iran engages \u2018cognitive warfare\u2019?",
      "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-07T08:45:36+00:00",
      "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
      "image": ""
-    },
-    {
-     "title": "Russia claims strikes on Ukrainian military-industrial, energy facilities",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQmt5eEljNFhUQ01VM2FldWh1MmFXenVraDdZbXNycWdRMWJZTHY3bHdza3VnVjdFb0dScGVuVFNGdGJfUFYxN002a1FObG5yeXR4Z2tBQklyVXBtY0VObjMxNjhiUEVjaVdvOU01dks5cjJQd1NfNG5QajRTQmEwRHBaR1JmaUFWT25vVnVGUk05VkV3ZXZBaQ?oc=5",
-     "source": "Latest news from Azerbaijan",
-     "published": "2026-11-07T08:45:22+00:00",
-     "summary": "Russia claims strikes on Ukrainian military-industrial, energy facilities&nbsp;&nbsp;Latest news from Azerbaijan",
-     "image": ""
-    },
-    {
-     "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
-     "url": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
-     "source": "\u00a9 Gleb Garanich, Reuters",
-     "published": "2026-11-07T08:08:44+00:00",
-     "summary": "Moscow \u2060carried out missile \u200band drone attacks on Kyiv and the surrounding region overnight Friday to Saturday, targeting energy infrastructure and killing at least one person whil",
-     "image": "https://s.france24.com/media/display/546cb698-da81-11f1-a20b-695cb59fade5/w:1024/p:16x9/2026-11-07T070706Z-606536925-RC2OIOAD7FJI-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg"
-    },
-    {
-     "title": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXFSNGJwWnBuV3c5WFFvd2tYSGMzUS1CTjdBXzFyRGZtU012NXFjOUMwZFNrQUh6REh2b3F2UGdvZFRBMjRWc09VeWJHZ1hmQ0xxQkJoQ2RHVUVzbGhDYVZrR0hraV9hMXVya1pmamJjMzMxOWNIeHpmTUJVaGxoZFBoTFhvR3hkN1pONEtvcmY5OHdBNEY3bWludmZJNjN1MGRxTW1VWkdjZkxLaU4xa3h1SllyTEFDUV9OTmJOcDJMM3fSAcgBQVVfeXFMUFFmYnNQb0p0ekZYVDhPck0xXzFkejFxLTdwV2dhandTZXFqMjRDWkNHMlJWTkRWWTFKYXgxSlBSOGl2M0tjRmRLWEdTQUFaZkpSVW9fNW5wdlgyM1JDajN5RzR3QW8ySm0xMVZTdFloRWpoRVlNNTdmVHVtdTA4LTk4VmJpQmx6eG9xZHpOWnJTREVsOFdvcVBWanJNQURIeGNqakR1OFZRZ3VoVUhlSWdwT1ZnYWg3SVVEWU4ySjN5SDZxdDF2V2I?oc=5",
-     "source": "Al Arabiya English",
-     "published": "2026-11-07T07:48:00+00:00",
-     "summary": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says&nbsp;&nbsp;Al Arabiya English",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T10:36:40.384621+00:00",
+   "fetched_at": "2026-11-07T11:06:44.089465+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "A VPM News election results roundup",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FSXZBVmVaLS1DVjVaOC1OSlZQclNta1M3bnJPdThEbFZQUHNSbzNYeWxxWnBxdGJpcGtkSnA2N1hlVnJZOXdZbkNsa1JVLUJTdEFvTzgwaWswRkNoRHBUdy1Qckl3MXc3enZCd3JvMG4wYzZicDZR?oc=5",
+     "source": "VPM",
+     "published": "2026-11-07T11:00:34+00:00",
+     "summary": "A VPM News election results roundup&nbsp;&nbsp;VPM",
+     "image": ""
+    },
+    {
+     "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+     "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+     "source": "The Guardian",
+     "published": "2026-11-07T10:52:42+00:00",
+     "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast",
+     "image": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=842242f69139eccf98f50148f27a190a"
+    },
+    {
+     "title": "Who won in Manatee County? Here are key takeaways from Election Day",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkMyT3d5VG92QzRUVkRJdFd6T3hWRF9aNUxtNjk3WTIwbXgtN3Yxd1F2VmpSSkV0ckFHeFN3LUs0eGFOYllua20wcldidERKY2xxU3pHcTRiLUFLZ1cwRlZwZ3NmYVJBOU1ybWdtazBqTHVreUlYcXpNOEdXRldTWUJPaG5XNXRj0gGIAUFVX3lxTE1IR2hCY0RHTWVDMFl5cUNJVTNkMkZHZ0E3T09fRFJDbzFlMDVURUYzWWhEUXF1STJRcjhpRjUwdWU3QVZYaEkyYkJNUEsxc3hDOGxVYjVWN29wbnFqQXBWN3JjdUtsLTF0LTNiZzlsOF9mS21ORmd5UExNNEtMdXFveWw0UEpWMy0?oc=5",
+     "source": "Bradenton Herald",
+     "published": "2026-11-07T10:50:00+00:00",
+     "summary": "Who won in Manatee County? Here are key takeaways from Election Day&nbsp;&nbsp;Bradenton Herald",
+     "image": ""
+    },
+    {
+     "title": "French presidential election: How far-left M\u00e9lenchon became a Gen Z favourite",
+     "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
+     "source": "\u00a9 Abdul Saboor, Reuters",
+     "published": "2026-11-07T10:44:34+00:00",
+     "summary": "Far-left presidential candidate Jean-Luc M\u00e9lenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonethe",
+     "image": "https://s.france24.com/media/display/056e4b3c-d9d3-11f1-9077-695cb59fade5/w:1024/p:16x9/2026-10-24T131136Z-1842472203-RC2O9OAUQRZE-RTRMADP-3-FRANCE-PROTEST.jpg"
+    },
+    {
+     "title": "Conservative bloc takes a slim lead in New Zealand election that's still too close to call | National News | 2news.com",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWmhEdUZRaXRocUQ0RFlmZXBUQ2hIal9pS3FjUGZBVGZ2V1UyVWg3Sjl1QXJzRFFCMDY3bUJESmN4blM1Z285UEI5YWlzQUd1aHYySElsa0pUSDV0cGZZbmJyeTVNMW82N3hreGpUMWN0cUtDa0xzbU1iUklkMno3MmM1TGp2aUUxTXRqcDl4QTJzckR3R2t3SzVmTG9fX1VWQ01LX0hVdU5jeGdNdnVCYzViaVp1UGJ5Y3J1WHQ5NTZnZVBvX1RLNGw2MmRxUGxRV1pLRmZHQlN6aUVrWFhMVF9MNkw5X1BkekV5bDhKUDRZdmo5VFdQWElTenY?oc=5",
+     "source": "KTVN",
+     "published": "2026-11-07T10:39:20+00:00",
+     "summary": "Conservative bloc takes a slim lead in New Zealand election that's still too close to call | National News | 2news.com&nbsp;&nbsp;KTVN",
+     "image": ""
+    },
     {
      "title": "\u2018Like being hit between the eyes with a sledgehammer\u2019: Meet the one town in America that defied election trends and voted in favor of data centers",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUJOTWdabXRyQTJNeXdpc09pazJQaVByODYxZWdLZk15Y0pJSU8yS196dkNHSmlkOVhBT0ctWG1qX0NWV01UTG5nNzZ2T2thdEduR3Rtek1PY0xGYmxRTTRXZmxxaXVGZUxPc3dacWxSakdnWEhmM0liTlY5Wm1uMlA4REhUamRkVmNHemYxbUdfcEZuRWN2ZUJmRHZMMmRDd1JXZg?oc=5",
@@ -232,14 +272,6 @@
      "published": "2026-11-07T10:19:00+00:00",
      "summary": "\u2018Like being hit between the eyes with a sledgehammer\u2019: Meet the one town in America that defied election trends and voted in favor of data centers&nbsp;&nbsp;Fortune",
      "image": ""
-    },
-    {
-     "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
-     "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-     "source": "The Guardian",
-     "published": "2026-11-07T10:17:49+00:00",
-     "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast",
-     "image": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=842242f69139eccf98f50148f27a190a"
     },
     {
      "title": "An election night of firsts, and a soccer legend steps off the international stage: The news quiz",
@@ -258,6 +290,14 @@
      "image": "https://i.guim.co.uk/img/media/4bf2fa47568a8900b9eab3de3b35711cc466232f/710_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=22ef00c2cb8e0d4235eae1f544f1fac2"
     },
     {
+     "title": "What midterm election results do \u2014 and don\u2019t \u2014 tell us about public education politics in SC",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV0IyYmlBaG14VGVDQjd1MnNFOTBoM3dTVnFzbWwyMDhXTVZ6ODVZb0tJSzJMYktHckp3RnhjdzZNOU5aVW9ST0dCMVVKZEJ4YkcyUGpzTmJOVUNRVmtMY0dUUmxuN25sSFBBejdDZGlGREZMUGp0RWxxS0ZXNE1veVVEczZoa20zR1dUeUZLakltbUxNNjNKUUVycmx6TEVDc3dYQ1ZPX1d3RDdwOVJjSGxoallXMUFSN2RxZFh1TVVQRmZMZGd5bDczVnh4NWw0aXhOSG4yRndhTFpYMXY1WVNFWDE0NzdPdDlN?oc=5",
+     "source": "Post and Courier",
+     "published": "2026-11-07T10:00:00+00:00",
+     "summary": "What midterm election results do \u2014 and don\u2019t \u2014 tell us about public education politics in SC&nbsp;&nbsp;Post and Courier",
+     "image": ""
+    },
+    {
      "title": "You had questions about the election. We have answers.",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMmNyVkJfMEF6dExyMlVrNmhrMzhQa0tHSGxRLTBDckpscHFvUUxtWWRLUElweGdaUEdNUXA0ZXlYN1liRzVzOWpFSVFGV3EyY2d4cHA5TDg3VG9mYmk4V1dmbTRrc3liTEVZblRNdnd2dGdqZkUtc0t0OEVaWlRnUldkR245MU1CRzJLUVJmQ1BMRjQ?oc=5",
      "source": "Cardinal News",
@@ -274,57 +314,17 @@
      "image": "https://s.france24.com/media/display/0fe04a50-da8e-11f1-9600-695cb59fade5/w:1024/p:16x9/EN-20261107-091022-091213-CS.jpg"
     },
     {
-     "title": "Let\u2019s talk about how Mainers can reconnect post-election | Column",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIU1hSR0p1cmQ2cXRSRkN5R1JycWJ4SnJxazF4ejVrNDRaVzg2SThLemZNekZ3Q3ZCZDB1Sm9yMWRpVThEUVBrUlZET21uWTA?oc=5",
-     "source": "Portland Press Herald - Maine Sunday Telegram",
-     "published": "2026-11-07T09:00:00+00:00",
-     "summary": "Let\u2019s talk about how Mainers can reconnect post-election | Column&nbsp;&nbsp;Portland Press Herald - Maine Sunday Telegram",
-     "image": ""
-    },
-    {
-     "title": "Look back at Election Day 2026 in Augusta and Evans",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YRFpybDktVDBHcFNjbEpKNVg4TXA4cEVnd0lOcERwbFBoX1J0Ukw5eU4yZUxHZ0hNTEgxUTZVemZYbnV4R2lOd0RldVJEQlAtcTU1U05fX0tjQjJsY05LRHZ6eC1rQQ?oc=5",
-     "source": "Hilton Head Island Packet",
-     "published": "2026-11-07T09:00:00+00:00",
-     "summary": "Look back at Election Day 2026 in Augusta and Evans&nbsp;&nbsp;Hilton Head Island Packet",
-     "image": ""
-    },
-    {
-     "title": "Early count in New Zealand\u2019s election suggests result too close to call",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE?oc=5",
-     "source": "AP News",
-     "published": "2026-11-07T08:21:00+00:00",
-     "summary": "Early count in New Zealand\u2019s election suggests result too close to call&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "Live: France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
-     "url": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-     "source": "\u00a9 Ludovic Marin, AFP",
-     "published": "2026-11-07T08:17:22+00:00",
-     "summary": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris des",
-     "image": "https://s.france24.com/media/display/bb4448b6-da6f-11f1-9c6d-d18c5759e759/w:1024/p:16x9/000-D6JY629.jpg"
-    },
-    {
-     "title": "Texas mayor instructs police to limit co-operation with ICE",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GdU1NT1VMR3lESjY1ekRRNDhVR2hKWEVtTTlMZGFDSzcyNkNpR2FFWHl1c2VoSlVaNXFfemVQZW0xdEdkWU1jRzgzcUtPT3lhQ09WOXlDTzZoX3c?oc=5",
-     "source": "BBC",
-     "published": "2026-11-07T08:15:55+00:00",
-     "summary": "Texas mayor instructs police to limit co-operation with ICE&nbsp;&nbsp;BBC",
-     "image": ""
-    },
-    {
-     "title": "The US election showed growing frustration with Israel on both sides of the aisle",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVDFSck4tV2syWGNwQ3BXYVRUbVFLWTdvSkJwb1J5Tl92WVZaZnBuNkVrbWE2d1g2QjBxQWRFRFBoOWxTRV9xWmJyU0pKZ1ZGX3g2bFB5MmJUY05tTDVlNGxVejA5Vk5Oa2lyRkpPckZMd0g4QUdER1pPQmhNNHlTR2Q1N3drT191QlE0M3FaMEZnYmJFQmdoVThEZmo4UWlCZmdIWjNn?oc=5",
-     "source": "AP News",
-     "published": "2026-11-07T07:55:00+00:00",
-     "summary": "The US election showed growing frustration with Israel on both sides of the aisle&nbsp;&nbsp;AP News",
+     "title": "New Zealanders end vote on final day of tight elections",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmVyTTU0eENvS2k3UURhR3Fyc2gwblZ3V015ME5TMkI2Rnk2Y0lvLWxMNGFDTEY0TkcwWnZrQ2ZVMVRNUURfU1FfMDRocmZYNEtRNnpWVmd3WmhoMzd1TGFubjN3U2xTcmY3WFFfSDhKVmItUGU3X2xGMDF0RzR5R1pOX2ZxSlVWMXNCaTQ5U2dqbW5SSzdYNFk2NXBEWnRp0gGgAUFVX3lxTE9wUHBucm1RMzlkcFNNRFNlTE1lRml2NDZFUXRzMVNiZEx5c0tzaXlrTnBPMDd3UnZhQ2p3bVQ1bVVROHhPY1JVUkJxRzJXNnIzcXA5cEZiSXJVNlh5WXU3RC1JZVJCVTZPYXZ5dS1HaThYYUhjWUlKaGp2cVJnTVhicDZncHpWZVF6ajRRVURlWlFhUkZ4czQ5dGQtSDRnV3A?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-07T09:36:16+00:00",
+     "summary": "New Zealanders end vote on final day of tight elections&nbsp;&nbsp;DW.com",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T10:36:40.384624+00:00",
+   "fetched_at": "2026-11-07T11:06:44.089468+00:00",
    "stale": false,
    "items": [
     {
