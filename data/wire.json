@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-07T03:35:35.600963+00:00",
+ "generated_at": "2026-11-07T04:05:39.549624+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-07T03:35:35.600947+00:00",
+   "fetched_at": "2026-11-07T04:05:39.549607+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump confirms new US strikes on Iran\u2019s Qeshm Island",
+     "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T03:53:01+00:00",
+     "summary": "The US president also claims &#039;a lot of progress&#039; in Washington&#039;s negotiations with Tehran.",
+     "image": ""
+    },
     {
      "title": "How the US midterm elections reflected resistance to data centres",
      "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
@@ -108,21 +116,45 @@
      "published": "2026-11-07T00:00:00+00:00",
      "summary": "Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.",
      "image": ""
-    },
-    {
-     "title": "New Zealanders head to polls on final day of voting",
-     "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T23:48:01+00:00",
-     "summary": "More than half of New Zealand\u2019s voters cast early ballots in the tightly contested race.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-07T03:35:35.600955+00:00",
+   "fetched_at": "2026-11-07T04:05:39.549614+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Opinion | Trump\u2019s wounded presidency turns to two unresolved wars",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOejlPaW93SW16bjdCWFBFbkR2NDNmekt1LVdYU2pESjdTcVNlUHBiSDhaRldHZU5lMEs4RmZCdGsyLUtSRFVJbGdZMzNCNGNpZUFWck4wb1FqdG1VT1FOMGoxaEFHN0hkZy1PVGtMZUJYR0hoNHAzTDBIelRWNng5aUkyeXk1azNpUnJrQ0NfVlRIeVRobTFIUllVYlZic0dCVnI5aG00d20?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-07T03:57:00+00:00",
+     "summary": "Opinion | Trump\u2019s wounded presidency turns to two unresolved wars&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Trump confirms new US strikes on Iran\u2019s Qeshm Island",
+     "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T03:53:01+00:00",
+     "summary": "The US president also claims &#039;a lot of progress&#039; in Washington&#039;s negotiations with Tehran.",
+     "image": ""
+    },
+    {
+     "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45OXRwNFFvSTBUTmhWMUp1OVgxSUQyVG1WSThlZEJnQUJpcWZ3QkpETC1raUpnNW5TeVNWUFdHQ0tyRUxOSGtYYkxmYW9vNDFCYjBLRlJvcjl3YXAxTFNNbXh1VXZpYnU3ZFJN?oc=5",
+     "source": "Mediazona",
+     "published": "2026-11-07T03:39:18+00:00",
+     "summary": "Russian losses in the war with Ukraine. Mediazona count, updated&nbsp;&nbsp;Mediazona",
+     "image": ""
+    },
+    {
+     "title": "Russia's war against Ukraine unlikely to end with either side winning \u2013 Rutte",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUxOekNaWWgySnRkUEtuVmZOdTlBeEZXN0VGOHN2TVA5dWtPcFdiazRCRjBkYTRSOGZaMUpCS1JRRHZtbnpGeDU1TW9uaHZmSFlwZ1NPVWlRLTFNeGtHR0J2OTRFVURfZFFyQ1F0UC1RU1NRSzYtaXlLaTB2R2lGblRETG9jb29TZmRfOXBKdkZFMTc5S3RSdFhweXM5NG15dTJvdW82LVJDZWd5LVkzZnM5T214LXE4eDJFWjBINGV4QjI3OVlpONIBzgFBVV95cUxNcEJ3cGRzWnpDa1hOZ1BNRmlHel8wYnVIa3V0aW1RU0d5Q3pzNENIV0N0UFVqMFBpQlpYMnN3WXB5X0VJQUVhLVdJTHJfM2ZmZlFFdDlEZnh5djV3cHloRUh4eDNMT2hlcGh3UG9lQnFIOFFQakFwa0Q1ZTNISmxlZ0VGNm0wbGE3UXdFTnlLbTFaYmhrR1g2aERXLTRYc0pid2tRWGdWemE5aWc1c3o0cTFyRWFQZ2pOVjhGeGp3WFc0UnZSN0dwcEE5c21LUQ?oc=5",
+     "source": "Ukrinform",
+     "published": "2026-11-07T03:21:00+00:00",
+     "summary": "Russia's war against Ukraine unlikely to end with either side winning \u2013 Rutte&nbsp;&nbsp;Ukrinform",
+     "image": ""
+    },
     {
      "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHRCcDhuX0lWbVJuNHA2TFVfMzd0dTFhd21WZWR6Zlc1bm5YaTR1enFmQnJGSWtRVnAxdHN0eWhjY0I2bDVfcHFmMFRYV3pILVBQeTFPVDdCVm41dG15ZkZjS29oUzRpSFY5WWpLLXZZREVkOV9RbTJsbVZhMC1UMTNPQ3k3LXN2MThOZG5MRTdpVUFRRUZWbWZ4SEhrbmF1UjFhT1dGU3NWUkhvT2k2c2dKZF9TckV0d2JCVUhTaDBkaEFsWlhfeDhyRFY?oc=5",
@@ -132,27 +164,11 @@
      "image": ""
     },
     {
-     "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45OXRwNFFvSTBUTmhWMUp1OVgxSUQyVG1WSThlZEJnQUJpcWZ3QkpETC1raUpnNW5TeVNWUFdHQ0tyRUxOSGtYYkxmYW9vNDFCYjBLRlJvcjl3YXAxTFNNbXh1VXZpYnU3ZFJN?oc=5",
-     "source": "Mediazona",
-     "published": "2026-11-07T03:07:06+00:00",
-     "summary": "Russian losses in the war with Ukraine. Mediazona count, updated&nbsp;&nbsp;Mediazona",
-     "image": ""
-    },
-    {
      "title": "Ukraine strikes Saratov Oil Refinery in mass attack on several regions, reports say",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ0xBdC1pVzNQRnVaZUduQnc0dHBDYlFjRmg4eEwwZnJyQXRnb2c5ekYtQkxZQm9MUDAzR3ljSlF4WTQ0Q2Z6R1pnM2tfTGlybG04OHR2dnY3VVhQWUZJVzRJOFBNLVgwSU5ZcW45TDRDdERvc0dZS3dKTFl5a1F5a0dOTVlCdkJJbHh4dmp6SDRDWG9yZEtqTU1reGlZSHhpTHJwalRUQXFEcHliQ2ZFeA?oc=5",
      "source": "The Kyiv Independent",
      "published": "2026-11-07T03:01:27+00:00",
      "summary": "Ukraine strikes Saratov Oil Refinery in mass attack on several regions, reports say&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "Opinion | Trump\u2019s wounded presidency turns to two unresolved wars",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOejlPaW93SW16bjdCWFBFbkR2NDNmekt1LVdYU2pESjdTcVNlUHBiSDhaRldHZU5lMEs4RmZCdGsyLUtSRFVJbGdZMzNCNGNpZUFWck4wb1FqdG1VT1FOMGoxaEFHN0hkZy1PVGtMZUJYR0hoNHAzTDBIelRWNng5aUkyeXk1azNpUnJrQ0NfVlRIeVRobTFIUllVYlZic0dCVnI5aG00d20?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-07T02:30:58+00:00",
-     "summary": "Opinion | Trump\u2019s wounded presidency turns to two unresolved wars&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
@@ -188,41 +204,25 @@
      "image": ""
     },
     {
+     "title": "Zelensky \u2018thankful\u2019 for Melania Trump\u2019s Russia-Ukraine peace efforts",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFpiZnNZOGUyeXlVazBweDhUVFdxX2FQMk0wRW1xLV9HeC03cnBIT25TcHBTVXNfT2hZdDRkcER2QmtWS3Ftekc0VWJEVG5xZm8zSmV4bk9tMlg3VzJ2Z2Fla1BFbHZpWjlTaTNLbmpINUhTdEFPeGhfQ0h5VTFscW92MXI2eG1aOUk0aGxOdnF2YW8yTVE?oc=5",
+     "source": "CNN",
+     "published": "2026-11-07T00:23:00+00:00",
+     "summary": "Zelensky \u2018thankful\u2019 for Melania Trump\u2019s Russia-Ukraine peace efforts&nbsp;&nbsp;CNN",
+     "image": ""
+    },
+    {
      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-07T00:21:49+00:00",
      "summary": "Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party\u2019s next presidential campaign.",
      "image": ""
-    },
-    {
-     "title": "\u2018It\u2019s in our blood\u2019: Lebanon, Ukraine and Syria rugby league teams fly the flag despite horrors of war at home",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGNSVGlENDVoSTRpWTcxQlFMRTJSZVUtbUR1T0dSV3FRdGFQVXl5bjFtTHZrbjV1cWkwYnhZVzR4ZU9jelFFMjdlaHdrT1FWR2NkRVZFZ3h2WlptbGpxeUFPR0p2X3FMTGhTbnlaV3ptTHoxSmlTcS1PT2E0dXgxcUdpMzNXaU1uMmdkMnBJM0RxZ0hRcGxsUUFBbWNyemZtOFE?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-07T00:13:00+00:00",
-     "summary": "\u2018It\u2019s in our blood\u2019: Lebanon, Ukraine and Syria rugby league teams fly the flag despite horrors of war at home&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Russell Brand suspected to have attacked at least 10 other women",
-     "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
-     "source": "The Guardian",
-     "published": "2026-11-07T00:00:47+00:00",
-     "summary": "Met police chief says \u2018many more\u2019 victims could come forward, as actor and comedian awaits sentencing Police are bracing themselves for more victims of Russell Brand to come forwar",
-     "image": "https://i.guim.co.uk/img/media/78f703913b8bb129d666b06187eb2aca13440d34/605_20_5235_4187/master/5235.jpg?width=140&quality=85&auto=format&fit=max&s=19e0ad91d347cb864bad8a4a0d7ddef5"
-    },
-    {
-     "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T00:00:00+00:00",
-     "summary": "Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-07T03:35:35.600958+00:00",
+   "fetched_at": "2026-11-07T04:05:39.549617+00:00",
    "stale": false,
    "items": [
     {
@@ -283,10 +283,10 @@
     },
     {
      "title": "Memory card with uncounted ballots found, launching investigation",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDJwem9qUFBKa2lERUNnWVhBSXBzNHpZQXc3Ui1kX2stYklUUElMaTZhQWhYRFE2dlBuREJzN1p1dDV2Y3RCLVphVjBJMTZLVk8tbmlyMVVXckpEZ2hDd2xfY2dKWEJMSjdOcUJ0YTNWTEVxVC1vNXgwWUNUZE94cS0zLXJva3BBRTdHMm5IWjgyY25qVm1nT0FVa3dBLUE?oc=5",
-     "source": "KCTV",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmI2VGJlclVaLU5QUzVUQy1VS2tydGVmbEN4Z2pjQTF1U09LaVNCZTRlU21zdFc1S21fNGdSLWNtLXVmUVJxS0JuekQzNnVvMVZHYUtUbjlNV0d0UWV0MFVwUWxFUHVTckVsbDZzX1M3R2tPZUZDVTl3ZThYRERVd0VxMC1KRFdoSktYSVpNQy1iMnl3Q2p6amJITm9lNlE?oc=5",
+     "source": "WIS News 10",
      "published": "2026-11-07T02:50:00+00:00",
-     "summary": "Memory card with uncounted ballots found, launching investigation&nbsp;&nbsp;KCTV",
+     "summary": "Memory card with uncounted ballots found, launching investigation&nbsp;&nbsp;WIS News 10",
      "image": ""
     },
     {
@@ -306,25 +306,25 @@
      "image": ""
     },
     {
-     "title": "California election results: Sacramento-area races remain close as ballots are counted",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHQ4SWw3SGg4THlEU29MQVh1U0R2QU1vQkFUYTdiWnV5RWxDa0dWV1A4R0l6Y3pDd3N0T2g3cDVtQUd4SDBjeU5KR1BnNU5RdU9KV0FWNktjcWtQV2tMRjNVaWpLRXJ1WGtEdjlBX0ktb1NuMlNzV0MxTC0zMk9FX01BQWdQNXVYOWRrTU5hN1hSWXJpRW9uMnJvSGtTUnl2aGU1SGFFOFlQLXFkYnc?oc=5",
-     "source": "ABC10",
-     "published": "2026-11-07T02:15:00+00:00",
-     "summary": "California election results: Sacramento-area races remain close as ballots are counted&nbsp;&nbsp;ABC10",
-     "image": ""
-    },
-    {
      "title": "Portland election results: Where key races stand",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWdHZlk0OTFsbU9sa3RwTGk4Zmh1S0dIcmN4WGxpSVpVck5uZUVGb2RDX0dYel93ZWx0bk5Wd0tQb3RZc2V5QnpvWHBpbkZ0QV9FMGdfNUkxQTcya1JtT25kTmh5Ym5ORzFlQTBxSlZJd1dxd0o2WDRieHowMGk2U2RlWldHbGNVRXpUM0t5Z0JnVWVTSzZqSEl5YmYyc25F?oc=5",
      "source": "Axios",
      "published": "2026-11-07T02:09:46+00:00",
      "summary": "Portland election results: Where key races stand&nbsp;&nbsp;Axios",
      "image": ""
+    },
+    {
+     "title": "Justice Department drops bid to force California to set aside ballots from alleged noncitizens",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkVYNTAtZkdnZXpvYUF4cU1oRld6VERRY2xLSWJQMjhwa1pVOTltaHJlVGxXVXo5NUdveVpIbDRSdFQzejFsSGcxOUlhSEo1Q3BaVGtCQWpLV0V4cEJGbTJPbnFfSng1S3VSazdhc2JrWWk1YUJYVjdkUnc3X3VhNEVydC1tTllQTHlTdzlZSGpyblJBVW5VZEdsN2xSaWVTUE14OXY3Z2p3U2dJZklJdlJoOXZ4b2JRcTd0NUNyeUlIOUw1?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-07T02:09:00+00:00",
+     "summary": "Justice Department drops bid to force California to set aside ballots from alleged noncitizens&nbsp;&nbsp;NBC News",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-07T03:35:35.600959+00:00",
+   "fetched_at": "2026-11-07T04:05:39.549619+00:00",
    "stale": false,
    "items": [
     {
