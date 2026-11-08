@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-08T18:42:07.724301+00:00",
+ "generated_at": "2026-11-08T19:12:22.930719+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T18:42:07.724271+00:00",
+   "fetched_at": "2026-11-08T19:12:22.930694+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
+     "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+     "source": "The Guardian",
+     "published": "2026-11-08T19:05:04+00:00",
+     "summary": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public lifeThe culture secretary, Lisa Nandy, has said there is still a problem with",
+     "image": "https://i.guim.co.uk/img/media/762ae91c8ce0a67e86d117452274a6e484f8f369/273_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=87193a1cb8cf69e755e2b161163e96c1"
+    },
     {
      "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
      "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
@@ -38,7 +46,7 @@
      "image": ""
     },
     {
-     "title": "Teaching GCSEs early risks turning schools into \u2018exam factories\u2019, education secretary warns",
+     "title": "Teaching GCSE topics younger risks turning schools into \u2018early exam factories\u2019, Powell warns",
      "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
      "source": "The Guardian",
      "published": "2026-11-08T18:07:54+00:00",
@@ -102,14 +110,6 @@
      "image": ""
     },
     {
-     "title": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
-     "url": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
-     "source": "The Guardian",
-     "published": "2026-11-08T17:42:39+00:00",
-     "summary": "Physiotherapy services hit particularly hard compared with other areas of healthcare such as nursing, union findsAlmost half of the NHS trusts in England have no earmarked funding ",
-     "image": "https://i.guim.co.uk/img/media/d71f2d0dd58e7fe61cbc061733f7d8a12bbeeabb/528_0_4193_3354/master/4193.jpg?width=140&quality=85&auto=format&fit=max&s=66f25c602c9706bccdf03e536cc5b4d9"
-    },
-    {
      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -120,9 +120,17 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T18:42:07.724287+00:00",
+   "fetched_at": "2026-11-08T19:12:22.930707+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine war latest: Ukraine hits key bridge on 'highway of death' linking mainland Russia to occupied regions",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGJ6MnZzZWRHOEVfNGtiVVVtd2p2dzhDRHJrLXBEVUNCTUlINXhndmJRcFJnblNheGZmWVdKbTdJbWhGaWN6S0txM2NwbDNrUEF6anZVQTJVVnZlcnNXMXNTemdlRlhtUnd0NXpvZDRLeWZNdmFPVzdyOG1jak1zNkdnS1p4dlgzS2JHQzEtbzkyUXNtYVR5NGV4d21ZNnBSbURMWXNDd1V6TWxFSXpxQlZLY0p2VFpoeDJHay12RlYtYzA5eG1RaS0yQXNScDZI?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-08T18:44:31+00:00",
+     "summary": "Ukraine war latest: Ukraine hits key bridge on 'highway of death' linking mainland Russia to occupied regions&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
     {
      "title": "Lisa Nandy wary of \u2018circular arguments\u2019 about rejoining EU",
      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
@@ -156,7 +164,7 @@
      "image": ""
     },
     {
-     "title": "Teaching GCSEs early risks turning schools into \u2018exam factories\u2019, education secretary warns",
+     "title": "Teaching GCSE topics younger risks turning schools into \u2018early exam factories\u2019, Powell warns",
      "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
      "source": "The Guardian",
      "published": "2026-11-08T18:07:54+00:00",
@@ -210,27 +218,35 @@
      "published": "2026-11-08T17:26:00+00:00",
      "summary": "\"We will get sloshed in the Alps\": Rutte reveals how he and Zelenskyy will celebrate the end of the war&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
      "image": ""
-    },
-    {
-     "title": "France Says Europe Will Be Represented at US-Brokered Ukraine Talks in Abu Dhabi: 11 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOFRQX3g5cXBZbGtWaGJkZWdicmp2TkU5eEFFTkRkSVp6Uk01ejh1SjBQMFVaVFlBZWkwWUV2eUJLSkJ5MGg3dlB5WWlGUmVNNlZxZm40bW5NaUNDYlpUbFdrZzdOckhhMko5RWR0YTNIWlRVdXRJeFhtMThYcWtybGVQRTNIcWg3ajRROW5ZbEpnaHQ2YkpzUWx3UzNjVkNySzU4VzVYdE9ibXN0TXVzZlozTkQ0dnNrT3ZCWXlhUWtuSXBqd3FUMDNNdTJ5Z2doaTZhQmlVU1dyRXBualItNnNjeUhLOXJyUFE?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-08T17:22:44+00:00",
-     "summary": "France Says Europe Will Be Represented at US-Brokered Ukraine Talks in Abu Dhabi: 11 outlets compared&nbsp;&nbsp;NewsCord",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T18:42:07.724290+00:00",
+   "fetched_at": "2026-11-08T19:12:22.930710+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Commentary: Iowa Down Ballot: Election recap, Iowa's wave, divided government, what about Grassley?",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaE5IMmNQN0RmSWxtcGJYOGhoR2g4N21pdWtfWWMzWWM0WTdKbHhjR0Jzb0lSYjk5cm1FSjFLWWxNYnd4V0lGczRBam5JWEZwcDBWbHpzQjRnMDFldkdvQlNlbk1tZ0pGTFdOeXp2R1JUc1d6eE5HMEdtNnk2YjhoSVBTdmx5b1ROYnh2WVZSejA0MDNuS3JZUFZNaXAzdE5lQi1aYUNPbWUzMzFjYnd5eFZlZk1ieURJTjlDeks4OG1CVTA?oc=5",
+     "source": "Iowa Capital Dispatch",
+     "published": "2026-11-08T19:11:06+00:00",
+     "summary": "Commentary: Iowa Down Ballot: Election recap, Iowa's wave, divided government, what about Grassley?&nbsp;&nbsp;Iowa Capital Dispatch",
+     "image": ""
+    },
     {
      "title": "Talk of Hegseth Impeachment Grows After Democratic Midterm Sweep",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xWjNuZlNDSlVSSXc2TlZXaGdiYVpucWhHZ000ZXJXb3FtVXRVc2VmWENSbDU0a2gxWk1oTXE3Mk01el9PckhMZDdabjVSWkJWdDZuTFVjYndMUUVhdUc3TTV6SlVCbW9nMmZQU2JWNGI2M1NmSmhhZ0JyVm8?oc=5",
      "source": "The New York Times",
-     "published": "2026-11-08T18:31:55+00:00",
+     "published": "2026-11-08T19:00:00+00:00",
      "summary": "Talk of Hegseth Impeachment Grows After Democratic Midterm Sweep&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Opinion | Election deniers lost. So did election doomers.",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWpkZlktU2lKczN4bzYzZ3FHZk9NdGtFRnBFNTczdk1wQ24xZHFxUExfekRJc01ZN0o2OHltdTF2aS1RRXgweWZ4V2t4V2ZXbjFmN096cVFHOEEwZ09ldVdhS19hamNOUXNvS1QtOF9ndFVmNzhIV0p5ZWszR0dzb2p6OW43UEVqeFdFZw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-08T18:34:20+00:00",
+     "summary": "Opinion | Election deniers lost. So did election doomers.&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
@@ -247,6 +263,14 @@
      "source": "Reuters",
      "published": "2026-11-08T18:08:40+00:00",
      "summary": "South Africa's ANC takes a beating in municipal vote, setting up tough coalition talks&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92VE5LN1lvY2ZtM09UVm5TOVZnbU9taE1hVkE5TjQyenJQOVZzaFJ6RWV5S0NwLUlwajRBbTQ3SHh2T0w0VXZtQl9mYTZEd1YxTU52bm9TZTAxYXMwdDVkVWdFbHI4UV9qZVJuQW9MY3N6VjcxQ2ZxWk5RMVBGSVE?oc=5",
+     "source": "Axios",
+     "published": "2026-11-08T18:08:17+00:00",
+     "summary": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call&nbsp;&nbsp;Axios",
      "image": ""
     },
     {
@@ -282,49 +306,25 @@
      "image": "https://i.guim.co.uk/img/media/7a02db80a099b48fdc379f25b678f9698ce1e84a/477_0_4751_3803/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=78597f9fc767a9b19d8bdfb978002b35"
     },
     {
-     "title": "Trump set to lurch further right, claiming US took \u2018giant step back\u2019 in elections",
-     "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
-     "source": "The Guardian",
-     "published": "2026-11-08T17:58:43+00:00",
-     "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in CongressDonald Trump set the stage for his administration to lurch further",
-     "image": "https://i.guim.co.uk/img/media/ebaa793edf007e24d57fafa59f1090d96cdcbe60/332_0_3323_2658/master/3323.jpg?width=140&quality=85&auto=format&fit=max&s=3a805f3c5d5fb31128b72712d90154ab"
-    },
-    {
-     "title": "Luigi Mangione\u2019s cousin wins election in Baltimore",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUZlbmkwcXBWcG5TUFl0Tk1OcUNYblhaR19iLUdGamdVU0owOGxiaUhTNndYbHRYeU9saG5YNk5YanVDWWZSQm93ek9PNFlQNTVnMUttSEVCV0ZjakwzOGViU1VwRGJPLURkajBzbzJZa1ZWZEJ2S0pfbTVnZWNxRGczNkYxaXlaNTdoSnR5QTlfUk9QcjRR?oc=5",
-     "source": "FOX Carolina News",
-     "published": "2026-11-08T17:57:00+00:00",
-     "summary": "Luigi Mangione\u2019s cousin wins election in Baltimore&nbsp;&nbsp;FOX Carolina News",
+     "title": "How a Mississippi election came down to the clerk\u2019s office",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2VSeEJuZUZtTThnRjdWREI1VXZFV3AtenhQR2taM2FrMXFaN2xRbDhaVVdCdTlsSnZfYTdPMWZUMFZYejRnX3ZEZTN2TUJKRU4yMTdhblZlVDdLbFBvbWJaQ2lEUzFRTllDcWNMOXJJVUhsXzl4RnpUYkg2T18yV0xCOFA3b0xrLUpqT040R0tMMU5EQUY2cEpxNVE3UQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-08T18:00:00+00:00",
+     "summary": "How a Mississippi election came down to the clerk\u2019s office&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
-     "title": "2026 General Election Ballot Processing Update \u2013 Nov. 8, 2026",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXlsWXA3ZW9NLUh5ZTd6VGpBem1oOGRsbHg2UTh1elpRR3NRWmh2ZjVGRUkyRFdmczNBS1djcXV4SE9jRWltWWtEeHR5VVRrVzhTRUQ5d3IxV2xrNm5yWFY3TXhETk9Oelo5TVk5RTFCZ25IVVlhWGZENjBvS0IxSGUwcnpDeXVMR19BSjJadjNfOFRrdWJqcUxMWlRWTGYwQzJvc2tMTG5QXzBZ?oc=5",
-     "source": "Washoe Life (.gov)",
-     "published": "2026-11-08T17:55:21+00:00",
-     "summary": "2026 General Election Ballot Processing Update \u2013 Nov. 8, 2026&nbsp;&nbsp;Washoe Life (.gov)",
+     "title": "Is settler violence Israeli policy or extremism \u2014 and would a new leader bring change?",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1Exb2NhMFhRb3ZXTVBQSnpZY01Yby1KM0U2X25qUlAtcXhTLV9qZHJ6WktKMms0bTJZZEw4bXlsZy1hVWZIeVhTR2tCYTA2RGQ0MjBzU3JTTkhydzBqenJiclRJSEQwdHk3NDdVeGthOTZsNUJNdEpNNXlmaTF1aGVJY3RqUTV0b2psTEpBcEFRRDVBM3FTZ0xScXlxdnlZSlo1LXlFOGxPU0ZxQWJXMlFoLWJ0b2MzODNR?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-08T18:00:00+00:00",
+     "summary": "Is settler violence Israeli policy or extremism \u2014 and would a new leader bring change?&nbsp;&nbsp;The Washington Post",
      "image": ""
-    },
-    {
-     "title": "Labour expected to cut EV targets for UK\u2019s car industry despite MPs\u2019 protests",
-     "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
-     "source": "The Guardian",
-     "published": "2026-11-08T17:51:19+00:00",
-     "summary": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction planAnalysis: Climate always comes second \u2013 are green issues slipping down Burn",
-     "image": "https://i.guim.co.uk/img/media/2db94dc51d06421443808c322eecd0e97b2d330b/27_0_4763_3811/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=1b4cf9fd666a4b3707f6b50a2765ee86"
-    },
-    {
-     "title": "Collision of two trains in Egypt kills at least seven",
-     "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-     "source": "The Guardian",
-     "published": "2026-11-08T17:51:17+00:00",
-     "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from CairoSeven people were killed and more than 100 injured when two trains c",
-     "image": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T18:42:07.724293+00:00",
+   "fetched_at": "2026-11-08T19:12:22.930711+00:00",
    "stale": false,
    "items": [
     {
