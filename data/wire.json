@@ -1,17 +1,25 @@
 {
- "generated_at": "2026-11-08T07:40:17.671645+00:00",
+ "generated_at": "2026-11-08T08:10:21.927509+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T07:40:17.671606+00:00",
+   "fetched_at": "2026-11-08T08:10:21.927472+00:00",
    "stale": false,
    "items": [
     {
      "title": "What we know so far after Krakow gun attack",
      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-08T07:30:43+00:00",
-     "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+     "published": "2026-11-08T07:52:33+00:00",
+     "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+     "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+     "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T07:40:07+00:00",
+     "summary": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+     "image": ""
     },
     {
      "title": "Tenerife honour teammate Jesus De Miguel with tearful tribute",
@@ -108,27 +116,19 @@
      "published": "2026-11-08T04:59:02+00:00",
      "summary": "A small plane has made an emergency landing on a busy Florida road, much to the shock of drivers.",
      "image": ""
-    },
-    {
-     "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
-     "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T04:56:37+00:00",
-     "summary": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have \u2018nowhere to hide\u2019.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T07:40:17.671628+00:00",
+   "fetched_at": "2026-11-08T08:10:21.927493+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Russo-Ukrainian war, day 1719: Russia digs tunnels on Kherson\u2019s occupied bank while Ukraine rolls out bigger ground robots",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUEwya19RTlhzZGt6aFZXOVJlOS0xVEM4Z1c2M2ZCYVJVSTJwM3pqM1dnSGtJY0pGR0RMbFpyZ0Q2RGU4RFdnZlBZeC03cXpQdVc1a2FVakw2QnQ3bElpQ2hLSWU4VUVJTTZIVVB2NFdibmdHTWVrdEljV3lnT1RxY3FCU09JNmplM2duejRTLV9XeUdKTDdGWXJnYnpLTG5nUURZNl9uR3J1OHZBbU9yN0hJMkUxQ21nOUl5X3l2QXUxSVpScVNEdHliRGJXc016bE1uTkhma0V5ak84azFzbnN5blhLSmFQaXI2LTlYTTY?oc=5",
-     "source": "Euromaidan Press",
-     "published": "2026-11-08T07:30:00+00:00",
-     "summary": "Russo-Ukrainian war, day 1719: Russia digs tunnels on Kherson\u2019s occupied bank while Ukraine rolls out bigger ground robots&nbsp;&nbsp;Euromaidan Press",
+     "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+     "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T07:40:07+00:00",
+     "summary": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
      "image": ""
     },
     {
@@ -204,33 +204,41 @@
      "image": "https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=61f705fa3e603f228abbd6c56fd24887"
     },
     {
+     "title": "Russia lost 2,290 troops in a day of war against Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVlXb2p1X3IxQzJyT2tyX3dCc0lfZURVRjFXSEdGVnFUWkpLckpHbjBCNE02WVFXS01vZzZwUFRXWkJDNF9Ta2EyRGZULWQzWXVsZEJlQVA1U09Qb2paZ0JBcU9rcFRycUVzdC1wMmlsQXFqZGcxV1hxX0xnOHNNMjlpbXXSAYMBQVVfeXFMTk9pQ3hfaWttU3Q1aW14VWdfU0twRlp6UzRWUndLRWRPNTNHOVhKeFo2U2trRDljdUtuLS15dndUdjJfS3VKaWFYcVlhN2ppMGFZTTNqcEdlTTFKUE5ZdW9MZUlRTUlWbkJ6S3M4Um5JWGlhYnE4S3hOVjhhajFyRnNfNGM?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "published": "2026-11-08T05:49:28+00:00",
+     "summary": "Russia lost 2,290 troops in a day of war against Ukraine&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "image": ""
+    },
+    {
      "title": "Erdo\u011fan and Trump discussed diplomatic efforts to end the war in Ukraine",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjNHTl8tQTgyNkNLWXNUZks4blBXc2dzN0ZBZ2VxN3BNNWpRYUV4NnEzbF9waThjV1QycHpPUXlMOS1LNFlSNlE5RnBwVm5IdUZsbms2ZzJMSTVwN3ZOYl84cDV3RGp6TDVOa0Jfb1JOeDg3VFdxakxiV1NYVHYxN3Q1aWQ4dU9CcUJRNk9TbTJadmI1WXlUd3Bzd9IBmgFBVV95cUxPZTRUa2ttWjhNSGpwdWlDQ1Q4U2NrQmF1VFpQakUzLWE4VEZVTEdFWWtHNHltUFBLZVk1MWx3QnZ0dzVDcDNITWhVY0hoN1NzaW9JRnlKbV93VW5FMU9adTB0dmVPTXhaZXNnc3FDRWlyemFPUHZNc3dYNmcxNnlUVV81V296SWFBaWNOWGRYZ2k1R01xT3pTaWR3?oc=5",
      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
      "published": "2026-11-08T05:20:40+00:00",
      "summary": "Erdo\u011fan and Trump discussed diplomatic efforts to end the war in Ukraine&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
      "image": ""
-    },
-    {
-     "title": "Russia may have lost up to 450,000 in Ukraine war, leaked death records claim",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUkF3REd6YmJKNUF0VTA0bGZCUkNrYmJFTllzWWxZdEU0QlR6WWJWYmJRaGFFS3h2aXBBdVFNQm9iSkJ5cGE4Q0Vna2ZzbzVJSTR6aVhwSlJJVkdMTVdOeVFDUzJiQ0J1ZkRhSkMtMjNmQ25LLWY1VVd6VjFmcmdzSVcwRnp6NHM2RnBJUkVXZXNWQzE1TFM4QWRYU2hFeFY3VDNkSU9vbDAtRU5xOWdzdXo0Zno3QWRtWXNaN0JkMEpsZ2tDTERhYWhnQy1Td0RqUkw0YzRlNWp6cGhsXzFpNXFuTkvSAeoBQVVfeXFMTkpTSTliRVZoNmZieHRnbkQtZ2Jsa29hUTg5MkZadVY2dlo2R2h4M3JwMnhHajlJVDNfRXA2UVA0c09ySUdxbXRsQ3Q5NXJVWThzOWExdE45Nk5XUVdpU05ldktjSkdNQ05DdVYwandLc1dEWEd4THFsQzZ6ek1UNk9MMGtmMndPMVVLZFZYMHRYYkZXYmJnUE5mdk55OU9BbFE3LTlfMTExa0VRU1lGVzhlTG94WXVYUUtwdTJ1SzJ4clVxNUpBbDVBaFRmdjhJZFAxc29Gb3AxTGJlaGVYZ1dBUnB6by1odmFR?oc=5",
-     "source": "The Times of India",
-     "published": "2026-11-08T05:16:00+00:00",
-     "summary": "Russia may have lost up to 450,000 in Ukraine war, leaked death records claim&nbsp;&nbsp;The Times of India",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T07:40:17.671633+00:00",
+   "fetched_at": "2026-11-08T08:10:21.927497+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Election Night Big Board Hit 7:30 p.m.",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFlMOFp1Vm1MZjdZX1ZsZ0w3dGVvMklWM3dxclExYXVOdUw4NHlvd1Fobi1wWFM3WnFXN1JQZGZOOG9zTUJUYVAzYjAwZEcyV0w0YlZGR0tPQVRZM3FoWDNDMzJTZU02Q2o3amRkb0NDZU85Wk81MXdGQl9UamptdW43Ny1pMkpZWW96VFR6R1N0Q3FsREpwNm9PaUdPekc4bEVnQ1E4dndzbGlIS0VN?oc=5",
-     "source": "WINK News",
-     "published": "2026-11-08T06:42:00+00:00",
-     "summary": "Election Night Big Board Hit 7:30 p.m.&nbsp;&nbsp;WINK News",
+     "title": "California election update: Latest results across the state",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzNJN1Z2Q1VzUnJtM3hHSGN5Y1V5YkNkTXNfTnI0bWVmaFV5bGd5WkhybHNQa21iS0wtSF9ac0tXZnIxUlE2eGQxWFlYNXFLdmIwLUVCSmxkUTRyS05TdWtwQ09xUFNOZF9lN01nTTFrX29NUkhNM0Y4MG84TG5jRms0U0ZNelctUVZqOWtCNzh3NnNtUWpSc0tESDFwYldMSThoNkhnZEYwZGV3aDdkVXlR?oc=5",
+     "source": "ABC10",
+     "published": "2026-11-08T08:02:00+00:00",
+     "summary": "California election update: Latest results across the state&nbsp;&nbsp;ABC10",
+     "image": ""
+    },
+    {
+     "title": "Will Democrats block Trump\u2019s push to deliver Turkey F-35s, lift sanctions?",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDJNTkUxNFhXMnhPZ2lmdDhHeXp2WE1nNEFkbE0zUzJaemlsOWtKUzQzZ3l0Rk82N2xvSWY5cTBVaWtMU19qOXAtc1U2bHNxVnh4MEFXV0FSQVl2V1ZRMVp1U0ZvQWpIbmFDVTRqeDNfSEZndjQyUnloRi1BS0FTSUJTUW50cWluR1BKNlEyOExlWVl1ME9pUURtX1c3NUZhaUFCR3FaMXpXYl9rVWJTeXZVYw?oc=5",
+     "source": "Al-Monitor",
+     "published": "2026-11-08T07:42:46+00:00",
+     "summary": "Will Democrats block Trump\u2019s push to deliver Turkey F-35s, lift sanctions?&nbsp;&nbsp;Al-Monitor",
      "image": ""
     },
     {
@@ -250,6 +258,14 @@
      "image": ""
     },
     {
+     "title": "South Africa\u2019s Politics May Never Be the Same Again",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMkJtT3RGTW5fM0lzYXZEbldtTkFhRTVrc2ZpeE1FbXdLLXV0aW1pM3VpSzZPclMzbENYSXBWWEVONDU0ZzBPb2hlMEZBTGR1eVVHS1E1aGlpMTlQTFhZazVLWG1fSk95VkYzUTFlTzlSMFYyZzVUNV83NWRrLVo5T1hDNGxWMFVSVTFFeDJxVkZqZHhEMnFfb0JSVk4wdUUtT1E?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-08T05:01:23+00:00",
+     "summary": "South Africa\u2019s Politics May Never Be the Same Again&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
      "title": "The Kremlin hopes the US election shake-up won\u2019t shift Trump\u2019s negotiations on Ukraine",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUxIWEJndWwxMnBKclZqYl9iRzdUc18yQXlDR0p6WFUzX3VFQnV3UVRuZ2FJV3QtV2pMcU8tZDhsdUdYY0ZJVU5rSjN0V3M0UjJYOEZuSFczOUp6c0FDMDFPNlRsUk5tSXB5ZDEzSTRLQmJRVXZuYXl0U0Z1cTVOVk1wRDNKMmQ0aHczOWM1WWpaVHNiZ0gxc3JQcHRHZU00?oc=5",
      "source": "AP News",
@@ -263,14 +279,6 @@
      "source": "13newsnow.com",
      "published": "2026-11-08T04:30:00+00:00",
      "summary": "What happens to political campaign signs after Election Day in Hampton Roads?&nbsp;&nbsp;13newsnow.com",
-     "image": ""
-    },
-    {
-     "title": "Inside the Hinds County, Mississippi, election office",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHZMMG9HNnh5YndXLTB5cXJEeFZaS3pCTy1EUlY5QlFmdVRJRXJmcURFSnFHcnFwMGVRNDhZLTJ1VUlrRXk1VkVTV2tLQ0ZxdzRkcS1hTkVZMHNvdVFWeXRDVWwzenBsaFRuNDdwWWFWRVZiUjczOThVWXIzaWd2a19rdFFURUxHcnd5eDNvWHRnS05HdWZSZXphMnNXd2VFeEFId3AteEctek8xRnc?oc=5",
-     "source": "CNN",
-     "published": "2026-11-08T04:29:00+00:00",
-     "summary": "Inside the Hinds County, Mississippi, election office&nbsp;&nbsp;CNN",
      "image": ""
     },
     {
@@ -312,19 +320,11 @@
      "published": "2026-11-08T03:25:06+00:00",
      "summary": "Michigan State University Board of Trustees Faces Scrutiny Ahead of Election&nbsp;&nbsp;Spartan Newsroom",
      "image": ""
-    },
-    {
-     "title": "Trump asks UFC chief Dana White to be White House press secretary",
-     "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T03:12:44+00:00",
-     "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T07:40:17.671636+00:00",
+   "fetched_at": "2026-11-08T08:10:21.927499+00:00",
    "stale": false,
    "items": [
     {
