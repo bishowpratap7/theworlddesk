@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-08T00:39:08.942034+00:00",
+ "generated_at": "2026-11-08T01:09:12.766611+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T00:39:08.942003+00:00",
+   "fetched_at": "2026-11-08T01:09:12.766581+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Polish PM calls deadly Krakow shooting an act of \u2018terrorism\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T00:50:28+00:00",
+     "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of \u2018terrorism\u2019.",
+     "image": ""
+    },
     {
      "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
      "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
@@ -36,6 +44,14 @@
      "published": "2026-11-07T22:58:49+00:00",
      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+     "title": "Gunmen kills six in Krakow, three more bodies found at his house",
+     "url": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
+     "source": "France 24",
+     "published": "2026-11-07T22:47:06+00:00",
+     "summary": "A chilling new discovery in Poland, where three bodies have reportedly been found inside the Krakow gunman's home. That's in addition to six people killed and sixteen wounded when ",
+     "image": "https://s.france24.com/media/display/3454c354-daeb-11f1-8b85-bf1914cabd52/w:1024/p:16x9/AP26311723511956.jpg"
     },
     {
      "title": "Krak\u00f3w shooting latest updates: six killed and more than a dozen injured \u2013 as it happened",
@@ -100,29 +116,21 @@
      "published": "2026-11-07T20:48:58+00:00",
      "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
      "image": ""
-    },
-    {
-     "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
-     "url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
-     "source": "\u00a9 Jim Watson, AFP",
-     "published": "2026-11-07T20:45:45+00:00",
-     "summary": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his M",
-     "image": "https://s.france24.com/media/display/1699b72c-dadf-11f1-8689-d18c5759e759/w:1024/p:16x9/000-C4336TP.jpg"
-    },
-    {
-     "title": "Abdul El-Sayed slams Trump\u2019s tariff war with Canada",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T20:44:34+00:00",
-     "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump\u2019s trade war with Canada.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T00:39:08.942019+00:00",
+   "fetched_at": "2026-11-08T01:09:12.766597+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMWpCam94U3otaGVHZncxbEZrUV84anA0UC1CUmhOcVgzNUVlek44VGZydkoxMDhRYkFTR2o2ZEhyT1VfREltUlhPdUcyZVpJcEc0WmxLNXVBeTQzUEdXYVgyVHdvUTBsVG1OOUpqMXVEMWVDQzV6SlUxZFlOM25GcEJqUFpYYWZqNEtFVTluQm9KbFdDVHZlelNPTlZfX3NJalphS3JIOENsWk5LSjNRMWZTNDZ5WE5reGNocWRhUkotTGY0Q1hjejlwMXZzWGR1ZEc5eklwZ2lKcFcwYUJoZlVXNG9XUkJRQk4wa21TM3ZXUW5qaVd1RVNoVQ?oc=5",
+     "source": "The Killeen Daily Herald",
+     "published": "2026-11-08T00:37:09+00:00",
+     "summary": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US&nbsp;&nbsp;The Killeen Daily Herald",
+     "image": ""
+    },
     {
      "title": "Russia Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN1dzQVpZeUdLeldUMldRcEdscTY2TjdtSjVoNEt4dXpDVTJRd1FMLU1ZMHQyZFpjckpZZnJfNXdSSlladEFhbFRELWZ2alNRMDR5WnZQLUcwRGRrc01DZGlwN1FyeE1GNEZiQ3poRVFrWHRjT2M0VnY4Ti16di1RT0huNVdaZEZGTDRfSFFDUWxlUEtyeGxjVw?oc=5",
@@ -156,11 +164,11 @@
      "image": ""
     },
     {
-     "title": "Official Russian Data Shows 450,000 Killed in War, Death Rate Accelerating \u2013 Rosstat Leaks",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVS16bWI3MTR1U0dKYi1ReldCRXYyOXBrOE80N0Q5d1kydmNvQTI2azFzWGFKM1R5YURBUTdlcUE5NzAxcVN2OGlmYkJHT0dYN2pXY2F0NGJjTlZhX2drWDNEVXZQbTNhMXdvNHk5dDdpZlBlRmpRUHVZZHljVkNCRVVvd3ZqLXNPZXJQd2xsUUFXV0NQX3c3QWpiT2VvY2ZjNjRsejJjazY2TGpVb2UybzMtR0hUQklwc3prMkRHM1VfUWNBVFE?oc=5",
+     "title": "Official Data Shows 450,000 Russians Killed in War, Death Rate Accelerating \u2013 Rosstat Leaks",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHBRMlJWMFVJY25NSV9zQWR6Yy1ZeHQ4Nm9kRE5qMlRQTUd3NmN3UUxPeTBrUmFWMWVfdWRCOXhMajNIeUtnM1pRN2hfV1NBQ1NWUy04UEU0bnlNNjJmLXV5MWNaWjhtVmY1Vm5TQmNzYlI0NUZRQVlUT3FhVHl5Nms0YTk4U0ZwVUpxLW5tZW5DMzlvMklTN0dwY2RHZWs2NE94NFAzWW0xUFZ1cFczNjlUbkkySkEzRVpSZnBqbHljckNzSDVJ?oc=5",
      "source": "The Moscow Times",
-     "published": "2026-11-07T23:32:21+00:00",
-     "summary": "Official Russian Data Shows 450,000 Killed in War, Death Rate Accelerating \u2013 Rosstat Leaks&nbsp;&nbsp;The Moscow Times",
+     "published": "2026-11-07T23:32:00+00:00",
+     "summary": "Official Data Shows 450,000 Russians Killed in War, Death Rate Accelerating \u2013 Rosstat Leaks&nbsp;&nbsp;The Moscow Times",
      "image": ""
     },
     {
@@ -196,35 +204,43 @@
      "image": ""
     },
     {
+     "title": "One bridge stood between Russia\u2019s armored columns and Kyiv in 2022 \u2014 two Ukrainian engineers gave their lives to stop them in one of war\u2019s most crucial battles",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPM1J1QXM3ejgyWnNaY1lpNUJHNzQtRjZEVEVQVm9YLUJZZGFNYXNSMExwNmVKbTlJd3RZTHJQZlFKZ2JVUkl1VWJvdlFyR09oU1BLRXl4cnpuYmpuay1ISTdEcHVEaWpGNjVhQzdHMmswcTM3UDZ3cXdXNHgwZGhRWDZLaGx4bV9KSWpwZDJmYXB4YzByZEN5dkx5SHU5c1NBY2xsV0owWHAyNTFVRW1RT2ZRNjJ2TG9oYjdZakpCcDNNVExxRC0xSGFfUHRyZWZVVWp1OS1kV3E1SHYxSmU0Y19uS3RSYnJteUVfWFA3dUJIaUdCYnNFbGZkTVJ2THpDZjFoaUlaejVVUkR5b1pSRHl4eTQ5ZHFheGhzeDZaYlg?oc=5",
+     "source": "Euromaidan Press",
+     "published": "2026-11-07T20:49:49+00:00",
+     "summary": "One bridge stood between Russia\u2019s armored columns and Kyiv in 2022 \u2014 two Ukrainian engineers gave their lives to stop them in one of war\u2019s most crucial battles&nbsp;&nbsp;Euromaida",
+     "image": ""
+    },
+    {
      "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
      "url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
      "source": "\u00a9 Jim Watson, AFP",
      "published": "2026-11-07T20:45:45+00:00",
      "summary": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his M",
      "image": "https://s.france24.com/media/display/1699b72c-dadf-11f1-8689-d18c5759e759/w:1024/p:16x9/000-C4336TP.jpg"
-    },
-    {
-     "title": "Abdul El-Sayed slams Trump\u2019s tariff war with Canada",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T20:44:34+00:00",
-     "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump\u2019s trade war with Canada.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine\u2019s Zaporizhzhia faces threat as Russian drones close in",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWllSbGNtVWlYR2xfb0dCd2JVMFBtbWNrMjEzN2xNdFhOSE5iNmRIYkFhS253dEpvQVA0cV9ldjE2alpFS1BKUHBEQnVQdkNEclFpUm9pLVpDbzJwb1NkdXpQaVRid0RDSDU4bWNfOVRBWkpRdnlLSzBwVXh6VGNjRG9BWnVmTmZ2OXRzU3VuTUhFYnlWcnptSmJR0gGfAUFVX3lxTE53OC1VdGdjcjRoWEtaWmNRSmRfN0s3QUNBbExvb0VwVi1idU5DNV93cVgzSjd0V0pGbExJeHY3VTJjTlEzbGFmbUNjQk1CSEhOLU1ZOU9JODhFelhQQXJndXk1T1ZMRzZWVFVOTTVIaW9HT3A4Nkk4cmlvOW5vMmhaWE5WQS1DSFoxUmZjcjJPX3NQaHdYY3VMYzRWSmNGYw?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T20:37:07+00:00",
-     "summary": "Ukraine\u2019s Zaporizhzhia faces threat as Russian drones close in&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T00:39:08.942022+00:00",
+   "fetched_at": "2026-11-08T01:09:12.766600+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Polish PM calls deadly Krakow shooting an act of \u2018terrorism\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T00:50:28+00:00",
+     "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of \u2018terrorism\u2019.",
+     "image": ""
+    },
+    {
+     "title": "Weekly Wonk: Oklahomans made their voices heard. The next step belongs to all of us | The votes are counted. Now the real work begins | More",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tQkU4U1hxMUV5azdDNDVYa3dhdXh2VmRtdzREMHd0enprVWpoYkk3cVVLUGVWTGJSVERqdF9JbEg4ekVnSjhGQkRvbU9kU0VZUVpoeTNYaw?oc=5",
+     "source": "Oklahoma Policy Institute",
+     "published": "2026-11-08T00:44:43+00:00",
+     "summary": "Weekly Wonk: Oklahomans made their voices heard. The next step belongs to all of us | The votes are counted. Now the real work begins | More&nbsp;&nbsp;Oklahoma Policy Institute",
+     "image": ""
+    },
     {
      "title": "How Colorado\u2019s 14 ballot measures fared in the midterm election",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnN6ek92cjRDVW96MGlxSzlOSFJyaXZiUEN6cGZMdS13Q3ctYzgxYlFHNzlCVXhCRG1ORnIzWkZablhwN1NBS1g1TXpfTzM3ZmJfZWVVNlFlUk5MZzkwZkx1U2hYakhxeHY3SHhnSDlwQmxxa3luWGJnYkRHZmRzTHg3U0R4MUd4S3RBWnRaUjBUVV9OS3h5MUtpSWdCOG1nTlE?oc=5",
@@ -251,7 +267,7 @@
     },
     {
      "title": "Chicago mosque hosts open house after midterm election to teach and connect",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkJLVFVldzQ1Nkc0WG5pNEVPUGJjMVl3dGotdTA3Ml9FMTNEQXZYRFRYZU12Sm1vaXZDUG5kY3FZRnZHTjFQRXU3WndidzBaTjd1UkZQenc5Y2staDY2VzFCY0k3WmMxYVZSV3RHY2R2MEF0bHd0QWFJQzgtR2U1TmlOd1k2UkJiNWJlbmg3clhCaWNMVGYzazNwYTRueUNSWG4zN0tjZk0zT21abjJWZkhXZGdOMXZ6ZFZSbkJkYw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkJLVFVldzQ1Nkc0WG5pNEVPUGJjMVl3dGotdTA3Ml9FMTNEQXZYRFRYZU12Sm1vaXZDUG5kY3FZRnZHTjFQRXU3WndidzBaTjd1UkZQenc5Y2staDY2VzFCY0k3WmMxYVZSV3RHY2R2MEF0bHd0QWFJQzgtR2U1TmlOd1k2UkJiNWJlbmg3clhCaWNMVGYzazNwYTRueUNSWG4zN0tjZk0zT21abjJWZkhXZGdOMXZ6ZFZSbkJkY9IBxwFBVV95cUxNVkh3eG5DWmtKcmRfOVZaOExZVWUySEhUWDg4TjZIR18xZVZsWjZianFKZjhvQnZGQ1UwdkJ1Q3RmUERtcXg1dExNUmRGNDZPaHo2NjhpXzR5R3NxT082YmpYUVZGTXBPelllMUdleUVnQ0pma1RLeEdQejhPb0tzRjh1RmtrQlJrVm5ldkV1cDVHcTdCWXg3WGE4bGVDa19xR0x1SEE1NTEtVHpGM0hjM2VYcmt3YW0zODZmV0lNZG9YMjBNVXJB?oc=5",
      "source": "NBC 5 Chicago",
      "published": "2026-11-07T22:55:08+00:00",
      "summary": "Chicago mosque hosts open house after midterm election to teach and connect&nbsp;&nbsp;NBC 5 Chicago",
@@ -304,27 +320,11 @@
      "published": "2026-11-07T21:24:10+00:00",
      "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
      "image": ""
-    },
-    {
-     "title": "What happens to campaign merch after an election is over?",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmtTQ3hfcFZTaS1xNVdoVnE0LU9XTGxWNmNzM3dsMnVtR2RJNUd5ckFHTF9ZNXB3SDNEUnhuNlY0UFRLVVpPc28xT1hERENFUV9sSWpyNlFEWmdtNUtfSUVNZE5tVmJkTzRmNUlVUWlCZkNoUFRrZ1lud3I0UmItMDdRTmZSNElTRElSRWlmVE92M2I0bWVrdTEwemzSAaQBQVVfeXFMTmo4d3c0YzZacEtDYUdFSXdPUzJFQjdHeWM1NnVNVWFZcTFibHoxMTRBejU5eGNibDJYdExQZy1tR3NBelZpaTdFcmdvaFd5WEZhOEVERXRUSnI0MlFlOG00UmdHZlBTXzAxVTczbzVURDJPT3Z6bGFwNlVVdzdnVkRqcm1QWkJSbThrNGpCV2xlSV9KbVEwbzdDaEd0TVJZTmFHbGo?oc=5",
-     "source": "NBC4 Washington",
-     "published": "2026-11-07T21:08:41+00:00",
-     "summary": "What happens to campaign merch after an election is over?&nbsp;&nbsp;NBC4 Washington",
-     "image": ""
-    },
-    {
-     "title": "New Zealand preliminary vote leaves unclear who will govern",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHN3TmpfLVFhTnlIdlNERm8zUnRzaExUZ0NDUGo4Q3JiR295dVNsRDgwRDVDUC1VaU12MzlpYVdiSXJOMVdFRy1nYTZDWWE4OVM3X1JIUV9vQ01YaTVoVlN4MzNMaXlIUWRDTUVyT1dMeW16d2dWYjlrVndFek5GanZtQWdSUUt0RkVwcFpJWTZkRWlnWUdPbEdZRlBaU283Nk5aQXptWG5DZ08ybG1nZkVn?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-07T21:07:55+00:00",
-     "summary": "New Zealand preliminary vote leaves unclear who will govern&nbsp;&nbsp;Reuters",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T00:39:08.942025+00:00",
+   "fetched_at": "2026-11-08T01:09:12.766603+00:00",
    "stale": false,
    "items": [
     {
