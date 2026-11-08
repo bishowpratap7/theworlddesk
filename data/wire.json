@@ -1,34 +1,10 @@
 {
- "generated_at": "2026-11-08T08:40:25.460131+00:00",
+ "generated_at": "2026-11-08T08:40:38.961738+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T08:40:25.460098+00:00",
+   "fetched_at": "2026-11-08T08:40:38.961707+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "US military attacks cargo ship in the Gulf of Oman",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:24:37+00:00",
-     "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
-     "image": ""
-    },
-    {
-     "title": "Mapping how France\u2019s protest wave spread across Europe",
-     "url": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:18:38+00:00",
-     "summary": "More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France.",
-     "image": ""
-    },
-    {
-     "title": "As AI data centres guzzle energy, can we harness their wasted heat?",
-     "url": "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:17:12+00:00",
-     "summary": "The rapid development of AI is draining our resources, but engineers have found a way to use heat lost to the air.",
-     "image": ""
-    },
     {
      "title": "\u2018AI clog\u2019: UK public bodies battle onslaught of chatbot-generated complaints",
      "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
@@ -116,21 +92,37 @@
      "published": "2026-11-08T06:39:33+00:00",
      "summary": "With a decisive rejection of Trumpism, US voters have given Democrats one more chance \u2014 they better not blow it.",
      "image": ""
+    },
+    {
+     "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+     "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+     "source": "The Guardian",
+     "published": "2026-11-08T06:00:33+00:00",
+     "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurenceAlex Pearce was doin",
+     "image": "https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=61f705fa3e603f228abbd6c56fd24887"
+    },
+    {
+     "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
+     "url": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
+     "source": "The Guardian",
+     "published": "2026-11-08T06:00:33+00:00",
+     "summary": "Mumbai facility is part of Reliance Industries, owner of world\u2019s biggest oil refinery and funder of controversial mega-zooThe Prince of Wales\u2019s Earthshot prize will host its forthc",
+     "image": "https://i.guim.co.uk/img/media/318a7571aaf58a51d5597de23c3e8e795c29e3fa/401_226_2845_2276/master/2845.jpg?width=140&quality=85&auto=format&fit=max&s=5e32c6b0e8f2ade891cb151fa341f642"
+    },
+    {
+     "title": "Does Andy Burnham\u2019s pivot from press to social media put scrutiny at risk?",
+     "url": "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk",
+     "source": "The Guardian",
+     "published": "2026-11-08T06:00:32+00:00",
+     "summary": "A lifestyle podcast or brief TV clip is less taxing than a full press conference \u2013 but No 10 insists the PM is not ducking accountability In an interview this week Andy Burnham sai",
+     "image": "https://i.guim.co.uk/img/media/a0cac622860a5bd34d5fc74415a28b00182fbf8a/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=e70529c700f67398c69d874bebee624e"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T08:40:25.460116+00:00",
+   "fetched_at": "2026-11-08T08:40:38.961722+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "US military attacks cargo ship in the Gulf of Oman",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:24:37+00:00",
-     "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
-     "image": ""
-    },
     {
      "title": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine\u2019s economy",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXVva3lQMFk2bVF1bndvVVBHWndzZW5yWVJ3bmtZdnBiTFJwOVpWZlpiS0hkdUM2TDBFcjA5N3F3V2psTmtQS1RSSlBBVHFXZzNreHNxVk1IdGxoVlFaNmp0RkVMdVpjSk9laUdaZ01jYmVWdEJYTkVJVUtxUWh4dWlyNjZvQkVkVEd0OVBndUkyYy0zSVhNT0RCckFqUjlWa054cHNsbjlrMl9hNnJVRUxYZjFhanFNWEZz?oc=5",
@@ -218,11 +210,19 @@
      "published": "2026-11-08T06:00:33+00:00",
      "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurenceAlex Pearce was doin",
      "image": "https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=61f705fa3e603f228abbd6c56fd24887"
+    },
+    {
+     "title": "Russia lost 2,290 troops in a day of war against Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVlXb2p1X3IxQzJyT2tyX3dCc0lfZURVRjFXSEdGVnFUWkpLckpHbjBCNE02WVFXS01vZzZwUFRXWkJDNF9Ta2EyRGZULWQzWXVsZEJlQVA1U09Qb2paZ0JBcU9rcFRycUVzdC1wMmlsQXFqZGcxV1hxX0xnOHNNMjlpbXXSAYMBQVVfeXFMTk9pQ3hfaWttU3Q1aW14VWdfU0twRlp6UzRWUndLRWRPNTNHOVhKeFo2U2trRDljdUtuLS15dndUdjJfS3VKaWFYcVlhN2ppMGFZTTNqcEdlTTFKUE5ZdW9MZUlRTUlWbkJ6S3M4Um5JWGlhYnE4S3hOVjhhajFyRnNfNGM?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "published": "2026-11-08T05:49:28+00:00",
+     "summary": "Russia lost 2,290 troops in a day of war against Ukraine&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T08:40:25.460120+00:00",
+   "fetched_at": "2026-11-08T08:40:38.961726+00:00",
    "stale": false,
    "items": [
     {
@@ -239,14 +239,6 @@
      "source": "WSJ",
      "published": "2026-11-08T08:19:47+00:00",
      "summary": "The 2028 Election Map Just Broke Wide Open&nbsp;&nbsp;WSJ",
-     "image": ""
-    },
-    {
-     "title": "Mapping how France\u2019s protest wave spread across Europe",
-     "url": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:18:38+00:00",
-     "summary": "More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France.",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-08T04:26:00+00:00",
      "summary": "Mississippi U.S. Senate race remains too close to call&nbsp;&nbsp;Action News 5",
      "image": ""
+    },
+    {
+     "title": "What happens to campaign signs after Election Day",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeERNQWxvYmNZT0hOaWFaTWRkblRWaDlMb2FEejdLQjcyQkpZSzRfQ0ZvTlo4M3NCVmI0d2RDQWxvV2RCbFBiVFpaclZxWXZZZWhsMzNfeW1IZDRUVFAwS1lxVEk5TnJIQWtTTGVVbEFIWmdXa0lJM0N4TXNGRTJZcEp2Z1NzWmt4QnVtQjJQSHBQZy13aEh1aU9iUlhFajBfcUNpdnQ0aU5rU0ZHT0o1U01QbFZlWEdVR0VieVJRcGhNQ2RMbDBwbmlkejBaX1RnWmV4UWxfdG5hOFNjOUI0?oc=5",
+     "source": "13newsnow.com",
+     "published": "2026-11-08T04:20:00+00:00",
+     "summary": "What happens to campaign signs after Election Day&nbsp;&nbsp;13newsnow.com",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T08:40:25.460122+00:00",
+   "fetched_at": "2026-11-08T08:40:38.961729+00:00",
    "stale": false,
    "items": [
     {
