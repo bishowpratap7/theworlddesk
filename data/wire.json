@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-08T12:41:08.282022+00:00",
+ "generated_at": "2026-11-08T13:11:12.527263+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T12:41:08.281990+00:00",
+   "fetched_at": "2026-11-08T13:11:12.527230+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Second world war veterans outnumber former PMs for possible last time on Remembrance Sunday",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
+     "source": "The Guardian",
+     "published": "2026-11-08T12:58:04+00:00",
+     "summary": "Andy Burnham takes part for first time alongside eight former premiers as 12 veterans participate in ceremonySecond world war veterans outnumbered former prime ministers for what c",
+     "image": "https://i.guim.co.uk/img/media/3065658e846c2e2b14d344b3d55bb4f6018939a3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e9c2e679262b8e3946ce237e9872e09c"
+    },
     {
      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
      "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
@@ -82,7 +90,7 @@
      "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-08T11:34:58+00:00",
-     "summary": "Israel&#039;s former military chief has been given the opportunity to form a government after an inconclusive election.",
+     "summary": "Former army chief has 28 days to cobble together a ruling coalition after President chose him over incumbent Netanyahu.",
      "image": ""
     },
     {
@@ -108,21 +116,29 @@
      "published": "2026-11-08T11:00:38+00:00",
      "summary": "Luc Corlou\u00ebr made \u2018deal\u2019 with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949For almost eight decades the artists\u2019 model",
      "image": "https://i.guim.co.uk/img/media/64568384f0ba20fb1fa5662cf34b808631acc22a/0_205_1343_1074/master/1343.jpg?width=140&quality=85&auto=format&fit=max&s=7b9fbb0b581c17a5876924b0212d3339"
-    },
-    {
-     "title": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/08/simon-parkes-navy-sailor-mother-allan-grimson-suspected-killer",
-     "source": "The Guardian",
-     "published": "2026-11-08T11:00:37+00:00",
-     "summary": "Margaret Parkes and her husband, in their 80s, want Allan Grimson to reveal location of their son Simon\u2019s remainsThe mother of a teenage Royal Navy sailor who vanished 40 years ago",
-     "image": "https://i.guim.co.uk/img/media/841be306ef3aa3c277d9e059ce076c22b6268a97/1268_160_4885_3908/master/4885.jpg?width=140&quality=85&auto=format&fit=max&s=8734746fd38c4c07baeffa8031b21f35"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T12:41:08.282005+00:00",
+   "fetched_at": "2026-11-08T13:11:12.527246+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Second world war veterans outnumber former PMs for possible last time on Remembrance Sunday",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
+     "source": "The Guardian",
+     "published": "2026-11-08T12:58:04+00:00",
+     "summary": "Andy Burnham takes part for first time alongside eight former premiers as 12 veterans participate in ceremonySecond world war veterans outnumbered former prime ministers for what c",
+     "image": "https://i.guim.co.uk/img/media/3065658e846c2e2b14d344b3d55bb4f6018939a3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e9c2e679262b8e3946ce237e9872e09c"
+    },
+    {
+     "title": "Ukraine\u2019s Marines Cross the Dnipro\u2014Storm Russian Positions and Gain Ground",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzJhMkUyWGRXYVlNTG9WMkR2S2VEa0tGVG9GVm5DY0F0R3BGdmc5b0U2YUl5X21xdVN0WnNNN2pMbTA0eklJSEpCMUktUlR2T0lJZVNTSlYzMTZ3R3JQTmNka244cE1Yd2JQY1NYTWprUm9qcDZRaFF1VzNDV19INWg1aUZqTHhtdElrSllYcUE1VXFJOE9nNHVlN1FwcC1IM0RKUVQyQUc3REU1Ny0zeWFOVWxGdXpibmJ4Qw?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-08T12:40:31+00:00",
+     "summary": "Ukraine\u2019s Marines Cross the Dnipro\u2014Storm Russian Positions and Gain Ground&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
     {
      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3k2UlNRSWl0LVdfSFFVR2NNOFlpSGVsWWRiS05JelN6M09NYy1GRFp1V2R6RjZaaWRfV2g0R0xkS2JrSlJCMF9LNHJ3aW5XdGdYWm9kVno5NUFKQS15VnJVRUVKdzU3MEtlQ3NZOHd0T01NR0tXalNUd0ZUVDVZRmJBNmpSWDllSWJsVk1TMUdZc3VtS2RtVkNBTERyeDVZUjk4ODhGM0hlWnlMQzRXbzBZS2dQQdIBuwFBVV95cUxQQkNrd3QxaE9kSV9USXh5bkNjNDdHUTZHZmhUYnU0NXVlY3gwTWxwVEppU2tFSWpidURIQ1MtVFdPYlhhd2lub1FSUUR6bVNJWVB4VmQxNUJQODRzU2dURk5XejU1N2FRaXlJSVRGOENKMHdpZFE0SWo4T2RjTU9IVzNvZUJ6OXRkSzJtVmJOczhRNk1NUElLcHJKR3hBZ1JobWl2OFNXcC1PbE5tU3VlQmxZSFcwZ0h2b0s0?oc=5",
@@ -148,16 +164,24 @@
      "image": ""
     },
     {
+     "title": "Sabotage Attacks Inside Russia Surge 88% as Moscow Expands Covert Operations Across Europe",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hTZjUxRTAxem5KekNhYWZhZ05NbTFsZXpLcEpGNmNYeEh0UDFiQ2huTUNRUTluNGo5TnBCNGdfaWlTTUNVUC1JNmptUG04Ymo1anBCSUF2STdFVzdRYkZncUpnS0NXV2gwa2V6a3NVR2wyRlpEb0xDZTFyWlFvNzBKOHpoazlyaENrb1NmcjQ4RkVEdEo2d2dNb2dzWVU1TlNoQmlVM19lOEstZ2JmUXBIVzlvZWtvNnpZZTcwWkJBeXUwUnlXNkR2SnRZUkc4a1E?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-08T11:46:44+00:00",
+     "summary": "Sabotage Attacks Inside Russia Surge 88% as Moscow Expands Covert Operations Across Europe&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
      "title": "Will Eisenkot be able to form Israel\u2019s next gov\u2019t amid divided opposition?",
      "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-08T11:34:58+00:00",
-     "summary": "Israel&#039;s former military chief has been given the opportunity to form a government after an inconclusive election.",
+     "summary": "Former army chief has 28 days to cobble together a ruling coalition after President chose him over incumbent Netanyahu.",
      "image": ""
     },
     {
      "title": "Zelenskyy says Russian strikes leave over 600,000 people without power in Ukraine's Dnipro region",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTV2QTR4Z3dSS1Y5UUNreklDTGNnZmZPNEZMbHlqTXFmc1A2ZlBrMTNvMUpRMU13ZWdJQjRncHMwMjlwU0QtVlZIWHY0RGpCamQyOGdpT2lYWDllMVVDX2w2TnJlVDBQWGpRQWYtLWxKMVNCUEUzdlktbkh5Ml9MUVEteFZMSFNCSFZYa3c0Y185c0doWmVtN2Fhc1pWQnFSMWdlOGg3TDF2c3liTDItQ2V2Tm8tNW1ySHdRejFNWmotMTF4blhadGtFcUhvYW9xQjNR?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVWhKVjhsYXBuTUVOcVR6NGQ3R2FJdUtMX0c0SGQ3M0swRVVRcWR2Um9BbVBzODVFSTBNWlZhLWk2SFdsU2NzMTlpNzNJYlA0bXhoNVhWSExoMTRZdk9rWk80ZE5idUFIb0JtY2ttVXFwWmNHZEZ2ZEh4Sk9mVEdJeFo3U2xmSTZWRTJwc0lIMk9hWnRXRV9xaENQSko4VG9SN3YzcFVvcVFiR2ZGbFFKUEt3ZzAxVmZ0bUtqa0VWeFA5WnVoeW1SMzBYX0pZQQ?oc=5",
      "source": "Anadolu Ajans\u0131",
      "published": "2026-11-08T11:34:49+00:00",
      "summary": "Zelenskyy says Russian strikes leave over 600,000 people without power in Ukraine's Dnipro region&nbsp;&nbsp;Anadolu Ajans\u0131",
@@ -194,37 +218,37 @@
      "published": "2026-11-08T10:56:27+00:00",
      "summary": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine&nbsp;&nbsp;WTOP News",
      "image": ""
-    },
-    {
-     "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
-     "url": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T10:50:12+00:00",
-     "summary": "The Argentinian scored 26 goals in regular season, topping the charts and leading Inter Miami to the MLS Cup playoffs.",
-     "image": ""
-    },
-    {
-     "title": "Belarus jails Catholic priest for opposing Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQXpBR0YyNU9DOHl3VDZCbzlvWjNYYzZSUmZ0ampHZGdpTlN1anBmc3U5TmE3dThwZEJEcXhoMklKZXJ3ZklaNkNpbWRobnFENzhBeEtHdFlQN1paNWVuVWRxWWllSnNYZnNNRUJqOExYdUtOdk43M0dCcVlSaU9ibHJlV19JejNQUDF4M2k1am9HMWtRT3hwMmd4YnYwbjV1QjBLRFZ6Qm5GNEkyQnlWQlRaX0JMM2hyd1Ew?oc=5",
-     "source": "Premier Christian News",
-     "published": "2026-11-08T10:46:16+00:00",
-     "summary": "Belarus jails Catholic priest for opposing Ukraine war&nbsp;&nbsp;Premier Christian News",
-     "image": ""
-    },
-    {
-     "title": "Paraguay: Senate impeached Pe\u00f1a rather than accept his offer to resign",
-     "url": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
-     "source": "France 24",
-     "published": "2026-11-08T10:42:59+00:00",
-     "summary": "Paraguay's ousted president, Santiago Pe\u00f1a, has been charged over the collapse of Ueno Bank. Initially placed under house arrest, he has since been transferred to a military facili",
-     "image": "https://s.france24.com/media/display/97992746-db60-11f1-b875-695cb59fade5/w:1024/p:16x9/EN-20261108-111033-111218-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T12:41:08.282010+00:00",
+   "fetched_at": "2026-11-08T13:11:12.527251+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Is settler violence Israeli policy or extremism \u2014 and will a new leader bring change?",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1Exb2NhMFhRb3ZXTVBQSnpZY01Yby1KM0U2X25qUlAtcXhTLV9qZHJ6WktKMms0bTJZZEw4bXlsZy1hVWZIeVhTR2tCYTA2RGQ0MjBzU3JTTkhydzBqenJiclRJSEQwdHk3NDdVeGthOTZsNUJNdEpNNXlmaTF1aGVJY3RqUTV0b2psTEpBcEFRRDVBM3FTZ0xScXlxdnlZSlo1LXlFOGxPU0ZxQWJXMlFoLWJ0b2MzODNR?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-08T13:02:28+00:00",
+     "summary": "Is settler violence Israeli policy or extremism \u2014 and will a new leader bring change?&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Big money lost. Incumbents won. Portland's progressive coalition emerges stronger.",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbTF6MEhTUkFtSlZZLVUwQ0p6Q082RmV2cWswSU9xaHpFRTB2c0FZNktuMHBhQ3FVTGgxbDlkVm9DZF9aNE92R2tGNmZBRkhYejBBSW9hcl8tcUtqS2JfcUpGOURoMDVONjdKQjJjWjM2eHVNaEUwM2FPbHZjby1WOUxiaEYwRjYxUEFBRFJ0Z2JPbnpxVWhycTF6bnk5UHFCZHBJSWk0UGplMWxwWmdFVkZzWmFWV19vN3RSX21fbXF5TE83WFRxQmFfWDdic2YxOHc?oc=5",
+     "source": "OregonLive.com",
+     "published": "2026-11-08T13:00:00+00:00",
+     "summary": "Big money lost. Incumbents won. Portland's progressive coalition emerges stronger.&nbsp;&nbsp;OregonLive.com",
+     "image": ""
+    },
+    {
+     "title": "Opinion | Election deniers lost. So did election doomers.",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWpkZlktU2lKczN4bzYzZ3FHZk9NdGtFRnBFNTczdk1wQ24xZHFxUExfekRJc01ZN0o2OHltdTF2aS1RRXgweWZ4V2t4V2ZXbjFmN096cVFHOEEwZ09ldVdhS19hamNOUXNvS1QtOF9ndFVmNzhIV0p5ZWszR0dzb2p6OW43UEVqeFdFZw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-08T12:45:15+00:00",
+     "summary": "Opinion | Election deniers lost. So did election doomers.&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
     {
      "title": "South Africa\u2019s ANC suffers setback in local elections",
      "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
@@ -242,11 +266,11 @@
      "image": ""
     },
     {
-     "title": "GOP DeSoto County key to Scott Colom\u2019s midterm election",
+     "title": "DeSoto County, a Republican stronghold, key to Scott Colom\u2019s midterm election performance",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUltQXhZblVjSmZPcHlodDN3UUhZZzcxa25KZjhVY0FFUXFXZDJyZ3VtLUllbVJXV3FNRC1Wa1JiVWZFRWtMaVlaaXBjcHVseS01LW5xdVI5akk3OXIwaDBVc0Q1OExULVMtODlWaFRRcU9fa2JtTEhXaUFrRnRRSG1GRVJTQkFMdEFF?oc=5",
      "source": "Mississippi Today",
      "published": "2026-11-08T12:00:00+00:00",
-     "summary": "GOP DeSoto County key to Scott Colom\u2019s midterm election&nbsp;&nbsp;Mississippi Today",
+     "summary": "DeSoto County, a Republican stronghold, key to Scott Colom\u2019s midterm election performance&nbsp;&nbsp;Mississippi Today",
      "image": ""
     },
     {
@@ -296,35 +320,11 @@
      "published": "2026-11-08T11:48:56+00:00",
      "summary": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting?Hosting Cop was a key pledge from Australia\u2019s prime minister,",
      "image": "https://i.guim.co.uk/img/media/72678bea25c1a92a183def8f6052f58a39fa3e5a/790_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=5c03e71c63752f13b18521a75650ceb4"
-    },
-    {
-     "title": "Is settler violence Israeli policy or extremism \u2014 and will a new leader bring change?",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1Exb2NhMFhRb3ZXTVBQSnpZY01Yby1KM0U2X25qUlAtcXhTLV9qZHJ6WktKMms0bTJZZEw4bXlsZy1hVWZIeVhTR2tCYTA2RGQ0MjBzU3JTTkhydzBqenJiclRJSEQwdHk3NDdVeGthOTZsNUJNdEpNNXlmaTF1aGVJY3RqUTV0b2psTEpBcEFRRDVBM3FTZ0xScXlxdnlZSlo1LXlFOGxPU0ZxQWJXMlFoLWJ0b2MzODNR?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-08T11:32:28+00:00",
-     "summary": "Is settler violence Israeli policy or extremism \u2014 and will a new leader bring change?&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "How a Syrian Hospital Is Achieving 76% Childhood Cancer Survival Despite War and Shortages",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObjd6akpVaml4UlZUaGxZTlBBb3VsX3Z4N19PM1h0c3JOeHJZRnBHQWR1VFMtWTBIVDBQTmpUNmo0N0xvSnJhSVBQZjFLR05SQm5WcUgxLWZzeFpSYjhUTEtySm1EbzJlbVpYUkVrWVl5MFM5ekR5aXlPekJncWx4d3FmelVhdzRxTkNHZTFtaXV0MWk5WlM3SEw0UEN5TThRWFdJYl9mMmVoYXdQUmFGbmpJV29FU0FhQXdmcVQyWQ?oc=5",
-     "source": "Health Policy Watch",
-     "published": "2026-11-08T11:30:31+00:00",
-     "summary": "How a Syrian Hospital Is Achieving 76% Childhood Cancer Survival Despite War and Shortages&nbsp;&nbsp;Health Policy Watch",
-     "image": ""
-    },
-    {
-     "title": "Japan's Tashima rates FIFA election chances at 20%-30% in challenge to Infantino",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHA3VXMwNFNLLTJ5SXZ2MVFOSXh1UWY4b0ZoUk9tYUNfcGh4eU93dXMycXljX3gwZXFnV1Bjb3I5RWgtTF9ZRE92dnRFVzFNdHNwcWdxdjhhY0N1M1FDR2pHeHMxc0pMTklOWnBwR3B2VTRlZ3dqTDN1Um5wZXdKN2xTMGNPOVBsQWpGV1FYQWwyZk1yUEgyWENMa0xBMXRhNW10aXBVN2tWRmtYYkNfbTR6el9MZFB2Snc?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-08T11:26:29+00:00",
-     "summary": "Japan's Tashima rates FIFA election chances at 20%-30% in challenge to Infantino&nbsp;&nbsp;Reuters",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T12:41:08.282013+00:00",
+   "fetched_at": "2026-11-08T13:11:12.527253+00:00",
    "stale": false,
    "items": [
     {
