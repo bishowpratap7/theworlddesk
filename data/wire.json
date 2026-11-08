@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-08T02:39:25.275327+00:00",
+ "generated_at": "2026-11-08T03:09:29.587678+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T02:39:25.275295+00:00",
+   "fetched_at": "2026-11-08T03:09:29.587646+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia\u2019s south-east",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+     "source": "The Guardian",
+     "published": "2026-11-08T02:34:19+00:00",
+     "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with kunanyi/Mount Wellington in TasmaniaGet our breaking news email, free app or daily news podcastSnow has fallen acr",
+     "image": "https://i.guim.co.uk/img/media/cec2d40cb1736bf071e01cfe1c16506146148e45/467_97_1218_975/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=f0b668a0c2353f200a661bd995771642"
+    },
+    {
+     "title": "US launches task force to disrupt Iran\u2019s land-based supply routes",
+     "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T02:34:04+00:00",
+     "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+     "image": ""
+    },
     {
      "title": "What we know so far after Krakow gun attack",
      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
@@ -100,29 +116,21 @@
      "published": "2026-11-07T22:12:06+00:00",
      "summary": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
      "image": ""
-    },
-    {
-     "title": "Police clash with protesters as anti-government rallies sweep France",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T21:24:10+00:00",
-     "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
-     "image": ""
-    },
-    {
-     "title": "M\u00e9lenchon promises action against Israeli annexation if elected President",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T20:53:47+00:00",
-     "summary": "M\u00e9lenchon promises action against Israeli annexation if elected President",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T02:39:25.275310+00:00",
+   "fetched_at": "2026-11-08T03:09:29.587663+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US launches task force to disrupt Iran\u2019s land-based supply routes",
+     "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T02:34:04+00:00",
+     "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+     "image": ""
+    },
     {
      "title": "Russo-Ukrainian war, day 1719: Russia digs tunnels on Kherson\u2019s occupied bank while Ukraine rolls out bigger ground robots",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUEwya19RTlhzZGt6aFZXOVJlOS0xVEM4Z1c2M2ZCYVJVSTJwM3pqM1dnSGtJY0pGR0RMbFpyZ0Q2RGU4RFdnZlBZeC03cXpQdVc1a2FVakw2QnQ3bElpQ2hLSWU4VUVJTTZIVVB2NFdibmdHTWVrdEljV3lnT1RxY3FCU09JNmplM2duejRTLV9XeUdKTDdGWXJnYnpLTG5nUURZNl9uR3J1OHZBbU9yN0hJMkUxQ21nOUl5X3l2QXUxSVpScVNEdHliRGJXc016bE1uTkhma0V5ak84azFzbnN5blhLSmFQaXI2LTlYTTY?oc=5",
@@ -210,21 +218,21 @@
      "published": "2026-11-07T20:49:49+00:00",
      "summary": "One bridge stood between Russia\u2019s armored columns and Kyiv in 2022 \u2014 two Ukrainian engineers gave their lives to stop them in one of war\u2019s most crucial battles&nbsp;&nbsp;Euromaida",
      "image": ""
-    },
-    {
-     "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
-     "url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
-     "source": "\u00a9 Jim Watson, AFP",
-     "published": "2026-11-07T20:45:45+00:00",
-     "summary": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his M",
-     "image": "https://s.france24.com/media/display/1699b72c-dadf-11f1-8689-d18c5759e759/w:1024/p:16x9/000-C4336TP.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T02:39:25.275313+00:00",
+   "fetched_at": "2026-11-08T03:09:29.587667+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "For Zoomers, blue wave in US election evokes 'millennial optimism'",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWowbkNqSXJSOFgxUlA2MDdBa2FWRjhueWloZW1oSU55d2RGN3F1NTZaQlRVaGJ5d2ppb2R5X1o3R2xVcHFPLVB5NjJjbllmV0IteTJjVjBiam40bVc5bmpHZjZEXzVjMVJmWE9BMmc5ZWJqUmZRcXhyMkhVOGd1ZWdzVjVEQQ?oc=5",
+     "source": "AFP.com",
+     "published": "2026-11-08T02:35:31+00:00",
+     "summary": "For Zoomers, blue wave in US election evokes 'millennial optimism'&nbsp;&nbsp;AFP.com",
+     "image": ""
+    },
     {
      "title": "Election Day Fallout and Rank Choice Voting",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BRGNfNzRaWF81ODVmZFFxMFVfdnFrcGVHZ2hOZml0Zlg0MlBlMmJVcjMxeEVTanF4d0MyOEd3Nnh6cnFUR0Y3WEpmaXgtZmpfbjZfTnNnS3VybVJTckpHZ1BCU012RUJxNEV0N2RsTldmcmJqLWpZRE5n?oc=5",
@@ -235,10 +243,10 @@
     },
     {
      "title": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGo2em9GRlB2ZGxwSWRsUzdxY1YzcDNpRDdCbUdZMy1hXzZ2d3d5ZFpHTml2alFCWXFjRnhwRmIwSXBQcnVhalpyMEFMU1NfLURWMzAtQThYR3dqcDg4bUxxYV91MnVYckJ0eTBBeG1yYW5hdktPeG1ZbGZvRlBsRFQ5dXZDcTFYdjVUOHZUSWxOZ2Rubkc3MFlmdGZhdmFxZHF5ZGpjSDVON3Z2dHBobEYzWlhORVc4SlJWbjhxNFpMTVE3Qkcw0gHMAUFVX3lxTFBqZmh5VER0cEtYMTdaWkJCd2t0SC1vem83d2l2MFh0U3hURWh6OXlySEFoOUpRUUtYTlg2aWEyV1p1X2RPaG9rNnpuSzZOY3MzUHJBUnVWdjRrMjlaWGFXaWxweVdFSEYzVURVRUdVOFlGVVZwa1ZGR3NUWDFiX3VyeE5kVktLclRESC1yaXZaOFotOTJGcHBUV0MxcWZMR2FBaGRxLUFSdWRnVHpla09FZkl6cVhkOEE1MkxrbUlSelllaW95bG9ySVNsRQ?oc=5",
-     "source": "ABC7 Los Angeles",
-     "published": "2026-11-08T01:46:40+00:00",
-     "summary": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul&nbsp;&nbsp;ABC7 Los Angeles",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19wQk5DTjdOYzJmdHRxRmZzTHZGbEN4T25DMHBTUDNwb0lfZHNXb0d1SHFFWVFKcTBDQXJIcjZlZ3VMc2xlV3FNdG90d3pTZG9SNzBrLTFMY3BNYUoxcXcxeWwycnNuYjlrVXpFNFhXWUhSdEdmdkJFSmVYTkxIQjNNUEhlM3F0TW9rc2NiQ29wN3kxS1hDMENHeXdlZFNQMVU4MlRxWVpadmJiOFFtelVrNTNkSGdlQUlDZXRaa1ZsakdYQi00c1d0Q3HSAdIBQVVfeXFMT210MmFVZEp5c2laRmFOUzhyRTJlV29iNUNqQk9mVUVVdWhXMkE0alhXSWRrQ2Z2ckNidnluRzVFdzlCWXVWbExOZWVTbElJODFUQUpnNmUwcktyS2EwUUt3ZlRhS0o2c2F4cEJaS0RreWhwejJwaWxxVFJhLThsSXpodFd1NDczVVpmWDJnYlNzZTRmNUxyVHZfSlotajNoQXdUbTRKMWpoN19pTzZxWFcxdWRWLVEyN3EzcTFOQkVwb050bXVmUGZkSjAzbkhkcld3?oc=5",
+     "source": "ABC7 Bay Area",
+     "published": "2026-11-08T01:22:08+00:00",
+     "summary": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul&nbsp;&nbsp;ABC7 Bay Area",
      "image": ""
     },
     {
@@ -312,19 +320,11 @@
      "published": "2026-11-07T22:32:41+00:00",
      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injuredTom Rose, the US ambassador to Poland, wrote on X:We",
      "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
-    },
-    {
-     "title": "New Zealand\u2019s election results are too close to call",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTJja18wY0QwT2N1eVlYSUxLaHg5bkxadjEwdXQxM016SG9kR1BSc2hIbGxYMy1ZMUZUdlJ3eGN3dGhTNGIzb1FCUDFSektURGszUDlrZzhjQUpuRzRSSnhrc2JfbXExaG1PMjNXRVkxYnlhUjNlNHBQQUVmTkl5LXVhOXNJYWpCNzJ5OG5ncEQxOXNneGFmWFRYaUhGZw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-07T22:30:00+00:00",
-     "summary": "New Zealand\u2019s election results are too close to call&nbsp;&nbsp;The Washington Post",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T02:39:25.275315+00:00",
+   "fetched_at": "2026-11-08T03:09:29.587669+00:00",
    "stale": false,
    "items": [
     {
