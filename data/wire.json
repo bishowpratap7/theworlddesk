@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-08T17:11:56.712115+00:00",
+ "generated_at": "2026-11-08T17:42:00.270979+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T17:11:56.712086+00:00",
+   "fetched_at": "2026-11-08T17:42:00.270952+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Collision of two trains in Egypt kills at least seven",
+     "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+     "source": "The Guardian",
+     "published": "2026-11-08T17:19:39+00:00",
+     "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from CairoAt least seven people were killed and more than 100 others injured w",
+     "image": "https://i.guim.co.uk/img/media/a808842b1a53e7fd3b532b97395cca77e503ac74/368_99_4436_3549/master/4436.jpg?width=140&quality=85&auto=format&fit=max&s=51a17381a25777a029d4c199d691e2b4"
+    },
+    {
+     "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T17:11:52+00:00",
+     "summary": "Israel&#039;s president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
+     "image": ""
+    },
     {
      "title": "Photos: Diwali celebrations light up India and its global diaspora",
      "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
@@ -14,12 +30,20 @@
      "image": ""
     },
     {
-     "title": "Atletico Madrid vs Barcelona: La Liga live",
+     "title": "LIVE: Atletico Madrid vs Barcelona \u2013 La Liga",
      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-08T17:00:00+00:00",
      "summary": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football&#039;s La Liga.",
      "image": ""
+    },
+    {
+     "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
+     "url": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+     "source": "France 24",
+     "published": "2026-11-08T16:59:42+00:00",
+     "summary": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its a",
+     "image": "https://s.france24.com/media/display/3a894976-db94-11f1-846b-bf1914cabd52/w:1024/p:16x9/EN-20261108-171056-171236-CS.jpg"
     },
     {
      "title": "India\u2019s \u2018cockroach\u2019 movement seeks to restore culture of accountability",
@@ -30,11 +54,19 @@
      "image": ""
     },
     {
+     "title": "Gadi Eisenkot receives mandate to form government",
+     "url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+     "source": "France 24",
+     "published": "2026-11-08T16:58:11+00:00",
+     "summary": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now ha",
+     "image": "https://s.france24.com/media/display/608ffe0e-db93-11f1-85ef-d18c5759e759/w:1024/p:16x9/EN-20261108-160801-161121-CS.jpg"
+    },
+    {
      "title": "Fan hospitalised after falling through stand at Norwegian football match",
      "url": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-08T16:53:03+00:00",
-     "summary": "A stand at the away end of Tromso&#039;s stadium gave way during a match against Bodo/Glimt, causing fans to fall through.",
+     "summary": "A stand in the away end of Tromso&#039;s stadium gave way during a match against Bodo/Glimt, causing fans to fall through.",
      "image": ""
     },
     {
@@ -62,14 +94,6 @@
      "image": ""
     },
     {
-     "title": "Collision of two trains in Egypt kills at least four",
-     "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-     "source": "The Guardian",
-     "published": "2026-11-08T16:38:57+00:00",
-     "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from CairoAt least four people were killed and almost 90 others were injured w",
-     "image": "https://i.guim.co.uk/img/media/a808842b1a53e7fd3b532b97395cca77e503ac74/368_99_4436_3549/master/4436.jpg?width=140&quality=85&auto=format&fit=max&s=51a17381a25777a029d4c199d691e2b4"
-    },
-    {
      "title": "Met Office issues weather warning as UK conditions create \u2018perfect recipe\u2019 for fog",
      "url": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
      "source": "The Guardian",
@@ -92,43 +116,27 @@
      "published": "2026-11-08T16:31:54+00:00",
      "summary": "Four killed, 88 injured in train collision in Egypt",
      "image": ""
-    },
-    {
-     "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-     "source": "NPR",
-     "published": "2026-11-08T16:30:16+00:00",
-     "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
-     "image": ""
-    },
-    {
-     "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
-     "url": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
-     "source": "\u00a9 Kieran Cleeves, OIS/IOC via AP",
-     "published": "2026-11-08T16:21:34+00:00",
-     "summary": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil, FRANCE 24 looks b",
-     "image": "https://s.france24.com/media/display/32d96078-db74-11f1-b6c9-bf1914cabd52/w:1024/p:16x9/AP26310471490191.jpg"
-    },
-    {
-     "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-     "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T16:18:09+00:00",
-     "summary": "Abed Abou Shhadeh says his detention was part of Israel&#039;s political measures &#039;to intimidate Arab society as a whole&#039;.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T17:11:56.712100+00:00",
+   "fetched_at": "2026-11-08T17:42:00.270965+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Rosstat hack: data suggests over 390,000 Russian deaths in Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXVsdWRhRmVQZnBUMFVob0dxNFJ1TUgybVN3WmJmeWlCeE5uTmw5TmU5T1pTWS1OczJrM2FGUFFNUFhvbEs3OXc2R1JmczBHVWYxZjZWQU1obDNfZDJqcHZ3Z2lnX3otMTVZQ1JnY2ZMV0ExRmVTVnVGQUJZeGxJNjA3VXh6cy1XU2c4Tm9JTkwtdmZaVm41dTBkUFJ6TWN6X1g5ZWl3bXduODlLc2tNSXhVUQ?oc=5",
-     "source": "Euronews.com",
-     "published": "2026-11-08T17:04:07+00:00",
-     "summary": "Rosstat hack: data suggests over 390,000 Russian deaths in Ukraine war&nbsp;&nbsp;Euronews.com",
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFlkZDFqdlJjOXNhdkxmSjd4aXcwQ0VuSy1iUXpNODZDMlV4LVg0WlZhN3VhN3cxX29WNUlJYm9mbDFobjNrRHNfTnJUT0ZCZUJ1YVZaeEJWWEtibWZ0S0NUVFYxV2dhRVdsLXhMc3RCM21pVmEwdjdUZUJpRU9kQnNNcEljQ3JMa2dZRGJTZTJqVm5YT3NuMmwtdlV4SjhoMER5T1owRlhEQQ?oc=5",
+     "source": "Post Register",
+     "published": "2026-11-08T17:18:54+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;Post Register",
+     "image": ""
+    },
+    {
+     "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T17:11:52+00:00",
+     "summary": "Israel&#039;s president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
      "image": ""
     },
     {
@@ -138,6 +146,22 @@
      "published": "2026-11-08T17:03:11+00:00",
      "summary": "Russia Says Hit Power Substations in Ukraine and 3 Ships in Black Sea&nbsp;&nbsp;The Moscow Times",
      "image": ""
+    },
+    {
+     "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
+     "url": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+     "source": "France 24",
+     "published": "2026-11-08T16:59:42+00:00",
+     "summary": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its a",
+     "image": "https://s.france24.com/media/display/3a894976-db94-11f1-846b-bf1914cabd52/w:1024/p:16x9/EN-20261108-171056-171236-CS.jpg"
+    },
+    {
+     "title": "Gadi Eisenkot receives mandate to form government",
+     "url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+     "source": "France 24",
+     "published": "2026-11-08T16:58:11+00:00",
+     "summary": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now ha",
+     "image": "https://s.france24.com/media/display/608ffe0e-db93-11f1-85ef-d18c5759e759/w:1024/p:16x9/EN-20261108-160801-161121-CS.jpg"
     },
     {
      "title": "Israeli opposition leader warns of \u2018point of no return\u2019 for democracy",
@@ -180,14 +204,6 @@
      "image": ""
     },
     {
-     "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3d1Wkh2MmJfNHQ0MUFKQi1DQVV4U3dQc1gxOFZqU1hvS19EZDc0aGU4YkVkUmpDYTQyVUl1Sjh3TzJIZ3ZVa0hmWjh0QmthZnhvaHBXWTAzTTVEeE96MnlIazlnQkNhaGlVYzZ5RVFKeEdCQXpMT2Q5LVBfd0NWOXlBQmFLUm1UUlVudnBxWXZ6V1FjYW9UbFRGdVVRcEQ4TnAtdDl5WWpKSUhYbzV5MnNHWGU3QkNTd1JfdjlUUmc2QQ?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-08T15:44:58+00:00",
-     "summary": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield&nbsp;&nbsp;WSJ",
-     "image": ""
-    },
-    {
      "title": "Russian data leak reveals death toll in Ukraine",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTEtRV9yZzVSaHpWNEFPS01fSEFydmw4TTlYcUNudTBmNE5YaWltbmZiRXFqSHNXOUxyalNDLWxxZGJwOHNYMzFmb0EyZUhNaEhhaE1RMFVXdV91TnQ4d2FqUU05ZnFlSjlPMW8wVUxrd0sta2FBMkN6ekNOS0NIdV9uc3ZYMkJvRi12WTBCQnRSN08yUFQ4WEI1T0NDVjQ?oc=5",
      "source": "The Telegraph",
@@ -196,41 +212,81 @@
      "image": ""
     },
     {
-     "title": "Israel\u2019s president picks Yashar leader Gadi Eisenkot to form government",
-     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-     "source": "The Guardian",
-     "published": "2026-11-08T14:26:14+00:00",
-     "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu\u2019s coalition lost its majorityIsrael\u2019s president has \u2060chosen Gadi Eisenkot, the prime minister Benj",
-     "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=140&quality=85&auto=format&fit=max&s=a900eb5d96def2c3cc51c767660e3a47"
-    },
-    {
-     "title": "Yemen's humanitarian crisis worsens",
-     "url": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens",
-     "source": "France 24",
-     "published": "2026-11-08T14:22:14+00:00",
-     "summary": "One month into the Yemeni government's offensive against the Iran-aligned Houthis, fighting continues to escalate along the Red Sea coast. Meanwhile, the humanitarian crisis is wor",
-     "image": "https://s.france24.com/media/display/61e95800-db7e-11f1-961e-d18c5759e759/w:1024/p:16x9/EN-20261108-140416-140658-CS.jpg"
-    },
-    {
-     "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTZ5ZjQxbUR2dE5VdlpGbnJfWkgxSnlMQkt3NjFNUERsaVhndWJncEU5Rm5vYThnUVlSOG1QYjVwVkVhM3dEdUwzV3VOcGVpOWZyWUV3Z09tSmF5aktQTHo2d1pTdHIyY3ZBaUZKRjdUaTVLMU1VcmhrNXpscnBaeFlVYXNQajdabF9VdDlMQWZFYXhDOUkxckIzM0pGUE91QlJua3ctRHM0OGNWdE5jNWQ0aXB3TGJzNUNKd2JTQQ?oc=5",
-     "source": "France 24",
-     "published": "2026-11-08T14:16:31+00:00",
-     "summary": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says&nbsp;&nbsp;France 24",
+     "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3d1Wkh2MmJfNHQ0MUFKQi1DQVV4U3dQc1gxOFZqU1hvS19EZDc0aGU4YkVkUmpDYTQyVUl1Sjh3TzJIZ3ZVa0hmWjh0QmthZnhvaHBXWTAzTTVEeE96MnlIazlnQkNhaGlVYzZ5RVFKeEdCQXpMT2Q5LVBfd0NWOXlBQmFLUm1UUlVudnBxWXZ6V1FjYW9UbFRGdVVRcEQ4TnAtdDl5WWpKSUhYbzV5MnNHWGU3QkNTd1JfdjlUUmc2QQ?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-08T15:34:31+00:00",
+     "summary": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield&nbsp;&nbsp;WSJ",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T17:11:56.712104+00:00",
+   "fetched_at": "2026-11-08T17:42:00.270968+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Serbia's Parliament to meet on Nov. 17 after student-led movement won election over strongman Vucic",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSDJTWXdyUFF2Z0xmcmNYeDJsLU9uVjQ2WlBKbDVIb2c0dFR2OEJPZEFuN21IT214UmFPSHhTMmpqTFprVV9EczdvN0otWUg1bzJlQUVnTF9Yb3A0TnNRR20xX1dQdzRvcEQzd0ZzZUxqTmlIb3p1aGJCV3ZZY2FqRlJpUThGcURnUnUtZ2p4VlVXaDUyQ0dhYmVnV1FPM1FNZ2ZmZWhFeVVSSmRlb21jeDNLSTNveHBOd2dHektPS2xZcEZwWlhLOGRIZXVpalhyTll4Z2dDUTVVTWZUekE?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-08T17:33:53+00:00",
+     "summary": "Serbia's Parliament to meet on Nov. 17 after student-led movement won election over strongman Vucic&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Is settler violence Israeli policy or extremism \u2014 and would a new leader bring change?",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1Exb2NhMFhRb3ZXTVBQSnpZY01Yby1KM0U2X25qUlAtcXhTLV9qZHJ6WktKMms0bTJZZEw4bXlsZy1hVWZIeVhTR2tCYTA2RGQ0MjBzU3JTTkhydzBqenJiclRJSEQwdHk3NDdVeGthOTZsNUJNdEpNNXlmaTF1aGVJY3RqUTV0b2psTEpBcEFRRDVBM3FTZ0xScXlxdnlZSlo1LXlFOGxPU0ZxQWJXMlFoLWJ0b2MzODNR?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-08T17:32:29+00:00",
+     "summary": "Is settler violence Israeli policy or extremism \u2014 and would a new leader bring change?&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "How a Mississippi election came down to the clerk\u2019s office",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2VSeEJuZUZtTThnRjdWREI1VXZFV3AtenhQR2taM2FrMXFaN2xRbDhaVVdCdTlsSnZfYTdPMWZUMFZYejRnX3ZEZTN2TUJKRU4yMTdhblZlVDdLbFBvbWJaQ2lEUzFRTllDcWNMOXJJVUhsXzl4RnpUYkg2T18yV0xCOFA3b0xrLUpqT040R0tMMU5EQUY2cEpxNVE3UQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-08T17:32:24+00:00",
+     "summary": "How a Mississippi election came down to the clerk\u2019s office&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "US Midterms Results Present 'Real Moment for Change'",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3g5OGZVMk5zUHpoZzYzS0pVRTlWeEFJVTJ4TjZJX05iS1BlNnFSYUtTRVZCaVF3YXY4Rjd0S0lqZV9OcmxCSUwzMjRsYTNVbHV3dndUYVo1R3NNaXZUbFNDRThfZFd2OHd0dDB3Rmszbzl6SExsVkpvVGlYQ0Fudi0xZ3J3RXc?oc=5",
+     "source": "Tech Policy Press",
+     "published": "2026-11-08T17:23:12+00:00",
+     "summary": "US Midterms Results Present 'Real Moment for Change'&nbsp;&nbsp;Tech Policy Press",
+     "image": ""
+    },
+    {
+     "title": "Collision of two trains in Egypt kills at least seven",
+     "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+     "source": "The Guardian",
+     "published": "2026-11-08T17:19:39+00:00",
+     "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from CairoAt least seven people were killed and more than 100 others injured w",
+     "image": "https://i.guim.co.uk/img/media/a808842b1a53e7fd3b532b97395cca77e503ac74/368_99_4436_3549/master/4436.jpg?width=140&quality=85&auto=format&fit=max&s=51a17381a25777a029d4c199d691e2b4"
+    },
+    {
+     "title": "Top stories: Snack recall. Valley election results. Is Starving Artist closed? Grocery tenant",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0UmxVeUdpNC1hVVJEUHJGOHNVTGpZSXhPbmkySGxBeUpsSm1oeGtOMTVDV01QdUVCY1Vta1BYSTZrNWxPWUQ1SlAxV1hHUXB2MmtfVm5rUm01LVBQb0ttNThJbFkwZnNGZWfSAWpBVV95cUxQaWtMWkJoTVdpSWhQbW4tSVAxZDB6U0hfLXBmNS1IX193a05RYWdTT2N5Q0VqSUg1OGg0Nk5Id0pmaTVMWHVNeG9vcUI0QTlhU2tqM1NZR3ZZb2VLbHItY1BUNUtraS0zQTVB?oc=5",
+     "source": "Fresno Bee",
+     "published": "2026-11-08T17:14:53+00:00",
+     "summary": "Top stories: Snack recall. Valley election results. Is Starving Artist closed? Grocery tenant&nbsp;&nbsp;Fresno Bee",
+     "image": ""
+    },
     {
      "title": "Opinion | Election deniers lost. So did election doomers.",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWpkZlktU2lKczN4bzYzZ3FHZk9NdGtFRnBFNTczdk1wQ24xZHFxUExfekRJc01ZN0o2OHltdTF2aS1RRXgweWZ4V2t4V2ZXbjFmN096cVFHOEEwZ09ldVdhS19hamNOUXNvS1QtOF9ndFVmNzhIV0p5ZWszR0dzb2p6OW43UEVqeFdFZw?oc=5",
      "source": "The Washington Post",
      "published": "2026-11-08T17:04:20+00:00",
      "summary": "Opinion | Election deniers lost. So did election doomers.&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Election results in Brazil, Serbia, Israel and US renew faith in resilience of democracy",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPalRWQlNzbi1pZXp1ZDA5X0hBbUFjRkgwamdpYXROUFE1SkFnekYxdFJtTFpWZDlkbmdZYjBqQk1xRFFfVUlpMUFFTHNFSjFmQVJuMmJURWpvRmp0VXFLUnVkVWcwSmdMV203cndPclZvSFpHMTdibkJ3UGlNbFd3RXpsTTkydHRGYzdmVVd5b2ZiV3hfWXB4Y3lDSHZvRzRiWXNkMVF1OWpVYTBLM3F0YmNRSzU5ZjAyTEVuMW9TNGJISFh2V0g2N2dtLTM4X0tMdGNyUnA5aw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-08T17:04:00+00:00",
+     "summary": "Election results in Brazil, Serbia, Israel and US renew faith in resilience of democracy&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
@@ -242,19 +298,11 @@
      "image": ""
     },
     {
-     "title": "Is settler violence Israeli policy or extremism \u2014 and would a new leader bring change?",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1Exb2NhMFhRb3ZXTVBQSnpZY01Yby1KM0U2X25qUlAtcXhTLV9qZHJ6WktKMms0bTJZZEw4bXlsZy1hVWZIeVhTR2tCYTA2RGQ0MjBzU3JTTkhydzBqenJiclRJSEQwdHk3NDdVeGthOTZsNUJNdEpNNXlmaTF1aGVJY3RqUTV0b2psTEpBcEFRRDVBM3FTZ0xScXlxdnlZSlo1LXlFOGxPU0ZxQWJXMlFoLWJ0b2MzODNR?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-08T16:59:23+00:00",
-     "summary": "Is settler violence Israeli policy or extremism \u2014 and would a new leader bring change?&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3o2eFZkekpBRXNYdktqb2JoT2N5MklUYS1KakpENWdUWUxqaWpSMVRXM3NodXA1aG1JY3JTbDBfTHhleUd4aV9Rd1NiMTJFNmtnRjBYWkpJLUthMGN5aGk3Sk1lanNHY2Fwc2Q2THlvZ0hlbTBxdTVxTEVNa0NaLUEtTVR3cHNZQmhBS0hSTTNnaU1pUkE2QXU5dFUzbHB5bjZhZ1Jha0dXX0JPY3VQbTdTZEJVY3RwcExyczJ5NA?oc=5",
      "source": "NPR",
      "published": "2026-11-08T16:46:15+00:00",
-     "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for",
+     "summary": "No clear winner in New Zealand election, as leaders prepare for weeks of talks&nbsp;&nbsp;NPR",
      "image": ""
     },
     {
@@ -272,59 +320,11 @@
      "published": "2026-11-08T16:40:00+00:00",
      "summary": "Big money lost. Incumbents won. Portland's progressive coalition emerges stronger.&nbsp;&nbsp;OregonLive.com",
      "image": ""
-    },
-    {
-     "title": "Collision of two trains in Egypt kills at least four",
-     "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-     "source": "The Guardian",
-     "published": "2026-11-08T16:38:57+00:00",
-     "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from CairoAt least four people were killed and almost 90 others were injured w",
-     "image": "https://i.guim.co.uk/img/media/a808842b1a53e7fd3b532b97395cca77e503ac74/368_99_4436_3549/master/4436.jpg?width=140&quality=85&auto=format&fit=max&s=51a17381a25777a029d4c199d691e2b4"
-    },
-    {
-     "title": "Trump Amplifies Midterm Election Claims Questioning Democratic Victories",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOVNZMERwaUhaa09Zd3JtcnpobmpRcENvRGZKWWxCYTBoZ3A3b3JSSjNjLV9PTS10dnJ5ZXNLcnFDOXFmYXFWU2Q5VTZCV0RnQXhlMjdidFFzYjdIdFlyWkNpQVVERk9nTlFKaDl2SWhZRjJfYUNwbnRLaC1hWlA1YzFuVzlzZGpDMm5od19hVkdOVjhJN3ZEMzJsbG54Y19UcXF3aWRSNzc4cHNZRHlqRXhDTDZubzJJY2FaUHRLX19taWd6WTFNMXBmS1pMWEVIMTNiMzNFSndFaTQ0YW9j?oc=5",
-     "source": "Forbes",
-     "published": "2026-11-08T16:36:56+00:00",
-     "summary": "Trump Amplifies Midterm Election Claims Questioning Democratic Victories&nbsp;&nbsp;Forbes",
-     "image": ""
-    },
-    {
-     "title": "Former Madison mayor, Republican strategist discuss Wisconsin election results",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVVl5UFMyX3FBU0NSZld2U0ZKN2tjVktoV25uZnZ3Mmt0TnR5d3k5bGltRjN2bm1RUFd4el9HSWNXeENDUnU5QjFkc29EMldzcEZwR1hRSzY2RFd3Skd0bmptLTNFSk9LTDJxcFlQUnFybS1RSUlEckpyb2t5MnpkbS1fb0RsWG5tdk5NQzhnN0ltZk13MWR3aFY1MlZmUGw4N1RLYmsyNWg3NGpUcVZ6ZDFQai01QWdLTXdVRG9FSkNBVURWSGlISWxGVHhKQ0d0N0VqczU0LW1MaFY0dy0waVBNRWh6a19EdnZ1anJ4NlpIQQ?oc=5",
-     "source": "Channel 3000",
-     "published": "2026-11-08T16:35:00+00:00",
-     "summary": "Former Madison mayor, Republican strategist discuss Wisconsin election results&nbsp;&nbsp;Channel 3000",
-     "image": ""
-    },
-    {
-     "title": "Marquette Law School poll director talks election results",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0ZVNXhCNXZJdHpVSGF3Ti01MXZVdFM4d1luNE51c1BNcW1RTktjblB0c1pLT2RZMVhOU2QzUXpEOGF0c0ZKdnR3X2hkdWxKeVlGcU1EUTlINmd0SWdQWU5zQThBS3dOT09YWTVMZ0dtMTBHemRGSXVJQjJueElJdUVpcEdhUGdvbnpGbGZHWl9ramNNTHVqa1VMMVdYTGtDZExxOWM3WW1zRm1OVEpNYmpOb0twM0lseEFUOWVPS1pZS3hHVVhWQWZRSmJmN1hwQXdVby1ZQQ?oc=5",
-     "source": "Channel 3000",
-     "published": "2026-11-08T16:34:00+00:00",
-     "summary": "Marquette Law School poll director talks election results&nbsp;&nbsp;Channel 3000",
-     "image": ""
-    },
-    {
-     "title": "Oklahoma Chronicle: Analyzing midterm election results and how Democrats should feel",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPak8yVjJONXJYWk1ob3FZaWRnRnJTNTU1SC1xbzBjd04xal9UNENGcUFQMWVNYXhRUE1fU3h0QVdxV0E3SkdURVlXZV9CLTBjMUFZTG9DeHlnems2NGJMeG1VQmpYVHg3bnZEcGZmYUhnS3BpOFp4RUk3dTdTSmVfNnhlMGxfUQ?oc=5",
-     "source": "KOCO",
-     "published": "2026-11-08T16:31:00+00:00",
-     "summary": "Oklahoma Chronicle: Analyzing midterm election results and how Democrats should feel&nbsp;&nbsp;KOCO",
-     "image": ""
-    },
-    {
-     "title": "Oklahoma Chronicle: Experts analyze the midterm election results",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFJRM1lXNW1yS0VESTRWdmliWTFMM05WNldKejVmTWFBOHZkdTNZR0ZsMFFCZ0tSLUE2SzFVT3hOLXFXVS1zc0hmOF8ydEtQVG1DcHJTMmtqaEJJZE03REhDS3pGNXV2QWNyNnBuV1p2LXFFRzR0bEhUVl9hMEg0d0F3OGNyR0Z4NWdrRDljYw?oc=5",
-     "source": "KOCO",
-     "published": "2026-11-08T16:30:00+00:00",
-     "summary": "Oklahoma Chronicle: Experts analyze the midterm election results&nbsp;&nbsp;KOCO",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T17:11:56.712106+00:00",
+   "fetched_at": "2026-11-08T17:42:00.270971+00:00",
    "stale": false,
    "items": [
     {
