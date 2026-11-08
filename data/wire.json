@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-08T01:39:16.685120+00:00",
+ "generated_at": "2026-11-08T02:09:21.564239+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T01:39:16.685089+00:00",
+   "fetched_at": "2026-11-08T02:09:21.564210+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "What we know so far after Krakow gun attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-08T01:47:41+00:00",
+     "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
     {
      "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results \u2018too close to call\u2019",
      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
@@ -44,14 +52,6 @@
      "published": "2026-11-07T23:45:45+00:00",
      "summary": "Israel&#039;s president asked opposition leader Gadi Eisenkot to form the next gov&#039;t over Prime Minister Benjamin Netanyahu.",
      "image": ""
-    },
-    {
-     "title": "What we know so far after Krakow gun attack",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T22:58:49+00:00",
-     "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
     },
     {
      "title": "Gunmen kills six in Krakow, three more bodies found at his house",
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T01:39:16.685105+00:00",
+   "fetched_at": "2026-11-08T02:09:21.564225+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T01:39:16.685109+00:00",
+   "fetched_at": "2026-11-08T02:09:21.564228+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T01:39:16.685111+00:00",
+   "fetched_at": "2026-11-08T02:09:21.564231+00:00",
    "stale": false,
    "items": [
     {
