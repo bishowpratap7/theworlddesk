@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-08T16:11:48.370166+00:00",
+ "generated_at": "2026-11-08T16:41:52.170321+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T16:11:48.370138+00:00",
+   "fetched_at": "2026-11-08T16:41:52.170292+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Collision of two trains in Egypt kills at least four",
+     "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+     "source": "The Guardian",
+     "published": "2026-11-08T16:38:57+00:00",
+     "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from CairoAt least four people were killed and almost 90 others were injured w",
+     "image": "https://i.guim.co.uk/img/media/a808842b1a53e7fd3b532b97395cca77e503ac74/368_99_4436_3549/master/4436.jpg?width=140&quality=85&auto=format&fit=max&s=51a17381a25777a029d4c199d691e2b4"
+    },
+    {
+     "title": "Met Office issues weather warning as UK conditions create \u2018perfect recipe\u2019 for fog",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
+     "source": "The Guardian",
+     "published": "2026-11-08T16:38:16+00:00",
+     "summary": "Travel may be disrupted until Monday morning in areas including most of southern England and across MidlandsThe Met Office has said weather conditions in the UK are creating a \u201cper",
+     "image": "https://i.guim.co.uk/img/media/11c393589c9223777c86027befaea0a93646249f/806_0_2730_2184/master/2730.jpg?width=140&quality=85&auto=format&fit=max&s=6c54255041e70caa31cee0586d92f574"
+    },
+    {
+     "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+     "source": "NPR",
+     "published": "2026-11-08T16:30:16+00:00",
+     "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+     "image": ""
+    },
+    {
+     "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+     "url": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+     "source": "\u00a9 Kieran Cleeves, OIS/IOC via AP",
+     "published": "2026-11-08T16:21:34+00:00",
+     "summary": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil, FRANCE 24 looks b",
+     "image": "https://s.france24.com/media/display/32d96078-db74-11f1-b6c9-bf1914cabd52/w:1024/p:16x9/AP26310471490191.jpg"
+    },
+    {
+     "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+     "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T16:18:09+00:00",
+     "summary": "Abed Abou Shhadeh says his detention was part of Israel&#039;s political measures &#039;to intimidate Arab society as a whole&#039;.",
+     "image": ""
+    },
     {
      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
@@ -76,53 +116,29 @@
      "published": "2026-11-08T14:36:25+00:00",
      "summary": "In Tuesday\u2019s US midterm elections, voters weighed in on more than 40 local measures on data centres, and sided against them in all but one. With Democrats taking control of Congres",
      "image": "https://s.france24.com/media/display/4636e71a-db80-11f1-a6d8-d18c5759e759/w:1024/p:16x9/EN-WB-TECH24-MIDTERMS-DATA-CENTRE-FALLOUT.png"
-    },
-    {
-     "title": "What we know so far after Krakow gun attack",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-08T14:32:52+00:00",
-     "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
-    },
-    {
-     "title": "Israel\u2019s president picks Yashar leader Gadi Eisenkot to form government",
-     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-     "source": "The Guardian",
-     "published": "2026-11-08T14:26:14+00:00",
-     "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu\u2019s coalition lost its majorityIsrael\u2019s president has \u2060chosen Gadi Eisenkot, the prime minister Benj",
-     "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=140&quality=85&auto=format&fit=max&s=a900eb5d96def2c3cc51c767660e3a47"
-    },
-    {
-     "title": "Yemen's humanitarian crisis worsens",
-     "url": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens",
-     "source": "France 24",
-     "published": "2026-11-08T14:22:14+00:00",
-     "summary": "One month into the Yemeni government's offensive against the Iran-aligned Houthis, fighting continues to escalate along the Red Sea coast. Meanwhile, the humanitarian crisis is wor",
-     "image": "https://s.france24.com/media/display/61e95800-db7e-11f1-961e-d18c5759e759/w:1024/p:16x9/EN-20261108-140416-140658-CS.jpg"
-    },
-    {
-     "title": "Poland in shock after 6 killed in Krakow far-right shooting",
-     "url": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
-     "source": "France 24",
-     "published": "2026-11-08T14:21:18+00:00",
-     "summary": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the",
-     "image": "https://s.france24.com/media/display/5cea55f2-db7e-11f1-bd0a-695cb59fade5/w:1024/p:16x9/EN-20261108-150134-150232-CS.jpg"
-    },
-    {
-     "title": "French skipper wins Route du Rhum",
-     "url": "https://www.france24.com/en/french-skipper-wins-route-du-rhum",
-     "source": "France 24",
-     "published": "2026-11-08T14:20:04+00:00",
-     "summary": "French sailor Tom Laperche has won the Route du Rhum, setting a new record in the transatlantic yacht race. The 29-year-old crossed the finish line in Guadeloupe on his first attem",
-     "image": "https://s.france24.com/media/display/83ffbb5a-db7e-11f1-adef-d18c5759e759/w:1024/p:16x9/EN-20261108-150723-150909-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T16:11:48.370152+00:00",
+   "fetched_at": "2026-11-08T16:41:52.170307+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Met Office issues weather warning as UK conditions create \u2018perfect recipe\u2019 for fog",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
+     "source": "The Guardian",
+     "published": "2026-11-08T16:38:16+00:00",
+     "summary": "Travel may be disrupted until Monday morning in areas including most of southern England and across MidlandsThe Met Office has said weather conditions in the UK are creating a \u201cper",
+     "image": "https://i.guim.co.uk/img/media/11c393589c9223777c86027befaea0a93646249f/806_0_2730_2184/master/2730.jpg?width=140&quality=85&auto=format&fit=max&s=6c54255041e70caa31cee0586d92f574"
+    },
+    {
+     "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+     "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T16:18:09+00:00",
+     "summary": "Abed Abou Shhadeh says his detention was part of Israel&#039;s political measures &#039;to intimidate Arab society as a whole&#039;.",
+     "image": ""
+    },
     {
      "title": "Russian data leak reveals death toll in Ukraine",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTEtRV9yZzVSaHpWNEFPS01fSEFydmw4TTlYcUNudTBmNE5YaWltbmZiRXFqSHNXOUxyalNDLWxxZGJwOHNYMzFmb0EyZUhNaEhhaE1RMFVXdV91TnQ4d2FqUU05ZnFlSjlPMW8wVUxrd0sta2FBMkN6ekNOS0NIdV9uc3ZYMkJvRi12WTBCQnRSN08yUFQ4WEI1T0NDVjQ?oc=5",
@@ -132,11 +148,27 @@
      "image": ""
     },
     {
+     "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
+     "source": "AP News",
+     "published": "2026-11-08T15:18:00+00:00",
+     "summary": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
      "title": "Ukraine\u2019s new frontier: how space has become critical to balance of the war",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkZpTkpTUFloaEYzNGFPNzJ4NW1yZVNRbVlKTU1mcmxNMW4xc3k5ZnBHTVRaODI5S0ZzWjNQWmEycktDSUlERjhMU1pYb0lNRThfM1lsejBYOXpVNkFaUGxQTmRWUGE1dDhadU5yVDBDT0xvZUFLbGtZQWRCSlZNdS1RNEdsMWt4ZzZ4UEFXa0ZJcjE1OENicm1xbXhTZG8?oc=5",
      "source": "The Guardian",
      "published": "2026-11-08T15:13:00+00:00",
      "summary": "Ukraine\u2019s new frontier: how space has become critical to balance of the war&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3d1Wkh2MmJfNHQ0MUFKQi1DQVV4U3dQc1gxOFZqU1hvS19EZDc0aGU4YkVkUmpDYTQyVUl1Sjh3TzJIZ3ZVa0hmWjh0QmthZnhvaHBXWTAzTTVEeE96MnlIazlnQkNhaGlVYzZ5RVFKeEdCQXpMT2Q5LVBfd0NWOXlBQmFLUm1UUlVudnBxWXZ6V1FjYW9UbFRGdVVRcEQ4TnAtdDl5WWpKSUhYbzV5MnNHWGU3QkNTd1JfdjlUUmc2QQ?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-08T15:04:30+00:00",
+     "summary": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield&nbsp;&nbsp;WSJ",
      "image": ""
     },
     {
@@ -186,145 +218,113 @@
      "published": "2026-11-08T13:55:57+00:00",
      "summary": "Europe will be represented at U.S.-mediated Ukraine talks in Abu Dhabi: France&nbsp;&nbsp;The Hindu",
      "image": ""
-    },
-    {
-     "title": "erdogan-discusses-us-iran-tensions-ukraine-war-with-trump-2026 Archives",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDZiNVdEVGJSSzF3OUgyTlkwU1ZRRlVHblo1OXhHclh2eTduV185SmM0YmFvN3FLSng5NXEydDNuU2hjN252aU41aGRHOGVfUXRqTjAtemQtbWZPdVB0OUNvN1FraUwwNTUtOVhGNjVLbzMya1NrQ3EtVXlobjI2el9NUVo5Vm1LQ1V3YkVhX0MxZw?oc=5",
-     "source": "TV ONE USA",
-     "published": "2026-11-08T13:55:56+00:00",
-     "summary": "erdogan-discusses-us-iran-tensions-ukraine-war-with-trump-2026 Archives&nbsp;&nbsp;TV ONE USA",
-     "image": ""
-    },
-    {
-     "title": "Germany Cannot Abandon Ukraine. This Is Why",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHhHRThyS3A0V2gzd0tLUm1MSzRfWUozQXZIZHZHanFUR0gtQjZJV1hNd1NZZlhWZk02UGR1cG4yN0QtcjhuSjVaVjhHb245XzFEU3VkSlpnSENzcHEwblRtTDNrM1ozRDFERjJzVmxQT3BSTFhweEtTeTZYN0p4cTNNaG4xUQ?oc=5",
-     "source": "The National Interest",
-     "published": "2026-11-08T13:55:07+00:00",
-     "summary": "Germany Cannot Abandon Ukraine. This Is Why&nbsp;&nbsp;The National Interest",
-     "image": ""
-    },
-    {
-     "title": "Ukraine Strikes Four Russian Drone Command Posts, Including Elite Rubikon Unit Base",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkJneDBQWGJGU1J6Rlp1Q19wM1NFZHl0Y2JRZlJWTkJ3cmdvLXRvQndmNnBLWE9UWWI1V0RVSlh5aDZvNzh5U1o0RXg1RFllOWNKOS1hUEJmWmxUdFZSeEctRUJLbGt6UG5VeEp5NVU5R2hOS2xKaUx0X283UjkzcU9IVnFYVDdQMXpORy1FemJJY1FpSUU5NmtkV1FnUlkzcG1lSlRHSlgzc1lHblNXa0NGTmFwZzZ4dkhzdk1VZTU1WnZ1TDVXaA?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-08T13:43:37+00:00",
-     "summary": "Ukraine Strikes Four Russian Drone Command Posts, Including Elite Rubikon Unit Base&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Ukraine\u2019s Next Democratic Challenge Is Building Parties That Outlast Their Leaders",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wQUZNYmlaSXhRVFdtTGg2VHF5ODl4Q3FzbVI1Ulk2Tm5oTVY5TTRDMFNfRjR5TXo4c2dqOE9KTVk0TlpDelVDNUhUVURJeGs?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-08T13:40:49+00:00",
-     "summary": "Ukraine\u2019s Next Democratic Challenge Is Building Parties That Outlast Their Leaders&nbsp;&nbsp;Kyiv Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T16:11:48.370155+00:00",
+   "fetched_at": "2026-11-08T16:41:52.170310+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Opinion | Election deniers lost. So did election doomers.",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWpkZlktU2lKczN4bzYzZ3FHZk9NdGtFRnBFNTczdk1wQ24xZHFxUExfekRJc01ZN0o2OHltdTF2aS1RRXgweWZ4V2t4V2ZXbjFmN096cVFHOEEwZ09ldVdhS19hamNOUXNvS1QtOF9ndFVmNzhIV0p5ZWszR0dzb2p6OW43UEVqeFdFZw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-08T16:10:03+00:00",
-     "summary": "Opinion | Election deniers lost. So did election doomers.&nbsp;&nbsp;The Washington Post",
+     "title": "Collision of two trains in Egypt kills at least four",
+     "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+     "source": "The Guardian",
+     "published": "2026-11-08T16:38:57+00:00",
+     "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from CairoAt least four people were killed and almost 90 others were injured w",
+     "image": "https://i.guim.co.uk/img/media/a808842b1a53e7fd3b532b97395cca77e503ac74/368_99_4436_3549/master/4436.jpg?width=140&quality=85&auto=format&fit=max&s=51a17381a25777a029d4c199d691e2b4"
+    },
+    {
+     "title": "Former Madison mayor, Republican strategist discuss Wisconsin election results",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVVl5UFMyX3FBU0NSZld2U0ZKN2tjVktoV25uZnZ3Mmt0TnR5d3k5bGltRjN2bm1RUFd4el9HSWNXeENDUnU5QjFkc29EMldzcEZwR1hRSzY2RFd3Skd0bmptLTNFSk9LTDJxcFlQUnFybS1RSUlEckpyb2t5MnpkbS1fb0RsWG5tdk5NQzhnN0ltZk13MWR3aFY1MlZmUGw4N1RLYmsyNWg3NGpUcVZ6ZDFQai01QWdLTXdVRG9FSkNBVURWSGlISWxGVHhKQ0d0N0VqczU0LW1MaFY0dy0waVBNRWh6a19EdnZ1anJ4NlpIQQ?oc=5",
+     "source": "Channel 3000",
+     "published": "2026-11-08T16:35:00+00:00",
+     "summary": "Former Madison mayor, Republican strategist discuss Wisconsin election results&nbsp;&nbsp;Channel 3000",
      "image": ""
     },
     {
-     "title": "Serbia's Parliament to meet on Nov. 17 after student-led movement won election over strongman Vucic",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSDJTWXdyUFF2Z0xmcmNYeDJsLU9uVjQ2WlBKbDVIb2c0dFR2OEJPZEFuN21IT214UmFPSHhTMmpqTFprVV9EczdvN0otWUg1bzJlQUVnTF9Yb3A0TnNRR20xX1dQdzRvcEQzd0ZzZUxqTmlIb3p1aGJCV3ZZY2FqRlJpUThGcURnUnUtZ2p4VlVXaDUyQ0dhYmVnV1FPM1FNZ2ZmZWhFeVVSSmRlb21jeDNLSTNveHBOd2dHektPS2xZcEZwWlhLOGRIZXVpalhyTll4Z2dDUTVVTWZUekE?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-08T16:03:53+00:00",
-     "summary": "Serbia's Parliament to meet on Nov. 17 after student-led movement won election over strongman Vucic&nbsp;&nbsp;The Washington Post",
+     "title": "Marquette Law School poll director talks election results",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0ZVNXhCNXZJdHpVSGF3Ti01MXZVdFM4d1luNE51c1BNcW1RTktjblB0c1pLT2RZMVhOU2QzUXpEOGF0c0ZKdnR3X2hkdWxKeVlGcU1EUTlINmd0SWdQWU5zQThBS3dOT09YWTVMZ0dtMTBHemRGSXVJQjJueElJdUVpcEdhUGdvbnpGbGZHWl9ramNNTHVqa1VMMVdYTGtDZExxOWM3WW1zRm1OVEpNYmpOb0twM0lseEFUOWVPS1pZS3hHVVhWQWZRSmJmN1hwQXdVby1ZQQ?oc=5",
+     "source": "Channel 3000",
+     "published": "2026-11-08T16:34:00+00:00",
+     "summary": "Marquette Law School poll director talks election results&nbsp;&nbsp;Channel 3000",
      "image": ""
     },
     {
-     "title": "Is settler violence Israeli policy or extremism \u2014 and will a new leader bring change?",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1Exb2NhMFhRb3ZXTVBQSnpZY01Yby1KM0U2X25qUlAtcXhTLV9qZHJ6WktKMms0bTJZZEw4bXlsZy1hVWZIeVhTR2tCYTA2RGQ0MjBzU3JTTkhydzBqenJiclRJSEQwdHk3NDdVeGthOTZsNUJNdEpNNXlmaTF1aGVJY3RqUTV0b2psTEpBcEFRRDVBM3FTZ0xScXlxdnlZSlo1LXlFOGxPU0ZxQWJXMlFoLWJ0b2MzODNR?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-08T16:02:29+00:00",
-     "summary": "Is settler violence Israeli policy or extremism \u2014 and will a new leader bring change?&nbsp;&nbsp;The Washington Post",
+     "title": "Oklahoma Chronicle: Analyzing midterm election results and how Democrats should feel",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPak8yVjJONXJYWk1ob3FZaWRnRnJTNTU1SC1xbzBjd04xal9UNENGcUFQMWVNYXhRUE1fU3h0QVdxV0E3SkdURVlXZV9CLTBjMUFZTG9DeHlnems2NGJMeG1VQmpYVHg3bnZEcGZmYUhnS3BpOFp4RUk3dTdTSmVfNnhlMGxfUQ?oc=5",
+     "source": "KOCO",
+     "published": "2026-11-08T16:31:00+00:00",
+     "summary": "Oklahoma Chronicle: Analyzing midterm election results and how Democrats should feel&nbsp;&nbsp;KOCO",
+     "image": ""
+    },
+    {
+     "title": "Reviewing the Florida midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZDJsVmFMT2lnVHRnaXpObG9uUC1nRmd1NE93aDVDNGN1LW1zRHVxY2dPY3FrXzZaUXY0aTA3VjNhVDExTXQxd2liM1M4QmJ0WTVhRHpOZDlObVFSenR1SVJSQVJ6UkdmLXhrRFN4ejgtNmVHQkI5LWx6WE1qZkNBaG9iVm5kdw?oc=5",
+     "source": "Bay News 9",
+     "published": "2026-11-08T16:30:00+00:00",
+     "summary": "Reviewing the Florida midterm election results&nbsp;&nbsp;Bay News 9",
+     "image": ""
+    },
+    {
+     "title": "Oklahoma Chronicle: Experts analyze the midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFJRM1lXNW1yS0VESTRWdmliWTFMM05WNldKejVmTWFBOHZkdTNZR0ZsMFFCZ0tSLUE2SzFVT3hOLXFXVS1zc0hmOF8ydEtQVG1DcHJTMmtqaEJJZE03REhDS3pGNXV2QWNyNnBuV1p2LXFFRzR0bEhUVl9hMEg0d0F3OGNyR0Z4NWdrRDljYw?oc=5",
+     "source": "KOCO",
+     "published": "2026-11-08T16:30:00+00:00",
+     "summary": "Oklahoma Chronicle: Experts analyze the midterm election results&nbsp;&nbsp;KOCO",
+     "image": ""
+    },
+    {
+     "title": "Oklahoma Chronicle: How should Democrats feel about midterm election results?",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMnZxREdMUTA1dVFCRDNkNExRbk5XWFhVNGNCQ2tKWDRUTDdvLThJQ3FsR0ZSRElLQlI3UUMwR3NwQk1XSGVmUy1waHY5SUp2RHBveDZNRnpBdkFvc2tvTjJmdGNJVU5xckU2NDhBVlVWOG5zOW5IMUFJd2RrMmxjbjB6b0JFZ3pHNkxmdWh3S1BDeWs?oc=5",
+     "source": "KOCO",
+     "published": "2026-11-08T16:30:00+00:00",
+     "summary": "Oklahoma Chronicle: How should Democrats feel about midterm election results?&nbsp;&nbsp;KOCO",
      "image": ""
     },
     {
      "title": "How a Mississippi election came down to the clerk\u2019s office",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2VSeEJuZUZtTThnRjdWREI1VXZFV3AtenhQR2taM2FrMXFaN2xRbDhaVVdCdTlsSnZfYTdPMWZUMFZYejRnX3ZEZTN2TUJKRU4yMTdhblZlVDdLbFBvbWJaQ2lEUzFRTllDcWNMOXJJVUhsXzl4RnpUYkg2T18yV0xCOFA3b0xrLUpqT040R0tMMU5EQUY2cEpxNVE3UQ?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-08T16:02:24+00:00",
+     "published": "2026-11-08T16:26:38+00:00",
      "summary": "How a Mississippi election came down to the clerk\u2019s office&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
-     "title": "11 TV Hill: Election results\ufeff stun country. What it all means",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUo5cEVTNjBSeTRkNU9RWXdwbURTeDB0V1JDUGpNUHQzSFVKd2lsSGJFT19EZFNpMHN5NTByWUt4bFFpdUtHY0xqMnpCM2VGVTRQUXEzc1VtRDc3Xzk1MTZfOFBReG8yNTZMc0I1bXhrQlZKcU83NnNITWtIYkk5S3dUYXZGbkp5V0E1dVlUaWphazh0dWlwWVJn?oc=5",
-     "source": "WBAL-TV",
-     "published": "2026-11-08T16:00:00+00:00",
-     "summary": "11 TV Hill: Election results\ufeff stun country. What it all means&nbsp;&nbsp;WBAL-TV",
+     "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+     "url": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+     "source": "\u00a9 Kieran Cleeves, OIS/IOC via AP",
+     "published": "2026-11-08T16:21:34+00:00",
+     "summary": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil, FRANCE 24 looks b",
+     "image": "https://s.france24.com/media/display/32d96078-db74-11f1-b6c9-bf1914cabd52/w:1024/p:16x9/AP26310471490191.jpg"
+    },
+    {
+     "title": "Forget the 2026 Midterm Election Results. Warren Buffett's Advice Makes This ETF a No-Brainer Buy",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelg2bHk3SXJzNXFqRUVGckQtTURQblJ4Z0E1ZmxvdFJBUDU3VXc1RXM2RWNZeXJYdkhCMlF5V1FhaktoSGxLRXBCVGhMVVo2Rk90WHpfZS0xQllfUkJERVZIbWhVN21FOEF5Ql9xSGtxY1hXQzVpZUpWSUlQNDJhb3VwQnJ2MW9IbEJsOU9HNVNoNVl0WWQ3emlPb3dMODNaNFNJ?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-11-08T16:20:02+00:00",
+     "summary": "Forget the 2026 Midterm Election Results. Warren Buffett's Advice Makes This ETF a No-Brainer Buy&nbsp;&nbsp;Yahoo Finance",
      "image": ""
     },
     {
-     "title": "11 TV Hill: Mayor on election results, agency for neighborhood safety",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXR3UU54VDk1d3JGanBSQ0FFck5HZ3Q0RVpMS2ZyWThoSnJrclpvaXdmRVVFZTR4dmJsX2JiMVZkNXp3RzR3cWxiRGVLUGctdzA1bTZaejJ5U2JSVFpjRkR0VFpfSENLcnZxOHlhVllraXBncDJMdmhIT01tdno0OThOUFM0SzdRTDdTNjZzdFQxcGZOTDZTaEdoemxLdTVreDA0ZVR3?oc=5",
-     "source": "WBAL-TV",
-     "published": "2026-11-08T16:00:00+00:00",
-     "summary": "11 TV Hill: Mayor on election results, agency for neighborhood safety&nbsp;&nbsp;WBAL-TV",
+     "title": "Eisenkot vows \u2018unusual and creative\u2019 steps to form new Israeli government amid post-election uncertainty",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2JCaXhydkY5dTVmUzZqT1Y2Szc1c0FKTHJFNkhJc3lmR1FDQ0djQ3hwTXk2WTBxcWVsLXB6cWpWUC04RV9ydEt2NTZfMWc1aGxFa1N5RGhjNXZpbWkyZ19xMEp0TndJelhfT2x4aU4zVnFWMllIb2RwWHpUaHdhUzBROFpDUzlMNk1pUEZUQXdLc2tkdk93SThTUG5iMFlRNlhNeldR?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-08T16:15:00+00:00",
+     "summary": "Eisenkot vows \u2018unusual and creative\u2019 steps to form new Israeli government amid post-election uncertainty&nbsp;&nbsp;NBC News",
      "image": ""
     },
     {
-     "title": "Commentary: You can still affect who wins a close election in NC",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmNwbGhNbkhIaHRUT2JYU0ZoZU82bjAtTmV5SHVvMkJoYl9WU2hNRFJFVEpnQ2diazlnaVRyLW1BVmJURzk0d2xfODlPTHdtTG1DaEd6cDF0aXFwTFc2eWprLTUzb3ZJZ1A2bDRCNDRzem1CcEd5ckhzT2NaaHdmSFN1OEZ1ZkFtTm9LNExUQmU?oc=5",
-     "source": "NC Newsline",
-     "published": "2026-11-08T15:59:38+00:00",
-     "summary": "Commentary: You can still affect who wins a close election in NC&nbsp;&nbsp;NC Newsline",
-     "image": ""
-    },
-    {
-     "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUR1OENrOVNKVjY2Tk1PYnU1RXViV1M1bDd5am9vckJwNXU0ZFBLLVNEOG81cmJTdVJIdm9ZOGtLbTV1UWlLWlo4V2x3RVFCVHZFQ2pGWUxvZFpacDdpTzctck9vRkNqQS1vVmtTVW5pYWRkQjlDeEFiZmNsbTN4TDJsaGdGOE5wbDhINXZIeU9XUUk?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-08T15:54:15+00:00",
-     "summary": "For Trump and America, a Clear Election Verdict but a Murky Future&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Progressives in Congress Can Now Sway Funding, Investigations, Health Policy",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3doeUhQbm5SdE5VWlRWZFFwUG05U1R2QnF6NTJlVFJyRUxGeERUTnZMZlZNZ2dtVGxFcTc2dGEtZ1M4cENJRnFuejVINjdtbFpKdTV1U2ttTUVPbWotN2RkSTZTRWRxSVhFXzBKLUpCTHh2NU1yV280bms3azdQMGRxMmVJS1hLcVJnQ3BubFRodjBKS2VfUXZGTEo2Y1dDZ195SEZsZ3ZKRnA2LUdpWV9obDhFNzBBbkNlSml3a1BFNVB6VzIxVg?oc=5",
-     "source": "YES! Magazine",
-     "published": "2026-11-08T15:35:40+00:00",
-     "summary": "Progressives in Congress Can Now Sway Funding, Investigations, Health Policy&nbsp;&nbsp;YES! Magazine",
-     "image": ""
-    },
-    {
-     "title": "UPFRONT: Election night breakdown",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tSkpVWFdlcjgySmp0OXktc3p4T09fNXZ1c2h3TmtpeTF4ekQxUkdNMV90TjJsMU9MVzJZWXA3R1lYQzZ1SkFzeERDR052dms4TzNqbTA5S0czLUJZZzQ3NzR5N1dqRmpQSFZGX0M3bWdPcXRBc3FUZDJB?oc=5",
-     "source": "WISN",
-     "published": "2026-11-08T15:34:34+00:00",
-     "summary": "UPFRONT: Election night breakdown&nbsp;&nbsp;WISN",
-     "image": ""
-    },
-    {
-     "title": "'On the Record' Review of 2026 general election results in Florida",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZVlJNXpFV1FYT0g5ejRQVWRuWjNqd3B6QkFDRmhIeUhlUUJZSGZzVFllQnhVUnhpVkU2U1N2OVNyWENoanlXYmlTNTNCR3hwQ2VvMWtSTk5nRWl0NVppcnRPbEQ0Qk1OQmtjQm0taGp0dlZ1eGZxeU9RS01NTDRra09wYXR6Mms2MlhKSmxEMnRKSExOXzlkVnhIZENIejJxTW9WVA?oc=5",
-     "source": "WPBF",
-     "published": "2026-11-08T15:30:00+00:00",
-     "summary": "'On the Record' Review of 2026 general election results in Florida&nbsp;&nbsp;WPBF",
-     "image": ""
-    },
-    {
-     "title": "Election Reflection",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBULTNwU1dIcF9BNFg0XzdpZUM4S2QtNFY5Y2swOXpSVnYtWi1oN3BYLW9ENTlxY3BQdE8tR0xUaWZHczAwOUx5dW9hMVk1T0l2Ti1lSlNiM3dNcHcyVUp3SUdR?oc=5",
-     "source": "Jared Bernstein | Substack",
-     "published": "2026-11-08T15:22:17+00:00",
-     "summary": "Election Reflection&nbsp;&nbsp;Jared Bernstein | Substack",
+     "title": "Channel 9\u2019s Tom Terry remembers 2006 Election Day tornado",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDlUc0ZHa2N2elhzZzR0OEowOTY0QVRNMklCZV9lSHhRNmNUY1J0T2JOX2t0MmZiZTA0bnZhNWV0X09qWW1pVkJZREVpa0plNlZUaGpaTC1hRlFvSS1HNVJROG1mZ2F1TnBmMlowRjBBNkZ4WW1PZHMycXBZeElMR0dadEtZaVJWSW92eXc3LVYxbU40eHQ5MmdjYURNZ0pST2QteHBZTFdsSHVPeFJrNXhCVG43dVHSAcsBQVVfeXFMT1dFVjBaT25naUM5TkY5U0FpUDFiQlA2cWJMYm5DYzJTZlpmb0otVlZkVnlnaHc3SUZKNTFaV0paRks0NHpNVTc1RFJTdldTclkxY3dyc0RnT1p0eU90T0d4QldMSk1aT0MtZjlRVFdLQWNsZ3JMbnE2X3hWQ3ZMeUM4UkZMTGYtVEhKN2hHRDI1MDJLQTVJcnZLR2JVbUNYY09aWHRsTWM0Uk15WE9QLTFoMXlSS2hKN2lHak1zdEVzR204Z0wzOThEcGc?oc=5",
+     "source": "WFTV",
+     "published": "2026-11-08T16:12:32+00:00",
+     "summary": "Channel 9\u2019s Tom Terry remembers 2006 Election Day tornado&nbsp;&nbsp;WFTV",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T16:11:48.370158+00:00",
+   "fetched_at": "2026-11-08T16:41:52.170312+00:00",
    "stale": false,
    "items": [
     {
