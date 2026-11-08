@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-08T04:09:51.031402+00:00",
+ "generated_at": "2026-11-08T04:39:54.860494+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T04:09:51.031370+00:00",
+   "fetched_at": "2026-11-08T04:39:54.860457+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Earthquake hits central Japan, injuring more than 20 people",
+     "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T04:20:57+00:00",
+     "summary": "The magnitude 5.7 quake hit Shizuoka prefecture, and authorities warn of possible strong aftershocks in coming days.",
+     "image": ""
+    },
     {
      "title": "Houthis say at least 33 killed in Saudi air strike",
      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
@@ -108,21 +116,29 @@
      "published": "2026-11-07T22:47:06+00:00",
      "summary": "A chilling new discovery in Poland, where three bodies have reportedly been found inside the Krakow gunman's home. That's in addition to six people killed and sixteen wounded when ",
      "image": "https://s.france24.com/media/display/3454c354-daeb-11f1-8b85-bf1914cabd52/w:1024/p:16x9/AP26311723511956.jpg"
-    },
-    {
-     "title": "Krak\u00f3w shooting latest updates: six killed and more than a dozen injured \u2013 as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-07T22:32:41+00:00",
-     "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injuredTom Rose, the US ambassador to Poland, wrote on X:We",
-     "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T04:09:51.031387+00:00",
+   "fetched_at": "2026-11-08T04:39:54.860477+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Earthquake hits central Japan, injuring more than 20 people",
+     "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T04:20:57+00:00",
+     "summary": "The magnitude 5.7 quake hit Shizuoka prefecture, and authorities warn of possible strong aftershocks in coming days.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine war briefing: Russia ramping up attacks to \u2018pressure\u2019 Kyiv at trilateral talks, Zelenskyy says",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcUNkN1dXbGpGRnRSY193SHRBd3FtbHY4LTVJcy1Uc1c4d2J2Z2RhckRyajA3ZjBNbkduNC14RGc4UWN3THZmT1V2ekQ0VV9WTHF3RHp1Q19uODVyV2xEMjhYYzMtMVg1X0M2aHh3cXhrOGc5Rld3T0piSUxEa1JnOWFBNnlZbGFCbDRzanA5M3ZhQU9DczVVenV5c2syZzBLY05OUEZlVXVDcDBsUGNTbUFhaTRuV0FEZlUyd2dTV0dNcGZDSG9IOUc1QmVRZ3RuWFkwdjRicmxLbUFG?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-08T04:10:00+00:00",
+     "summary": "Ukraine war briefing: Russia ramping up attacks to \u2018pressure\u2019 Kyiv at trilateral talks, Zelenskyy says&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
     {
      "title": "Houthis say at least 33 killed in Saudi air strike",
      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
@@ -202,29 +218,53 @@
      "published": "2026-11-07T22:32:08+00:00",
      "summary": "Zelenskyy accuses Russia of escalating strikes ahead of peace talks&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-07T22:19:59+00:00",
-     "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
-     "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
-     "source": "NPR",
-     "published": "2026-11-07T22:12:09+00:00",
-     "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T04:09:51.031391+00:00",
+   "fetched_at": "2026-11-08T04:39:54.860481+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "What happens to political campaign signs after Election Day in Hampton Roads?",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPOVFHdGJCeDRnQlJET1hMUkpqV1VfRnpMUmx4VWJOVWxCMmR5b0hVSUxaSVhZTWYwUzhjbkQtdHoybWY5ZGR6Mi1qN1FoYXY0UWIyS1YyOFowTnVpM2VlbU1MNkFHQ2YxLU9wLS1QX3pRTmM5RU94a29GSnJ3VGJvWWtVd0NuOUg2S09zdW1IT2R4b3pQZ2wxMHlkOFppT2FacTNUZlFqZ2NnQmlLeHU0dmVZNEtodFZQVDZVY1BxMHhZSXREdFRuR1psMVp4MDRDWVpQZmFwT19GTXROSUM2dWp0ejhDVzUweUFfR2ZQR0NuOEliXzRMcnhZSmlwdFJXa21NQl9R?oc=5",
+     "source": "13newsnow.com",
+     "published": "2026-11-08T04:30:00+00:00",
+     "summary": "What happens to political campaign signs after Election Day in Hampton Roads?&nbsp;&nbsp;13newsnow.com",
+     "image": ""
+    },
+    {
+     "title": "Inside the Hinds County, Mississippi, election office",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHZMMG9HNnh5YndXLTB5cXJEeFZaS3pCTy1EUlY5QlFmdVRJRXJmcURFSnFHcnFwMGVRNDhZLTJ1VUlrRXk1VkVTV2tLQ0ZxdzRkcS1hTkVZMHNvdVFWeXRDVWwzenBsaFRuNDdwWWFWRVZiUjczOThVWXIzaWd2a19rdFFURUxHcnd5eDNvWHRnS05HdWZSZXphMnNXd2VFeEFId3AteEctek8xRnc?oc=5",
+     "source": "CNN",
+     "published": "2026-11-08T04:29:00+00:00",
+     "summary": "Inside the Hinds County, Mississippi, election office&nbsp;&nbsp;CNN",
+     "image": ""
+    },
+    {
+     "title": "Rochester voters respond to the Midterm Election Results",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOXBEeUNQSUxYa1kzTW5EMXFmWE01V28wWGYza0hYTlBkRGZlcWpXajExMVZ6cFh0UENZaktOMjFYQmFlUFFKV29aeDgxT3FkTkZHVGlieE4zWXNQWVVzNElRZUlXN3BkSkswWUlEaXpIdDcwVW50cWR2SEFPOFFOR19OUFhNZ2hwb1V1c2lzbU9WVnYzck5zN1Q1cGNsczR0SzFRMk9xSHh5ZW9vay1kY296RzVMd3dIVDliOXVZM0NrR0dnQUlsa0tmYVZoX2hZQm5xcWg3dUNNSFA4TUxSVzFHeGJHZmxNSE0yY2szSGNOWGZy?oc=5",
+     "source": "13WHAM-TV",
+     "published": "2026-11-08T04:26:13+00:00",
+     "summary": "Rochester voters respond to the Midterm Election Results&nbsp;&nbsp;13WHAM-TV",
+     "image": ""
+    },
+    {
+     "title": "What happens to campaign signs after Election Day",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeERNQWxvYmNZT0hOaWFaTWRkblRWaDlMb2FEejdLQjcyQkpZSzRfQ0ZvTlo4M3NCVmI0d2RDQWxvV2RCbFBiVFpaclZxWXZZZWhsMzNfeW1IZDRUVFAwS1lxVEk5TnJIQWtTTGVVbEFIWmdXa0lJM0N4TXNGRTJZcEp2Z1NzWmt4QnVtQjJQSHBQZy13aEh1aU9iUlhFajBfcUNpdnQ0aU5rU0ZHT0o1U01QbFZlWEdVR0VieVJRcGhNQ2RMbDBwbmlkejBaX1RnWmV4UWxfdG5hOFNjOUI0?oc=5",
+     "source": "13newsnow.com",
+     "published": "2026-11-08T04:20:00+00:00",
+     "summary": "What happens to campaign signs after Election Day&nbsp;&nbsp;13newsnow.com",
+     "image": ""
+    },
+    {
+     "title": "Midterm Elections Live Updates: Democrats\u2019 Lead in Mississippi Senate Race Grows",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-08T04:16:00+00:00",
+     "summary": "Midterm Elections Live Updates: Democrats\u2019 Lead in Mississippi Senate Race Grows&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
     {
      "title": "Who won New Zealand\u2019s photo-finish election and why special votes could change everything",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSTdQanFIc2JhdHhHQ0F2X1FWU0RNU0RwaFN1SWV5YWc3T21jcGNTOFJ5VV9SemNXUFlKYWJrelQtQU5GQ1h3ZEp5TFNXQ0I4TmhEWTZSR2lGeEJyam44N2dOSGJVT1pkVER2NzA2MkZWbHdZQmdCTmZpaWwzWXdOVlMxenNWejVaWlFDZTJ0d0pWd2lJZHFPT2hiNDVMMmZoZzJ1RndlQ1NzbEVpS1pVOFBOTW1OTjVaamc?oc=5",
@@ -280,51 +320,11 @@
      "published": "2026-11-08T02:00:00+00:00",
      "summary": "Election Drubbing Complicates Vance\u2019s Calculation on Whether to Run in 2028&nbsp;&nbsp;WSJ",
      "image": ""
-    },
-    {
-     "title": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19wQk5DTjdOYzJmdHRxRmZzTHZGbEN4T25DMHBTUDNwb0lfZHNXb0d1SHFFWVFKcTBDQXJIcjZlZ3VMc2xlV3FNdG90d3pTZG9SNzBrLTFMY3BNYUoxcXcxeWwycnNuYjlrVXpFNFhXWUhSdEdmdkJFSmVYTkxIQjNNUEhlM3F0TW9rc2NiQ29wN3kxS1hDMENHeXdlZFNQMVU4MlRxWVpadmJiOFFtelVrNTNkSGdlQUlDZXRaa1ZsakdYQi00c1d0Q3HSAdIBQVVfeXFMT210MmFVZEp5c2laRmFOUzhyRTJlV29iNUNqQk9mVUVVdWhXMkE0alhXSWRrQ2Z2ckNidnluRzVFdzlCWXVWbExOZWVTbElJODFUQUpnNmUwcktyS2EwUUt3ZlRhS0o2c2F4cEJaS0RreWhwejJwaWxxVFJhLThsSXpodFd1NDczVVpmWDJnYlNzZTRmNUxyVHZfSlotajNoQXdUbTRKMWpoN19pTzZxWFcxdWRWLVEyN3EzcTFOQkVwb050bXVmUGZkSjAzbkhkcld3?oc=5",
-     "source": "ABC7 Bay Area",
-     "published": "2026-11-08T01:22:08+00:00",
-     "summary": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul&nbsp;&nbsp;ABC7 Bay Area",
-     "image": ""
-    },
-    {
-     "title": "COP31: World leaders must break fossil fuels\u2019 grip on climate policy and people\u2019s futures.",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHBCV2dSLTVZaXBhamsyNnJRYVJiUUVmQ2Rfc212US1GSEdQTEp1bnViNzhDbllUZkhfYXh0bFVTeDM4NEdpbFRGNUpjcFVjV0lBTlNZek5aaEh2S04zS2VZcmpMU2ZPcktnaWl4c29NU3dPUTg0YlY4ck1NQzI0VVVOYWh0YjdjbU5PQURkbkdRS3lQQnN3N0JaZXBFNFNBY0ZzZ3JKUlVwVmhZODRIVXNfYlU?oc=5",
-     "source": "Amnesty International",
-     "published": "2026-11-08T01:00:00+00:00",
-     "summary": "COP31: World leaders must break fossil fuels\u2019 grip on climate policy and people\u2019s futures.&nbsp;&nbsp;Amnesty International",
-     "image": ""
-    },
-    {
-     "title": "After Democrats won big during midterm election, Chicago supporters rally for 'productive change'",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTHk2NHdERFFiZ3h2S3lTZHY5NVdPSl91V25fYi1WdFBnTjRFdEdVbFFFWFRfcUtUaGdKcHBLYnVfbUZzZU5jSkNPNk1USUg1T3c2Y1NiellIMVUtdnREOWl4T1JOZTJLemc4TURVX1dENzZuUFNzNnBiNWVHbzNDM296T0lDeUs1X0dESmM1MFFEeWhKanpaVHd2YUY1OThEcXBkNm1ZcXZfMmxjZXV3cjNXcVREbWF6ZDZtVnlVT0NjZFV3UGtvWVBKbnB1cjFqRV82TVhfZFB3SVU?oc=5",
-     "source": "Chicago Sun-Times",
-     "published": "2026-11-08T00:59:00+00:00",
-     "summary": "After Democrats won big during midterm election, Chicago supporters rally for 'productive change'&nbsp;&nbsp;Chicago Sun-Times",
-     "image": ""
-    },
-    {
-     "title": "Polish PM calls deadly Krakow shooting an act of \u2018terrorism\u2019",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T00:50:28+00:00",
-     "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of \u2018terrorism\u2019.",
-     "image": ""
-    },
-    {
-     "title": "Weekly Wonk: Oklahomans made their voices heard. The next step belongs to all of us | The votes are counted. Now the real work begins | More",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tQkU4U1hxMUV5azdDNDVYa3dhdXh2VmRtdzREMHd0enprVWpoYkk3cVVLUGVWTGJSVERqdF9JbEg4ekVnSjhGQkRvbU9kU0VZUVpoeTNYaw?oc=5",
-     "source": "Oklahoma Policy Institute",
-     "published": "2026-11-08T00:44:43+00:00",
-     "summary": "Weekly Wonk: Oklahomans made their voices heard. The next step belongs to all of us | The votes are counted. Now the real work begins | More&nbsp;&nbsp;Oklahoma Policy Institute",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T04:09:51.031393+00:00",
+   "fetched_at": "2026-11-08T04:39:54.860484+00:00",
    "stale": false,
    "items": [
     {
