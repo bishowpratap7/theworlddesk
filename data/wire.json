@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T02:09:21.564239+00:00",
+ "generated_at": "2026-11-08T02:39:25.275327+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T02:09:21.564210+00:00",
+   "fetched_at": "2026-11-08T02:39:25.275295+00:00",
    "stale": false,
    "items": [
     {
@@ -38,7 +38,7 @@
      "image": "https://i.guim.co.uk/img/media/4de3f4de1a517d63098209ff6451d828346e519e/407_0_4066_3253/master/4066.jpg?width=140&quality=85&auto=format&fit=max&s=4965429b9c28af04599748c5247ec451"
     },
     {
-     "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+     "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-08T00:00:56+00:00",
@@ -120,23 +120,23 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T02:09:21.564225+00:00",
+   "fetched_at": "2026-11-08T02:39:25.275310+00:00",
    "stale": false,
    "items": [
     {
      "title": "Russo-Ukrainian war, day 1719: Russia digs tunnels on Kherson\u2019s occupied bank while Ukraine rolls out bigger ground robots",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUEwya19RTlhzZGt6aFZXOVJlOS0xVEM4Z1c2M2ZCYVJVSTJwM3pqM1dnSGtJY0pGR0RMbFpyZ0Q2RGU4RFdnZlBZeC03cXpQdVc1a2FVakw2QnQ3bElpQ2hLSWU4VUVJTTZIVVB2NFdibmdHTWVrdEljV3lnT1RxY3FCU09JNmplM2duejRTLV9XeUdKTDdGWXJnYnpLTG5nUURZNl9uR3J1OHZBbU9yN0hJMkUxQ21nOUl5X3l2QXUxSVpScVNEdHliRGJXc016bE1uTkhma0V5ak84azFzbnN5blhLSmFQaXI2LTlYTTY?oc=5",
      "source": "Euromaidan Press",
-     "published": "2026-11-08T01:26:05+00:00",
+     "published": "2026-11-08T02:23:59+00:00",
      "summary": "Russo-Ukrainian war, day 1719: Russia digs tunnels on Kherson\u2019s occupied bank while Ukraine rolls out bigger ground robots&nbsp;&nbsp;Euromaidan Press",
      "image": ""
     },
     {
      "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMWpCam94U3otaGVHZncxbEZrUV84anA0UC1CUmhOcVgzNUVlek44VGZydkoxMDhRYkFTR2o2ZEhyT1VfREltUlhPdUcyZVpJcEc0WmxLNXVBeTQzUEdXYVgyVHdvUTBsVG1OOUpqMXVEMWVDQzV6SlUxZFlOM25GcEJqUFpYYWZqNEtFVTluQm9KbFdDVHZlelNPTlZfX3NJalphS3JIOENsWk5LSjNRMWZTNDZ5WE5reGNocWRhUkotTGY0Q1hjejlwMXZzWGR1ZEc5eklwZ2lKcFcwYUJoZlVXNG9XUkJRQk4wa21TM3ZXUW5qaVd1RVNoVQ?oc=5",
-     "source": "The Killeen Daily Herald",
-     "published": "2026-11-08T00:37:09+00:00",
-     "summary": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US&nbsp;&nbsp;The Killeen Daily Herald",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+     "source": "AP News",
+     "published": "2026-11-08T00:37:00+00:00",
+     "summary": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US&nbsp;&nbsp;AP News",
      "image": ""
     },
     {
@@ -148,7 +148,7 @@
      "image": ""
     },
     {
-     "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+     "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-08T00:00:56+00:00",
@@ -196,14 +196,6 @@
      "image": ""
     },
     {
-     "title": "Jean-Luc M\u00e9lenchon raises Ukraine peace deal in campaign speech",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNejhlTlRsQ3ZabnNXNHM5RnpOVUpEZXAtLUFTOG5BcXo3NWZza0xpZ2NGWnhjREtNM2F1bFg0T1JfMEd3OWkzU2MtOUFJNG53aEdPNFFRY1hvXzQ5LUJZUDhTaURHQ2hhOWdvS09WTlNVTVNrNXNTbDEwaVJSazZGYmJCRzYtZzZzQXN3YXk1UDhGNTZDVEZsc1FCUFZTc1R1Rnhrakx6ZFZDWkRlWTdXQV8tOWFpejlzSFl6UVJ2Vk5CeFVOTktyQ3d3?oc=5",
-     "source": "Le Monde.fr",
-     "published": "2026-11-07T21:04:53+00:00",
-     "summary": "Jean-Luc M\u00e9lenchon raises Ukraine peace deal in campaign speech&nbsp;&nbsp;Le Monde.fr",
-     "image": ""
-    },
-    {
      "title": "M\u00e9lenchon promises action against Israeli annexation if elected President",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
      "source": "Al Jazeera",
@@ -218,28 +210,36 @@
      "published": "2026-11-07T20:49:49+00:00",
      "summary": "One bridge stood between Russia\u2019s armored columns and Kyiv in 2022 \u2014 two Ukrainian engineers gave their lives to stop them in one of war\u2019s most crucial battles&nbsp;&nbsp;Euromaida",
      "image": ""
+    },
+    {
+     "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+     "url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+     "source": "\u00a9 Jim Watson, AFP",
+     "published": "2026-11-07T20:45:45+00:00",
+     "summary": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his M",
+     "image": "https://s.france24.com/media/display/1699b72c-dadf-11f1-8689-d18c5759e759/w:1024/p:16x9/000-C4336TP.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T02:09:21.564228+00:00",
+   "fetched_at": "2026-11-08T02:39:25.275313+00:00",
    "stale": false,
    "items": [
     {
-     "title": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19wQk5DTjdOYzJmdHRxRmZzTHZGbEN4T25DMHBTUDNwb0lfZHNXb0d1SHFFWVFKcTBDQXJIcjZlZ3VMc2xlV3FNdG90d3pTZG9SNzBrLTFMY3BNYUoxcXcxeWwycnNuYjlrVXpFNFhXWUhSdEdmdkJFSmVYTkxIQjNNUEhlM3F0TW9rc2NiQ29wN3kxS1hDMENHeXdlZFNQMVU4MlRxWVpadmJiOFFtelVrNTNkSGdlQUlDZXRaa1ZsakdYQi00c1d0Q3HSAdIBQVVfeXFMT210MmFVZEp5c2laRmFOUzhyRTJlV29iNUNqQk9mVUVVdWhXMkE0alhXSWRrQ2Z2ckNidnluRzVFdzlCWXVWbExOZWVTbElJODFUQUpnNmUwcktyS2EwUUt3ZlRhS0o2c2F4cEJaS0RreWhwejJwaWxxVFJhLThsSXpodFd1NDczVVpmWDJnYlNzZTRmNUxyVHZfSlotajNoQXdUbTRKMWpoN19pTzZxWFcxdWRWLVEyN3EzcTFOQkVwb050bXVmUGZkSjAzbkhkcld3?oc=5",
-     "source": "ABC7 Bay Area",
-     "published": "2026-11-08T01:21:25+00:00",
-     "summary": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul&nbsp;&nbsp;ABC7 Bay Area",
+     "title": "Election Day Fallout and Rank Choice Voting",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BRGNfNzRaWF81ODVmZFFxMFVfdnFrcGVHZ2hOZml0Zlg0MlBlMmJVcjMxeEVTanF4d0MyOEd3Nnh6cnFUR0Y3WEpmaXgtZmpfbjZfTnNnS3VybVJTckpHZ1BCU012RUJxNEV0N2RsTldmcmJqLWpZRE5n?oc=5",
+     "source": "Insider NJ",
+     "published": "2026-11-08T02:19:00+00:00",
+     "summary": "Election Day Fallout and Rank Choice Voting&nbsp;&nbsp;Insider NJ",
      "image": ""
     },
     {
-     "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results \u2018too close to call\u2019",
-     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-     "source": "The Guardian",
-     "published": "2026-11-08T01:00:48+00:00",
-     "summary": "National party will be largest in parliament but ultimate shape of next government won\u2019t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of ",
-     "image": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=030d6b177625782a5ee646ba1c1d9571"
+     "title": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGo2em9GRlB2ZGxwSWRsUzdxY1YzcDNpRDdCbUdZMy1hXzZ2d3d5ZFpHTml2alFCWXFjRnhwRmIwSXBQcnVhalpyMEFMU1NfLURWMzAtQThYR3dqcDg4bUxxYV91MnVYckJ0eTBBeG1yYW5hdktPeG1ZbGZvRlBsRFQ5dXZDcTFYdjVUOHZUSWxOZ2Rubkc3MFlmdGZhdmFxZHF5ZGpjSDVON3Z2dHBobEYzWlhORVc4SlJWbjhxNFpMTVE3Qkcw0gHMAUFVX3lxTFBqZmh5VER0cEtYMTdaWkJCd2t0SC1vem83d2l2MFh0U3hURWh6OXlySEFoOUpRUUtYTlg2aWEyV1p1X2RPaG9rNnpuSzZOY3MzUHJBUnVWdjRrMjlaWGFXaWxweVdFSEYzVURVRUdVOFlGVVZwa1ZGR3NUWDFiX3VyeE5kVktLclRESC1yaXZaOFotOTJGcHBUV0MxcWZMR2FBaGRxLUFSdWRnVHpla09FZkl6cVhkOEE1MkxrbUlSelllaW95bG9ySVNsRQ?oc=5",
+     "source": "ABC7 Los Angeles",
+     "published": "2026-11-08T01:46:40+00:00",
+     "summary": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul&nbsp;&nbsp;ABC7 Los Angeles",
+     "image": ""
     },
     {
      "title": "COP31: World leaders must break fossil fuels\u2019 grip on climate policy and people\u2019s futures.",
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T02:09:21.564231+00:00",
+   "fetched_at": "2026-11-08T02:39:25.275315+00:00",
    "stale": false,
    "items": [
     {
