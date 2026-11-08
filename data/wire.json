@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-08T00:09:05.057066+00:00",
+ "generated_at": "2026-11-08T00:39:08.942034+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T00:09:05.057032+00:00",
+   "fetched_at": "2026-11-08T00:39:08.942003+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+     "source": "The Guardian",
+     "published": "2026-11-08T00:17:28+00:00",
+     "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMsGet our daily political email, free app or daily news podcastFo",
+     "image": "https://i.guim.co.uk/img/media/4de3f4de1a517d63098209ff6451d828346e519e/407_0_4066_3253/master/4066.jpg?width=140&quality=85&auto=format&fit=max&s=4965429b9c28af04599748c5247ec451"
+    },
+    {
+     "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T00:00:56+00:00",
+     "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+     "image": ""
+    },
     {
      "title": "Eisenkot chosen over Netanyahu to form Israel\u2019s next government",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
@@ -100,29 +116,29 @@
      "published": "2026-11-07T20:44:34+00:00",
      "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump\u2019s trade war with Canada.",
      "image": ""
-    },
-    {
-     "title": "Israel\u2019s president picks Eisenkot over Netanyahu to form next government",
-     "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T20:26:58+00:00",
-     "summary": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.",
-     "image": ""
-    },
-    {
-     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-     "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-     "source": "NPR",
-     "published": "2026-11-07T20:18:18+00:00",
-     "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T00:09:05.057051+00:00",
+   "fetched_at": "2026-11-08T00:39:08.942019+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN1dzQVpZeUdLeldUMldRcEdscTY2TjdtSjVoNEt4dXpDVTJRd1FMLU1ZMHQyZFpjckpZZnJfNXdSSlladEFhbFRELWZ2alNRMDR5WnZQLUcwRGRrc01DZGlwN1FyeE1GNEZiQ3poRVFrWHRjT2M0VnY4Ti16di1RT0huNVdaZEZGTDRfSFFDUWxlUEtyeGxjVw?oc=5",
+     "source": "TelegraphHerald.com",
+     "published": "2026-11-08T00:05:16+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;TelegraphHerald.com",
+     "image": ""
+    },
+    {
+     "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T00:00:56+00:00",
+     "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+     "image": ""
+    },
     {
      "title": "Eisenkot chosen over Netanyahu to form Israel\u2019s next government",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
@@ -202,27 +218,11 @@
      "published": "2026-11-07T20:37:07+00:00",
      "summary": "Ukraine\u2019s Zaporizhzhia faces threat as Russian drones close in&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Israel\u2019s president picks Eisenkot over Netanyahu to form next government",
-     "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T20:26:58+00:00",
-     "summary": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.",
-     "image": ""
-    },
-    {
-     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-     "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-     "source": "NPR",
-     "published": "2026-11-07T20:18:18+00:00",
-     "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T00:09:05.057055+00:00",
+   "fetched_at": "2026-11-08T00:39:08.942022+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T00:09:05.057058+00:00",
+   "fetched_at": "2026-11-08T00:39:08.942025+00:00",
    "stale": false,
    "items": [
     {
