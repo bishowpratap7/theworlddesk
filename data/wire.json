@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T13:41:16.348823+00:00",
+ "generated_at": "2026-11-08T13:41:29.186192+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T13:41:16.348790+00:00",
+   "fetched_at": "2026-11-08T13:41:29.186161+00:00",
    "stale": false,
    "items": [
     {
@@ -12,14 +12,6 @@
      "published": "2026-11-08T13:24:00+00:00",
      "summary": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Ni\u00f1o supercharged by fossil fuelsThe Cop31 summit must produce progress, \u201ca tangible outcome ...",
      "image": "https://i.guim.co.uk/img/media/5864e1f794c25f06dace50bf42918bce1e0f72db/174_0_6003_4803/master/6003.jpg?width=140&quality=85&auto=format&fit=max&s=83fdd9ee72f2efe6df78f03a7cacbffe"
-    },
-    {
-     "title": "Climate change is driving Czech researchers are breeding a new variety of beer",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6023274/climate-change-is-driving-czech-researchers-are-breeding-a-new-variety-of-beer",
-     "source": "NPR",
-     "published": "2026-11-08T13:23:47+00:00",
-     "summary": "The Czech Republic is known for its beer, but hotter, drier summers are making it difficult to grow a key ingredient -- hops. Czech researchers are breeding new hop varieties to su",
-     "image": ""
     },
     {
      "title": "Women in media alleging abuse too often not protected, Lisa Nandy says",
@@ -116,11 +108,19 @@
      "published": "2026-11-08T11:53:14+00:00",
      "summary": "French police have made extensive use of tear gas during protests that have roiled France in recent weeks, sometimes causing grievous injuries. Thousands of accounts of women exper",
      "image": "https://s.france24.com/media/display/a664e012-da11-11f1-ab05-695cb59fade5/w:1024/p:16x9/000-D3LF967.jpg"
+    },
+    {
+     "title": "Polish prosecutors open terrorism investigation into Krak\u00f3w shooting",
+     "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
+     "source": "The Guardian",
+     "published": "2026-11-08T11:50:15+00:00",
+     "summary": "Six people killed in attack probably inspired by far right, according to officials, as police say gunman\u2019s parents and sister found dead at his homePolish prosecutors have opened a",
+     "image": "https://i.guim.co.uk/img/media/4bbf681557c78034b1991a39bd6e7638b55750c2/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a5414f4d195567588afa826bce4421b7"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T13:41:16.348806+00:00",
+   "fetched_at": "2026-11-08T13:41:29.186175+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T13:41:16.348811+00:00",
+   "fetched_at": "2026-11-08T13:41:29.186179+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T13:41:16.348813+00:00",
+   "fetched_at": "2026-11-08T13:41:29.186181+00:00",
    "stale": false,
    "items": [
     {
