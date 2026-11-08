@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-08T09:40:46.102061+00:00",
+ "generated_at": "2026-11-08T10:10:50.128247+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-08T09:40:46.102029+00:00",
+   "fetched_at": "2026-11-08T10:10:50.128216+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
+     "url": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T10:03:21+00:00",
+     "summary": "Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine&#039;s Marta Kostyuk replacing the top seed.",
+     "image": ""
+    },
+    {
+     "title": "Middle East live: Riyadh's financial district targeted following deadly Saudi strikes in Yemen",
+     "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+     "source": "\u00a9 Fayez Nureldine, AFP",
+     "published": "2026-11-08T09:47:36+00:00",
+     "summary": "Riyadh\u2019s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen\u2019s Houthi rebels intercepted two ballistic missiles headed for the capital",
+     "image": "https://s.france24.com/media/display/0e783f10-db4c-11f1-abfd-a575454bc579/w:1024/p:16x9/7f554331a6cdd64418e7973b0fb73c45bab02694.jpg"
+    },
+    {
+     "title": "Donald Trump wants UFC fighters as assistants",
+     "url": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
+     "source": "France 24",
+     "published": "2026-11-08T09:44:28+00:00",
+     "summary": "After a series of combative press briefings between the Trump administration and journalists, the US president surprised many by reportedly offering Dana White, the head of the Ult",
+     "image": "https://s.france24.com/media/display/ad7ce2ee-db58-11f1-b2b1-d18c5759e759/w:1024/p:16x9/EN-20261108-101159-101400-CS.jpg"
+    },
+    {
+     "title": "Gaza: Heavy rain inundates thousands of tents",
+     "url": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+     "source": "France 24",
+     "published": "2026-11-08T09:42:03+00:00",
+     "summary": "Heavy rainfall has flooded thousands of tents sheltering displaced Palestinians across the Gaza Strip, including in Deir al-Balah. Residents say overflowing sewage has mixed with t",
+     "image": "https://s.france24.com/media/display/25796fa2-db58-11f1-946f-695cb59fade5/w:1024/p:16x9/EN-20261108-100942-101123-CS.jpg"
+    },
+    {
+     "title": "Briton among six dead after gunman opens fire in Krak\u00f3w market square",
+     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+     "source": "The Guardian",
+     "published": "2026-11-08T09:30:22+00:00",
+     "summary": "Three more people found dead at home of suspect, who minister says held \u2018ultra-nationalistic\u2019 viewsSix people were killed and 16 wounded after a gunman opened fire in a busy market",
+     "image": "https://i.guim.co.uk/img/media/3d8244fe8422d5c0105861b7f544fc699f6bec58/1148_0_5909_4727/master/5909.jpg?width=140&quality=85&auto=format&fit=max&s=b7d1642fd15c5cebd5634447ffb2e131"
+    },
     {
      "title": "Democrats\u2019 congressional win could strengthen Ukraine\u2019s hand against Russia",
      "url": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
@@ -36,14 +76,6 @@
      "published": "2026-11-08T09:09:59+00:00",
      "summary": "Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.",
      "image": ""
-    },
-    {
-     "title": "Briton among six dead after gunman opens fire in Krak\u00f3w market square",
-     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-     "source": "The Guardian",
-     "published": "2026-11-08T09:09:35+00:00",
-     "summary": "Three more people found dead at home of suspect, who minister says held \u2018ultra-nationalistic\u2019 viewsSix people were killed and 16 wounded after a gunman opened fire in a busy market",
-     "image": "https://i.guim.co.uk/img/media/3d8244fe8422d5c0105861b7f544fc699f6bec58/1148_0_5909_4727/master/5909.jpg?width=140&quality=85&auto=format&fit=max&s=b7d1642fd15c5cebd5634447ffb2e131"
     },
     {
      "title": "Pope\u2019s visit to Argentina sets up showdown with \u2018hyper-capitalist\u2019 Milei",
@@ -84,45 +116,53 @@
      "published": "2026-11-08T08:56:04+00:00",
      "summary": "Filmmakers and journalists say threats on Lagos streets is making it harder to tell the city\u2019s stories.",
      "image": ""
-    },
-    {
-     "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
-     "url": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:47:36+00:00",
-     "summary": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
-     "image": ""
-    },
-    {
-     "title": "Hossam Hassan sacked as Egypt head coach over ex-wife scandal",
-     "url": "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:42:16+00:00",
-     "summary": "A series of controversies surrounding Hassan&#039;s marital life left a &#039;negative impact&#039; on the team, Egyptian FA says.",
-     "image": ""
-    },
-    {
-     "title": "US military attacks cargo ship in the Gulf of Oman",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:24:37+00:00",
-     "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
-     "image": ""
-    },
-    {
-     "title": "Mapping how France\u2019s protest wave spread across Europe",
-     "url": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:18:38+00:00",
-     "summary": "More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-08T09:40:46.102044+00:00",
+   "fetched_at": "2026-11-08T10:10:50.128230+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
+     "url": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T10:03:21+00:00",
+     "summary": "Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine&#039;s Marta Kostyuk replacing the top seed.",
+     "image": ""
+    },
+    {
+     "title": "Antipersonnel mines have returned in Ukraine and now threaten the world",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVRrRnRUbzJjUmVxN09hUXBRLUVPTzc2V2tMd0RwVHJhTkM4SzAwME9acXJOOHdYY2c0amZQVUhnejlPMzhHMGNVcWxiQVhtTjZZQXpXR0swQmlqb1BBZHBHOHh2a3BmMHZrYmVGcHFQYjhiS3M1aENPSkk0dGhuSzRvN1ZqdGVDYWhQWXN4elljeE5wMWxxOGFPMG1Fdk1MaGxfUE9GT1dROXBsWlRjS2R6cnotTTJl?oc=5",
+     "source": "New Scientist",
+     "published": "2026-11-08T10:01:35+00:00",
+     "summary": "Antipersonnel mines have returned in Ukraine and now threaten the world&nbsp;&nbsp;New Scientist",
+     "image": ""
+    },
+    {
+     "title": "Ukraine\u2019s anti-corruption agencies are undermining Trump\u2019s peace efforts, former top prosecutor alleges",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdFEwTTBFaDN5VjFsd2ZEaF9Yb3RxM2VOdndDdE1qSWhvMnRBSmwzbEcyaFhRSWRKbkx2bFdSZkhVbktkOGptNVJIUklqUFVfY18xUFY3TE9paDdDUlgxRUZfYTFIc09RZDZieUozMkFBTWxBZVhWOWw4MzF0dm0zb21hUnUzSk5Wak85MmFNVTJsd3JLOTZzZEd4UVR1TVVHSTdFbUZZUkllNVBvZzVkOUtlX3lpdXc3REVZMG1CT1huTWhoT055SU1ReWtFYk8xTHRaU181YkM?oc=5",
+     "source": "Washington Examiner",
+     "published": "2026-11-08T10:00:00+00:00",
+     "summary": "Ukraine\u2019s anti-corruption agencies are undermining Trump\u2019s peace efforts, former top prosecutor alleges&nbsp;&nbsp;Washington Examiner",
+     "image": ""
+    },
+    {
+     "title": "Middle East live: Riyadh's financial district targeted following deadly Saudi strikes in Yemen",
+     "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+     "source": "\u00a9 Fayez Nureldine, AFP",
+     "published": "2026-11-08T09:47:36+00:00",
+     "summary": "Riyadh\u2019s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen\u2019s Houthi rebels intercepted two ballistic missiles headed for the capital",
+     "image": "https://s.france24.com/media/display/0e783f10-db4c-11f1-abfd-a575454bc579/w:1024/p:16x9/7f554331a6cdd64418e7973b0fb73c45bab02694.jpg"
+    },
+    {
+     "title": "Gaza: Heavy rain inundates thousands of tents",
+     "url": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+     "source": "France 24",
+     "published": "2026-11-08T09:42:03+00:00",
+     "summary": "Heavy rainfall has flooded thousands of tents sheltering displaced Palestinians across the Gaza Strip, including in Deir al-Balah. Residents say overflowing sewage has mixed with t",
+     "image": "https://s.france24.com/media/display/25796fa2-db58-11f1-946f-695cb59fade5/w:1024/p:16x9/EN-20261108-100942-101123-CS.jpg"
+    },
     {
      "title": "Democrats\u2019 congressional win could strengthen Ukraine\u2019s hand against Russia",
      "url": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
@@ -164,67 +204,59 @@
      "image": ""
     },
     {
+     "title": "Turkish President Erdo\u011fan discusses efforts to end war in Ukraine with Trump",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlLW5DRDBvenVBZlhaWERSNnBDUk9IODVaTDBEajc0MHBmejZIRlVyVzVyNzM4SnBybUdLMUNHcEl1a0xYVEIyaEVyeUlGRVliTWwxYld1Y2VYNzNxZE5Fd1p0aXTSAXBBVV95cUxOTGVKbnZEOVFTTk94OEZFNEZOeFFscXZUVUNFOWlvaHE4dFJRY2dHTXMxXzAzcTNhZ3V6ei1ZLW1LR2ZxSG9uSGlxREU0UkFFazhZd2h3VjhiaE9Cemx1Y04zancwV2lyaGk2VmJXckxU?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+     "published": "2026-11-08T09:06:00+00:00",
+     "summary": "Turkish President Erdo\u011fan discusses efforts to end war in Ukraine with Trump&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+     "image": ""
+    },
+    {
      "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 8, 2026 from Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Oam90M3hpcWRWZjNsOEpmWXlCWkduWUhyU2NGa0JMYmxvTEtfVzNuc2ZuVktkOE80ZUxFbU9teUtOZjlMZ2haOE5rR2gyQQ?oc=5",
      "source": "Kyiv Post",
      "published": "2026-11-08T09:01:47+00:00",
      "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 8, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
      "image": ""
-    },
-    {
-     "title": "Ukraine says it downed 137 Russian drones during overnight attack",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlRjR0w2VmxDVDFwSERoZFRlSzNTUmxJbjJ2UnVwNzBJbExDczdEbW9YLXJ4V3IxeWZVMkhrdEF6cUtycjdoblMzZHdya1BIZzAyRm5kMEhZQXpnaGJLcURyM1dOWFNHbVBvbGl5ZW1OT1B3aUNKYV9QcjRrSHpzRllodXpRa3N6NTFvb1ZROA?oc=5",
-     "source": "Latest news from Azerbaijan",
-     "published": "2026-11-08T08:52:11+00:00",
-     "summary": "Ukraine says it downed 137 Russian drones during overnight attack&nbsp;&nbsp;Latest news from Azerbaijan",
-     "image": ""
-    },
-    {
-     "title": "Zaporizhzhia Nuclear Plant Loses External Power Supply, Russian-Installed Management Says",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDVRNk1LR0E1d3BaakVQRkQ4NDhFZ01SUVV4R3E1WUJKeldPX2cyVG43ay01c2dNWWdXV1hlWEFkZ3cxdEVPLTVRWjM5MWlzUVJBS2JrWkJNT2lRclhoRklMVENibEZNZDZjNVdJXzM4dXlPVHF0djk5U0xYTkJtMkRZTWpUZ0pVQkR1UkpvU280MWpqdTFjUU5rSXluMGd3TnIySjdXTk5wY3AwMmFFUlZWandFTUxkWjFtVWhqR0lLU205bDRVQ3AxcWdUYXBiZVMw?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-08T08:50:33+00:00",
-     "summary": "Zaporizhzhia Nuclear Plant Loses External Power Supply, Russian-Installed Management Says&nbsp;&nbsp;The Moscow Times",
-     "image": ""
-    },
-    {
-     "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
-     "url": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:47:36+00:00",
-     "summary": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
-     "image": ""
-    },
-    {
-     "title": "US military attacks cargo ship in the Gulf of Oman",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:24:37+00:00",
-     "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
-     "image": ""
-    },
-    {
-     "title": "War update: 199 combat engagements on front line over past day",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmc5WHlRYkdkTmNxRkhOX3VoLWFZemJOUHBsakxITnVDTW1OQVpCam1Ra1JnVllrcXJHQ0c0bEZYNjNSVkl3T0F4SDdhbVNUdmNBb2o5VkVqQ25EQi1RSmJIMkdiaUo3MjdrbFQ0V3RZbkJ1Zi1hMUtuU1R6MWxkR1VpWmJsS19LbWZ0V2ZCT09CY0R3NGZrQ2hFaEkwNW12cmR6b0JGcndIN09Hd0UwWNIBtgFBVV95cUxOWkllcklVY2YtTmpMTEV0RnZ6clhaMGhnU091RlkyaHJrTWE3dUFwS1loUnRFdTNzamI3QlNDZmZtMGZ0R3hac00tZzNOd3VlT190YmxjMVdGemJxRTlKNTJkVGlvVlhyRUh4WldVYlVua1g3NE1uLVVreXE3OUhDTjNjM0t6QzNVazVqU0s1alBLU3pzTkFpWDRnaGpsaVZHNVJGWWlkMXV5WWVXRVFFa2RUMS15dw?oc=5",
-     "source": "Ukrinform",
-     "published": "2026-11-08T08:19:00+00:00",
-     "summary": "War update: 199 combat engagements on front line over past day&nbsp;&nbsp;Ukrinform",
-     "image": ""
-    },
-    {
-     "title": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine\u2019s economy",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXVva3lQMFk2bVF1bndvVVBHWndzZW5yWVJ3bmtZdnBiTFJwOVpWZlpiS0hkdUM2TDBFcjA5N3F3V2psTmtQS1RSSlBBVHFXZzNreHNxVk1IdGxoVlFaNmp0RkVMdVpjSk9laUdaZ01jYmVWdEJYTkVJVUtxUWh4dWlyNjZvQkVkVEd0OVBndUkyYy0zSVhNT0RCckFqUjlWa054cHNsbjlrMl9hNnJVRUxYZjFhanFNWEZz?oc=5",
-     "source": "Egypt Independent",
-     "published": "2026-11-08T08:15:00+00:00",
-     "summary": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine\u2019s economy&nbsp;&nbsp;Egypt Independent",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-08T09:40:46.102049+00:00",
+   "fetched_at": "2026-11-08T10:10:50.128235+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXc0SFRFOHlaNFFyM1RSTy04UXg3b1F6eUdPVGhfLWsxS29sRGQ3U3FkUWljV2cwaUdHU1Nab3ZueVFvcENhcU9VRVU0NXJGbkRjVVdHRVYxYXJ3Szl5V3BDUTVrYzVzeUZYTHNsQW1FTW13MkJyZi1JQkRKc3RXR0tzYm82YlJmTU5GQi1PLVVmWmEwVXNhaE4yYU40N0NVRHVOM3RxbGVaUGE4YXdocndjMHF4cWs1Ynh3OQ?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-08T10:02:08+00:00",
+     "summary": "For Trump and America, a Clear Election Verdict but a Murky Future&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Election results in Brazil, Serbia, Israel and US renew faith in resilience of democracy",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPalRWQlNzbi1pZXp1ZDA5X0hBbUFjRkgwamdpYXROUFE1SkFnekYxdFJtTFpWZDlkbmdZYjBqQk1xRFFfVUlpMUFFTHNFSjFmQVJuMmJURWpvRmp0VXFLUnVkVWcwSmdMV203cndPclZvSFpHMTdibkJ3UGlNbFd3RXpsTTkydHRGYzdmVVd5b2ZiV3hfWXB4Y3lDSHZvRzRiWXNkMVF1OWpVYTBLM3F0YmNRSzU5ZjAyTEVuMW9TNGJISFh2V0g2N2dtLTM4X0tMdGNyUnA5aw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-08T10:00:00+00:00",
+     "summary": "Election results in Brazil, Serbia, Israel and US renew faith in resilience of democracy&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcmxBcm1BQzNYOUdWenV5TF9MYVFOV2xGV0Z2UXo0cVd0Tkg4M1VIaW5QaHpEM0NadVowT2tha0Rsa0pfX2dOUmZwc0JVZmkyX0NmU3ZvanZVdVk0U0pzVERZUWE3bWh6Qm9DcnhJLWNTakhuR1luVWJZYXdDazRxSnJodnMyQUFmZEs1N1hxNUthb2pkTTJPTWNCR1ozQm42VDAxNlgtWDRLc0dzdkdkTXNKRFVlQk1jYTZz0gHAAUFVX3lxTE9fS2J5VERzZENLQ3ZTM1JCNWZ4NWc5c3Qxdm95TDVDb0NsRFNPRVFFdWk4OWJCOENpTG1WQkRMZFBGZ0hJQnFwREFEYjhwZ2ZmYmdfN0EwSGs1ZS1RMWpRYV9JWmdxeDZYMEYxUzNxeUF6VkZIR1hsWElsdWhhTUg0TUdQYmtJZjJlRS1PZWdyRlJsb0FyTElXSERrVW5PTkFpSEFwVzc1U18tR21KcnIwN0lfNlpHdEVPM2o2bkpjTw?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-11-08T09:56:15+00:00",
+     "summary": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+     "image": ""
+    },
+    {
+     "title": "Donald Trump wants UFC fighters as assistants",
+     "url": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
+     "source": "France 24",
+     "published": "2026-11-08T09:44:28+00:00",
+     "summary": "After a series of combative press briefings between the Trump administration and journalists, the US president surprised many by reportedly offering Dana White, the head of the Ult",
+     "image": "https://s.france24.com/media/display/ad7ce2ee-db58-11f1-b2b1-d18c5759e759/w:1024/p:16x9/EN-20261108-101159-101400-CS.jpg"
+    },
     {
      "title": "Opinion: It\u2019s the morning after a historic election reshaped American politics. What comes next is crucial.",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON1lOeG83N2toOHdlTU1ZeVlzNXEzcnJSaUcwcTA5emxXWXlyZEpnZExsRlp4a2ZtY0F6RkNYc2VzMDhqZENFel9QbENPcDdJUXRkR2dqMVY2aERPbmR2cDZQbGNqbkhDUFVacTc5S0pUdFNYR3AtTmJtenljTE9ZMmdvRVI0eVBaVHhuS2ozWVNkRHRNcDF3eWF1Zk1GcWFVY0hwaUlzSlYzZjg5RnlVSXpJSHQ5M3JuZnlkaGtjNld6cWVmVnpjUHVFTEFRUHhM?oc=5",
@@ -232,6 +264,14 @@
      "published": "2026-11-08T09:36:35+00:00",
      "summary": "Opinion: It\u2019s the morning after a historic election reshaped American politics. What comes next is crucial.&nbsp;&nbsp;Kansas Reflector",
      "image": ""
+    },
+    {
+     "title": "Briton among six dead after gunman opens fire in Krak\u00f3w market square",
+     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+     "source": "The Guardian",
+     "published": "2026-11-08T09:30:22+00:00",
+     "summary": "Three more people found dead at home of suspect, who minister says held \u2018ultra-nationalistic\u2019 viewsSix people were killed and 16 wounded after a gunman opened fire in a busy market",
+     "image": "https://i.guim.co.uk/img/media/3d8244fe8422d5c0105861b7f544fc699f6bec58/1148_0_5909_4727/master/5909.jpg?width=140&quality=85&auto=format&fit=max&s=b7d1642fd15c5cebd5634447ffb2e131"
     },
     {
      "title": "The 2028 Election Map Just Broke Wide Open",
@@ -242,35 +282,11 @@
      "image": ""
     },
     {
-     "title": "Briton among six dead after gunman opens fire in Krak\u00f3w market square",
-     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-     "source": "The Guardian",
-     "published": "2026-11-08T09:09:35+00:00",
-     "summary": "Three more people found dead at home of suspect, who minister says held \u2018ultra-nationalistic\u2019 viewsSix people were killed and 16 wounded after a gunman opened fire in a busy market",
-     "image": "https://i.guim.co.uk/img/media/3d8244fe8422d5c0105861b7f544fc699f6bec58/1148_0_5909_4727/master/5909.jpg?width=140&quality=85&auto=format&fit=max&s=b7d1642fd15c5cebd5634447ffb2e131"
-    },
-    {
-     "title": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYUl3anQ1d0UwTXI4UzkwLUZVU09Ha1BILVhuS1pYWmZXVTNFdFh5cndyZDE4NzQyZUs3eHBQR3JJdlFSSnVsU0ZadzZWZzJweF9kU1gtMTVBZElxSDdXTjZLVUpYNjNNTWExUDFGSUZUZ2tleEVad29SNDFqYXdhNnVVSEU4S1lPUmtuMnRuR0czdXg0Y3I2QUxhT3BHaWhjNjlXaGtUOVgtN0lDSGFWMjhOVmRNZS1QYUpWVHA5Q3NMLUtCd05KSmFOaWFVZw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-08T09:06:42+00:00",
-     "summary": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
      "title": "Israel mired in uncertainty and acrimony after contentious election as Eisenkot seeks to form government",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2JCaXhydkY5dTVmUzZqT1Y2Szc1c0FKTHJFNkhJc3lmR1FDQ0djQ3hwTXk2WTBxcWVsLXB6cWpWUC04RV9ydEt2NTZfMWc1aGxFa1N5RGhjNXZpbWkyZ19xMEp0TndJelhfT2x4aU4zVnFWMllIb2RwWHpUaHdhUzBROFpDUzlMNk1pUEZUQXdLc2tkdk93SThTUG5iMFlRNlhNeldR?oc=5",
      "source": "NBC News",
      "published": "2026-11-08T09:02:00+00:00",
      "summary": "Israel mired in uncertainty and acrimony after contentious election as Eisenkot seeks to form government&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "ELECTION: Victory for the people",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45Mm5wNDBmNHRjdmFzSXlqdlpPaGpUdDI3bk5NRnotaE5qMVI4TXpVMG5SdWtsNGo1NFpaMUtxcjBNWjVjYjk4a2RyN3d3NHVRSVdGeGNFVHNWa1J4bzN3UmtWTk9ieFQ2VF92cUU2a2tFdlZfcWhPNUtn?oc=5",
-     "source": "Coeur d'Alene Press",
-     "published": "2026-11-08T09:01:03+00:00",
-     "summary": "ELECTION: Victory for the people&nbsp;&nbsp;Coeur d'Alene Press",
      "image": ""
     },
     {
@@ -283,48 +299,32 @@
     },
     {
      "title": "This election, Maine wanted one thing: Something different",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVpPUzBMamd3Y1dtWnJjTlhWZ1F4SVBxVWNsNmFtOGtCOXBhQ0ZUSzZ2WXVrRVh0THBqNXdHUXNfcHNBMmdCTzVmRldleU9IY25KUE5PSmxrRHBERFZQRGhtbUx1QTlfZjUxdGZnRlRJX1ZEMlNjMXZHWTBiNTdBS1VxUEd1UXpLcFBwMHc5V0hFbXdsU2xJWk9ONkI?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjS240c2M5SFZUdEVUYTN3YmY5aUJsbk1QUHBCdG1pdEZRTEhGdFZkaWw4dlk3dUdtMkhCUmdCaDVlVkhYakRsZ3JhbmFLY0k?oc=5",
      "source": "Portland Press Herald - Maine Sunday Telegram",
      "published": "2026-11-08T09:00:00+00:00",
      "summary": "This election, Maine wanted one thing: Something different&nbsp;&nbsp;Portland Press Herald - Maine Sunday Telegram",
      "image": ""
     },
     {
-     "title": "South Africa's ANC battered by local election losses ahead of coalition talks",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWgtMk9QU2tBNWhzbzUwRWFhUGFmeXFEZkRsVlBaVjk1U2hGVlRIUzhuUkhCRlE5OFNzcWwzT1QwbFAyTzdtc1J2eDh6Mzl0OVJkZFI5OUVoSU41N3JvSUM5dmsxYmFoOWl2dldEQ2J4THlmWFhkQWxvcHVnTEZLQ1Nvc0t1Q3MzMkkwSGgxRWhjSktRX1I2N201SGhMYWNJQ1NsM0lkZ1FrZGcyRUFVTm1qZHhRaTcxb3pQdVNNQQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-08T08:53:37+00:00",
-     "summary": "South Africa's ANC battered by local election losses ahead of coalition talks&nbsp;&nbsp;Reuters",
+     "title": "South Africa's ANC Battered by Local Election Losses Ahead of Coalition Talks",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzJUcDhMRFpuY3FtLThPWV9DNHJka2h0dE5JTGZwbjBoZzdpckwxaW84UERuQXNZYkVxakNGUzNkQmNxdksxdkl1d0w0Wm51Y2UtNGdqNGNMTERjQUV6d0dibWwyYjJGRFRIdmlSbUFKNkM2bGVVRGFETktIYzFlbGRkR3RmVlNKOUZYUGp1WW5wN0JmcVE0LVM2MjlnWDgyQWMtWjkzRWdvVmdNU3pJMklRLUthc1pzcmFBRWtuWE0tcllrR3dKREZn?oc=5",
+     "source": "U.S. News & World Report",
+     "published": "2026-11-08T08:58:22+00:00",
+     "summary": "South Africa's ANC Battered by Local Election Losses Ahead of Coalition Talks&nbsp;&nbsp;U.S. News & World Report",
      "image": ""
     },
     {
-     "title": "Mapping how France\u2019s protest wave spread across Europe",
-     "url": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T08:18:38+00:00",
-     "summary": "More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France.",
-     "image": ""
-    },
-    {
-     "title": "California election update: Latest results across the state",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzNJN1Z2Q1VzUnJtM3hHSGN5Y1V5YkNkTXNfTnI0bWVmaFV5bGd5WkhybHNQa21iS0wtSF9ac0tXZnIxUlE2eGQxWFlYNXFLdmIwLUVCSmxkUTRyS05TdWtwQ09xUFNOZF9lN01nTTFrX29NUkhNM0Y4MG84TG5jRms0U0ZNelctUVZqOWtCNzh3NnNtUWpSc0tESDFwYldMSThoNkhnZEYwZGV3aDdkVXlR?oc=5",
-     "source": "ABC10",
-     "published": "2026-11-08T08:02:00+00:00",
-     "summary": "California election update: Latest results across the state&nbsp;&nbsp;ABC10",
-     "image": ""
-    },
-    {
-     "title": "Curtis Hampton: From Jim Crow to election night in Spokane",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTJ2clRWeWQ4bkNpdFJLX0RHRXJhR2xtZC1NbVVuX1ExZXNWR2ZwSXM1Tk1nNU9OeUdKekF5MkRTQzJabE5PbHgyOWJaYVhEb19MT2l3ZlNDc3JZclFPV3A3dGptQ3RGNkZKVmNtaG1WcWxsU3VmM1J5cF9QVFBWaW9oTEFQOTNjSTNUcmZoVmJnakw4MnJQUVZzRkkyQQ?oc=5",
-     "source": "The Spokesman-Review",
-     "published": "2026-11-08T08:00:00+00:00",
-     "summary": "Curtis Hampton: From Jim Crow to election night in Spokane&nbsp;&nbsp;The Spokesman-Review",
+     "title": "New Zealand\u2019s two major parties are flatlining as dispirited voters seek transformational change",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1hGblM2ZGJPYTZSai1lYUgwUDZJb0xGbHRtblpndzRGLU9fM1A4ZTF1SkFGQnhQSG4tSkV5WndIVWVPbmRUdWx0YlVqRUVrWV9lclJyd1RPRlQ0d3dEZUtuekhXaTloYndWNnF2d2xLb0p1Wkxualo3TzhIT19UOVVXanVpRWN4OHFPeXNUMngtV1QtUHN1WEk0LVpCOHc?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-08T08:32:00+00:00",
+     "summary": "New Zealand\u2019s two major parties are flatlining as dispirited voters seek transformational change&nbsp;&nbsp;The Guardian",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-08T09:40:46.102051+00:00",
+   "fetched_at": "2026-11-08T10:10:50.128238+00:00",
    "stale": false,
    "items": [
     {
