@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-09T20:16:41.209266+00:00",
+ "generated_at": "2026-11-09T20:46:44.662806+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T20:16:41.209239+00:00",
+   "fetched_at": "2026-11-09T20:46:44.662773+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Turkey steel factory blast kills at least 17 people",
+     "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T20:42:04+00:00",
+     "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg"
+    },
+    {
+     "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T20:31:26+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T20:23:14+00:00",
+     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7c/live/626cdfb0-dc76-11f1-bbe9-83c09cc9b23f.jpg"
+    },
+    {
+     "title": "France accuses Iran of supermarket fridge hacking",
+     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T20:20:08+00:00",
+     "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
+    },
+    {
+     "title": "Deadly explosion at Iron and steel plant in Turkiye",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T20:19:18+00:00",
+     "summary": "Deadly explosion at Iron and steel plant in Turkiye",
+     "image": ""
+    },
     {
      "title": "Nvidia's Huang scandal rattles AI industry built around him",
      "url": "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him",
@@ -12,6 +52,14 @@
      "published": "2026-11-09T20:09:22+00:00",
      "summary": "Nvidia chief Jensen Huang sits at the center of the artificial intelligence boom, and the spy scandal that erupted over the weekend threatens to shake the company at a time when co",
      "image": "https://s.france24.com/media/display/b0c0757c-dc77-11f1-97b1-695cb59fade5/w:1024/p:16x9/EN-20261109-203701-204148-CS.jpg"
+    },
+    {
+     "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T20:08:18+00:00",
+     "summary": "Russell Brand has been sentenced to 10 years and six months in prison after being convicted of raping one woman",
+     "image": ""
     },
     {
      "title": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
@@ -54,80 +102,64 @@
      "image": "https://i.guim.co.uk/img/media/79a8db18d1ebca53deb1fd978be832b5c94f23bd/0_4_4153_3322/master/4153.jpg?width=140&quality=85&auto=format&fit=max&s=aca64063f19e319eef7dd594dfe34d8b"
     },
     {
+     "title": "Explosion at Turkish steel plant kills at least 16 people",
+     "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T19:58:40+00:00",
+     "summary": "President Erdogan announces an investigation after a crane collapsed into a furnace, triggering the blast near Izmir.",
+     "image": ""
+    },
+    {
      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-09T19:58:01+00:00",
      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg"
-    },
+    }
+   ]
+  },
+  "wars": {
+   "fetched_at": "2026-11-09T20:46:44.662790+00:00",
+   "stale": false,
+   "items": [
     {
-     "title": "Progressives head to US House in record numbers after winning red districts",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/progressives-us-house-flipped-seats",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:57:32+00:00",
-     "summary": "Caucus had 100 members in the last Congress, and six of the nine candidates it endorsed won, flipping seatsHouse progressives, long dismissed as the Democratic party\u2019s leftwing out",
-     "image": "https://i.guim.co.uk/img/media/c2269acc793d2b8edde132d27c66928911fd7ada/980_0_4923_3938/master/4923.jpg?width=140&quality=85&auto=format&fit=max&s=bee1e5db6837a2334d19ab8fe032d940"
+     "title": "Trump says Abu Dhabi talks offer chance of Russia-Ukraine war breakthrough - Reuters interview",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT0d5eWJMNHpxT195eWQ1UHUzc0N1WTEzZk1NU3FnbGdKM1dXc3Y5Zk5sQUtfeUR4ak82aTVzT0UxX1d5dVNRY1o2UU1LamZFdDltMV9VczlDWEFKeGZJWV9GLWNnd2RVWUJINGxoRUl0Y0Q3VW9lSG03OHBacGRhRDlfbDhHVDByMkJBUGpNV1ppR2dVZVdBb0NIZ1dlenhlb3ZZMlVFalJiS2FuOUZlVTRlZGtCSE1rZ0RYbjdPRVNkMXJCRUN0VjdHc1FQWUtUeEEzTWczTWpqMWgyR2c?oc=5",
+     "source": "marketscreener.com",
+     "published": "2026-11-09T20:39:15+00:00",
+     "summary": "Trump says Abu Dhabi talks offer chance of Russia-Ukraine war breakthrough - Reuters interview&nbsp;&nbsp;marketscreener.com",
+     "image": ""
     },
     {
      "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-09T19:50:02+00:00",
+     "published": "2026-11-09T20:31:26+00:00",
      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     },
     {
-     "title": "Cyber-attack on French supermarket freezers has geopolitical context",
-     "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:40:45+00:00",
-     "summary": "\u2018Not particularly complex\u2019 defrosting hack has been attributed to Iran, with presumption it is linked to others across EuropeIranian hackers like to send a message.In 2023 a state-",
-     "image": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f"
+     "title": "Ukrainian forces strike elite Russian 'Rubicon' drone unit in occupied territory",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnVGcDA0c0lpVHotUWNqUHVDeDd5aDFSZjRjRk80cnZzT0RkT3FsWVVCQXFpLWl2ZzYtd1JFS3RIM1NacHlzZ2ZlTk5PdURoeGJsVTY0ZmlSSEJzYk9oWklXdnJPV2ZVZzI1RkQyRmU5R0t3T2xZNFRXNFkwR25WQ04tOWNFM0lfdHN2d2NOcTZ5dm5oOW9fRWtQU0FYZGpiX001RjlwYms3d3c?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-09T20:24:20+00:00",
+     "summary": "Ukrainian forces strike elite Russian 'Rubicon' drone unit in occupied territory&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
     },
     {
-     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "title": "France accuses Iran of supermarket fridge hacking",
+     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-09T19:39:33+00:00",
-     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7c/live/626cdfb0-dc76-11f1-bbe9-83c09cc9b23f.jpg"
+     "published": "2026-11-09T20:20:08+00:00",
+     "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
     },
-    {
-     "title": "Republican congressman launches impeachment bid against Pentagon chief Hegseth",
-     "url": "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
-     "source": "\u00a9 Tom Brenner, AP",
-     "published": "2026-11-09T19:32:26+00:00",
-     "summary": "Kentucky congressman Thomas Massie moved on Monday to force a vote in the House of Representatives to impeach Defence Secretary Pete Hegseth, putting pressure on his fellow Republi",
-     "image": "https://s.france24.com/media/display/3193d7d8-c644-11f1-b677-3774aeac812a/w:1024/p:16x9/AP26279700094442.jpg"
-    },
-    {
-     "title": "'We think' the Iranians and Americans want to negotiate, Egyptian FM says",
-     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261109-we-think-the-iranians-and-americans-want-to-negotiate-egyptian-fm-says",
-     "source": "France 24",
-     "published": "2026-11-09T19:31:42+00:00",
-     "summary": "In an interview with FRANCE 24, Egyptian Foreign Minister Badr Abdelatty said he believed Iran and the United States wanted to negotiate, but called for a \"concrete deal\" to preven",
-     "image": "https://s.france24.com/media/display/b7f4021e-dc3b-11f1-a48b-bf1914cabd52/w:1024/p:16x9/MAE-EGYPTIEN-PLAN-INVITE-2026-11-09-F24.jpg"
-    },
-    {
-     "title": "Republican Thomas Massie moves to force vote to impeach Pete Hegseth",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:31:36+00:00",
-     "summary": "US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powersUS politics live \u2013 latest updatesA Republican lawmaker",
-     "image": "https://i.guim.co.uk/img/media/127a943500d7d4f7af49820ae47362b8a04b6957/360_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=ea33a67ec8f76ec8c359cfc3fe32634a"
-    }
-   ]
-  },
-  "wars": {
-   "fetched_at": "2026-11-09T20:16:41.209252+00:00",
-   "stale": false,
-   "items": [
     {
      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXBIZHZhSC1jMjdGRnBZU05jLUwtZlJOSFptM3pISnJLMHV5OUMxWmZfUW9ZX25PNlVLenUwSHBMb2M5UWNOYTBzM09kYVhTQmo2TnFiblhVVzlfNERXOGhFVnlLRjU1YXZpUFpUWUdGUXBXOXMza1hiQUI1OS11Ui1xa3I3bzljSDhPdWJXeF9QbkdoYWlDY2VuY0p5ZHM1Z2MtS09TUWhSNGF6c210aHFJYktyRVnSAbwBQVVfeXFMT2hVejdiNzk1MXR2eFZWZFB3VlUwNGxnVkRVYmdRVmxNTHY0ODkxWkdnZU9JcE1mQm1fZkJUT1hYRlhaN0ltN3NZUVNkcHQ2b0UwaHNFQTltVmNmQV9MOThtMHlaSW1sVExjT0cxNVV4Z3FrblVobU5DcG53VW5kRUYyNkgyTy1LODFXQ2FWRDZKVmlvdlJGelFUOXo2ZjBVZndoRWdYUy1VZmJucjM2M3otQzBudXozWURWOGg?oc=5",
      "source": "Al Jazeera",
-     "published": "2026-11-09T20:04:16+00:00",
+     "published": "2026-11-09T20:12:07+00:00",
      "summary": "South Africa detains foreigners suspected of heading to join Russian forces&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
@@ -148,27 +180,19 @@
      "image": ""
     },
     {
-     "title": "Iran denies talks on reopening Strait of Hormuz in exchange for $8B in frozen assets",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXd2ekdOWF9uUW9iNUUyTEVYeDBtSjNBVHJpNXVzaVdhQUF3UkczbnVsT0lJR0w3MXFLQnhzeEVSWTUwSkFvaG1lOUMxTHRudFJIZklpMWNlVmRuMEFHTEVXYmN1MTY3dFpwSThiMFFCM1FMLUtJbVB5WXF6Mmlid1Q2V3B4UFJYaTIxa3BtLUluQ0s3WTlVdHE2UmJlaTNfdElyMFlZdHlOUENaaXNEN3pDNlRxdzJsRlpybHlOS05SZzhUZzBpTW1uMA?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-09T19:52:36+00:00",
-     "summary": "Iran denies talks on reopening Strait of Hormuz in exchange for $8B in frozen assets&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:50:02+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
-    },
-    {
      "title": "Going to school in war: How Ukraine\u2019s children are still trying to learn",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TM0NuajFQMEVCTTUyMTJ4YU1FQ1JwS2JuM0U1ZEtIWnc0azljbTVzczM3QmRiaVlLNkdxY3dZLW1SREktWFQ2Wk5oMi12R3podmVkTmpyb09LWk9UN1BRRy1lbWk4TTF3WTV0c3FDcEZyelU5M3fSAXtBVV95cUxOdkRGVWNfVHV1SkFUVWFKc1pxVVNib3Z2ejJJMFRsSy01ZlB2eGxMWFZJeWlNQjlOOFRaamNDQXNHSFVhQmd1SjFqblQ2VURlbnJITG1CZXZ2Wjc2NnFsRXJoSDN2Z1dRV25SdnhaSGRZbjJlc3E3cmRRT2c?oc=5",
      "source": "NewsNation",
      "published": "2026-11-09T19:48:20+00:00",
      "summary": "Going to school in war: How Ukraine\u2019s children are still trying to learn&nbsp;&nbsp;NewsNation",
+     "image": ""
+    },
+    {
+     "title": "How is Gaza coping with another severe winter?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T19:47:46+00:00",
+     "summary": "How is Gaza coping with another severe winter?",
      "image": ""
     },
     {
@@ -180,56 +204,80 @@
      "image": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f"
     },
     {
+     "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbW9OaVZzNEp6R19kTTZYZVI4T1JNb1JUU2l3RWNwMlgwLThndFU0am81TVkzaTNtVEpPdVZ4VFBtMW5QaVdQcXhzXzhyY2FvQ0pNU3ZINFcxdzVZYnVKOXNvRFFWbDFXaDlndlREU25YRXRvSFVMcFRmMnBFM0F5RDhRYUdmLXU4MnNoOTZQSWRISlNlVXhNZlF6M2t2ZDEwRkNLV2Z4TDJNR0JWWkFORU5PQ2s5OHBmanBlOFN3TC1wd0diMVBwQnVwU091Z19SNlFPcHRYWkR5Z0NacVY4djRLT2VUbFk5Z3cyaWRrMjd2djlmQ0RWY3BYTjhadl9pX2FmbUNHYWt4SmgzZzY4U0JkdUNEN2M?oc=5",
+     "source": "Ottumwa Courier",
+     "published": "2026-11-09T19:39:44+00:00",
+     "summary": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine&nbsp;&nbsp;Ottumwa Courier",
+     "image": ""
+    },
+    {
      "title": "'We think' the Iranians and Americans want to negotiate, Egyptian FM says",
      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261109-we-think-the-iranians-and-americans-want-to-negotiate-egyptian-fm-says",
      "source": "France 24",
      "published": "2026-11-09T19:31:42+00:00",
      "summary": "In an interview with FRANCE 24, Egyptian Foreign Minister Badr Abdelatty said he believed Iran and the United States wanted to negotiate, but called for a \"concrete deal\" to preven",
      "image": "https://s.france24.com/media/display/b7f4021e-dc3b-11f1-a48b-bf1914cabd52/w:1024/p:16x9/MAE-EGYPTIEN-PLAN-INVITE-2026-11-09-F24.jpg"
-    },
-    {
-     "title": "Republican Thomas Massie moves to force vote to impeach Pete Hegseth",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:31:36+00:00",
-     "summary": "US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powersUS politics live \u2013 latest updatesA Republican lawmaker",
-     "image": "https://i.guim.co.uk/img/media/127a943500d7d4f7af49820ae47362b8a04b6957/360_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=ea33a67ec8f76ec8c359cfc3fe32634a"
-    },
-    {
-     "title": "Envoy Jared Kushner says Trump 'determined' to end Ukraine war, as prez tells '60 Minutes' country will be 'different shape'",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSWgwbWRQVEd5OHp0WnVlb0t6Rk1DQ1BaZ3RTeHItRE1ZeXhER2ppQlVxVXBMMEw2V0JSSzlJdUJ3eDdza2FxdEVfUlY0NU92MF9VRGtBNnFHRnRGc2pNRmNpODloNFVJeHp1ek5Pb3ZFX0JNeXZVSllwOEI0Wm1iMjQ2MUJDZ3liNmJMTlNncU0wNjZlcjE3dVlsNmU2d0l0UUhXLVdIWGJjUWJSTkNSME1Sc2s3SW9RR2tFT3l4TEVjUXpSX1hHU2JnbnB2aWFsVGczd0U3N3JtTkpzXzRiWmQtRjlVNTY5eXpHLQ?oc=5",
-     "source": "New York Post",
-     "published": "2026-11-09T19:25:00+00:00",
-     "summary": "Envoy Jared Kushner says Trump 'determined' to end Ukraine war, as prez tells '60 Minutes' country will be 'different shape'&nbsp;&nbsp;New York Post",
-     "image": ""
-    },
-    {
-     "title": "France opens probe into Iranian cyber unit over fridge attacks",
-     "url": "https://www.france24.com/en/france-opens-probe-into-iranian-cyber-unit-over-fridge-attacks",
-     "source": "France 24",
-     "published": "2026-11-09T19:24:54+00:00",
-     "summary": "France on Monday said Iran's Revolutionary Guards were behind \"unprecedented\" cyberattacks on supermarket fridges in the country last month, vowing sanctions on a European level ag",
-     "image": "https://s.france24.com/media/display/2c262730-dc72-11f1-912e-a575454bc579/w:1024/p:16x9/EN-20261109-200113-200918-CS.jpg"
-    },
-    {
-     "title": "India's Jaishankar speaks to Russia's Lavrov on diplomatic efforts to end Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEhNUkZubFkyUjFXckhidU9hWWRTbU0zZnB1WFNiT2pzUmljRGVVRkZNcnpncFdrZVpSSGI2TjkzYkpNVGRoLUREVzhVT1lSeU9ucG1sMmVyWm1EUkM4ZW5LOW9IclJFQ1lnSzlTWm5jakRjNHRRVlJZUWRqQXZLRGdnamYwdThxeHB2cWxPREs3SVhVUkJ4WDkxY0hkek9ZUllQZjU0Y2tuOU1GdF9DQ0pnOWVJb3ZlZU84d3VmQlE?oc=5",
-     "source": "The Business Standard",
-     "published": "2026-11-09T19:12:57+00:00",
-     "summary": "India's Jaishankar speaks to Russia's Lavrov on diplomatic efforts to end Ukraine war&nbsp;&nbsp;The Business Standard",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T20:16:41.209255+00:00",
+   "fetched_at": "2026-11-09T20:46:44.662793+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Political pundits talk election results",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVk5PZkZPRmNxNHhwM1VVM0N1Rm1lTzlKRHZKeERmZFVpYU1jNnBBRzdtMXlCNUtRY3RUWmdvTl9KVXRHTW9nQm9URURqQ2JVTmJEX0FENlQyM29YNmc1S2FkT2c0QlAteUJPSExXU0pJLXdrTUR3NTZ1UDVyajFScVhETQ?oc=5",
+     "source": "WDSU",
+     "published": "2026-11-09T20:30:00+00:00",
+     "summary": "Political pundits talk election results&nbsp;&nbsp;WDSU",
+     "image": ""
+    },
+    {
+     "title": "Analysis: GOP undersold its accomplishments ahead of 2026 election",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnlZd2l4WkZ6NXRXSEhHOTJHNGMxWV9uTWVXNU82RTZVazVaRnZDSUlMeFdkemQ0VXNNVFVPT0dmdTNtQ1Vwb1JqSl9uZTh2RmF4YVE4ZDNfYWhoa1pSS2pibXNxdFNjRDRsaWdfaTJfZHdGZTRyY1pvRUtGeE80Wmpua0Q5LU51bUJlRTFaaGV5RTh6cnIwQ0E0QTZtcWRrTWpj?oc=5",
+     "source": "Georgia Public Broadcasting",
+     "published": "2026-11-09T20:27:00+00:00",
+     "summary": "Analysis: GOP undersold its accomplishments ahead of 2026 election&nbsp;&nbsp;Georgia Public Broadcasting",
+     "image": ""
+    },
+    {
+     "title": "AFGE-backed Candidates Win Big in Midterm Election",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGE3dndZb3haZHRWVlpFaEVMcTBHc0I5anlFOFNobjBmemp2Q0lfR0hWUXZwWGxPZTUtUmF3Z2ZhUDhSNEVDdXBhWF9xNi1hMW1ON0FwVTNXOXZFM1BlUDVLdW5MLVE5OGg1N1VwT3VteUhlamVveVFPd2xZbUszcHBCMVlPZw?oc=5",
+     "source": "AFGE",
+     "published": "2026-11-09T20:23:59+00:00",
+     "summary": "AFGE-backed Candidates Win Big in Midterm Election&nbsp;&nbsp;AFGE",
+     "image": ""
+    },
+    {
+     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T20:23:14+00:00",
+     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7c/live/626cdfb0-dc76-11f1-bbe9-83c09cc9b23f.jpg"
+    },
+    {
+     "title": "Netanyahu challenger Eisenkot tasked with forming new Israeli government",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTnl0TFhHMjJkWk5ibGYzalRWZFh2b1l0dlRUUkthZHgwUktIZXhILS1sYmFqeDdGT0U4NDk5di01M0RWbFlseFEzZ2pMNm9NYm5XZHN1MnViVGg1NHltWXRvaFhRZkJ0MEREVjBsXzcxZkQ5V0x0VnQ0TXFvR0kxNU44Qnh4Q2JWWFRMUXF5T182Z3JiR0kzXzBhN2piZjBrSmtBMUlDVUd6ckJQSEZ4eDUtcUJkeUlQME9Tek1aZkVvT25VZ1RCbG1idV9KLXZzV3MxN0ZpbGswd0VPNGVv?oc=5",
+     "source": "6abc Philadelphia",
+     "published": "2026-11-09T20:21:05+00:00",
+     "summary": "Netanyahu challenger Eisenkot tasked with forming new Israeli government&nbsp;&nbsp;6abc Philadelphia",
+     "image": ""
+    },
+    {
+     "title": "Ballot review set in southern Indiana county amid tight race for state Senate's top Republican",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSjhsbURSbGc3VUJweTFxNW9ab0ZZTnhpbkt0cGtZUXZENzZmV1JyVXJsWWZkRkNWSVZTbWxLZTA0aEJkc0ZrR21tc3BKVEl2MThaN1JGUWlBaENlNUF0Vm5Sa19nYzRtSDZTOFJSZDRTb3Z1aFhVNVp1X3gxQzc4T0JjUVNfT2NaUFBHX2w5dVlSSHdyQjB2dk01QmMzbWtua0szUGlTazJMNjZKM0ZEaXJ6OG5BeEhFQTJ5d2VVTC03UFd0ZUlCQnU4V0pLQ3dYZDVyM1ZuamM?oc=5",
+     "source": "Indiana Capital Chronicle",
+     "published": "2026-11-09T20:17:20+00:00",
+     "summary": "Ballot review set in southern Indiana county amid tight race for state Senate's top Republican&nbsp;&nbsp;Indiana Capital Chronicle",
+     "image": ""
+    },
     {
      "title": "2026 Election Results and Implications for the 2027 Legislative Session",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmxQUEk5eV9QWVZwTV9pNzM0b3hYX0Z3Q0l3eVlhOUNkZDBocVBVS3JtNVJXYzdzbVRQUk9ZeVlTS19jSUs0aW9vOGZlWmZCR25sQkVkMjVxcmp5NXdOZkN6Q3pkOXNaNTRkSzUtcjNZMHRlem9HakIwSWNyQmRXZkJVbGFHVXd5YnVwcF9zZWlHbm9JMy1zdGdrZnFTSk1wTk5DVmlUanktMDZNSUpYejQyRkNtMEdDMkpv?oc=5",
      "source": "League of Minnesota Cities",
-     "published": "2026-11-09T20:03:42+00:00",
+     "published": "2026-11-09T20:03:08+00:00",
      "summary": "2026 Election Results and Implications for the 2027 Legislative Session&nbsp;&nbsp;League of Minnesota Cities",
      "image": ""
     },
@@ -258,81 +306,33 @@
      "image": ""
     },
     {
+     "title": "Explosion at Turkish steel plant kills at least 16 people",
+     "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T19:58:40+00:00",
+     "summary": "President Erdogan announces an investigation after a crane collapsed into a furnace, triggering the blast near Izmir.",
+     "image": ""
+    },
+    {
      "title": "Progressives head to US House in record numbers after winning red districts",
      "url": "https://www.theguardian.com/us-news/2026/nov/09/progressives-us-house-flipped-seats",
      "source": "The Guardian",
      "published": "2026-11-09T19:57:32+00:00",
      "summary": "Caucus had 100 members in the last Congress, and six of the nine candidates it endorsed won, flipping seatsHouse progressives, long dismissed as the Democratic party\u2019s leftwing out",
      "image": "https://i.guim.co.uk/img/media/c2269acc793d2b8edde132d27c66928911fd7ada/980_0_4923_3938/master/4923.jpg?width=140&quality=85&auto=format&fit=max&s=bee1e5db6837a2334d19ab8fe032d940"
-    },
-    {
-     "title": "Democrats Demand Answers on Trump\u2019s A.I. Policy Amid Spy Plot",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVdORGUzSXZqX3lyWG91Z051MmJsbExiTHotVnAyMnV3b0FNeDBuWlgtMDdINW50Y1I2WGlIS3hHX3pfSzU1eEtKR1pfejlEdGQ4QUFqM28yeEt5bWNpSlZpQTlha3NqZ0NxY0xFNTNtdDJKU2gzbnRkQTl6S1BZbEZaVQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-09T19:51:37+00:00",
-     "summary": "Democrats Demand Answers on Trump\u2019s A.I. Policy Amid Spy Plot&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Wisconsin concession speeches show shift away from election denial",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm50LTNfc0Y4aWVBTW1QWGVNQjh3MDJLUmJ1cEtGQnJ3ZVU5dC1Cc19iWkxzTFd0a0w0Y2lKc2hBN1RNeFQ2dTdjRVJMR2x2NGcwbWxCTy1SRXgzLS16ckpoenVVa09WaWZnazg2R2plQVJ6N0ZwZmJXeDVQY2JoNnVvWFNCZy1aRHhBVWNBZWxQNXIx?oc=5",
-     "source": "Spectrum News",
-     "published": "2026-11-09T19:51:00+00:00",
-     "summary": "Wisconsin concession speeches show shift away from election denial&nbsp;&nbsp;Spectrum News",
-     "image": ""
-    },
-    {
-     "title": "How the next Congress will shape US national security policy",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGpYUEhmWm9uZS1SdzVGa1hubE9xZ2Zyb1ZPVFZRZjV4QnE5WE9ObGxCSnd0Qkhtd3BVZnA1MzByemZQNGhTOUh2V3AwMFZXNWtZSWUwaks2YW16VU9saDVHR25VOUpocjFmelN2UkVtcDdoYWxFTGI5VnpFTzNmYmxSR05HTVZKVl9udlJaRGQ0T21kWDhPSGF1MURadGNT?oc=5",
-     "source": "Atlantic Council",
-     "published": "2026-11-09T19:48:24+00:00",
-     "summary": "How the next Congress will shape US national security policy&nbsp;&nbsp;Atlantic Council",
-     "image": ""
-    },
-    {
-     "title": "La Crosse County certifies election results",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRV84TUsyZXI1RWxxMnNNYlMtYVcxdHdOaTNqakJYSVJhb0RnQzVKWXZ3WUlCdEltNEdQU1RXU2dYZDgxZFZScDFqR3dqa21VZHUwMGNQTUZyaWVUZmlwYXlxeE13TGlHVkFpcjhBbWpKR3Nma245Rk1KM0l0TWlmNWtJeW5OaDduRFRLRURod3hfY21OV3U0by1ac1hzSGl6WW1uSVp2bXVJemlwRVBPSnZCY1o3aU5fRDJpVUJR?oc=5",
-     "source": "news8000.com",
-     "published": "2026-11-09T19:43:00+00:00",
-     "summary": "La Crosse County certifies election results&nbsp;&nbsp;news8000.com",
-     "image": ""
-    },
-    {
-     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T19:39:33+00:00",
-     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7c/live/626cdfb0-dc76-11f1-bbe9-83c09cc9b23f.jpg"
-    },
-    {
-     "title": "Trump questions midterm election results after previously accepting outcome",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUVRZzZwRWc4aFpudFRsd3NXeDdfemFvRkQyczFBd3pKVXFRdi02S1hlY29KTzJlOVoxZElibUkyY0NNZV94RE00WXlsWEdRVS1kQWl4MENKWFFEdDlCUnlNaWVSbzEtWWxEWFRyVF9LdWhBbWJLWmxLanNIUWcyMDg2WmxNaTBGMEVKSWszSEtnUEk5ZWlLNXphN1lBdGZDT0tSbHBvSjdvMHNxaFpjSGFpQWFtb0ZKWmc?oc=5",
-     "source": "USA Today",
-     "published": "2026-11-09T19:33:00+00:00",
-     "summary": "Trump questions midterm election results after previously accepting outcome&nbsp;&nbsp;USA Today",
-     "image": ""
-    },
-    {
-     "title": "USDA policy shift would cut millions of people off food aid program",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSk5FNTNfUlN0ZTJzMWtIRWFfME1LU3ItWElhWExJd0ExWkUwQkV4Y0dKV3hWQXotbXpYSGd5Wl84VFJKblhLR1RtWEJyNE9PekdRdzVpMXpSU3g1MmhhVGcwcjJyY3k4QS14WkFieUc3UWVPQ1Rr?oc=5",
-     "source": "Politico",
-     "published": "2026-11-09T19:33:00+00:00",
-     "summary": "USDA policy shift would cut millions of people off food aid program&nbsp;&nbsp;Politico",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T20:16:41.209257+00:00",
+   "fetched_at": "2026-11-09T20:46:44.662796+00:00",
    "stale": false,
    "items": [
     {
      "title": "France accuses Iran of supermarket fridge hacking",
      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-09T16:55:07+00:00",
-     "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+     "published": "2026-11-09T20:20:08+00:00",
+     "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
     },
     {
