@@ -1,10 +1,58 @@
 {
- "generated_at": "2026-11-09T05:44:05.290388+00:00",
+ "generated_at": "2026-11-09T06:14:08.798401+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T05:44:05.290357+00:00",
+   "fetched_at": "2026-11-09T06:14:08.798367+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+     "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T06:01:52+00:00",
+     "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Inside the French drug gangs recruiting children to kill",
+     "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T06:00:26+00:00",
+     "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Fixing UK\u2019s youth jobs crisis demands much more investment, TUC boss warns",
+     "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
+     "source": "The Guardian",
+     "published": "2026-11-09T06:00:03+00:00",
+     "summary": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this weekFixing Britain\u2019s youth jobs crisis will require min",
+     "image": "https://i.guim.co.uk/img/media/8e775de151bb91396f2a85ea4cab2bc69dacdbd7/1001_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=52329e2e865a285b202873f54ff11410"
+    },
+    {
+     "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
+     "source": "The Guardian",
+     "published": "2026-11-09T05:47:49+00:00",
+     "summary": "\u2018It\u2019s pretty obvious that there are all sorts of people making all sorts of comments,\u2019 Murray Watt says after budget savings meetingGet our breaking news email, free app or daily n",
+     "image": "https://i.guim.co.uk/img/media/0a251c36d8f4f67e296c116d611465daf42788cd/212_0_5048_4038/master/5048.jpg?width=140&quality=85&auto=format&fit=max&s=b1558db5c26a0a43c35a7d026786850e"
+    },
+    {
+     "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+     "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T05:20:08+00:00",
+     "summary": "Air quality in Indian capital reaches severe levels, posing heightened health risks for more than 30 million residents.",
+     "image": ""
+    },
+    {
+     "title": "\u2018Tents don\u2019t protect us\u2019: Rains flood displaced Palestinians in Gaza",
+     "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T05:18:39+00:00",
+     "summary": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes.",
+     "image": ""
+    },
     {
      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
      "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
@@ -68,61 +116,29 @@
      "published": "2026-11-09T04:03:02+00:00",
      "summary": "Markets rebound after tech rout triggered by Democrats&#039; sweeping victory in US midterm elections.",
      "image": ""
-    },
-    {
-     "title": "Rubio says war on Iran unpopular but \u2018necessary\u2019 to stop nuclear threat",
-     "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T04:02:18+00:00",
-     "summary": "US secretary of state says Iran&#039;s negotiation demands are &#039;outrageous and ridiculous, and really not realistic&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Trump tells 60 Minutes that deportation policy was \u2018too tough\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
-     "source": "The Guardian",
-     "published": "2026-11-09T03:59:31+00:00",
-     "summary": "President makes unusual acknowledgement that one of the defining policies of his second administration had become a political liabilityDonald Trump has admitted that his deportatio",
-     "image": "https://i.guim.co.uk/img/media/d2da9c964ff03b1b8443aa38f9c263277095235f/342_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9ae8ba5f3541258c3c8258fbdbdcf373"
-    },
-    {
-     "title": "Man accused of HungryPanda delivery rider\u2019s stabbing murder yells and exposes himself in Melbourne court",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-09T03:47:21+00:00",
-     "summary": "Roberto Urbano, 51, appears in court via video link after death of 47-year-old Feng Jianming in the CBD on Friday nightGet our breaking news email, free app or daily news podcastA ",
-     "image": "https://i.guim.co.uk/img/media/4954ad8d5503c8161345548e255e4fdf2719dd1d/585_40_1083_867/master/1083.jpg?width=140&quality=85&auto=format&fit=max&s=5ec33b002d331556a841dce611707272"
-    },
-    {
-     "title": "Mexico arrests alleged major leader of Jalisco cartel",
-     "url": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T03:42:57+00:00",
-     "summary": "Rafael Alvarez, alias &#039;R2&#039;, was captured with intelligence shared by the \u2060US Drug Enforcement Administration.",
-     "image": ""
-    },
-    {
-     "title": "\u2018Outrageous and racist\u2019: premier responds to NSW One Nation candidate\u2019s claim Australians are being \u2018demographically replaced\u2019",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-09T03:33:14+00:00",
-     "summary": "Chris Minns and race discrimination commissioner lambast comments made by Stuart Bonds, who leads party\u2019s NSW upper house ticketGet our breaking news email, free app or daily news ",
-     "image": "https://i.guim.co.uk/img/media/39f09dedf1330fa12ee7faa964b23d239dcb80af/375_0_6309_5051/master/6309.jpg?width=140&quality=85&auto=format&fit=max&s=c60578f8c92047cb0bee9b7f85ead937"
-    },
-    {
-     "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T03:26:21+00:00",
-     "summary": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T05:44:05.290371+00:00",
+   "fetched_at": "2026-11-09T06:14:08.798384+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Fixing UK\u2019s youth jobs crisis demands much more investment, TUC boss warns",
+     "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
+     "source": "The Guardian",
+     "published": "2026-11-09T06:00:03+00:00",
+     "summary": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this weekFixing Britain\u2019s youth jobs crisis will require min",
+     "image": "https://i.guim.co.uk/img/media/8e775de151bb91396f2a85ea4cab2bc69dacdbd7/1001_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=52329e2e865a285b202873f54ff11410"
+    },
+    {
+     "title": "Ukraine could see its borders change as result of peace deal, Trump says",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNGhwX0ZFQjRPeDBmUUV3eEVpUWtKMHY0elllZHdoa0hNWGtFTmNnZHdnUjg4djNJUlM1OFB3bEF0YjQ3aG1IMHFYMVJMTFVFT3h2Qmc4b0RabXFxYXo1Vy1UdlpVdUd4UzE2ckZ2SXhIS1dUQjl2UW5QaHpyU0JoNVBMTDRkeVY2ZjdzR2dIRQ?oc=5",
+     "source": "\u0426\u0435\u043d\u0437\u043e\u0440.\u041d\u0415\u0422",
+     "published": "2026-11-09T05:56:00+00:00",
+     "summary": "Ukraine could see its borders change as result of peace deal, Trump says&nbsp;&nbsp;\u0426\u0435\u043d\u0437\u043e\u0440.\u041d\u0415\u0422",
+     "image": ""
+    },
     {
      "title": "Brown researchers seek to improve mental health of Ukrainian youth with chatbot",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbUpGR0ZfNXg4YWtxMHFySGhROHhRMlVMVmFwbGdxZ0ZQbGZEbEwzb193bkZjeTdOQUtmVFgzcUpaRjZfNHF5RWhPdFJtQXBmcDBLNkNBVGpsUnlMUTRfRWhUNkktV1pDT29udHBJXzFSUWlhZHVMcEh1aGVFVGtLczM4T0lUTXhtR1Q3UzRzREExcWFReWpwMnpuM1FFVlV5eUxxb01QalYtSzJ2Um5Lb3FxalBvcGROOXJUdmNfM3ExX1FaYU5sQQ?oc=5",
@@ -156,6 +172,14 @@
      "image": ""
     },
     {
+     "title": "\u2018Tents don\u2019t protect us\u2019: Rains flood displaced Palestinians in Gaza",
+     "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T05:18:39+00:00",
+     "summary": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes.",
+     "image": ""
+    },
+    {
      "title": "What to know about upcoming peace talks involving Russian, Ukrainian and US officials",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPakxPNUtlQVRaamlTMEwtd1VCMDI3Z3FqR3pjQ3NNVzMzdjBEUW9xbE9rbTRvMU1EVGlGakJZcGxfZGZiX0JXcHBCeTgxLWxjVXR6THhKYjFJZUlBRHFqdHFHZjhGQWdaeVljck5oWWpmZmNVQ3piODFYdWxJcGdISkxYSzVPNm5oVVJrMzNnRnFfeWhlcHRSUTViUlpickZPZFdiQXg0WFplNHJjUXlNLW1NQ2pRNUg2U0Vj?oc=5",
      "source": "WTOP News",
@@ -169,14 +193,6 @@
      "source": "WTOP News",
      "published": "2026-11-09T05:05:08+00:00",
      "summary": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France&nbsp;&nbsp;WTOP News",
-     "image": ""
-    },
-    {
-     "title": "Ukraine-Russia war latest: Trump suggests Kyiv will \u2018\u200bend up with a different shape\u2019 after peace deal",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2R3UnBqTHB0LXdkWnYtTmFNQXJLNGJOYk1rdjc2VGN3dHJ6c1ljSWt0RlVFR0lzMWJ1b1o5SHZ2MzE2dXB2UE1CVkIwVXdfVmVSWGt0VFlSWVZwdFU0WDRxbTBiMXFhTFhvMFFBR1g1ZjZTaVd0VTYtNnA2RFVtcHljbmxFZURLM0tlbllzczBQZjFoUEZLWHN2dUQ5a0hMaUtlMWJiWm43LTZrREpvR2hZeWZOaVNvcVR4SzZfdnU?oc=5",
-     "source": "inkl",
-     "published": "2026-11-09T05:03:46+00:00",
-     "summary": "Ukraine-Russia war latest: Trump suggests Kyiv will \u2018\u200bend up with a different shape\u2019 after peace deal&nbsp;&nbsp;inkl",
      "image": ""
     },
     {
@@ -202,35 +218,43 @@
      "published": "2026-11-09T04:05:17+00:00",
      "summary": "Ukrainian forces reportedly strike Russia's second-largest oil refinery in overnight drone attack&nbsp;&nbsp;The Kyiv Independent",
      "image": ""
-    },
-    {
-     "title": "Rubio says war on Iran unpopular but \u2018necessary\u2019 to stop nuclear threat",
-     "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T04:02:18+00:00",
-     "summary": "US secretary of state says Iran&#039;s negotiation demands are &#039;outrageous and ridiculous, and really not realistic&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Trump says Ukraine will emerge with 'different shape' after Russia war",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEYzV2tPOWFQZkFCZTRWUld1QXR1VHA3dEtMOURyZUVKMmlzV1NrMFJOUDZhczBldC00Z2c2Tk1BNVRKWXZ2Sl9GanVCbEhpdGlxeHlEYnBTVC1CNG9UelQ1dTJLLUNGcVQxMWdZZ3NYMGExUl9UbXpCbTJXUmd3ZEtKLVlrN1VJVUlwRHJXUUtBZWdsS2VkM1lmVEx4dWdweXVDZjJ3bTU3dw?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-09T03:17:10+00:00",
-     "summary": "Trump says Ukraine will emerge with 'different shape' after Russia war&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T05:44:05.290376+00:00",
+   "fetched_at": "2026-11-09T06:14:08.798389+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "France\u2019s 2027 presidential election: RSF unveils 10 priorities for press freedom and calls on candidates to act",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3gxRzl1Zm5mdHVaaW5xN09XRmJBeU9SdzF2NWNDZ3hLU1I5QzdQRUIwbEpqUUZDTlJQakJNMm1aNlNJZUowN3RPQ0h6THJnS05tTWNBaGlBczBZN3kwdnZoZEZZU0lJR1pvbERlT1RGVVprWGFpU0pib1BfUEdtNlpvTmtHOVhOZ081NkJDNnJ3XzRIQ2I2ZjNvSWFtdWw5ak4zdmVmblVLM3pWSmtrQ2JyZlRkZw?oc=5",
+     "source": "RSF",
+     "published": "2026-11-09T06:03:47+00:00",
+     "summary": "France\u2019s 2027 presidential election: RSF unveils 10 priorities for press freedom and calls on candidates to act&nbsp;&nbsp;RSF",
+     "image": ""
+    },
+    {
+     "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
+     "source": "The Guardian",
+     "published": "2026-11-09T05:47:49+00:00",
+     "summary": "\u2018It\u2019s pretty obvious that there are all sorts of people making all sorts of comments,\u2019 Murray Watt says after budget savings meetingGet our breaking news email, free app or daily n",
+     "image": "https://i.guim.co.uk/img/media/0a251c36d8f4f67e296c116d611465daf42788cd/212_0_5048_4038/master/5048.jpg?width=140&quality=85&auto=format&fit=max&s=b1558db5c26a0a43c35a7d026786850e"
+    },
     {
      "title": "New York City DSA, Darializia Avila Chevalier, CC \u201916, celebrate Democratic wins on election night",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmZsQzJuWGF1c0theHlpQ0VJeFl6ZzU2YU9XTjRTQ3hMaDBaSWlxcENweFVIU0Y5UVBuQ2dPckhodHZhTlZTMWxDb3VBRHplekZuWXJGWnVaM3RfYk9KckVwdFVBY25MZVVjaUFfaThTMGJZTnB4a3hnSXVvcWVvaXNfdVZBelhHQnJqV0NNLS0xUzNkRGdSZ29FZEJOaHhhUWwwS2MtSWlDaUxuT21LNHpiaXV6cFJnMlBSNk9qRDZMT1JRMG5jU1Y2ZHpoS0FHM0NWWnppUElGQ3JtNDZYUVk4dDA?oc=5",
      "source": "Columbia Daily Spectator",
      "published": "2026-11-09T05:27:15+00:00",
      "summary": "New York City DSA, Darializia Avila Chevalier, CC \u201916, celebrate Democratic wins on election night&nbsp;&nbsp;Columbia Daily Spectator",
+     "image": ""
+    },
+    {
+     "title": "After knife-edge vote, New Zealand parties put off coalitions talks",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdG9aaHVheVNwM1NUdG0yTXFkeFlINXUzb2pCRzN0MG5EUFRhWU1vSVc2TlZpTEdBTl9YNW81SUFJXzdJVHAzbnpfZHFVSUFsWmJsSXBLeFJFX2c?oc=5",
+     "source": "BBC",
+     "published": "2026-11-09T05:10:33+00:00",
+     "summary": "After knife-edge vote, New Zealand parties put off coalitions talks&nbsp;&nbsp;BBC",
      "image": ""
     },
     {
@@ -267,11 +291,11 @@
     },
     {
      "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3NNTmtENDl0TDBVcElVRHFENGRTZUY2U0hzdi1VMGkyRWh4RFBxelk4NGxJYmc4T1h0akZGYVlHSmpfY0NGMG1waTlxQVZXV0lLWTZxQnpxeW9zWWg2a1NzR0RoZlNBLWQxU2RqdTRxbEFfYzhLdXRILUpLUkUyWlM1RE5lbWRFNFFVYWRmLWVoejVxTzM5UDNMSzBaazZma1lwdnJlejFMck9WTEZpYXctQ1dVVkpoczJEcEZHWQ?oc=5",
      "source": "The Guardian",
-     "published": "2026-11-09T04:55:15+00:00",
-     "summary": "Ben Carroll refuses to be drawn on latest opinion poll that puts Labor at all-time low of just 18%, behind One Nation on 21% and the Coalition on 33%Get our daily political email, ",
-     "image": "https://i.guim.co.uk/img/media/eb1414dc0eeede52985082395d9f3ea36f782c63/1248_827_3346_2677/master/3346.jpg?width=140&quality=85&auto=format&fit=max&s=be6e9c00cd74f32ee0ea1ed5b842f2d1"
+     "published": "2026-11-09T04:55:00+00:00",
+     "summary": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation&nbsp;&nbsp;The Guardian",
+     "image": ""
     },
     {
      "title": "Pope tells Argentina\u2019s Milei leaders should know limits of power",
@@ -296,35 +320,11 @@
      "published": "2026-11-09T04:42:05+00:00",
      "summary": "Incumbent Katie Hobbs (D) defeated Andy Biggs (R), Risa Lombardo (G), and Teri Hourihan (No Labels Party) in the general election for governor of Arizona&nbsp;&nbsp;Ballotpedia New",
      "image": ""
-    },
-    {
-     "title": "Patty Garcia (D) defeated Lupe Castillo (R), Ed Hershey (Working Class Party), and Chris Getty, a Democrat who ran as an independent, in the general election to represent Illinois' 4th Congressional District",
-     "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNMjdTeUJTOFlZTWVSWXlacnMtdURGZjdRRDFwSTV1dXZaQUFqR2haREtlbUJXZGQtSTk4MnlSa1ZPQzRHUjZfUFozTW42TGZfeXl2eThDcV8tMTNhY1c0Z255LWl3eUx5WWxEN3ZVY01MbzV2NFlkQmFxR2xRRWRYVXdxSUZacFVEU1MxeVVCQkNHMk0wUDQtQkVqZVd2UksyODh2ZEZibElRU19CeU5QQ2JtYXJvblg4ZUxabzB3SzdVOXBjeUM0MXllQ3gwWWNLMnJoek5lbm8tZkNOV3RyUTllMFF1WEpJZXc0VjJ4RDE2T2lQTzNHZnBhNFRnMThTaFdYVlZiUEF5UzF2aGdQcXF2NDk5LTBKLXpKbFVuZHJ2cEk0Y3lKZ3pYREhDbE0tRGd5Qm5nMFhrRnM4TV9sWUEtOGVtM0NyT3hSQQ?oc=5",
-     "source": "Ballotpedia News",
-     "published": "2026-11-09T04:37:00+00:00",
-     "summary": "Patty Garcia (D) defeated Lupe Castillo (R), Ed Hershey (Working Class Party), and Chris Getty, a Democrat who ran as an independent, in the general election to represent Illinois'",
-     "image": ""
-    },
-    {
-     "title": "New Zealand Dollar Climbs as Traders Await Election Result",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZUVjSk42R0l4dmpQWTE4dEFNLWs3YzBrMlQ1am1iRTNuMVI2NnFWODVfR0NQR2dSYjZ3c3dVZk95V2s3OEw4YllDcWk3b1huVmc2OWZJRkRXa0xnVXBxMzFXaldwZzc2eEhLZTg1djkzWVY0VkppSlAyZ0lmTC1Mem9LVVVWT1NWUmg3VVY5QnhjREEtSk9lNVZZZGhxTUN5MU9DQ25BZUo3dw?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-09T04:33:00+00:00",
-     "summary": "New Zealand Dollar Climbs as Traders Await Election Result&nbsp;&nbsp;WSJ",
-     "image": ""
-    },
-    {
-     "title": "Xavier Becerra (D) defeated Steve Hilton (R) in the general election for governor of California",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLXBwOUV1LUNVaExadDFzN0xyQXdJUENmV3E0ZE5Ed1g0ZUhXZTBvSW8tM0FkQldEOFN6RWFqd2VyXzlBR0pveFZ5cGkxOG9HbThBTWxPclJoQlZBcmczQWlPeWpZWjhybUFIVG5nalczTFpDTGQ1TnJtbEtTNG80QzF1OE9ZaTZyLXBXNHpHQ016Wkp2YnJ0MDRyeXE0ZWpqN0VkNnlYMS16V2ZTMVVUQUttNjJaaXNkMVFUbndnakNCeFJ2cDNoejY4QWE?oc=5",
-     "source": "Ballotpedia News",
-     "published": "2026-11-09T04:31:19+00:00",
-     "summary": "Xavier Becerra (D) defeated Steve Hilton (R) in the general election for governor of California&nbsp;&nbsp;Ballotpedia News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T05:44:05.290378+00:00",
+   "fetched_at": "2026-11-09T06:14:08.798392+00:00",
    "stale": false,
    "items": [
     {
