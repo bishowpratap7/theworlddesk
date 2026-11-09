@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-09T04:13:43.633369+00:00",
+ "generated_at": "2026-11-09T04:43:47.909461+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T04:13:43.633348+00:00",
+   "fetched_at": "2026-11-09T04:43:47.909438+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "New Delhi blanketed in toxic smog after Diwali fireworks",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T04:35:34+00:00",
+     "summary": "New Delhi woke up to thick smog after Diwali celebrations saw fireworks light up the city overnight.",
+     "image": ""
+    },
+    {
+     "title": "Asian stock markets climb after earlier tech rout",
+     "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T04:03:02+00:00",
+     "summary": "Markets rebound after tech rout triggered by Democrats&#039; sweeping victory in US midterm elections.",
+     "image": ""
+    },
+    {
+     "title": "Rubio says war on Iran unpopular but \u2018necessary\u2019 to stop nuclear threat",
+     "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T04:02:18+00:00",
+     "summary": "US secretary of state says Iran&#039;s negotiation demands are &#039;outrageous and ridiculous, and really not realistic&#039;.",
+     "image": ""
+    },
     {
      "title": "Trump tells 60 Minutes that deportation policy was \u2018too tough\u2019",
      "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
@@ -92,37 +116,21 @@
      "published": "2026-11-09T02:05:00+00:00",
      "summary": "G7 foreign ministers will revisit Russia\u2019s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open",
      "image": "https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg"
-    },
-    {
-     "title": "\u2018I never executed Jesse Baird\u2019: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-09T01:44:14+00:00",
-     "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024Warning: This article contains graphic contentGet our breaking news email",
-     "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0"
-    },
-    {
-     "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-09T01:30:36+00:00",
-     "summary": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper bodyGet our breaking news email, free app or daily news podcastFamily members ",
-     "image": "https://i.guim.co.uk/img/media/6cdcfeabc345f0a7e521638862e85ad5c5125b6e/0_174_1516_1212/master/1516.jpg?width=140&quality=85&auto=format&fit=max&s=da413ca53e68c59303cae117c71ea52d"
-    },
-    {
-     "title": "Drone attack suspends production at Iraq\u2019s Khor Mor gasfield",
-     "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T01:19:09+00:00",
-     "summary": "The strike leaves more than 70 percent of northern Iraq&#039;s Kurdish region without power.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T04:13:43.633358+00:00",
+   "fetched_at": "2026-11-09T04:43:47.909449+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Rubio says war on Iran unpopular but \u2018necessary\u2019 to stop nuclear threat",
+     "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T04:02:18+00:00",
+     "summary": "US secretary of state says Iran&#039;s negotiation demands are &#039;outrageous and ridiculous, and really not realistic&#039;.",
+     "image": ""
+    },
     {
      "title": "Trump says Ukraine will emerge with 'different shape' after Russia war",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEYzV2tPOWFQZkFCZTRWUld1QXR1VHA3dEtMOURyZUVKMmlzV1NrMFJOUDZhczBldC00Z2c2Tk1BNVRKWXZ2Sl9GanVCbEhpdGlxeHlEYnBTVC1CNG9UelQ1dTJLLUNGcVQxMWdZZ3NYMGExUl9UbXpCbTJXUmd3ZEtKLVlrN1VJVUlwRHJXUUtBZWdsS2VkM1lmVEx4dWdweXVDZjJ3bTU3dw?oc=5",
@@ -196,48 +204,56 @@
      "image": ""
     },
     {
-     "title": "\u2018I never executed Jesse Baird\u2019: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
+     "title": "France's far-left leader attacked for remarks on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3JuWnJGeXpnM2RXdDlQUWJFZktPbExZQTJDZUxCREFLd2FDQVphQ3BTR3drZVZWNUk5OG02TnZhOE1QTFRPTUthQVNnQlVmNlhuWlRBdXJ1UkhFU0dfSE5VQWZJcG9jNUtkMnptTDJ2S2dQaTNpd0xHa2EwLU5iNEdhQ2NHTG9mNS1Zd0VaQkpfVjY2RkxGNVVaOEI?oc=5",
+     "source": "Bangkok Post",
+     "published": "2026-11-09T01:46:00+00:00",
+     "summary": "France's far-left leader attacked for remarks on Ukraine&nbsp;&nbsp;Bangkok Post",
+     "image": ""
+    },
+    {
+     "title": "\u2018I never executed Jesse Baird\u2019: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
      "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-09T01:44:14+00:00",
      "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024Warning: This article contains graphic contentGet our breaking news email",
      "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0"
-    },
-    {
-     "title": "Drone attack suspends production at Iraq\u2019s Khor Mor gasfield",
-     "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T01:19:09+00:00",
-     "summary": "The strike leaves more than 70 percent of northern Iraq&#039;s Kurdish region without power.",
-     "image": ""
-    },
-    {
-     "title": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 Trump thinks the Ukraine war could END soon, but Ukraine might not look the same on the map. \u201cThey're going to end up with a little bit different shape Ukraine.\u201d He's openly suggesting a peace deal could involve territorial changes. The big question is",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11SW0xekg2aUhyenJfaGFYRTZxTWZrUEp2UDRoQThzUHlLRGdWc3p5Mld5ODcyODZ0T2VsbzYtOXo1akRpZkpPdXBIc2w0bXdXUE1qWWx5SGV0NjgyV0ZIMlQyVFRWdERXNDVDZQ?oc=5",
-     "source": "X",
-     "published": "2026-11-09T00:48:00+00:00",
-     "summary": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 Trump thinks the Ukraine war could END soon, but Ukraine might not look the same on the map. \u201cThey're going to end up with a little bit different shape Ukraine.\u201d He's openly s",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T04:13:43.633360+00:00",
+   "fetched_at": "2026-11-09T04:43:47.909452+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Israel Election 2026 live updates: Eisenkot receives mandate to build coalition",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvcFRRNWVwT2x4cERqNEZJT1loS1ViRmlHNndnR1hpTVozUC1seXBXeXNna1JZWGJyTmZZcHE3ck1LY19uY0lVT3hOR0xuZHFDelpJWHNTM1RwRlMtSjV3S253c1gtV0lJb0l1X3BfTm1EZjFSWVNMNmdXUXNBZw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-09T04:00:05+00:00",
-     "summary": "Israel Election 2026 live updates: Eisenkot receives mandate to build coalition&nbsp;&nbsp;The Jerusalem Post",
+     "title": "New Zealand Dollar Climbs as Traders Await Election Result",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZUVjSk42R0l4dmpQWTE4dEFNLWs3YzBrMlQ1am1iRTNuMVI2NnFWODVfR0NQR2dSYjZ3c3dVZk95V2s3OEw4YllDcWk3b1huVmc2OWZJRkRXa0xnVXBxMzFXaldwZzc2eEhLZTg1djkzWVY0VkppSlAyZ0lmTC1Mem9LVVVWT1NWUmg3VVY5QnhjREEtSk9lNVZZZGhxTUN5MU9DQ25BZUo3dw?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-09T04:33:00+00:00",
+     "summary": "New Zealand Dollar Climbs as Traders Await Election Result&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
+     "title": "Bruising New Zealand Election",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVk1hdVdkRkxxYjdSRFpycTVpN0N2NnotaXRYZ2l5QzdONlNsTEZBU2lxaEx0RmlLQkRVcUhkSjVFWHVYQzBoZ2UzazdEYURRdVJoRzdTRE1kQkxSUnA5V2c0YjRvT2h1N3hRZlJqTEZKWVdvVVNYMUhHTUZWTnJJcWlMRG55cklHQXpLUU5jN05CRnRNOFlSaXQ4emQ1S1Qxamh2SXRWV1VRNWhhUzFVV0dXb0xTeHhN?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-09T04:31:03+00:00",
+     "summary": "Bruising New Zealand Election&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "Asian stock markets climb after earlier tech rout",
+     "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T04:03:02+00:00",
+     "summary": "Markets rebound after tech rout triggered by Democrats&#039; sweeping victory in US midterm elections.",
      "image": ""
     },
     {
      "title": "Trump tells 60 Minutes that deportation policy was \u2018too tough\u2019",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUEwX0dLYVM0YWRDdkQtM05Iam00dklQbWFzTEhfLWFRS0ZiRkNHNUd6REVBdW93NlprWlFQMXVaRDM2cmk1WjhWbVl0c21vZk5pcG0zVFJfSDVydWMxVVJtQzlTQVBMNEhrU3h2bHZQUGdZcngxanpHTjMyRGhfLUxrXzRfelBndDN0bDc4aEd1WGs2QVdBeWVLMWRJZjlFUVM3TWxoeHF2d2RkbzlleWluUnJ1Zw?oc=5",
      "source": "The Guardian",
-     "published": "2026-11-09T03:59:00+00:00",
+     "published": "2026-11-09T04:01:00+00:00",
      "summary": "Trump tells 60 Minutes that deportation policy was \u2018too tough\u2019&nbsp;&nbsp;The Guardian",
      "image": ""
     },
@@ -247,6 +263,14 @@
      "source": "NBC News",
      "published": "2026-11-09T03:46:04+00:00",
      "summary": "Trump says deportation policy was \u2018too tough\u2019&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "Trump says his deportation policy \u2018might be too tough\u2019 for voters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVG52clFDTEQybEpySWxsaV9WaDNjVDI2d2IwR3R5X21iZWJ0TC1rUmNvU1I0amY1al90UWhzZTRPNFB4OWdRTFp0alR5ZTRCTklBem5wY05CU0w0NmtKNVREYmI0SkRwNlUtaGpreUtfNDNNcERsNmJ2a256NEhXd0hiOF8xRmlOWkVacVFiN2dPLXVEMWROekNhNHNQS1liclctQXdySWl2Uy10cVFQOTJ0a1ZwUkhXSlBmc1BwRFNYZw?oc=5",
+     "source": "Los Angeles Times",
+     "published": "2026-11-09T03:38:07+00:00",
+     "summary": "Trump says his deportation policy \u2018might be too tough\u2019 for voters&nbsp;&nbsp;Los Angeles Times",
      "image": ""
     },
     {
@@ -296,37 +320,21 @@
      "published": "2026-11-09T02:11:25+00:00",
      "summary": "Pontiff tells Argentina\u2019s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Ja",
      "image": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66"
-    },
-    {
-     "title": "Portland election results: Where key races stand",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWpkSS12c1hwTkJ6eXJkNWZYQ2JmU3lUU0hXTHMwRHRGOXFJNmtLeGdaRkNhaDlaZHNLTGw3bnpDVU4wUzVzQmZyTWMwVkttWklGTlduTnJzZnpSd3FDQU1lRGZwYVB3d3RmdG9wRjZKRUlScF9MQUYxSzZfRTc0SXRZT0NjcnpJYWluTm5EbmRqVG90NE9nV2lTRnl3VW11?oc=5",
-     "source": "Axios",
-     "published": "2026-11-09T02:10:10+00:00",
-     "summary": "Portland election results: Where key races stand&nbsp;&nbsp;Axios",
-     "image": ""
-    },
-    {
-     "title": "The New Political Era: Less Party Loyalty, Big Election Swings",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzNGTHRRcFBpdUdkLTkwYlYxNFNQZ2IwMVRwQWk0ZnJfUVAxYzYwRkZpRnBoOHgtTVBkRlFNQ3JzTTAxYThLcnFoSHp6V0RCQ3hLN0RHWWVmaDBUemVSc1VPaGtzYkJvUnpGQ0Y3d3NrNWx4VExwRG1KNkhLRTFMTlpWVk1fRzIwOUZyV2pFYWJVZXFsTkRtaG9yNGl5dnpxQ1lwbw?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-09T02:00:00+00:00",
-     "summary": "The New Political Era: Less Party Loyalty, Big Election Swings&nbsp;&nbsp;WSJ",
-     "image": ""
-    },
-    {
-     "title": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdS16MHhHTm9BaFNxQWlxTTl4Mm1YbHktbTZ3Yi0yY1MtdkJSQ0Q0RWI0eko3cVhDVHlybTBMTU05cDhwdG5oQzhVSS1ndXhfOWV6eEQ1M2J0cFI0SzFXenhSMWF1YzcyNkVzQ3lDVVRVVWhGbVA2cHdPV3BHc3B2UG82eUxHcHFCbHJ5c2xCU05nU01uYlJjU1pMZU5XWUFHdFFlaV9ma0RPOGFwYmVsY3dtTTcxQQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-09T01:42:00+00:00",
-     "summary": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles&nbsp;&nbsp;Reuters",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T04:13:43.633362+00:00",
+   "fetched_at": "2026-11-09T04:43:47.909454+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Asian stock markets climb after earlier tech rout",
+     "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T04:03:02+00:00",
+     "summary": "Markets rebound after tech rout triggered by Democrats&#039; sweeping victory in US midterm elections.",
+     "image": ""
+    },
     {
      "title": "Global stocks fall amid \u2018big worries over AI\u2019 after Democrats\u2019 midterms triumph",
      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
