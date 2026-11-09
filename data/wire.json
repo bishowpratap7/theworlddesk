@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-09T03:43:40.184573+00:00",
+ "generated_at": "2026-11-09T04:13:43.633369+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T03:43:40.184556+00:00",
+   "fetched_at": "2026-11-09T04:13:43.633348+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump tells 60 Minutes that deportation policy was \u2018too tough\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+     "source": "The Guardian",
+     "published": "2026-11-09T03:59:31+00:00",
+     "summary": "President makes unusual acknowledgement that one of the defining policies of his second administration had become a political liabilityDonald Trump has admitted that his deportatio",
+     "image": "https://i.guim.co.uk/img/media/d2da9c964ff03b1b8443aa38f9c263277095235f/342_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9ae8ba5f3541258c3c8258fbdbdcf373"
+    },
+    {
+     "title": "Man accused of HungryPanda delivery rider\u2019s stabbing murder yells and exposes himself in Melbourne court",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-09T03:47:21+00:00",
+     "summary": "Roberto Urbano, 51, appears in court via video link after death of 47-year-old Feng Jianming in the CBD on Friday nightGet our breaking news email, free app or daily news podcastA ",
+     "image": "https://i.guim.co.uk/img/media/4954ad8d5503c8161345548e255e4fdf2719dd1d/585_40_1083_867/master/1083.jpg?width=140&quality=85&auto=format&fit=max&s=5ec33b002d331556a841dce611707272"
+    },
+    {
+     "title": "Mexico arrests alleged major leader of Jalisco cartel",
+     "url": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T03:42:57+00:00",
+     "summary": "Rafael Alvarez, alias &#039;R2&#039;, was captured with intelligence shared by the \u2060US Drug Enforcement Administration.",
+     "image": ""
+    },
     {
      "title": "\u2018Outrageous and racist\u2019: premier responds to NSW One Nation candidate\u2019s claim Australians are being \u2018demographically replaced\u2019",
      "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
@@ -92,35 +116,11 @@
      "published": "2026-11-09T01:19:09+00:00",
      "summary": "The strike leaves more than 70 percent of northern Iraq&#039;s Kurdish region without power.",
      "image": ""
-    },
-    {
-     "title": "Trump vows comeback as parties clash over Democrat prosecution threats",
-     "url": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats",
-     "source": "\u00a9 Alex WROBLEWSKI, AFP",
-     "published": "2026-11-09T01:13:10+00:00",
-     "summary": "President Donald Trump vowed a political comeback on Sunday after Republicans lost control of Congress in last Tuesday\u2019s midterms, as incoming Democratic leaders pledged to hold hi",
-     "image": "https://s.france24.com/media/display/796e5ff4-dafa-11f1-83cc-1beafce15fea/w:1024/p:16x9/aa618a3631bceeecb3b6ee36d3cb0b937c9f5f89.jpg"
-    },
-    {
-     "title": "Trump says he was \u2018only kidding\u2019 about making UFC\u2019s Dana White next press secretary",
-     "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
-     "source": "The Guardian",
-     "published": "2026-11-09T01:10:55+00:00",
-     "summary": "President says it was \u2018just a little fun\u2019 to picture White, UFC boss and Trump\u2019s friend, in briefing room with fightersDonald Trump said on Sunday that he \u201cwas only kidding\u201d when h",
-     "image": "https://i.guim.co.uk/img/media/bd59d8bbfe95eb6a46d7a98c6c485d6c246d296c/1023_574_3265_2613/master/3265.jpg?width=140&quality=85&auto=format&fit=max&s=6f79b9b2de71d5627a16c8f3746aa578"
-    },
-    {
-     "title": "Maya Jama steps down as Love Island host after nine seasons",
-     "url": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
-     "source": "The Guardian",
-     "published": "2026-11-09T00:43:39+00:00",
-     "summary": "\u2018Time to throw myself into something new,\u2019 32-year-old presenter announces on social media while hailing her \u2018unforgettable time\u2019 on the showMaya Jama has announced she is stepping",
-     "image": "https://i.guim.co.uk/img/media/066efd5ebd16c1941181a5d4525fb02da2a33a6f/446_0_3804_3044/master/3804.jpg?width=140&quality=85&auto=format&fit=max&s=ea502f242227544cec124dc3deb52191"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T03:43:40.184564+00:00",
+   "fetched_at": "2026-11-09T04:13:43.633358+00:00",
    "stale": false,
    "items": [
     {
@@ -188,6 +188,14 @@
      "image": ""
     },
     {
+     "title": "Trump Blames \u2018Hatred\u2019 Between Zelenskyy And Putin For Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWRSR1l4N2piZFh4bjlOeTJEM1BRMG1WNlIxTUU2b0RvaUFpUlhXMWtBdzdZRUs0QkdwOG90dkRKYkFoNVRtTkE0eHV0Vm9NbmxqQUZsV1dLSTQzYkVZNzBmY2Q5U1BXdGdBVUMwWUwxZlhGM01QdWk5eDhWaHlwWFYzNXlBQkNqNzlzUkJHNlEzekxId3llUV92dTlFZnR1LUNLRmN2TzBZd9IBrwFBVV95cUxQZE0xZGVIWk85SWVzS0ZNTThwcGE1eUM4MXZBSFZTTkVPY1JfZnY3YTg2Q0ZZeG5SU3pDeV9ZM0hpazRONzZJWTJWbEpVSVY5Ny1nem1JM2tiSmFwLVFhMDJQdXBETXJKMUVLMHNGMDczbjJqLWxMcG15emdhWFNvZmNtUmp1MlZIbVBiWDRTSWxWVHRDQW8yMS1La2RiOWxBYk0yY0I0Y1BYaXFMVTFN?oc=5",
+     "source": "News18",
+     "published": "2026-11-09T01:52:09+00:00",
+     "summary": "Trump Blames \u2018Hatred\u2019 Between Zelenskyy And Putin For Ukraine War&nbsp;&nbsp;News18",
+     "image": ""
+    },
+    {
      "title": "\u2018I never executed Jesse Baird\u2019: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
      "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
      "source": "The Guardian",
@@ -210,21 +218,37 @@
      "published": "2026-11-09T00:48:00+00:00",
      "summary": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 Trump thinks the Ukraine war could END soon, but Ukraine might not look the same on the map. \u201cThey're going to end up with a little bit different shape Ukraine.\u201d He's openly s",
      "image": ""
-    },
-    {
-     "title": "Hacked records show 400,000 Russians killed in war on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSlVjU0w4RGtCeFZDZWM5MlVfcTZmUjdtYnplTlgwdDRkcGg2Sm1ybUY4b2FPOERqNGhfM0pNeEE3bm1yMWJpTDZGUlpxWkhQT2xkN09UZHZjNm80WEo2aVB3eVBxSHFWT2F1Ymh1RzQtWVB4TmFUbkJ5VlhwTGR1VWRmYVBTaHgyblE?oc=5",
-     "source": "The Japan Times",
-     "published": "2026-11-09T00:40:00+00:00",
-     "summary": "Hacked records show 400,000 Russians killed in war on Ukraine&nbsp;&nbsp;The Japan Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T03:43:40.184567+00:00",
+   "fetched_at": "2026-11-09T04:13:43.633360+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Israel Election 2026 live updates: Eisenkot receives mandate to build coalition",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvcFRRNWVwT2x4cERqNEZJT1loS1ViRmlHNndnR1hpTVozUC1seXBXeXNna1JZWGJyTmZZcHE3ck1LY19uY0lVT3hOR0xuZHFDelpJWHNTM1RwRlMtSjV3S253c1gtV0lJb0l1X3BfTm1EZjFSWVNMNmdXUXNBZw?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-09T04:00:05+00:00",
+     "summary": "Israel Election 2026 live updates: Eisenkot receives mandate to build coalition&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "Trump tells 60 Minutes that deportation policy was \u2018too tough\u2019",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUEwX0dLYVM0YWRDdkQtM05Iam00dklQbWFzTEhfLWFRS0ZiRkNHNUd6REVBdW93NlprWlFQMXVaRDM2cmk1WjhWbVl0c21vZk5pcG0zVFJfSDVydWMxVVJtQzlTQVBMNEhrU3h2bHZQUGdZcngxanpHTjMyRGhfLUxrXzRfelBndDN0bDc4aEd1WGs2QVdBeWVLMWRJZjlFUVM3TWxoeHF2d2RkbzlleWluUnJ1Zw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-09T03:59:00+00:00",
+     "summary": "Trump tells 60 Minutes that deportation policy was \u2018too tough\u2019&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Trump says deportation policy was \u2018too tough\u2019",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdXJoWnRUTEF1aWwxX25xNWpHMndXYWtncTNFTDFUM1ZSUmxvZVkxbk54eE5GS05mSEtuX25pdHRCeUMwcy1fa1dqNmd0ZWtTY1ozeWczU0NHcm5XWUxwcVBYUnA2akl5NnJhTU4ySDg2MnZUYVFQck5ObXJMOUZXRVM3bnNMOTJEWk5senFaWVk0aWpLa0dDSA?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-09T03:46:04+00:00",
+     "summary": "Trump says deportation policy was \u2018too tough\u2019&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
     {
      "title": "\u201860 Minutes\u2019 takeaways: Trump calls deportation policy \u2018too tough\u2019",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDNYRmZFckVmU1A0bG9QbE03UHgzdnh6SWpVRTlucFd4SE5QZzdLU2pKdGdXd0hzYWRGRGQ2TDdqRmV4MlNiam13T2xxOVJuRGtrYnc5cUVLZGN5cUhJMFRJMWVuYkY4ODUzRDctLXNKUFhPRHh0WTBVVXdkRG5hUGpfbDlJcy10N0lLSkNBSS0wRE9lYUx3T28wS295QVgwcElzN2l6cWx0OW5QTHZqcTFzQQ?oc=5",
@@ -239,14 +263,6 @@
      "source": "Al Jazeera",
      "published": "2026-11-09T03:09:51+00:00",
      "summary": "South Africa&#039;s ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
-     "image": ""
-    },
-    {
-     "title": "U.S. dollar holds onto payrolls gains, NZ dollar rises after election",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSUYyclpRR1BKNWFtY2UtSVppQklwSjJ4eUFsRlY1ejhVMmNjSmFKWU94UUpZemxQWWU1dTY2MmFJYXpvNWVoY2FPc1VIRzdUTDRFSC11SldydldwZlB4c1pDQ1VyTVh2VDBxN2NTNEQ1TDlaaXo1M19uRFZhRmh3WWkyUml0eDdtMU95c19MYUNIckhjRFlLcHk1X3B6SDdfSFRkV0F3?oc=5",
-     "source": "CNBC",
-     "published": "2026-11-09T03:06:00+00:00",
-     "summary": "U.S. dollar holds onto payrolls gains, NZ dollar rises after election&nbsp;&nbsp;CNBC",
      "image": ""
     },
     {
@@ -274,14 +290,6 @@
      "image": ""
     },
     {
-     "title": "Trump says his deportation agenda was \u2018too tough,\u2019 repeating interest in a deal with Dems",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblloaElENXNOcWlSb2Q1NXlyX2VmX2lUaXR6YW16VWJSN181eEx4WlJ5Vk1tRjkyVXQyaDFlTFVEVmRjelY1THpZQU1Vbkk5eGFSZ0x4QlR6cFBtSUVzMXhnRHh5NHpHNnVFZzlFT1JyLWJlS0ZUZ3B0Nmg2Z3JmUDZaVVh2ZkZsTnRPUg?oc=5",
-     "source": "Politico",
-     "published": "2026-11-09T02:22:00+00:00",
-     "summary": "Trump says his deportation agenda was \u2018too tough,\u2019 repeating interest in a deal with Dems&nbsp;&nbsp;Politico",
-     "image": ""
-    },
-    {
      "title": "Pope Leo delivers stinging rebuke of Milei\u2019s austerity measures during Argentina visit",
      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
      "source": "The Guardian",
@@ -306,14 +314,6 @@
      "image": ""
     },
     {
-     "title": "Former A&M System Chancellor John Sharp to receive Texas Lyceum honor, weighs in on election",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2pObG5sb1pxa0w4ZzV4QjhuT09INFUwNGp2WDdBTzhKT3hiU3hEU3p1VXRlNlNRUDBmeUphdmd3dnB0LXlwSTBNSVdTVnRSTkJKeXduZkJNLUtYbE5seEt5ZUtnYnlYMWhzQ1ZQeHZtNUF1ZkF3VXhyYzU0ejJ2d3FlVXN5ZDY0bmdzWDliNkhaaVFxaDljX3puSURKWG1RZGUzUTFmYjlOaFRiSlROaHpma3fSAcgBQVVfeXFMTzRwNjQzTVhOc05IekZuVHR4cWxaT05ackdlV2N1M2NNbWdLOERuVU80YVhjaDNfVlJNTm9CUVJvRWlWM0JObWFBZFFQclNObGxad3VDTnZ4cC1jaEwza2xIeW1UNWdLemVqTGhjanZrdFgycnp3VnpuRnVjQWJvZS1YX1pCTnNEd1dKdVNzcTZ3X1dMQjVuOTc3LTFTRVJmODNvWlhHcG1mYWRabFVZZ2Z3NXZIVVRmaXlqQlI1alhFVk1NSmxLelQ?oc=5",
-     "source": "KBTX News 3",
-     "published": "2026-11-09T01:50:00+00:00",
-     "summary": "Former A&M System Chancellor John Sharp to receive Texas Lyceum honor, weighs in on election&nbsp;&nbsp;KBTX News 3",
-     "image": ""
-    },
-    {
      "title": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdS16MHhHTm9BaFNxQWlxTTl4Mm1YbHktbTZ3Yi0yY1MtdkJSQ0Q0RWI0eko3cVhDVHlybTBMTU05cDhwdG5oQzhVSS1ndXhfOWV6eEQ1M2J0cFI0SzFXenhSMWF1YzcyNkVzQ3lDVVRVVWhGbVA2cHdPV3BHc3B2UG82eUxHcHFCbHJ5c2xCU05nU01uYlJjU1pMZU5XWUFHdFFlaV9ma0RPOGFwYmVsY3dtTTcxQQ?oc=5",
      "source": "Reuters",
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T03:43:40.184568+00:00",
+   "fetched_at": "2026-11-09T04:13:43.633362+00:00",
    "stale": false,
    "items": [
     {
