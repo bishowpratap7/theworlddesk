@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-09T22:46:58.795373+00:00",
+ "generated_at": "2026-11-09T23:17:02.582456+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T22:46:58.795334+00:00",
+   "fetched_at": "2026-11-09T23:17:02.582429+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T23:01:32+00:00",
+     "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f6c/live/69536370-dc90-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Trump says US war in Iran \u2018effectively over\u2019 as he plays down escalation concerns",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+     "source": "The Guardian",
+     "published": "2026-11-09T22:58:31+00:00",
+     "summary": "President, after talks with Qatari PM, suggests end to war coming \u2018fairly soon\u2019 and military escalation not neededDonald Trump has said that the war in Iran is \u201ceffectively over\u201d a",
+     "image": "https://i.guim.co.uk/img/media/b6e8e114809ae6a1208d9050901c18957d8b648d/269_0_3983_3188/master/3983.jpg?width=140&quality=85&auto=format&fit=max&s=a7905f32e879226b8bd6716b80ca6682"
+    },
+    {
+     "title": "US Defense Secretary Hegseth faces expected impeachment vote this week",
+     "url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+     "source": "France 24",
+     "published": "2026-11-09T22:51:39+00:00",
+     "summary": "A Republican lawmaker moved Monday to impeach US Defense Secretary Pete Hegseth over the war in Iran, setting up a potentially explosive vote in Congress days after President Donal",
+     "image": "https://s.france24.com/media/display/20a94370-dc8f-11f1-a9ca-1beafce15fea/w:1024/p:16x9/EN-20261109-233324-233828-CS.jpg"
+    },
+    {
+     "title": "Dana White declines Trump\u2019s offer to be White House press secretary",
+     "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T22:46:27+00:00",
+     "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5518/live/8dd96f20-dc8e-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T22:44:38+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
     {
      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
@@ -22,12 +62,12 @@
      "image": "https://s.france24.com/media/display/37a1d2ea-dc8a-11f1-b381-1beafce15fea/w:1024/p:16x9/EN-20261109-230143-230334-CS.jpg"
     },
     {
-     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T22:31:03+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+     "title": "Trump calls Iran war \u2018effectively over\u2019 after talks with Qatar PM",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T22:31:19+00:00",
+     "summary": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested a close to the war.",
+     "image": ""
     },
     {
      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
@@ -76,53 +116,45 @@
      "published": "2026-11-09T22:10:52+00:00",
      "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
      "image": ""
-    },
-    {
-     "title": "South Africa\u2019s ANC suffers a historic setback in local elections as coalition talks begin",
-     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin",
-     "source": "France 24",
-     "published": "2026-11-09T21:54:11+00:00",
-     "summary": "South Africa\u2019s ruling ANC suffers its worst-ever local election results, securing just 30% of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence off",
-     "image": "https://s.france24.com/media/display/346c3b5e-dc87-11f1-b0e6-bf1914cabd52/w:1024/p:16x9/capture-aa965032.jpg"
-    },
-    {
-     "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-     "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T21:52:28+00:00",
-     "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfeb/live/25c9f050-dc7d-11f1-ba95-5f07efd49f42.jpg"
-    },
-    {
-     "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
-     "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
-     "source": "\u00a9 Gavriil Grigorov, Reuters",
-     "published": "2026-11-09T21:46:23+00:00",
-     "summary": "Negotiators from Ukraine, Russia and the United States are set to meet in the capital of the United Arab Emirates (UAE) on Tuesday for a new round of talks aimed at ending nearly f",
-     "image": "https://s.france24.com/media/display/8e77aaca-dc82-11f1-9693-a575454bc579/w:1024/p:16x9/2026-11-05T090059Z-1254041086-RC26DNA29012-RTRMADP-3-UKRAINE-CRISIS-USA-RUSSIA.jpg"
-    },
-    {
-     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T21:37:02+00:00",
-     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-     "title": "US citizen shot by ICE officer near children\u2019s bus stop sues government for $25m",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california",
-     "source": "The Guardian",
-     "published": "2026-11-09T21:31:26+00:00",
-     "summary": "Lawsuit also alleges agents followed Carlos Jimenez to a hospital and \u2018interfered\u2019 in his care, with bullet fragments still lodged near lungA US citizen who was shot by an immigrat",
-     "image": "https://i.guim.co.uk/img/media/a703f33093b62de097eb6f06e90fc36bda19b4a1/1684_0_4018_3213/master/4018.jpg?width=140&quality=85&auto=format&fit=max&s=50d8609492e3bab71f342675dddf7c2c"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T22:46:58.795349+00:00",
+   "fetched_at": "2026-11-09T23:17:02.582442+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 10, 2026 from Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56TF92cFBBZUxSQzRERmxqZEZFTnNXV2NUSDJkb1I1Wk9ScE1lRGhpcmdiNjVGcnhwMGtFMHV5aEhxdkFEMl9qSkhGS2J2Zw?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-09T23:01:05+00:00",
+     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 10, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
+    {
+     "title": "Trump says US war in Iran \u2018effectively over\u2019 as he plays down escalation concerns",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+     "source": "The Guardian",
+     "published": "2026-11-09T22:58:31+00:00",
+     "summary": "President, after talks with Qatari PM, suggests end to war coming \u2018fairly soon\u2019 and military escalation not neededDonald Trump has said that the war in Iran is \u201ceffectively over\u201d a",
+     "image": "https://i.guim.co.uk/img/media/b6e8e114809ae6a1208d9050901c18957d8b648d/269_0_3983_3188/master/3983.jpg?width=140&quality=85&auto=format&fit=max&s=a7905f32e879226b8bd6716b80ca6682"
+    },
+    {
+     "title": "US Defense Secretary Hegseth faces expected impeachment vote this week",
+     "url": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+     "source": "France 24",
+     "published": "2026-11-09T22:51:39+00:00",
+     "summary": "A Republican lawmaker moved Monday to impeach US Defense Secretary Pete Hegseth over the war in Iran, setting up a potentially explosive vote in Congress days after President Donal",
+     "image": "https://s.france24.com/media/display/20a94370-dc8f-11f1-a9ca-1beafce15fea/w:1024/p:16x9/EN-20261109-233324-233828-CS.jpg"
+    },
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T22:44:38+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
     {
      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
@@ -140,12 +172,12 @@
      "image": "https://s.france24.com/media/display/37a1d2ea-dc8a-11f1-b381-1beafce15fea/w:1024/p:16x9/EN-20261109-230143-230334-CS.jpg"
     },
     {
-     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T22:31:03+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+     "title": "Trump calls Iran war \u2018effectively over\u2019 after talks with Qatar PM",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T22:31:19+00:00",
+     "summary": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested a close to the war.",
+     "image": ""
     },
     {
      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
@@ -164,6 +196,14 @@
      "image": ""
     },
     {
+     "title": "Russia, Ukraine envoys to talk ceasefire monitoring, territory",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmpDRERmaFpSd0N3MkxpZjE5anpGWWlnRUlTbkhncHFISk5zYzBEdDRKc0dIYW5iVWRyYkpMeWNrc2l3NTY4SUJSOGlzMkwtS3hSRWVfTndsTHNiN0JPeHA2VlVvMWFkVEdTd2ZrdHRLNTBfR1oxeG9tQ2ZUd3hnbk5xbEFQMW5HdWFpUVhiUHd3VkQ4ZEt5bnduWQ?oc=5",
+     "source": "The Japan Times",
+     "published": "2026-11-09T22:09:00+00:00",
+     "summary": "Russia, Ukraine envoys to talk ceasefire monitoring, territory&nbsp;&nbsp;The Japan Times",
+     "image": ""
+    },
+    {
      "title": "Zelenskiy says Ukrainian battlefield successes strengthen Kyiv's position in talks",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTNKamlkSnJ6NEcySjNHQmxfV201UWQyZ2Z0X0tnV1kxek92UW9EZktBMzR1eDZrQmJiUHVMU1kxVGJiNHZiZHpSN3hQOU12TnU2OXdPYVJrZXJZMUgzZk1Sd0RVYVlPODVxZVh5dUFwSXBCTk9DVHhUSnhQNUlseFVqaFVaNElpRUt5RnphZENYNUpL?oc=5",
      "source": "AOL.com",
@@ -178,53 +218,53 @@
      "published": "2026-11-09T21:57:40+00:00",
      "summary": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi&nbsp;&nbsp;The Washington Post",
      "image": ""
-    },
-    {
-     "title": "South Africa\u2019s ANC suffers a historic setback in local elections as coalition talks begin",
-     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin",
-     "source": "France 24",
-     "published": "2026-11-09T21:54:11+00:00",
-     "summary": "South Africa\u2019s ruling ANC suffers its worst-ever local election results, securing just 30% of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence off",
-     "image": "https://s.france24.com/media/display/346c3b5e-dc87-11f1-b0e6-bf1914cabd52/w:1024/p:16x9/capture-aa965032.jpg"
-    },
-    {
-     "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
-     "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
-     "source": "\u00a9 Gavriil Grigorov, Reuters",
-     "published": "2026-11-09T21:46:23+00:00",
-     "summary": "Negotiators from Ukraine, Russia and the United States are set to meet in the capital of the United Arab Emirates (UAE) on Tuesday for a new round of talks aimed at ending nearly f",
-     "image": "https://s.france24.com/media/display/8e77aaca-dc82-11f1-9693-a575454bc579/w:1024/p:16x9/2026-11-05T090059Z-1254041086-RC26DNA29012-RTRMADP-3-UKRAINE-CRISIS-USA-RUSSIA.jpg"
-    },
-    {
-     "title": "Trump says a potential agreement with Moscow could extend beyond Ukraine and reshape Europe's security order",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRkZCRW9VSUlyY0JaN2xUME5saW9IRFJPbkJDc19VWGpQMXRJNDgxNjFnbi04Y0E5X3FJVjB4WUgzVm9GSE1DZVlKUG9JX19EaDA2ak9OdzJ5N2g3cXRGRGpnZ1ZobFE4VzdkRDFXUU5NbXI2aDZtSjRDcHZHbUIyNnZoanEteExvOUc2dEJrcw?oc=5",
-     "source": "Latin Times",
-     "published": "2026-11-09T21:18:39+00:00",
-     "summary": "Trump says a potential agreement with Moscow could extend beyond Ukraine and reshape Europe's security order&nbsp;&nbsp;Latin Times",
-     "image": ""
-    },
-    {
-     "title": "COP31 opens amid energy crisis as activists demand climate action",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T21:18:25+00:00",
-     "summary": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
-     "image": ""
-    },
-    {
-     "title": "US asks Russia to agree to NATO-like backing for Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6d0NlVkIySXB5U1Y1c3MteERBaVdfQWxpVnNZTk9uMlBkTC1LazVWUnctT1NkR0xlZV9BbzhEVTBlVEUtcWZBTUtzZURxdWNOa3JyVng5aDd0aEpIQ3dTcmxhQ2Z3U0pHQkJGdV93VE9teWVxMFhXTmY4UmE?oc=5",
-     "source": "Politico",
-     "published": "2026-11-09T21:00:00+00:00",
-     "summary": "US asks Russia to agree to NATO-like backing for Ukraine&nbsp;&nbsp;Politico",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T22:46:58.795352+00:00",
+   "fetched_at": "2026-11-09T23:17:02.582445+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Secretary of State to investigate Shelby County Election Commission",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOWFNTHpLcUxHdTdNcW5zSGxkVEF3VGZwekdfbV9MTlZtQXVkd2NDZXgtb19YZ2pncjM5ekZPclpGYkVYcnJjMnE5dHZnOGFVSDhIUU1kRWZGcnkwemJpSjN2a3Z4Z2ZPVFU5djRRNUp6V1pLWC1Cc3piRFdyU2VscFNCMU9sVWUzLW1rUUFieWdGbmthR05aMUNETzN6Rm5iRncwY3ZuOU56cUw4NjduajVpaDhPYWV6T3pYTjFmNzN2M3UzaDhZc3oyb21TeDJLSldhVGZ5UFhQVlFkQV9VNmFTblI4QnFwWEdOWXhOdnBLZDZLM1Z0eGd1SXI1Zw?oc=5",
+     "source": "localmemphis.com",
+     "published": "2026-11-09T23:08:00+00:00",
+     "summary": "Secretary of State to investigate Shelby County Election Commission&nbsp;&nbsp;localmemphis.com",
+     "image": ""
+    },
+    {
+     "title": "Trump tells \u201960 Minutes\u2019 immigration policy \u2018too tough,\u2019 open to making a deal with Democrats",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzJfWmNkcFVqUzNQSDdtVEIwaHVtQ0tCSGtYRHozVWExUmIyaEV6N18zT2xiUWlDdFVyMFNWZ2RWeEdGWE1IS3dCN0RMQWxhbGdZWUlDV1o4QnoySWdnbktESU9sTEd0Y1lWRDVpZXd3VkJrUnE5a2NCX21oZE9wR1BNaE9icFYxazlyQTNZd1V6SFhWaGZhRFoydFVHZlBxZHVlOHNDU3h6VzBraHh0UDJfWQ?oc=5",
+     "source": "OSV News",
+     "published": "2026-11-09T23:06:11+00:00",
+     "summary": "Trump tells \u201960 Minutes\u2019 immigration policy \u2018too tough,\u2019 open to making a deal with Democrats&nbsp;&nbsp;OSV News",
+     "image": ""
+    },
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T23:01:32+00:00",
+     "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f6c/live/69536370-dc90-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Election investigation underway in Georgia after 388 late votes flip House lead",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUduSzRMLWt1enlNeTJMbkkyeDZQVWtYWUNDUGQxVHlpSUtNd1NXa0k2NVIxLWFJQlFWWVJERllwN3p6cnAySUlPZGFrNTZWdWxTTW5vdmZvMC11VW1CYmVRd2dneGhVSnFfQXdKTnNWMVNmYkNvSzRHZFFxNEdMa1RqX2M1RmRH?oc=5",
+     "source": "WJCL",
+     "published": "2026-11-09T22:48:00+00:00",
+     "summary": "Election investigation underway in Georgia after 388 late votes flip House lead&nbsp;&nbsp;WJCL",
+     "image": ""
+    },
+    {
+     "title": "Dana White declines Trump\u2019s offer to be White House press secretary",
+     "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T22:46:27+00:00",
+     "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5518/live/8dd96f20-dc8e-11f1-a701-fddedf244c16.jpg"
+    },
     {
      "title": "Legal fight escalates over physician\u2019s sanctions for past drug use",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd00xTUFrS2ZpekVEdkNEblUxd3VpajB0ekJLTGxzRFdsa0VwMkpjUGNyVVhLaWpqNEZsQmZmR3FPOWtZNG5TcUFmbjFJUElIVmZfeEVWWXJnNU1qTWduaEtOWk1QQWhCVkJWVGpPOVJUdkNJLXhuUFRVTG13RnUwTzJPczFuZjZiOFA3dXMtMXZNbXFQVFl6QmlpeVRGQWNTLWxYOXQyTW4ta3ZQbGc?oc=5",
@@ -250,6 +290,22 @@
      "image": ""
     },
     {
+     "title": "Latah County to hold recount after thousands of ballots went unreported on Election Day",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUI2RFV0SmJPdnFWZHpVMUtoT3ZyOHVvVEtBbU8ybGJzSHBCY0FFN0xLTlVRcWw5emFjam1DdkZITzQzVlV1QlVtcWpocVd5RV84ejJSWVg2MlF4dXU5QWtFMi03azl6QXEzeFZycXN3VGtOX3dlLXFLeXk4REdGcVpTQmhFcFc2VmJUV3pqVkN4S05oS1pqSTZKV0p6MElSSW42MkdIMEpmXy1uRUh2TGpoR3FQYnhJck4zUW1n?oc=5",
+     "source": "Idaho Education News",
+     "published": "2026-11-09T22:35:51+00:00",
+     "summary": "Latah County to hold recount after thousands of ballots went unreported on Election Day&nbsp;&nbsp;Idaho Education News",
+     "image": ""
+    },
+    {
+     "title": "CyRide bus system changes firearms policy for Ames riders",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRHBOUXVmbUFiWjREclVjOXMzVHBHMVRSeVpnUE1Td0JxYlNFd1BvVElEX3hHLTJoUjBNak5wSjRCWjNpWE9aMllBQzl4WGhhT3hTcC1JTl9WYWNzTnhpd2F4UEtoTDBsazlxM3Rxc1ZaTnlYZzlVU0RXWTYwVkEwM2FfOGV0RTBtQ0Y2VFZmNFBYTzJqYk5WV1dWYndzemVmcS13?oc=5",
+     "source": "Iowa Capital Dispatch",
+     "published": "2026-11-09T22:30:38+00:00",
+     "summary": "CyRide bus system changes firearms policy for Ames riders&nbsp;&nbsp;Iowa Capital Dispatch",
+     "image": ""
+    },
+    {
      "title": "Colom calls out election raters for writing off his Mississippi Senate campaign",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaUJDMXlIQTltb2Q3NTAzZW5pUmJnWXNiUjhmZnZDY1VhbDZ2Z3pUSVNrblJXa09qZG1IcHB2Y0RIcjVUal9qWEFhQTJoWV8xcXhkVVFuSWkzeGlXblptd29rYkVpUkVENDZPVUdVQ0VLMlZ4RF90T1c0QkhydVlFOGxyMkpBTVXSAYwBQVVfeXFMTk5yVzlSTnJlOVlRalRLUGFrU01qS2VBQm9qeE4xUFF0RVBSVTlBQnVVaFZRV2szY0hEdUtJU2xpVmlQaEdMRnBDSnZUbFZvMEhfOGEyLWx1Umx5cGllY1U0OEJBd3dEQU5EdEJPZTYzRW9jak9JYjU1YlRHMXFsQkVBcVFQdnA1V0ZhTEc?oc=5",
      "source": "The Hill",
@@ -258,73 +314,17 @@
      "image": ""
     },
     {
-     "title": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
-     "url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
-     "source": "France 24",
-     "published": "2026-11-09T22:17:02+00:00",
-     "summary": "Nvidia \u2060and \u200bChief \u200bExecutive Jensen Huang were \u200bsued \u200con \u2060Monday \u200cin \u2060a proposed class \u200baction accusing \u200cthem of \u200cdefrauding \u200bshareholders by concealing Huang's ties \u200bwith \u200ba \u200bsus",
-     "image": "https://s.france24.com/media/display/fd78160c-dc88-11f1-88e7-a575454bc579/w:1024/p:16x9/EN-20261109-223117-224317-CS.jpg"
-    },
-    {
-     "title": "South Dakota House Republicans select entirely new leadership after contentious election season",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMHBtWWZzTkNiaENUX01kUDI2SkVNSFJ1OHFCWllJc3oyRkVTWkpZalhleTlDM2lMem5wSTdsczIySjFaM0R5MHhfZ1Q5bzVSSGpkd0xfRFJleVJvWFJ4US1SdkQ3YnA1aWdKNmxZRzMtZTJxUXFDY3oycGtzNkdtT1oxT1lFVXE5OE81ZHF5clNTRTlqWmV1eEV6MUFVUTAxNlA3bk5mX1ZYdUhJY3poeHZTeHlnaGJJNVU4eTBlN013cXo0TnEtc2NKdUNrMmpkRG9qUDNuNDA1UQ?oc=5",
-     "source": "South Dakota Searchlight",
-     "published": "2026-11-09T22:08:40+00:00",
-     "summary": "South Dakota House Republicans select entirely new leadership after contentious election season&nbsp;&nbsp;South Dakota Searchlight",
-     "image": ""
-    },
-    {
-     "title": "Trump faces Democratic resistance to unproven election claims",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZWJmQkJBQzVrcmZwSHJIS1hVZTA1S19LalIzTkwxT1J2UEhvVW5udkVYc2dqd19XX2F2NUxNaFo5TndOaXRiU0RSNFhWek9XRE5QRlZMTUtpRUdpaWd0X0JMVHR4UUZ6WlpPd0FRa25XczJrNDREU2pkRGl2emEwOFNyOEpTejVRcTRFc0NUT1BCX1dNdWVpTm1wbGlaN1Z4UmtpVlpBU0VfT3otb0t3MkgxR2Z1c2xNa18wc1NtQnk2bHpKcFpKeUtacGItYXhyX1B1T0QxLU1OYzJIX0E?oc=5",
-     "source": "WCIV",
-     "published": "2026-11-09T22:07:05+00:00",
-     "summary": "Trump faces Democratic resistance to unproven election claims&nbsp;&nbsp;WCIV",
-     "image": ""
-    },
-    {
-     "title": "Reuters/Ipsos Post-Election Survey",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOLUpwM1dQTXczMUI2c3d5Z2FqODRJbUdfTkJacHBPYzhDc05fUWRuMVh1SEkteTB3QmhYX3dtanM2c1JrZWtma3RMdWItVENhQmVlanlZVjRYbGJ5c29xRU9CZHNMb2h6RzExdWp3?oc=5",
-     "source": "Ipsos",
-     "published": "2026-11-09T21:59:10+00:00",
-     "summary": "Reuters/Ipsos Post-Election Survey&nbsp;&nbsp;Ipsos",
-     "image": ""
-    },
-    {
-     "title": "U.S. Sanctions Cripple Financial Networks Sustaining the Iranian Regime",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckhvTWNpWldaWm9pTEF5TloteElYN25uTGNmaEtPSlFZMWpKdlVWRFpHMWVhSFNKeWJybFFLQnJSMzMwemd6LTJEdkxSdnVncEtRT0ZBODZqcjNFT0VrQS1NX2JsVXJyWUVTSzdzcG5RbVZQRFpkNUNBV0RjNHYtS0FWVDBCV0pmclk0NTNlODBzeTBWeGFyZkdheVA?oc=5",
-     "source": "U.S. Virtual Embassy Iran (.gov)",
-     "published": "2026-11-09T21:48:58+00:00",
-     "summary": "U.S. Sanctions Cripple Financial Networks Sustaining the Iranian Regime&nbsp;&nbsp;U.S. Virtual Embassy Iran (.gov)",
-     "image": ""
-    },
-    {
-     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T21:37:02+00:00",
-     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-     "title": "Hegseth\u2019s Leadership Has Damaged the Pentagon",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1llU2ZaN055aEtCQTVYeXg1X0ZPSkpiYnRzRi1tSUtwWjNYdy13Z3pBWEthSm1SckJlZzRCclRrX2pyQW1TR2lqdEpDUFBoNjM3eG5PblBjZy14U0dtdHIySmJ4ek1SRGpfUmh6aTdaZWVqa1Nlc0NvdWs5MjZsbDRBMlc1czdrZ3Bpc3g3NWpnM1ZxdE5HQWJ4WGU?oc=5",
-     "source": "Foreign Policy",
-     "published": "2026-11-09T21:32:43+00:00",
-     "summary": "Hegseth\u2019s Leadership Has Damaged the Pentagon&nbsp;&nbsp;Foreign Policy",
-     "image": ""
-    },
-    {
-     "title": "Election results project changeover on Stockton school board",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WbTRoZ014ZVJGSWhVVWZudGtxNHlBbXYzdXVPY2FubVctMVRSQ2plV1daN0ZVSTRxMHlIQzJRbFlDTm0wNnFfcVl4M3hYZlNyQzVOMmdZalN5bnRKazJvX2RTRm9NOGc?oc=5",
-     "source": "Merced Sun-Star",
-     "published": "2026-11-09T21:32:00+00:00",
-     "summary": "Election results project changeover on Stockton school board&nbsp;&nbsp;Merced Sun-Star",
+     "title": "Investors Brush Off Election, Selloff and Even Nvidia\u2019s Spy Scandal to Buy Stocks",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzZBYnFiMzhxMGpQVVRoMWdFdFVIWGFfLS1LNC1JXzBtWWNiRnpDVEhnN3ZpVXZ3SmN3Qmw5RXhyVDFRWGsyMG5DbXk2R1JtMGlYUWJYSUs3STNWRk5iUENQY295bDViSHQ5aXNTMzZ4QmU3a0w3ak53SUtDVU5BMXFpNUxObGY1eGZtTDlHRlR1ZDh2TGJEMzJ5bUU0VDJzQ3VYOHBBZXNjV1Z4UTc3aWZERE9lbzlYa0d4cDB1eFE?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-09T22:22:00+00:00",
+     "summary": "Investors Brush Off Election, Selloff and Even Nvidia\u2019s Spy Scandal to Buy Stocks&nbsp;&nbsp;WSJ",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T22:46:58.795355+00:00",
+   "fetched_at": "2026-11-09T23:17:02.582447+00:00",
    "stale": false,
    "items": [
     {
