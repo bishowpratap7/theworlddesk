@@ -1,17 +1,65 @@
 {
- "generated_at": "2026-11-09T12:15:00.268493+00:00",
+ "generated_at": "2026-11-09T12:45:03.629126+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T12:15:00.268464+00:00",
+   "fetched_at": "2026-11-09T12:45:03.629094+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T12:33:24+00:00",
+     "summary": "Police declined to disclose their nationalities but said none of them lived in South Africa.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg"
+    },
     {
      "title": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault \u2013 latest updates",
      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-09T12:08:05+00:00",
+     "published": "2026-11-09T12:26:22+00:00",
      "summary": "Prosecuting barrister asks for a \u2018category one\u2019 sentencing length which ranges from 10 to 15 yearsProceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her f",
      "image": "https://i.guim.co.uk/img/media/f0e10b04191082319bbd3f7199555e5030cffac1/46_0_3188_2551/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=3b2281da79a9d6f0ce33eab731c6160a"
+    },
+    {
+     "title": "Poland\u2019s justice minister says investigation into Krak\u00f3w shooting will aim to establish if the 24-year-old acted alone \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
+     "source": "The Guardian",
+     "published": "2026-11-09T12:25:26+00:00",
+     "summary": "Terrorism investigation was opened after attacker opened fire in a market squareCanada is expanding \u2060its \u2060Russia-related sanctions \u200bto target \u2060another 38 \u2060entities \u200band \u200c24 \u200cindivi",
+     "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17"
+    },
+    {
+     "title": "Polanski says Labour has \u2018shocking record\u2019 on climate issues as ministers expected to cut EV targets for car industry \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+     "source": "The Guardian",
+     "published": "2026-11-09T12:23:13+00:00",
+     "summary": "Louise Haigh is expected to agree to cut a target for EV sales by about a quarterAndy Burnham has a commanding lead over all the other main UK party leaders on polling on who would",
+     "image": "https://i.guim.co.uk/img/media/7a02db80a099b48fdc379f25b678f9698ce1e84a/477_0_4751_3803/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=78597f9fc767a9b19d8bdfb978002b35"
+    },
+    {
+     "title": "Deportation policy \u2018might have been too tough\u2019, says Trump, as Miller starts chief-of-staff role \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T12:17:25+00:00",
+     "summary": "President\u2019s admission appears at odds with the elevation of immigration hardlinerTrump admits deportation policy was \u2018too tough\u2019 despite Miller promotion Sign up for US Breaking Ne",
+     "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
+    },
+    {
+     "title": "Partial collapse of Pakistan\u2019s Tarbela dam causes flood water surge",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T12:16:20+00:00",
+     "summary": "A protective barrier collapsed at the partially-constructed Tarbela Dam T-5 hydropower project in Pakistan.",
+     "image": ""
+    },
+    {
+     "title": "At least 21 migrants and refugees die trying to reach Greece\u2019s Crete",
+     "url": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T12:06:19+00:00",
+     "summary": "Greece&#039;s coastguard said more than 100 people rescued in several operations off the southern coast of Crete.",
+     "image": ""
     },
     {
      "title": "Krakow shooting suspect has died in hospital, police say",
@@ -26,24 +74,8 @@
      "url": "https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims",
      "source": "The Guardian",
      "published": "2026-11-09T11:54:21+00:00",
-     "summary": "Jensen Huang reportedly had close relationship \u200cwith Chinese businesswoman who passed information to \u200cBeijing. Plus, tennis legend Billie Jean King tells allGood morning. Nvidia\u2019s ",
+     "summary": "Jensen Huang reportedly had close relationship \u200cwith Chinese businesswoman accused of passing information to \u200cBeijing. Plus, tennis legend Billie Jean King tells all\u2022 Don\u2019t already",
      "image": "https://i.guim.co.uk/img/media/91b819bcc74a87ba2158e7bae518801fb140af52/692_369_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=c442afe3c3d4d785ea938fdf46018042"
-    },
-    {
-     "title": "Poland\u2019s justice minister says investigation into Krak\u00f3w shooting will aim to establish if the 24-year-old acted alone \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-09T11:48:07+00:00",
-     "summary": "Terrorism investigation was opened after attacker opened fire in a market squareThe EU has filed a lawsuit against IBM and two other companies involved in its troubled border-manag",
-     "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17"
-    },
-    {
-     "title": "Deportation policy \u2018might have been too tough\u2019, says Trump, as Miller starts chief-of-staff role \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T11:45:39+00:00",
-     "summary": "President\u2019s admission appears at odds with the elevation of immigration hardlinerTrump admits deportation policy was \u2018too tough\u2019 despite Miller promotion Sign up for US Breaking Ne",
-     "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
     },
     {
      "title": "AI, affair and espionage: Why is Nvidia's chief Jensen Huang under scrutiny?",
@@ -52,14 +84,6 @@
      "published": "2026-11-09T11:45:31+00:00",
      "summary": "Nvidia chief and tech titan Jensen Huang was in the spotlight on Monday after acknowledging an affair with a woman US officials say was working for Chinese intelligence, a claim Be",
      "image": "https://s.france24.com/media/display/d8cd174a-dc2d-11f1-91f1-695cb59fade5/w:1024/p:16x9/mini1-4.jpg"
-    },
-    {
-     "title": "Polanski says Labour has \u2018shocking record\u2019 on climate issues as ministers expected to cut EV targets for car industry \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-09T11:43:22+00:00",
-     "summary": "Louise Haigh is expected to agree to cut a target for EV sales by about a quarterLast week Rupert Lowe, who leads Restore Britain, a small, far-right party that is even more hardli",
-     "image": "https://i.guim.co.uk/img/media/7a02db80a099b48fdc379f25b678f9698ce1e84a/477_0_4751_3803/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=78597f9fc767a9b19d8bdfb978002b35"
     },
     {
      "title": "'A tricky day' ahead for French PM as he meets with unions amid social unrest",
@@ -92,37 +116,53 @@
      "published": "2026-11-09T11:19:45+00:00",
      "summary": "A hidden vault was found in Paraguay&#039;s former president&#039;s mansion amid ongoing banking scandal investigation.",
      "image": ""
-    },
-    {
-     "title": "COP31 opens with leaders under pressure to tackle climate crisis",
-     "url": "https://www.france24.com/en/video/20261109-cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis",
-     "source": "France 24",
-     "published": "2026-11-09T11:07:43+00:00",
-     "summary": "The COP31 climate talks kicked off Monday, November 9, with an early fight over money as the UN's chief urged world leaders to \"get serious\" about tackling the crisis after a year ",
-     "image": "https://s.france24.com/media/display/649e119c-dc2a-11f1-b119-1beafce15fea/w:1024/p:16x9/capture-d644bdb1.jpg"
-    },
-    {
-     "title": "New James Bond actor expected 'within weeks' as 'unexpected' frontrunners emerge",
-     "url": "https://www.france24.com/en/tv-shows/press-review/20261109-new-james-bond-actor-expected-within-weeks-as-unexpected-frontrunners-emerge",
-     "source": "France 24",
-     "published": "2026-11-09T11:05:38+00:00",
-     "summary": "PRESS REVIEW \u2013 Monday, November 9: Papers condemn the Kremlin's closure of Russian independent paper Novaya Gazeta on its last day. Also in Russia: leaked numbers suggest that almo",
-     "image": "https://s.france24.com/media/display/83ec834a-dc29-11f1-8f40-a575454bc579/w:1024/p:16x9/capture-468ce634.jpg"
-    },
-    {
-     "title": "The white truffles sparking bidding frenzies in northern Italy",
-     "url": "https://www.france24.com/en/video/20261109-the-white-truffles-sparking-bidding-frenzies-in-northern-italy",
-     "source": "France 24",
-     "published": "2026-11-09T11:01:12+00:00",
-     "summary": "In northern Italy, the white truffle capital of the world, the small round fungi are selling at auction for tens of thousands of euros. And as the climate changes, truffles are bec",
-     "image": "https://s.france24.com/media/display/fe6179de-dc27-11f1-bc6c-d18c5759e759/w:1024/p:16x9/EN-20261109-102340-102538-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T12:15:00.268477+00:00",
+   "fetched_at": "2026-11-09T12:45:03.629109+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Opinion | How to protect Ukraine without NATO membership",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0dQM1BqNEJ4QjFMZzdIMlk0VjM0b1hCUE1IeWZmYVY4NVdhQ2lNUGlQaUxSSGRFSWwtS1BrQVpiX3VjalkzV1RQQ3VRd1pselZfMm1SckZzenJjd1ltcDRNclNUT0pIdy1Rd2ZGWWZCUGZZRFZjRDc3LWdDemItQm9zUVZDc2hQUk5ndnpIczBpaF9CVHBIdzc0MFdjUDJXZFZIc1dQcEFNYkZW?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-09T12:36:04+00:00",
+     "summary": "Opinion | How to protect Ukraine without NATO membership&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T12:33:24+00:00",
+     "summary": "Police declined to disclose their nationalities but said none of them lived in South Africa.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg"
+    },
+    {
+     "title": "Poland\u2019s justice minister says investigation into Krak\u00f3w shooting will aim to establish if the 24-year-old acted alone \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
+     "source": "The Guardian",
+     "published": "2026-11-09T12:25:26+00:00",
+     "summary": "Terrorism investigation was opened after attacker opened fire in a market squareCanada is expanding \u2060its \u2060Russia-related sanctions \u200bto target \u2060another 38 \u2060entities \u200band \u200c24 \u200cindivi",
+     "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17"
+    },
+    {
+     "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
+     "source": "AP News",
+     "published": "2026-11-09T12:19:00+00:00",
+     "summary": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "Ukraine Moves to Create Its Own Space Force Within Armed Forces",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGEwVjhXcFlNOEV1MGxha200NnZmWlllZ3JuMHY3bC1xdjhPUVFxZGhpM3ZEQVZZaVJ1TmxDTmVwRkpRY0Z1dXpuNjlpbkJGd1R6cFZmbTltckRtcTIwVzgwNUY2WkZQYVhhQVpFaU1LUVBGWVQxanRIR0UtMXhWQUhHSmJ3SHhNQUxiLWY1Wm04cURJV08yNlZHM05wT3dORHdZTk5SV1FNcWlncmpj?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-09T12:14:54+00:00",
+     "summary": "Ukraine Moves to Create Its Own Space Force Within Armed Forces&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
     {
      "title": "Trump: Ukraine will have \u2018different shape\u2019 after war",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnY5dW85UVpvSDE1UHF0U19CSHNnclhHbW9kc3NPOUd5dGxWWVdya280N1FRcW1nNWJRVzJUZUNHY1ptdlQ1MEc3cHFHcW9zMkcyNzlORzljZFB1UXprS2xpZUVnTFZ3MkdrWW1pRzlzWGZobXpiRHMwYVJ4Ymt3ODVhYUd1UHVQaDlwdkZNMFh1WU5veVRfQTNZRUE5bnBGNmdpc0dYc2c?oc=5",
@@ -132,11 +172,35 @@
      "image": ""
     },
     {
+     "title": "Russia-Ukraine peace talks: From territorial disputes to Nato - key issues on Abu Dhabi agenda",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaWhSUGJmRkF4YWJveWZkQ3pNTjZzSEtZY3huY0F2LW1pSFNKcU1VY3BGd1pHNldYRzZjVVNCczQzV3YtQnNWN2lFSHZOY29tcFNrTlQ5ZkRBX0Z3dDg0T0J3UUh5TXVadXBwb2JscVNVODBSUFA0dUx3cU1uSzh0bFdmMGpjSkNxY0RfcVRZZklwdGRaTWlhMHpoQ2NJWWdGV1ZrQ1p6R2dIa0thdnhqUmFkUkw5T0cwSzF6S0JXMjZzSHRudm4td2FiSi12aDEwSkhXdFFOY19RMHdBeW1ITi1vYUxTV1JXb2kzcExfNjBoQlljdlZ3S1lB0gH_AUFVX3lxTE5fazFFYjBtSWw5MGpBYjFvTzFmNlNYUFZZS3VtNTJFc1FYcDhlc0V1cDBCZDdvVy12cHpEcmxIWW1ZSzBPVkNhazZ2R0xnaF9KTzQ3V2JwdUlnMm1LSm1WY2k2YW9fVlFmYlV1ZVRqTGRwM0hHNDNqYWxqUmx2RnlpVUxJaDdYQnk4NnhmQWR5Y0ROT2JXMzFxLVRac0dnTVYzNUFkSFhRMUctRG4td290Tl9JSUxWZDBaSG5Bb19hb3N5em45VWZvMW9LQ1BKdTBEalVSTVNzWWgxTnRXRjA5UXpKRUxuNF9OV0VTdHg3VE9vZW10TEdyRURDZWdudw?oc=5",
+     "source": "The Times of India",
+     "published": "2026-11-09T12:01:00+00:00",
+     "summary": "Russia-Ukraine peace talks: From territorial disputes to Nato - key issues on Abu Dhabi agenda&nbsp;&nbsp;The Times of India",
+     "image": ""
+    },
+    {
+     "title": "Ukraine 'already a different country' geographically, Kremlin says",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHItdEFOT2Y5ZzZEaGI5dUV1Y21YTFV1TkoyU3Q5ZjNPek9jWkxDWEp3LXJ3RzB6aVhpZ1JFLWlMWmRuUU9uOXBaNDhzamNWZVFTa3htdTkwV0RsRm1KN3Vram5nYXVQcWJ5ZkxrWkgwb3FxWUFvQjNqYzdOSUVNT0o3WnRsRmNzcU9QMzlBeE1ERzd0eXlFWXgzTEt2SlhsbXV5YnVmU010X1RDaGtqQg?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-09T11:56:41+00:00",
+     "summary": "Ukraine 'already a different country' geographically, Kremlin says&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
      "title": "A day before US-brokered talks, Russia and Ukraine batter each other with strikes",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFpuckV5cGwzTXdTTWh5Tno3TWJBdy0wMU13SjFqd3R5SkktMUk1ZnJxZF9pZG1sdlV1M01fUWg4M0Q5WlJxVGswOTVFbWdPZHBlUTh2ZFExR21OVUNSX2xuSG92NEJGdzBVZmJuNnBkX0Fqc3Rwd2F3UlZheTVSdUNybHV0Q0Znanh2b3E0OFBzMWdpWGdoRHBfQlVONzAxd3N5Sw?oc=5",
      "source": "ABC News - Breaking News, Latest News and Videos",
      "published": "2026-11-09T11:51:04+00:00",
      "summary": "A day before US-brokered talks, Russia and Ukraine batter each other with strikes&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+     "image": ""
+    },
+    {
+     "title": "At least four people killed as Russia and Ukraine trade strikes overnight",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDFSYmRqay12Ykc5NnFrd1pRQUxoX3NxQzAzQi1hVkRZMllCbTFrWUUxV2ZNZXNuc0pzbTZQWk0wQkJMT3VROWN0Wmd6WVZjMnk0RkZvWm9kOWxkdW40SUx3MzVCRVB1b0h5SnhJand1WWJMOFpnM29OQTdxVnNSZVNpdHk2U3pjVHBtMzdDd2x2c19IWVdrbDFVM2RaTjctd0lWalZ0WUpjNjY5dHhaNzN3Y9IBuAFBVV95cUxPNEppNnc1WU55ZXJmOTVuM21GYkpseVFWNGMyazQtdktGX3VEb1hybkQ3b21HTTh5dVh2bTVxQnlJN1RFNlhZMGVxTGtTYm5WQkxxZW4yWndESS1nZ3pGQWZCWDhIUlppaHd2bmdGMlVXV29rZzVxQVJjTV9ZeEpsOU9lbjBKNjAwRTZsbFY0SFJ2M0QxLVg4akhCSWVtcExpNWltclpNMUNmQXFiRkVrUHhMWWZLN3pa?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T11:47:26+00:00",
+     "summary": "At least four people killed as Russia and Ukraine trade strikes overnight&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
     {
@@ -154,77 +218,53 @@
      "published": "2026-11-09T11:36:51+00:00",
      "summary": "Interpol operation in Africa: South Africa police arrest nine foreign nationals ova alleged plan to join Russia-Ukraine war&nbsp;&nbsp;BBC",
      "image": ""
-    },
-    {
-     "title": "The U.S. Must Reject Russian Narratives on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTZNM2tzbGQwRDdkdG5RTXhlUlR2OGppWVhXZlJiMmg0cm9BZ05tNm5MQzdtQ0dVcGZTd2RjQ2tzdXc5S0NzQmlJQWR0R3pkMDRIVHVPVUUxNTZTUHVpNkI0ZUJQREVXWGtfS2s4dUpiMHBKcEllMEg5T2VuYlVBeGVWN0hJWEFpYWNoSTlTSXpWZE3SAZgBQVVfeXFMTy1SeHc2b1hXTW96THhmWXlHMVFsSGlSU1UwZkRsdV9KRHRGbWZPNXhBd1JWMEVlNTBTNVFrVTFIN3U4V1VVRlQycFFRWDVuV29zTGJMeU9OUkZQQk1PMUl4UmY0NXBXcnAwQ3dZT2xtUlBHNkEwc1hlb3pIWlBjUnhqYmxxMmduODUyZjJySlZSVWVjajNjVTY?oc=5",
-     "source": "National Review",
-     "published": "2026-11-09T11:30:29+00:00",
-     "summary": "The U.S. Must Reject Russian Narratives on Ukraine&nbsp;&nbsp;National Review",
-     "image": ""
-    },
-    {
-     "title": "'Novaya Gazeta', an independent Russian newspaper critical of Putin, closes",
-     "url": "https://www.france24.com/en/video/20261109-novaya-gazeta-an-independent-russian-newspaper-critical-of-putin-closes",
-     "source": "France 24",
-     "published": "2026-11-09T11:20:08+00:00",
-     "summary": "Russian investigative newspaper Novaya \u2060Gazeta was winding \u200bup its operations on Monday, November 9, and preparing to quit its central Moscow office after holding its \u200bfinal editor",
-     "image": "https://s.france24.com/media/display/af7567f4-dc2c-11f1-af39-a575454bc579/w:1024/p:16x9/capture-cf3edb11.jpg"
-    },
-    {
-     "title": "Foreign Nationals Detained At OR Tambo Over Alleged Ukraine-War Travel Plans",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVd0bUtkMjRaNmstNmNmM1ktNmxNQUg1OGlfeEViM3pteEU0MXVTMzRQdDFFUUc5cmk1UDJZV3JTendmY3NSODdGNnE3RWo0cEpPOVN3WHd4a1h6cVNwdlQ4VjlScjlJSVJxWmpsSFhUYVhTcm9RSmEtbFlaaG9kUVYyQTlxU0llU1NNRkprdml1SWxsdDRYQlpTYjhoSG5ObjF2ZQ?oc=5",
-     "source": "2oceansvibe News",
-     "published": "2026-11-09T11:07:41+00:00",
-     "summary": "Foreign Nationals Detained At OR Tambo Over Alleged Ukraine-War Travel Plans&nbsp;&nbsp;2oceansvibe News",
-     "image": ""
-    },
-    {
-     "title": "Nine foreign nationals arrested over alleged plans to join Russia-Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUlpV0lDeTJwV3pmTW9oWDlETGVlalFFaXdYcUFHelNiaS15ZWRPMHZQTktSalNYcmlfZTBiS3BrdUZmcUR6YlB3T2lSNlFVbF9SSDZOc0tBb2VrSGlFNU1PVlhEbjEwVEh0dndsRmxzNThCM2NwVmd0STFXSklRUk9DRkhvMWFvSmNwc3ZMb2hvNDZ5Z0JEM3o5alc5cjJCWG9GeFpnYTlwZw?oc=5",
-     "source": "Inside Politic",
-     "published": "2026-11-09T11:07:35+00:00",
-     "summary": "Nine foreign nationals arrested over alleged plans to join Russia-Ukraine war&nbsp;&nbsp;Inside Politic",
-     "image": ""
-    },
-    {
-     "title": "New James Bond actor expected 'within weeks' as 'unexpected' frontrunners emerge",
-     "url": "https://www.france24.com/en/tv-shows/press-review/20261109-new-james-bond-actor-expected-within-weeks-as-unexpected-frontrunners-emerge",
-     "source": "France 24",
-     "published": "2026-11-09T11:05:38+00:00",
-     "summary": "PRESS REVIEW \u2013 Monday, November 9: Papers condemn the Kremlin's closure of Russian independent paper Novaya Gazeta on its last day. Also in Russia: leaked numbers suggest that almo",
-     "image": "https://s.france24.com/media/display/83ec834a-dc29-11f1-8f40-a575454bc579/w:1024/p:16x9/capture-468ce634.jpg"
-    },
-    {
-     "title": "How repairing homes is helping rebuild lives in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0lMcWRXckR2YkZkbE1JZzVNNDhNTTU2QVdjQUwtWk5fOHZNbnM2dHZmUmtKMEJsdDRwX2pBOVdua0VuZjlCWjFiSHhHREhsYUk4UEJmZWlzOFltZUlKSER0SlNFTGd2amJJNktvd2sxaldRc2ZLQzNEY1FXUWxUcUJZWG1VcERZeDJONFRiN1ZtZUNzVmd1b2NCbnE?oc=5",
-     "source": "Euronews.com",
-     "published": "2026-11-09T11:05:03+00:00",
-     "summary": "How repairing homes is helping rebuild lives in Ukraine&nbsp;&nbsp;Euronews.com",
-     "image": ""
-    },
-    {
-     "title": "The American and Ukrainian Chaplains Traveling to the War\u2019s Frontlines",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbU84QnlDQnZzNFNYNDVTNDQ4UHpOY1pEMGJ4SFp5N0xHMnZxem5uX19CQzFNb2tyMWhfOUNCWEV1WWpqbEk5c2JZei1PcWIxZmF4blRKLUdsYWRrVGtQQUVaQVRYVFYxMlktZmtjajYxajhYYTM3RkxJWm84WVFOajYyWHFOT0VvQ0E?oc=5",
-     "source": "Christianity Today",
-     "published": "2026-11-09T11:01:22+00:00",
-     "summary": "The American and Ukrainian Chaplains Traveling to the War\u2019s Frontlines&nbsp;&nbsp;Christianity Today",
-     "image": ""
-    },
-    {
-     "title": "Nine foreign nationals arrested in SA over alleged plans to join Russia-Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWFLX05vRHM5X2xXckZBRm9QeS12TTlLQ2Vjd3NHOWRCSEVGTy1malhSLUdzRTRWS2FZSnJzQ0dIZV9XTHdNZGJRRmtRUFpDVm5zcDl5cVA0UHBhS3ZDT0p4UlhUNTVkRi1oZE1lc3p2TXM1TDNpUnZHTlZGR3R3Z2J3MFhob2tDMzEzRkxGbnJlSTdTLVdEUWotb1hhd296Z0s1cWszZzU1eGx0X09zUGhERDdJbmwyV09KbFFWUDZOZjJnenkwbVVB?oc=5",
-     "source": "Mail & Guardian",
-     "published": "2026-11-09T11:00:36+00:00",
-     "summary": "Nine foreign nationals arrested in SA over alleged plans to join Russia-Ukraine war&nbsp;&nbsp;Mail & Guardian",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T12:15:00.268481+00:00",
+   "fetched_at": "2026-11-09T12:45:03.629114+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Congress returns to a changed Washington after GOP's election wipeout",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM2ZzUk8tZlh4a1JQX1pHYlpwSTFMWlc3aDhtWTJ1SHRYWlFSdC1fT0JrZGJUQTV0dERXTjhUbVRtUTJKQ0MyZ01YdGZ4Nl9Ld0N3bGRVcnRqUExPR1NoVHpvQTlIYWk5b2w5eVpPMk82REVsZkNvR0YxUFZ4dW9MWHlZRXJURXBBOV9kRlFCZ1pKZzBFV3BsZGFVNEpCSVk0UHlZNVM5Mk53YXlkRTFxRlh5VzRqMlRxYXJ1cWJPUGF0MEM5WGp3TnR2dlEzOE9IWEVDVHZn?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-09T12:39:59+00:00",
+     "summary": "Congress returns to a changed Washington after GOP's election wipeout&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Former House Speaker McCarthy on midterm election results: 'This is a wake up call for Republicans'",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3Z6VE1ZOXJLS0dpUzRvNHdaUXlyRXVqN19PU0toaWZ3dGpKYTBEd25BVVRnMGRjM09HNDNHMTJsRHQ3OHh0bUV2TUVORUh0YzNkTy12dVM1ZVlOZi1EUXRnRVRQQkZMejlpdXQ0Q3oyVFFsTS1mZUZKME9JUkd0UWZvbDhZZnU4TGV3Mndpa0xLZkxSd0hOMTYtN3FNQXBSS2NCVnZ4QTU5MGpmOEpsNXhySUR6NFhxYjJGRDR2WTdOV0NrdEFnMHktR2RnOGh6OW9IMWZR?oc=5",
+     "source": "CNBC",
+     "published": "2026-11-09T12:35:19+00:00",
+     "summary": "Former House Speaker McCarthy on midterm election results: 'This is a wake up call for Republicans'&nbsp;&nbsp;CNBC",
+     "image": ""
+    },
+    {
+     "title": "Polanski says Labour has \u2018shocking record\u2019 on climate issues as ministers expected to cut EV targets for car industry \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+     "source": "The Guardian",
+     "published": "2026-11-09T12:23:13+00:00",
+     "summary": "Louise Haigh is expected to agree to cut a target for EV sales by about a quarterAndy Burnham has a commanding lead over all the other main UK party leaders on polling on who would",
+     "image": "https://i.guim.co.uk/img/media/7a02db80a099b48fdc379f25b678f9698ce1e84a/477_0_4751_3803/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=78597f9fc767a9b19d8bdfb978002b35"
+    },
+    {
+     "title": "Canada announces fresh Russia-related sanctions",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTU3SXVhdzhXRTl5T3ZvTVlYWGlDZ0NwQk44N1MxbkdaSHN3bTZhbTZCX3Y5Q3NsaTNBX09SRDhLZkU4S1lzaDNkVjFuWElNajVLbkpucUk2ckNnbDdPbDdFNFVzY2VzY2JoUE1IV0VUVkhLS283WDBtT2pPMzBUNzBXZldVN0NkR1otcGYwbVZ3RkhRUzlmRHRmNFIxSGs?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-09T12:22:51+00:00",
+     "summary": "Canada announces fresh Russia-related sanctions&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Deportation policy \u2018might have been too tough\u2019, says Trump, as Miller starts chief-of-staff role \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T12:17:25+00:00",
+     "summary": "President\u2019s admission appears at odds with the elevation of immigration hardlinerTrump admits deportation policy was \u2018too tough\u2019 despite Miller promotion Sign up for US Breaking Ne",
+     "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
+    },
     {
      "title": "A Midterm Setback Complicates Rubio\u2019s Latin America Policy",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWJhbjVXd3diTGF5RTFIa2JSWlJSZDFWS3V0Qy1aQXlxOUtrU1luU0dxWVdNZnBjSlZyT1JreHV6dDFPTjNBWThINXA4WjZoRWNQQmpXcE1HR2FHRkk0R01PS1BvU0p4WHBTM3dtUkxSTkJFUnVsWTVTUTRkZENyaHBSQXo3M0NUdHZHWkVLQ2hSRzlGU0gyRktJNlQ?oc=5",
@@ -250,28 +290,12 @@
      "image": ""
     },
     {
-     "title": "Poland\u2019s justice minister says investigation into Krak\u00f3w shooting will aim to establish if the 24-year-old acted alone \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-09T11:48:07+00:00",
-     "summary": "Terrorism investigation was opened after attacker opened fire in a market squareThe EU has filed a lawsuit against IBM and two other companies involved in its troubled border-manag",
-     "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17"
-    },
-    {
-     "title": "Deportation policy \u2018might have been too tough\u2019, says Trump, as Miller starts chief-of-staff role \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T11:45:39+00:00",
-     "summary": "President\u2019s admission appears at odds with the elevation of immigration hardlinerTrump admits deportation policy was \u2018too tough\u2019 despite Miller promotion Sign up for US Breaking Ne",
-     "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
-    },
-    {
-     "title": "Polanski says Labour has \u2018shocking record\u2019 on climate issues as ministers expected to cut EV targets for car industry \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-09T11:43:22+00:00",
-     "summary": "Louise Haigh is expected to agree to cut a target for EV sales by about a quarterLast week Rupert Lowe, who leads Restore Britain, a small, far-right party that is even more hardli",
-     "image": "https://i.guim.co.uk/img/media/7a02db80a099b48fdc379f25b678f9698ce1e84a/477_0_4751_3803/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=78597f9fc767a9b19d8bdfb978002b35"
+     "title": "Coweta schools test weapons screening, clear bag policy at high school football game",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFRhei1GVkZBZzVsMEl6S19OVU1Ka3lwS2NlV0dpTk9CdWtiLWdMSDVRY2h4dldnUm9ZNjZkdWtGQl9SRUxQMnRHOVZZRTg3VFBFTzBieTJvYnYzS2V5WDN5M2dZc1FuMk1ZSHZXUXRnSDlWMG11Q2ZXVW5KbHhmSEx4aGdqVlUtV2JQQ2cwd2hQZzl5RWtJMXB3SkJrTEExcVY3aEZSYVF3LVFkUTRVdEY5VEh2SHhLZGlyUjhn?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-09T11:44:28+00:00",
+     "summary": "Coweta schools test weapons screening, clear bag policy at high school football game&nbsp;&nbsp;CBS News",
+     "image": ""
     },
     {
      "title": "'A tricky day' ahead for French PM as he meets with unions amid social unrest",
@@ -296,35 +320,11 @@
      "published": "2026-11-09T11:33:32+00:00",
      "summary": "The nation saw a blue wave this election. Idaho saw a ripple.&nbsp;&nbsp;Idaho Capital Sun",
      "image": ""
-    },
-    {
-     "title": "Two Kentucky candidates got 91 votes each. Then came the tiebreaker",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcllPeEFMcC13RV9Ub2w1RWFlVVFFb3V4UC1SWk50LUJCclJQYXdUTWYxUXQxeEhuSXNGcVRidXZkSlpnZDdkbUhlaDFnbWZTTXVORV9jSzZFbjhnTFBBZFJCNm1ucjFtODFpOE5Meld2ZlBuQTdQVHJkQXBKLVdOSUxhSFROLXNSdHFmRkYycUx2ZGNxSkVjR3BwS2dNWmxtSjk5SXRTemN0RXlfczkxRVNpMksySW9rR1E?oc=5",
-     "source": "OregonLive.com",
-     "published": "2026-11-09T11:30:00+00:00",
-     "summary": "Two Kentucky candidates got 91 votes each. Then came the tiebreaker&nbsp;&nbsp;OregonLive.com",
-     "image": ""
-    },
-    {
-     "title": "Council faces post-election shakeup with Dem victories",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0gyazlUY1RvV194MFBnNDMtYjRnbXR0T3B3VnB2S0xrTkVFMFBTU1hQc2t1TW5ja29WSXB5NUJQUG11THpPQUE5eDlmR3dOTmdLbWpTOTFXa1ZCSzFVLXlaX1kwUk1nM3VmdzdOLTBYSWstN1NlTUVYMjRadDFaYTM1X1VzYnFxLVhZQkVMMmtRQmdQUzRrb09OVE4?oc=5",
-     "source": "Axios",
-     "published": "2026-11-09T11:26:10+00:00",
-     "summary": "Council faces post-election shakeup with Dem victories&nbsp;&nbsp;Axios",
-     "image": ""
-    },
-    {
-     "title": "Paraguay former president\u2019s mansion raided in ongoing investigation",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T11:19:45+00:00",
-     "summary": "A hidden vault was found in Paraguay&#039;s former president&#039;s mansion amid ongoing banking scandal investigation.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T12:15:00.268484+00:00",
+   "fetched_at": "2026-11-09T12:45:03.629116+00:00",
    "stale": false,
    "items": [
     {
@@ -332,7 +332,7 @@
      "url": "https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims",
      "source": "The Guardian",
      "published": "2026-11-09T11:54:21+00:00",
-     "summary": "Jensen Huang reportedly had close relationship \u200cwith Chinese businesswoman who passed information to \u200cBeijing. Plus, tennis legend Billie Jean King tells allGood morning. Nvidia\u2019s ",
+     "summary": "Jensen Huang reportedly had close relationship \u200cwith Chinese businesswoman accused of passing information to \u200cBeijing. Plus, tennis legend Billie Jean King tells all\u2022 Don\u2019t already",
      "image": "https://i.guim.co.uk/img/media/91b819bcc74a87ba2158e7bae518801fb140af52/692_369_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=c442afe3c3d4d785ea938fdf46018042"
     },
     {
