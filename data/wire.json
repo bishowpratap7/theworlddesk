@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-09T06:14:08.798401+00:00",
+ "generated_at": "2026-11-09T06:44:12.319053+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T06:14:08.798367+00:00",
+   "fetched_at": "2026-11-09T06:44:12.319021+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+     "source": "NPR",
+     "published": "2026-11-09T06:20:44+00:00",
+     "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
+     "image": ""
+    },
+    {
+     "title": "Marseille defeat RC Lens as they win five in a row in Ligue 1",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261109-marseille-defeat-rc-lens-as-they-win-five-in-a-row-in-ligue-1",
+     "source": "France 24",
+     "published": "2026-11-09T06:14:33+00:00",
+     "summary": "Marseille beat Lens (2-1) in the final game of Ligue 1 matchday 10. Thanks to this result, OM are 4th in the table.",
+     "image": "https://s.france24.com/media/display/f82883bc-dbe3-11f1-b840-a575454bc579/w:1024/p:16x9/om-2.jpg"
+    },
     {
      "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
@@ -36,6 +52,14 @@
      "published": "2026-11-09T05:47:49+00:00",
      "summary": "\u2018It\u2019s pretty obvious that there are all sorts of people making all sorts of comments,\u2019 Murray Watt says after budget savings meetingGet our breaking news email, free app or daily n",
      "image": "https://i.guim.co.uk/img/media/0a251c36d8f4f67e296c116d611465daf42788cd/212_0_5048_4038/master/5048.jpg?width=140&quality=85&auto=format&fit=max&s=b1558db5c26a0a43c35a7d026786850e"
+    },
+    {
+     "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+     "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T05:30:37+00:00",
+     "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/ef505e30-dbf8-11f1-93e1-3b657b665bcf.jpg"
     },
     {
      "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
@@ -92,37 +116,45 @@
      "published": "2026-11-09T04:55:15+00:00",
      "summary": "Ben Carroll refuses to be drawn on latest opinion poll that puts Labor at all-time low of just 18%, behind One Nation on 21% and the Coalition on 33%Get our daily political email, ",
      "image": "https://i.guim.co.uk/img/media/eb1414dc0eeede52985082395d9f3ea36f782c63/1248_827_3346_2677/master/3346.jpg?width=140&quality=85&auto=format&fit=max&s=be6e9c00cd74f32ee0ea1ed5b842f2d1"
-    },
-    {
-     "title": "Pope tells Argentina\u2019s Milei leaders should know limits of power",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T04:52:34+00:00",
-     "summary": "Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei.",
-     "image": ""
-    },
-    {
-     "title": "New Delhi blanketed in toxic smog after Diwali fireworks",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T04:35:34+00:00",
-     "summary": "New Delhi woke up to thick smog after Diwali celebrations saw fireworks light up the city overnight.",
-     "image": ""
-    },
-    {
-     "title": "Asian stock markets climb after earlier tech rout",
-     "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T04:03:02+00:00",
-     "summary": "Markets rebound after tech rout triggered by Democrats&#039; sweeping victory in US midterm elections.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T06:14:08.798384+00:00",
+   "fetched_at": "2026-11-09T06:44:12.319037+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump Says Russia-Ukraine Peace Deal Is 'Very Close,' Blames Zelenskyy-Putin 'Hatred' for Delays: 'Only R",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRXVQVEdYdTc1S3d4NnVwUHJxSnRyODBlOFZfc3JpT19PdUZjMGVNLUxYOC1YY0RvWWV0SGhPSm04bmozWkd1VmwySWtjR010bUR4dnJucE85QlA2a0NiOGE2Z0JPUk1rOFRiZlVFNzZPUG5rYUJQZmFIYWNhT3RCNlR0U1NDdTJmUGladDh3WllPS3FfQVZ5aWduTUFxOVZWN1BXejVhdWEzMjNKRDdGTlRMdERFU1huclZNa01lZjUwbUhPSGtsekZQenRnYVc5amh3V1VhMzlNZkd3d1YtRTBxbkxqV01sX0JEOFU4SElLNnhCNmo3TWlsd1BxbzRscDBxbFhYUnlhN1JreEpST0xoN3hicDQ?oc=5",
+     "source": "Benzinga",
+     "published": "2026-11-09T06:40:08+00:00",
+     "summary": "Trump Says Russia-Ukraine Peace Deal Is 'Very Close,' Blames Zelenskyy-Putin 'Hatred' for Delays: 'Only R&nbsp;&nbsp;Benzinga",
+     "image": ""
+    },
+    {
+     "title": "Trump suggested that Ukraine might end up with a \"different shape\" after the war",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3B1V2xyZG1GUXJFZEhBSUxzSG9adUU2VkdraXUyMkJhNjhJNHlHOGhuckpyQmpvTkZxNmNuUml0TkF6OUstSWc1b1FTWTdTUXRRZWJidkRmMEduSU9EZF9McFdJX0pHcGVGcnBNSjJRS0F0M0ZoaHJNOGhBTUFISVRBUUY1LVl6eVctWmN5Uk1vTkx5cHdwZtIBlwFBVV95cUxOVWNpaHVVd3JMVEFKSlc2NVZmWFpfY3k5aWhDU2ViSndfWEcyT010cWRDUU1LTDg2QUR6bG1CbWdWUEJ3eGZkVzdTZ2Z0WGM2QXotVEl6SVJwX2RQTjJ6RGhUbWtGYXpaSE04dUNYelBZdVJBQ3ZvbnZPbDBNNUJ2elc4cDNCNHdmOUZ2TktzaXFQNzZjUWww?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "published": "2026-11-09T06:28:06+00:00",
+     "summary": "Trump suggested that Ukraine might end up with a \"different shape\" after the war&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "image": ""
+    },
+    {
+     "title": "Russian losses in Ukraine war rise by 2,980 over past day",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWJRWkFlbi1rdHM1cUlndml0eUQwV2dhSkFXRGRkZWFsSnJtQWt2U1B0WFphZzR2QkQ4c3NnNGxwdnAzVkNoaDNLQkFsbHhLRHQ4WnhjWlhRQzVYR1pmcTFsdVRYVHhIXzdZWEpZMV9ZeTNVVUNMdFZ2YzIybC1fZE00Z3lzSWJXRm1GNTVIaW0xa3FJLWRDSG0yTXlLb3BnZWNEa0tPWld5UdIBrwFBVV95cUxOdzUta2toeDVfblFVVG1sc2ZFWDI1cmNEWnFxOHBnRm8xVU55aDQyaE10QzdWUWJUWUt5Z2tIYVM4TUxESFFMZGhNNjQ4X05NMXh1U21VOHpSOEluSnE5ZEpLVjlhZEVzcU9zM3lUVXJDVkdVbVRMdXN0WWh2a21ITEFBdGdRM1dLT1JWQUhKSUZOVVM2WGluSFhvZ210Q25wMDF4a1RaRjZnSml3VFBJ?oc=5",
+     "source": "Ukrinform",
+     "published": "2026-11-09T06:15:00+00:00",
+     "summary": "Russian losses in Ukraine war rise by 2,980 over past day&nbsp;&nbsp;Ukrinform",
+     "image": ""
+    },
+    {
+     "title": "Trump: Ukraine Will Take on a Different Form After the War",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0daREMxSUh2a2Q0ZHl1aTVid3NrbjNlT3ZjMGdtS2R2M25IVjdKUUJ5NmI0dGc1RjB5MTlOVUYwajh0cGpMS2tCZS1QenlFTWNjZkNFLW1UWktrZmhzclBmcWxwVzBTSlJvYmZOVng5WUlPM0ZROUtKSl91Z0JrZFFxSUkzQjdJR0RoRHctZjZSQlpPd1HSAZsBQVVfeXFMUHhmclQwNWliWlNPbFgzc1pmQXZ0aFlKUVZBNkphWmVGMzNVSWVwTWJSTVIwbC14ZXpoTllTRnp4VmJFajZpS1R5NWFvckZlS0pnaVM3YVJzV1hsOXIzVmNrSC1ZWF9BbUFOcGVsRTFBRTNERklDRl9YN0dTTTJqYzhkX3JMU3FVRk9TQ09faHFGQmozR1JWeF9uR0E?oc=5",
+     "source": "LIGA.net",
+     "published": "2026-11-09T06:03:23+00:00",
+     "summary": "Trump: Ukraine Will Take on a Different Form After the War&nbsp;&nbsp;LIGA.net",
+     "image": ""
+    },
     {
      "title": "Fixing UK\u2019s youth jobs crisis demands much more investment, TUC boss warns",
      "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
@@ -140,19 +172,19 @@
      "image": ""
     },
     {
+     "title": "G7 to Discuss Ukraine War and Tensions with Iran",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xOWxKckdHUlZ4Y3JueVNMWk1XYzVUWVN5STduZkRzMzY3NGFHU3VyMG9oQWlqcnRud0JGZEhiU1F0cFZsSkRqdjd2Mk56VnQ4a21USUY5V2FxR0FkRjBxczJkTGJHVHh3c2xnUnp3?oc=5",
+     "source": "8AM Media",
+     "published": "2026-11-09T05:41:28+00:00",
+     "summary": "G7 to Discuss Ukraine War and Tensions with Iran&nbsp;&nbsp;8AM Media",
+     "image": ""
+    },
+    {
      "title": "Brown researchers seek to improve mental health of Ukrainian youth with chatbot",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbUpGR0ZfNXg4YWtxMHFySGhROHhRMlVMVmFwbGdxZ0ZQbGZEbEwzb193bkZjeTdOQUtmVFgzcUpaRjZfNHF5RWhPdFJtQXBmcDBLNkNBVGpsUnlMUTRfRWhUNkktV1pDT29udHBJXzFSUWlhZHVMcEh1aGVFVGtLczM4T0lUTXhtR1Q3UzRzREExcWFReWpwMnpuM1FFVlV5eUxxb01QalYtSzJ2Um5Lb3FxalBvcGROOXJUdmNfM3ExX1FaYU5sQQ?oc=5",
      "source": "Brown Daily Herald",
      "published": "2026-11-09T05:35:38+00:00",
      "summary": "Brown researchers seek to improve mental health of Ukrainian youth with chatbot&nbsp;&nbsp;Brown Daily Herald",
-     "image": ""
-    },
-    {
-     "title": "Trump blames hatred between Zelenskyy and Putin for Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEpGNm1IRGNPZnlGN055MDVsaXBTSnp3YXVsVVBuSW94VGxGV1REWWZheTdZMVY1YTBMOFhjT3RJajNnWlZ5dWZpZk5YVW9lVDN2RWgwRXZlU1RMTEE3SnFaN0RVNHdmVTFwaWt3djlrbXI2c0ZoZlJjZHJGb0gwQUFGQTVmTUJlUmxHdjBad1hjMVdMZU1SRWtGVGV6c1B1T3d1MnhSUTFjQWvSAa8BQVVfeXFMTWhFMjNoMVlyRmM5R0c5QzlVb0thbW1lUjFSNXM0TjRXQ3FiSVpKTzZMNXhOSm5YQmFRaDhiVFJfQlVFUDZZZVFaTW9nVy1NM25HRG5GTU85bGlwWXlkSXdud3ZaVmJPWHBPUDdwU0swX3VENWZVQS1pSDJhaW91NjJZNExoSnM0U1ZrYjFtN29xRHl6dHdIcFM0MkxfTHY4MU1fWFJsZTJTSFlEWlU0UQ?oc=5",
-     "source": "The Tribune",
-     "published": "2026-11-09T05:32:07+00:00",
-     "summary": "Trump blames hatred between Zelenskyy and Putin for Ukraine war&nbsp;&nbsp;The Tribune",
      "image": ""
     },
     {
@@ -180,51 +212,35 @@
      "image": ""
     },
     {
-     "title": "What to know about upcoming peace talks involving Russian, Ukrainian and US officials",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPakxPNUtlQVRaamlTMEwtd1VCMDI3Z3FqR3pjQ3NNVzMzdjBEUW9xbE9rbTRvMU1EVGlGakJZcGxfZGZiX0JXcHBCeTgxLWxjVXR6THhKYjFJZUlBRHFqdHFHZjhGQWdaeVljck5oWWpmZmNVQ3piODFYdWxJcGdISkxYSzVPNm5oVVJrMzNnRnFfeWhlcHRSUTViUlpickZPZFdiQXg0WFplNHJjUXlNLW1NQ2pRNUg2U0Vj?oc=5",
-     "source": "WTOP News",
-     "published": "2026-11-09T05:09:59+00:00",
-     "summary": "What to know about upcoming peace talks involving Russian, Ukrainian and US officials&nbsp;&nbsp;WTOP News",
-     "image": ""
-    },
-    {
-     "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWVrNmdKSVJmMWVpTEFaeF9OckM4dnRVTkVfbVVERnJJVk45MlFUUmk1ZTBHNFd1akZUWUo1S3ljU1RDWGJuUS01Z0JEcVpGQ1gyUDZpM0pQclNCWFE1OW9vREhNUndZZGVmaDJ1SUh1bl94aW94VW9vNWdsUFkyeHJoWlZKMVh3VXp1T3IyYXUtUFhFb0hmWWtoakIzY0FsbEE?oc=5",
-     "source": "WTOP News",
-     "published": "2026-11-09T05:05:08+00:00",
-     "summary": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France&nbsp;&nbsp;WTOP News",
-     "image": ""
-    },
-    {
-     "title": "Russian Offensive Campaign Assessment, November 8, 2026",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVBUVk02YjRiWkdxNU5hTUdsNUdPY3ZvNHdFczJtd1hjbk1ZZy01bGZqNnp2X1hsbUMtd0M0N0NldU5ial84dWVuaFRwMjlaUUhya3ktY1RPR1l4WmRWNUl3aUVjMmRDYy1qY3h0MXJ1LTlLZk1wanNaSGJBVkxYV05NYXVTeGRmTXVmYjgwTzVxeERjaTlPZ29OZXE0OHNzcVhrQnM4SkZDU0U?oc=5",
-     "source": "Institute for the Study of War",
-     "published": "2026-11-09T04:30:00+00:00",
-     "summary": "Russian Offensive Campaign Assessment, November 8, 2026&nbsp;&nbsp;Institute for the Study of War",
-     "image": ""
-    },
-    {
-     "title": "Trump said Ukraine will likely remain free, but have a somewhat different shape",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRlFacVBHd1BGUG15eEVtdGFPUG1nVUtkMFZzQi14RW5rQWpWYnVjT2ttcVA0QWRUa1d6QmZKUjQwTnFpSDVZT01yOFZnN3lEdjh5dmpwMTcyaXNPb3g4ODN6R3MzckJpLVVLQnhwbnV4ZURHVUd2cTIwVUE1bnlFbDlNMA?oc=5",
-     "source": "Mezha.net",
-     "published": "2026-11-09T04:26:06+00:00",
-     "summary": "Trump said Ukraine will likely remain free, but have a somewhat different shape&nbsp;&nbsp;Mezha.net",
-     "image": ""
-    },
-    {
-     "title": "Ukrainian forces reportedly strike Russia's second-largest oil refinery in overnight drone attack",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNmM0aWNYYUR4eFdtT0V5R2YyWEI4QXV1REh4dGRyaWJLV0FWaEt5akZmb18ybGxORHlVR0FxSjJCcVc0aVBTMzhZTGtPNWJkdUNSaDFONFhyZVRyYVdxaW1TVFpXUUF2aS1ZbmdFaU9pUi1TaVJaRHFkb0EwdDA0bXNyXzduNUtkMHpWUmRJa3l0d0RvczlPUDdKOWRyRTc5d2E4ZWNydG0xR1lPWHBjZE10SVZiaXkxUVhaWi1HYmlITE0?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-09T04:05:17+00:00",
-     "summary": "Ukrainian forces reportedly strike Russia's second-largest oil refinery in overnight drone attack&nbsp;&nbsp;The Kyiv Independent",
+     "title": "Estonian FM: Putin is the only one who can stop war, Ukraine must join NATO",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdm9IMXZhLVM4NXE5UUNvcjlfaVlRSzQ2Ui10S0RRVHNpcThyOHJTTDBONTFQNGVYcHlPd0NiQjF6MUVmMDNCYTVwZS05cl9sTE4xUEpIVWZvLS1tTWFzSV92WGVyenV4UnRRTkRTcFVZOVJfR2cxbWp6Y3ZPY1hlVG9kYXFoU09ydTE1X3hfSFRjdFhabVdWQWh2YzllUlBLbWxtVGJwSnRKZnZHa3ZWcTdUM3RoSDUxblZ4T2tDTWtuT2UzRnY00gHMAUFVX3lxTE01LWtoLVlfVFYxWHRxajExOHc3NHRvYkRjM0lEbEs1NG9YNmxMMVoxazVEYVpYNk5Gb1lLZEdna01aX0Y5LXVZWmxPY2VaTHZLVXVUcTFUZ1JPSnlWVUlGZDR1aGgyQUVpcjBWbnM1U2ZabjR5bDJWdmFwSnVnZ3pfZllKZDAyY0d6a3o3TUpYQ3N1cUNDZlNYczViUDhtS2NhVUY4X2xsVDlHSVFhVXMtNmYwc3V2OU9IMlkycmNOMWNFMEdFeDBUXzluZQ?oc=5",
+     "source": "Ukrinform",
+     "published": "2026-11-09T05:10:00+00:00",
+     "summary": "Estonian FM: Putin is the only one who can stop war, Ukraine must join NATO&nbsp;&nbsp;Ukrinform",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T06:14:08.798389+00:00",
+   "fetched_at": "2026-11-09T06:44:12.319041+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+     "source": "NPR",
+     "published": "2026-11-09T06:20:44+00:00",
+     "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
+     "image": ""
+    },
+    {
+     "title": "Trump says deportation policy was 'too tough' for voters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWNKMzdtQlg0elI0YWFqdEg5TXZ1ejI0cnA1WW1qaFRFeFRsVmFiTWZ1dWdhOWQySkRjbkFpeUxfa1JQNnJaS2tIRGZwX1BETnZESnpncXVuY3dSUGktbS0tRmlVM1hiU0pxWk0yV3RJalkwYzNqR2ZVQmdDTjVROHZJUGpMOXFxYW1EaFdYcmMzbXhHMy1nLXE4clpKcmk2VWV5M3JIYXpibzTSAasBQVVfeXFMTUtDdnp0cVNtLXpjeWE2cXFyTmI5VVNPUTU1eEhDSVFxZ2t1UkRwTWlROGxJTHVZLUg0b1d1RnNobFdwY29RUXhSeXd5YVJVS01VM3hQbWRWSFpqOGZlUlpaMmd3R0lialZDQnU4YU5sNjdnVlVkdElwU0NNWlQ1NlRkN1B3SVlEUVB2Mm9nUDM5bFg3SmdvVnloZ3NaT1dGMGhnUXZWbkxNR3cw?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-09T06:16:53+00:00",
+     "summary": "Trump says deportation policy was 'too tough' for voters&nbsp;&nbsp;DW.com",
+     "image": ""
+    },
     {
      "title": "France\u2019s 2027 presidential election: RSF unveils 10 priorities for press freedom and calls on candidates to act",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3gxRzl1Zm5mdHVaaW5xN09XRmJBeU9SdzF2NWNDZ3hLU1I5QzdQRUIwbEpqUUZDTlJQakJNMm1aNlNJZUowN3RPQ0h6THJnS05tTWNBaGlBczBZN3kwdnZoZEZZU0lJR1pvbERlT1RGVVprWGFpU0pib1BfUEdtNlpvTmtHOVhOZ081NkJDNnJ3XzRIQ2I2ZjNvSWFtdWw5ak4zdmVmblVLM3pWSmtrQ2JyZlRkZw?oc=5",
@@ -304,27 +320,11 @@
      "published": "2026-11-09T04:52:34+00:00",
      "summary": "Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei.",
      "image": ""
-    },
-    {
-     "title": "New Zealand\u2019s foreign policy could change \u2013 but we won\u2019t know for weeks",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmpVUXQxd0RweW4zQTNNeWFWUm5yUENtZWlDV3Q0Q1hReUlMc0JWdF8yQTBINUxBX1didDlKMmRVZ3V0M1R6VDdmMnJVbWdJWmE0VzJrTXVBVm84OVZFQWxHV1c3LWs1X0hSeFBTT25WODNGZVFzWEQ4YmZ3TkhwcGZSOVpwYzNyZHV5cGZnRlU0M2FvLThIcGgtb0ZPdkVfQTEzY1RnUmEtZnVuVUdpVkFGamc2QQ?oc=5",
-     "source": "Lowy Institute",
-     "published": "2026-11-09T04:49:55+00:00",
-     "summary": "New Zealand\u2019s foreign policy could change \u2013 but we won\u2019t know for weeks&nbsp;&nbsp;Lowy Institute",
-     "image": ""
-    },
-    {
-     "title": "Incumbent Katie Hobbs (D) defeated Andy Biggs (R), Risa Lombardo (G), and Teri Hourihan (No Labels Party) in the general election for governor of Arizona",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdTJUeGRKVXFTS2ZQS0I3NnFYeDlfTlk4dVM4b2RRVkZyYS1BSDhBZXppZEJiQkFFdmt1NmlOV3lBaGdaMnEyR2dqT3RETUZ3bDZFLUR6V2ZRYUYxRUFHcWNydjhPeGNIekJhRHFzUmJmWWxZVmF0dFYzRHVHcFM4Yk9UNktLN0FSNWRZOVFTRXdBVDFmRllmYTlJNGt4NWFrT0pvWHN5anNldFNIWndOdzI3SmNrZFN3Z19UU2F4ekxaVXZGRmhZOGtSek0tYUsxTEFaYXFqb19TTzN2TTN0dFpRTUdPMHpqZTh1SUZXdkFoMkVpV1hhaGIwcGN2dUJBNERMNFhRbWxhdEI0cnhEOVB3?oc=5",
-     "source": "Ballotpedia News",
-     "published": "2026-11-09T04:42:05+00:00",
-     "summary": "Incumbent Katie Hobbs (D) defeated Andy Biggs (R), Risa Lombardo (G), and Teri Hourihan (No Labels Party) in the general election for governor of Arizona&nbsp;&nbsp;Ballotpedia New",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T06:14:08.798392+00:00",
+   "fetched_at": "2026-11-09T06:44:12.319043+00:00",
    "stale": false,
    "items": [
     {
