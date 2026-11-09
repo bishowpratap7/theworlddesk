@@ -1,12 +1,28 @@
 {
- "generated_at": "2026-11-09T02:13:28.240443+00:00",
+ "generated_at": "2026-11-09T02:43:32.457163+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T02:13:28.240425+00:00",
+   "fetched_at": "2026-11-09T02:43:32.457135+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
+     "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T02:23:11+00:00",
+     "summary": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
+     "image": ""
+    },
+    {
+     "title": "Pope Leo delivers stinging rebuke of Milei\u2019s austerity measures during Argentina visit",
+     "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+     "source": "The Guardian",
+     "published": "2026-11-09T02:11:25+00:00",
+     "summary": "Pontiff tells Argentina\u2019s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Ja",
+     "image": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66"
+    },
+    {
+     "title": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
      "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
      "source": "\u00a9 Michel Euler, AP",
      "published": "2026-11-09T02:05:00+00:00",
@@ -100,51 +116,43 @@
      "published": "2026-11-09T00:01:05+00:00",
      "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England\u2019s national curriculum Pushing GCSE subjects on younger pupils risks turning England\u2019s ",
      "image": "https://i.guim.co.uk/img/media/29cf0e38613d5172328a5e922b8a72c9980a3b77/517_0_4251_3400/master/4251.jpg?width=140&quality=85&auto=format&fit=max&s=6ae6737332d56f99bafc50538b6adb85"
-    },
-    {
-     "title": "Iran war live: Trump says \u2018Iron Gate\u2019 in effect; drone hits Iraq gasfield",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T00:00:34+00:00",
-     "summary": "More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility.",
-     "image": ""
-    },
-    {
-     "title": "Nvidia CEO\u2019s affair sparks Chinese espionage probe",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T23:58:53+00:00",
-     "summary": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T02:13:28.240433+00:00",
+   "fetched_at": "2026-11-09T02:43:32.457147+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
-     "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
-     "source": "\u00a9 Michel Euler, AP",
-     "published": "2026-11-09T02:05:00+00:00",
-     "summary": "G7 foreign ministers will revisit Russia\u2019s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open",
-     "image": "https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg"
-    },
-    {
-     "title": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNekpVMjZ6d0VROVU4TmlTQVFuRk0tVVB5d2NxZWVpMUpWbngtVUZDbkRfTlBPZFFKN3RFa1NSRncyRkhVQU9WLU80R3JoTUpVUS1NdmlhUEV1VlRyRUJDeG1PRlBDXzdrQVJPTXBiT1BJVGd3T2N2X1dEd2JCaUZiekd1NXdDelltU2kwa0x5czFkQ3hsbjZXcmUtamV2Ti14Y0pfamZNY0xBWG02UW5NaVpfTFpEYUpRTE5xd19BR2c3dzNCTnJiUUpJZmQ0SmhEZlRTd1NGWnZMWmVvRThLNVd5UEpjWjc4bGNVMWVQNDl0UEJJOTN4Vl9sdVpGazd6Vko2X25KYWHSAYICQVVfeXFMUDBhbUF0Q3cwR0ZJTjloRDJLWHZkREpKNlROWkRlME05bGVXOVpnR09yYVlBeU1mZkxNSU0zU1YxVzZ6dGZPNjh2QVlCaVIxaEFYMWUxSHAxXzFDUk43d2FvSG1DSXdJOHk0aUgzbHVULW5menZNVXo4TjJfc2dkOVJHbEc1VU9BZUxqbW1LeE43bTlaVmVtQjhsZXdaRGFGNVI1NnJNdm85MW9MR1MxTWpuWFBIbWZqRXJ4OHVMRGdYbmFHS0NiQjlqdVA3ei1PZTZYWkJPNkhMUEFFdkhqVFFBU25QWjRVcHQxdF9YR2Q0bUtIcW9NQ0lRbGFRZHFySkln?oc=5",
-     "source": "The Economic Times",
-     "published": "2026-11-09T02:01:33+00:00",
-     "summary": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest&nbsp;&nbsp;The Economic Times",
+     "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T02:23:11+00:00",
+     "summary": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
      "image": ""
     },
     {
      "title": "France\u2019s far-left leader attacked for remarks on Ukraine",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQmtfUktHal96QTJfREhxQUhHcElWWU9qWHF1Q0tzclZ2MUdxY2Q0eWNVMk16cXpKeHVWUzI2amlKR1ZyYUVsNDg3dTljZ2w0TTNCdW15X2kxS010eW1SdUNJUThBcjNFN0ZvVE9LRFpwUGlyeFdPU1dCYWFpb2RQUUx4cllVWTIxS09sYUs5clFralpzVEZXSEVBM3RWbmo4NTVsQlU3S3ozRnVLaEw2SlhySFVXQVNNMG5jZDJKVEpNTEVOaGtsLVVScjdSQW9RZ094NHlKNDNKRW9mOHI4ZWFjbjMyZw?oc=5",
      "source": "The Weekly Times",
-     "published": "2026-11-09T01:55:22+00:00",
+     "published": "2026-11-09T02:09:49+00:00",
      "summary": "France\u2019s far-left leader attacked for remarks on Ukraine&nbsp;&nbsp;The Weekly Times",
+     "image": ""
+    },
+    {
+     "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUtkODBnQ3Z2TnlSMjlHd3BpZnlEZXRyREVmU3l3RWhLY2ZteGs2cl9UZl9QV3h0eENENVMtRWFoYkFEYmM2V0JPeS00aUh0SWhSaUxPQ2tqSXNfTlhteHhpUjNTRGZzTUdIdWFyU3Ftby1JY1haa3BVNVNrLVRIaWVHenhtdzFJMjNSV05qVnJmQXNDeXc?oc=5",
+     "source": "France 24",
+     "published": "2026-11-09T02:05:00+00:00",
+     "summary": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks&nbsp;&nbsp;France 24",
+     "image": ""
+    },
+    {
+     "title": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUDBWSjVWNkpQamlxV21lOXlCRG9MLTY3bEYwaFR4MFFaTmFoZWUxQVVwc2pNckJjX1hjOEV6eXNVT2oyX05scTBLTU9ZWHNzaGNFNnMxemlESjFRNE1LSl9uSFNFMTIxUllmMFBNcTNFclh6WUROWEhUSm9ZYTlfN2RjcldFYVFCd1ZjOTlxNVRJRnBVc1dCblo3TDYyQ1hpMjhnaG5oaE5ncVpxTTJHYzliV29hSGc0TW0yYTJaN0ZWdzlNUlZoQWxOVkptdlpzdk4wVWJlNG9KZUdfdWYwTnNLVkgxdUJBZVVFY1EwTGl6R2lSaU9vTHY4REHSAYICQVVfeXFMUDBhbUF0Q3cwR0ZJTjloRDJLWHZkREpKNlROWkRlME05bGVXOVpnR09yYVlBeU1mZkxNSU0zU1YxVzZ6dGZPNjh2QVlCaVIxaEFYMWUxSHAxXzFDUk43d2FvSG1DSXdJOHk0aUgzbHVULW5menZNVXo4TjJfc2dkOVJHbEc1VU9BZUxqbW1LeE43bTlaVmVtQjhsZXdaRGFGNVI1NnJNdm85MW9MR1MxTWpuWFBIbWZqRXJ4OHVMRGdYbmFHS0NiQjlqdVA3ei1PZTZYWkJPNkhMUEFFdkhqVFFBU25QWjRVcHQxdF9YR2Q0bUtIcW9NQ0lRbGFRZHFySkln?oc=5",
+     "source": "The Economic Times",
+     "published": "2026-11-09T02:01:33+00:00",
+     "summary": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest&nbsp;&nbsp;The Economic Times",
      "image": ""
     },
     {
@@ -162,6 +170,14 @@
      "published": "2026-11-09T01:44:14+00:00",
      "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024Warning: This article contains graphic contentGet our breaking news email",
      "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0"
+    },
+    {
+     "title": "Ukraine war briefing: post war \u2018security guarantees\u2019 a key focus in upcoming Abu Dhabi talks, says Rubio",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnYxU1hlQ2Vib01aVVJuZzdydnd1d2ozanJlbklReFpISkNJeG1zZFRSMkN4d3dwcU5EMktnLVdzOENRaDRHUjFwWm5vYS1pWWQ5OTF1NDZMM3gydm9YMVJ4Y2dxYUxoU0N0S2ZTZmw4eG5aSFR1TDdzSHhtSEJhT0FCelc0OFc4YnBmbEVhSmVRRVU5WjMzc25HX0VZaWRwWUx5WExHTW84VXNNYWpZcXdFSWVSY0VxYmdUZEl0aW1lRkhiZmRubUdvM2hJdHphdmttcWgwN0FZbFVWbmZF?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-09T01:44:00+00:00",
+     "summary": "Ukraine war briefing: post war \u2018security guarantees\u2019 a key focus in upcoming Abu Dhabi talks, says Rubio&nbsp;&nbsp;The Guardian",
+     "image": ""
     },
     {
      "title": "Drone attack suspends production at Iraq\u2019s Khor Mor gasfield",
@@ -202,29 +218,45 @@
      "published": "2026-11-09T00:00:34+00:00",
      "summary": "More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility.",
      "image": ""
-    },
-    {
-     "title": "Rubio says progress made on postwar security framework for Ukraine, Europe",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkhNNUpyY240ZmhJcVVCSzdYemU4d3Jkem91QzE0OGkwNlpKNHZSeE5sMGlBdFZvYWFwX3ZRal9aSFE5QWZRV0dPU0xCNld1UDEyaHBPS180Z0JzV19DVnNQTmhzck5RZ0hMZThXTmRRb295d3pxVDNOQmtkdG1pQV82NktHRFdiakNmaDIybjNPd3FSakpFRG5zbG5Yc1JJSy1QbnhtaG5qczZqVmtTSWhn?oc=5",
-     "source": "Arab News",
-     "published": "2026-11-08T23:57:25+00:00",
-     "summary": "Rubio says progress made on postwar security framework for Ukraine, Europe&nbsp;&nbsp;Arab News",
-     "image": ""
-    },
-    {
-     "title": "Ukraine and Russia escalate war into space with rival satellite networks",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZExhZ1dKQmRoUmpoVVlDRG1FTURpRG9OWTN3T0pTaDBUOWtyM0p6el9MVnpSNXdqamluTTlzYUExazRlWXFOSmxFbWRhc3JORGtBUnozYnRtY01CZXJlYkFPeFdiT0loYzJOd19HNm5rX2k2YWw4NmdFdDN3amF4SdIBlAFBVV95cUxOaUFZSmd5c0ZGb1RETGhMVXJOQUNSM2lQbHdORUZGMVpRUnFrV0M5NFJ6S0RlSWtkZXYtSG1uNXM5OUlFUmRQMXY1MUV6NVpEWnhSN0haLXlibEUwU09KRnJDb3pqYzYtQ1Y2SDl0aU9XcW5pVlVfUm4zN1VuWmtmS1ZlTHdaRjNmbVVnLUhFNUpfUXRX?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-11-08T23:56:00+00:00",
-     "summary": "Ukraine and Russia escalate war into space with rival satellite networks&nbsp;&nbsp;Chosunbiz",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T02:13:28.240436+00:00",
+   "fetched_at": "2026-11-09T02:43:32.457151+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "DataWatch: How Wisconsin\u2019s political landscape changed this election",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1dVTEprUm9FVkRHMkIydmF2WDlIQ1pXRlNKUEExMi1WNDBaZUZ5WVdlY3NYakUwUUJRYTJoUWRSeHFmSE9lbzNZVjNzTDhRVnJkUm9mTDNQbTBBbmFjQzRfZzQ1S1VWVm9XV1VKa2VrM09iYlNPQzR2Q01FZVVmNlAxUjhNYndDLVVDSU9zZXJaeFR3UnJWaGlGTzBrbU5GQ3d2dUN6bw?oc=5",
+     "source": "Civic Media",
+     "published": "2026-11-09T02:30:00+00:00",
+     "summary": "DataWatch: How Wisconsin\u2019s political landscape changed this election&nbsp;&nbsp;Civic Media",
+     "image": ""
+    },
+    {
+     "title": "Trump tells \u201860 Minutes\u2019 his deportation policy \u2018was too tough\u2019",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHd5WlVQMjRqaU56bV80aTRnQmdlRE5TTlhMc2RyVEtVTFloRUlSbkJOMVRRVWRnTGg0UmlIN2pNVElBVWRUamdpamNYSVgxOFdhRm9INGR0SUFyY1BvNi1pZk9CaG1CSU1wNE9xSnZpdHpBbU1meFBRT1dibEJXWWJ6a3ozd2RXLTRDcUprY25kdmNqS0lmMjVuTUZYYjNsWXo2TQ?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-09T02:29:13+00:00",
+     "summary": "Trump tells \u201860 Minutes\u2019 his deportation policy \u2018was too tough\u2019&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "\u201860 Minutes\u2019 takeaways: Trump calls deportation policy \u2018too tough\u2019",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDNYRmZFckVmU1A0bG9QbE03UHgzdnh6SWpVRTlucFd4SE5QZzdLU2pKdGdXd0hzYWRGRGQ2TDdqRmV4MlNiam13T2xxOVJuRGtrYnc5cUVLZGN5cUhJMFRJMWVuYkY4ODUzRDctLXNKUFhPRHh0WTBVVXdkRG5hUGpfbDlJcy10N0lLSkNBSS0wRE9lYUx3T28wS295QVgwcElzN2l6cWx0OW5QTHZqcTFzQQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-09T02:12:27+00:00",
+     "summary": "\u201860 Minutes\u2019 takeaways: Trump calls deportation policy \u2018too tough\u2019&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Pope Leo delivers stinging rebuke of Milei\u2019s austerity measures during Argentina visit",
+     "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+     "source": "The Guardian",
+     "published": "2026-11-09T02:11:25+00:00",
+     "summary": "Pontiff tells Argentina\u2019s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Ja",
+     "image": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66"
+    },
     {
      "title": "Portland election results: Where key races stand",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWpkSS12c1hwTkJ6eXJkNWZYQ2JmU3lUU0hXTHMwRHRGOXFJNmtLeGdaRkNhaDlaZHNLTGw3bnpDVU4wUzVzQmZyTWMwVkttWklGTlduTnJzZnpSd3FDQU1lRGZwYVB3d3RmdG9wRjZKRUlScF9MQUYxSzZfRTc0SXRZT0NjcnpJYWluTm5EbmRqVG90NE9nV2lTRnl3VW11?oc=5",
@@ -242,11 +274,19 @@
      "image": ""
     },
     {
-     "title": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdS16MHhHTm9BaFNxQWlxTTl4Mm1YbHktbTZ3Yi0yY1MtdkJSQ0Q0RWI0eko3cVhDVHlybTBMTU05cDhwdG5oQzhVSS1ndXhfOWV6eEQ1M2J0cFI0SzFXenhSMWF1YzcyNkVzQ3lDVVRVVWhGbVA2cHdPV3BHc3B2UG82eUxHcHFCbHJ5c2xCU05nU01uYlJjU1pMZU5XWUFHdFFlaV9ma0RPOGFwYmVsY3dtTTcxQQ?oc=5",
-     "source": "Reuters",
+     "title": "Trump to Meet Qatar's Prime Minister as Iran Diplomacy Faces Hurdles",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSkN0WTZCYW1RbVU3WmJGdlBZcFBteUhpeC1UUWJ6TVJtMWwyQmxsb2RYV0tQX01TQjcxeURsVXdhRGhQVDZ1UVRWOXVocjUwa3Z0aDJRXzEtWkMtVEpsdktiYW1oLXJsQVRpakx6Z0IwVW1kSDNwdE96U3lKSllPREJlc3RnbUIxMzl0cUpRR21xZEdYSlpYb01HYjFHVDQtWWI4ZmROUGJqYmwyYjZVM2FYa1lMQ0MyS09nM25B?oc=5",
+     "source": "U.S. News & World Report",
      "published": "2026-11-09T01:42:00+00:00",
-     "summary": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles&nbsp;&nbsp;Reuters",
+     "summary": "Trump to Meet Qatar's Prime Minister as Iran Diplomacy Faces Hurdles&nbsp;&nbsp;U.S. News & World Report",
+     "image": ""
+    },
+    {
+     "title": "Trump says his immigration crackdown \u2018might be too tough\u2019 after midterm losses",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmxSbEFURmc5TVBkbHd3dTNzaHVLNXZyaWN6ZDB3U093amt0S25telZZemxSYlVFX0RIMm9xb2lvVWJtbzJKME1zM0IxRlZmclBzV1dYb1YtWDJTTGZ5NUNQWmRFZGZyWWUyLVZRMm1ZNzU3ZDMyckdnLXFidkxrRWZrVdIBiAFBVV95cUxOblprWVJGblktZWFSekkwWnBzX1FWNEtNY1B4MFRBZmNObUNpbzcxWkUxRU83MHBNUmlOc2s4c2hhQ09zLTVaakxZTXlMYVM5WUdsWk90QnNTalo4VnpWV0k1VTc5V0FYVWJ2b3FZTzM1Z3N1VlM4TFpnS2ktVzFVUEdoMDZ6bkUx?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-09T01:23:00+00:00",
+     "summary": "Trump says his immigration crackdown \u2018might be too tough\u2019 after midterm losses&nbsp;&nbsp;The Hill",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-09T01:10:55+00:00",
      "summary": "President says it was \u2018just a little fun\u2019 to picture White, UFC boss and Trump\u2019s friend, in briefing room with fightersDonald Trump said on Sunday that he \u201cwas only kidding\u201d when h",
      "image": "https://i.guim.co.uk/img/media/bd59d8bbfe95eb6a46d7a98c6c485d6c246d296c/1023_574_3265_2613/master/3265.jpg?width=140&quality=85&auto=format&fit=max&s=6f79b9b2de71d5627a16c8f3746aa578"
-    },
-    {
-     "title": "Trump says his deportation policy might have been \"too tough\" in 60 Minutes interview",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVdDV0NiVUV0c18ydUhYaC1lVnNnaVdpNldOWnU1RmJWMHVpSUdpc1V1ZHNOaHVuRnR3c3hpVElRRkRqT1hkbE5pd3d5Q29maUZUbDQ4X29nS2hlSW9tdVJxcEd1TzFYSVBjaWx0emYzZ1pwN0lwcXoydGEyNVRfVFdHcm1PbkRMRS1XVktGSi1pV1NZa0RJQmU5czVOUXRfcWQ5Qi1RT2NlaGFn?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-09T01:02:49+00:00",
-     "summary": "Trump says his deportation policy might have been \"too tough\" in 60 Minutes interview&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Sand says Iowa voters sent a message in 2026 election",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGVBS21YM0doaHBBbVl0WHV0SFVBS083Q2lNdHpYTGFGQ3ZjbHZvOG9Pa3V6enBoR2lOb3dac3FwMkNNeC0wVWxwY1BGTnFnZW5yTXl4X3oxTnVuWk1nMTNwQmRlQ0RiWGJEYXdsRjdTQWtkckhzRzNPUTlUcExiSW1RMUF4UVpxaU95bklLX1V5SlNVMUE?oc=5",
-     "source": "Radio Iowa",
-     "published": "2026-11-09T00:35:04+00:00",
-     "summary": "Sand says Iowa voters sent a message in 2026 election&nbsp;&nbsp;Radio Iowa",
-     "image": ""
-    },
-    {
-     "title": "Former Trump Aides Feud Online, Trade Legal Threats in Bitter Election Fallout",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNUU3TU93RFJKRVFfUGVuc3NfRVdWV0lYdDVzTVBIUU9iaVV5cXVLS2trVGpycTNPajc4aEJqOC1tMnA0Tm84aDgzOER6NW45LVBydTgtbjlqU0xydEFEQnAzQXh2UENGaUFnUXZoV0FLYnZReFktNEs2VHRrZ0NSM3lTdEFIUnNZeVM5MENGQ1lvTDdURG16YWxjSWhDNHE0WEtzQTVIeEQ4aHNNZDA1UVNUcDFiVDhBNlI0cjRUNA?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-09T00:23:00+00:00",
-     "summary": "Former Trump Aides Feud Online, Trade Legal Threats in Bitter Election Fallout&nbsp;&nbsp;WSJ",
-     "image": ""
-    },
-    {
-     "title": "Bryant reflects on Bottoms\u2019 historic election",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hSWVJeEhtUk83OTVkTldXdWdRbE1OYUNGRzR3MmJwTjFPZElUMUpEX3J0Y0tRbU1XZld1OFZkaHo4Smk0dmdkekRFMEtuTjl6Um1ONmxLT0JvLTlyLXp4SEJXOEzSAWpBVV95cUxNOUluSXpaTG51cngxZGVkR0RJTG1ZR3lmTFd1QWZEUm0waFRUejNnMVhpMHlKN2hRQ0habGljcWdZcEZ5Q0ZZTG1EdVVtVDlDN1VCUkFNSWpIWGx4MTBMNFRsMjJRU3lmSXJB?oc=5",
-     "source": "FOX 5 Atlanta",
-     "published": "2026-11-09T00:22:43+00:00",
-     "summary": "Bryant reflects on Bottoms\u2019 historic election&nbsp;&nbsp;FOX 5 Atlanta",
-     "image": ""
-    },
-    {
-     "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
-     "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T00:07:02+00:00",
-     "summary": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T02:13:28.240437+00:00",
+   "fetched_at": "2026-11-09T02:43:32.457153+00:00",
    "stale": false,
    "items": [
     {
