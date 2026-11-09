@@ -1,128 +1,216 @@
 {
- "generated_at": "2026-11-09T13:45:10.205277+00:00",
+ "generated_at": "2026-11-09T14:15:13.908532+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T13:45:10.205247+00:00",
+   "fetched_at": "2026-11-09T14:15:13.908502+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Polanski says Labour has \u2018shocking record\u2019 on climate issues as ministers expected to cut EV targets for car industry \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-09T13:24:27+00:00",
-     "summary": "Louise Haigh is expected to agree to cut a target for EV sales by about a quarterDowning Street has insisted that the government remains committed to the principle of the zero emis",
-     "image": "https://i.guim.co.uk/img/media/7a02db80a099b48fdc379f25b678f9698ce1e84a/477_0_4751_3803/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=78597f9fc767a9b19d8bdfb978002b35"
-    },
     {
      "title": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault \u2013 latest updates",
      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-09T13:21:39+00:00",
+     "published": "2026-11-09T14:09:55+00:00",
      "summary": "Prosecuting barrister asks for a \u2018category one\u2019 sentencing length which ranges from 10 to 15 yearsProceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her f",
      "image": "https://i.guim.co.uk/img/media/db2ce7f0c0ff0af5e5eb6902720b89424f4bce10/62_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=6cc8eed262f7545b22224d9ca60fb24d"
     },
     {
-     "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-     "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+     "title": "Thames Water asks creditors for more time to help repay \u00a320bn debt pile",
+     "url": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
+     "source": "The Guardian",
+     "published": "2026-11-09T14:08:09+00:00",
+     "summary": "Troubled utility lobbies for deadline on part of the debt to be extended to March 2028Thames Water has asked its creditors for more time to pay back billions of pounds in debt, as ",
+     "image": "https://i.guim.co.uk/img/media/535318ddf017dc682b293bfcd483a717eefaf8a0/247_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=fea5ea819b06767f490c86405124d198"
+    },
+    {
+     "title": "\u2018Exceedingly heavy-handed\u2019: ACT police criticised by magistrate for Tasering disabled Aboriginal woman",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/10/exceedingly-heavy-handed-act-police-officers-criticised-by-magistrate-for-taser-arrest-of-disabled-aboriginal-woman-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-09T14:00:13+00:00",
+     "summary": "Exclusive: Body-worn camera footage shows woman pulled off bench and a Taser activated despite \u2018putting up no resistance\u2019, magistrate saysGet our breaking news email, free app or d",
+     "image": "https://i.guim.co.uk/img/media/6fce0b552bf50c7ce2b6e690c11bf5a8594062c1/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c68c0d760461d3d41763486755d78553"
+    },
+    {
+     "title": "There\u2019s more than a whiff of politics to the sudden call to slash Labor\u2019s green energy subsidies",
+     "url": "https://www.theguardian.com/business/2026/nov/10/labor-cuts-green-energy-subsidies-inflation",
+     "source": "The Guardian",
+     "published": "2026-11-09T14:00:12+00:00",
+     "summary": "EVs and home batteries are in Treasury crosshairs despite a better economic case for scaling back nuclear-powered submarines and diesel fuel rebates for miners Get our breaking new",
+     "image": "https://i.guim.co.uk/img/media/2207fcae915df5cc9e38bf70a33ab75e699b4030/752_0_3556_2845/master/3556.jpg?width=140&quality=85&auto=format&fit=max&s=4be5c515e0015f63bfc7f3347b7fbc74"
+    },
+    {
+     "title": "British-Somali \u200c\u200cboxer Ramla Ali defeats Mikiah Kreps for first \u2060\u2060world title",
+     "url": "https://www.aljazeera.com/sports/2026/11/9/british-somali-boxer-ramla-ali-defeats-mikiah-kreps-for-first-%e2%81%a0%e2%81%a0world-title?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-09T13:15:27+00:00",
-     "summary": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way",
+     "published": "2026-11-09T13:59:24+00:00",
+     "summary": "Ali wins a controversial split -decision fight against American Kreps to claim IBO and WBF junior featherweight belts.",
      "image": ""
+    },
+    {
+     "title": "EU sues IBM and two European firms over troubled entry/exit border system",
+     "url": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
+     "source": "The Guardian",
+     "published": "2026-11-09T13:57:15+00:00",
+     "summary": "Lawsuit filed last year against IBM, Atos and Leonardo after delays to passengers blamed on the system, first reported in the FTThe EU has filed a lawsuit against IBM and two other",
+     "image": "https://i.guim.co.uk/img/media/d4e0bb6cf66538930d3fcf221707a4675ec85a38/222_0_2919_2336/master/2919.jpg?width=140&quality=85&auto=format&fit=max&s=e22ca6f51d1bd73b95db705e80cecde5"
     },
     {
      "title": "Deportation policy \u2018might have been too tough\u2019, says Trump, as Miller starts chief of staff role \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-09T13:15:13+00:00",
+     "published": "2026-11-09T13:56:09+00:00",
      "summary": "President\u2019s acknowledgement appears at odds with his elevation of Stephen Miller, the architect of his hardline immigration policyTrump admits deportation policy was \u2018too tough\u2019Sig",
      "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
     },
     {
-     "title": "Which Republicans are running for minority leadership roles in Congress?",
-     "url": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
+     "title": "French PM brings forward 1.6% increase in minimum wage in bid to calm protests",
+     "url": "https://www.france24.com/en/france/20261109-french-pm-lecornu-announces-increase-minimum-wage-bid-to-calm-protests",
+     "source": "\u00a9 Kenzo Tribouillard, AFP",
+     "published": "2026-11-09T13:52:34+00:00",
+     "summary": "French Prime Minister S\u00e9bastien Lecornu announced on Monday that a planned 1.6% increase in the minimum wage would be brought forward from January to December after holding talks w",
+     "image": "https://s.france24.com/media/display/23136886-dc33-11f1-b2ff-a575454bc579/w:1024/p:16x9/000-D6WB27W.jpg"
+    },
+    {
+     "title": "Thirteen migrants die after boat sinks off Crete",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T13:50:01+00:00",
+     "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2597/live/27d57330-dc3a-11f1-95cf-a38331e6cb4b.jpg"
+    },
+    {
+     "title": "Iran sees 'golden opportunity for a sweetheart deal' after US midterms, expert says",
+     "url": "https://www.france24.com/en/iran-sees-golden-opportunity-for-a-sweetheart-deal-after-us-midterms-expert-says",
+     "source": "France 24",
+     "published": "2026-11-09T13:49:33+00:00",
+     "summary": "A leading commentator on Iran says the country sees the results of the US midterm elections as giving them a golden opportunity for a sweet deal. Paymon Azmoudeh from Forward Globa",
+     "image": "https://s.france24.com/media/display/bf8bded8-dc41-11f1-bc20-bf1914cabd52/w:1024/p:16x9/capture-d352b274.jpg"
+    },
+    {
+     "title": "All eyes on Rubio as Iran, Ukraine set to dominate G7 meeting in Paris",
+     "url": "https://www.france24.com/en/video/20261109-all-eyes-on-rubio-as-iran-ukraine-set-to-dominate-g7-meeting-in-paris",
+     "source": "France 24",
+     "published": "2026-11-09T13:45:31+00:00",
+     "summary": "G7 foreign ministers began two days of talks in Paris on Monday as they grapple with multiple unresolved global crises. US Secretary of State Marco Rubio is likely to face question",
+     "image": "https://s.france24.com/media/display/6177d45a-dc41-11f1-aad1-695cb59fade5/w:1024/p:16x9/EN-20261109-133330-133715-CS-01.jpg"
+    },
+    {
+     "title": "Paraguay raids ex-president\u2019s home: Why a bank crash brought down Pena",
+     "url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-09T13:14:57+00:00",
-     "summary": "Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities.",
+     "published": "2026-11-09T13:44:00+00:00",
+     "summary": "Santiago Pena faces charges of financial crimes following Ueno Bank&#039;s collapse, impacting half of Paraguay&#039;s population.",
      "image": ""
     },
     {
-     "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-     "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T13:10:32+00:00",
-     "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
+     "title": "\u2018Obvious risk of further tragedy\u2019 at rail crossing type at which Amazon driver died, inquiry finds",
+     "url": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
+     "source": "The Guardian",
+     "published": "2026-11-09T13:43:57+00:00",
+     "summary": "Call for overhaul of manually operated level crossings after delivery worker was killed by passenger train in KentAn Amazon delivery driver was killed by a train after he drove his",
+     "image": "https://i.guim.co.uk/img/media/2c9380b8b1020412df6921ea4a4e0e4d68512f5c/511_0_7678_6144/master/7678.jpg?width=140&quality=85&auto=format&fit=max&s=3ac4bb8806158d06833de706654c7e26"
     },
     {
-     "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
-     "url": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T13:08:35+00:00",
-     "summary": "Teachers across the country say their pay no longer covers basic living costs.",
+     "title": "COP31: A focus on electrification as extreme weather events shake the world",
+     "url": "https://www.france24.com/en/video/20261109-cop31-a-focus-on-electrification-as-extreme-weather-events-shake-the-world",
+     "source": "France 24",
+     "published": "2026-11-09T13:35:25+00:00",
+     "summary": "Most of the world\u2019s countries are gathering this week for COP31 in Antalya, Turkey. This United Nations Climate Change Conference opens amid deep concern following extreme weather ",
+     "image": "https://s.france24.com/media/display/76c8aad8-dc40-11f1-a1b6-a575454bc579/w:1024/p:16x9/capture-6ef24e83.jpg"
+    }
+   ]
+  },
+  "wars": {
+   "fetched_at": "2026-11-09T14:15:13.908516+00:00",
+   "stale": false,
+   "items": [
+    {
+     "title": "Opinion | How to protect Ukraine without NATO membership",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0dQM1BqNEJ4QjFMZzdIMlk0VjM0b1hCUE1IeWZmYVY4NVdhQ2lNUGlQaUxSSGRFSWwtS1BrQVpiX3VjalkzV1RQQ3VRd1pselZfMm1SckZzenJjd1ltcDRNclNUT0pIdy1Rd2ZGWWZCUGZZRFZjRDc3LWdDemItQm9zUVZDc2hQUk5ndnpIczBpaF9CVHBIdzc0MFdjUDJXZFZIc1dQcEFNYkZW?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-09T14:02:19+00:00",
+     "summary": "Opinion | How to protect Ukraine without NATO membership&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Ukraine\u2019s negotiating delegation heads to Abu Dhabi for US-mediated trilateral talks, official says",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZHNFc21KVmFSTGo1bEFpQmQxUTZONktEbzhHYmpYZUdrSW5mc1ZrYVY5SXB6ZC1RMEcxQVFvT1E5UDNMS2QzVXpha3JjMDlHQkRlNDBlWk1maFNwVy0wazJvMFRNazBlU2tXeDU0YTdFVFRtRmlxY1oxM2V2OHZVT1luQnk2SERZWFJfY1RxS1UzYWd6RUR1Q2JDbVkySUpXQkRlQzJJRWsxS2dacGFJZzVZa0drY1poT3NMdkwwYzBMekJVc2Z0amdtWmx5ajhiYURFcmFCOGhSYnZwWnZ3?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-09T13:59:29+00:00",
+     "summary": "Ukraine\u2019s negotiating delegation heads to Abu Dhabi for US-mediated trilateral talks, official says&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "As fresh talks near, Putin appears set on wrecking Ukraine\u2019s economy, leaving Kyiv facing the toughest winter yet",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSXRkUGVFdUxvenRDQ2hVX1dXekc5Y3NoLTUtTDVlWG5pdExia3dhTHQxV19Ga0xrdFJJNEVTZmlmQlRlbm8wZEhuQ0Q2QVhGSG5nTTdTV3ExV212NkZjMm5GM01qVi1JMEhqd1c0M2RMRVQ3ZzZYSXNiaVlZMjVZR0FKcm13RkhFWi1TZVlEcXYtQ1RLSTVKakQ1SlktWkdDdENEdjhrT3NqNHJwVDQwQkkxanFZd2F3dUtUaHpDVWFESmhobTJJa1pxeWZfd250bDBSbzNBSjdRRjZK?oc=5",
+     "source": "Egypt Independent",
+     "published": "2026-11-09T13:53:30+00:00",
+     "summary": "As fresh talks near, Putin appears set on wrecking Ukraine\u2019s economy, leaving Kyiv facing the toughest winter yet&nbsp;&nbsp;Egypt Independent",
+     "image": ""
+    },
+    {
+     "title": "French PM brings forward 1.6% increase in minimum wage in bid to calm protests",
+     "url": "https://www.france24.com/en/france/20261109-french-pm-lecornu-announces-increase-minimum-wage-bid-to-calm-protests",
+     "source": "\u00a9 Kenzo Tribouillard, AFP",
+     "published": "2026-11-09T13:52:34+00:00",
+     "summary": "French Prime Minister S\u00e9bastien Lecornu announced on Monday that a planned 1.6% increase in the minimum wage would be brought forward from January to December after holding talks w",
+     "image": "https://s.france24.com/media/display/23136886-dc33-11f1-b2ff-a575454bc579/w:1024/p:16x9/000-D6WB27W.jpg"
+    },
+    {
+     "title": "Thirteen migrants die after boat sinks off Crete",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T13:50:01+00:00",
+     "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2597/live/27d57330-dc3a-11f1-95cf-a38331e6cb4b.jpg"
+    },
+    {
+     "title": "Iran sees 'golden opportunity for a sweetheart deal' after US midterms, expert says",
+     "url": "https://www.france24.com/en/iran-sees-golden-opportunity-for-a-sweetheart-deal-after-us-midterms-expert-says",
+     "source": "France 24",
+     "published": "2026-11-09T13:49:33+00:00",
+     "summary": "A leading commentator on Iran says the country sees the results of the US midterm elections as giving them a golden opportunity for a sweet deal. Paymon Azmoudeh from Forward Globa",
+     "image": "https://s.france24.com/media/display/bf8bded8-dc41-11f1-bc20-bf1914cabd52/w:1024/p:16x9/capture-d352b274.jpg"
+    },
+    {
+     "title": "PM Modi speaks to Zelenskyy, offers India's help in peaceful resolution of Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeUF6Wi1LUVozT2xrMU4wTjhKQXI1WFY2UDVvNUFITmxHSk9HSE9tRUZNTTlkT2xMbm1pY19NSDMxeXVNNTM5UE9xZTVJZ1JYcDlBRklzRFBWSXU3YTR1VUF4VTJhUnVTTmktT2xqMUJXRkpSeGVtbkwyVHNlQkNCLTVFbHhmU0NBTEd6cTJJbk5rZEk1d0V5eVJ5bTkzNjgzYUJuWVdwbWlOTzdBeDllcjRDZHd2ZmZLWWFmLUg3NEZlMlowTTl3Z201UnNPeHdEb2ZXVXp2Z1DSAd4BQVVfeXFMT0d6TDR5akJwVHMta3ppcDdMTE9teS1DLUtDV3ZYeHRHYWNmcUFLN1ZzRUJxS1BXWmptLThydkM4ZUk1THBGMGRfMHkyZ2YtdV9tbXVMV3liTW9qSS1JNmZRM2FSMkhwQ0pnYmh3cTcwM2N3MTlrdzhKY3lWRXpEbm0tU3NkaDBLenlGM3d0RVk3U25kWjA2UlNXTnJCdFRPSkVrTG9HX2JqdFFkTzJkaE1mYW9DczdsdnY4anBCdjNuQ0ZQNUNfTzJ0YkJJQ3Mtc0JnbEkwVDB6azhqSEZ3?oc=5",
+     "source": "India Today",
+     "published": "2026-11-09T13:47:34+00:00",
+     "summary": "PM Modi speaks to Zelenskyy, offers India's help in peaceful resolution of Ukraine war&nbsp;&nbsp;India Today",
+     "image": ""
+    },
+    {
+     "title": "All eyes on Rubio as Iran, Ukraine set to dominate G7 meeting in Paris",
+     "url": "https://www.france24.com/en/video/20261109-all-eyes-on-rubio-as-iran-ukraine-set-to-dominate-g7-meeting-in-paris",
+     "source": "France 24",
+     "published": "2026-11-09T13:45:31+00:00",
+     "summary": "G7 foreign ministers began two days of talks in Paris on Monday as they grapple with multiple unresolved global crises. US Secretary of State Marco Rubio is likely to face question",
+     "image": "https://s.france24.com/media/display/6177d45a-dc41-11f1-aad1-695cb59fade5/w:1024/p:16x9/EN-20261109-133330-133715-CS-01.jpg"
+    },
+    {
+     "title": "Lavrov says Abu Dhabi talks to discuss principles to be approved at conclusion of Ukraine peace negotiations",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR0dkVnlIT3FMdlhZTXJWc29hOG9weXZnWlR2ZTc0dFg0ZmlPaEV0RE9ST2FBUGlYRk0wT2RKTXMtcTJtY19tWWRZQ2JBNS1mZTZ1a1ZDMVFUQlVfa1lvWk9VUXBIT3FjcVROMGlZQ1Z1WlZqNDE1eTE5YVNYU2QxNnp0Umx1VVktUzltbkROMXZ2WHRrbkxGbGdkRVFxUVJDUEZPN3ZuYUZPNG9yY0FoaHNkbjBxalBaQmhTVmJTeWdWZUdRcnRZQzc1N0M1WFVDLWtvaXEtVUlpeDk5UDVyYzN0WF9Nd29wMHhrQQ?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-09T13:38:12+00:00",
+     "summary": "Lavrov says Abu Dhabi talks to discuss principles to be approved at conclusion of Ukraine peace negotiations&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Russia and Ukraine batter each other with long-range strikes a day before US-brokered talks",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmtxRl9yVE8tdHVxWVdJM1FOM2hUeXlpZDcyRHphWVhyeVByNXVmVHp5WS1VazZKUDRUYlpUSWp2U0tlVzFhOU1HbmVVendfQ0hvSWljTm5lS2FPcjVXQlY4aXlNYXV2RnBLSlBoaXNMTmZOTDVsUGkzb2k2QmZYQkFWUDQyUlpjazRfRjN4ZlRjcVhncHUtTlZEVXFab2o5VHdBa2g4MGNEX3BJTW5FN2dSQmhKMUZ4MmpCTDFZZlMtMHZiTlR2clZ5dXVjSV9saTRxNTh2NGtZcUd1UzRXUk9ZZXBmM3JEZEdsNTBITnhPeWxNZGs2Y3Q0QmtpUQ?oc=5",
+     "source": "KTVN",
+     "published": "2026-11-09T13:37:59+00:00",
+     "summary": "Russia and Ukraine batter each other with long-range strikes a day before US-brokered talks&nbsp;&nbsp;KTVN",
      "image": ""
     },
     {
      "title": "Poland\u2019s justice minister says investigation into Krak\u00f3w shooting will aim to establish if the 24-year-old acted alone \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
      "source": "The Guardian",
-     "published": "2026-11-09T13:05:24+00:00",
+     "published": "2026-11-09T13:34:24+00:00",
      "summary": "Terrorism investigation was opened after attacker opened fire in a market squareAFP has a quick snap that Ukraine is to hold \u201cseparate\u201d meetings with Europeans and Nato in Abu Dhab",
      "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17"
     },
-    {
-     "title": "China rejects \u2018baseless\u2019 claims it spied on Nvidia boss",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T13:02:46+00:00",
-     "summary": "China denies spying on Nvidia boss Jensen Huang as the company probes his affair with an alleged intelligence agent.",
-     "image": ""
-    },
-    {
-     "title": "Black girls in LA keep seeing women around them getting killed. They\u2019re driving change",
-     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/09/black-women-girls-los-angeles-homicides-violence",
-     "source": "The Guardian",
-     "published": "2026-11-09T13:00:09+00:00",
-     "summary": "Black women and girls represent an outsized share of LA homicide victims \u2013 frustrated with police and legislators\u2019 failures, they\u2019re stepping up and speaking out to stop the violen",
-     "image": "https://i.guim.co.uk/img/media/19ab6a14fc7ced6626c2e4b635a5cfc21363ecbe/1_0_7196_5759/master/7196.jpg?width=140&quality=85&auto=format&fit=max&s=1e26ccc48e0c39ffcca6e8b6fd485c5a"
-    },
-    {
-     "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
-     "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
-     "source": "NPR",
-     "published": "2026-11-09T12:45:14+00:00",
-     "summary": "Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confro",
-     "image": ""
-    },
-    {
-     "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T12:33:24+00:00",
-     "summary": "Police declined to disclose their nationalities but said none of them lived in South Africa.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg"
-    },
-    {
-     "title": "Partial collapse of Pakistan\u2019s Tarbela dam causes flood water surge",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T12:16:20+00:00",
-     "summary": "A protective barrier collapsed at the partially-constructed Tarbela Dam T-5 hydropower project in Pakistan.",
-     "image": ""
-    },
-    {
-     "title": "At least 21 migrants and refugees die trying to reach Greece\u2019s Crete",
-     "url": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T12:06:19+00:00",
-     "summary": "Greece&#039;s coastguard said more than 100 people rescued in several operations off the southern coast of Crete.",
-     "image": ""
-    }
-   ]
-  },
-  "wars": {
-   "fetched_at": "2026-11-09T13:45:10.205261+00:00",
-   "stale": false,
-   "items": [
     {
      "title": "G7 ministers press Rubio on Iran, Ukraine at Paris talks",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWJQVmU1OVRab2dybmI1dU1mZExKQ19BU2laWHVfN0hkMWMxbzl1N1VkVy1NNnNnZ1F0Z20tTklUdXlwQjlFRndVTi1JLVNlUnZFLUd0dnlWNDFjZXlpQ2NLUHp0dDhON3BUSFAyZlFFM1EtcGs0QWVYWjZGd3pVMGNGY2RmUFNXUUFsYVk4UkVST1lJQng0NTlDQXEwQ1VP0gGmAUFVX3lxTE5JWU9sTHlUY3I2WENBTVA5TjRrOUNwLXp4WW43ZGlVM2N2SmQ0eHRvLUFWNUtxNHRhS1NUNHlCOGNZMmdIOFlWMVFWWTBvcFVEODc1WENxc1VTRjhyX0dzRHpyakFaNjZCdHo5Y3Mtcm10WDNmT3Q2aUpjc291NEs1MmdOc3BlSGttREFBd0xMYlBla3RuVWFIVS16T3ZldEZNSGlabnc?oc=5",
@@ -130,108 +218,68 @@
      "published": "2026-11-09T13:29:05+00:00",
      "summary": "G7 ministers press Rubio on Iran, Ukraine at Paris talks&nbsp;&nbsp;The Korea Times",
      "image": ""
-    },
-    {
-     "title": "War pushes Ukraine into population crisis as deaths far outstrip births",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLWlJdTN1VDNsUWg2NEtKOWtxcDJNc1R6ajNCQ3MzVFJOV1pJWldaNGlUekEwUjd0dUhsNGRvbXVNNk9UQm5xc2JEV1ZtOTdXRHA4WDJHRnRqN1hWSGhxSENRdHF5MWNPOXVEa2x6cnhWaG5tOG1JRGNmMHRPSE5rQXJtM2N0cHJuNGNZbmtnNFBQVVZ6SmhmaS16Rk41MnJha3hQWjA4VTdfbTZZdlg0U0MzMmlSdXdHZHBVMA?oc=5",
-     "source": "The Times",
-     "published": "2026-11-09T13:20:00+00:00",
-     "summary": "War pushes Ukraine into population crisis as deaths far outstrip births&nbsp;&nbsp;The Times",
-     "image": ""
-    },
-    {
-     "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-     "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T13:15:27+00:00",
-     "summary": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way",
-     "image": ""
-    },
-    {
-     "title": "Rubio faces G7 questions on Iran, Ukraine after GOP midterm losses",
-     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPb2M5cUh2cU10aEZFanRzc1lySHNFbG00dE5rd3JvaHg0RTR1TXUwQTV1MTdFeENXSUNIbm96V3JGOXpyLXVxUVlTVFpyLTc0dDZQc0xMTGp4YzQxX3h0UmlEU2FQQnY1Y0s3VGR6ZW5ZR1VPTlJkajhaS0hJNl9jWmNGTFRLenBWeTJXQ0FRVWhnYVBRc3dNbnJSWjRTNkxYZG1zM0dub2ZsOGhEU2ZuVTdENllwdW5GQU5FNWRJand2WkZ0Z0c4cGo5d2FfMW13YXZEcXlhZTNmVThzTmd3eFpOY3hKQS1aUjZMXzU2bVhCS2Z5YU1qZEZEWlNXeUNpcFVDNTFwRVdUdlBWenBwa3VpTWVnSWxvMlBNdHk3LVpZTE84RTlQYkZ4UmMyR1NsR3htaF9GaGlwVXdFb3lfZklIdTRkYV8xM1VxVUFmcnNGb3JvaU1jOWk1Tm1tNTB0Uk9aeWUwcw?oc=5",
-     "source": "WLOS",
-     "published": "2026-11-09T13:12:20+00:00",
-     "summary": "Rubio faces G7 questions on Iran, Ukraine after GOP midterm losses&nbsp;&nbsp;WLOS",
-     "image": ""
-    },
-    {
-     "title": "Europeans to join Ukraine peace talks in Abu Dhabi: Berlin",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aWkt1Q0lURUNzZU91S1U4cTlQajRaTHR1RlpsWUtuTHlZM2FkOEdrUThYdkt6bkZUVnlpY2h0cER0WUFJUDBWQ2p5enlVZ1BQNUxadXI3SlA?oc=5",
-     "source": "TRT World",
-     "published": "2026-11-09T13:11:21+00:00",
-     "summary": "Europeans to join Ukraine peace talks in Abu Dhabi: Berlin&nbsp;&nbsp;TRT World",
-     "image": ""
-    },
-    {
-     "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
-     "url": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T13:08:35+00:00",
-     "summary": "Teachers across the country say their pay no longer covers basic living costs.",
-     "image": ""
-    },
-    {
-     "title": "T\u00fcrkiye Offers Istanbul as Venue for New Ukraine Peace Negotiations",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2FFbFlpRDBoMmZTRU1zT1pmNFlIVkM2ZFdYLWduUUZNdV85RTAyaGNJYjJsMGRKaFFwY1VDaUxoejJPcXlrdmlSNDVNeU00UFQtQkdJNG9Za0Ztb2NhcFNfMi1pS2RHNU5vZkh4WHRPOTkwbGRvY1AzQXgyWlFNMjJfenFIU0xtYXJJcXRyQUJoQlNrdFFOeU5UMDdtMlBs?oc=5",
-     "source": "Caspian Post",
-     "published": "2026-11-09T13:08:24+00:00",
-     "summary": "T\u00fcrkiye Offers Istanbul as Venue for New Ukraine Peace Negotiations&nbsp;&nbsp;Caspian Post",
-     "image": ""
-    },
-    {
-     "title": "Poland\u2019s justice minister says investigation into Krak\u00f3w shooting will aim to establish if the 24-year-old acted alone \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-09T13:05:24+00:00",
-     "summary": "Terrorism investigation was opened after attacker opened fire in a market squareAFP has a quick snap that Ukraine is to hold \u201cseparate\u201d meetings with Europeans and Nato in Abu Dhab",
-     "image": "https://i.guim.co.uk/img/media/275cfb2ac59b00e76178a04ebec8c40d2840a0a9/1268_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6edbf3a45a61a2b61069f3faa7729e17"
-    },
-    {
-     "title": "Over 450,000 Russians killed in Ukraine war, leaked Rosstat figures expose staggering human cost",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWnh0X3dwSjhqWm9ReEVmU19SVDRYVkFrMVJ6UWFXbkVZeGZNMk9KTWRHeXk4dHpMQlE3X2hZNTBMOFVKdldiSUZDX3hvTnYzR2I3UGJ1VlgyUlRoNHVwajlqbGJiQVFFYTBHVVNTeHl4NDB2ZGV5b0h2MGdwN3NLMk04em1RTkFYV0Y5YUxUTFFXUnFILW5PU2c5elJSaUtiOHZaVlFvT0JwaVZiX00zV3JvdEZHd0h3MG1BSmd1MHhmYkNjRHN6ajd5ajJTaEF4WHk5Zm5LVdIB3AFBVV95cUxQaVZROFpxbWVvbjc1TGNzXzVyRktBSkxtSlJVajV5SFladUFrSGdCMVFlVWFVeGdPSE9qUWk5b081U1lsTHh2TkhVelc5WVR3M0Y2eV9oMnJ6WXB3N1dfS1NGelYtMkZWalcwbGtIU19jbDNoaVdtanU3OWt6cXpYeGs4RU5hRklVNTRZREY4RWVPazdSVjlrOVRZQXNKRXR6ZGg4ektJWW1LaDQxTktSWUNiT0pwLXhZQ011bXJxa0NaTWUwTFZVaGJmWk1iSVR2U1piZjJHTnBOZmta?oc=5",
-     "source": "Firstpost",
-     "published": "2026-11-09T13:03:45+00:00",
-     "summary": "Over 450,000 Russians killed in Ukraine war, leaked Rosstat figures expose staggering human cost&nbsp;&nbsp;Firstpost",
-     "image": ""
-    },
-    {
-     "title": "Humiliating Leak Exposes Dark Truth Putin Tried to Hide",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXNFQWlWc2JmSFhxbzl3MDNvWktlbFFPZWxrUldiQ3ZxZTBlWlBvLUllWnpQWUIwNFUtbW8yNDd1c3U5ajJMdG9YV2pYMk53TjV1ZkxyV2FsaENVR19ESGlaNEtfWkJYaWlMRUMtVEQ4bkFPSExZMGtEWEdWMG5HMUQwS2xOZWFNb2RHdEhB?oc=5",
-     "source": "The Daily Beast",
-     "published": "2026-11-09T12:57:48+00:00",
-     "summary": "Humiliating Leak Exposes Dark Truth Putin Tried to Hide&nbsp;&nbsp;The Daily Beast",
-     "image": ""
-    },
-    {
-     "title": "South African police arrest 9 foreign nationals suspected of traveling to Russia to fight in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2N4a2djZmNTTXYyR2ZhemFQZURkNGFrSE0tcU1pc3dPakRmQ2lVMWs2eTRDZklrUXpsQlRGVGlMVDFRTnFpSWZnd2c3TGU3M2dnY3B3WGFEVHhzcHg1Mm5DUXlCNWdzTk9WNnlKU3RFX3ZRSzVFcEhFMmlocEU4SmphbWphWHptZkNlLWo2cnVweHFoNUZ5cEZyQm1nQlNFcGZCVHlKY0VNRW8?oc=5",
-     "source": "AP News",
-     "published": "2026-11-09T12:46:00+00:00",
-     "summary": "South African police arrest 9 foreign nationals suspected of traveling to Russia to fight in Ukraine&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "Opinion | How to protect Ukraine without NATO membership",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0dQM1BqNEJ4QjFMZzdIMlk0VjM0b1hCUE1IeWZmYVY4NVdhQ2lNUGlQaUxSSGRFSWwtS1BrQVpiX3VjalkzV1RQQ3VRd1pselZfMm1SckZzenJjd1ltcDRNclNUT0pIdy1Rd2ZGWWZCUGZZRFZjRDc3LWdDemItQm9zUVZDc2hQUk5ndnpIczBpaF9CVHBIdzc0MFdjUDJXZFZIc1dQcEFNYkZW?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-09T12:36:04+00:00",
-     "summary": "Opinion | How to protect Ukraine without NATO membership&nbsp;&nbsp;The Washington Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T13:45:10.205265+00:00",
+   "fetched_at": "2026-11-09T14:15:13.908521+00:00",
    "stale": false,
    "items": [
     {
-     "title": "The Latest: Trump says his deportation policy \u2018might have been too tough\u2019 for voters",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVlvTFFDY1NPaVQzem11amtUVEdVQzBONXBHd01CcC1KaUdzdlRSY25QZFJvOWxvbFh1dzM3MXluNlVXM2EzTWZxcU54VXgzOHBXZWo4bVpnMzF1cnFQcmRGakJLQjRtQ0JyeDZlQzFiMDRuS3Z6a3lvbTFpemQ5ZjZWcGowX1huV3JUZmpMeGlCQkhtTnpsTEd3V3B6TDBkdWN1YWk1a09lMXlZdXlNN2x6Y09sSkpTQWFJSnc2YWRUa250clpB?oc=5",
-     "source": "WSLS",
-     "published": "2026-11-09T13:37:33+00:00",
-     "summary": "The Latest: Trump says his deportation policy \u2018might have been too tough\u2019 for voters&nbsp;&nbsp;WSLS",
+     "title": "Crypto, Meta money lifts new Democrats to CA Capitol",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14QXk0Ung0QXpiUVA0bHA4X1dwcERObXFxNXJYSTJfTXpjajctRzFSd0hkVGYtN1ZfVGZiaE5TS24wUS1uWXZjMjk1RGpadlJCT0JGVTJwRWhvVFZ2bEw1clRFb1d3MTVNNVB6Q3JOT01teUoxc0ZOS2h5MVVtcE0?oc=5",
+     "source": "CalMatters",
+     "published": "2026-11-09T14:00:00+00:00",
+     "summary": "Crypto, Meta money lifts new Democrats to CA Capitol&nbsp;&nbsp;CalMatters",
      "image": ""
+    },
+    {
+     "title": "Deportation policy \u2018might have been too tough\u2019, says Trump, as Miller starts chief of staff role \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T13:56:09+00:00",
+     "summary": "President\u2019s acknowledgement appears at odds with his elevation of Stephen Miller, the architect of his hardline immigration policyTrump admits deportation policy was \u2018too tough\u2019Sig",
+     "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
+    },
+    {
+     "title": "Flint, MI, Fire Chief Announces Departure Following Election of New Mayor",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejNDaEh0STdlbXNXWHlNLXNfdkgwYW1aencwOWxLZElvanpha3ptNi01SkdEbmJ3c1ZuYUh5dWR5Q2FtM05aOXlvQm5SZW9KQ21MZ2dVZjlwRUVFYksxSTN6REFxRFdjRklJRkYyMEJjU1NZRVRkajFhWjU2NjdLajNkUmdVQlJ4ZmVJVTdfbndLRE1ycXNEM0I4Q3JFbFBKNDF1MkltTVNiZ0tUQkJjNk0zbFJabmlKZVo3RnZEWi10SEhqSndmbDZR?oc=5",
+     "source": "Firehouse.com",
+     "published": "2026-11-09T13:54:37+00:00",
+     "summary": "Flint, MI, Fire Chief Announces Departure Following Election of New Mayor&nbsp;&nbsp;Firehouse.com",
+     "image": ""
+    },
+    {
+     "title": "Senate Permitting Bill Needs Additional Protections for Agriculture",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDMzSEhhOHpPOG80OVZkazhtVnhfNU0yVXhOdEVaNnNLT0dMY243MjFLY1g2VjZXT3R5RElJcmpFY0dPSkRZNms2SFkzeTR0MC1rRDFmQWYtNzJpenoyQURoajBfYzk3MTVPSnNlczBtNVo0eFpBOFoyeGpQUjFuUk9pWDJVQ0Ftb0tqMzVFV09hcmo4cnhIaGRNbXBCaWti?oc=5",
+     "source": "American Farm Bureau Federation",
+     "published": "2026-11-09T13:52:00+00:00",
+     "summary": "Senate Permitting Bill Needs Additional Protections for Agriculture&nbsp;&nbsp;American Farm Bureau Federation",
+     "image": ""
+    },
+    {
+     "title": "Paraguay raids ex-president\u2019s home: Why a bank crash brought down Pena",
+     "url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T13:44:00+00:00",
+     "summary": "Santiago Pena faces charges of financial crimes following Ueno Bank&#039;s collapse, impacting half of Paraguay&#039;s population.",
+     "image": ""
+    },
+    {
+     "title": "The Latest: Trump says his deportation policy \u2018might have been too tough\u2019 for voters",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUxpZld0T0xYQlgwQVVJZjExMnR1blZva0NNNmRqWGhlRGJHR0R1NUM3NWt2UHdIRzRGazVGSlZRMVF4ZlZldkJzS1IyNm53YU45cTFkMzMxT1l1d2J3RnZRd3lSQXFzbjNyTXJ4M2JyQ19iVW5xdHRkYVpvblBTZm9weUxMZlhDbnF3Q1dEcUF5MjhqcnFsRUFNSEpPUUtmck45LWp4ZVp5dXVoYmJydDlkcFBLWkZuZS1lNmZDTkNtdjVTa1hvcmhVQWZDNUliOEE?oc=5",
+     "source": "WKMG",
+     "published": "2026-11-09T13:37:33+00:00",
+     "summary": "The Latest: Trump says his deportation policy \u2018might have been too tough\u2019 for voters&nbsp;&nbsp;WKMG",
+     "image": ""
+    },
+    {
+     "title": "COP31: A focus on electrification as extreme weather events shake the world",
+     "url": "https://www.france24.com/en/video/20261109-cop31-a-focus-on-electrification-as-extreme-weather-events-shake-the-world",
+     "source": "France 24",
+     "published": "2026-11-09T13:35:25+00:00",
+     "summary": "Most of the world\u2019s countries are gathering this week for COP31 in Antalya, Turkey. This United Nations Climate Change Conference opens amid deep concern following extreme weather ",
+     "image": "https://s.france24.com/media/display/76c8aad8-dc40-11f1-a1b6-a575454bc579/w:1024/p:16x9/capture-6ef24e83.jpg"
     },
     {
      "title": "Senate Republican calls for delayed leadership election",
@@ -250,20 +298,20 @@
      "image": ""
     },
     {
-     "title": "Polanski says Labour has \u2018shocking record\u2019 on climate issues as ministers expected to cut EV targets for car industry \u2013 UK politics live",
+     "title": "Trump admits deportation policy 'might have been too tough'",
+     "url": "https://www.france24.com/en/video/20261109-trump-admits-deportation-policy-might-have-been-too-tough",
+     "source": "France 24",
+     "published": "2026-11-09T13:26:05+00:00",
+     "summary": "President Donald Trump in his first major interview since his party lost control of the House and Senate in the midterm elections said he thinks his administration was too aggressi",
+     "image": "https://s.france24.com/media/display/5a93f80a-dc3f-11f1-b1d7-1beafce15fea/w:1024/p:16x9/EN-20261109-130949-131527-CS.jpg"
+    },
+    {
+     "title": "Burnham says bravery of Brand\u2019s victims will change the justice system to better support survivors  \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
      "source": "The Guardian",
      "published": "2026-11-09T13:24:27+00:00",
-     "summary": "Louise Haigh is expected to agree to cut a target for EV sales by about a quarterDowning Street has insisted that the government remains committed to the principle of the zero emis",
-     "image": "https://i.guim.co.uk/img/media/7a02db80a099b48fdc379f25b678f9698ce1e84a/477_0_4751_3803/master/4751.jpg?width=140&quality=85&auto=format&fit=max&s=78597f9fc767a9b19d8bdfb978002b35"
-    },
-    {
-     "title": "Deportation policy \u2018might have been too tough\u2019, says Trump, as Miller starts chief of staff role \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T13:15:13+00:00",
-     "summary": "President\u2019s acknowledgement appears at odds with his elevation of Stephen Miller, the architect of his hardline immigration policyTrump admits deportation policy was \u2018too tough\u2019Sig",
-     "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
+     "summary": "The prime minister said he wants police forces to have dedicated rape and serious sexual offence teams by the end of 2027Downing Street has insisted that the government remains com",
+     "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=140&quality=85&auto=format&fit=max&s=18bfdf610be38d2b39b7053f7307d843"
     },
     {
      "title": "Which Republicans are running for minority leadership roles in Congress?",
@@ -272,59 +320,11 @@
      "published": "2026-11-09T13:14:57+00:00",
      "summary": "Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities.",
      "image": ""
-    },
-    {
-     "title": "CalMatters sues Shasta County over its refusal to disclose federal subpoena related to election ballots",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHRwZGZTWVpBS091UDFIOE14WEh4ZEFsREsxUWVwS05XUVRNOFRndXlxZ3VIU2hEdFFwTzRkcFFjRDdTd2xpbm40VkhtcUxMOUR0UkFhZzVmZkRwZE9pTnB1Y3NxbG9aYTNXTjJyUGRZOFZLcGdLa25ycWd5cDNHcmxUeDl1dVU?oc=5",
-     "source": "CalMatters",
-     "published": "2026-11-09T13:00:00+00:00",
-     "summary": "CalMatters sues Shasta County over its refusal to disclose federal subpoena related to election ballots&nbsp;&nbsp;CalMatters",
-     "image": ""
-    },
-    {
-     "title": "Opinion | Tuesday Upended Everything We Thought We Knew About American Politics",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTZMcHdzckFoMEpKTU5qdFZYZUFYMlRyLUVYYWlTWVpWNlRtaXVyaTQwQUhSVjRtTm1BaURtZFV4cDg2cm91b2dIUU5oNDEtTHdtNE5nMzAwN1pZcHU2ODYxZ1liaWFRdzVNVklnRnRnSDNobFJHanE2cnhxTTU1azBxQ2Q?oc=5",
-     "source": "CT News Junkie",
-     "published": "2026-11-09T13:00:00+00:00",
-     "summary": "Opinion | Tuesday Upended Everything We Thought We Knew About American Politics&nbsp;&nbsp;CT News Junkie",
-     "image": ""
-    },
-    {
-     "title": "Voters rebuked Elon Musk, but not California billionaires\u2019 spending in down-ballot races",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnpxN1otenE0SURoOGZudmpFOFNTUGtnSHJpODZrYmFsWlEwd2NrcjdERkRqWWxMTjdPTVNQTjN4MzBwUnRscEFlXzNpamN1MnRUZ0dFWVpEeDUxRUhDN2d0cWJZZmZ3NGF4RDh4dXFiaFBDZksyenNUVGNabFU3VDFzUXV4Zw?oc=5",
-     "source": "CalMatters",
-     "published": "2026-11-09T13:00:00+00:00",
-     "summary": "Voters rebuked Elon Musk, but not California billionaires\u2019 spending in down-ballot races&nbsp;&nbsp;CalMatters",
-     "image": ""
-    },
-    {
-     "title": "Who won Mississippi US Senate race? See results. When are deadlines?",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeGtYYTgtYmx5RUhveVgyVkhfMFhxcTNRbEMxc0IxanJTVmFfQllPS1FkODJKbGpmSzZXYnNvSUVTa0dLX2lVR3VManNiQThnUnNaU191R2VGNG1ZejdPX3BIWFZQaUh2bTdyeG1ZaEVuSWVjanVNbEszd0QxUWJBdlBOc05jLUZRY0xieGJXZUNzeENXV1ZNN1ZvcUdIT0xBYXQwQ05Pcnp2VHpaOUVPVzJhLTlwNzBwR084Z1ZTQm1LWVBLWXlqaEZ4VFBYaGRfMExhWmFVeGlqX0s1V1RaSGU0d29SdFZ3aUdJTXhwT0MtRmt0SWpTbGluMW5oMFhiNThOX01CUXpHVzQx?oc=5",
-     "source": "The Clarion-Ledger",
-     "published": "2026-11-09T12:49:00+00:00",
-     "summary": "Who won Mississippi US Senate race? See results. When are deadlines?&nbsp;&nbsp;The Clarion-Ledger",
-     "image": ""
-    },
-    {
-     "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
-     "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
-     "source": "NPR",
-     "published": "2026-11-09T12:45:14+00:00",
-     "summary": "Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confro",
-     "image": ""
-    },
-    {
-     "title": "Former Obama advisor analyzes what the general election results means for southern New Mexicans",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUWc4MnhFR212aGZ0U2FxMGwtRmJsM0RtYVJTTXRKdGhHb0x2cmcwcUJweUoxSFFkN2txWmVWREV3UTJhOWpXNmYtX19yejVORkVOb0pYTXN3SmcyZEwtTHBGM3MxTEV1V0w5TTR1Y3R1Q05sWkplY2VBekF0UFA3T05Gckp1XzZjdzNLODZWS3dwZFJLM21EZUF0MU1vYkdJelRnM3J5dTlTemNIMHlEUnZkZks4WWVQNUtFR2FoaHNMY2Zycmh6ZmpOSEduUVNPVk1z?oc=5",
-     "source": "KRWG Public Media",
-     "published": "2026-11-09T12:45:00+00:00",
-     "summary": "Former Obama advisor analyzes what the general election results means for southern New Mexicans&nbsp;&nbsp;KRWG Public Media",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T13:45:10.205268+00:00",
+   "fetched_at": "2026-11-09T14:15:13.908523+00:00",
    "stale": false,
    "items": [
     {
