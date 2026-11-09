@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-09T01:43:24.423198+00:00",
+ "generated_at": "2026-11-09T02:13:28.240443+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T01:43:24.423178+00:00",
+   "fetched_at": "2026-11-09T02:13:28.240425+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
+     "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
+     "source": "\u00a9 Michel Euler, AP",
+     "published": "2026-11-09T02:05:00+00:00",
+     "summary": "G7 foreign ministers will revisit Russia\u2019s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open",
+     "image": "https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg"
+    },
+    {
+     "title": "\u2018I never executed Jesse Baird\u2019: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-09T01:44:14+00:00",
+     "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024Warning: This article contains graphic contentGet our breaking news email",
+     "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0"
+    },
+    {
+     "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-09T01:30:36+00:00",
+     "summary": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper bodyGet our breaking news email, free app or daily news podcastFamily members ",
+     "image": "https://i.guim.co.uk/img/media/6cdcfeabc345f0a7e521638862e85ad5c5125b6e/0_174_1516_1212/master/1516.jpg?width=140&quality=85&auto=format&fit=max&s=da413ca53e68c59303cae117c71ea52d"
+    },
+    {
+     "title": "Drone attack suspends production at Iraq\u2019s Khor Mor gasfield",
+     "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T01:19:09+00:00",
+     "summary": "The strike leaves more than 70 percent of northern Iraq&#039;s Kurdish region without power.",
+     "image": ""
+    },
     {
      "title": "Trump vows comeback as parties clash over Democrat prosecution threats",
      "url": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats",
@@ -84,51 +116,59 @@
      "published": "2026-11-08T23:58:53+00:00",
      "summary": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
      "image": ""
-    },
-    {
-     "title": "Mexican mayor found alive after hours-long abduction",
-     "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T23:55:37+00:00",
-     "summary": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
-     "image": ""
-    },
-    {
-     "title": "\u2018This happened very quick\u2019: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-08T23:50:17+00:00",
-     "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024Get our breaking news email, free app or daily news podcastBeau Lam",
-     "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0"
-    },
-    {
-     "title": "Chancellor Merz to nominate Aigner as Germany\u2019s first woman president",
-     "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T23:39:47+00:00",
-     "summary": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
-     "image": ""
-    },
-    {
-     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-     "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-08T23:34:18+00:00",
-     "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T01:43:24.423188+00:00",
+   "fetched_at": "2026-11-09T02:13:28.240433+00:00",
    "stale": false,
    "items": [
     {
-     "title": "France's far-left leader attacked for remarks on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlZyVTY5ZGQxM0MwdDdxZVhIVlpvTHZtWllQR0VvcEN0cW5BLWdiUjloSlN2amlNbVRPMDlsa0RTX1BTODFlZXFSeFRzc3VhZVd5ZjVZSDdsVzJfQkdQVFpWVGduemx0bjQ1UXcyd2ljRWptUGhJT2prX2VieWtpUjktRmRmNEt1TllCRWQzTFN2T3F3NjJRQUFEUTJDSHRWX20wd2RR?oc=5",
-     "source": "France 24",
-     "published": "2026-11-09T01:19:55+00:00",
-     "summary": "France's far-left leader attacked for remarks on Ukraine&nbsp;&nbsp;France 24",
+     "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
+     "url": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
+     "source": "\u00a9 Michel Euler, AP",
+     "published": "2026-11-09T02:05:00+00:00",
+     "summary": "G7 foreign ministers will revisit Russia\u2019s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open",
+     "image": "https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg"
+    },
+    {
+     "title": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNekpVMjZ6d0VROVU4TmlTQVFuRk0tVVB5d2NxZWVpMUpWbngtVUZDbkRfTlBPZFFKN3RFa1NSRncyRkhVQU9WLU80R3JoTUpVUS1NdmlhUEV1VlRyRUJDeG1PRlBDXzdrQVJPTXBiT1BJVGd3T2N2X1dEd2JCaUZiekd1NXdDelltU2kwa0x5czFkQ3hsbjZXcmUtamV2Ti14Y0pfamZNY0xBWG02UW5NaVpfTFpEYUpRTE5xd19BR2c3dzNCTnJiUUpJZmQ0SmhEZlRTd1NGWnZMWmVvRThLNVd5UEpjWjc4bGNVMWVQNDl0UEJJOTN4Vl9sdVpGazd6Vko2X25KYWHSAYICQVVfeXFMUDBhbUF0Q3cwR0ZJTjloRDJLWHZkREpKNlROWkRlME05bGVXOVpnR09yYVlBeU1mZkxNSU0zU1YxVzZ6dGZPNjh2QVlCaVIxaEFYMWUxSHAxXzFDUk43d2FvSG1DSXdJOHk0aUgzbHVULW5menZNVXo4TjJfc2dkOVJHbEc1VU9BZUxqbW1LeE43bTlaVmVtQjhsZXdaRGFGNVI1NnJNdm85MW9MR1MxTWpuWFBIbWZqRXJ4OHVMRGdYbmFHS0NiQjlqdVA3ei1PZTZYWkJPNkhMUEFFdkhqVFFBU25QWjRVcHQxdF9YR2Q0bUtIcW9NQ0lRbGFRZHFySkln?oc=5",
+     "source": "The Economic Times",
+     "published": "2026-11-09T02:01:33+00:00",
+     "summary": "Russia may have lost up to 450,000 people in Ukraine war, leaked death records suggest&nbsp;&nbsp;The Economic Times",
+     "image": ""
+    },
+    {
+     "title": "France\u2019s far-left leader attacked for remarks on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQmtfUktHal96QTJfREhxQUhHcElWWU9qWHF1Q0tzclZ2MUdxY2Q0eWNVMk16cXpKeHVWUzI2amlKR1ZyYUVsNDg3dTljZ2w0TTNCdW15X2kxS010eW1SdUNJUThBcjNFN0ZvVE9LRFpwUGlyeFdPU1dCYWFpb2RQUUx4cllVWTIxS09sYUs5clFralpzVEZXSEVBM3RWbmo4NTVsQlU3S3ozRnVLaEw2SlhySFVXQVNNMG5jZDJKVEpNTEVOaGtsLVVScjdSQW9RZ094NHlKNDNKRW9mOHI4ZWFjbjMyZw?oc=5",
+     "source": "The Weekly Times",
+     "published": "2026-11-09T01:55:22+00:00",
+     "summary": "France\u2019s far-left leader attacked for remarks on Ukraine&nbsp;&nbsp;The Weekly Times",
+     "image": ""
+    },
+    {
+     "title": "Trump Blames \u2018Hatred\u2019 Between Zelenskyy And Putin For Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWRSR1l4N2piZFh4bjlOeTJEM1BRMG1WNlIxTUU2b0RvaUFpUlhXMWtBdzdZRUs0QkdwOG90dkRKYkFoNVRtTkE0eHV0Vm9NbmxqQUZsV1dLSTQzYkVZNzBmY2Q5U1BXdGdBVUMwWUwxZlhGM01QdWk5eDhWaHlwWFYzNXlBQkNqNzlzUkJHNlEzekxId3llUV92dTlFZnR1LUNLRmN2TzBZd9IBrwFBVV95cUxQZE0xZGVIWk85SWVzS0ZNTThwcGE1eUM4MXZBSFZTTkVPY1JfZnY3YTg2Q0ZZeG5SU3pDeV9ZM0hpazRONzZJWTJWbEpVSVY5Ny1nem1JM2tiSmFwLVFhMDJQdXBETXJKMUVLMHNGMDczbjJqLWxMcG15emdhWFNvZmNtUmp1MlZIbVBiWDRTSWxWVHRDQW8yMS1La2RiOWxBYk0yY0I0Y1BYaXFMVTFN?oc=5",
+     "source": "News18",
+     "published": "2026-11-09T01:52:09+00:00",
+     "summary": "Trump Blames \u2018Hatred\u2019 Between Zelenskyy And Putin For Ukraine War&nbsp;&nbsp;News18",
+     "image": ""
+    },
+    {
+     "title": "\u2018I never executed Jesse Baird\u2019: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-09T01:44:14+00:00",
+     "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024Warning: This article contains graphic contentGet our breaking news email",
+     "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0"
+    },
+    {
+     "title": "Drone attack suspends production at Iraq\u2019s Khor Mor gasfield",
+     "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T01:19:09+00:00",
+     "summary": "The strike leaves more than 70 percent of northern Iraq&#039;s Kurdish region without power.",
      "image": ""
     },
     {
@@ -145,14 +185,6 @@
      "source": "The Japan Times",
      "published": "2026-11-09T00:40:00+00:00",
      "summary": "Hacked records show 400,000 Russians killed in war on Ukraine&nbsp;&nbsp;The Japan Times",
-     "image": ""
-    },
-    {
-     "title": "Rubio: Progress made on 'security infrastructure' after Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRFZOajFMNFl0Nmh5dVRZZFZISnA0dGxHSDJhOWZrSWFXMjRGQzlaNGYwZFRsNVVWTWlhZGRuVjhPMWItZUVjVXloZ0FBLVZId3BHVGg4UDN2WDRiZjBQS0pfSmtTbml1b3J3LWNLSXdlRDVqcm1xaldxWEFsa21lUV9zc1RUNnhWcjZpM0dwUTRnRXktaDNYcnhtcGt2cnRBbFIzOGl0MmI3b0M2eFpLdWJR0gG3AUFVX3lxTE5zbmUxUHp1MmxtY25TU0kyVWZCaklJcUY1Mm16azROMS1CamNZRVBPR00zN284bzhXSTZGbkM3bmxhVHo2UlRRamhZV1Npd3FmVWtFTkZYZ3g3Y093bktiOVpSblpFaTlfbkpRQXEtTTNITjc4QVFBQjUtYVhHUzNFczJCOE0zWVJwaHd4dm1mYmhtaW9tdGJEdnkxZTJ1aTAyUTJQdUN6U19aN3FvdEdqZXpDblo4WQ?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-09T00:15:40+00:00",
-     "summary": "Rubio: Progress made on 'security infrastructure' after Ukraine war&nbsp;&nbsp;NST Online",
      "image": ""
     },
     {
@@ -186,45 +218,37 @@
      "published": "2026-11-08T23:56:00+00:00",
      "summary": "Ukraine and Russia escalate war into space with rival satellite networks&nbsp;&nbsp;Chosunbiz",
      "image": ""
-    },
-    {
-     "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-08T22:50:16+00:00",
-     "summary": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "The Kremlin hopes the US election shake-up won\u2019t shift Trump\u2019s negotiations on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUxIWEJndWwxMnBKclZqYl9iRzdUc18yQXlDR0p6WFUzX3VFQnV3UVRuZ2FJV3QtV2pMcU8tZDhsdUdYY0ZJVU5rSjN0V3M0UjJYOEZuSFczOUp6c0FDMDFPNlRsUk5tSXB5ZDEzSTRLQmJRVXZuYXl0U0Z1cTVOVk1wRDNKMmQ0aHczOWM1WWpaVHNiZ0gxc3JQcHRHZU00?oc=5",
-     "source": "AP News",
-     "published": "2026-11-08T22:38:00+00:00",
-     "summary": "The Kremlin hopes the US election shake-up won\u2019t shift Trump\u2019s negotiations on Ukraine&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "APTOPIX Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWtfMzlraW41WnI0LVVCeHp2dnZNN1VMZTRpX09vX2NYOG1kaV9UamNqYW1WYVhaQjNjMFBmMUNRZC1GVUJUZHlXMVczQ21GcVhaUmNVdjNndGdpcnBrNU9obEY5VFZTTi02VWJtbDNxXzFXREk0WGhyNU1MSk1rQVZyV1o5Wk1pSlQtWlRVQ2xmRG96cnZPNC12RURzUDlDMy1Z?oc=5",
-     "source": "www.thegazette.com",
-     "published": "2026-11-08T22:04:47+00:00",
-     "summary": "APTOPIX Russia Ukraine War&nbsp;&nbsp;www.thegazette.com",
-     "image": ""
-    },
-    {
-     "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
-     "source": "NPR",
-     "published": "2026-11-08T22:04:09+00:00",
-     "summary": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find t",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T01:43:24.423190+00:00",
+   "fetched_at": "2026-11-09T02:13:28.240436+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Portland election results: Where key races stand",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWpkSS12c1hwTkJ6eXJkNWZYQ2JmU3lUU0hXTHMwRHRGOXFJNmtLeGdaRkNhaDlaZHNLTGw3bnpDVU4wUzVzQmZyTWMwVkttWklGTlduTnJzZnpSd3FDQU1lRGZwYVB3d3RmdG9wRjZKRUlScF9MQUYxSzZfRTc0SXRZT0NjcnpJYWluTm5EbmRqVG90NE9nV2lTRnl3VW11?oc=5",
+     "source": "Axios",
+     "published": "2026-11-09T02:10:10+00:00",
+     "summary": "Portland election results: Where key races stand&nbsp;&nbsp;Axios",
+     "image": ""
+    },
+    {
+     "title": "The New Political Era: Less Party Loyalty, Big Election Swings",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzNGTHRRcFBpdUdkLTkwYlYxNFNQZ2IwMVRwQWk0ZnJfUVAxYzYwRkZpRnBoOHgtTVBkRlFNQ3JzTTAxYThLcnFoSHp6V0RCQ3hLN0RHWWVmaDBUemVSc1VPaGtzYkJvUnpGQ0Y3d3NrNWx4VExwRG1KNkhLRTFMTlpWVk1fRzIwOUZyV2pFYWJVZXFsTkRtaG9yNGl5dnpxQ1lwbw?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-09T02:00:00+00:00",
+     "summary": "The New Political Era: Less Party Loyalty, Big Election Swings&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
+     "title": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdS16MHhHTm9BaFNxQWlxTTl4Mm1YbHktbTZ3Yi0yY1MtdkJSQ0Q0RWI0eko3cVhDVHlybTBMTU05cDhwdG5oQzhVSS1ndXhfOWV6eEQ1M2J0cFI0SzFXenhSMWF1YzcyNkVzQ3lDVVRVVWhGbVA2cHdPV3BHc3B2UG82eUxHcHFCbHJ5c2xCU05nU01uYlJjU1pMZU5XWUFHdFFlaV9ma0RPOGFwYmVsY3dtTTcxQQ?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-09T01:42:00+00:00",
+     "summary": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3ZtMDBIQ2p3MzI1VUNnS3M2Q1I4T1k1Mk1sU19peE9hOGM5cVh2cXZiY3Q2THgyR3ZnMzlhRExRM0s5ci1WZG5IQk55RUZkb2tITUp2OVRoY1VXWWFDS3pBMnNLSFhhZVplWWVjWmdRRmZ3eDNUNFREZWU2Wml1Y3Nnck9saTB4T3JPSGd2SGl4X1NwNmp2U19iY3BLSmV0ZEloYTRadldmNjJIY0l4NllucjVDT3lkQ0JLakFB?oc=5",
@@ -296,35 +320,11 @@
      "published": "2026-11-09T00:07:02+00:00",
      "summary": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
      "image": ""
-    },
-    {
-     "title": "UTA campus election puts student senators, Homecoming king and queen on ballot",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdmg3WGM4RWhXUG14MUxFcHYwang5QWhDS25wenMtNW5ZR2RfTmFLa0xXQzg1N0lkdlRFc0wzUWJZQy1PcWdDclJ1VHJWSG9VWi1fWlQyUV81QW1jc2pySkJfMGhBaGQzT3o4d1hZQ19QdTE2NWNkVWF1aTNCX0NfbnRIZVhQVWNOR3ljaThzTWRoUmJ1dkZxUUZ5MDVsQ29iZERMOWgySjk0VjdMM2UzSW9wZzVfZFAxb1RBZEtIdEUzSkZQVWwyMFo5bDVCT0FzNy1qTm1zTENNVkN3cHRqM2V1M1RvazJnTFJoemlRZUpCdHdqQTIyWDNrak80N3ZVNGpScGk3YWJoYmRE?oc=5",
-     "source": "The Shorthorn",
-     "published": "2026-11-09T00:00:00+00:00",
-     "summary": "UTA campus election puts student senators, Homecoming king and queen on ballot&nbsp;&nbsp;The Shorthorn",
-     "image": ""
-    },
-    {
-     "title": "Trump says mass deportation policy was 'too tough'",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbTluT1hERlE2bE45dXF1VUgzbzhQbVJZSkI3bUVUNlAxNmpEMWZFaFVJUjFUY0laZ0JadTdwbm9iNFBxM3FzMXV6azNsMDUzTW1HUER6cmdWSHVDaXBqMXZRZ3kzYk5NN0FBTXFoOEFzSFEybHFabjgtaFpmTTV4S21MdHNzbFM3UHZnZUZnZHNCajdyNV9IdzlKMzVOSkltQW8wZ19WTUx2YWdldzhUSGdoUnkycDlVdFRwU3dldw?oc=5",
-     "source": "Le Monde.fr",
-     "published": "2026-11-08T23:39:48+00:00",
-     "summary": "Trump says mass deportation policy was 'too tough'&nbsp;&nbsp;Le Monde.fr",
-     "image": ""
-    },
-    {
-     "title": "Chancellor Merz to nominate Aigner as Germany\u2019s first woman president",
-     "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T23:39:47+00:00",
-     "summary": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T01:43:24.423192+00:00",
+   "fetched_at": "2026-11-09T02:13:28.240437+00:00",
    "stale": false,
    "items": [
     {
