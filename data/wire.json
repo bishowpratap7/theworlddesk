@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-09T21:46:51.665541+00:00",
+ "generated_at": "2026-11-09T22:16:55.327291+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T21:46:51.665512+00:00",
+   "fetched_at": "2026-11-09T22:16:55.327260+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T22:08:04+00:00",
+     "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
+    },
+    {
+     "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+     "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T21:52:28+00:00",
+     "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfeb/live/25c9f050-dc7d-11f1-ba95-5f07efd49f42.jpg"
+    },
+    {
+     "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T21:50:55+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
+     "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
+     "source": "\u00a9 Gavriil Grigorov, Reuters",
+     "published": "2026-11-09T21:46:23+00:00",
+     "summary": "Negotiators from Ukraine, Russia and the United States are set to meet in the capital of the United Arab Emirates (UAE) on Tuesday for a new round of talks aimed at ending nearly f",
+     "image": "https://s.france24.com/media/display/8e77aaca-dc82-11f1-9693-a575454bc579/w:1024/p:16x9/2026-11-05T090059Z-1254041086-RC26DNA29012-RTRMADP-3-UKRAINE-CRISIS-USA-RUSSIA.jpg"
+    },
     {
      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
@@ -14,26 +46,10 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
     },
     {
-     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T21:31:49+00:00",
-     "summary": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
-    },
-    {
-     "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T21:29:27+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
-    },
-    {
      "title": "US citizen shot by ICE officer near children\u2019s bus stop sues government for $25m",
      "url": "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california",
      "source": "The Guardian",
-     "published": "2026-11-09T21:27:41+00:00",
+     "published": "2026-11-09T21:31:26+00:00",
      "summary": "Lawsuit also alleges agents followed Carlos Jimenez to a hospital and \u2018interfered\u2019 in his care, with bullet fragments still lodged near lungA US citizen who was shot by an immigrat",
      "image": "https://i.guim.co.uk/img/media/a703f33093b62de097eb6f06e90fc36bda19b4a1/1684_0_4018_3213/master/4018.jpg?width=140&quality=85&auto=format&fit=max&s=50d8609492e3bab71f342675dddf7c2c"
     },
@@ -44,6 +60,14 @@
      "published": "2026-11-09T21:18:25+00:00",
      "summary": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
      "image": ""
+    },
+    {
+     "title": "French Judo superstar Teddy Riner says will run for president",
+     "url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president",
+     "source": "France 24",
+     "published": "2026-11-09T21:14:51+00:00",
+     "summary": "France's multiple Olympic judo champion Teddy Riner announced on Monday he would run in next year's presidential election, after expressing concern about the \"rise of the far right",
+     "image": "https://s.france24.com/media/display/f62a8bcc-dc7f-11f1-ad8f-d18c5759e759/w:1024/p:16x9/EN-20261109-213456-214006-CS.jpg"
     },
     {
      "title": "Will Najib Razak be transferred to house arrest?",
@@ -92,44 +116,44 @@
      "published": "2026-11-09T20:42:04+00:00",
      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg"
-    },
-    {
-     "title": "France accuses Iran of supermarket fridge hacking",
-     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T20:20:08+00:00",
-     "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
-    },
-    {
-     "title": "Deadly explosion at Iron and steel plant in Turkiye",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T20:19:18+00:00",
-     "summary": "Deadly explosion at Iron and steel plant in Turkiye",
-     "image": ""
-    },
-    {
-     "title": "Nvidia's Huang scandal rattles AI industry built around him",
-     "url": "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him",
-     "source": "France 24",
-     "published": "2026-11-09T20:09:22+00:00",
-     "summary": "Nvidia chief Jensen Huang sits at the center of the artificial intelligence boom, and the spy scandal that erupted over the weekend threatens to shake the company at a time when co",
-     "image": "https://s.france24.com/media/display/b0c0757c-dc77-11f1-97b1-695cb59fade5/w:1024/p:16x9/EN-20261109-203701-204148-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T21:46:51.665526+00:00",
+   "fetched_at": "2026-11-09T22:16:55.327275+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T22:08:04+00:00",
+     "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
+    },
+    {
+     "title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-09T21:57:40+00:00",
+     "summary": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
     {
      "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-09T21:29:27+00:00",
+     "published": "2026-11-09T21:50:55+00:00",
      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
+     "url": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
+     "source": "\u00a9 Gavriil Grigorov, Reuters",
+     "published": "2026-11-09T21:46:23+00:00",
+     "summary": "Negotiators from Ukraine, Russia and the United States are set to meet in the capital of the United Arab Emirates (UAE) on Tuesday for a new round of talks aimed at ending nearly f",
+     "image": "https://s.france24.com/media/display/8e77aaca-dc82-11f1-9693-a575454bc579/w:1024/p:16x9/2026-11-05T090059Z-1254041086-RC26DNA29012-RTRMADP-3-UKRAINE-CRISIS-USA-RUSSIA.jpg"
     },
     {
      "title": "Trump says a potential agreement with Moscow could extend beyond Ukraine and reshape Europe's security order",
@@ -194,37 +218,45 @@
      "published": "2026-11-09T20:12:07+00:00",
      "summary": "South Africa detains foreigners suspected of heading to join Russian forces&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Will Eisenkot succeed in 'minefield of Israeli politics' where 'so many other generals' have failed?",
-     "url": "https://www.france24.com/en/tv-shows/spotlight/20261109-will-eisenkot-succeed-in-minefield-of-israeli-politics-where-so-many-other-generals-have-failed",
-     "source": "France 24",
-     "published": "2026-11-09T20:03:31+00:00",
-     "summary": "Fran\u00e7ois Picard welcomes Dahlia Scheindlin, Israeli author, political analyst, strategic consultant and pollster, to examine a question that reaches far beyond the immediate strugg",
-     "image": "https://s.france24.com/media/display/c29d2632-dc72-11f1-8b03-1beafce15fea/w:1024/p:16x9/EN-20261109-181244-182532-CS.jpg"
-    },
-    {
-     "title": "Going to school in war: How Ukraine\u2019s children are still trying to learn",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TM0NuajFQMEVCTTUyMTJ4YU1FQ1JwS2JuM0U1ZEtIWnc0azljbTVzczM3QmRiaVlLNkdxY3dZLW1SREktWFQ2Wk5oMi12R3podmVkTmpyb09LWk9UN1BRRy1lbWk4TTF3WTV0c3FDcEZyelU5M3fSAXtBVV95cUxOdkRGVWNfVHV1SkFUVWFKc1pxVVNib3Z2ejJJMFRsSy01ZlB2eGxMWFZJeWlNQjlOOFRaamNDQXNHSFVhQmd1SjFqblQ2VURlbnJITG1CZXZ2Wjc2NnFsRXJoSDN2Z1dRV25SdnhaSGRZbjJlc3E3cmRRT2c?oc=5",
-     "source": "NewsNation",
-     "published": "2026-11-09T19:48:20+00:00",
-     "summary": "Going to school in war: How Ukraine\u2019s children are still trying to learn&nbsp;&nbsp;NewsNation",
-     "image": ""
-    },
-    {
-     "title": "How is Gaza coping with another severe winter?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T19:47:46+00:00",
-     "summary": "How is Gaza coping with another severe winter?",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T21:46:51.665530+00:00",
+   "fetched_at": "2026-11-09T22:16:55.327279+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "South Dakota House Republicans select entirely new leadership after contentious election season",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMHBtWWZzTkNiaENUX01kUDI2SkVNSFJ1OHFCWllJc3oyRkVTWkpZalhleTlDM2lMem5wSTdsczIySjFaM0R5MHhfZ1Q5bzVSSGpkd0xfRFJleVJvWFJ4US1SdkQ3YnA1aWdKNmxZRzMtZTJxUXFDY3oycGtzNkdtT1oxT1lFVXE5OE81ZHF5clNTRTlqWmV1eEV6MUFVUTAxNlA3bk5mX1ZYdUhJY3poeHZTeHlnaGJJNVU4eTBlN013cXo0TnEtc2NKdUNrMmpkRG9qUDNuNDA1UQ?oc=5",
+     "source": "South Dakota Searchlight",
+     "published": "2026-11-09T22:08:40+00:00",
+     "summary": "South Dakota House Republicans select entirely new leadership after contentious election season&nbsp;&nbsp;South Dakota Searchlight",
+     "image": ""
+    },
+    {
+     "title": "Trump faces Democratic resistance to unproven election claims",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZWJmQkJBQzVrcmZwSHJIS1hVZTA1S19LalIzTkwxT1J2UEhvVW5udkVYc2dqd19XX2F2NUxNaFo5TndOaXRiU0RSNFhWek9XRE5QRlZMTUtpRUdpaWd0X0JMVHR4UUZ6WlpPd0FRa25XczJrNDREU2pkRGl2emEwOFNyOEpTejVRcTRFc0NUT1BCX1dNdWVpTm1wbGlaN1Z4UmtpVlpBU0VfT3otb0t3MkgxR2Z1c2xNa18wc1NtQnk2bHpKcFpKeUtacGItYXhyX1B1T0QxLU1OYzJIX0E?oc=5",
+     "source": "WCIV",
+     "published": "2026-11-09T22:07:05+00:00",
+     "summary": "Trump faces Democratic resistance to unproven election claims&nbsp;&nbsp;WCIV",
+     "image": ""
+    },
+    {
+     "title": "Reuters/Ipsos Post-Election Survey",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOLUpwM1dQTXczMUI2c3d5Z2FqODRJbUdfTkJacHBPYzhDc05fUWRuMVh1SEkteTB3QmhYX3dtanM2c1JrZWtma3RMdWItVENhQmVlanlZVjRYbGJ5c29xRU9CZHNMb2h6RzExdWp3?oc=5",
+     "source": "Ipsos",
+     "published": "2026-11-09T21:59:10+00:00",
+     "summary": "Reuters/Ipsos Post-Election Survey&nbsp;&nbsp;Ipsos",
+     "image": ""
+    },
+    {
+     "title": "U.S. Sanctions Cripple Financial Networks Sustaining the Iranian Regime",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckhvTWNpWldaWm9pTEF5TloteElYN25uTGNmaEtPSlFZMWpKdlVWRFpHMWVhSFNKeWJybFFLQnJSMzMwemd6LTJEdkxSdnVncEtRT0ZBODZqcjNFT0VrQS1NX2JsVXJyWUVTSzdzcG5RbVZQRFpkNUNBV0RjNHYtS0FWVDBCV0pmclk0NTNlODBzeTBWeGFyZkdheVA?oc=5",
+     "source": "U.S. Virtual Embassy Iran (.gov)",
+     "published": "2026-11-09T21:48:58+00:00",
+     "summary": "U.S. Sanctions Cripple Financial Networks Sustaining the Iranian Regime&nbsp;&nbsp;U.S. Virtual Embassy Iran (.gov)",
+     "image": ""
+    },
     {
      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
@@ -232,6 +264,22 @@
      "published": "2026-11-09T21:37:02+00:00",
      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+     "title": "Election results project changeover on Stockton school board",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WbTRoZ014ZVJGSWhVVWZudGtxNHlBbXYzdXVPY2FubVctMVRSQ2plV1daN0ZVSTRxMHlIQzJRbFlDTm0wNnFfcVl4M3hYZlNyQzVOMmdZalN5bnRKazJvX2RTRm9NOGc?oc=5",
+     "source": "Merced Sun-Star",
+     "published": "2026-11-09T21:32:00+00:00",
+     "summary": "Election results project changeover on Stockton school board&nbsp;&nbsp;Merced Sun-Star",
+     "image": ""
+    },
+    {
+     "title": "US citizen shot by ICE officer near children\u2019s bus stop sues government for $25m",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california",
+     "source": "The Guardian",
+     "published": "2026-11-09T21:31:26+00:00",
+     "summary": "Lawsuit also alleges agents followed Carlos Jimenez to a hospital and \u2018interfered\u2019 in his care, with bullet fragments still lodged near lungA US citizen who was shot by an immigrat",
+     "image": "https://i.guim.co.uk/img/media/a703f33093b62de097eb6f06e90fc36bda19b4a1/1684_0_4018_3213/master/4018.jpg?width=140&quality=85&auto=format&fit=max&s=50d8609492e3bab71f342675dddf7c2c"
     },
     {
      "title": "Election Day errors add to Milwaukee\u2019s history of messy elections",
@@ -250,12 +298,12 @@
      "image": ""
     },
     {
-     "title": "US citizen shot by ICE officer near children\u2019s bus stop sues government for $25m",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california",
-     "source": "The Guardian",
-     "published": "2026-11-09T21:27:41+00:00",
-     "summary": "Lawsuit also alleges agents followed Carlos Jimenez to a hospital and \u2018interfered\u2019 in his care, with bullet fragments still lodged near lungA US citizen who was shot by an immigrat",
-     "image": "https://i.guim.co.uk/img/media/a703f33093b62de097eb6f06e90fc36bda19b4a1/1684_0_4018_3213/master/4018.jpg?width=140&quality=85&auto=format&fit=max&s=50d8609492e3bab71f342675dddf7c2c"
+     "title": "Padilla still leads Stockton City Council D1 race, election results show",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUbmJXZ3RFMjJ3S25LZEZRNDlpaVZPWlg2SDRydDRJWWl6amtlX3R4anhwYmhxcHcwRnN4R1o2ZlFBWWtwTDE1NnJTRUlhWEdVZnUwQTliS2hRaXplRklrTVFnWDNMWU0?oc=5",
+     "source": "Merced Sun-Star",
+     "published": "2026-11-09T21:24:00+00:00",
+     "summary": "Padilla still leads Stockton City Council D1 race, election results show&nbsp;&nbsp;Merced Sun-Star",
+     "image": ""
     },
     {
      "title": "Here's when you can expect updated election results in Sacramento County",
@@ -266,65 +314,17 @@
      "image": ""
     },
     {
-     "title": "Will Najib Razak be transferred to house arrest?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T21:13:02+00:00",
-     "summary": "Malaysia&#039;s king and government in a standoff after attorney general disputed order allowing former PM to leave jail.",
-     "image": ""
-    },
-    {
-     "title": "Miami election official who already said GOP candidate won can help with recount, court rules",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDlTNExMM0ZIMUY3VnhDQlJ3aG5ST09ZZWtSNnhkeWxWOWVDOXNuQ3RBY2Q1bVNES0ZiQ0drWUlVenc3SGs0US1wdVlSN0s0emtQVlVGU2lsOEZ5dE9jZk1FZHlFcmlJaWFSLVNOQS10dHdUcmFmSDlOUmlPRHgybm9pMlRYUTE2TFh0RVBBSzY5OGNxWkt3d0pmeGFEeFBXeGhpQWp6U09HaXZOMmJja2NrSXExd3RzNUxwN0xjTlNNRU1wSjgwcnZ0ZFlpMklBWDNn?oc=5",
-     "source": "Democracy Docket",
-     "published": "2026-11-09T21:12:49+00:00",
-     "summary": "Miami election official who already said GOP candidate won can help with recount, court rules&nbsp;&nbsp;Democracy Docket",
-     "image": ""
-    },
-    {
-     "title": "Washington Policy Weekly: Trump Acknowledges Iran War\u2019s Role in Republican Midterm Losses",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjJyT0VYYnVucEhNMTRqay1pSjhBNEpJLXo3ZFBVZy16UXFjWmVhZGp0Wms0VlZYRnpCay1rdkNZRGJmMFlRcWpNa0NYeTZYaHBtQzh3VkVYN2szYUg3eEVnSXFualdVenlhZE1yTWFvaGtVRlZ6MkxLZ0JDbHlMdC1RbFNDY0ZEUmc4YWhwN1FYQW00d091MVEtY2J3VDFfS2dEQVlDRndMQUxpdWtGNEl2aVlCNjhUSng3QXd4MA?oc=5",
-     "source": "Arab Center Washington DC",
-     "published": "2026-11-09T21:11:13+00:00",
-     "summary": "Washington Policy Weekly: Trump Acknowledges Iran War\u2019s Role in Republican Midterm Losses&nbsp;&nbsp;Arab Center Washington DC",
-     "image": ""
-    },
-    {
-     "title": "Trump casts doubt on election results after saying he was \u2018absolutely willing\u2019 to accept them",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOF92cmlfbGNaa05LUXJrQzdscXZoNUFjSkR6T21XdmJiVUR1Ymhxd01mR3pCZjRBX25kZW1qSWZFbk1kOEpKTGxNcl9ReFRYU1ZmRFpUOVVwU0pqeEZ0TDBQWkt3dDBoX0F3V3RjS2wtQWVsTFcwYWh4dC1mM3dTNU1FNlhmb1Y0VWwyYm9sbmFoOWdFT3JNYjBwcjFnWC1MVlV5aQ?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-09T21:07:42+00:00",
-     "summary": "Trump casts doubt on election results after saying he was \u2018absolutely willing\u2019 to accept them&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T21:04:11+00:00",
-     "summary": "Republican Congressman Thomas Massie has introduced articles of impeachment against Defense Secretary Pete Hegseth.",
-     "image": ""
-    },
-    {
-     "title": "Michigan Matters: Panels dissect 2026 midterm election",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXZXaURCRmpBdGNaVE03bE5jVDhINnpxemFQdG9CUXpxOXhiQzZnek1YV1NBbUgzMzJVUkRCQTJEaWc0RjVfUWlMa3YySDZrRHpNVnFjamZTV3dKc0NWUzd6d0E3eDV4UlRaR3Fnbzc0LWtQVmh3MWhFdnVycW5GYUFUT1NpRXpERmJHRWR3R3p5QXkwU2c?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-09T20:54:12+00:00",
-     "summary": "Michigan Matters: Panels dissect 2026 midterm election&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Trump questions midterm election results after previously accepting outcome",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUVRZzZwRWc4aFpudFRsd3NXeDdfemFvRkQyczFBd3pKVXFRdi02S1hlY29KTzJlOVoxZElibUkyY0NNZV94RE00WXlsWEdRVS1kQWl4MENKWFFEdDlCUnlNaWVSbzEtWWxEWFRyVF9LdWhBbWJLWmxLanNIUWcyMDg2WmxNaTBGMEVKSWszSEtnUEk5ZWlLNXphN1lBdGZDT0tSbHBvSjdvMHNxaFpjSGFpQWFtb0ZKWmc?oc=5",
-     "source": "USA Today",
-     "published": "2026-11-09T20:52:00+00:00",
-     "summary": "Trump questions midterm election results after previously accepting outcome&nbsp;&nbsp;USA Today",
-     "image": ""
+     "title": "French Judo superstar Teddy Riner says will run for president",
+     "url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president",
+     "source": "France 24",
+     "published": "2026-11-09T21:14:51+00:00",
+     "summary": "France's multiple Olympic judo champion Teddy Riner announced on Monday he would run in next year's presidential election, after expressing concern about the \"rise of the far right",
+     "image": "https://s.france24.com/media/display/f62a8bcc-dc7f-11f1-ad8f-d18c5759e759/w:1024/p:16x9/EN-20261109-213456-214006-CS.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T21:46:51.665532+00:00",
+   "fetched_at": "2026-11-09T22:16:55.327281+00:00",
    "stale": false,
    "items": [
     {
