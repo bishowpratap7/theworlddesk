@@ -1,18 +1,10 @@
 {
- "generated_at": "2026-11-09T04:43:47.909461+00:00",
+ "generated_at": "2026-11-09T04:43:59.020379+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T04:43:47.909438+00:00",
+   "fetched_at": "2026-11-09T04:43:59.020348+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "New Delhi blanketed in toxic smog after Diwali fireworks",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T04:35:34+00:00",
-     "summary": "New Delhi woke up to thick smog after Diwali celebrations saw fireworks light up the city overnight.",
-     "image": ""
-    },
     {
      "title": "Asian stock markets climb after earlier tech rout",
      "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
@@ -116,11 +108,19 @@
      "published": "2026-11-09T02:05:00+00:00",
      "summary": "G7 foreign ministers will revisit Russia\u2019s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open",
      "image": "https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg"
+    },
+    {
+     "title": "\u2018I never executed Jesse Baird\u2019: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-09T01:44:14+00:00",
+     "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024Warning: This article contains graphic contentGet our breaking news email",
+     "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T04:43:47.909449+00:00",
+   "fetched_at": "2026-11-09T04:43:59.020363+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T04:43:47.909452+00:00",
+   "fetched_at": "2026-11-09T04:43:59.020367+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T04:43:47.909454+00:00",
+   "fetched_at": "2026-11-09T04:43:59.020370+00:00",
    "stale": false,
    "items": [
     {
