@@ -1,17 +1,89 @@
 {
- "generated_at": "2026-11-09T22:16:55.327291+00:00",
+ "generated_at": "2026-11-09T22:46:58.795373+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T22:16:55.327260+00:00",
+   "fetched_at": "2026-11-09T22:46:58.795334+00:00",
    "stale": false,
    "items": [
     {
      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-09T22:08:04+00:00",
+     "published": "2026-11-09T22:34:14+00:00",
      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
+    },
+    {
+     "title": "France blames Iran for cyberattack on supermarket fridges",
+     "url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
+     "source": "France 24",
+     "published": "2026-11-09T22:33:12+00:00",
+     "summary": "French Foreign Minister Jean-No\u00ebl Barrot on Monday accused Iran's Revolutionary Guards of being behind a recent cyberattack on French supermarket fridges, saying there would be con",
+     "image": "https://s.france24.com/media/display/37a1d2ea-dc8a-11f1-b381-1beafce15fea/w:1024/p:16x9/EN-20261109-230143-230334-CS.jpg"
+    },
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T22:31:03+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+     "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+     "source": "NPR",
+     "published": "2026-11-09T22:30:49+00:00",
+     "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spo",
+     "image": ""
+    },
+    {
+     "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+     "source": "The Guardian",
+     "published": "2026-11-09T22:26:31+00:00",
+     "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to \u2018see out his days\u2019Get our breaking news email, free app or daily news podcastBeaconsfield mine",
+     "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=ee792f71608cbef7e8f8257b3b1cd16a"
+    },
+    {
+     "title": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
+     "url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
+     "source": "France 24",
+     "published": "2026-11-09T22:17:02+00:00",
+     "summary": "Nvidia \u2060and \u200bChief \u200bExecutive Jensen Huang were \u200bsued \u200con \u2060Monday \u200cin \u2060a proposed class \u200baction accusing \u200cthem of \u200cdefrauding \u200bshareholders by concealing Huang's ties \u200bwith \u200ba \u200bsus",
+     "image": "https://s.france24.com/media/display/fd78160c-dc88-11f1-88e7-a575454bc579/w:1024/p:16x9/EN-20261109-223117-224317-CS.jpg"
+    },
+    {
+     "title": "Pope meets with clergy abuse survivors in Argentina",
+     "url": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T22:14:37+00:00",
+     "summary": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
+     "image": ""
+    },
+    {
+     "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+     "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T22:13:29+00:00",
+     "summary": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates.",
+     "image": ""
+    },
+    {
+     "title": "Saudi Arabia reports new attack on key East-West pipeline",
+     "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T22:10:52+00:00",
+     "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+     "image": ""
+    },
+    {
+     "title": "South Africa\u2019s ANC suffers a historic setback in local elections as coalition talks begin",
+     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin",
+     "source": "France 24",
+     "published": "2026-11-09T21:54:11+00:00",
+     "summary": "South Africa\u2019s ruling ANC suffers its worst-ever local election results, securing just 30% of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence off",
+     "image": "https://s.france24.com/media/display/346c3b5e-dc87-11f1-b0e6-bf1914cabd52/w:1024/p:16x9/capture-aa965032.jpg"
     },
     {
      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
@@ -20,14 +92,6 @@
      "published": "2026-11-09T21:52:28+00:00",
      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfeb/live/25c9f050-dc7d-11f1-ba95-5f07efd49f42.jpg"
-    },
-    {
-     "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T21:50:55+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     },
     {
      "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
@@ -52,84 +116,60 @@
      "published": "2026-11-09T21:31:26+00:00",
      "summary": "Lawsuit also alleges agents followed Carlos Jimenez to a hospital and \u2018interfered\u2019 in his care, with bullet fragments still lodged near lungA US citizen who was shot by an immigrat",
      "image": "https://i.guim.co.uk/img/media/a703f33093b62de097eb6f06e90fc36bda19b4a1/1684_0_4018_3213/master/4018.jpg?width=140&quality=85&auto=format&fit=max&s=50d8609492e3bab71f342675dddf7c2c"
-    },
-    {
-     "title": "COP31 opens amid energy crisis as activists demand climate action",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T21:18:25+00:00",
-     "summary": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
-     "image": ""
-    },
-    {
-     "title": "French Judo superstar Teddy Riner says will run for president",
-     "url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president",
-     "source": "France 24",
-     "published": "2026-11-09T21:14:51+00:00",
-     "summary": "France's multiple Olympic judo champion Teddy Riner announced on Monday he would run in next year's presidential election, after expressing concern about the \"rise of the far right",
-     "image": "https://s.france24.com/media/display/f62a8bcc-dc7f-11f1-ad8f-d18c5759e759/w:1024/p:16x9/EN-20261109-213456-214006-CS.jpg"
-    },
-    {
-     "title": "Will Najib Razak be transferred to house arrest?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T21:13:02+00:00",
-     "summary": "Malaysia&#039;s king and government in a standoff after attorney general disputed order allowing former PM to leave jail.",
-     "image": ""
-    },
-    {
-     "title": "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T21:04:11+00:00",
-     "summary": "Republican Congressman Thomas Massie has introduced articles of impeachment against Defense Secretary Pete Hegseth.",
-     "image": ""
-    },
-    {
-     "title": "Suspect in Charlie Kirk killing to stand trial for murder in July 2028",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/charlie-kirk-murder-trial",
-     "source": "The Guardian",
-     "published": "2026-11-09T20:55:57+00:00",
-     "summary": "Utah judge sets timeline for trial of Tyler Robinson, accused of fatally shooting the far-right activist in September 2025Tyler Robinson, the 23-year-old man accused of killing the",
-     "image": "https://i.guim.co.uk/img/media/4b7cd7fe56d1c07c6a0de1328d531dc114da9fb5/263_0_2625_2100/master/2625.jpg?width=140&quality=85&auto=format&fit=max&s=247f2b83cadf978fce6a57ea202b06b3"
-    },
-    {
-     "title": "Cyprus rivals agree new crossings across island\u2019s dividing line",
-     "url": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T20:50:20+00:00",
-     "summary": "The island has been split since 1974, when Turkiye invaded and seized the northern part after a coup by the Greeks.",
-     "image": ""
-    },
-    {
-     "title": "Judge clears way for Lindsay Clancy to be retried on murder charges",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/lindsay-clancy-judge-retrial",
-     "source": "The Guardian",
-     "published": "2026-11-09T20:42:22+00:00",
-     "summary": "Massachusetts judge rejects bid by Clancy\u2019s attorneys to have the case against her dismissedA Massachusetts judge cleared the way on Monday for Lindsay Clancy to be tried again on ",
-     "image": "https://i.guim.co.uk/img/media/2f1744a40a9cf3163275dd31dcc7881917257c9f/250_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=15596bca6c0f4382a47d44fa8d86f1bb"
-    },
-    {
-     "title": "Turkey steel factory blast kills at least 17 people",
-     "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T20:42:04+00:00",
-     "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T22:16:55.327275+00:00",
+   "fetched_at": "2026-11-09T22:46:58.795349+00:00",
    "stale": false,
    "items": [
     {
      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-09T22:08:04+00:00",
+     "published": "2026-11-09T22:34:14+00:00",
      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
+    },
+    {
+     "title": "France blames Iran for cyberattack on supermarket fridges",
+     "url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
+     "source": "France 24",
+     "published": "2026-11-09T22:33:12+00:00",
+     "summary": "French Foreign Minister Jean-No\u00ebl Barrot on Monday accused Iran's Revolutionary Guards of being behind a recent cyberattack on French supermarket fridges, saying there would be con",
+     "image": "https://s.france24.com/media/display/37a1d2ea-dc8a-11f1-b381-1beafce15fea/w:1024/p:16x9/EN-20261109-230143-230334-CS.jpg"
+    },
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T22:31:03+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+     "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+     "source": "NPR",
+     "published": "2026-11-09T22:30:49+00:00",
+     "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spo",
+     "image": ""
+    },
+    {
+     "title": "Trump says US is seeing progress toward ending Russia-Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWwyVTgwdF9RMnpuLTRqb29wSUNEZmhyMUdnSmZmZWtsbElQRTJDbEg0X2NmczRpRnpkanctYzV1N1FTS0IwSVUzQWNad19JVTFnRlp5RFVvTmxRREVKdTVPeUpsR1NQVTJHandBN1A4YmNuQTExLXF5aFdoUEtTbzR5aEFldkRjQ2IycTFYd1o1Rlhxc21SaWR3QkdPbzVjaUxwaF9Gd3RTdEk?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-09T22:15:44+00:00",
+     "summary": "Trump says US is seeing progress toward ending Russia-Ukraine war&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Zelenskiy says Ukrainian battlefield successes strengthen Kyiv's position in talks",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTNKamlkSnJ6NEcySjNHQmxfV201UWQyZ2Z0X0tnV1kxek92UW9EZktBMzR1eDZrQmJiUHVMU1kxVGJiNHZiZHpSN3hQOU12TnU2OXdPYVJrZXJZMUgzZk1Sd0RVYVlPODVxZVh5dUFwSXBCTk9DVHhUSnhQNUlseFVqaFVaNElpRUt5RnphZENYNUpL?oc=5",
+     "source": "AOL.com",
+     "published": "2026-11-09T22:06:00+00:00",
+     "summary": "Zelenskiy says Ukrainian battlefield successes strengthen Kyiv's position in talks&nbsp;&nbsp;AOL.com",
+     "image": ""
     },
     {
      "title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
@@ -140,12 +180,12 @@
      "image": ""
     },
     {
-     "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T21:50:55+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+     "title": "South Africa\u2019s ANC suffers a historic setback in local elections as coalition talks begin",
+     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin",
+     "source": "France 24",
+     "published": "2026-11-09T21:54:11+00:00",
+     "summary": "South Africa\u2019s ruling ANC suffers its worst-ever local election results, securing just 30% of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence off",
+     "image": "https://s.france24.com/media/display/346c3b5e-dc87-11f1-b0e6-bf1914cabd52/w:1024/p:16x9/capture-aa965032.jpg"
     },
     {
      "title": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
@@ -172,59 +212,59 @@
      "image": ""
     },
     {
-     "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
-     "source": "AP News",
-     "published": "2026-11-09T20:53:00+00:00",
-     "summary": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "Trump says Abu Dhabi talks offer chance of Russia-Ukraine war breakthrough - Reuters interview",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT0d5eWJMNHpxT195eWQ1UHUzc0N1WTEzZk1NU3FnbGdKM1dXc3Y5Zk5sQUtfeUR4ak82aTVzT0UxX1d5dVNRY1o2UU1LamZFdDltMV9VczlDWEFKeGZJWV9GLWNnd2RVWUJINGxoRUl0Y0Q3VW9lSG03OHBacGRhRDlfbDhHVDByMkJBUGpNV1ppR2dVZVdBb0NIZ1dlenhlb3ZZMlVFalJiS2FuOUZlVTRlZGtCSE1rZ0RYbjdPRVNkMXJCRUN0VjdHc1FQWUtUeEEzTWczTWpqMWgyR2c?oc=5",
-     "source": "marketscreener.com",
-     "published": "2026-11-09T20:39:15+00:00",
-     "summary": "Trump says Abu Dhabi talks offer chance of Russia-Ukraine war breakthrough - Reuters interview&nbsp;&nbsp;marketscreener.com",
-     "image": ""
-    },
-    {
-     "title": "Opinion | How to protect Ukraine without NATO membership",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0dQM1BqNEJ4QjFMZzdIMlk0VjM0b1hCUE1IeWZmYVY4NVdhQ2lNUGlQaUxSSGRFSWwtS1BrQVpiX3VjalkzV1RQQ3VRd1pselZfMm1SckZzenJjd1ltcDRNclNUT0pIdy1Rd2ZGWWZCUGZZRFZjRDc3LWdDemItQm9zUVZDc2hQUk5ndnpIczBpaF9CVHBIdzc0MFdjUDJXZFZIc1dQcEFNYkZW?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-09T20:30:00+00:00",
-     "summary": "Opinion | How to protect Ukraine without NATO membership&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Ukrainian forces strike elite Russian 'Rubicon' drone unit in occupied territory",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnVGcDA0c0lpVHotUWNqUHVDeDd5aDFSZjRjRk80cnZzT0RkT3FsWVVCQXFpLWl2ZzYtd1JFS3RIM1NacHlzZ2ZlTk5PdURoeGJsVTY0ZmlSSEJzYk9oWklXdnJPV2ZVZzI1RkQyRmU5R0t3T2xZNFRXNFkwR25WQ04tOWNFM0lfdHN2d2NOcTZ5dm5oOW9fRWtQU0FYZGpiX001RjlwYms3d3c?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-09T20:24:20+00:00",
-     "summary": "Ukrainian forces strike elite Russian 'Rubicon' drone unit in occupied territory&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "France accuses Iran of supermarket fridge hacking",
-     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T20:20:08+00:00",
-     "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
-    },
-    {
-     "title": "South Africa detains foreigners suspected of heading to join Russian forces",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXBIZHZhSC1jMjdGRnBZU05jLUwtZlJOSFptM3pISnJLMHV5OUMxWmZfUW9ZX25PNlVLenUwSHBMb2M5UWNOYTBzM09kYVhTQmo2TnFiblhVVzlfNERXOGhFVnlLRjU1YXZpUFpUWUdGUXBXOXMza1hiQUI1OS11Ui1xa3I3bzljSDhPdWJXeF9QbkdoYWlDY2VuY0p5ZHM1Z2MtS09TUWhSNGF6c210aHFJYktyRVnSAbwBQVVfeXFMT2hVejdiNzk1MXR2eFZWZFB3VlUwNGxnVkRVYmdRVmxNTHY0ODkxWkdnZU9JcE1mQm1fZkJUT1hYRlhaN0ltN3NZUVNkcHQ2b0UwaHNFQTltVmNmQV9MOThtMHlaSW1sVExjT0cxNVV4Z3FrblVobU5DcG53VW5kRUYyNkgyTy1LODFXQ2FWRDZKVmlvdlJGelFUOXo2ZjBVZndoRWdYUy1VZmJucjM2M3otQzBudXozWURWOGg?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T20:12:07+00:00",
-     "summary": "South Africa detains foreigners suspected of heading to join Russian forces&nbsp;&nbsp;Al Jazeera",
+     "title": "US asks Russia to agree to NATO-like backing for Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6d0NlVkIySXB5U1Y1c3MteERBaVdfQWxpVnNZTk9uMlBkTC1LazVWUnctT1NkR0xlZV9BbzhEVTBlVEUtcWZBTUtzZURxdWNOa3JyVng5aDd0aEpIQ3dTcmxhQ2Z3U0pHQkJGdV93VE9teWVxMFhXTmY4UmE?oc=5",
+     "source": "Politico",
+     "published": "2026-11-09T21:00:00+00:00",
+     "summary": "US asks Russia to agree to NATO-like backing for Ukraine&nbsp;&nbsp;Politico",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T22:16:55.327279+00:00",
+   "fetched_at": "2026-11-09T22:46:58.795352+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Legal fight escalates over physician\u2019s sanctions for past drug use",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd00xTUFrS2ZpekVEdkNEblUxd3VpajB0ekJLTGxzRFdsa0VwMkpjUGNyVVhLaWpqNEZsQmZmR3FPOWtZNG5TcUFmbjFJUElIVmZfeEVWWXJnNU1qTWduaEtOWk1QQWhCVkJWVGpPOVJUdkNJLXhuUFRVTG13RnUwTzJPczFuZjZiOFA3dXMtMXZNbXFQVFl6QmlpeVRGQWNTLWxYOXQyTW4ta3ZQbGc?oc=5",
+     "source": "Iowa Capital Dispatch",
+     "published": "2026-11-09T22:40:44+00:00",
+     "summary": "Legal fight escalates over physician\u2019s sanctions for past drug use&nbsp;&nbsp;Iowa Capital Dispatch",
+     "image": ""
+    },
+    {
+     "title": "In the News: Yohuru Williams on the 2026 Midterm Election",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTY0ZlV6cVZrYm5uMUdCX3ZiNWpxLW4zWjh1S1ZTU2hMamczV0ZFeGU5WFl0cC1KcUsyRzFHbVBXYl9WaXFma012TmIzN0NjS05nbHFqa0thQXU3ck53N2FmbGY1S2NEeXBrYkp3dVZxSHBuT3JwUE1Fem1GbmM4Zm9pbTBZU3p1U0pZ?oc=5",
+     "source": "Newsroom | University of St. Thomas",
+     "published": "2026-11-09T22:36:51+00:00",
+     "summary": "In the News: Yohuru Williams on the 2026 Midterm Election&nbsp;&nbsp;Newsroom | University of St. Thomas",
+     "image": ""
+    },
+    {
+     "title": "Election recount planned in North Idaho county that didn\u2019t report 2,300 ballots",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaHd2TG13LWR4Y2RNeGtXeUNnTGREU1d2TWlaMHlRS3JkR29JVldiTC1vaWV0cUV3T3J2TF9oME01UmdIc3NsSE1Xbkh5V25sM2thM1RENEtpbGxRdXZpdkVybDVUOG13RmtpeWJQZjlRb2JSamxlQ3QteTFrMjJoVDkyS2ZteXF1SEFmQlhjUzZiUG56MVlOZEdMTHptWE9ZWlhIUWw0OUdDb1VTYXlNbHgwNEFINjE4?oc=5",
+     "source": "Idaho Capital Sun",
+     "published": "2026-11-09T22:36:14+00:00",
+     "summary": "Election recount planned in North Idaho county that didn\u2019t report 2,300 ballots&nbsp;&nbsp;Idaho Capital Sun",
+     "image": ""
+    },
+    {
+     "title": "Colom calls out election raters for writing off his Mississippi Senate campaign",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaUJDMXlIQTltb2Q3NTAzZW5pUmJnWXNiUjhmZnZDY1VhbDZ2Z3pUSVNrblJXa09qZG1IcHB2Y0RIcjVUal9qWEFhQTJoWV8xcXhkVVFuSWkzeGlXblptd29rYkVpUkVENDZPVUdVQ0VLMlZ4RF90T1c0QkhydVlFOGxyMkpBTVXSAYwBQVVfeXFMTk5yVzlSTnJlOVlRalRLUGFrU01qS2VBQm9qeE4xUFF0RVBSVTlBQnVVaFZRV2szY0hEdUtJU2xpVmlQaEdMRnBDSnZUbFZvMEhfOGEyLWx1Umx5cGllY1U0OEJBd3dEQU5EdEJPZTYzRW9jak9JYjU1YlRHMXFsQkVBcVFQdnA1V0ZhTEc?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-09T22:27:00+00:00",
+     "summary": "Colom calls out election raters for writing off his Mississippi Senate campaign&nbsp;&nbsp;The Hill",
+     "image": ""
+    },
+    {
+     "title": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
+     "url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
+     "source": "France 24",
+     "published": "2026-11-09T22:17:02+00:00",
+     "summary": "Nvidia \u2060and \u200bChief \u200bExecutive Jensen Huang were \u200bsued \u200con \u2060Monday \u200cin \u2060a proposed class \u200baction accusing \u200cthem of \u200cdefrauding \u200bshareholders by concealing Huang's ties \u200bwith \u200ba \u200bsus",
+     "image": "https://s.france24.com/media/display/fd78160c-dc88-11f1-88e7-a575454bc579/w:1024/p:16x9/EN-20261109-223117-224317-CS.jpg"
+    },
     {
      "title": "South Dakota House Republicans select entirely new leadership after contentious election season",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMHBtWWZzTkNiaENUX01kUDI2SkVNSFJ1OHFCWllJc3oyRkVTWkpZalhleTlDM2lMem5wSTdsczIySjFaM0R5MHhfZ1Q5bzVSSGpkd0xfRFJleVJvWFJ4US1SdkQ3YnA1aWdKNmxZRzMtZTJxUXFDY3oycGtzNkdtT1oxT1lFVXE5OE81ZHF5clNTRTlqWmV1eEV6MUFVUTAxNlA3bk5mX1ZYdUhJY3poeHZTeHlnaGJJNVU4eTBlN013cXo0TnEtc2NKdUNrMmpkRG9qUDNuNDA1UQ?oc=5",
@@ -266,65 +306,25 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
     },
     {
+     "title": "Hegseth\u2019s Leadership Has Damaged the Pentagon",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1llU2ZaN055aEtCQTVYeXg1X0ZPSkpiYnRzRi1tSUtwWjNYdy13Z3pBWEthSm1SckJlZzRCclRrX2pyQW1TR2lqdEpDUFBoNjM3eG5PblBjZy14U0dtdHIySmJ4ek1SRGpfUmh6aTdaZWVqa1Nlc0NvdWs5MjZsbDRBMlc1czdrZ3Bpc3g3NWpnM1ZxdE5HQWJ4WGU?oc=5",
+     "source": "Foreign Policy",
+     "published": "2026-11-09T21:32:43+00:00",
+     "summary": "Hegseth\u2019s Leadership Has Damaged the Pentagon&nbsp;&nbsp;Foreign Policy",
+     "image": ""
+    },
+    {
      "title": "Election results project changeover on Stockton school board",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WbTRoZ014ZVJGSWhVVWZudGtxNHlBbXYzdXVPY2FubVctMVRSQ2plV1daN0ZVSTRxMHlIQzJRbFlDTm0wNnFfcVl4M3hYZlNyQzVOMmdZalN5bnRKazJvX2RTRm9NOGc?oc=5",
      "source": "Merced Sun-Star",
      "published": "2026-11-09T21:32:00+00:00",
      "summary": "Election results project changeover on Stockton school board&nbsp;&nbsp;Merced Sun-Star",
      "image": ""
-    },
-    {
-     "title": "US citizen shot by ICE officer near children\u2019s bus stop sues government for $25m",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california",
-     "source": "The Guardian",
-     "published": "2026-11-09T21:31:26+00:00",
-     "summary": "Lawsuit also alleges agents followed Carlos Jimenez to a hospital and \u2018interfered\u2019 in his care, with bullet fragments still lodged near lungA US citizen who was shot by an immigrat",
-     "image": "https://i.guim.co.uk/img/media/a703f33093b62de097eb6f06e90fc36bda19b4a1/1684_0_4018_3213/master/4018.jpg?width=140&quality=85&auto=format&fit=max&s=50d8609492e3bab71f342675dddf7c2c"
-    },
-    {
-     "title": "Election Day errors add to Milwaukee\u2019s history of messy elections",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnlTbEIyRHNicWlRT2h6Z0FpRjBocG1jM0I2YUlBN05DSmQ3M0ZRWHR1UGVzWHFaSHhkVG1laUxzM19jeWJEOWozdGQyZ1F0U25YZzBpQzE0VFVNTDhUbVdkVnEyTEUycXpKb1htbTUzcTJuWjVFamE1NmswQXFoNmhvVTJ1Y19QNDNJUF9YRGJVWU9EWk9yN2piU0hCQVpJWFg3WWpDZGVsbGR4S0oxUmFla1NxRVFwV3Vmdy1rMks0eFBmSXc?oc=5",
-     "source": "Milwaukee Neighborhood News Service",
-     "published": "2026-11-09T21:30:00+00:00",
-     "summary": "Election Day errors add to Milwaukee\u2019s history of messy elections&nbsp;&nbsp;Milwaukee Neighborhood News Service",
-     "image": ""
-    },
-    {
-     "title": "Republican leaders say affordability should be party focus following election losses",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2MwRDBQckhTcm9xX3Bwb3J2QTRNVWhFTGhmbzFFR1BORmpJOWN0WkQyTXQtVjI2Qll2ejN1S1VBeGNYVGdZNEdKdk10cEgxd2ZDZkI5V19xb0xhQzl4em5oTFFjSzlXN3NqWXBhNVhDbVRrbjNFa3F0S29FNUJQZWpKeWdsUzBLbGoyLTNyRzZsOTBKbzBGemtWMHlaS05XQkdPTkxKR1RhN0w1VEpvTElRSTJnaW96WGlWSFhMbUFweEJ4?oc=5",
-     "source": "WFYI",
-     "published": "2026-11-09T21:29:00+00:00",
-     "summary": "Republican leaders say affordability should be party focus following election losses&nbsp;&nbsp;WFYI",
-     "image": ""
-    },
-    {
-     "title": "Padilla still leads Stockton City Council D1 race, election results show",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUbmJXZ3RFMjJ3S25LZEZRNDlpaVZPWlg2SDRydDRJWWl6amtlX3R4anhwYmhxcHcwRnN4R1o2ZlFBWWtwTDE1NnJTRUlhWEdVZnUwQTliS2hRaXplRklrTVFnWDNMWU0?oc=5",
-     "source": "Merced Sun-Star",
-     "published": "2026-11-09T21:24:00+00:00",
-     "summary": "Padilla still leads Stockton City Council D1 race, election results show&nbsp;&nbsp;Merced Sun-Star",
-     "image": ""
-    },
-    {
-     "title": "Here's when you can expect updated election results in Sacramento County",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPa1hTZHJHbWZlcG9QdzhQaW54dTdEY21WSzhGcUNEOFlTM09oSDhFbVJ6SXhlcU5Fc3M1UkxOY3VfcVk5UGZyNUpXQVFrVVEwcGNsQ25BaHpDOS1pU3FxbnNQVFRWU094X2w3NzY2YlZqS2EzbUozbkt4eFlZc2NkUmF4dFE3Y24tYnVINXI0NGFlSmM5NlFvUndtRWRVQVM0c2F1cHhraFNvUTFzS3hISE1MV09OcEg0TWVuc0hzeHluU3Z6dmdvbGIzS2dkYklvc2RlVnh1TEE0MEZLbjNaeVRva0tUcmxkektVWVA1d2JGRTJkb1VFcEJn?oc=5",
-     "source": "ABC10",
-     "published": "2026-11-09T21:20:00+00:00",
-     "summary": "Here's when you can expect updated election results in Sacramento County&nbsp;&nbsp;ABC10",
-     "image": ""
-    },
-    {
-     "title": "French Judo superstar Teddy Riner says will run for president",
-     "url": "https://www.france24.com/en/french-judo-superstar-teddy-riner-says-will-run-for-president",
-     "source": "France 24",
-     "published": "2026-11-09T21:14:51+00:00",
-     "summary": "France's multiple Olympic judo champion Teddy Riner announced on Monday he would run in next year's presidential election, after expressing concern about the \"rise of the far right",
-     "image": "https://s.france24.com/media/display/f62a8bcc-dc7f-11f1-ad8f-d18c5759e759/w:1024/p:16x9/EN-20261109-213456-214006-CS.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T22:16:55.327281+00:00",
+   "fetched_at": "2026-11-09T22:46:58.795355+00:00",
    "stale": false,
    "items": [
     {
