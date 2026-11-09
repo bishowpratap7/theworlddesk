@@ -1,24 +1,104 @@
 {
- "generated_at": "2026-11-09T19:46:16.734074+00:00",
+ "generated_at": "2026-11-09T20:16:41.209266+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T19:46:16.734038+00:00",
+   "fetched_at": "2026-11-09T20:16:41.209239+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nvidia's Huang scandal rattles AI industry built around him",
+     "url": "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him",
+     "source": "France 24",
+     "published": "2026-11-09T20:09:22+00:00",
+     "summary": "Nvidia chief Jensen Huang sits at the center of the artificial intelligence boom, and the spy scandal that erupted over the weekend threatens to shake the company at a time when co",
+     "image": "https://s.france24.com/media/display/b0c0757c-dc77-11f1-97b1-695cb59fade5/w:1024/p:16x9/EN-20261109-203701-204148-CS.jpg"
+    },
+    {
+     "title": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
+     "url": "https://www.france24.com/en/paris-prosecutor-opens-probe-into-irgc-cyber-unit-shahid-kaveh-over-fridge-cyberattacks",
+     "source": "France 24",
+     "published": "2026-11-09T20:06:09+00:00",
+     "summary": "The Paris prosecutor said she had opened an investigation into Shahid Kaveh, a shadowy cyber unit of the IRGC, the Islamic republic's ideological army, over the 'unprecedented' cyb",
+     "image": "https://s.france24.com/media/display/93dd0826-dc77-11f1-8ea8-bf1914cabd52/w:1024/p:16x9/EN-20261109-203104-203701-CS.jpg"
+    },
+    {
+     "title": "'Sexual predator' Russell Brand jailed for 10 years for rape, assault",
+     "url": "https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault",
+     "source": "France 24",
+     "published": "2026-11-09T20:03:55+00:00",
+     "summary": "British comedian and TV star Russell Brand was Monday jailed for more than 10 years for a string of sex offences including rape, as the judge told him he had been a \"sexual predato",
+     "image": "https://s.france24.com/media/display/f6830bca-dc76-11f1-ad17-1beafce15fea/w:1024/p:16x9/EN-20261109-201213-201409-CS.jpg"
+    },
+    {
+     "title": "Will Eisenkot succeed in 'minefield of Israeli politics' where 'so many other generals' have failed?",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261109-will-eisenkot-succeed-in-minefield-of-israeli-politics-where-so-many-other-generals-have-failed",
+     "source": "France 24",
+     "published": "2026-11-09T20:03:31+00:00",
+     "summary": "Fran\u00e7ois Picard welcomes Dahlia Scheindlin, Israeli author, political analyst, strategic consultant and pollster, to examine a question that reaches far beyond the immediate strugg",
+     "image": "https://s.france24.com/media/display/c29d2632-dc72-11f1-8b03-1beafce15fea/w:1024/p:16x9/EN-20261109-181244-182532-CS.jpg"
+    },
+    {
+     "title": "The AI poster boy, the \u2018Chinese spy\u2019 and Trump: how an affair may have harmed US security",
+     "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+     "source": "The Guardian",
+     "published": "2026-11-09T20:01:05+00:00",
+     "summary": "Jensen Huang\u2019s close relationship with president means Nvidia CEO\u2019s affair with woman alleged to be working for Beijing is a big dealA hand on the back, a kiss on the cheek; the fo",
+     "image": "https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=140&quality=85&auto=format&fit=max&s=a719322d934a458d16dd90c7e5930f84"
+    },
+    {
+     "title": "Tommy Walsh, co-presenter of BBC\u2019s Ground Force, dies aged 69",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/09/tommy-walsh-co-presenter-of-bbcs-ground-force-dies-aged-69",
+     "source": "The Guardian",
+     "published": "2026-11-09T19:59:36+00:00",
+     "summary": "Former builder got his big break after restoring the home of a producer who was working on a precursor to the show Tommy Walsh, the building and DIY expert who appeared on televisi",
+     "image": "https://i.guim.co.uk/img/media/79a8db18d1ebca53deb1fd978be832b5c94f23bd/0_4_4153_3322/master/4153.jpg?width=140&quality=85&auto=format&fit=max&s=aca64063f19e319eef7dd594dfe34d8b"
+    },
+    {
+     "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T19:58:01+00:00",
+     "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Progressives head to US House in record numbers after winning red districts",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/progressives-us-house-flipped-seats",
+     "source": "The Guardian",
+     "published": "2026-11-09T19:57:32+00:00",
+     "summary": "Caucus had 100 members in the last Congress, and six of the nine candidates it endorsed won, flipping seatsHouse progressives, long dismissed as the Democratic party\u2019s leftwing out",
+     "image": "https://i.guim.co.uk/img/media/c2269acc793d2b8edde132d27c66928911fd7ada/980_0_4923_3938/master/4923.jpg?width=140&quality=85&auto=format&fit=max&s=bee1e5db6837a2334d19ab8fe032d940"
+    },
+    {
+     "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T19:50:02+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+     "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+     "source": "The Guardian",
+     "published": "2026-11-09T19:40:45+00:00",
+     "summary": "\u2018Not particularly complex\u2019 defrosting hack has been attributed to Iran, with presumption it is linked to others across EuropeIranian hackers like to send a message.In 2023 a state-",
+     "image": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f"
+    },
     {
      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-09T19:39:33+00:00",
      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/7de9a320-dc64-11f1-8fe6-5becaee5408f.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7c/live/626cdfb0-dc76-11f1-bbe9-83c09cc9b23f.jpg"
     },
     {
      "title": "Republican congressman launches impeachment bid against Pentagon chief Hegseth",
      "url": "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
      "source": "\u00a9 Tom Brenner, AP",
      "published": "2026-11-09T19:32:26+00:00",
-     "summary": "Kentucky congressman Thomas Massie moved on Monday to force a vote in the House of Representatives to impeach Defense Secretary Pete Hegseth, putting pressure on his fellow Republi",
+     "summary": "Kentucky congressman Thomas Massie moved on Monday to force a vote in the House of Representatives to impeach Defence Secretary Pete Hegseth, putting pressure on his fellow Republi",
      "image": "https://s.france24.com/media/display/3193d7d8-c644-11f1-b677-3774aeac812a/w:1024/p:16x9/AP26279700094442.jpg"
     },
     {
@@ -36,93 +116,69 @@
      "published": "2026-11-09T19:31:36+00:00",
      "summary": "US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powersUS politics live \u2013 latest updatesA Republican lawmaker",
      "image": "https://i.guim.co.uk/img/media/127a943500d7d4f7af49820ae47362b8a04b6957/360_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=ea33a67ec8f76ec8c359cfc3fe32634a"
-    },
-    {
-     "title": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
-     "url": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:27:22+00:00",
-     "summary": "TV producer, who was in relationship with ex-comedian that reportedly ended in 2014, accuses him of \u2018violence, coercive control and abuse\u2019 Russell Brand sentenced to more than 10 y",
-     "image": "https://i.guim.co.uk/img/media/857247cf38860c69fc78d2372366140c567e0889/863_157_4987_3990/master/4987.jpg?width=140&quality=85&auto=format&fit=max&s=67a57d1217c1d606828637e70cea19f8"
-    },
-    {
-     "title": "Trump attempts to cast doubt on Democrats\u2019 midterm election victory, questioning early vote numbers and ballot machines \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:26:36+00:00",
-     "summary": "President questions result in social media post after initially suggesting he would accept Democratic landslide winTrump admits deportation policy was \u2018too tough\u2019Sign up for US Bre",
-     "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
-    },
-    {
-     "title": "France opens probe into Iranian cyber unit over fridge attacks",
-     "url": "https://www.france24.com/en/france-opens-probe-into-iranian-cyber-unit-over-fridge-attacks",
-     "source": "France 24",
-     "published": "2026-11-09T19:24:54+00:00",
-     "summary": "France on Monday said Iran's Revolutionary Guards were behind \"unprecedented\" cyberattacks on supermarket fridges in the country last month, vowing sanctions on a European level ag",
-     "image": "https://s.france24.com/media/display/2c262730-dc72-11f1-912e-a575454bc579/w:1024/p:16x9/EN-20261109-200113-200918-CS.jpg"
-    },
-    {
-     "title": "Broken system? French protesters rage against austerity",
-     "url": "https://www.france24.com/en/tv-shows/the-debate/20261109-broken-system-french-protesters-rage-against-austerity",
-     "source": "France 24",
-     "published": "2026-11-09T19:19:18+00:00",
-     "summary": "How can the nation of haute couture and high speed rail have an affordability issue? On paper, France boasts the planet\u2019s seventh largest economy. Its top diplomat started the week",
-     "image": "https://s.france24.com/media/display/3b2413b6-dc70-11f1-9a7c-d18c5759e759/w:1024/p:16x9/2026-11-07T151455Z-100900085-RC23JOAPD1O1-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-     "title": "Air pollution soars as fog traps emissions in England\u2019s urban areas",
-     "url": "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:13:59+00:00",
-     "summary": "Particles from fireworks and bonfires likely to have contributed to levels well above WHO\u2019s daily guidelineAir pollution soared to \u201cvery high\u201d levels across urban parts of England ",
-     "image": "https://i.guim.co.uk/img/media/11c7669b90e9ed1725390c0e7b560318b560b1b8/274_0_1668_1334/master/1668.jpg?width=140&quality=85&auto=format&fit=max&s=37a1707e8e6e24cba5e58ff842cb302a"
-    },
-    {
-     "title": "US agencies unite to combat rogue drone threats nationwide",
-     "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T19:07:56+00:00",
-     "summary": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
-     "image": ""
-    },
-    {
-     "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
-     "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T19:07:42+00:00",
-     "summary": "Democratic Senate leader Schumer criticises Trump&#039;s poll denialism, calling it an avoidable return to baseless claims.",
-     "image": ""
-    },
-    {
-     "title": "Ohio State fraternity suspended after viral video shows two men on fire",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:03:45+00:00",
-     "summary": "The university and local police are conducting investigations into Sigma Alpha Epsilon and have placed them on interim suspensionA fraternity at Ohio State University has been temp",
-     "image": "https://i.guim.co.uk/img/media/febc447abab343f6a8b3babe921f0b0574caee1b/671_0_6708_5369/master/6708.jpg?width=140&quality=85&auto=format&fit=max&s=bef72034cd68626a5a8f3bd6a93d76bf"
-    },
-    {
-     "title": "What\u2019s next for US Republicans and Trumpism?",
-     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T19:02:54+00:00",
-     "summary": "Republican politician Tom Garrett argues his party lost US midterm elections because it made promises it couldn\u2019t keep.",
-     "image": ""
-    },
-    {
-     "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
-     "source": "The Guardian",
-     "published": "2026-11-09T18:58:50+00:00",
-     "summary": "Miller, known as the architect of Trump\u2019s controversial immigration crackdown, is replacing Susie Wiles in new roleUS politics live \u2013 latest updatesStephen Miller, the architect of",
-     "image": "https://i.guim.co.uk/img/media/db4879733af20c35f81006235d81b932772ab199/670_308_2949_2359/master/2949.jpg?width=140&quality=85&auto=format&fit=max&s=166a930a8fbd8b3f8baaf32bcb2b2f09"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T19:46:16.734055+00:00",
+   "fetched_at": "2026-11-09T20:16:41.209252+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaXBIZHZhSC1jMjdGRnBZU05jLUwtZlJOSFptM3pISnJLMHV5OUMxWmZfUW9ZX25PNlVLenUwSHBMb2M5UWNOYTBzM09kYVhTQmo2TnFiblhVVzlfNERXOGhFVnlLRjU1YXZpUFpUWUdGUXBXOXMza1hiQUI1OS11Ui1xa3I3bzljSDhPdWJXeF9QbkdoYWlDY2VuY0p5ZHM1Z2MtS09TUWhSNGF6c210aHFJYktyRVnSAbwBQVVfeXFMT2hVejdiNzk1MXR2eFZWZFB3VlUwNGxnVkRVYmdRVmxNTHY0ODkxWkdnZU9JcE1mQm1fZkJUT1hYRlhaN0ltN3NZUVNkcHQ2b0UwaHNFQTltVmNmQV9MOThtMHlaSW1sVExjT0cxNVV4Z3FrblVobU5DcG53VW5kRUYyNkgyTy1LODFXQ2FWRDZKVmlvdlJGelFUOXo2ZjBVZndoRWdYUy1VZmJucjM2M3otQzBudXozWURWOGg?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T20:04:16+00:00",
+     "summary": "South Africa detains foreigners suspected of heading to join Russian forces&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Will Eisenkot succeed in 'minefield of Israeli politics' where 'so many other generals' have failed?",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261109-will-eisenkot-succeed-in-minefield-of-israeli-politics-where-so-many-other-generals-have-failed",
+     "source": "France 24",
+     "published": "2026-11-09T20:03:31+00:00",
+     "summary": "Fran\u00e7ois Picard welcomes Dahlia Scheindlin, Israeli author, political analyst, strategic consultant and pollster, to examine a question that reaches far beyond the immediate strugg",
+     "image": "https://s.france24.com/media/display/c29d2632-dc72-11f1-8b03-1beafce15fea/w:1024/p:16x9/EN-20261109-181244-182532-CS.jpg"
+    },
+    {
+     "title": "Opinion | How to protect Ukraine without NATO membership",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0dQM1BqNEJ4QjFMZzdIMlk0VjM0b1hCUE1IeWZmYVY4NVdhQ2lNUGlQaUxSSGRFSWwtS1BrQVpiX3VjalkzV1RQQ3VRd1pselZfMm1SckZzenJjd1ltcDRNclNUT0pIdy1Rd2ZGWWZCUGZZRFZjRDc3LWdDemItQm9zUVZDc2hQUk5ndnpIczBpaF9CVHBIdzc0MFdjUDJXZFZIc1dQcEFNYkZW?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-09T20:02:19+00:00",
+     "summary": "Opinion | How to protect Ukraine without NATO membership&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Iran denies talks on reopening Strait of Hormuz in exchange for $8B in frozen assets",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXd2ekdOWF9uUW9iNUUyTEVYeDBtSjNBVHJpNXVzaVdhQUF3UkczbnVsT0lJR0w3MXFLQnhzeEVSWTUwSkFvaG1lOUMxTHRudFJIZklpMWNlVmRuMEFHTEVXYmN1MTY3dFpwSThiMFFCM1FMLUtJbVB5WXF6Mmlid1Q2V3B4UFJYaTIxa3BtLUluQ0s3WTlVdHE2UmJlaTNfdElyMFlZdHlOUENaaXNEN3pDNlRxdzJsRlpybHlOS05SZzhUZzBpTW1uMA?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-09T19:52:36+00:00",
+     "summary": "Iran denies talks on reopening Strait of Hormuz in exchange for $8B in frozen assets&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T19:50:02+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorizationRepublican Thomas Massie moves to force vote to impeach ",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "Going to school in war: How Ukraine\u2019s children are still trying to learn",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TM0NuajFQMEVCTTUyMTJ4YU1FQ1JwS2JuM0U1ZEtIWnc0azljbTVzczM3QmRiaVlLNkdxY3dZLW1SREktWFQ2Wk5oMi12R3podmVkTmpyb09LWk9UN1BRRy1lbWk4TTF3WTV0c3FDcEZyelU5M3fSAXtBVV95cUxOdkRGVWNfVHV1SkFUVWFKc1pxVVNib3Z2ejJJMFRsSy01ZlB2eGxMWFZJeWlNQjlOOFRaamNDQXNHSFVhQmd1SjFqblQ2VURlbnJITG1CZXZ2Wjc2NnFsRXJoSDN2Z1dRV25SdnhaSGRZbjJlc3E3cmRRT2c?oc=5",
+     "source": "NewsNation",
+     "published": "2026-11-09T19:48:20+00:00",
+     "summary": "Going to school in war: How Ukraine\u2019s children are still trying to learn&nbsp;&nbsp;NewsNation",
+     "image": ""
+    },
+    {
+     "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+     "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+     "source": "The Guardian",
+     "published": "2026-11-09T19:40:45+00:00",
+     "summary": "\u2018Not particularly complex\u2019 defrosting hack has been attributed to Iran, with presumption it is linked to others across EuropeIranian hackers like to send a message.In 2023 a state-",
+     "image": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f"
+    },
     {
      "title": "'We think' the Iranians and Americans want to negotiate, Egyptian FM says",
      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261109-we-think-the-iranians-and-americans-want-to-negotiate-egyptian-fm-says",
@@ -162,169 +218,113 @@
      "published": "2026-11-09T19:12:57+00:00",
      "summary": "India's Jaishankar speaks to Russia's Lavrov on diplomatic efforts to end Ukraine war&nbsp;&nbsp;The Business Standard",
      "image": ""
-    },
-    {
-     "title": "US pushes for European 'security architecture' to end Ukraine war | Hindustan Times",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQclQzZWZaUmFVRF9nclZJQmF6MkJRSEVpbFNTQjgtZzFadENmczFQM0VtV0lHR0tLUlk3SWVGaW53MVFpV0F3ZzMxVE1qb1BDd2tBQnpfYVh4dWZ0VWlvREQ5aXpCSjdUYTNXLWw1SXMzVWhqa3dlNzFmbWRjd2tEWEFCaDlxYVozdjZRVHZZVG9IZDhleFhRUUJURmRGcDhfTnBhdHA2ZHdzdzZnR1AtUU5oLVUzM2F5MldreGVtVm1WSnBBcm9rUWRwNFZWcmPSAdQBQVVfeXFMTzVETHRJbGdlT1VEQ3hOd21pM2JhcGl0UTN0VmFseGkwR0JtdlZHd21uRUgzRk1FbjdBRHh4aFpZNWt1LTBURXRidUN2N25yNnpNa09qdTk2RU5XQXZ3MWhUemZoT1gxQ1I0dlM4WGszNzNQbE9EellYRGxNcFhCR09aQ1NuaTBXVTQwNVhhUm9pay1Eb21oNVhBYkY3QzZ5VjVEbExtN3dLdVhsWFZTV0VaeTdHRV95cHJOLWh4bDVZUTJaSjU3Skd5aVNsR0RiMVdVY3A?oc=5",
-     "source": "Hindustan Times",
-     "published": "2026-11-09T19:09:59+00:00",
-     "summary": "US pushes for European 'security architecture' to end Ukraine war | Hindustan Times&nbsp;&nbsp;Hindustan Times",
-     "image": ""
-    },
-    {
-     "title": "US agencies unite to combat rogue drone threats nationwide",
-     "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T19:07:56+00:00",
-     "summary": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
-     "image": ""
-    },
-    {
-     "title": "Opinion | How to protect Ukraine without NATO membership",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0dQM1BqNEJ4QjFMZzdIMlk0VjM0b1hCUE1IeWZmYVY4NVdhQ2lNUGlQaUxSSGRFSWwtS1BrQVpiX3VjalkzV1RQQ3VRd1pselZfMm1SckZzenJjd1ltcDRNclNUT0pIdy1Rd2ZGWWZCUGZZRFZjRDc3LWdDemItQm9zUVZDc2hQUk5ndnpIczBpaF9CVHBIdzc0MFdjUDJXZFZIc1dQcEFNYkZW?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-09T19:05:54+00:00",
-     "summary": "Opinion | How to protect Ukraine without NATO membership&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Russia rejects Ukraine war 'freeze' and claims Kyiv would use pause to rearm",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEV3SnVSRWczSklFYkFaTS1ReHhGd3BaQkNrVThnc1RnU2JxSHVzbFI2d3dhNTRmV1pFajhlZHlNbFpSMUxMZ19ERkdEQjhlZEhZb3ZBNVU3RUJwNjJaSmlkcl9KSzRidV9WYk9fSGdSZHdCWDA4b1hKQ2UzZFZDQjlaNFo0TDVYVXN5Wi1tZ3p0WS1XUnVzQmUtOUg?oc=5",
-     "source": "www.thenationalnews.com",
-     "published": "2026-11-09T18:56:19+00:00",
-     "summary": "Russia rejects Ukraine war 'freeze' and claims Kyiv would use pause to rearm&nbsp;&nbsp;www.thenationalnews.com",
-     "image": ""
-    },
-    {
-     "title": "Russia, Ukraine Envoys to Talk Ceasefire Monitoring, Territory",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVkycXJ3c1F5S1Y3RndiWDZtQjdxcWpXTDFtN1ZnbndQWDF1bU92NTBYSEtRWEkxOEU3YU02VEpRTkJ1aWZUZkxHWVRXS1JLaXR5LWNIdVN1MHVJbm5LTGVHc0xPY21PLS0tWE02UmY0M0h5NUJTUlpkLXFjTERLM0U1Zk0xS1lHbF9qVGtqdW1JZEgwWlJKWjI2RE5YSHJwVmRnUlF2ZW5xZHBidUpreUxwNldkZjl6ZFhQVG9HREdGSV81b2pMM2l4OA?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-09T18:51:56+00:00",
-     "summary": "Russia, Ukraine Envoys to Talk Ceasefire Monitoring, Territory&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
-    },
-    {
-     "title": "Germany threatens to block next EU budget without Ukraine funding deal: Report",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1VSOEFObncyaGVKaHBVbVFzMDI4WFFsRWRoMkxFdEZvbTFkYXlaY2IyLTlmQUpQd0tJTW1CbnQ5aWE3dVVKbm1JbFZXQWRtTnE4dkMtbDBNcGxTTWdrWC1aRmFyd01tc1BvU2lrWVZETW5WbFhjUVFpSGMyZDZpTFdKeFJZZ21Db3RDNXVtSlc1VmZybDhXdWN3UkZJdHZEM2syd1o5MFpiSUNDbTIwMjZvaw?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-09T18:51:11+00:00",
-     "summary": "Germany threatens to block next EU budget without Ukraine funding deal: Report&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
-     "url": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T18:50:29+00:00",
-     "summary": "Ali was an award-winning pioneer of animated political caricatures and Pakistan&#039;s first court artist.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T19:46:16.734059+00:00",
+   "fetched_at": "2026-11-09T20:16:41.209255+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "2026 Election Results and Implications for the 2027 Legislative Session",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmxQUEk5eV9QWVZwTV9pNzM0b3hYX0Z3Q0l3eVlhOUNkZDBocVBVS3JtNVJXYzdzbVRQUk9ZeVlTS19jSUs0aW9vOGZlWmZCR25sQkVkMjVxcmp5NXdOZkN6Q3pkOXNaNTRkSzUtcjNZMHRlem9HakIwSWNyQmRXZkJVbGFHVXd5YnVwcF9zZWlHbm9JMy1zdGdrZnFTSk1wTk5DVmlUanktMDZNSUpYejQyRkNtMEdDMkpv?oc=5",
+     "source": "League of Minnesota Cities",
+     "published": "2026-11-09T20:03:42+00:00",
+     "summary": "2026 Election Results and Implications for the 2027 Legislative Session&nbsp;&nbsp;League of Minnesota Cities",
+     "image": ""
+    },
+    {
+     "title": "League of Minnesota Cities Board Adopts 2027 Legislative Policy Priorities",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGZ4RURtRUQ4VFNrZGVLX0praE90SU9iazU5U3NOQ1lkb1NfVlByNUM2U29HNGR2Qk9XOG5Mc3JlcnQ3NUs1SUhRb2tYd3NRZkJ6a0U5U0hUY0ZySFBzZmRsRDhWeHFCX0JXNm1FWWsxeWtmTzcwWXBRUjBUV2JQVEp6amdpN3BSWVF5VVV0M216MkQt?oc=5",
+     "source": "League of Minnesota Cities",
+     "published": "2026-11-09T20:03:08+00:00",
+     "summary": "League of Minnesota Cities Board Adopts 2027 Legislative Policy Priorities&nbsp;&nbsp;League of Minnesota Cities",
+     "image": ""
+    },
+    {
+     "title": "The AI poster boy, the \u2018Chinese spy\u2019 and Trump: how an affair may have harmed US security",
+     "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+     "source": "The Guardian",
+     "published": "2026-11-09T20:01:05+00:00",
+     "summary": "Jensen Huang\u2019s close relationship with president means Nvidia CEO\u2019s affair with woman alleged to be working for Beijing is a big dealA hand on the back, a kiss on the cheek; the fo",
+     "image": "https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=140&quality=85&auto=format&fit=max&s=a719322d934a458d16dd90c7e5930f84"
+    },
+    {
+     "title": "2026 Election: Arizona voter turnout exceeded 50%, according to unofficial state figures",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGh0RkE4Wk9BU19aRjExd09fTlJELTgyWkF5a0hxekhnRktoLUxUTkJTNXdudHlSbjNhMUNrVlExNnF5UkVYZlEtVE90MnBNRnFvSjFZLUtpLTliV21ZOTRIck9Wdk5Rai04ZlRaVDlRZUIxSDFpeHlxRE1BcWNjNXh3Y1FIWjJnTzgwbGJDZy14cUppUXZMOWszRENXR0VNdlJyWmVoLWNGRU5HbWc?oc=5",
+     "source": "FOX 10 Phoenix",
+     "published": "2026-11-09T20:00:22+00:00",
+     "summary": "2026 Election: Arizona voter turnout exceeded 50%, according to unofficial state figures&nbsp;&nbsp;FOX 10 Phoenix",
+     "image": ""
+    },
+    {
+     "title": "Progressives head to US House in record numbers after winning red districts",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/progressives-us-house-flipped-seats",
+     "source": "The Guardian",
+     "published": "2026-11-09T19:57:32+00:00",
+     "summary": "Caucus had 100 members in the last Congress, and six of the nine candidates it endorsed won, flipping seatsHouse progressives, long dismissed as the Democratic party\u2019s leftwing out",
+     "image": "https://i.guim.co.uk/img/media/c2269acc793d2b8edde132d27c66928911fd7ada/980_0_4923_3938/master/4923.jpg?width=140&quality=85&auto=format&fit=max&s=bee1e5db6837a2334d19ab8fe032d940"
+    },
+    {
+     "title": "Democrats Demand Answers on Trump\u2019s A.I. Policy Amid Spy Plot",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVdORGUzSXZqX3lyWG91Z051MmJsbExiTHotVnAyMnV3b0FNeDBuWlgtMDdINW50Y1I2WGlIS3hHX3pfSzU1eEtKR1pfejlEdGQ4QUFqM28yeEt5bWNpSlZpQTlha3NqZ0NxY0xFNTNtdDJKU2gzbnRkQTl6S1BZbEZaVQ?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-09T19:51:37+00:00",
+     "summary": "Democrats Demand Answers on Trump\u2019s A.I. Policy Amid Spy Plot&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Wisconsin concession speeches show shift away from election denial",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm50LTNfc0Y4aWVBTW1QWGVNQjh3MDJLUmJ1cEtGQnJ3ZVU5dC1Cc19iWkxzTFd0a0w0Y2lKc2hBN1RNeFQ2dTdjRVJMR2x2NGcwbWxCTy1SRXgzLS16ckpoenVVa09WaWZnazg2R2plQVJ6N0ZwZmJXeDVQY2JoNnVvWFNCZy1aRHhBVWNBZWxQNXIx?oc=5",
+     "source": "Spectrum News",
+     "published": "2026-11-09T19:51:00+00:00",
+     "summary": "Wisconsin concession speeches show shift away from election denial&nbsp;&nbsp;Spectrum News",
+     "image": ""
+    },
+    {
+     "title": "How the next Congress will shape US national security policy",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGpYUEhmWm9uZS1SdzVGa1hubE9xZ2Zyb1ZPVFZRZjV4QnE5WE9ObGxCSnd0Qkhtd3BVZnA1MzByemZQNGhTOUh2V3AwMFZXNWtZSWUwaks2YW16VU9saDVHR25VOUpocjFmelN2UkVtcDdoYWxFTGI5VnpFTzNmYmxSR05HTVZKVl9udlJaRGQ0T21kWDhPSGF1MURadGNT?oc=5",
+     "source": "Atlantic Council",
+     "published": "2026-11-09T19:48:24+00:00",
+     "summary": "How the next Congress will shape US national security policy&nbsp;&nbsp;Atlantic Council",
+     "image": ""
+    },
+    {
+     "title": "La Crosse County certifies election results",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRV84TUsyZXI1RWxxMnNNYlMtYVcxdHdOaTNqakJYSVJhb0RnQzVKWXZ3WUlCdEltNEdQU1RXU2dYZDgxZFZScDFqR3dqa21VZHUwMGNQTUZyaWVUZmlwYXlxeE13TGlHVkFpcjhBbWpKR3Nma245Rk1KM0l0TWlmNWtJeW5OaDduRFRLRURod3hfY21OV3U0by1ac1hzSGl6WW1uSVp2bXVJemlwRVBPSnZCY1o3aU5fRDJpVUJR?oc=5",
+     "source": "news8000.com",
+     "published": "2026-11-09T19:43:00+00:00",
+     "summary": "La Crosse County certifies election results&nbsp;&nbsp;news8000.com",
+     "image": ""
+    },
     {
      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-09T19:39:33+00:00",
      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/7de9a320-dc64-11f1-8fe6-5becaee5408f.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7c/live/626cdfb0-dc76-11f1-bbe9-83c09cc9b23f.jpg"
     },
     {
-     "title": "Republican congressman launches impeachment bid against Pentagon chief Hegseth",
-     "url": "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
-     "source": "\u00a9 Tom Brenner, AP",
-     "published": "2026-11-09T19:32:26+00:00",
-     "summary": "Kentucky congressman Thomas Massie moved on Monday to force a vote in the House of Representatives to impeach Defense Secretary Pete Hegseth, putting pressure on his fellow Republi",
-     "image": "https://s.france24.com/media/display/3193d7d8-c644-11f1-b677-3774aeac812a/w:1024/p:16x9/AP26279700094442.jpg"
-    },
-    {
-     "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjJBc1lHV0NRN1FURjg3eWRsalpKalB6QldheHRZLUg0SmM3SGpMRFFXWDc2Vm9qbGFQdGluQ1c0dkY4WE5DdmswdzdDazQwTkdDaENiQmhDYlZJd2FjcDFoVmhyQzVPa3hLZ2dQZUFRb2RuZGpTTkVJYUpEOElma055REV1ZlBPTEkwY2owTjh0SVNwNncySA?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-09T19:29:25+00:00",
-     "summary": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands&nbsp;&nbsp;WSJ",
+     "title": "Trump questions midterm election results after previously accepting outcome",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUVRZzZwRWc4aFpudFRsd3NXeDdfemFvRkQyczFBd3pKVXFRdi02S1hlY29KTzJlOVoxZElibUkyY0NNZV94RE00WXlsWEdRVS1kQWl4MENKWFFEdDlCUnlNaWVSbzEtWWxEWFRyVF9LdWhBbWJLWmxLanNIUWcyMDg2WmxNaTBGMEVKSWszSEtnUEk5ZWlLNXphN1lBdGZDT0tSbHBvSjdvMHNxaFpjSGFpQWFtb0ZKWmc?oc=5",
+     "source": "USA Today",
+     "published": "2026-11-09T19:33:00+00:00",
+     "summary": "Trump questions midterm election results after previously accepting outcome&nbsp;&nbsp;USA Today",
      "image": ""
     },
     {
-     "title": "Election 2026: Through the Eyes of Montclair State University Students",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QcXdGMXJvWFhSbHpoSHA2emdkZU9LRXdyX1J3MUw2T0U3R2JlUEJQbEk2b1k2UHRqdnZOMHlGSG5PaGY2RTlYNGZCb0hGbU91U2Z3QURaMXhuXzBBT2RFcWZFOHZiTVVoYVp4OGRoWTM2bk1sSE5MbVB0ek4tZw?oc=5",
-     "source": "Montclair Local News",
-     "published": "2026-11-09T19:28:15+00:00",
-     "summary": "Election 2026: Through the Eyes of Montclair State University Students&nbsp;&nbsp;Montclair Local News",
-     "image": ""
-    },
-    {
-     "title": "Trump attempts to cast doubt on Democrats\u2019 midterm election victory, questioning early vote numbers and ballot machines \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T19:26:36+00:00",
-     "summary": "President questions result in social media post after initially suggesting he would accept Democratic landslide winTrump admits deportation policy was \u2018too tough\u2019Sign up for US Bre",
-     "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
-    },
-    {
-     "title": "Thune, Schumer face post-election fallout",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORUpFRHlTa2NXaGhZRHlDenhfYzliSWFTVFd0emVwcWlOUXNHRFRvdGZfSFJMR2lpS3BJb3VWSjUxMDZVdGdVZnZiSG1wNHU1NDNnYmx2OHROZzY2MDRoZ0JiaFlwZ0tfYk1VeHNMWENIYjF6MWN2MnFwbi1TT3V6Rk5pNGhKYU0?oc=5",
-     "source": "Punchbowl News",
-     "published": "2026-11-09T19:26:27+00:00",
-     "summary": "Thune, Schumer face post-election fallout&nbsp;&nbsp;Punchbowl News",
-     "image": ""
-    },
-    {
-     "title": "Broken system? French protesters rage against austerity",
-     "url": "https://www.france24.com/en/tv-shows/the-debate/20261109-broken-system-french-protesters-rage-against-austerity",
-     "source": "France 24",
-     "published": "2026-11-09T19:19:18+00:00",
-     "summary": "How can the nation of haute couture and high speed rail have an affordability issue? On paper, France boasts the planet\u2019s seventh largest economy. Its top diplomat started the week",
-     "image": "https://s.france24.com/media/display/3b2413b6-dc70-11f1-9a7c-d18c5759e759/w:1024/p:16x9/2026-11-07T151455Z-100900085-RC23JOAPD1O1-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-     "title": "Moderate PACs call election results a rejection of 'extremists'",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMHJXWlRBTWo5RmRtZFNNQ0FyUjUxd3ZKclloYjVyQ2ttNGdYN1FMMmE4cmN5amRSOTlZVlc3am5CbTdrTC1Xb0tJek9SdmZhcTh6ZF9HNm91NkpZUUJKXzF6UHFQMmwyVlNmY1Vvb0ozR0JLZzFYMnBZTEp3LURfZ1dsa0VZV29EdGs5dGlVT0Y1d3JCSDVPT211SHM3WmNubGVvS2JKX0lwS2xtSzRzcUt3NUlnQmpRQUFGa2dNUkhfU0NyUUIzWm9KWlFWYWFKVGhiZnBZSzdfX2VtZU5GQmxyaVZsX3dqZ2c?oc=5",
-     "source": "WyomingNews.com",
-     "published": "2026-11-09T19:18:00+00:00",
-     "summary": "Moderate PACs call election results a rejection of 'extremists'&nbsp;&nbsp;WyomingNews.com",
-     "image": ""
-    },
-    {
-     "title": "Jeffco Public Schools Ballot Issue 5A failing by just 3 votes, preliminary election results show",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZWVFtTkRPbzhRZlplZk14S0hZN0VnZkF2bmtOVElXM215SG5fbHNnR2FiUE9wZFpwZHlJZ1BwUE11enVCV3dkaE1yTFIyVWVjRHFqenBKS2d1SnV2UG4yQmZxY1hrRXprOHBXbWl5Z0VQQTRQbXc?oc=5",
-     "source": "Colorado Public Radio",
-     "published": "2026-11-09T19:12:30+00:00",
-     "summary": "Jeffco Public Schools Ballot Issue 5A failing by just 3 votes, preliminary election results show&nbsp;&nbsp;Colorado Public Radio",
-     "image": ""
-    },
-    {
-     "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
-     "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T19:07:42+00:00",
-     "summary": "Democratic Senate leader Schumer criticises Trump&#039;s poll denialism, calling it an avoidable return to baseless claims.",
-     "image": ""
-    },
-    {
-     "title": "What\u2019s next for US Republicans and Trumpism?",
-     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T19:02:54+00:00",
-     "summary": "Republican politician Tom Garrett argues his party lost US midterm elections because it made promises it couldn\u2019t keep.",
-     "image": ""
-    },
-    {
-     "title": "They fled Democrat-run states to escape liberal policies. Then the blue wave hit.",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2duTEFrajlKWkEzVUtaZXh0NEZSS0dUV2tRdFUyMTQ5V1kwZkpUcEVLWFNmZlhEZmFRMU1PR3dpVG1VbUx4blVGbXk4OEpmNTFUQnpfX2M0Rzk4b0xDcmxEaFhORi16aEpqcGlMZkFNRFh4c1VFdkZNUkxQTFFST2RPUG56cWNiYmZlSHNEVGh4YU9QUHJLdFVxQU42QVlDYWdYVHBhdXJmSVQ3eU5IbEpjSkZCYUU4SHc?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-09T19:00:00+00:00",
-     "summary": "They fled Democrat-run states to escape liberal policies. Then the blue wave hit.&nbsp;&nbsp;NBC News",
+     "title": "USDA policy shift would cut millions of people off food aid program",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSk5FNTNfUlN0ZTJzMWtIRWFfME1LU3ItWElhWExJd0ExWkUwQkV4Y0dKV3hWQXotbXpYSGd5Wl84VFJKblhLR1RtWEJyNE9PekdRdzVpMXpSU3g1MmhhVGcwcjJyY3k4QS14WkFieUc3UWVPQ1Rr?oc=5",
+     "source": "Politico",
+     "published": "2026-11-09T19:33:00+00:00",
+     "summary": "USDA policy shift would cut millions of people off food aid program&nbsp;&nbsp;Politico",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T19:46:16.734062+00:00",
+   "fetched_at": "2026-11-09T20:16:41.209257+00:00",
    "stale": false,
    "items": [
     {
