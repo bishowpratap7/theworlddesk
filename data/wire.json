@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-09T08:14:22.130654+00:00",
+ "generated_at": "2026-11-09T08:44:25.324717+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T08:14:22.130622+00:00",
+   "fetched_at": "2026-11-09T08:44:25.324681+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018A global political awakening\u2019: how gen Z protests are sweeping the world",
+     "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
+     "source": "The Guardian",
+     "published": "2026-11-09T08:04:44+00:00",
+     "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapesIn Brazil, they rallied online by the millio",
+     "image": "https://i.guim.co.uk/img/media/d8c802e22e952ef416894c5d0a6ecca11d13b496/459_0_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=92a98b53493301af4a38acb36c24d9e4"
+    },
     {
      "title": "Trump says deportation crackdown was 'too tough' after midterm setback",
      "url": "https://www.france24.com/en/americas/20261109-trump-says-deportation-crackdown-was-too-tough-after-midterm-setback",
@@ -108,24 +116,48 @@
      "published": "2026-11-09T06:32:18+00:00",
      "summary": "How Israel&#039;s wall, checkpoints and permits divide Palestinians in the occupied West Bank and cut farmers off from land.",
      "image": ""
-    },
-    {
-     "title": "Lando Norris wins Sao Palo Grand Prix, but Mercedes seal constructors title",
-     "url": "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T06:21:08+00:00",
-     "summary": "Norris wins from pole position on a rainy Sao Paulo track as Mercedes win team title for the first time since 2021.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T08:14:22.130637+00:00",
+   "fetched_at": "2026-11-09T08:44:25.324698+00:00",
    "stale": false,
    "items": [
     {
+     "title": "From war to a new community: local support for displaced people in western Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDFXYkdnUFNJMGNjUlVYcno3TEVfejN1Q3hpWVN2cThlVnNheklaN3RZOGI5QV93THBnZDR5eFYwZGVDYlJvZ1FuOVpyU2NsSHRaX2E5aDVXcmpLNFRxTXNYbE1mZms3NUt4d1dPcVRORlRRYm8tYnhjb3Z6RnlIZi1jZ1psY2RHTjFFV0JzcFY3TWZYc1RuSGtfLWc2OEFDMkZOSzM1dFNGT01fdU1TWXFfNXNpTVJU?oc=5",
+     "source": "coe.int",
+     "published": "2026-11-09T08:29:41+00:00",
+     "summary": "From war to a new community: local support for displaced people in western Ukraine&nbsp;&nbsp;coe.int",
+     "image": ""
+    },
+    {
+     "title": "Ukraine Expands Neptune Missile Strikes Deep into Russia's Defence Industry - Oj",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUcwdXRJN00tOTh6MVZNWXNxWUNBOE5jTUJMb0thUEstZXVzV0pYVzZpMFoyR2JGc0YwbmVtbUxJa1pnWjRpVjBjUUpvU2FOV2pJZDU3MGgtdGRwMlN6ODQxVUE5TkVEeEZGQjdzQmZJczdFVG5KT3p4eGZNWjVEcXNIbkFJbk42dElyTTVEQno4MlVO?oc=5",
+     "source": "Odessa Journal",
+     "published": "2026-11-09T08:21:50+00:00",
+     "summary": "Ukraine Expands Neptune Missile Strikes Deep into Russia's Defence Industry - Oj&nbsp;&nbsp;Odessa Journal",
+     "image": ""
+    },
+    {
+     "title": "ReBuild Ukraine 2026 in Warsaw to Gather Over 7,500 Participants - Oj",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdUlXREg1Y1NPODdEcFhSWUxhQ1B3T01PaTd4TVBERHp2a3llMzRLN3pCSnlfb0lnT05JV1JJQUNMa3hBTnhkN3J6XzBHTnlyMUFoMmhCbV91b3ZSeV9oNEJDWXJqVFA1cEZZZEdJVGZOaUxKZXZLbU1vajByT2RmbTllMnlqMmx3YmhGdmt1Q0ttY1E?oc=5",
+     "source": "Odessa Journal",
+     "published": "2026-11-09T08:16:51+00:00",
+     "summary": "ReBuild Ukraine 2026 in Warsaw to Gather Over 7,500 Participants - Oj&nbsp;&nbsp;Odessa Journal",
+     "image": ""
+    },
+    {
+     "title": "Drone Attack Sparks Fires at Russia's Second-Largest Oil Refinery - Oj",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHluaFBrUHFmXzhPMzB2aGRvVUFCZmJCdXo4X2MwY2h6MnhINEc4czdxTXlSc19FT3FIUU90OWVHZEZtVjlMd191MnotODhOVFVkQzZIQUFjTVZna3B2aFB0WmRvZnRUN3lZb25PVU9KeU5Mc0lqaGw0LW8xOEJONndYRUFucjJBSG1FT2FyWll0NlhVaGNfV2hxS3RZWjlD?oc=5",
+     "source": "Odessa Journal",
+     "published": "2026-11-09T08:11:33+00:00",
+     "summary": "Drone Attack Sparks Fires at Russia's Second-Largest Oil Refinery - Oj&nbsp;&nbsp;Odessa Journal",
+     "image": ""
+    },
+    {
      "title": "Russia, Ukraine trade accusations about overnight strikes that injure 7",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVdkd0kwUTZ2SlhOMzRjX1V3d05STmNsQ2RhRE1MM2tTUDRVQTJNNFhqWU10YlhBclZ6SEp6NEdlZXc1R1pDQW1Pei1jTVZSSXBtRWtpSnhUdW1UanM0cGJZemhLdWhBeDdabEdMWWwxUjQ5WXFlXzdDRklLcVkzMVhQR3JEbXFSc2FldVpodFAxTWFnZExLaHdkOEdQU0lZVnFncWYxamV4WmZSMnBrdlRJMTNKWWFhNjZfV3FrRQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEJQOWFoVGtqVEFKazdTLXNTUVhodjNwd1o3bTc1RVZmUFVWa0VxNWFtNWxNSnhQeXJtSnVURUhnN0tIRW5mVDdNb1JjNjYwS29jZGxnMEVFSGc5Ri0tNGtnSUJLTnNWOFhjNVdOMmI2ZW9ldnhpRUhwWV96VnNIMEFVYlhRMml0eU1FVjRTZ0l3a3hmVTBENml2aXM0NlVJOHk2ZlgtV0lEZUtsdzBNWDczUW5PNV9WWHc?oc=5",
      "source": "Anadolu Ajans\u0131",
      "published": "2026-11-09T07:54:07+00:00",
      "summary": "Russia, Ukraine trade accusations about overnight strikes that injure 7&nbsp;&nbsp;Anadolu Ajans\u0131",
@@ -180,58 +212,50 @@
      "image": ""
     },
     {
-     "title": "Russia Loses 2,980 Troops and 1,843 Drones in One Day - Oj",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLTljS3BYc25KRWJhdVhqUkpZaWZmdjlJbHVlbUc4NzJRNUk0Z1B6bExnVEgwOUFFSEtsaEdfT1dZRUFELXRmV01DQ2ZVRWZoUkhQM29ValFWeFdQSmxqWEp1cDR6am95OXBId3hrWUZBaVgteFF1MXFCci0yRkNZQklFWmxWY3VERnc?oc=5",
-     "source": "Odessa Journal",
-     "published": "2026-11-09T07:07:03+00:00",
-     "summary": "Russia Loses 2,980 Troops and 1,843 Drones in One Day - Oj&nbsp;&nbsp;Odessa Journal",
-     "image": ""
-    },
-    {
      "title": "Ukraine War, Day 1,719: Kyiv Attacks Russia\u2019s 2nd-Largest Refinery",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVFRUXF6MDg2d214dURFYU1CU2YyT2JlY0M0Y2xweVVLQnNob0NOLUpUTHE5ZlQ2dVRSQWZOVmR3NWpBYVN2MTFlaF91ZVZVQkRUQXZqX3o2YVpYQXJTN19IQUQxbW4tbV84ZUlGZmJpbXh6eFpPRUJNVzduVmY1Y1lWMko4TmlhcVhuRXhR?oc=5",
      "source": "EA WorldView",
      "published": "2026-11-09T07:00:40+00:00",
      "summary": "Ukraine War, Day 1,719: Kyiv Attacks Russia\u2019s 2nd-Largest Refinery&nbsp;&nbsp;EA WorldView",
      "image": ""
-    },
-    {
-     "title": "\u2018It\u2019s a feeling of being screwed over\u2019: once-quiet village despairs over \u2018monster\u2019 warehouse",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/09/astley-village-despair-monster-warehouse-inquiry",
-     "source": "The Guardian",
-     "published": "2026-11-09T07:00:03+00:00",
-     "summary": "Residents of Astley in Greater Manchester will tell public inquiry next week of \u2018cacophony\u2019 of noise causing sleep deprivation and depressionWhen Stephen Retford retired from the p",
-     "image": "https://i.guim.co.uk/img/media/8ad529e476ab9f8aaa4b519c77862c07cc74a4d3/584_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6649e00763035cd3304c1a0e12dfc6a9"
-    },
-    {
-     "title": "Putin won\u2019t be stopped in Ukraine until we understand his 1,000-year-old obsession",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGtfWndid0JOemp2cnB6NVo1X0p0LU5lRjROVTN2QW1weWZKSXk5Q0hIQVhQR2lGSk9XbFFFNnZBRl9CdXdmSVp2cHVzQm02MW5abWVPMzJKTElqYU5KTFBiU04yWXRCWmw5UDN5UHNlcmhmbVA3cjF4Q0laMExnbnJpVjNlM0thRnFJMVlR?oc=5",
-     "source": "The Telegraph",
-     "published": "2026-11-09T07:00:00+00:00",
-     "summary": "Putin won\u2019t be stopped in Ukraine until we understand his 1,000-year-old obsession&nbsp;&nbsp;The Telegraph",
-     "image": ""
-    },
-    {
-     "title": "General Staff: Russia has lost 1,609,380 troops in Ukraine since Feb. 24, 2022",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3ZOUERoZkIyRVExZlJrOXFZNHphNW52WnFRX0JBcWJRLXp6WTE5SzFIUjhYRGRJTlhTUU9QSFZGQmJRT2lVd3hTRFBvV01IYlFrWnRZbTBSN1h5aENLaXl6cUlXNDkyZTFhcHl4N01mTkRTb3Z1MWptQ1ZPQnVnX29mNGxWRnlaUzA4X2lITHpUTjlaZWNRQzlvYThrdGxST25ndi16Yw?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-09T06:54:42+00:00",
-     "summary": "General Staff: Russia has lost 1,609,380 troops in Ukraine since Feb. 24, 2022&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T08:14:22.130642+00:00",
+   "fetched_at": "2026-11-09T08:44:25.324703+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Commentary: Acton win heralds new policy era for Ohio",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmdPeVZqcTh5SHUwcEw2dUF3NTVlb3ZQRGdScDRvX0RLcFNTaHhwSnZvejd5MEZ3ZDNHRjd1b1NELV85VGtsRXdrbkRYVnZMenNXS05udTVKWUV1WE90QVRpeVl4S3lfOWl6RWVoVmtyMjBjSWNISGRXTnQ0ZXgyTThiNTJLaGhOd1JnMw?oc=5",
+     "source": "Ohio Capital Journal",
+     "published": "2026-11-09T08:34:03+00:00",
+     "summary": "Commentary: Acton win heralds new policy era for Ohio&nbsp;&nbsp;Ohio Capital Journal",
+     "image": ""
+    },
+    {
+     "title": "Trump admits deportation policy was \u2018too tough\u2019 despite promotion of Stephen Miller",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUEwX0dLYVM0YWRDdkQtM05Iam00dklQbWFzTEhfLWFRS0ZiRkNHNUd6REVBdW93NlprWlFQMXVaRDM2cmk1WjhWbVl0c21vZk5pcG0zVFJfSDVydWMxVVJtQzlTQVBMNEhrU3h2bHZQUGdZcngxanpHTjMyRGhfLUxrXzRfelBndDN0bDc4aEd1WGs2QVdBeWVLMWRJZjlFUVM3TWxoeHF2d2RkbzlleWluUnJ1Zw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-09T08:15:00+00:00",
+     "summary": "Trump admits deportation policy was \u2018too tough\u2019 despite promotion of Stephen Miller&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
     {
      "title": "The 2026 ICJ Election: The UK Returns, but Who is Out?",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGYxaTVqMnhhQVNXOUVCdXFEQWx6VmtYbFNwWmhmdkx3VU9BbXhWUXVTMWc0VXRKejRoSVk5ejFiX0EyVmF2c09mNThubmxQQW5qR2dHaDg0Uk9hUkV0WjRZci1fNXhST3hhMTFUM0VnWDBUdS02cEpDZkNmcGRnRE9LQQ?oc=5",
      "source": "EJIL: Talk!",
-     "published": "2026-11-09T08:10:06+00:00",
+     "published": "2026-11-09T08:09:44+00:00",
      "summary": "The 2026 ICJ Election: The UK Returns, but Who is Out?&nbsp;&nbsp;EJIL: Talk!",
      "image": ""
+    },
+    {
+     "title": "\u2018A global political awakening\u2019: how gen Z protests are sweeping the world",
+     "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
+     "source": "The Guardian",
+     "published": "2026-11-09T08:04:44+00:00",
+     "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapesIn Brazil, they rallied online by the millio",
+     "image": "https://i.guim.co.uk/img/media/d8c802e22e952ef416894c5d0a6ecca11d13b496/459_0_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=92a98b53493301af4a38acb36c24d9e4"
     },
     {
      "title": "Trump says deportation crackdown was 'too tough' after midterm setback",
@@ -296,35 +320,11 @@
      "published": "2026-11-09T06:55:00+00:00",
      "summary": "Election Watch: Polling misses as blue wave hits Southern New Mexico&nbsp;&nbsp;Santa Fe New Mexican",
      "image": ""
-    },
-    {
-     "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
-     "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
-     "source": "NPR",
-     "published": "2026-11-09T06:20:44+00:00",
-     "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
-     "image": ""
-    },
-    {
-     "title": "Trump says deportation policy was 'too tough' for voters",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWNKMzdtQlg0elI0YWFqdEg5TXZ1ejI0cnA1WW1qaFRFeFRsVmFiTWZ1dWdhOWQySkRjbkFpeUxfa1JQNnJaS2tIRGZwX1BETnZESnpncXVuY3dSUGktbS0tRmlVM1hiU0pxWk0yV3RJalkwYzNqR2ZVQmdDTjVROHZJUGpMOXFxYW1EaFdYcmMzbXhHMy1nLXE4clpKcmk2VWV5M3JIYXpibzTSAasBQVVfeXFMTUtDdnp0cVNtLXpjeWE2cXFyTmI5VVNPUTU1eEhDSVFxZ2t1UkRwTWlROGxJTHVZLUg0b1d1RnNobFdwY29RUXhSeXd5YVJVS01VM3hQbWRWSFpqOGZlUlpaMmd3R0lialZDQnU4YU5sNjdnVlVkdElwU0NNWlQ1NlRkN1B3SVlEUVB2Mm9nUDM5bFg3SmdvVnloZ3NaT1dGMGhnUXZWbkxNR3cw?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-09T06:16:53+00:00",
-     "summary": "Trump says deportation policy was 'too tough' for voters&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "France\u2019s 2027 presidential election: RSF unveils 10 priorities for press freedom and calls on candidates to act",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3gxRzl1Zm5mdHVaaW5xN09XRmJBeU9SdzF2NWNDZ3hLU1I5QzdQRUIwbEpqUUZDTlJQakJNMm1aNlNJZUowN3RPQ0h6THJnS05tTWNBaGlBczBZN3kwdnZoZEZZU0lJR1pvbERlT1RGVVprWGFpU0pib1BfUEdtNlpvTmtHOVhOZ081NkJDNnJ3XzRIQ2I2ZjNvSWFtdWw5ak4zdmVmblVLM3pWSmtrQ2JyZlRkZw?oc=5",
-     "source": "RSF",
-     "published": "2026-11-09T06:03:47+00:00",
-     "summary": "France\u2019s 2027 presidential election: RSF unveils 10 priorities for press freedom and calls on candidates to act&nbsp;&nbsp;RSF",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T08:14:22.130645+00:00",
+   "fetched_at": "2026-11-09T08:44:25.324706+00:00",
    "stale": false,
    "items": [
     {
