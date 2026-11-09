@@ -1,17 +1,73 @@
 {
- "generated_at": "2026-11-09T23:17:02.582456+00:00",
+ "generated_at": "2026-11-09T23:47:05.945470+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-09T23:17:02.582429+00:00",
+   "fetched_at": "2026-11-09T23:47:05.945441+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T23:45:14+00:00",
+     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T23:29:01+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T23:28:53+00:00",
+     "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
+    },
+    {
+     "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+     "source": "The Guardian",
+     "published": "2026-11-09T23:25:31+00:00",
+     "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to \u2018see out his days\u2019Get our breaking news email, free app or daily news podcastBeaconsfield mine",
+     "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=ee792f71608cbef7e8f8257b3b1cd16a"
+    },
     {
      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-09T23:01:32+00:00",
-     "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f6c/live/69536370-dc90-11f1-93e1-3b657b665bcf.jpg"
+     "published": "2026-11-09T23:20:29+00:00",
+     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg"
+    },
+    {
+     "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+     "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T23:15:19+00:00",
+     "summary": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
+     "image": ""
+    },
+    {
+     "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+     "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+     "source": "The Guardian",
+     "published": "2026-11-09T23:14:17+00:00",
+     "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employeesNvidia\u2019s board needs to do some succession planning \u2013 sharpishDonald ",
+     "image": "https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=140&quality=85&auto=format&fit=max&s=08fae72606a752db6b7d1434d2b8d7fa"
+    },
+    {
+     "title": "Trump defends Nvidia\u2019s Huang after calling about spy scandal",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T23:13:44+00:00",
+     "summary": "Trump told reporters he believes Nvidia\u2019s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
+     "image": ""
     },
     {
      "title": "Trump says US war in Iran \u2018effectively over\u2019 as he plays down escalation concerns",
@@ -38,22 +94,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5518/live/8dd96f20-dc8e-11f1-a701-fddedf244c16.jpg"
     },
     {
-     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T22:44:38+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
-    },
-    {
-     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T22:34:14+00:00",
-     "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
-    },
-    {
      "title": "France blames Iran for cyberattack on supermarket fridges",
      "url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
      "source": "France 24",
@@ -62,11 +102,11 @@
      "image": "https://s.france24.com/media/display/37a1d2ea-dc8a-11f1-b381-1beafce15fea/w:1024/p:16x9/EN-20261109-230143-230334-CS.jpg"
     },
     {
-     "title": "Trump calls Iran war \u2018effectively over\u2019 after talks with Qatar PM",
+     "title": "Trump says war on Iran \u2018effectively over\u2019 after talks with Qatar\u2019s PM",
      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-09T22:31:19+00:00",
-     "summary": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested a close to the war.",
+     "summary": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested an end to the war.",
      "image": ""
     },
     {
@@ -76,53 +116,69 @@
      "published": "2026-11-09T22:30:49+00:00",
      "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spo",
      "image": ""
-    },
-    {
-     "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
-     "source": "The Guardian",
-     "published": "2026-11-09T22:26:31+00:00",
-     "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to \u2018see out his days\u2019Get our breaking news email, free app or daily news podcastBeaconsfield mine",
-     "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=ee792f71608cbef7e8f8257b3b1cd16a"
-    },
-    {
-     "title": "Nvidia: honeypot may have been aimed at 'lobbying Jensen Huang to lobby the US government'",
-     "url": "https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government",
-     "source": "France 24",
-     "published": "2026-11-09T22:17:02+00:00",
-     "summary": "Nvidia \u2060and \u200bChief \u200bExecutive Jensen Huang were \u200bsued \u200con \u2060Monday \u200cin \u2060a proposed class \u200baction accusing \u200cthem of \u200cdefrauding \u200bshareholders by concealing Huang's ties \u200bwith \u200ba \u200bsus",
-     "image": "https://s.france24.com/media/display/fd78160c-dc88-11f1-88e7-a575454bc579/w:1024/p:16x9/EN-20261109-223117-224317-CS.jpg"
-    },
-    {
-     "title": "Pope meets with clergy abuse survivors in Argentina",
-     "url": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T22:14:37+00:00",
-     "summary": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
-     "image": ""
-    },
-    {
-     "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
-     "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T22:13:29+00:00",
-     "summary": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates.",
-     "image": ""
-    },
-    {
-     "title": "Saudi Arabia reports new attack on key East-West pipeline",
-     "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T22:10:52+00:00",
-     "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-09T23:17:02.582442+00:00",
+   "fetched_at": "2026-11-09T23:47:05.945456+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-09T23:46:31+00:00",
+     "summary": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-09T23:29:01+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T23:28:53+00:00",
+     "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
+    },
+    {
+     "title": "Ukraine war: 400,000 Russian deaths, the toll Vladimir Putin tried to hide",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjg5SVl0M01US3RVYlJDNDFKRENxWFBCN0FzUEFmdmxSTWoxcUxpdGJEbWtVVWlwR1JGZkpkWW5oNkNqOXB4WEV4Szh2a2R1VE1Kb0NOWW0zUHpKTXVVU3hKMFdodXBybnJRUkV2TlZsM3dmaWF6Q3FheU4wcVNvck1FS3daMHpERElMTTRCeGdMWG80ZDZUT0tsVGdDc3AyM081SGhNTXE5cVg4LTZNYXhpY2x6VTVJLTVodU41U1FDcUpUVS1NS2VQdDFqTUhUSXJBMTBha2p0RVE2eTJkRk8tanREeG9DU2tzaHhmbHJjYmk0?oc=5",
+     "source": "Le Monde.fr",
+     "published": "2026-11-09T23:27:05+00:00",
+     "summary": "Ukraine war: 400,000 Russian deaths, the toll Vladimir Putin tried to hide&nbsp;&nbsp;Le Monde.fr",
+     "image": ""
+    },
+    {
+     "title": "US sees progress toward bringing end to war in Ukraine \u2014 Trump",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Rc1pkcHNpUXpRQ3U1MHdEZmhST3EwUlgwYkpadEZZQVZ3Zm4wbEQ0V1dUbjltdDJDdVdlbFh0ejlXM2F4RXE0MFV3MjRRVTJXb0lIVkJRNl8?oc=5",
+     "source": "TRT World",
+     "published": "2026-11-09T23:26:31+00:00",
+     "summary": "US sees progress toward bringing end to war in Ukraine \u2014 Trump&nbsp;&nbsp;TRT World",
+     "image": ""
+    },
+    {
+     "title": "US seeing 'strong inclination' Ukraine war to end - Trump",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zX0Z1ZjRZQmFnSjlIckJ2elpISW8xZ0FFc0VpQWxjRGluazRDOE16bnp6NGd2bF9XSkJLNWpQbFItdVhQdDdWeVhFRVN0cENZbm5Zel8yV1BhSTMwTWxfdUp1UXNrMHVQbVdieEdzc082NU5hN2c?oc=5",
+     "source": "RTE.ie",
+     "published": "2026-11-09T23:26:15+00:00",
+     "summary": "US seeing 'strong inclination' Ukraine war to end - Trump&nbsp;&nbsp;RTE.ie",
+     "image": ""
+    },
+    {
+     "title": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-09T23:15:43+00:00",
+     "summary": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 10, 2026 from Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56TF92cFBBZUxSQzRERmxqZEZFTnNXV2NUSDJkb1I1Wk9ScE1lRGhpcmdiNjVGcnhwMGtFMHV5aEhxdkFEMl9qSkhGS2J2Zw?oc=5",
@@ -148,22 +204,6 @@
      "image": "https://s.france24.com/media/display/20a94370-dc8f-11f1-a9ca-1beafce15fea/w:1024/p:16x9/EN-20261109-233324-233828-CS.jpg"
     },
     {
-     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-09T22:44:38+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
-    },
-    {
-     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T22:34:14+00:00",
-     "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
-    },
-    {
      "title": "France blames Iran for cyberattack on supermarket fridges",
      "url": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges",
      "source": "France 24",
@@ -172,59 +212,75 @@
      "image": "https://s.france24.com/media/display/37a1d2ea-dc8a-11f1-b381-1beafce15fea/w:1024/p:16x9/EN-20261109-230143-230334-CS.jpg"
     },
     {
-     "title": "Trump calls Iran war \u2018effectively over\u2019 after talks with Qatar PM",
+     "title": "Trump says war on Iran \u2018effectively over\u2019 after talks with Qatar\u2019s PM",
      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-09T22:31:19+00:00",
-     "summary": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested a close to the war.",
-     "image": ""
-    },
-    {
-     "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-     "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-     "source": "NPR",
-     "published": "2026-11-09T22:30:49+00:00",
-     "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spo",
-     "image": ""
-    },
-    {
-     "title": "Trump says US is seeing progress toward ending Russia-Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWwyVTgwdF9RMnpuLTRqb29wSUNEZmhyMUdnSmZmZWtsbElQRTJDbEg0X2NmczRpRnpkanctYzV1N1FTS0IwSVUzQWNad19JVTFnRlp5RFVvTmxRREVKdTVPeUpsR1NQVTJHandBN1A4YmNuQTExLXF5aFdoUEtTbzR5aEFldkRjQ2IycTFYd1o1Rlhxc21SaWR3QkdPbzVjaUxwaF9Gd3RTdEk?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-09T22:15:44+00:00",
-     "summary": "Trump says US is seeing progress toward ending Russia-Ukraine war&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Russia, Ukraine envoys to talk ceasefire monitoring, territory",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmpDRERmaFpSd0N3MkxpZjE5anpGWWlnRUlTbkhncHFISk5zYzBEdDRKc0dIYW5iVWRyYkpMeWNrc2l3NTY4SUJSOGlzMkwtS3hSRWVfTndsTHNiN0JPeHA2VlVvMWFkVEdTd2ZrdHRLNTBfR1oxeG9tQ2ZUd3hnbk5xbEFQMW5HdWFpUVhiUHd3VkQ4ZEt5bnduWQ?oc=5",
-     "source": "The Japan Times",
-     "published": "2026-11-09T22:09:00+00:00",
-     "summary": "Russia, Ukraine envoys to talk ceasefire monitoring, territory&nbsp;&nbsp;The Japan Times",
-     "image": ""
-    },
-    {
-     "title": "Zelenskiy says Ukrainian battlefield successes strengthen Kyiv's position in talks",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTNKamlkSnJ6NEcySjNHQmxfV201UWQyZ2Z0X0tnV1kxek92UW9EZktBMzR1eDZrQmJiUHVMU1kxVGJiNHZiZHpSN3hQOU12TnU2OXdPYVJrZXJZMUgzZk1Sd0RVYVlPODVxZVh5dUFwSXBCTk9DVHhUSnhQNUlseFVqaFVaNElpRUt5RnphZENYNUpL?oc=5",
-     "source": "AOL.com",
-     "published": "2026-11-09T22:06:00+00:00",
-     "summary": "Zelenskiy says Ukrainian battlefield successes strengthen Kyiv's position in talks&nbsp;&nbsp;AOL.com",
-     "image": ""
-    },
-    {
-     "title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-09T21:57:40+00:00",
-     "summary": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi&nbsp;&nbsp;The Washington Post",
+     "summary": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested an end to the war.",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-09T23:17:02.582445+00:00",
+   "fetched_at": "2026-11-09T23:47:05.945459+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T23:45:14+00:00",
+     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+     "title": "3 Environmental Wins from the Election. What Must Happen Next.",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZW9VRjBHem55b1pycVY0ZGE2VmxZNXFLV3pjLVNwTTdIQVk1bFBjVS1GSW1IdmFfZENuNy1kMlRVR0FQSFFuTnRYbXRCWTVYempDUEl1eW90bUtOYlJEeEFuUDhVSmhCbWM5RzJoVkRCV0o0RHRqdU5XUkl2a2tVV1hmYXNuRjl3eU81NV9JMmxmemNjbzFCeQ?oc=5",
+     "source": "Earthjustice",
+     "published": "2026-11-09T23:42:11+00:00",
+     "summary": "3 Environmental Wins from the Election. What Must Happen Next.&nbsp;&nbsp;Earthjustice",
+     "image": ""
+    },
+    {
+     "title": "WA state schools chief won\u2019t seek re-election in 2028",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWZtOWJKRUNWZHJUZk5rdXpvQjNnb205aFU5WXpBdDEyUDFUMlliLThSOUVtSk1aX214MDZHeldFNDMtdGZ4QjI5MjhITlllcGFjQjFseFBRekJ6WHVhdUFoVE1MWEd3MTM5LXBGVmdscEJic2M4VzdLcEVPX3djeGdaUnU3V1NlWUV5UVZSNURodFQxdHozRHNSdVVBSnNSeWc?oc=5",
+     "source": "Washington State Standard",
+     "published": "2026-11-09T23:37:56+00:00",
+     "summary": "WA state schools chief won\u2019t seek re-election in 2028&nbsp;&nbsp;Washington State Standard",
+     "image": ""
+    },
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-09T23:20:29+00:00",
+     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg"
+    },
+    {
+     "title": "Officials Say They Did A \u2018Real Good Job\u2019 On Election Day \u2014 But Alders Rip Ballot Shortages, Long Waits",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRUtQRmJFTGo5bXRqUWpRa1dkdkRyU0wyaGJ1SFlPTU8zZUljbE9lNFZLOWp0eXFNSG1QQjh2dzBtaU9mQjAybDhFTWZ1Qy1aVXdLVjUyYkpyNFVfTE5OdUtTXzlOZHJGdGRBMDc1RVREeTdaTWpmLW1CSnpWWnc1YW5xLUNVM0cxT3I3Und5elhyRk5BUGR1aF9YUkRKLWJGX1c3eEJJX2IzQXgzajBScFlKTUZBRWwzS0dtS2xMVExmMlVpa21ieXZvWTlHd092eGxNSw?oc=5",
+     "source": "Block Club Chicago",
+     "published": "2026-11-09T23:19:07+00:00",
+     "summary": "Officials Say They Did A \u2018Real Good Job\u2019 On Election Day \u2014 But Alders Rip Ballot Shortages, Long Waits&nbsp;&nbsp;Block Club Chicago",
+     "image": ""
+    },
+    {
+     "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+     "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-09T23:15:19+00:00",
+     "summary": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
+     "image": ""
+    },
+    {
+     "title": "Thousands of North Idaho votes weren\u2019t reported. Could they change election results?",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnd6d0E2M0dKQjRRS3ZFTmc5YzJFdGl1YndkZHFQMjJDcFRMbzRHYURPZVJ4OWR2MzNydmktdzRSaDFLRmdDeVhERkVQczRiZVVncTFNLU1GWkRLNTdBNV9CUHE0V3d4RXFKZjdoa0ZsZnN3XzNSajR0ZnBKVjJwaDdpY0dlTkF0Q3NlUk5GZw?oc=5",
+     "source": "Idaho Statesman",
+     "published": "2026-11-09T23:09:45+00:00",
+     "summary": "Thousands of North Idaho votes weren\u2019t reported. Could they change election results?&nbsp;&nbsp;Idaho Statesman",
+     "image": ""
+    },
     {
      "title": "Secretary of State to investigate Shelby County Election Commission",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOWFNTHpLcUxHdTdNcW5zSGxkVEF3VGZwekdfbV9MTlZtQXVkd2NDZXgtb19YZ2pncjM5ekZPclpGYkVYcnJjMnE5dHZnOGFVSDhIUU1kRWZGcnkwemJpSjN2a3Z4Z2ZPVFU5djRRNUp6V1pLWC1Cc3piRFdyU2VscFNCMU9sVWUzLW1rUUFieWdGbmthR05aMUNETzN6Rm5iRncwY3ZuOU56cUw4NjduajVpaDhPYWV6T3pYTjFmNzN2M3UzaDhZc3oyb21TeDJLSldhVGZ5UFhQVlFkQV9VNmFTblI4QnFwWEdOWXhOdnBLZDZLM1Z0eGd1SXI1Zw?oc=5",
@@ -234,20 +290,20 @@
      "image": ""
     },
     {
-     "title": "Trump tells \u201960 Minutes\u2019 immigration policy \u2018too tough,\u2019 open to making a deal with Democrats",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzJfWmNkcFVqUzNQSDdtVEIwaHVtQ0tCSGtYRHozVWExUmIyaEV6N18zT2xiUWlDdFVyMFNWZ2RWeEdGWE1IS3dCN0RMQWxhbGdZWUlDV1o4QnoySWdnbktESU9sTEd0Y1lWRDVpZXd3VkJrUnE5a2NCX21oZE9wR1BNaE9icFYxazlyQTNZd1V6SFhWaGZhRFoydFVHZlBxZHVlOHNDU3h6VzBraHh0UDJfWQ?oc=5",
-     "source": "OSV News",
-     "published": "2026-11-09T23:06:11+00:00",
-     "summary": "Trump tells \u201960 Minutes\u2019 immigration policy \u2018too tough,\u2019 open to making a deal with Democrats&nbsp;&nbsp;OSV News",
+     "title": "Rally in Peterborough celebrates midterm election turnout, results",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1RSMVNldkRrWUlucnk0TlFyNXY2Y1RwZ2FzSm13Z3MwckdJR1dXSGFiaHJjZmplMWdia2pLcDZXM1BjMWZ6TGdnemZ4ZXhiWXYzWjktNUJpeGtFRnlyV0ZtaGdFYUNFRjM1M0wwZWFtODI4S1BzQWYxbmJMZjNzSUx3dklIS01zb1pUcks0WThGc21seTRZZ1hPRXAyVzBSeFJ4YzhJeFQtZw?oc=5",
+     "source": "Monadnock Ledger-Transcript",
+     "published": "2026-11-09T23:00:00+00:00",
+     "summary": "Rally in Peterborough celebrates midterm election turnout, results&nbsp;&nbsp;Monadnock Ledger-Transcript",
      "image": ""
     },
     {
-     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T23:01:32+00:00",
-     "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f6c/live/69536370-dc90-11f1-93e1-3b657b665bcf.jpg"
+     "title": "In search of post-midterm message, Trump waffles on trusting election, immigration policy",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWlmdkM4Mnp1SVVHUEdWQWdNS1BfLVVET0JkWEd6YXA1ZVRfdHVXdFJ2UDBOdHBhRmdmckVhUW9DOTN2eEpIUDdaaklvd19LV2FuMnVZYjdYWGRkMTllSGw4VmpYYXB6UmxnU3RNSFk5a2V6aEpOekVZX1prWmlUbkctNXZlQjYyNGJ1NWYyeVJFTUtHZlZWVDE1RjB3T0NGZE5ZeHBNWElyX2plcHQzZGdpV01TcGdOb3hBRzhzYTN6UllsRDQ1T3Q3Tzluc1o4TFVN?oc=5",
+     "source": "Los Angeles Times",
+     "published": "2026-11-09T22:56:00+00:00",
+     "summary": "In search of post-midterm message, Trump waffles on trusting election, immigration policy&nbsp;&nbsp;Los Angeles Times",
+     "image": ""
     },
     {
      "title": "Election investigation underway in Georgia after 388 late votes flip House lead",
@@ -264,67 +320,11 @@
      "published": "2026-11-09T22:46:27+00:00",
      "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5518/live/8dd96f20-dc8e-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "Legal fight escalates over physician\u2019s sanctions for past drug use",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd00xTUFrS2ZpekVEdkNEblUxd3VpajB0ekJLTGxzRFdsa0VwMkpjUGNyVVhLaWpqNEZsQmZmR3FPOWtZNG5TcUFmbjFJUElIVmZfeEVWWXJnNU1qTWduaEtOWk1QQWhCVkJWVGpPOVJUdkNJLXhuUFRVTG13RnUwTzJPczFuZjZiOFA3dXMtMXZNbXFQVFl6QmlpeVRGQWNTLWxYOXQyTW4ta3ZQbGc?oc=5",
-     "source": "Iowa Capital Dispatch",
-     "published": "2026-11-09T22:40:44+00:00",
-     "summary": "Legal fight escalates over physician\u2019s sanctions for past drug use&nbsp;&nbsp;Iowa Capital Dispatch",
-     "image": ""
-    },
-    {
-     "title": "In the News: Yohuru Williams on the 2026 Midterm Election",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTY0ZlV6cVZrYm5uMUdCX3ZiNWpxLW4zWjh1S1ZTU2hMamczV0ZFeGU5WFl0cC1KcUsyRzFHbVBXYl9WaXFma012TmIzN0NjS05nbHFqa0thQXU3ck53N2FmbGY1S2NEeXBrYkp3dVZxSHBuT3JwUE1Fem1GbmM4Zm9pbTBZU3p1U0pZ?oc=5",
-     "source": "Newsroom | University of St. Thomas",
-     "published": "2026-11-09T22:36:51+00:00",
-     "summary": "In the News: Yohuru Williams on the 2026 Midterm Election&nbsp;&nbsp;Newsroom | University of St. Thomas",
-     "image": ""
-    },
-    {
-     "title": "Election recount planned in North Idaho county that didn\u2019t report 2,300 ballots",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaHd2TG13LWR4Y2RNeGtXeUNnTGREU1d2TWlaMHlRS3JkR29JVldiTC1vaWV0cUV3T3J2TF9oME01UmdIc3NsSE1Xbkh5V25sM2thM1RENEtpbGxRdXZpdkVybDVUOG13RmtpeWJQZjlRb2JSamxlQ3QteTFrMjJoVDkyS2ZteXF1SEFmQlhjUzZiUG56MVlOZEdMTHptWE9ZWlhIUWw0OUdDb1VTYXlNbHgwNEFINjE4?oc=5",
-     "source": "Idaho Capital Sun",
-     "published": "2026-11-09T22:36:14+00:00",
-     "summary": "Election recount planned in North Idaho county that didn\u2019t report 2,300 ballots&nbsp;&nbsp;Idaho Capital Sun",
-     "image": ""
-    },
-    {
-     "title": "Latah County to hold recount after thousands of ballots went unreported on Election Day",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUI2RFV0SmJPdnFWZHpVMUtoT3ZyOHVvVEtBbU8ybGJzSHBCY0FFN0xLTlVRcWw5emFjam1DdkZITzQzVlV1QlVtcWpocVd5RV84ejJSWVg2MlF4dXU5QWtFMi03azl6QXEzeFZycXN3VGtOX3dlLXFLeXk4REdGcVpTQmhFcFc2VmJUV3pqVkN4S05oS1pqSTZKV0p6MElSSW42MkdIMEpmXy1uRUh2TGpoR3FQYnhJck4zUW1n?oc=5",
-     "source": "Idaho Education News",
-     "published": "2026-11-09T22:35:51+00:00",
-     "summary": "Latah County to hold recount after thousands of ballots went unreported on Election Day&nbsp;&nbsp;Idaho Education News",
-     "image": ""
-    },
-    {
-     "title": "CyRide bus system changes firearms policy for Ames riders",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRHBOUXVmbUFiWjREclVjOXMzVHBHMVRSeVpnUE1Td0JxYlNFd1BvVElEX3hHLTJoUjBNak5wSjRCWjNpWE9aMllBQzl4WGhhT3hTcC1JTl9WYWNzTnhpd2F4UEtoTDBsazlxM3Rxc1ZaTnlYZzlVU0RXWTYwVkEwM2FfOGV0RTBtQ0Y2VFZmNFBYTzJqYk5WV1dWYndzemVmcS13?oc=5",
-     "source": "Iowa Capital Dispatch",
-     "published": "2026-11-09T22:30:38+00:00",
-     "summary": "CyRide bus system changes firearms policy for Ames riders&nbsp;&nbsp;Iowa Capital Dispatch",
-     "image": ""
-    },
-    {
-     "title": "Colom calls out election raters for writing off his Mississippi Senate campaign",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaUJDMXlIQTltb2Q3NTAzZW5pUmJnWXNiUjhmZnZDY1VhbDZ2Z3pUSVNrblJXa09qZG1IcHB2Y0RIcjVUal9qWEFhQTJoWV8xcXhkVVFuSWkzeGlXblptd29rYkVpUkVENDZPVUdVQ0VLMlZ4RF90T1c0QkhydVlFOGxyMkpBTVXSAYwBQVVfeXFMTk5yVzlSTnJlOVlRalRLUGFrU01qS2VBQm9qeE4xUFF0RVBSVTlBQnVVaFZRV2szY0hEdUtJU2xpVmlQaEdMRnBDSnZUbFZvMEhfOGEyLWx1Umx5cGllY1U0OEJBd3dEQU5EdEJPZTYzRW9jak9JYjU1YlRHMXFsQkVBcVFQdnA1V0ZhTEc?oc=5",
-     "source": "The Hill",
-     "published": "2026-11-09T22:27:00+00:00",
-     "summary": "Colom calls out election raters for writing off his Mississippi Senate campaign&nbsp;&nbsp;The Hill",
-     "image": ""
-    },
-    {
-     "title": "Investors Brush Off Election, Selloff and Even Nvidia\u2019s Spy Scandal to Buy Stocks",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzZBYnFiMzhxMGpQVVRoMWdFdFVIWGFfLS1LNC1JXzBtWWNiRnpDVEhnN3ZpVXZ3SmN3Qmw5RXhyVDFRWGsyMG5DbXk2R1JtMGlYUWJYSUs3STNWRk5iUENQY295bDViSHQ5aXNTMzZ4QmU3a0w3ak53SUtDVU5BMXFpNUxObGY1eGZtTDlHRlR1ZDh2TGJEMzJ5bUU0VDJzQ3VYOHBBZXNjV1Z4UTc3aWZERE9lbzlYa0d4cDB1eFE?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-09T22:22:00+00:00",
-     "summary": "Investors Brush Off Election, Selloff and Even Nvidia\u2019s Spy Scandal to Buy Stocks&nbsp;&nbsp;WSJ",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-09T23:17:02.582447+00:00",
+   "fetched_at": "2026-11-09T23:47:05.945461+00:00",
    "stale": false,
    "items": [
     {
