@@ -1,18 +1,10 @@
 {
- "generated_at": "2026-11-10T15:49:38.134239+00:00",
+ "generated_at": "2026-11-10T15:49:51.736448+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T15:49:38.134222+00:00",
+   "fetched_at": "2026-11-10T15:49:51.736424+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Poland gunman fascinated by Norway\u2019s neo-Nazi mass killer Breivik",
-     "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T15:36:49+00:00",
-     "summary": "The suspect in the deadly Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
-     "image": ""
-    },
     {
      "title": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
@@ -116,11 +108,19 @@
      "published": "2026-11-10T14:46:50+00:00",
      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
+     "url": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T14:45:22+00:00",
+     "summary": "Eight articles brought by a Republican lawmaker accuse the Pentagon chief of waging unlawful wars on Iran and Venezuela.",
+     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T15:49:38.134230+00:00",
+   "fetched_at": "2026-11-10T15:49:51.736435+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T15:49:38.134233+00:00",
+   "fetched_at": "2026-11-10T15:49:51.736439+00:00",
    "stale": false,
    "items": [
     {
@@ -234,11 +234,11 @@
      "image": ""
     },
     {
-     "title": "Poland gunman fascinated by Norway\u2019s neo-Nazi mass killer Breivik",
-     "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T15:36:49+00:00",
-     "summary": "The suspect in the deadly Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
+     "title": "OPB\u2019s First Look: A year of the camping ban",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVHF5dzI5eUZsOUd2My10cjlRNXdZb0gzVUlxeldkcU9MQUJWVWxQVHdGSThpbjNjUWtOTTFEMV92MmFBWklCOUk1aUNqMGxqNEUxT00teFp2NGhsWnp6UGlEODgyQ2MxNWJTRnoxQUE1TzkzNFc4TUZ3TQ?oc=5",
+     "source": "Oregon Public Broadcasting - OPB",
+     "published": "2026-11-10T15:30:32+00:00",
+     "summary": "OPB\u2019s First Look: A year of the camping ban&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
      "image": ""
     },
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T15:49:38.134234+00:00",
+   "fetched_at": "2026-11-10T15:49:51.736441+00:00",
    "stale": false,
    "items": [
     {
