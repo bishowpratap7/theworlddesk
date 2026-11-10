@@ -1,20 +1,68 @@
 {
- "generated_at": "2026-11-10T17:20:05.098123+00:00",
+ "generated_at": "2026-11-10T17:50:09.358971+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T17:20:05.098095+00:00",
+   "fetched_at": "2026-11-10T17:50:09.358944+00:00",
    "stale": false,
    "items": [
     {
      "title": "Pete Hegseth dismisses Republican\u2019s impeachment effort against him as \u2018a political spectacle\u2019 \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T17:06:48+00:00",
+     "published": "2026-11-10T17:39:02+00:00",
      "summary": "Trump\u2019s defense secretary calls impeachment effort from congressman Thomas Massie \u2018a personal manifesto driven by ego\u2019 as he faces scrutiny for prolonged Iran warSign up for the US",
      "image": "https://i.guim.co.uk/img/media/24e85cbcb6e4a83239901353131b6e104a9eb03e/1686_446_5705_4562/master/5705.jpg?width=140&quality=85&auto=format&fit=max&s=58c56f391effd8df0890b36cd188b87f"
     },
     {
-     "title": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 Europe live",
+     "title": "French police search Ritz, glitzy Al Fayed properties in women-trafficking probe",
+     "url": "https://www.france24.com/en/france/20261110-french-police-search-ritz-glitzy-al-fayed-properties-in-women-trafficking-probe",
+     "source": "\u00a9 Kamil Zihnioglu, AP",
+     "published": "2026-11-10T17:37:35+00:00",
+     "summary": "French police have searched several properties, including the Ritz hotel in Paris, in relation to an investigation into a suspected international network trafficking women for Moha",
+     "image": "https://s.france24.com/media/display/6816431c-7741-11ef-8695-005056a90284/w:1024/p:16x9/AP23244749762165.jpg"
+    },
+    {
+     "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
+     "source": "The Guardian",
+     "published": "2026-11-10T17:30:15+00:00",
+     "summary": "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources sayA substantial expansion of the social media ban for under-16s cou",
+     "image": "https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=140&quality=85&auto=format&fit=max&s=b9f09c7d712884339342ceaa7fe2c23d"
+    },
+    {
+     "title": "First day of Ukraine peace talks constructive, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T17:29:36+00:00",
+     "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Russian naval aggression prompts new defensive initiative with \u2018beer-drinking nations\u2019",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
+     "source": "The Guardian",
+     "published": "2026-11-10T17:26:59+00:00",
+     "summary": "New alliance with the Netherlands and Baltic and Nordic countries comes in response to 41% increase in Russian naval activity around UKRussian naval activity around the UK has incr",
+     "image": "https://i.guim.co.uk/img/media/a9a9e6210a899bfc32f0a19e9d1178d7bb4308e7/0_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=4a8aca1b169c746620704d651457dae2"
+    },
+    {
+     "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
+     "url": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T17:21:58+00:00",
+     "summary": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
+     "image": ""
+    },
+    {
+     "title": "Israeli president warns against repeat election in new Knesset session",
+     "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T17:16:15+00:00",
+     "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
+     "image": ""
+    },
+    {
+     "title": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 as it happened",
      "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
      "source": "The Guardian",
      "published": "2026-11-10T17:05:05+00:00",
@@ -36,6 +84,14 @@
      "published": "2026-11-10T17:02:23+00:00",
      "summary": "Somalia\u2019s former Chief Justice said more than 300 security forces had \u2018militarily occupied\u2019 the Supreme Court.",
      "image": ""
+    },
+    {
+     "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+     "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T17:00:11+00:00",
+     "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/741e/live/b4c42480-dce9-11f1-bf22-25fb7d6062d2.png"
     },
     {
      "title": "US officials seek \u2018final end\u2019 to Russia-Ukraine war, as Abu Dhabi talks set to continue",
@@ -60,79 +116,63 @@
      "published": "2026-11-10T16:53:05+00:00",
      "summary": "Jason Leon Watford said he \u2018snapped\u2019 after verbal dispute with the woman, before allegedly killing her in a cabinA passenger of a Texas-based cruise ship has been charged with murd",
      "image": "https://i.guim.co.uk/img/media/923b73044bb2de6a6425e2de5037873040d324ec/2628_1168_4585_3669/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=162df984a9d5f0b508fd40ff33cbac2b"
-    },
-    {
-     "title": "Kristallnacht' 88th anniversary: Merz says Germany faces historic test over antisemitism",
-     "url": "https://www.france24.com/en/video/20261110-kristallnacht-88th-anniversary-merz-says-germany-faces-historic-test-over-antisemitism",
-     "source": "France 24",
-     "published": "2026-11-10T16:47:50+00:00",
-     "summary": "It has been 88 years since \"Kristallnacht\", the \"Night of Broken Glass\" in Europe, a violent pogrom against the Jewish population across Nazi Germany and Austria, marking a critica",
-     "image": "https://s.france24.com/media/display/6cf0c1e0-dd20-11f1-b39e-695cb59fade5/w:1024/p:16x9/capture-10049112.jpg"
-    },
-    {
-     "title": "Merz accused of \u2018blackmail\u2019 by Slovak PM after demand for Ukraine aid in EU budget",
-     "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
-     "source": "The Guardian",
-     "published": "2026-11-10T16:44:27+00:00",
-     "summary": "German chancellor has signalled he will block budget with no aid deal, complaining that burden is \u2018carried mostly by only a few member states\u2019Friedrich Merz has signalled he will b",
-     "image": "https://i.guim.co.uk/img/media/823635c4e546870d84ad7228dcb95c9f59bc5629/398_0_5949_4760/master/5949.jpg?width=140&quality=85&auto=format&fit=max&s=6237de79d5955f7dc0202e70c7de73ff"
-    },
-    {
-     "title": "US Pentagon chief Pete Hegseth calls impeachment moves 'a farce'",
-     "url": "https://www.france24.com/en/video/20261110-us-pentagon-chief-pete-hegseth-calls-impeachment-moves-a-farce",
-     "source": "France 24",
-     "published": "2026-11-10T16:43:39+00:00",
-     "summary": "US Defence Secretary Pete Hegseth on Tuesday, November 10, called an effort to impeach him over \u200babuse of power in the Iran war a farce and sabotage that plays into the hands of ad",
-     "image": "https://s.france24.com/media/display/7e5c890c-dd28-11f1-a6c4-3f371022a770/w:1024/p:16x9/capture-e7e447f9.jpg"
-    },
-    {
-     "title": "Who exactly is Pete Hegseth, the Pentagon chief facing an impeachment bid?",
-     "url": "https://www.france24.com/en/video/20261110-who-exactly-is-pete-hegseth-the-pentagon-chief-facing-an-impeachment-bid",
-     "source": "France 24",
-     "published": "2026-11-10T16:41:45+00:00",
-     "summary": "US Defence Secretary Pete Hegseth on Tuesday dismissed the impeachment effort against him as \"a political spectacle\". He made the comments a day after Republican Thomas Massie laun",
-     "image": "https://s.france24.com/media/display/a5d672ce-dd21-11f1-b255-695cb59fade5/w:1024/p:16x9/2026-11-10T144512Z-1883253732-RC22LOA55V22-RTRMADP-3-USA-HEGSETH.jpg"
-    },
-    {
-     "title": "French students vow to keep up protest pressure for better learning conditions",
-     "url": "https://www.france24.com/en/video/20261110-french-students-vow-to-keep-up-protest-pressure-for-better-learning-conditions",
-     "source": "France 24",
-     "published": "2026-11-10T16:40:39+00:00",
-     "summary": "France has been buffeted for months by street protests. They began in September \u200bwith students \u200cdemanding the renovation of school buildings, more teachers and \u2060university reforms ",
-     "image": "https://s.france24.com/media/display/292c5d64-dd22-11f1-9f4f-695cb59fade5/w:1024/p:16x9/capture-2af7e190.jpg"
-    },
-    {
-     "title": "Qatari PM\u2019s Washington visit comes amid renewed US\u2013Iran diplomacy",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T16:39:25+00:00",
-     "summary": "Nayef Al-Nabet discusses the Qatari prime minister\u2019s visit to Washington.",
-     "image": ""
-    },
-    {
-     "title": "Pope Leo XIV visits Argentina in second leg of Latin American tour",
-     "url": "https://www.france24.com/en/video/20261110-pope-leo-xiv-visits-argentina-in-second-leg-of-latin-american-tour",
-     "source": "France 24",
-     "published": "2026-11-10T16:38:00+00:00",
-     "summary": "Pope Leo XIV visited Argentina on the second leg of his South American tour, following a stop in Uruguay. During his visit, he celebrated public Masses, met with the faithful and h",
-     "image": "https://s.france24.com/media/display/8dffda2c-dd22-11f1-bed1-29048b396e03/w:1024/p:16x9/capture-f018111e.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T17:20:05.098107+00:00",
+   "fetched_at": "2026-11-10T17:50:09.358956+00:00",
    "stale": false,
    "items": [
     {
      "title": "Pete Hegseth dismisses Republican\u2019s impeachment effort against him as \u2018a political spectacle\u2019 \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T17:06:48+00:00",
+     "published": "2026-11-10T17:39:02+00:00",
      "summary": "Trump\u2019s defense secretary calls impeachment effort from congressman Thomas Massie \u2018a personal manifesto driven by ego\u2019 as he faces scrutiny for prolonged Iran warSign up for the US",
      "image": "https://i.guim.co.uk/img/media/24e85cbcb6e4a83239901353131b6e104a9eb03e/1686_446_5705_4562/master/5705.jpg?width=140&quality=85&auto=format&fit=max&s=58c56f391effd8df0890b36cd188b87f"
     },
     {
-     "title": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 Europe live",
+     "title": "Denmark Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHlEOW1vdnpWNldvWUpaSW5vZE0tU1ZReXRpRjROSm9uVW4tVTZoTzJ4dmoxck5BNURsVHZEVUQ5YmNmcGktZllNdzhyVXdqRTlCTjNBTlZBdTlWR1dsWEJUTktBSmFGT0pJUlJfSVE4TzRzTWdTY3BtaVhRN3VDVEwxNDRfdmdDcUpDT0djbUhxWUF3RUVnWmNObzM5cnBNTDY4UjhtWFBPcXM3TU5KMy0xaw?oc=5",
+     "source": "timesdaily.com",
+     "published": "2026-11-10T17:30:32+00:00",
+     "summary": "Denmark Russia Ukraine War&nbsp;&nbsp;timesdaily.com",
+     "image": ""
+    },
+    {
+     "title": "Russia Says No EU at Ukraine Talks. Von der Leyen Disagrees",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVzRnaGpueTlTRHlGN0NpTFdlUkhmUDR5M1NFVXpCazEwbll3OTVubUxxdEpMMTdaX3c0T2lBMXAxWnpjWGMybTlkLUt2OXJVRlNCT29JYzVrYzA5aUM3QmxHT05ETUpOcHl5YmJjLTNQc0gxVlhGczBieV9WLU42Z0RPblZlYklV?oc=5",
+     "source": "Latin Times",
+     "published": "2026-11-10T17:29:47+00:00",
+     "summary": "Russia Says No EU at Ukraine Talks. Von der Leyen Disagrees&nbsp;&nbsp;Latin Times",
+     "image": ""
+    },
+    {
+     "title": "First day of Ukraine peace talks constructive, Zelensky says",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
+     "source": "BBC",
+     "published": "2026-11-10T17:29:36+00:00",
+     "summary": "First day of Ukraine peace talks constructive, Zelensky says&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "Russian naval aggression prompts new defensive initiative with \u2018beer-drinking nations\u2019",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
+     "source": "The Guardian",
+     "published": "2026-11-10T17:26:59+00:00",
+     "summary": "New alliance with the Netherlands and Baltic and Nordic countries comes in response to 41% increase in Russian naval activity around UKRussian naval activity around the UK has incr",
+     "image": "https://i.guim.co.uk/img/media/a9a9e6210a899bfc32f0a19e9d1178d7bb4308e7/0_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=4a8aca1b169c746620704d651457dae2"
+    },
+    {
+     "title": "Israeli president warns against repeat election in new Knesset session",
+     "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T17:16:15+00:00",
+     "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
+     "image": ""
+    },
+    {
+     "title": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 as it happened",
      "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
      "source": "The Guardian",
      "published": "2026-11-10T17:05:05+00:00",
@@ -148,20 +188,12 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-     "title": "Ukraine Intelligence Warns Russia Is Preparing Attacks Across the Food Supply Chain",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmlUdUZVSjE5azM5alRXSWc4MlRuM0hzX2kybGNkV0RBSnRJWnkxVC1MMVZuOXB2eGhtVHVXZ2lvN1AtdjBQR0NKM25CdmZCVTRJdUVFWU14QUs5b3VEa0JCMjdidTkxQl8yczNCNkdrZUYtSEhfMUIyRm1PRTFvS2d3a0ZDMTB1T095SmhTZUtDZkJnVk1HeWxzaWJXMmFJeFVEblR2eXA1VzFDcXdnZU0zSFE4ZkZrV29zSnhKNXdfS2FiMnVEZ1F3?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-10T16:47:32+00:00",
-     "summary": "Ukraine Intelligence Warns Russia Is Preparing Attacks Across the Food Supply Chain&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTMVQyQVdJaG5fZmtRMENRcFBfcmN2bVJFdnJKRy12QmlPZEZoSThoZDBGRnBkTGxMY3ZmVTZDN3BQZkdrSWdJa1RQUElKbnNZYmo0S3VTX1JweVRqajBIM0lKa0hJcDQzVWM3N0lCYXpNOG9Td2c?oc=5",
-     "source": "NPR",
-     "published": "2026-11-10T16:45:14+00:00",
-     "summary": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi&nbsp;&nbsp;NPR",
-     "image": ""
+     "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+     "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T17:00:11+00:00",
+     "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/741e/live/b4c42480-dce9-11f1-bf22-25fb7d6062d2.png"
     },
     {
      "title": "Merz accused of \u2018blackmail\u2019 by Slovak PM after demand for Ukraine aid in EU budget",
@@ -186,45 +218,77 @@
      "published": "2026-11-10T16:39:25+00:00",
      "summary": "Nayef Al-Nabet discusses the Qatari prime minister\u2019s visit to Washington.",
      "image": ""
-    },
-    {
-     "title": "Russia, Ukraine, and U.S. Begin Trilateral Peace Talks in Abu Dhabi Under U.S. Mediation: 25 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeHNIT2dEUFNaN3loWTFGcU1pVkhYamhWVnBGX09heHhrZGZYVFpVbkgtNkZjRHp0OW12LTd1VUc1bTcxVDhGZW1qdFhpRmpPTmVKSjNna0VXTkMzY2NsVjJWdzNaQmRQUkctbHFfTE9XZTNpN3FRQVViMUxkNzR3RjlERDlhOF9Ea3VBcC1WeTk2dENNSVk5LXpfTWNtUDFOSFNWeFVtSjhBZk9QVnNhRXhxUkktR1FId1NxdXVKdmRXcWNSRWZfNWhzWjkxeTJPOU1La19RNV9uQXdLSFVEZmxtQTFIVWZFWGc?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-10T16:39:11+00:00",
-     "summary": "Russia, Ukraine, and U.S. Begin Trilateral Peace Talks in Abu Dhabi Under U.S. Mediation: 25 outlets compared&nbsp;&nbsp;NewsCord",
-     "image": ""
-    },
-    {
-     "title": "Russia, Ukraine and U.S. Hold Trilateral Peace Talks in Abu Dhabi With Medinsky, Witkoff Leading",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTNVLTVwc1drV18wZWJWTFBaTWRMU0x6eGpCdXJBcmY2ajRLdV8weTBJZ2o1TzJjZDYtMmZLWU5vQmVOTzNPa1FqNk1QUVp6ckVoMUxyUThrb1ozSXBqZnZBZDBFLTN2NTh2STdpcFdabnZXUlhaMHN1VGw5NC1yc0pyYWxjZWdVZEN1bWpwSmlxZHVNM21FeHl4dUtmRjFXRUg3Vmh0Y0N2Tlc1UHExNnA5bkZxQ1lTUVlrRkN6TzNGWVdtQkNlRE9VY0hrcDlIZ0R3MzM2MWZzejhxcFY3UEowT0pSSWpuV3c?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-10T16:37:47+00:00",
-     "summary": "Russia, Ukraine and U.S. Hold Trilateral Peace Talks in Abu Dhabi With Medinsky, Witkoff Leading&nbsp;&nbsp;NewsCord",
-     "image": ""
-    },
-    {
-     "title": "Russia-Ukraine Peace Talks in Abu Dhabi: Will loud rhetoric by Trump break the deadlock & yield lasting truce?",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaVJHbVUzWXVfRnpHbnljZ0lyRWU3Y1pvUklpZmRpYlJmVGJpOTNTWHRsYlJWZU5jZkdEQ2ZnVTBoalNmYTZsMHM5M0V6WFhkRFAzaHdrVGpvVHlXV3VEa3lFdUhEcTJneHhGTTZpN3ZaVU9qWGVBSmN5YjF3UEdnVG81bGhGdVRuNnlidmpLTXk3aU1mLVFpdGZPRGRGdE9vVEFJSG1ERVFVd2FEYjN2dHAtbkJJRnlVbWZnRkl3MVd1azlzVXlCOE5LQ19aX2xiMEdmMFVNUTFFY1E4bG8xcDBNVUlJcHlSaVBPb9IB8gFBVV95cUxNT0hVZjREb29JQ2Y4dUh1dElhM3E4cWZaWWM2VUpmeE5IaG1GeElqT21PNV9CREVrakJLV1RzcU9sRFhOSkxySHZFV0dKUUdGS3JqTUNWZFA4Wm90NVJhaTV0SnB3WnV5VUQ1dmd4ZkRwcXZ3UG56bjRVV0xUMF9rQ3VOXzdRSW0tcndQNllySVJzSzhfUE9MUmxwdEEwX0Y3SlBIVDVuN0ZDNUJzVHV5WloxaHkzOHBIUlhGQUtnbFViR0RtbFEwV3h6VXNULVc3WGZ6NjV1NEVvMTV6MWpvQllWMjVnRnNMRDZWcUJUcXBZUQ?oc=5",
-     "source": "Organiser",
-     "published": "2026-11-10T16:35:28+00:00",
-     "summary": "Russia-Ukraine Peace Talks in Abu Dhabi: Will loud rhetoric by Trump break the deadlock & yield lasting truce?&nbsp;&nbsp;Organiser",
-     "image": ""
-    },
-    {
-     "title": "REPLAY: US Secretary of State Rubio holds press conference after G7 meeting",
-     "url": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting",
-     "source": "France 24",
-     "published": "2026-11-10T16:30:50+00:00",
-     "summary": "US Secretary of State Marco Rubio talked to the press Tuesday as the G7 meets in Paris. He said he saw no need to resume major combat operations against Iran because economic restr",
-     "image": "https://s.france24.com/media/display/887df8ae-dd18-11f1-abf7-5f54d898a954/w:1024/p:16x9/1c612278df0ebf03d55cc5ac10196f56a06b9e94.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T17:20:05.098112+00:00",
+   "fetched_at": "2026-11-10T17:50:09.358960+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Senate Republicans lament midterms, weigh leadership election delay",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50TnJaOE5Ja0xtaWVHLWNpUTVfZ2NoQVlDX1l2Nl8xS0RMQXNObEJnNU45M2lFd3JWNktMNGlmRTR6TThtRjh1NU9xSDF2US1ZWXRwTmVGSE1Ib3pfaFJ5dTdCNC0xa2xmZWxmTEJEaWNlZ090UzlkLQ?oc=5",
+     "source": "Roll Call",
+     "published": "2026-11-10T17:44:37+00:00",
+     "summary": "Senate Republicans lament midterms, weigh leadership election delay&nbsp;&nbsp;Roll Call",
+     "image": ""
+    },
+    {
+     "title": "Spain\u2019s election contender PP pledges tighter borders, slower climate goals",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUU1cWxkSFQtUks1NFNWTFRrV1VkcUx3aWVEaW45UVdaV2tadlp6YzBVb05SSGgzWm1lc2VTMGw3R2RQM2lub0JwMlVrZ1dFY1dfT1VJRmZjQlZGWWxnY1Bla043YklkUDZSbkhnM2hIMmFJNFZEY204SzNYTC1LQUl2RUdJM1VQb2gtRElzUk0wbXA0OE5oMU5oSFNuZEJTaDJicG44cnphU3FLR1JhZ0dhVGhfQQ?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-10T17:42:40+00:00",
+     "summary": "Spain\u2019s election contender PP pledges tighter borders, slower climate goals&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Examining impact of midterm election on Congress and foreign poicy",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pOTM1MGRMc0lvT1kxNm1SVFVxQ21CR3FGbWhuSm1hWXBuMi1Ua21sS0pCZDlhbU5pNmdVTkpvaURHUVZsbFdobkFUZ05WcGlEcFNBNkYzZHI2ZWfSAWBBVV95cUxNWGZRZ3F6RmlGVjFsa0V3UVFxQUI2MlZjTTRVZDlFNUpZYXFYMHRQekhfcTFOLVZLM2pMUURYckNNdEpBcVIyLUY0NDU0UzVHN0p0VjRkUG9JZUtXaWsxZ20?oc=5",
+     "source": "KTVU",
+     "published": "2026-11-10T17:39:41+00:00",
+     "summary": "Examining impact of midterm election on Congress and foreign poicy&nbsp;&nbsp;KTVU",
+     "image": ""
+    },
+    {
+     "title": "Trump baselessly casts doubt on midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlZXcE5kVzVLdVJMb2RuUk1ZM1N6NU1EX1pEN09rZkhzR3lrdHJYYmsxNjhQZ3dCbjJZLW9KUGxyOXcyd1liZlExaUpWWG96X0pkeXB0djJFUG92RnF3Y003QnhlWVA4X1AxcGI3eGR4eTk1RUE5b0t4RXJuQV90UklsSTg5cFZlN3FWNC13?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-10T17:36:00+00:00",
+     "summary": "Trump baselessly casts doubt on midterm election results&nbsp;&nbsp;The Hill",
+     "image": ""
+    },
+    {
+     "title": "Permitting bill advances in Senate, but election results cast doubt on its future",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVk9NRFZxNHFKZmZyVElwM2lWSFIyZXhlaFU0N2xYVnREN2JUSnViZzRXWGx1S21rc3VXN1RGMHBQZkdHWUprUDNsa3M0WE1mUF9ERHU1Rmc2RFZZUEhEampSV3F6cm5Tem8yNlRaOW85Y2RtSWhLUlRjS1lEN0I2b1dVVVY1OHF5dWpBMVVncHN3YjJfYUJVXzVCNzVPbndveWIxUDllWGNKQlMwZG9JdG01cUg5Zw?oc=5",
+     "source": "Utility Dive",
+     "published": "2026-11-10T17:28:39+00:00",
+     "summary": "Permitting bill advances in Senate, but election results cast doubt on its future&nbsp;&nbsp;Utility Dive",
+     "image": ""
+    },
+    {
+     "title": "Fifty Years Later, Cultivation Theory Continues to Evolve",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXgwR0p6ZzdIN0E4ZHRQcHloQzl6VEtHclgwWXRpRUUyUXE2VDNTX29sNDZVS09VX1FIMU1PR045RUZmOVp6WUxhVWVPRk95MDN4SXhDam5iZk1aNlVOLWNkZ0kyNUNyeWwtUVFNTWZyM2x4aWdpdzBlOE9jVlpHRWItUzB2Y0RIaDZXZFNILUZKTEpJTURWRlByVXpQaXM5Y0pZ?oc=5",
+     "source": "Annenberg Public Policy Center",
+     "published": "2026-11-10T17:25:55+00:00",
+     "summary": "Fifty Years Later, Cultivation Theory Continues to Evolve&nbsp;&nbsp;Annenberg Public Policy Center",
+     "image": ""
+    },
+    {
+     "title": "What the 2026 Midterm Results Mean for Technology Policy",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHl1d3NGejNqdW16LWRhaFhPN3JDV0c1WENObGFwU2lBcG82XzJVV0VkOHlJRnpoakVPTkNHbzE4VmRFRWU3a01CYWxacFJacGM1cEs3M1NyQkpXU1VoSFdjY0RFbHVlM1FKYm5PQ1pablYwdG9zVVYwdFhYN0VLLU1faldtQjFaY2RQVTctbHV3c1Zf?oc=5",
+     "source": "Ash Center",
+     "published": "2026-11-10T17:21:29+00:00",
+     "summary": "What the 2026 Midterm Results Mean for Technology Policy&nbsp;&nbsp;Ash Center",
+     "image": ""
+    },
+    {
+     "title": "A week after huge election losses, Republicans to choose their leaders in Congress",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE5pQkRIY0JYdW1mRGtidndvN2hYcHFRaXRuTVdtTnNLaXNzMGdPcEpWREhMclc0YVdTdk10TGNXR0U2Nml5bkNVdjY4OU90SWdIOXgtLVJwWE9xQ0ttR1MwTkI4SV84VFBlZm9hbXA0d0lFR2dQMW5NR0Q1dmVjRlo4bENFLTJ6NHVGY2NwSGREMzhraXRTQkZZcjNEdkc4TFZZczg1RlZ0V1RNSkdpOEFxV01pWlFPbXc?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-10T17:13:12+00:00",
+     "summary": "A week after huge election losses, Republicans to choose their leaders in Congress&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "In Focus: What Kentucky voters need to know before Election Day",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFdtcjNZeHVDeWNiZ1F6c1hBaHB6bjVXSWd0SktQeEc0bGhSZ1loWlRQazVKNGhwTXpwdUQ2aWxPaWFIQjJ1MmRob251dlZ0aDhYTTFzRFZmVEx3UVk0d3V6V2pVVlR4N0tIOG9JY1ZEcHdMck9EX2hqWEhtWlhJYTZtLW9WaFJ0QVB6cVdHQmtWMjhaV2Z5WUZtZk1zSXNKaXdUUm9qMkE0aEx0SUt2Wi1TM1l6NnYzYkpz?oc=5",
@@ -256,75 +320,11 @@
      "published": "2026-11-10T16:59:00+00:00",
      "summary": "French judo star Teddy Riner may have announced his bid for the 2027 French presidential campaign on Monday, but he is not the only sports star to transition from stadium to bully ",
      "image": "https://s.france24.com/media/display/1ce5d6ca-dc73-11f1-b3f0-a575454bc579/w:1024/p:16x9/AP26313423095961.jpg"
-    },
-    {
-     "title": "Hegseth: Impeachment Over Policy Disagreement Sends Wrong Signal to Adversaries",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVEtqLTZuMGp3bEZhOFNzTldyeE4zSmFWQ2h5MDNvejIwREpGVXhfdHNIRzFIUGhRTXduMFJsYlcwMDJvcjdnSGRCN2FJQ2tsSTZUZXptWlplQW03Rk02R1MxR19sRUc2bTktUURTRGZlMHR5YUg1Njh1cGdMaFhXODNORHE3b1lFRjhGUHdzTVlwSFlJUHREVmp6ZWRrUUdTQk5OLWpEeTFYVHBHcy02Nko0Y1hmb3Z2ZEpycjZCLUJOLWhkR0lfUFlNUDhCWGlVQ3dBMk1KaXg?oc=5",
-     "source": "U.S. Department of War (.gov)",
-     "published": "2026-11-10T16:55:18+00:00",
-     "summary": "Hegseth: Impeachment Over Policy Disagreement Sends Wrong Signal to Adversaries&nbsp;&nbsp;U.S. Department of War (.gov)",
-     "image": ""
-    },
-    {
-     "title": "\u2018Endless wars\u2019 is a catchy phrase, not a reason to shift policy",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjRfR3E2WXhVZm9OMGtrbVpTM2JFLTZWVHRwTWFCRkFIUnBfaXBaWkVjSk9WeVFlQjhSLUNWSGEwSWI2RS11dlBZMDhyeTYtbVA1a1A1LXVEYWFUYW50LVYzcnZRVWNDYUFpa2JNVWoyb3JxREtSZVFiMV9UOHZlS21xQ28wakFVVmRrQVVNNGJDc3Rw?oc=5",
-     "source": "Foundation for Defense of Democracies",
-     "published": "2026-11-10T16:50:17+00:00",
-     "summary": "\u2018Endless wars\u2019 is a catchy phrase, not a reason to shift policy&nbsp;&nbsp;Foundation for Defense of Democracies",
-     "image": ""
-    },
-    {
-     "title": "The science and practice of monetary policy communication: the ECB experience",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHBZU1Y0T2dsN1NxZlFsY2EzMlZoVkJHdDVmT2tOQTVtYWNIakNQMUhZaUZCc3lSZTJNTDFOQXZGbEcxcW1UQnpEZDVLUmhUbE05bG9DeHdEbDFZN0tMVmQyeEN2aXRHRXlIRW1RZ042bnh0Y2ZIeTFWWUJSaGQ2VkdHNEx4QlUtckFMaQ?oc=5",
-     "source": "European Central Bank",
-     "published": "2026-11-10T16:49:52+00:00",
-     "summary": "The science and practice of monetary policy communication: the ECB experience&nbsp;&nbsp;European Central Bank",
-     "image": ""
-    },
-    {
-     "title": "Article - Midterm Election Makes Clear, Americans Demand a Consumer-First Congress",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1NCNTYxUnJoeFQ0Y3FtT3VQNEc1enVvQlRpYUp0eHZTeFNqcndOMG5YcEVGaV9BREZBbzdtNWcxa2hoVDg1aDdrekFUYlMtZ001Ym5NZlFIOVJCZWcwQUZjN014VE9OUndwZ055cmNkLUhUMHFTS2lrYms2MzI5bzB0M2NVOVNxQVpkQXlzeDdVN2dHdUYzSk42NFRFZ3R3dHRTemZYMnV1VFczUDhqTXlhLXkxNGc?oc=5",
-     "source": "Consumer Federation of America",
-     "published": "2026-11-10T16:45:19+00:00",
-     "summary": "Article - Midterm Election Makes Clear, Americans Demand a Consumer-First Congress&nbsp;&nbsp;Consumer Federation of America",
-     "image": ""
-    },
-    {
-     "title": "French students vow to keep up protest pressure for better learning conditions",
-     "url": "https://www.france24.com/en/video/20261110-french-students-vow-to-keep-up-protest-pressure-for-better-learning-conditions",
-     "source": "France 24",
-     "published": "2026-11-10T16:40:39+00:00",
-     "summary": "France has been buffeted for months by street protests. They began in September \u200bwith students \u200cdemanding the renovation of school buildings, more teachers and \u2060university reforms ",
-     "image": "https://s.france24.com/media/display/292c5d64-dd22-11f1-9f4f-695cb59fade5/w:1024/p:16x9/capture-2af7e190.jpg"
-    },
-    {
-     "title": "French far right on track to secure \u20ac10 million loan for Le Pen's presidential campaign",
-     "url": "https://www.france24.com/en/france/20261110-french-far-right-close-to-secyre-%E2%82%AC10-million-loan-to-fund-le-pen-presidential-campaign",
-     "source": "\u00a9 Teresa Suarez, AP",
-     "published": "2026-11-10T16:30:41+00:00",
-     "summary": "France's far-right National Rally party on Tuesday reached a preliminary agreement with two European banks for a loan to help fund Marine Le Pen's presidential campaign. The lender",
-     "image": "https://s.france24.com/media/display/3b79be5a-dd20-11f1-8082-695cb59fade5/w:1024/p:16x9/AP26298597827263-1.jpg"
-    },
-    {
-     "title": "Rubio says 'no need' to attack Iran as diplomacy gathers pace",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWg4UVgtbHp3cll0TjA4LUNRWW50NVpNZjFNeTM1T1VCTzlkcmxta1FXcDVjNEQxSWJ3WUV5RHBkN3RkTnplTUdITWhaTnItblZuXzUwZGR3bG9TR3FtbmtuWUpYeDIyV05QN2ZlTW5HcWZKS2JwOVVTZ0ozdUI1UkVEazNHRFdfWDV0bW90R3Zmc0lZek5MYW9ORHl6Tms?oc=5",
-     "source": "Al-Monitor",
-     "published": "2026-11-10T16:30:38+00:00",
-     "summary": "Rubio says 'no need' to attack Iran as diplomacy gathers pace&nbsp;&nbsp;Al-Monitor",
-     "image": ""
-    },
-    {
-     "title": "Election Workers in One County Prepped for Chaos, Then Exhaled",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX0Zpb09BaTEwV0xJRUtKemRLZjBDLTBMUWF4MVN0LWtWZnhWdlBCa2h4b1M2ckdidlJpUFNoUHViNHl6dVgyYVVKcUVTVnByZE1tZmRCTGFZZzFlVzNERHRqMnBIeGxaTWNVUzBTU0ZLa2VkSHVFcUZTOHJGUTg4N1dzWWFBaFpBUDRoSTdjcHRLY1VZM0xleDFNVGNqQi10SVcxc2h5Z2ZLZ0JtN2twelBuUQ?oc=5",
-     "source": "Bloomberg Law News",
-     "published": "2026-11-10T16:30:00+00:00",
-     "summary": "Election Workers in One County Prepped for Chaos, Then Exhaled&nbsp;&nbsp;Bloomberg Law News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T17:20:05.098114+00:00",
+   "fetched_at": "2026-11-10T17:50:09.358962+00:00",
    "stale": false,
    "items": [
     {
