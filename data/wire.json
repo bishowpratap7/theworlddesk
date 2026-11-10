@@ -1,128 +1,192 @@
 {
- "generated_at": "2026-11-10T10:18:43.449337+00:00",
+ "generated_at": "2026-11-10T10:48:47.634902+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T10:18:43.449310+00:00",
+   "fetched_at": "2026-11-10T10:48:47.634874+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-     "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T10:13:51+00:00",
-     "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ad/live/f127bff0-dced-11f1-a701-fddedf244c16.jpg"
+     "title": "US Republican Thomas Massie launches bid to impeach Pete Hegseth",
+     "url": "https://www.france24.com/en/video/20261110-us-republican-thomas-massie-launches-bid-to-impeach-pete-hegseth",
+     "source": "France 24",
+     "published": "2026-11-10T10:42:42+00:00",
+     "summary": "US Republican Thomas Massie moved Monday, November 9, to force a vote to impeach Defence Secretary Pete Hegseth, pressing his fellow Republicans to remove one of the Trump administ",
+     "image": "https://s.france24.com/media/display/c4c66f20-dcf1-11f1-acb2-f71d22e7fea9/w:1024/p:16x9/capture-0923e3a2.jpg"
     },
     {
-     "title": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
-     "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T09:54:48+00:00",
-     "summary": "UN climate summit prepares to host world leaders from more than 90 countries tomorrowA short update on our Cop31 bus journey from hell.We have arrived. It only took three and a hal",
-     "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
-    },
-    {
-     "title": "Oil prices fall to lowest since August as Trump says Iran war is \u2018effectively over\u2019",
-     "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
-     "source": "The Guardian",
-     "published": "2026-11-10T09:52:47+00:00",
-     "summary": "FTSE 100 and other markets climb after president downplays prospect of further strikes in Middle EastBusiness live \u2013 latest updatesOil prices have fallen to the lowest level since ",
-     "image": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=904510b7206ac0ce08a6e9328e358b69"
-    },
-    {
-     "title": "What is Hasina\u2019s game plan as she seeks a passport to return to Bangladesh?",
-     "url": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T09:46:43+00:00",
-     "summary": "The ousted leader faces the prospect of being hanged upon return for her violent suppression of the 2024 uprising.",
-     "image": ""
+     "title": "Russia and Ukraine hold US-backed talks after Trump says broad deal is possible",
+     "url": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible",
+     "source": "France 24",
+     "published": "2026-11-10T10:40:40+00:00",
+     "summary": "Russian and Ukrainian officials met on Tuesday, November 10, for their first US-brokered talks since February, after US President Donald Trump suggested last week that a broad deal",
+     "image": "https://s.france24.com/media/display/33b5a36a-dcf2-11f1-83f9-29048b396e03/w:1024/p:16x9/capture-3925831b.jpg"
     },
     {
      "title": "\u2018Double amputees run marathons,\u2019 says Badenoch as she proposes \u00a336bn cuts to disability and other benefits \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T09:42:27+00:00",
-     "summary": "Conservative leader launches Welfare That Works policy documentThe US military has reportedly evacuated aircraft from a second airbase in \u2060Britain after a threat from Iran, Jamie G",
-     "image": "https://i.guim.co.uk/img/media/e1b411c6b1796244d573679921c2116ed2a37d7d/167_0_1518_1214/master/1518.jpg?width=140&quality=85&auto=format&fit=max&s=731b9ab59dfefd1e76767d29b2da94b3"
+     "published": "2026-11-10T10:30:39+00:00",
+     "summary": "Conservative leader launches Welfare That Works policy documentIn an interview this morning, Lucy Powell defended her role in arranging for Ed Miliband to do an interview with Russ",
+     "image": "https://i.guim.co.uk/img/media/e1b411c6b1796244d573679921c2116ed2a37d7d/276_126_1238_991/master/1238.jpg?width=140&quality=85&auto=format&fit=max&s=7e38d10b303713eb23456f73d2d9a133"
     },
     {
-     "title": "Nvidia spy scandal fuels debate over chip exports to China",
-     "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T09:42:04+00:00",
-     "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO&#039;s relationship with alleged spy.",
-     "image": ""
-    },
-    {
-     "title": "Trump says more US attacks on Iran 'highly unlikely'",
-     "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T09:40:31+00:00",
-     "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation change.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
-     "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
-     "source": "NPR",
-     "published": "2026-11-10T09:38:34+00:00",
-     "summary": "President Trump's top envoy is in Abu Dhabi with negotiators from Russia and Ukraine to resume peace talks.",
-     "image": ""
-    },
-    {
-     "title": "Watch: Man smashes Chinese government building with excavator",
-     "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T09:37:15+00:00",
-     "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca0/live/95e26c80-dced-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "US reportedly evacuates aircraft from RAF Mildenhall over Iran threat",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+     "title": "Brand barrister\u2019s cross-examination of victims shocking and depressing, says Labour deputy",
+     "url": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
      "source": "The Guardian",
-     "published": "2026-11-10T09:32:55+00:00",
-     "summary": "Evacuation comes weeks after US withdrew bombers from RAF Fairford over suspected Iran-linked security incidentThe US military has reportedly evacuated aircraft from a second airba",
-     "image": "https://i.guim.co.uk/img/media/af04e0ad8236fe288041fbdcdd6bba810aba9aa1/0_173_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=a47bae74f3b22739cfbea6fffd16c20a"
+     "published": "2026-11-10T10:28:51+00:00",
+     "summary": "Lucy Powell says she thought \u2018we\u2019d gone past that sort of culture\u2019, and that she regrets setting up Miliband interview with comedian in 2015Russell Brand sentenced to more than 10 ",
+     "image": "https://i.guim.co.uk/img/media/8d0b2aa07aef04841b4d35eb7ba1dfe6f5ffc3ad/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f0cfcdcb4b7feb1824550c71d7916d79"
     },
     {
-     "title": "Three workers die at Tata\u2019s iPhone parts plant in India\u2019s Tamil Nadu",
-     "url": "https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T09:29:54+00:00",
-     "summary": "The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.",
-     "image": ""
-    },
-    {
-     "title": "Are your supplements fake?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/are-your-supplements-fake?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T09:09:09+00:00",
-     "summary": "That protein powder in your cupboard might not be all protein, and those creatine gummies might be candy.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T09:07:00+00:00",
-     "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
-    },
-    {
-     "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh after two years in exile",
-     "url": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
+     "title": "Oil prices fall to lowest since August as Trump says Iran war is \u2018effectively over\u2019",
+     "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
      "source": "The Guardian",
-     "published": "2026-11-10T09:01:30+00:00",
-     "summary": "Hasina fled to India in 2024 after mass uprising. She faces death penalty upon returnSheikh Hasina is \u201cconfident\u201d she will return to Bangladesh in December, according to exiled mem",
-     "image": "https://i.guim.co.uk/img/media/b0c25ec744c32078682701261636188a517bf078/42_0_1989_1592/master/1989.jpg?width=140&quality=85&auto=format&fit=max&s=63215d83211425df87ac5d5f6bf1a103"
+     "published": "2026-11-10T10:28:47+00:00",
+     "summary": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikesBusiness live \u2013 latest updatesOil prices have fallen to the lowest level since la",
+     "image": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=904510b7206ac0ce08a6e9328e358b69"
+    },
+    {
+     "title": "Cop31 live: host Turkey celebrates new oil fields as climate summit enters second day",
+     "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T10:27:31+00:00",
+     "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this year.The president of last year\u2019s Cop30 in Br",
+     "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
+    },
+    {
+     "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+     "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T10:24:20+00:00",
+     "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ad/live/f127bff0-dced-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "China's 'impossible to ignore' tech rise on display at Web Summit in Lisbon",
+     "url": "https://www.france24.com/en/tv-shows/business/20261110-china-s-impossible-to-ignore-tech-rise-on-display-at-web-summit-in-lisbon",
+     "source": "France 24",
+     "published": "2026-11-10T10:22:50+00:00",
+     "summary": "One of Europe's biggest annual tech events, the Web Summit, kicked off in the Portuguese capital this week with the biggest ever delegation of Chinese business leaders and policyma",
+     "image": "https://s.france24.com/media/display/498e9888-dcf0-11f1-8931-29048b396e03/w:1024/p:16x9/capture-6e05e6b8.jpg"
+    },
+    {
+     "title": "UK author M John Harrison\u2019s End of Everything wins Booker Prize",
+     "url": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T10:22:35+00:00",
+     "summary": "The book uses dark humour and elusive narratives to cast a futuristic lens on modern politics post-calamity.",
+     "image": ""
+    },
+    {
+     "title": "Inspiring Senegal's next generation: Free tickets bring children to Dakar 2026",
+     "url": "https://www.france24.com/en/video/20261110-inspiring-senegal-s-next-generation-free-tickets-bring-children-to-dakar-2026",
+     "source": "France 24",
+     "published": "2026-11-10T10:17:53+00:00",
+     "summary": "As part of the Dakar 2026 Youth Olympic Games, 200,000 free tickets will be distributed to schools and community organisations. The aim is to give as many young people as possible ",
+     "image": "https://s.france24.com/media/display/47d38824-dcef-11f1-b331-f71d22e7fea9/w:1024/p:16x9/EN-20261109-215238-215413-CS.jpg"
+    },
+    {
+     "title": "South Africa's ANC slumps to worst-ever election result",
+     "url": "https://www.france24.com/en/video/20261110-south-africa-s-anc-slumps-to-worst-ever-election-result",
+     "source": "France 24",
+     "published": "2026-11-10T10:15:54+00:00",
+     "summary": "The African National Congress, which has dominated South African politics since the end of apartheid, took 30.76 percent of votes in municipal elections, its worst-ever electoral p",
+     "image": "https://s.france24.com/media/display/397a1b28-dced-11f1-87f5-f71d22e7fea9/w:1024/p:16x9/EN-20261109-214355-214550-CS.jpg"
+    },
+    {
+     "title": "Ugandan former intelligence officer exposes alleged army abuses",
+     "url": "https://www.france24.com/en/video/20261110-ugandan-former-intelligence-officer-exposes-alleged-army-abuses",
+     "source": "France 24",
+     "published": "2026-11-10T10:14:06+00:00",
+     "summary": "In Uganda, a former military intelligence officer accused the army of secretly detaining and torturing opponents in clandestine houses. In late September, Lieutenant Herbert Matand",
+     "image": "https://s.france24.com/media/display/650e573a-dcee-11f1-936e-5f54d898a954/w:1024/p:16x9/EN-20261109-214616-214819-CS.jpg"
+    },
+    {
+     "title": "Pakistan TV anchor allegedly shot dead at home by her husband",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pakistan-tv-anchor-allegedly-shot-dead-at-home-by-her-husband?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T10:10:32+00:00",
+     "summary": "Pakistan TV anchor Rabiya Ahsan was shot dead at home. Police are probing her husband&#039;s claim of accidental firing.",
+     "image": ""
+    },
+    {
+     "title": "David Jones\u2019s finances were reviewed and restructuring flagged months before it fell into administration",
+     "url": "https://www.theguardian.com/business/2026/nov/10/david-joness-finances-were-reviewed-and-restructuring-flagged-months-before-it-fell-into-administration",
+     "source": "The Guardian",
+     "published": "2026-11-10T10:04:46+00:00",
+     "summary": "Department store group kept buying new products and fell months behind in payments to some brands despite discussions with administratorsGet our breaking news email, free app or da",
+     "image": "https://i.guim.co.uk/img/media/0758a698a82e09a3ec3b57bea68a100906de3fbb/625_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6cdb37bc1fe1bcd026ec8a3ef1cb1fbd"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T10:18:43.449324+00:00",
+   "fetched_at": "2026-11-10T10:48:47.634888+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia and Ukraine hold US-backed talks after Trump says broad deal is possible",
+     "url": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible",
+     "source": "France 24",
+     "published": "2026-11-10T10:40:40+00:00",
+     "summary": "Russian and Ukrainian officials met on Tuesday, November 10, for their first US-brokered talks since February, after US President Donald Trump suggested last week that a broad deal",
+     "image": "https://s.france24.com/media/display/33b5a36a-dcf2-11f1-83f9-29048b396e03/w:1024/p:16x9/capture-3925831b.jpg"
+    },
+    {
+     "title": "Two Shaheds, One Interceptor\u2014Ukrainian Marines Pull Off Double Kill",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTdSTlhEVldrZThHYWVtekxVUVBCaXRLQ1VXbm1EX1BkYkktcjZudXJpRmE0N1d1LUN1RXo4QjlRWmdiVm1QTjdEbHhfX3hGdHBrUTlEVUpBUDk2RU5Ubk9ITS1SUnlKTVpJZmE0Z21SMTFUZWxRV2NFT21EeEpxSHlxeVNZVTNYbS05U2I0allNQzhYN3FvVlVta2Fwd0NMRkZ2TEkteFV1a3lwNWVqMlV4dw?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-10T10:29:33+00:00",
+     "summary": "Two Shaheds, One Interceptor\u2014Ukrainian Marines Pull Off Double Kill&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Oil prices fall to lowest since August as Trump says Iran war is \u2018effectively over\u2019",
+     "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+     "source": "The Guardian",
+     "published": "2026-11-10T10:28:47+00:00",
+     "summary": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikesBusiness live \u2013 latest updatesOil prices have fallen to the lowest level since la",
+     "image": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=904510b7206ac0ce08a6e9328e358b69"
+    },
+    {
+     "title": "US, Ukraine, and European partners agree to move toward broader multilateral talks on ending war",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHRQSndWT21EUGlDY1ZqYWxDVzVUVy1fSVQ4MXVJaktKc2dJX3NiVUVXM05wdmxkZFdRU0xZTWNvVTdQZFFxcEp5cHp1NG1rcFNoMmlHT2JldHB5aXZ6WkwxNG5fbzNoc2VXbGNaTF9tR29qTmVnLWlMVlZnRlM1UFp1RFJxYUh2UnVXX1JTSTZsWmFYbWRuSE10RThqc3ZzQWhjUXQyT0VicVV2aDd5cUp2S3RaRGZMeHpnbnEzNWNMRVVDYzE5dDdxb0JXYTBm?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-10T10:27:23+00:00",
+     "summary": "US, Ukraine, and European partners agree to move toward broader multilateral talks on ending war&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "US Sees 'Real Shot' At Ukraine Peace Progress As Abu Dhabi Talks Begin",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMVhwN2VPbVNlUnhPd1dfZWV4ZFl1N0kxbFFtQWZ4N1R0TzhGcGdXakZfanR0X01EM1pJNmx3V1p4UjFBTGJvREtITllsSHdSbnZCY2NVam16RXk3aTk3N2l5M2oyTFJ4eS1fOWtOOWJERUFFZkdzZ1Y4ckRMb05qVkpHZ3FxNmhzd2lzbEJB0gGQAUFVX3lxTFBSWU1nNS1lWTExVUtKZ2E4S3NHQTZqYlN0WkVuQWt5LUdNb2g3bE96QmZ1MmNoTjNrTDZOQ0xaS3lnZG9JSmhPVTZGZ2U4czlTR3ZZS3o2R0NtNUtLd2ZRd2ZHcUlpd1h0dkhFWHB4VEdENEw5Z3JQS2pZTk5nLWdNTHowZ3k1ZjNtT25iUnd5Ng?oc=5",
+     "source": "Radio Free Europe/Radio Liberty",
+     "published": "2026-11-10T10:24:37+00:00",
+     "summary": "US Sees 'Real Shot' At Ukraine Peace Progress As Abu Dhabi Talks Begin&nbsp;&nbsp;Radio Free Europe/Radio Liberty",
+     "image": ""
+    },
+    {
+     "title": "US, Ukrainian and European officials meet on ending Ukraine war, Witkoff says",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMG5hT0FuN1BtS1NlX0RJZmxBX0ItclpkQUEzZG9lUTZJWUJUdFZHTEVibThOOUI3cWhBejNnekVLLVFWN0JlMnk1VjJkOGcwdXNGZUE5YWhXS0JqWUsxeEtrWXVsd0NBOVh3S28xQ0tuclNwWFpEZXhvZHBxRkdLWmNEZUdJUzUtcU1RcE5HNy15NHBjWEdrUzRsdHJhbE56REhXMUswVDhwVHp5c2hzT0hoc05vNFZiWHM4T1dn?oc=5",
+     "source": "Deccan Herald",
+     "published": "2026-11-10T10:21:09+00:00",
+     "summary": "US, Ukrainian and European officials meet on ending Ukraine war, Witkoff says&nbsp;&nbsp;Deccan Herald",
+     "image": ""
+    },
+    {
+     "title": "Ugandan former intelligence officer exposes alleged army abuses",
+     "url": "https://www.france24.com/en/video/20261110-ugandan-former-intelligence-officer-exposes-alleged-army-abuses",
+     "source": "France 24",
+     "published": "2026-11-10T10:14:06+00:00",
+     "summary": "In Uganda, a former military intelligence officer accused the army of secretly detaining and torturing opponents in clandestine houses. In late September, Lieutenant Herbert Matand",
+     "image": "https://s.france24.com/media/display/650e573a-dcee-11f1-936e-5f54d898a954/w:1024/p:16x9/EN-20261109-214616-214819-CS.jpg"
+    },
+    {
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZDhDRnZPZGgyeUFBcm1wVEtLaFItWnlaSE5RblVzNmhYVnM3S2cxb0V5dHluaGVCYzNiNjgyYXRvQ0w1ZDJJSzVzaE5LNGF5SnFTWnRfWnVqY3I1b2hiV2doOG53MWJSWlc2RXRXcjI1TXZ6RlpLbmJneVFWMm1ta0pmSmlqSnB3WnlwNllUZlFxbEFiZkJpalBNbjMyOE5FZE5lYmRxWG5wZw?oc=5",
+     "source": "Post Register",
+     "published": "2026-11-10T10:11:32+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;Post Register",
+     "image": ""
+    },
     {
      "title": "Our readers' questions about the war, answered. Vol. 12",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDJYd3hmNm14UVVIb3JOZGNWWlZkWkpXN1NHNkRhOFYxaGRpcUZtbl9NV3FMVkd6V2RZbnJQbTNVR1YxUVRtaHU5LVN3V2MyMHBpRk9ScV9UZFh5TXQ1R2ZFbTNtTDBTVEZkbTFuQkhpVllUNndTSFVmLW9xUkJ0c1d1WXNFRVE?oc=5",
@@ -140,14 +204,6 @@
      "image": ""
     },
     {
-     "title": "Oil prices fall to lowest since August as Trump says Iran war is \u2018effectively over\u2019",
-     "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
-     "source": "The Guardian",
-     "published": "2026-11-10T09:52:47+00:00",
-     "summary": "FTSE 100 and other markets climb after president downplays prospect of further strikes in Middle EastBusiness live \u2013 latest updatesOil prices have fallen to the lowest level since ",
-     "image": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=904510b7206ac0ce08a6e9328e358b69"
-    },
-    {
      "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnRDRG84Z2swblJqUWsxTTJoYVdZcjVNdHJENGlQUWgtVW03eHFRcGhFZnBzZFZTenQ3N2psQy1pOU9VeEswMVpwN09xSS1HT3ZTNk44VmVHd2hQLURnejNIenRPN3YxNngwZTY3aWF1dVFDZ0g0ZFVaMjBPRDk3VmhhUzc?oc=5",
      "source": "WPTZ",
@@ -162,69 +218,53 @@
      "published": "2026-11-10T09:49:42+00:00",
      "summary": "New round of US-brokered Russia-Ukraine peace talks starts in Abu Dhabi&nbsp;&nbsp;Anadolu Ajans\u0131",
      "image": ""
-    },
-    {
-     "title": "Zelenskyy claims Russia is seeing 'record losses' in Ukraine war as peace talks resume",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHBlT1B2OEZJNVkwVUJacjloc3M1ZnRqajhyaDBBMFprNjdVSFhKUTdGMVBpUzcwWXFkaTFWejFTRVhzVzZPLUlhTGFrdXJCYUpWNzA0SUhFUFhrSFFRN0hLUUlmeVpwYVVDV0NGbjQwbXVpVlBoYVZzNHYwcE9fSE5QVzNIbzRkWVZ0UThQdWRQNDNfNFFfTEx0M0JKRUNVS0ZzM25OVVd2djJOcTdnSUFiYWgweHUydEEzQTZiWkdoQ0RmME0zeHJn?oc=5",
-     "source": "SBS",
-     "published": "2026-11-10T09:47:29+00:00",
-     "summary": "Zelenskyy claims Russia is seeing 'record losses' in Ukraine war as peace talks resume&nbsp;&nbsp;SBS",
-     "image": ""
-    },
-    {
-     "title": "\u2018Double amputees run marathons,\u2019 says Badenoch as she proposes \u00a336bn cuts to disability and other benefits \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T09:42:27+00:00",
-     "summary": "Conservative leader launches Welfare That Works policy documentThe US military has reportedly evacuated aircraft from a second airbase in \u2060Britain after a threat from Iran, Jamie G",
-     "image": "https://i.guim.co.uk/img/media/e1b411c6b1796244d573679921c2116ed2a37d7d/167_0_1518_1214/master/1518.jpg?width=140&quality=85&auto=format&fit=max&s=731b9ab59dfefd1e76767d29b2da94b3"
-    },
-    {
-     "title": "Trump says more US attacks on Iran 'highly unlikely'",
-     "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T09:40:31+00:00",
-     "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation change.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Trump\u2019s Ukraine peace plan is working great\u2014for Putin",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ01xUDVvUjdwNkFKWFo5bEpKcUpOVV81eGZwT0kxY2tqemJnUUFjQWI5Q1JpR0pVOEdzQUZLbExjMWJzanZqdE04RHdiY0xqOXVZZWVGbjA2VnF2Z0ZtT1dfQXRoY0xTWkp5OXZBalBWdUpZSVh5Nlp6TWxRbC0xb01mcV94Z3gydHN2VGFyQlY2Q3BCQzdBTWI3RFQ?oc=5",
-     "source": "T\u00fcrkiye Today",
-     "published": "2026-11-10T09:40:12+00:00",
-     "summary": "Trump\u2019s Ukraine peace plan is working great\u2014for Putin&nbsp;&nbsp;T\u00fcrkiye Today",
-     "image": ""
-    },
-    {
-     "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzZ0RHFBeDNtaUhHWXgyeTE5Xzk3VWZPdTV2OVRUQzJrNTJiZXJlcU5hSXpaeER1dExaejkyMnpFODZweEczZWJqOGdkRHVBb1F4TzljSkhTZHFDSjMzSmw1T2swYU5uTGhPSmt1d1p2TUVzWFlPYUthMHlQUV92dkVlZ1JaZUlpWHpUbF9tNVVJZ3pxejBqRkpsa1BrWjJ5bHNId09iWXlkQzRTdTQtMVhmQWRPWUdvVjRmUw?oc=5",
-     "source": "NPR",
-     "published": "2026-11-10T09:38:34+00:00",
-     "summary": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "US reportedly evacuates aircraft from RAF Mildenhall over Iran threat",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
-     "source": "The Guardian",
-     "published": "2026-11-10T09:32:55+00:00",
-     "summary": "Evacuation comes weeks after US withdrew bombers from RAF Fairford over suspected Iran-linked security incidentThe US military has reportedly evacuated aircraft from a second airba",
-     "image": "https://i.guim.co.uk/img/media/af04e0ad8236fe288041fbdcdd6bba810aba9aa1/0_173_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=a47bae74f3b22739cfbea6fffd16c20a"
-    },
-    {
-     "title": "US-mediated talks with Russia and Ukraine to start in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1dMRlVOLWxRMTc2aG1yVzdQQ0NDVzdncWtpWkZFc0hwa1VadWF1Y3UwSk1DMXp0TU83SjdfYVRNSVhjbVYyYm9mRWU3MmozNUhlQno0LWVGVWZhUUxabHhFNnpHLXE2MGtuOE13SnFEOWQyaHlzekVEeWlmWmY1dWQ1eVN2alREZkhGMVFSZXVNYWo2X3RjWkJqdVdXZw?oc=5",
-     "source": "Al-Monitor",
-     "published": "2026-11-10T09:30:25+00:00",
-     "summary": "US-mediated talks with Russia and Ukraine to start in Abu Dhabi&nbsp;&nbsp;Al-Monitor",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T10:18:43.449327+00:00",
+   "fetched_at": "2026-11-10T10:48:47.634892+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018Double amputees run marathons,\u2019 says Badenoch as she proposes \u00a336bn cuts to disability and other benefits \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T10:30:39+00:00",
+     "summary": "Conservative leader launches Welfare That Works policy documentIn an interview this morning, Lucy Powell defended her role in arranging for Ed Miliband to do an interview with Russ",
+     "image": "https://i.guim.co.uk/img/media/e1b411c6b1796244d573679921c2116ed2a37d7d/276_126_1238_991/master/1238.jpg?width=140&quality=85&auto=format&fit=max&s=7e38d10b303713eb23456f73d2d9a133"
+    },
+    {
+     "title": "Cop31 live: host Turkey celebrates new oil fields as climate summit enters second day",
+     "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T10:27:31+00:00",
+     "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this year.The president of last year\u2019s Cop30 in Br",
+     "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
+    },
+    {
+     "title": "China's 'impossible to ignore' tech rise on display at Web Summit in Lisbon",
+     "url": "https://www.france24.com/en/tv-shows/business/20261110-china-s-impossible-to-ignore-tech-rise-on-display-at-web-summit-in-lisbon",
+     "source": "France 24",
+     "published": "2026-11-10T10:22:50+00:00",
+     "summary": "One of Europe's biggest annual tech events, the Web Summit, kicked off in the Portuguese capital this week with the biggest ever delegation of Chinese business leaders and policyma",
+     "image": "https://s.france24.com/media/display/498e9888-dcf0-11f1-8931-29048b396e03/w:1024/p:16x9/capture-6e05e6b8.jpg"
+    },
+    {
+     "title": "Election 2026 by the numbers in Nebraska: a 93-county breakdown",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUpyOEp4TGNEbERvcE1MT2UzbHJWeGd0YXo5cXV1Tmp0ZFNkbmRidkpMRDFzeWpSOTJpU2hUcDFuM3lBRkxaZ3hSOEM3NjZYMlJSRjg2TGlXd1BwMjU2YUNWdlF2LXpnZU45YkFBM0puempxLUN4T1dTdWRmZ0EtRWd3V0ZoVFFTWW1mNXdxb01lc0R3QjFfbGlYUGVOUFptbXR1cmxR?oc=5",
+     "source": "Nebraska Examiner",
+     "published": "2026-11-10T10:20:20+00:00",
+     "summary": "Election 2026 by the numbers in Nebraska: a 93-county breakdown&nbsp;&nbsp;Nebraska Examiner",
+     "image": ""
+    },
+    {
+     "title": "South Africa's ANC slumps to worst-ever election result",
+     "url": "https://www.france24.com/en/video/20261110-south-africa-s-anc-slumps-to-worst-ever-election-result",
+     "source": "France 24",
+     "published": "2026-11-10T10:15:54+00:00",
+     "summary": "The African National Congress, which has dominated South African politics since the end of apartheid, took 30.76 percent of votes in municipal elections, its worst-ever electoral p",
+     "image": "https://s.france24.com/media/display/397a1b28-dced-11f1-87f5-f71d22e7fea9/w:1024/p:16x9/EN-20261109-214355-214550-CS.jpg"
+    },
     {
      "title": "DOJ sues Penn State over tuition policy for undocumented students",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWkzVFI4TDNieGlzVEk1N1hOMFlnU3lDaUdVcHNzemVEeWNBakhmVm1UNDZfcDRDREpGSzRLQnFVaGpnd040YWc5c2g5RjhzV0MtT3Z4NTFkVmxnUUhzdjhwY2ZjT2RjenhOeDlwQVN5RzZqSjVFV2lUQTFseWx5R3lLdEota2RueG9QLWk4YTZ3ZGRpaHRRRGwwWThOX2Fhcmo0QV9ZWHRpN0pvcWc?oc=5",
@@ -280,59 +320,19 @@
      "published": "2026-11-10T09:56:47+00:00",
      "summary": "What federal midterm election results mean for middle market tax policy&nbsp;&nbsp;RSM US LLP",
      "image": ""
-    },
-    {
-     "title": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
-     "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T09:54:48+00:00",
-     "summary": "UN climate summit prepares to host world leaders from more than 90 countries tomorrowA short update on our Cop31 bus journey from hell.We have arrived. It only took three and a hal",
-     "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
-    },
-    {
-     "title": "House GOP leaders face their post-election reckoning",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUVxMFlKYzBSTl8zOXFlX0FIWTZiVGo1b19Ha3M5Z1hYWVNuN2pDbG90enQ3a1RzUEVMcGYzQ3U2YlRTMWZKZzlxd3hvWmt0QmM5NnRmZHhjMkE5U3pGUE9ibEFJc2xJamU0azJSU01TbG10R0pjdzhrWWg5aWctNnBRSHZlWDdBbjBr?oc=5",
-     "source": "Politico",
-     "published": "2026-11-10T09:45:00+00:00",
-     "summary": "House GOP leaders face their post-election reckoning&nbsp;&nbsp;Politico",
-     "image": ""
-    },
-    {
-     "title": "Nvidia spy scandal fuels debate over chip exports to China",
-     "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T09:42:04+00:00",
-     "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO&#039;s relationship with alleged spy.",
-     "image": ""
-    },
-    {
-     "title": "Swing voters share their thoughts on the election results",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXUwUGc0OFg0VmVIa0FQSlFydHhZY0h4QUxzbHZOaENQTFJqbTFTU0JhalktNEVySExiaE1Pbi11TFNVYnhLcDhNVW1mNGR2dFlMWU8wUFRLRUJKWk1EWHBiZ0VoRklIM3ZuWGVuR19WT1dhbVNhM1NjYnVTYVBKRU95TVVWSklYTXlpSm1uX01WSTllaDdTRTJ4MG1iTjQ3UlVBcQ?oc=5",
-     "source": "NPR",
-     "published": "2026-11-10T09:38:23+00:00",
-     "summary": "Swing voters share their thoughts on the election results&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "Watch: Man smashes Chinese government building with excavator",
-     "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T09:37:15+00:00",
-     "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca0/live/95e26c80-dced-11f1-a701-fddedf244c16.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T10:18:43.449329+00:00",
+   "fetched_at": "2026-11-10T10:48:47.634894+00:00",
    "stale": false,
    "items": [
     {
      "title": "Oil prices fall to lowest since August as Trump says Iran war is \u2018effectively over\u2019",
      "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
      "source": "The Guardian",
-     "published": "2026-11-10T09:52:47+00:00",
-     "summary": "FTSE 100 and other markets climb after president downplays prospect of further strikes in Middle EastBusiness live \u2013 latest updatesOil prices have fallen to the lowest level since ",
+     "published": "2026-11-10T10:28:47+00:00",
+     "summary": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikesBusiness live \u2013 latest updatesOil prices have fallen to the lowest level since la",
      "image": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=904510b7206ac0ce08a6e9328e358b69"
     },
     {
