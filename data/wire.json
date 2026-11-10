@@ -1,10 +1,58 @@
 {
- "generated_at": "2026-11-10T07:48:24.842465+00:00",
+ "generated_at": "2026-11-10T08:18:28.695446+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T07:48:24.842437+00:00",
+   "fetched_at": "2026-11-10T08:18:28.695416+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T07:58:07+00:00",
+     "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
+    },
+    {
+     "title": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
+     "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T07:57:12+00:00",
+     "summary": "UN climate summit prepares to host world leaders from more than 90 countries tomorrowIn an attempt to get to the venue a bit early, I decided to ditch the tram and try the special ",
+     "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
+    },
+    {
+     "title": "France threatens actions against Iran over supermarket cyberattacks",
+     "url": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+     "source": "\u00a9 Fred Tanneau, AFP",
+     "published": "2026-11-10T07:43:55+00:00",
+     "summary": "France will seek Europeans actions against Iran in response to cyberattacks on hundreds of supermarket fridges, Foreign Minister Jean-No\u00ebl Barrot said Tuesday, after accusing Tehra",
+     "image": "https://s.france24.com/media/display/7a7a3c24-dcda-11f1-9a72-f71d22e7fea9/w:1024/p:16x9/da8f65893059c2a60634f440f726825d42694898.jpg"
+    },
+    {
+     "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+     "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T07:43:11+00:00",
+     "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086e/live/fef85ea0-dcd9-11f1-a8e1-e3454837ffc6.jpg"
+    },
+    {
+     "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi\u2019s new memoir",
+     "url": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+     "source": "The Guardian",
+     "published": "2026-11-10T07:30:31+00:00",
+     "summary": "From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider\u2019s account of India\u2019s political evolutionFew love stories have",
+     "image": "https://i.guim.co.uk/img/media/d2e894a22b72fea95ed08e3a70d3924f4ca19359/2314_387_3859_3088/master/3859.jpg?width=140&quality=85&auto=format&fit=max&s=f50ca4fe4fab425da5723c61ac2b25e8"
+    },
+    {
+     "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+     "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+     "source": "The Guardian",
+     "published": "2026-11-10T07:30:15+00:00",
+     "summary": "Legal action comes as Donald Trump says FBI is investigating tech company CEO\u2019s links with Alice HuangBusiness live \u2013 latest updatesNvidia\u2019s board needs to do some succession plann",
+     "image": "https://i.guim.co.uk/img/media/4bb2aea3a751225099085e5a566972be04e8a7e5/0_0_6941_5553/master/6941.jpg?width=140&quality=85&auto=format&fit=max&s=1a5f7b29468cfdbf6df3ed994cc501c3"
+    },
     {
      "title": "Australia tightens AI oversight rules after OpenAI government breach",
      "url": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
@@ -68,66 +116,74 @@
      "published": "2026-11-10T06:16:43+00:00",
      "summary": "The midterms exposed the vulnerability of Republican dominance in Florida.",
      "image": ""
-    },
-    {
-     "title": "Cricket Australia will not open another investigation into \u2018sandpapergate\u2019",
-     "url": "https://www.aljazeera.com/sports/2026/11/10/cricket-australia-will-not-open-another-investigation-into-sandpapergate?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T06:13:00+00:00",
-     "summary": "&#039;We\u2019re comfortable with the outcome of the investigation,&#039; Cricket Australia chief says after Khawaja&#039;s revelations.",
-     "image": ""
-    },
-    {
-     "title": "Live: Ukraine, Russia and US to resume peace talks in Abu Dhabi",
-     "url": "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi",
-     "source": "\u00a9 WAM, AP",
-     "published": "2026-11-10T06:09:26+00:00",
-     "summary": "Negotiators from Ukraine, Russia and the United States are meeting in Abu Dhabi for their first trilateral talks in more than nine months, as Washington pushes for an end to the wa",
-     "image": "https://s.france24.com/media/display/9bd61a5c-dcba-11f1-ad47-bf1914cabd52/w:1024/p:16x9/AP25048606702382.jpg"
-    },
-    {
-     "title": "Can the Republican Party survive Trump?",
-     "url": "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T06:08:54+00:00",
-     "summary": "The party faces a battle for its future after the midterms, but Democrats may ultimately determine whether it recovers.",
-     "image": ""
-    },
-    {
-     "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence \u2018going rogue\u2019",
-     "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
-     "source": "The Guardian",
-     "published": "2026-11-10T06:00:52+00:00",
-     "summary": "Government flags criminal law changes to ensure companies can\u2019t argue in future \u2018that someone didn\u2019t know the computer was loaded\u2019Get our daily political email, free app or daily n",
-     "image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8860562d2849d1681cc78614e56d9f4f"
-    },
-    {
-     "title": "New Knesset speaker could be key to ousting Netanyahu as Israel\u2019s PM",
-     "url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
-     "source": "The Guardian",
-     "published": "2026-11-10T06:00:31+00:00",
-     "summary": "Opposition politicians get first chance to take control of levers of power, even as they struggle to form governmentIsrael\u2019s new Knesset will be sworn in on Tuesday, giving opposit",
-     "image": "https://i.guim.co.uk/img/media/3fe596f228dd31c620c353de960e5ee320d60061/1797_368_3116_2494/master/3116.jpg?width=140&quality=85&auto=format&fit=max&s=1ac25966c017063bc0b854f8821bacdb"
-    },
-    {
-     "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
-     "url": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
-     "source": "The Guardian",
-     "published": "2026-11-10T06:00:30+00:00",
-     "summary": "Jens Eskelund says Europe may need to allow its companies to become part of Chinese firms\u2019 supply chainsEurope\u2019s manufacturers could give up on attempting to compete with their Chi",
-     "image": "https://i.guim.co.uk/img/media/e1035f797cd03f2b0cc1d628d816df8072bbfa03/329_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=110d3a2338b374252f82a2f881338df5"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T07:48:24.842451+00:00",
+   "fetched_at": "2026-11-10T08:18:28.695432+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US officials seek \u2018final end\u2019 to Russia-Ukraine war as Abu Dhabi talks begin",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3pqanZMNlVOWHB0OGxZWFRSZERjUHhvV3VYc1drZUx4bUk0aDRadGdYUDd6Zy1uOHRlbTZ2MWFSWFpXdzJmakhydFo0STBMSjRESEU2X1Y0Y19jbldtNVFFdEZvajU0c3ZlOXljYjhuVFl5VUlZVlk3UmdqNDljeHNQYUJnUFl0MGlTTTZiMDRwNjVNYkc4ZA?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-10T08:14:00+00:00",
+     "summary": "US officials seek \u2018final end\u2019 to Russia-Ukraine war as Abu Dhabi talks begin&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Russia Suffers Record Troop Losses In One Day: Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFZ5TDhpcU8zNWlBblA4UGRRT1FKSk0ySjFpeUwzSFNoMWpMRXR4U0ZNbzI0U3UwbFVRZkdvVUtzX0Q4em4xX3BEYUxYQk9RbUVadENKMHZ0WnJXYjRGQWFfM2Vzc2I0Y1RMQTMzdGt2blI3Rll3LVRES2tiend2bHJ1MVFyOWxLak5SZU1vM2E?oc=5",
+     "source": "Newsweek",
+     "published": "2026-11-10T08:09:00+00:00",
+     "summary": "Russia Suffers Record Troop Losses In One Day: Ukraine&nbsp;&nbsp;Newsweek",
+     "image": ""
+    },
+    {
+     "title": "Ukraine peace talks resume in Abu Dhabi after months-long pause",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
+     "source": "BBC",
+     "published": "2026-11-10T07:58:07+00:00",
+     "summary": "Ukraine peace talks resume in Abu Dhabi after months-long pause&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T07:58:07+00:00",
+     "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
+    },
+    {
+     "title": "Ukraine, Russia, US Set for Abu Dhabi Talks as Fears Grow Over Territorial Concessions",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFl2SUVhYjF3VnJuOUFuODE2WHRZV3ZCdktzbUFhYVk0QkFUVHdoVTFLU3N0OHYybkxCa1pVN29tcFhZeEdiLWtYR0ZHQWoyVmVLdHZyLUVkMmJpUXRTc1dDem1OMTFLOXQ1bzBWS3FIb2RZeFpZaFI3cU1GdXJNdGdCcGF5YXNWeF94N2wyXy1BU2l1LUt1QlhvWjJsODMxTGI1N1JtaEN6UVNaa0hZc0hhRnhDbnhydHFyanNLRzRITmpSQmtn?oc=5",
+     "source": "Kurdistan24",
+     "published": "2026-11-10T07:48:00+00:00",
+     "summary": "Ukraine, Russia, US Set for Abu Dhabi Talks as Fears Grow Over Territorial Concessions&nbsp;&nbsp;Kurdistan24",
+     "image": ""
+    },
+    {
+     "title": "France threatens actions against Iran over supermarket cyberattacks",
+     "url": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+     "source": "\u00a9 Fred Tanneau, AFP",
+     "published": "2026-11-10T07:43:55+00:00",
+     "summary": "France will seek Europeans actions against Iran in response to cyberattacks on hundreds of supermarket fridges, Foreign Minister Jean-No\u00ebl Barrot said Tuesday, after accusing Tehra",
+     "image": "https://s.france24.com/media/display/7a7a3c24-dcda-11f1-9a72-f71d22e7fea9/w:1024/p:16x9/da8f65893059c2a60634f440f726825d42694898.jpg"
+    },
+    {
+     "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+     "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T07:43:11+00:00",
+     "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086e/live/fef85ea0-dcd9-11f1-a8e1-e3454837ffc6.jpg"
+    },
     {
      "title": "French Minister: Europeans will attend Ukraine-Russia talks in Abu Dhabi",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTRtcThEeEtKbVRrck9iRjBNQXZTNU9hRm40WENmbnJGMU00UGxqY0FrOXdzVmRhSXNxVGl3aFU5R3VyNzVxSWw5NkU3VC0zLUwxODRGeURadUliUUUtc3IzX042SDZQVEJxdy1QSXVWR0xyTDM3SGpGN1c1U0haMzV5RUxGUGVtemYtemJNUUxDYWlTNWw4V2sybGR5YldzcUM1LWpHRDB0Z2JxcTc4?oc=5",
      "source": "Arab News",
-     "published": "2026-11-10T07:30:00+00:00",
+     "published": "2026-11-10T07:30:55+00:00",
      "summary": "French Minister: Europeans will attend Ukraine-Russia talks in Abu Dhabi&nbsp;&nbsp;Arab News",
      "image": ""
     },
@@ -140,19 +196,19 @@
      "image": ""
     },
     {
-     "title": "US, Russia and Ukraine to restart talks in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3g5ZmlOUy05MzA4S2dldTFlNjZsME9wNVBaMTZNaWVaY3d3RXYtMktELUhEX2dMUHRhYS1rNUc1UHh4Z29aZUg0OG4tU1hleEkxTEVfNVdlbllxR2ZNTURPTGQ2NHV3cTlBbkgxYkRZS0NNWGtiekItN0xxUzhDYUlBeDJ1S0pvUFUxZDJ4Y3c?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-10T07:21:01+00:00",
-     "summary": "US, Russia and Ukraine to restart talks in Abu Dhabi&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
      "title": "(2nd LD) Top diplomats of S. Korea, France discuss ties, Ukraine war",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5OTNUekkzczBIdzVXYy1TNUdxNVdJRmtQcF9uOXJ5eTNxTjBnaVpqN1FzN3dQbnRBcjRZeFF5Y2RwdXM0TjZGbzd6T3pkcFU2TzhsazlEbC1Kdw?oc=5",
      "source": "Yonhap News Agency",
      "published": "2026-11-10T07:16:32+00:00",
      "summary": "(2nd LD) Top diplomats of S. Korea, France discuss ties, Ukraine war&nbsp;&nbsp;Yonhap News Agency",
+     "image": ""
+    },
+    {
+     "title": "G7 attention in Paris turns to Ukraine while U.S.-mediated talks get underway in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaGM1elF0elA0cFA1RzFPQ2lreDA1VzVsb0dpS3lMTHVoQnVIY0UzN09oVzViT29JN0tSM0llMkpTTGRKWFlEdHFfd1hmUFo2V3E4SFg3UFQwQWRJVHhGM2JEY2x0bEN1NlprUW9oS3pHOGlWdU1Jd3lqSWRKdHhHT1gzZUxFWTRwOW9JbVVXTlY1VWZ4OXFtOXFwTXQ2YWlPUzc5bDBnQ0xxMHJyRTJ4WXZuR3NSVG5Oa3ZxemtiV1V4NlJZbFQ4RjBXeHU2LTJfNHAteC1xNjdMUUowYlNHaHI4OGk0eGPSAe4BQVVfeXFMUGJzR3JSekZrSUlrMVN5ZjhVekRPM0ZUU0pJNUhlcUhWYVUtbkhVZGFRQ2NsZkxpTi1zbUZUekxfNnVFSHg0VDV0UzZib09LdXpFcnN1N215alhMQTVEVkFhTTMzYVJGc2ZPOWNoS0RoNzNtbzI4djdlQkY3dUhndWxUM1VvZUFFYnVfRmpfdkRBVTI0Zl9mZ1pULU5iWUdPcFRhNlVyOEJITkFhU2czejZmbVdvemh3ZGNWNFVEdFVjNm1Sc2t1bHZiWWV1SEt0WVdzc19WeklqdkdSSlFBc09aM1lIdnpGRTR0eFowZw?oc=5",
+     "source": "The Hindu",
+     "published": "2026-11-10T07:12:42+00:00",
+     "summary": "G7 attention in Paris turns to Ukraine while U.S.-mediated talks get underway in Abu Dhabi&nbsp;&nbsp;The Hindu",
      "image": ""
     },
     {
@@ -162,75 +218,35 @@
      "published": "2026-11-10T06:59:51+00:00",
      "summary": "Past talks involving Russia and Ukraine have yielded little progress toward peace&nbsp;&nbsp;The Hindu",
      "image": ""
-    },
-    {
-     "title": "India news: New Delhi ready to mediate Black Sea food corridors, says Ukraine's Zelenskyy",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0JJTE8yclp5ek9idEtqb0Y4Y2cweVpyX0xtNnJDM2trU0VGa1JjTG1hS3lYa3RkeGx4UFFoNnJ3VEpjRUR3Y3A1eUVndTFBbnNveFVYcE52QnIzQ2lpU3ByY1RtT29rZHFxd1NiTi1aMC0tWWZKLUxwZ0QtUmMyUFFGclZ3QnlMR0NieXBSLXpCWE85Zmk1eGdVN00yeWptVGRYRWx5aHdjNVJfbm54cExWenZMdGxyMm8wQm5Wbw?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-10T06:56:37+00:00",
-     "summary": "India news: New Delhi ready to mediate Black Sea food corridors, says Ukraine's Zelenskyy&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "Leaked Russian deaths from Rosstat show 400,000 war deaths, hackers say",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkJhd2dHVW84ZmUzdjdCek8zOHA5TTA5cTlfbFVOTWdpMDBTa1hLZVU1ejFiNzBFVFRGTUp0Q1JyRk1PeDJCM0JkWDJQZ3A1UkNNTm5IOWl1YUdTSmhLWEczNU1sLVlEME4yVWZHeEU5enBuY1A4RkprX0t0U2dvbUFUVnJSTW5LeGFoZFY4WFBhU2pHZFVNejRoaHQ?oc=5",
-     "source": "Business Insider",
-     "published": "2026-11-10T06:56:00+00:00",
-     "summary": "Leaked Russian deaths from Rosstat show 400,000 war deaths, hackers say&nbsp;&nbsp;Business Insider",
-     "image": ""
-    },
-    {
-     "title": "Leaked federal Russian records show 400,000 war deaths in Ukraine, hackers say",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV93aXRGMkRocEVZT3JxNjUyRElBSVpTeVNSMzdkdXl1RFlTTVlqelhRUlowTHpSZXRKanZQRWdYV1llY092MXdoTnZvY2NzVXF6bmwtM3czVmVsTm9kZ3doMWhmdk9mN3AyTG1EcE9aTnltYUJ4UWxfaVFjUVFINmt6UWZ4UnRVZHlLVGZZYWZQd25YOE8w?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-10T06:56:00+00:00",
-     "summary": "Leaked federal Russian records show 400,000 war deaths in Ukraine, hackers say&nbsp;&nbsp;Yahoo",
-     "image": ""
-    },
-    {
-     "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
-     "source": "The Guardian",
-     "published": "2026-11-10T06:46:53+00:00",
-     "summary": "The reported evacuation comes weeks after the US withdrew bombers from RAF Fairford over a suspected Iran-linked security incident The US military evacuated aircraft from a second ",
-     "image": "https://i.guim.co.uk/img/media/af04e0ad8236fe288041fbdcdd6bba810aba9aa1/0_173_4367_3494/master/4367.jpg?width=140&quality=85&auto=format&fit=max&s=a47bae74f3b22739cfbea6fffd16c20a"
-    },
-    {
-     "title": "Promised Jobs In Russia, Bangladeshis Instead Find War, And Death, In Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmdaemNlWlVNaTd1cEpHcjV3dVNEYU5VeThCejZfbk4wc1hwN2ZxSFR2NUlJZEhQUnFhQlp4Si1tOERVU1dFWTdCZEJJSXBWWXpfTWlqT2V6dFc3aDFmU0RWLThIV0pXVnZQQUR1TVVBYlJ1aHZ5OVZQUGVRb3Y0WkdYMWbSAYcBQVVfeXFMTUFPclNOZ2daOVRDUzhka0U3TnUya3JtTHFmdHl5MDNhdTg2S25YLTM1d0Y2bWVZVEtYSGw0aEJMTXJ6amVUd0tvMUs1NmVvWkYyQ09zbVlvNnJ2Yl9kWk04QVh2Y0JwWkc5Rk81U0FpR3VyeHFCWUpBc005NnZyWWVQWGZZVUY4?oc=5",
-     "source": "Radio Free Europe/Radio Liberty",
-     "published": "2026-11-10T06:44:44+00:00",
-     "summary": "Promised Jobs In Russia, Bangladeshis Instead Find War, And Death, In Ukraine&nbsp;&nbsp;Radio Free Europe/Radio Liberty",
-     "image": ""
-    },
-    {
-     "title": "Latin American Workers Report Anticipated Labor Vulnerability from Russia-Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTV1b0RZZS10MHItUmtxdWJ3eXY0TXFIRXp2QWpmVGhLTk5WNHc1eW4wbmJNY0swY1ozUGlTa0dsZ1JuREZLQVhLUlQtUHhhQjZJLXRzR2pXZW13VmVGTExlM1JMcmI3MFBTekZyOFJwSjFSZTRrRVNpSi1ZOEpSWjZ4SWtwSkg2SXM3ZXhDdW1uVGpiVEJhOHA4Sl9CWmF2YUpPYWFOQzUzVTVjZ1FB?oc=5",
-     "source": "Bioengineer.org",
-     "published": "2026-11-10T06:43:45+00:00",
-     "summary": "Latin American Workers Report Anticipated Labor Vulnerability from Russia-Ukraine War&nbsp;&nbsp;Bioengineer.org",
-     "image": ""
-    },
-    {
-     "title": "Palestine Weekly: West Bank on fire \u2013 and Gaza\u2019s tents under water",
-     "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T06:37:13+00:00",
-     "summary": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T07:48:24.842455+00:00",
+   "fetched_at": "2026-11-10T08:18:28.695436+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
+     "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T07:57:12+00:00",
+     "summary": "UN climate summit prepares to host world leaders from more than 90 countries tomorrowIn an attempt to get to the venue a bit early, I decided to ditch the tram and try the special ",
+     "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
+    },
     {
      "title": "Surrey school faces post-election decisions",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1JieTlqU3prNGpRUEJPR0VULThtTC16NnVkV2dpSENtUlVKbjZBWmZCbmFuYWlLQmVLc1B4TjFRMUV0VTZiVUZwNEVwZGpfV21KZlJuX1dpQWhQbW5XaWwzenNMRkV0b193bmN2SVZrXzJBWk9ONk1ia1ZIb2c2M1djWWpjOHBndG9NanJBZlV2T1JmVGdxcTRRNlJhZ2VX?oc=5",
      "source": "Minot Daily News",
      "published": "2026-11-10T07:30:00+00:00",
      "summary": "Surrey school faces post-election decisions&nbsp;&nbsp;Minot Daily News",
+     "image": ""
+    },
+    {
+     "title": "Wood Commission canvases election results, no races were changed",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmhFOTRPN19BMHQ2SmthVk85b1R1WHNSNW1GeHhXSlJadEhlRC1zTGpMTlI2MGNIVEZDQmFXeE1TSVVFeHNZZTVlaEhpX1k1RmlIUjFuUkZLOUNwbXhrUWtrM2xvNE9DaTJwMHB2VkdSNkJUdW82VjVqRUdvamVBS0RjaGMwbXpheVEwc21qMXRZbmk2dzFpaWtJdTAtbWEycndYdlkyeVB1Qnlhc1VWYWp5VUFrOVBtNEpoOA?oc=5",
+     "source": "News and Sentinel",
+     "published": "2026-11-10T07:17:44+00:00",
+     "summary": "Wood Commission canvases election results, no races were changed&nbsp;&nbsp;News and Sentinel",
      "image": ""
     },
     {
@@ -304,27 +320,11 @@
      "published": "2026-11-10T04:57:41+00:00",
      "summary": "Policy in Practice: A Look Inside D.C. Start\u2019s First Semesters&nbsp;&nbsp;The Cornell Daily Sun",
      "image": ""
-    },
-    {
-     "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as \u2018GOAT\u2019",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-10T04:44:32+00:00",
-     "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emergeGet our breaking news email, free app or daily news podcastOne Nation Victoria has disendorsed a",
-     "image": "https://i.guim.co.uk/img/media/ffd2084856240a692fa1884c87559b8ff08d3986/329_0_3288_2631/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=7961765fc52974fa23d75a5acda4119f"
-    },
-    {
-     "title": "South Carolina election officials to determine whether 2nd Congressional District race requires recount",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkFnZjVWTi1wY0VWb0R2dnFyWWFzQ3FhbkdFUkU0OXZ6ajJlbTQwQjBpRktmSTlZcTFWLWF3d0tRMUQwSlNhOG5lVm5XdWJsU2h0R21aS0FMTVlBQnhEWWtGTzNTVGgtRmFMelVLUngxQmtQTDFMY1VDOTZhT3NFaEtVTFFDNF9MalIxejFueGE5ZFBESmM3MjRCcjBoRUZFTGUwSDkzRFVnMEM3RldacUVTSnI1Z25rWDl3ZldOVE9EbTE0Z1ZsVVdhUkhRa2vSAeMBQVVfeXFMUGpxeFZpMGl6ZXN2S0x3VFlJVS1VcEczMGxrdGlyelBNNlg2MERLd3RGbkR5LWJtZXZLcF9tb2R2UjZtU2tJTjBkWks0cnhGbFdjRTdSOG8zVnNXYjJQd1NKQWVmdlVpY1laSU1jcXdTcHB5NmRpSS1oM3RZRUgzYXJZV1VIY3dRMmtLMll6dHNQcmU1X1RITzRWUHRKVTFCTE5lelYyR2pLbzFuOVRTOTI3RXhqQ0tpSTNoS2dwamJtUnVkNV81Q1dGZTYtdHJGcmxxYUJ4aGphR1dEZ3M5cWdOTDA?oc=5",
-     "source": "WIS News 10",
-     "published": "2026-11-10T04:40:00+00:00",
-     "summary": "South Carolina election officials to determine whether 2nd Congressional District race requires recount&nbsp;&nbsp;WIS News 10",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T07:48:24.842457+00:00",
+   "fetched_at": "2026-11-10T08:18:28.695438+00:00",
    "stale": false,
    "items": [
     {
