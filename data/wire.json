@@ -1,25 +1,81 @@
 {
- "generated_at": "2026-11-10T14:19:24.027125+00:00",
+ "generated_at": "2026-11-10T14:49:27.098709+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T14:19:24.027108+00:00",
+   "fetched_at": "2026-11-10T14:49:27.098690+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
+     "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T14:46:50+00:00",
+     "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "First day of Ukraine peace talks 'very productive', US says",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T14:36:57+00:00",
+     "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3c/live/e82766a0-dd04-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Cop31 live: \u2018Everything and everyone we love is at stake,\u2019 Greta Thunberg warns",
      "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T14:09:31+00:00",
-     "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this yearWe\u2019ve just heard from Patricia Espinosa, ",
-     "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
+     "published": "2026-11-10T14:34:05+00:00",
+     "summary": "Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countriesWe\u2019ve just heard from Patricia Espinosa, the former UN climate b",
+     "image": "https://i.guim.co.uk/img/media/47457ae1d2f65d9c931aab85f6adfdd5fd8aaf11/1002_0_5011_4011/master/5011.jpg?width=140&quality=85&auto=format&fit=max&s=1edc3cf7475bd5f0c139f510cb79b299"
     },
     {
      "title": "Pete Hegseth dismisses Republican\u2019s impeachment effort against him as \u2018a political spectacle\u2019 \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T14:06:06+00:00",
+     "published": "2026-11-10T14:33:44+00:00",
      "summary": "Trump\u2019s defense secretary calls impeachment effort from congressman Thomas Massie \u2018a personal manifesto driven by ego\u2019 as he faces scrutiny for prolonged Iran warSign up for the US",
      "image": "https://i.guim.co.uk/img/media/cfacb3a0788280a626230564a0712ec43525aabe/125_0_3405_2724/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=a6ae2819abc9fc3420e67ed2eddb24e8"
+    },
+    {
+     "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+     "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T14:29:00+00:00",
+     "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "How a Nigerian vendor survives on selling local street delicacy",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/how-a-nigerian-vendor-survives-on-selling-local-street-delicacy?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T14:28:17+00:00",
+     "summary": "In Nigeria, okpa is a traditional delicacy mostly sold on the streets.",
+     "image": ""
+    },
+    {
+     "title": "What is Shahid Kaveh, \u2060\u2060the Iran cyberunit tied to France\u2019s fridge hacking?",
+     "url": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T14:27:45+00:00",
+     "summary": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
+     "image": ""
+    },
+    {
+     "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+     "url": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+     "source": "NPR",
+     "published": "2026-11-10T14:16:53+00:00",
+     "summary": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
+     "image": ""
+    },
+    {
+     "title": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T14:13:42+00:00",
+     "summary": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrowUS officials seek \u2018final end\u2019 to Russia-Ukraine war as talks beginThe EU has said it stands r",
+     "image": "https://i.guim.co.uk/img/media/774a5dca29c43ddae2d2e6ed0635d0a715d82ac7/1079_0_6831_5465/master/6831.jpg?width=140&quality=85&auto=format&fit=max&s=e1904a594d92d353ff19e93d910d9cb6"
     },
     {
      "title": "Historic ocean liner to \u2018live on\u2019 beneath waves as world\u2019s biggest artificial reef",
@@ -28,14 +84,6 @@
      "published": "2026-11-10T14:05:32+00:00",
      "summary": "The SS United States will sink off Florida coast to become an artificial reef, ending long-running wrangle over its fateFinal preparations were under way on Tuesday to sink the wor",
      "image": "https://i.guim.co.uk/img/media/6a6d687930714850b41360ed6de543ca41d5978f/1130_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=8bcfb6d3be8bcdcb0cbb71bfe9ca80bf"
-    },
-    {
-     "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
-     "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T14:04:22+00:00",
-     "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
     },
     {
      "title": "Iraq bars Iranian football team\u2019s plane from landing in Basra: Report",
@@ -68,163 +116,123 @@
      "published": "2026-11-10T14:01:09+00:00",
      "summary": "This year&#039;s Saudi Arabian Grand Prix was scrapped following the outbreak of the US and Israel&#039;s war with Iran.",
      "image": ""
-    },
-    {
-     "title": "Victorian Labor\u2019s \u2018unforgivable\u2019 preferences decision risks Liberal-One Nation government, Greens warn",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/11/labor-decision-greens-preference-one-nation-battleground-seat-prahran-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-10T14:00:55+00:00",
-     "summary": "Exclusive: Ellen Sandell says Labor\u2019s decision not to back progressives in key inner-seat could hand power to right-wing coalition in close electionGet our breaking news email, fre",
-     "image": "https://i.guim.co.uk/img/media/9d32561abf0d126f789349d95d6ff3b23d747922/477_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=c48efa7172e679c27fc3ed4366b16cf1"
-    },
-    {
-     "title": "Meta\u2019s AI age-check goes global: Can it protect teens?",
-     "url": "https://www.aljazeera.com/news/2026/11/10/metas-ai-age-check-goes-global-can-it-protect-teens?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T13:58:37+00:00",
-     "summary": "The tech giant rolls out age-detection tool for Instagram and Facebook, but experts doubt whether it can help protect teens.",
-     "image": ""
-    },
-    {
-     "title": "Who is Jean Leonard Teganya, deported by US over Rwanda genocide claims?",
-     "url": "https://www.aljazeera.com/news/2026/11/10/who-is-jean-leonard-teganya-deported-by-us-over-rwanda-genocide-claims?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T13:54:35+00:00",
-     "summary": "Teganya, a former medical student, is accused of participating in the 1994 genocide against the Tutsi in Rwanda.",
-     "image": ""
-    },
-    {
-     "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T13:45:13+00:00",
-     "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff4/live/cdef63c0-dd0c-11f1-97df-bd0937690c4d.jpg"
-    },
-    {
-     "title": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T13:39:53+00:00",
-     "summary": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrowUS officials seek \u2018final end\u2019 to Russia-Ukraine war as talks beginThe EU has said it stands r",
-     "image": "https://i.guim.co.uk/img/media/774a5dca29c43ddae2d2e6ed0635d0a715d82ac7/1079_0_6831_5465/master/6831.jpg?width=140&quality=85&auto=format&fit=max&s=e1904a594d92d353ff19e93d910d9cb6"
-    },
-    {
-     "title": "Attacks escalate between Saudi-led forces and Yemen\u2019s Iran-backed Houthis",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T13:39:22+00:00",
-     "summary": "Saudi Arabia says it intercepted missiles fired by the Iran-backed Houthis in Yemen as attacks between them escalate.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T14:19:24.027116+00:00",
+   "fetched_at": "2026-11-10T14:49:27.098699+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Abu Dhabi Talks: Setting Conditions for a Settlement to End the Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjbUdlUkpNbzRXZnV6NFdQWmZBbVJ6cFVVN192UHQtTExneHVrWC1NMEtuOHJxR2xVTzdmWEtQZi1zdDZFTXVsR3RwZGx4NXJU?oc=5",
+     "source": "Yemen Online",
+     "published": "2026-11-10T14:47:24+00:00",
+     "summary": "Abu Dhabi Talks: Setting Conditions for a Settlement to End the Ukraine War&nbsp;&nbsp;Yemen Online",
+     "image": ""
+    },
+    {
+     "title": "Lavrov rejects immediate ceasefire ahead of talks on security guarantees",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSjNmQWI4ZGhTT1QwdUNBNTJqY3dZSjB6bHRjam51VU1IZ3BNbXFqcC1RY3dUN3RBS09hUWpiOTBWUHJHSHVTcGhCQzZodmZJQzE3RVB2cjBRV1NVQ0pmSjEtTzc3eWEyQVNKc25NcGNEQjM0aFFHSG5TelE1S0lSX0JXS3pJaFVxdk9MRUVMZFJ2dzhRY2RGSVpjNXNxc1hDUXUyZVRQZlRSLTlxdU1tcUh3Z9IBrwFBVV95cUxQTEpSUGRsNVJiUWhDRFJmRHp2b3l2MHJub0F0MFNmN3VjZWFFRnNzVVJwQmZhWG9GRThSUjVmRTdEZWZKUk5FTEp2R0F6bmM4emZyQnRkS3hSdkd4TFlsVjB5YmdhVnJpaDQxVDllTm9QcEU2QXlaakdHMkVrX1NxRUZVRTkwSW9qZG5BUlRjTlgwdHRZaklqZXRxcGttRnJkU0JhVFRqcW9Ea2xjVGRj?oc=5",
+     "source": "The New Voice of Ukraine",
+     "published": "2026-11-10T14:37:00+00:00",
+     "summary": "Lavrov rejects immediate ceasefire ahead of talks on security guarantees&nbsp;&nbsp;The New Voice of Ukraine",
+     "image": ""
+    },
+    {
+     "title": "First day of Ukraine peace talks 'very productive', US says",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5",
+     "source": "BBC",
+     "published": "2026-11-10T14:36:57+00:00",
+     "summary": "First day of Ukraine peace talks 'very productive', US says&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe Seeks Role",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnNPdHM4dmRLQ1ppR1ZSZDYtT0ptM3dsMWktcDJjSXFvZ01ZVjl3UzNPYTlnODUteFZhN1dDVFdGN3VubWhrbW8xcS01UDVURXY2SzVvZlhZeWlVQUhUaUtuMVlwMEE0R1VIRnNFQlNKZWh5Mm4yMkxneTdFRG93VEhOQ2HSAYcBQVVfeXFMTzB3TWZFbFNrVjJVTXdXREJGSDJEcUtoa3MwYkxRNTNBQ1BHMDY2NmpQZ0FVZnNhMW9RcHk0TVNYVGwxeU1uMVZ2SjVJeWw4UFZjQWZVZlhCSkZuU3ZEbzFNemM2Qi0zUjFULTJDWFE2b3FZVEphXzBNdEptMXZjUnNBWlhVRzhR?oc=5",
+     "source": "Radio Free Europe/Radio Liberty",
+     "published": "2026-11-10T14:35:45+00:00",
+     "summary": "Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe Seeks Role&nbsp;&nbsp;Radio Free Europe/Radio Liberty",
+     "image": ""
+    },
+    {
+     "title": "Cop31 live: \u2018Everything and everyone we love is at stake,\u2019 Greta Thunberg warns",
+     "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T14:34:05+00:00",
+     "summary": "Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countriesWe\u2019ve just heard from Patricia Espinosa, the former UN climate b",
+     "image": "https://i.guim.co.uk/img/media/47457ae1d2f65d9c931aab85f6adfdd5fd8aaf11/1002_0_5011_4011/master/5011.jpg?width=140&quality=85&auto=format&fit=max&s=1edc3cf7475bd5f0c139f510cb79b299"
+    },
     {
      "title": "Pete Hegseth dismisses Republican\u2019s impeachment effort against him as \u2018a political spectacle\u2019 \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T14:06:06+00:00",
+     "published": "2026-11-10T14:33:44+00:00",
      "summary": "Trump\u2019s defense secretary calls impeachment effort from congressman Thomas Massie \u2018a personal manifesto driven by ego\u2019 as he faces scrutiny for prolonged Iran warSign up for the US",
      "image": "https://i.guim.co.uk/img/media/cfacb3a0788280a626230564a0712ec43525aabe/125_0_3405_2724/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=a6ae2819abc9fc3420e67ed2eddb24e8"
     },
     {
-     "title": "EU, US and NATO press for Ukraine security guarantees after Abu Dhabi talks",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkIwaTZKdEh1bVllS2lSeUxEdE4wRnRHUDcycEwyT0lya1N2emh4dGNPbG5uQUtrYWpreHFkaktqbVZFWFhyM3UwVkZZTGJkTHg5T1JpcWVQcXBQY0Jvd25ObUdKR3pCQWFTNjR1V0xJV2IxV2t4TWpuNmJZeWhJY2RZMW5pSzFRcmVPSVRlT3kxZnUwWmJlODd2RHExUHQxM09SVk1fd1ZQRERZeWpKV1FiVENMOUnSAbMBQVVfeXFMUGhHNWdoMEg4ZGhwVkVIY1hOaGZIa1NkU3QtQmxQNXAxeXlVTF8xRU1HMWJlSkFoQ0xtZTZ5aDIzSVJCdS1xQlNSR1M4cGxlTktTZHVJS1dLSFN4d2VYNDNnMlFFZ2l0YXBsNFdFX0d1QlgzYXFsd3BHaU5EUHYtUmJiaTNRTVpFRkNhb3hFb1FFVk9jcnByM3lnR1lwZ3d1UndXcEhtd0hUMjVYRVNvVXRzQnc?oc=5",
-     "source": "The New Voice of Ukraine",
-     "published": "2026-11-10T14:04:00+00:00",
-     "summary": "EU, US and NATO press for Ukraine security guarantees after Abu Dhabi talks&nbsp;&nbsp;The New Voice of Ukraine",
-     "image": ""
-    },
-    {
-     "title": "Ukraine talks begin, India pushes for safe Black Sea, quick end to war",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWdrclJpWk9aWXRoNl9UdmVHUWNCNjVILTJwOEpZdlhzNmJ3bGlNeGQ5RFREZ1RlZkFIdmRNckJVTU5HekVFQ3AzSUlhSjl3ZmkxdDB4T2luMmpuNXp0Z0NEcnViblkzRXU5am5KU05DRzg0QTNqZzBMek4zVWdLMm5qYlc2SXcyOFRtMEpUN1pGYzYtbnlYMml0b21OVlZMdUNFVDZkSlgxOUtsRFdfZHZDenZxdmJTNG9RRkhJaXUyTW5tWG1tS9IBzwFBVV95cUxPSzVST3FpWk0yUnJlMGp6dDlNeGlEbXVtN3NiOVhOOHRTM0txWDE0ZFNYUk92ZjVyR1Yya01PQXJNSWQ3NnoxNXdtaE13RENkdFRHUDRZcW5NTVYtVDNmcnR1dmlfczNRYUR6U2tOMHN0aFRENk9wZk1FTHV5RmVuWngwZVZoSDVCb211TzNzSFowdldxWDh5RzgwRmxMRlBWVUV3WWxEQmFzNzRXOHJEMTV4cTlUXzN5WmtSVElFYkxGTXBlU0ZSMkx0dDZSbnc?oc=5",
-     "source": "The Indian Express",
-     "published": "2026-11-10T14:03:54+00:00",
-     "summary": "Ukraine talks begin, India pushes for safe Black Sea, quick end to war&nbsp;&nbsp;The Indian Express",
-     "image": ""
-    },
-    {
-     "title": "Iraq bars Iranian football team\u2019s plane from landing in Basra: Report",
-     "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
+     "title": "What is Shahid Kaveh, \u2060\u2060the Iran cyberunit tied to France\u2019s fridge hacking?",
+     "url": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-10T14:03:31+00:00",
-     "summary": "Decision by the Iraqi Civil Aviation Authority reportedly related to \u2060US sanctions imposed on Iranian airlines.",
+     "published": "2026-11-10T14:27:45+00:00",
+     "summary": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
      "image": ""
     },
     {
-     "title": "Hegseth promises to defend \u2018warriors\u2019 as he faces impeachment",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T14:02:25+00:00",
-     "summary": "US Secretary of Defense Pete Hegseth has criticised an attempt by Representative Thomas Massie to impeach him.",
+     "title": "First Russia-Ukraine talks since February open in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1dFQWtSemxVajFFdHNJdUQ5eFVSbHJudll3ZUs3NzZ6d0REcGFPVzlZc1lpQTZ0Ykh6MEJRd013OFZKQzVNM0k2SmFrZFp5bGRpOGcyV1doWHJLMWJQdU8xWDJDT0VwOEtnOHhrZ3JNNi1PLTMwQXNDeHo3Yl9pVFFaaU82VWpuQ2xaa2tja1JRVENmTmJIZFJLby1qR0lS?oc=5",
+     "source": "TVP World",
+     "published": "2026-11-10T14:25:00+00:00",
+     "summary": "First Russia-Ukraine talks since February open in Abu Dhabi&nbsp;&nbsp;TVP World",
      "image": ""
     },
     {
-     "title": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
-     "url": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T14:01:09+00:00",
-     "summary": "This year&#039;s Saudi Arabian Grand Prix was scrapped following the outbreak of the US and Israel&#039;s war with Iran.",
+     "title": "Fresh round of Ukraine-Russia talks held as Trump insists peace close",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1lUVmVPMnBKZ1hHc3RlanpRMkZ4SS1UUDNwS0FiejFmdkhXclhTbjJFQWlNSjlYS1VjaF9EdF90TExRTFF4MWVFRmVVWHM0VTI2ZUpCeThTMzJIcVY2UzNWOWphNUxISGZYZ24xUFl3SG1MSy1kbEp4eFN1dlBKZGgwOXpKUQ?oc=5",
+     "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+     "published": "2026-11-10T14:21:50+00:00",
+     "summary": "Fresh round of Ukraine-Russia talks held as Trump insists peace close&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
      "image": ""
     },
     {
-     "title": "Victorian Labor\u2019s \u2018unforgivable\u2019 preferences decision risks Liberal-One Nation government, Greens warn",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/11/labor-decision-greens-preference-one-nation-battleground-seat-prahran-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-10T14:00:55+00:00",
-     "summary": "Exclusive: Ellen Sandell says Labor\u2019s decision not to back progressives in key inner-seat could hand power to right-wing coalition in close electionGet our breaking news email, fre",
-     "image": "https://i.guim.co.uk/img/media/9d32561abf0d126f789349d95d6ff3b23d747922/477_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=c48efa7172e679c27fc3ed4366b16cf1"
-    },
-    {
-     "title": "Russia is stepping up its use of the FAB-3000 glide bomb against Ukrainian positions",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQW1BQ21fXzFsMzB0SHpESEhJUFFhQV9tTjF3cXFtS3VyX0RyVVYtSzR5Yi1OTC12czdWMndObnZaa0hSd1BSWEVUa29RS2ptNWRKUkRIZG1MZkRHSDB6SmtQM1hDUGQ1NV9YcjhXQVVwM2pLcTFEaG82QVpFVjNuTjc5MWt6aW9keUs4eDRNUU1aTVYxQWNKNDhqcmc1eWl4M2dVWF93bEJseFh6NVZWWHNSdG1Fd3dYZnVQRGkyMlJ6R21xR3NJVzlqSnFXVm5FSi1ISTZ0OXdNTGM?oc=5",
-     "source": "Atalayar",
-     "published": "2026-11-10T13:54:27+00:00",
-     "summary": "Russia is stepping up its use of the FAB-3000 glide bomb against Ukrainian positions&nbsp;&nbsp;Atalayar",
+     "title": "Ukraine-Russia-US Talks Wrap First Day as Kushner Says Gaps Are Narrowing",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3RWYmlmaHpPQzVwMzF4WnFBRjEwYzlaWnV2aHhESWlTZmROQjhjLWRfdlpwY1ZhRGtjbjVZbmN4X1Q4aGN0U3pROHhXcEhQYzVEQ2dmeDBwX1hRUko2Rk8xQjZTMEZTVVNLUzUzS2YzVnZwcl9CX1NnSjNyR2hzTmJzT0ROMXVoMk1DUkRTV2E4SXJIaGFfU2hNMlRxUjlfWlhmNFVLSlZ5UmNyRFFacmRhQUFJa1hibUhxRQ?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-10T14:20:47+00:00",
+     "summary": "Ukraine-Russia-US Talks Wrap First Day as Kushner Says Gaps Are Narrowing&nbsp;&nbsp;UNITED24 Media",
      "image": ""
     },
     {
-     "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T13:45:13+00:00",
-     "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff4/live/cdef63c0-dd0c-11f1-97df-bd0937690c4d.jpg"
-    },
-    {
-     "title": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T13:39:53+00:00",
-     "summary": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrowUS officials seek \u2018final end\u2019 to Russia-Ukraine war as talks beginThe EU has said it stands r",
-     "image": "https://i.guim.co.uk/img/media/774a5dca29c43ddae2d2e6ed0635d0a715d82ac7/1079_0_6831_5465/master/6831.jpg?width=140&quality=85&auto=format&fit=max&s=e1904a594d92d353ff19e93d910d9cb6"
-    },
-    {
-     "title": "Attacks escalate between Saudi-led forces and Yemen\u2019s Iran-backed Houthis",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T13:39:22+00:00",
-     "summary": "Saudi Arabia says it intercepted missiles fired by the Iran-backed Houthis in Yemen as attacks between them escalate.",
+     "title": "[Interview] Italy\u2019s Meloni is EU\u2019s best hope of charming Putin in Ukraine peace talks, former Russian spy says",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ1d1cU5wTDVucDJqV2dqc29STGZydy0yMmNOR3J0TUhKRm1fYmlrb0FOT2s0RXhMTTZ0RG9zbkN2Ti04ZUdxUWQ1TlF2V2VmUUhxUE9XYUp3TVdnM0trbVdrbmNXU0RQR2p2MlFiQmRubEdnT01NTU1vMUg5dVdlZFhsMDdDbEM3NzBfdXBHVHRGVlU5Tkc2blBwajdTNm1fUEs0YTRBNlEyeGtxYXB4WFRtd1VwWXFmbzlWSFZiX1pyenNEVnRJQnFsNjJHZExDdlE?oc=5",
+     "source": "EUobserver",
+     "published": "2026-11-10T14:19:42+00:00",
+     "summary": "[Interview] Italy\u2019s Meloni is EU\u2019s best hope of charming Putin in Ukraine peace talks, former Russian spy says&nbsp;&nbsp;EUobserver",
      "image": ""
     },
     {
-     "title": "Rubio Meets With Ukraine's Foreign Minister Sybiha",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZm5HLTIzUnV6NHJFdFJSWjA5dWU0aFNYdjktcC1YTk4yVlFOTFNEYUE0VkN6SmdqdGtpNzFYTFp1TXoyOVBDVl83bHRBXy10ajlPOVprenVkMFhVQUpOald1WXZOMFJmbXNBb3VjZkh5M0t4WHk5UzZfVVQySWsybTR6eVk?oc=5",
-     "source": "Mirage News",
-     "published": "2026-11-10T13:36:00+00:00",
-     "summary": "Rubio Meets With Ukraine's Foreign Minister Sybiha&nbsp;&nbsp;Mirage News",
+     "title": "Ukraine war: US energy deal with Russia undermines Western alliance",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3ctZFlzcHNZRC1PTmRTalYtRVdwWHJlTlZOZUVTQnBGMmc2NnhNc293SG5CYURocGxSTUszeFgtMVJlTGh3czRYQU8yUTRTQXpPNEJYbTBQTEV2aWJiYmRaZ3pMZjRtUHBaQjd0UGxmUHpLVmJyM1ZRNXlET0JLSW1TWXR4TXlCeG40VVJ5eXJYNjA?oc=5",
+     "source": "International Bar Association | IBA",
+     "published": "2026-11-10T14:16:57+00:00",
+     "summary": "Ukraine war: US energy deal with Russia undermines Western alliance&nbsp;&nbsp;International Bar Association | IBA",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T14:19:24.027119+00:00",
+   "fetched_at": "2026-11-10T14:49:27.098702+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Former governor, political journalists will participate in Dole Institute\u2019s 2026 Post Election Conference",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcmxyNkU2XzZ4bG9URjFFclQ2UTFZVU5sTTJ6NjE4d1NuRFhuSlFjQlN5MHlHLXZpcldZVzdzWVo5bExoSUJQa20yU2FNeG01b2lpaC1oSi1mOWtrLVBQV21hV3VSWGdOamwyT19CeU1rdFN5WGtVcFNmMTlpdUZYUlpVMkNRMDl4cjhpUy1QdjZOZjNFQXRHeVJubVowbzNvUzZMdjg0ZnFKX3YyTDJNdWNOeE84aDlUb0JEMTJLSnVDOFRWeW1RWTIyU2U4LWZDeUE?oc=5",
+     "source": "The University of Kansas",
+     "published": "2026-11-10T14:23:57+00:00",
+     "summary": "Former governor, political journalists will participate in Dole Institute\u2019s 2026 Post Election Conference&nbsp;&nbsp;The University of Kansas",
+     "image": ""
+    },
     {
      "title": "Ledbetter: How Alabama House Republicans beat the national trend this election",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDZPWG5YWnRxTThVclVsUmFuUEM4UDFkcWN2SlVXeWVxSVY0bExDQUVMWV84aG11LS1fS1BkQzVjZktTN3JGb1djcFdNQVhkUEY2cEI5ZVVjOHYzZDVQWFI5NlIyNVBaOVNmczZ3cWZtUkNFOVJqS0VnMmhQUHB5WlNOMDRxcER0SmJvWWtTZ3hhVU9KaW1KSW4zM0kxcVBHVTM5cQ?oc=5",
@@ -242,12 +250,12 @@
      "image": ""
     },
     {
-     "title": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
-     "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T14:09:31+00:00",
-     "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this yearWe\u2019ve just heard from Patricia Espinosa, ",
-     "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
+     "title": "After 'bloodbath' election for school voucher supporters, what's next?",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaER4MndCRVgweHdBbXZLUmhoNG9STHQ0VnpkbERGU1ZSYWZoaVY1LVcyQUtZc2J1UF9pQk1qc24zLTE1UTE3UlBUVnZFb0RwVzNtTE9GTm5uQnpsVzdjd3Z1T29OUkhNaEtiYkVMMm1BenRGeUx0cmNleWZaQklybFhYNThfU0c4REJXbFViaVpucFhJY3Y3LVpR?oc=5",
+     "source": "WZTV",
+     "published": "2026-11-10T13:50:59+00:00",
+     "summary": "After 'bloodbath' election for school voucher supporters, what's next?&nbsp;&nbsp;WZTV",
+     "image": ""
     },
     {
      "title": "Japan watches for signs of change in Trump's foreign policy priorities following US midterm elections",
@@ -255,14 +263,6 @@
      "source": "Deutsche Welle",
      "published": "2026-11-10T13:40:06+00:00",
      "summary": "Japan watches for signs of change in Trump's foreign policy priorities following US midterm elections&nbsp;&nbsp;Deutsche Welle",
-     "image": ""
-    },
-    {
-     "title": "Hegseth says impeachment push is about 'policy disagreements,' not high crimes",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WRmcwa1JrcXRVSEl2bHF2bEhTTlFkbmtONDhaZmFsVHl3R3JTY2N4YnZNZ1k0dmVhLS1SQ3hiUHNOUzhsWG1kM0piOVQyeDU0ZGtIWi1VQlhmTlQ2QW9FbDN3RU5OYTFPMGhrYnhPSkFXcU1pVkVYZXVhMjBJZw?oc=5",
-     "source": "WLWT",
-     "published": "2026-11-10T13:39:44+00:00",
-     "summary": "Hegseth says impeachment push is about 'policy disagreements,' not high crimes&nbsp;&nbsp;WLWT",
      "image": ""
     },
     {
@@ -298,7 +298,7 @@
      "image": ""
     },
     {
-     "title": "Pentagon Chief Hegseth calls US House impeachment effort a \u2018farce\u2019",
+     "title": "Pentagon chief Hegseth calls US House impeachment effort a \u2018farce\u2019",
      "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-10T13:23:41+00:00",
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T14:19:24.027120+00:00",
+   "fetched_at": "2026-11-10T14:49:27.098703+00:00",
    "stale": false,
    "items": [
     {
@@ -334,14 +334,6 @@
      "published": "2026-11-10T13:45:13+00:00",
      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff4/live/cdef63c0-dd0c-11f1-97df-bd0937690c4d.jpg"
-    },
-    {
-     "title": "Nvidia spy scandal fuels debate over chip exports to China",
-     "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T09:42:04+00:00",
-     "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO&#039;s relationship with alleged spy.",
-     "image": ""
     },
     {
      "title": "Fossil fuel emissions set to fall for first time since Covid, research shows",
