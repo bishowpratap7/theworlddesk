@@ -1,25 +1,89 @@
 {
- "generated_at": "2026-11-10T21:50:54.160688+00:00",
+ "generated_at": "2026-11-10T22:20:57.879743+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T21:50:54.160661+00:00",
+   "fetched_at": "2026-11-10T22:20:57.879712+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "What the U.S. midterms mean for Ukrainians heading into their 5th winter at war",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6035022/what-the-u-s-midterms-mean-for-ukrainians-heading-into-their-5th-winter-at-war",
+     "source": "NPR",
+     "published": "2026-11-10T22:18:32+00:00",
+     "summary": "Ukrainians are heading into their fifth winter at war. Russia has stepped up its bombing campaign of Ukraine's critical infrastructure. But Ukrainians see one bright spot \u2014 the U.S",
+     "image": ""
+    },
+    {
+     "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+     "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T22:17:45+00:00",
+     "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
+    },
+    {
+     "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+     "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T21:59:54+00:00",
+     "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3676/live/532a9840-dd3d-11f1-9ac0-6b8f7fc58221.jpg"
+    },
     {
      "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T21:34:13+00:00",
+     "published": "2026-11-10T21:58:23+00:00",
      "summary": "Jordan, the hardline conservative from Ohio, beat fellow congressman Steve Scalise by a vote of 106-73; Thune won re-election without a challengerRepublicans elect Jim Jordan as Ho",
      "image": "https://i.guim.co.uk/img/media/48fcdf967a95b370b2dedeef85b65ca4a811b5a5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3781944f76607e07f901138399790a94"
     },
     {
-     "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T21:23:00+00:00",
-     "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
+     "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+     "source": "The Guardian",
+     "published": "2026-11-10T21:57:57+00:00",
+     "summary": "New indictment claims Mohammad Dawood al-Saadi, a dual Iranian and Iraqi national, plotted while in US custodyUS federal prosecutors have said that an Iranian operative jailed in N",
+     "image": "https://i.guim.co.uk/img/media/251c9c9de8f9ca0c3026ce90fc2a4dc71f98090c/609_0_6085_4868/master/6085.jpg?width=140&quality=85&auto=format&fit=max&s=033a4bdd21498a92f252662f7b334abd"
+    },
+    {
+     "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+     "url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine",
+     "source": "France 24",
+     "published": "2026-11-10T21:57:47+00:00",
+     "summary": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Secu",
+     "image": "https://s.france24.com/media/display/901d8746-dd4f-11f1-9396-29048b396e03/w:1024/p:16x9/EN-20261110-130347-130856-CS.jpg"
+    },
+    {
+     "title": "Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
+     "url": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament",
+     "source": "\u00a9 Ohad Zwigenberg, AP",
+     "published": "2026-11-10T21:53:40+00:00",
+     "summary": "Gadi Eisenkot, the politician tasked with forming a new Israeli government, pledged on Tuesday to launch an official inquiry into Hamas's October 7, 2023 attacks and reverse many o",
+     "image": "https://s.france24.com/media/display/c3264e3e-dd4f-11f1-a6a1-3f371022a770/w:1024/p:16x9/AP26314586138425.jpg"
+    },
+    {
+     "title": "'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'",
+     "url": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe",
+     "source": "France 24",
+     "published": "2026-11-10T21:40:18+00:00",
+     "summary": "Erin Ogunkeye is pleased to welcome Rapha\u00eblle d\u2019Ornano, Founder and Managing Partner of D\u2019Ornano + Co. \u201cNvidia has an absolutely central role in the ecosystem,\u201d she explains, \u201cIf s",
+     "image": "https://s.france24.com/media/display/227f9b3c-dd47-11f1-b573-3f371022a770/w:1024/p:16x9/EN-20261110-170502-171521-CS-01.jpg"
+    },
+    {
+     "title": "Anthropic eyes $1.4 trillion valuation in blockbuster IPO",
+     "url": "https://www.france24.com/en/tv-shows/business/20261110-anthropic-eyes-1-4-trillion-valuation-in-blockbuster-ipo",
+     "source": "France 24",
+     "published": "2026-11-10T21:39:05+00:00",
+     "summary": "US firm Anthropic, the company behind the Claude AI chatbot, has announced it will offer 825 million shares at a price between $70 and $78 apiece during its planned IPO. This will ",
+     "image": "https://s.france24.com/media/display/7da34ad4-dd4e-11f1-a522-3f371022a770/w:1024/p:16x9/202606241200WD-ANTHROPIC-ARCHIVE-O-1.png"
+    },
+    {
+     "title": "Asymmetric cyberwarfare: 'States increasingly use cyberattacks in support of their other objectives'",
+     "url": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
+     "source": "France 24",
+     "published": "2026-11-10T21:25:45+00:00",
+     "summary": "Erin Ogunkeye is pleased to welcome Rafe Pilling, Director of Threat Intelligence in the Sophos Counter Threat Unit (CTU). How can a minor cyber intrusion disrupt food supplies, ex",
+     "image": "https://s.france24.com/media/display/54ae7cc8-dd4b-11f1-a4f5-695cb59fade5/w:1024/p:16x9/EN-20261110-150753-151904-CS.jpg"
     },
     {
      "title": "First day of Ukraine peace talks constructive, Zelensky says",
@@ -46,83 +110,67 @@
      "image": "https://i.guim.co.uk/img/media/7c7b9a4a19524aff2e4e5d73e05badceb52c697c/867_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=ac142c1690dbaa9cd209993f3e3bc0a2"
     },
     {
-     "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-     "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T21:06:04+00:00",
-     "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3676/live/532a9840-dd3d-11f1-9ac0-6b8f7fc58221.jpg"
-    },
-    {
      "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
      "url": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-10T21:00:55+00:00",
      "summary": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
      "image": ""
-    },
-    {
-     "title": "White House announces funds for law enforcement programme in several cities",
-     "url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T21:00:01+00:00",
-     "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
-     "image": ""
-    },
-    {
-     "title": "Spain's king and queen attend memorial service for rail crash victims",
-     "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T20:46:40+00:00",
-     "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg"
-    },
-    {
-     "title": "US soldier arrested in UK on suspicion of spying for Russia",
-     "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T20:41:53+00:00",
-     "summary": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.",
-     "image": ""
-    },
-    {
-     "title": "Netanyahu and Eisenkot push for new government after election deadlock",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T20:39:46+00:00",
-     "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
-     "image": ""
-    },
-    {
-     "title": "US federal authorities could have prevented Epstein crimes, report finds",
-     "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T20:36:58+00:00",
-     "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0579/live/42e0a7e0-dd1f-11f1-8806-aded7f09be16.jpg"
-    },
-    {
-     "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
-     "url": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T20:31:17+00:00",
-     "summary": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3af/live/ccebdc00-dd44-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "Emmanuel and Brigitte Macron file new defamation lawsuit against Candace Owens",
-     "url": "https://www.theguardian.com/world/2026/nov/10/emmanuel-brigitte-macron-defamation-lawsuit-candace-owens",
-     "source": "The Guardian",
-     "published": "2026-11-10T20:28:47+00:00",
-     "summary": "Legal battle escalates as far-right US podcaster continues to spread false claims that France\u2019s first lady was born a manEmmanuel and Brigitte Macron have brought a fresh defamatio",
-     "image": "https://i.guim.co.uk/img/media/7a8e989e327a3c3e7fb7035d5e8a018e93b44081/418_0_4164_3331/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=777f82b051c6ac5b14b545c6530c0cd5"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T21:50:54.160674+00:00",
+   "fetched_at": "2026-11-10T22:20:57.879728+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "What the U.S. midterms mean for Ukrainians heading into their 5th winter at war",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6035022/what-the-u-s-midterms-mean-for-ukrainians-heading-into-their-5th-winter-at-war",
+     "source": "NPR",
+     "published": "2026-11-10T22:18:32+00:00",
+     "summary": "Ukrainians are heading into their fifth winter at war. Russia has stepped up its bombing campaign of Ukraine's critical infrastructure. But Ukrainians see one bright spot \u2014 the U.S",
+     "image": ""
+    },
+    {
+     "title": "US-brokered Russia-Ukraine talks in Abu Dhabi last nearly 4 hours",
+     "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQTEVOMEtKNlZINUF3eUxEaXVianhDS0ZfUmdELWh3YjM3d3RIQktCLWNxQU9HdFEtLUZ0X3VlekdYZFhQb0ZqMXdvZzh2MlRXbkg4N0t0M0RWVFo0cXVtLWZsMWhwc1V6alNyME9SOVViNXcySll6VS11NndKMEI0cWhSZGJueTY5ZU9hRENrUVh2M3JkOExQMDdNYTBIemhKcF9Qcnl2dG5KYS1TTmJxQ09JUnZzWXVOb0RwSWZMSUxnSVRoYzZQMDJyWDVCYXNwd2NPS3ZHaGdQNjJRSjBNcERBdkdzcWVFNXIzRV9uaUNCck5PSmZTM2E5WUtodEthQmVIcjB2Tm85VHFMRV9La3FGQW8zbV8xZnUzUFhNNTY0THpqendCQk11T2hYTjJCdnhiZFFVQnczVFRHS2tEQ25IQVY1MlZWYUJwVE1tOFIwUUNoTTJXbEZOM0JPZFlmcmlIcHlDck5oZE5UOWdQM1poaw?oc=5",
+     "source": "WTGS",
+     "published": "2026-11-10T22:01:38+00:00",
+     "summary": "US-brokered Russia-Ukraine talks in Abu Dhabi last nearly 4 hours&nbsp;&nbsp;WTGS",
+     "image": ""
+    },
+    {
+     "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+     "source": "The Guardian",
+     "published": "2026-11-10T21:57:57+00:00",
+     "summary": "New indictment claims Mohammad Dawood al-Saadi, a dual Iranian and Iraqi national, plotted while in US custodyUS federal prosecutors have said that an Iranian operative jailed in N",
+     "image": "https://i.guim.co.uk/img/media/251c9c9de8f9ca0c3026ce90fc2a4dc71f98090c/609_0_6085_4868/master/6085.jpg?width=140&quality=85&auto=format&fit=max&s=033a4bdd21498a92f252662f7b334abd"
+    },
+    {
+     "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+     "url": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine",
+     "source": "France 24",
+     "published": "2026-11-10T21:57:47+00:00",
+     "summary": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Secu",
+     "image": "https://s.france24.com/media/display/901d8746-dd4f-11f1-9396-29048b396e03/w:1024/p:16x9/EN-20261110-130347-130856-CS.jpg"
+    },
+    {
+     "title": "Ukraine\u2019s new drone blitz cuts Russian oil refining capacity by 30 percent",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlhmdTN4ZmVpSzdZQ0FxS0k5aTNob0hEbEVmaHBMNGY4Y3NpaFlCNmIzRHRvazBNa3pycEpEQ3lMMlNFaFhRX3NHelZIbndpTmlSN2ZXMG9yOVNxVWhuam5LRkVQWTRNSVA5N3NJWGZrU3NkdE5sclItU3RDYlgyZXdOeWF2WG9kLU1RcmlLanhIclgzTy13MEdVMWg5YjY0N1ZsRFRyUnowcmJjQ0RqcDdOY01mZnVkOTkta096MTBhQjQ?oc=5",
+     "source": "Atlantic Council",
+     "published": "2026-11-10T21:54:00+00:00",
+     "summary": "Ukraine\u2019s new drone blitz cuts Russian oil refining capacity by 30 percent&nbsp;&nbsp;Atlantic Council",
+     "image": ""
+    },
+    {
+     "title": "Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
+     "url": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament",
+     "source": "\u00a9 Ohad Zwigenberg, AP",
+     "published": "2026-11-10T21:53:40+00:00",
+     "summary": "Gadi Eisenkot, the politician tasked with forming a new Israeli government, pledged on Tuesday to launch an official inquiry into Hamas's October 7, 2023 attacks and reverse many o",
+     "image": "https://s.france24.com/media/display/c3264e3e-dd4f-11f1-a6a1-3f371022a770/w:1024/p:16x9/AP26314586138425.jpg"
+    },
     {
      "title": "Did Russia and Ukraine agree to a ceasefire in Abu Dhabi? No, talks resume Wednesday",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjlGeWVPcU9DNDdCTzluMTREbmdlOXZsdkZGemVaTUJKTUhJeHdUcWZEVmlUdnNKaFhpRjJGNjJKVnRLNHdITUlENFpVMUo3dzRhdmw2YzVkZXVSeHBJVXhCR3hJdGt3UFZMandhbXM2b2tQbC0waUI2OW9NVXowQWRkb00yb1RULU91aWs0a3FPbmtXc2NHbEZnN1lnalcwV2c1Sw?oc=5",
@@ -130,6 +178,14 @@
      "published": "2026-11-10T21:27:29+00:00",
      "summary": "Did Russia and Ukraine agree to a ceasefire in Abu Dhabi? No, talks resume Wednesday&nbsp;&nbsp;Nacionale",
      "image": ""
+    },
+    {
+     "title": "Asymmetric cyberwarfare: 'States increasingly use cyberattacks in support of their other objectives'",
+     "url": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
+     "source": "France 24",
+     "published": "2026-11-10T21:25:45+00:00",
+     "summary": "Erin Ogunkeye is pleased to welcome Rafe Pilling, Director of Threat Intelligence in the Sophos Counter Threat Unit (CTU). How can a minor cyber intrusion disrupt food supplies, ex",
+     "image": "https://s.france24.com/media/display/54ae7cc8-dd4b-11f1-a4f5-695cb59fade5/w:1024/p:16x9/EN-20261110-150753-151904-CS.jpg"
     },
     {
      "title": "First day of Ukraine peace talks constructive, Zelensky says",
@@ -162,69 +218,61 @@
      "published": "2026-11-10T20:52:28+00:00",
      "summary": "Russia Doesn\u2019t Hold Nearly All of Donetsk, Sybiha Says as Ukraine Awaits Reply on Ceasefire Proposals&nbsp;&nbsp;UNITED24 Media",
      "image": ""
-    },
-    {
-     "title": "Denmark announces military aid package for Ukraine worth about 642 million euros",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IbkhQRkZCSWZaaTgtSHhsWW1ZVlUweVV0WGtLbEkxbmFrRFNyOVhsNW9nRk1YUzk2SUxWSlNIa3V2Yk0wbzVlNktDS2U?oc=5",
-     "source": "\u0633\u0627\u0646\u0627",
-     "published": "2026-11-10T20:48:00+00:00",
-     "summary": "Denmark announces military aid package for Ukraine worth about 642 million euros&nbsp;&nbsp;\u0633\u0627\u0646\u0627",
-     "image": ""
-    },
-    {
-     "title": "US, Russia and Ukraine start talks in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNlBMV3g5end3aF9namhLRUF1YzRGNUM5VWJvN0REaVJ2NWtFN0Utc0oyRHFYb3lOMmU3eWFrcmEtT2xsTGdna1FYNHVSWGF1V0RZbkdVdV83TlRYZVZvSHE4RmVETDJqUFVJeVBXdV9SOEhKdEY0VjNldV9FYzJNNUwxUHFQcUo0WGc?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-10T20:47:47+00:00",
-     "summary": "US, Russia and Ukraine start talks in Abu Dhabi&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "Trump committed to end Ukraine war, US envoy Jared Kushner says",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY09LWUJFc1FmVEttOGJyVHZYS1VHcXRJY0hYZm9wbEp1ZmkzVUJnNm03OWZiZnBrUWkwSjVpMHFFTmE0UUFxcHB2ZGFSZXFaQ1VEeWFfWXBPYkZIQll0Z1o1ZkV3Y1V1VV83TTV4ejFCazdFOGozVkc4bUZSV0xvY0ZINC1QaENqYVI3b2dYRG9QQi03bEE?oc=5",
-     "source": "RBC-Ukraine",
-     "published": "2026-11-10T20:45:14+00:00",
-     "summary": "Trump committed to end Ukraine war, US envoy Jared Kushner says&nbsp;&nbsp;RBC-Ukraine",
-     "image": ""
-    },
-    {
-     "title": "EA-Frontline Video: Backing Ukraine Against Russia\u2019s Destructive Winter",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96aUI5XzFSd0gwRnBuVTZXbE9pR2dKUWRsTTRTN0JaVzZfakVGRnBlSG84UFV5TXJWYmpzS0Q1WldBMTZlUmlBbUdocHM3TmpkMG8zdVl6cFhOTmJBdWZkQUVBdWt5Qkc4UW9BMUNQMUY5eXFz?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-10T20:42:27+00:00",
-     "summary": "EA-Frontline Video: Backing Ukraine Against Russia\u2019s Destructive Winter&nbsp;&nbsp;EA WorldView",
-     "image": ""
-    },
-    {
-     "title": "US soldier arrested in UK on suspicion of spying for Russia",
-     "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T20:41:53+00:00",
-     "summary": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.",
-     "image": ""
-    },
-    {
-     "title": "Ukrainian Livestock Producers Adapt Animal Food Systems Amid Severe Wartime Disruptions",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXFyU2FQR2N5M1kxR3A3aVJxLUcySWMxSmo2eXhpZWE5QzB3dGJXR2NjTGJNZnJqM3JkRnVtZy1NNnlGYXNySlBMVGpiWldqa0l3ZG5kT2NzTkg2QlhrbWJwLTdsUzJJWUo0RDhqaGpNR2dpd3hfRnE1THVKcjFMQWZXNW5LU2FWYkNiYnd2X0U0Yl9Jc3dIbzMxNFR1WGx4TDZtMnVLajQ2QTJZdDd6RHBn?oc=5",
-     "source": "Bioengineer.org",
-     "published": "2026-11-10T20:30:28+00:00",
-     "summary": "Ukrainian Livestock Producers Adapt Animal Food Systems Amid Severe Wartime Disruptions&nbsp;&nbsp;Bioengineer.org",
-     "image": ""
-    },
-    {
-     "title": "US soldier arrested in Britain on suspicion of assisting Russian intelligence",
-     "url": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
-     "source": "\u00a9 Christof Stache, AFP",
-     "published": "2026-11-10T20:23:04+00:00",
-     "summary": "UK police arrested a senior member of the US Army on Tuesday on suspicion of assisting Russian intelligence, adding that the arrest was not related to other counter-terror investig",
-     "image": "https://s.france24.com/media/display/b26da266-dd42-11f1-8a26-5f54d898a954/w:1024/p:16x9/000-33Z28VA.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T21:50:54.160677+00:00",
+   "fetched_at": "2026-11-10T22:20:57.879731+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Connecticut voting precincts randomly selected for election result audits",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmMwbTMzVFhqT3VReUlxalB5a0J4NVVGVDM0WVBacUxVNVd3WWFEYlRybTlodUVRcEVsZG9oWjFMOWd5VmFSZ1o4aWRFSXlfWkpBZDNGV2JoYW0wQlc5ejhUQmpIT1lzTnVsck1hZVhpdUhHeXFEeFFVbXVyanUtMzU0aDlmVzVUekNQS2RibTFRWHdSdzVZLXdxR3dFZmRpTGhidF9tV0dGemNnNFo00gG0AUFVX3lxTE9BQW9LU1dTZW1FMnN1b0pHMHEyMDN3bnFhN3NyNlRPRXBwSW1HV2MxcldhaGVpbktzNF9haWVQd1BxUm9VX1A5SjZFSlNfa3ZoMnBtSzhzOXZLRkotYTAwV2VZaVg5TWF5MC1hMDE5XzlmMzVaSGQ2UEpkR3k4XzNHcE5YemF3OU9mTGN2RktuUDBKUm9xM2lfTnJ6emR3SmhHZFYtekFHdzdTYlk1aEhxMzNfWQ?oc=5",
+     "source": "WTNH.com",
+     "published": "2026-11-10T22:15:12+00:00",
+     "summary": "Connecticut voting precincts randomly selected for election result audits&nbsp;&nbsp;WTNH.com",
+     "image": ""
+    },
+    {
+     "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T21:58:23+00:00",
+     "summary": "Jordan, the hardline conservative from Ohio, beat fellow congressman Steve Scalise by a vote of 106-73; Thune won re-election without a challengerRepublicans elect Jim Jordan as Ho",
+     "image": "https://i.guim.co.uk/img/media/48fcdf967a95b370b2dedeef85b65ca4a811b5a5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3781944f76607e07f901138399790a94"
+    },
+    {
+     "title": "San Joaquin County nears end of ballot count as Stockton election leads hold",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUklGZXcxZGVyLUpybHVmSDBxdE9jY09wdmtabUJlRVk0VnVtNEFGVW9laFRsOW9OY3A0NEJfNmdVdmhxSlAtYU1sand3dWptMnQxTE5GRFg0am9sZnFJanQxLVZodHg1TURscU1lRW9SWUt5ZGNFQU1hdkVQR0UzamxDWi03TVJrUmNsZkNTV2l1V21adUlQLXJMV1VkcFVJQ2tkTlN1dDNHUUgySlFOUmdHZXZLWnBqdnQ5Tm8zU3NNVHZVdnNfUTJLWnBMUQ?oc=5",
+     "source": "Stocktonia",
+     "published": "2026-11-10T21:56:57+00:00",
+     "summary": "San Joaquin County nears end of ballot count as Stockton election leads hold&nbsp;&nbsp;Stocktonia",
+     "image": ""
+    },
+    {
+     "title": "Election Commission sets important dates for Collierville runoff",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQzhZVENUUFNiVS1wQnBmc1Z0N1hBY1gzaGhxenEweDdURVROZDFlNGw1N0V0MnhiRE1GQ1dFLTgxQjFuUnFzV0RqTzRaemdZeHFDa0tpbkFMRGNvZWxJTUNFY0V1TlhjQjZyQW1ISjhtVGJ1YUZiVkhwNmllam5WRDE1ZjdFNnc4N0VYSHNzQXkwOGdEamc5ZzNyOFJhMkpPZnU5TEYwSkE3T0Y1Z0ViekY1eG85eVZSUFkyZmtWVmlFSi1yTXRFeW12V215cGdZZWoydmV3dy1ZbEpuM2hmOHhNZk81ejVR?oc=5",
+     "source": "localmemphis.com",
+     "published": "2026-11-10T21:55:00+00:00",
+     "summary": "Election Commission sets important dates for Collierville runoff&nbsp;&nbsp;localmemphis.com",
+     "image": ""
+    },
+    {
+     "title": "Alaska Sen. Lisa Murkowski reflects on \u2018blue wave\u2019 in 2026 election",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVnJOUjVGalprQTZBTHYzZFctbFdzQUlrejZyLWVKbWRGVzZ5clRGVGZJaGdhNWQzZVpGQ1F3UGd6OV9ZWkMzTjgzdFFMZkthRmlrOE9aaXhyendEUUFQc1o3akx0U1pkalF5N3hzRXJoazEwaG5wT3FmWm9mRWI1bU1KYklUMjdtdk1pTHpsNHZneE12bFh3TEFEbmFhc1ZOT2Z5b1piWC10bjcyX0FvTzBGTU5vTHJDMUFNWXRwdGtFdw?oc=5",
+     "source": "Alaska Public Media",
+     "published": "2026-11-10T21:53:00+00:00",
+     "summary": "Alaska Sen. Lisa Murkowski reflects on \u2018blue wave\u2019 in 2026 election&nbsp;&nbsp;Alaska Public Media",
+     "image": ""
+    },
+    {
+     "title": "Sen. Gillibrand \u2018optimistic\u2019 on the election of Sen. Schumer as majority leader",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX25CcE15dXhBU2ZUd2RGWjNTbmRDVzdhd2txR0RMNzBjNVNEN1RYNTBpSEIzQ2FnYzZHS01aclNIeWhHSk1KY2NmUXRZOGNXSVJDb1hScXVtT3FRMVpWMmxzZUxXLWtEb3pjVmg2ZmxvbE1fYWtKQ1ZWRVNia1gxU2dlekRkUFJFTDIwQ1JLeDZWVm8tMWE5cUNKNVZ3MGRKcmI4RGRMQTBMa25DbTNvc2xGbUZCVGhpV0VJOHFqRnRWRnlJVDBkWXZ0aGNvQQ?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-10T21:52:50+00:00",
+     "summary": "Sen. Gillibrand \u2018optimistic\u2019 on the election of Sen. Schumer as majority leader&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
     {
      "title": "Crystal Feliciano Secures Re-Election to Trenton City Council Without Runoff",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjRzWkNkbUpPVlFMRTU5LWYwOU9nelYwbG9JTHhpdzVldG1GejB2UWdVOUx3VEt0N2s2R1JvMXJNYVdLcDI2NENaZmN4Mi0yTWRHMDVRSms5cldOS2Ytcl9wZ2FXU0gxclVhdHlIYnY3dlVLYm1uRW1iWDBKRTZSMndIZVdQeGozWWpUOHNyNEFJUkV2UTFXc2NfRy1jRHZXdnU3RXNndlNwSWlKZ0ZXdHFBaDRTdnpR?oc=5",
@@ -239,6 +287,14 @@
      "source": "ACLU of Northern California",
      "published": "2026-11-10T21:39:34+00:00",
      "summary": "Election Day in Georgia: The People, The Power, The Vote&nbsp;&nbsp;ACLU of Northern California",
+     "image": ""
+    },
+    {
+     "title": "Senate Republicans vote to keep John Thune as leader after steep election losses",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3FLSUFxaHpvOW1ZcVZJSGd4S3ZYRWIzVWxfNVlnV3hLQ2RYdHZRMFRwekFxM010UC1VaUd2VU9lNGNuWkxxOGkybEdMamU3dW9OZWY4WEtnblZJdWlxRWpyVi1GTTdOME93bWxZWjZkQk9fRHFJYkZDNHcwWURDOXRQSWJvYzFESmpnNGxxOGZjZUJhelpIY3ZhYnNLQ093OGQ0Vw?oc=5",
+     "source": "AP News",
+     "published": "2026-11-10T21:35:00+00:00",
+     "summary": "Senate Republicans vote to keep John Thune as leader after steep election losses&nbsp;&nbsp;AP News",
      "image": ""
     },
     {
@@ -258,73 +314,17 @@
      "image": ""
     },
     {
-     "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T21:34:13+00:00",
-     "summary": "Jordan, the hardline conservative from Ohio, beat fellow congressman Steve Scalise by a vote of 106-73; Thune won re-election without a challengerRepublicans elect Jim Jordan as Ho",
-     "image": "https://i.guim.co.uk/img/media/48fcdf967a95b370b2dedeef85b65ca4a811b5a5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3781944f76607e07f901138399790a94"
-    },
-    {
-     "title": "California Republicans face potentially historic election losses in the Legislature",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVy1PZ3cxdG1kNDZuay1OMU1YeWJaSGJHbFo4cGp5V1d0ekp1UllhWlVGR0VJN2hLV1JDb1F2cXhaOEUxQmFDLXB6S252M09uZGx2cDZlRlhwRW9OVElpcXhENDQ5WDdMeGxQNU1SSWhXeGMtS0p4WnZ4V003UDJzX1QtTFFYUUo3a0hyeA?oc=5",
-     "source": "KCRA",
-     "published": "2026-11-10T21:31:00+00:00",
-     "summary": "California Republicans face potentially historic election losses in the Legislature&nbsp;&nbsp;KCRA",
-     "image": ""
-    },
-    {
-     "title": "Rep. French Hill looks ahead after election, outlines priorities for next Congressional session",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcllJT0RmTjJGcHJ2TURCblhFTFRjS0QwVE1QX3RRRXRWRXU1eW45TXZfTzRGMW9VckZkX050akZBY2cxLS13VG1ZQXVsd0Fad1lFa3ZQTUNsYUVDWmx3N1g0VTNYY3ZxVVg5V1VmX244ZDQ0S3Y4WG94b2V5QmlpazUzdXlTYkwxZ1JPQnpxM2NjRzJISzByVGVXSF84anlMVTBoVkhvdXBCbzVCZVFNcG1LOHlhbHItbGYwTWZwazhUTUQ1V0dNQkZDMA?oc=5",
-     "source": "KARK",
-     "published": "2026-11-10T21:23:19+00:00",
-     "summary": "Rep. French Hill looks ahead after election, outlines priorities for next Congressional session&nbsp;&nbsp;KARK",
-     "image": ""
-    },
-    {
-     "title": "Election shift could impact Georgia power bills",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWxua2xFVDRLSXg5UC0taEdtRWNTclVBMjRvVHJDd1NtT2NNT1pkRmxCVkptNTkyTlk4X2gxSV93ZWdCbGRFWm5LS3piZTRqTTN1SHFQS0NfZmtJbmFvaHBzZ2FBeld5cjZtb00xVUxnVVcxRmRoSG5UamFsb3V4UDgyTUIxakFoYjR4YS1vaDRfaWVBbWJRdkppdHVmQ25NWjRWeWlXczQ4R2dqU3F0U0ZVVllxQlF4cmpMVmptM1gyRmJMcGZUUUtDeXhhdw?oc=5",
-     "source": "11Alive.com",
-     "published": "2026-11-10T21:15:00+00:00",
-     "summary": "Election shift could impact Georgia power bills&nbsp;&nbsp;11Alive.com",
-     "image": ""
-    },
-    {
-     "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-     "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-     "source": "The Guardian",
-     "published": "2026-11-10T21:13:43+00:00",
-     "summary": "Republicans pick Jordan as House leader and John Thune as Senate leader for last two years of Trump\u2019s presidencyUS politics \u2013 live updatesRepublicans have elected veteran congressm",
-     "image": "https://i.guim.co.uk/img/media/7c7b9a4a19524aff2e4e5d73e05badceb52c697c/867_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=ac142c1690dbaa9cd209993f3e3bc0a2"
-    },
-    {
-     "title": "Trump ally elected US House Republican leader after election rout",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEVYS3NwMzdHa00zN21lNnRETnFrWWFVZm1tWTJUOEc1QlA2MVJjUFJ1allfZ0tSRVQxeEE0d3poMXBLUldyMWdUbDZrN3ZtcVlxajhZSmVBTHk4WWgxbjctY3l4TVYyb1NfMGh4NW9wYmZrUG1oTFNsLXhzWkdCeFhRRTNaaG1ZMnVVMGpDZGM4Zw?oc=5",
-     "source": "AFP.com",
-     "published": "2026-11-10T21:03:14+00:00",
-     "summary": "Trump ally elected US House Republican leader after election rout&nbsp;&nbsp;AFP.com",
-     "image": ""
-    },
-    {
-     "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
-     "url": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T21:00:55+00:00",
-     "summary": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
-     "image": ""
-    },
-    {
-     "title": "Federal policy worsens Boston-area housing crisis, says report",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUt3SFF0b3N2MjRTTkx5dFhYRGN2LUdkdmJkWU9NQl9NRHUzQnE4a1NhMjV5ZGlseXhJSk1KU0xDTGRlRGpVYVRGQXRSc1FNNVMxSEUwRWdxY2szcUxmUUI2ZzEzNDcyUjlOWGRIZmE1YjNMRmhSb24ta0FpS2ViR3djM0w2eTlYLUhhbVM2bWJ2MW1CdXd3RS1DMGZvb0p5Z21RMTBBNA?oc=5",
-     "source": "WGBH",
-     "published": "2026-11-10T20:53:30+00:00",
-     "summary": "Federal policy worsens Boston-area housing crisis, says report&nbsp;&nbsp;WGBH",
+     "title": "Election Experts in Demand | 2026 | News & Stories",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xUVF0NzBpaWwwT19PY2hUdnQ3WDFUTUhyb0RURmE2LU9yWlM0M25UWUMwZUNIUHBSakRrV3NHeUVHNGczOE9rejJXV1R3SkZ5YUZzUW9TeG5PN0FsalBsOGxzdlpRQm8tNUpZQ0R2bjBZSTR0UGpQVQ?oc=5",
+     "source": "Seattle University",
+     "published": "2026-11-10T21:34:00+00:00",
+     "summary": "Election Experts in Demand | 2026 | News & Stories&nbsp;&nbsp;Seattle University",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T21:50:54.160680+00:00",
+   "fetched_at": "2026-11-10T22:20:57.879734+00:00",
    "stale": false,
    "items": [
     {
