@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-10T01:17:27.522468+00:00",
+ "generated_at": "2026-11-10T01:47:30.716714+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T01:17:27.522439+00:00",
+   "fetched_at": "2026-11-10T01:47:30.716659+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T01:44:53+00:00",
+     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T01:38:49+00:00",
+     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+     "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+     "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T01:38:19+00:00",
+     "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg"
+    },
+    {
+     "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+     "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+     "source": "The Guardian",
+     "published": "2026-11-10T01:34:47+00:00",
+     "summary": "Australian carrier announces agreement with Accenture amid \u2018unprecedented\u2019 technological disruption, CEO Vanessa Hudson says Qantas is preparing to cut 850 local jobs and outsource",
+     "image": "https://i.guim.co.uk/img/media/495089a2ea3363d20bc4baf998d27df79ec59b7c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=db4988bce91ca2639e69700b72cf3372"
+    },
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T01:31:44+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
     {
      "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
      "url": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
@@ -36,14 +76,6 @@
      "published": "2026-11-10T01:00:00+00:00",
      "summary": "Trump says there is \u2018positive momentum\u2019 towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
      "image": ""
-    },
-    {
-     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T00:59:14+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     },
     {
      "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
@@ -78,51 +110,35 @@
      "image": "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783"
     },
     {
-     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T00:34:53+00:00",
-     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
-    },
-    {
      "title": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy",
      "url": "https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy",
      "source": "France 24",
      "published": "2026-11-10T00:22:00+00:00",
      "summary": "Nvidia CEO Jensen Huang is facing scrutiny after reports he was targeted in a suspected Chinese intelligence operation involving a businesswoman with whom he was having an affair. ",
      "image": "https://s.france24.com/media/display/b5d81122-dc9b-11f1-b602-1beafce15fea/w:1024/p:16x9/EN-20261110-000700-000840-CS.jpg"
-    },
-    {
-     "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
-     "source": "The Guardian",
-     "published": "2026-11-10T00:14:45+00:00",
-     "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to \u2018see out his days\u2019Get our breaking news email, free app or daily news podcastBeaconsfield mine",
-     "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=ee792f71608cbef7e8f8257b3b1cd16a"
-    },
-    {
-     "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-     "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T00:14:03+00:00",
-     "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T00:09:49+00:00",
-     "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T01:17:27.522453+00:00",
+   "fetched_at": "2026-11-10T01:47:30.716695+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T01:31:44+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "Top diplomats of Korea, France discuss ties, Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWkM0Mk85d1dna0ZaaXVHeEdLOENmcDFFZDMwWVpuZUtybVhMZFBUN29OYnJldkloYkhOTEl6c0p6dXUzQy1mcmE2NTZlaE9RM0lYQ0ZwT0tpM1pWcVV2WjdtWE9vejJNaHFPUEtuZTY0N194NnVScWgtWnphRGlQQU5RdTQwOWZwNGNlRklqanJPd2d1V1FJaWxsaXBZWkJSemthVks2RGlWLXfSAbABQVVfeXFMTy1XTWtQMHlrMElXX2JRNWJDTjdMZnh4ZGVrcFZLNlZ3X1Y2RnRXNlQ1cmp1eFdySHFCallXeFk3TC1EaUVRRXQ4UW1CUjRLbVAxWVlzREdDV0NfbTVRSnlSZFE1OGY5Sk9TNThUZXZ4cW9DcC16blVlUnZKbkZDWGhmQUtMOHhfSEk1ZW5wX2FuVmEtNE8wN0xuNFZMOEVwREh3LVc3SVV4em5TS3U0OC0?oc=5",
+     "source": "The Korea Times",
+     "published": "2026-11-10T01:26:03+00:00",
+     "summary": "Top diplomats of Korea, France discuss ties, Ukraine war&nbsp;&nbsp;The Korea Times",
+     "image": ""
+    },
     {
      "title": "France blames Iran for October supermarket cyberattack",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
@@ -132,28 +148,12 @@
      "image": ""
     },
     {
-     "title": "Top diplomats of S. Korea, France discuss ties, Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92bnM2VWNseFh3R2xOaUpKSVFSMGV4NWk4ekhyXzJPN0FOWnJ3Y180ejYwOGxTNFRCMHNHWEVlZXliTnZ4NjNORWFSZ2JtVkVjTGJXTlI0Z0JLZw?oc=5",
-     "source": "Yonhap News Agency",
-     "published": "2026-11-10T01:00:41+00:00",
-     "summary": "Top diplomats of S. Korea, France discuss ties, Ukraine war&nbsp;&nbsp;Yonhap News Agency",
-     "image": ""
-    },
-    {
      "title": "Trump signals \u2018positive momentum\u2019 with Iran after meeting Qatari PM",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-10T01:00:00+00:00",
      "summary": "Trump says there is \u2018positive momentum\u2019 towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
      "image": ""
-    },
-    {
-     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T00:59:14+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     },
     {
      "title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
@@ -222,9 +222,49 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T01:17:27.522456+00:00",
+   "fetched_at": "2026-11-10T01:47:30.716701+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T01:44:53+00:00",
+     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T01:38:49+00:00",
+     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+     "title": "California Environmental Law & Policy Update 11.6.26",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTdkSGVUSzdaRzhfZDNUdHY3eXhHMVU0M3FiS0t4TVJncG5XamdhMjhkTHgySkZiMWduSDV1M0lNTTVwblNLQlEyYVNIZXN2OFlQUmpLbTJtUWtFdXk5MWtCNENFNHhmSERZWDV5enRuMXI0NG85VFJmVFlXVzhQNGktZHc?oc=5",
+     "source": "JD Supra",
+     "published": "2026-11-10T01:30:00+00:00",
+     "summary": "California Environmental Law & Policy Update 11.6.26&nbsp;&nbsp;JD Supra",
+     "image": ""
+    },
+    {
+     "title": "How to keep an election alive as floodwaters rise",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84NTVUT0I4Ty0xcWlRWkRRVHRwaUlLOXBMT0FUUC11d3V2V3VzMk9fOFZQMVlkSk9BdmV4bmtBZ2phWFgtTmtrMzY4ZGJQOE9TazhnZHFIODIxTjNRT0FZRHZxNWVwdGtLckdBNlRkUjVjT0FKOWt5cVJFMC1OUQ?oc=5",
+     "source": "Colorado Public Radio",
+     "published": "2026-11-10T01:18:22+00:00",
+     "summary": "How to keep an election alive as floodwaters rise&nbsp;&nbsp;Colorado Public Radio",
+     "image": ""
+    },
+    {
+     "title": "Election results in Berkeley and Alameda County",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYXdadlR2eHpOR2ZwcjJ1ZTVhNnRaMDN4ZXlIQlZiZ3pEeGdwZmF0M2JXYVdXN1hFZXZlcGJqT2NYRDQ3Qm5zOFM3amppWVlmdjZUT001NmNLVXBhbkJ5bUNWbVpPWkxPYUhLVjZEeGJybDZlQ29NaTVJOXkyblpGODNocHRGRlFIaHpFdEhn?oc=5",
+     "source": "Berkeleyside",
+     "published": "2026-11-10T01:16:25+00:00",
+     "summary": "Election results in Berkeley and Alameda County&nbsp;&nbsp;Berkeleyside",
+     "image": ""
+    },
     {
      "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
      "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
@@ -232,6 +272,14 @@
      "published": "2026-11-10T01:03:14+00:00",
      "summary": "Chamber voted 73-25 to formally take up bill that will shorten timelines to start energy and datacenter projectsThe Senate on Monday advanced bipartisan legislation aimed at speedi",
      "image": "https://i.guim.co.uk/img/media/45348d68d25eb0d8e900408b066ef3a3e0e37684/1197_0_5670_4536/master/5670.jpg?width=140&quality=85&auto=format&fit=max&s=c2069f5209070a234cb843e7a4c5a697"
+    },
+    {
+     "title": "Battered and bruised by the election, Texas Republicans reckon with a blue Texas",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ2F6WE5DOXZ5NTRkMmpFcndUSUFMaWV2bG1RMHVWc3hKZ2lfRGlfbURESmFnOG5ad2luNzEwU3hFRUl2SWd2UnRwMVBfY0FGblRQN05aQk5Ec3Y3MElhellKb1o3RkVlcVdkeVR0Wlg2b0xBeE8wV2d2aDV3cUdDNDNpSjJLZzd0?oc=5",
+     "source": "The Texas Tribune",
+     "published": "2026-11-10T00:58:38+00:00",
+     "summary": "Battered and bruised by the election, Texas Republicans reckon with a blue Texas&nbsp;&nbsp;The Texas Tribune",
+     "image": ""
     },
     {
      "title": "Trump says FBI probing Nvidia CEO\u2019s affair with alleged spy",
@@ -248,14 +296,6 @@
      "published": "2026-11-10T00:41:13+00:00",
      "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jailsIt\u2019s a bill that would make it easier to build big infrastructure ",
      "image": "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783"
-    },
-    {
-     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T00:34:53+00:00",
-     "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
     },
     {
      "title": "Alderpersons grill Chicago election officials about glitch that caused ballot shortages on 2026 Election Day",
@@ -280,51 +320,11 @@
      "published": "2026-11-10T00:24:53+00:00",
      "summary": "\u2018Possible activities outside the polling place\u2019: Cameron County reviews five election complaints&nbsp;&nbsp;ValleyCentral.com",
      "image": ""
-    },
-    {
-     "title": "Election Day is over. When do campaign signs have to come down in North Carolina?",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWFSeE9hYmQ2a3k1a1U4MVllTW1zenl0Vl9vZTdhLVMwV1kzWkJRaWdMemtsVU9zWE5Pc3Rpd1VHdlZDbWUtS2YycmRUWmx5bWNQbkZSMTdyaDZtMk9FX2lOa180THhiMV84NFIwOW4xR0RJYmZpS1J2a3hXNkFwelNLMG9fUHl2OHRLOXBmYVNpUjNsTEpoUDcyNzEzNU5tVURYOGRLelVUTnkwcUk4NDNnVFhYZFRteHZ4andR?oc=5",
-     "source": "WRAL",
-     "published": "2026-11-09T23:56:58+00:00",
-     "summary": "Election Day is over. When do campaign signs have to come down in North Carolina?&nbsp;&nbsp;WRAL",
-     "image": ""
-    },
-    {
-     "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-     "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T23:53:03+00:00",
-     "summary": "Outgoing Republican lawmaker Thomas Massie calls on Congress to oust Hegseth over accusations of unlawful orders.",
-     "image": ""
-    },
-    {
-     "title": "US supreme court clears way for Trump\u2019s border wall in Texas\u2019s Big Bend",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
-     "source": "The Guardian",
-     "published": "2026-11-09T23:48:36+00:00",
-     "summary": "Ruling said law enacted by Congress reflects preference for border control over environmental and recreational harmThe US supreme court has allowed Donald Trump to continue his adm",
-     "image": "https://i.guim.co.uk/img/media/bc7caafb8648ba5cb0214720e2ca54df25bdf9bb/410_0_4079_3265/master/4079.jpg?width=140&quality=85&auto=format&fit=max&s=adb14d4d1e838ab623d49177b95f5c84"
-    },
-    {
-     "title": "Democrats Demand Answers on Trump\u2019s A.I. Policy Amid Spy Plot",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVdORGUzSXZqX3lyWG91Z051MmJsbExiTHotVnAyMnV3b0FNeDBuWlgtMDdINW50Y1I2WGlIS3hHX3pfSzU1eEtKR1pfejlEdGQ4QUFqM28yeEt5bWNpSlZpQTlha3NqZ0NxY0xFNTNtdDJKU2gzbnRkQTl6S1BZbEZaVQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-09T23:48:34+00:00",
-     "summary": "Democrats Demand Answers on Trump\u2019s A.I. Policy Amid Spy Plot&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T23:45:14+00:00",
-     "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T01:17:27.522459+00:00",
+   "fetched_at": "2026-11-10T01:47:30.716704+00:00",
    "stale": false,
    "items": [
     {
