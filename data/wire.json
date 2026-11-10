@@ -1,10 +1,74 @@
 {
- "generated_at": "2026-11-10T02:17:34.159589+00:00",
+ "generated_at": "2026-11-10T02:47:37.734421+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T02:17:34.159547+00:00",
+   "fetched_at": "2026-11-10T02:47:37.734389+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+     "source": "The Guardian",
+     "published": "2026-11-10T02:28:00+00:00",
+     "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jailsThe Senate on Monday advanced bipartisan legislation aimed at spee",
+     "image": "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783"
+    },
+    {
+     "title": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
+     "url": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment",
+     "source": "\u00a9 Odelyn Joseph, AP",
+     "published": "2026-11-10T02:24:22+00:00",
+     "summary": "Amnesty International has called on El Salvador and Haiti to make public the agreement governing the deployment of around 2,000 Salvadoran troops to the gang-plagued Caribbean nati",
+     "image": "https://s.france24.com/media/display/7a2090b6-dcad-11f1-9ef2-d18c5759e759/w:1024/p:16x9/AP26303760183098.jpg"
+    },
+    {
+     "title": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with \u2018unusual symptoms\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/santa-barbara-half-marathon-illness-police",
+     "source": "The Guardian",
+     "published": "2026-11-10T02:19:47+00:00",
+     "summary": "Runners seek medical treatment as 13-mile race held amid unusually high November temperaturesPolice in southern California are investigating the circumstances that led to the hospi",
+     "image": "https://i.guim.co.uk/img/media/ee37b4e075484eb0e0f0c27cd35c259f8dd910f4/0_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=e93705aa0032e04fefbbe87fec2a3d4d"
+    },
+    {
+     "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+     "source": "The Guardian",
+     "published": "2026-11-10T02:17:30+00:00",
+     "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to \u2018see out his days\u2019Get our breaking news email, free app or daily news podcastBeaconsfield mine",
+     "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=ee792f71608cbef7e8f8257b3b1cd16a"
+    },
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T02:12:29+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "Cameroon sets date for twice-delayed legislative and local elections",
+     "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T02:03:59+00:00",
+     "summary": "President Paul Biya, the world&#039;s oldest leader, sets February 7 for Cameroon&#039;s delayed legislative and local polls.",
+     "image": ""
+    },
+    {
+     "title": "Israel\u2019s Shin Bet finds no evidence of foreign election interference",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T01:59:59+00:00",
+     "summary": "Israel&#039;s internal security service has found no evidence of foreign interference in last month\u2019s election.",
+     "image": ""
+    },
+    {
+     "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+     "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T01:56:47+00:00",
+     "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump&#039;s military goals in Iran.",
+     "image": ""
+    },
     {
      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
@@ -12,14 +76,6 @@
      "published": "2026-11-10T01:55:22+00:00",
      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg"
-    },
-    {
-     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T01:53:32+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     },
     {
      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -60,92 +116,60 @@
      "published": "2026-11-10T01:03:14+00:00",
      "summary": "Chamber voted 73-25 to formally take up bill that will shorten timelines to start energy and datacenter projectsThe Senate on Monday advanced bipartisan legislation aimed at speedi",
      "image": "https://i.guim.co.uk/img/media/45348d68d25eb0d8e900408b066ef3a3e0e37684/1197_0_5670_4536/master/5670.jpg?width=140&quality=85&auto=format&fit=max&s=c2069f5209070a234cb843e7a4c5a697"
-    },
-    {
-     "title": "France blames Iran for October supermarket cyberattack",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T01:01:47+00:00",
-     "summary": "French Foreign Minister Jean-No\u00ebl Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
-     "image": ""
-    },
-    {
-     "title": "Trump signals \u2018positive momentum\u2019 with Iran after meeting Qatari PM",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T01:00:00+00:00",
-     "summary": "Trump says there is \u2018positive momentum\u2019 towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
-     "image": ""
-    },
-    {
-     "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
-     "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T00:57:58+00:00",
-     "summary": "Angie Pena&#039;s disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.",
-     "image": ""
-    },
-    {
-     "title": "Beau Lamarre-Condon denies being \u2018obsessed\u2019 with Jesse Baird as double murder trial continues",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-10T00:53:54+00:00",
-     "summary": "Former police officer tells jury he joked about being \u2018white girl crazy\u2019 with friends as lawyer questions him over start of relationship with BairdGet our breaking news email, free",
-     "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/202_458_2489_1992/master/2489.jpg?width=140&quality=85&auto=format&fit=max&s=244895ce0fcf3d33c7803d343519e647"
-    },
-    {
-     "title": "Trump says FBI probing Nvidia CEO Huang\u2019s affair with alleged spy",
-     "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T00:44:28+00:00",
-     "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman&#039;s alleged work for Chinese intelligence.",
-     "image": ""
-    },
-    {
-     "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-     "source": "The Guardian",
-     "published": "2026-11-10T00:41:13+00:00",
-     "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jailsIt\u2019s a bill that would make it easier to build big infrastructure ",
-     "image": "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783"
-    },
-    {
-     "title": "Nvidia shares slide as board probes CEO over affair with alleged Chinese spy",
-     "url": "https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy",
-     "source": "France 24",
-     "published": "2026-11-10T00:22:00+00:00",
-     "summary": "Nvidia CEO Jensen Huang is facing scrutiny after reports he was targeted in a suspected Chinese intelligence operation involving a businesswoman with whom he was having an affair. ",
-     "image": "https://s.france24.com/media/display/b5d81122-dc9b-11f1-b602-1beafce15fea/w:1024/p:16x9/EN-20261110-000700-000840-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T02:17:34.159570+00:00",
+   "fetched_at": "2026-11-10T02:47:37.734404+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-10T02:27:40+00:00",
+     "summary": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
+     "url": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment",
+     "source": "\u00a9 Odelyn Joseph, AP",
+     "published": "2026-11-10T02:24:22+00:00",
+     "summary": "Amnesty International has called on El Salvador and Haiti to make public the agreement governing the deployment of around 2,000 Salvadoran troops to the gang-plagued Caribbean nati",
+     "image": "https://s.france24.com/media/display/7a2090b6-dcad-11f1-9ef2-d18c5759e759/w:1024/p:16x9/AP26303760183098.jpg"
+    },
     {
      "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 10, 2026 from Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OUFpDU3pMNWo5dEFtWHRGWW1DOHc5a3NhSG1mRk5uQ1RSdFVVd2tjQnM3R0hQVnV4VGRJQ2ktalBEVXRHb0ptOWZpN3FlZw?oc=5",
      "source": "Kyiv Post",
-     "published": "2026-11-10T02:01:00+00:00",
+     "published": "2026-11-10T02:24:18+00:00",
      "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 10, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war briefing: battlefield gains bolstering Kyiv\u2019s hand in US-led peace talks, Zelenskyy says",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3dBNTBJTEJDc3dxblpYWTYzcUFuWXRRN29fU05wdnJYYm1nNndxTzlIWi0wMnBfay1xY1JRWVUtdm9PR2k0dzZUSm1tVzF5cng2RFJnVERiM3hjRmI1N1A2U3BYMUFDanpCdWNWLWoxaHVIMUhxZVM0QVFibk94S0hDMmVaR0ZkZkZ3RjNNaXFvSEdFLVZOc0tJWHZqOWFuQXBDNTQ1cWxRWjVtM2xWaUVOazk2Q1JzcG5NVFZyYVZKaFJNYWljaDg5TC04LVNVWWd5TTNTd3BWSE0?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-10T01:57:00+00:00",
-     "summary": "Ukraine war briefing: battlefield gains bolstering Kyiv\u2019s hand in US-led peace talks, Zelenskyy says&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T01:53:32+00:00",
+     "published": "2026-11-10T02:12:29+00:00",
      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+     "title": "Israel\u2019s Shin Bet finds no evidence of foreign election interference",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T01:59:59+00:00",
+     "summary": "Israel&#039;s internal security service has found no evidence of foreign interference in last month\u2019s election.",
+     "image": ""
+    },
+    {
+     "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+     "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T01:56:47+00:00",
+     "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump&#039;s military goals in Iran.",
+     "image": ""
     },
     {
      "title": "India Speaks With Russia, Ukraine Ahead of US-Led Peace Talks",
@@ -153,6 +177,14 @@
      "source": "Bloomberg.com",
      "published": "2026-11-10T01:48:41+00:00",
      "summary": "India Speaks With Russia, Ukraine Ahead of US-Led Peace Talks&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "Russia, Ukraine envoys to talk ceasefire monitoring, territory",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVJVSXlDcFRPaWRIN21JdEk4QW1GUWNEMEU5ZUNxMWVtbjB6MDBhUlB6bEsyNDhpZmJCdHRCLTd0dkl1Rk82STVZN0Q5NFBtWkJ4VS1YMzVFWktYeGlET0FVeXBSaS16RGJ2dU9mcG5Bd2djQUZ2T0MxUHp3VmU2Ym9JdnB6NWpOZW4zOXBZdE9OdnQ2ZzVSTmlJakY5UQ?oc=5",
+     "source": "The Spokesman-Review",
+     "published": "2026-11-10T01:34:00+00:00",
+     "summary": "Russia, Ukraine envoys to talk ceasefire monitoring, territory&nbsp;&nbsp;The Spokesman-Review",
      "image": ""
     },
     {
@@ -180,51 +212,43 @@
      "image": ""
     },
     {
-     "title": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGdMYVFDRzd5d0cxbjctRTF5eGFpN0QzT3MtSUxxM3JWd29HTlNLd1hJQVM2RkVqRGE4ZmJpUXV4aFh6UlhNU29EbjlZNHF1SG53S3ZBRlNhZG8zeld3ZU5uS0RIcEJQcmV4YlJ1WUF6cWEzZUp5dHV1VGN5UlNSNHdxVTJXVDFaOFREbVFzZ1JJbHhWTWdVMXhYSWx3SDJLNXlPVEx3NmhRWVRUdlg2Yi1UbHJma3VVc3d6VWVFRG9WbFE?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-10T00:57:40+00:00",
-     "summary": "U.S. gives Russia an early win before Ukraine peace talks begin in Abu Dhabi&nbsp;&nbsp;The Washington Post",
+     "title": "Voters told Trump what they think. Now Europe wants to stop him being a patsy for Putin",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGo5U0JPMGdLRUtrZGpWMWVXLU81NDdzV0RYVlp6QzFjNHdTRlpTRXZ4VnFDZVAwTUdKWFlNejJKbnY4dFQxNjNhYllkZ01sWFlrTV9IbkxUOEoyN1BUdmJpSm9ZS0JEb2RqLTNqeXB5OC00XzBINXRodVFpaFdJR1Y2OEJPZVRRN3hpVmRfaERpSkp2SlEteE9CZVRGSUJjUzJBUjBFdEF2TnVzakh2aWlRZWpZeXpOb05DNnVlOTFURDk4NnIyNGdwYl9YWTFJZnJxb05pWTJJcnM?oc=5",
+     "source": "SMH.com.au",
+     "published": "2026-11-10T00:47:55+00:00",
+     "summary": "Voters told Trump what they think. Now Europe wants to stop him being a patsy for Putin&nbsp;&nbsp;SMH.com.au",
      "image": ""
-    },
-    {
-     "title": "Jared Kushner Claims Trump Is 'Determined' to End Ukraine War \u2014 as Prez Warns Country Will Be a 'Different Shape'",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHpFT19sQjQ5V19NcXl2emxuVTlmOTNMeEJFR05qcXNSV1czaEszNUJ5aW9aMGN4RnFMbzlSbGRYd05JRHJ0V2VOZjBmbzdJaFZiNXhQVlladTlNQkMwN20zbkplMTdYbjNTdTRVajhSZmJDZzItMkM2VUtGNkhhUU5Ib0lMUkU2?oc=5",
-     "source": "AOL.com",
-     "published": "2026-11-10T00:44:00+00:00",
-     "summary": "Jared Kushner Claims Trump Is 'Determined' to End Ukraine War \u2014 as Prez Warns Country Will Be a 'Different Shape'&nbsp;&nbsp;AOL.com",
-     "image": ""
-    },
-    {
-     "title": "Russia, Ukraine to meet for U.S.-backed peace talks on Tuesday",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS0c2aXRfZGlteXQ0X1kxUmZldmYwdkVpdFQ4azFRNDJkYzVmOWpCWEN2NEJEek9vcFBvNWZVRjdtUjN6VVdjck9VNFNpeDU3dl9uTnNHQzN0ZVA0cnM4VnJGeTZZSEgyV2tMOUVaYTd6TmxXUDhQWFhYVmxLbFlaUlN2X2lyUQ?oc=5",
-     "source": "The Globe and Mail",
-     "published": "2026-11-10T00:39:06+00:00",
-     "summary": "Russia, Ukraine to meet for U.S.-backed peace talks on Tuesday&nbsp;&nbsp;The Globe and Mail",
-     "image": ""
-    },
-    {
-     "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T00:09:49+00:00",
-     "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
-    },
-    {
-     "title": "The superpower battle over energy \u2013 and what it means for your bills",
-     "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T00:08:28+00:00",
-     "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T02:17:34.159575+00:00",
+   "fetched_at": "2026-11-10T02:47:37.734409+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+     "source": "The Guardian",
+     "published": "2026-11-10T02:28:00+00:00",
+     "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jailsThe Senate on Monday advanced bipartisan legislation aimed at spee",
+     "image": "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783"
+    },
+    {
+     "title": "Monday 2026 Election results: Who\u2019s ahead in Salem, Keizer races",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1lQaU53RUU3QkRMYTRHdzJTbWpHU29hNmkwLWJQMjhzTkczZWtLTUxXdFB5eDM2ZmFIajlQN1BOWUUydWx1dnVTVEVKMXpFanhzRFpjRGZSSUsyT3ZDTDZERm43X1JhaFVPRjFVTmxEZVRzdHpETDdQVnA1NEZtbGFLTFdCVDAycG5EX09Ha1BsTlp6d2xtM1lrR0l2U1dlQ2tvNFln?oc=5",
+     "source": "Salem Reporter",
+     "published": "2026-11-10T02:21:30+00:00",
+     "summary": "Monday 2026 Election results: Who\u2019s ahead in Salem, Keizer races&nbsp;&nbsp;Salem Reporter",
+     "image": ""
+    },
+    {
+     "title": "Cameroon sets date for twice-delayed legislative and local elections",
+     "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T02:03:59+00:00",
+     "summary": "President Paul Biya, the world&#039;s oldest leader, sets February 7 for Cameroon&#039;s delayed legislative and local polls.",
+     "image": ""
+    },
     {
      "title": "New Post Election Poll: Anti-Trans Ads Flop",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVW9jeWloV3lha3RWM1Z2Qjk1aUV6RWJVNFV0N1lmZWdqT1ZWTk1STUNLTW1SUGRReE5FQkk0bnhhcTVoN0JCUk9ZLWpKZkg5LWZxSUNMMmZCcEQwZjQzam94eUdDbnNHbzVKMlNYcURKNGlhcGlKTFExMTNIazdJTE81cw?oc=5",
@@ -274,14 +298,6 @@
      "image": ""
     },
     {
-     "title": "Olmsted County sees increase in total voters from previous midterms",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcG1sVmthaHFRU3ZmMl9wN2dCeUE5Tm1iUFZsUS1nWU0yTW1IWWFJU0ZTcXUyQjlMODRmdy1rVUVLZzAyUWFQa09qdlVRb3Z5WV95Mm9DQUk4RGlmWkFSQnBpaUhyaktIS000V2FuS1RMX2w2aGVjN3I4MnlPRVJWM0NuXzUwZ2VRUkFPeFMzN19uOC13UUdZ0gGrAUFVX3lxTE5lRDk3RXhfeFRMaGdPVENWakpkMWkwRFNKMU05akRSN016bm1xbzE4TmxTdDM0YmdLbnZjT08zYUhIYlNvdWNJN1RCcFpOUWRvWEVIOGQyNGdpQWw5X2tEak9oLW1IekhiWElGQllSZ3Q2YUFsU2ZST29tdmpBeWdQTVBCcXpQS1dKVTRoMWNmWU12TWFYWFlNeWFFSE9PclVQMzhQQ3JrN2Jfdw?oc=5",
-     "source": "KTTC | Rochester, MN",
-     "published": "2026-11-10T01:23:00+00:00",
-     "summary": "Olmsted County sees increase in total voters from previous midterms&nbsp;&nbsp;KTTC | Rochester, MN",
-     "image": ""
-    },
-    {
      "title": "How to keep an election alive as floodwaters rise",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84NTVUT0I4Ty0xcWlRWkRRVHRwaUlLOXBMT0FUUC11d3V2V3VzMk9fOFZQMVlkSk9BdmV4bmtBZ2phWFgtTmtrMzY4ZGJQOE9TazhnZHFIODIxTjNRT0FZRHZxNWVwdGtLckdBNlRkUjVjT0FKOWt5cVJFMC1OUQ?oc=5",
      "source": "Colorado Public Radio",
@@ -304,27 +320,11 @@
      "published": "2026-11-10T01:03:14+00:00",
      "summary": "Chamber voted 73-25 to formally take up bill that will shorten timelines to start energy and datacenter projectsThe Senate on Monday advanced bipartisan legislation aimed at speedi",
      "image": "https://i.guim.co.uk/img/media/45348d68d25eb0d8e900408b066ef3a3e0e37684/1197_0_5670_4536/master/5670.jpg?width=140&quality=85&auto=format&fit=max&s=c2069f5209070a234cb843e7a4c5a697"
-    },
-    {
-     "title": "Battered and bruised by the election, Texas Republicans reckon with a blue Texas",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ2F6WE5DOXZ5NTRkMmpFcndUSUFMaWV2bG1RMHVWc3hKZ2lfRGlfbURESmFnOG5ad2luNzEwU3hFRUl2SWd2UnRwMVBfY0FGblRQN05aQk5Ec3Y3MElhellKb1o3RkVlcVdkeVR0Wlg2b0xBeE8wV2d2aDV3cUdDNDNpSjJLZzd0?oc=5",
-     "source": "The Texas Tribune",
-     "published": "2026-11-10T00:58:38+00:00",
-     "summary": "Battered and bruised by the election, Texas Republicans reckon with a blue Texas&nbsp;&nbsp;The Texas Tribune",
-     "image": ""
-    },
-    {
-     "title": "Trump says FBI probing Nvidia CEO Huang\u2019s affair with alleged spy",
-     "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T00:44:28+00:00",
-     "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman&#039;s alleged work for Chinese intelligence.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T02:17:34.159578+00:00",
+   "fetched_at": "2026-11-10T02:47:37.734411+00:00",
    "stale": false,
    "items": [
     {
