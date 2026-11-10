@@ -1,17 +1,25 @@
 {
- "generated_at": "2026-11-10T07:18:21.114252+00:00",
+ "generated_at": "2026-11-10T07:48:24.842465+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T07:18:21.114224+00:00",
+   "fetched_at": "2026-11-10T07:48:24.842437+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australia tightens AI oversight rules after OpenAI government breach",
+     "url": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T07:05:11+00:00",
+     "summary": "The decision comes after \u200ban OpenAI agent breached \u200ban Australian government website in June.",
+     "image": ""
+    },
     {
      "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
      "url": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
      "source": "The Guardian",
      "published": "2026-11-10T07:00:32+00:00",
      "summary": "Errors in entry and exit records leave some Britons wrongly flagged as having overstayed post-Brexit 90-day limitEU sues IBM and two European firms over entry/exit border systemThe",
-     "image": "https://i.guim.co.uk/img/media/d4e0bb6cf66538930d3fcf221707a4675ec85a38/290_0_2921_2336/master/2921.jpg?width=140&quality=85&auto=format&fit=max&s=d6ae70c93eb8ab5f74e4e6207236504b"
+     "image": "https://i.guim.co.uk/img/media/c67887c8ba242b91baf7dae0354b8fcfb6cca090/386_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=1d26e1353e7463dc48f0b16de666dd21"
     },
     {
      "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
@@ -108,21 +116,53 @@
      "published": "2026-11-10T06:00:30+00:00",
      "summary": "Jens Eskelund says Europe may need to allow its companies to become part of Chinese firms\u2019 supply chainsEurope\u2019s manufacturers could give up on attempting to compete with their Chi",
      "image": "https://i.guim.co.uk/img/media/e1035f797cd03f2b0cc1d628d816df8072bbfa03/329_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=110d3a2338b374252f82a2f881338df5"
-    },
-    {
-     "title": "Young people in UK hit by \u2018low-gear economy\u2019, warns Bank of England deputy",
-     "url": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
-     "source": "The Guardian",
-     "published": "2026-11-10T06:00:30+00:00",
-     "summary": "Exclusive: Iran war has fuelled energy price rise and clouded outlook, driving up unemployment, says Clare LombardelliYoung people in Britain are bearing the brunt of a \u201clow-gear e",
-     "image": "https://i.guim.co.uk/img/media/c57f0c57a57f006cff8d0a2ad81ca2997dd6ada4/417_0_4818_3857/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=b0ecbd365a7e4c4cefabdcc01e0dbd94"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T07:18:21.114237+00:00",
+   "fetched_at": "2026-11-10T07:48:24.842451+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "French Minister: Europeans will attend Ukraine-Russia talks in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTRtcThEeEtKbVRrck9iRjBNQXZTNU9hRm40WENmbnJGMU00UGxqY0FrOXdzVmRhSXNxVGl3aFU5R3VyNzVxSWw5NkU3VC0zLUwxODRGeURadUliUUUtc3IzX042SDZQVEJxdy1QSXVWR0xyTDM3SGpGN1c1U0haMzV5RUxGUGVtemYtemJNUUxDYWlTNWw4V2sybGR5YldzcUM1LWpHRDB0Z2JxcTc4?oc=5",
+     "source": "Arab News",
+     "published": "2026-11-10T07:30:00+00:00",
+     "summary": "French Minister: Europeans will attend Ukraine-Russia talks in Abu Dhabi&nbsp;&nbsp;Arab News",
+     "image": ""
+    },
+    {
+     "title": "1721 Days of russia-Ukraine War \u2013 russian Casualties in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0FfRi03YkJIOUlOSWJQTW9lcXFGdHE5dXliTzZ3ZDFRTU9LZlNBdkxIa2NYSVRwNGgxeTMtN2lQbU1kWi1ONFdnbTM4am9tdVZNTkthajg0cjlCYlR5N2VZMi0wT1YzMHlCZjgyTktyZi1ZRVlER0VUSUhiTmotcXBjeFMwamlRWEMzNDQ2WDZYNWFOYks5V1owXzEtdmRhb0FYUFZB?oc=5",
+     "source": "Defense Express",
+     "published": "2026-11-10T07:25:50+00:00",
+     "summary": "1721 Days of russia-Ukraine War \u2013 russian Casualties in Ukraine&nbsp;&nbsp;Defense Express",
+     "image": ""
+    },
+    {
+     "title": "US, Russia and Ukraine to restart talks in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3g5ZmlOUy05MzA4S2dldTFlNjZsME9wNVBaMTZNaWVaY3d3RXYtMktELUhEX2dMUHRhYS1rNUc1UHh4Z29aZUg0OG4tU1hleEkxTEVfNVdlbllxR2ZNTURPTGQ2NHV3cTlBbkgxYkRZS0NNWGtiekItN0xxUzhDYUlBeDJ1S0pvUFUxZDJ4Y3c?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-10T07:21:01+00:00",
+     "summary": "US, Russia and Ukraine to restart talks in Abu Dhabi&nbsp;&nbsp;DW.com",
+     "image": ""
+    },
+    {
+     "title": "(2nd LD) Top diplomats of S. Korea, France discuss ties, Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5OTNUekkzczBIdzVXYy1TNUdxNVdJRmtQcF9uOXJ5eTNxTjBnaVpqN1FzN3dQbnRBcjRZeFF5Y2RwdXM0TjZGbzd6T3pkcFU2TzhsazlEbC1Kdw?oc=5",
+     "source": "Yonhap News Agency",
+     "published": "2026-11-10T07:16:32+00:00",
+     "summary": "(2nd LD) Top diplomats of S. Korea, France discuss ties, Ukraine war&nbsp;&nbsp;Yonhap News Agency",
+     "image": ""
+    },
+    {
+     "title": "Past talks involving Russia and Ukraine have yielded little progress toward peace",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnRyRWZiS1dtSTBTWFpVU3N6QTdsUjliZFZ6bjFZQ0hTOW1PaUwyNVBScW5zNHlKVHBueWgyTmFYRzBHQXNVcUNqRklEZnBiUkVhV1Nnak91RjNGZlBEV0hmZnpBYTZtd3dNYnFpTlhKREtLcXhxbDI5eDAyQ3RTMWxZdFBVWlQ5azRiTGdUbGhuQ0lDQzc3NFZxM1hTaU10LUJuUnJXejRzYzYtSEY0d2c4NDBOc2RZUFFqaENGUm5fSWtZX3RNS3EtYlFuV00zbGFoN19lam1VemVCZ1HSAeQBQVVfeXFMUEh2SHFMUWV2U1JtNWROSXQyOTUtRVZIVnZEcW9oZml2YVFwREhHelhPT1FvVVp2dExvSVJsNTFwMFhsYmdzQ28ybFlNV1hZUG1IZUxsbWxud0lGczU0RWVSYU5sYmptTlBrQUIySEUxckhEeGNPS0syUWJyaTFGWDJwTFFCZ3NFQVUxcjB4V2ZqQ1ZTS1h1c0s1S2Q5UUpDcnY1dmsyX1pRNVFDdDIzbzVUcjMzbmhDUjA4LUg2OF9KUmVrWTJaNFNyLTU5Z2lBWnAwT01KaXpjOF94UUJEMDRCMDk2?oc=5",
+     "source": "The Hindu",
+     "published": "2026-11-10T06:59:51+00:00",
+     "summary": "Past talks involving Russia and Ukraine have yielded little progress toward peace&nbsp;&nbsp;The Hindu",
+     "image": ""
+    },
     {
      "title": "India news: New Delhi ready to mediate Black Sea food corridors, says Ukraine's Zelenskyy",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0JJTE8yclp5ek9idEtqb0Y4Y2cweVpyX0xtNnJDM2trU0VGa1JjTG1hS3lYa3RkeGx4UFFoNnJ3VEpjRUR3Y3A1eUVndTFBbnNveFVYcE52QnIzQ2lpU3ByY1RtT29rZHFxd1NiTi1aMC0tWWZKLUxwZ0QtUmMyUFFGclZ3QnlMR0NieXBSLXpCWE85Zmk1eGdVN00yeWptVGRYRWx5aHdjNVJfbm54cExWenZMdGxyMm8wQm5Wbw?oc=5",
@@ -137,6 +177,14 @@
      "source": "Business Insider",
      "published": "2026-11-10T06:56:00+00:00",
      "summary": "Leaked Russian deaths from Rosstat show 400,000 war deaths, hackers say&nbsp;&nbsp;Business Insider",
+     "image": ""
+    },
+    {
+     "title": "Leaked federal Russian records show 400,000 war deaths in Ukraine, hackers say",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRV93aXRGMkRocEVZT3JxNjUyRElBSVpTeVNSMzdkdXl1RFlTTVlqelhRUlowTHpSZXRKanZQRWdYV1llY092MXdoTnZvY2NzVXF6bmwtM3czVmVsTm9kZ3doMWhmdk9mN3AyTG1EcE9aTnltYUJ4UWxfaVFjUVFINmt6UWZ4UnRVZHlLVGZZYWZQd25YOE8w?oc=5",
+     "source": "Yahoo",
+     "published": "2026-11-10T06:56:00+00:00",
+     "summary": "Leaked federal Russian records show 400,000 war deaths in Ukraine, hackers say&nbsp;&nbsp;Yahoo",
      "image": ""
     },
     {
@@ -170,61 +218,29 @@
      "published": "2026-11-10T06:37:13+00:00",
      "summary": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
      "image": ""
-    },
-    {
-     "title": "Russia-Ukraine war latest: Moscow, Kyiv, Washington resume talks in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWthV2h1ZTk0Y0VycHFXcHloNUxoNW1ZVEVMckR4TEF6SnNuV3JfZXcxTUxyMkZ1NkJWNFpxRXZGdWh5ZDBHSWhycEFvX05SdTZ6QnhMNU9VMWdPS1NDMmUxY0VlS2NjYUxwQ05zeTZyb0Roa1ZNYzQyaVNhcUtsLVlNTE9Bb3dDaWJteFNOaVl2RkxUY09sbFV5SQ?oc=5",
-     "source": "Latest news from Azerbaijan",
-     "published": "2026-11-10T06:35:39+00:00",
-     "summary": "Russia-Ukraine war latest: Moscow, Kyiv, Washington resume talks in Abu Dhabi&nbsp;&nbsp;Latest news from Azerbaijan",
-     "image": ""
-    },
-    {
-     "title": "Khor Mor drone attack raises fears over Iraq\u2019s energy security",
-     "url": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T06:22:00+00:00",
-     "summary": "Drone strike disrupts electricity supply in Iraq&#039;s semi-autonomous Kurdish region, renewing concerns about armed groups.",
-     "image": ""
-    },
-    {
-     "title": "Europe Is Learning to Wage War from Ukraine: How Ukrainian Experience Is Changing the Security Architecture",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWJxV29Fb1VvdExDZjFreXRLLThxcWRlNWVyMUxqdjhFUDk1TlZ3UWU1cy1XbWhtSzE0Q3p5bGVpM0V5a2l0SnNBdjJ1Z3Y5d0FrT2t4Y0o0ODM2SGFRTjhFRWF4U1B1Sm1vSjNIZ05jLWJPaVUzV2VSRHNFd1Azb2lVX1RWTHRXOERITE84VTZZOG80aU5KSEoyMk9fTFllUjBuZDlFbGhwVkhfUnJjdnhiMnJJRHRlWEVkN0N0QVYyVV9UTVUtX9IBxwFBVV95cUxNV1ZYdmVJVXlmR2RNNldaMTFQUDZHMUVxUGowTzg2S1hObmNmbHIxN0hobTFwdUdaaWF2azJzYVR1ZXNoWFhyNXpzd2xVOEhTUEUycTJEMEVCZzcxTzktOVNRX1g4cnVQc2dvRjlxek80X2JERmNrbUQ3Z2t2dnhoSHRqc21lbHpGQ2RUYVpjMGt4ZnU5UzdodWg4QlVDeG1yWEUwaGZkVHBvX0k2TEdxZEMxM0R3TnhLVFRFWnFERDRHRVBobFZz?oc=5",
-     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-     "published": "2026-11-10T06:20:17+00:00",
-     "summary": "Europe Is Learning to Wage War from Ukraine: How Ukrainian Experience Is Changing the Security Architecture&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-     "image": ""
-    },
-    {
-     "title": "Live: Ukraine, Russia and US to resume peace talks in Abu Dhabi",
-     "url": "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi",
-     "source": "\u00a9 WAM, AP",
-     "published": "2026-11-10T06:09:26+00:00",
-     "summary": "Negotiators from Ukraine, Russia and the United States are meeting in Abu Dhabi for their first trilateral talks in more than nine months, as Washington pushes for an end to the wa",
-     "image": "https://s.france24.com/media/display/9bd61a5c-dcba-11f1-ad47-bf1914cabd52/w:1024/p:16x9/AP25048606702382.jpg"
-    },
-    {
-     "title": "Ukraine War, Day 1,720: Kyiv\u2019s Talks with Russia in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Sd251alRNZWJPbXNRWmJpUVMtYnNlV01nYlFaYmZFMnEyRzVyZnc3c2pOdWMtVWRtaW5TVEt2OXRsY2xpM1lmTGthVC1JSWhNbW1ZSlVweGxRMVU0LU9NVldqS0hzeFNKVVpEWFdENDA1YnZYa3c?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-10T06:06:49+00:00",
-     "summary": "Ukraine War, Day 1,720: Kyiv\u2019s Talks with Russia in Abu Dhabi&nbsp;&nbsp;EA WorldView",
-     "image": ""
-    },
-    {
-     "title": "New Knesset speaker could be key to ousting Netanyahu as Israel\u2019s PM",
-     "url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
-     "source": "The Guardian",
-     "published": "2026-11-10T06:00:31+00:00",
-     "summary": "Opposition politicians get first chance to take control of levers of power, even as they struggle to form governmentIsrael\u2019s new Knesset will be sworn in on Tuesday, giving opposit",
-     "image": "https://i.guim.co.uk/img/media/3fe596f228dd31c620c353de960e5ee320d60061/1797_368_3116_2494/master/3116.jpg?width=140&quality=85&auto=format&fit=max&s=1ac25966c017063bc0b854f8821bacdb"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T07:18:21.114240+00:00",
+   "fetched_at": "2026-11-10T07:48:24.842455+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Surrey school faces post-election decisions",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1JieTlqU3prNGpRUEJPR0VULThtTC16NnVkV2dpSENtUlVKbjZBWmZCbmFuYWlLQmVLc1B4TjFRMUV0VTZiVUZwNEVwZGpfV21KZlJuX1dpQWhQbW5XaWwzenNMRkV0b193bmN2SVZrXzJBWk9ONk1ia1ZIb2c2M1djWWpjOHBndG9NanJBZlV2T1JmVGdxcTRRNlJhZ2VX?oc=5",
+     "source": "Minot Daily News",
+     "published": "2026-11-10T07:30:00+00:00",
+     "summary": "Surrey school faces post-election decisions&nbsp;&nbsp;Minot Daily News",
+     "image": ""
+    },
+    {
+     "title": "Australia tightens AI oversight rules after OpenAI government breach",
+     "url": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T07:05:11+00:00",
+     "summary": "The decision comes after \u200ban OpenAI agent breached \u200ban Australian government website in June.",
+     "image": ""
+    },
     {
      "title": "Teddy Riner announces candidacy for French presidential elections",
      "url": "https://www.france24.com/en/tv-shows/sports/20261110-teddy-riner-announces-candidacy-for-french-presidential-elections",
@@ -240,14 +256,6 @@
      "published": "2026-11-10T06:00:52+00:00",
      "summary": "Government flags criminal law changes to ensure companies can\u2019t argue in future \u2018that someone didn\u2019t know the computer was loaded\u2019Get our daily political email, free app or daily n",
      "image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8860562d2849d1681cc78614e56d9f4f"
-    },
-    {
-     "title": "Israel Election 2026 live updates: Eisenkot begins coalition building process",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93UkNXMGJkdFM2dm1raDRlMXBKTG5DWEswMDlRUXZVZVcxVkxFZG5kWHFlUW1XdXp6ek9JNS1WOTVzcV9aZ1JXdUhpMF81UjFqWnVaMUl6TkJJU19ZQnlSa1JwZFJpR3NUR3V1a1l5ckMta0ZXVTlRUlZMcjJ5QQ?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-10T06:00:05+00:00",
-     "summary": "Israel Election 2026 live updates: Eisenkot begins coalition building process&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
     },
     {
      "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
@@ -312,19 +320,11 @@
      "published": "2026-11-10T04:40:00+00:00",
      "summary": "South Carolina election officials to determine whether 2nd Congressional District race requires recount&nbsp;&nbsp;WIS News 10",
      "image": ""
-    },
-    {
-     "title": "Macrons file new defamation lawsuit against US podcaster over transgender rumours",
-     "url": "https://www.france24.com/en/france/20261110-macrons-file-new-defamation-lawsuit-against-us-podcaster-over-transgender-rumours",
-     "source": "\u00a9 Abdul Saboor, POOL/AFP/File",
-     "published": "2026-11-10T04:33:54+00:00",
-     "summary": "French President Emmanuel Macron and his wife Brigitte filed a second lawsuit against US right-wing podcaster Candace Owens over false claims on her gender, accusing her of continu",
-     "image": "https://s.france24.com/media/display/ef3af00a-dcbf-11f1-b34e-a575454bc579/w:1024/p:16x9/cb700a478b2bb0246e753a3e44c0a699e13978e9.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T07:18:21.114242+00:00",
+   "fetched_at": "2026-11-10T07:48:24.842457+00:00",
    "stale": false,
    "items": [
     {
