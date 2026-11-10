@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-10T01:47:30.716714+00:00",
+ "generated_at": "2026-11-10T02:17:34.159589+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T01:47:30.716659+00:00",
+   "fetched_at": "2026-11-10T02:17:34.159547+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+     "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T01:55:22+00:00",
+     "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg"
+    },
+    {
+     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T01:53:32+00:00",
+     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
+     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
     {
      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
@@ -22,28 +38,12 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
     },
     {
-     "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-     "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T01:38:19+00:00",
-     "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg"
-    },
-    {
      "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
      "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
      "source": "The Guardian",
      "published": "2026-11-10T01:34:47+00:00",
-     "summary": "Australian carrier announces agreement with Accenture amid \u2018unprecedented\u2019 technological disruption, CEO Vanessa Hudson says Qantas is preparing to cut 850 local jobs and outsource",
+     "summary": "Australian carrier announces agreement with Accenture amid \u2018unprecedented\u2019 technological disruption, CEO Vanessa Hudson saysGet our breaking news email, free app or daily news podc",
      "image": "https://i.guim.co.uk/img/media/495089a2ea3363d20bc4baf998d27df79ec59b7c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=db4988bce91ca2639e69700b72cf3372"
-    },
-    {
-     "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T01:31:44+00:00",
-     "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
-     "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     },
     {
      "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
@@ -94,7 +94,7 @@
      "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/202_458_2489_1992/master/2489.jpg?width=140&quality=85&auto=format&fit=max&s=244895ce0fcf3d33c7803d343519e647"
     },
     {
-     "title": "Trump says FBI probing Nvidia CEO\u2019s affair with alleged spy",
+     "title": "Trump says FBI probing Nvidia CEO Huang\u2019s affair with alleged spy",
      "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-10T00:44:28+00:00",
@@ -120,23 +120,39 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T01:47:30.716695+00:00",
+   "fetched_at": "2026-11-10T02:17:34.159570+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 10, 2026 from Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OUFpDU3pMNWo5dEFtWHRGWW1DOHc5a3NhSG1mRk5uQ1RSdFVVd2tjQnM3R0hQVnV4VGRJQ2ktalBEVXRHb0ptOWZpN3FlZw?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-10T02:01:00+00:00",
+     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 10, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
+    {
+     "title": "Ukraine war briefing: battlefield gains bolstering Kyiv\u2019s hand in US-led peace talks, Zelenskyy says",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3dBNTBJTEJDc3dxblpYWTYzcUFuWXRRN29fU05wdnJYYm1nNndxTzlIWi0wMnBfay1xY1JRWVUtdm9PR2k0dzZUSm1tVzF5cng2RFJnVERiM3hjRmI1N1A2U3BYMUFDanpCdWNWLWoxaHVIMUhxZVM0QVFibk94S0hDMmVaR0ZkZkZ3RjNNaXFvSEdFLVZOc0tJWHZqOWFuQXBDNTQ1cWxRWjVtM2xWaUVOazk2Q1JzcG5NVFZyYVZKaFJNYWljaDg5TC04LVNVWWd5TTNTd3BWSE0?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-10T01:57:00+00:00",
+     "summary": "Ukraine war briefing: battlefield gains bolstering Kyiv\u2019s hand in US-led peace talks, Zelenskyy says&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
     {
      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T01:31:44+00:00",
+     "published": "2026-11-10T01:53:32+00:00",
      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war w",
      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     },
     {
-     "title": "Top diplomats of Korea, France discuss ties, Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWkM0Mk85d1dna0ZaaXVHeEdLOENmcDFFZDMwWVpuZUtybVhMZFBUN29OYnJldkloYkhOTEl6c0p6dXUzQy1mcmE2NTZlaE9RM0lYQ0ZwT0tpM1pWcVV2WjdtWE9vejJNaHFPUEtuZTY0N194NnVScWgtWnphRGlQQU5RdTQwOWZwNGNlRklqanJPd2d1V1FJaWxsaXBZWkJSemthVks2RGlWLXfSAbABQVVfeXFMTy1XTWtQMHlrMElXX2JRNWJDTjdMZnh4ZGVrcFZLNlZ3X1Y2RnRXNlQ1cmp1eFdySHFCallXeFk3TC1EaUVRRXQ4UW1CUjRLbVAxWVlzREdDV0NfbTVRSnlSZFE1OGY5Sk9TNThUZXZ4cW9DcC16blVlUnZKbkZDWGhmQUtMOHhfSEk1ZW5wX2FuVmEtNE8wN0xuNFZMOEVwREh3LVc3SVV4em5TS3U0OC0?oc=5",
-     "source": "The Korea Times",
-     "published": "2026-11-10T01:26:03+00:00",
-     "summary": "Top diplomats of Korea, France discuss ties, Ukraine war&nbsp;&nbsp;The Korea Times",
+     "title": "India Speaks With Russia, Ukraine Ahead of US-Led Peace Talks",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVM2aGpVS3l3dTlfODBMWlZWX1pfazNLcmZQbUllMG5VbWNHTjRqNW8wRERSNmoxNHlIVEFvWmExYUFPUnRrRTlmSXJzVXNkYnhwbjFIX0cwMzk0Tk1uZkVLQlZGNWgyOGVhZ29yWDd4dXY5ekZHQ3pyV3dKU0FpYTNQY2NwNzFvaDQ1WHVhOXRsajJTTW5LUmRqN00temhxdlRld2Y2ajBvajBpZWNGcQ?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-10T01:48:41+00:00",
+     "summary": "India Speaks With Russia, Ukraine Ahead of US-Led Peace Talks&nbsp;&nbsp;Bloomberg.com",
      "image": ""
     },
     {
@@ -145,6 +161,14 @@
      "source": "Al Jazeera",
      "published": "2026-11-10T01:01:47+00:00",
      "summary": "French Foreign Minister Jean-No\u00ebl Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
+     "image": ""
+    },
+    {
+     "title": "Top diplomats of S. Korea, France discuss ties, Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92bnM2VWNseFh3R2xOaUpKSVFSMGV4NWk4ekhyXzJPN0FOWnJ3Y180ejYwOGxTNFRCMHNHWEVlZXliTnZ4NjNORWFSZ2JtVkVjTGJXTlI0Z0JLZw?oc=5",
+     "source": "Yonhap News Agency",
+     "published": "2026-11-10T01:00:41+00:00",
+     "summary": "Top diplomats of S. Korea, France discuss ties, Ukraine war&nbsp;&nbsp;Yonhap News Agency",
      "image": ""
     },
     {
@@ -172,6 +196,14 @@
      "image": ""
     },
     {
+     "title": "Russia, Ukraine to meet for U.S.-backed peace talks on Tuesday",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS0c2aXRfZGlteXQ0X1kxUmZldmYwdkVpdFQ4azFRNDJkYzVmOWpCWEN2NEJEek9vcFBvNWZVRjdtUjN6VVdjck9VNFNpeDU3dl9uTnNHQzN0ZVA0cnM4VnJGeTZZSEgyV2tMOUVaYTd6TmxXUDhQWFhYVmxLbFlaUlN2X2lyUQ?oc=5",
+     "source": "The Globe and Mail",
+     "published": "2026-11-10T00:39:06+00:00",
+     "summary": "Russia, Ukraine to meet for U.S.-backed peace talks on Tuesday&nbsp;&nbsp;The Globe and Mail",
+     "image": ""
+    },
+    {
      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -186,45 +218,37 @@
      "published": "2026-11-10T00:08:28+00:00",
      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "Iran war live: Iran demands US \u2018surrender\u2019 to its conditions",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T23:55:23+00:00",
-     "summary": "US President Donald Trump said the war was &quot;effectively over&quot; after meeting Qatar&#039;s prime minister in Washington, DC.",
-     "image": ""
-    },
-    {
-     "title": "Zelensky says Ukrainian battlefield successes strengthen Kyiv\u2019s position in talks",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHpXRnluVnV5VHlRRGN0ZVpOT1hQUkRGNERQM1RsbnhKWmlPSTdqQ2cxbFMzT09zRFczLUVJSHlyY05ZOWhpOGlKS0xoTU52WEJGN1F5SWpKa1Y5UU01aWVIVWdRUzdUUU93MHFEZGxBbXRqaU50cFBuZ2pwY3dyRDZ1QVNUa2loYU1XWWZrSG0xNVBSYWVVQzVQcnBmRG5ORHdKYmdLakhocGU1bHJoWTVGSEg1MUZpR0JV?oc=5",
-     "source": "Arab News",
-     "published": "2026-11-09T23:48:49+00:00",
-     "summary": "Zelensky says Ukrainian battlefield successes strengthen Kyiv\u2019s position in talks&nbsp;&nbsp;Arab News",
-     "image": ""
-    },
-    {
-     "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-09T23:47:11+00:00",
-     "summary": "President Trump has lashed out at efforts to impeach Defense Secretary Pete Hegseth over the US war on Iran.",
-     "image": ""
-    },
-    {
-     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-09T23:28:53+00:00",
-     "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T01:47:30.716701+00:00",
+   "fetched_at": "2026-11-10T02:17:34.159575+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "New Post Election Poll: Anti-Trans Ads Flop",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVW9jeWloV3lha3RWM1Z2Qjk1aUV6RWJVNFV0N1lmZWdqT1ZWTk1STUNLTW1SUGRReE5FQkk0bnhhcTVoN0JCUk9ZLWpKZkg5LWZxSUNMMmZCcEQwZjQzam94eUdDbnNHbzVKMlNYcURKNGlhcGlKTFExMTNIazdJTE81cw?oc=5",
+     "source": "Human Rights Campaign",
+     "published": "2026-11-10T01:48:34+00:00",
+     "summary": "New Post Election Poll: Anti-Trans Ads Flop&nbsp;&nbsp;Human Rights Campaign",
+     "image": ""
+    },
+    {
+     "title": "Jefferson County Election Commission votes to allow recount in 2026 sheriff race",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGJia2NsUU5NWlJPZXlndGJ5bWtjMVFNUjVPbXREUVJ4UlBBLWFTaEQ2Y0Z3LUdiTEFKVnE2SHJpZ2tIYUMzdDFOcGlYakplNEV6bEttMXFfdEFLZHV6OEIwZ3pMU0lTeXpvNUcyUC1BTFVYRFJJM29XLUd6Q0t1Nml6UTJELWpMTzJYSkctNG8zd1ktdnl6R2JvRENkemU4OXZfNDEtRXZJMWxYeHVJUTF2c2pLMmIzb0E?oc=5",
+     "source": "KARK",
+     "published": "2026-11-10T01:47:30+00:00",
+     "summary": "Jefferson County Election Commission votes to allow recount in 2026 sheriff race&nbsp;&nbsp;KARK",
+     "image": ""
+    },
+    {
+     "title": "Ensuring accuracy post-Election Day",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0x1SE9VaDVLU19wNUVmUnNUbWwzYy16NnVEWjdYSGJqODhDbklRNXF3RkoxSnVkZE9xYjdRZldvcUJ3b1p5QTQzSnZQMmRMOVkyTFQ1cTQzVmFXWDlDSXRXTGpPYkhNdVVjS3FTcFZTQW9wNEVma1o5X2l0dzkyS2xJc3ZpUWZ5YVVkVWY0Rmpndw?oc=5",
+     "source": "Spectrum News",
+     "published": "2026-11-10T01:46:00+00:00",
+     "summary": "Ensuring accuracy post-Election Day&nbsp;&nbsp;Spectrum News",
+     "image": ""
+    },
     {
      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
@@ -242,11 +266,19 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
     },
     {
-     "title": "California Environmental Law & Policy Update 11.6.26",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTdkSGVUSzdaRzhfZDNUdHY3eXhHMVU0M3FiS0t4TVJncG5XamdhMjhkTHgySkZiMWduSDV1M0lNTTVwblNLQlEyYVNIZXN2OFlQUmpLbTJtUWtFdXk5MWtCNENFNHhmSERZWDV5enRuMXI0NG85VFJmVFlXVzhQNGktZHc?oc=5",
-     "source": "JD Supra",
-     "published": "2026-11-10T01:30:00+00:00",
-     "summary": "California Environmental Law & Policy Update 11.6.26&nbsp;&nbsp;JD Supra",
+     "title": "Why curing mailed ballots is a crucial part of election results and integrity",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjJDY2NsYkZ6aUtVNjVUb3d4enAwMzAzcEx2cWxxakdNSDBJM09xUXJIbks3TVM2NjJkVzktYjZMUG1WeWstM3VZV3NTc0xPcGJkUlZIYmdwaldLczlFVmNqSkJDVzllS2EtaGotZDhabnJUVlJmLUtUQVFvdV8yODk3amI1Q01xbWROQUhZX3ZMelJqOG9ZUGF4LWRkUTBCbXNRZ0Rn0gG6AUFVX3lxTE9aUGl0NzYzbGw5T1QzM01KV2lvSTE2d1B0R1lLUmhrQVQtS01DYXl2elptSGlxZDhYYTJZc0djM0hjcE1VR0MyWmh2c1hPVXdvbHg3ekhLN0FuTFBlWElsR183eWpLdXJMb3RYZW1kNkRqM1p4VWRMUU5uNndCNUNER3BiOUlwc2p3UWtyTmdtNkhKQl9XNDJNS29FdnlseXBta3hDZ2Vrdi1WNWV2ME9OcXo1X2pINmh1UQ?oc=5",
+     "source": "KOLO | 8 News Now",
+     "published": "2026-11-10T01:35:00+00:00",
+     "summary": "Why curing mailed ballots is a crucial part of election results and integrity&nbsp;&nbsp;KOLO | 8 News Now",
+     "image": ""
+    },
+    {
+     "title": "Olmsted County sees increase in total voters from previous midterms",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcG1sVmthaHFRU3ZmMl9wN2dCeUE5Tm1iUFZsUS1nWU0yTW1IWWFJU0ZTcXUyQjlMODRmdy1rVUVLZzAyUWFQa09qdlVRb3Z5WV95Mm9DQUk4RGlmWkFSQnBpaUhyaktIS000V2FuS1RMX2w2aGVjN3I4MnlPRVJWM0NuXzUwZ2VRUkFPeFMzN19uOC13UUdZ0gGrAUFVX3lxTE5lRDk3RXhfeFRMaGdPVENWakpkMWkwRFNKMU05akRSN016bm1xbzE4TmxTdDM0YmdLbnZjT08zYUhIYlNvdWNJN1RCcFpOUWRvWEVIOGQyNGdpQWw5X2tEak9oLW1IekhiWElGQllSZ3Q2YUFsU2ZST29tdmpBeWdQTVBCcXpQS1dKVTRoMWNmWU12TWFYWFlNeWFFSE9PclVQMzhQQ3JrN2Jfdw?oc=5",
+     "source": "KTTC | Rochester, MN",
+     "published": "2026-11-10T01:23:00+00:00",
+     "summary": "Olmsted County sees increase in total voters from previous midterms&nbsp;&nbsp;KTTC | Rochester, MN",
      "image": ""
     },
     {
@@ -282,49 +314,17 @@
      "image": ""
     },
     {
-     "title": "Trump says FBI probing Nvidia CEO\u2019s affair with alleged spy",
+     "title": "Trump says FBI probing Nvidia CEO Huang\u2019s affair with alleged spy",
      "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-10T00:44:28+00:00",
      "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman&#039;s alleged work for Chinese intelligence.",
      "image": ""
-    },
-    {
-     "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-     "source": "The Guardian",
-     "published": "2026-11-10T00:41:13+00:00",
-     "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jailsIt\u2019s a bill that would make it easier to build big infrastructure ",
-     "image": "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783"
-    },
-    {
-     "title": "Alderpersons grill Chicago election officials about glitch that caused ballot shortages on 2026 Election Day",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHRjaVFReHZSZk0zT0I2SkE3NnIwV2ZibHc2eDlfYTh2NUg0LTVvUXU0c1o0Y25uWnFhaE05Q1pjRXFkSlY1b2FDQlVFUGExd1pNNnMzblZqMXhCbFp4Mnc3Q2dwT0JSbTRCNnItWEVyYTQ3SmthdDh0S19zZF82RWJqbnkwekxFRlhZc0FEajduVG5WOVZ6c2hnaElZNFM3bFFObkRUVUM0SEwxT3BmU1JWQ2FuM1RZOTJRUHZ6Rm53UdIBxwFBVV95cUxNX3JrbFZTaDB4Tl9zWlp1VEViWXZoRkNPT0JRZGJQVW1nUEQta0FBX2lhRXhmZFVLdjVPMUQ5QjhUT2c2VjI0VGxzUXprcm9FNE9FUkJGekpRMndFTnBiS29CU1Z0dG5SWVc4NzVXNjA4a2Exd0FNSERHY0luMnhFTHo4U0VMM0U5VzN6ZDB0RHNLbVZKTU1NTkt1MFN6RkYtOUVJcXNpZ1VKMjNaZTJTTDdINk42c2p0QTRkMHVFejhCT2Q2dVgw?oc=5",
-     "source": "ABC7 Chicago",
-     "published": "2026-11-10T00:29:26+00:00",
-     "summary": "Alderpersons grill Chicago election officials about glitch that caused ballot shortages on 2026 Election Day&nbsp;&nbsp;ABC7 Chicago",
-     "image": ""
-    },
-    {
-     "title": "Shawnee County begins post-election audit process",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcVBpaWRRMEtKZGFRTHBLRGFIVHpHRWhJbk9JSjJYUlpwZUppbUstTVNDZWJYVjNmRVlSbUkzbkZ5WVEwUVFWcHhmd3pGRXplQ3ZMSl9QTUd2UkJ1WE5VbXRrem1iSzh1TGpvOUVfQVdiSGt4aUhjb2h4a3dNXzdRUFJFeWp1eUZaSjg1ZHFHM2huZw?oc=5",
-     "source": "WIBW",
-     "published": "2026-11-10T00:28:00+00:00",
-     "summary": "Shawnee County begins post-election audit process&nbsp;&nbsp;WIBW",
-     "image": ""
-    },
-    {
-     "title": "\u2018Possible activities outside the polling place\u2019: Cameron County reviews five election complaints",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWEFxdFpmcVNrdXpHM3RkeFVQaFFUeXQzbURBc0U5clIxZ21iN2lZUnV6MWUwS0RweTNaY0kwdHE1ZkxpbTRnUFZ3bXFDc01zRkhhSnR6ZGFyZkxocE4wNXpoZUxZdkVwc1ozTU1lblQxZG1uelR1NFVXUWFiWE9YMzBPeVI4VmhmTGVjXzNwQjBrTW5DUzdFQ0JtZEc3NGszb085NjgzVzQyV0NKYmlLNFg5ZjkxRTlCeEFZMDhIdG43enpsOHhJU1lKamMyWVBLcUxsOFh2dy1WbGw4UlVpZdIB5gFBVV95cUxOb3didEp2WlA1MV9nUEVPeC1oWnNscDJXUEFma3poNWtJbWJ3LWJBdENRMzBPMUpaeEFkQmVhVElSZThBQnl6OHJrMkkzN2tRekRVc01zNC1XeUlnRjMyaDYwM0dUaXlZLVRZbTFJaU5qUndMMGwtcjlUM1R2cldNc21yYXl5TDNpcWgzSEFWUUJPV2JSZTdvQTlJeFhtUXh6MzFuOTRWRWl1VWZ4aWotMVJ4eWJoaktJcW00TDZKNFVOb0phTXVKNHNkR051RHBuRC1BU2EzN2V4azlPT3p6TnY2NDhfZw?oc=5",
-     "source": "ValleyCentral.com",
-     "published": "2026-11-10T00:24:53+00:00",
-     "summary": "\u2018Possible activities outside the polling place\u2019: Cameron County reviews five election complaints&nbsp;&nbsp;ValleyCentral.com",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T01:47:30.716704+00:00",
+   "fetched_at": "2026-11-10T02:17:34.159578+00:00",
    "stale": false,
    "items": [
     {
