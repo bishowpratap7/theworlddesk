@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-10T04:17:48.386575+00:00",
+ "generated_at": "2026-11-10T04:47:51.684751+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T04:17:48.386544+00:00",
+   "fetched_at": "2026-11-10T04:47:51.684721+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Anger as ICE agents make arrest in New Jersey grocery store",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/anger-as-ice-agents-make-arrest-in-new-jersey-grocery-store?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T04:23:36+00:00",
+     "summary": "ICE agents stormed a New Jersey store before being confronted by a crowd demanding they leave, as they escort a man out.",
+     "image": ""
+    },
     {
      "title": "Trump says more US attacks on Iran 'highly unlikely'",
      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
@@ -34,7 +42,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-10T03:33:55+00:00",
-     "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emergeOne Nation Victoria has disendorsed a candidate whose private social media account described Ado",
+     "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emergeGet our breaking news email, free app or daily news podcastOne Nation Victoria has disendorsed a",
      "image": "https://i.guim.co.uk/img/media/ffd2084856240a692fa1884c87559b8ff08d3986/329_0_3288_2631/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=7961765fc52974fa23d75a5acda4119f"
     },
     {
@@ -108,19 +116,11 @@
      "published": "2026-11-10T02:31:08+00:00",
      "summary": "Government flags criminal law changes to ensure companies can\u2019t argue in future \u2018that someone didn\u2019t know the computer was loaded\u2019OpenAI won\u2019t face criminal penalties over the Medi",
      "image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8860562d2849d1681cc78614e56d9f4f"
-    },
-    {
-     "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-     "source": "The Guardian",
-     "published": "2026-11-10T02:28:00+00:00",
-     "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jailsThe Senate on Monday advanced bipartisan legislation aimed at spee",
-     "image": "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T04:17:48.386560+00:00",
+   "fetched_at": "2026-11-10T04:47:51.684735+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T04:17:48.386564+00:00",
+   "fetched_at": "2026-11-10T04:47:51.684739+00:00",
    "stale": false,
    "items": [
     {
@@ -238,7 +238,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-10T03:33:55+00:00",
-     "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emergeOne Nation Victoria has disendorsed a candidate whose private social media account described Ado",
+     "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emergeGet our breaking news email, free app or daily news podcastOne Nation Victoria has disendorsed a",
      "image": "https://i.guim.co.uk/img/media/ffd2084856240a692fa1884c87559b8ff08d3986/329_0_3288_2631/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=7961765fc52974fa23d75a5acda4119f"
     },
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T04:17:48.386566+00:00",
+   "fetched_at": "2026-11-10T04:47:51.684742+00:00",
    "stale": false,
    "items": [
     {
