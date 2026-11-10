@@ -1,244 +1,308 @@
 {
- "generated_at": "2026-11-10T20:20:30.423307+00:00",
+ "generated_at": "2026-11-10T20:50:34.678046+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T20:20:30.423282+00:00",
+   "fetched_at": "2026-11-10T20:50:34.678023+00:00",
    "stale": false,
    "items": [
     {
-     "title": "US Army soldier suspected of spying for Russia arrested in UK",
-     "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T20:20:04+00:00",
-     "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b91a/live/93bb42f0-dd3e-11f1-9ac0-6b8f7fc58221.png"
-    },
-    {
-     "title": "Most Americans want Democrats focused on ending Iran war, lower costs: Poll",
-     "url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
+     "title": "US soldier arrested in UK on suspicion of spying for Russia",
+     "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-10T20:07:01+00:00",
-     "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
+     "published": "2026-11-10T20:41:53+00:00",
+     "summary": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.",
      "image": ""
     },
     {
      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-10T20:03:41+00:00",
+     "published": "2026-11-10T20:40:13+00:00",
      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3676/live/532a9840-dd3d-11f1-9ac0-6b8f7fc58221.jpg"
     },
     {
-     "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
-     "source": "The Guardian",
-     "published": "2026-11-10T20:03:28+00:00",
-     "summary": "Man, 41, arrested near Gloucester by police working with US authorities in investigation involving \u2018allegations of espionage\u2019, according to FBI directorA US soldier with alleged li",
-     "image": "https://i.guim.co.uk/img/media/2be61639f297e3464b2607d51fdea2cf521b23f9/389_0_4045_3237/master/4045.jpg?width=140&quality=85&auto=format&fit=max&s=80e7ac6659cd89c3edb673d273294886"
-    },
-    {
-     "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
-     "url": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
-     "source": "The Guardian",
-     "published": "2026-11-10T20:00:43+00:00",
-     "summary": "Arrests made after three properties were searched in relation to inquiry into late businessmanFrench police have made arrests after raiding three properties, including the Ritz hot",
-     "image": "https://i.guim.co.uk/img/media/96a61912cb10258f84def75b6aba271267ad0e13/792_0_2494_1994/master/2494.jpg?width=140&quality=85&auto=format&fit=max&s=b44f531308d81937c7af1d933484fdd4"
-    },
-    {
-     "title": "Trump administration seeks to cut food aid for more than six million people",
-     "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
+     "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-10T20:00:18+00:00",
-     "summary": "Trump\u2019s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
+     "published": "2026-11-10T20:39:46+00:00",
+     "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
      "image": ""
+    },
+    {
+     "title": "US federal authorities could have prevented Epstein crimes, report finds",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T20:36:58+00:00",
+     "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0579/live/42e0a7e0-dd1f-11f1-8806-aded7f09be16.jpg"
     },
     {
      "title": "Jim Jordan, Trump ally and Maga firebrand, to lead House Republicans as minority leader next year - live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T19:57:16+00:00",
+     "published": "2026-11-10T20:34:43+00:00",
      "summary": "The hardline conservative from Ohio beat fellow congressman Steve Scalise by a vote of 106-73Republicans elect Jim Jordan as House minority leader after party\u2019s midterm defeatsSign",
      "image": "https://i.guim.co.uk/img/media/f7389eb76ede7e9daa32c67947315c7a80388e8f/888_213_4322_3458/master/4322.jpg?width=140&quality=85&auto=format&fit=max&s=dacbedb6d8e79cffb5b92b6a3e3e281d"
     },
     {
-     "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/who-was-al-jazeera-cartoonist-shujaat-ali?traffic_source=rss",
+     "title": "Emmanuel and Brigitte Macron file new defamation lawsuit against Candace Owens",
+     "url": "https://www.theguardian.com/world/2026/nov/10/emmanuel-brigitte-macron-defamation-lawsuit-candace-owens",
+     "source": "The Guardian",
+     "published": "2026-11-10T20:28:47+00:00",
+     "summary": "Legal battle escalates as far-right US podcaster continues to spread false claims that France\u2019s first lady was born a manEmmanuel and Brigitte Macron have brought a fresh defamatio",
+     "image": "https://i.guim.co.uk/img/media/7a8e989e327a3c3e7fb7035d5e8a018e93b44081/418_0_4164_3331/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=777f82b051c6ac5b14b545c6530c0cd5"
+    },
+    {
+     "title": "US soldier arrested in Britain on suspicion of assisting Russian intelligence",
+     "url": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
+     "source": "\u00a9 Christof Stache, AFP",
+     "published": "2026-11-10T20:23:04+00:00",
+     "summary": "UK police arrested a senior member of the US Army on Tuesday on suspicion of assisting Russian intelligence, adding that the arrest was not related to other counter-terror investig",
+     "image": "https://s.france24.com/media/display/b26da266-dd42-11f1-8a26-5f54d898a954/w:1024/p:16x9/000-33Z28VA.jpg"
+    },
+    {
+     "title": "Iraq blocks Iranian football team\u2019s plane from landing over US sanctions",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-10T19:55:13+00:00",
-     "summary": "Who was Al Jazeera cartoonist Shujaat Ali?",
+     "published": "2026-11-10T20:23:03+00:00",
+     "summary": "Iraq has barred Iran\u2019s national football team from landing in Basra due to US sanctions on Iranian airlines.",
      "image": ""
     },
     {
-     "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-     "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
+     "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+     "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-10T19:54:46+00:00",
-     "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
+     "published": "2026-11-10T20:22:21+00:00",
+     "summary": "Salvadoran troops backed the police operation ahead of the Haitian prime minister\u2019s visit to El Salvador.",
      "image": ""
     },
     {
-     "title": "Parents sue to stop Washington state trans sports ban that could require \u2018invasive\u2019 genital exams",
-     "url": "https://www.theguardian.com/us-news/2026/nov/10/washington-trans-sports-ban-lawsuit",
-     "source": "The Guardian",
-     "published": "2026-11-10T19:49:49+00:00",
-     "summary": "Voters adopted extreme policy requiring medical sex verification for all girls who want to play team sportsParents of student athletes in Washington state have sued to block a ball",
-     "image": "https://i.guim.co.uk/img/media/caec218d14cbe88d565a401da9681346ae52dcc0/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c32c131114ba0c18a6931e8e67b7685"
+     "title": "What the hack? Europeans face growing psyops and cyberattacks",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261110-what-the-hack-europeans-face-growing-psyops-and-cyberattacks",
+     "source": "France 24",
+     "published": "2026-11-10T20:19:22+00:00",
+     "summary": "So this time, it's Iran, not Russia? France - reportedly acting on US intelligence - summoning Tehran\u2019s ambassador over last month\u2019s hacking of hundreds of supermarket refrigerator",
+     "image": "https://s.france24.com/media/display/1a631970-dd37-11f1-a0a6-5f54d898a954/w:1024/p:16x9/2026-11-02T165044Z-1626694227-RC2RFOAXAHW0-RTRMADP-3-EUROPE-CYBERATTACK-IRELAND.jpg"
     },
     {
-     "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-     "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+     "title": "FDA warns of rare eye condition causing blindness from GLP-1 weight loss medications",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/fda-glp-1-weight-loss-blindness-risk",
      "source": "The Guardian",
-     "published": "2026-11-10T19:40:10+00:00",
-     "summary": "As Democrats prepare to take control of Congress, Republicans pick Jordan for last two years of Trump\u2019s presidencyRepublican lawmakers have elected Jim Jordan, veteran congressman ",
-     "image": "https://i.guim.co.uk/img/media/7c7b9a4a19524aff2e4e5d73e05badceb52c697c/867_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=ac142c1690dbaa9cd209993f3e3bc0a2"
+     "published": "2026-11-10T20:18:14+00:00",
+     "summary": "The federal agency is requiring all GLP-1s to include information about the potential risk on warning labelsThe US Food and Drug Administration (FDA) has issued a new warning on GL",
+     "image": "https://i.guim.co.uk/img/media/bcdd3269111457b5b2d4a21da9c0c2b2039ca422/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ea0dabc62200e203baba14ea363542c6"
     },
     {
-     "title": "Rubio says no need for major combat operations against Iran",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+     "title": "F1 champion Lewis Hamilton visits Gaza border",
+     "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-10T19:34:13+00:00",
-     "summary": "US Secretary of State Marco Rubio says there is \u201cno need\u201d for further major combat operations against Iran",
-     "image": ""
-    },
-    {
-     "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-     "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T19:26:42+00:00",
-     "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png"
-    },
-    {
-     "title": "Trump\u2019s FCC nominee avoids questions from Democrats on Carr\u2019s \u2018censorship agenda\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
-     "source": "The Guardian",
-     "published": "2026-11-10T19:19:46+00:00",
-     "summary": "Senators pressured Danielle Thumann, senior counsel to FCC chair Brendan Carr, to speak about agency\u2019s actions toward ABC and Jimmy KimmelDuring a contentious Tuesday hearing on he",
-     "image": "https://i.guim.co.uk/img/media/a2cb32ecf19a365e2b32c21c195ec235f179c9bf/229_225_3798_3039/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=c9683037cc3d96c190f4b996f0479e64"
-    }
-   ]
-  },
-  "wars": {
-   "fetched_at": "2026-11-10T20:20:30.423293+00:00",
-   "stale": false,
-   "items": [
-    {
-     "title": "US Army soldier suspected of spying for Russia arrested in UK",
-     "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-10T20:20:04+00:00",
-     "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b91a/live/93bb42f0-dd3e-11f1-9ac0-6b8f7fc58221.png"
-    },
-    {
-     "title": "Most Americans want Democrats focused on ending Iran war, lower costs: Poll",
-     "url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T20:07:01+00:00",
-     "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
+     "published": "2026-11-10T20:14:34+00:00",
+     "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
      "image": ""
     },
     {
      "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
      "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
      "source": "The Guardian",
-     "published": "2026-11-10T20:03:28+00:00",
+     "published": "2026-11-10T20:12:11+00:00",
      "summary": "Man, 41, arrested near Gloucester by police working with US authorities in investigation involving \u2018allegations of espionage\u2019, according to FBI directorA US soldier with alleged li",
-     "image": "https://i.guim.co.uk/img/media/2be61639f297e3464b2607d51fdea2cf521b23f9/389_0_4045_3237/master/4045.jpg?width=140&quality=85&auto=format&fit=max&s=80e7ac6659cd89c3edb673d273294886"
+     "image": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=2014d5315ebf8cbdfd7cd9f306c8d931"
     },
     {
-     "title": "Will the Abu Dhabi talks lead to peace in Ukraine?",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2ZKVUEzUGNOUE05Snh0V1VjV0IwTHJwcUVlQ0Uza1lSVUU1X0ZGZ3V6amM0QnpKendIY01NX2pOMDFycXpvNHNnSnA0WWU3QTlZem5sOHNZMy1XRmt1ZFVtNHRTRWhYMERGX1hfa05DQVNxZHhka1FqMWxvOVRoNWlB?oc=5",
-     "source": "The Spectator",
-     "published": "2026-11-10T19:46:05+00:00",
-     "summary": "Will the Abu Dhabi talks lead to peace in Ukraine?&nbsp;&nbsp;The Spectator",
-     "image": ""
-    },
-    {
-     "title": "Ukraine to Share Counter-Drone Tech With Poland in Exchange for Two MiG-29s",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2I2U2ZyV3N0c3F0OG9iNG91aVpfX1dxVDJKVEQ1YVFtVlZwN0txZDZCZHFCd3B1OGp2d1RqSS16QXViUm9LWlVtVDVyMmRwNWwyRzhUMkF2enhWdTJVZ0JBRGNWalZiSnAyR0FXM0ZYMHl3SU90dU5JZnBwYWFHdW1mY0tMSmVvOWJvdm9fNFMwNF9yaHAwUGdlVnF2eGhfb21Id0dnR0M4UzRkRXNzbUVzRXQxT1l0OHZzWkNKcw?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-10T19:37:57+00:00",
-     "summary": "Ukraine to Share Counter-Drone Tech With Poland in Exchange for Two MiG-29s&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Rubio says no need for major combat operations against Iran",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T19:34:13+00:00",
-     "summary": "US Secretary of State Marco Rubio says there is \u201cno need\u201d for further major combat operations against Iran",
-     "image": ""
-    },
-    {
-     "title": "Trump\u2019s FCC nominee avoids questions from Democrats on Carr\u2019s \u2018censorship agenda\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
+     "title": "Thomas Markle, Meghan\u2019s father, cut off his ankle monitor, DoJ says",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
      "source": "The Guardian",
-     "published": "2026-11-10T19:19:46+00:00",
-     "summary": "Senators pressured Danielle Thumann, senior counsel to FCC chair Brendan Carr, to speak about agency\u2019s actions toward ABC and Jimmy KimmelDuring a contentious Tuesday hearing on he",
-     "image": "https://i.guim.co.uk/img/media/a2cb32ecf19a365e2b32c21c195ec235f179c9bf/229_225_3798_3039/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=c9683037cc3d96c190f4b996f0479e64"
-    },
+     "published": "2026-11-10T20:08:10+00:00",
+     "summary": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material, authorities sayThe 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an",
+     "image": "https://i.guim.co.uk/img/media/f9cfec4c1e00591a43dd167e340d0109f7c8ff90/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=2d8a9602c72b78e256430ffca4ad58ef"
+    }
+   ]
+  },
+  "wars": {
+   "fetched_at": "2026-11-10T20:50:34.678033+00:00",
+   "stale": false,
+   "items": [
     {
-     "title": "Why a Siberian shaman is banging the drum to win war for Putin",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMXQxcXJZN2dRRjRrRGh2QzRwMEs5T0plaTJiSlBYU1BIeFhOTkZBU1BpeThDWFY5MW5BdW9hTWRJbnoyVzhSTmV5czU3dTJYcUNHcDNlSmVFeHFDai0yNGI1cFZRclpTRlZ0S05UNjNBcVNwdlZBU2psa0txamJmZmZweU5XOE5zcnU0SVlOT3MzcVBaQlREYWt0aUdMQ2xxVmJqY0tSUGJaLXdTRmxYYTF4T2REb3hkVDF0c256aw?oc=5",
-     "source": "The Times",
-     "published": "2026-11-10T19:10:00+00:00",
-     "summary": "Why a Siberian shaman is banging the drum to win war for Putin&nbsp;&nbsp;The Times",
+     "title": "EA-Frontline Video: Backing Ukraine Against Russia\u2019s Destructive Winter",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96aUI5XzFSd0gwRnBuVTZXbE9pR2dKUWRsTTRTN0JaVzZfakVGRnBlSG84UFV5TXJWYmpzS0Q1WldBMTZlUmlBbUdocHM3TmpkMG8zdVl6cFhOTmJBdWZkQUVBdWt5Qkc4UW9BMUNQMUY5eXFz?oc=5",
+     "source": "EA WorldView",
+     "published": "2026-11-10T20:42:27+00:00",
+     "summary": "EA-Frontline Video: Backing Ukraine Against Russia\u2019s Destructive Winter&nbsp;&nbsp;EA WorldView",
      "image": ""
     },
     {
-     "title": "US-brokered peace talks for Russia, Ukraine begin in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0ZtYXpJeDF4cWZtcE9XZUw1UzYyUGw3RkkwQ0Y0RkExZEE1N0NMeU5sYVNlZTN2ODBXelk2MWViWkRGV3MxU2h4eFVjREJ0S1NZZEVLWTFLMW1QQ2s3b19ORkZWLU43VFY5T0VpanB5T2VndDE4M21WVXhjTDdpUTh2RF8yQ25hUVoxZG1Fa2tiZE9vUnhF?oc=5",
-     "source": "Santa Clarita Valley Signal",
-     "published": "2026-11-10T19:07:57+00:00",
-     "summary": "US-brokered peace talks for Russia, Ukraine begin in Abu Dhabi&nbsp;&nbsp;Santa Clarita Valley Signal",
-     "image": ""
-    },
-    {
-     "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-10T19:07:17+00:00",
-     "summary": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "The grain war between Ukraine and Russia",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUZNU002OUx6T2NXZ3lWd0xENGRLaXhvdnFpcVJTRTNrZFkwNE9wR0kzSTJ5TjN2NzV4X3RlMHgxZmN3cjJobXZFOG9jWGdtQjV2RmhXWjlrMjJ1OThzMWlOX3ZUT1ZuYXlNSWp3LTB6RXNKTVN4MUpjZzhwTVpnRFRnZTJMNHdqcXVvU1RWWnhBaDBVckdldWRoaGF0d3dtVGtYeW1fZE82NlRlMUkxcm85Z1g?oc=5",
-     "source": "Le Monde.fr",
-     "published": "2026-11-10T19:00:09+00:00",
-     "summary": "The grain war between Ukraine and Russia&nbsp;&nbsp;Le Monde.fr",
-     "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
+     "title": "US soldier arrested in UK on suspicion of spying for Russia",
+     "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-10T18:58:05+00:00",
-     "summary": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
+     "published": "2026-11-10T20:41:53+00:00",
+     "summary": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.",
+     "image": ""
+    },
+    {
+     "title": "Ukrainian Livestock Producers Adapt Animal Food Systems Amid Severe Wartime Disruptions",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXFyU2FQR2N5M1kxR3A3aVJxLUcySWMxSmo2eXhpZWE5QzB3dGJXR2NjTGJNZnJqM3JkRnVtZy1NNnlGYXNySlBMVGpiWldqa0l3ZG5kT2NzTkg2QlhrbWJwLTdsUzJJWUo0RDhqaGpNR2dpd3hfRnE1THVKcjFMQWZXNW5LU2FWYkNiYnd2X0U0Yl9Jc3dIbzMxNFR1WGx4TDZtMnVLajQ2QTJZdDd6RHBn?oc=5",
+     "source": "Bioengineer.org",
+     "published": "2026-11-10T20:30:28+00:00",
+     "summary": "Ukrainian Livestock Producers Adapt Animal Food Systems Amid Severe Wartime Disruptions&nbsp;&nbsp;Bioengineer.org",
+     "image": ""
+    },
+    {
+     "title": "US soldier arrested in Britain on suspicion of assisting Russian intelligence",
+     "url": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
+     "source": "\u00a9 Christof Stache, AFP",
+     "published": "2026-11-10T20:23:04+00:00",
+     "summary": "UK police arrested a senior member of the US Army on Tuesday on suspicion of assisting Russian intelligence, adding that the arrest was not related to other counter-terror investig",
+     "image": "https://s.france24.com/media/display/b26da266-dd42-11f1-8a26-5f54d898a954/w:1024/p:16x9/000-33Z28VA.jpg"
+    },
+    {
+     "title": "Iraq blocks Iranian football team\u2019s plane from landing over US sanctions",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T20:23:03+00:00",
+     "summary": "Iraq has barred Iran\u2019s national football team from landing in Basra due to US sanctions on Iranian airlines.",
+     "image": ""
+    },
+    {
+     "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+     "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T20:22:21+00:00",
+     "summary": "Salvadoran troops backed the police operation ahead of the Haitian prime minister\u2019s visit to El Salvador.",
+     "image": ""
+    },
+    {
+     "title": "What the hack? Europeans face growing psyops and cyberattacks",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261110-what-the-hack-europeans-face-growing-psyops-and-cyberattacks",
+     "source": "France 24",
+     "published": "2026-11-10T20:19:22+00:00",
+     "summary": "So this time, it's Iran, not Russia? France - reportedly acting on US intelligence - summoning Tehran\u2019s ambassador over last month\u2019s hacking of hundreds of supermarket refrigerator",
+     "image": "https://s.france24.com/media/display/1a631970-dd37-11f1-a0a6-5f54d898a954/w:1024/p:16x9/2026-11-02T165044Z-1626694227-RC2RFOAXAHW0-RTRMADP-3-EUROPE-CYBERATTACK-IRELAND.jpg"
+    },
+    {
+     "title": "FDA warns of rare eye condition causing blindness from GLP-1 weight loss medications",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/fda-glp-1-weight-loss-blindness-risk",
+     "source": "The Guardian",
+     "published": "2026-11-10T20:18:14+00:00",
+     "summary": "The federal agency is requiring all GLP-1s to include information about the potential risk on warning labelsThe US Food and Drug Administration (FDA) has issued a new warning on GL",
+     "image": "https://i.guim.co.uk/img/media/bcdd3269111457b5b2d4a21da9c0c2b2039ca422/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ea0dabc62200e203baba14ea363542c6"
+    },
+    {
+     "title": "F1 champion Lewis Hamilton visits Gaza border",
+     "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T20:14:34+00:00",
+     "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
+     "image": ""
+    },
+    {
+     "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+     "source": "The Guardian",
+     "published": "2026-11-10T20:12:11+00:00",
+     "summary": "Man, 41, arrested near Gloucester by police working with US authorities in investigation involving \u2018allegations of espionage\u2019, according to FBI directorA US soldier with alleged li",
+     "image": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=2014d5315ebf8cbdfd7cd9f306c8d931"
+    },
+    {
+     "title": "Dutch troops and F-35s take part in drills for potential Ukraine deployment",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnJxNWd6VmdnRTBzcEtLaGliZF9GZHEyTWlCbl9tOHg2N3c0Ym85dDUxRGtOQzgxWEQ1d3hTYTFWaXRZVmNhZGpFOTc3VWNrSDJQMWdTRkZfNDNLb1hlNGJGcFVWaU5OdG5SZXRmazdlZUVtalM3YzhJQlZ3TGJzQVZ4cEk1RmtpdGRzbnhFYzhpdzBhb2g3Umd3?oc=5",
+     "source": "NL Times",
+     "published": "2026-11-10T20:10:00+00:00",
+     "summary": "Dutch troops and F-35s take part in drills for potential Ukraine deployment&nbsp;&nbsp;NL Times",
+     "image": ""
+    },
+    {
+     "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+     "url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T20:07:01+00:00",
+     "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T20:20:30.423297+00:00",
+   "fetched_at": "2026-11-10T20:50:34.678037+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T20:39:46+00:00",
+     "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
+     "image": ""
+    },
+    {
+     "title": "US federal authorities could have prevented Epstein crimes, report finds",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-10T20:36:58+00:00",
+     "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0579/live/42e0a7e0-dd1f-11f1-8806-aded7f09be16.jpg"
+    },
+    {
+     "title": "Jim Jordan, Trump ally and Maga firebrand, to lead House Republicans as minority leader next year - live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T20:34:43+00:00",
+     "summary": "The hardline conservative from Ohio beat fellow congressman Steve Scalise by a vote of 106-73Republicans elect Jim Jordan as House minority leader after party\u2019s midterm defeatsSign",
+     "image": "https://i.guim.co.uk/img/media/f7389eb76ede7e9daa32c67947315c7a80388e8f/888_213_4322_3458/master/4322.jpg?width=140&quality=85&auto=format&fit=max&s=dacbedb6d8e79cffb5b92b6a3e3e281d"
+    },
+    {
+     "title": "Trump nominates as ambassador a former election official who claimed Democrats need \u2018illegal citizens\u2019 to win elections",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTVQtQTEtVndYZGpYZ3FVQ0MxSndIdGVlNnVrbHBHWklZbGw5RzlhbHp2NUU4UnRHNWQ4aXliREFnWHVrM1c0LXlfSnd2MjlNbTBjNVh4czJ1SHhYSFBWSFROX0xEOExITUxNVy1aME1yRVhHajh3SnZQSzRwYmE4a3REV2dtMVVpVDM3bXY0Q3VhQVRzaHlCUHM1SjlESXpONEY2c25jQTBERWpHZXlYX1V5YmUtZ1huTFMwenA1MXFTdTctOU1yM0xTWTJWalZoeGU3UXZuRHJvU2VpMmRldHY1MlFJR1FfY0p2RUNZZjV3UDVC?oc=5",
+     "source": "Democracy Docket",
+     "published": "2026-11-10T20:32:27+00:00",
+     "summary": "Trump nominates as ambassador a former election official who claimed Democrats need \u2018illegal citizens\u2019 to win elections&nbsp;&nbsp;Democracy Docket",
+     "image": ""
+    },
+    {
+     "title": "Blue wave lifted Gov. Tina Kotek, but her margins tell a deeper story",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk8zMlRGRHJ6UzJBdFVVYzdyaUxINlRYbE5iVFU1QnVBbk8zbU9NX0tvZnBMSW5yamZtV2dzcnVqR3hhMkxkcTdSdXRoeXlaS04yQndVU1B6SThzSnFLWXd5dlRIQVhBTDV0QzE5UHZTRzRmMi15ZkNzdjhZSzJIR243d0RQWWZaOHZ0ZHlRQW1KVW1UM2E2QXdGZUhBakp3dDFxejRtNGZJdHhqQzNYU01NQjVfeFdzcWhycXVlVGthUzhp?oc=5",
+     "source": "Statesman Journal",
+     "published": "2026-11-10T20:29:00+00:00",
+     "summary": "Blue wave lifted Gov. Tina Kotek, but her margins tell a deeper story&nbsp;&nbsp;Statesman Journal",
+     "image": ""
+    },
+    {
+     "title": "CT Republicans consider next steps after sweeping midterm election defeat",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXh5Yjl6NmxqamRON3pqVW1Qa2w1X2RLRVlfYkVFNmd4N204NTdEaEhETl9xekdTLWJpVTFTQnBFTDVUdzZ1VWRmNy1iYS1aTGFuSE9NSlBlS3pvaTVzTDhkOUtZSjdma29GMlg2WElDQ0xxaEdDV1ZQN3ZCM2pZS1pzbDZwSXdkXzE5RzIxWjUtS2w3SmRrNGxFcm9sUUVrNFpETjFEaDVNWE5sTW9maDVzMVo?oc=5",
+     "source": "Connecticut Public",
+     "published": "2026-11-10T20:27:00+00:00",
+     "summary": "CT Republicans consider next steps after sweeping midterm election defeat&nbsp;&nbsp;Connecticut Public",
+     "image": ""
+    },
+    {
+     "title": "Nvidia, Chinese Espionage, and the AI Race: Four Foreign Policy Issues to Watch",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdExUODdKM0NuNHYzUTlkZGVTTFBZMlBfVkRaTFFNRXlKRXFXN2hqYVdiVkVtX2dFcGVBYlJ6dkg2XzFfcFFVU3hPRkJnNjN1SEZ0WXFHblJ0aHdoOXp0Q2RtWTJrdnRSbFJoZUxjRmM2NTBGdzVoT3RiYlVwd2pKZ0hFY3FJb2dIaWp2UTJPWVhhbWFyRkRrMTAyTnN3VDZpcEpCbU5mTGE?oc=5",
+     "source": "Council on Foreign Relations",
+     "published": "2026-11-10T20:23:14+00:00",
+     "summary": "Nvidia, Chinese Espionage, and the AI Race: Four Foreign Policy Issues to Watch&nbsp;&nbsp;Council on Foreign Relations",
+     "image": ""
+    },
+    {
+     "title": "Eric Zemmour says he will stand in French presidential election",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXNYczJNMzBQMmQ1Q19fN2ctTXRDRWRjSGx3c2ZrVGMzU2Vyek9kdVlTUnpMYnc0a3dsZGUxRGxhQnNvSTVXcmhlNkp5RG1xTk4yeXFvNTEzTmlPMzRrQkRBNC1yaGpTc0F4b2xURmx4SnBKTU9fT2xtcGY3NkdmSVpnQmJOemREUHlrTzZjeWxkX3NWTmxwVUVVZVhIQjB0RmZYMA?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-10T20:21:43+00:00",
+     "summary": "Eric Zemmour says he will stand in French presidential election&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Recapping State and Local Midterm Election Results",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNDhycFczbjJ6MEN3RUhYdVB4a2d1MkFKMFRoWjVzOEpJbmR5bHBxc2tMSkRndlFRWE9sUlctVXhDN1hqYWxjdjRqT1c1R2hXZ2FteW5tQ2ZDTXZITzY3bTlidzdvMUFzb3hXM3ZaS3piU0Rqc0lEUGVrSGx1QUk1OFllZ2djZ2FuUHVfWE5XbVo?oc=5",
+     "source": "Hofstra University News",
+     "published": "2026-11-10T20:18:42+00:00",
+     "summary": "Recapping State and Local Midterm Election Results&nbsp;&nbsp;Hofstra University News",
+     "image": ""
+    },
     {
      "title": "2026 Tax Rate Election",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xUGNZNVUtVDRFcU5DX1cxWF9WM2FuNTZ4aldkSVdrS2VlNk04NG0yYWFuWC1wSmd0WGpkc2pqQ01FTjJtRDM3S1FLVDlIUk1kbGdxRDYzWXB4NHh2cTFr?oc=5",
      "source": "City of University Park, TX",
      "published": "2026-11-10T20:17:09+00:00",
      "summary": "2026 Tax Rate Election&nbsp;&nbsp;City of University Park, TX",
-     "image": ""
-    },
-    {
-     "title": "Chart of the Week: Most of the money spent in key Senate races came from outside groups",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWh2Mlk4emxuWDFtR0M2Sm1RREw4QWFPeTlkTzVUMVJ1VHRvd21yY01hSnJqS3dIbmQ0M3JtMWUtNE83Z25kVExtSlRYeF8xVjkybHBmWWZQdkg4clNkN0hoeTlzOXBBSjF6N2tLOVozLTg2RV9UTzlBWEJWektnMkJ1OFZVNVZjdDZsMDA4UnRtSGF6RnhVTXVPZ2hZd0lOM3dFSkZ6d081cGVzRTZid3FUYUhmSDZkakVwNVAwUEUydVAzMXFR?oc=5",
-     "source": "OpenSecrets",
-     "published": "2026-11-10T20:13:25+00:00",
-     "summary": "Chart of the Week: Most of the money spent in key Senate races came from outside groups&nbsp;&nbsp;OpenSecrets",
      "image": ""
     },
     {
@@ -256,75 +320,11 @@
      "published": "2026-11-10T20:05:00+00:00",
      "summary": "Linda Phillips submits a statement on Shelby County Election Commission investigation&nbsp;&nbsp;localmemphis.com",
      "image": ""
-    },
-    {
-     "title": "Republican Ryan Elijah wins election to U.S. House in Florida's 7th Congressional District",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVpMMTEzVDBmNkszckVfOW5DcnJ0ZFN5SWpidmVCVVZuRlo0ejNNak9aT3pTT2RTYjE0aXEyaXhHa1R0YTROYUMwTjF3V21KdFBzUlRoZlFQOTdhU2JLcWQzOWxEMlVOV0tWNWlvbmszZnQyWDJIX1ZELXdfRXktd0pDTl9vNXZaUUdOeFVUcVozZlVWeVFPVXFIaDIyTGRkR2hsbFZMSkFEb0VGZjhJdVdDZnd2a29YaW5jS1NQdzBqN0g5UUtFNjB4cnVoX04zU2ZhZWpn?oc=5",
-     "source": "WKMG",
-     "published": "2026-11-10T19:59:12+00:00",
-     "summary": "Republican Ryan Elijah wins election to U.S. House in Florida's 7th Congressional District&nbsp;&nbsp;WKMG",
-     "image": ""
-    },
-    {
-     "title": "Jim Jordan, Trump ally and Maga firebrand, to lead House Republicans as minority leader next year - live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T19:57:16+00:00",
-     "summary": "The hardline conservative from Ohio beat fellow congressman Steve Scalise by a vote of 106-73Republicans elect Jim Jordan as House minority leader after party\u2019s midterm defeatsSign",
-     "image": "https://i.guim.co.uk/img/media/f7389eb76ede7e9daa32c67947315c7a80388e8f/888_213_4322_3458/master/4322.jpg?width=140&quality=85&auto=format&fit=max&s=dacbedb6d8e79cffb5b92b6a3e3e281d"
-    },
-    {
-     "title": "AI in Texas Schools: Student Safety, Learning and Policy",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tZ01Pa0dVblI5U29rT1Q3SmhvNE81eGprY2pHdEN1U0VpX0p4VmZzNV9seGdiTi1qdVRoUENOV3hmVG1ZbHNhaTN6OUc3dw?oc=5",
-     "source": "Texas 2036",
-     "published": "2026-11-10T19:57:05+00:00",
-     "summary": "AI in Texas Schools: Student Safety, Learning and Policy&nbsp;&nbsp;Texas 2036",
-     "image": ""
-    },
-    {
-     "title": "One Week Later: Uncalled Races from the 2026 Midterm Election",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWtUTXMzMFN6M0EwZEUyczF0a0FMWHFOVTlmbmtmQ055VnR4TUNVajlCbGpsOXU5S1dHcmNodnc1T3J6LW11blRQMFkxTjBLUGhmTTM1WTY5NW0zUlh5dkxoOWVFd3JhWEk5NkhRY1pnckl2bHlfbHA1cmlvdnptNzd6R3U2eVVJZjQwSFdKalFBQXdjeFI4SnM3VGZjdw?oc=5",
-     "source": "270toWin.com",
-     "published": "2026-11-10T19:57:00+00:00",
-     "summary": "One Week Later: Uncalled Races from the 2026 Midterm Election&nbsp;&nbsp;270toWin.com",
-     "image": ""
-    },
-    {
-     "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-     "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T19:54:46+00:00",
-     "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
-     "image": ""
-    },
-    {
-     "title": "A New Look for GBPI",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xM19nVkR5Z1dfcWNFNjZwOGkwTDFQVEREcXJOWW1zN2JWSGNFa3ZDekEyS0puQlp5UG9Ua1lBeHZMQkFiTFF6czBodlY4QQ?oc=5",
-     "source": "Georgia Budget and Policy Institute",
-     "published": "2026-11-10T19:51:07+00:00",
-     "summary": "A New Look for GBPI&nbsp;&nbsp;Georgia Budget and Policy Institute",
-     "image": ""
-    },
-    {
-     "title": "Hawai\u02bbi House Republicans: We'll 'fight for the people' despite heavy election losses",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTnQ0TDM3WTlqM0FhbXpYUnlZdmlKdWx6ak5DNThvdXpDekJlbnhNMjNQOGQyNU1rNzNxQ20tbDZ5WTZ4Qkh1Vk5JTm1ZM3poaWhZOFRyWE15UGlyOWVZV3RuQndnWWxqTG90dk5teElVZzQ0U3llMDJCU1QwSzZMRElXQVdOVWg3MnR6a2dFOU85TGFiWUtIWHdzalcxeWpuYV9xWlRidTM2amtnZUhESFlhaHRKUlVvdGhtMHZYaTlDWGtmbkRIZW5pazBmR2lZLWc?oc=5",
-     "source": "Hawaii Public Radio",
-     "published": "2026-11-10T19:51:00+00:00",
-     "summary": "Hawai\u02bbi House Republicans: We'll 'fight for the people' despite heavy election losses&nbsp;&nbsp;Hawaii Public Radio",
-     "image": ""
-    },
-    {
-     "title": "The House districts that remain uncalled after the 2026 midterms",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOVJDNF8tZDZtQ1VzN0NDdEFxQW5kRGlsbFAyYXRhT2YwT3pHeTlLY2RjZlFsTGZibl9fZ25oM3VvNnE5Q3VPUmR3ek5pal9qWk5CbllVUjZ2QTQ4SHFGZ3dPYlQ5aXhOci1ZRllUcFhEWHExUDNmTEJFd3ZDcHhzVlFaWlRvV1ZULXV0Z3FGUGFWNlh0UndjZUVJN0hrVDJLR1dQOWZn?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-10T19:50:57+00:00",
-     "summary": "The House districts that remain uncalled after the 2026 midterms&nbsp;&nbsp;NBC News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T20:20:30.423299+00:00",
+   "fetched_at": "2026-11-10T20:50:34.678039+00:00",
    "stale": false,
    "items": [
     {
@@ -340,7 +340,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
      "source": "The Guardian",
      "published": "2026-11-10T05:17:31+00:00",
-     "summary": "Westpac survey results signal growing sense of \u2018helplessness\u2019 while Jim Chalmers faces growing pressure to rein in spendingConfidence among mortgaged households has crashed to its ",
+     "summary": "Westpac survey results signal growing sense of \u2018helplessness\u2019 while Jim Chalmers faces growing pressure to rein in spendingGet our breaking news email, free app or daily news podca",
      "image": "https://i.guim.co.uk/img/media/289812e06aede7107a4afb76060410def2af7240/623_0_6203_4965/master/6203.jpg?width=140&quality=85&auto=format&fit=max&s=cd5cc060a69555956d709242a545bd3f"
     },
     {
