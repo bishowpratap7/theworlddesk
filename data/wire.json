@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T10:48:47.634902+00:00",
+ "generated_at": "2026-11-10T10:49:00.062565+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-10T10:48:47.634874+00:00",
+   "fetched_at": "2026-11-10T10:49:00.062539+00:00",
    "stale": false,
    "items": [
     {
@@ -22,14 +22,6 @@
      "image": "https://s.france24.com/media/display/33b5a36a-dcf2-11f1-83f9-29048b396e03/w:1024/p:16x9/capture-3925831b.jpg"
     },
     {
-     "title": "\u2018Double amputees run marathons,\u2019 says Badenoch as she proposes \u00a336bn cuts to disability and other benefits \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-10T10:30:39+00:00",
-     "summary": "Conservative leader launches Welfare That Works policy documentIn an interview this morning, Lucy Powell defended her role in arranging for Ed Miliband to do an interview with Russ",
-     "image": "https://i.guim.co.uk/img/media/e1b411c6b1796244d573679921c2116ed2a37d7d/276_126_1238_991/master/1238.jpg?width=140&quality=85&auto=format&fit=max&s=7e38d10b303713eb23456f73d2d9a133"
-    },
-    {
      "title": "Brand barrister\u2019s cross-examination of victims shocking and depressing, says Labour deputy",
      "url": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
      "source": "The Guardian",
@@ -44,6 +36,14 @@
      "published": "2026-11-10T10:28:47+00:00",
      "summary": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikesBusiness live \u2013 latest updatesOil prices have fallen to the lowest level since la",
      "image": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=904510b7206ac0ce08a6e9328e358b69"
+    },
+    {
+     "title": "\u2018Double amputees run marathons,\u2019 says Badenoch as she proposes \u00a336bn cuts to disability and other benefits \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-10T10:27:53+00:00",
+     "summary": "Conservative leader launches Welfare That Works policy documentIn an interview this morning, Lucy Powell defended her role in arranging for Ed Miliband to do an interview with Russ",
+     "image": "https://i.guim.co.uk/img/media/e1b411c6b1796244d573679921c2116ed2a37d7d/276_126_1238_991/master/1238.jpg?width=140&quality=85&auto=format&fit=max&s=7e38d10b303713eb23456f73d2d9a133"
     },
     {
      "title": "Cop31 live: host Turkey celebrates new oil fields as climate summit enters second day",
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-10T10:48:47.634888+00:00",
+   "fetched_at": "2026-11-10T10:49:00.062551+00:00",
    "stale": false,
    "items": [
     {
@@ -222,14 +222,14 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-10T10:48:47.634892+00:00",
+   "fetched_at": "2026-11-10T10:49:00.062554+00:00",
    "stale": false,
    "items": [
     {
      "title": "\u2018Double amputees run marathons,\u2019 says Badenoch as she proposes \u00a336bn cuts to disability and other benefits \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-10T10:30:39+00:00",
+     "published": "2026-11-10T10:27:53+00:00",
      "summary": "Conservative leader launches Welfare That Works policy documentIn an interview this morning, Lucy Powell defended her role in arranging for Ed Miliband to do an interview with Russ",
      "image": "https://i.guim.co.uk/img/media/e1b411c6b1796244d573679921c2116ed2a37d7d/276_126_1238_991/master/1238.jpg?width=140&quality=85&auto=format&fit=max&s=7e38d10b303713eb23456f73d2d9a133"
     },
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-10T10:48:47.634894+00:00",
+   "fetched_at": "2026-11-10T10:49:00.062556+00:00",
    "stale": false,
    "items": [
     {
