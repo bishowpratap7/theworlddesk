@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-11T05:22:06.830572+00:00",
+ "generated_at": "2026-11-11T05:52:12.302961+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-11T05:22:06.830541+00:00",
+   "fetched_at": "2026-11-11T05:52:12.302929+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+     "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+     "source": "The Guardian",
+     "published": "2026-11-11T05:33:27+00:00",
+     "summary": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effortUkraine says it has captured its",
+     "image": "https://i.guim.co.uk/img/media/65096d4645f0ba893acee8e385a8a46095fb0391/1113_504_4209_3367/master/4209.jpg?width=140&quality=85&auto=format&fit=max&s=8984b641ab37abc6325b231b8c5674cc"
+    },
+    {
+     "title": "\u2018I pay $500 for 5 square metres\u2019: Spain\u2019s protesters, in their own words",
+     "url": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T05:16:57+00:00",
+     "summary": "Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control.",
+     "image": ""
+    },
     {
      "title": "US charges three men for allegedly plotting attack on UK base",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
@@ -44,6 +60,14 @@
      "published": "2026-11-11T04:56:22+00:00",
      "summary": "Former Malaysian Prime Minister Najib Razak has been transferred from prison to his Kuala Lumpur home for house arrest.",
      "image": ""
+    },
+    {
+     "title": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/11/youpla-directors-disqualified-over-collapsed-funeral-fund-that-targeted-aboriginal-families-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-11T04:55:28+00:00",
+     "summary": "Three directors were fined a combined $90,000 in federal court judgment and disqualified from managing a corporation for between five and 10 yearsGet our breaking news email, free ",
+     "image": "https://i.guim.co.uk/img/media/d054e5852d5b7424d0f483585eb7f5bed9714ee5/310_0_1213_970/master/1213.jpg?width=140&quality=85&auto=format&fit=max&s=4b776cffadc92f75140824c36e8c65ff"
     },
     {
      "title": "Netanyahu heckled by Bennett at Knesset opening session",
@@ -92,37 +116,45 @@
      "published": "2026-11-11T03:26:42+00:00",
      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "LIVE: Ukraine, Russia hold second day of US mediated talks in Abu Dhabi",
-     "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi",
-     "source": "\u00a9 Altaf Qadri, AP",
-     "published": "2026-11-11T03:22:45+00:00",
-     "summary": "Washington called for a \"new\" security framework on the first day of US-led talks between Ukraine and Russia in Abu Dhabi, as Ukrainian President Volodymyr Zelensky said he was \"ha",
-     "image": "https://s.france24.com/media/display/467b32a0-dd77-11f1-9a39-5f54d898a954/w:1024/p:16x9/AP26314365694784.jpg"
-    },
-    {
-     "title": "Kennedy family joins US lawsuits to block Trump\u2019s \u2018unlawful\u2019 arch plan",
-     "url": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T03:21:40+00:00",
-     "summary": "Kennedy dynasty has filed a motion to stop Trump&#039;s arch from obscuring JFK Eternal Flame and family gravesites.",
-     "image": ""
-    },
-    {
-     "title": "Iran opens training camp for women in readiness for war",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T03:21:32+00:00",
-     "summary": "Iran has opened its first all-women military training camp amid fears of renewed US attacks.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-11T05:22:06.830555+00:00",
+   "fetched_at": "2026-11-11T05:52:12.302945+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "The Danube Cannot Carry Ukraine's Harvest Alone",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04VHVpVGpjMkhtODBLbjkwWFEwV1RkZEVsdndEU1FFekxUUmc2MjA3d0ViQXpIdDRtMmtjQUJ4eGJ5TW9oaFNzaFpsc0lBUFAwYk9sNl8xbEtJdERaWTZmQzJkRFRSNDBVSmtrUUFIWFg1ZnNCTnI0cGYybw?oc=5",
+     "source": "IndraStra Global",
+     "published": "2026-11-11T05:38:00+00:00",
+     "summary": "The Danube Cannot Carry Ukraine's Harvest Alone&nbsp;&nbsp;IndraStra Global",
+     "image": ""
+    },
+    {
+     "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+     "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+     "source": "The Guardian",
+     "published": "2026-11-11T05:33:27+00:00",
+     "summary": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effortUkraine says it has captured its",
+     "image": "https://i.guim.co.uk/img/media/65096d4645f0ba893acee8e385a8a46095fb0391/1113_504_4209_3367/master/4209.jpg?width=140&quality=85&auto=format&fit=max&s=8984b641ab37abc6325b231b8c5674cc"
+    },
+    {
+     "title": "Russia Says It Downed 146 Drones Over Leningrad Region: 6 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1JKSVRnUW5tb21zcG9XQzFMZGktVUlWNG5FMjNqbEFIeWh1N2M2dmZ0SGlteUp1c0pHZmZXcDFaSE1LR3U4WDFKTjUzdl83QVBfSDFZaXF1QVpQUzNlTjdMTl9SSktVMXZnamlEWm0zTXZIWFNGVUZRc25DeW5nXzlZSHg4cmNwZjhTNmRUTXY2TEE3akpvYTktbGJuZjhlV1JzaDRpNkM3WEJXcVE2RkliZ2d6cXkybWJFVmd1b0ZxYXZtdzN3?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-11T05:23:22+00:00",
+     "summary": "Russia Says It Downed 146 Drones Over Leningrad Region: 6 outlets compared&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
+    {
+     "title": "Russia-Ukraine peace talks in UAE: Is India emerging as a key player in ending the war?",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalo1aGNTYWJzN0F1VW9iWWIteFB3UWtOUHRtUHpTbzJzYUVQbFdseENYN29EVXVKell2MVNvZHJTVmFLNFBoc1VDNm9PMmEtbld2Nlg2aTZYOVFjU0lRUjFocHhWcnFPS3dFWk1XUENaWGhOMjNNRWRBWm1uT1p0UncxNnBSM0RIYjlyMWk4ZVUtM2ZkVTEwM2ctMUFVdlRlX2toU1lIX2diNFV3SXlXNG54dXVtZi16TmfSAb8BQVVfeXFMUDJBYUFpQkNsa1NDeGhLc05uZWxfV3JRdllhOUhJNi1TUzktV1dFRkdUMVV0MGZvN1o2ZllXZkFkODlpWjNEc3ZuUkJCWkVJZ3JtOU5PZzRLb1VsZGp6c2dIZURnTmJINmFMWFZMQmtNc01lamFGSEh2OUpMTXdYOU01bjJVU0J6clNsWFFldGxxQ3pBY2xlRkxoSGo0Ti1zQzdZOF9aMDVsckFCM1J3TGZKV1NXMXgwcjhUekljcVk?oc=5",
+     "source": "Firstpost",
+     "published": "2026-11-11T05:20:29+00:00",
+     "summary": "Russia-Ukraine peace talks in UAE: Is India emerging as a key player in ending the war?&nbsp;&nbsp;Firstpost",
+     "image": ""
+    },
     {
      "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
      "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
@@ -145,14 +177,6 @@
      "source": "Foundation for Defense of Democracies",
      "published": "2026-11-11T04:52:30+00:00",
      "summary": "Trilateral talks on the Russia-Ukraine war&nbsp;&nbsp;Foundation for Defense of Democracies",
-     "image": ""
-    },
-    {
-     "title": "Russia, Ukraine and the US return to the negotiating table in Abu Dhabi despite deep divisions",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KYWh5VVY1Q3BVX1BRa2VaTkhMRUV2Y0lNSjZHXzRuNjRCM1kwVlpVRzY4c21JQ0JaSm5oOVVPeEdCX0lhUm5IdmQ1R1RuZ3BlQnNTalcyWG0wYmV4NUJLcEZJR0Ewd3NKSTFMdVI5c25kaGE4ZF9QLXB1VEVvZw?oc=5",
-     "source": "Latin Times",
-     "published": "2026-11-11T04:39:16+00:00",
-     "summary": "Russia, Ukraine and the US return to the negotiating table in Abu Dhabi despite deep divisions&nbsp;&nbsp;Latin Times",
      "image": ""
     },
     {
@@ -188,43 +212,27 @@
      "image": ""
     },
     {
-     "title": "LIVE: Ukraine, Russia hold second day of US mediated talks in Abu Dhabi",
+     "title": "Live: Ukraine, Russia hold second day of US mediated talks in Abu Dhabi",
      "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi",
      "source": "\u00a9 Altaf Qadri, AP",
      "published": "2026-11-11T03:22:45+00:00",
      "summary": "Washington called for a \"new\" security framework on the first day of US-led talks between Ukraine and Russia in Abu Dhabi, as Ukrainian President Volodymyr Zelensky said he was \"ha",
      "image": "https://s.france24.com/media/display/467b32a0-dd77-11f1-9a39-5f54d898a954/w:1024/p:16x9/AP26314365694784.jpg"
-    },
-    {
-     "title": "Iran opens training camp for women in readiness for war",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T03:21:32+00:00",
-     "summary": "Iran has opened its first all-women military training camp amid fears of renewed US attacks.",
-     "image": ""
-    },
-    {
-     "title": "El Salvador fires missiles on Haitian gang hideout",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T03:00:23+00:00",
-     "summary": "El Salvador\u2019s military fired rockets at a compound allegedly belonging to the leader of Haiti\u2019s 400 Mawozo gang.",
-     "image": ""
-    },
-    {
-     "title": "Rising Tide banned from using council land for protests at world\u2019s largest coal port in Newcastle",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/11/rising-tide-climate-protests-banned-chris-minns-newcastle-council-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-11T02:55:05+00:00",
-     "summary": "NSW premier Chris Minns warned council would be complicit in any \u2018illegal activities that occur at these protests\u2019Get our daily political email, free app or daily news podcastNewca",
-     "image": "https://i.guim.co.uk/img/media/53937e32d2fe8713155c3a08b3ea942c7e453913/308_0_4447_3558/master/4447.jpg?width=140&quality=85&auto=format&fit=max&s=96818937604eb0369912d17966b49c1d"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-11T05:22:06.830560+00:00",
+   "fetched_at": "2026-11-11T05:52:12.302949+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018I pay $500 for 5 square metres\u2019: Spain\u2019s protesters, in their own words",
+     "url": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T05:16:57+00:00",
+     "summary": "Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control.",
+     "image": ""
+    },
     {
      "title": "A Leap into California Policy: Reflections on moving cross-country for the opportunity of a lifetime",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90QUpueTN2dGhGSFhBdVk4bG1Fc0VpdTZmdWNodGhNN1ZERlNRb0pPZHRIbFA1ajZlYjdsb2lLTGZoMUVpM3FQX1hvVi0zc1h3aEdyRFpkNlFPdw?oc=5",
@@ -274,6 +282,14 @@
      "image": ""
     },
     {
+     "title": "Protestors push for changes to the Milwaukee Police Department's pursuit policy",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRVdPSjc3d1NqRDYtSlZpSTZ4UGZiRlJkOVU0OUkxLUVERWFFNjJXdXVwcC1CZkpRTGRmTmRhbUR3VHlvNzhwLTh4REdvYmJWTGl2blBsNTNDaXU4Z0JxaFhrZmg5elppZzJjR20wTTY2QnFTdjN0enNheXoyb0NISlQwdkNFcnQwRG8zSDhyM3B0a1Jjb1dvRzkxYW84OG0yTnJiaGctX05GdExwa20yckVIYlpKakk?oc=5",
+     "source": "WISN",
+     "published": "2026-11-11T04:20:30+00:00",
+     "summary": "Protestors push for changes to the Milwaukee Police Department's pursuit policy&nbsp;&nbsp;WISN",
+     "image": ""
+    },
+    {
      "title": "More than a dozen key races remain too early to call one week after Election Day",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjlKNDlXMTRMT3N6M2NCaWVGaHVTalh0TTBwQ25vbmRSMzZWVjMwNE5kODV3ajNIU1psLUJyWWwxNTFEdmhmUHJpejBmQUZ5UVpRbTZUUkRIYWJlNUhxZzVQQlhDeGsyb091T29wckJXRFQyMzRnWFJRd0liVU85dkZOUEpsbW50RVVzTHd5OVUxdmZIb1ZaZThzX3BDWUpwd3Uw?oc=5",
      "source": "Mississippi Today",
@@ -304,27 +320,11 @@
      "published": "2026-11-11T03:00:00+00:00",
      "summary": "Democratic victories in midterms wave in historic shift in county, nation&nbsp;&nbsp;The Shorthorn",
      "image": ""
-    },
-    {
-     "title": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRS1yQUdkaWR2UmdKOXlWeW5iZkJHaW9DZnVNaHhSWU9LeURkZi1RdGI2QnY2MGcyY19KeW9paWJGWkZZVVdma2NSbzQtTXVxZ3FreUdxNlJFX3RLdl9qTmNGMncxdURFOGVGU25kRjJpMTFSZ1U3bHFRSnhYUXFITVdDc0dFUzROUzV2aGRsTQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-11T02:48:57+00:00",
-     "summary": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Capito Re-Elected as Senate Republican Policy Committee Chairman",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkVNZWFIT28tSTU4SmRuY0hRVERIY3VyOEFkdjVxeC14UzlTVTlBZW9lUlFjRUJPQlNESE1uNGNhSDlXNkNhUkJqbmNPQjJlYWlPVGlCMGlyejJnMVlrd3NlNVR4Skh0VFg1QTJfWS1LOWFzUktDX2lYMXB0T2stN1BiNjJkSGNUOEVseG5zTTBUT29NLUl6RlpPMk5MSF9yUGN2dk5QTzVpVmtUUXcxUWNjOGhNX3pqQmVtaQ?oc=5",
-     "source": "Senator Shelley Moore Capito (.gov)",
-     "published": "2026-11-11T02:41:47+00:00",
-     "summary": "Capito Re-Elected as Senate Republican Policy Committee Chairman&nbsp;&nbsp;Senator Shelley Moore Capito (.gov)",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-11T05:22:06.830562+00:00",
+   "fetched_at": "2026-11-11T05:52:12.302952+00:00",
    "stale": false,
    "items": [
     {
