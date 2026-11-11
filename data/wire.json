@@ -1,23 +1,15 @@
 {
- "generated_at": "2026-11-11T00:51:17.609441+00:00",
+ "generated_at": "2026-11-11T01:21:21.330557+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-11T00:51:17.609400+00:00",
+   "fetched_at": "2026-11-11T01:21:21.330528+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Spain holds state funeral for 69 victims of deadly train crash",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T00:42:41+00:00",
-     "summary": "Spain\u2019s King and Queen have joined families of the 69 victims from a deadly train collision at a state funeral.",
-     "image": ""
-    },
     {
      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-11T00:38:33+00:00",
+     "published": "2026-11-11T01:14:40+00:00",
      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
     },
@@ -25,9 +17,41 @@
      "title": "Pentagon declares \u2018total victory\u2019 after House Republicans block effort to impeach Pete Hegseth \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-11T00:35:01+00:00",
+     "published": "2026-11-11T01:10:07+00:00",
      "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning there won\u2019t be a full vote on chamber floorHouse Republicans block effort to",
      "image": "https://i.guim.co.uk/img/media/90fd5e65c58f923c6fc4059a2197568133881e15/947_0_4715_3774/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=1cdd180aea06c3729397bafc16a133f9"
+    },
+    {
+     "title": "Kennedys sue to block Trump\u2019s gilded arch, saying it would \u2018cast shadow\u2019 over JFK grave site",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
+     "source": "The Guardian",
+     "published": "2026-11-11T01:09:55+00:00",
+     "summary": "250ft arch risks \u2018permanently diminishing\u2019 memorials to ex-president and relatives at Arlington cemetery, lawsuit saysNine members of the Kennedy family political dynasty have sued",
+     "image": "https://i.guim.co.uk/img/media/ad6b1a707ed4153c8488ce1f9d0c2a021a880b5d/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=55b3cda6285f78a1390c5f503be4bd10"
+    },
+    {
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T01:01:20+00:00",
+     "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Beau Lamarre-Condon denies making fake Grindr account for Jesse Baird, double murder trial hears",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-11T01:00:28+00:00",
+     "summary": "Former police officer accused of murdering Baird and Luke Davies cross-examined in NSW supreme courtGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon h",
+     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/119_0_2714_2171/master/2714.jpg?width=140&quality=85&auto=format&fit=max&s=78997234b5caf842bace0957c6c5c92c"
+    },
+    {
+     "title": "Spain holds state funeral for 69 victims of deadly train crash",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T00:42:41+00:00",
+     "summary": "Spain\u2019s King and Queen have joined families of the 69 victims from a deadly train collision at a state funeral.",
+     "image": ""
     },
     {
      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
@@ -92,37 +116,45 @@
      "published": "2026-11-10T23:56:11+00:00",
      "summary": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as \u2018a farce and a stunt\u2019House Republicans on Tuesday blocked an effort to impeach Pete Hegse",
      "image": "https://i.guim.co.uk/img/media/f98be569f4ac79c2f3ecf9113b3879ea67dd0728/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=7750c93ec0d419e56f07c11b5c116166"
-    },
-    {
-     "title": "Fire contained on platform in Iran\u2019s South Pars gas field",
-     "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T23:38:02+00:00",
-     "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
-     "image": ""
-    },
-    {
-     "title": "Massive fire as Israeli settlers burn down business near Nablus",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T23:33:43+00:00",
-     "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
-     "image": ""
-    },
-    {
-     "title": "French far-right author Zemmour launches second bid for 2027 presidency",
-     "url": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T23:23:12+00:00",
-     "summary": "Zemmour seeks to expel &#039;foreign unemployed people&#039; after last month&#039;s violent protests.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-11T00:51:17.609419+00:00",
+   "fetched_at": "2026-11-11T01:21:21.330542+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine war briefing: Zelenskyy says Putin \u2018lives in a different reality\u2019 as Abu Dhabi talks get under way",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaDF0RG9vblhsZXZRZTNwWFRYU285N2dfTHhFbzdnR21Vc2dPTjVMOEV5djBRdzhqZlNIZ2hCZ0hwVGVPcWZQNGFJdERxTW9pbVdqd3hYMml4YVpEcXZsTk0zYUZkWVJldlBFZ2pmeVFEMWNabUU3TkNzQU45aER2OE91RDFqM19Pemp2dWp0cTFIeUVvMEcwWDVEZDBUV3pzcy1uc2pFUzFjUXQ1VWUtWXRRdG5RZVZkdC1wbzB3VC1zLVVNQzhTWTlKX0ZLbFpaU0VFR251MTJyZXozTVdrdXZ2RQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-11T01:08:00+00:00",
+     "summary": "Ukraine war briefing: Zelenskyy says Putin \u2018lives in a different reality\u2019 as Abu Dhabi talks get under way&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Trilateral talks on the Russia-Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXdLSDN1R3lZcEs0dVg0ODk0VXpIcUpuTjVNcUVJWHRfWGVia1QtM1o1d1lvYzNEVnpfOWNXaXJRcFYyalM2OWdSMU1IVDFlZWVwN0dIVjVCa21uN3VLdklicFJvZWh2djBWZW16RzJUNVBhM0E1dTlkV0hjVFFvYw?oc=5",
+     "source": "Foundation for Defense of Democracies",
+     "published": "2026-11-11T01:02:35+00:00",
+     "summary": "Trilateral talks on the Russia-Ukraine war&nbsp;&nbsp;Foundation for Defense of Democracies",
+     "image": ""
+    },
+    {
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T01:01:20+00:00",
+     "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "'Putin lives in a different reality': Zelenskyy mocks Russia's claims of capturing Ukrainian territory",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZmZRaWJ6XzZzMkVPd2hrVVVsOGs0eWRGeE9xcW84YjF0cXV4OEtPenJzM3JneXhBZlZpVF9YTXBvZmlKSlZsckVSYWlINUdTQ3pLdXBpSWY0SGdQRUpPS2JucXRHdFNsdlNOc3ljRTdtQkVxWllwRW1zVlN4UGZVX1p2MkNSUk1yeC1BaDVpcTBSbWF2QUtYMzZ5dEI4N1k4SVNVX3MtRDIxeldac1ZHRnVJbk5yUExzYTJ1akV5eVVxOC1XN1pEWC10QnNScjVGYzlTWTN3STRkX05T0gHiAUFVX3lxTE9TVXFpSFdJSXlJSzNzUkhwdUIxN2ZtRFlsY3hlNGRyWlhQc1FHMk8zLXNueEd0c0Q1TEFGMElMRnprMF9fUVZsaTB2VF9TcExVaVI4RTVIRUpSMXdpSU5ORWJ0OExkMXFlZnZZZWtnQndCS1dyMjlvbUVWSDFQQl9UaFl6dGZ1NGtFaW9leTR3VFZiSFhWaXdGSjctQndnZzdxak1HQlQzOFVURGV0eHpXSVRYeDljZm1LVjFqcjF6MGxQWFF0RlZzOEt5OGJmc0VQSDNhcEJxemV3Qjl6aUxaVGc?oc=5",
+     "source": "Firstpost",
+     "published": "2026-11-11T00:22:19+00:00",
+     "summary": "'Putin lives in a different reality': Zelenskyy mocks Russia's claims of capturing Ukrainian territory&nbsp;&nbsp;Firstpost",
+     "image": ""
+    },
     {
      "title": "Real Madrid's Vin\u00edcius Jr sends surprise message to boy who lost his legs in Sudan's war",
      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
@@ -186,45 +218,29 @@
      "published": "2026-11-10T23:33:43+00:00",
      "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
      "image": ""
-    },
-    {
-     "title": "US calls for new Europe security at Russia-Ukraine talks in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3NXbllmSmlTa0NNRFg1bUJud0d3MXhTQVhLOVJ2d2FoMGx4N0QwXzJ6cElHdmxoQzR0MDFPUHdTbEtVTUt5cERxX1NxaTV0Vk5XcG9vdl9fSmp1WXBqdmFjMDI5ZW1ObG80MXBhRzItX1gtd1RwT2hJdG5jZmRtZl9JZ3dfVU1LdnBCb3M5VGw5dmE2cTE1cEpqSFRSd1A0SUdhUVZpS280aFJX?oc=5",
-     "source": "Arab News",
-     "published": "2026-11-10T23:03:26+00:00",
-     "summary": "US calls for new Europe security at Russia-Ukraine talks in Abu Dhabi&nbsp;&nbsp;Arab News",
-     "image": ""
-    },
-    {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 11, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNV1RtdWxkY182SnBRakFYaGVqdVpleldoRXY3ZDg5M1dwU3Q3VlVkRFZQZVBRekVMZV9FSGZ2dmtkbWtwamRmV2ZlUTFEZw?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-10T23:01:40+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 11, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Russia expels Moldovan diplomat in tit-for-tat move",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGxlTFJvSk9oeTVLcVVEXzI3NEsyVHBBamlGSkllbENzNHFLQmNPZzRoRlFPVDFwYUpBMGdGTVdreTFkbXZSd3U0eUIwem5tckp1YkR1a0NoSWJFUWZ4a3RTMWMyRWJFTTVvZzh1a01RWThZYV9JOG9nSW9kcTh1VVMwMnliemlrT3AtRkdjV3UzUFpvXzZjZNIBngFBVV95cUxPZVJ5T19XZzYtVnJNX1EyOHJxeEl4ZGEwNTNKUjdSX2ZTUlRwSk5STGVYYUozX24xSEhaUEh4SHpycDVRMURlZGlUR2xZeGVJZXlId2ZEQndhcVdWMmV1azc5VDhXZTYtbHpKQU5iazg5QmZabENJSUZXcHg0NU5QQXphbXI4TDlLWU5hZHhxUmZFdE45UXFWMkE3Vkdrdw?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T22:47:15+00:00",
-     "summary": "Russia expels Moldovan diplomat in tit-for-tat move&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Peace talks for war in Ukraine underway after 8 months",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUEo3Yk83R051OGk2QjhPTDBFWi04c1BRazBkZnd3bkUtNUJqdFFlZVBaM2RxbFprV1JxbnF2N2xYc1BIdWQwdXh1SkdwWUdBY1pPZHd5LTF4clQ4OWk4eDNLQUczQzBrMU0yejJ5SUhQNmE5MTVBMXFicUxDRG52Zm15QkI0NDBRTlg3UE84ckFMemlqWThoeXlxVmNLMlFjbWd3b3Z0b3B5Y01SMlFxUDJuWHNyUmd4OFA4LWc1MVVDRmZQQUFrMENMMDVBeFh2ZFpUNEhRU2hLUWdLNUs3dkhB?oc=5",
-     "source": "THV11",
-     "published": "2026-11-10T22:39:23+00:00",
-     "summary": "Peace talks for war in Ukraine underway after 8 months&nbsp;&nbsp;THV11",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-11T00:51:17.609424+00:00",
+   "fetched_at": "2026-11-11T01:21:21.330546+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Kennedys sue to block Trump\u2019s gilded arch, saying it would \u2018cast shadow\u2019 over JFK grave site",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
+     "source": "The Guardian",
+     "published": "2026-11-11T01:09:55+00:00",
+     "summary": "250ft arch risks \u2018permanently diminishing\u2019 memorials to ex-president and relatives at Arlington cemetery, lawsuit saysNine members of the Kennedy family political dynasty have sued",
+     "image": "https://i.guim.co.uk/img/media/ad6b1a707ed4153c8488ce1f9d0c2a021a880b5d/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=55b3cda6285f78a1390c5f503be4bd10"
+    },
+    {
+     "title": "Beau Lamarre-Condon denies making fake Grindr account for Jesse Baird, double murder trial hears",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-11T01:00:28+00:00",
+     "summary": "Former police officer accused of murdering Baird and Luke Davies cross-examined in NSW supreme courtGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon h",
+     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/119_0_2714_2171/master/2714.jpg?width=140&quality=85&auto=format&fit=max&s=78997234b5caf842bace0957c6c5c92c"
+    },
     {
      "title": "Berkeley poised to pass $300M infrastructure bond and half-cent sales tax hike",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDdOVmk5X0xjSEVRVjBpSHdRbXptM2VtNUZpLW1XOHNQWFh6V1U0WF9jZWFWR3BwbF9YYi0zNDFLc3hHb29xVnRqQUJ4OU9KRlBwc2xZSUk3ZHpoTnI0SVRzVDRuSGN6ZmE1M1BqeHl3WjRCQkltNGNrbHNBOFBjdnotWU9jb3NDODMw?oc=5",
@@ -251,10 +267,10 @@
     },
     {
      "title": "These key races remain too early to call one week after Election Day",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVNCeFhPQXhfYlROdEVxajVjMmdtSXVWQWt5NGpMTEJNWDRUeWxEekJhWTNTcUw5V1NkRVp0SEI3WTlfUEhjNTNadHNqRHBJS0dzMk5CWVVxU1dFcl9aSzZDWHFYTG1BcjNsNkJHaDVtbmZkTk9mNmlfa08tYjd4Nk1SZEZCWFY5ZkVwclozRUxEU0JIcERnTUZnalBvQ0HSAbMBQVVfeXFMTUhxTHVxSkMxQVktR2E1bXpNN2NkUFhLTUIwQnkwZTVRM1VlVTdRUEVnYURjLXNKZVNVd0hQVTlUWGdtTTdxU2lPSVBvUGJUYjdWc21CVDNkSmk5NEt2ZmdaVjZGSFNsZDJRZzhmZWFPWDZNMVlPMjI3MDl6ckJmVDNzdXV1ejZsZWV0Z0ROMHpYQVdhRnZJTnZiaUlTY0lkY1RTdlRZREItdDlrV2RCbG5CQms?oc=5",
-     "source": "KWQC",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaC0yOE1XeVlFbVZRYUNXU0tMTGZhTm5sS2JObXFQMjFQdVAtbWhiam9oR0lrbzlwZnAyTzViaENoWDhMdUpJVnBXdnB2ald0ZHJxTlduLXlfTnViYi1fVnA5V1NfaUw0cmJScE1wZ1Azb255MDFlTW9SMy1IeUg0SzJTWXpNa2xfSlFvX1pjV0ZmcklFbmJWUElJaG9JY1nSAbMBQVVfeXFMT0FLcDNJNmZxazRPN2FLZEdxR0RCVEZfQVdKY1dFYnFTekltSzhKQU1kczF3NTFDdk1Gc2FYUFlzWjlVWV95LUp3MU8wclhwNmlvNTV6X1hadlEtOWZjYm9OMDI1WWVqSXdsZEFzSmVCbGFMQmNMSlloR1hFSmhzTjZONHZIY2lNdXFKM1FwT1BNZW1JTmxCbFFXZE00VW1GaTdEMmVvcHY1NHR5VjVPVTJ0UnM?oc=5",
+     "source": "KCBD",
      "published": "2026-11-11T00:35:00+00:00",
-     "summary": "These key races remain too early to call one week after Election Day&nbsp;&nbsp;KWQC",
+     "summary": "These key races remain too early to call one week after Election Day&nbsp;&nbsp;KCBD",
      "image": ""
     },
     {
@@ -304,27 +320,11 @@
      "published": "2026-11-11T00:12:58+00:00",
      "summary": "Voters struggle as ballot deadlines pass in Mississippi Senate race&nbsp;&nbsp;Mississippi Today",
      "image": ""
-    },
-    {
-     "title": "Turnout in Texas midterm election ranks among state's highest in decades, records show",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV25mYXJ3d20zUlZELUhQaUNDMzRzaUFMXzJQSnNmQUkyWkZlVWd1Q0xpMnV5b1Zlb0d4bDBuaXhybkQ4cXlqR0R0TmN3UTRJSWFlaWNTOFo2dElVSW42R0tuTmNMUWM3azZ6NHUwZENsb0ZWcWlvVlRjMDVmV3ZFRVpqUVN2RGhlQVRkejlTTkZXWVhNWXVpeEJock9SYXlYTi01RFNlUVMwTmVubExPUNIBtgFBVV95cUxPZUJ1Q25TLTh2S1pqb1pscWVZcURleXAxOUcxZEtUV0NGRllaaTNpS0FPRWRrMHNaSUEzUVlUU1I4RGxRdTRacWRhOGFPX0RwS2x3cDAwelFzWEhSYVhTWWk0blp1U015RVdLSS1xMTM0ZHRKdjY4ZlRfV1diM3g4UnpMazEtMUljUFd0cDV3LXkwSC1tSUpRVGdNTFI5MVlCYlE1N0VMclVKT2ZFQzJHVWRnY3lNdw?oc=5",
-     "source": "ABC13 Houston",
-     "published": "2026-11-11T00:02:05+00:00",
-     "summary": "Turnout in Texas midterm election ranks among state's highest in decades, records show&nbsp;&nbsp;ABC13 Houston",
-     "image": ""
-    },
-    {
-     "title": "\u2018No one is in charge\u2019: social care system in England in chaos, Louise Casey to say",
-     "url": "https://www.theguardian.com/society/2026/nov/11/louise-casey-england-social-care-system",
-     "source": "The Guardian",
-     "published": "2026-11-11T00:01:23+00:00",
-     "summary": "Head of major review into adult social care will say that governments have been \u2018asleep at the wheel\u2019 of vital systemSuccessive governments in England have been \u201casleep at the whee",
-     "image": "https://i.guim.co.uk/img/media/860b5a9535cfcf834db49bf2a07988a7b4b0ed12/1058_92_4917_3934/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=89c098b3c5b8e8fa5acc657e1f12bed5"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-11T00:51:17.609428+00:00",
+   "fetched_at": "2026-11-11T01:21:21.330548+00:00",
    "stale": false,
    "items": [
     {
@@ -334,14 +334,6 @@
      "published": "2026-11-10T13:45:13+00:00",
      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff4/live/cdef63c0-dd0c-11f1-97df-bd0937690c4d.jpg"
-    },
-    {
-     "title": "Mortgage holders\u2019 confidence crashes to lowest level since 1994 as year that \u2018feels like a recession\u2019 looms",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
-     "source": "The Guardian",
-     "published": "2026-11-10T05:17:31+00:00",
-     "summary": "Westpac survey results signal growing sense of \u2018helplessness\u2019 while Jim Chalmers faces growing pressure to rein in spendingGet our breaking news email, free app or daily news podca",
-     "image": "https://i.guim.co.uk/img/media/289812e06aede7107a4afb76060410def2af7240/623_0_6203_4965/master/6203.jpg?width=140&quality=85&auto=format&fit=max&s=cd5cc060a69555956d709242a545bd3f"
     },
     {
      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
