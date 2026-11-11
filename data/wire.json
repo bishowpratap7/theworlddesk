@@ -1,18 +1,10 @@
 {
- "generated_at": "2026-11-11T11:53:09.067175+00:00",
+ "generated_at": "2026-11-11T11:53:21.778987+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-11T11:53:09.067143+00:00",
+   "fetched_at": "2026-11-11T11:53:21.778951+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Nvidia hires leading US law firm to investigate Jensen Huang\u2019s relationship",
-     "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-     "source": "The Guardian",
-     "published": "2026-11-11T11:49:12+00:00",
-     "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spyBusiness live \u2013 latest updatesNvidia has appointed a leading US law firm to condu",
-     "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e80fd8b31abebcfb48715c6176ded127"
-    },
     {
      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
@@ -22,20 +14,20 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
     },
     {
-     "title": "Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/11/police-target-chronic-shoplifters-retail-crackdown-england-wales",
-     "source": "The Guardian",
-     "published": "2026-11-11T11:46:37+00:00",
-     "summary": "Tactics to include GPS tagging for repeat offenders, high-street bans and tougher sentencesFive hundred of the most prolific shoplifters across England and Wales will be targeted i",
-     "image": "https://i.guim.co.uk/img/media/3f24e2cee8f59a058f789ea0d30884158d7e712c/212_0_4878_3902/master/4878.jpg?width=140&quality=85&auto=format&fit=max&s=687baca352d9051df364e50830174ad8"
-    },
-    {
      "title": "Ukraine-Russia talks end with deal on prisoner swap, but Moscow remains cool on European involvement \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
      "source": "The Guardian",
      "published": "2026-11-11T11:44:51+00:00",
      "summary": "Talks break up after a short time on second day in Abu Dhabi but Russian negotiator says more will be heldSeparately, I am also keeping an eye on Italy, with reports that several s",
      "image": "https://i.guim.co.uk/img/media/8ff01a4c4ade5aebad9c7204e9be34ace27263d1/992_0_5274_4219/master/5274.jpg?width=140&quality=85&auto=format&fit=max&s=4bbe998b20c2852e9d977c3f3c000594"
+    },
+    {
+     "title": "Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/11/police-target-chronic-shoplifters-retail-crackdown-england-wales",
+     "source": "The Guardian",
+     "published": "2026-11-11T11:43:39+00:00",
+     "summary": "Tactics to include GPS tagging for repeat offenders, high-street bans and tougher sentencesFive hundred of the most prolific shoplifters across England and Wales will be targeted i",
+     "image": "https://i.guim.co.uk/img/media/3f24e2cee8f59a058f789ea0d30884158d7e712c/212_0_4878_3902/master/4878.jpg?width=140&quality=85&auto=format&fit=max&s=687baca352d9051df364e50830174ad8"
     },
     {
      "title": "France marks Armistice Day : Macron attends commemorative ceremony",
@@ -116,11 +108,19 @@
      "published": "2026-11-11T10:59:06+00:00",
      "summary": "",
      "image": ""
+    },
+    {
+     "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T10:57:39+00:00",
+     "summary": "Mahmoud Abdel-Malek, a 20-year-old goalkeeper for Gaza Sports Club, was killed in an Israeli airstrike on Gaza City.",
+     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-11T11:53:09.067159+00:00",
+   "fetched_at": "2026-11-11T11:53:21.778966+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-11T11:53:09.067163+00:00",
+   "fetched_at": "2026-11-11T11:53:21.778973+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-11T11:53:09.067166+00:00",
+   "fetched_at": "2026-11-11T11:53:21.778977+00:00",
    "stale": false,
    "items": [
     {
