@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T01:51:25.289640+00:00",
+ "generated_at": "2026-11-11T01:51:38.642233+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-11T01:51:25.289611+00:00",
+   "fetched_at": "2026-11-11T01:51:38.642178+00:00",
    "stale": false,
    "items": [
     {
@@ -120,9 +120,17 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-11T01:51:25.289624+00:00",
+   "fetched_at": "2026-11-11T01:51:38.642197+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine war briefing: Zelenskyy says Putin \u2018lives in a different reality\u2019 as Abu Dhabi talks get under way",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaDF0RG9vblhsZXZRZTNwWFRYU285N2dfTHhFbzdnR21Vc2dPTjVMOEV5djBRdzhqZlNIZ2hCZ0hwVGVPcWZQNGFJdERxTW9pbVdqd3hYMml4YVpEcXZsTk0zYUZkWVJldlBFZ2pmeVFEMWNabUU3TkNzQU45aER2OE91RDFqM19Pemp2dWp0cTFIeUVvMEcwWDVEZDBUV3pzcy1uc2pFUzFjUXQ1VWUtWXRRdG5RZVZkdC1wbzB3VC1zLVVNQzhTWTlKX0ZLbFpaU0VFR251MTJyZXozTVdrdXZ2RQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-11T01:27:00+00:00",
+     "summary": "Ukraine war briefing: Zelenskyy says Putin \u2018lives in a different reality\u2019 as Abu Dhabi talks get under way&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
     {
      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
      "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
@@ -210,19 +218,11 @@
      "published": "2026-11-10T23:38:02+00:00",
      "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
      "image": ""
-    },
-    {
-     "title": "Massive fire as Israeli settlers burn down business near Nablus",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T23:33:43+00:00",
-     "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-11T01:51:25.289628+00:00",
+   "fetched_at": "2026-11-11T01:51:38.642202+00:00",
    "stale": false,
    "items": [
     {
@@ -282,11 +282,27 @@
      "image": ""
     },
     {
+     "title": "Berkeley poised to pass $300M infrastructure bond and half-cent sales tax hike",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDdOVmk5X0xjSEVRVjBpSHdRbXptM2VtNUZpLW1XOHNQWFh6V1U0WF9jZWFWR3BwbF9YYi0zNDFLc3hHb29xVnRqQUJ4OU9KRlBwc2xZSUk3ZHpoTnI0SVRzVDRuSGN6ZmE1M1BqeHl3WjRCQkltNGNrbHNBOFBjdnotWU9jb3NDODMw?oc=5",
+     "source": "Berkeleyside",
+     "published": "2026-11-11T00:41:10+00:00",
+     "summary": "Berkeley poised to pass $300M infrastructure bond and half-cent sales tax hike&nbsp;&nbsp;Berkeleyside",
+     "image": ""
+    },
+    {
      "title": "Nafisa Fai now leading Pam Treece in Washington County Chair race",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT0p0LTBCeWNzendiUWU3Mk9xeDJBZlZIS0hjTUctZTNsM1VQcnRrNDg0aGM0bFZUeW5wUWUxYlVGRWplS290enhfRzZWRllONFp0OGZyd2thTHZPSDVNM1VBLXVhWW9KYkd6THpiQlY3aUE1N1ZTcjhubWhmNmlJOVNQdmpLTTVNc3ZOWGNNZk1JQ3dtY21OTlh0WWo0TjUyeWZOQg?oc=5",
      "source": "Oregon Public Broadcasting - OPB",
      "published": "2026-11-11T00:39:25+00:00",
      "summary": "Nafisa Fai now leading Pam Treece in Washington County Chair race&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
+     "image": ""
+    },
+    {
+     "title": "What's a provisional ballot? Counting them a final act of election",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmc0YkpjQjhmdDF0eVJVSFp2RG02b1pUOFJtWGpyb0VOMi1ldEZLV29xZkpYZ1RnTWY1N20xZ2J2aUk0bVFNb0oxU3lHRExyUVlZS3lTM3BiMDdHVGR1eFBGWHFTeWNoVGZwcmpvdUxCQzR6WkhRY3lIM3VmcUNBNWNvNVptOFRaVWJiV3F3Q1hudlY4WTNn?oc=5",
+     "source": "Spectrum News",
+     "published": "2026-11-11T00:39:00+00:00",
+     "summary": "What's a provisional ballot? Counting them a final act of election&nbsp;&nbsp;Spectrum News",
      "image": ""
     },
     {
@@ -304,27 +320,11 @@
      "published": "2026-11-11T00:35:00+00:00",
      "summary": "These key races remain too early to call one week after Election Day&nbsp;&nbsp;KWQC",
      "image": ""
-    },
-    {
-     "title": "A Leap into California Policy: Reflections on moving cross-country for the opportunity of a lifetime",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90QUpueTN2dGhGSFhBdVk4bG1Fc0VpdTZmdWNodGhNN1ZERlNRb0pPZHRIbFA1ajZlYjdsb2lLTGZoMUVpM3FQX1hvVi0zc1h3aEdyRFpkNlFPdw?oc=5",
-     "source": "California Council on Science and Technology (CCST)",
-     "published": "2026-11-11T00:34:13+00:00",
-     "summary": "A Leap into California Policy: Reflections on moving cross-country for the opportunity of a lifetime&nbsp;&nbsp;California Council on Science and Technology (CCST)",
-     "image": ""
-    },
-    {
-     "title": "Election Results Update Nov. 10",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MWlo5NVk0VzluT1JKVFdGTXpad082NFg4Zzg3cUhDeHRtMzdjOUJOMlQtYzBRNF9MV2RIbkJtZ2ZWc3JrY3N1QUV1bFMybkU3WElyNXVQTVVsV0lsYW93STlXOFd2VXZXSXZ0UQ?oc=5",
-     "source": "YubaNet",
-     "published": "2026-11-11T00:32:45+00:00",
-     "summary": "Election Results Update Nov. 10&nbsp;&nbsp;YubaNet",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-11T01:51:25.289630+00:00",
+   "fetched_at": "2026-11-11T01:51:38.642206+00:00",
    "stale": false,
    "items": [
     {
