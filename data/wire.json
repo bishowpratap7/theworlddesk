@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T04:21:57.895089+00:00",
+ "generated_at": "2026-11-11T04:52:02.619649+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-11T04:21:57.895060+00:00",
+   "fetched_at": "2026-11-11T04:52:02.619595+00:00",
    "stale": false,
    "items": [
     {
@@ -120,9 +120,17 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-11T04:21:57.895074+00:00",
+   "fetched_at": "2026-11-11T04:52:02.619610+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia claims interception of 146 drones in Leningrad region",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY19vcnl1bmFEN1RSdHhxYmJlT043aTVRT2YxWEFobXh1UXBtUU91RnhhRF9DM1NDd0lvRmJ5b1RkdVl4SHcwdnFadnNjN2pFMG4tMU92Ml9FVGRpTWZFYmJqZXN6bENyY0JJLVNQcW5GM2ctMWQyMkN5TTdPYXhwQ3lHd2pCMzExWnQ2T1otVmF5ME9JS01naDBfRkxid3h6eWNDb9IBqgFBVV95cUxPem03d3NxUDB4NUdQNi1qYkVidE9LOHRFbUstWGpMaDkzVFlEVWpCNDE2RmhJYno2X21tUkkzcTE2V3oydXRwbGdBVmRrY2x0LUxERTIwbnBtc1BRN1lvZi0tZ0FVTkJaQVNFa2hKZHB3VHN3V285RmNodGhfLS1PMkJBcmpScEF2RFYzU0stOEVVdmctaGtNR3pFSGFkUThhYXVOUHlkM3Z2QQ?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T04:39:14+00:00",
+     "summary": "Russia claims interception of 146 drones in Leningrad region&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
     {
      "title": "Netanyahu heckled by Bennett at Knesset opening session",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
@@ -210,27 +218,35 @@
      "published": "2026-11-11T02:01:27+00:00",
      "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 11, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
      "image": ""
-    },
-    {
-     "title": "US charges 3 men over alleged Iranian-backed plot at UK Fairford air base",
-     "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T01:44:21+00:00",
-     "summary": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-11T04:21:57.895078+00:00",
+   "fetched_at": "2026-11-11T04:52:02.619614+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Mississippi Senate race among those too close to call 1 week after election",
+     "title": "Bastrop County election roundup: What voters decided Nov. 3",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbElIVk5YWXBFUE1na1ladGI2WWlLU3dyNHEyck9GZ3hqYW5TSEQtSFBsbXBoZGo4dnNvU1JVU0xMTm1iOEhyN05vVm83STl2dGhueE85emxLVVhBa1VVcVRDMXlOY2xBVUdBeFJ3NGtqRWQ0Q0twQjRsMGYzeDlDdjV2bGRKY2J3OVJKeUxiS3NVelg4NWc1VVoyeXoybGVUUkpFVEgydktxaHgwRjBCWEZUMnB4dw?oc=5",
+     "source": "Community Impact",
+     "published": "2026-11-11T04:44:00+00:00",
+     "summary": "Bastrop County election roundup: What voters decided Nov. 3&nbsp;&nbsp;Community Impact",
+     "image": ""
+    },
+    {
+     "title": "Peltola and JKT strengthen leads in latest Alaska election results",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3kxcGpzSFhELVk2NzZRVG9xcnZZczE0YloxTmhNSzRRY2NISnJQbVNjdVM0VGNyMXI5SkYwcTZwb1BPZnhHLWtMWF9nbFhZLW1BdFEzdWg0MGdGVVA3UXl0NWxQOHByTXlFZnA3RWhqMU5Yak10X2pGdHRhZEtyQ3VxVGl6M0VoYkd1RWVsck1jdFVWOUkza19NSVR5QWpsb0VuQm9qWnJEbTYyUUlLbkFjR3d1aGtiX1JiTkFRTzhnOU5C?oc=5",
+     "source": "Alaska Public Media",
+     "published": "2026-11-11T04:25:00+00:00",
+     "summary": "Peltola and JKT strengthen leads in latest Alaska election results&nbsp;&nbsp;Alaska Public Media",
+     "image": ""
+    },
+    {
+     "title": "More than a dozen key races remain too early to call one week after Election Day",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjlKNDlXMTRMT3N6M2NCaWVGaHVTalh0TTBwQ25vbmRSMzZWVjMwNE5kODV3ajNIU1psLUJyWWwxNTFEdmhmUHJpejBmQUZ5UVpRbTZUUkRIYWJlNUhxZzVQQlhDeGsyb091T29wckJXRFQyMzRnWFJRd0liVU85dkZOUEpsbW50RVVzTHd5OVUxdmZIb1ZaZThzX3BDWUpwd3Uw?oc=5",
      "source": "Mississippi Today",
      "published": "2026-11-11T03:19:21+00:00",
-     "summary": "Mississippi Senate race among those too close to call 1 week after election&nbsp;&nbsp;Mississippi Today",
+     "summary": "More than a dozen key races remain too early to call one week after Election Day&nbsp;&nbsp;Mississippi Today",
      "image": ""
     },
     {
@@ -304,27 +320,11 @@
      "published": "2026-11-11T02:13:26+00:00",
      "summary": "North County has some of San Diego County\u2019s closest races as election results trickle in&nbsp;&nbsp;inewsource",
      "image": ""
-    },
-    {
-     "title": "Rep. Jim Jordan of Ohio elected to lead House Republicans in the minority",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM05VZzZyNlNlZUNTWllYRTl1M0pnaFYzQXZaYjVYQjFrUXFLMzR5YS1Hc0NLNGI1UGd3SzQyVjFwZGdsY3lnVkg1SDdhcVVUbjk3OW8wcnZmSDVrS3JUZXoybDJYb2JUZl9UdzNfd3ZWMGNvTG1vYzAtZkRwQUpteWlPWF8wb2t4RGtzSDRneWZuU0RKZVozWHdXeUJRN3h1Y3FjZkhVZ1RleWk0M1N5Qg?oc=5",
-     "source": "AP News",
-     "published": "2026-11-11T01:31:00+00:00",
-     "summary": "Rep. Jim Jordan of Ohio elected to lead House Republicans in the minority&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "Furlow Wins Edgewood Alder Election",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR0F0SjBRSDdwcHdKeEI1UzgxSkRNSWk0U2trTlM5VGRrcE4wUnRlU2tQSGRJczBkXzJ6NWFMVlY0VzVjT0ItSEdJeDQ2VVBoNmVJQ2pySy13b0RBZnNaMUM4VTZLS1huZ2NzUkhHeEZIeDQ3aWNITXFzRWMtWDQxYkFHUTVZblBncVU0?oc=5",
-     "source": "New Haven Independent",
-     "published": "2026-11-11T01:27:01+00:00",
-     "summary": "Furlow Wins Edgewood Alder Election&nbsp;&nbsp;New Haven Independent",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-11T04:21:57.895080+00:00",
+   "fetched_at": "2026-11-11T04:52:02.619629+00:00",
    "stale": false,
    "items": [
     {
