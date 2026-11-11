@@ -1,17 +1,105 @@
 {
- "generated_at": "2026-11-11T17:24:11.360440+00:00",
+ "generated_at": "2026-11-11T17:54:15.041032+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-11T17:24:11.360410+00:00",
+   "fetched_at": "2026-11-11T17:54:15.041001+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Chancellor confident budget will lead to growth despite OBR not finding evidence to prove it \u2013 UK politics live",
+     "title": "Spain faces nationwide protests over soaring housing costs",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-faces-nationwide-protests-over-soaring-housing-costs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T17:49:03+00:00",
+     "summary": "Spain faces nationwide protests over soaring housing costs",
+     "image": ""
+    },
+    {
+     "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-11T17:48:52+00:00",
+     "summary": "President claims US \u2018did not start war with Iran\u2019 in Veterans Day speech where he also backed defense secretary again day after failed impeachment voteDemocrats lambast absent peer",
+     "image": "https://i.guim.co.uk/img/media/e2700e9cd5295e7d69abdfa78300617b9c785f19/904_0_4551_3640/master/4551.jpg?width=140&quality=85&auto=format&fit=max&s=6500a6dd8b56869ee3b5a364b7832d28"
+    },
+    {
+     "title": "Hoax bomb threats made to hundredsof schools in Scotland and Northern Ireland",
+     "url": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
+     "source": "The Guardian",
+     "published": "2026-11-11T17:47:14+00:00",
+     "summary": "Bogus threats also made to thousands of schools in Italy as police assure parents and teachers there is no dangerHundreds of schools in Scotland and Northern Ireland were hit by a ",
+     "image": "https://i.guim.co.uk/img/media/bbe20cc1c9b9b4be2b8a3600cc0fa32c0d8c3eba/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=8c725bb7c86caf19981ead8565d6142a"
+    },
+    {
+     "title": "Portugal cancels more than 300 flights, shuts schools due to Storm Charles",
+     "url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T17:46:40+00:00",
+     "summary": "Authorities spared no effort in preparation for the Atlantic storm after criticism following January&#039;s Storm Kristin.",
+     "image": ""
+    },
+    {
+     "title": "Spain sees widespread disruption in first general strike for 14 years",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T17:44:32+00:00",
+     "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
+    },
+    {
+     "title": "Can Democrats shed some new light on the Epstein files when they take over?",
+     "url": "https://www.aljazeera.com/news/2026/11/11/can-democrats-shed-some-new-light-on-the-epstein-files-when-they-take-over?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T17:44:18+00:00",
+     "summary": "Lawmakers have pledged to use new majorities in House and Senate to pursue the investigation into Epstein&#039;s network.",
+     "image": ""
+    },
+    {
+     "title": "Chancellor confident budget will lead to growth despite OBR not finding evidence to prove it \u2013 as it happened",
      "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-11T17:13:47+00:00",
-     "summary": "The OBR normally only includes growth measures in their scorecard if they will increase growth by at least 0.1% of GDPHere are some more comments on the report for the Casey commis",
+     "published": "2026-11-11T17:40:23+00:00",
+     "summary": "This blog is now closedHere are some more comments on the report for the Casey commission released today looking at how social care is run in England. (See 9.56am.)This is from Nat",
      "image": "https://i.guim.co.uk/img/media/ffa8be71f7f3465309965f78ac5364618a295ae3/885_0_6477_5182/master/6477.jpg?width=140&quality=85&auto=format&fit=max&s=3462b328b6a5061eafb40e23e4df0ae1"
+    },
+    {
+     "title": "Tens of thousands join Poland\u2019s nationalist Independence Day march",
+     "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T17:38:03+00:00",
+     "summary": "Polish PM Donald Tusk calls for restraint, urging unity after deadly Krakow attack linked to far-right ideology.",
+     "image": ""
+    },
+    {
+     "title": "Russia\u2019s ambassador to the United States dies, aged 66",
+     "url": "https://www.theguardian.com/world/2026/nov/11/russia-ambassador-dies-alexander-darchiev",
+     "source": "The Guardian",
+     "published": "2026-11-11T17:27:29+00:00",
+     "summary": "Alexander Darchiev, who previously served as ambassador to Canada, died \u2018suddenly\u2019, said Russian foreign ministryRussia\u2019s ambassador to the United States, Alexander Darchiev, has d",
+     "image": "https://i.guim.co.uk/img/media/3063a5b73a950141473e386af0aa171ed4651b50/77_0_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=78f98be6083cff994a93ff054df1d4a4"
+    },
+    {
+     "title": "Bridget Phillipson: Kemi Badenoch has \u2018no interest in supporting LGBT+ people\u2019",
+     "url": "https://www.theguardian.com/world/2026/nov/11/bridget-phillipson-kemi-badenoch-lgbt-people-conversion-therapy",
+     "source": "The Guardian",
+     "published": "2026-11-11T17:26:50+00:00",
+     "summary": "Exclusive: Equalities minister says Tories are \u2018chasing Reform into the gutter\u2019 as they drop support for planned law to ban \u2018conversion therapy\u2019Kemi Badenoch has \u201cno interest in su",
+     "image": "https://i.guim.co.uk/img/media/49ed7daa9b6164ea3bade5afa9451006f2ae9274/0_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=8fb3bcc9fdf34092fa3c09b66eded02f"
+    },
+    {
+     "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+     "url": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+     "source": "NPR",
+     "published": "2026-11-11T17:23:10+00:00",
+     "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
+     "image": ""
+    },
+    {
+     "title": "Ministers consider forcing TV industry to better protect women after David Walliams allegations",
+     "url": "https://www.theguardian.com/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy",
+     "source": "The Guardian",
+     "published": "2026-11-11T17:21:14+00:00",
+     "summary": "Lisa Nandy expected to meet leaders from television, film and publishing and could legislate if voluntary action deemed insufficientMinisters are considering changing the law to fo",
+     "image": "https://i.guim.co.uk/img/media/04f2de5222d301ae42e814da5d6251f9e603ffe2/427_46_1420_1136/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=3c477763baf18efe2278eb96cd3e1d74"
     },
     {
      "title": "The most hacked country in Europe? Why is France the target of so many cyberattacks",
@@ -28,101 +116,45 @@
      "published": "2026-11-11T17:08:32+00:00",
      "summary": "Tens of thousands of Polish nationalist sympathisers gathered in Warsaw Wednesday for an annual Independence Day March, just days after a deadly shooting spree in Krakow that shook",
      "image": "https://s.france24.com/media/display/632a3764-ddf1-11f1-a19a-3f371022a770/w:1024/p:16x9/EN-20261111-171020-171438-CS.jpg"
-    },
-    {
-     "title": "Thune re-elected as US Senate Republican leader after midterm losses",
-     "url": "https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T17:08:12+00:00",
-     "summary": "The Republican ran unopposed, despite some GOP lawmaker demands to evaluate the party&#039;s stinging midterm losses to Democ",
-     "image": ""
-    },
-    {
-     "title": "Some Democrats who missed key procedural vote to impeach Pete Hegseth blame traffic jam in DC \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-11T17:06:14+00:00",
-     "summary": "11 Democrats missed vote, which failed 211-204 and effectively killed effort to oust Hegseth for now; Trump hails \u2018exoneration of a Great American Patriot\u2019Democrats lambast absent ",
-     "image": "https://i.guim.co.uk/img/media/f3b498a105c25a7dae52a040f4b285115be7dd75/0_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=e633a0bff202654cf80a8cb2addd9b5f"
-    },
-    {
-     "title": "All Kemi had at PMQs was jokes \u2026 and unfunny jokes at that | John Crace",
-     "url": "https://www.theguardian.com/politics/2026/nov/11/kemi-badenoch-pmqs-unfunny-jokes",
-     "source": "The Guardian",
-     "published": "2026-11-11T17:04:37+00:00",
-     "summary": "Even her own MPs were stony-faced as the Tory leader ran though her set list of gags from the budget to Russell BrandUK politics live \u2013 latest updatesWell, there was one person at ",
-     "image": "https://i.guim.co.uk/img/media/a40415916a86e82f2962f048635d58b1b703a859/505_0_1685_1348/master/1685.jpg?width=140&quality=85&auto=format&fit=max&s=631bcaccf89a66afa1f527bb60db61a8"
-    },
-    {
-     "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-     "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
-     "source": "The Guardian",
-     "published": "2026-11-11T17:03:43+00:00",
-     "summary": "US envoys to visit Moscow and Dublin on Thursday for talks with Vladimir Putin and Volodymyr Zelenskyy respectivelyRussia and Ukraine have agreed to the \u201clargest prisoner exchange\u201d",
-     "image": "https://i.guim.co.uk/img/media/0a4818254a2d1f8ad06630c7b042626105bdf640/424_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d80feda424118aebc225ff96f688fc6f"
-    },
-    {
-     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-11T16:59:34+00:00",
-     "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
-    },
-    {
-     "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T16:58:32+00:00",
-     "summary": "Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi",
-     "image": ""
-    },
-    {
-     "title": "Senior Reform UK official quits as questions over vetting failures continue",
-     "url": "https://www.theguardian.com/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
-     "source": "The Guardian",
-     "published": "2026-11-11T16:57:53+00:00",
-     "summary": "Departure of Tom Waterhouse, Reform\u2019s \u2018latest fall guy\u2019, will be blow to party amid push towards professionalisationUK politics live \u2013 latest updatesReform UK\u2019s general secretary h",
-     "image": "https://i.guim.co.uk/img/media/aaa825507eaef34d302680390a297a66c6cbed0d/0_52_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=3494a6f3449365ef669493a0bf4dcb87"
-    },
-    {
-     "title": "Democrat says Trump has \u2018something to hide\u2019 after White House threatens oversight efforts",
-     "url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
-     "source": "The Guardian",
-     "published": "2026-11-11T16:54:36+00:00",
-     "summary": "White House warns Democratic pledges to investigate president \u2018may cross line into blatant criminality\u2019The incoming Democratic chair of the powerful congressional oversight committ",
-     "image": "https://i.guim.co.uk/img/media/afba32a689ac424699c38935a3705918c55cad74/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=f1306eaad2c6e71880661940aeab4e1a"
-    },
-    {
-     "title": "Palestinian American activist refused UK entry for Gaza fundraiser",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/palestinian-american-activist-refused-uk-entry-for-gaza-fundraiser?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T16:52:59+00:00",
-     "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity\u2019s annual Gaza fundraiser.",
-     "image": ""
-    },
-    {
-     "title": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
-     "url": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T16:48:48+00:00",
-     "summary": "Abdel-Malek, the captain and goalkeeper of Gaza Sports Club, recently played in the Thousand Martyrs Cup final.",
-     "image": ""
-    },
-    {
-     "title": "Marco Rubio spent over $1.2m of taxpayer money traveling to son\u2019s football games",
-     "url": "https://www.theguardian.com/us-news/2026/nov/11/marco-rubio-travel-costs-university-florida-football",
-     "source": "The Guardian",
-     "published": "2026-11-11T16:47:41+00:00",
-     "summary": "Ethics watchdogs question necessity of the US secretary of state flying between DC and Gainesville so oftenMarco Rubio, the US secretary of state, has emerged as a superfan of the ",
-     "image": "https://i.guim.co.uk/img/media/87ca8cd19d20e00bde424f7b8da67b134eff9702/553_178_2904_2324/master/2904.jpg?width=140&quality=85&auto=format&fit=max&s=98071143a4da1fa09937c9b544de6048"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-11T17:24:11.360425+00:00",
+   "fetched_at": "2026-11-11T17:54:15.041016+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-11T17:48:52+00:00",
+     "summary": "President claims US \u2018did not start war with Iran\u2019 in Veterans Day speech where he also backed defense secretary again day after failed impeachment voteDemocrats lambast absent peer",
+     "image": "https://i.guim.co.uk/img/media/e2700e9cd5295e7d69abdfa78300617b9c785f19/904_0_4551_3640/master/4551.jpg?width=140&quality=85&auto=format&fit=max&s=6500a6dd8b56869ee3b5a364b7832d28"
+    },
+    {
+     "title": "Russia and Ukraine Agree Large-Scale Prisoner Exchange in Abu Dhabi Talks, No Ceasefire: 27 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU2JSZl9Kd3lEQ05abFlxLXczSDFUUHJvZ0lpQXNZaXBXS2dheUZ0cGZZcmdvT2VEbF9PRW9HbEc5UmhNVWVBVmttU0s2bk0zcFhJNGNpWnRzbzFxcFU5THZVcEpRTnJoWjZjNV9PUkpWREE2S2dHOUwzM1kzV2Ric2tkSEliTnNYeXVaRkdLMDNFZDdzUnhtNmI1MW94eUJqMEU4YmZOOENrN01ZV0FhZHZTNW4zU1JiX2J5WXZ1WFltcGVZc01UWkMyVWZfcUFiNlh4emdTM0hvdDRucWRLUFNOTW1ud1M0NEE?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-11T17:30:10+00:00",
+     "summary": "Russia and Ukraine Agree Large-Scale Prisoner Exchange in Abu Dhabi Talks, No Ceasefire: 27 outlets compared&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
+    {
+     "title": "Russia\u2019s ambassador to the United States dies, aged 66",
+     "url": "https://www.theguardian.com/world/2026/nov/11/russia-ambassador-dies-alexander-darchiev",
+     "source": "The Guardian",
+     "published": "2026-11-11T17:27:29+00:00",
+     "summary": "Alexander Darchiev, who previously served as ambassador to Canada, died \u2018suddenly\u2019, said Russian foreign ministryRussia\u2019s ambassador to the United States, Alexander Darchiev, has d",
+     "image": "https://i.guim.co.uk/img/media/3063a5b73a950141473e386af0aa171ed4651b50/77_0_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=78f98be6083cff994a93ff054df1d4a4"
+    },
+    {
+     "title": "Russia and Ukraine Agree Large Prisoner Exchange After Abu Dhabi Talks End Without Breakthrough",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ1Y5enZBWTNMajRJTGVKdzJhMzlHaHZ6ZmFJXzRSS1BqSmJsLUZUbWUwNGtjaC1zeUxNYVpENkJrUzhkTDVsdXBGaFlFY2NrM01qQ1dhUFJEY0FWZUVFRU1yQWFGZW14eFM2M19ZRTZkSERydThXcGNWSVlMOVFTVFRJNlk1NGYtR3otWF9Hc0xFdkJtNGotOXBkUk8zTFVfajdadFFrNV9yYzhFQUk0alJuMjZ4Q3JoQ0dCdXJPem9sVF82ZkFHUmd6SVZTQUxYOXZpUmdabHlBYlNNNXBISTR5WTRuVkZDS1E?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-11T17:22:08+00:00",
+     "summary": "Russia and Ukraine Agree Large Prisoner Exchange After Abu Dhabi Talks End Without Breakthrough&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
     {
      "title": "Tens of thousands attend Polish nationalist march days afer shootings",
      "url": "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings",
@@ -156,14 +188,6 @@
      "image": ""
     },
     {
-     "title": "Senior Reform UK official quits as questions over vetting failures continue",
-     "url": "https://www.theguardian.com/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
-     "source": "The Guardian",
-     "published": "2026-11-11T16:57:53+00:00",
-     "summary": "Departure of Tom Waterhouse, Reform\u2019s \u2018latest fall guy\u2019, will be blow to party amid push towards professionalisationUK politics live \u2013 latest updatesReform UK\u2019s general secretary h",
-     "image": "https://i.guim.co.uk/img/media/aaa825507eaef34d302680390a297a66c6cbed0d/0_52_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=3494a6f3449365ef669493a0bf4dcb87"
-    },
-    {
      "title": "Democrat says Trump has \u2018something to hide\u2019 after White House threatens oversight efforts",
      "url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
      "source": "The Guardian",
@@ -188,53 +212,93 @@
      "image": ""
     },
     {
-     "title": "Over 11,000 Foreign Military Deaths Recorded by Russia in War on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZk8yeVZiVjdiUVIxYk5xRU41UFpULXVySUdHSG12YlZoaXF4VE1pXzVVTFhIMlFMS1dMZGg0Szg2bW1hY0VJTzZfcHVJWjNERGxvb2hCeFRjcDhWRlk2cTRXQ3VKSWV5bW5fWGpFUWdlRUYyQVUtQ05hSE9KZzZZOVVYYmdYTHYwWnZfOU9zQjNXR2RQalNFWTN2N3pKcWRidXJheE5aNDBRa1hFYU9GQTRkSmxkT0500gG-AUFVX3lxTE5zWG5ocU8tMlpnSzFIY3phdWU4Q2g3SjhSRjMwUEZLOVBvM1JGdmpKRDgxQ3VoQm9ZWWRacnNRdEQzQ3FDTkZCNkFQbkZibGdfZ1ZjdGhmVmh5WktxMVczVzNhS29fOUFVN3BwOFhUOEMwdDJuT09Dc0txMTd5YkRITTBTSENPRUcyMzhjcEZqTHhfU2N5cDd0N21yRDNVMHBGZzNvMHViQWJtRDVZX0FXTVVmZjREVXpoZnBubnc?oc=5",
-     "source": "Deccan Chronicle",
-     "published": "2026-11-11T16:48:09+00:00",
-     "summary": "Over 11,000 Foreign Military Deaths Recorded by Russia in War on Ukraine&nbsp;&nbsp;Deccan Chronicle",
-     "image": ""
-    },
-    {
      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWRtSDNseHdJblVQQmVUU1NHX21sQUtZREh6bU5qc1F1aDdFYUctV2V4Y2poSmtvYjhERmF4RnphWTZYY0RINGtyRVVuTmduRE5kQTItWFN1OHN5YzJiel9kR2pDY3dnVFpNVGNCSVkwMGVnd25ZRUZFNWhhRkNtbmFKekszT0JCOWxV?oc=5",
      "source": "The New York Times",
      "published": "2026-11-11T16:47:14+00:00",
      "summary": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe&nbsp;&nbsp;The New York Times",
      "image": ""
-    },
-    {
-     "title": "Tehran will strike US bases in Europe if used to attack Iran, security chief says",
-     "url": "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
-     "source": "\u00a9 Vahid Salemi, AP",
-     "published": "2026-11-11T16:45:46+00:00",
-     "summary": "Iranian security chief Mohsen Rezaei said Wednesday that Tehran would attack US bases located in Europe if they were used to carry out bombing raids against the Islamic republic. T",
-     "image": "https://s.france24.com/media/display/f8c593d6-ddec-11f1-8f0b-3f371022a770/w:1024/p:16x9/AP26234800648076.jpg"
-    },
-    {
-     "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-     "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-11T16:45:11+00:00",
-     "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274f/live/14e2f1f0-dde6-11f1-9204-cdcddf7d901c.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-11T17:24:11.360429+00:00",
+   "fetched_at": "2026-11-11T17:54:15.041020+00:00",
    "stale": false,
    "items": [
     {
-     "title": "2026 U.S. Senate Election Results",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-     "source": "AP News",
-     "published": "2026-11-11T17:10:54+00:00",
-     "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
+     "title": "Spain faces nationwide protests over soaring housing costs",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-faces-nationwide-protests-over-soaring-housing-costs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T17:49:03+00:00",
+     "summary": "Spain faces nationwide protests over soaring housing costs",
      "image": ""
     },
     {
-     "title": "Thune re-elected as US Senate Republican leader after midterm losses",
+     "title": "Spain sees widespread disruption in first general strike for 14 years",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T17:44:32+00:00",
+     "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
+    },
+    {
+     "title": "Can Democrats shed some new light on the Epstein files when they take over?",
+     "url": "https://www.aljazeera.com/news/2026/11/11/can-democrats-shed-some-new-light-on-the-epstein-files-when-they-take-over?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T17:44:18+00:00",
+     "summary": "Lawmakers have pledged to use new majorities in House and Senate to pursue the investigation into Epstein&#039;s network.",
+     "image": ""
+    },
+    {
+     "title": "Brazil fines Facebook $1.3 million for failing to comply with court orders during election",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjdyLVJPeXd3MkYyNHcyVDdqV2xoeG80WF9HWHlDNEU1RFBpNHVyZTVwM2hDY2JhUzdnZUhFRm9tV1hoZVcxaWdVazdLOGg2Z0FubWtSWTNIMERDdkt3UlNiMWt3a3Z5WUhwYVVYYllhR1BSeXZRTlVDUkxNbWVLQk55cHJrd2xHbTR3VGJiN3lKdG44Z016a0lfdGJfUGozOW4ycENISmFGRURvQUJpZ2ZMeTBWYjFpaDRN?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-11T17:39:02+00:00",
+     "summary": "Brazil fines Facebook $1.3 million for failing to comply with court orders during election&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Bridget Phillipson: Kemi Badenoch has \u2018no interest in supporting LGBT+ people\u2019",
+     "url": "https://www.theguardian.com/world/2026/nov/11/bridget-phillipson-kemi-badenoch-lgbt-people-conversion-therapy",
+     "source": "The Guardian",
+     "published": "2026-11-11T17:26:50+00:00",
+     "summary": "Exclusive: Equalities minister says Tories are \u2018chasing Reform into the gutter\u2019 as they drop support for planned law to ban \u2018conversion therapy\u2019Kemi Badenoch has \u201cno interest in su",
+     "image": "https://i.guim.co.uk/img/media/49ed7daa9b6164ea3bade5afa9451006f2ae9274/0_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=8fb3bcc9fdf34092fa3c09b66eded02f"
+    },
+    {
+     "title": "An ASU sophomore\u2019s surprise election win puts a spotlight on an obscure office",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWjl3ek5YMFdIZThTOEJFd1BJZ3pwY0Nld1BMazNCSEVreWdWdHV1aDR5THdZS0t1MUF6cDBqdjZhV3dyVnBxZDEzYXdtV1F4cFpuR0p4UXZjaUJscDIyZThpdjFtTmFYUVZXUkwtSjVzM1M2STkzMXpZRXhKeU9lMUxOZ2ZQbTdPNTBRV0MtUGJ4SFhOS3FaX0Vnb2FrUVVRUzdBYy1CSGJYbFNuQV9N?oc=5",
+     "source": "Arizona Mirror",
+     "published": "2026-11-11T17:26:23+00:00",
+     "summary": "An ASU sophomore\u2019s surprise election win puts a spotlight on an obscure office&nbsp;&nbsp;Arizona Mirror",
+     "image": ""
+    },
+    {
+     "title": "Republican Turner says Ramaswamy ad sunk his re-election in Ohio",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGlpbTNYb21UcWZRUWV6ZVNma29JMHFxMzVHZHNIQzNwTTNjTUV2akxaeDczYUU2ekFjU2dVVEItR0d2OHBvYWR0dThUQlhOQnphVm91MmgwOHUteC14bnRLYkJiZDJtNS1Fbnc2NHhwNXVwd2FVWGlRY1o0LXVVSTFleDVmTWl6SUNN0gGQAUFVX3lxTE05OFpRSUI0d1YwV2dmYWJUOUhfTFp4dDZqVkZqVVpZVzBJOHRfUmdJSVl1ZXlmVmRweWZSYU1HZ0pNajJDMmJpM0kzZ21KT0NwSWFCeFRhOFE3WHlTTm85bml0Q1dhOXN6RW5kRWg5NnZiaDQ3bXk5NjNzVlZ0RzhfalNXT3ZnN3h1TkJtUTlpQw?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-11T17:25:00+00:00",
+     "summary": "Republican Turner says Ramaswamy ad sunk his re-election in Ohio&nbsp;&nbsp;The Hill",
+     "image": ""
+    },
+    {
+     "title": "Ministers consider forcing TV industry to better protect women after David Walliams allegations",
+     "url": "https://www.theguardian.com/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy",
+     "source": "The Guardian",
+     "published": "2026-11-11T17:21:14+00:00",
+     "summary": "Lisa Nandy expected to meet leaders from television, film and publishing and could legislate if voluntary action deemed insufficientMinisters are considering changing the law to fo",
+     "image": "https://i.guim.co.uk/img/media/04f2de5222d301ae42e814da5d6251f9e603ffe2/427_46_1420_1136/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=3c477763baf18efe2278eb96cd3e1d74"
+    },
+    {
+     "title": "That Thanksgiving hand turkey on your fridge is actually an education policy failure",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFZMYzE0T3N2ZG9FZG4tVjdNXy1tRXVDN3NlaDBPZTg3Rzc3WEJqdi1XenlreEdGOWFXUUZxTnNaaFZZZUNib2xXS0VUZGtmOFFSaXhiVTY4b091aGhJUXNYcFZkMGFsS2hoWXRoQ3FqaU8wQ1l6RkNCMEpudFZCUnZGTy11TDZ2YXNJVy1LdXpuZlRoeVBQSW9iT1VZbHRyV1JkSllQd1VyYTRUTmxqM3ZoZHNRbkVSTU9yWmVlRzU2TzJlakZLLTVpRQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-11T17:19:18+00:00",
+     "summary": "That Thanksgiving hand turkey on your fridge is actually an education policy failure&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "John Thune re-elected as US Senate Republican leader after midterm losses",
      "url": "https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-11T17:08:12+00:00",
@@ -256,85 +320,13 @@
      "published": "2026-11-11T16:41:45+00:00",
      "summary": "Spy scandal highlights contradictions at heart of Trump\u2019s China policy&nbsp;&nbsp;The Washington Post",
      "image": ""
-    },
-    {
-     "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-     "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-11T16:38:07+00:00",
-     "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg"
-    },
-    {
-     "title": "Violent incidents in schools as French students vow to maintain protest pressure",
-     "url": "https://www.france24.com/en/violent-incidents-in-schools-as-french-students-vow-to-maintain-protest-pressure",
-     "source": "France 24",
-     "published": "2026-11-11T16:35:05+00:00",
-     "summary": "French President Emmanuel Macron on Tuesday condemned violence against teachers andgovernment officials during nationwide street protests after an official was hit by a gasoline-fi",
-     "image": "https://s.france24.com/media/display/09a5a02c-ddf4-11f1-b670-f71d22e7fea9/w:1024/p:16x9/capture-2c78d2b9.jpg"
-    },
-    {
-     "title": "Democrats lambast absent peers allowing Republicans to squash Hegseth impeachment attempt",
-     "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote",
-     "source": "The Guardian",
-     "published": "2026-11-11T16:34:02+00:00",
-     "summary": "Eleven Democrats missed the key procedural vote on the impeachment effort, which failed by just seven votesUS politics live \u2013 latest updatesDemocratic lawmakers expressed outrage a",
-     "image": "https://i.guim.co.uk/img/media/015a1a2baf166d2eaf78bea3692a71c03a0ca5da/0_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=5499f22f6b29bc0185f7f939f305e3b5"
-    },
-    {
-     "title": "Subject: Latitudes: After the election, more questions than answers",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tNGc2dlJ5ZllKWk5UWEJHTnBxT0xHdjJnMzNlVGpEUVA5WV95UkxOejZLUzRhR1czWVBOQVNGLTRrZlo4bTNJSmRRMVZ0RURONzJqcFVMMUY1eHFuMkFMWXZDZ0pEUlNZ?oc=5",
-     "source": "The Chronicle of Higher Education",
-     "published": "2026-11-11T16:34:01+00:00",
-     "summary": "Subject: Latitudes: After the election, more questions than answers&nbsp;&nbsp;The Chronicle of Higher Education",
-     "image": ""
-    },
-    {
-     "title": "Morgan McSweeney calls for rethink of UK cabinet ministers\u2019 \u2018quasi-judicial\u2019 powers",
-     "url": "https://www.theguardian.com/politics/2026/nov/11/morgan-mcsweeney-calls-for-rethink-of-cabinet-ministers-quasi-judicial-powers",
-     "source": "The Guardian",
-     "published": "2026-11-11T16:25:37+00:00",
-     "summary": "Keir Starmer\u2019s former chief of staff also says the \u2018thicket of rules\u2019 about how PMs operate should be cleared awayKeir Starmer\u2019s former chief of staff, Morgan McSweeney, has called",
-     "image": "https://i.guim.co.uk/img/media/cdc49b63b8e24e968b0b7b405c3e2e690a6843b4/1153_212_1043_834/master/1043.jpg?width=140&quality=85&auto=format&fit=max&s=8753e398ab6156270d69d0c32302ea39"
-    },
-    {
-     "title": "Wisconsin Rapids clerk devoted her life to running elections. She died on Election Day.",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUF9VeFlCUmd5bFc1WGlJcjBOS0VfWDZHc2tjN3M5YTRQQ09VY3hSMWZEQm9BdFd2WHhDWkZLTzNDUHlnMHptb1JXSUhXUUxaajhSdVZyN0RuRVJBUG9EbnBJNnBJWkJiWGd1bTFhdndBZm9sNE9oZTY4NkZ1V212WjFvaENseWZoYlZ2aWM1SGZNUklyZm1pbW1CRk12MWxOTjRGTHdKX1NWM1NrRi13ZHg2RQ?oc=5",
-     "source": "Votebeat",
-     "published": "2026-11-11T16:25:00+00:00",
-     "summary": "Wisconsin Rapids clerk devoted her life to running elections. She died on Election Day.&nbsp;&nbsp;Votebeat",
-     "image": ""
-    },
-    {
-     "title": "Brazil electoral court fines Meta $1.3 MN, sees no deliberate election bias",
-     "url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
-     "source": "France 24",
-     "published": "2026-11-11T16:08:22+00:00",
-     "summary": "Jan Onoszko, our correspondent in Rio, has more.",
-     "image": "https://s.france24.com/media/display/c4a5b334-dde6-11f1-9c6b-695cb59fade5/w:1024/p:16x9/EN-20261111-161101-161439-CS.jpg"
-    },
-    {
-     "title": "COP31 talks in Turkey: Leaders from US, China and India skip summit",
-     "url": "https://www.france24.com/en/cop31-talks-in-turkey-leeaders-from-us-china-and-india-skip-summit",
-     "source": "France 24",
-     "published": "2026-11-11T16:06:28+00:00",
-     "summary": "Val\u00e9rie Dekimpe, our environment editor, has more.",
-     "image": "https://s.france24.com/media/display/b79c40a6-dde9-11f1-8740-3f371022a770/w:1024/p:16x9/2026-11-11T104543Z-717228215-RC2MLOA7Z4YD-RTRMADP-3-CLIMATE-COP31.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-11T17:24:11.360432+00:00",
+   "fetched_at": "2026-11-11T17:54:15.041022+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Chancellor confident budget will lead to growth despite OBR not finding evidence to prove it \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-11T17:13:47+00:00",
-     "summary": "The OBR normally only includes growth measures in their scorecard if they will increase growth by at least 0.1% of GDPHere are some more comments on the report for the Casey commis",
-     "image": "https://i.guim.co.uk/img/media/ffa8be71f7f3465309965f78ac5364618a295ae3/885_0_6477_5182/master/6477.jpg?width=140&quality=85&auto=format&fit=max&s=3462b328b6a5061eafb40e23e4df0ae1"
-    },
     {
      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
      "url": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
