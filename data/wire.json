@@ -1,33 +1,73 @@
 {
- "generated_at": "2026-11-11T14:23:40.111005+00:00",
+ "generated_at": "2026-11-11T14:53:43.839462+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-11T14:23:40.110975+00:00",
+   "fetched_at": "2026-11-11T14:53:43.839432+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T14:51:26+00:00",
+     "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
+    },
+    {
+     "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-11T14:44:40+00:00",
+     "summary": "US negotiators to meet Putin in Moscow, Zelenskyy in Dublin nextSeparately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving",
+     "image": "https://i.guim.co.uk/img/media/9ea491e2eb2440edbdf11e08147b7a5a43b45d81/642_0_4516_3612/master/4516.jpg?width=140&quality=85&auto=format&fit=max&s=22a601d0a648034bcb6a7c8532d1842d"
+    },
+    {
+     "title": "Burnham indicates backing for \u2018black English\u2019 and \u2018Asian English\u2019 census options \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-11T14:41:56+00:00",
+     "summary": "PM, in response to Ed Davey at PMQs, says measures could help address \u2018poisonous politics\u2019Here are some more comments on the report for the Casey commission released today looking ",
+     "image": "https://i.guim.co.uk/img/media/d66cb17c1e85a36b783a55a18752add45fc436b4/315_0_1875_1501/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=936635555ea57c7071e9ecbe8ae1104c"
+    },
+    {
+     "title": "Virginia man convicted of murder says he did not kill wife before dismembering her body",
+     "url": "https://www.theguardian.com/us-news/2026/nov/11/virginia-murder-dismembering",
+     "source": "The Guardian",
+     "published": "2026-11-11T14:40:16+00:00",
+     "summary": "Naresh Bhatt, 28, said he dismembered wife\u2019s body after she took her own life, a claim prosecutors called \u2018ridiculous\u2019A Virginia man who claimed he dismembered his wife\u2019s body afte",
+     "image": "https://i.guim.co.uk/img/media/7fa3c10a9940769501f4a0175a51ffafb8263bfd/0_0_3216_2573/master/3216.jpg?width=140&quality=85&auto=format&fit=max&s=13abf9cd3b8d24e94c106ada7108774a"
+    },
+    {
+     "title": "ITV to cut costs by \u00a330m amid falling advertising sales",
+     "url": "https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales",
+     "source": "The Guardian",
+     "published": "2026-11-11T14:35:33+00:00",
+     "summary": "Ad revenue slowdown forces company to reduce spending on content by \u00a325m before inquiry into takeover by SkyBusiness live \u2013 latest updatesITV plans to slash its programming budget ",
+     "image": "https://i.guim.co.uk/img/media/551d396d3f3fff23af5398d2615a2412ce4cbe2f/300_0_2624_2099/master/2624.jpg?width=140&quality=85&auto=format&fit=max&s=1222e9f42b9963f1bf23b732e968d8ea"
+    },
+    {
+     "title": "Some Democrats who missed key procedural vote to impeach Pete Hegseth blame traffic jam in DC \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-11T14:34:15+00:00",
+     "summary": "11 Democrats missed vote, which failed 211-204 and effectively killed effort to oust Hegseth for now; Trump hails \u2018exoneration of a Great American Patriot\u2019House Republicans block e",
+     "image": "https://i.guim.co.uk/img/media/b7838838f4e1ef5eb81581e00f7bc4e47c6a741a/303_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=8d25cb1d8f981f5d05abc8909541143e"
+    },
+    {
+     "title": "Andy Burnham says government will unveil 10-year plan by mid-December",
+     "url": "https://www.theguardian.com/politics/2026/nov/11/andy-burnham-says-government-will-unveil-10-year-plan-by-mid-december",
+     "source": "The Guardian",
+     "published": "2026-11-11T14:17:02+00:00",
+     "summary": "Prime minister tells Kemi Badenoch at PMQs that flagship strategy will be revealed before Commons Christmas recessUK politics live \u2013 latest updatesThe government\u2019s 10-year plan wil",
+     "image": "https://i.guim.co.uk/img/media/d66cb17c1e85a36b783a55a18752add45fc436b4/582_0_1875_1501/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=a45d49df436421af5d14161dc09afa5f"
+    },
     {
      "title": "British man who died in Krak\u00f3w shooting named as James Campbell",
      "url": "https://www.theguardian.com/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell",
      "source": "The Guardian",
      "published": "2026-11-11T14:13:54+00:00",
      "summary": "Campbell, 32, from Prestwick, South Ayrshire, was one of six people killed in the 7 November attack in Polish cityThe British man who died in a shooting in Krak\u00f3w has been named as",
-     "image": "https://i.guim.co.uk/img/media/93404fb76ce530ea854003d63b0c83ddb4a249ac/420_0_5002_4002/master/5002.jpg?width=140&quality=85&auto=format&fit=max&s=e8ccd7163e5058a7b72ecd18eeee4f8a"
-    },
-    {
-     "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-11T14:13:25+00:00",
-     "summary": "US negotiators to meet Putin in Moscow, Zelenskyy in Dublin nextSeparately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving",
-     "image": "https://i.guim.co.uk/img/media/9ea491e2eb2440edbdf11e08147b7a5a43b45d81/642_0_4516_3612/master/4516.jpg?width=140&quality=85&auto=format&fit=max&s=22a601d0a648034bcb6a7c8532d1842d"
-    },
-    {
-     "title": "Andy Burnham says government will unveil 10-year plan by mid-December",
-     "url": "https://www.theguardian.com/politics/2026/nov/11/andy-burnham-says-government-will-unveil-10-year-plan-by-mid-december",
-     "source": "The Guardian",
-     "published": "2026-11-11T14:12:14+00:00",
-     "summary": "Prime minister tells Kemi Badenoch at PMQs that flagship strategy will be revealed before Commons Christmas recessThe government\u2019s 10-year plan will emerge by mid-December, Andy Bu",
-     "image": "https://i.guim.co.uk/img/media/d66cb17c1e85a36b783a55a18752add45fc436b4/582_0_1875_1501/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=a45d49df436421af5d14161dc09afa5f"
+     "image": "https://i.guim.co.uk/img/media/59de695daf55bdb67f14ba4e1c400dd5d408188d/0_228_833_666/master/833.jpg?width=140&quality=85&auto=format&fit=max&s=74992a7194d0784a074fbb13a5438d1e"
     },
     {
      "title": "Rubio backs blockade, Vance wants deal: Is Trump\u2019s team split on Iran war?",
@@ -46,28 +86,28 @@
      "image": ""
     },
     {
-     "title": "Burnham indicates backing for \u2018black English\u2019 and \u2018Asian English\u2019 census options \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-11T14:06:01+00:00",
-     "summary": "PM, in response to Ed Davey at PMQs, says measures could help address \u2018poisonous politics\u2019Here are some more comments on the report for the Casey commission released today looking ",
-     "image": "https://i.guim.co.uk/img/media/d66cb17c1e85a36b783a55a18752add45fc436b4/315_0_1875_1501/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=936635555ea57c7071e9ecbe8ae1104c"
+     "title": "Spain sees widespread disruption in first general strike for 14 years",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T14:06:27+00:00",
+     "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
     },
     {
-     "title": "As Gaza floods subside, Palestinians assess human and material damage",
+     "title": "Behind Georges Larnicol's creative spin on Breton specialty kouign-amann",
+     "url": "https://www.france24.com/en/tv-shows/entre-nous/20261111-tt-behind-georges-larnicol-s-creative-spin-on-kouign-amann",
+     "source": "France 24",
+     "published": "2026-11-11T14:05:35+00:00",
+     "summary": "From a traditional Breton specialty to an imaginative, bite-sized creation, in Entre Nous we explore how French pastry chef Georges Larnicol has reinvented the famous kouign-amann ",
+     "image": "https://s.france24.com/media/display/eb9e2f64-ddd4-11f1-a7f6-3f371022a770/w:1024/p:16x9/capture-274a931e.jpg"
+    },
+    {
+     "title": "\u2018Our neighbours are gone\u2019: Gaza survivors recount horrors of deadly floods",
      "url": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-11T14:04:17+00:00",
      "summary": "A deadly sandbank collapse buried families alive in Deir el-Balah, as survivors describe desperate rescue attempts.",
      "image": ""
-    },
-    {
-     "title": "GOP branded \u2018sinking ship\u2019 as Republicans block efforts to impeach Hegseth \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-11T14:03:18+00:00",
-     "summary": "Trump hails \u2018exoneration of a Great American Patriot\u2019 as moves against his defense secretary fail for nowHouse Republicans block effort to impeach HegsethSign up for the US Breakin",
-     "image": "https://i.guim.co.uk/img/media/b7838838f4e1ef5eb81581e00f7bc4e47c6a741a/303_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=8d25cb1d8f981f5d05abc8909541143e"
     },
     {
      "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
@@ -76,60 +116,68 @@
      "published": "2026-11-11T14:00:52+00:00",
      "summary": "Tom\u00e1s Beltr\u00e1n was shot dead amid gang warfare that has turned Latin American country into one of its most violentTom\u00e1s Beltr\u00e1n was manoeuvring his car into his garage on Sunday nig",
      "image": "https://i.guim.co.uk/img/media/6f25de25053fd56e3197670b730755eb201a7b05/136_0_623_498/master/623.jpg?width=140&quality=85&auto=format&fit=max&s=035f022779b1a8960d2d4f55c75113f5"
-    },
-    {
-     "title": "First Covid lockdowns, then alcohol to your door: rise in young Victorians with liver diseases prompts fears",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/12/first-covid-lockdowns-then-alcohol-to-your-door-rise-in-young-victorians-with-liver-diseases-prompts-fears",
-     "source": "The Guardian",
-     "published": "2026-11-11T14:00:51+00:00",
-     "summary": "While young people are drinking less across the board, one expert says a small minority are actually drinking huge and damaging amounts of alcoholGet our breaking news email, free ",
-     "image": "https://i.guim.co.uk/img/media/e70ddfb93e13ed4b04348a3255ec1ec10fbd12e0/1000_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=2e833339e812833020c19d823d3e4d85"
-    },
-    {
-     "title": "\u2018We were quite surprised\u2019: Finland\u2019s embassy goes viral with staff training day post on Instagram",
-     "url": "https://www.theguardian.com/media/2026/nov/11/we-were-quite-surprised-finlands-embassy-goes-viral-with-staff-training-day-post-on-instagram",
-     "source": "The Guardian",
-     "published": "2026-11-11T14:00:50+00:00",
-     "summary": "After a promotion for a \u2018Finnish Dinner Date\u2019 went \u2018a bit viral\u2019, the Canberra envoy\u2019s next post became an unlikely social media hitGet our daily political email, free app or daily",
-     "image": "https://i.guim.co.uk/img/media/0d587148330817c287fd1f576b30becb0b9db234/1244_444_1242_994/master/1242.jpg?width=140&quality=85&auto=format&fit=max&s=1aa260538e5975c06b1564bb3f90920f"
-    },
-    {
-     "title": "Anthony Albanese fails to mention fossil fuels in Cop summit speech",
-     "url": "https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech",
-     "source": "The Guardian",
-     "published": "2026-11-11T13:57:22+00:00",
-     "summary": "Australian PM boasts of success in renewables but is criticised for not addressing the nation\u2019s huge coal industryGet our breaking news email, free app or daily news podcastAnthony",
-     "image": "https://i.guim.co.uk/img/media/b76a5592bc9963a52305663502663562022a27c0/851_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c0aabba31d1edf9247aa7f3b641a5e8e"
-    },
-    {
-     "title": "Why is Pochettino the favourite to replace Carrick at Manchester United?",
-     "url": "https://www.aljazeera.com/sports/2026/11/11/why-is-pochettino-the-favourite-to-replace-carrick-at-manchester-united?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T13:56:53+00:00",
-     "summary": "What would Mauricio Pochettino bring to the job if he replaces Michael Carrick in the Old Trafford hot seat?",
-     "image": ""
-    },
-    {
-     "title": "Millions join Spain\u2019s first general strike in 14 years in protest at rising housing costs",
-     "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-     "source": "The Guardian",
-     "published": "2026-11-11T13:54:36+00:00",
-     "summary": "The 24-hour stoppage has drawn high participation across sectors and comes weeks before election in which far right could gain powerMillions of people across Spain have joined the ",
-     "image": "https://i.guim.co.uk/img/media/e4af29620a5814814f978cf7c4c77fa08bb7b3bf/882_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40565800b96c7bab5f37d45c2d627eb6"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-11T14:23:40.110990+00:00",
+   "fetched_at": "2026-11-11T14:53:43.839446+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T14:51:26+00:00",
+     "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
+    },
+    {
+     "title": "A warrior poet shares her views on the Russia-Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcml4Q0pqVkd3YTd6aEliOThHdlhfblJWUUw5NE8xRFdsWW1pVDh2a25xWjgwdGlrdl8xSnU5TGNaNEFndlBUOEVCaUdNSDBSYVozNTRaeTBUMkZyY0pQYl9zOFQ0S1NJS0JsZk9ST2ZfWEFjbUExSGFpMUM1TU9xOWM0eENnSjZtMUdXazhIVFA2b0JqUUQ5akVsQnDSAZ8BQVVfeXFMT1hBRjFTYUZJdjJvYURYbjc3eGlVRkZRal9CUnhsR3VPVFotS250M2hHWDhMcVR6eW9FNHN0Ri1fYzhnc0lHX3ZaNFpzUVBRb0prNVNsZUJwa0hqdzMxU1lSakZDNTlWaEdRdUIzSjZraUROVjJwbGd3Mm9GazlSQzI3TnQ3NGZ4c1ZIYnR5Z2VYTUZGc3JnVE1yOEtQOW1z?oc=5",
+     "source": "VOA - Voice of America English News",
+     "published": "2026-11-11T14:47:48+00:00",
+     "summary": "A warrior poet shares her views on the Russia-Ukraine war&nbsp;&nbsp;VOA - Voice of America English News",
+     "image": ""
+    },
     {
      "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
      "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-11T14:13:25+00:00",
+     "published": "2026-11-11T14:44:40+00:00",
      "summary": "US negotiators to meet Putin in Moscow, Zelenskyy in Dublin nextSeparately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving",
      "image": "https://i.guim.co.uk/img/media/9ea491e2eb2440edbdf11e08147b7a5a43b45d81/642_0_4516_3612/master/4516.jpg?width=140&quality=85&auto=format&fit=max&s=22a601d0a648034bcb6a7c8532d1842d"
+    },
+    {
+     "title": "US envoys Witkoff, Kushner to meet Putin after Ukraine talks in Abu Dhabi, Zelenskyy next",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNnlSX0YwM0JSQWFxQnpKOFlVMkNWT2s5WlpFSGlURjdHcThMS2hoRm8xOUdDNDNrOTJGYXNhcmUyYVdIT1ljUHhPOUNtTVJCdGVabVpRSk45Q09BZjVNTHEzSHhOX1pKa1JkTWM0TXRLMFZsQS1VYm1wTnNvYzB5eXprbHlHaWZYZ1N1cEQ3UjgyVm1ONHF1NkZyZTM3dl91UlRYVXZ2b1RmVTBuVVdYTldoaXRnWTJGdjRtX0FwdVFiekMxZ2V3Ul9qeThrd9IB0wFBVV95cUxOa3pqNXNDY2JydWtJbThza3RKRnM2Sy1oUGROcGNZQjF5T1gxSWtrODJpdkR2MzJRZGdjcl9xckZtZlNmMGw3TmdqdTFOZGZnUUpOQlJ2TlViaUpfeVc3Q2NYcnRIWHZIZFFBWTVjV2xXZ1BVaFpWRjFUUXVwOHk2RGV3UEIxakJvVk1DbEwweDlJby10b25Yd0VPTExGMUNzbTBJQW9aUkg0RVBCdmR1LWxjdXRTQVNUMjh5MG1OYkUyb0N3UEJVZF9MOWVsY0pydG5j?oc=5",
+     "source": "Firstpost",
+     "published": "2026-11-11T14:38:58+00:00",
+     "summary": "US envoys Witkoff, Kushner to meet Putin after Ukraine talks in Abu Dhabi, Zelenskyy next&nbsp;&nbsp;Firstpost",
+     "image": ""
+    },
+    {
+     "title": "Ukraine frontline mapped: The land in dispute as peace talks end without breakthrough",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmJETm9VTFROR0VOeHM5UmRkY0xPR1lHdDEySlY1Zi1lbzdsLUJ0N0JqVV8zTERZdGkwRGFqSWVhYjlFZ3ZhR0xkOFVPYW5YQ0EyaEZ1S0lUVGZzbEd4WlBHejlrN2h5SG44X3pwV0lGVjNHNW1RRVBGMW1DdDMyOEh3d0NoeTFOUG5sRF9PbWx2OHJ0eWtTVTJySHFDeldXbDVpQnMwX0MyOEdh?oc=5",
+     "source": "The Independent",
+     "published": "2026-11-11T14:38:00+00:00",
+     "summary": "Ukraine frontline mapped: The land in dispute as peace talks end without breakthrough&nbsp;&nbsp;The Independent",
+     "image": ""
+    },
+    {
+     "title": "War of propaganda: Russia calls Ukraine a \u2018burden\u2019 and uses Moldova as a \u2018testing ground\u2019 to sabotage EU enlargement",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWZLR05zUHJ5WDVLa0hXZDV1My1KT2QteXdBOWtxLWZ2c3I4MFh3XzJ0SjFMMGFBRFVoU1Bab25LbmNTb2R6NmV0UWJySkF3WnFtWTBOMEVrVUcza2RXX2kxUC0zSzBYZ3Bpck9BSkdxNEtwS2RjWExETi1ia3Y4Y01sZU0tZWoyUGUwUVk3RnVaWWhXbkJwSklyeDNUT0JOclAtM3FDVFRodEs0QjlzcFA4RHdtYkZ0VzVTbF9iVFU3SU1MRFpkQ1U4RWlodXpDLWVCdTBIY3U0UQ?oc=5",
+     "source": "EUobserver",
+     "published": "2026-11-11T14:32:04+00:00",
+     "summary": "War of propaganda: Russia calls Ukraine a \u2018burden\u2019 and uses Moldova as a \u2018testing ground\u2019 to sabotage EU enlargement&nbsp;&nbsp;EUobserver",
+     "image": ""
+    },
+    {
+     "title": "First talks about EU envoy on Ukraine war to dominate Dublin summits",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHJycjlNa1lwTV9RaUttcnJMY1RIX1Jsb3h2MWVYazZ6REZhYTVxN0ZtcVBQd3dSaUhJQjVfMUROUVBHLV9nNWYxSnIxdm1qdGo0S2ZROGVMXzhhb1ZhNkl1Q2RVcFpMN2U1b1FqRjNmSWVUVkFmS0pKQUJQbU5reHVFRzVnVkNzTExIbkQycEprOVFJeHdKQ2xuYUx6OWJj?oc=5",
+     "source": "EUobserver",
+     "published": "2026-11-11T14:26:56+00:00",
+     "summary": "First talks about EU envoy on Ukraine war to dominate Dublin summits&nbsp;&nbsp;EUobserver",
+     "image": ""
     },
     {
      "title": "Rubio backs blockade, Vance wants deal: Is Trump\u2019s team split on Iran war?",
@@ -140,7 +188,7 @@
      "image": ""
     },
     {
-     "title": "As Gaza floods subside, Palestinians assess human and material damage",
+     "title": "\u2018Our neighbours are gone\u2019: Gaza survivors recount horrors of deadly floods",
      "url": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-11T14:04:17+00:00",
@@ -156,75 +204,59 @@
      "image": "https://i.guim.co.uk/img/media/6f25de25053fd56e3197670b730755eb201a7b05/136_0_623_498/master/623.jpg?width=140&quality=85&auto=format&fit=max&s=035f022779b1a8960d2d4f55c75113f5"
     },
     {
+     "title": "Letters to the Editor: Russia\u2019s war on Ukraine would be over by now if it weren\u2019t for Trump",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTktYSXhLYVJpaFZwYk10VmFxV0JhSWdJM0FwdVlDVjBUSXA2LTBVYVpDVlNjOXVJN1BLZnpNaTJCdUd4bU1hRW5ReUQwMUhBZGd4X2szOFpvM2U3TTViUnU0VjJMZ3R5b2RNdExjMjVXakNGVnlhRnRTM0h0R25la1dTZk5uQzFHVnNtYmpSQTZKanNHUFJYZ3VhZG1ZUQ?oc=5",
+     "source": "Los Angeles Times",
+     "published": "2026-11-11T14:00:00+00:00",
+     "summary": "Letters to the Editor: Russia\u2019s war on Ukraine would be over by now if it weren\u2019t for Trump&nbsp;&nbsp;Los Angeles Times",
+     "image": ""
+    },
+    {
      "title": "Germany says Ukraine war must end before broader security talks with Russia",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkhEbGVvVElIaV9qZ1lLQmctYVZRb1FqcFVpNFYyeTlzdkZES2lEVHl1bkkzN25UdklveEdJbG1SX21ma0c5dWNRa01sVnBsZTRsN2Qya3RqM1NRbTBGc0tnOU5SR3ZFb2k2OHNIN0pXQUNYVVBsTHhnWmFaS0xYaEJjLW5DbUMyVmpGSVZ1RFVWSE1qaHFEQ2FxYXhnWFpNSkdPc0JTTTdqOHJ5ekhXQU5Hbl8?oc=5",
      "source": "Arab News",
      "published": "2026-11-11T13:51:42+00:00",
      "summary": "Germany says Ukraine war must end before broader security talks with Russia&nbsp;&nbsp;Arab News",
      "image": ""
-    },
-    {
-     "title": "War in Ukraine excluded from possible topics for talks between Xi, Trump and Putin",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlVTYnNnZEE4cFFiRlBUY2Vkb1BsaFhRN3FSUkVBR1Jia2lIdlpob3E4OXBNRG1NYnhmbHd5emdRZEQxbmlDLVNBQUNRdXliclUySGcybUVhTHlORTRJZVJtbHEzVzJMUEVtSS0wWlJzSDJ1Q3kzZk5VNWNoXzd5X1hJT2hVYXZINC1Tb0F3OTExdFB1Xzcw?oc=5",
-     "source": "\u0426\u0435\u043d\u0437\u043e\u0440.\u041d\u0415\u0422",
-     "published": "2026-11-11T13:39:00+00:00",
-     "summary": "War in Ukraine excluded from possible topics for talks between Xi, Trump and Putin&nbsp;&nbsp;\u0426\u0435\u043d\u0437\u043e\u0440.\u041d\u0415\u0422",
-     "image": ""
-    },
-    {
-     "title": "US envoys head for Moscow as trilateral talks on Ukraine war end | Daily Sabah",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWYxTVhZTGJxQVFXN29UdEItVXFUM2I1X2tjVjNrTG9sZHJFTG50Uk1iOHI1bEoySERZMTF4bHFCWkVBbWQzVFA0T0d1c1BETEp0UVI2NVEtZ2tXS1pscGRIWEcxdWl1Sms0N0FXbGJpYk5uZm5jZjdGcmNhQ3lPSlBTZHRLUDRWS0NnOVdvWkhvT3ZCWmdXRXNvT3owYUFsbGlmWk51RdIBrAFBVV95cUxPdlo4Wl83amkwU28wVl8yd1RQSW5yampNUXJ5bGE4Z3lQOTZvU3FtS1o1OHBYcWhlZWZCN2tFVGpHVUt3Q0w5cWJibnZCcWJlblNYaDhkRlVSa2JPZGdNLTFxODA5RktoQndtYXc0cG0tc3FSVlFxMW1XSTh2QkNGMWhKR3R0SC1RbUNSdHd5WlRlY3ZBUG1YdnlNaUhBeFFjdVdUSDF6ZjMxdm9S?oc=5",
-     "source": "Daily Sabah",
-     "published": "2026-11-11T13:33:14+00:00",
-     "summary": "US envoys head for Moscow as trilateral talks on Ukraine war end | Daily Sabah&nbsp;&nbsp;Daily Sabah",
-     "image": ""
-    },
-    {
-     "title": "Diesel still costing close to a \u2019dismal\u2019 \u00a32 a litre despite oil price falls",
-     "url": "https://www.theguardian.com/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
-     "source": "The Guardian",
-     "published": "2026-11-11T13:30:27+00:00",
-     "summary": "Pump prices stay stubbornly high as leading bank official warns energy costs are likely to remain \u2018elevated\u2019Business live \u2013 latest updatesThe price of diesel on UK forecourts remai",
-     "image": "https://i.guim.co.uk/img/media/a3b6efb7a45493419a7348742867970768961b52/1031_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=fa5585d6aad6696149d1931aa96d2c0e"
-    },
-    {
-     "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84SXNzaE0wLTZtQjFpZUp3Y2ZkZEtyZVFwQmpyVU9FTDZLR1N5YUJRSjF3R1drZUpfT1pveEdHZVdMZDFPQThlak1oYlpOaHFiT2RIMVh3ZDZZOGNWWFVGM3FmNEs5V1VhMTAzNV9TN3dGVjFId1E?oc=5",
-     "source": "NPR",
-     "published": "2026-11-11T13:30:00+00:00",
-     "summary": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-     "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-11T13:25:47+00:00",
-     "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg"
-    },
-    {
-     "title": "Ukraine War, Day 1,721: Zelensky \u2014 \u201cHappy\u201d with US Change in Russia Talks",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmFQS3BHMTVoUDZYRGdURnZaLTJucnNYcENNSURWQzg2Rmd2UTF3TVZMLVBVcXVwM2Z0NV9rcjJCaGNEZ0xKZHZBcGRQMlBBcjRuV2pLVmpMeWMtNE8zWVNuQXdvd0JHclVOV3Q4YXJ5cmY4SXV6czdnWGpLck1OLUcwamRrT2dWUlFwMXVmUWVOWFZ4?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-11T13:23:45+00:00",
-     "summary": "Ukraine War, Day 1,721: Zelensky \u2014 \u201cHappy\u201d with US Change in Russia Talks&nbsp;&nbsp;EA WorldView",
-     "image": ""
-    },
-    {
-     "title": "Russia and Ukraine agree to a large prisoner exchange as talks conclude with no major breakthrough",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5",
-     "source": "AP News",
-     "published": "2026-11-11T13:20:00+00:00",
-     "summary": "Russia and Ukraine agree to a large prisoner exchange as talks conclude with no major breakthrough&nbsp;&nbsp;AP News",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-11T14:23:40.110994+00:00",
+   "fetched_at": "2026-11-11T14:53:43.839450+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Mississippi U.S. Senate Election Live Results 2026",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40QzF6VWVSbVp6Zkx1Q0I1OGU4aG5UVTdmMDM5UTdIVTNDd0t5RmJ1RHUxVW9DMmVialI4TWxCMERpUy1pTk1la01IS1ZVdFJJUnJGNmdBX29GU2M5ZlVqaDJ5VFctbUZtRXpLbVlpNGlYNDdkdkM0UEhod0Jmdw?oc=5",
+     "source": "AP News",
+     "published": "2026-11-11T14:49:15+00:00",
+     "summary": "Mississippi U.S. Senate Election Live Results 2026&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "Newmark Scholar Malachi Seib",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzhUWEFPd1lxQVdmZFFvdm84RkFjNlpzbGVkVEE0S3JyU1ZPWTBZZWlaWnJQTGg1YUxmT19qS2ZISWdjdzFVaFV3LUtfSzdHSXZOdEd5aWdlakFmU2ZuQkI4N0ZzQVJBaE16d3otMl92Zy1KME1LVFVNU2loN0ZBbFp3?oc=5",
+     "source": "McCourt School of Public Policy - Georgetown University",
+     "published": "2026-11-11T14:45:03+00:00",
+     "summary": "Newmark Scholar Malachi Seib&nbsp;&nbsp;McCourt School of Public Policy - Georgetown University",
+     "image": ""
+    },
+    {
+     "title": "EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUdNOXVnNXI2X2xlbEQ4UGtYck5xSTN6OXRqSVpTSHMySlI0NjhXa3VRbWFUQk4zNDhBMk43elprQ3dPcGd5SG1SeHFnanBkd3ZTNHZ0N2NlRlBDTGg5Q2FwbGN5SnR6R1V6TmtpUzBfbWlueUVsZlYwRUlYRHl4V0ZBbkZOcEQzUTZiLUlsVkI1aWZhTllBbDJSVm90UnBJTHVQdVpsb2xHMDBEUnZKWm5POFBGaktZYWJHUkx6dExGNHh0QW5acVVEVUY?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-11T14:29:08+00:00",
+     "summary": "EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Viewpoint \u2013 Mark Beckwith: A post-election reflection: Celebration of diversity",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZlJZdHJoU2w0aTBNeGowSkhNOHo0WmZmVHRXTE9SX1dJdEwweW5sSk1oazVsUWR0bXJid0owcUpmb2pITml1Tm1KOThycmp1eDVLOVEyVGJoOFNYWHc3RjkwcWdfNXh4MmEwZ0FhUXktZDVuU25UXzB6akVKRlQyYkpfMkFrcFJIREcwck5jLWZSTnVaTG1Ra0EwOEZpT3RBYUN6alhvNlZFTm5waFhRVzhwRVBUSE0?oc=5",
+     "source": "Monadnock Ledger-Transcript",
+     "published": "2026-11-11T14:25:00+00:00",
+     "summary": "Viewpoint \u2013 Mark Beckwith: A post-election reflection: Celebration of diversity&nbsp;&nbsp;Monadnock Ledger-Transcript",
+     "image": ""
+    },
     {
      "title": "What a Democratic Congress is Likely to do on Foreign Policy",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczNGM3diSm0zOGc0WjEzcHNfcG1RajFhd0hHbGVXN3NiTy1XTGUyUzkwM2ZOTnBhaVVLekE1NWpqaTZUN1JDX2JvMFpXaGpsMjJpdlFZWUVJbEZRLUFsS0dMd3RfSW1xUTVKSzJiQmcyZ2l1ZzhBMkpjanYtcHJNcG5BaXBfS0Zr?oc=5",
@@ -234,20 +266,20 @@
      "image": ""
     },
     {
-     "title": "What Connecticut\u2019s Election Results Could Mean for Employers",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeFprdksyVGgxaDZGQVBxTll2QkZaa2ZuTk5ON1c3SEJTRktrazNzUE5fWWg2SDQ4MHZtZnVUdXlnbVZrUlE0bldxSnRrS1IzVEZweW9BV0ZiYTNFNnJFMVFmUEVwOXR4bWs0RlNUcDEyLWtzSmJjWXREeGkySHQyUktMVzhQVnM?oc=5",
-     "source": "CBIA",
-     "published": "2026-11-11T14:16:21+00:00",
-     "summary": "What Connecticut\u2019s Election Results Could Mean for Employers&nbsp;&nbsp;CBIA",
-     "image": ""
-    },
-    {
      "title": "Andy Burnham says government will unveil 10-year plan by mid-December",
      "url": "https://www.theguardian.com/politics/2026/nov/11/andy-burnham-says-government-will-unveil-10-year-plan-by-mid-december",
      "source": "The Guardian",
-     "published": "2026-11-11T14:12:14+00:00",
-     "summary": "Prime minister tells Kemi Badenoch at PMQs that flagship strategy will be revealed before Commons Christmas recessThe government\u2019s 10-year plan will emerge by mid-December, Andy Bu",
+     "published": "2026-11-11T14:17:02+00:00",
+     "summary": "Prime minister tells Kemi Badenoch at PMQs that flagship strategy will be revealed before Commons Christmas recessUK politics live \u2013 latest updatesThe government\u2019s 10-year plan wil",
      "image": "https://i.guim.co.uk/img/media/d66cb17c1e85a36b783a55a18752add45fc436b4/582_0_1875_1501/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=a45d49df436421af5d14161dc09afa5f"
+    },
+    {
+     "title": "What Connecticut\u2019s Election Results Could Mean for Employers",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeFprdksyVGgxaDZGQVBxTll2QkZaa2ZuTk5ON1c3SEJTRktrazNzUE5fWWg2SDQ4MHZtZnVUdXlnbVZrUlE0bldxSnRrS1IzVEZweW9BV0ZiYTNFNnJFMVFmUEVwOXR4bWs0RlNUcDEyLWtzSmJjWXREeGkySHQyUktMVzhQVnM?oc=5",
+     "source": "CBIA",
+     "published": "2026-11-11T14:15:55+00:00",
+     "summary": "What Connecticut\u2019s Election Results Could Mean for Employers&nbsp;&nbsp;CBIA",
+     "image": ""
     },
     {
      "title": "Sen. Tim Scott, Sen.-elect Annie Andrews meet on Capitol Hill after election",
@@ -274,61 +306,29 @@
      "image": ""
     },
     {
+     "title": "Spain sees widespread disruption in first general strike for 14 years",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-11T14:06:27+00:00",
+     "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
+    },
+    {
      "title": "Migration and migration policy: a global overview",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDNHMElDY3JKV0hIUnpFTkhERktkZ1pCQ1lVSHRIbHVhZTJqTjJlYVFFSjRfYkNSd3VRZkhxTUxxTVlUQTk3V3RsT3dsVDcyYXVOdHQxSG5FcXcyS3lNdHpfRlhsbThGUEI2NHhOU0M1c29ocG8zak9aMTV1RThDZDVXTGNySXpwQ1c4ZU9oM2Z6MjlHa0d6dlZmcjNicjFwNjQ3R0VFV1FHQl9YMHJYX2N6VGRKVjJIUW9SemdZNjVncU1UWUxrRm5rX0RUeEU?oc=5",
      "source": "CaixaBank Research",
      "published": "2026-11-11T14:05:07+00:00",
      "summary": "Migration and migration policy: a global overview&nbsp;&nbsp;CaixaBank Research",
      "image": ""
-    },
-    {
-     "title": "Anthony Albanese fails to mention fossil fuels in Cop summit speech",
-     "url": "https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech",
-     "source": "The Guardian",
-     "published": "2026-11-11T13:57:22+00:00",
-     "summary": "Australian PM boasts of success in renewables but is criticised for not addressing the nation\u2019s huge coal industryGet our breaking news email, free app or daily news podcastAnthony",
-     "image": "https://i.guim.co.uk/img/media/b76a5592bc9963a52305663502663562022a27c0/851_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c0aabba31d1edf9247aa7f3b641a5e8e"
-    },
-    {
-     "title": "Millions join Spain\u2019s first general strike in 14 years in protest at rising housing costs",
-     "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-     "source": "The Guardian",
-     "published": "2026-11-11T13:54:36+00:00",
-     "summary": "The 24-hour stoppage has drawn high participation across sectors and comes weeks before election in which far right could gain powerMillions of people across Spain have joined the ",
-     "image": "https://i.guim.co.uk/img/media/e4af29620a5814814f978cf7c4c77fa08bb7b3bf/882_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40565800b96c7bab5f37d45c2d627eb6"
-    },
-    {
-     "title": "Niwot Election Commission reports incorporation defeat to court",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2p1VnNqQUg0TnZhQ3JDaVhxTlBucExRZTZHaXlqZWRVS2RPUUNHM1NPY1BuN01yZjR6R2tjS3NwZl9kSWpWei1WVVpDY0o2ZTVBSTRyX1AtVzh3SmNtUkVhcHVEdVM4ZzRzaWV5b3BpUnZLZVk3N0hMc1QtbFFpRWd1YlFxWmhRUllqQTJtVHFCcUhYTUpJUFF6cnlfR3ZxM2tHSF9NZnFDX2hkQ0c1YUVuNEFSS2Fl?oc=5",
-     "source": "Left Hand Valley Courier",
-     "published": "2026-11-11T13:49:00+00:00",
-     "summary": "Niwot Election Commission reports incorporation defeat to court&nbsp;&nbsp;Left Hand Valley Courier",
-     "image": ""
-    },
-    {
-     "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWlqWlVLM3AwUmhNN3gwV3FfNVlFTGZuelVaT0JWNVVGazJfRDFQeUZlOFlzMDRzQkVaTFB0T1h5d3VMX1czc1RlMmVSSzhVaHlZLWdBX3M4eUxjX0hVUThEVWNBdFRCd0N0QUhvd05wT21hVEotTTloY1RLd1Y4Tkh5Y2NXd0NPbTR5SmF1NzJwM1YwSkJNLVI1b2YyY0NVTU5IaUxZV242VUU5V3ZfRnJzZ2wxYUtmemE0?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-11T13:23:39+00:00",
-     "summary": "Brazil electoral court fines Meta, sees no deliberate election bias&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Trump \u2018Foot Soldier\u2019 statue mocks his Vietnam draft deferment",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/trump-foot-soldier-statue-mocks-his-vietnam-draft-deferment?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T13:20:49+00:00",
-     "summary": "An anonymous art collective called Secret Handshake has installed a golden statue of US President Donald Trump.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-11T14:23:40.110997+00:00",
+   "fetched_at": "2026-11-11T14:53:43.839453+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Diesel still costing close to a \u2019dismal\u2019 \u00a32 a litre despite oil price falls",
+     "title": "Diesel still costing close to a \u2018dismal\u2019 \u00a32 a litre despite oil price falls",
      "url": "https://www.theguardian.com/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
      "source": "The Guardian",
      "published": "2026-11-11T13:30:27+00:00",
