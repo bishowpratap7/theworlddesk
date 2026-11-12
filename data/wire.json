@@ -1,135 +1,105 @@
 {
- "generated_at": "2026-11-12T15:57:41.328572+00:00",
+ "generated_at": "2026-11-12T16:27:45.171292+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T15:57:41.328542+00:00",
+   "fetched_at": "2026-11-12T16:27:45.171266+00:00",
    "stale": false,
    "items": [
     {
-     "title": "US Defence Secretary Pete Hegseth reprimanded at war memorial",
-     "url": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-reprimanded-at-war-memorial",
-     "source": "France 24",
-     "published": "2026-11-12T15:51:49+00:00",
-     "summary": "US Defence Secretary Pete Hegseth, along with his wife and aides, was silenced by a guard on Wednesday at the Tomb of the Unknown Soldier. Hegseth's group was at Arlington National",
-     "image": "https://s.france24.com/media/display/f4a303f6-deaf-11f1-971a-29048b396e03/w:1024/p:16x9/Title-Hegseth-vid.jpeg"
+     "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
+     "url": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
+     "source": "\u00a9 Ramadan Abed, Reuters",
+     "published": "2026-11-12T16:18:24+00:00",
+     "summary": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the ",
+     "image": "https://s.france24.com/media/display/2915f31c-dead-11f1-ba4a-695cb59fade5/w:1024/p:16x9/2026-11-12T043325Z-1772503551-RC23MOA2UKYO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg"
+    },
+    {
+     "title": "\u2018A second chance\u2019: children guilty of serious offences will no longer have to declare criminal records",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour",
+     "source": "The Guardian",
+     "published": "2026-11-12T16:11:59+00:00",
+     "summary": "Government proposal aims to reduce number of children in custody in England and Wales and boost youth employmentChildren found guilty of robbery, dealing drugs to other children or",
+     "image": "https://i.guim.co.uk/img/media/636709dcaefa97559bd1b10f630e7d0145ad1da5/0_1332_2030_1623/master/2030.jpg?width=140&quality=85&auto=format&fit=max&s=32f54447dd02f4200cc9d97eeceaa87d"
+    },
+    {
+     "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-12T16:11:32+00:00",
+     "summary": "US envoy Steve Witkoff\u2019s announcement come after his talks with Putin in MoscowLuxembourg\u2019s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux count",
+     "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82"
     },
     {
      "title": "Washington DC shooting latest updates: one person killed and four injured, police confirm",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
      "source": "The Guardian",
-     "published": "2026-11-12T15:49:40+00:00",
+     "published": "2026-11-12T16:08:55+00:00",
      "summary": "Police say suspect is contained after suffering a gunshot wound. The suspect\u2019s status has not been confirmedMultiple people shot in Washington DC as police warn people to stay insi",
      "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
     },
     {
-     "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+     "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T16:07:16+00:00",
+     "summary": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
+     "image": ""
+    },
+    {
+     "title": "One dead and four injured in Washington DC shooting, with suspect contained",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
      "source": "The Guardian",
-     "published": "2026-11-12T15:49:15+00:00",
-     "summary": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targetsOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a pr",
-     "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34"
+     "published": "2026-11-12T16:04:11+00:00",
+     "summary": "Authorities identify suspect as \u2018white male\u2019 who was a member at VIDA Fitness, the gym where people were shot Washington DC shooting latest updatesFour people were injured and one ",
+     "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be"
     },
     {
-     "title": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine\u2019s military again - Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-12T15:47:53+00:00",
-     "summary": "Restrictions to Starshield \u2018directly affect our ability to intercept Russian jet powered drones\u2019, Ukraine\u2019s president saysLuxembourg\u2019s PM Luc Frieden looks to be absolutely chuffed",
-     "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang resigns after revelations on extramarital affairs",
-     "url": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-resigns-after-revelations-on-extramarital-affairs",
-     "source": "France 24",
-     "published": "2026-11-12T15:46:08+00:00",
-     "summary": "Jensen Huang resigned as chief executive of AI giant Nvidia on Thursday, November 12, after revelations he had two extramarital affairs, including one with a woman accused of spyin",
-     "image": "https://s.france24.com/media/display/81e0e920-dea8-11f1-b25e-29048b396e03/w:1024/p:16x9/capture-6e42fb5f.jpg"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang steps down",
-     "url": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-steps-down",
-     "source": "France 24",
-     "published": "2026-11-12T15:45:53+00:00",
-     "summary": "Nvidia CEO Jensen Huang resigned Thursday after his extramarital affair raised national security concerns, in a spectacular downfall for the longtime head of the chipmaker, a vital",
-     "image": "https://s.france24.com/media/display/13c71ad6-dead-11f1-9eba-f71d22e7fea9/w:1024/p:16x9/EN-20261112-160251-160416-CS.jpg"
-    },
-    {
-     "title": "European security and Ukraine talks top agenda at Dublin summit",
-     "url": "https://www.france24.com/en/video/20261112-european-security-and-ukraine-talks-top-agenda-at-dublin-summit",
-     "source": "France 24",
-     "published": "2026-11-12T15:44:56+00:00",
-     "summary": "Leaders from more than 50 European countries and institutions are gathering in Dublin for the European Political Community summit, hosted by Ireland under the theme \u201cEurope \u2013 stron",
-     "image": "https://s.france24.com/media/display/010d6538-deaf-11f1-901c-695cb59fade5/w:1024/p:16x9/EN-20261112-161451-162018-CS.jpg"
+     "title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
+     "url": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
+     "source": "\u00a9 Observers",
+     "published": "2026-11-12T16:03:26+00:00",
+     "summary": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar a",
+     "image": "https://s.france24.com/media/display/84498144-dea4-11f1-ad4b-3f371022a770/w:1024/p:16x9/fat-main-photo.jpg"
     },
     {
      "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis \u2013 follow live",
      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
      "source": "The Guardian",
-     "published": "2026-11-12T15:43:01+00:00",
+     "published": "2026-11-12T16:02:50+00:00",
      "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boomToo big \u2013 and t",
      "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec"
-    },
-    {
-     "title": "Four people shot in Washington DC",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T15:42:07+00:00",
-     "summary": "A major police operation is underway in Washington DC where four people have reportedly been shot",
-     "image": ""
     },
     {
      "title": "\u2018I had the courage to believe in Mississippi\u2019 says Scott Colom after historic Senate win \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
      "source": "The Guardian",
-     "published": "2026-11-12T15:31:30+00:00",
+     "published": "2026-11-12T16:01:58+00:00",
      "summary": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi\u2019s first black senator since 1875 after defeating Cindy Hyde-SmithSign up for the Breaking News U",
      "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1"
     },
     {
-     "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
-     "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+     "title": "At least five people shot in DC neighbourhood near the White House",
+     "url": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
+     "source": "\u00a9 Tom Brenner, AP",
+     "published": "2026-11-12T16:01:57+00:00",
+     "summary": "At least one person died after five people were shot early Thursday in a Washington, DC neighbourhood near the White House, police said. A swarm of officers responded to a nearby a",
+     "image": "https://s.france24.com/media/display/e0e7178a-deaa-11f1-a92b-5f54d898a954/w:1024/p:16x9/AP26316527860423.jpg"
+    },
+    {
+     "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-12T15:31:10+00:00",
-     "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employeeBusiness live \u2013 latest updatesJensen Huang has resigned as chief execut",
-     "image": "https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=0bffdc317e7389b79d2db7be06881297"
+     "published": "2026-11-12T16:00:44+00:00",
+     "summary": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targetsOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a pr",
+     "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34"
     },
     {
-     "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-     "source": "NPR",
-     "published": "2026-11-12T15:26:34+00:00",
-     "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr",
-     "image": ""
-    },
-    {
-     "title": "Manchester United sacked manager Michael Carrick",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T15:21:43+00:00",
-     "summary": "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.",
-     "image": ""
-    },
-    {
-     "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-     "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T15:18:20+00:00",
-     "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg"
-    }
-   ]
-  },
-  "wars": {
-   "fetched_at": "2026-11-12T15:57:41.328558+00:00",
-   "stale": false,
-   "items": [
-    {
-     "title": "US envoys meet Putin, head to Dublin for Zelenskyy talks in peace push",
-     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxORE1LS3haOThURnVjYmQ4SEVSdmpJeHZzZHFIZlFYUEYzX3NncFFoc2V0cVdhRlpybWkxT1R4aGlldDFGbVNRX200MFk2MlZTTWp2X1VhdmwzRzVfZXc4cnJrTnkzN0h0TkhBWU1ELW02U05lWU54NWZPWkcxYTBsRWtzSU9nZ0hkUUlWUWFGLW0yQ1FDTUtpd2puRzJnQ1ZqTVVCbUwzUmtPWDFiVnVfcmVyM3RwWlVETmdvbWhhaDdwSnY1SURwSDhlWjRhVEhlb0hoVW1EQnYtU2JyM3lDZ3oyY2ltcjAwSTNYQWkzb0JVakxsUXRDdHo5Tnc1b2FJVnUtamhjb2tkZExZSVFod2NuQXZBNnhHNVl3TVNLUWVIWWdGQmk2SlpreFRUdWlkOGRGMVVVck9ic1dJS2ZDNw?oc=5",
-     "source": "KATV",
-     "published": "2026-11-12T15:55:43+00:00",
-     "summary": "US envoys meet Putin, head to Dublin for Zelenskyy talks in peace push&nbsp;&nbsp;KATV",
-     "image": ""
+     "title": "Life through a lens: Celebrating 200 years of photography",
+     "url": "https://www.france24.com/en/tv-shows/arts24/20261112-life-through-a-lens-celebrating-200-years-of-photography",
+     "source": "France 24",
+     "published": "2026-11-12T15:56:15+00:00",
+     "summary": "A passport photo, a selfie, an award-winning film and even the evening news: all of them were made possible thanks to a \"fantastic machine\", the camera. As France celebrates the bi",
+     "image": "https://s.france24.com/media/display/047573ae-dea6-11f1-ab42-f71d22e7fea9/w:1024/p:16x9/capture-ce27e8b0.jpg"
     },
     {
      "title": "US Defence Secretary Pete Hegseth reprimanded at war memorial",
@@ -140,91 +110,177 @@
      "image": "https://s.france24.com/media/display/f4a303f6-deaf-11f1-971a-29048b396e03/w:1024/p:16x9/Title-Hegseth-vid.jpeg"
     },
     {
+     "title": "Florida St Patrick\u2019s Day parade cancelled over Republican anti-DEI law, causing outrage",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/florida-st-patricks-day-parade-cancelled-dei",
+     "source": "The Guardian",
+     "published": "2026-11-12T15:51:29+00:00",
+     "summary": "Ron DeSantis signed law prompting the city of Delray Beach to announce it was scrapping its popular Irish celebrationA Florida mayor is working to salvage his city\u2019s St Patrick\u2019s D",
+     "image": "https://i.guim.co.uk/img/media/434830d18838eec0b1c561c5605e013201a360ba/0_0_2190_1753/master/2190.jpg?width=140&quality=85&auto=format&fit=max&s=e1c0043d6d02cabbc778723b569897f7"
+    }
+   ]
+  },
+  "wars": {
+   "fetched_at": "2026-11-12T16:27:45.171279+00:00",
+   "stale": false,
+   "items": [
+    {
+     "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
+     "url": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
+     "source": "\u00a9 Ramadan Abed, Reuters",
+     "published": "2026-11-12T16:18:24+00:00",
+     "summary": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the ",
+     "image": "https://s.france24.com/media/display/2915f31c-dead-11f1-ba4a-695cb59fade5/w:1024/p:16x9/2026-11-12T043325Z-1772503551-RC23MOA2UKYO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg"
+    },
+    {
+     "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-12T16:11:32+00:00",
+     "summary": "US envoy Steve Witkoff\u2019s announcement come after his talks with Putin in MoscowLuxembourg\u2019s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux count",
+     "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82"
+    },
+    {
+     "title": "Trump Finally Stops the Russia-Ukraine War. Wrong Trump, Right Result.",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnpiRm1VZFpfY0EtMW12Mjc3ZlJfZlJJaVV1Qmh5LVFBOVloWVA2NzlaTVI0a2FXc0RwMl8yT0JVLS1aczdvNTR0Y3F5UnZhb2VHSUpQSVNvTFB5M1M3ei1tellQNy1icEdFZ19RX1o2c2xia2M2V1ZvMmJqczQtWmx6ZHdJWTUzdzJwdHZEbmZaLUU3SUpsdl9MdDFFSjZrdU1wdFFB?oc=5",
+     "source": "The Warwick Valley Dispatch",
+     "published": "2026-11-12T16:10:25+00:00",
+     "summary": "Trump Finally Stops the Russia-Ukraine War. Wrong Trump, Right Result.&nbsp;&nbsp;The Warwick Valley Dispatch",
+     "image": ""
+    },
+    {
+     "title": "As Ukraine-Russia talks fail again, U.N. undermines trust | Opinion",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1AyS3Z0MzM1c0pWWUZrUkIwRkw3cDNTZmpZVHN5a3VYMGk3Z0ozWUg0c2xSYm1NLUtaQXdxUFAyLS1pWHR6cUZUdTNmQkhiZGFGYzkxUEZSSHZNTFZoSGt5LXBGRGJ2aWd1Q0NzSG5MMDVKbHJVUEhHcURIVEdZRmtJcUhNX3k0dkxmcVUzbmxFNldiVG1QbkQyU21qcHZRY0YyUUpySGpYMld6SENKZDd6RQ?oc=5",
+     "source": "USA Today",
+     "published": "2026-11-12T16:10:00+00:00",
+     "summary": "As Ukraine-Russia talks fail again, U.N. undermines trust | Opinion&nbsp;&nbsp;USA Today",
+     "image": ""
+    },
+    {
      "title": "Washington DC shooting latest updates: one person killed and four injured, police confirm",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
      "source": "The Guardian",
-     "published": "2026-11-12T15:49:40+00:00",
+     "published": "2026-11-12T16:08:55+00:00",
      "summary": "Police say suspect is contained after suffering a gunshot wound. The suspect\u2019s status has not been confirmedMultiple people shot in Washington DC as police warn people to stay insi",
      "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
     },
     {
-     "title": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine\u2019s military again - Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-12T15:47:53+00:00",
-     "summary": "Restrictions to Starshield \u2018directly affect our ability to intercept Russian jet powered drones\u2019, Ukraine\u2019s president saysLuxembourg\u2019s PM Luc Frieden looks to be absolutely chuffed",
-     "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82"
+     "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T16:07:16+00:00",
+     "summary": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
+     "image": ""
     },
     {
-     "title": "European security and Ukraine talks top agenda at Dublin summit",
-     "url": "https://www.france24.com/en/video/20261112-european-security-and-ukraine-talks-top-agenda-at-dublin-summit",
-     "source": "France 24",
-     "published": "2026-11-12T15:44:56+00:00",
-     "summary": "Leaders from more than 50 European countries and institutions are gathering in Dublin for the European Political Community summit, hosted by Ireland under the theme \u201cEurope \u2013 stron",
-     "image": "https://s.france24.com/media/display/010d6538-deaf-11f1-901c-695cb59fade5/w:1024/p:16x9/EN-20261112-161451-162018-CS.jpg"
+     "title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
+     "url": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
+     "source": "\u00a9 Observers",
+     "published": "2026-11-12T16:03:26+00:00",
+     "summary": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar a",
+     "image": "https://s.france24.com/media/display/84498144-dea4-11f1-ad4b-3f371022a770/w:1024/p:16x9/fat-main-photo.jpg"
     },
     {
      "title": "\u2018I had the courage to believe in Mississippi\u2019 says Scott Colom after historic Senate win \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
      "source": "The Guardian",
-     "published": "2026-11-12T15:31:30+00:00",
+     "published": "2026-11-12T16:01:58+00:00",
      "summary": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi\u2019s first black senator since 1875 after defeating Cindy Hyde-SmithSign up for the Breaking News U",
      "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1"
     },
     {
-     "title": "Finland Moves to Bar Russian Athletes From Entry Over Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa01fczZrQjRxdTYxUlJWMHlCVWduV3pvWWlnUS04LXBZUTRYdkM3TWtaRWlOZHNMZ05LcXFlRnZsX2RQdTRGOE1Pclh0VGFmNF9JaVBUeV9HSWNrZjdfVEdPcVBHSk44TmNGbkQzWnZsQnp2VTNSUkRpOEJGZFFBblMzSVBMTHhJdU5KSjc0SlpoZlUtX2pTLTBvN1lJdVZfbTU0OHJYYmVlaUM4bUQxV2xVeWw?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-12T15:28:00+00:00",
-     "summary": "Finland Moves to Bar Russian Athletes From Entry Over Ukraine War&nbsp;&nbsp;The Moscow Times",
+     "title": "At least five people shot in DC neighbourhood near the White House",
+     "url": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
+     "source": "\u00a9 Tom Brenner, AP",
+     "published": "2026-11-12T16:01:57+00:00",
+     "summary": "At least one person died after five people were shot early Thursday in a Washington, DC neighbourhood near the White House, police said. A swarm of officers responded to a nearby a",
+     "image": "https://s.france24.com/media/display/e0e7178a-deaa-11f1-a92b-5f54d898a954/w:1024/p:16x9/AP26316527860423.jpg"
+    },
+    {
+     "title": "US envoys meet Putin, head to Dublin for Zelenskyy talks in peace push",
+     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNbG9DekhZUGxVWjdNOGxfMFhOQU1WWng0QkxQUHp1cUFiUldCSDFmQkxkMkYwREhoVWxFaEo4ZkEwdjNla2hMZktUYmpIaW1OVmFNNlVyMWFUR2YtX2FYSUJwUEEwQ0JjeVM3RmlyQVNRLTZwbzFRcFI3OUdCWnJKNVBvVkxGRXJkWkZKRC0yWEM0dUcyOXo3b0pvT3FBeDJRZFdfMFBzYmxKcWxGVzM5ZWlCTTFYN1NHNlA1SzJBOF94VU40dlJoeGl0M01vUFlza29QZDByWTZsN2FZb3BISzF2cnI1Y1g5a1JMNFU0TmRxUFNfTmR1cUFQaWZ5WVE2TDR5WER0TF8yUmNrTUpRWC1LRFJCdEF3dTF0X1NTXzBMRnVXZ1N2VVAwOUNJQnM3endwU09sYWhneW12V0gxU1gybw?oc=5",
+     "source": "WCTI",
+     "published": "2026-11-12T15:57:26+00:00",
+     "summary": "US envoys meet Putin, head to Dublin for Zelenskyy talks in peace push&nbsp;&nbsp;WCTI",
      "image": ""
     },
     {
-     "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2VSWUphOTlfbGlEUW1pbk55c2FaU3FFN2lYNWx2RllwVlUzTm51TFBSQ1FpaHpBaGx6WDB1cEtxRlBtTC0xWVJrcmhBZ0NWc2o3VUZrdHNCUlBvQ2p1XzA4aWhqdV9KVS1rWjZUQl9zdWNrVWhOQ3N5Vi13c3RobU9sTHFKWG10WVZpX0pBcVQ5aXBO?oc=5",
-     "source": "NPR",
-     "published": "2026-11-12T15:26:34+00:00",
-     "summary": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi&nbsp;&nbsp;NPR",
-     "image": ""
+     "title": "Life through a lens: Celebrating 200 years of photography",
+     "url": "https://www.france24.com/en/tv-shows/arts24/20261112-life-through-a-lens-celebrating-200-years-of-photography",
+     "source": "France 24",
+     "published": "2026-11-12T15:56:15+00:00",
+     "summary": "A passport photo, a selfie, an award-winning film and even the evening news: all of them were made possible thanks to a \"fantastic machine\", the camera. As France celebrates the bi",
+     "image": "https://s.france24.com/media/display/047573ae-dea6-11f1-ab42-f71d22e7fea9/w:1024/p:16x9/capture-ce27e8b0.jpg"
     },
     {
-     "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG45T2R4UmFjWjFib21RZmdqMFNSNmc4VlM5SDhnSFNkOWU3WElJTHczOEhnSG5hc05KQ3BHdUV3R1RYeXRMVkQ0SlJmbkMxRWhkTVFDOEQ1N013VnhGdW1ENzlIR21VREJYUmk1SklrWEYyWUg1NTMtMDU3VFVaeTA0dkMtWFM1c0ZwUkNMNlE4VUd6Mm5CY1pESVZVdkw0SzZXNkVMMNIBrAFBVV95cUxPYThFUTlZR1BIaUZKVFdOcFlqbi1DR0FEUlV1d1UyMGNvRG5oa0ZtRnJsN0FoRW9GeUFyTGlsVkZtcS1HTmdoRGt1bmlvYmR0aEtuQ0pWT0NjdXBwRG1NSXY5RnRtQkx3MHR2WjRaQmkxMmxmRHBORnI1aXBrSnNvSGN6SHE4ODRsWlFLWGxraURmajBZc2daN20ycFY3SFRpOVVmQ3JEVVZvNmFz?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T15:22:44+00:00",
-     "summary": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-     "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T15:18:20+00:00",
-     "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg"
-    },
-    {
-     "title": "UK court finds two Iranian men guilty of spying for Iran",
-     "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T15:15:48+00:00",
-     "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a &#039;violent attack&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Multiple people shot in Washington DC as police warn people to stay inside",
-     "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-     "source": "The Guardian",
-     "published": "2026-11-12T15:13:58+00:00",
-     "summary": "Local council member says police are looking for suspect, while reports say shooting occurred at or outside of a gymWashington DC shooting latest updatesMultiple people have been s",
-     "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be"
+     "title": "US Defence Secretary Pete Hegseth reprimanded at war memorial",
+     "url": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-reprimanded-at-war-memorial",
+     "source": "France 24",
+     "published": "2026-11-12T15:51:49+00:00",
+     "summary": "US Defence Secretary Pete Hegseth, along with his wife and aides, was silenced by a guard on Wednesday at the Tomb of the Unknown Soldier. Hegseth's group was at Arlington National",
+     "image": "https://s.france24.com/media/display/f4a303f6-deaf-11f1-971a-29048b396e03/w:1024/p:16x9/Title-Hegseth-vid.jpeg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T15:57:41.328561+00:00",
+   "fetched_at": "2026-11-12T16:27:45.171281+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Last day to register for Corpus Christi runoff election is today, Nov. 12",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM1Q1MWhMLTI5cGVRTk1TYkhfUTVvM1p1b19uOEFkZ2x0MmhPZnRFbEd0SHBMUklqQ0VGcTltMXJNYlRUY1JRamV5NmN2enlSOGkwcVRRNjY4bVFFczV1Y19kX1FqbVRiMEhTUUZyMWxkNmRKRXlNT045dnNCWHA1cUJMbi1xb0traUY2SjZuaEJNXzNQMlJkc1BDRC1MWDdhZmxMcDlObWlmelRoQ1haSVJHaHB3R1RyS28xci1HTDNwSzRPdDRXUF90YkNLcm44ZnhB?oc=5",
+     "source": "kiiitv.com",
+     "published": "2026-11-12T16:17:02+00:00",
+     "summary": "Last day to register for Corpus Christi runoff election is today, Nov. 12&nbsp;&nbsp;kiiitv.com",
+     "image": ""
+    },
+    {
+     "title": "\u2018A second chance\u2019: children guilty of serious offences will no longer have to declare criminal records",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour",
+     "source": "The Guardian",
+     "published": "2026-11-12T16:11:59+00:00",
+     "summary": "Government proposal aims to reduce number of children in custody in England and Wales and boost youth employmentChildren found guilty of robbery, dealing drugs to other children or",
+     "image": "https://i.guim.co.uk/img/media/636709dcaefa97559bd1b10f630e7d0145ad1da5/0_1332_2030_1623/master/2030.jpg?width=140&quality=85&auto=format&fit=max&s=32f54447dd02f4200cc9d97eeceaa87d"
+    },
+    {
+     "title": "Three Kyle seats to be in December election",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEwzWm1vUUd0bkFKekN3QUVsUGhnZUw4T0pFQU9BUUNWdkdSa3VZVnNnVXdWcEdjZkZsdmx4eHNjTXpIOHQtWEpWcWV5eURlaThsbl9fWDAwVm5KR3NYVGNuRnBYZVFqTDVzX3BlcFJYZnpDZk1fdHlweVVySDJ0Yi10elR1TkhFQUUzd0gwNzc?oc=5",
+     "source": "Hays Free Press",
+     "published": "2026-11-12T16:07:19+00:00",
+     "summary": "Three Kyle seats to be in December election&nbsp;&nbsp;Hays Free Press",
+     "image": ""
+    },
+    {
+     "title": "Democratic sweep opens the door for major policy changes at state level",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZk9pa0Nla003elh1Q0JZZnpCd1RNemRLeXN1YjJsX0gwY1FLVHBKSWNhSkg5RWNmOTdvYzBtMThya2ZfalR5UEJWMkhtT3ltN2lkMGx1cV9WcHZXd2FMSDRodlFFMHhlVW9wVUJnRnlhakxjMjZTeHg4SEx0NDlkVk9GMG9WT0lsYkRYemdleGh1X0htcHVVcUU3VWhJSmxfY05YZjhveVlOdkRBVTRIOGVR?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-12T16:02:48+00:00",
+     "summary": "Democratic sweep opens the door for major policy changes at state level&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Beyond the Ballot Ep 94: Garlin Gilchrist shares outlook on election results, new seat",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc2RIOEpnYUdsdHI1SU1OSFR5SkYySDRtMzRNZ3RMWHJsaE1RSXFQUjRJclJPSGZERXFoYUtPSnJJX0ZjdXpPblhJamExdE9RY0tzM3FRMWtnSFJsSjlsRTR2a2MzVldaYkhfdklHbEQyTjRnejZpMU1YNGVfZHlxNUNMYXpqT25vUHlzTWozTE5fRXY4MDA5Yk5sMGFIM0hmc3Y0azFfNU80VzRkYXFRVEZRMDBfNXloUXJlanJhVXhOTFlq0gHYAUFVX3lxTE5UN0kzMWEzWE56eWV0NThralV6SV9CSUsxRHd5U0J6WFRDSnozQ0pULU43TFp4R0dReHljNWFCbjZvRHFxeVl3UEV2eEVISjVmV2tDNDJXN1o2OGpseHlVNDVsNnhSWUl2amRQWWFUaHYzTUlxUWdaT3lzTU1ybkxfS05qMDh4VFJQNnh3WHZITVhtWlRrVlduVVgwT1NXR2xLWkNUMEM2M3QtUUZWUFNpUDJrTldReENTNU44XzBaRUZLNmJ6eV9razlLcG1uQWJYcnI5OGUxSA?oc=5",
+     "source": "Upper Michigan's Source",
+     "published": "2026-11-12T15:56:00+00:00",
+     "summary": "Beyond the Ballot Ep 94: Garlin Gilchrist shares outlook on election results, new seat&nbsp;&nbsp;Upper Michigan's Source",
+     "image": ""
+    },
+    {
+     "title": "Georgia\u2019s historic election sets stage for another first at the state Capitol",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ3lZWnpsNllzcWl0QUdWVERpX20teFNiLUROdlk0SHBydndOTzdfeTJkallTenVpWHJBU1hwZ1ZWUkZRRjFJc1dsMGxhOGNQeld5S0UzZ09QVlNDdE9nS1BGUUJwZEh3a0o2TldobTRaNmVjdkMteXd3R05OS3djdzJlOUd4Q0VNSnJZeUgyVm1ONFV0cnZsaVY4U0hWSUnSAbMBQVVfeXFMTnBtMDJRZGE1WWVoLUZESUhPd1lvNVRSZFpkZ19tS3A0U19xX3REVXVaeHY1MDNMQWVPTk1TQlRFMlk3bG5WWXQ0T3BQYjI0Q3QyOU95VHVxY3Z6dUxsQ1FDWHE0MGRPNTRJZGhKX2FiMUVyZXE1MUo2UGx5c3FTQS1BQ01Rb1JZVUN0Y0d4Vk0wSTl1QjBfN280cXNQSHRBaG16R2tEdjdNel80OHNnTWJOUzA?oc=5",
+     "source": "WRDW",
+     "published": "2026-11-12T15:52:00+00:00",
+     "summary": "Georgia\u2019s historic election sets stage for another first at the state Capitol&nbsp;&nbsp;WRDW",
+     "image": ""
+    },
+    {
+     "title": "Watch live: Jeffries speaks as Democrats gear up for House takeover",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQXR3bm9Pcms4RWVzX0thWi1XSkI0bXl1MjFQYi04N2tuczAtaUFiNGFFLVNZYVJWYkhSSU11eTJ3OHdvSklJb25WLXllb09YRmNzTlhmVmRONlozWkpoVGxleGI0c2tOb2lpTHkzUGJKTVZHTU5XbVpvNHBqaFowZGxJem9ES1ppN0Nra2tpUHQ4ekN4TnZBWk1ESFl3cFVmZlAzeVlTZS15OU9VZ3IwSUZ1bWw3LURudkpmYXZweXg2TjNLTnpISNIBzgFBVV95cUxPakZraE9nYjRCZzV1R1RYeU5KUTYwRFpIS055bEtQWkx6aGgxNDBfMnZTVXhWVUp1bnYtd1JvNV9Za0ljSi02S2pjLWMwcEdObVkzSTFWNTVBbXJBWTd4QzJPVmtRNnVBdDJSREJIbVpNWW1MY1djZDhpc0ppc2k5MVNkSFphVG5pTXdYSC14b005YmN0STNfdmNEOWFYbnFldnJUbFMtU1JxRENZMzJiSVBwZmh1NElEY2dtM0Q5VWtVeEZRa21vQlVpaE9SUQ?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-12T15:45:00+00:00",
+     "summary": "Watch live: Jeffries speaks as Democrats gear up for House takeover&nbsp;&nbsp;The Hill",
+     "image": ""
+    },
     {
      "title": "From Ranked-Choice Voting to Dumping Electoral College: Rob Richie on Election Reform Movement",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3dUMFpBSUo2eEN4dU9odlpMS3Q5TVVXeDZYSTRDZEhzSjYzaFNPM3hMZGdtYmd4eWI2OUZTSnpBVDF4MHY0R1BaNUloSmtNTXFzSUlIWE1Hczg3T25paXBWa1otXzZXdFFHX19zOTEwejFtVUlINFRWeGpYVFd2bw?oc=5",
@@ -258,83 +314,19 @@
      "image": ""
     },
     {
-     "title": "MD healthcare panel endorses tax extension, prescription drug policy change",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTEdESGtmdkNNTXA5cktLNC1WelNVb2JxOVNVcUhIOWZla3NaRk01N0l1djczMFVjSVBlM0t0d29rMVBpamgtU1B2SDI3S1BVVWhTNnhUVHFVeWVlaUVTdVdXa1M0M3g1b1pQT1AtMllaMzR4U3E4THBhZGptZ0R6TzA3dTI4bDI5MjVLYjFQdm5WWVR1QWQ4Q1RLWmI?oc=5",
-     "source": "Maryland Daily Record",
-     "published": "2026-11-12T15:11:51+00:00",
-     "summary": "MD healthcare panel endorses tax extension, prescription drug policy change&nbsp;&nbsp;Maryland Daily Record",
-     "image": ""
-    },
-    {
      "title": "Watch Fed's Hammack Calls for More Restrictive Rate Policy",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3lwSklWM0o2RkUxVGtSd3hrQUZ4bFZUdk4zcTFuejhMcXBkYWd1WUF3ME1RVk4xWFBRUUYzQm55UFAxSGpkb01weDlaMHMta1Y2bWNLM09nNTZUZ1F5dXI5NHp2eVlQNjBZUEN5bnZUWk13U1BEejJJWEJpbmMtYkpCU2xwS2ltMmdBSzJMeFljWThiWjRJOHpvZ202THNaWk1VbVFCOFBKSGs?oc=5",
      "source": "Bloomberg.com",
      "published": "2026-11-12T15:07:54+00:00",
      "summary": "Watch Fed's Hammack Calls for More Restrictive Rate Policy&nbsp;&nbsp;Bloomberg.com",
      "image": ""
-    },
-    {
-     "title": "Georgia\u2019s historic election sets stage for another first at the state Capitol",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWV6OHF1b01OeFlaMXZjbUhuQ0pKeEMwNVpjc2FSZkR2MXp2OE5IUHZPc2szSVFoNWpEQnZWNWZ2c1ktNVlxV3IyOVYzM3VXcnpGbTV4bUsxaEhtS0gzWlRadnowQ0pzZm5kdDhoLUtSTmNnNGt4b1ludXNKVmRiOGlYcG82Y0FyVm1PenlEX0drUG5nRHRtbzlUYVhNTkhOVjVhOGszNVFyVXUwaGdZ?oc=5",
-     "source": "Atlanta News First",
-     "published": "2026-11-12T15:03:00+00:00",
-     "summary": "Georgia\u2019s historic election sets stage for another first at the state Capitol&nbsp;&nbsp;Atlanta News First",
-     "image": ""
-    },
-    {
-     "title": "Spain approves housing reforms after nationwide strike over costs",
-     "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T15:02:30+00:00",
-     "summary": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.",
-     "image": ""
-    },
-    {
-     "title": "The Concession Call to an Election Winner Is No Longer a Given",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUJMek1wRjgzUVdYeGJLd2VRdmZaYVNEejB4ZVNqaFFSYk01dlhRUUNyMjhoWUNpQVpVQm40TXV3bGMzMlpOaWxtb3N5MkxNR1o4QXVmbXBwaHRMUmhLbDRnQUthMHZCMXZYdHhKRmxlTWF3VC1qWVNxd3JMZDlUREU3Yjh5Z1VZNno3ekFJZm8?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-12T15:00:11+00:00",
-     "summary": "The Concession Call to an Election Winner Is No Longer a Given&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Wisconsin Rapids clerk devoted her life to running elections. She died on Election Day.",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM0VJUkpsT2tGRVJXSzBKZE9ucjRPZjFLdklZWDZKVV9uRzIwSHVEU3Nsbjl1LXpzZmNPUDJlQTNWeFljaTc1di13anZ0NkNCRXdydW85LTJXWmMxbUU3dGpDb3VpajZwZEZ5V3JlQWhfYjVKdEVJaEduZlN3enZFRk1MbFdpYmxfUHJCY2lVUmRRd0M5YzBXQkJXRHl1NUJvQndwVzIyaWN2VXp3aklsMWczRVdzdElR?oc=5",
-     "source": "Wisconsin Watch",
-     "published": "2026-11-12T15:00:00+00:00",
-     "summary": "Wisconsin Rapids clerk devoted her life to running elections. She died on Election Day.&nbsp;&nbsp;Wisconsin Watch",
-     "image": ""
-    },
-    {
-     "title": "Pope Leo XIV in Lima: \u2018Wars demand diplomacy that respects international law\u2019",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX29XUVpDWURYeHpsd1ZzSEY2R3FZVlZ6ZlFORXVmSXpHSkoyYVluN0tpVDVLdkdYZWNZN0NwdXNsaEFtb0FPMzAwbnBINS1BcDhMS0EzRHFpcExJZjVRR1Y4TGFwMHI0YXc4N2Z3Uk5FMXpOa3l6elRleTd2N1hFYklIbERjdUhXMnNkazI1Y2czOEpVa3N6Vnh2dEhUZVoxNkNzQ1FhbFBzc0d5Ri1KRXByNkdnQTNOTWxUbkFpZm1HakMySFJrOXFkd9IB3wFBVV95cUxQQm5FZ2hwSjN2eFFrNVdPMGY1d3pyRVNMbENFUHBWZDdQUFR5M2lLVnNXeWdZRlBPVWRPYXlsRjhFckRNNTdxbUNhVnEydmJqeWFKaDNGSmFJbDhheXM1eVBMak5rbkh1Rm9IemZkU0puWmU1YUxscG9LTENzQ21aZjJLNUIyWWdXZkxqcmhTSHRnY2xOV0E3UkpRWlN6RC16dS00YnRvTGpSeFdZTjZHU0RfTk9LOEhVSHM1RUNwSkdKZ3QxR2N4VEx2dGJkNzdYNXoxLXZDZmEwMVdwWDV3?oc=5",
-     "source": "EL PA\u00cdS English",
-     "published": "2026-11-12T14:41:31+00:00",
-     "summary": "Pope Leo XIV in Lima: \u2018Wars demand diplomacy that respects international law\u2019&nbsp;&nbsp;EL PA\u00cdS English",
-     "image": ""
-    },
-    {
-     "title": "Migrant caravan sets out from southern Mexico bound for US after midterms",
-     "url": "https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T14:38:42+00:00",
-     "summary": "Many migrants stranded in southern Mexico say the Democrats&#039; win in Congress has given them new hope of entering the US.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T15:57:41.328563+00:00",
+   "fetched_at": "2026-11-12T16:27:45.171283+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Paraguayans get some savings back after banking collapse disrupted economy",
-     "url": "https://www.france24.com/en/video/20261112-paraguayans-get-some-savings-back-after-banking-collapse-disrupted-economy",
-     "source": "France 24",
-     "published": "2026-11-12T11:24:53+00:00",
-     "summary": "Paraguay's Central Bank said Wednesday, November 11, it had partially returned savings to all eligible Ueno Bank depositors locked out of their accounts when it collapsed last week",
-     "image": "https://s.france24.com/media/display/d6cc7d94-de87-11f1-b257-695cb59fade5/w:1024/p:16x9/capture-70458b4a.jpg"
-    },
     {
      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
      "url": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
