@@ -1,10 +1,58 @@
 {
- "generated_at": "2026-11-12T20:28:40.950782+00:00",
+ "generated_at": "2026-11-12T20:58:45.301597+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T20:28:40.950749+00:00",
+   "fetched_at": "2026-11-12T20:58:45.301567+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nvidia\u2019s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T20:42:54+00:00",
+     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI k",
+     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
+    },
+    {
+     "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T20:37:36+00:00",
+     "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured \u2013 latest updates",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-12T20:35:42+00:00",
+     "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is ",
+     "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
+    },
+    {
+     "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+     "source": "The Guardian",
+     "published": "2026-11-12T20:28:20+00:00",
+     "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to",
+     "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
+    },
+    {
+     "title": "What\u2019s at stake in the renewed tensions over the Falkland Islands?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T20:25:21+00:00",
+     "summary": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
+     "image": ""
+    },
+    {
+     "title": "CDC reports six measles deaths in 2026 as US battles worst outbreak in 35 years",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/cdc-measles-deaths",
+     "source": "The Guardian",
+     "published": "2026-11-12T20:19:45+00:00",
+     "summary": "Figures highlight spread of virus, officially declared eliminated in US in 2000, but CDC does not identify which states accounted for deathsThe Centers for Disease Control and Prev",
+     "image": "https://i.guim.co.uk/img/media/7e2735b1107647acbe5536f99ccf2d7bb3460cb3/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=686e26430f3deb6734d1edb66bf5ad2a"
+    },
     {
      "title": "Qatar Under-17 World Cup is on despite US pull out",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
@@ -38,36 +86,12 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg"
     },
     {
-     "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured \u2013 latest updates",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-12T20:07:24+00:00",
-     "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is ",
-     "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
-    },
-    {
-     "title": "Nvidia\u2019s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "published": "2026-11-12T20:06:26+00:00",
-     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI k",
-     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
-    },
-    {
      "title": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
      "url": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
      "source": "France 24",
      "published": "2026-11-12T20:03:55+00:00",
      "summary": "Israeli fire killed 11 people in Gaza on Thursday, six of them in the bombing of Nasser hospital in south Gaza early in the day, health officials said, the deadliest single strike ",
      "image": "https://s.france24.com/media/display/d8bb4c84-ded2-11f1-b9be-3f371022a770/w:1024/p:16x9/EN-20261112-203639-204648-CS.jpg"
-    },
-    {
-     "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-     "source": "The Guardian",
-     "published": "2026-11-12T20:02:00+00:00",
-     "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to",
-     "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
     },
     {
      "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
@@ -92,37 +116,45 @@
      "published": "2026-11-12T19:53:15+00:00",
      "summary": "Ukrainian President Volodymyr Zelensky warned European leaders Thursday to be wary of discussions between the United States and Russia about a new security arrangement for the cont",
      "image": "https://s.france24.com/media/display/eb157cac-ded1-11f1-b7cf-29048b396e03/w:1024/p:16x9/EN-20261112-201030-201228-CS.jpg"
-    },
-    {
-     "title": "\u2018Who will be held accountable?\u2019: fatal Brooklyn building collapse devastates community",
-     "url": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
-     "source": "The Guardian",
-     "published": "2026-11-12T19:49:24+00:00",
-     "summary": "New York City officials have confirmed at least eight casualties \u2013 six adults and two children \u2013 in the collapseFlatbush Ave in Flatbush, New York, stood still and in shock after a",
-     "image": "https://i.guim.co.uk/img/media/bf17e4172143b591a43dc9028eac45a3455c9051/676_0_6763_5410/master/6763.jpg?width=140&quality=85&auto=format&fit=max&s=cae97a645468f69eb9e8bffa90ef34aa"
-    },
-    {
-     "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T19:45:40+00:00",
-     "summary": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
-     "image": ""
-    },
-    {
-     "title": "Iranian men guilty of spying on British journalists",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T19:38:33+00:00",
-     "summary": "Two Iranian men were convicted under Britain&#039;s National Security Act for spying on dissident journalists.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T20:28:40.950764+00:00",
+   "fetched_at": "2026-11-12T20:58:45.301582+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-12T20:44:49+00:00",
+     "summary": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T20:37:36+00:00",
+     "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured \u2013 latest updates",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-12T20:35:42+00:00",
+     "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is ",
+     "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
+    },
+    {
+     "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+     "source": "The Guardian",
+     "published": "2026-11-12T20:28:20+00:00",
+     "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to",
+     "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
+    },
     {
      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUNSTnFPbndEc01YSXBVZU9sYmp3bTE4ZkE5LVBiVWpZOG52Zmg2dXNPZlZKQk81dGtlSUd5dFVUUTB2T3BVbHR6cjcyaERyWkZjOGc3c3lkNkFOZXVRdWlNaHNmTGM0ejZ6U1hQZTNpZWc4djI0WHl4eUhIYWlSdm9JSDZ3d0RpQWNUbngtei15UHhsWmxkb3R1TjdrTHA0a0RmM3luaE0zZlV3a0EtcXN5SjnSAboBQVVfeXFMT2w5cEttNnlQS3JMcXNmRmpYd3Y4Z1UwNUNTUGdUZHc3M2hZMk1GN1dLTnFpSXFLdF9maVFyZDh0cU5tSlNpNWJUN2lxZ1p5cE5OM1YzZmdkR2hEOUNFX0JwV1N6WngwREIxaHZ6eHVySnFlcTB3VWZjeWNDNHc3d2I1U2RtcHd4djhtTWRhNTZQc1FqaHllLVlkWnFFVmYtZnJNOGNnRllFN2JKWWFwVGFtd1pvaUc5Ty1B?oc=5",
@@ -141,19 +173,11 @@
     },
     {
      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-     "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56UXZpdU4zLUlwU0RjbWJZT1RsS19MWGxQeVFibzdQZG9ZaWYybmNXZkZWUzFwRzJ4dGRHaEJOQ1JrRjR6XzlsSEVCYjdGMW02MFhYY1p5VUtoYlE?oc=5",
+     "source": "BBC",
      "published": "2026-11-12T20:09:16+00:00",
-     "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg"
-    },
-    {
-     "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured \u2013 latest updates",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-12T20:07:24+00:00",
-     "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is ",
-     "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
+     "summary": "Russian warship hit by Ukrainian drone in Gulf of Finland&nbsp;&nbsp;BBC",
+     "image": ""
     },
     {
      "title": "European leaders call for unified voice in Ukraine peace negotiations",
@@ -170,14 +194,6 @@
      "published": "2026-11-12T20:03:55+00:00",
      "summary": "Israeli fire killed 11 people in Gaza on Thursday, six of them in the bombing of Nasser hospital in south Gaza early in the day, health officials said, the deadliest single strike ",
      "image": "https://s.france24.com/media/display/d8bb4c84-ded2-11f1-b9be-3f371022a770/w:1024/p:16x9/EN-20261112-203639-204648-CS.jpg"
-    },
-    {
-     "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-     "source": "The Guardian",
-     "published": "2026-11-12T20:02:00+00:00",
-     "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to",
-     "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
     },
     {
      "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
@@ -202,29 +218,53 @@
      "published": "2026-11-12T19:47:19+00:00",
      "summary": "Trump Envoys Witkoff and Kushner Meet With Putin in Moscow for Ukraine Talks&nbsp;&nbsp;Time Magazine",
      "image": ""
-    },
-    {
-     "title": "Iranian men guilty of spying on British journalists",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T19:38:33+00:00",
-     "summary": "Two Iranian men were convicted under Britain&#039;s National Security Act for spying on dissident journalists.",
-     "image": ""
-    },
-    {
-     "title": "The Russia-Ukraine War Report Card, Nov. 12, 2026",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHN3SGVncFJCZ09IYXFWYkhXcWZWTHI4QUxDbExOUzZEbjlWc2ZVVjJQVFlNbVJ6dFdwWVBROVBUSkRxd0NfU3lyYjNlMjZXRzdBUUFqcjV0bGNNekxtOFl2d0ItcHMyanR1V3hIYWYwQnJid2ZiNWY1Wml6bFcwTHFoQ2dWaktvbHJ4QWZsZXNhRTdfQmN1WUNUcUJfUHdBaURnYmNpSzMzWU5n?oc=5",
-     "source": "Russia Matters",
-     "published": "2026-11-12T19:32:57+00:00",
-     "summary": "The Russia-Ukraine War Report Card, Nov. 12, 2026&nbsp;&nbsp;Russia Matters",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T20:28:40.950769+00:00",
+   "fetched_at": "2026-11-12T20:58:45.301586+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nvidia\u2019s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T20:42:54+00:00",
+     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI k",
+     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
+    },
+    {
+     "title": "New Atlanta Fed Community Advisory Council: Informing Economic Policy",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMlJSY1FzNW80VzNMMlVqY1JZWHozcGRnODl6U0FYRWtELVZoTUdvUU5TTFNQYjQ5WUo0eVRfeURwWHg0SFE3VWc0SlY5T1FHR01xX1ZoMU5PMnlodC1WQU0wQnJ2ZWZTWmk5Qk90OWVpRjBCUGF3QURUdUdXU04zcm92X0RuRk82M1hPZ2F4ZWV4ZHBkeVNvUHR2WnFZTjY1MHNac1BEMXRKcXZEQjBXNGVwb3NORlZnNmJFNVg4R2tvMHRVRW9uSkVWUlVvTS14LXV5ei1XVHBKYU9RSHB6aXlhekM2aWVT?oc=5",
+     "source": "Federal Reserve Bank of Atlanta",
+     "published": "2026-11-12T20:36:24+00:00",
+     "summary": "New Atlanta Fed Community Advisory Council: Informing Economic Policy&nbsp;&nbsp;Federal Reserve Bank of Atlanta",
+     "image": ""
+    },
+    {
+     "title": "Cindi Reiss wins Area 5 trustee election",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVGliOC1lMUlNUW96X09BOGY4X0FzNi1WM2tfNkNBZWN2c0JoZk56MXg4UUVwVjJuTVN5UkQxZFZ2NHQxXzVNZ2FYWVNfZEI4LWc0Umg5UElRR295VXQ0S19NVjd3M1hlQmZHNWg5Mm5mRWhBVEpFV1ZiYWwxeHVOcWoxQktXdw?oc=5",
+     "source": "https://peraltacitizen.com/",
+     "published": "2026-11-12T20:35:49+00:00",
+     "summary": "Cindi Reiss wins Area 5 trustee election&nbsp;&nbsp;https://peraltacitizen.com/",
+     "image": ""
+    },
+    {
+     "title": "California voters overhaul recall elections, pass Democratic-backed Prop. 5",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPak55S3I4NXd6Qm5VaFN1MzRzeHlNVWtybWd2T3FONl9TYnRXdVRDRE01RFR0Ym93eFFpbW9zcldOdzdXLUdPSjVjS3pKTUNldWNyQlBhS0ZKMk9ScXE1NjFXRndld2lnZGdXek1VTG5vaGZjTWotS1RWb1FQdEJTQlF1VQ?oc=5",
+     "source": "CalMatters",
+     "published": "2026-11-12T20:34:09+00:00",
+     "summary": "California voters overhaul recall elections, pass Democratic-backed Prop. 5&nbsp;&nbsp;CalMatters",
+     "image": ""
+    },
+    {
+     "title": "Georgia 2026 Election: Historic Realignment and Implications for Business",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSVdKWDVBZE12UHZMWEs5SGhONWVIRFAwWnp4VGxQM3BWQUNuUDhJT2lueWVRU1lTcl9ZVWJLNnNCdGJHVkJDd0czU21Fb1M5TmZzODVJdkFIYjFTTENaNklEUHlZbGo4SFpBbjdkUmNxTExhYjVFcHZzd0lIdw?oc=5",
+     "source": "JD Supra",
+     "published": "2026-11-12T20:28:15+00:00",
+     "summary": "Georgia 2026 Election: Historic Realignment and Implications for Business&nbsp;&nbsp;JD Supra",
+     "image": ""
+    },
     {
      "title": "How career stakes shaped China\u2019s one-child policy enforcement",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzhOMEJfLTg1QTFmckxma3NqLTlISnVMdjBzMUFOR1JYb2lZdy1hRHNvOVlfZmROQlV1Z3FINWVFY2J3azI5cWZyR1VwWWswd2IwX2hrZXY4OFlCTkdORzNrT0d1SFVpX1Riakc1elViQnRqYVZENGpGTDFucDNaTjVmb1NpUWFodVJpTGN3?oc=5",
@@ -258,14 +298,6 @@
      "image": ""
     },
     {
-     "title": "Nvidia\u2019s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "published": "2026-11-12T20:06:26+00:00",
-     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI k",
-     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
-    },
-    {
      "title": "Fireside chat examines election results, future of health policy",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaVZDUnFkejRzdWZ6YkpxQUhNZGxORnVmMVltYkpLMlFvS29PRndkaFEtejI2Z3g4c3VZSkxUal93XzRTTllEeFRjWERxWXl3aHN0Q0JGWXVpWFM0YUppZ1ZzN2d0ZmJmU2gybF9KNi1ua2VQV01KYkJtY2ZPbGI4elZDVkZGRWp3WEhUNGhfbzVRWEdnUTlrU0hwdDJGUldUdlF0bWpvaS1hZ2U0OTNqQmpRT3NnbzBtYTk4OFBqeWhlblBNYU01NWNjSG5idGc0Vl9DcmtTZHAtME1URkVNRWNlU2VXR1QtY3BDVg?oc=5",
      "source": "The Brown and White",
@@ -288,43 +320,11 @@
      "published": "2026-11-12T19:31:56+00:00",
      "summary": "Policy Watch: Bipartisan permitting reform bill advances in US Senate&nbsp;&nbsp;Chemical & Engineering News",
      "image": ""
-    },
-    {
-     "title": "Republican Paul LePage wins election to US House in Maine\u2019s 2nd District",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX2h3YVB6aVdqMEtuVXhrMHVKRmdUVVhhcVJJY2hLdzJ3Wk9odXkwTzNlZ3RjSzdtT0xhdXd1b1Q0d3V2eldERlBTRVFnNkhOZGtUNjlaLTd2TDREYVNNLXBGTDVpekk4N1cySW5Ta04tN2FiLUZEMl9uaEFicmRVSExfVzVUcURvS1B3ZUMyaC1vNzlERXdyVERBbzR4XzQ?oc=5",
-     "source": "WCAX",
-     "published": "2026-11-12T19:26:00+00:00",
-     "summary": "Republican Paul LePage wins election to US House in Maine\u2019s 2nd District&nbsp;&nbsp;WCAX",
-     "image": ""
-    },
-    {
-     "title": "2026 General Election Summary: A Mandate to Make Oregon More Affordable",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FQ2hLd21OT2NMV1BkVFpmaUVfc3lfVXdzYlVvNXZPZm5xLUFUeUlhMF9zY3dHenV4RndqdEQwbmFzUjZ1NkFTRVlDT0RDWll2SzJQcnhXelJ2RjlnQkhwWVVmbTk?oc=5",
-     "source": "SEIU503 Local",
-     "published": "2026-11-12T19:23:31+00:00",
-     "summary": "2026 General Election Summary: A Mandate to Make Oregon More Affordable&nbsp;&nbsp;SEIU503 Local",
-     "image": ""
-    },
-    {
-     "title": "UFLAC Local 112 secures historic election victory on Measure FD",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0VqOUlXMWM1OEx1ZUxwYnFrbzBWZmJadHpBSDVWX25aeEs5bkVWSUxzeTFNYkFfWXhyTDVjZDBSdUl4YkY2WXNBZlNxS2djZnlTcEpCZ0ZTTVhHM0wxQjNzX0NIbHN4RE5iQzgxTWM1RVhKel9wZmRfWUUxaHF2MlFHMENGMHo1TlVPQzYtV0hzS3ZV?oc=5",
-     "source": "IAFF",
-     "published": "2026-11-12T19:09:59+00:00",
-     "summary": "UFLAC Local 112 secures historic election victory on Measure FD&nbsp;&nbsp;IAFF",
-     "image": ""
-    },
-    {
-     "title": "Flint Councilman pleads guilty to election fraud, \u2018no contes...",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzUtN3BSNXhrc0FuM0c1SEI3RGx5dmx6eHZXY0dDQVVHVi1laFpUVy11bXZwaF9ldExQSkxHRldqaWNpaFFmQ0cwbDdvcHZCTDBGRFRPUVJFV3Vhc2RqLWNRbHVqSUJwR3FuZnh5VmhXRElNMEFpUjg3VlFEekhMeGVuR3pkOEpBbzZuUS1SZU1wMm4xdV8yWnp4N3lrM1hFTmcybVBxZmoweEpYc0RGSFdSSnJCREhPREtmTE53?oc=5",
-     "source": "Flint Beat",
-     "published": "2026-11-12T18:55:53+00:00",
-     "summary": "Flint Councilman pleads guilty to election fraud, \u2018no contes...&nbsp;&nbsp;Flint Beat",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T20:28:40.950771+00:00",
+   "fetched_at": "2026-11-12T20:58:45.301588+00:00",
    "stale": false,
    "items": [
     {
