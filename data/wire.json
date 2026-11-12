@@ -1,17 +1,33 @@
 {
- "generated_at": "2026-11-12T23:29:18.748451+00:00",
+ "generated_at": "2026-11-12T23:59:23.167760+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T23:29:18.748422+00:00",
+   "fetched_at": "2026-11-12T23:59:23.167728+00:00",
    "stale": false,
    "items": [
     {
      "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja\u2019s \u2018sandpapergate\u2019 claims",
      "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-12T23:17:32+00:00",
+     "published": "2026-11-12T23:44:58+00:00",
      "summary": "Cummins speaks about allegations in Usman Khawaja\u2019s book about the 2018 ball-tampering incidentCummins says there\u2019s a \u2018proper way to do things\u2019Cummins says he believes there was a ",
      "image": "https://i.guim.co.uk/img/media/98e2bff19e4445496fd0da8a491d3cb83c3bdeac/257_0_2562_2050/master/2562.jpg?width=140&quality=85&auto=format&fit=max&s=d43de4137917c4bf62509ab2f2a05acc"
+    },
+    {
+     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T23:34:05+00:00",
+     "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
+    },
+    {
+     "title": "Russian court jails rights lawyer for 12 years on treason charge",
+     "url": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T23:18:50+00:00",
+     "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
+     "image": ""
     },
     {
      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
@@ -44,14 +60,6 @@
      "published": "2026-11-12T22:37:10+00:00",
      "summary": "Kalshi announces \u2018mutual decision\u2019 as Democrats say they plan to investigate Trump family\u2019s investmentsDonald Trump Jr is no longer a paid adviser for Kalshi, the prediction market",
      "image": "https://i.guim.co.uk/img/media/fecab90a765cf55f40ec50915850e69dd58cd4f3/258_0_2583_2067/master/2583.jpg?width=140&quality=85&auto=format&fit=max&s=2090aaa5542c00d2e26964dbd1368aeb"
-    },
-    {
-     "title": "Israeli air strike on Gaza hospital kills six, including surgeon",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
-     "source": "NPR",
-     "published": "2026-11-12T22:33:00+00:00",
-     "summary": "Israeli launches its first air strike on a Gaza hospital since the ceasefire began last year.",
-     "image": ""
     },
     {
      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
@@ -108,21 +116,29 @@
      "published": "2026-11-12T22:09:20+00:00",
      "summary": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UKThe communities secretary, Angela Rayner, has approve",
      "image": "https://i.guim.co.uk/img/media/695a6431fe2e7b78ffe681e171e15126f6ac3fee/195_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=7a09d81463e9956089fed7aa4a265ae7"
-    },
-    {
-     "title": "\u2018Win-win\u2019 deal with EU could be done, Andy Burnham says",
-     "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
-     "source": "The Guardian",
-     "published": "2026-11-12T22:01:39+00:00",
-     "summary": "Prime minister says reset could be a deal \u2018like the Brexit people thought they were voting for in 2016\u2019 Andy Burnham has said he believes a \u201cwin-win\u201d deal could be done with the EU",
-     "image": "https://i.guim.co.uk/img/media/784c2ab8d8cdd24c117ad4f5a75d285bddf0cfd9/104_0_5005_4005/master/5005.jpg?width=140&quality=85&auto=format&fit=max&s=bf05b73ded2c763db5607dc9bf20f5df"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T23:29:18.748436+00:00",
+   "fetched_at": "2026-11-12T23:59:23.167743+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-12T23:41:12+00:00",
+     "summary": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 13, 2026 from Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qZ3BKTEdBOWJhVEF5andHNkFqZWo4bmdRTVJfVk15aDlMT0x6Y0Z0UVNxQmgwVFJrcG9iSGlURElRbWF6R2xxaGE4YlE4Zw?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-12T23:30:02+00:00",
+     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 13, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
     {
      "title": "Why the West Still Gets the Ukraine War Wrong",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTzhlX2t3bUdCNE5hRllCM1JXX1cxclVjVTdVZXA1WlpNUG9DX1dGZWNsWm8zc3htUktFWEp1cW13TjA5QWtrSVJDajFWbUdWY3RLcHJoblZXaEs4UEpzOU85QmRwWFl0UUxMdWI4eHljbm1jRXZEZzZCTWRoSnQ0TkJoRnJkRGtXNHc?oc=5",
@@ -137,6 +153,14 @@
      "source": "Al Jazeera",
      "published": "2026-11-12T23:25:09+00:00",
      "summary": "Russian court jails rights lawyer for 12 years on treason charge&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Russian attacks on Ukrainian power infrastructure ramp up as Zelenskyy appeals for help",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcWRrVUt2dGxoWjkyZVNtenNoVzFhSXA3aVc2dWg0MjE5Z290TEtiUGJya0xQZFFLSlNQZTVLOHpLR1M5SGVoQlpQeVFqWUFtNkJPdjVPajYwV2NuRGVaWkRQQWhETFBBNVdoUENTZ0JHQ2pkV1RBa3YxZnJpNFFXazVGQThQb1V1VWotVHhtTlJ2bmljX3ptcTkwZVhMSDZuaFBDMFNESmpVOVhHelNWdjgzZFNTSWpaWjdNTnpaR1RFaGVCd2FzOGNuWXpoMlU?oc=5",
+     "source": "www.tcnjsignalnews.com",
+     "published": "2026-11-12T23:23:00+00:00",
+     "summary": "Russian attacks on Ukrainian power infrastructure ramp up as Zelenskyy appeals for help&nbsp;&nbsp;www.tcnjsignalnews.com",
      "image": ""
     },
     {
@@ -164,22 +188,6 @@
      "image": ""
     },
     {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 13, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qZ3BKTEdBOWJhVEF5andHNkFqZWo4bmdRTVJfVk15aDlMT0x6Y0Z0UVNxQmgwVFJrcG9iSGlURElRbWF6R2xxaGE4YlE4Zw?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-12T23:01:51+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 13, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Israeli air strike on Gaza hospital kills six, including surgeon",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
-     "source": "NPR",
-     "published": "2026-11-12T22:33:00+00:00",
-     "summary": "Israeli launches its first air strike on a Gaza hospital since the ceasefire began last year.",
-     "image": ""
-    },
-    {
      "title": "The Midterms and U.S. Policy Toward Russia and Ukraine",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbzRyb0FHcGx5SWhhRFVTOUcyaG83Q0NoXzFYN2l5LXBkaUZLTEZPWWpiR1FNTUR4ZWFueXlPUEtKbnE5U3VxTzhITm1pa19ZQzBkeldseDdYeFZnN2tJUGJlOXJUdUU1eDJ6aUs5c0VTT3g1dWswcEE3c0s4Z2kzTC1keEtBaGlyTkh2RkxCVDY?oc=5",
      "source": "Russia Matters",
@@ -204,14 +212,6 @@
      "image": ""
     },
     {
-     "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-12T22:11:12+00:00",
-     "summary": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
      "title": "US envoys and Putin agree to continue Russia-Ukraine peace talks",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG45T2R4UmFjWjFib21RZmdqMFNSNmc4VlM5SDhnSFNkOWU3WElJTHczOEhnSG5hc05KQ3BHdUV3R1RYeXRMVkQ0SlJmbkMxRWhkTVFDOEQ1N013VnhGdW1ENzlIR21VREJYUmk1SklrWEYyWUg1NTMtMDU3VFVaeTA0dkMtWFM1c0ZwUkNMNlE4VUd6Mm5CY1pESVZVdkw0SzZXNkVMMNIBrAFBVV95cUxPYThFUTlZR1BIaUZKVFdOcFlqbi1DR0FEUlV1d1UyMGNvRG5oa0ZtRnJsN0FoRW9GeUFyTGlsVkZtcS1HTmdoRGt1bmlvYmR0aEtuQ0pWT0NjdXBwRG1NSXY5RnRtQkx3MHR2WjRaQmkxMmxmRHBORnI1aXBrSnNvSGN6SHE4ODRsWlFLWGxraURmajBZc2daN20ycFY3SFRpOVVmQ3JEVVZvNmFz?oc=5",
      "source": "Al Jazeera",
@@ -222,9 +222,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T23:29:18.748440+00:00",
+   "fetched_at": "2026-11-12T23:59:23.167747+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T23:34:05+00:00",
+     "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
+    },
     {
      "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0xoelhvSE5mQWkwX3ZETXVYRk9NYUpuY1VDbGVaM19QSGh1Z05kaEhQM2RvSHdldXFDX0FqTm1uMS10eEl6Y2xHX2hhN1JXaFcxelB6TFJIb2pza1B0VEJhSUUzY0RCaTBNX0ZjdE9UODdmemM3NHBTN290TTAzYXB4YTNCWW5ybE83NWR1VWxTRnpOX19vS1JabldVbGtxZTNETFhIdDNKU0lxck4zN1RhQzdfYlRrUHBXWmo4cnRKUQ?oc=5",
@@ -258,19 +266,11 @@
      "image": ""
     },
     {
-     "title": "Why Trump\u2019s Iran war just got a lot more costly",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNlBBa1dEb3kxLTh3QjRJZEROVGltY2ZsRnBLYXNRUi1uQUI3cloyU0FiOGJtUFZiMlZxUS12d0oyVXZpdklxSUpCVmlsVjNqaWRXRmt3ZG5ZdVBqTTdaMVFqM1JkZUFNd0VvMjBCVkhkcEVCYmdYZ19IZ1p1Z3J5eUpLOXdsYWRkaXR0YnQ3Q3Rac0VqbUx3?oc=5",
-     "source": "Center for International Policy",
-     "published": "2026-11-12T23:09:14+00:00",
-     "summary": "Why Trump\u2019s Iran war just got a lot more costly&nbsp;&nbsp;Center for International Policy",
-     "image": ""
-    },
-    {
-     "title": "Early voting for the December 12, 2026 Election begins Saturday, November 28! \ud83d\uddf3\ufe0f\ud83c\uddfa\ud83c\uddf8 With THREE early voting locations across Iberville Parish, including our East and North Iberville satellite locations established under the Daigle Administration, we're maki",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOTNqYUVlR3VEQWRHMkJhUlFXMHdzMFhNc0dkUE9YWE4yd0txTHdwU3J4MUhnV2VxbGFTZFVxRElUSnFpcE9sQ3IwREZsZ29KNUpDTGYwN0lIdWJsSmRFZVhRRDlEejNQVDdpeDNDN2oya3FOQm1YSkVXWjJidTZ6MUpKZlFoY2Nwam5EdkxUVVYweVZjWExRYWV1SXJKRGR4QlRqSF9VWlZXV1NfdWhUb1Nodm9EenNVeldkUElURW1DUmZlNHJpajdaS2FhSEVrY0xRMVJPVjk5NmtWdjZ6SlRPUV8?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-12T23:06:14+00:00",
-     "summary": "Early voting for the December 12, 2026 Election begins Saturday, November 28! \ud83d\uddf3\ufe0f\ud83c\uddfa\ud83c\uddf8 With THREE early voting locations across Iberville Parish, including our East and North Iberville",
+     "title": "Mississippi Senate race 2026 election results: Scott Colom's defeat of Cindy Hyde-Smith hits close to home for some in Chicago",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN09RaWpHelRfQ2IzeHlfTUhNNU8tMjVXQWY0S3FZRVdwaFYzS3RJcGZhRW50Nl9UUld1dnRQblEtaVh0U0FPdngyMGhjWXFQcG5LY3F0MVFEMFE5V3picWN6MGJFRUZET0ZCTzZ1OGhwRUhCRWh3RUZMYkdJb2tZTV9McjAwX05LOS1fTkEydWd6YW1weXpjb1lwSUpucGk4NjFmMnZIaEtsM2p0N2xZX0pCZmNLeXVzWEl5Rm9mZHNzTGVZbDAyODRDc0V6dFJYaGdDZW0xWlU1X1J6T1HSAeMBQVVfeXFMTlk4dENfRzU5SkxLcHhaVlhZUkJkNFMzam41eGFsa2NtbXppVEJ6ZmRpMXdaa1FIM1FfWWNOM0J2OG9SejJWNUlaa1h6NUpLMXFMb2l5dXRPZHNxMW9ydGlGbm8zaVdjVGpoc2pQRDJpVVo0VDAzaWFkQ3BSb3Y4dUpXNlV3WFIxM2VFRXliSjNjSTE2RUZ3aVRtcWwzbVR6enktUHp4cjg3ZWFJQXdubHpMMkcwVEdnQkc1TjFsVnBrWGV0aHNBT01uVjBNSTBQdFBLaHo2TC0wanp5bXo0b282bGc?oc=5",
+     "source": "ABC7 Chicago",
+     "published": "2026-11-12T22:57:08+00:00",
+     "summary": "Mississippi Senate race 2026 election results: Scott Colom's defeat of Cindy Hyde-Smith hits close to home for some in Chicago&nbsp;&nbsp;ABC7 Chicago",
      "image": ""
     },
     {
@@ -287,14 +287,6 @@
      "source": "Chalkbeat",
      "published": "2026-11-12T22:53:00+00:00",
      "summary": "Chicago school board election results bring victories for three CTU-backed candidates&nbsp;&nbsp;Chalkbeat",
-     "image": ""
-    },
-    {
-     "title": "Mississippi Senate race 2026 election results: Scott Colom's defeat of Cindy Hyde-Smith hits close to home for some in Chicago",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN09RaWpHelRfQ2IzeHlfTUhNNU8tMjVXQWY0S3FZRVdwaFYzS3RJcGZhRW50Nl9UUld1dnRQblEtaVh0U0FPdngyMGhjWXFQcG5LY3F0MVFEMFE5V3picWN6MGJFRUZET0ZCTzZ1OGhwRUhCRWh3RUZMYkdJb2tZTV9McjAwX05LOS1fTkEydWd6YW1weXpjb1lwSUpucGk4NjFmMnZIaEtsM2p0N2xZX0pCZmNLeXVzWEl5Rm9mZHNzTGVZbDAyODRDc0V6dFJYaGdDZW0xWlU1X1J6T1HSAeMBQVVfeXFMTlk4dENfRzU5SkxLcHhaVlhZUkJkNFMzam41eGFsa2NtbXppVEJ6ZmRpMXdaa1FIM1FfWWNOM0J2OG9SejJWNUlaa1h6NUpLMXFMb2l5dXRPZHNxMW9ydGlGbm8zaVdjVGpoc2pQRDJpVVo0VDAzaWFkQ3BSb3Y4dUpXNlV3WFIxM2VFRXliSjNjSTE2RUZ3aVRtcWwzbVR6enktUHp4cjg3ZWFJQXdubHpMMkcwVEdnQkc1TjFsVnBrWGV0aHNBT01uVjBNSTBQdFBLaHo2TC0wanp5bXo0b282bGc?oc=5",
-     "source": "ABC7 Chicago",
-     "published": "2026-11-12T22:52:30+00:00",
-     "summary": "Mississippi Senate race 2026 election results: Scott Colom's defeat of Cindy Hyde-Smith hits close to home for some in Chicago&nbsp;&nbsp;ABC7 Chicago",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-12T22:34:29+00:00",
      "summary": "Indiana Republican chair steps down week after sweeping election losses&nbsp;&nbsp;Indiana Capital Chronicle",
      "image": ""
+    },
+    {
+     "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer\u2019s DC office",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
+     "source": "The Guardian",
+     "published": "2026-11-12T22:12:56+00:00",
+     "summary": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate or",
+     "image": "https://i.guim.co.uk/img/media/942fdb9a8059fd8839e15d4ff3c0a78e1cc887d3/451_0_4491_3592/master/4491.jpg?width=140&quality=85&auto=format&fit=max&s=416bd9522227a71dbc3bb6697944afa6"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T23:29:18.748443+00:00",
+   "fetched_at": "2026-11-12T23:59:23.167750+00:00",
    "stale": false,
    "items": [
     {
