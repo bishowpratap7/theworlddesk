@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-12T17:57:57.024295+00:00",
+ "generated_at": "2026-11-12T17:58:11.770952+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T17:57:57.024267+00:00",
+   "fetched_at": "2026-11-12T17:58:11.770919+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-12T17:49:15+00:00",
+     "summary": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targetsOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a pr",
+     "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34"
+    },
+    {
+     "title": "Nvidia\u2019s Jensen Huang to testify to Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T17:46:22+00:00",
+     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip maker Too big \u2013 and too well-connected \u2013 ",
+     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
+    },
     {
      "title": "Duran Duran drummer Roger Taylor leaves band due to tinnitus",
      "url": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
@@ -46,14 +62,6 @@
      "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
     },
     {
-     "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-12T17:34:55+00:00",
-     "summary": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targetsOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a pr",
-     "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34"
-    },
-    {
      "title": "\u2018Labelled terrorists\u2019: How France is using anti-terror powers to deter protests",
      "url": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
      "source": "\u00a9 Aris Messinis, AFP",
@@ -70,20 +78,12 @@
      "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1"
     },
     {
-     "title": "Putin says Russia will target foreign troops deployed to Ukraine",
+     "title": "Putin says Russia would target foreign troops deployed to Ukraine",
      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
      "source": "The Guardian",
      "published": "2026-11-12T17:26:51+00:00",
      "summary": "Hardline remarks come as Ukrainian military faces disruptions to Elon Musk\u2019s Starlink satellite serviceVladimir Putin warned US negotiators that Russia would target any foreign tro",
      "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/197_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=bc24ba4c55bc400bf67c2fe746d0ae70"
-    },
-    {
-     "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
-     "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-     "source": "The Guardian",
-     "published": "2026-11-12T17:26:07+00:00",
-     "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year highUS existing home sales hit a 16-year low in October as buye",
-     "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6"
     },
     {
      "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T17:57:57.024282+00:00",
+   "fetched_at": "2026-11-12T17:58:11.770936+00:00",
    "stale": false,
    "items": [
     {
@@ -180,7 +180,7 @@
      "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1"
     },
     {
-     "title": "Putin says Russia will target foreign troops deployed to Ukraine",
+     "title": "Putin says Russia would target foreign troops deployed to Ukraine",
      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
      "source": "The Guardian",
      "published": "2026-11-12T17:26:51+00:00",
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T17:57:57.024285+00:00",
+   "fetched_at": "2026-11-12T17:58:11.770940+00:00",
    "stale": false,
    "items": [
     {
@@ -240,6 +240,14 @@
      "published": "2026-11-12T17:51:06+00:00",
      "summary": "Ten insights about crime and public safety&nbsp;&nbsp;D.C. Policy Center",
      "image": ""
+    },
+    {
+     "title": "Nvidia\u2019s Jensen Huang to testify to Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T17:46:22+00:00",
+     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip maker Too big \u2013 and too well-connected \u2013 ",
+     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
     },
     {
      "title": "U.S. Senate chiefs of staff peel back layers of election in terms of causes and consequences",
@@ -312,19 +320,11 @@
      "published": "2026-11-12T17:15:47+00:00",
      "summary": "West Bloomfield sets election turnout record&nbsp;&nbsp;C & G Newspapers",
      "image": ""
-    },
-    {
-     "title": "No Test Tubes Required: How an Office Hours Question Led to National Policy Research",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDl6cEtXT1F6dFZsNkJQWWt4TkpPcGZDWVk5U2h3STA2MXJaa1NmbFR0UVI3NkJ2LWQzZ2tEWDNHbXNiMHdBeUZFTVNxc3YxUzV5OTUyY2JVTjl2MnJIUkRXNGl0WURaeTNlblU3Qm5OQkhxSVRTVDZ2ZmRLX3B3d0NHc3VtQ0poeGktcU8tS3VnYkRlRkU4LXdmcXQzM2Q0Z3pGWmgwWnlQU3dBRHpRemd5NjJEZmtId2c?oc=5",
-     "source": "Davidson College",
-     "published": "2026-11-12T17:14:38+00:00",
-     "summary": "No Test Tubes Required: How an Office Hours Question Led to National Policy Research&nbsp;&nbsp;Davidson College",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T17:57:57.024286+00:00",
+   "fetched_at": "2026-11-12T17:58:11.770942+00:00",
    "stale": false,
    "items": [
     {
