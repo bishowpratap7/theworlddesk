@@ -1,10 +1,66 @@
 {
- "generated_at": "2026-11-12T08:56:32.830880+00:00",
+ "generated_at": "2026-11-12T09:26:36.546751+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T08:56:32.830849+00:00",
+   "fetched_at": "2026-11-12T09:26:36.546721+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\ud83d\udd34Live: Zelensky says Ukraine facing 'systematic' restrictions to Starshield satellite network",
+     "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
+     "source": "France 24",
+     "published": "2026-11-12T09:17:47+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "AI helps UK economy grow at fastest pace for more than two years",
+     "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+     "source": "The Guardian",
+     "published": "2026-11-12T09:12:52+00:00",
+     "summary": "GDP \u2018grew robustly\u2019 by 0.7% in third quarter and by 0.2% month on month in September despite high oil pricesBusiness live \u2013 latest updatesThe UK economy grew by 0.7% in the third q",
+     "image": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=040a7ae25f1278872b813c75d05ab697"
+    },
+    {
+     "title": "Nvidia board reportedly meets to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T09:11:33+00:00",
+     "summary": "Nvidia shares plunge in extended trading, sending Asian markets lowerNvidia board reportedly deciding whether to oust CEO Jensen HuangToo big \u2013 and too well-connected \u2013 to sack? Hu",
+     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+    },
+    {
+     "title": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling",
+     "source": "The Guardian",
+     "published": "2026-11-12T09:11:09+00:00",
+     "summary": "Exclusive: Legal notice comes as Buenos Aires ramps up rhetoric over UK territory and seeks to halt Sea Lion projectThe Argentinian government threatened a British businessman invo",
+     "image": "https://i.guim.co.uk/img/media/07b088f3f86725989c5b84b97b47b2078557c75c/368_0_7285_5829/master/7285.jpg?width=140&quality=85&auto=format&fit=max&s=932d767ea0c78a40e4d24aad0f858b97"
+    },
+    {
+     "title": "US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-12T09:08:40+00:00",
+     "summary": "Steve Witkoff and Jared Kushner are attempting to make further progress after earlier talks in Abu DhabiOh-oh.Ukraine\u2019s Volodymyr Zelenskyy has just taken to X to say that the Ukra",
+     "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4"
+    },
+    {
+     "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T09:01:24+00:00",
+     "summary": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+     "image": ""
+    },
+    {
+     "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T09:00:15+00:00",
+     "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
+    },
     {
      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
@@ -14,28 +70,36 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg"
     },
     {
-     "title": "Nvidia board reportedly meets to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "published": "2026-11-12T08:42:39+00:00",
-     "summary": "Nvidia shares plunge in extended trading, sending Asian markets lowerNvidia board reportedly deciding whether to oust CEO Jensen HuangToo big \u2013 and too well-connected \u2013 to sack? Hu",
-     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+     "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+     "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T08:40:08+00:00",
+     "summary": "India&#039;s expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
+     "image": ""
     },
     {
-     "title": "\u2018Tourists hate themselves\u2019 \u2013 which is why Tasmania is telling people to stay away",
+     "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+     "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T08:35:20+00:00",
+     "summary": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
+     "image": ""
+    },
+    {
+     "title": "Xi Jinping says Taiwan \u2018reunification\u2019 with China must happen",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T08:34:45+00:00",
+     "summary": "Xi Jinping, President of China, has called for the peaceful \u2018reunification\u2019 of Taiwan with China.",
+     "image": ""
+    },
+    {
+     "title": "\u2018Tourists hate themselves\u2019 \u2013 which is why Tasmania is telling them to stay away",
      "url": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
      "source": "The Guardian",
      "published": "2026-11-12T08:30:57+00:00",
      "summary": "Island state declares it \u2018is not really for tourists\u2019 \u2013 but is the marketing strategy just a cheeky piece of reverse psychology?Get our breaking news email, free app or daily news ",
      "image": "https://i.guim.co.uk/img/media/e85646f7aa4c4738df04d5911c9d698d1a06e28a/441_118_1061_849/master/1061.jpg?width=140&quality=85&auto=format&fit=max&s=c3f9e77e65bdaa33630b95d28fe5b94c"
-    },
-    {
-     "title": "UK economy grows at fastest pace for more than two years",
-     "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-     "source": "The Guardian",
-     "published": "2026-11-12T08:22:22+00:00",
-     "summary": "GDP \u2018grew robustly\u2019 by 0.7% in third quarter and by 0.2% month on month in September despite high oil pricesBusiness live \u2013 latest updatesThe UK economy grew by 0.7% in the third q",
-     "image": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=040a7ae25f1278872b813c75d05ab697"
     },
     {
      "title": "Mississippi elects first Black Senator since 1874",
@@ -52,83 +116,83 @@
      "published": "2026-11-12T08:01:29+00:00",
      "summary": "Anger over housing affordability and purchasing power leads to clashes amid Spain&#039;s first general strike in 14 years.",
      "image": ""
-    },
-    {
-     "title": "Water industry bonus ban to be tightened as Ofwat warns of \u2018damage to public trust\u2019",
-     "url": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
-     "source": "The Guardian",
-     "published": "2026-11-12T07:59:52+00:00",
-     "summary": "Regulator to hasten review over concerns that firms are \u2018undermining\u2019 rules to make large payments to bossesBusiness live \u2013 latest updatesThe water company bonus ban is set to be t",
-     "image": "https://i.guim.co.uk/img/media/81aadbb5c16eb191abb66b6c2a2be94335c99380/0_0_6793_5434/master/6793.jpg?width=140&quality=85&auto=format&fit=max&s=5f4110b594db4938109e4b5d97d0e694"
-    },
-    {
-     "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-     "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T07:59:33+00:00",
-     "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "Who is Nvidia CEO Jensen Huang?",
-     "url": "https://www.france24.com/en/who-is-nvidia-ceo-jensen-huang",
-     "source": "France 24",
-     "published": "2026-11-12T07:54:59+00:00",
-     "summary": "Nvidia's board met late Wednesday to decide whether to oust CEO \u200bJensen Huang, a source familiar with the matter told Reuters, as the world's dominant supplier of AI chips grapples",
-     "image": "https://s.france24.com/media/display/d05a8646-de6d-11f1-b785-f71d22e7fea9/w:1024/p:16x9/EN-20261112-083205-083407-CS.jpg"
-    },
-    {
-     "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
-     "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T07:45:52+00:00",
-     "summary": "The head teacher of the school has been arrested to assist police investigations.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg"
-    },
-    {
-     "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
-     "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
-     "source": "The Guardian",
-     "published": "2026-11-12T07:43:13+00:00",
-     "summary": "Meeting comes after CEO admitted to having a relationship with a woman who is alleged to be a Chinese spyBusiness live \u2013 latest updatesNvidia\u2019s board of directors met on Wednesday ",
-     "image": "https://i.guim.co.uk/img/media/934ceaf0a7aec362a381e5a51d389c5e68326269/300_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=99ffc9ad138652333367958ac6904705"
-    },
-    {
-     "title": "Russia's 'hidden mobilization': The 'expendable' lives fueling Putin's war on Ukraine",
-     "url": "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine",
-     "source": "France 24",
-     "published": "2026-11-12T07:39:55+00:00",
-     "summary": "Erin Ogunkeye is pleased to welcome John Lough, Senior Research Fellow and Head of Foreign Policy & International Partnerships at the New Eurasian Strategies Centre (NEST Centre), ",
-     "image": "https://s.france24.com/media/display/7f1eb672-de6c-11f1-be35-29048b396e03/w:1024/p:16x9/capture-cfa930ba.jpg"
-    },
-    {
-     "title": "Iran open to deal if US \u2018refrains from excessive demands\u2019, says Ghalibaf",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T07:38:05+00:00",
-     "summary": "Iran\u2019s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
-     "image": ""
-    },
-    {
-     "title": "Pope Leo welcomed by millions in his second \u2018homeland\u2019 of Peru",
-     "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T07:37:42+00:00",
-     "summary": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where \u200bhe was bishop from 2015-2023.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T08:56:32.830864+00:00",
+   "fetched_at": "2026-11-12T09:26:36.546735+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia Tried to Rearm Under Cover of a Humanitarian Ceasefire\u2014But Ukraine Hit Two Ammunition Depots, Video",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcm9EV0h0SDlnclF0VzM4c0ZpX19EWHlwbURCMEpDMC04REFKbkFvZnFoNVY1ZzNaajdRZUliTzFCYkxOdUxqYy1GenZVOE8xdWJXRHpzUENsQWhfY1hjeUxSZE9JUDVCRm5YUS1ydDRYY29HZVB4YlBlcS1xSEwtWHJEZ1gzMkJwQ3pmUlRIcWNtQTVTdmpvaU5XRTNVdTNkU1pnZTE2TlNqaEFFS0RMVEpXaGp4cnVheEpwdENZcVJoWnlGcURFMTNlNVFmbVhtR29xMjg3TFlVTHRBZEVKcFpKMGNDT2c?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-12T09:17:58+00:00",
+     "summary": "Russia Tried to Rearm Under Cover of a Humanitarian Ceasefire\u2014But Ukraine Hit Two Ammunition Depots, Video&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "\ud83d\udd34Live: Zelensky says Ukraine facing 'systematic' restrictions to Starshield satellite network",
+     "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
+     "source": "France 24",
+     "published": "2026-11-12T09:17:47+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-12T09:08:40+00:00",
+     "summary": "Steve Witkoff and Jared Kushner are attempting to make further progress after earlier talks in Abu DhabiOh-oh.Ukraine\u2019s Volodymyr Zelenskyy has just taken to X to say that the Ukra",
+     "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4"
+    },
+    {
+     "title": "Zelenskyy rejects U.S. view that Ukraine must withdraw to end the war",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVdmRkFadURBRnZDUVNuOHBheFRoUjJaVWtMVjBWWXoxaWFXTTZVMF8ya05zd3g0YmEwcXRUSlp1Ny1UZTB1QVZFRXRZNVdHdnNSTUgtRzlpVUlQekwyV0hidXhWQ1Y5SEduXzlBdGRBMldDUmtidkRlZGRvS1dmb21PZldacGdTUGp0VndKWHp0TGFLVzJQMnlmbE1XTVRNVFhsM2djbE5IbjDSAacBQVVfeXFMT1Z0cGphYlBrREFaTVExM19SZTNJUm9aYUFmWGNXU2dNWkd0TW1JNWd3eDRHVE1KR2xLMHprWVBRZ3JsTEdDeUc5MkpWU1lxbjlScDF6VUFsaEtiZjJxa3pRVUVNLUNqVE1scmxxQThKMWNZSXFScHdjUDBSdjlPVWROZllvQndUZHdWblpxVEx6V3ZyRGdkZUtTcHdTUWJsOWZGelhuazA?oc=5",
+     "source": "The New Voice of Ukraine",
+     "published": "2026-11-12T09:08:00+00:00",
+     "summary": "Zelenskyy rejects U.S. view that Ukraine must withdraw to end the war&nbsp;&nbsp;The New Voice of Ukraine",
+     "image": ""
+    },
+    {
+     "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG45T2R4UmFjWjFib21RZmdqMFNSNmc4VlM5SDhnSFNkOWU3WElJTHczOEhnSG5hc05KQ3BHdUV3R1RYeXRMVkQ0SlJmbkMxRWhkTVFDOEQ1N013VnhGdW1ENzlIR21VREJYUmk1SklrWEYyWUg1NTMtMDU3VFVaeTA0dkMtWFM1c0ZwUkNMNlE4VUd6Mm5CY1pESVZVdkw0SzZXNkVMMNIBrAFBVV95cUxPYThFUTlZR1BIaUZKVFdOcFlqbi1DR0FEUlV1d1UyMGNvRG5oa0ZtRnJsN0FoRW9GeUFyTGlsVkZtcS1HTmdoRGt1bmlvYmR0aEtuQ0pWT0NjdXBwRG1NSXY5RnRtQkx3MHR2WjRaQmkxMmxmRHBORnI1aXBrSnNvSGN6SHE4ODRsWlFLWGxraURmajBZc2daN20ycFY3SFRpOVVmQ3JEVVZvNmFz?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T09:05:24+00:00",
+     "summary": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T09:00:15+00:00",
+     "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
+    },
     {
      "title": "Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSGN4cHN5NFc2WF9VVE42QlFOalp2NHFORkF0elNXQ2x2WkVtWjUyXzNfVVRVYTFnMUtINXNWcGo4YzdoYVVLOWtEaTZNUVRhZkRDWlRUVHdDcEZ4ZzhTM1RjaXFPVDZlVFdhN2JTclFLXy1ESjBJaUQtTjNuY09BNXBIbjlnTlVaN3R2RTRYemxYRVh6VnhSYnR3NS0yYXBX?oc=5",
      "source": "Egypt Independent",
      "published": "2026-11-12T08:50:51+00:00",
      "summary": "Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin&nbsp;&nbsp;Egypt Independent",
+     "image": ""
+    },
+    {
+     "title": "Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-12T08:48:45+00:00",
+     "summary": "Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin&nbsp;&nbsp;DW.com",
+     "image": ""
+    },
+    {
+     "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+     "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T08:40:08+00:00",
+     "summary": "India&#039;s expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
      "image": ""
     },
     {
@@ -154,77 +218,45 @@
      "published": "2026-11-12T08:25:00+00:00",
      "summary": "This Defense Makes Drones (and GPS) Think They\u2019re in Peru&nbsp;&nbsp;The New York Times",
      "image": ""
-    },
-    {
-     "title": "US Envoys Steve Witkoff and Jared Kushner Arrive in Moscow for Talks With Putin on Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVU5rSzBpVjh5ODhpQmN1SmkxVnFydFRVbUxVUFpyYVBxb1dBeFdJWUp3MUdLQzVhV0RVZEJwRER4S3AyOG1MTmZNTHc5MGJLaEVGbFRucFFoeVJXX0pSblhIM2p1ZWh0S0MtWldWOXI4bjJZa1lzd052MVRxY2hjcmhTXzBvbGliQUFUUzNZMTNaRUxuUFNjbVdoRlo4ZG1YbHpMWmUzSm1xeE1OUGFfUUZXV1g0ZHVuX1dJZnE2LWVDaXNaR2lF?oc=5",
-     "source": "Open Magazine",
-     "published": "2026-11-12T08:24:54+00:00",
-     "summary": "US Envoys Steve Witkoff and Jared Kushner Arrive in Moscow for Talks With Putin on Ukraine War&nbsp;&nbsp;Open Magazine",
-     "image": ""
-    },
-    {
-     "title": "Mississippi elects first Black Senator since 1874",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T08:12:40+00:00",
-     "summary": "Democrat Scott Colom has won Mississippi\u2019s Senate race, becoming the state\u2019s first Black senator since 1874.",
-     "image": ""
-    },
-    {
-     "title": "What to know as European leaders meet in Dublin to discuss Ukraine's security, and their own",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTEySFlpNnpEbnJhQWltRE10WmNBT0JFY1M3SHZkSFhsMWNrT2RCWGdIRlJ5ZzR4dldCdDVlTGF1SUlGaEk4SkxITEMxOGMwZEEycmNmSkxNMjJ3czIxNnEzSUg4VTR4bU1qNjBvcU1uNjZqZ01aNF84bGxsUC1SR25ERzNaVm8xUC1sNzhsX1hpckdZR1hLSWFBaWdYeEtCWkZFQ1l5TER1ZWdk0gGyAUFVX3lxTE9LMWw3Q1cxSGhueV9tWkRqVmg1THBESVZNNTlNUC1CRFpRMnhtN01Ca0NwaUhVMmM1ZU1WLWJka3dMN1RTNXpkR2hEYVNyZVJGLUdwNEUydjVobnZIWEJubkZ4TDJkUGdiZmR6MWR2ZEcwY1QwNkdCV004UGQ2bV91ZG16bXJIOTczOEpmRXRxRmFrRzR3aldXOUllajQySG81Z2dIWVZhbUtBWkZQWjZGekE?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-11-12T08:06:26+00:00",
-     "summary": "What to know as European leaders meet in Dublin to discuss Ukraine's security, and their own&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-     "image": ""
-    },
-    {
-     "title": "Russia, Ukraine trade accusations over overnight strikes amid US envoys\u2019 visit to Moscow",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVDlfMWN3aWVpX1l3d3NYZ2pvM3lkQzBaU2gtdlExRHhQa2VuUUFxdHoxY1poaFhjX3diRkJuUXBrVHdqS2VFN1hIZDk5WlVnUkJpMEk3enh4VGVSTXZubFV0VEZ3REJ4LVBVT1dBWF9JSWlKQTJIZ1Z1MER0dzUzTE5RSm10REFxWkZlcUdVdVg3cF9tOVNWRjFkRDBqVS1kdjI5XzVTQWtlUE5IS2hzUUQwLUE1dzZkWll6Y2FXbWRyUUV0UU02TUdUaWtHeTQ?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-12T08:03:56+00:00",
-     "summary": "Russia, Ukraine trade accusations over overnight strikes amid US envoys\u2019 visit to Moscow&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Water industry bonus ban to be tightened as Ofwat warns of \u2018damage to public trust\u2019",
-     "url": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
-     "source": "The Guardian",
-     "published": "2026-11-12T07:59:52+00:00",
-     "summary": "Regulator to hasten review over concerns that firms are \u2018undermining\u2019 rules to make large payments to bossesBusiness live \u2013 latest updatesThe water company bonus ban is set to be t",
-     "image": "https://i.guim.co.uk/img/media/81aadbb5c16eb191abb66b6c2a2be94335c99380/0_0_6793_5434/master/6793.jpg?width=140&quality=85&auto=format&fit=max&s=5f4110b594db4938109e4b5d97d0e694"
-    },
-    {
-     "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-     "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T07:59:33+00:00",
-     "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "Oil Prices Moderated As U.S., Russia, Ukraine Hold Talks",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHZKdk1YcVZ0VTRaMFBzOU9lZUlOWUxOWEFDOGc2c2Z3aXBEbTltQ0RDZm9xSUl5YWNMZEVObFhnVnZLMHRFUmw2XzNUNHhSRzI5a0JKTUtzTmE1VjhoN1QtODdXRTlXakp4VEhtaDh4ZGRiLWdJM05HeHFyM0g5M3QxRGJHNWc?oc=5",
-     "source": "MarketForces Africa",
-     "published": "2026-11-12T07:58:51+00:00",
-     "summary": "Oil Prices Moderated As U.S., Russia, Ukraine Hold Talks&nbsp;&nbsp;MarketForces Africa",
-     "image": ""
-    },
-    {
-     "title": "Ukraine War, Day 1,722: Zelensky \u2014 \u201cWindow of Opportunity\u201d as Trump Envoys Visit Putin",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVhhWEYydFlwOXBQTVRPMGV0OEx0VFF1QndJclRIUGpDcVpPcWJBRGtPM2QxWTFVblFQbVR1c0dnRE1sY0h2WVAtemZoelFOcVF0cGNwdzctQ1g4UHhhdmEyeV9zeXNkWEZEY05BWHZnNDVRR1FnZEx1d2dhUVhSUFltd1U3QlRuNl9UbXNuMGZQZ0VhcndGVVZ1MG1ZY0pVaTFwMmVn?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-12T07:58:05+00:00",
-     "summary": "Ukraine War, Day 1,722: Zelensky \u2014 \u201cWindow of Opportunity\u201d as Trump Envoys Visit Putin&nbsp;&nbsp;EA WorldView",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T08:56:32.830868+00:00",
+   "fetched_at": "2026-11-12T09:26:36.546739+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling",
+     "source": "The Guardian",
+     "published": "2026-11-12T09:11:09+00:00",
+     "summary": "Exclusive: Legal notice comes as Buenos Aires ramps up rhetoric over UK territory and seeks to halt Sea Lion projectThe Argentinian government threatened a British businessman invo",
+     "image": "https://i.guim.co.uk/img/media/07b088f3f86725989c5b84b97b47b2078557c75c/368_0_7285_5829/master/7285.jpg?width=140&quality=85&auto=format&fit=max&s=932d767ea0c78a40e4d24aad0f858b97"
+    },
+    {
+     "title": "Commentary: Amidst election noise, some good news for the First Amendment",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmt5WDZtdlM1RjhmTktIeVo4VkVaMGxvR0NxM2lUZE85YXdpX0dmeXlyNWExTmJPUV9OYmV2YThyZHZNNEk2bmRMd2QwQkVjRndDeHJZa3dQM1ZlTVJ6eVpDM1UwbjVYekhfT0xuNU81bnF3LWxZeXB2NEtSaW5EOFgwcnhRX0xLZXFaLS1vR3FfXzZVQThWTGQxUUpoMVBjNS00STJR?oc=5",
+     "source": "Ohio Capital Journal",
+     "published": "2026-11-12T09:10:01+00:00",
+     "summary": "Commentary: Amidst election noise, some good news for the First Amendment&nbsp;&nbsp;Ohio Capital Journal",
+     "image": ""
+    },
+    {
+     "title": "Poll watchers in Indian Country observed a steady and calm midterm election",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1hVSzhUYndJcGpFVks1TVBRN3RZdnlqV1V3OFJwaG9scWxlNTJfN1psM2JoZ29KQ01IZ2ZMZ0tpS0xnRGVCUlJ3bHRzTkplMVVUc1BTSnd3dkktOUxTNmc3ajc1T281bVBISWhObWRIQW5UekxIMFY0R0ZydWtVU2xWN2JvclhWY2VIbG5CUnJaLVd6d3FmaDRrWWJNN0cyN1lVSWxseTU?oc=5",
+     "source": "High Country News",
+     "published": "2026-11-12T09:00:00+00:00",
+     "summary": "Poll watchers in Indian Country observed a steady and calm midterm election&nbsp;&nbsp;High Country News",
+     "image": ""
+    },
+    {
+     "title": "EU to approve more sanctions on Russia on Monday, France says",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbGRJY0NscW1XVmJrX1VJR1JWZW1fVVhXaTdKeXN6aVFEMGJueGdSeTE1SlpGQVVpYjZIN0VOb2RpSmlqVGdmMDhsSVlHSWltYWoyOTBPZkpoVTZVV2V6SG42LUJRcTFIb1Z2TzByT19USElvV1g3eXYyU0ZQVEVfc191ZWl0ZDVLeUJ5c3VlUUhHWTViUDl2REFwQmxZNDNvZkE?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-12T08:55:44+00:00",
+     "summary": "EU to approve more sanctions on Russia on Monday, France says&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
@@ -232,6 +264,14 @@
      "published": "2026-11-12T08:46:57+00:00",
      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg"
+    },
+    {
+     "title": "Xi Jinping says Taiwan \u2018reunification\u2019 with China must happen",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T08:34:45+00:00",
+     "summary": "Xi Jinping, President of China, has called for the peaceful \u2018reunification\u2019 of Taiwan with China.",
+     "image": ""
     },
     {
      "title": "Senator Lisa Murkowski visits Nome, talks election, projects and priorities",
@@ -280,68 +320,28 @@
      "published": "2026-11-12T07:29:00+00:00",
      "summary": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy&nbsp;&nbsp;WSJ",
      "image": ""
-    },
-    {
-     "title": "Youth voter turnout reaches second-highest level for a midterm election in 30 years",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTF80VUdqWjhRdWo3WmQzV0lLMnh3WERrTm84N0g1STQ1LXFGeDdFTURaMkduQm1YRGNlMERRaTllcndoejZNcnlLYURvNFUxZTZfa2xNQjdxVWxWb3M1VUJMVEpEaVhqUTRKdTBJenF3QlRueTU0cTh2dW5CRkJZREVvMWxmbTcyUXVBeFBTUTBLY3l2M3VCTjFCYmtQSjNueFpTbldYNjNManhWNlk5ZjlLUjZSUnFDLURiWGVudE1TSkxj?oc=5",
-     "source": "The Tufts Daily",
-     "published": "2026-11-12T07:12:40+00:00",
-     "summary": "Youth voter turnout reaches second-highest level for a midterm election in 30 years&nbsp;&nbsp;The Tufts Daily",
-     "image": ""
-    },
-    {
-     "title": "Close Count project update one week after Election Day",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGhmb2VtRWV4eU54WEkzdUlCVFdybXpmcmRsb3g1Y2tIa2tJUEtabG5TRTdYV1gyLUNaMVhMYTF6X1JSMlUyRGJ6djAxUVRtdjhDWEpyeTNUeHlZZV9UQjNTdXpjdG9Fbm1oeFpKVVdyWlJoaG9hbDVTekRRamhTNjJuWUtETDRGSXY4?oc=5",
-     "source": "California Voter Foundation",
-     "published": "2026-11-12T07:12:18+00:00",
-     "summary": "Close Count project update one week after Election Day&nbsp;&nbsp;California Voter Foundation",
-     "image": ""
-    },
-    {
-     "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRTNHZFFRdHFUWjJ5Yk4xZGNtemYyR3B3UENkcHE3NG5TOUo3ai0ydnFGQ2k5YU1IbkNLdG4tNHR4dTZES01xQVlrMHN2YUdVUVJoQzNEcFdzN3N2Q1d0Z0lwZE1sM2I0dGFZY250Zk91QUtjczEtS1dsQTh0YjJ5MmpxZkltaGU0R2J3MXpqSzMxdw?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-12T07:12:00+00:00",
-     "summary": "Scott Colom, a Democrat, Wins Mississippi Senate Election&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "October 2026 \u2014 Monthly analysis of Russian fossil fuel exports and sanctions",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON295allBekR4ZFBCVDBpakhuYm9MREJBTGhyY2U0eUprY19FVThpTzVub2UycHBLRUpuWENqRlYtRVdoZnNlOXg0cFU1RWp2N0ZoeVRBclVjdG1XTlgwV3BKTUdVRnpnOGFvQ19aQWhVOENzTlUySEI0Zm13UUsyVi1oZkQ5TkRFcF8yc2tob1owQ3Mzd3ZfNUFWOUpJTURWZzZBcVhUaWY?oc=5",
-     "source": "Centre for Research on Energy and Clean Air",
-     "published": "2026-11-12T07:00:00+00:00",
-     "summary": "October 2026 \u2014 Monthly analysis of Russian fossil fuel exports and sanctions&nbsp;&nbsp;Centre for Research on Energy and Clean Air",
-     "image": ""
-    },
-    {
-     "title": "Montana viewpoint: A tip of the hat to election workers",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0haRDN3Vl9HMVJydVBCWkpaZ2ZOZ2FrQVRwUTIzdDZmUTlhVllLNlJyRTY5RTVFNXM4TkFKTk1pZ0FhYzEwRHJKdENYVzNrXzVJV3VEMjBuYllnTUNKNF9nYktGeTFNUENrRW5rYlNuaDhGcGhhS0FFbVVQRTE1RGRXVjIzMjJEVS1PLXF3NHR1eGlWZ3FHYkpnYm5Gd2p3?oc=5",
-     "source": "Daily Inter Lake",
-     "published": "2026-11-12T07:00:00+00:00",
-     "summary": "Montana viewpoint: A tip of the hat to election workers&nbsp;&nbsp;Daily Inter Lake",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T08:56:32.830871+00:00",
+   "fetched_at": "2026-11-12T09:26:36.546742+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "AI helps UK economy grow at fastest pace for more than two years",
+     "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+     "source": "The Guardian",
+     "published": "2026-11-12T09:12:52+00:00",
+     "summary": "GDP \u2018grew robustly\u2019 by 0.7% in third quarter and by 0.2% month on month in September despite high oil pricesBusiness live \u2013 latest updatesThe UK economy grew by 0.7% in the third q",
+     "image": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=040a7ae25f1278872b813c75d05ab697"
+    },
     {
      "title": "Nvidia board reportedly meets to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
      "source": "The Guardian",
-     "published": "2026-11-12T08:42:39+00:00",
+     "published": "2026-11-12T09:11:33+00:00",
      "summary": "Nvidia shares plunge in extended trading, sending Asian markets lowerNvidia board reportedly deciding whether to oust CEO Jensen HuangToo big \u2013 and too well-connected \u2013 to sack? Hu",
      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
-    },
-    {
-     "title": "UK economy grows at fastest pace for more than two years",
-     "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-     "source": "The Guardian",
-     "published": "2026-11-12T08:22:22+00:00",
-     "summary": "GDP \u2018grew robustly\u2019 by 0.7% in third quarter and by 0.2% month on month in September despite high oil pricesBusiness live \u2013 latest updatesThe UK economy grew by 0.7% in the third q",
-     "image": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=040a7ae25f1278872b813c75d05ab697"
     },
     {
      "title": "Paraguay partially refunds Ueno Bank depositors after collapse",
