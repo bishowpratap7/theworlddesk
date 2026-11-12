@@ -1,17 +1,57 @@
 {
- "generated_at": "2026-11-12T18:58:20.067871+00:00",
+ "generated_at": "2026-11-12T19:28:32.643043+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T18:58:20.067840+00:00",
+   "fetched_at": "2026-11-12T19:28:32.643012+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+     "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T19:23:02+00:00",
+     "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured \u2013 latest updates",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-12T19:09:00+00:00",
+     "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is ",
+     "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
+    },
     {
      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
      "source": "The Guardian",
-     "published": "2026-11-12T18:48:42+00:00",
+     "published": "2026-11-12T19:02:38+00:00",
      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to",
      "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
+    },
+    {
+     "title": "Nvidia\u2019s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T19:01:37+00:00",
+     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI k",
+     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
+    },
+    {
+     "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+     "source": "The Guardian",
+     "published": "2026-11-12T19:01:16+00:00",
+     "summary": "President says vice-president will focus on supposed \u2018Massive Corruption and Crime taking place in Democrat run Cities and States\u2019US politics live \u2013 latest updatesDonald Trump has ",
+     "image": "https://i.guim.co.uk/img/media/b6079a2bff857f65facec7ffe5790f80f7acf1cd/387_0_4197_3357/master/4197.jpg?width=140&quality=85&auto=format&fit=max&s=c969ed100492d7b0d98b83020b763bbe"
+    },
+    {
+     "title": "Former death row prisoners call Byron Donalds to halt future Florida executions",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/byron-donalds-florida-executions",
+     "source": "The Guardian",
+     "published": "2026-11-12T18:58:44+00:00",
+     "summary": "Donalds is governor-elect in state that leads the US in the number of executions, with its 20th this year taking place next weekThree exonerated former death row prisoners in Flori",
+     "image": "https://i.guim.co.uk/img/media/bc3299d5c2547a0e3ab904d89be4e59f7bb4e524/887_513_2936_2348/master/2936.jpg?width=140&quality=85&auto=format&fit=max&s=e1de19900e03269fd15b4104cd03597d"
     },
     {
      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
@@ -22,28 +62,20 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg"
     },
     {
+     "title": "Pro-Palestine philanthropist faces US extradition hearing in Spain",
+     "url": "https://www.aljazeera.com/news/2026/11/12/james-fergie-chambers-extradition-hearing?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T18:41:40+00:00",
+     "summary": "James &#039;Fergie&#039; Chambers denies wrongdoing, while his wife urges PM Sanchez to grant him political asylum.",
+     "image": ""
+    },
+    {
      "title": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
      "source": "The Guardian",
      "published": "2026-11-12T18:38:13+00:00",
      "summary": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personalityMinisters are looking at ways to change the law quickly to expand prot",
      "image": "https://i.guim.co.uk/img/media/0f1d36ea5f7633023c9700f06b5ac5ddc7f6d639/386_33_2853_2283/master/2853.jpg?width=140&quality=85&auto=format&fit=max&s=f2dd0ada682d01dd58961f928bea1c99"
-    },
-    {
-     "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured \u2013 latest updates",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-12T18:31:45+00:00",
-     "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is ",
-     "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
-    },
-    {
-     "title": "Nvidia\u2019s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "published": "2026-11-12T18:29:45+00:00",
-     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI k",
-     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
     },
     {
      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
@@ -54,20 +86,20 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
     },
     {
-     "title": "THC drink companies rush to sell inventory as Illinois ban takes effect",
-     "url": "https://www.theguardian.com/us-news/2026/nov/12/thc-drinks-ban-illinois",
-     "source": "The Guardian",
-     "published": "2026-11-12T18:21:46+00:00",
-     "summary": "Many hemp companies are shipping their remaining inventory to Wisconsin, Minnesota and Tennessee, which have different regulationsAt midnight this morning in Illinois, hemp-derived",
-     "image": "https://i.guim.co.uk/img/media/298a89cf1482d4929e360e4115a550c9b116c1a3/844_498_1878_1502/master/1878.jpg?width=140&quality=85&auto=format&fit=max&s=eccea822418fa550d836d328d27e56cd"
+     "title": "Home sales in the US are at their lowest level since 2016",
+     "url": "https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T18:26:28+00:00",
+     "summary": "The sale of previously owned homes dropped 5.5 percent in October, the lowest level since August 2010.",
+     "image": ""
     },
     {
-     "title": "Suspect in Washington DC gym shooting dead by suicide as four people injured and one dead",
-     "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-     "source": "The Guardian",
-     "published": "2026-11-12T18:12:56+00:00",
-     "summary": "Authorities identify suspect as \u2018white male\u2019 who was a member at VIDA Fitness, the gym where people were shot Washington DC shooting latest updatesFour people were injured and one ",
-     "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be"
+     "title": "What to know about the Logan Circle shooting in Washington, DC",
+     "url": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T18:22:04+00:00",
+     "summary": "Trump has showcased the capital city as an example of his tough-on-crime approach.",
+     "image": ""
     },
     {
      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
@@ -84,45 +116,61 @@
      "published": "2026-11-12T18:02:32+00:00",
      "summary": "Police say the man suspected to have killed one person in a shooting in Washington DC appears to have shot himself.",
      "image": ""
-    },
-    {
-     "title": "Lewis Hamilton says \u2018Israel\u2019s genocide in Gaza is appalling\u2019 after Rafah visit",
-     "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-     "source": "The Guardian",
-     "published": "2026-11-12T18:00:50+00:00",
-     "summary": "F1 driver urges Israel to let aid into GazaTrip involved tour of facilities with aid workersFormula One driver Lewis Hamilton said on Wednesday that Israel must allow aid \u2060trucks i",
-     "image": "https://i.guim.co.uk/img/media/9f421ee9a5c3c6382f96f0224c1cede036b26ba6/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=4f4fcb9c3636fdfba9468c15830cd3db"
-    },
-    {
-     "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets \u2013 as it happened",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-12T17:58:42+00:00",
-     "summary": "This blog is now closedOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a prominent leftwinger, indicated she might vote against legislation to implement the A",
-     "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34"
-    },
-    {
-     "title": "Duran Duran drummer Roger Taylor leaves band due to tinnitus",
-     "url": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
-     "source": "The Guardian",
-     "published": "2026-11-12T17:44:44+00:00",
-     "summary": "\u2018I must now listen to my body and my doctors\u2019, says Taylor, who was one of the earliest members of the new wave hit-makersThe drummer for Duran Duran, Roger Taylor, is to step down",
-     "image": "https://i.guim.co.uk/img/media/b2547339d360dadcd2623b61529bb331a875d26c/793_174_692_553/master/692.jpg?width=140&quality=85&auto=format&fit=max&s=6e5bbfe909c0d6946a3c44b0966b5606"
-    },
-    {
-     "title": "Israel to ban far-left French politician Jean-Luc M\u00e9lenchon from entry",
-     "url": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
-     "source": "\u00a9 Abdul Saboor, Reuters",
-     "published": "2026-11-12T17:43:03+00:00",
-     "summary": "The Israeli government said Thursday that it would ban far-left French leader Jean-Luc M\u00e9lenchon from entering the country after the French presidential contender said he would use",
-     "image": "https://s.france24.com/media/display/33654616-dab0-11f1-ad25-695cb59fade5/w:1024/p:16x9/2026-10-14T100614Z-1152484815-RC2Y2OATJ5N2-RTRMADP-3-FRANCE-POLITICS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T18:58:20.067854+00:00",
+   "fetched_at": "2026-11-12T19:28:32.643027+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured \u2013 latest updates",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-12T19:09:00+00:00",
+     "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is ",
+     "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
+    },
+    {
+     "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+     "source": "The Guardian",
+     "published": "2026-11-12T19:02:38+00:00",
+     "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to",
+     "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
+    },
+    {
+     "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+     "source": "The Guardian",
+     "published": "2026-11-12T19:01:16+00:00",
+     "summary": "President says vice-president will focus on supposed \u2018Massive Corruption and Crime taking place in Democrat run Cities and States\u2019US politics live \u2013 latest updatesDonald Trump has ",
+     "image": "https://i.guim.co.uk/img/media/b6079a2bff857f65facec7ffe5790f80f7acf1cd/387_0_4197_3357/master/4197.jpg?width=140&quality=85&auto=format&fit=max&s=c969ed100492d7b0d98b83020b763bbe"
+    },
+    {
+     "title": "Ukraine war latest: Starshield speed restrictions return, Zelensky says",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGhQWVVLZ0luNFY4cHlNa19fVGVFQWVHZXB2WnFCV0JaM1FHTUltLWtUSW5zM2V5VlpkWWphU29STnpXbkFSUHd2bl8xN3FEX0dZLXJSa3h3bkZFNVpoYkpYNUM1SjNPT1ZYa3d0TWJvQ05sU3ZuaHJYRDlEVDcxb2p3VzE2VW8wSWhIekRwMjFSYVh5WmtwQzU3bF9fSkk?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-12T18:58:32+00:00",
+     "summary": "Ukraine war latest: Starshield speed restrictions return, Zelensky says&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "Estonia Warns of Russian \u2018Mind Games\u2019 Over New Security Demands",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjZGdUxWNFlHUTJObGZ2QVN2SVp4eHNucl9Sd3NRcTkzcF9sZVhweFNrSTNQSTFxOGROR0NTaU4yZGh1OTFQQldvQWNrS0xySC1VZlpvOTlaUjVwQmdmUl9BcHNFV3FORkpIUlNtVXIxLTdfaDRfMlAtYUlSLUY5SGh6cWZpR2JSdE9IaC1QUUcybGJBX3J2ZG5EQUZsSktFUEV2bmloMFZabmxSUEFhU3Fn?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-12T18:57:25+00:00",
+     "summary": "Estonia Warns of Russian \u2018Mind Games\u2019 Over New Security Demands&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "Bloomberg: Russia\u2019s leaked records show foreigners from nearly 100 countries died in its war on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaDA0NGRYRE9RS1h6YmFCVjQtUjQ0QTRTS2V3WlUxMEl5WG1GQU4xNFEtaWxnQzREcUNzWTJpVkQwQnpRT2gwQjlpcERIWE5tVVZpeUxtenRfS3B3b19tSTBfbGNPN295QjUyY3k5SWp5VTdtVmt1dDBwZHNiTVJGZkZ3MHFZQ1doNTNsb21qREg2UmhubWQ2RU9RVWxtMm9icGFsZTRtYzF6blBBd0wtSXhlbXR2cnNLb0xJX0lhSWFGMnE2MnFncl9EOG0tekdIQ1BhYTRlZmk?oc=5",
+     "source": "Euromaidan Press",
+     "published": "2026-11-12T18:56:31+00:00",
+     "summary": "Bloomberg: Russia\u2019s leaked records show foreigners from nearly 100 countries died in its war on Ukraine&nbsp;&nbsp;Euromaidan Press",
+     "image": ""
+    },
     {
      "title": "European representatives to join Ukraine-US talks in Dublin",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm1uNVB1VDJmQmxGNjBhSXpNLWRWOWdIdVJCZE5NSE8yRmNpOHJJT21uaXlhUVZKbDVzWUhxWDM2SWJRMFlhWFo3bG0zRUZpX3pmRlJxakdwaXV3a0VuNWVKV2dxSWZGZVdmNXVuaVByYnZKaGJJRGJPMUs4NHQxZHRpQm40LVNnXzVQYzlfNG1LZFRzNkxEc2MtdU1xWFU?oc=5",
@@ -132,12 +180,12 @@
      "image": ""
     },
     {
-     "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-     "source": "The Guardian",
-     "published": "2026-11-12T18:48:42+00:00",
-     "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to",
-     "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
+     "title": "U.S. envoys meet Putin as Ukraine peace talks continue",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM3FTRklDZ2Zwd2g2ME9xZ3pRcFdyVGJNNGdYTWhHQmtyWWhmOUNFeDl6dFdhLUxobGtUbUZ2N2ppV3dzWnhSTjJBNFZzUlpsQXpiaTh1Q0VTa3lxOVl4M3hoVUxNckxMeWdYWVdva09lNV9KT05sanRSMkVnZHZpN3hveV9UVjdRVUxvVEs1Uks2QnhOVnhJRGF1dE1rWnBaNkdqdlBLdTE0SEYtVGIxQmtwMzQ0bUYwWF96RXBJNDhWdVlHdkhMbFlqR0NXd1BRM2ltSldrSVFuNGxk?oc=5",
+     "source": "starcitytv.com",
+     "published": "2026-11-12T18:48:00+00:00",
+     "summary": "U.S. envoys meet Putin as Ukraine peace talks continue&nbsp;&nbsp;starcitytv.com",
+     "image": ""
     },
     {
      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
@@ -156,14 +204,6 @@
      "image": ""
     },
     {
-     "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured \u2013 latest updates",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-12T18:31:45+00:00",
-     "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is ",
-     "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
-    },
-    {
      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -178,53 +218,53 @@
      "published": "2026-11-12T18:21:49+00:00",
      "summary": "Russia's New Security Proposal Would Deal Directly With Individual NATO States&nbsp;&nbsp;Latin Times",
      "image": ""
-    },
-    {
-     "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T18:03:02+00:00",
-     "summary": "Al Jazeera\u2019s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
-     "image": ""
-    },
-    {
-     "title": "Why neither Russia nor Ukraine can turn the tide of the war \u2014 and how they still pull off successful offensives like Kyiv\u2019s Operation Vivaldi",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQTZ2Y2FJU3gzdlE1eXZTXzVEY0thRHRLSGtKOTBvc0JVNGtzSlV4NzRnVkYyZU9JNldpSGhrMWxUbmQwb2pZOWxfc0NsT3ZPQnIwcmFRTnZqUzlSci1tQ3VxWW1WVXplbmdycHNEUjBsQXJMMENEOTY0dmctRGRoeUNfVGlTU3YtMlR1cUlPdzlmTWJ0TDVVazhhZkR4LU1XV0IwaEVHRU9UN3FuWXFXVzhWWG9NRkgzalo0MndPTjRQRGZxbDd6WjFoLWVOSUh0OWx2dnIyUm1wNm53cG16bUJtb3dSNWc4NUk2Rkc0MmlZVTRfZXZ6YkFVSG53VWlXRlp4eVA1UjRnTnPSAZACQVVfeXFMTzlpb0pQWG5IaVFBV3Ntdmtla1ZfWlE0b1YwbDZ2Y05XSEplTG5rbVBuOGtSTlN0dTN4WWxuM05GTkVMRnMyRUoxbm1NcEYyVFhQTnNMTXc1b2szY1dNUkFPWFdlZDdxTGQ3clBGajgxV3lRWlB5dGxnR05sa2llLXdrdzdPZEZtYk9jbWdpU0trT3MyM2dXZnJUQndwMFFjX1NZNHpMU1MwYXRiM1FYUlExVVpEU191czNpSzhiM0NlX0dLT1ctTEtfMjhNNmFyU1J0NE5ldzRfZVN5eUx0bFoyUTFFRGpvMWo0eENwUUJDaGRHOHZEN3pmVlprTjRkX08zRWJsVXo1ZTlVS1V3Qms?oc=5",
-     "source": "Meduza",
-     "published": "2026-11-12T18:03:00+00:00",
-     "summary": "Why neither Russia nor Ukraine can turn the tide of the war \u2014 and how they still pull off successful offensives like Kyiv\u2019s Operation Vivaldi&nbsp;&nbsp;Meduza",
-     "image": ""
-    },
-    {
-     "title": "Abu Dhabi talks produce one breakthrough: Russia and Ukraine agree in principle to exchange 314 POWs",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQm1rZmZaTDczcmptNE0wSmVvVVBTSF94MFo4cHVqcUkwOWgwdEJWQ3VWR3R6WElVbkJZanFIdGxfaUZCZndJYlppR21lendBRURqU3BoTWtTcjhuX2FoLWRQVXRvNm5hdVFfWWFxaG1uUXlqVDEzZjFNWW9PMWVmMkREZw?oc=5",
-     "source": "Latin Times",
-     "published": "2026-11-12T18:02:20+00:00",
-     "summary": "Abu Dhabi talks produce one breakthrough: Russia and Ukraine agree in principle to exchange 314 POWs&nbsp;&nbsp;Latin Times",
-     "image": ""
-    },
-    {
-     "title": "Lewis Hamilton says \u2018Israel\u2019s genocide in Gaza is appalling\u2019 after Rafah visit",
-     "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-     "source": "The Guardian",
-     "published": "2026-11-12T18:00:50+00:00",
-     "summary": "F1 driver urges Israel to let aid into GazaTrip involved tour of facilities with aid workersFormula One driver Lewis Hamilton said on Wednesday that Israel must allow aid \u2060trucks i",
-     "image": "https://i.guim.co.uk/img/media/9f421ee9a5c3c6382f96f0224c1cede036b26ba6/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=4f4fcb9c3636fdfba9468c15830cd3db"
-    },
-    {
-     "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
-     "source": "AP News",
-     "published": "2026-11-12T17:57:00+00:00",
-     "summary": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine&nbsp;&nbsp;AP News",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T18:58:20.067858+00:00",
+   "fetched_at": "2026-11-12T19:28:32.643031+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "2026 General Election Summary: A Mandate to Make Oregon More Affordable",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FQ2hLd21OT2NMV1BkVFpmaUVfc3lfVXdzYlVvNXZPZm5xLUFUeUlhMF9zY3dHenV4RndqdEQwbmFzUjZ1NkFTRVlDT0RDWll2SzJQcnhXelJ2RjlnQkhwWVVmbTk?oc=5",
+     "source": "SEIU503 Local",
+     "published": "2026-11-12T19:23:31+00:00",
+     "summary": "2026 General Election Summary: A Mandate to Make Oregon More Affordable&nbsp;&nbsp;SEIU503 Local",
+     "image": ""
+    },
+    {
+     "title": "UFLAC Local 112 secures historic election victory on Measure FD",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0VqOUlXMWM1OEx1ZUxwYnFrbzBWZmJadHpBSDVWX25aeEs5bkVWSUxzeTFNYkFfWXhyTDVjZDBSdUl4YkY2WXNBZlNxS2djZnlTcEpCZ0ZTTVhHM0wxQjNzX0NIbHN4RE5iQzgxTWM1RVhKel9wZmRfWUUxaHF2MlFHMENGMHo1TlVPQzYtV0hzS3ZV?oc=5",
+     "source": "IAFF",
+     "published": "2026-11-12T19:09:59+00:00",
+     "summary": "UFLAC Local 112 secures historic election victory on Measure FD&nbsp;&nbsp;IAFF",
+     "image": ""
+    },
+    {
+     "title": "Nvidia\u2019s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T19:01:37+00:00",
+     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI k",
+     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
+    },
+    {
+     "title": "Flint Councilman pleads guilty to election fraud, \u2018no contes...",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzUtN3BSNXhrc0FuM0c1SEI3RGx5dmx6eHZXY0dDQVVHVi1laFpUVy11bXZwaF9ldExQSkxHRldqaWNpaFFmQ0cwbDdvcHZCTDBGRFRPUVJFV3Vhc2RqLWNRbHVqSUJwR3FuZnh5VmhXRElNMEFpUjg3VlFEekhMeGVuR3pkOEpBbzZuUS1SZU1wMm4xdV8yWnp4N3lrM1hFTmcybVBxZmoweEpYc0RGSFdSSnJCREhPREtmTE53?oc=5",
+     "source": "Flint Beat",
+     "published": "2026-11-12T18:55:53+00:00",
+     "summary": "Flint Councilman pleads guilty to election fraud, \u2018no contes...&nbsp;&nbsp;Flint Beat",
+     "image": ""
+    },
+    {
+     "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iLW13Sl9rX0hEQTV1blpqUXpZU0NXNGo3b2k1M1FDeUQtOUhjaDE5M0laeVJXTEVabUg2RFllcWFnWXlqLVhWNjljTGtkY0FHaVJUUVZ1YjMzZWs4dXFlRWNzbWVDenBKTTJWeTVvM0hSbzZ1bklyY3JEV01QSWM?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-12T18:51:05+00:00",
+     "summary": "Fed Will Not Hold Policy Vote at October 2027 Meeting&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
     {
      "title": "Wyandot County vote results error not evidence of Ohio election fraud",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hcUlaQ2RwWlk5dV9FdGxyUE1QYWx4UXlQZ3ZwSkJMQlpOMUFOem1wUkR0V1hMREo3VndDeVlpeFVQRC1rakt1SHQ3ZXlhakd2Tld4MUNrZ3E?oc=5",
@@ -274,57 +314,17 @@
      "image": ""
     },
     {
-     "title": "Nvidia\u2019s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "published": "2026-11-12T18:29:45+00:00",
-     "summary": "Nvidia\u2019s value slumps by $888bn this week as scandal over longtime CEO\u2019s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI k",
-     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
-    },
-    {
-     "title": "CFA Overview of November Election Results So Far",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSTZMZXUwb05DaFlDRFEwUlBnS2hraHgtX3RKbDdXVnhtb0pYYklMdVZHenZfSW1xTmt1dlRWMzRqSGR4UXloYUs5aTBXbmo2UE9HSWxKb09qNlRqRE5pdVlwTG1FempET1dURzVSQmVjemZWcjZ2SWloNGw?oc=5",
-     "source": "California Faculty Association",
-     "published": "2026-11-12T18:27:36+00:00",
-     "summary": "CFA Overview of November Election Results So Far&nbsp;&nbsp;California Faculty Association",
-     "image": ""
-    },
-    {
-     "title": "UW Law grad Scott Colom makes history in Mississippi Senate election",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVS1NZnEyM2tUazF6MC1lbktmMXhLLThPeURmR0xTc2ZHT1owVy1RWVh0UEQ1TFFwTnhlemluWVJNRFdGaDBnNHhxNTdmbmJndFZmTVZKYzYwaE96SUd5WDV2NjAyNTV3R0dabGwtejJTRGFBR2NHM3FxUU40RWdTMHYweFUxbjNqaS1zSTk3czg1ajkyRnV6OXJZanRqY3JBRHZCMFlOZVBoQQ?oc=5",
-     "source": "Civic Media",
-     "published": "2026-11-12T18:25:00+00:00",
-     "summary": "UW Law grad Scott Colom makes history in Mississippi Senate election&nbsp;&nbsp;Civic Media",
-     "image": ""
-    },
-    {
-     "title": "Taskforce on Net Zero Policy \u2013 Policy Matters: Charting a path to Net Zero",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGEwNVBrSG9NY3AzNHpYbnNYMTRjZ3JXQXhSSXpOWWgwWWgzQzE1X0hfSHJrdUIycVhBcGFTc3lMVFJkRnJIWHpvTnFxY09rYmlVUWNhR1dSQm5xUHZDZWtqemJGTGFDbUNGZEpfR0Jvbkk5a2VpVXJxT2NzeHhxNVNwMll5dWVQZFpJRDRocWRwcXloZ1JFZFBpM2t0eDZ5blBHd2tLQXdXbDN4YnlmMXIzb2NDNWRD?oc=5",
-     "source": "United Nations Environment Programme Finance Initiative",
-     "published": "2026-11-12T18:18:51+00:00",
-     "summary": "Taskforce on Net Zero Policy \u2013 Policy Matters: Charting a path to Net Zero&nbsp;&nbsp;United Nations Environment Programme Finance Initiative",
-     "image": ""
-    },
-    {
-     "title": "Flint Councilman pleads guilty to election fraud, \u2018no contes...",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzUtN3BSNXhrc0FuM0c1SEI3RGx5dmx6eHZXY0dDQVVHVi1laFpUVy11bXZwaF9ldExQSkxHRldqaWNpaFFmQ0cwbDdvcHZCTDBGRFRPUVJFV3Vhc2RqLWNRbHVqSUJwR3FuZnh5VmhXRElNMEFpUjg3VlFEekhMeGVuR3pkOEpBbzZuUS1SZU1wMm4xdV8yWnp4N3lrM1hFTmcybVBxZmoweEpYc0RGSFdSSnJCREhPREtmTE53?oc=5",
-     "source": "Flint Beat",
-     "published": "2026-11-12T18:10:31+00:00",
-     "summary": "Flint Councilman pleads guilty to election fraud, \u2018no contes...&nbsp;&nbsp;Flint Beat",
-     "image": ""
-    },
-    {
-     "title": "Israeli strike on Gaza hospital deadliest since election",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQ0ZaTFlJamNXX3o5Zk05a1p4RzlsaXRNTXZxRFVZYUpHZ1dLMUJDdGlsa3FiN1NTM2Y5QjNaWS1WMmZXdUljTGRxc3g1V3dWZk1lalBubGVmYnJ5ZFpac1lJYkNXdTJkemQzTm1QWWNsaFo1R21zSzJn?oc=5",
-     "source": "AFP.com",
-     "published": "2026-11-12T18:07:14+00:00",
-     "summary": "Israeli strike on Gaza hospital deadliest since election&nbsp;&nbsp;AFP.com",
+     "title": "France Seeks Near-Zero Methane Target For Oil And Gas In COP31 Deal",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMW9VUGhNSWo1dG9VSjhWMjhBYjZlN1REbTIwaEl0aG1kWUNIOTVHTWlua3Vvd200VmpiYkxOTHFpcVltd1A3WXJpcGNCS1B4UHZUSGVudGp1cGwwbWRhMnB3M1ExNXp3dlRrdnhrbWd6RXhmNVJGd2lfLVNON0ZYMkoyWHR3bl9mVWREWU9yQ3plMGVmdEhiSEtkRmJTTkdsX3c?oc=5",
+     "source": "Health Policy Watch",
+     "published": "2026-11-12T18:29:14+00:00",
+     "summary": "France Seeks Near-Zero Methane Target For Oil And Gas In COP31 Deal&nbsp;&nbsp;Health Policy Watch",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T18:58:20.067860+00:00",
+   "fetched_at": "2026-11-12T19:28:32.643034+00:00",
    "stale": false,
    "items": [
     {
