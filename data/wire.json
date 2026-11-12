@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T02:55:22.994192+00:00",
+ "generated_at": "2026-11-12T02:55:34.209827+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T02:55:22.994163+00:00",
+   "fetched_at": "2026-11-12T02:55:34.209801+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T02:55:22.994176+00:00",
+   "fetched_at": "2026-11-12T02:55:34.209810+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T02:55:22.994180+00:00",
+   "fetched_at": "2026-11-12T02:55:34.209813+00:00",
    "stale": false,
    "items": [
     {
@@ -247,14 +247,6 @@
      "source": "The Washington Post",
      "published": "2026-11-12T02:29:52+00:00",
      "summary": "Mississippi Senate election results: Live updates&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Manouchehri, Cienfuegos win BHUSD board election",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaExSYjc5SmtZNVdSclNodWZKbFpuaHRDVGhIemljeDE3cEJUNDl5RUw5QVVnRGRJY2liRXlQV1R1MVFvUjVObjRYLVJXci1adzJlRTVQXzAwclZweVZVNEtFczhTbTIzX0QxZUwwaXNKQ2MydUNpdUF6dTJ2YUlLeFNmSy1LOENL?oc=5",
-     "source": "Beverly Press & Park Labrea News",
-     "published": "2026-11-12T02:28:40+00:00",
-     "summary": "Manouchehri, Cienfuegos win BHUSD board election&nbsp;&nbsp;Beverly Press & Park Labrea News",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-12T01:18:45+00:00",
      "summary": "Texas 2015 Election Results&nbsp;&nbsp;MultiState",
      "image": ""
+    },
+    {
+     "title": "Purdue professors discuss post-election results, political trends",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUHVlUm1FN25aTlRicFRfeEFyZUxYS0IzdnczdFdZYy1xTVZPYmVXMUQ2OXJQZF9aYUNIb3BfdjFwTVcxT211SGRRaTgtaTRLUXg5aG9GbjkzeTJKcjB6aFdyWUtZS0g0cVRlRXNScTNCQ211WW1qNGJKQmtYQTl6SThvZUNkZHBMY2EzUFZsNWJzSHlrSTFaQWg5WFlqbEtDbVFnSHhQMEZxTkNFa0UxYVBJcmdXdnRlMDJMVTNaUGFvS0hZQ3JRRUNHTGEtaFZaMGdidGdFSnVkSzgzeXRaTWdnbkZCdWM?oc=5",
+     "source": "Purdue Exponent",
+     "published": "2026-11-12T00:54:00+00:00",
+     "summary": "Purdue professors discuss post-election results, political trends&nbsp;&nbsp;Purdue Exponent",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T02:55:22.994183+00:00",
+   "fetched_at": "2026-11-12T02:55:34.209814+00:00",
    "stale": false,
    "items": [
     {
