@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-12T04:25:45.796703+00:00",
+ "generated_at": "2026-11-12T04:55:49.675841+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T04:25:45.796678+00:00",
+   "fetched_at": "2026-11-12T04:55:49.675811+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T04:30:16+00:00",
+     "summary": "Huang\u2019s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia\u2019s shares sliding about 8% in \u200bafter-hours tradingThe scandal su",
+     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+    },
+    {
+     "title": "Iran\u2019s chief negotiator tells Al Jazeera \u2018ball in US court\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T04:19:55+00:00",
+     "summary": "Iran\u2019s chief negotiator says it\u2019s up to the US to answer Iran\u2019s position in the latest round of peace talks.",
+     "image": ""
+    },
     {
      "title": "Nvidia board to decide whether to oust longtime CEO Jensen Huang",
      "url": "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang",
@@ -20,14 +36,6 @@
      "published": "2026-11-12T04:03:13+00:00",
      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
-    },
-    {
-     "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "published": "2026-11-12T04:02:56+00:00",
-     "summary": "Huang\u2019s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia\u2019s shares sliding about 8% in \u200bafter-hours tradingJensen Huang h",
-     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
     },
     {
      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
@@ -108,21 +116,21 @@
      "published": "2026-11-12T03:00:07+00:00",
      "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a \u2018generational\u2019 threat to wildlifeThe vast, dark slicks in the strait of Hormuz are visi",
      "image": "https://i.guim.co.uk/img/media/edaf20607ad86d1eaeb652f3e3941f4f2ea5bc51/193_0_5785_4627/master/5785.jpg?width=140&quality=85&auto=format&fit=max&s=5b1a9c857a8da2de3a5dbe173898dd4f"
-    },
-    {
-     "title": "Beau Lamarre-Condon admits throwing Jesse Baird\u2019s phone off a bridge after alleged murders, trial hears",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-12T02:46:16+00:00",
-     "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate himGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon ",
-     "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/516_503_2306_1845/master/2306.jpg?width=140&quality=85&auto=format&fit=max&s=44c734af5ce7f77b7461e525a37c0f06"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T04:25:45.796692+00:00",
+   "fetched_at": "2026-11-12T04:55:49.675827+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Iran\u2019s chief negotiator tells Al Jazeera \u2018ball in US court\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T04:19:55+00:00",
+     "summary": "Iran\u2019s chief negotiator says it\u2019s up to the US to answer Iran\u2019s position in the latest round of peace talks.",
+     "image": ""
+    },
     {
      "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
      "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
@@ -172,6 +180,14 @@
      "image": ""
     },
     {
+     "title": "Oil Retreats as Iran and Ukraine Peace Hopes Weigh on Crude; Brent Slips to $91.62",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4VUtKU2x2UGFFb21UYzh1elRWY0gzekxTcFIxLXN4dVhMb0pwcFd5ejhreDluUnN5NTRHaUtNOXJ3V0pSZ1V5VlVKd0gyQzBMMkowNzI0cmpJX3lvUnZ3MG9LVG03M2c1RUZlWDFIZmQ0TjEzMXc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-12T02:39:36+00:00",
+     "summary": "Oil Retreats as Iran and Ukraine Peace Hopes Weigh on Crude; Brent Slips to $91.62&nbsp;&nbsp;BigGo Finance",
+     "image": ""
+    },
+    {
      "title": "Live: US envoys to meet Putin and Zelensky after Abu Dhabi talks",
      "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
      "source": "\u00a9 Virginia Mayo, AP",
@@ -202,27 +218,11 @@
      "published": "2026-11-12T00:06:50+00:00",
      "summary": "Naim Qassem says Republican losses and Israel&#039;s election result could help Lebanon maintain sovereignty.",
      "image": ""
-    },
-    {
-     "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
-     "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
-     "source": "The Guardian",
-     "published": "2026-11-12T00:01:03+00:00",
-     "summary": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checksPolice officers risk arresting innocent people, especially from eth",
-     "image": "https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=50f89db90c1c54ae8c66ffabbebd17ea"
-    },
-    {
-     "title": "Iran war live: IRGC chief says sanctions won\u2019t stop missile programme",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T00:00:44+00:00",
-     "summary": "Israel orders military to step up preparations for possible attack on Iran as IRGC chief pledges missile development.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T04:25:45.796694+00:00",
+   "fetched_at": "2026-11-12T04:55:49.675830+00:00",
    "stale": false,
    "items": [
     {
@@ -256,6 +256,22 @@
      "published": "2026-11-12T03:46:55+00:00",
      "summary": "Colom beat Republican Cindy Hyde-Smith after race was called eight days after midterm election dayDemocrat Scott Colom wins race for US Senate in MississippiHow Colom won deep-red ",
      "image": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e"
+    },
+    {
+     "title": "Colom\u2019s lead widens in Mississippi Senate race as final ballots are counted",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenJDcEtyRWhOS0Y2bWVhZWFIaENFT1RzTHJZT015QWRXWWppdzRoeDBhYTIwcmFnTjViZUJoUFZHZnczU2xmX2xpVVBKVWY4eWIySHN1VXF1d0wyMmJpaWNBa2JOSzFIYS1FOXJxZDZoMWFGcEg4aWxPc25YWE1xZE9vQl9NS096RmNjMlpLaHQ1Wm00SGg0RTVFc1IwLVgxSzlaRHRVM2RtQk02X2xsaHo5RXBoczRxbmd1LWpYS2JMTVgx?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-12T03:42:29+00:00",
+     "summary": "Colom\u2019s lead widens in Mississippi Senate race as final ballots are counted&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi\u2019s Diplomacy",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUWlBQbTI3NE1qbVR5d2g0V1NTQ1Jva1NlSFZ4ejRESy1qNFY3eFBFZUdnR1hOVm5FS0liOFo5SVk5NGhlLUk4clp2aGNOSmQ5bHNfM3ItdWpycGNza1FEQ0pPUFhfNzZUbWZ1aUpJTEs1cFRB?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-12T03:22:36+00:00",
+     "summary": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi\u2019s Diplomacy&nbsp;&nbsp;The New York Times",
+     "image": ""
     },
     {
      "title": "Whose voices shape pollution policy?",
@@ -304,27 +320,11 @@
      "published": "2026-11-12T02:41:43+00:00",
      "summary": "Wyoming certifies the general election as officials look to boost turnout&nbsp;&nbsp;Jackson Hole Community Radio",
      "image": ""
-    },
-    {
-     "title": "Colom\u2019s lead widens in Mississippi Senate race as final ballots are counted",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenJDcEtyRWhOS0Y2bWVhZWFIaENFT1RzTHJZT015QWRXWWppdzRoeDBhYTIwcmFnTjViZUJoUFZHZnczU2xmX2xpVVBKVWY4eWIySHN1VXF1d0wyMmJpaWNBa2JOSzFIYS1FOXJxZDZoMWFGcEg4aWxPc25YWE1xZE9vQl9NS096RmNjMlpLaHQ1Wm00SGg0RTVFc1IwLVgxSzlaRHRVM2RtQk02X2xsaHo5RXBoczRxbmd1LWpYS2JMTVgx?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-12T02:34:03+00:00",
-     "summary": "Colom\u2019s lead widens in Mississippi Senate race as final ballots are counted&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Indonesian VP resigns over education qualification row",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T02:22:48+00:00",
-     "summary": "Indonesia&#039;s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T04:25:45.796696+00:00",
+   "fetched_at": "2026-11-12T04:55:49.675832+00:00",
    "stale": false,
    "items": [
     {
