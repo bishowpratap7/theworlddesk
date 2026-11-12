@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-11-12T22:59:01.426601+00:00",
+ "generated_at": "2026-11-12T22:59:14.748143+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T22:59:01.426572+00:00",
+   "fetched_at": "2026-11-12T22:59:14.748100+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja\u2019s \u2018sandpapergate\u2019 claims",
-     "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-12T22:49:08+00:00",
-     "summary": "Cummins speaks about allegations in Khawaja\u2019s book about the 2018 ball-tampering incidentCummins says there\u2019s a \u2018proper way to do things\u2019Cummins says he believes there was a proper",
-     "image": "https://i.guim.co.uk/img/media/98e2bff19e4445496fd0da8a491d3cb83c3bdeac/257_0_2562_2050/master/2562.jpg?width=140&quality=85&auto=format&fit=max&s=d43de4137917c4bf62509ab2f2a05acc"
-    },
     {
      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
      "source": "The Guardian",
-     "published": "2026-11-12T22:48:55+00:00",
+     "published": "2026-11-12T22:44:47+00:00",
      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to",
      "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
+    },
+    {
+     "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja\u2019s \u2018sandpapergate\u2019 claims",
+     "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-12T22:44:13+00:00",
+     "summary": "Cummins speaks about allegations in Khawaja\u2019s book about the 2018 ball-tampering incident\u2018I think he\u2019s wrong\u2019, Cummins saysA reporter just asked about the difference in stories. Cu",
+     "image": "https://i.guim.co.uk/img/media/93c10586158ae5cd1a47014e51dcda2ed3894c55/230_0_4205_3363/master/4205.jpg?width=140&quality=85&auto=format&fit=max&s=ed92063bcf3295a2182f946570b97384"
     },
     {
      "title": "Washington DC shooting: police identify victim and suspect \u2013 latest updates",
@@ -34,7 +34,7 @@
      "url": "https://www.theguardian.com/us-news/2026/nov/12/donald-trump-jr-kalshi",
      "source": "The Guardian",
      "published": "2026-11-12T22:37:10+00:00",
-     "summary": "Kalshi announces \u2018mutual decision\u2019 as Democrats say they plan to investigate Trump family\u2019s investmentsDonald Trump Jr is no longer a paid adviser for Kalshi, the prediction market",
+     "summary": "Kalshi announces \u2018mutual decision\u2019 after Trump Jr\u2019s investment firm increases stake in rival PolymarketDonald Trump Jr is no longer a paid adviser for Kalshi, the prediction market",
      "image": "https://i.guim.co.uk/img/media/fecab90a765cf55f40ec50915850e69dd58cd4f3/258_0_2583_2067/master/2583.jpg?width=140&quality=85&auto=format&fit=max&s=2090aaa5542c00d2e26964dbd1368aeb"
     },
     {
@@ -120,14 +120,14 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T22:59:01.426585+00:00",
+   "fetched_at": "2026-11-12T22:59:14.748114+00:00",
    "stale": false,
    "items": [
     {
      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
      "source": "The Guardian",
-     "published": "2026-11-12T22:48:55+00:00",
+     "published": "2026-11-12T22:44:47+00:00",
      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown SoldierPete Hegseth awards medal to",
      "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
     },
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T22:59:01.426589+00:00",
+   "fetched_at": "2026-11-12T22:59:14.748118+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T22:59:01.426592+00:00",
+   "fetched_at": "2026-11-12T22:59:14.748133+00:00",
    "stale": false,
    "items": [
     {
