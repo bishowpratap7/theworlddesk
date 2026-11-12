@@ -1,10 +1,58 @@
 {
- "generated_at": "2026-11-12T03:55:41.853064+00:00",
+ "generated_at": "2026-11-12T04:25:45.796703+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T03:55:41.853036+00:00",
+   "fetched_at": "2026-11-12T04:25:45.796678+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nvidia board to decide whether to oust longtime CEO Jensen Huang",
+     "url": "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang",
+     "source": "\u00a9 I-Hwa Cheng, AFP",
+     "published": "2026-11-12T04:05:14+00:00",
+     "summary": "Nvidia's board is meeting late Wednesday to consider removing chief executive Jensen Huang, as reports of two extramarital affairs and an investigation into alleged links to a Chin",
+     "image": "https://s.france24.com/media/display/adc9839a-de43-11f1-b3fb-3f371022a770/w:1024/p:16x9/8ddea3d92713a356312bc00778a8eceba072dea5.jpg"
+    },
+    {
+     "title": "Famed ship SS United States sunk off coast of Florida",
+     "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T04:03:13+00:00",
+     "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
+    },
+    {
+     "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T04:02:56+00:00",
+     "summary": "Huang\u2019s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia\u2019s shares sliding about 8% in \u200bafter-hours tradingJensen Huang h",
+     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+    },
+    {
+     "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T04:00:30+00:00",
+     "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
+    },
+    {
+     "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+     "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T04:00:24+00:00",
+     "summary": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
+     "image": ""
+    },
+    {
+     "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+     "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T03:50:42+00:00",
+     "summary": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
+     "image": ""
+    },
     {
      "title": "Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory \u2013 as it happened",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
@@ -14,12 +62,12 @@
      "image": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e"
     },
     {
-     "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "published": "2026-11-12T03:36:18+00:00",
-     "summary": "Huang\u2019s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia\u2019s shares sliding about 8% in \u200bafter-hours tradingUS Democratic ",
-     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+     "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T03:32:54+00:00",
+     "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
     },
     {
      "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
@@ -68,61 +116,37 @@
      "published": "2026-11-12T02:46:16+00:00",
      "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate himGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon ",
      "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/516_503_2306_1845/master/2306.jpg?width=140&quality=85&auto=format&fit=max&s=44c734af5ce7f77b7461e525a37c0f06"
-    },
-    {
-     "title": "Australian teen missing in bush for six days rescued alive",
-     "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T02:40:18+00:00",
-     "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png"
-    },
-    {
-     "title": "Survivor pulled from rubble of deadly building collapse in New York",
-     "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T02:33:12+00:00",
-     "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg"
-    },
-    {
-     "title": "Live: US envoys to meet Putin and Zelensky after Abu Dhabi talks",
-     "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
-     "source": "\u00a9 Virginia Mayo, AP",
-     "published": "2026-11-12T02:31:55+00:00",
-     "summary": "US envoys Steve Witkoff and Jared Kushner will meet Russian President Vladimir Putin in Moscow and Ukrainian leader Volodymyr Zelensky in Dublin on Thursday, seeking to build on tw",
-     "image": "https://s.france24.com/media/display/9ee76ba2-de3f-11f1-879b-3f371022a770/w:1024/p:16x9/AP26315756326943.jpg"
-    },
-    {
-     "title": "Australian teen who went missing in bushland wearing only shorts and boots found alive after six days",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
-     "source": "The Guardian",
-     "published": "2026-11-12T02:30:28+00:00",
-     "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria\u2019s Gippsland regionGet our breaking news email, free app or daily news podcastA teenage boy ",
-     "image": "https://i.guim.co.uk/img/media/63af96b5092d80db06ac583687c513b25d141988/0_11_1440_1151/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=b1b299bf30238b6f8edc25357362d698"
-    },
-    {
-     "title": "Indonesian VP resigns over education qualification row",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T02:22:48+00:00",
-     "summary": "Indonesia&#039;s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
-     "image": ""
-    },
-    {
-     "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T02:09:08+00:00",
-     "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T03:55:41.853051+00:00",
+   "fetched_at": "2026-11-12T04:25:45.796692+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+     "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T04:00:24+00:00",
+     "summary": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
+     "image": ""
+    },
+    {
+     "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+     "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T03:50:42+00:00",
+     "summary": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
+     "image": ""
+    },
+    {
+     "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T03:32:54+00:00",
+     "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
+    },
     {
      "title": "Jamaica warns citizens against recruitment for Russia-Ukraine war",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTBxbGl3ak9zOEgwQWlzaktSQ1NCQ2lodEpzQ2hXcU15dXZJQzhKcFI5TE9rVkVYcW85dHZnNDJOdU42c1lxS3BNRFNPNFUyMzFLSXExZFA0NUxfeDBNb1pveUpUcU8zb2x0bmlnQUJHYjVoZkRQQjRMT21uVUZqcmtuY0Z3WktNbk5lOVdtMzFmc2hpc2VIWUdJWDFraWZKLXNQVEtIZnNzUERiUko3Vw?oc=5",
@@ -145,14 +169,6 @@
      "source": "The Conversation",
      "published": "2026-11-12T02:54:00+00:00",
      "summary": "How the fog of war puts journalism in the frame&nbsp;&nbsp;The Conversation",
-     "image": ""
-    },
-    {
-     "title": "Oil Retreats as Iran and Ukraine Peace Hopes Weigh on Crude; Brent Slips to $91.62",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4VUtKU2x2UGFFb21UYzh1elRWY0gzekxTcFIxLXN4dVhMb0pwcFd5ejhreDluUnN5NTRHaUtNOXJ3V0pSZ1V5VlVKd0gyQzBMMkowNzI0cmpJX3lvUnZ3MG9LVG03M2c1RUZlWDFIZmQ0TjEzMXc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-12T02:39:36+00:00",
-     "summary": "Oil Retreats as Iran and Ukraine Peace Hopes Weigh on Crude; Brent Slips to $91.62&nbsp;&nbsp;BigGo Finance",
      "image": ""
     },
     {
@@ -196,35 +212,43 @@
      "image": "https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=50f89db90c1c54ae8c66ffabbebd17ea"
     },
     {
-     "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+     "title": "Iran war live: IRGC chief says sanctions won\u2019t stop missile programme",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-12T00:00:44+00:00",
-     "summary": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked.",
-     "image": ""
-    },
-    {
-     "title": "Russia attacks Kyiv with ballistic missiles hours after peace talks end",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanJqck5pbEpxaFEzUTRNdEhrQXZJbGFudFR4THE1YkJ2UGRDX180cFRwMDEwZXlqbEtyYlBCdFJaWWFfUGlrVHU2VmNyMjBPVnQ3QTBjNWttYWY4V1diMWxWUkd0UGJNNVBuczlCcC1iM1Q5V2l4ODBReWM1UEJMN1pCN0tHX2R5VWtuaVd3RGJIT1JhWkRnWFBhbGs4a0FGS2c?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-11T23:27:06+00:00",
-     "summary": "Russia attacks Kyiv with ballistic missiles hours after peace talks end&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "India Ups Its Ukraine War Diplomacy",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzdxcHdocUdCSDJUMWw5dmNJTG5UYXhaMjZtUFZSSWt5X21TdGNwdGNndFZycXJSODg1NEs2ak9CckRLZi1SeXBaa1FGc28zTWVsOWJLakw2a1BGS0ZMMXY1RjVDY0wzc2xmVUhXVjBfTFJFM3dRdG1HMFRTUHJXdkRxVmg3aEJoN1E?oc=5",
-     "source": "Foreign Policy",
-     "published": "2026-11-11T23:25:08+00:00",
-     "summary": "India Ups Its Ukraine War Diplomacy&nbsp;&nbsp;Foreign Policy",
+     "summary": "Israel orders military to step up preparations for possible attack on Iran as IRGC chief pledges missile development.",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T03:55:41.853054+00:00",
+   "fetched_at": "2026-11-12T04:25:45.796694+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Streets Erupt in Celebration After Colom\u2019s Historic Win in Mississippi",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSTdkVi1kdm93cm5oWVUzU0gzdDRmd1Rpa1V5b3JXbk9qc2QxV0FuTHFOcWh3SFR2V3E0N0ZHcjd2ZFR4Q3F3dThsLURQVnV3UnBiZGdISUtNYzhQeU92MGw0aFhmU2RTaHRhM1d5cjhuX29aVnhSaDdTNlJRMFJfUi1PWmdGZw?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-12T04:19:26+00:00",
+     "summary": "Streets Erupt in Celebration After Colom\u2019s Historic Win in Mississippi&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Key deadlines for the Dec. 12 election",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZzNzdnkwd2oyNGVQRUwxck5nempSc25LNFJhREZpcHE3VnhRMUxKcjZhOHladXJ1dkFvNFRRVlFOUmEtVHh0QWVlWFFyc0Z4YnFxQlp1RkctbTVwSGFiR0hlVGtCSTA4Y0FoalFDUzc1czh2cXBxbXFyTmlFaVplQmM5WndhaGxON29wZ0FkS2p3bE9iaFQtNEVWRnRQMjA0LUZRTnJvT0ZBYXE3U013d1RzUUFRVDk0VjRWWDRYWHhndHEwTWhjN3FFSzg?oc=5",
+     "source": "WWLTV.com",
+     "published": "2026-11-12T04:18:18+00:00",
+     "summary": "Key deadlines for the Dec. 12 election&nbsp;&nbsp;WWLTV.com",
+     "image": ""
+    },
+    {
+     "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T04:00:30+00:00",
+     "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
+    },
     {
      "title": "Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory \u2013 as it happened",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
@@ -247,6 +271,14 @@
      "source": "NBC News",
      "published": "2026-11-12T03:18:00+00:00",
      "summary": "Alaska judge rules a request by Peltola campaign for ballot data in Senate race is \u2018not reasonable\u2019&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "Alaska Senate race tipping toward Peltola",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMlhSSnF2aVBFWTAtamV3Mkx4ekJmWmtqLTJwaDNRT3NXLUloa0N1Y05OYTZTTkdlWmtrY0RaVUlBQkxxSzB6REVLd053Q3RGbW00ZzdBM2pBbElZQVVWUkotUzNQS01KaUV0ejY1VEpEVTJWZ1pwUnpjQVlUczkyQlFaNFg1UDF3M3hiNGtR?oc=5",
+     "source": "ICT News",
+     "published": "2026-11-12T03:12:33+00:00",
+     "summary": "Alaska Senate race tipping toward Peltola&nbsp;&nbsp;ICT News",
      "image": ""
     },
     {
@@ -288,43 +320,11 @@
      "published": "2026-11-12T02:22:48+00:00",
      "summary": "Indonesia&#039;s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
      "image": ""
-    },
-    {
-     "title": "2026 election results reshape balance of power in California Capitol",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSkJZdUgzeDBGaENVbHZrYzU1YVJ1SVF4NkdPc2tWQW96UVl6ZTB3ZUNVeVI0Qzgya2M1ZjY2QmRJNGRPVUhaQ0hJT1kyLUZjU1dFdnN2bzNtZHRsX1BxX2JCcmd4b3hzX3I3Ujg3WUxzYWR2TE1QQ1J4Y1RFWDlURFYxOU9mZGJsd3NMR0U3VzNpckhZVUN6WjM2WV9SeGc4LXc0RXUzUnNCNldzVEowbjRLMjU0UnJxT3RrelFhU01xQ0ptazRCbVFjWXA4VDZKbjF2Y25IeEllUlFleTM0Z3M0Q0xOXzI2MW5UbVpmX0ZkSXI4dWc?oc=5",
-     "source": "ABC10",
-     "published": "2026-11-12T02:10:00+00:00",
-     "summary": "2026 election results reshape balance of power in California Capitol&nbsp;&nbsp;ABC10",
-     "image": ""
-    },
-    {
-     "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T02:09:08+00:00",
-     "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
-    },
-    {
-     "title": "Argentina\u2019s Milei cries as he bids farewell to the Pope",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T02:03:30+00:00",
-     "summary": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
-     "image": ""
-    },
-    {
-     "title": "Rapid-Fire Wednesdays Podcast | 2026 Midterm Elections: Immigration Policy Impact",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXR1NjFyT1Jkd1pRZlJiV0FlSGt1OTJoUTRsSTVUZXhlRlZZUFlKWEZmaDB2RFB4ZWJ2MVZhMUNqUkR1dHlUQngzSUpQWWtPS2FNdU94c1hsU1RGQm5EdlpyR1c1bmJ6MDgydHZaTFJSQmZXUkc2TmEza2FoSjNWR1E1RHMyZi1rb1JTYkt2NXg3azZZdEJWSEVB?oc=5",
-     "source": "WR Immigration",
-     "published": "2026-11-12T01:50:44+00:00",
-     "summary": "Rapid-Fire Wednesdays Podcast | 2026 Midterm Elections: Immigration Policy Impact&nbsp;&nbsp;WR Immigration",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T03:55:41.853056+00:00",
+   "fetched_at": "2026-11-12T04:25:45.796696+00:00",
    "stale": false,
    "items": [
     {
@@ -334,14 +334,6 @@
      "published": "2026-11-12T03:11:52+00:00",
      "summary": "Paraguay's Central Bank said Wednesday it had partially returned savings to all eligible Ueno Bank depositors, following the lender's collapse last week. The crisis triggered mass ",
      "image": "https://s.france24.com/media/display/fe9ccf8c-de3b-11f1-9318-5f54d898a954/w:1024/p:16x9/AP26313615647131.jpg"
-    },
-    {
-     "title": "Oil production nears pre-Iran war levels, OPEC says",
-     "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T20:45:30+00:00",
-     "summary": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
-     "image": ""
     },
     {
      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
