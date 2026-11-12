@@ -1,17 +1,89 @@
 {
- "generated_at": "2026-11-12T09:56:39.911324+00:00",
+ "generated_at": "2026-11-12T10:26:43.219792+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-12T09:56:39.911294+00:00",
+   "fetched_at": "2026-11-12T10:26:43.219749+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Two dead, several injured after New York building collapses",
+     "url": "https://www.france24.com/en/video/20261112-two-dead-several-injured-after-new-york-building-collapses",
+     "source": "France 24",
+     "published": "2026-11-12T10:21:43+00:00",
+     "summary": "Two people were killed Wednesday and at least 17 others injured, including children, after a three-story building collapsed near a construction site in New York, city authorities s",
+     "image": "https://s.france24.com/media/display/b6f44e42-de7e-11f1-8d3c-f71d22e7fea9/w:1024/p:16x9/EN-20261112-100714-100851-CS.jpg"
+    },
+    {
+     "title": "Hybrid warfare: Hoax bomb alerts sent to schools in Italy, UK in latest disruption",
+     "url": "https://www.france24.com/en/video/20261112-hybrid-warfare-hoax-bomb-alerts-sent-to-schools-in-italy-uk-in-latest-disruption",
+     "source": "France 24",
+     "published": "2026-11-12T10:20:02+00:00",
+     "summary": "Schools were evacuated across Italy on Wednesday following a series of hoax bomb threats. Similar hoax threats were reported in schools in Britain, Scotland and Ireland. The threat",
+     "image": "https://s.france24.com/media/display/8e939e38-de80-11f1-87e9-5f54d898a954/w:1024/p:16x9/EN-20261112-101015-101531-CS.jpg"
+    },
+    {
+     "title": "Kylian Mbapp\u00e9 to miss Thursday's Nations League clash against Italy",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261112-kylian-mbapp%C3%A9-miss-thursday-nations-league-clash-against-italy",
+     "source": "France 24",
+     "published": "2026-11-12T10:19:15+00:00",
+     "summary": "It's a major blow for France. Zinedine Zidane will have to do without his captain, Kylian Mbapp\u00e9, Thursday as Les Bleus take on Italy in the Nations League. The Real Madrid forward",
+     "image": "https://s.france24.com/media/display/a45be6d8-de37-11f1-b76b-3f371022a770/w:1024/p:16x9/Mbappe-titre.jpg"
+    },
+    {
+     "title": "Smart homes, new threats: Could everyday appliances be hacked?",
+     "url": "https://www.france24.com/en/video/20261112-smart-homes-new-threats-could-everyday-appliances-be-hacked",
+     "source": "France 24",
+     "published": "2026-11-12T10:18:11+00:00",
+     "summary": "Should we be worried about cyberattacks targeting everyday household appliances, from smart vacuums to washing machines and food processors? The European Union Agency for Cybersecu",
+     "image": "https://s.france24.com/media/display/ab963a36-de80-11f1-9c28-3f371022a770/w:1024/p:16x9/EN-20261112-101623-101759-CS.jpg"
+    },
+    {
+     "title": "British woman missing from cruise ship in Atlantic",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T10:13:35+00:00",
+     "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg"
+    },
+    {
+     "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T10:08:38+00:00",
+     "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg"
+    },
+    {
+     "title": "New restrictions to Starshield network 'kill more Ukrainians', Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261112-new-systematic-restrictions-starshield-network-kill-more-ukrainians-zelensky-says",
+     "source": "\u00a9 Cathal McNaughton, Reuters",
+     "published": "2026-11-12T10:06:26+00:00",
+     "summary": "Ukrainian \u2060President Volodymyr Zelensky \u200bon Thursday said that Ukrainian \u200bmilitary units had recorded new and significant disruptions to the Starshield satellite communications ser",
+     "image": "https://s.france24.com/media/display/d00e4e44-de17-11f1-bda1-5f54d898a954/w:1024/p:16x9/2026-11-11T190959Z-1804496691-RC2ULOAAJ0M2-RTRMADP-3-UKRAINE-CRISIS-IRELAND.jpg"
+    },
     {
      "title": "Ukraine hit by \u2018significant\u2019 Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-12T09:45:20+00:00",
-     "summary": "Ukraine\u2019s president said unwelcome \u2018speed restrictions\u2019 on military connectivity are \u2018helping the Russians kill\u2019Here is Eurostar\u2019s statement in response to my inquiries:\u201cAt the req",
+     "published": "2026-11-12T10:03:45+00:00",
+     "summary": "Ukraine\u2019s president said unwelcome \u2018speed restrictions\u2019 on military connectivity are \u2018helping the Russians kill\u2019Ireland\u2019s Martin was also asked about any potential bomb threats or ",
      "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4"
+    },
+    {
+     "title": "Nvidia board reportedly meets to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T10:02:35+00:00",
+     "summary": "Nvidia shares plunge in extended trading, sending Asian markets lowerNvidia board reportedly deciding whether to oust CEO Jensen HuangToo big \u2013 and too well-connected \u2013 to sack? Hu",
+     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+    },
+    {
+     "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T10:02:32+00:00",
+     "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
     },
     {
      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
@@ -44,187 +116,147 @@
      "published": "2026-11-12T09:39:39+00:00",
      "summary": "NPR's A Martinez speaks with former U.S. ambassador to Ukraine, William Taylor, about the ongoing peace talks between the U.S., Russia and Ukraine.",
      "image": ""
-    },
-    {
-     "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
-     "source": "NPR",
-     "published": "2026-11-12T09:38:46+00:00",
-     "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelens",
-     "image": ""
-    },
-    {
-     "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-     "url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T09:38:00+00:00",
-     "summary": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
-     "image": ""
-    },
-    {
-     "title": "\u2018He is never leaving the house again\u2019: mother reunites with son missing for six days in Victorian bushland",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
-     "source": "The Guardian",
-     "published": "2026-11-12T09:35:44+00:00",
-     "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria\u2019s Gippsland regionGet our breaking news email, free app or daily news podcastA teenager has",
-     "image": "https://i.guim.co.uk/img/media/63af96b5092d80db06ac583687c513b25d141988/0_11_1440_1151/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=b1b299bf30238b6f8edc25357362d698"
-    },
-    {
-     "title": "Drought threatens Iraq's marshes, risking one of the oldest ways of life",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6026458/drought-threatens-iraqs-marshes-risking-one-of-the-oldest-ways-of-life",
-     "source": "NPR",
-     "published": "2026-11-12T09:31:34+00:00",
-     "summary": "The unique marshes of southern Iraq are beginning to revive after five years of devastating drought. But challenges remain for one of the world's oldest ways of life.",
-     "image": ""
-    },
-    {
-     "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
-     "source": "NPR",
-     "published": "2026-11-12T09:29:50+00:00",
-     "summary": "Winter storms have brought flooding and deadly landslides to thousands living in tents in Gaza. Palestinians have no where to go after years of devasting war.",
-     "image": ""
-    },
-    {
-     "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-     "source": "NPR",
-     "published": "2026-11-12T09:29:30+00:00",
-     "summary": "The victims included a surgeon, and at least a dozen more were injured. Israel said it was targeting a Hamas commander and other militants.",
-     "image": ""
-    },
-    {
-     "title": "\ud83d\udd34Live: Zelensky says Ukraine facing 'systematic' restrictions to Starshield satellite network",
-     "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
-     "source": "France 24",
-     "published": "2026-11-12T09:17:47+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "AI helps UK economy grow at fastest pace for more than two years",
-     "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-     "source": "The Guardian",
-     "published": "2026-11-12T09:12:52+00:00",
-     "summary": "GDP \u2018grew robustly\u2019 by 0.7% in third quarter and by 0.2% month on month in September despite high oil pricesBusiness live \u2013 latest updatesThe UK economy grew by 0.7% in the third q",
-     "image": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=040a7ae25f1278872b813c75d05ab697"
-    },
-    {
-     "title": "Nvidia board reportedly meets to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "published": "2026-11-12T09:11:33+00:00",
-     "summary": "Nvidia shares plunge in extended trading, sending Asian markets lowerNvidia board reportedly deciding whether to oust CEO Jensen HuangToo big \u2013 and too well-connected \u2013 to sack? Hu",
-     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-12T09:56:39.911308+00:00",
+   "fetched_at": "2026-11-12T10:26:43.219763+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Volodymyr Zelensky says Starshield disruptions hamper Ukrainian military operations",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTRaTERlNThJbGpjOFJBeVl5cW55NjA2MmNDckZPRVJzMW5oNVJqUUVpWmVHelZ2Z1BmblNYUXVxbUlkRWpZbHZlWmRvTzB6bVY3cmo0TGNxbHFxaFl0a1BJVmVsTHBPazNCTWdRYlNNbk5EUVNIa2ZqdFRoV1E1OTVUWGp2WVB2UUE?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-12T09:53:36+00:00",
-     "summary": "Volodymyr Zelensky says Starshield disruptions hamper Ukrainian military operations&nbsp;&nbsp;The Jerusalem Post",
+     "title": "Hybrid warfare: Hoax bomb alerts sent to schools in Italy, UK in latest disruption",
+     "url": "https://www.france24.com/en/video/20261112-hybrid-warfare-hoax-bomb-alerts-sent-to-schools-in-italy-uk-in-latest-disruption",
+     "source": "France 24",
+     "published": "2026-11-12T10:20:02+00:00",
+     "summary": "Schools were evacuated across Italy on Wednesday following a series of hoax bomb threats. Similar hoax threats were reported in schools in Britain, Scotland and Ireland. The threat",
+     "image": "https://s.france24.com/media/display/8e939e38-de80-11f1-87e9-5f54d898a954/w:1024/p:16x9/EN-20261112-101015-101531-CS.jpg"
+    },
+    {
+     "title": "Kylian Mbapp\u00e9 to miss Thursday's Nations League clash against Italy",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261112-kylian-mbapp%C3%A9-miss-thursday-nations-league-clash-against-italy",
+     "source": "France 24",
+     "published": "2026-11-12T10:19:15+00:00",
+     "summary": "It's a major blow for France. Zinedine Zidane will have to do without his captain, Kylian Mbapp\u00e9, Thursday as Les Bleus take on Italy in the Nations League. The Real Madrid forward",
+     "image": "https://s.france24.com/media/display/a45be6d8-de37-11f1-b76b-3f371022a770/w:1024/p:16x9/Mbappe-titre.jpg"
+    },
+    {
+     "title": "British woman missing from cruise ship in Atlantic",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T10:13:35+00:00",
+     "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg"
+    },
+    {
+     "title": "Ukraine to Allocate $43M for 113 Reconstruction Projects Amid Ongoing War",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02VVZYOXZjV00xNzNONWNwcWVYcTk5ZTJ0Vjl1c1lvSEE1b1pCdzR6UGFKU0NwTXpnV0VKZENLREppLXVLTmc2TkE3cw?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-12T10:11:46+00:00",
+     "summary": "Ukraine to Allocate $43M for 113 Reconstruction Projects Amid Ongoing War&nbsp;&nbsp;Kyiv Post",
      "image": ""
     },
     {
-     "title": "U.S. Envoys Arrive in Moscow for Latest Round of Talks With Putin",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVk5uaEdPVUxqVG5NNGM5RmpJb25zOE84LU9iV0Y3TXEyVUVSQV93OUVoeHlJMXFvUkRrVzU5NlJtSUxTS2U4MFNMU1NJcFA4MDFSYnl5SXJPdmNGOTFPNDk4Y19tdWRSTks1WDM5Vlp0V0NTbWtLTTM5R2FzVkFYV0tXVWU2SU1sNnF1OERTQXF0SHE3aHRxd3ZVRHZyUVVqQ29LRWJMMEg5dXhERzJ2Zmd3?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-12T09:48:06+00:00",
-     "summary": "U.S. Envoys Arrive in Moscow for Latest Round of Talks With Putin&nbsp;&nbsp;The Moscow Times",
+     "title": "US envoys arrive in Russia to meet Putin on ending Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QckxrYnV1WkluWmczQVF1VGFuV2FrM19ZSWZpY3pPRWllSkhESkl4SlhfbWdWUUY2X0twNDV0ME5PODVsWWRpaWNBRjNVQkszV1B5QTBseUNxVWxScG5LMC0yekFVY0HSAVxBVV95cUxOenhvRDFLclRnQlI4cUxoc0hvejZkeUx5TFVLZDRxb1QtdDFwdE93RF9wVEtfWUhjcV9iXy1rSks1a0EzRHFUZXU5VTJnNkFkT3JmZE5iLUVMaGI3cg?oc=5",
+     "source": "Modern Ghana",
+     "published": "2026-11-12T10:10:00+00:00",
+     "summary": "US envoys arrive in Russia to meet Putin on ending Ukraine war&nbsp;&nbsp;Modern Ghana",
      "image": ""
+    },
+    {
+     "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-12T10:08:38+00:00",
+     "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg"
+    },
+    {
+     "title": "A 10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZXJSbmtLRkRLT081NFNjTl85ODlBa01GeXFyUmozUC1fVkdDb2V1SjlIc3BINFNWZTlTRTVQaENZa0RNVzV5SDM3Z1ZCMUg5bDV2VjFUNW9jX2hOR0dZbWk4aWJVNGpnTXNZUDd4UWlFSkw1aHZuRlNja2tPRGFnVWxjX1pGcENWY1hydnNKOFpVeGxfZUFOQ0JtcGxBdWFudGlTamhaMUhXNkU0NkdKX0RVR0ZOYy1Ud216X3RKaFZiYnM1bERpc1ZB?oc=5",
+     "source": "The Seattle Times",
+     "published": "2026-11-12T10:08:17+00:00",
+     "summary": "A 10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war&nbsp;&nbsp;The Seattle Times",
+     "image": ""
+    },
+    {
+     "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1JDaG9NU1ZrUlpwdUh4SHNKTTQ5eGQ5enFldVdaYWtSa1YzSHhuNlNfQmNnVURJNm9ObEY3YzllQzJBeVM1cjdnYlpSeGdNc0djUjZYZFFKbXlrQk1INEthTm93REVtQmcwRjJEQmRlWFJtWjY4a0N6N1l5TzlXRVhvWFJSdDJUU2dDeDhpbHhBMkpiMnZwYktDY25FVVZkaXpfRlZJdUc0WEtF0gGyAUFVX3lxTE5HMWYtaVYtZmhoRlBYSGJzNkVQeUdNTGF1TWZXVWdwM0lwZnZaNXJlRkVYQXhEV0ROSzhGTTU2eWdRSktYYXpVdmhGLVhqRDd0aEhDOU9hdlhjc191dU85WURuMm1WQmx5ZnZadVk4cVcyM2FZRm1CcXlBLW1Ia0kzTGZVYnE5SjFKcDRqX2NZaDJfbVd1UzZhU3JRM1Q5QUU3bTRqVXEwNzc4RGhDSUVwNVE?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-11-12T10:07:30+00:00",
+     "summary": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+     "image": ""
+    },
+    {
+     "title": "New restrictions to Starshield network 'kill more Ukrainians', Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261112-new-systematic-restrictions-starshield-network-kill-more-ukrainians-zelensky-says",
+     "source": "\u00a9 Cathal McNaughton, Reuters",
+     "published": "2026-11-12T10:06:26+00:00",
+     "summary": "Ukrainian \u2060President Volodymyr Zelensky \u200bon Thursday said that Ukrainian \u200bmilitary units had recorded new and significant disruptions to the Starshield satellite communications ser",
+     "image": "https://s.france24.com/media/display/d00e4e44-de17-11f1-bda1-5f54d898a954/w:1024/p:16x9/2026-11-11T190959Z-1804496691-RC2ULOAAJ0M2-RTRMADP-3-UKRAINE-CRISIS-IRELAND.jpg"
     },
     {
      "title": "Ukraine hit by \u2018significant\u2019 Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-12T09:45:20+00:00",
-     "summary": "Ukraine\u2019s president said unwelcome \u2018speed restrictions\u2019 on military connectivity are \u2018helping the Russians kill\u2019Here is Eurostar\u2019s statement in response to my inquiries:\u201cAt the req",
+     "published": "2026-11-12T10:03:45+00:00",
+     "summary": "Ukraine\u2019s president said unwelcome \u2018speed restrictions\u2019 on military connectivity are \u2018helping the Russians kill\u2019Ireland\u2019s Martin was also asked about any potential bomb threats or ",
      "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4"
     },
     {
-     "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+     "title": "As Ukraine-Russia talks fail again, U.N. undermines trust | Opinion",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1AyS3Z0MzM1c0pWWUZrUkIwRkw3cDNTZmpZVHN5a3VYMGk3Z0ozWUg0c2xSYm1NLUtaQXdxUFAyLS1pWHR6cUZUdTNmQkhiZGFGYzkxUEZSSHZNTFZoSGt5LXBGRGJ2aWd1Q0NzSG5MMDVKbHJVUEhHcURIVEdZRmtJcUhNX3k0dkxmcVUzbmxFNldiVG1QbkQyU21qcHZRY0YyUUpySGpYMld6SENKZDd6RQ?oc=5",
+     "source": "USA Today",
+     "published": "2026-11-12T10:03:00+00:00",
+     "summary": "As Ukraine-Russia talks fail again, U.N. undermines trust | Opinion&nbsp;&nbsp;USA Today",
+     "image": ""
+    },
+    {
+     "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-12T09:43:11+00:00",
-     "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
-    },
-    {
-     "title": "Ukraine\u2019s ex foreign minister Kuleba on prospects for peace in Russia-Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0tVb3Q4MWFGVzF6X2FFX00yb3BlSXJ5WDhKVWhkZHM0NDJ3Z1FtMk9rNGdpRi14NXUyMXVrd2w2bjVRdHZYX1E1ZWx5NnMtN2dqTzdhNldHMDJJekpzTVJlRkZyM3JUV1l2NHFzRWhTRmp2dHlwNjA1a3pweW8tbk5CSEQ5bTBvNHZDaEtNYXBsWXV0MjZPWU9uaHQ0ZlFOM0t2N1hqMGNuSTBJY2NpTWw0dlBmSFh0Y040WmNDWmptekU?oc=5",
-     "source": "NPR",
-     "published": "2026-11-12T09:40:31+00:00",
-     "summary": "Ukraine\u2019s ex foreign minister Kuleba on prospects for peace in Russia-Ukraine war&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
-     "source": "NPR",
-     "published": "2026-11-12T09:39:39+00:00",
-     "summary": "NPR's A Martinez speaks with former U.S. ambassador to Ukraine, William Taylor, about the ongoing peace talks between the U.S., Russia and Ukraine.",
-     "image": ""
-    },
-    {
-     "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
-     "source": "NPR",
-     "published": "2026-11-12T09:38:46+00:00",
-     "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelens",
-     "image": ""
-    },
-    {
-     "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-     "url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T09:38:00+00:00",
-     "summary": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
-     "image": ""
-    },
-    {
-     "title": "US Wants Russia to Propose New Security Deal With Europe as Trump Pushes Ukraine Peace Talks: Report",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEcxU01ldkdKcHktZTIwaEJzUzU5QjE5dlhadE1KZWZWSmE2SDY5ZEo5ZnY5MGZVdVZVc3BUYU1qUFBhek9QUWQtQ2pNU09iZFpSMVpibk9DQWFaTFBWMEJSSmtwT0FrY2xJRlRQX3FRQ2xldEdfTDFwUDVVb0FhZHNFbGhQZ3VaaTViME5tcHBSS0E0dnJfVGFoZEFWS1M0R3loUzNYSE1CUHNCZXJzWEpFQWFiT0FwYjh1eGhaajlnRXpWYmd0VW9xWDRSQQ?oc=5",
-     "source": "Open Magazine",
-     "published": "2026-11-12T09:34:53+00:00",
-     "summary": "US Wants Russia to Propose New Security Deal With Europe as Trump Pushes Ukraine Peace Talks: Report&nbsp;&nbsp;Open Magazine",
-     "image": ""
-    },
-    {
-     "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
-     "source": "NPR",
-     "published": "2026-11-12T09:29:50+00:00",
-     "summary": "Winter storms have brought flooding and deadly landslides to thousands living in tents in Gaza. Palestinians have no where to go after years of devasting war.",
-     "image": ""
-    },
-    {
-     "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-     "source": "NPR",
-     "published": "2026-11-12T09:29:30+00:00",
-     "summary": "The victims included a surgeon, and at least a dozen more were injured. Israel said it was targeting a Hamas commander and other militants.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine Pulls Off First-of-Its-Kind Drone Assault Across Dnipro, Blows Up Russian UAV Position",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWG01eThpMGpoWTVZVy1LQllNZWx1LXVNV0NGc0hqRTduWmJOaGNNZVJyaHFaRXk5bjFyazNpVXluVWN2dlY4cHRhNmQ4LUlUYUdzWkk2WTJNUkZiR1RXOXhLeTlMalhyTi1kRDN2T2swNFpHNDhycUNuU2luUFhhdTc0QWpfbXM4MGdSeXljekdxS1c3NTRPTzB5aUg2bTg1aExFbGVBLTE0Znl1U1UxRlZQY2ZXTzAyZDVBWGIybE9xM0VsVWZhX0s5YVM1WEljNlg2aF9fcw?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-12T09:24:18+00:00",
-     "summary": "Ukraine Pulls Off First-of-Its-Kind Drone Assault Across Dnipro, Blows Up Russian UAV Position&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
+     "published": "2026-11-12T10:02:32+00:00",
+     "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-12T09:56:39.911312+00:00",
+   "fetched_at": "2026-11-12T10:26:43.219768+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Smart homes, new threats: Could everyday appliances be hacked?",
+     "url": "https://www.france24.com/en/video/20261112-smart-homes-new-threats-could-everyday-appliances-be-hacked",
+     "source": "France 24",
+     "published": "2026-11-12T10:18:11+00:00",
+     "summary": "Should we be worried about cyberattacks targeting everyday household appliances, from smart vacuums to washing machines and food processors? The European Union Agency for Cybersecu",
+     "image": "https://s.france24.com/media/display/ab963a36-de80-11f1-9c28-3f371022a770/w:1024/p:16x9/EN-20261112-101623-101759-CS.jpg"
+    },
+    {
+     "title": "Democratic sweep opens the door for major policy changes at state level",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZk9pa0Nla003elh1Q0JZZnpCd1RNemRLeXN1YjJsX0gwY1FLVHBKSWNhSkg5RWNmOTdvYzBtMThya2ZfalR5UEJWMkhtT3ltN2lkMGx1cV9WcHZXd2FMSDRodlFFMHhlVW9wVUJnRnlhakxjMjZTeHg4SEx0NDlkVk9GMG9WT0lsYkRYemdleGh1X0htcHVVcUU3VWhJSmxfY05YZjhveVlOdkRBVTRIOGVR?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-12T10:06:11+00:00",
+     "summary": "Democratic sweep opens the door for major policy changes at state level&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Announcement of the Arrival of the African Union Election Observation Mission to the 15 November 2026 Presidential Election in the Republic of Cabo Verde-African Union - Peace and Security Department",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPY2tTSGJsYXBsY2pRczRzWldyaU1BRXZTY1NzT3gtRkRWa0s3MVN3aUFnd28yNklNMmlDRDlDZzlyMjR4NGNaNHJkcnNrODhyQ3dqRDZ6OERCMnh6LW9LaTY3MlluSzA1RVh4enZ5S1NVNW9tajhvYlN2U1luNURJeEVXWHl1UmRZdDVpS1VfaXdKMWNyYmlIY1VXZEpNYV9JWncxV1N6WXJHX1J3TFlzOEpkaHRld0M0QzlTeElOODBpZ0d5UjJPTjI5bFNEUGQwSVJQXzdxTlJCYV9ydU1KcHlVWGFnTGQwZUtxajZwc3pmY0NBRzYwWkIzOUhpYXZoWm5lYzBOZ0xLcEJ1a0IxSkZfS002Q2s?oc=5",
+     "source": "African Union,Peace and Security Department",
+     "published": "2026-11-12T09:55:49+00:00",
+     "summary": "Announcement of the Arrival of the African Union Election Observation Mission to the 15 November 2026 Presidential Election in the Republic of Cabo Verde-African Union - Peace and ",
+     "image": ""
+    },
+    {
+     "title": "2 Years Until the Next Election. What Long-Term Investors Should Do With the Next 24 Months.",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGxHMkU0Zy1jVW5IVG5XQUt1MXdfSlMtWVZqMGNyVVVvbmJUZklnRVN3aWJSMHhITHpoZ0xpRlVjTExDQkVCam1qMjhCVnoyaXBHVC1tQjN3YUUtdDBFWUpRajdDZWZHcEZjZmJrX0NJZXFvRFNyNWFwd3NQVHZaOTNNSmZLU1hLbXV2VzAtTkVSMnNIOVpF?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-11-12T09:50:00+00:00",
+     "summary": "2 Years Until the Next Election. What Long-Term Investors Should Do With the Next 24 Months.&nbsp;&nbsp;Yahoo Finance",
+     "image": ""
+    },
     {
      "title": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
      "url": "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling",
@@ -288,45 +320,21 @@
      "published": "2026-11-12T08:15:51+00:00",
      "summary": "Senator Lisa Murkowski visits Nome, talks election, projects and priorities&nbsp;&nbsp;The Nome Nugget",
      "image": ""
-    },
-    {
-     "title": "Photos: Protesters clash with police after housing cost rallies in Spain",
-     "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-12T08:01:29+00:00",
-     "summary": "Anger over housing affordability and purchasing power leads to clashes amid Spain&#039;s first general strike in 14 years.",
-     "image": ""
-    },
-    {
-     "title": "This Tiny Agency Carries Big Sway on Medicare Policy. Meet the Man Who Led It.",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOENtRl9tUW10QXNhNXhRX0NxZi1EUkI2WVhrZjlDQTdvYTUyc0RrZWVORWQ5OFdVcWxNc2VRZjZtcy1hOGlYdjgyVXQ2Yk9KdVpzNUJfNVU2Z01HWERaWmR0R2UxcGtCMGJQMGlXWFZUSVE2WU1DZ21NQ0k4UHJTNmtvMU9SSzBKNnhiU0IyRk0yQkhhM1REOVRnU05KNjZWbFFSMXlDZUdQa3pmRUJB?oc=5",
-     "source": "Tradeoffs",
-     "published": "2026-11-12T08:01:00+00:00",
-     "summary": "This Tiny Agency Carries Big Sway on Medicare Policy. Meet the Man Who Led It.&nbsp;&nbsp;Tradeoffs",
-     "image": ""
-    },
-    {
-     "title": "The biggest tsunami in Colorado\u2019s midterm election | Paula Noonan",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMlFvSnBCTWtuZDk2UVRZOEJZQVYwcjYzOW5ZSExDaUVnQlJlQW54LXZSUGpXWXV4TTg2VXdFNXM5QnpkVTNJRjh1bDd2Wm5oZ2tfdDVkWkJLSTI3ZUZDcXdGN3EtZjUzQ3JNT1YwV3R3QnNQUTFSYnF1VG5ZM3hucThLREFxSjRJdGhqVWo5VGhLbnZtSFdpWlItNnpodjlDN2ZVMW5iVFJqR0k?oc=5",
-     "source": "Colorado Politics",
-     "published": "2026-11-12T08:00:00+00:00",
-     "summary": "The biggest tsunami in Colorado\u2019s midterm election | Paula Noonan&nbsp;&nbsp;Colorado Politics",
-     "image": ""
-    },
-    {
-     "title": "Can Nigeria's president regain voters' trust after painful first term?",
-     "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-12T07:30:44+00:00",
-     "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/110e8ed0-dd8d-11f1-a56e-d7dc6014806d.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-12T09:56:39.911315+00:00",
+   "fetched_at": "2026-11-12T10:26:43.219770+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nvidia board reportedly meets to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian",
+     "published": "2026-11-12T10:02:35+00:00",
+     "summary": "Nvidia shares plunge in extended trading, sending Asian markets lowerNvidia board reportedly deciding whether to oust CEO Jensen HuangToo big \u2013 and too well-connected \u2013 to sack? Hu",
+     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+    },
     {
      "title": "AI helps UK economy grow at fastest pace for more than two years",
      "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
@@ -334,14 +342,6 @@
      "published": "2026-11-12T09:12:52+00:00",
      "summary": "GDP \u2018grew robustly\u2019 by 0.7% in third quarter and by 0.2% month on month in September despite high oil pricesBusiness live \u2013 latest updatesThe UK economy grew by 0.7% in the third q",
      "image": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=040a7ae25f1278872b813c75d05ab697"
-    },
-    {
-     "title": "Nvidia board reportedly meets to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-     "source": "The Guardian",
-     "published": "2026-11-12T09:11:33+00:00",
-     "summary": "Nvidia shares plunge in extended trading, sending Asian markets lowerNvidia board reportedly deciding whether to oust CEO Jensen HuangToo big \u2013 and too well-connected \u2013 to sack? Hu",
-     "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
     },
     {
      "title": "Paraguay partially refunds Ueno Bank depositors after collapse",
