@@ -1,10 +1,74 @@
 {
- "generated_at": "2026-11-13T10:01:06.692121+00:00",
+ "generated_at": "2026-11-13T10:31:12.789385+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T10:01:06.692092+00:00",
+   "fetched_at": "2026-11-13T10:31:12.789358+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:15:13+00:00",
+     "summary": "Tech company \u2018seeing positive results\u2019 with efforts and says no indication problem was caused by cyber-attackMicrosoft outage hits UK hospitals, GPs, schools and policeMicrosoft ou",
+     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
+    },
+    {
+     "title": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
+     "url": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations",
+     "source": "France 24",
+     "published": "2026-11-13T10:13:57+00:00",
+     "summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not c",
+     "image": "https://s.france24.com/media/display/4d631082-df49-11f1-875c-29048b396e03/w:1024/p:16x9/EN-20261113-100803-101220-CS-01.jpg"
+    },
+    {
+     "title": "As world gripped by climate emergency, COP31\u2019s empty chairs signal low ambitions",
+     "url": "https://www.france24.com/en/video/20261113-as-world-gripped-by-climate-emergency-cop31-s-empty-chairs-signal-low-ambitions",
+     "source": "France 24",
+     "published": "2026-11-13T10:12:17+00:00",
+     "summary": "It is the recurring theme of every speech at the COP summits: the urgent need to act in the face of increasingly frequent climate disasters. Yet this year\u2019s conference in Turkey se",
+     "image": "https://s.france24.com/media/display/0b2be57c-df49-11f1-b516-3f371022a770/w:1024/p:16x9/EN-20261113-101254-101428-CS.jpg"
+    },
+    {
+     "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:11:39+00:00",
+     "summary": "NHS suffering \u2018serious\u2019 and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage \u2013 live updatesHospitals, GPs and police force",
+     "image": "https://i.guim.co.uk/img/media/323c32993821d256fab890df565491d603ec4a0e/263_0_4265_3413/master/4265.jpg?width=140&quality=85&auto=format&fit=max&s=df3331e4c669e5fe2eabf0c95e4977db"
+    },
+    {
+     "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+     "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T10:11:38+00:00",
+     "summary": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
+     "image": ""
+    },
+    {
+     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:07:18+00:00",
+     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesEU foreign policy chief Kaja Kallas has warned against the EU agreeing to Russia\u2019s ",
+     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+    },
+    {
+     "title": "UK-EU deal will lead to \u2018growing pressure\u2019 for parliament to scrutinise legislation, warns committee \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:05:57+00:00",
+     "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next weekHello and welcome to the UK politics live blog.There will be a \u201cgrowing pressure\u201d for parliament to sc",
+     "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316"
+    },
+    {
+     "title": "Potential 'national security crisis' as Nvidia ex-CEO summoned by US Congress",
+     "url": "https://www.france24.com/en/video/20261113-potential-national-security-crisis-as-nvidia-ex-ceo-summoned-by-us-congress",
+     "source": "France 24",
+     "published": "2026-11-13T10:00:52+00:00",
+     "summary": "What began as an investigation into the now former Nvidia CEO Jensen Huang is turning into what could be shaping up to be a \"national security crisis\", says France 24's corresponde",
+     "image": "https://s.france24.com/media/display/2bdc335e-df48-11f1-bf98-f71d22e7fea9/w:1024/p:16x9/EN-20261113-100555-100803-CS.jpg"
+    },
     {
      "title": "'One of the biggest outages ever': Disruption to Microsoft services enters second day",
      "url": "https://www.france24.com/en/video/20261113-one-of-the-biggest-outages-ever-disruption-to-microsoft-services-enters-second-day",
@@ -19,7 +83,7 @@
      "source": "BBC News",
      "published": "2026-11-13T09:59:20+00:00",
      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94f/live/05203e60-df46-11f1-93e1-3b657b665bcf.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
     },
     {
      "title": "With every rainfall, Gaza risks losing access to power and healthcare",
@@ -34,16 +98,8 @@
      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
      "source": "The Guardian",
      "published": "2026-11-13T09:41:22+00:00",
-     "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy\u2019s ties to Jensen Huang and delays in adding MegaSpeed to trade blacklistAnalysis: Jensen Huang built a",
-     "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175"
-    },
-    {
-     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T09:39:57+00:00",
-     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesToday\u2019s host, Ireland\u2019s Miche\u00e1l Martin, said discussions will focus on what Europe ",
-     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+     "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy\u2019s ties to Jensen Huang and delays in adding Megaspeed to trade blacklistAnalysis: Jensen Huang built a",
+     "image": "https://i.guim.co.uk/img/media/32216a34a823211e1918352cebe5089bd9ffadb0/661_0_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=569749a3b191adfd37bfaeacebdf542e"
     },
     {
      "title": "Microsoft hit by global outages: What happened and why?",
@@ -60,83 +116,75 @@
      "published": "2026-11-13T09:26:32+00:00",
      "summary": "As renewed diplomatic efforts seek to bring an end to Russia's war on Ukraine, the prospect of a negotiated settlement remains unlikely due to Russia's irreconcilable territorial d",
      "image": "https://s.france24.com/media/display/64f9ee20-df42-11f1-8bdb-f71d22e7fea9/w:1024/p:16x9/EN-20261112-151425-152330-CS.jpg"
-    },
-    {
-     "title": "\ud83d\udd34 Live: Microsoft 'not aware of any malicious activity' behind global Outlook outage",
-     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
-     "source": "France 24",
-     "published": "2026-11-13T09:18:23+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "Pope Leo XIV warns on pressures facing modern families",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T09:11:37+00:00",
-     "summary": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
-     "image": ""
-    },
-    {
-     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "source": "The Guardian",
-     "published": "2026-11-13T09:08:16+00:00",
-     "summary": "Tech company \u2018seeing positive results\u2019 with efforts and says no indication problem was caused by cyber-attackMicrosoft outage \u2013 live updatesTell us: have you been affected by the M",
-     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
-    },
-    {
-     "title": "Who gets to tell the world\u2019s news?",
-     "url": "https://www.aljazeera.com/features/longform/2026/11/13/who-gets-to-tell-the-worlds-news?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T08:51:11+00:00",
-     "summary": "A look back at the Global South&#039;s early efforts to challenge Western dominance of international news.",
-     "image": ""
-    },
-    {
-     "title": "Nvidia\u2019s Huang, Lutnick summoned to testify to US Senate",
-     "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T08:49:59+00:00",
-     "summary": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
-     "image": ""
-    },
-    {
-     "title": "Storm Charles causes floods and flight cancellations across southern Europe",
-     "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
-     "source": "The Guardian",
-     "published": "2026-11-13T08:49:19+00:00",
-     "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninusla t",
-     "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e"
-    },
-    {
-     "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-     "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T08:20:28+00:00",
-     "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T10:01:06.692107+00:00",
+   "fetched_at": "2026-11-13T10:31:12.789371+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Europe Haggles Over Who Will Represent It in Talks With Russia",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXZ5el9iR2VOdWd1dVNVX00zWkdWM01yQkk4WkxZZmtrNUNxUVZIQ3E0aHdrZ0NmMWlsclN0ejlhaHNvMWV3OWVBWXI4aF9aRzhPOW5pNTUwdHJNdWFSclFQckhJUDFYMXBpWDM4QjhsQ00wazRta0FVS2F3NDIwSWVBVjg5SjA?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-13T10:21:16+00:00",
+     "summary": "Europe Haggles Over Who Will Represent It in Talks With Russia&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
+     "url": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations",
+     "source": "France 24",
+     "published": "2026-11-13T10:13:57+00:00",
+     "summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not c",
+     "image": "https://s.france24.com/media/display/4d631082-df49-11f1-875c-29048b396e03/w:1024/p:16x9/EN-20261113-100803-101220-CS-01.jpg"
+    },
+    {
+     "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZlRoNnZkS1Q2N2NZaDhheS1hc0kzUlZncXNtNFlIbERETmFMYTJrV1JHbzJKekJMZnhSdDJ2SkgwN3h0NXp1a1E2RmthcmlKNVY3V19mWVV6OFhTYUw3cVFXakpMSzdrZUpaX1pCU3FUMVI0RFhQc1pKa3doTGh1MHdhWFZJY1lnMTQ2eUgxMzNjS3pTZGxmN1E5TW1uWTdMaXVTUTF2TnBpdmZxMnfSAbMBQVVfeXFMUExDSW5Ec2xDQnJMTFBILUtQM1A5dl81ZGtLVGZlbHljM0tRVGJONEFqSlBMeTBobzR1QkNtQ0M3S3N6d0VfUzkzNXozZHpCR2tfQ1d0X3lFSWdTYXhNWHFuQ1oxWmh2aE9YYUhVMFJiMDVKVHhDMnowZFFPMFlKSDlLYUtCYVJ2V3ZwdVFuSDdNb1h4Z1Q2R1RDY3JhbV9jX3NiTFItTEE2dnR0QmNjTVZXSHM?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T10:11:51+00:00",
+     "summary": "Russia and Ukraine report overnight attacks amid US diplomatic push&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Ukraine Peace Talks Set to Expand as Russia and Europe Clash Over Post-war Security",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2dKa2Jzb0RjVFVJSGlOR2FWTXE1bDdlbGNLMTNBaGxoNkZWbDJXc0U0R3l3WnBMY1VzbFA4TjY2dkt1QXJWQTRMYVJEWk1uak51MWlsUFZDcFlqZG83TjlTOWlwTG1tdkx2UjdfaUxocGJsajdzUHNqUWJUMzBfR3JJTi1zX0pjdTRjZjRpZHZsYXc5LXZ4YkFTa1RVWm45ZHFMeWZIUDFjbEs2Q1E?oc=5",
+     "source": "commonspace.eu",
+     "published": "2026-11-13T10:09:20+00:00",
+     "summary": "Ukraine Peace Talks Set to Expand as Russia and Europe Clash Over Post-war Security&nbsp;&nbsp;commonspace.eu",
+     "image": ""
+    },
+    {
+     "title": "Europe pushes for seat at Ukraine peace talks\u200b\u200c but lacks unified voice",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWWRQaTFiaHJQbmJTVnR0UzAzMjRHZzVERERkWHJyMENySEQtMU5iUnVnZlJhSk0yeWpGMURCZExJaThQUW12aXFoekxGX1ZnbXI1VGdYNmNIY0ZqazRhcmFTNEpPVU9Janl5aWRJT09VX0k4bTBjUEhEbnQ2NXQxTjNaR2ZKUjZlN1V1bW9XNHBKcjZ0b1p1bWxELWE4SUZlSGpyY3RNVFlFZWpnTV92enZZNE51Smh3UHJTN2NfcmNUOEhsY3N1LXZTTWw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-13T10:08:41+00:00",
+     "summary": "Europe pushes for seat at Ukraine peace talks\u200b\u200c but lacks unified voice&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:07:18+00:00",
+     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesEU foreign policy chief Kaja Kallas has warned against the EU agreeing to Russia\u2019s ",
+     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+    },
+    {
+     "title": "UK-EU deal will lead to \u2018growing pressure\u2019 for parliament to scrutinise legislation, warns committee \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:05:57+00:00",
+     "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next weekHello and welcome to the UK politics live blog.There will be a \u201cgrowing pressure\u201d for parliament to sc",
+     "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316"
+    },
     {
      "title": "US envoy Kushner says next round of Russia-Ukraine peace talks to include Europe",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1Vfc1JKWjlUZzFINjVjZDczYkJBUW1BajNLMC1TMTh5eUsyTmlYVTJzOUNqRS02Mk5mWTFPYVNYX1RVZUNDMVVVU2tsWFUxeXoyY0RWLWd4Q0dlUmZLajBTcVNsRlFYc05XRS1xb1RjbFlqWDh5Z283TlpCajJTNDY1SGZReE5KUE1lZ2lVTHN4cDZBTGNtd1NFdEgwWUppdHRiRTB4LWFUMm1vTGJEY0p4VHFLQQ?oc=5",
      "source": "Anadolu Ajans\u0131",
      "published": "2026-11-13T09:47:25+00:00",
      "summary": "US envoy Kushner says next round of Russia-Ukraine peace talks to include Europe&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdG1TcUktamhkclVuNDdNUFhnQkNraERRc244VnJaUHE5aDVSUlBhNjZwYXMzRFdFS01Wc2NFLUlQaDlPZHVIZEEwMC05SzF6cFI3dWF4M2hEUFFoM3hMZjhlQkVuQUlSYWUyeVo2emE2S3U1dHNtTi16MHRucU1lWDdheFI2Zw?oc=5",
-     "source": "Newsday",
-     "published": "2026-11-13T09:47:11+00:00",
-     "summary": "Europe pushes for seat at Ukraine peace talks but lacks unified voice&nbsp;&nbsp;Newsday",
      "image": ""
     },
     {
@@ -152,16 +200,16 @@
      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
      "source": "The Guardian",
      "published": "2026-11-13T09:41:22+00:00",
-     "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy\u2019s ties to Jensen Huang and delays in adding MegaSpeed to trade blacklistAnalysis: Jensen Huang built a",
-     "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175"
+     "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy\u2019s ties to Jensen Huang and delays in adding Megaspeed to trade blacklistAnalysis: Jensen Huang built a",
+     "image": "https://i.guim.co.uk/img/media/32216a34a823211e1918352cebe5089bd9ffadb0/661_0_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=569749a3b191adfd37bfaeacebdf542e"
     },
     {
-     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T09:39:57+00:00",
-     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesToday\u2019s host, Ireland\u2019s Miche\u00e1l Martin, said discussions will focus on what Europe ",
-     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+     "title": "Russia's Advance Slows 'Very Significantly' as Heavy Losses Undermine Push Along Ukraine's Front",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vclZKQWN0bXBWYlo2eXJpempOUjF0dkV4Y0UxUHdJOFpWalVyTHd4emxURGlabWJjQXhDU3FRdzIyNnVoVU12RzVnWQ?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-13T09:29:31+00:00",
+     "summary": "Russia's Advance Slows 'Very Significantly' as Heavy Losses Undermine Push Along Ukraine's Front&nbsp;&nbsp;Kyiv Post",
+     "image": ""
     },
     {
      "title": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
@@ -170,61 +218,77 @@
      "published": "2026-11-13T09:26:32+00:00",
      "summary": "As renewed diplomatic efforts seek to bring an end to Russia's war on Ukraine, the prospect of a negotiated settlement remains unlikely due to Russia's irreconcilable territorial d",
      "image": "https://s.france24.com/media/display/64f9ee20-df42-11f1-8bdb-f71d22e7fea9/w:1024/p:16x9/EN-20261112-151425-152330-CS.jpg"
-    },
-    {
-     "title": "Ukrainian Drone Attack Kills 4 Workers, Sparks Fire at Volgograd Oil Refinery",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTVzYmZBZlpGQ1NrNzRkZzAzQTgyS09SUW1NbWpqNEdzMXNkd0RSb2NNWVdXaEt6RXdtMDR2UW9kSXJkUnF2MjFNVmZNTUYwRmZ1b0QwUi1QOG5FYzFKN1hONHpMb3lscnJmODhMa1gwMDRsXzA3VVpiRTZPQjZmSzFNOXJkYmw3SHpMZlkwcV85VTNUcXAtTG0tQXpZSXJUeFBjRTk1S21zYVZFWkcxUXhyR0VaUjdZcjRWeXRzcmdpTnM?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-13T09:26:00+00:00",
-     "summary": "Ukrainian Drone Attack Kills 4 Workers, Sparks Fire at Volgograd Oil Refinery&nbsp;&nbsp;The Moscow Times",
-     "image": ""
-    },
-    {
-     "title": "\ud83d\udd34 Live: Microsoft 'not aware of any malicious activity' behind global Outlook outage",
-     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
-     "source": "France 24",
-     "published": "2026-11-13T09:18:23+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "Pope Leo XIV warns on pressures facing modern families",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T09:11:37+00:00",
-     "summary": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
-     "image": ""
-    },
-    {
-     "title": "Former Ukrainian PM\u2019s Aide Seriously Injured in Moscow Car Blast \u2013 Reports",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlNkOTh5bHB1SEh4aVpYUVZSS1RvOUg3cjBodjBfNlR0bXNKZGljUkhMUm1tNlZOTXNKd2hiVzhuX2V4ODc0WFNQdTVDTS00V1ljcjVTZ1JGRnNyUk9GbXo3M1dSMzZkQTJGWm5pajFLYndjWlBrbGM5ODR3TWJaTFE3dUpjV2R3b0ZMN1hIZTNIT1phX3pKeVc2NkxleVMzQmE1NDFNQWM2OTY4emhuVERCd3lUV3A5YnA1Nw?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-13T08:54:00+00:00",
-     "summary": "Former Ukrainian PM\u2019s Aide Seriously Injured in Moscow Car Blast \u2013 Reports&nbsp;&nbsp;The Moscow Times",
-     "image": ""
-    },
-    {
-     "title": "Four killed in Ukrainian drone strike in Russia\u2019s Volgograd, official says",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNEJHTWtfaGoyVkZ4Q1AyS2hUVjVmMmdidnF2TzF0ZVpzT2N6NWw4dHFLZDVzaHlGTmpObHg1S1BLYmg4cG8tY2Jrdm0xdVpDLWdOWEhKdW5ZbjZ5aDExbXJXenktbHJYdmwzaDB2a01RU1NCdGtuYndtNlJwUVMyOURlZWlWRElDaU9kWmRZMmtabTNjMXVBQ09UNTNEUzNLWWdZTlNMTkZYMmxmdzdmUUdXcVlXYklKRWpDWG9YMlNUbVXSAcgBQVVfeXFMTmpyUnJTSWFLQnNmcVhnSXBUTEpDd0xQS2VlOC02RWVRQ3BnTTdOaE5kX1NkYTg5aFAxSmF4SnBEU3V5d25rTzMwS3g2dTJOZl9KNnVyd1V3MGVDeU5FTTBhX2k1cngtUVlOb0dnM21mTmRHSURRWW1wZVVsRG1aLWpQbjVFOWc0UjFGOFlhN3VMMHM5Z3ZHREpYZUxtbmVJWUtVUk1ZWllIcUFXUmZsUlJzRFdBU1gzZVRHc1d5a1YyVlFlY09xN0s?oc=5",
-     "source": "Al Arabiya English",
-     "published": "2026-11-13T08:46:00+00:00",
-     "summary": "Four killed in Ukrainian drone strike in Russia\u2019s Volgograd, official says&nbsp;&nbsp;Al Arabiya English",
-     "image": ""
-    },
-    {
-     "title": "Kushner Says U.S. Working Toward 'Largest Prisoner Exchange' of Russia's War in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3JkdktUN21FUDg3ZTJTMkR2TzRSR2hQMUJuNlQtRjhyRjYyQjQ4U3hqVER6YXlNREk1ZHRjVmYtczdNVHJBZHh5MDdMLTFIdTkxRTYwNktEcThLelVYejJfYkZ4OWhjQzRyQnc1RE1aRTFmTXMtc3Y5Z2FxWVNUT0xOdlJ0TjE1bDZnX2hEYVpNLWFoVmxWWUZtbklWRC1CNnZNNGJ1N2wwMUFsRmpKbFBUcndhWXpnR3VzSXRoQThsS29aN1ZBdmM3QQ?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-13T08:40:28+00:00",
-     "summary": "Kushner Says U.S. Working Toward 'Largest Prisoner Exchange' of Russia's War in Ukraine&nbsp;&nbsp;The Moscow Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T10:01:06.692110+00:00",
+   "fetched_at": "2026-11-13T10:31:12.789375+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Sweden's Kristersson to offer centre-right government plan to Centre Party amid post-election deadlock",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUZrM3BkeGkzU3J6aWI2OXp6NFRDRS16OTM2Q2hVc1ZsMFhwOWRTLXg4MEtoTkpvRXFXNFJ6SC1fbGw3QWdWYVhvallTaDh1Si1WWmItQ3dZX0NhM2RENVpVc1phTjgzc1F6cmlBR3NaazRQc2RORklMUDhxN2tlTndTaXRPdms1M3h4YjJYUXE0dU43ZXd4ZVRoYk16T2E3Y3ZBMDZCeWhyZjljcThFRndLcUVoVUkxdHJ3?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-13T10:18:48+00:00",
+     "summary": "Sweden's Kristersson to offer centre-right government plan to Centre Party amid post-election deadlock&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "West Virginia\u2019s 2026 election was a national model for safe, secure, and accurate voting",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnNLTHZZZGgyaFF1Nk95V1RxdVZnU25IdDNNdTFrM2FoMWZhaDFzazhEckdzdGFVeGlkOHNqbC1FNUhQem40cll1eW5rX0w5MkliSGNXZEliTFlmY3NsVHk0Nnc3cjhjQVVvMTZYN3JBYVZSQXI0aVBmRDRXQWRpQnNPelg2ejlrSXA5QTBPMUQ0NW9VS2hmX0hReUM5WDBwdXJsNGNEQmV5Slc5dnRHanBpZlFQM0poQ0xz?oc=5",
+     "source": "The Real WV",
+     "published": "2026-11-13T10:13:53+00:00",
+     "summary": "West Virginia\u2019s 2026 election was a national model for safe, secure, and accurate voting&nbsp;&nbsp;The Real WV",
+     "image": ""
+    },
+    {
+     "title": "As world gripped by climate emergency, COP31\u2019s empty chairs signal low ambitions",
+     "url": "https://www.france24.com/en/video/20261113-as-world-gripped-by-climate-emergency-cop31-s-empty-chairs-signal-low-ambitions",
+     "source": "France 24",
+     "published": "2026-11-13T10:12:17+00:00",
+     "summary": "It is the recurring theme of every speech at the COP summits: the urgent need to act in the face of increasingly frequent climate disasters. Yet this year\u2019s conference in Turkey se",
+     "image": "https://s.france24.com/media/display/0b2be57c-df49-11f1-b516-3f371022a770/w:1024/p:16x9/EN-20261113-101254-101428-CS.jpg"
+    },
+    {
+     "title": "What's next for North Carolina's 2026 midterm election results?",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTENNdGhYQTJsRkNCa2RMejliMnRrX282V1l2bGx2aU9wb2pacWhiU1JqZlVsR3dqUUsyRDMzcG1uUG5XUDZQR3BvNjBUSmhsYzBBT1I4azZ1a1Q2MXlBN0pBVkhKcUFrOW9rdTVfNnpFMnFGd3RlbmI0WElYc0MzTWE2WUcwNFUzMlBCUkZ4YXNKQ21aYVRlNlBrVjNpc05kbzNXOWpjbUNWUjdnVDByekxnSFd4eGN1QVoyN2tNb1lKM1ZKZk9faTRfbXk1d3N1SUZKQg?oc=5",
+     "source": "WCNC",
+     "published": "2026-11-13T10:05:00+00:00",
+     "summary": "What's next for North Carolina's 2026 midterm election results?&nbsp;&nbsp;WCNC",
+     "image": ""
+    },
+    {
+     "title": "Potential 'national security crisis' as Nvidia ex-CEO summoned by US Congress",
+     "url": "https://www.france24.com/en/video/20261113-potential-national-security-crisis-as-nvidia-ex-ceo-summoned-by-us-congress",
+     "source": "France 24",
+     "published": "2026-11-13T10:00:52+00:00",
+     "summary": "What began as an investigation into the now former Nvidia CEO Jensen Huang is turning into what could be shaping up to be a \"national security crisis\", says France 24's corresponde",
+     "image": "https://s.france24.com/media/display/2bdc335e-df48-11f1-bf98-f71d22e7fea9/w:1024/p:16x9/EN-20261113-100555-100803-CS.jpg"
+    },
+    {
+     "title": "These two voter turnout trends explain what happened across the South in the election",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFl2ZFdwSDlhZGl1dFhoNjU4Q3Yxd0MwZklwcWhRNWpOYkZROUtxVF9DdGI2eTFtX1ZFVzYyS2NwRnhQOXdlb1kzcXZRMU8xRWRiRV84b3VpT2lnTEpyR2hmUGNvSlRNbjJOY2xQbmxHTjZYMmVkVWloaElmNkNFRlB4M0JzekEw?oc=5",
+     "source": "NPR",
+     "published": "2026-11-13T10:00:00+00:00",
+     "summary": "These two voter turnout trends explain what happened across the South in the election&nbsp;&nbsp;NPR",
+     "image": ""
+    },
+    {
+     "title": "These swing voters have low expectations for divided government",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUU1wMlZxdjktdnpRZVFJOGx1NldsTWJCVkw0ZDhUbklTTFYwcE41d2RSZThpZWlEcEppS2Q2bGViOG1oZ3JiR0lWRkF3NjBPRHRRUXFzemNKRm5PaUdyWVRoLVVKTHVqSjlSSGUydktMZ0UwRVpYTlh1WURwX0JzeVgxeXBSV0l6eUVwaWxrcE4?oc=5",
+     "source": "NPR",
+     "published": "2026-11-13T10:00:00+00:00",
+     "summary": "These swing voters have low expectations for divided government&nbsp;&nbsp;NPR",
+     "image": ""
+    },
+    {
+     "title": "Republicans Resistant to Blame Trump Despite Election Losses",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnNJZll2bzZPcWh5Y2w1SUx1NmE3Zm5xbERjM3R1N2REVXpmc181MVpsWHJwVGJrdXBodk5fZ3o0NFJCUFFyYy1hR2RKcmJIbFBGeVJUeENWUlhpektrMUpVbVJNc2FrdUV4VHNDa3lwdlFRX05xcEZkbW9ubS15ZFVwRGE1Z2lEdEtxTDFKSmZqRzhGN29Hb0szZW41aEFQeUxxbnpDMzg5cEFl?oc=5",
+     "source": "Bloomberg Government News",
+     "published": "2026-11-13T10:00:00+00:00",
+     "summary": "Republicans Resistant to Blame Trump Despite Election Losses&nbsp;&nbsp;Bloomberg Government News",
+     "image": ""
+    },
     {
      "title": "The affordability election delivered billions for public transit",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX29MMjZqdUl0MEFrYTEzYkJfSkJKYzNKV3gtcV9JYnRKeDl5ZUx6M0tNV2xuanMwY05pd3REWEZmYm4xdmpxRW9zSkFtNnJZQmJrZmloOWFzTUQ4YVl6TjJSb3laY3p0T2ZQTFAyam9qVHY1Y21rNWhsZVhwR0I3V1hGeGZRcFFaa1VQRUxrY0Q1amo5S1o5TGU1SmJmM0k?oc=5",
@@ -242,89 +306,25 @@
      "image": ""
     },
     {
+     "title": "Teen campaign manager helps lead upset election win in Florida Legislature",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXRyYTRRVFJGTGpMQXF3dDN1VlItZWRKeVY1Yk5ZbFdBb043S3hJUjJ0SmlQd2xPajVGTUQ5Y2R2NGhaQ3hTVlNJbUp0dk1pSXNtUW9oZzdtZXVCQ1NacWN2Ui0zQkVUckRpR3dGVzB2RHhWZWVZUlVNb2pCLV9mQ0MwLUszQkR2bFFBM0ZMLWd2a3JyaXc?oc=5",
+     "source": "WPBF",
+     "published": "2026-11-13T09:16:00+00:00",
+     "summary": "Teen campaign manager helps lead upset election win in Florida Legislature&nbsp;&nbsp;WPBF",
+     "image": ""
+    },
+    {
      "title": "Your 2026 Student Government Senate election guide",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUdCb01TUjFBM21yZ3pFZUpuNzZkOERLc2YzTEpGajFpVjhpSkYteTR4NC10aXp5Q3FqYno0LTJBVlA2UUIwQnpvR2c1MFVtX2w3QktERDliYTNXMnlYUl9iWFR1T1RPN0IzMnV0bUhyTHRBdmVka3doejhXbHNkcFlTNUVCeEJzWlN0c1ZfTFo1Z2JCUjUzV0Y4M2M?oc=5",
      "source": "The Lafayette \u2013 The Oldest College Newspaper in Pennsylvania",
      "published": "2026-11-13T09:09:32+00:00",
      "summary": "Your 2026 Student Government Senate election guide&nbsp;&nbsp;The Lafayette \u2013 The Oldest College Newspaper in Pennsylvania",
      "image": ""
-    },
-    {
-     "title": "How the \u2018Blue Wave\u2019 Could Shake Up Food and Ag Policy",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDgxWDlYVUtXYXA4cHFud3RGRWV2UUQ3eFJmREhPdmRnS0J4eUVEbmlzcDFoZFBtN21uR1FtLTloQ0ZzQ0xrR2pwQkN2RXRsU283S0pkcTlrT1diRzZaOE9qQ3cxUkEzNjdfVmVFWVoyZURScWFTRzNNa2ZtS1U4V1VUejV4a1hFRlcxdk53?oc=5",
-     "source": "Civil Eats",
-     "published": "2026-11-13T09:05:48+00:00",
-     "summary": "How the \u2018Blue Wave\u2019 Could Shake Up Food and Ag Policy&nbsp;&nbsp;Civil Eats",
-     "image": ""
-    },
-    {
-     "title": "A moment from Deb Haaland\u2019s election night",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0weGp4MmttQzRHajJ0OXpER09MdGdFOXNuUEpUMlRaRTZ4OEpSNWRQOU5SdUZxUi1XYldkcUIwQUN3YTFDdGRsejBYTzVPbHlVVXRjTl9oYWFYQ0tHZDV6emxxZktKVnphWTNwWHJqSnN3Y2F6cVBfbkRxTFVPVUk?oc=5",
-     "source": "High Country News",
-     "published": "2026-11-13T09:00:00+00:00",
-     "summary": "A moment from Deb Haaland\u2019s election night&nbsp;&nbsp;High Country News",
-     "image": ""
-    },
-    {
-     "title": "Nvidia\u2019s Huang, Lutnick summoned to testify to US Senate",
-     "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T08:49:59+00:00",
-     "summary": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
-     "image": ""
-    },
-    {
-     "title": "Kern County says 30,054 ballots still unprocessed as election concerns raised at meeting",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFVFSDluS0h3Y3dlNkp4UG5Ec19uY2g0THpHbGVSV3hmelhINEpzalZ6ODZLa0tNeTRlQ0c1dEdsdEpVeUt4TU5oLTNpVEt3Yk5qREpOUGZWRy1TVVY0NndHdjVRbDlVYjllb2Q1aXo2b3dDWVhBclZPMXN6QzJmTzhoY1BBUTdFYmpXcEhfV01QeFJRVDMxcDdLUlN2RFlibktQcmJ1Vno2T055UlhmZ0UxSVJ1TmYtS2JwQXExc0VCanM?oc=5",
-     "source": "KBAK",
-     "published": "2026-11-13T08:35:48+00:00",
-     "summary": "Kern County says 30,054 ballots still unprocessed as election concerns raised at meeting&nbsp;&nbsp;KBAK",
-     "image": ""
-    },
-    {
-     "title": "LA voters react to this past election with hope",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXVsTmJMUmNjXzZMSDk4eGh1RzJIc2V2eC1VcFNGaW5SUDJucFBEaDduYU1EYm5iZktWXzJ5U3BoTVZJc0k5OTU3Qml6clllVnVDQzZhREk4UkFzcm5hWmJKLUtzdVAycW5zc0twcFJMYnVFTVI2amJzenpGRWkwNXlqZVNjUmkzMlROQWREdUNiQjhkcHNV?oc=5",
-     "source": "Daily Trojan",
-     "published": "2026-11-13T08:04:14+00:00",
-     "summary": "LA voters react to this past election with hope&nbsp;&nbsp;Daily Trojan",
-     "image": ""
-    },
-    {
-     "title": "NAWG Urges Farm Bill Action and Democrats and Farm Policy",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUM4Wjd5Y0NlYk40WElZU3l2RjhweThRZE5RNThvRDU1RmJKM3JfZHZ0dlFhTk1ieDM3em00cHZZdnFxVmJwNmlJRFU4RENnOVlzMURSRUhuMGRTNXB2X29lYTlXRXBTNUtiYi1jMHMwS01HSjBfcU5UcGNxZnozaEU4aXlRTzVZZ1ctV1UxM2haMnlZaHktMWR1VzVZOTgwbnhTY0VkRElGZ1ZDbjlEQzZiVllWTWds?oc=5",
-     "source": "AG INFORMATION NETWORK OF THE WEST",
-     "published": "2026-11-13T08:01:18+00:00",
-     "summary": "NAWG Urges Farm Bill Action and Democrats and Farm Policy&nbsp;&nbsp;AG INFORMATION NETWORK OF THE WEST",
-     "image": ""
-    },
-    {
-     "title": "A journalist's election cycle",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnJIZjJVV3pueVgzNU52N3NPR1p6V0xmZ3ZQNnJSVEUyTXQxZ0VEeDB5X1NyR0pnWTZlNU9QbVNSaU40WURDbUpMNDVoVGtDeDZMMUZjaXJRZ054TU5kTmV1S2hONE9YQ2pUaUxreTNnRjVfZ21QUjdYcEpDSUdhSk4zMkNjUkt6WXVCTHk0VQ?oc=5",
-     "source": "Coeur d'Alene Press",
-     "published": "2026-11-13T08:00:00+00:00",
-     "summary": "A journalist's election cycle&nbsp;&nbsp;Coeur d'Alene Press",
-     "image": ""
-    },
-    {
-     "title": "Serbia: Seismic election result ousts long-serving leader and dominant party from power",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdkRyUWpnaEREdEJrV2x2V01EQXJQYmh3aUYzU0pFN2JKeG4wOXIwMUUyQk5jUDZuWGhCWGtwWVFGZzZzUTFUeVhMM04xVVRJUjVkWXB1T1NDQWk2YmU0Ql9mMU14SjBnMjFnaHFHR2tNVVF0N3BSbUVDWEtOQTc1LUk5S255RWVZNFItQTkxcHpBYVlRUDAxMmJJZGVKMExXVmJDZ3hKVFZfem1sTG83S0lqQWtRZWF5aVFZ?oc=5",
-     "source": "Credendo",
-     "published": "2026-11-13T07:39:47+00:00",
-     "summary": "Serbia: Seismic election result ousts long-serving leader and dominant party from power&nbsp;&nbsp;Credendo",
-     "image": ""
-    },
-    {
-     "title": "State Senator Cindy Holscher won election as governor of Kansas, keeping the seat in Democratic hands for a third straight term. Holscher\u2019s victory added to a momentous election for Democrats in Kansas and across the U.S., and it maintained a rare lever of",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdU1MX052TUhwV0lTUHI3ZVZRTnF2MF9sYWpKanNSRUdySFhyZlNNc2h2ZWNsRUN5U1h4SFFwbjN1WXlRM2NPZ2d0bHdLMkt3VElndXZRUGdHajJINnNzcG9rVktORjhxS0JjbDJKVXp0VmxVNjNldlh2YWRVdlBCdkFvcWR1OEJZSGstZUVtZXA5WmEwZFRYR3ZiSjhFdE1pZ0EtaVRXYUR4M3luSnN1dWU5SGpoNTV0SEdqcXpUTWh3SDJNMXF2TXVuTkhtdUxVUjBV?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-13T07:14:48+00:00",
-     "summary": "State Senator Cindy Holscher won election as governor of Kansas, keeping the seat in Democratic hands for a third straight term. Holscher\u2019s victory added to a momentous election fo",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T10:01:06.692113+00:00",
+   "fetched_at": "2026-11-13T10:31:12.789377+00:00",
    "stale": false,
    "items": [
     {
