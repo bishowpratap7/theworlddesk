@@ -1,10 +1,82 @@
 {
- "generated_at": "2026-11-13T15:32:11.216090+00:00",
+ "generated_at": "2026-11-13T16:02:14.949411+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T15:32:11.216054+00:00",
+   "fetched_at": "2026-11-13T16:02:14.949379+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "UN refugee chief Barham Salih slams 'shameful' war in Sudan, urges 'political solution'",
+     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-un-refugee-chief-barham-salih-slams-shameful-war-in-sudan-urges-political-solution",
+     "source": "France 24",
+     "published": "2026-11-13T15:56:30+00:00",
+     "summary": "In an interview with FRANCE 24, UN refugee chief Barham Salih called the war in Sudan \"shameful\" and urged the world to end it. With forced displacement at a record high, he warned",
+     "image": "https://s.france24.com/media/display/02c9f834-dea3-11f1-84f2-695cb59fade5/w:1024/p:16x9/TaT-BARHAM-SALIH-pour-mix-V2-MIX-OK.jpg"
+    },
+    {
+     "title": "France asks Brussels to examine Algeria's non-compliance of EU association agreement",
+     "url": "https://www.france24.com/en/france/20261113-france-asks-brussels-to-examine-algeria-s-non-compliance-of-eu-association-agreement",
+     "source": "\u00a9 Fateh Gidoum, AP",
+     "published": "2026-11-13T15:54:52+00:00",
+     "summary": "France announced on Friday that it will ask the European Commission to \"examine\" Algeria's non-compliance with its EU association agreement. Earlier in July, Algiers imposed a near",
+     "image": "https://s.france24.com/media/display/04b022ae-df7a-11f1-af78-3f371022a770/w:1024/p:16x9/AP24214729582761.jpg"
+    },
+    {
+     "title": "Nvidia scandal: How close was ex-CEO to Trump?",
+     "url": "https://www.france24.com/en/video/20261113-nvidia-scandal-how-close-was-ex-ceo-to-trump",
+     "source": "France 24",
+     "published": "2026-11-13T15:50:41+00:00",
+     "summary": "US lawmakers have called Jensen Huang to face their questions in December after the Nvidia ex-CEO quit over extramarital affairs, including one with a suspected Chinese spy. The Ta",
+     "image": "https://s.france24.com/media/display/5fefb702-df79-11f1-8db1-695cb59fade5/w:1024/p:16x9/EN-20261113-160704-161114-CS.jpg"
+    },
+    {
+     "title": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones",
+     "url": "https://www.france24.com/en/video/20261113-russian-airstrikes-continue-ukraine-launches-nearly-1-200-drones",
+     "source": "France 24",
+     "published": "2026-11-13T15:46:36+00:00",
+     "summary": "Russian strikes hit targets across Ukraine on Thursday, with one attack damaging a hospital. Ukraine meanwhile fired almost 1,200 drones at Russian targets overnight in one of its ",
+     "image": "https://s.france24.com/media/display/ac93ac9c-df76-11f1-8215-695cb59fade5/w:1024/p:16x9/capture-8765e4ad.jpg"
+    },
+    {
+     "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "source": "The Guardian",
+     "published": "2026-11-13T15:34:45+00:00",
+     "summary": "Treasury secretary says he was in favor \u2018for months\u2019 of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to BeijingSign up for the Breaking News US emailIn ot",
+     "image": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=140&quality=85&auto=format&fit=max&s=d023067ea029630e7bca874700208189"
+    },
+    {
+     "title": "Row breaks out between Tories and Reform at Piddington news conference \u2013 as it happened",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T15:32:36+00:00",
+     "summary": "This blog is now closed, you can read more on this story hereArchbishop of Canterbury Sarah Mullally has said \u201cpeople are seeking meaning, connection and hope in a turbulent world\u201d",
+     "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
+    },
+    {
+     "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
+     "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
+     "source": "The Guardian",
+     "published": "2026-11-13T15:27:43+00:00",
+     "summary": "Exclusive: Government in \u2018private meetings\u2019 about removing cost cap protections under Aarhus conventionUK politics live \u2013 latest updatesThe government is considering stripping back",
+     "image": "https://i.guim.co.uk/img/media/ec50144c076be6077edaa5281a910ff5e7a69163/281_0_4269_3415/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=7a0804afa5122781fbc2a776eca6c5d4"
+    },
+    {
+     "title": "Tories and Reform clash over migration as asylum centre is approved",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
+     "source": "The Guardian",
+     "published": "2026-11-13T15:25:38+00:00",
+     "summary": "Chris Philp and Zia Yusuf trade barbs in Oxfordshire village planning legal action to block conversion of military baseUK politics \u2013 live updatesSenior Tory and Reform politicians ",
+     "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
+    },
+    {
+     "title": "Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, home manager says",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
+     "source": "The Guardian",
+     "published": "2026-11-13T15:25:28+00:00",
+     "summary": "Gunman killed one person and injured at least four others in and around condo building not far from the White HouseMore details were emerging on Friday about the previous morning\u2019s",
+     "image": "https://i.guim.co.uk/img/media/213c7a3b1bea4b9ac7668613d39560ede8f97c8b/445_0_2259_1808/master/2259.jpg?width=140&quality=85&auto=format&fit=max&s=e1350a0b87e26494a3051151bf73159f"
+    },
     {
      "title": "Haitian forces recapture national stadium after two years of gang control",
      "url": "https://www.france24.com/en/video/20261113-haitian-forces-recapture-national-stadium-after-two-years-of-gang-control",
@@ -14,36 +86,12 @@
      "image": "https://s.france24.com/media/display/0f629408-df6f-11f1-8eb6-695cb59fade5/w:1024/p:16x9/2026-11-12T233346Z-704608318-RC26MOAZMZ8G-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg"
     },
     {
-     "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-     "source": "The Guardian",
-     "published": "2026-11-13T15:08:31+00:00",
-     "summary": "Treasury secretary says he was in favor \u2018for months\u2019 of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to BeijingSign up for the Breaking News US emailIn ot",
-     "image": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=140&quality=85&auto=format&fit=max&s=d023067ea029630e7bca874700208189"
-    },
-    {
-     "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
-     "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
-     "source": "The Guardian",
-     "published": "2026-11-13T15:05:18+00:00",
-     "summary": "Exclusive: Government in \u2018private meetings\u2019 about removing cost cap protections under Aarhus conventionUK politics live \u2013 latest updatesThe government is considering stripping back",
-     "image": "https://i.guim.co.uk/img/media/ec50144c076be6077edaa5281a910ff5e7a69163/281_0_4269_3415/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=7a0804afa5122781fbc2a776eca6c5d4"
-    },
-    {
      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
      "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-13T15:02:16+00:00",
      "summary": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
      "image": ""
-    },
-    {
-     "title": "Row breaks out between Tories and Reform at Piddington news conference \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T15:01:13+00:00",
-     "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and camerasArchbishop of Canterbury Sarah Mullally has said \u201cpeople are seeking meaning, conne",
-     "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
     },
     {
      "title": "Europe should not walk into Russia\u2019s \u2018traps\u2019 on Ukraine talks, EU\u2019s foreign policy chief Kallas says \u2013 Europe live",
@@ -67,62 +115,54 @@
      "source": "The Guardian",
      "published": "2026-11-13T14:48:02+00:00",
      "summary": "Judge imposes three-year treatment order on Donaldson for aiding and abetting sexual offences by her husband, JeffreyJeffrey Donaldson\u2019s wife, Eleanor, has been placed on the sex o",
-     "image": "https://i.guim.co.uk/img/media/c3e0c410a3c3f5700bd6a040ee01fb66d6133fe2/124_18_1110_888/master/1110.jpg?width=140&quality=85&auto=format&fit=max&s=e2d6a05204c9386f4e43a11e4638f648"
-    },
-    {
-     "title": "Roger Waters launches heartfelt plea for 'an end to the genocide in Gaza'",
-     "url": "https://www.france24.com/en/tv-shows/arts24/20261113-roger-waters-launches-heartfelt-plea-for-an-end-to-the-genocide-in-gaza",
-     "source": "France 24",
-     "published": "2026-11-13T14:45:00+00:00",
-     "summary": "Pink Floyd co-founder Roger Waters has always mixed art with activism. A long-standing supporter of the Palestinian cause, the star guitarist has now released a re-imagined version",
-     "image": "https://s.france24.com/media/display/c55988f8-df5a-11f1-b15d-3f371022a770/w:1024/p:16x9/capture-96a34f6a.jpg"
-    },
-    {
-     "title": "Nigel Farage\u2019s security paid for by Reform UK despite claim over \u00a35m gift",
-     "url": "https://www.theguardian.com/politics/2026/nov/13/nigel-farage-personal-security-costs-reform-uk",
-     "source": "The Guardian",
-     "published": "2026-11-13T14:37:23+00:00",
-     "summary": "Exclusive: Sources reveal party is covering costs \u2013 raising new questions about leader\u2019s explanation for billionaire\u2019s giftNigel Farage\u2019s personal security has been paid for out of",
-     "image": "https://i.guim.co.uk/img/media/907e4659d263a4a09efa52db38644aeeae855269/671_0_3827_3062/master/3827.jpg?width=140&quality=85&auto=format&fit=max&s=1e6602de8351950ffe46c77d5b0857c0"
-    },
-    {
-     "title": "'Devastated wasteland': Haitian security forces regain control of stadium from gangs",
-     "url": "https://www.france24.com/en/video/20261113-devastated-wasteland-haitian-security-forces-regain-control-of-stadium-from-gangs",
-     "source": "France 24",
-     "published": "2026-11-13T14:37:07+00:00",
-     "summary": "Haitian security forces said they have regained control of the country's main stadium, wresting it back from the gangs that have been using it for the past two years. They were ass",
-     "image": "https://s.france24.com/media/display/5666bbe6-df69-11f1-b17b-695cb59fade5/w:1024/p:16x9/capture-be5b4980.jpg"
-    },
-    {
-     "title": "Banned books from Ireland\u2019s room of \u2018evil literature\u2019 finally see the light of day",
-     "url": "https://www.theguardian.com/world/2026/nov/13/ireland-banned-books-room-censorship",
-     "source": "The Guardian",
-     "published": "2026-11-13T14:25:24+00:00",
-     "summary": "Censored books spanning 1926-96 contained themes \u2018likely to corrupt or deprave\u2019, or references to contraception or violenceFor almost a century, an Irish government building in the",
-     "image": "https://i.guim.co.uk/img/media/18dbe9dbe030c08dbbef2b75bee94cd46e51688c/339_0_2375_1900/master/2375.jpg?width=140&quality=85&auto=format&fit=max&s=9c064b228db39da397abc968ca7fb205"
-    },
-    {
-     "title": "The truth about Douma: How Syria covered up a chemical attack",
-     "url": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack",
-     "source": "France 24",
-     "published": "2026-11-13T14:24:39+00:00",
-     "summary": "On April 7, 2018, the Syrian town of Douma, on the outskirts of the capital Damascus, was targeted by a chemical attack. Evidence pointed to the Syrian regime, yet proof vanished, ",
-     "image": "https://s.france24.com/media/display/6393738e-df57-11f1-9809-29048b396e03/w:1024/p:16x9/vignette-douma-mensonge-d-etat-EN-1.jpg"
-    },
-    {
-     "title": "What does the 'Blue Tsunami' mean for US media?",
-     "url": "https://www.france24.com/en/tv-shows/scoop/20261113-what-does-the-blue-tsunami-mean-for-us-media",
-     "source": "France 24",
-     "published": "2026-11-13T14:22:06+00:00",
-     "summary": "This week, FRANCE 24's media show Scoop looks at the impact of the midterm elections in the United States. While the results are being reckoned with by Republicans and celebrated b",
-     "image": "https://s.france24.com/media/display/41cc5bba-dd7e-11f1-a5e8-f71d22e7fea9/w:1024/p:16x9/AP26294694444631.jpg"
+     "image": "https://i.guim.co.uk/img/media/9ee7a3f2c3d331a1d2c8a1743b391afc50d0d158/686_0_3432_2745/master/3432.jpg?width=140&quality=85&auto=format&fit=max&s=32c200365d199ee8bb83c136cdf0dd86"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T15:32:11.216072+00:00",
+   "fetched_at": "2026-11-13T16:02:14.949394+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "UN refugee chief Barham Salih slams 'shameful' war in Sudan, urges 'political solution'",
+     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-un-refugee-chief-barham-salih-slams-shameful-war-in-sudan-urges-political-solution",
+     "source": "France 24",
+     "published": "2026-11-13T15:56:30+00:00",
+     "summary": "In an interview with FRANCE 24, UN refugee chief Barham Salih called the war in Sudan \"shameful\" and urged the world to end it. With forced displacement at a record high, he warned",
+     "image": "https://s.france24.com/media/display/02c9f834-dea3-11f1-84f2-695cb59fade5/w:1024/p:16x9/TaT-BARHAM-SALIH-pour-mix-V2-MIX-OK.jpg"
+    },
+    {
+     "title": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones",
+     "url": "https://www.france24.com/en/video/20261113-russian-airstrikes-continue-ukraine-launches-nearly-1-200-drones",
+     "source": "France 24",
+     "published": "2026-11-13T15:46:36+00:00",
+     "summary": "Russian strikes hit targets across Ukraine on Thursday, with one attack damaging a hospital. Ukraine meanwhile fired almost 1,200 drones at Russian targets overnight in one of its ",
+     "image": "https://s.france24.com/media/display/ac93ac9c-df76-11f1-8215-695cb59fade5/w:1024/p:16x9/capture-8765e4ad.jpg"
+    },
+    {
+     "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzY5ODlrN1lPaS1xQndfcDAwc1M1STVqY0xCUnpHUjF0bVVvMnp2S2JQeHRraDQ4QTBVM3BDWUFCZWFhbzJCekV3bnpwQUdVbnN6ZTJjWE5UNWY1c1I3V0lFbzBMSGYwUDhaamVxSVc4eEtfVGdueV9pQ29rd25wdUxiS0NQN1hiWllBbjBYVHZIZUxxSEdCMDU4aDF4c202WE4yekRWTkhFd9IBrwFBVV95cUxPUEFBT01YNXNZQkpDbFJMM1ExbVJHaVhhM3lLMW52YjVpZUlteGpBczdMb2ZWZ0JUTkdZcWZWS0MyRWdnd1p2cGpoTXJuZzYtNFBUeFJWY2YxSzdxQkpVU0xsaE4tOU9SZlRCU2dVR0hIX1g1ZmhMd1pJa0U2dkpDQ2t0MmkwdmFCQTYyN1NwWXR4YTNnZTlFOC1LRjd5ZXhMSUo0UndnZy1wS3BkdHpv?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T15:45:00+00:00",
+     "summary": "Europe seeks seat at Ukraine peace talks but lacks unified voice&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Russia is \u2018setting traps\u2019 in Ukraine talks, EU foreign policy chief warns",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnhISG1CdGRualRiNS1jeDA2NTZUeE95VndJWkxHdDZhQVJLc1Q5YnIxSmN0OFF6eDBXZ1ZNNzJnUVdrdE11enA0TkpMQXdadW9HR0dJSGk1TDBzbUpXWUl3emt5bk0teUJndXVxaWNMX1RNR1NhOUl4UUtxZGtnRW9xNExUMkZ2bTRkRnpsV3FEVXpSVF9xQTMtTHYwUUVEUk8tZmJIS2ctb0kzQ05R?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-13T15:40:00+00:00",
+     "summary": "Russia is \u2018setting traps\u2019 in Ukraine talks, EU foreign policy chief warns&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Tories and Reform clash over migration as asylum centre is approved",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
+     "source": "The Guardian",
+     "published": "2026-11-13T15:25:38+00:00",
+     "summary": "Chris Philp and Zia Yusuf trade barbs in Oxfordshire village planning legal action to block conversion of military baseUK politics \u2013 live updatesSenior Tory and Reform politicians ",
+     "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
+    },
     {
      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
      "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
@@ -140,6 +180,14 @@
      "image": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=e27b929d7f9fa32198cf68f5438f1dc5"
     },
     {
+     "title": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcklQeHY5RFN6VTVVS0s4dVRpb1lVemVlMjM5QUZZbGhQYVYwYzdST214SzhOYTBRNjdGTUJ3TjlqS1ctT3JtcHZhS0RmRVhXU1B5djJIbnJLMGhNMGpZMndVNkZja3pSRGpkT0hTemVUaVViMkROVExRazRvbWM5bGdQUTB5TkxXNUlVSllxRDdEeWJ6akxaRi1Eekk0cF9VMktoUXFUZ1NrTExEdnBhR1YzVHNMMTUta1VNZDQxTnhFN00teUHSAcsBQVVfeXFMTmJLVnJxbUNDaTBNMkwtLVp3Zkh3eUo1X0RlNTV1MDMwaXZTVGxxTlFhdkwxU21WRmx3QUg4U0g2b1pNdF9lVUpGREtkXzNfekhxWlNyQWYxNm5rVlZiV0NoRUZ5blhzV2ZRU2hMRmJoRkJjN1RjdTZvZzNkSnJtVXpQaWJtWm1fdy1UR3FJX3JyRWtjaXh5SEwxRUJIZUNkakx1am1NR2Y5Y0hWcTk3eXlEOEJ3QTZnbUdnR25maV9URGZBenppeFNTdUU?oc=5",
+     "source": "PBS",
+     "published": "2026-11-13T14:58:55+00:00",
+     "summary": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security&nbsp;&nbsp;PBS",
+     "image": ""
+    },
+    {
      "title": "Roger Waters launches heartfelt plea for 'an end to the genocide in Gaza'",
      "url": "https://www.france24.com/en/tv-shows/arts24/20261113-roger-waters-launches-heartfelt-plea-for-an-end-to-the-genocide-in-gaza",
      "source": "France 24",
@@ -149,10 +197,10 @@
     },
     {
      "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORnh5aXM1WXo5V0pYVkIxWU15UFA5R3g2bVVDWGlObm4yOGhyWW1oSkpCRUozOUs2TkF0V0hHOHBEVmJ2X0ZndENhaVJjNjk3aG5MUERLRWlDcWozVjNxQ29YUVo4dzA3WjJKWTVPRFE0Ukk4dDhfQXlrZjJsNFd6WVAwNmxrYVVRVnBrMlI4SjJocmJhMkFKMEp3ejliaFZGb1JVR3BiZ1VLLWwzNFg5MDRIMWcycmR1M1NsbnA4aVpFMXJlaGcyeGRqTzhENmRaR2dySk1xU2VrNlVnWGZ0MzZOZm1rRy1VY3ZFOVRfZDVBdnlxRlo4?oc=5",
-     "source": "KTVN",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbDdiU0Z0VHJPbDdoQWE3NWdqSWtOdTNtaGpncGZwTkZGTnFlSERLemhvVHBNUFV5Xy1QM2ViMFR5TlUyZkZJdkcyVmR6UWFyUFVUV3FSam43U3daV3k3TV92QzRuWXk1R0JJXzEtRkx3aDN4MUNJM09PRWljSGJUT1hfX1kyd0E2eGExbU5EY0RHX2RzM1djT09VLXo4UmRmU0lPdGZQMWg4WnRHMXZVd0ljX3BLdnRXemJRVFN5UjZvbVdOV1lRZWlLSFV3NGpiZ0dTdjRhVEhkTFFMVjR4X1UwTkNfUE5HVXFRSElsbkxjb3d6LUd6c1R6dkJwUlVVRzFGSjZB?oc=5",
+     "source": "News-Press NOW",
      "published": "2026-11-13T14:41:33+00:00",
-     "summary": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security&nbsp;&nbsp;KTVN",
+     "summary": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security&nbsp;&nbsp;News-Press NOW",
      "image": ""
     },
     {
@@ -170,61 +218,29 @@
      "published": "2026-11-13T14:38:41+00:00",
      "summary": "Europe pushes for a seat at Ukraine peace talks\u200b\u200c but lacks a unified voice&nbsp;&nbsp;The Washington Post",
      "image": ""
-    },
-    {
-     "title": "Ukraine Has Already Struck 12 Russian Ballistic Missile Launchers, Defense Minister Reveals",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjFaU0xUdzd4a2NES0w0VUw5UklwQVBlUlBRVjc2MUthbUJfRFlCaXpRWVlaMC1xS2FzSlZxVFEyQ3NEb2JQYjNCRnRodE1uVDJGR0xaeTlRZWtRZjUtM2RTXzRrU2NEUTJGdGNqMHZFd1hmNkY3MlA2VWpHT05jbmZMRGxfMkVxQXV6aG9lSUNoenN0XzVUVjdraWVmNmdOXy11YTUxTTNJTHVlZ21jbTZJek1CcVhJdklPYlN5VDAwbkswREw0dERIdVpQVTUwRDJV?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-13T14:32:00+00:00",
-     "summary": "Ukraine Has Already Struck 12 Russian Ballistic Missile Launchers, Defense Minister Reveals&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Russia is \u2018setting traps\u2019 in Ukraine talks, EU foreign policy chief warns",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnhISG1CdGRualRiNS1jeDA2NTZUeE95VndJWkxHdDZhQVJLc1Q5YnIxSmN0OFF6eDBXZ1ZNNzJnUVdrdE11enA0TkpMQXdadW9HR0dJSGk1TDBzbUpXWUl3emt5bk0teUJndXVxaWNMX1RNR1NhOUl4UUtxZGtnRW9xNExUMkZ2bTRkRnpsV3FEVXpSVF9xQTMtTHYwUUVEUk8tZmJIS2ctb0kzQ05R?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-13T14:31:00+00:00",
-     "summary": "Russia is \u2018setting traps\u2019 in Ukraine talks, EU foreign policy chief warns&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "More than 10 killed as Russia, Ukraine trade accusations following overnight strikes, Abu Dhabi talks",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOHRNMEZzekFmUE9ZTnJfQldIUFdaTktPNUpMZzE5TnV2TVl3XzhCRlZObHA5RkhrQWt4Wl9NUWVtM1UxcndzQUwzWDhlT1FLR0xTMUVUX2RzYjF2YThBdTI0ZVFPZFlrb05hdXFxcGVNYlhSTHZLNWtGVjBHbGJobVFwQnQ2QkRPcGJzWURQN1ZjczRNS3NfX1RrNGRmRGpUY0Qwc2dtRzNkZHZQSVMzem9hVktyRmNianp3X0YxZUlaS2lkZndQeHg0RmxSeEhyYmpoeFlkYTRwdkVpNkNkNjNKUmluZw?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-13T14:26:15+00:00",
-     "summary": "More than 10 killed as Russia, Ukraine trade accusations following overnight strikes, Abu Dhabi talks&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "The truth about Douma: How Syria covered up a chemical attack",
-     "url": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack",
-     "source": "France 24",
-     "published": "2026-11-13T14:24:39+00:00",
-     "summary": "On April 7, 2018, the Syrian town of Douma, on the outskirts of the capital Damascus, was targeted by a chemical attack. Evidence pointed to the Syrian regime, yet proof vanished, ",
-     "image": "https://s.france24.com/media/display/6393738e-df57-11f1-9809-29048b396e03/w:1024/p:16x9/vignette-douma-mensonge-d-etat-EN-1.jpg"
-    },
-    {
-     "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWk2V05hQVJ1VFBPdFFySGw4SU4tZGlNT3JYdDl4akdMQUJVQmhDeVZkR0VOSV9TN0tsaGZnZlJPYTJvZGRGc19KOU1aOFlHTlkzZG5qMFdjSjhXQk5xd1pLdkdlUHdkcFRTcnNSUVM5a2F1S0p6OTd0WjR6dUE4VGpqWHVLbVZYZHc5MkNESjhSdjN6bEh6TmZXYnY2a2EtN21SUXhRX1R2Tkw1QVRZ0gG0AUFVX3lxTE9OYXAyaC1NazBMTk5GdVYyeV9ZU1lmUTFGbFRkWTdHM1hEa3I0VDE5VXQtVkVjR2xuUkUxTWVMc0lLeEMxYW1fWFlSeE1aMnNoVkNjM2hBRE5OREE2QU93Z0JJeURrNHgxVVU1QmR1Vm5jRjVJbl9XQk9UY3dBTFUwdVIwZVRaMmFOaWdIUmhDUWR1aWtLcnpzcWdsaXlzS1V3THRRSWdpR2tPZDRkUmJ5UkUySg?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T14:16:17+00:00",
-     "summary": "Ukraine claims record 3,000 Russian casualties in one day as war drags on&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Most Ukrainians 'think there's no chance of a peace deal' with Russia",
-     "url": "https://www.france24.com/en/video/20261113-most-ukrainians-think-there-s-no-chance-of-a-peace-deal-with-russia",
-     "source": "France 24",
-     "published": "2026-11-13T14:14:14+00:00",
-     "summary": "Ukrainian attacks killed at least nine people in Russia overnight, while Moscow struck a hospital in Kyiv and killed at least three in the south of the country, officials on both s",
-     "image": "https://s.france24.com/media/display/09b79386-df6b-11f1-b98f-695cb59fade5/w:1024/p:16x9/EN-20261113-143753-144140-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T15:32:11.216076+00:00",
+   "fetched_at": "2026-11-13T16:02:14.949399+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Law and Politics faculty weigh midterm election implications for American democracy",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTkd4dE40TVRsMUp5MGs3RXRYQ3dLZ195am03OTJPd0hMSE1SU2JKZUg4UkJOUnZKbWRjWjA3Q2FSamk1Z29TWDFQSlJFcHpkQWwweHAwSlk5LUpwNmtXWTBYcHdQbmY5SlRkempsVFhmekJVZmltV2JHM3Z2TjJtWFhFUFkzRDN2ZjB5cEdwWFRteUZ5OFdpODkzTHpFd3JKZHByeC1jTEgxeGJHOVNOR09ER2VWQmM5WFM0YWIyUzBLeGZnaU1uWg?oc=5",
+     "source": "The Cavalier Daily",
+     "published": "2026-11-13T15:57:20+00:00",
+     "summary": "Law and Politics faculty weigh midterm election implications for American democracy&nbsp;&nbsp;The Cavalier Daily",
+     "image": ""
+    },
+    {
+     "title": "Nvidia scandal: How close was ex-CEO to Trump?",
+     "url": "https://www.france24.com/en/video/20261113-nvidia-scandal-how-close-was-ex-ceo-to-trump",
+     "source": "France 24",
+     "published": "2026-11-13T15:50:41+00:00",
+     "summary": "US lawmakers have called Jensen Huang to face their questions in December after the Nvidia ex-CEO quit over extramarital affairs, including one with a suspected Chinese spy. The Ta",
+     "image": "https://s.france24.com/media/display/5fefb702-df79-11f1-8db1-695cb59fade5/w:1024/p:16x9/EN-20261113-160704-161114-CS.jpg"
+    },
     {
      "title": "Election results to shake up committee assignments in S.C. Legislature",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSnA4VWFodk5zV045d0MyZ0k1T3VlRHhSQXJuR3N1alpLZ0xUTFZDT0NVT0xSYXdIMnhkcktxR0NjM3FUQWktT1RQd0FWRTJBUG5xbTdyeHM5RmtyQUE5UkhpN2o4QzNWRHNQa3ZlaG9nQmhjdlM4aGt5bllMWUJNbENFSVh1SWpmeHdnOE9vR1UxcURzX2lTY3Nn?oc=5",
@@ -232,6 +248,14 @@
      "published": "2026-11-13T15:27:51+00:00",
      "summary": "Election results to shake up committee assignments in S.C. Legislature&nbsp;&nbsp;The Nerve",
      "image": ""
+    },
+    {
+     "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
+     "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
+     "source": "The Guardian",
+     "published": "2026-11-13T15:27:43+00:00",
+     "summary": "Exclusive: Government in \u2018private meetings\u2019 about removing cost cap protections under Aarhus conventionUK politics live \u2013 latest updatesThe government is considering stripping back",
+     "image": "https://i.guim.co.uk/img/media/ec50144c076be6077edaa5281a910ff5e7a69163/281_0_4269_3415/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=7a0804afa5122781fbc2a776eca6c5d4"
     },
     {
      "title": "In The Know: Oklahoma groundwater supply becoming an increasing concern | Deficiencies in state\u2019s mental health care | Oklahomans rejected SQ 847, not the need for housing relief",
@@ -244,18 +268,26 @@
     {
      "title": "Here\u2019s a Look at Congressional Midterm Election Results in West Texas",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOblQtWmlQeEJaQldfdVRQMWc3dExTZ1JaUmdSRDluTldhaFp4aGdOLXpISHBlZk0zdGRoZjNMV0RXbWlNVHJNYXQta0xySmZMbnpoSXJPX255bHVRbldRakdTcElsZEw1d0tJenktTEJWRzJEcFd3c05VY1pjVjM3M0dUa0ZxU2QySDBWam1TZHc3LUNsYjRSZ3dDOW8waEt4aUd6bi1reHZmV1Vha0lnZkhfYlBZWmdmTXpOeDBNa0E1MEV1Tmp4cGpQeGlNS0I4RG5ZU1RmcVBBZnZIdWQ3aE1xWnFCUFRZNWpRVw?oc=5",
-     "source": "thetexan.news",
+     "source": "The Texan",
      "published": "2026-11-13T15:26:00+00:00",
-     "summary": "Here\u2019s a Look at Congressional Midterm Election Results in West Texas&nbsp;&nbsp;thetexan.news",
+     "summary": "Here\u2019s a Look at Congressional Midterm Election Results in West Texas&nbsp;&nbsp;The Texan",
      "image": ""
     },
     {
-     "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
-     "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
+     "title": "Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, home manager says",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
      "source": "The Guardian",
-     "published": "2026-11-13T15:05:18+00:00",
-     "summary": "Exclusive: Government in \u2018private meetings\u2019 about removing cost cap protections under Aarhus conventionUK politics live \u2013 latest updatesThe government is considering stripping back",
-     "image": "https://i.guim.co.uk/img/media/ec50144c076be6077edaa5281a910ff5e7a69163/281_0_4269_3415/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=7a0804afa5122781fbc2a776eca6c5d4"
+     "published": "2026-11-13T15:25:28+00:00",
+     "summary": "Gunman killed one person and injured at least four others in and around condo building not far from the White HouseMore details were emerging on Friday about the previous morning\u2019s",
+     "image": "https://i.guim.co.uk/img/media/213c7a3b1bea4b9ac7668613d39560ede8f97c8b/445_0_2259_1808/master/2259.jpg?width=140&quality=85&auto=format&fit=max&s=e1350a0b87e26494a3051151bf73159f"
+    },
+    {
+     "title": "A dead man is leading in a California election. What if he wins?",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQi0zU1RGRmw0Ui1EVFlfOTBpSlYwVkVfdXBzUGtvSnZQa0YyT25pU2YwZW9Hamp5dEsxRGNpdkRKamU5Z3VEN2o2alVfS0RqN2NIY0xiRkpRbGNCYWdfS0dDN0FnVWNQTmlKNTNCN1BLcnpta2hBUUg1Q1NIeUd5NWUtR2Jqc1BBREo1WWhaLXhwV0JqQU9FSUpub3BoNjNwZzItMGcxdlQ2SFpnVUdKSDBWMVVlWm5ObUp3TmdkSmdDVGp1ZDllTlFBWkJ5NzlmQXdESHpPS2xRNmFpckJnSG5sUVN6a1pzenI1TlJxTFlPSUg0al9BUVBOWXUxZlg1OUlIbFRvQlA?oc=5",
+     "source": "USA Today",
+     "published": "2026-11-13T15:23:00+00:00",
+     "summary": "A dead man is leading in a California election. What if he wins?&nbsp;&nbsp;USA Today",
+     "image": ""
     },
     {
      "title": "Election results raise questions about agricultural tax policy",
@@ -288,53 +320,13 @@
      "published": "2026-11-13T14:51:09+00:00",
      "summary": "Gresser in World Trade Online: Report calls on next Congress to unwind tariffs, use trade to lower costs&nbsp;&nbsp;Progressive Policy Institute",
      "image": ""
-    },
-    {
-     "title": "Incorporating health policy and advocacy in emergency medicine residency",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXFReFdReHhXNGxVamZLSGlCQlF0N3lZZ19qMlA2RnVpWmcwLVo1YU0tcDBvVzJEMTFES05iS2xUM2VjdDhzaXlKVlUyRHhUaV9INjFoWTBiQ2RNZzRCUkVhZVNqbkpXVnJvT0JHeXNVR25ocm1TSnAza3llYUV4X0dRNzc4TE1aUnR5RHdqUTg3UW93WEJoQjhsX2xfSVpzd2MzSmJTdGZzdw?oc=5",
-     "source": "Baylor College of Medicine Blog Network -",
-     "published": "2026-11-13T14:45:13+00:00",
-     "summary": "Incorporating health policy and advocacy in emergency medicine residency&nbsp;&nbsp;Baylor College of Medicine Blog Network -",
-     "image": ""
-    },
-    {
-     "title": "Nvidia Crisis Prompts Scrutiny of Lutnick\u2019s Role in Chip Policy",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDVreDlTUVZLbjBNRGZmNkxwcmMyNWN2UnZKNzdpMnVSQ0tlUUdGa2VzOWhQZnpOWFVXZEFoa3g2Rm1WbnlvNFpjVElGdUZwVXpGbkZLdDlQWmN6ZGtUY2RNSUNuR2FYNmcwbElSZ0p5aVg5ODFvcTg0TEJNa1FGRHVwMTVhSmNfdmFvZkxrTEdkai1tMThtbkVuX2l2THV1NWxucldhekVDR3c3aFE2RFVpZEM?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-13T14:45:10+00:00",
-     "summary": "Nvidia Crisis Prompts Scrutiny of Lutnick\u2019s Role in Chip Policy&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
-    },
-    {
-     "title": "Trump: \u201cWe Don\u2019t Need\u201d an Iran Deal",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UZUMydU8yQ0p6d2ptSllzM0M1UmhWelk3SE1SOWxzRmMzYldwUHQ2VGNXU2QxQ2pLS2l2azltWDM2VF9EUzZudzFmZ0RGUGZqeml4N085ZTRrT1FobVpCYS0tZnhHSEQyREtkSzk3SEZKWXJP?oc=5",
-     "source": "Progressive Policy Institute",
-     "published": "2026-11-13T14:44:21+00:00",
-     "summary": "Trump: \u201cWe Don\u2019t Need\u201d an Iran Deal&nbsp;&nbsp;Progressive Policy Institute",
-     "image": ""
-    },
-    {
-     "title": "Oregon Policy Academy Workshop on Energy Transmission",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc0FjLTNNLUxmMEJIVXo4Uk1fcjZ0Q3lxZmx1RVpRaWxaYTdHbW9ZcHV1OUJrVnU0UUZLT2xkak8yRXVobExvLW1wZVYwMEYzMDlfTWU4YjNJcEhwVTlseWpYdFJpR3M5UC1tLUt6TTh1UmdOWU9hMmIweGdQZlRvU0F4OHY2TmVpcDk4?oc=5",
-     "source": "National Governors Association",
-     "published": "2026-11-13T14:40:18+00:00",
-     "summary": "Oregon Policy Academy Workshop on Energy Transmission&nbsp;&nbsp;National Governors Association",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T15:32:11.216080+00:00",
+   "fetched_at": "2026-11-13T16:02:14.949401+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Calls for crackdown on China chip exports \u2013 as it happened",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T06:50:49+00:00",
-     "summary": "This live blog is now closed \u2013 you can read our latest report hereCan the AI economy survive without its \u201ccentral bank\u201d? What does Jensen Huang\u2019s fall mean for the world\u2019s second-m",
-     "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682"
-    },
     {
      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
      "url": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
