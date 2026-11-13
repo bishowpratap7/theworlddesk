@@ -1,128 +1,200 @@
 {
- "generated_at": "2026-11-13T14:01:59.839626+00:00",
+ "generated_at": "2026-11-13T14:32:02.893709+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T14:01:59.839593+00:00",
+   "fetched_at": "2026-11-13T14:32:02.893664+00:00",
    "stale": false,
    "items": [
     {
-     "title": "China warns against fresh US chip curbs",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T13:42:49+00:00",
-     "summary": "China has warned the US against imposing additional export controls on AI chips.",
+     "title": "The truth about Douma: How Syria covered up a chemical attack",
+     "url": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack",
+     "source": "France 24",
+     "published": "2026-11-13T14:24:39+00:00",
+     "summary": "On April 7, 2018, the Syrian town of Douma, on the outskirts of the capital Damascus, was targeted by a chemical attack. Evidence pointed to the Syrian regime, yet proof vanished, ",
+     "image": "https://s.france24.com/media/display/6393738e-df57-11f1-9809-29048b396e03/w:1024/p:16x9/vignette-douma-mensonge-d-etat-EN-1.jpg"
+    },
+    {
+     "title": "What does the 'Blue Tsunami' mean for US media?",
+     "url": "https://www.france24.com/en/tv-shows/scoop/20261113-what-does-the-blue-tsunami-mean-for-us-media",
+     "source": "France 24",
+     "published": "2026-11-13T14:22:06+00:00",
+     "summary": "This week, FRANCE 24's media show Scoop looks at the impact of the midterm elections in the United States. While the results are being reckoned with by Republicans and celebrated b",
+     "image": "https://s.france24.com/media/display/41cc5bba-dd7e-11f1-a5e8-f71d22e7fea9/w:1024/p:16x9/AP26294694444631.jpg"
+    },
+    {
+     "title": "What we know about the global Microsoft outage",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-13T14:21:26+00:00",
+     "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Russia is \u2018setting traps\u2019 in Ukraine talks, EU foreign policy chief warns",
+     "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+     "source": "The Guardian",
+     "published": "2026-11-13T14:14:44+00:00",
+     "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European securityEurope live \u2013 latest updatesThe EU\u2019s foreign policy chief has warned ",
+     "image": "https://i.guim.co.uk/img/media/d169429d7a6f7e570a871b03d7a39e581e77f265/1443_446_3976_3181/master/3976.jpg?width=140&quality=85&auto=format&fit=max&s=335abbd675f9e2a81a30d3747adce55e"
+    },
+    {
+     "title": "Most Ukrainians 'think there's no chance of a peace deal' with Russia",
+     "url": "https://www.france24.com/en/video/20261113-most-ukrainians-think-there-s-no-chance-of-a-peace-deal-with-russia",
+     "source": "France 24",
+     "published": "2026-11-13T14:14:14+00:00",
+     "summary": "Ukrainian attacks killed at least nine people in Russia overnight, while Moscow struck a hospital in Kyiv and killed at least three in the south of the country, officials on both s",
+     "image": "https://s.france24.com/media/display/09b79386-df6b-11f1-b98f-695cb59fade5/w:1024/p:16x9/EN-20261113-143753-144140-CS.jpg"
+    },
+    {
+     "title": "Europe should not walk into Russia\u2019s \u2018traps\u2019 on Ukraine talks, EU\u2019s foreign policy chief Kallas says \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T14:13:37+00:00",
+     "summary": "Kaja Kallas warns against agreeing to Russia\u2019s proposed sequence of events on talks on UkraineHungary\u2019s P\u00e9ter Magyar is also here, looking very elegant as always\u2026\u2026 but it looks lik",
+     "image": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=e27b929d7f9fa32198cf68f5438f1dc5"
+    },
+    {
+     "title": "Row breaks out between Tories and Reform at Piddington news conference \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T14:13:19+00:00",
+     "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and camerasHere is footage of the extraordinary scenes as Reform\u2019s Zia Yusuf and the Tories\u2019 C",
+     "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
+    },
+    {
+     "title": "'A lot of emotion' as Paris marks 11 years since terror attacks",
+     "url": "https://www.france24.com/en/video/20261113-a-lot-of-emotion-as-paris-marks-11-years-since-terror-attacks",
+     "source": "France 24",
+     "published": "2026-11-13T14:06:44+00:00",
+     "summary": "France on Friday marked 11 years since the November 13, 2015, terror attacks that left more than 130 dead in the capital. France 24's James Andr\u00e9 reports from outside the Bataclan ",
+     "image": "https://s.france24.com/media/display/981089fc-df67-11f1-b7dc-29048b396e03/w:1024/p:16x9/EN-20261113-141517-141709-CS.jpg"
+    },
+    {
+     "title": "\ud83d\udd34 Live: Microsoft reports 'improvements' to Outlook services in North America, Europe",
+     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
+     "source": "France 24",
+     "published": "2026-11-13T14:02:01+00:00",
+     "summary": "",
      "image": ""
     },
     {
-     "title": "UK\u2019s biggest insurer hit by rise in subsidence claims after record hot summer",
-     "url": "https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa",
+     "title": "\u2018Incredibly unusual\u2019 bird migrating from Siberia found in Cumbria \u2013 killed by cat",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/13/siberian-rubythroat-bird-migrating-siberia-cumbria-killed-by-cat",
      "source": "The Guardian",
-     "published": "2026-11-13T13:37:31+00:00",
-     "summary": "Increase reported by Aviva after Hastings Direct said claims were up 140% in August and Axa said it had been a \u2018surge year\u2019The UK\u2019s largest insurer has been hit by a rise in subsid",
-     "image": "https://i.guim.co.uk/img/media/7e2a8ff0384e7fb6700c4719edde4c33999c311c/19_0_4529_3624/master/4529.jpg?width=140&quality=85&auto=format&fit=max&s=d5c585fe960d9b9cc813f0ff9fa126cf"
+     "published": "2026-11-13T14:00:20+00:00",
+     "summary": "Siberian rubythroat was thousands of miles off course from its route to winter in south or south-east AsiaA bird that flies south from its breeding grounds in Siberia to winter in ",
+     "image": "https://i.guim.co.uk/img/media/59828d5b883f71723779854f92e083e1974f2212/457_214_3954_3165/master/3954.jpg?width=140&quality=85&auto=format&fit=max&s=0b8b8ffe1b6728006a2ddc28ef5248d9"
     },
     {
-     "title": "Nvidia scandal: What\u2019s next for the US tech company?",
-     "url": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss",
+     "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "source": "The Guardian",
+     "published": "2026-11-13T13:59:59+00:00",
+     "summary": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver thatSign up for the Breaking News US emailAs we bring",
+     "image": "https://i.guim.co.uk/img/media/10932ac8c9cc15a1ae8c48d7b5b73278e22a95a3/813_0_4081_3265/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=e59d9e0ac8a027834f2adbd129e9a366"
+    },
+    {
+     "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+     "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+     "source": "The Guardian",
+     "published": "2026-11-13T13:52:11+00:00",
+     "summary": "First direct attack on US military installations for months was in response to US airstrike on communications towerIran\u2019s Islamic Revolutionary Guard Corps says it has targeted and",
+     "image": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0"
+    },
+    {
+     "title": "\u2018So lovely\u2019: Stevie Wonder surprises Stalybridge restaurant with late-night visit and \u00a31,000 tip",
+     "url": "https://www.theguardian.com/music/2026/nov/13/stevie-wonder-stalybridge-restaurant-cafe-continental-1000-tip",
+     "source": "The Guardian",
+     "published": "2026-11-13T13:48:13+00:00",
+     "summary": "Singer, 76, was in Manchester with his band for penultimate UK show of his Songs in the Key of Life anniversary tourWhen Stevie Wonder\u2019s team just called to say: \u201cCan we all come t",
+     "image": "https://i.guim.co.uk/img/media/81b1cebb3043da60d06b2ee300883a8c529904f8/0_609_3032_2425/master/3032.jpg?width=140&quality=85&auto=format&fit=max&s=2422421fea119786b9399733ec25175f"
+    },
+    {
+     "title": "UK rocked by comedians' sex scandals",
+     "url": "https://www.france24.com/en/tv-shows/the-51/20261113-uk-rocked-by-comedians-sex-scandals",
+     "source": "France 24",
+     "published": "2026-11-13T13:47:30+00:00",
+     "summary": "The UK is facing a reckoning in the world of entertainment, as two well-known comedy figures find themselves at the centre of serious allegations and headlines. This as Russell Bra",
+     "image": "https://s.france24.com/media/display/f5ee0506-df60-11f1-91c0-f71d22e7fea9/w:1024/p:16x9/brand-walliams.jpg"
+    }
+   ]
+  },
+  "wars": {
+   "fetched_at": "2026-11-13T14:32:02.893691+00:00",
+   "stale": false,
+   "items": [
+    {
+     "title": "The truth about Douma: How Syria covered up a chemical attack",
+     "url": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack",
+     "source": "France 24",
+     "published": "2026-11-13T14:24:39+00:00",
+     "summary": "On April 7, 2018, the Syrian town of Douma, on the outskirts of the capital Damascus, was targeted by a chemical attack. Evidence pointed to the Syrian regime, yet proof vanished, ",
+     "image": "https://s.france24.com/media/display/6393738e-df57-11f1-9809-29048b396e03/w:1024/p:16x9/vignette-douma-mensonge-d-etat-EN-1.jpg"
+    },
+    {
+     "title": "A night with the interceptors hunting Russian drones through the fog",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0ZvdFNJTktRZ0E2cXNVN2hIc2tEU2x6dS1KNnUxU0FfdFlPWnEtX3dlQ0pqRDhFT1ptLU1FRVVpdEpFamNfOVpnNTFQUER4dWo0dzlWeThjc2c3YVg2UnZiTWo3cU9XbmVCSEFsTlM0eWdIcWxDQVd1RC10UG16RDVfMzFDNXk1Rm04UGI0VUVpancteXI0SjdjSGlLRGt2OG5ndQ?oc=5",
+     "source": "The Times",
+     "published": "2026-11-13T14:22:51+00:00",
+     "summary": "A night with the interceptors hunting Russian drones through the fog&nbsp;&nbsp;The Times",
+     "image": ""
+    },
+    {
+     "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWk2V05hQVJ1VFBPdFFySGw4SU4tZGlNT3JYdDl4akdMQUJVQmhDeVZkR0VOSV9TN0tsaGZnZlJPYTJvZGRGc19KOU1aOFlHTlkzZG5qMFdjSjhXQk5xd1pLdkdlUHdkcFRTcnNSUVM5a2F1S0p6OTd0WjR6dUE4VGpqWHVLbVZYZHc5MkNESjhSdjN6bEh6TmZXYnY2a2EtN21SUXhRX1R2Tkw1QVRZ0gG0AUFVX3lxTE9OYXAyaC1NazBMTk5GdVYyeV9ZU1lmUTFGbFRkWTdHM1hEa3I0VDE5VXQtVkVjR2xuUkUxTWVMc0lLeEMxYW1fWFlSeE1aMnNoVkNjM2hBRE5OREE2QU93Z0JJeURrNHgxVVU1QmR1Vm5jRjVJbl9XQk9UY3dBTFUwdVIwZVRaMmFOaWdIUmhDUWR1aWtLcnpzcWdsaXlzS1V3THRRSWdpR2tPZDRkUmJ5UkUySg?oc=5",
      "source": "Al Jazeera",
-     "published": "2026-11-13T13:36:19+00:00",
-     "summary": "What happens next at one of the world&#039;s most valuable companies will have repercussions far beyond Silicon Valley.",
+     "published": "2026-11-13T14:16:17+00:00",
+     "summary": "Ukraine claims record 3,000 Russian casualties in one day as war drags on&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Russia is \u2018setting traps\u2019 in Ukraine talks, EU foreign policy chief warns",
+     "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+     "source": "The Guardian",
+     "published": "2026-11-13T14:14:44+00:00",
+     "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European securityEurope live \u2013 latest updatesThe EU\u2019s foreign policy chief has warned ",
+     "image": "https://i.guim.co.uk/img/media/d169429d7a6f7e570a871b03d7a39e581e77f265/1443_446_3976_3181/master/3976.jpg?width=140&quality=85&auto=format&fit=max&s=335abbd675f9e2a81a30d3747adce55e"
+    },
+    {
+     "title": "Most Ukrainians 'think there's no chance of a peace deal' with Russia",
+     "url": "https://www.france24.com/en/video/20261113-most-ukrainians-think-there-s-no-chance-of-a-peace-deal-with-russia",
+     "source": "France 24",
+     "published": "2026-11-13T14:14:14+00:00",
+     "summary": "Ukrainian attacks killed at least nine people in Russia overnight, while Moscow struck a hospital in Kyiv and killed at least three in the south of the country, officials on both s",
+     "image": "https://s.france24.com/media/display/09b79386-df6b-11f1-b98f-695cb59fade5/w:1024/p:16x9/EN-20261113-143753-144140-CS.jpg"
+    },
+    {
+     "title": "Europe should not walk into Russia\u2019s \u2018traps\u2019 on Ukraine talks, EU\u2019s foreign policy chief Kallas says \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T14:13:37+00:00",
+     "summary": "Kaja Kallas warns against agreeing to Russia\u2019s proposed sequence of events on talks on UkraineHungary\u2019s P\u00e9ter Magyar is also here, looking very elegant as always\u2026\u2026 but it looks lik",
+     "image": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=e27b929d7f9fa32198cf68f5438f1dc5"
+    },
+    {
+     "title": "Europe, Russia spar over involvement in Ukraine talks",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXdKc3NubnduQ0tVR202cTB6ZG9MSlJCOWRKSEk1ZVVvdUNSTEF6RGpxVkhfOFRULVBzbFRzVVpER3Z3ZWhnT0RTbkotbDZIYTl0c2dEaFZHbnVCY3FIaklaamI2YjJBQ2cwYV9KTk83UjFFNk9yZDNqQ01HU0FRNXJPQTc2YzJiRmQ4RnVWVjNJSko2c3VMWGVSc2tza1VS?oc=5",
+     "source": "France 24",
+     "published": "2026-11-13T14:05:24+00:00",
+     "summary": "Europe, Russia spar over involvement in Ukraine talks&nbsp;&nbsp;France 24",
      "image": ""
     },
     {
      "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-13T13:36:09+00:00",
-     "summary": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver thatSign up for the Breaking News US emailThere has b",
+     "published": "2026-11-13T13:59:59+00:00",
+     "summary": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver thatSign up for the Breaking News US emailAs we bring",
      "image": "https://i.guim.co.uk/img/media/10932ac8c9cc15a1ae8c48d7b5b73278e22a95a3/813_0_4081_3265/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=e59d9e0ac8a027834f2adbd129e9a366"
     },
     {
-     "title": "What we know about the global Microsoft outage",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T13:34:53+00:00",
-     "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "Row breaks out between Tories and Reform at Piddington news conference \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+     "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+     "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
      "source": "The Guardian",
-     "published": "2026-11-13T13:29:36+00:00",
-     "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and camerasMeanwhile, Downing Street has defended plans to convert the site at MoD Bicester ne",
-     "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
+     "published": "2026-11-13T13:52:11+00:00",
+     "summary": "First direct attack on US military installations for months was in response to US airstrike on communications towerIran\u2019s Islamic Revolutionary Guard Corps says it has targeted and",
+     "image": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0"
     },
-    {
-     "title": "UK accused of \u2018silencing\u2019 pro-Palestine voices through entry bans",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T13:19:26+00:00",
-     "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity\u2019s annual Gaza fundraiser.",
-     "image": ""
-    },
-    {
-     "title": "Europe should not walk into Russia\u2019s \u2018traps\u2019 on Ukraine talks, EU\u2019s foreign policy chief Kallas says \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T13:15:33+00:00",
-     "summary": "Kaja Kallas warns against agreeing to Russia\u2019s proposed sequence of events on talks on UkraineHungary\u2019s P\u00e9ter Magyar is also here, looking very elegant as always\u2026\u2026 but it looks lik",
-     "image": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=e27b929d7f9fa32198cf68f5438f1dc5"
-    },
-    {
-     "title": "Kenyan building collapse near Nairobi kills six people",
-     "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T13:11:24+00:00",
-     "summary": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
-     "image": ""
-    },
-    {
-     "title": "Delhi overtakes Lahore as world\u2019s most polluted city",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T13:11:08+00:00",
-     "summary": "India\u2019s capital New Delhi has overtaken Pakistan\u2019s Lahore as the world\u2019s most polluted city.",
-     "image": ""
-    },
-    {
-     "title": "France slams Israel\u2019s \u2018demagogic\u2019 ban on opposition leader Melenchon",
-     "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T12:57:08+00:00",
-     "summary": "Israel&#039;s move came after France banned a prominent Israeli settler from entering the country.",
-     "image": ""
-    },
-    {
-     "title": "The dark side of reselling apps: \u2018If you include your pants, I\u2019ll pay more\u2019",
-     "url": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
-     "source": "The Guardian",
-     "published": "2026-11-13T12:54:16+00:00",
-     "summary": "Ministers consider banning under-16s from online marketplaces amid reported misuse of messaging functions and users\u2019 photosIn June, Hannah* listed her seven-year-old daughter\u2019s pin",
-     "image": "https://i.guim.co.uk/img/media/511023e145af02db32408f6e5b7af4f569939599/339_0_3505_2804/master/3505.jpg?width=140&quality=85&auto=format&fit=max&s=648540e4a3d008e232d45e912d354b3a"
-    },
-    {
-     "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-     "source": "The Guardian",
-     "published": "2026-11-13T12:51:43+00:00",
-     "summary": "NHS suffering \u2018serious\u2019 and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage \u2013 live updatesHospitals, GPs and police force",
-     "image": "https://i.guim.co.uk/img/media/d597beba95a7ab1cebd5e34273b7e1bb02e58d8c/284_0_4380_3505/master/4380.jpg?width=140&quality=85&auto=format&fit=max&s=5a58c846937a3c02b679be8ec1edb7cd"
-    },
-    {
-     "title": "You haven\u2019t got mail: Global Microsoft outage disrupts services",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T12:40:11+00:00",
-     "summary": "Not receiving your work emails? That\u2019s because Microsoft has been hit by a global outage.",
-     "image": ""
-    }
-   ]
-  },
-  "wars": {
-   "fetched_at": "2026-11-13T14:01:59.839608+00:00",
-   "stale": false,
-   "items": [
     {
      "title": "Russia scraps defense forum for third time amid war in Ukraine",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX25UUDFOMFl1MlhDSnQwYXh5eHgyMzhlcnVtalE3clFTRlY3WGU1MjVpSXVzNV84REhwMmI2ZWdyWUtGdy0zbHN3QW5sRHhuczIxWVcyV0hiZlNwUEhTbnJpakxLWXM3a3VScmpBMFlaMUVISGxUU3VmeV9GYW5pNTZ1NExseVZnMEYwUmJaZmY?oc=5",
@@ -146,85 +218,61 @@
      "published": "2026-11-13T13:42:20+00:00",
      "summary": "Ukraine Needs \u20ac40 Billion for Defense in 2027, With Drones and Air Defense Topping the List&nbsp;&nbsp;UNITED24 Media",
      "image": ""
-    },
-    {
-     "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZlRoNnZkS1Q2N2NZaDhheS1hc0kzUlZncXNtNFlIbERETmFMYTJrV1JHbzJKekJMZnhSdDJ2SkgwN3h0NXp1a1E2RmthcmlKNVY3V19mWVV6OFhTYUw3cVFXakpMSzdrZUpaX1pCU3FUMVI0RFhQc1pKa3doTGh1MHdhWFZJY1lnMTQ2eUgxMzNjS3pTZGxmN1E5TW1uWTdMaXVTUTF2TnBpdmZxMnfSAbMBQVVfeXFMUExDSW5Ec2xDQnJMTFBILUtQM1A5dl81ZGtLVGZlbHljM0tRVGJONEFqSlBMeTBobzR1QkNtQ0M3S3N6d0VfUzkzNXozZHpCR2tfQ1d0X3lFSWdTYXhNWHFuQ1oxWmh2aE9YYUhVMFJiMDVKVHhDMnowZFFPMFlKSDlLYUtCYVJ2V3ZwdVFuSDdNb1h4Z1Q2R1RDY3JhbV9jX3NiTFItTEE2dnR0QmNjTVZXSHM?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T13:37:24+00:00",
-     "summary": "Russia and Ukraine report overnight attacks amid US diplomatic push&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-     "source": "The Guardian",
-     "published": "2026-11-13T13:36:09+00:00",
-     "summary": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver thatSign up for the Breaking News US emailThere has b",
-     "image": "https://i.guim.co.uk/img/media/10932ac8c9cc15a1ae8c48d7b5b73278e22a95a3/813_0_4081_3265/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=e59d9e0ac8a027834f2adbd129e9a366"
-    },
-    {
-     "title": "UK accused of \u2018silencing\u2019 pro-Palestine voices through entry bans",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T13:19:26+00:00",
-     "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity\u2019s annual Gaza fundraiser.",
-     "image": ""
-    },
-    {
-     "title": "Europe should not walk into Russia\u2019s \u2018traps\u2019 on Ukraine talks, EU\u2019s foreign policy chief Kallas says \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T13:15:33+00:00",
-     "summary": "Kaja Kallas warns against agreeing to Russia\u2019s proposed sequence of events on talks on UkraineHungary\u2019s P\u00e9ter Magyar is also here, looking very elegant as always\u2026\u2026 but it looks lik",
-     "image": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=e27b929d7f9fa32198cf68f5438f1dc5"
-    },
-    {
-     "title": "Ukraine War, Day 1,723: No Advance in Talks with Russia But Europe to Join Next Round",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjBqWXNWUk41eHpXYXBZbW5ZS1pzTjFIaDZSQWJxbDc0VGxaZ3IzZktESXkxM1pQRXdZX29fR0JrcVpYQjRLT0VLU0xsRXZkRmpHVlBKcVRkcGZoZ1gwTWM0S29KVHF4eUN0ZWI5dTVkVkkyNUJoOGl4NWJ3V25wemJpR3BRSldVdWdJLTVWcjRPT2RwcXVV?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-13T13:07:30+00:00",
-     "summary": "Ukraine War, Day 1,723: No Advance in Talks with Russia But Europe to Join Next Round&nbsp;&nbsp;EA WorldView",
-     "image": ""
-    },
-    {
-     "title": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFBPTXphWnNuanhNR09lT0NYQTRqXzE1R0tKRjExeDcxQWc4Q0s1dEtvZHdkbzhBLUZmLVh4blVWVGUtZ1RFNkVkVXdMWXB0UjdEUi1CNlV3ZXZmOVNjYjRoUjV6akxnTjlCVjFVNDgxc2JMc2VYcjU0SXJMcTBIT1dtQnExcV9CaHNldDNSSkl2TkVxbkhjc3czRmdDMVU0dkZqdHlad01yZjY3U0J3cHpuY3luVDlySXRlYzN3?oc=5",
-     "source": "Audacy",
-     "published": "2026-11-13T12:58:00+00:00",
-     "summary": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister&nbsp;&nbsp;Audacy",
-     "image": ""
-    },
-    {
-     "title": "France slams Israel\u2019s \u2018demagogic\u2019 ban on opposition leader Melenchon",
-     "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T12:57:08+00:00",
-     "summary": "Israel&#039;s move came after France banned a prominent Israeli settler from entering the country.",
-     "image": ""
-    },
-    {
-     "title": "Russia\u2019s Frontline Push in Ukraine Slows \u2018Very Significantly\u2019 Amid Heavy Losses, Ukraine Says",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vclZKQWN0bXBWYlo2eXJpempOUjF0dkV4Y0UxUHdJOFpWalVyTHd4emxURGlabWJjQXhDU3FRdzIyNnVoVU12RzVnWQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-13T12:48:45+00:00",
-     "summary": "Russia\u2019s Frontline Push in Ukraine Slows \u2018Very Significantly\u2019 Amid Heavy Losses, Ukraine Says&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Starshield Speed Limits Hit All Russian-Occupied Ukraine, but Not Kyiv-Controlled Areas",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLTVtVkEwelhYSk14OXRpXzlBRmVidGpPZ3BvVXZOdlFKbFlaZFZya1VURTY5dTlvWWt4N2lYSVR3ZkJIR1FBdTBKQVNVV2NiZE0wcEhOekZzOFc2czM5REVWV0lsRmVxd3kxbWQtSUpNMEZtOE40b1hGeDZfUjhNd1JJdVJiNkJXR0RGcHpVTGZPTjhyZ3FydnRtWHFGQ0lmemI1UnhBT0dNNDFKRThTTUZQYmFpdE5ieWNXem9TLUVfZVM2dDZoWm1jZWY1QQ?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-13T12:36:39+00:00",
-     "summary": "Starshield Speed Limits Hit All Russian-Occupied Ukraine, but Not Kyiv-Controlled Areas&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T14:01:59.839613+00:00",
+   "fetched_at": "2026-11-13T14:32:02.893695+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "South African parties in high-stakes coalition talks after ANC's worst election results",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMG9jSE1NVmFmYnFvMkd2cWhXaDZlYkgtRUhtbVM5dEdOSThrZzRaUHRIN29KQVMwTUNUN25RLTZCYVBtTDZIbEpPR084SS1XNmEtdmFXc204NlBXNmI1MVhHWTZtbmh2ajJydlNIZjM1T0FHVzhKV2swT09sdHBJbi1BTGV1T3BIUnI0VmJNbjdod2U5bUV4d1JjRzlmR1FOWXRQZFE2ZXF2M0ZOTEJSSTJXNzYyZjJKeW1tLWpKMA?oc=5",
+     "source": "WRAL",
+     "published": "2026-11-13T14:25:31+00:00",
+     "summary": "South African parties in high-stakes coalition talks after ANC's worst election results&nbsp;&nbsp;WRAL",
+     "image": ""
+    },
+    {
+     "title": "Trump: \u201cWe Don\u2019t Need\u201d an Iran Deal",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UZUMydU8yQ0p6d2ptSllzM0M1UmhWelk3SE1SOWxzRmMzYldwUHQ2VGNXU2QxQ2pLS2l2azltWDM2VF9EUzZudzFmZ0RGUGZqeml4N085ZTRrT1FobVpCYS0tZnhHSEQyREtkSzk3SEZKWXJP?oc=5",
+     "source": "Progressive Policy Institute",
+     "published": "2026-11-13T14:24:54+00:00",
+     "summary": "Trump: \u201cWe Don\u2019t Need\u201d an Iran Deal&nbsp;&nbsp;Progressive Policy Institute",
+     "image": ""
+    },
+    {
+     "title": "What does the 'Blue Tsunami' mean for US media?",
+     "url": "https://www.france24.com/en/tv-shows/scoop/20261113-what-does-the-blue-tsunami-mean-for-us-media",
+     "source": "France 24",
+     "published": "2026-11-13T14:22:06+00:00",
+     "summary": "This week, FRANCE 24's media show Scoop looks at the impact of the midterm elections in the United States. While the results are being reckoned with by Republicans and celebrated b",
+     "image": "https://s.france24.com/media/display/41cc5bba-dd7e-11f1-a5e8-f71d22e7fea9/w:1024/p:16x9/AP26294694444631.jpg"
+    },
+    {
+     "title": "Republicans dazed by midterm election defeats grapple with what went wrong",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVJqc1ZGNzl2ODJDSzBGWF9qU3I2NUhmOHdsYVZZeHZWUFh4UXJBT3BXZ0pmLWtDQXI3TXlteVRIY00tMGx1cTVTRDc3dTdKZ21mOXRrQ2ZzSmw4NjRiX3Y5SHBrbENoYnBSMG1pVDNHdVl4emJvZDBld1dWQWNuZ1lJRF8ya01PdWlncWctQlBVcmppQThwZ3kwVHNkNVR1dGFyWG1lTmHSAa4BQVVfeXFMUHRyQkFYWURpTTNJdzI5V3JlX1pUd0o1X0lWeWRpN19mRVZic2JfVk5PXzg3N1B0dk1iazZCTDhkRjJRNUFOaFNNdXFpeGRUU3ozMmhkN1c5MFBNblJuOTNXSWR3ZzNjYlp6dG1FSnF6M2N4Z2pYeTR1cmd1TlJhX19yS3JLNjY5RS1Ldi1YRTBBcmFBTTVicGhHa3BxYVNaOXJ4blJXTzBlUFk2OF9n?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-11-13T14:01:36+00:00",
+     "summary": "Republicans dazed by midterm election defeats grapple with what went wrong&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+     "image": ""
+    },
+    {
+     "title": "Texas Democrats demand immediate immigration reform deal following midterm election victories",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc3lvNkN2TDhMdW5KZU15V1pGUS1YRzI3UnBaTFdRNkVzSk1pa0xTMWhmUUV2OGtTcUZVUkdFd2tfekoyd1RWRW5qc25wbVJuX1pGak1IVDRNc1gzYlo3UFNnUl9jSlBoUERMRFJqZk40WXI2RVB5NHZKM2ZSbm5aOVo4NHdTUm80UVFoUWpfMnpMMTNka3k2TWRTT2R5S1hueE8zYnFwV3pRZW55VXplSEE2RkYtTGxGdC1IQmhhRlA4a3dYdjd3TkhFM1BSZzhNNnRHMFYzbmcwRDNSOUpaT2hTU2dPSGN1UUdUNGp0YU5HN2fSAfsBQVVfeXFMTktDdkJBWmxOUjUwNlZieE1nMElpazM1Q3NzQzR5WVlaNndkbjNHMEpJTVVMeUxqNjctbXdvS1FwblQtSUpkMWpiVTY0c3o0WXp5bDZIWjNkSGxHZ0kzcU9iT3F2RnhtbHc1WDUtNXlmX1dUTDVZWkk0M2RYbDNqUnBXT1dzM21Mb3hHT0FMdENvTzB4eTZ2S1JJRU5pZ0VNUFR0NUo3aVhDMVotU0hOVUdOaDZ0U0J3RXMzTWl4WTZZU0xudTIzdVpFTWh3Zm9yUmJCTU5qTUZoNFZ0bDZZbjd3MmpWeTdvOEtIZ1pHTUY2bjlDZ19Kdmp4RzQ?oc=5",
+     "source": "Houston Public Media",
+     "published": "2026-11-13T14:00:20+00:00",
+     "summary": "Texas Democrats demand immediate immigration reform deal following midterm election victories&nbsp;&nbsp;Houston Public Media",
+     "image": ""
+    },
+    {
+     "title": "The partisan election dispute in Clark County is heading to the Indiana Recount Commission",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOTnFhblBpek1HTElhMzUxdS0wdVRMcjNlTExDMVctX1JuZUtEVWhWbDQ0QnlQWkJtM2RWNDIyVUZkWFpHYk9PUzdTbzJjZ0JPeTV6aDZWUGR0QThzVDdNTzItLUxEN0lUYnVMSkl1c3ItWTlnazhVNnV5OGh3cWFXRkNBZ0FyWXpCQnBfY09UUmdqWjNGQkk4Y2daMVFBS1l6OHZoNG5VZFJuVGpNQzhYVkpVdmd5NExDRnFCQmJ6TlZFc1NoUjhWTXphUmdCZEh4M05uczNHdk9LdWN3NzhuWDhqY3RHU25MVnpPVHFRc0ZYNGV2R3VYQ2VRTkk1SGZHbkNXVlhreDdVNEFGMHJRNjJNRko3LUw2N1JRSW5n?oc=5",
+     "source": "The Statehouse File",
+     "published": "2026-11-13T14:00:00+00:00",
+     "summary": "The partisan election dispute in Clark County is heading to the Indiana Recount Commission&nbsp;&nbsp;The Statehouse File",
+     "image": ""
+    },
     {
      "title": "Countries Growing More Ambitious on Climate, Despite U.S. Retreat",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BaHo1eGdYdDJWNHVUY3NId0FCUkZwR2JVTWpUWEtLZnBfVng5T3o4QU5hWjh0VlJ6ZE8zelppcFVzNG1HbG1hQlRmSTJoV3VIdThibjRlMWphVVA5bkhz?oc=5",
@@ -234,10 +282,18 @@
      "image": ""
     },
     {
+     "title": "How cookies turned a small city's Election Day into a big experience",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzVFVkpyNjZLTEZmajR6QkhGQlJvWEhYdWtTSGk3Znc0T2tNWEozaXRyMno5MGNHUFdIZndnczFzWm9OMHM2MEFwM2gtSkJUUzRPS0ZwaVlnTVF2cjh2eldDQjFVQ2dfeEdnMXF1UG5nWTVoSm9qVXVoT1MwV3BtYlh2bkNjUXV3aWVyeHF2bElZOUVzeTcwVDBqT2ZJbFU5VVByQWRrWVNRVm0wV0Q2RUtBX3NOb0p5cDFoTkJwbms?oc=5",
+     "source": "Detroit Free Press",
+     "published": "2026-11-13T13:49:00+00:00",
+     "summary": "How cookies turned a small city's Election Day into a big experience&nbsp;&nbsp;Detroit Free Press",
+     "image": ""
+    },
+    {
      "title": "News | Election week tempers US hotel performance",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzc4MVhEZmpsaWZuNHJUcC1YUFZfYmZROG9uekpienU3eG5tRnJyZHFuY2pFdVRRLVN1ckk5VWRkRTBxTlZrSjI3Z0szM1c2MTV4NVpCMm93ZTF1VFVETDhVMDg0WVloRnNjWXM2ZkRLbU9FakJxLWJ0VF9RTUFNU3NUZ2VYamhwM0xHRA?oc=5",
      "source": "CoStar",
-     "published": "2026-11-13T13:34:30+00:00",
+     "published": "2026-11-13T13:36:12+00:00",
      "summary": "News | Election week tempers US hotel performance&nbsp;&nbsp;CoStar",
      "image": ""
     },
@@ -250,81 +306,25 @@
      "image": ""
     },
     {
-     "title": "The dark side of reselling apps: \u2018If you include your pants, I\u2019ll pay more\u2019",
-     "url": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
-     "source": "The Guardian",
-     "published": "2026-11-13T12:54:16+00:00",
-     "summary": "Ministers consider banning under-16s from online marketplaces amid reported misuse of messaging functions and users\u2019 photosIn June, Hannah* listed her seven-year-old daughter\u2019s pin",
-     "image": "https://i.guim.co.uk/img/media/511023e145af02db32408f6e5b7af4f569939599/339_0_3505_2804/master/3505.jpg?width=140&quality=85&auto=format&fit=max&s=648540e4a3d008e232d45e912d354b3a"
-    },
-    {
-     "title": "Phillips 66 and Illinois policy deliver 11 million gallons of SAF",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFRSWTdENmN3WTdubVlYYk1zV1RUT0xzMTRFaWNsUy1Teko4dTBBQUpTSzNaNElWWDhZMDJtOW9Dd0pMWU5CTmpsaVNlZVlWV2NRa3dOaUtQcHlYR1ZSV1dIc3c1V3doX1RrcE9vUDJPN2dndkNlSDJyd2hjYlprNEJfalBDTFZrTlpVTlZRZ1BfT3NCNVV6T3Jzd1E2UQ?oc=5",
-     "source": "Biofuels International Magazine",
-     "published": "2026-11-13T12:27:46+00:00",
-     "summary": "Phillips 66 and Illinois policy deliver 11 million gallons of SAF&nbsp;&nbsp;Biofuels International Magazine",
+     "title": "Parents press Oregon lawmakers for policy changes to school funding formula",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZnVLR3M3SHVfQTJ3aXhyeEl3RF8xYWJFWjlnZm5jVFk0SG1qTGFXam9ZLXFTRF8xRzhqRXpmM3U3UUJZa2xESTVieXpsMmRjRUdsU19SSWQ4MHJGVVdPMWpEUVc4NHFkV0dvZXhQRzE0cVRyMElJSDZ0NEhLS3V0Rkkxbl92MWxjRG4tTnF1UlJ1dnN3M3RhQmFRS0ZXWGFWNW1IZDUtN2p2Y3R4YV9pNUZaNF9RUWtRSkEtZkRGamZpQlpWVGVIeENMM01DekQwTDQ4WmNONW5xMjhTSkdsTkNQdHE1QkxzTUE?oc=5",
+     "source": "KGW",
+     "published": "2026-11-13T13:21:00+00:00",
+     "summary": "Parents press Oregon lawmakers for policy changes to school funding formula&nbsp;&nbsp;KGW",
      "image": ""
     },
     {
-     "title": "Farm Policy Moves to Democrats and Farm Aid Eligibility Takes Focus",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa09lTDNsWklZOVFuazR2bGxYOXVkYlhITDd4YndQc1BJTFF0SE4tTUZkOW5YdTgwT3ZaWjY2a0VaNVRESWU4QnJLZUVvMHRrcVZHbm0xZXBLdjBqVkM5T1M4UDlnQ2hreGVnOVRPTlBuZ0JwZWkwY1lmMkJoVW5lOHZZLVFhTE1SczVsWldzRHgzZFA0ZkZpUDRDTVF3V3ExbXdmUXdMQklYUQ?oc=5",
-     "source": "StoneX",
-     "published": "2026-11-13T12:22:57+00:00",
-     "summary": "Farm Policy Moves to Democrats and Farm Aid Eligibility Takes Focus&nbsp;&nbsp;StoneX",
-     "image": ""
-    },
-    {
-     "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-     "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T12:22:30+00:00",
-     "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg"
-    },
-    {
-     "title": "Republicans deserved election losses, says outgoing state Rep. Gary Gates",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmpIOHNNcW04ZTA5MHVxd2JjcFlSaDBxLUpnN19KNU5IOXdzTmx4bUtIWW1PS0JOdHNDOGRlOUVCZXlxMjdNN0oxR2QxcTdlSEkwcWhqeFUwel9EZmFjS01xSmdiQ3d1MlhSQXJlYVVtQXlUUlgzQ19EOXpIcjlrQy1IQkpsZDRWXzBndEpqM0d0UTNibHNlbE5iWFQ4ejV5WWhBM2U4ZXNkZFY2LWhj?oc=5",
-     "source": "Houston Chronicle",
-     "published": "2026-11-13T12:14:15+00:00",
-     "summary": "Republicans deserved election losses, says outgoing state Rep. Gary Gates&nbsp;&nbsp;Houston Chronicle",
-     "image": ""
-    },
-    {
-     "title": "Republicans dazed by midterm election defeats grapple with what went wrong | National News | 2news.com",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZlRwMUxuR0FoUkljUXlIUUtrV05SQmlZTmU3UzZ2dTF2bnpuTndHMmFpSVJFY1c3UFJNZThOZVdpTmdaVkpEUHpOSkp0dUJvU3cyTThSWjNtcG5DOXMyMHRlUXJJLVY1V2t0SzNsRGNwZ3RQa05CYmE5Q3BfN0FDQTBfajhldGhSNmtXemxkSnprdE15NVhsZ1RzSUxycjdGTnc2SDM1MnREeVJBRUlRa3cySEdPRVRFMDdfdWlvSlBoakFuNzdWSk5STmhhNVFPeERRSUlzT1pOR3MyR21zMXBiNkF4OHE3VS04b1FJbw?oc=5",
-     "source": "KTVN",
-     "published": "2026-11-13T12:12:04+00:00",
-     "summary": "Republicans dazed by midterm election defeats grapple with what went wrong | National News | 2news.com&nbsp;&nbsp;KTVN",
-     "image": ""
-    },
-    {
-     "title": "Arizona Democrats flipped these legislative districts in the 2026 election",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzE5aGlJRWczRlM3WG16RFJVVFFnSzlPSjBvQ2dpYUlETGFVTWgwM1NScTdXY0VEWVY5MHFSNGZ6cGpES3ZBbW9JZWhCZlM5djVlYkI1MmZDRXRwcVI3ZWdVU1NwN2VuT3dJaDRsZ0tFR1F4eDlhSEdmWnFqSUhBeGNTQjdvQ0RZcmJzY1pDMmRzQ04xZWU2VEY3NEtiRWZLUV9QLW5MVXlYZTJGaExvZnhkdV9XMzQ?oc=5",
-     "source": "KJZZ",
-     "published": "2026-11-13T12:06:00+00:00",
-     "summary": "Arizona Democrats flipped these legislative districts in the 2026 election&nbsp;&nbsp;KJZZ",
-     "image": ""
-    },
-    {
-     "title": "Santa Cruz County school board candidates declare victory, concede in 2026 election",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdF9jVXNhLWtNeGRQRVZnb3dDZkxZcmg2d3NsRVVlc2pmV0t1VVJjNjBvV0dMMzMzM0RuUGpvZFI3enVCX1pnYllMN1NOQVF6Vi02d2ticDFxRzdfdkhqR1RDSFNRN3Y0cnc0ZU1sQjMzY1gzOTlWNksxMmNwQjI1NFNVZTNjN1ZNcVNDTGdjRGsweEgzUUZLcGtqaFhJdkZxUkhEN2Rlc29PSHc?oc=5",
-     "source": "Lookout Santa Cruz",
-     "published": "2026-11-13T12:04:41+00:00",
-     "summary": "Santa Cruz County school board candidates declare victory, concede in 2026 election&nbsp;&nbsp;Lookout Santa Cruz",
-     "image": ""
-    },
-    {
-     "title": "From Science to Policy",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82V2VsWHU3ZHJJS09iMUtETDdfU1Itd2ZDckdzVHhwRTNlWFlkUVZhOVBtTk85UVIwUndGb0Q1elpwWkNyc1BvXzNQWTZVXzNzSmxXZzR6ZmUtZU1aT0o5UC1jOE1jUkM5U25wdnhpVTlnUQ?oc=5",
-     "source": "AMS Headlines",
-     "published": "2026-11-13T12:02:59+00:00",
-     "summary": "From Science to Policy&nbsp;&nbsp;AMS Headlines",
+     "title": "Huang's downfall may undo cozy ties between business and government: analysis",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkpwVGhiQkVaZWRMU21XNE9ocDBpY0k1ZV9GQWJoTVZBakZudG5hRTZkNGwzTmQ3YnJiUnZzajRSMnRzNnRIWVNCVXF5b3ZlUkFfSUdMcTZ4MWp3Yjc5SXJfdEI2ejZJeF9peVNuUnFLTnN4SWdnZnM3Ul9zM1pXS3JudHpwMUUyeEHSAY8BQVVfeXFMUDFacE4yNDY5LXhhRTB4VGZxck5VeXZjREh1ZGVaanNIRXhvWGRfOVRObjNuUjY3UjR2SjV5LU43S1RiNW83a1VHZ1dwd1JWMjUwOEdFRDBzWXN2OW5ZdmNXQXR0blJNVEVLdW40dEVyZlpRTjlHUU1Vcm9vOVE3TmJOSllQZDlUSFc4bGFfVWM?oc=5",
+     "source": "CNBC",
+     "published": "2026-11-13T13:01:01+00:00",
+     "summary": "Huang's downfall may undo cozy ties between business and government: analysis&nbsp;&nbsp;CNBC",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T14:01:59.839616+00:00",
+   "fetched_at": "2026-11-13T14:32:02.893698+00:00",
    "stale": false,
    "items": [
     {
