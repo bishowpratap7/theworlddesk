@@ -1,134 +1,214 @@
 {
- "generated_at": "2026-11-13T10:31:12.789385+00:00",
+ "generated_at": "2026-11-13T11:01:17.830873+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T10:31:12.789358+00:00",
+   "fetched_at": "2026-11-13T11:01:17.830845+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "source": "The Guardian",
-     "published": "2026-11-13T10:15:13+00:00",
-     "summary": "Tech company \u2018seeing positive results\u2019 with efforts and says no indication problem was caused by cyber-attackMicrosoft outage hits UK hospitals, GPs, schools and policeMicrosoft ou",
-     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
-    },
-    {
-     "title": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
-     "url": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations",
+     "title": "US, Ukraine say Europe to join peace talks as Putin sticks to hardline stance",
+     "url": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance",
      "source": "France 24",
-     "published": "2026-11-13T10:13:57+00:00",
-     "summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not c",
-     "image": "https://s.france24.com/media/display/4d631082-df49-11f1-875c-29048b396e03/w:1024/p:16x9/EN-20261113-100803-101220-CS-01.jpg"
+     "published": "2026-11-13T10:59:10+00:00",
+     "summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday, November 12, Europe would join the next round of talks with Russia, as Vladimir Putin indicated Mos",
+     "image": "https://s.france24.com/media/display/da448e3a-df4f-11f1-9d2a-f71d22e7fea9/w:1024/p:16x9/capture-4c0c2d8a.jpg"
     },
     {
-     "title": "As world gripped by climate emergency, COP31\u2019s empty chairs signal low ambitions",
-     "url": "https://www.france24.com/en/video/20261113-as-world-gripped-by-climate-emergency-cop31-s-empty-chairs-signal-low-ambitions",
+     "title": "Fallout from Nvidia scandal spreads as Huang resigns",
+     "url": "https://www.france24.com/en/video/20261113-fallout-from-nvidia-scandal-spreads-as-huang-resigns",
      "source": "France 24",
-     "published": "2026-11-13T10:12:17+00:00",
-     "summary": "It is the recurring theme of every speech at the COP summits: the urgent need to act in the face of increasingly frequent climate disasters. Yet this year\u2019s conference in Turkey se",
-     "image": "https://s.france24.com/media/display/0b2be57c-df49-11f1-b516-3f371022a770/w:1024/p:16x9/EN-20261113-101254-101428-CS.jpg"
+     "published": "2026-11-13T10:56:22+00:00",
+     "summary": "Jensen Huang resigned as chief executive of Nvidia on Thursday after revelations of extramarital affairs, including one with a woman accused of spying for China. The news wiped 4.3",
+     "image": "https://s.france24.com/media/display/5a234d8a-df50-11f1-ad30-29048b396e03/w:1024/p:16x9/EN-20261113-110827-111017-CS.jpg"
     },
     {
-     "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-     "source": "The Guardian",
-     "published": "2026-11-13T10:11:39+00:00",
-     "summary": "NHS suffering \u2018serious\u2019 and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage \u2013 live updatesHospitals, GPs and police force",
-     "image": "https://i.guim.co.uk/img/media/323c32993821d256fab890df565491d603ec4a0e/263_0_4265_3413/master/4265.jpg?width=140&quality=85&auto=format&fit=max&s=df3331e4c669e5fe2eabf0c95e4977db"
-    },
-    {
-     "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-     "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T10:11:38+00:00",
-     "summary": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
-     "image": ""
-    },
-    {
-     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T10:07:18+00:00",
-     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesEU foreign policy chief Kaja Kallas has warned against the EU agreeing to Russia\u2019s ",
-     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
-    },
-    {
-     "title": "UK-EU deal will lead to \u2018growing pressure\u2019 for parliament to scrutinise legislation, warns committee \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T10:05:57+00:00",
-     "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next weekHello and welcome to the UK politics live blog.There will be a \u201cgrowing pressure\u201d for parliament to sc",
-     "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316"
-    },
-    {
-     "title": "Potential 'national security crisis' as Nvidia ex-CEO summoned by US Congress",
-     "url": "https://www.france24.com/en/video/20261113-potential-national-security-crisis-as-nvidia-ex-ceo-summoned-by-us-congress",
+     "title": "Peruvians flock to see Pope Leo XIV in city he served as bishop",
+     "url": "https://www.france24.com/en/video/20261113-peruvians-flock-to-see-pope-leo-xiv-in-city-he-served-as-bishop",
      "source": "France 24",
-     "published": "2026-11-13T10:00:52+00:00",
-     "summary": "What began as an investigation into the now former Nvidia CEO Jensen Huang is turning into what could be shaping up to be a \"national security crisis\", says France 24's corresponde",
-     "image": "https://s.france24.com/media/display/2bdc335e-df48-11f1-bf98-f71d22e7fea9/w:1024/p:16x9/EN-20261113-100555-100803-CS.jpg"
+     "published": "2026-11-13T10:55:09+00:00",
+     "summary": "Crowds in Peru's northern city of Chiclayo gathered early on Friday, November 13, \u200bahead of \u200cPope Leo's arrival for the centerpiece event of his 12-day South America tour, an outdo",
+     "image": "https://s.france24.com/media/display/662d1666-df4f-11f1-9644-5f54d898a954/w:1024/p:16x9/capture-68eec3bc.jpg"
     },
     {
-     "title": "'One of the biggest outages ever': Disruption to Microsoft services enters second day",
-     "url": "https://www.france24.com/en/video/20261113-one-of-the-biggest-outages-ever-disruption-to-microsoft-services-enters-second-day",
+     "title": "Microsoft faces a major Outlook outage: \u2018no signs of a cyberattack\u2019",
+     "url": "https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack",
      "source": "France 24",
-     "published": "2026-11-13T09:59:22+00:00",
-     "summary": "An outage of Microsoft services such as Outlook, Teams and Copilot that began on Thursday continued to cause disruption to users around the world on Friday as the tech giant strugg",
-     "image": "https://s.france24.com/media/display/cefb3d1c-df45-11f1-8907-f71d22e7fea9/w:1024/p:16x9/EN-20261113-100137-100517-CS.jpg"
+     "published": "2026-11-13T10:53:41+00:00",
+     "summary": "Microsoft said \"malicious\" activity was not to blame for an Outlook outage that left users around the world without its crucial services on Friday, November 13, but reported making",
+     "image": "https://s.france24.com/media/display/7c263c00-df4e-11f1-af3b-3f371022a770/w:1024/p:16x9/capture-748626c0.jpg"
     },
     {
      "title": "What we know about the global Microsoft outage",
      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-13T09:59:20+00:00",
+     "published": "2026-11-13T10:53:40+00:00",
      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
     },
     {
-     "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-     "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T09:43:30+00:00",
-     "summary": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
-     "image": ""
-    },
-    {
-     "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-     "source": "The Guardian",
-     "published": "2026-11-13T09:41:22+00:00",
-     "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy\u2019s ties to Jensen Huang and delays in adding Megaspeed to trade blacklistAnalysis: Jensen Huang built a",
-     "image": "https://i.guim.co.uk/img/media/32216a34a823211e1918352cebe5089bd9ffadb0/661_0_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=569749a3b191adfd37bfaeacebdf542e"
-    },
-    {
-     "title": "Microsoft hit by global outages: What happened and why?",
-     "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T09:30:55+00:00",
-     "summary": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports \u2018marginal success\u2019 in fixing outage.",
-     "image": ""
-    },
-    {
-     "title": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
-     "url": "https://www.france24.com/en/winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
+     "title": "France remembers victims of 2015 Paris terror attacks",
+     "url": "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks",
      "source": "France 24",
-     "published": "2026-11-13T09:26:32+00:00",
-     "summary": "As renewed diplomatic efforts seek to bring an end to Russia's war on Ukraine, the prospect of a negotiated settlement remains unlikely due to Russia's irreconcilable territorial d",
-     "image": "https://s.france24.com/media/display/64f9ee20-df42-11f1-8bdb-f71d22e7fea9/w:1024/p:16x9/EN-20261112-151425-152330-CS.jpg"
+     "published": "2026-11-13T10:52:36+00:00",
+     "summary": "France on Friday marks 11 years since the 2015 Paris terror attacks, in which more than 130 were killed as gunmen and suicide bombers attacked the Bataclan concert hall, a major st",
+     "image": "https://s.france24.com/media/display/2af55fc6-df50-11f1-abf9-5f54d898a954/w:1024/p:16x9/capture-1ea298a8.jpg"
+    },
+    {
+     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:35:31+00:00",
+     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesThere\u2019s also a bit of national news on the side, with Sweden\u2019s Ulf Kristersson conf",
+     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+    },
+    {
+     "title": "UK-EU deal will lead to \u2018growing pressure\u2019 for parliament to scrutinise legislation, warns committee \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:33:52+00:00",
+     "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next weekThe food and farming deal alone could generate at least 780 pieces of in-scope EU law every year, the ",
+     "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316"
+    },
+    {
+     "title": "Guinea opens illegal gold mining trial, 1,200 people arrested",
+     "url": "https://www.france24.com/en/video/20261113-guinea-opens-illegal-gold-mining-trial-1-200-people-arrested",
+     "source": "France 24",
+     "published": "2026-11-13T10:28:40+00:00",
+     "summary": "Guinea opened a trial over illegal gold mining on Thursday, November 12, after a crackdown on mineral extraction in the district of Siguiri. There was a ban on \"unregulated and ill",
+     "image": "https://s.france24.com/media/display/de9a7698-df4a-11f1-8c8d-f71d22e7fea9/w:1024/p:16x9/capture-485db877.jpg"
+    },
+    {
+     "title": "'No war, no peace' situation between US and Iran 'cannot continue', Iraqi FM says",
+     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-no-war-and-no-peace-between-the-us-and-iran-cannot-continue-iraqi-fm-says",
+     "source": "France 24",
+     "published": "2026-11-13T10:28:30+00:00",
+     "summary": "In an interview with FRANCE 24, Iraqi Foreign Minister Fuad Hussein said the \"no war and no peace\" situation in the region \"cannot continue\". He also said that closing all but two ",
+     "image": "https://s.france24.com/media/display/36d19004-de87-11f1-be18-29048b396e03/w:1024/p:16x9/TETE-A-TETE-HUSSEIN-FOUAD-MIX-OK.jpg"
+    },
+    {
+     "title": "Toera's homecoming: Madagascar's slain king joins his ancestors after 129 years",
+     "url": "https://www.france24.com/en/video/20261113-toera-s-homecoming-madagascar-s-slain-king-joins-his-ancestors-after-129-years",
+     "source": "France 24",
+     "published": "2026-11-13T10:27:02+00:00",
+     "summary": "In 1897, French colonial troops killed King Toera, ruler of Madagascar's powerful Sakalava kingdom of Menabe, and took his skull to Paris, where it remained hidden in a museum for ",
+     "image": "https://s.france24.com/media/display/550445c6-df4a-11f1-907a-f71d22e7fea9/w:1024/p:16x9/capture-2370f1b2.jpg"
+    },
+    {
+     "title": "Henry and Young shine as New Zealand thrash India by 244 runs",
+     "url": "https://www.aljazeera.com/sports/2026/11/13/matt-henry-will-young-new-zealand-india-fourth-odi?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T10:26:37+00:00",
+     "summary": "New Zealand trail India 2-1 and can no \u200blonger win the five-match series, but they can level it in Sunday&#039;s final game.",
+     "image": ""
+    },
+    {
+     "title": "Why is Trump saying \u2018no deal necessary\u2019 with Iran as he sidelines JD Vance?",
+     "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T10:26:22+00:00",
+     "summary": "The US-Iran war is trapped in an ongoing &#039;no war, no peace&#039; situation, analysts say.",
+     "image": ""
+    },
+    {
+     "title": "Amnesty criticises South Sudan, UN over failure to heed massacre warnings",
+     "url": "https://www.france24.com/en/video/20261113-amnesty-criticises-south-sudan-un-over-failure-to-heed-massacre-warnings",
+     "source": "France 24",
+     "published": "2026-11-13T10:25:47+00:00",
+     "summary": "Amnesty International said Thursday, November 12, that South Sudan and UN peacekeepers failed to act on warnings of a massacre that ended with more than 200 dead in March. The worl",
+     "image": "https://s.france24.com/media/display/69bdde8e-df48-11f1-b4c2-3f371022a770/w:1024/p:16x9/capture-de14a891.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T10:31:12.789371+00:00",
+   "fetched_at": "2026-11-13T11:01:17.830859+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Europe Haggles Over Who Will Represent It in Talks With Russia",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXZ5el9iR2VOdWd1dVNVX00zWkdWM01yQkk4WkxZZmtrNUNxUVZIQ3E0aHdrZ0NmMWlsclN0ejlhaHNvMWV3OWVBWXI4aF9aRzhPOW5pNTUwdHJNdWFSclFQckhJUDFYMXBpWDM4QjhsQ00wazRta0FVS2F3NDIwSWVBVjg5SjA?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-13T10:21:16+00:00",
-     "summary": "Europe Haggles Over Who Will Represent It in Talks With Russia&nbsp;&nbsp;The New York Times",
+     "title": "US, Ukraine say Europe to join peace talks as Putin sticks to hardline stance",
+     "url": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance",
+     "source": "France 24",
+     "published": "2026-11-13T10:59:10+00:00",
+     "summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday, November 12, Europe would join the next round of talks with Russia, as Vladimir Putin indicated Mos",
+     "image": "https://s.france24.com/media/display/da448e3a-df4f-11f1-9d2a-f71d22e7fea9/w:1024/p:16x9/capture-4c0c2d8a.jpg"
+    },
+    {
+     "title": "Critical News & Insights on European Politics, Economy, Foreign Affairs, Business & Technology - europeansting.com War in Ukraine: MEPs demand Russia returns deported Ukrainian children",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTZyRjdhTnQtZmgwTjMxN0RJYnFlN1BpQnc4eFBaRFd6d29xdFJ2c0Z4QnRuUHd1RFZ3TTM3MHhzQmNlY3RZaVhJWE9WRkJfNHJkaEVyWEo5dEc3MWdUeGRid1lIa1doZ3hBN3JfeDZ6VFlrY2JPMTlaYl96ZklBOV9mOG1iN2phRnZleXZNdUplX2JFWVZXTkZfNDFaN3ZQdmc?oc=5",
+     "source": "The European Sting",
+     "published": "2026-11-13T10:54:32+00:00",
+     "summary": "Critical News & Insights on European Politics, Economy, Foreign Affairs, Business & Technology - europeansting.com War in Ukraine: MEPs demand Russia returns deported Ukrainian chi",
+     "image": ""
+    },
+    {
+     "title": "Ukraine\u2019s Overnight Drone Attack Leaves Russian Industrial Facilities Burning Across Rostov Region",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYVQzaUZmTkVuOEMwNVptb0dmcnN6Q1E4NU5oRWp0UDY3V3VpS2RPaXBCLVoycE5lUFJad3Utd0lQSDU0cWFEcU8tZW1hb2xqdGJheVU2b3prZWpWcGpRTGJiSy1NTjRLR1ZPNlZCd005VVpFbFduOWFoWEF3XzJhSjFWemJDVlNlUWppUjhtNUU2c3pkWEgzS2pLT0dmY01fSjdnbGN4a2lCSGt0dmdUOWRZREExeFhLcnFHRkdqeGxSbXlSMDVNZnhsdnhERDEwNk5aNFpTX1p6cUI0?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-13T10:46:32+00:00",
+     "summary": "Ukraine\u2019s Overnight Drone Attack Leaves Russian Industrial Facilities Burning Across Rostov Region&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Russia hit with second car bombing in 2 days as former Ukraine PM\u2019s aide is wounded",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPM0ZOQUJNN1RfUFVKdEhwOENCTUxQb3RFSGprNTFQSWVvOGdxcGFwQnVKNGRWUE02Z0hzU3hYbnI3dE0wTFc4dHM4NmR5ZmVRa2lseGZwazhpeEo1ckdlQ281YXNBcUlpdVI1X1J5a19YS185UEpOdEN6YmFOTU5vdVNjbFRtOU5ld040VjNxaktsdDBIencyNkVRcGJvSms3SlZYWVFEaFo2bV8xX0R4UGk2N19jNzdqQndFQ0N2THVvR1BlWVFpM2cxdzgtZUJzMUdvaG05UU9KOG9KYXpFaXRWNWhpb1YweTFhNFVoSEx3bHBWdlhKTnQzZnlLajNLSzFKNzhtTjladHJrR2l6MkZB?oc=5",
+     "source": "New York Post",
+     "published": "2026-11-13T10:43:00+00:00",
+     "summary": "Russia hit with second car bombing in 2 days as former Ukraine PM\u2019s aide is wounded&nbsp;&nbsp;New York Post",
+     "image": ""
+    },
+    {
+     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:35:31+00:00",
+     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesThere\u2019s also a bit of national news on the side, with Sweden\u2019s Ulf Kristersson conf",
+     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+    },
+    {
+     "title": "UK-EU deal will lead to \u2018growing pressure\u2019 for parliament to scrutinise legislation, warns committee \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T10:33:52+00:00",
+     "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next weekThe food and farming deal alone could generate at least 780 pieces of in-scope EU law every year, the ",
+     "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316"
+    },
+    {
+     "title": "'No war, no peace' situation between US and Iran 'cannot continue', Iraqi FM says",
+     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-no-war-and-no-peace-between-the-us-and-iran-cannot-continue-iraqi-fm-says",
+     "source": "France 24",
+     "published": "2026-11-13T10:28:30+00:00",
+     "summary": "In an interview with FRANCE 24, Iraqi Foreign Minister Fuad Hussein said the \"no war and no peace\" situation in the region \"cannot continue\". He also said that closing all but two ",
+     "image": "https://s.france24.com/media/display/36d19004-de87-11f1-be18-29048b396e03/w:1024/p:16x9/TETE-A-TETE-HUSSEIN-FOUAD-MIX-OK.jpg"
+    },
+    {
+     "title": "Toera's homecoming: Madagascar's slain king joins his ancestors after 129 years",
+     "url": "https://www.france24.com/en/video/20261113-toera-s-homecoming-madagascar-s-slain-king-joins-his-ancestors-after-129-years",
+     "source": "France 24",
+     "published": "2026-11-13T10:27:02+00:00",
+     "summary": "In 1897, French colonial troops killed King Toera, ruler of Madagascar's powerful Sakalava kingdom of Menabe, and took his skull to Paris, where it remained hidden in a museum for ",
+     "image": "https://s.france24.com/media/display/550445c6-df4a-11f1-907a-f71d22e7fea9/w:1024/p:16x9/capture-2370f1b2.jpg"
+    },
+    {
+     "title": "Why is Trump saying \u2018no deal necessary\u2019 with Iran as he sidelines JD Vance?",
+     "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T10:26:22+00:00",
+     "summary": "The US-Iran war is trapped in an ongoing &#039;no war, no peace&#039; situation, analysts say.",
+     "image": ""
+    },
+    {
+     "title": "Amnesty criticises South Sudan, UN over failure to heed massacre warnings",
+     "url": "https://www.france24.com/en/video/20261113-amnesty-criticises-south-sudan-un-over-failure-to-heed-massacre-warnings",
+     "source": "France 24",
+     "published": "2026-11-13T10:25:47+00:00",
+     "summary": "Amnesty International said Thursday, November 12, that South Sudan and UN peacekeepers failed to act on warnings of a massacre that ended with more than 200 dead in March. The worl",
+     "image": "https://s.france24.com/media/display/69bdde8e-df48-11f1-b4c2-3f371022a770/w:1024/p:16x9/capture-de14a891.jpg"
+    },
+    {
+     "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZlRoNnZkS1Q2N2NZaDhheS1hc0kzUlZncXNtNFlIbERETmFMYTJrV1JHbzJKekJMZnhSdDJ2SkgwN3h0NXp1a1E2RmthcmlKNVY3V19mWVV6OFhTYUw3cVFXakpMSzdrZUpaX1pCU3FUMVI0RFhQc1pKa3doTGh1MHdhWFZJY1lnMTQ2eUgxMzNjS3pTZGxmN1E5TW1uWTdMaXVTUTF2TnBpdmZxMnfSAbMBQVVfeXFMUExDSW5Ec2xDQnJMTFBILUtQM1A5dl81ZGtLVGZlbHljM0tRVGJONEFqSlBMeTBobzR1QkNtQ0M3S3N6d0VfUzkzNXozZHpCR2tfQ1d0X3lFSWdTYXhNWHFuQ1oxWmh2aE9YYUhVMFJiMDVKVHhDMnowZFFPMFlKSDlLYUtCYVJ2V3ZwdVFuSDdNb1h4Z1Q2R1RDY3JhbV9jX3NiTFItTEE2dnR0QmNjTVZXSHM?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T10:17:15+00:00",
+     "summary": "Russia and Ukraine report overnight attacks amid US diplomatic push&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
     {
@@ -138,93 +218,45 @@
      "published": "2026-11-13T10:13:57+00:00",
      "summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not c",
      "image": "https://s.france24.com/media/display/4d631082-df49-11f1-875c-29048b396e03/w:1024/p:16x9/EN-20261113-100803-101220-CS-01.jpg"
-    },
-    {
-     "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZlRoNnZkS1Q2N2NZaDhheS1hc0kzUlZncXNtNFlIbERETmFMYTJrV1JHbzJKekJMZnhSdDJ2SkgwN3h0NXp1a1E2RmthcmlKNVY3V19mWVV6OFhTYUw3cVFXakpMSzdrZUpaX1pCU3FUMVI0RFhQc1pKa3doTGh1MHdhWFZJY1lnMTQ2eUgxMzNjS3pTZGxmN1E5TW1uWTdMaXVTUTF2TnBpdmZxMnfSAbMBQVVfeXFMUExDSW5Ec2xDQnJMTFBILUtQM1A5dl81ZGtLVGZlbHljM0tRVGJONEFqSlBMeTBobzR1QkNtQ0M3S3N6d0VfUzkzNXozZHpCR2tfQ1d0X3lFSWdTYXhNWHFuQ1oxWmh2aE9YYUhVMFJiMDVKVHhDMnowZFFPMFlKSDlLYUtCYVJ2V3ZwdVFuSDdNb1h4Z1Q2R1RDY3JhbV9jX3NiTFItTEE2dnR0QmNjTVZXSHM?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T10:11:51+00:00",
-     "summary": "Russia and Ukraine report overnight attacks amid US diplomatic push&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Ukraine Peace Talks Set to Expand as Russia and Europe Clash Over Post-war Security",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2dKa2Jzb0RjVFVJSGlOR2FWTXE1bDdlbGNLMTNBaGxoNkZWbDJXc0U0R3l3WnBMY1VzbFA4TjY2dkt1QXJWQTRMYVJEWk1uak51MWlsUFZDcFlqZG83TjlTOWlwTG1tdkx2UjdfaUxocGJsajdzUHNqUWJUMzBfR3JJTi1zX0pjdTRjZjRpZHZsYXc5LXZ4YkFTa1RVWm45ZHFMeWZIUDFjbEs2Q1E?oc=5",
-     "source": "commonspace.eu",
-     "published": "2026-11-13T10:09:20+00:00",
-     "summary": "Ukraine Peace Talks Set to Expand as Russia and Europe Clash Over Post-war Security&nbsp;&nbsp;commonspace.eu",
-     "image": ""
-    },
-    {
-     "title": "Europe pushes for seat at Ukraine peace talks\u200b\u200c but lacks unified voice",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWWRQaTFiaHJQbmJTVnR0UzAzMjRHZzVERERkWHJyMENySEQtMU5iUnVnZlJhSk0yeWpGMURCZExJaThQUW12aXFoekxGX1ZnbXI1VGdYNmNIY0ZqazRhcmFTNEpPVU9Janl5aWRJT09VX0k4bTBjUEhEbnQ2NXQxTjNaR2ZKUjZlN1V1bW9XNHBKcjZ0b1p1bWxELWE4SUZlSGpyY3RNVFlFZWpnTV92enZZNE51Smh3UHJTN2NfcmNUOEhsY3N1LXZTTWw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-13T10:08:41+00:00",
-     "summary": "Europe pushes for seat at Ukraine peace talks\u200b\u200c but lacks unified voice&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T10:07:18+00:00",
-     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesEU foreign policy chief Kaja Kallas has warned against the EU agreeing to Russia\u2019s ",
-     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
-    },
-    {
-     "title": "UK-EU deal will lead to \u2018growing pressure\u2019 for parliament to scrutinise legislation, warns committee \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T10:05:57+00:00",
-     "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next weekHello and welcome to the UK politics live blog.There will be a \u201cgrowing pressure\u201d for parliament to sc",
-     "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316"
-    },
-    {
-     "title": "US envoy Kushner says next round of Russia-Ukraine peace talks to include Europe",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1Vfc1JKWjlUZzFINjVjZDczYkJBUW1BajNLMC1TMTh5eUsyTmlYVTJzOUNqRS02Mk5mWTFPYVNYX1RVZUNDMVVVU2tsWFUxeXoyY0RWLWd4Q0dlUmZLajBTcVNsRlFYc05XRS1xb1RjbFlqWDh5Z283TlpCajJTNDY1SGZReE5KUE1lZ2lVTHN4cDZBTGNtd1NFdEgwWUppdHRiRTB4LWFUMm1vTGJEY0p4VHFLQQ?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-13T09:47:25+00:00",
-     "summary": "US envoy Kushner says next round of Russia-Ukraine peace talks to include Europe&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-     "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T09:43:30+00:00",
-     "summary": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
-     "image": ""
-    },
-    {
-     "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-     "source": "The Guardian",
-     "published": "2026-11-13T09:41:22+00:00",
-     "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy\u2019s ties to Jensen Huang and delays in adding Megaspeed to trade blacklistAnalysis: Jensen Huang built a",
-     "image": "https://i.guim.co.uk/img/media/32216a34a823211e1918352cebe5089bd9ffadb0/661_0_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=569749a3b191adfd37bfaeacebdf542e"
-    },
-    {
-     "title": "Russia's Advance Slows 'Very Significantly' as Heavy Losses Undermine Push Along Ukraine's Front",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vclZKQWN0bXBWYlo2eXJpempOUjF0dkV4Y0UxUHdJOFpWalVyTHd4emxURGlabWJjQXhDU3FRdzIyNnVoVU12RzVnWQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-13T09:29:31+00:00",
-     "summary": "Russia's Advance Slows 'Very Significantly' as Heavy Losses Undermine Push Along Ukraine's Front&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
-     "url": "https://www.france24.com/en/winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
-     "source": "France 24",
-     "published": "2026-11-13T09:26:32+00:00",
-     "summary": "As renewed diplomatic efforts seek to bring an end to Russia's war on Ukraine, the prospect of a negotiated settlement remains unlikely due to Russia's irreconcilable territorial d",
-     "image": "https://s.france24.com/media/display/64f9ee20-df42-11f1-8bdb-f71d22e7fea9/w:1024/p:16x9/EN-20261112-151425-152330-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T10:31:12.789375+00:00",
+   "fetched_at": "2026-11-13T11:01:17.830862+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "No One Knows What Really Just Happened in Michigan",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbW9XOTQtQk1Wa09WZDJQUFlsakhKdVhhcjhTdTlEUDlBX2tQcmt3NUxwLW1MN2E2cTY2Z1dpbjE3dlBUYnplSnZ6TWlXbVBfcUEwMU5nblN6aG5aQVg1YWxIbEZOUFZHMVhHOHNLTEhPQXBsakswbWNGWlhxWHZCQnlSSHJKckxkNF92c1B0UXRORkRIY0Z4djFibDBfNFhZZGc?oc=5",
+     "source": "Slate Magazine",
+     "published": "2026-11-13T10:40:00+00:00",
+     "summary": "No One Knows What Really Just Happened in Michigan&nbsp;&nbsp;Slate Magazine",
+     "image": ""
+    },
+    {
+     "title": "Space, Fantasia and Inganamort announce 2027 re-election bids in New Jersey's 24th Legislative District",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSl9iZE5UZWR6ajdldFU1SUE5VzZ6SDZwNzh4cFdJTS1VT2FTeWc3QlJ6R1gzN0FlS256THBvQk1oaTZnZGhCbnhkSGtObW8wMGp6Qlc5MlpMbUFIUll4ZXE0T21acVJsS0lYR0ctRGVhWEVITGVQYzhXU1lvVFhHcU5EQXFXNGdmMjcxYkFFUmNhbzhORjd3ZTY4V1dMa1czOV9HOHZIRkx3SDN2TkRPNlpPWnpDejlCc0prWkkwX21LQQ?oc=5",
+     "source": "WRNJ Radio",
+     "published": "2026-11-13T10:34:05+00:00",
+     "summary": "Space, Fantasia and Inganamort announce 2027 re-election bids in New Jersey's 24th Legislative District&nbsp;&nbsp;WRNJ Radio",
+     "image": ""
+    },
+    {
+     "title": "How election results are made official",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZmZVRk53Wm52czBrTjRlMlRfM2VBaUk4ampFeHVnNEpjejc5SW4zSHJDNnY5aHlMN3ZkVENqVXFrLVlaVnJQV1FoOFRCR0llcU1fbDEtcGluU1UtaE53LVpVMm1pOEYxMFhfZ1FBQXpCa3dMOW53NElOb2FSd1VVU3JNdnVWQQ?oc=5",
+     "source": "Ballotpedia News",
+     "published": "2026-11-13T10:30:00+00:00",
+     "summary": "How election results are made official&nbsp;&nbsp;Ballotpedia News",
+     "image": ""
+    },
+    {
+     "title": "Pa. Supreme Court election in 2027 could change direction of state's top court",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTZYUWdYV3g2aUhYazd5R0ZUZk9BdmdHWmJHOGdfV25fSjNzYVRONXhRUmhsQ0t4bzFVWVQ1Mkp0a0N3S2JseHNnOU56ekRWMFc1bXd4a20xMWduYkRPQ3hfRDNzRDlXQTIxNEVHSFhFaWtzSFd2YkpMVHVmU2dxYzM4RWNHWFBSR0JQdU9PS1V5S29Od2c?oc=5",
+     "source": "90.5 WESA",
+     "published": "2026-11-13T10:30:00+00:00",
+     "summary": "Pa. Supreme Court election in 2027 could change direction of state's top court&nbsp;&nbsp;90.5 WESA",
+     "image": ""
+    },
     {
      "title": "Sweden's Kristersson to offer centre-right government plan to Centre Party amid post-election deadlock",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUZrM3BkeGkzU3J6aWI2OXp6NFRDRS16OTM2Q2hVc1ZsMFhwOWRTLXg4MEtoTkpvRXFXNFJ6SC1fbGw3QWdWYVhvallTaDh1Si1WWmItQ3dZX0NhM2RENVpVc1phTjgzc1F6cmlBR3NaazRQc2RORklMUDhxN2tlTndTaXRPdms1M3h4YjJYUXE0dU43ZXd4ZVRoYk16T2E3Y3ZBMDZCeWhyZjljcThFRndLcUVoVUkxdHJ3?oc=5",
@@ -288,43 +320,11 @@
      "published": "2026-11-13T10:00:00+00:00",
      "summary": "Republicans Resistant to Blame Trump Despite Election Losses&nbsp;&nbsp;Bloomberg Government News",
      "image": ""
-    },
-    {
-     "title": "The affordability election delivered billions for public transit",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX29MMjZqdUl0MEFrYTEzYkJfSkJKYzNKV3gtcV9JYnRKeDl5ZUx6M0tNV2xuanMwY05pd3REWEZmYm4xdmpxRW9zSkFtNnJZQmJrZmloOWFzTUQ4YVl6TjJSb3laY3p0T2ZQTFAyam9qVHY1Y21rNWhsZVhwR0I3V1hGeGZRcFFaa1VQRUxrY0Q1amo5S1o5TGU1SmJmM0k?oc=5",
-     "source": "Grist",
-     "published": "2026-11-13T09:46:40+00:00",
-     "summary": "The affordability election delivered billions for public transit&nbsp;&nbsp;Grist",
-     "image": ""
-    },
-    {
-     "title": "In French Election, Centrists Eye a Judo Star and a Central Banker",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWlPY2VGX3Zsbi0zUUJ0eUV3UENILXJJRnduVVBfNXJidi1OaTJQUkxSUERXYmt4ckR6bDB1MXoyQm9wVjlNSTV1UU80SFg5dWhGTHM0OWY0MzJZdFIwNkFGemVCcTVIWmJtRjV6dVAxS1FkNkRyYXVEYmxvV2pSUHE4WFVuRFg0TzFaaGY3c1Y?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-13T09:22:48+00:00",
-     "summary": "In French Election, Centrists Eye a Judo Star and a Central Banker&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Teen campaign manager helps lead upset election win in Florida Legislature",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXRyYTRRVFJGTGpMQXF3dDN1VlItZWRKeVY1Yk5ZbFdBb043S3hJUjJ0SmlQd2xPajVGTUQ5Y2R2NGhaQ3hTVlNJbUp0dk1pSXNtUW9oZzdtZXVCQ1NacWN2Ui0zQkVUckRpR3dGVzB2RHhWZWVZUlVNb2pCLV9mQ0MwLUszQkR2bFFBM0ZMLWd2a3JyaXc?oc=5",
-     "source": "WPBF",
-     "published": "2026-11-13T09:16:00+00:00",
-     "summary": "Teen campaign manager helps lead upset election win in Florida Legislature&nbsp;&nbsp;WPBF",
-     "image": ""
-    },
-    {
-     "title": "Your 2026 Student Government Senate election guide",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUdCb01TUjFBM21yZ3pFZUpuNzZkOERLc2YzTEpGajFpVjhpSkYteTR4NC10aXp5Q3FqYno0LTJBVlA2UUIwQnpvR2c1MFVtX2w3QktERDliYTNXMnlYUl9iWFR1T1RPN0IzMnV0bUhyTHRBdmVka3doejhXbHNkcFlTNUVCeEJzWlN0c1ZfTFo1Z2JCUjUzV0Y4M2M?oc=5",
-     "source": "The Lafayette \u2013 The Oldest College Newspaper in Pennsylvania",
-     "published": "2026-11-13T09:09:32+00:00",
-     "summary": "Your 2026 Student Government Senate election guide&nbsp;&nbsp;The Lafayette \u2013 The Oldest College Newspaper in Pennsylvania",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T10:31:12.789377+00:00",
+   "fetched_at": "2026-11-13T11:01:17.830864+00:00",
    "stale": false,
    "items": [
     {
