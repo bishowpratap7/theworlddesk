@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-13T04:30:10.233163+00:00",
+ "generated_at": "2026-11-13T05:00:13.926874+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T04:30:10.233137+00:00",
+   "fetched_at": "2026-11-13T05:00:13.926848+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018Looks like we\u2019ll have to talk to people\u2019: Australia sent back to time before email with major Microsoft outage",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+     "source": "The Guardian",
+     "published": "2026-11-13T04:40:14+00:00",
+     "summary": "Government services and schools impacted by Outlook and Teams issue as company says fix not \u2018taking as expected\u2019Microsoft begins restoring services as global outage affects Outlook",
+     "image": "https://i.guim.co.uk/img/media/f0ae4d035807e736dec6925a910e633298856938/354_12_2900_2321/master/2900.jpg?width=140&quality=85&auto=format&fit=max&s=b58ddccfb92d65c3df2d33ed079fedfa"
+    },
+    {
+     "title": "Talarico appeals to Trump\u2019s legacy in bid for bipartisan reforms",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T04:36:45+00:00",
+     "summary": "Texas Democrat Senator-elect James Talarico has urged his party to work with President Trump.",
+     "image": ""
+    },
+    {
+     "title": "Nvidia\u2019s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports \u2013 live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T04:36:24+00:00",
+     "summary": "Huang\u2019s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spyFull report: Jensen Huang",
+     "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682"
+    },
+    {
+     "title": "Who is US Senator Chris Van Hollen?",
+     "url": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T04:28:45+00:00",
+     "summary": "Van Hollen is known for his anti-war positions and championing progressive causes.",
+     "image": ""
+    },
+    {
+     "title": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "source": "The Guardian",
+     "published": "2026-11-13T04:24:26+00:00",
+     "summary": "Company has ruled out a cyber attack but says fixes to help thousands of affected users have not been successfulMicrosoft outage \u2013 live updatesMicrosoft 365, Outlook, Teams and oth",
+     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
+    },
     {
      "title": "Minister\u2019s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
      "url": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
@@ -12,14 +52,6 @@
      "published": "2026-11-13T04:18:06+00:00",
      "summary": "Royal commission also hears from construction company employee who says workers were \u2018fearful\u2019 of unionGet our breaking news email, free app or daily news podcastA major contractor",
      "image": "https://i.guim.co.uk/img/media/c44ea5bfebb371ea898e153db1ec41d0573374c8/0_0_5673_4541/master/5673.jpg?width=140&quality=85&auto=format&fit=max&s=de76ae79a71100d5b23b1d4fb226cf24"
-    },
-    {
-     "title": "Nvidia\u2019s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports \u2013 live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T04:15:57+00:00",
-     "summary": "Huang\u2019s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spyFull report: Jensen Huang",
-     "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682"
     },
     {
      "title": "US envoys shuttle between Putin and Zelenskyy",
@@ -84,45 +116,29 @@
      "published": "2026-11-13T03:11:43+00:00",
      "summary": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza\u2019s Nasser Hospital.",
      "image": ""
-    },
-    {
-     "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer \u2013 as it happened",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-     "source": "The Guardian",
-     "published": "2026-11-13T03:04:16+00:00",
-     "summary": "This live blog is now closed.Chris Van Hollen to challenge Chuck Schumer for Senate majority leaderSign up for the Breaking News US emailPerhaps you saw this ad from Scott Colom, w",
-     "image": "https://i.guim.co.uk/img/media/d151820dd96f644a510e876cd48686056cafc4e2/689_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2d8e96acae31bb7b5c0561284485e542"
-    },
-    {
-     "title": "Australian footballers will not be charged after hotel incident, police say",
-     "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T03:02:54+00:00",
-     "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg"
-    },
-    {
-     "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-     "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-     "source": "The Guardian",
-     "published": "2026-11-13T03:02:06+00:00",
-     "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basisThe hunt is on for a new Nvidia CEO. It comes after a whirlwind week,",
-     "image": "https://i.guim.co.uk/img/media/16a9e0aed91c3b4022e42015b6599e223f5d81ab/0_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=ee231f477f9f6916b617e58d71aa04d5"
-    },
-    {
-     "title": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong \u2013 podcast",
-     "url": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
-     "source": "The Guardian",
-     "published": "2026-11-13T03:00:06+00:00",
-     "summary": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments an",
-     "image": "https://i.guim.co.uk/img/media/2f692a0889fecf071b874a4533743ccc5fa34564/409_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=352aaca4dea16d907e591e9bfc88a049"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T04:30:10.233150+00:00",
+   "fetched_at": "2026-11-13T05:00:13.926862+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Talarico appeals to Trump\u2019s legacy in bid for bipartisan reforms",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T04:36:45+00:00",
+     "summary": "Texas Democrat Senator-elect James Talarico has urged his party to work with President Trump.",
+     "image": ""
+    },
+    {
+     "title": "Who is US Senator Chris Van Hollen?",
+     "url": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T04:28:45+00:00",
+     "summary": "Van Hollen is known for his anti-war positions and championing progressive causes.",
+     "image": ""
+    },
     {
      "title": "US envoys shuttle between Putin and Zelenskyy",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
@@ -202,29 +218,37 @@
      "published": "2026-11-13T02:59:30+00:00",
      "summary": "Finland and Norway Tighten Restrictions on Russian Athletes&nbsp;&nbsp;Kyiv Post",
      "image": ""
-    },
-    {
-     "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQk5HZ2otLXgxVjM2Y2t3MVVGZllBYWlRUTBIYjJZb3FGcW15b0g1ZUlfR0FQT2NTZGhUcFpGR1JYczNaT3hucW91SE92U21TMW9lZEtkdUVTQm1hYUx1WmFJYmFzODdaUXFRSjV1aXZ5VzBRYzhrcHhvdTBMNVF2V1ZPTVhoWVN1dmdWRUUydWFFQi1mblE3a2dhN3ItSHhIWkNKSm1uMjVhS09NbW9na0VR0gG3AUFVX3lxTFBZTDVsS0F3WXJrQ1VlTDd1dUgzWC03ZlFSQjdSMzUyNG9JUzhzNW8wbmc2YXBiM1ZXbjlLa2NZc3VTTWtKY09QeHNOWHlFQl9mbVp2aFFId1JtdEFwb1N1WWc2c1VqYTJaX0U4ZTNjV1d4SUJJRW9WckF0Mm1hUVFQWENJS0xiYUNOTnRGdkk3WkRSZVJRUWxrRHlzN0JIX25ybzVCNk5ob2FjWEpobHJBblJabzhjdw?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T02:38:46+00:00",
-     "summary": "Finland detects strike on Russian warship as Zelenskyy meets US envoys&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
-     "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
-     "source": "The Guardian",
-     "published": "2026-11-13T02:30:07+00:00",
-     "summary": "Maryland Democrat challenges party leader after midterms sweep, saying: \u2018The American people called for change\u2019Chris Van Hollen, the Democratic senator of Maryland, announced on Th",
-     "image": "https://i.guim.co.uk/img/media/bd5948d3a86dcb725370ac7b2860e4a9b940c3e8/305_0_6133_4910/master/6133.jpg?width=140&quality=85&auto=format&fit=max&s=c54f3e3e2af0fe12644ef1779223cf30"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T04:30:10.233153+00:00",
+   "fetched_at": "2026-11-13T05:00:13.926865+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018Looks like we\u2019ll have to talk to people\u2019: Australia sent back to time before email with major Microsoft outage",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+     "source": "The Guardian",
+     "published": "2026-11-13T04:40:14+00:00",
+     "summary": "Government services and schools impacted by Outlook and Teams issue as company says fix not \u2018taking as expected\u2019Microsoft begins restoring services as global outage affects Outlook",
+     "image": "https://i.guim.co.uk/img/media/f0ae4d035807e736dec6925a910e633298856938/354_12_2900_2321/master/2900.jpg?width=140&quality=85&auto=format&fit=max&s=b58ddccfb92d65c3df2d33ed079fedfa"
+    },
+    {
+     "title": "Nvidia\u2019s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports \u2013 live",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T04:36:24+00:00",
+     "summary": "Huang\u2019s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spyFull report: Jensen Huang",
+     "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682"
+    },
+    {
+     "title": "JKT tops 50% in Alaska governor\u2019s race as Peltola extends Senate lead",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdEVQWklvTk9YZHdxMTF2eUdBSnpCNzk4MENqenFLWXRQREpub2tnZXI0M1VsS1luM24zTERRQzVjd1k3dno2dWZMMkhyWEkzbFpJdmg0ZWI1eEo0TzZ6UXduVG1nb2djY3huZmFycmhkWWwxMzFhbE1tUVZHdEJkY1NYNV8zRUNCZlc4RW1zZGpOMnJCUVZoRFZWeDNqeHBjcFBMT25PSTJlSExmYXlYTTJVbjBPUU51cXZzZEYwb2FFYmh6aUE?oc=5",
+     "source": "Alaska Public Media",
+     "published": "2026-11-13T04:21:00+00:00",
+     "summary": "JKT tops 50% in Alaska governor\u2019s race as Peltola extends Senate lead&nbsp;&nbsp;Alaska Public Media",
+     "image": ""
+    },
     {
      "title": "Minister\u2019s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
      "url": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
@@ -232,14 +256,6 @@
      "published": "2026-11-13T04:18:06+00:00",
      "summary": "Royal commission also hears from construction company employee who says workers were \u2018fearful\u2019 of unionGet our breaking news email, free app or daily news podcastA major contractor",
      "image": "https://i.guim.co.uk/img/media/c44ea5bfebb371ea898e153db1ec41d0573374c8/0_0_5673_4541/master/5673.jpg?width=140&quality=85&auto=format&fit=max&s=de76ae79a71100d5b23b1d4fb226cf24"
-    },
-    {
-     "title": "Nvidia\u2019s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports \u2013 live",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T04:15:57+00:00",
-     "summary": "Huang\u2019s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spyFull report: Jensen Huang",
-     "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682"
     },
     {
      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -304,34 +320,18 @@
      "published": "2026-11-13T02:51:50+00:00",
      "summary": "Oklahomans rejected SQ 847, not the need for housing relief&nbsp;&nbsp;Oklahoma Policy Institute",
      "image": ""
-    },
-    {
-     "title": "Chris Van Hollen launches bid to lead Democrats in US Senate",
-     "url": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T02:42:41+00:00",
-     "summary": "Van Hollen&#039;s leadership drive follows Democratic sweeps in elections and challenges veteran leader Schumer.",
-     "image": ""
-    },
-    {
-     "title": "Republican Paul LePage wins House race in Maine\u2019s 2nd District",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMkYzMzd0bm1GRUlpQWN6TVB4VE5COWtsdEhCZ0NDdmtyNXI3VnZxSmthU0wxemxXS2ZvS242cEJTaUFwRGhnbGg2UzdVSHpMOUJXbVV4UWZBMmtabl83NGNQLThYTEl0b19NSUxVVk51RW5BcmR4UUhPYll0SFBDbjktMDRaOUJDeGpkdU1ieGhLZnI2MWFBdGg1c3duWVVmdFlCN0piVTYzTG1UOHh0Sg?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-13T02:36:35+00:00",
-     "summary": "Republican Paul LePage wins House race in Maine\u2019s 2nd District&nbsp;&nbsp;The Washington Post",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T04:30:10.233155+00:00",
+   "fetched_at": "2026-11-13T05:00:13.926866+00:00",
    "stale": false,
    "items": [
     {
      "title": "Nvidia\u2019s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports \u2013 live",
      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
      "source": "The Guardian",
-     "published": "2026-11-13T04:15:57+00:00",
+     "published": "2026-11-13T04:36:24+00:00",
      "summary": "Huang\u2019s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spyFull report: Jensen Huang",
      "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682"
     },
