@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-13T23:03:47.804218+00:00",
+ "generated_at": "2026-11-13T23:33:52.315224+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T23:03:47.804185+00:00",
+   "fetched_at": "2026-11-13T23:33:52.315196+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "source": "The Guardian",
+     "published": "2026-11-13T23:24:05+00:00",
+     "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump\u2019s homeland security secretary says \u2018no indication as of yet\u2019 of cyberattackFAA issues nati",
+     "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
+    },
+    {
+     "title": "New Orleans boat crash live: all passengers and crew found alive in \u2018miracle on the Mississippi\u2019",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T23:03:17+00:00",
+     "summary": "New Orleans mayor says 32 people are being treated for minor injuries after ship narrowly missed striking a major bridgeTanker collides with cruise ship on Mississippi River in New",
+     "image": "https://i.guim.co.uk/img/media/c8e77aee359cc4c5de7c6aaa1f2da566b12be4bd/211_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=3f89d09a3547d4763a9dd6b7e03b920e"
+    },
+    {
+     "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+     "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+     "source": "The Guardian",
+     "published": "2026-11-13T23:01:06+00:00",
+     "summary": "Transportation secretary said stoppage is due to \u2018communication issue\u2019 and homeland security says there\u2019s no indication of \u2018nefarious attack\u2019Flights grounded at all US airports due",
+     "image": "https://i.guim.co.uk/img/media/e0ab041b575c8eedc802a6fc41aa64352628fae1/0_0_3024_2420/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=ba8fdc5781587a131e79485a0c361fae"
+    },
     {
      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
@@ -14,44 +38,28 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg"
     },
     {
-     "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-     "source": "The Guardian",
-     "published": "2026-11-13T22:56:43+00:00",
-     "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump\u2019s homeland security secretary says \u2018no indication as of yet\u2019 of cyberattackFAA issues nati",
-     "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
-    },
-    {
-     "title": "New Orleans boat crash live: all passengers and crew found alive in \u2018miracle on the Mississippi\u2019",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T22:53:18+00:00",
-     "summary": "New Orleans mayor says 32 people are being treated for minor injuries after ship narrowly missed striking a major bridgeTanker collides with cruise ship on Mississippi River in New",
-     "image": "https://i.guim.co.uk/img/media/c8e77aee359cc4c5de7c6aaa1f2da566b12be4bd/211_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=3f89d09a3547d4763a9dd6b7e03b920e"
+     "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+     "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T22:47:16+00:00",
+     "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
+     "image": ""
     },
     {
      "title": "Eisenkot accuses Netanyahu of \u2018racist\u2019 campaign against Israel\u2019s Arab minority",
      "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
      "source": "The Guardian",
      "published": "2026-11-13T22:36:38+00:00",
-     "summary": "Statement a rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab IsraelisIsraeli prime ministerial hopeful Gadi Eisenkot accused caretaker ",
+     "summary": "Statement is rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab IsraelisIsraeli prime ministerial hopeful Gadi Eisenkot accused caretaker",
      "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf"
     },
     {
-     "title": "US air force responds to suspected drone activity at RAF Lakenheath",
+     "title": "US Air Force responds to suspected drone activity at RAF Lakenheath",
      "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
      "source": "The Guardian",
      "published": "2026-11-13T22:31:05+00:00",
-     "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US air force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
+     "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US Air Force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
      "image": "https://i.guim.co.uk/img/media/a48343859349310a22c156f4bd8b222fbebabbf3/970_0_4879_3903/master/4879.jpg?width=140&quality=85&auto=format&fit=max&s=9b539226855b0f6819e574ce7da82ee2"
-    },
-    {
-     "title": "Nationwide FAA ground stop: nearly 7,000 flights delayed or canceled at airports across the US",
-     "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-     "source": "The Guardian",
-     "published": "2026-11-13T22:22:51+00:00",
-     "summary": "Transportation secretary said stoppage is due to \u2018communication issue\u2019 and homeland security says there\u2019s no indication of \u2018nefarious attack\u2019Flights grounded at all US airports due",
-     "image": "https://i.guim.co.uk/img/media/e0ab041b575c8eedc802a6fc41aa64352628fae1/0_0_3024_2420/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=ba8fdc5781587a131e79485a0c361fae"
     },
     {
      "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
@@ -108,35 +116,43 @@
      "published": "2026-11-13T21:34:14+00:00",
      "summary": "Maryland senator\u2019s bid against Chuck Schumer for leadership could decide direction of the Democratic partyUS politics live \u2013 latest updatesEver since Donald Trump returned to the W",
      "image": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=140&quality=85&auto=format&fit=max&s=6492bacf627eef1865b546aceb5e63b2"
-    },
-    {
-     "title": "FAA grounds US flights nationwide after \u2018communication issue\u2019",
-     "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T21:32:08+00:00",
-     "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is &#039;investigating the issue&#039;.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T23:03:47.804201+00:00",
+   "fetched_at": "2026-11-13T23:33:52.315209+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 14, 2026 from Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jWmdtemhEMjh0MS1Qc0RCUE5HVlNTV1hyRjVCWVRkeEZ1ZDhDWk1kYjViejhBQVRTczZTcjFzWFkyMHN5WEZNY193dlpFUQ?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-13T23:12:06+00:00",
+     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 14, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
+    {
+     "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXZ5el9iR2VOdWd1dVNVX00zWkdWM01yQkk4WkxZZmtrNUNxUVZIQ3E0aHdrZ0NmMWlsclN0ejlhaHNvMWV3OWVBWXI4aF9aRzhPOW5pNTUwdHJNdWFSclFQckhJUDFYMXBpWDM4QjhsQ00wazRta0FVS2F3NDIwSWVBVjg5SjA?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-13T22:47:13+00:00",
+     "summary": "Europe Agrees on a Team to Represent It in Talks With Russia&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
     {
      "title": "Eisenkot accuses Netanyahu of \u2018racist\u2019 campaign against Israel\u2019s Arab minority",
      "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
      "source": "The Guardian",
      "published": "2026-11-13T22:36:38+00:00",
-     "summary": "Statement a rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab IsraelisIsraeli prime ministerial hopeful Gadi Eisenkot accused caretaker ",
+     "summary": "Statement is rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab IsraelisIsraeli prime ministerial hopeful Gadi Eisenkot accused caretaker",
      "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf"
     },
     {
-     "title": "US air force responds to suspected drone activity at RAF Lakenheath",
+     "title": "US Air Force responds to suspected drone activity at RAF Lakenheath",
      "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
      "source": "The Guardian",
      "published": "2026-11-13T22:31:05+00:00",
-     "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US air force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
+     "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US Air Force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
      "image": "https://i.guim.co.uk/img/media/a48343859349310a22c156f4bd8b222fbebabbf3/970_0_4879_3903/master/4879.jpg?width=140&quality=85&auto=format&fit=max&s=9b539226855b0f6819e574ce7da82ee2"
     },
     {
@@ -202,29 +218,29 @@
      "published": "2026-11-13T20:41:35+00:00",
      "summary": "Europe Must Step Up to Settle the Russia-Ukraine War&nbsp;&nbsp;Council on Foreign Relations",
      "image": ""
-    },
-    {
-     "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-13T20:05:56+00:00",
-     "summary": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T19:53:57+00:00",
-     "summary": "Scott Bessent suggests Howard Lutnick\u2019s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T23:03:47.804206+00:00",
+   "fetched_at": "2026-11-13T23:33:52.315213+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Anchoring Maternal Mental Health in Obstetric Care: Key Takeaways from New York\u2019s Historic Hearing",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUp0Y2ExR2VaNzdyQTZBaUszbV9ieVBfSXc5NTVENDBGRXNoTlNSWi1UZXdVMTN3YjNwdHhtRzFBZ1BWdHZXVHpxRDAzTmFNejI5NkhabkstWDBBN25qU2llbmNDNkRfRkhEQm9NeC0yeWZXc3JBZVdIbWZVSGdLSlpKT1dkUkhPT1VuV0xLMXdqNkV3X0FKeUZzOVFpWDNzRVpvQ0thelh5T25VMjk5MzltQjdXbkdCMW4xYXJxTTZYcjA?oc=5",
+     "source": "Policy Center for Maternal Mental Health",
+     "published": "2026-11-13T23:14:55+00:00",
+     "summary": "Anchoring Maternal Mental Health in Obstetric Care: Key Takeaways from New York\u2019s Historic Hearing&nbsp;&nbsp;Policy Center for Maternal Mental Health",
+     "image": ""
+    },
+    {
+     "title": "Column: Election interference didn\u2019t simply disappear on its own",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2dBY0pVbGtNVFlRX2FjR2F6SVRRQk1JeFp0RTdnSmFkbnpvYTRBWTNSUkxNMElvRG9feFR3VVhVQTd2M0Z1NW96Vnd4XzJsWFZYOXR0VHNHRWJmaFd5Ylc5eTVkdVAwNkFTV2JlODllMWpSaHFWZ2V6Qm1KNTB0OVNLRFNqTk9RSXNFWVYyMURUZ0EtcnBHT3lfR0tNeEV6YXMxMg?oc=5",
+     "source": "The Virginian-Pilot",
+     "published": "2026-11-13T23:07:02+00:00",
+     "summary": "Column: Election interference didn\u2019t simply disappear on its own&nbsp;&nbsp;The Virginian-Pilot",
+     "image": ""
+    },
     {
      "title": "From Protections to Restrictions: State Immigration Policy Trends in 2026",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVExuMFpNRTBRMXRwbk1yTTljWEdsNVdMRzVhcHZnczN6RnlFV01TYnB2Nkx6ekxBT2QtZlFqWXFRbnJBWDRPajlZemtwVnZneFN1Z1o0ODNhR2xyMXlPYnU4SGwweGswRnhXbWV6X0wwd2l3cFNzblVtdWE1U2FjS0NaeVo3VDdVTTRxc0FkbDEwQQ?oc=5",
@@ -304,27 +320,11 @@
      "published": "2026-11-13T22:17:50+00:00",
      "summary": "Election Reckonings: Israel, America and Unfolding Pathways&nbsp;&nbsp;Global Atlanta",
      "image": ""
-    },
-    {
-     "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
-     "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
-     "source": "The Guardian",
-     "published": "2026-11-13T22:12:54+00:00",
-     "summary": "Anti-corruption agency carried out searches as part of investigation into Orb\u00e1n-era minister accused of taking bribesHungary\u2019s anti-corruption agency said on Friday it had seized c",
-     "image": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=140&quality=85&auto=format&fit=max&s=983e1129eb4afed3c581d7bf7308ca4c"
-    },
-    {
-     "title": "Changes coming to Springfield City Hall after November election",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2k5NU1TSGVBQXhQRWlrV3dPQVVfbHU1c3U0X1pyNVNFZGVMOVJQS3ZOcEpLSDVaQlBxbWVqQWNQUnJmUnhHaWNzeHc3ZEpNT1NsSEZXbWtRalA3REw1R1pNRWtUYjRqRl9XWGk2SkZqV0U4NTlKeTZqUUhrckZRMnpMbTdwekhFZEpmZi1QSi01OW5EN214MnFNbkNBMGh1NzNiX2V3MjNjcmMtTHlFSF9wbGV5dw?oc=5",
-     "source": "NPR for Oregonians",
-     "published": "2026-11-13T22:12:00+00:00",
-     "summary": "Changes coming to Springfield City Hall after November election&nbsp;&nbsp;NPR for Oregonians",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T23:03:47.804208+00:00",
+   "fetched_at": "2026-11-13T23:33:52.315215+00:00",
    "stale": false,
    "items": [
     {
