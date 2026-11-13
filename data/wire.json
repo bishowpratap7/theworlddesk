@@ -1,17 +1,65 @@
 {
- "generated_at": "2026-11-13T21:03:24.816181+00:00",
+ "generated_at": "2026-11-13T21:33:30.204459+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T21:03:24.816152+00:00",
+   "fetched_at": "2026-11-13T21:33:30.204431+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
+     "source": "The Guardian",
+     "published": "2026-11-13T21:29:51+00:00",
+     "summary": "Maryland senator\u2019s bid against Chuck Schumer for leadership could decide direction of the Democratic partyUS politics live \u2013 latest updatesEver since Donald Trump returned to the W",
+     "image": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=140&quality=85&auto=format&fit=max&s=6492bacf627eef1865b546aceb5e63b2"
+    },
     {
      "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-13T20:57:46+00:00",
+     "published": "2026-11-13T21:25:30+00:00",
      "summary": "Maryland senator says he wants to focus on Senate\u2019s midterm mandate \u2018to answer the call with the American people\u2019Howard Lutnick under pressure over alleged lack of Nvidia actionSig",
      "image": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=126861da8808da4abe6e6d766e5fec27"
+    },
+    {
+     "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people \u2013 latest updates",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T21:23:54+00:00",
+     "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi RiverTanker collides with cruise ship on Mississippi River in New OrleansMar",
+     "image": "https://i.guim.co.uk/img/media/b1ae0fc91d5b094fbe8c34dcbd7057984449ef70/130_0_1071_857/master/1071.jpg?width=140&quality=85&auto=format&fit=max&s=2ba66c2ec5ac20c3dc00042e0a530831"
+    },
+    {
+     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-13T21:14:22+00:00",
+     "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
+    },
+    {
+     "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+     "source": "The Guardian",
+     "published": "2026-11-13T21:14:06+00:00",
+     "summary": "Large emergency response under way to rescue people from the water, with overnight cruise ship on its sideNew Orleans river collision \u2013 latest updatesA tanker collided with a river",
+     "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11"
+    },
+    {
+     "title": "Microsoft outage shakes up companies, schools and local governments across US",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+     "source": "The Guardian",
+     "published": "2026-11-13T21:13:59+00:00",
+     "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outageMicrosoft outage \u2013 live updatesThe Microsoft Outlook outage has",
+     "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40"
+    },
+    {
+     "title": "US air force responds to suspected drone activity at RAF Lakenheath",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+     "source": "The Guardian",
+     "published": "2026-11-13T21:01:40+00:00",
+     "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US air force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
+     "image": "https://i.guim.co.uk/img/media/ab658ace2df9575c78d9670f53720250178cce14/180_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bda019ad6993867b1ace45d0a4761e06"
     },
     {
      "title": "Pope Leo cheered on return to Peru city where he served as bishop",
@@ -22,28 +70,12 @@
      "image": ""
     },
     {
-     "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people \u2013 latest updates",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T20:52:22+00:00",
-     "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi RiverTanker collides with cruise ship on Mississippi River in New OrleansOff",
-     "image": "https://i.guim.co.uk/img/media/597b86e6cd5f83bb9db0936d2648b583536d8521/959_0_3843_3077/master/3843.jpg?width=140&quality=85&auto=format&fit=max&s=4db5eb416160f9d337abd0e2a443bd0d"
-    },
-    {
      "title": "Probation officers in England and Wales vote for strike action over pay and workloads",
      "url": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
      "source": "The Guardian",
      "published": "2026-11-13T20:51:01+00:00",
      "summary": "Move deals blow to government\u2019s plans to release thousands of prisoners early to tackle prison overcrowdingThe government\u2019s plans to release thousands of prisoners early were dealt",
      "image": "https://i.guim.co.uk/img/media/210975900bcd4af5d82e0f77eea4cfc10704b96f/710_0_4085_3266/master/4085.jpg?width=140&quality=85&auto=format&fit=max&s=af150b0f669ca87f4d79f2e941aff9eb"
-    },
-    {
-     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T20:49:52+00:00",
-     "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
     },
     {
      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
@@ -62,28 +94,12 @@
      "image": "https://i.guim.co.uk/img/media/d169429d7a6f7e570a871b03d7a39e581e77f265/1443_446_3976_3181/master/3976.jpg?width=140&quality=85&auto=format&fit=max&s=335abbd675f9e2a81a30d3747adce55e"
     },
     {
-     "title": "Mamdani and Trump agree to 90-day delay on new food assistance rules for corner stores",
-     "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
-     "source": "The Guardian",
-     "published": "2026-11-13T20:33:12+00:00",
-     "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to complyZohran Mamdani, the New York City mayor, has struck a deal with Donald",
-     "image": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=140&quality=85&auto=format&fit=max&s=312b2756177b7c278a3a9469fa907879"
-    },
-    {
      "title": "Australia captain Cummins denies involvement in \u2018Sandpapergate\u2019",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-13T20:32:42+00:00",
      "summary": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
      "image": ""
-    },
-    {
-     "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
-     "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-     "source": "The Guardian",
-     "published": "2026-11-13T20:31:59+00:00",
-     "summary": "Large emergency response underway to rescue people from the water, with overnight cruise ship on its sideNew Orleans river collision \u2013 latest updatesA tanker collided with an overn",
-     "image": "https://i.guim.co.uk/img/media/15e490aefffd51e4caf59503a2d86f093b1b38f4/1876_0_3786_3029/master/3786.jpg?width=140&quality=85&auto=format&fit=max&s=6fb24493211f51da56144aff9d5cf481"
     },
     {
      "title": "Pope thanks crowds on emotional return to \u2018second home\u2019 in Peru\u2019s Chiclayo",
@@ -100,36 +116,52 @@
      "published": "2026-11-13T20:18:09+00:00",
      "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
      "image": ""
-    },
-    {
-     "title": "Microsoft says services still returning amid widespread outage",
-     "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T20:16:13+00:00",
-     "summary": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
-     "image": ""
-    },
-    {
-     "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-     "url": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T20:12:34+00:00",
-     "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T21:03:24.816166+00:00",
+   "fetched_at": "2026-11-13T21:33:30.204445+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
+     "source": "The Guardian",
+     "published": "2026-11-13T21:29:51+00:00",
+     "summary": "Maryland senator\u2019s bid against Chuck Schumer for leadership could decide direction of the Democratic partyUS politics live \u2013 latest updatesEver since Donald Trump returned to the W",
+     "image": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=140&quality=85&auto=format&fit=max&s=6492bacf627eef1865b546aceb5e63b2"
+    },
     {
      "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-13T20:57:46+00:00",
+     "published": "2026-11-13T21:25:30+00:00",
      "summary": "Maryland senator says he wants to focus on Senate\u2019s midterm mandate \u2018to answer the call with the American people\u2019Howard Lutnick under pressure over alleged lack of Nvidia actionSig",
      "image": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=126861da8808da4abe6e6d766e5fec27"
+    },
+    {
+     "title": "Target of Opportunity: Ukraine Just Bombed a Russian Warship in the Baltic Sea",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1piRjQ5TTFfOFhwMkFGak54dGMtamNkaEFkenZ4amp0bXB6VGwyV3BIdzF3dHBYcTlwMDhBYTZpZUZ0V1h3ZG01TW95dWxRSF9oNTlqZDE3amxtTUMwTzBEWFN1OTJqd2Q4Z3AyMS03UlV6bGpYd09MN2ttaVdPNkVsYVJ5M2ZLVmFUQVhudUxmSnRDcXhMM3I3Z3B4R2dDRkhqMjBEb2ZGdjhUZ0poQWRKTDlQS3VH?oc=5",
+     "source": "The National Interest",
+     "published": "2026-11-13T21:18:01+00:00",
+     "summary": "Target of Opportunity: Ukraine Just Bombed a Russian Warship in the Baltic Sea&nbsp;&nbsp;The National Interest",
+     "image": ""
+    },
+    {
+     "title": "Microsoft outage shakes up companies, schools and local governments across US",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+     "source": "The Guardian",
+     "published": "2026-11-13T21:13:59+00:00",
+     "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outageMicrosoft outage \u2013 live updatesThe Microsoft Outlook outage has",
+     "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40"
+    },
+    {
+     "title": "US air force responds to suspected drone activity at RAF Lakenheath",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+     "source": "The Guardian",
+     "published": "2026-11-13T21:01:40+00:00",
+     "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US air force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
+     "image": "https://i.guim.co.uk/img/media/ab658ace2df9575c78d9670f53720250178cce14/180_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bda019ad6993867b1ace45d0a4761e06"
     },
     {
      "title": "Europe Must Step Up to Settle the Russia-Ukraine War",
@@ -138,14 +170,6 @@
      "published": "2026-11-13T20:41:35+00:00",
      "summary": "Europe Must Step Up to Settle the Russia-Ukraine War&nbsp;&nbsp;Council on Foreign Relations",
      "image": ""
-    },
-    {
-     "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-     "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-     "source": "The Guardian",
-     "published": "2026-11-13T20:08:00+00:00",
-     "summary": "Maryland senator\u2019s bid against Chuck Schumer for leadership could decide direction of the Democratic partyUS politics live \u2013 latest updatesEver since Donald Trump returned to the W",
-     "image": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=140&quality=85&auto=format&fit=max&s=6492bacf627eef1865b546aceb5e63b2"
     },
     {
      "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
@@ -164,7 +188,7 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
     },
     {
-     "title": "The Downfall of AI\u2019s \u2018Rock Star\u2019 Boss, Ukraine: Who speak for Europe? Protests & Presidents",
+     "title": "The Downfall of AI\u2019s \u2018Rock Star\u2019 Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261113-the-downfall-of-ai-s-rock-star-boss-ukraine-who-speak-for-europe-protests-presidents",
      "source": "France 24",
      "published": "2026-11-13T19:46:54+00:00",
@@ -194,37 +218,53 @@
      "published": "2026-11-13T19:36:44+00:00",
      "summary": "EU agrees on five countries to represent Europe in Ukraine peace talks&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Ukrainian doctors treating war veterans learn new methods in CT visit",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEJTQlgzUktmeUhTYkJXd25oY3VFelZSWWlxT3BfeUoxUEphRm9FY2c3by1tZ0JXd1RjRUhpbDZIVXk3NDBDZ1M3T2FsMzBMaDdMeFFnWlVKeE9vTURmdnFwRVBCQXZ2QzdpalVmNzFtbF9vLVI0amF4bC1mUGVnMXRxWXdRbWU0WFo5OUdLUnFCNkh3SzZHZ2Q5SnhwWXFQQXFWU3FXMk85M0lpMVJR?oc=5",
-     "source": "Connecticut Public",
-     "published": "2026-11-13T19:25:00+00:00",
-     "summary": "Ukrainian doctors treating war veterans learn new methods in CT visit&nbsp;&nbsp;Connecticut Public",
-     "image": ""
-    },
-    {
-     "title": "Hurry up and wait: Europe wants a place at the table, \u2018must make up its mind\u2019 over Ukraine",
-     "url": "https://www.france24.com/en/tv-shows/spotlight/20261113-hurry-up-and-wait-europe-wants-a-place-at-the-table-must-make-up-its-mind-over-ukraine",
-     "source": "France 24",
-     "published": "2026-11-13T19:03:15+00:00",
-     "summary": "Gavin Lee is pleased to welcome Alexander Titov, Lecturer in Modern European History at Queen's University Belfast and a specialist on Russia. He's joined us to discuss high-level ",
-     "image": "https://s.france24.com/media/display/7839d154-df8c-11f1-9864-5f54d898a954/w:1024/p:16x9/EN-20261113-182803-183830-CS.jpg"
-    },
-    {
-     "title": "Democratic Senate leader Schumer set to face leadership challenge",
-     "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T19:03:10+00:00",
-     "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T21:03:24.816170+00:00",
+   "fetched_at": "2026-11-13T21:33:30.204449+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-13T21:28:05+00:00",
+     "summary": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Election updates: O\u2019Donnell wins WA Supreme Court seat; Fire District 1 levy fails",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3FuX29rSE9zRmpyX184VGtxUGI1SzJTLWRZenpQYXpFa1ZZcWF3OE1NLW5JZERURWtaRDZYSnN1RkRZbzhuVnNEMlFEekhmdE41TW10RVdyZm9oWEdjVkw1RHJsN3FZdEx5RDlFV19LanJITzFVUTJPc1FsOHdUV25UaVFFTjFGVkd2c19iZmFlalEzejBoUWVoOTZkZUJZMTJFZGFZTmZNVU1Jc3c2V2NVd1lxZjlCSmFnbUMyaw?oc=5",
+     "source": "Cascadia Daily News",
+     "published": "2026-11-13T21:23:11+00:00",
+     "summary": "Election updates: O\u2019Donnell wins WA Supreme Court seat; Fire District 1 levy fails&nbsp;&nbsp;Cascadia Daily News",
+     "image": ""
+    },
+    {
+     "title": "Defense contractors gave Millions to key House Democrats",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeG83cVZHTWRCT2lwT3NVMmNHRVZ1UVVRbzUzYVN4T016MjJjN2JrcHd4SEZGdW5TSW9YTHZhNEVFM3ZqNFJKWlktbVRsYjdFM1hSUjBocVJZVHVtc2hCa0xqNTRqeFoydTg3T084TDl2ZHFhQ1ZTLURiNDlxTHNrUVFBczlnRFdQRkQ1WUxsQkgyWlBXMGF6U0p5R3FnT1VjcWh5Yy10UVl6MDZjZlBkU0dDOUljWTFIYzJ6YV9zTVpIRk52MnZ5ZDZoWlg5bmI0eGlSeXpWSQ?oc=5",
+     "source": "OpenSecrets",
+     "published": "2026-11-13T21:21:10+00:00",
+     "summary": "Defense contractors gave Millions to key House Democrats&nbsp;&nbsp;OpenSecrets",
+     "image": ""
+    },
+    {
+     "title": "Post-Midterm American Foreign Policy",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjJaQUFLTXdGMFhobUl2X19SbWYtUG5aWUdHU2lscU0tRmhPaVdZZXdNLVI3UnFubXJzV3NpYWFXc3B5QUZ3dG45Mmp0Q2RlYkVvZGVyekpHVGdDUS1HbzkwUl9IemRUUUxtUE9iMmNvWlFfN1A2cFowOGRjSVV6QWM0VE5KR3lQMjJNVVd4WQ?oc=5",
+     "source": "Hudson Institute",
+     "published": "2026-11-13T21:10:46+00:00",
+     "summary": "Post-Midterm American Foreign Policy&nbsp;&nbsp;Hudson Institute",
+     "image": ""
+    },
+    {
+     "title": "The New Congress Has a Unique Opportunity for a Sensible Approach to AI Policy",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3FTZHlYOGV1dmJtbU5uNENSN3YybDV3bENYdmREMkQ5U0M0WG5oMlRxaUt2RjZSbmpla1p6akYxSHh2dXM5dUhQRVcwSEdEZEh2YzBYS21HYnRkd2pwanZnRFo2VlFEQmJ1V1ZPc09BMUUtTWgtQ1Vaa0oxMzhQWkVqSUZMdUN1aUJFOWJ1NmZkWFU?oc=5",
+     "source": "Cato Institute",
+     "published": "2026-11-13T20:52:04+00:00",
+     "summary": "The New Congress Has a Unique Opportunity for a Sensible Approach to AI Policy&nbsp;&nbsp;Cato Institute",
+     "image": ""
+    },
     {
      "title": "Probation officers in England and Wales vote for strike action over pay and workloads",
      "url": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
@@ -234,35 +274,43 @@
      "image": "https://i.guim.co.uk/img/media/210975900bcd4af5d82e0f77eea4cfc10704b96f/710_0_4085_3266/master/4085.jpg?width=140&quality=85&auto=format&fit=max&s=af150b0f669ca87f4d79f2e941aff9eb"
     },
     {
+     "title": "Former Envoy: U.S. at a \u2018Pivotal Moment\u2019 in Foreign Policy",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFc2Z3pYUUhMbm9BbHZ5dTY1V2dmNmkzTW8xUjMxTWpaQktsUDNBZTZzcHowUjZtbU9VLWJEZllRRldMVFNmcm8zTmo5TmFUaFR1Rk1yY0NlNjFiOTE1b1RvemhBdEVRR0F0WDVlZ1E3WmYtcGV2UzRheHhvR2t1dzBTbHpuZHJBQWJ3X29R?oc=5",
+     "source": "Dartmouth",
+     "published": "2026-11-13T20:50:13+00:00",
+     "summary": "Former Envoy: U.S. at a \u2018Pivotal Moment\u2019 in Foreign Policy&nbsp;&nbsp;Dartmouth",
+     "image": ""
+    },
+    {
+     "title": "Washoe County commissioners vote to certify election results | Local News | 2news.com",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS0NYME93NHFqZXF1eXpBNVNHS05NZjQtYU1CRUQxai1QUW9fa3hFRUtYY1lHeGRRdzJMQ1A0WXpLcEdWS2ZUSWZZdk95bWdudUREUjNqRmVMOHpmZnFsX2VraWw1S1lfSUJOX1ZKT1NyRVVPcTItUDJELVk2Y1VvSWlJbmFpdkNsWE90NHZvMzhXcm1LSTZoOWxhYTFoejQyNy16Ym5RM0NQV0paNDQ0Ql9LX0RCTEhhbU5OaHpGZnJlWXpReE12ZG1lSWVnWGhCazhOelAwV3I?oc=5",
+     "source": "KTVN",
+     "published": "2026-11-13T20:49:00+00:00",
+     "summary": "Washoe County commissioners vote to certify election results | Local News | 2news.com&nbsp;&nbsp;KTVN",
+     "image": ""
+    },
+    {
+     "title": "Scott Colom\u2019s election restores my faith in the American future",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmQ2aTFXcnFJdTZKYWdfUTVXazg2R0swNkx0RU1vUkhsQVluVFo0SXZBQU5OUUFkSVAwWUl0ZFJOXzc2NGpVeWpFbnNfNjQ1NXhTZllmWGlhU0NzeXNDNWdYYUJGNzhnZzl0eVZPSUpMdkZSNkZxc2k2TDkwYXlkLWV2aFJkMnJqZHAyNGZOdlBSaHFtRlhxVmVyZmFGRGlW?oc=5",
+     "source": "Jewish Telegraphic Agency",
+     "published": "2026-11-13T20:46:10+00:00",
+     "summary": "Scott Colom\u2019s election restores my faith in the American future&nbsp;&nbsp;Jewish Telegraphic Agency",
+     "image": ""
+    },
+    {
      "title": "Republican state party chair resigns following party losses on election day",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlVmQTlyMGcwNllQZTVvOW11Vm54bGYtbDY5SjI1ZV8yWVhjN1VFM003YTZpS0c0YmpUR0d6QlF5Rmt4a1B0WmJaQV84QmVFRU1pU1VGbHJ2S09KZklXWGtvQUVVNkU0V0JaXzRTam5Wc1NtU0phTldCMmdtYmw3dmYzaFJfeTFPTG5RdktzNUY5a3BFOWNpbHdjVEYyYkYzOFE1SEswNjZnRENVTHhXeFo4elEyVXp4?oc=5",
-     "source": "WBAA",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFhTTG80QU1BX0hBNTluZlQ4eWdCUExqcURjWGhBS2tTTEFrbTJmNUxWeHhBQnlCZ3ZMTmZrQTNvSWtBaDd3Mnl3ZGtqX0p2MFhzeVFqWFJUQ05xd2ctQUo1VS0yRkkwd29ucm1XU3F1bWRIQzBwWGN5VTB6RjdWRERoYmd0REFoYU1pdlV6QjJFdVRWTVJIaWZvZGZhd3pnaWFLa1JMYU9fc213anZZYnZEYTdDclpV?oc=5",
+     "source": "WFYI",
      "published": "2026-11-13T20:44:00+00:00",
-     "summary": "Republican state party chair resigns following party losses on election day&nbsp;&nbsp;WBAA",
+     "summary": "Republican state party chair resigns following party losses on election day&nbsp;&nbsp;WFYI",
      "image": ""
     },
     {
-     "title": "Washoe County Commission approves 2026 general election vote, 3-to-2",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjlNM2ZrVkFwV0VQNU96UEpEV3htMl9pRWs5WHZ3eFdOSk1Udl9zcmFpWHRnbXJycjl3TTEya2RRbFotdm9Zc1NPTU9Hcjl1Tzl3WG90bHB3VkxYSkMwTjZVREFPTTJZS2h1clBfT0tIeUh3UFc5Q25naEJKV0tOVnFQMjVhbDQ4ZEJ1N0VlQmhFdHpDS1ZGYVF0d3Z4V3BkdkNRMlhQb3RBVnN3bnpLQmlwTGhXMFdRb2lxNWZQeEpUcXlpQUJweEF5dFhaajZSXzMzdTd4R0hDZGc?oc=5",
-     "source": "Reno Gazette Journal",
-     "published": "2026-11-13T20:40:00+00:00",
-     "summary": "Washoe County Commission approves 2026 general election vote, 3-to-2&nbsp;&nbsp;Reno Gazette Journal",
-     "image": ""
-    },
-    {
-     "title": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-13T20:39:16+00:00",
-     "summary": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "GOP Rep. Lauren Boebert loses Congressional race for re-election",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcmpiY1JQNHlMVmhvZm55ZGpxLXBKWTRqd0pBelp4ZUlFZWd6WVZkdV9SUHY2SW9PNllEUmZNbnRNME5tZ1R2V1Q3YzFZdHp2WGJkSlF5R0NtSkdReWF1LVlBaXZ1cllZdmlkNG9DbHNYRFBBdEdTMUVXSmdNX0NFdm91OWVoSTI1OFhnWmE1WmQ?oc=5",
-     "source": "KOCO",
-     "published": "2026-11-13T20:38:00+00:00",
-     "summary": "GOP Rep. Lauren Boebert loses Congressional race for re-election&nbsp;&nbsp;KOCO",
+     "title": "Lauren Boebert loses re-election bid in Colorado",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRFA3bWt3REQ2OUQwS0dDN3RDb3NVWFFIWG1BRlhvaGtjZ25pLVJmTEN6Uy1GXzcyMUdqdUJRM3JWQXRkc0c0R3NDVHcwcGNsYTlXVWZ5MnFiUGM3djFEWVlER1Bsb3RkdlFVTEo2NVczVVpHTDNyVUFqOHlzM2NDeWpYVHRCbHk5WllyT0VQYmlMRlhkZnFhQkNwQkxhZ0VaX0Q0YVpFMmxQSm5uSHlaLVJFdklIOXlWbFE?oc=5",
+     "source": "The Coloradoan",
+     "published": "2026-11-13T20:37:00+00:00",
+     "summary": "Lauren Boebert loses re-election bid in Colorado&nbsp;&nbsp;The Coloradoan",
      "image": ""
     },
     {
@@ -272,59 +320,11 @@
      "published": "2026-11-13T20:32:58+00:00",
      "summary": "Technical issues caused Oklahoma election result delays&nbsp;&nbsp;Oklahoma Voice",
      "image": ""
-    },
-    {
-     "title": "Republican Rep. Lauren Boebert will lose re-election, NBC News projects",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVmlTZWNNMmpiNGtkWnFLSVUwSW5zZ2RZWE82UkZ4SW1IWENueDBzZXdKdzV6QTFObDhSbkRRZVhWbTJFWUlmSjFacmgxMWVZVXUwcF9peFNJZ1NUSGlsQmJZNVdCcmhkbFU1NG1NNWpQY3VDTjVZRTRGWGEzX0FxNlg4R0FTaG1kbUhtQVdqaEdpSllscU1hSC15bmxEbUEyVzhPTHJzZmx2M3Z0TE0wZDAtVno5MjA?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-13T20:30:12+00:00",
-     "summary": "Republican Rep. Lauren Boebert will lose re-election, NBC News projects&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "In Case You Missed It...",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WX2JKaHhWLUVWRnVSOGMzUkxibzFfWERwaVM4UDE1ZGhJS2xlUmdOTVF4dGNLS3diTHJwZHlIZWctckdUdUs0RlA0dWdtTHEwbngzVVAxbDFBWWVmTjBLaA?oc=5",
-     "source": "Center on Budget and Policy Priorities",
-     "published": "2026-11-13T20:30:00+00:00",
-     "summary": "In Case You Missed It...&nbsp;&nbsp;Center on Budget and Policy Priorities",
-     "image": ""
-    },
-    {
-     "title": "It's election day in Utah. Here are 6 things to watch for",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nWE1jQ3pIaEVDVUtWZzRJblRPZnM3UkYzNmYzaGVGbkROS3N5amdlRDBkRWF2Y2lOaG15aFNyLXNvVXFUV00xSGdOSHhQSGFIdWhOUnlMNS0zc21ERy1oUHNWeXpweVJlVVkzVWVscmpUdWJnRUg0b0U3X3A0Zw?oc=5",
-     "source": "Utah Political Watch",
-     "published": "2026-11-13T20:29:34+00:00",
-     "summary": "It's election day in Utah. Here are 6 things to watch for&nbsp;&nbsp;Utah Political Watch",
-     "image": ""
-    },
-    {
-     "title": "Replay: Utah Election Night 2026 Results and Analysis",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSHp5T0kzN3h4d2RKcTVRVlNnNDVsMERiN0t3MU9Ba093dDhFenI2Q3lZN29xMUROdFA5eFdQMGJvTl9fR3Fnd0ZDWHota3RFMjdTTUQwWTVYbU5haHpoNENQLUNHYjZ1T0ZWYWxIc0M?oc=5",
-     "source": "Utah Political Watch",
-     "published": "2026-11-13T20:29:29+00:00",
-     "summary": "Replay: Utah Election Night 2026 Results and Analysis&nbsp;&nbsp;Utah Political Watch",
-     "image": ""
-    },
-    {
-     "title": "Jeffco to Conduct Recount of Ballot Issue 5A",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvSEt2UDJQSnI2Vm1qR2dCUElzdi15SndJS0pOM25laUsyTmZzZHkxdk9mUV9BMk1Yamw5X3RXdEFWYk56cmZmS244djBfYzk0QUpWMjF0c09BTWpPaHVR?oc=5",
-     "source": "Jefferson County",
-     "published": "2026-11-13T20:25:49+00:00",
-     "summary": "Jeffco to Conduct Recount of Ballot Issue 5A&nbsp;&nbsp;Jefferson County",
-     "image": ""
-    },
-    {
-     "title": "Board of County Commissioners certifies results of 2026 General Election",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSFVvc0hMaGpiQnhZU0pOS2pfcl9wb3NXaGJWUjdNZm9MT1pWZXRQNTRUM200NXZHSDF0akVwckVtamx6MUZXNkRtSjlJRHE2cjQ3V2hNX0sybGdOcHdrbVBXbGhqRFQ2elFGNGRUNDJBcDgwUkxLQ1EtOGN4b25xTi1oTjZBYVM1U1hKZGlFekRWRlNsRE1ZMktWYllBVnR0YnFIZmQta2JFWHZYYjlRQnJwS3VjSXlzY3FGWXo3M28?oc=5",
-     "source": "Washoe Life (.gov)",
-     "published": "2026-11-13T20:24:54+00:00",
-     "summary": "Board of County Commissioners certifies results of 2026 General Election&nbsp;&nbsp;Washoe Life (.gov)",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T21:03:24.816172+00:00",
+   "fetched_at": "2026-11-13T21:33:30.204451+00:00",
    "stale": false,
    "items": [
     {
