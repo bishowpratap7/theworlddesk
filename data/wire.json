@@ -1,17 +1,65 @@
 {
- "generated_at": "2026-11-13T17:32:32.274339+00:00",
+ "generated_at": "2026-11-13T18:02:35.770989+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T17:32:32.274308+00:00",
+   "fetched_at": "2026-11-13T18:02:35.770956+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
+     "url": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
+     "source": "France 24",
+     "published": "2026-11-13T17:46:16+00:00",
+     "summary": "FRANCE 24 hosts Albin Kurti, the prime minister of Kosovo, a country that declared its independence from Serbia back in 2008 and sees itself as part of the European family. But fou",
+     "image": "https://s.france24.com/media/display/419fc3dc-df4c-11f1-8b89-29048b396e03/w:1024/p:16x9/capture-5e8d4fca.jpg"
+    },
+    {
+     "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
+     "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
+     "source": "The Guardian",
+     "published": "2026-11-13T17:43:26+00:00",
+     "summary": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adultsDowning Street is considering whether plans to replace key disability",
+     "image": "https://i.guim.co.uk/img/media/c2b0279682d508425e716930b12babc769cd705c/1106_585_4650_3723/master/4650.jpg?width=140&quality=85&auto=format&fit=max&s=ae911deb0c8a1cca78223aca44e0a48b"
+    },
     {
      "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-13T17:17:45+00:00",
+     "published": "2026-11-13T17:43:10+00:00",
      "summary": "Treasury secretary says he was in favor \u2018for months\u2019 of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to BeijingHoward Lutnick under pressure over alleged ",
      "image": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=140&quality=85&auto=format&fit=max&s=d023067ea029630e7bca874700208189"
+    },
+    {
+     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "source": "The Guardian",
+     "published": "2026-11-13T17:41:15+00:00",
+     "summary": "Tech firm says it is \u2018deeply sorry\u2019 for disruption and has now addressed the underlying issueMicrosoft outage hits UK hospitals, GPs, schools and policeMicrosoft outage \u2013 live upda",
+     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
+    },
+    {
+     "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+     "source": "The Guardian",
+     "published": "2026-11-13T17:37:44+00:00",
+     "summary": "NHS suffering \u2018serious\u2019 and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage \u2013 live updatesVital UK services including hos",
+     "image": "https://i.guim.co.uk/img/media/2c228d770bc36da0b6ae784dc3d2be62613a6e18/210_0_2579_2065/master/2579.jpg?width=140&quality=85&auto=format&fit=max&s=564f6d76df4b85262cfd0c08d36d32eb"
+    },
+    {
+     "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
+     "url": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
+     "source": "France 24",
+     "published": "2026-11-13T17:28:54+00:00",
+     "summary": "As EU leaders meet for an AI summit in Dublin, largely overshadowed by Russia's war on Ukraine, William Hilderbrandt is pleased to welcome Fabrice Pothier, CEO of Rasmussen Global.",
+     "image": "https://s.france24.com/media/display/025bc748-df83-11f1-9f2b-f71d22e7fea9/w:1024/p:16x9/EN-20261113-130829-131531-CS.jpg"
+    },
+    {
+     "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+     "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+     "source": "The Guardian",
+     "published": "2026-11-13T17:20:32+00:00",
+     "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year highUS existing home sales hit a 16-year low in October as buye",
+     "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6"
     },
     {
      "title": "Microsoft outage shakes up companies, schools and local governments across US",
@@ -38,6 +86,14 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
     },
     {
+     "title": "The fight over Canadian steelworker jobs",
+     "url": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T17:10:43+00:00",
+     "summary": "Stelco&#039;s US owner blames Trump&#039;s tariffs for layoffs, but its support for those same tariffs has raised questions.",
+     "image": ""
+    },
+    {
      "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
      "url": "https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai",
      "source": "\u00a9 Patrick T. Fallon, AFP",
@@ -60,76 +116,36 @@
      "published": "2026-11-13T16:47:34+00:00",
      "summary": "Highway 1, or the Ring Road, connects Afghanistan's major cities. After September 11, 2001, it became a hotspot for crime and fighting, particularly between the capital Kabul and K",
      "image": "https://s.france24.com/media/display/74663f32-dea5-11f1-b60f-695cb59fade5/w:1024/p:16x9/billet-retour-EN-Afghanistan.jpg"
-    },
-    {
-     "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-     "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T16:44:56+00:00",
-     "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-     "image": ""
-    },
-    {
-     "title": "Myanmar: Junta carries out double-tap airstrikes targeting civilians",
-     "url": "https://www.france24.com/en/tv-shows/the-observers/20261113-myanmar-junta-airstrikes-civilians",
-     "source": "France 24",
-     "published": "2026-11-13T16:41:45+00:00",
-     "summary": "Numerous civilian casualties have been documented in Rakhine State amid a renewed military offensive by the junta to regain control of the area. Available evidence suggests that mi",
-     "image": "https://s.france24.com/media/display/f0ffe228-df59-11f1-ae18-3f371022a770/w:1024/p:16x9/Cover-%C3%A9mission-myanmar.png"
-    },
-    {
-     "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T16:40:31+00:00",
-     "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Europe should not walk into Russia\u2019s \u2018traps\u2019 on Ukraine talks, EU\u2019s foreign policy chief Kallas says \u2013 as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T16:39:34+00:00",
-     "summary": "This blog is now closedHungary\u2019s P\u00e9ter Magyar is also here, looking very elegant as always\u2026\u2026 but it looks like he took a slight detour on the way back to hotel last night to try an",
-     "image": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=e27b929d7f9fa32198cf68f5438f1dc5"
-    },
-    {
-     "title": "\u2018Ahead of his time\u2019: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
-     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-     "source": "The Guardian",
-     "published": "2026-11-13T16:38:27+00:00",
-     "summary": "Kurt G\u00f6del left 1,009 pages of densely written text \u2013 much of it in an obsolete shorthand \u2013 which is now said to contain hundreds of proved theoremsThe Austrian logician Kurt G\u00f6del",
-     "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=140&quality=85&auto=format&fit=max&s=e95b645a4c0a5af395dfec056a8ec751"
-    },
-    {
-     "title": "Met police launch investigation into David Walliams allegations",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
-     "source": "The Guardian",
-     "published": "2026-11-13T16:36:21+00:00",
-     "summary": "Police say allegations of sexual misconduct are separate from those made by multiple women in Guardian and ITN investigationThe Metropolitan police have announced a criminal invest",
-     "image": "https://i.guim.co.uk/img/media/a15d22f7a417f5bfb3854c995f7c67e00cd578c0/740_407_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=7ea8b24d472f22d34381c576e8e9a7f2"
-    },
-    {
-     "title": "El Ni\u00f1o fuels climate disasters: The high price of inaction",
-     "url": "https://www.france24.com/en/tv-shows/access-asia/20261113-el-ni%C3%B1o-fuels-climate-disasters-the-high-price-of-inaction",
-     "source": "France 24",
-     "published": "2026-11-13T16:35:47+00:00",
-     "summary": "2026 is set to be one of the hottest years on record, with El Ni\u00f1o worsening the impact of extreme weather events. With COP31 underway in Turkey, FRANCE 24 speaks with the UNDP's c",
-     "image": "https://s.france24.com/media/display/ec03b09c-df77-11f1-b188-695cb59fade5/w:1024/p:16x9/EN-NW-PKG-ASIA-S-YEAR-OF-NATURAL-DISASTERS-BOYLE-Emily.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T17:32:32.274323+00:00",
+   "fetched_at": "2026-11-13T18:02:35.770972+00:00",
    "stale": false,
    "items": [
     {
      "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-13T17:17:45+00:00",
+     "published": "2026-11-13T17:43:10+00:00",
      "summary": "Treasury secretary says he was in favor \u2018for months\u2019 of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to BeijingHoward Lutnick under pressure over alleged ",
      "image": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=140&quality=85&auto=format&fit=max&s=d023067ea029630e7bca874700208189"
+    },
+    {
+     "title": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ3RfZkRObmNOQ0I3UFpFYnlOWDhhVEtRSGNJR0hFeXA2Q2dUa2F3N2NNc2ZUQS1nMGRQazd3aHhtaHZpRHZ5TmQtTnJkTnBfblFESXVOX2VXay1Ra2IxeXQ4Qy1BT1VMX1ZsTDgwanJJUmNPRkVrYU1FXzJYRnVxOUlhVVJzdE15X2M1YzVxQngzazllckRrMjdDRzEyZEtieUd0a2pQR29KNFJ2b2tEZVVSMmN5Um9fbGYtWHhmbVlOTXc0N0RWa0Q0N0M4ZU53NnMzVF80VQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-13T17:38:49+00:00",
+     "summary": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
+     "url": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
+     "source": "France 24",
+     "published": "2026-11-13T17:28:54+00:00",
+     "summary": "As EU leaders meet for an AI summit in Dublin, largely overshadowed by Russia's war on Ukraine, William Hilderbrandt is pleased to welcome Fabrice Pothier, CEO of Rasmussen Global.",
+     "image": "https://s.france24.com/media/display/025bc748-df83-11f1-9f2b-f71d22e7fea9/w:1024/p:16x9/EN-20261113-130829-131531-CS.jpg"
     },
     {
      "title": "Microsoft outage shakes up companies, schools and local governments across US",
@@ -164,6 +180,14 @@
      "image": ""
     },
     {
+     "title": "Europe pushes for a seat at Ukraine peace talks\u200b\u200c but lacks a unified voice",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2NoaUhnWjZpUXBoVWJSa0VvcUx6LVg1dHhQWEpHRzJGdmlsdzJ5YXJPZGNIQXVUNXd1Ty02RnNvUzlmamI5bnRLc2RET2R5Nnk3T2JlTm8weWhHWUlacC14M0ZlcmtOTm1tZ3ZuS3V4MXNDV3A3ZENhWGVZTlZFTElIeHlScDlmUXdWNXNRWk4tZ1NMZmhvbzFwbHFhMVBMdVRXcWZJZDY?oc=5",
+     "source": "WRAL",
+     "published": "2026-11-13T16:49:18+00:00",
+     "summary": "Europe pushes for a seat at Ukraine peace talks\u200b\u200c but lacks a unified voice&nbsp;&nbsp;WRAL",
+     "image": ""
+    },
+    {
      "title": "Myanmar: Junta carries out double-tap airstrikes targeting civilians",
      "url": "https://www.france24.com/en/tv-shows/the-observers/20261113-myanmar-junta-airstrikes-civilians",
      "source": "France 24",
@@ -173,11 +197,11 @@
     },
     {
      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GajB0U2ZnbUFUUDFTS1pOdTljWThUMGZCM0tHMTJuV3ZWUm94LXRQcTBxUlc4OWNGb2ZlUHNLdTNFR0xUeWxQYzUtbnotS1ktRlpCdVJxWnE3Vkk?oc=5",
+     "source": "BBC",
      "published": "2026-11-13T16:40:31+00:00",
-     "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg"
+     "summary": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine&nbsp;&nbsp;BBC",
+     "image": ""
     },
     {
      "title": "Europe should not walk into Russia\u2019s \u2018traps\u2019 on Ukraine talks, EU\u2019s foreign policy chief Kallas says \u2013 as it happened",
@@ -194,37 +218,53 @@
      "published": "2026-11-13T16:34:24+00:00",
      "summary": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
      "image": ""
-    },
-    {
-     "title": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNOd293aEcwZy16alMzNy1xTmNzZ19oa3JPNU5jREhhaDBMOUV5VFpKZUNpdW54S21MaGtJLVEyYzdCVFQwVThaaUNpeUFXT0M4cUZNeU1qZThSa0NJZE1pU2lfeEtTR3ZBWnZPRzRvOWw3NEZZTkpSb3Yyenp1S2xTai11X3RmblE?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-13T16:33:17+00:00",
-     "summary": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "487 Belarusians died in Ukraine war, investigators find",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmZDc1loS181Z2J3YTF1d1NmWnJRQm14eVRaakVWallKM0dZUTRkSFBFVXZNNkVoTk1iZFVPZE9MaWF4VVg5MXVNRTRJLUZBeVc0RUtodkNmd3RZeVB5NEZWVURRdmZxU1F5UmRKN3BJaXR3VEc4OVpZelZtN2xreFFHM1NCcjN0a1ZhOA?oc=5",
-     "source": "Belsat",
-     "published": "2026-11-13T16:33:00+00:00",
-     "summary": "487 Belarusians died in Ukraine war, investigators find&nbsp;&nbsp;Belsat",
-     "image": ""
-    },
-    {
-     "title": "Ceasefire before peace agreement, says EU\u2019s Kallas",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2RDV3c4b1kteGljWnY0VHlnZGstOUZ0OFBoUmVQMFVCb3o4YUxEREY0M3NMblIxLWNSNzFLQS1OMzBPSXEyTWRIclQwWHhMMTROeFlHZUhGUlJlVXNEQjdqVXBDMXluMENQcTVLMFF3MUE0bXhMd3RZTlYxb3Vwand0eXBWRE5BbFZGR2Ywc3ppNDFZRnFaZg?oc=5",
-     "source": "TVP World",
-     "published": "2026-11-13T16:30:00+00:00",
-     "summary": "Ceasefire before peace agreement, says EU\u2019s Kallas&nbsp;&nbsp;TVP World",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T17:32:32.274327+00:00",
+   "fetched_at": "2026-11-13T18:02:35.770976+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Mississippi Secretary of State crashes out over Experian voter data after election fiasco",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT2ItcFl6UXZkRHFlM0dKMzJENC1wWHBhaDE2NFFoeXVoTFNrMmR3cXVrQUtHVkZqejc5N1ZxWnNJYmpVbE1iOFI0Y25ITVgwZVdfYWZ5dEowSUNDd05yNHBqakNST0hlcnhLM2VvbWVId3JkektwSGZwdkdnUUNuQUQ0OHphaW5PZi1kN1ZCVElJV2ItZE1HYmpnQjVQaERMVHk2MkxWbUw2MzB2M2RGSVpleDNIWXREcFVYVGZ4SUZ4Y2g4LWlXNE9RcnlYRXc?oc=5",
+     "source": "Democracy Docket",
+     "published": "2026-11-13T17:57:38+00:00",
+     "summary": "Mississippi Secretary of State crashes out over Experian voter data after election fiasco&nbsp;&nbsp;Democracy Docket",
+     "image": ""
+    },
+    {
+     "title": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
+     "url": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
+     "source": "France 24",
+     "published": "2026-11-13T17:46:16+00:00",
+     "summary": "FRANCE 24 hosts Albin Kurti, the prime minister of Kosovo, a country that declared its independence from Serbia back in 2008 and sees itself as part of the European family. But fou",
+     "image": "https://s.france24.com/media/display/419fc3dc-df4c-11f1-8b89-29048b396e03/w:1024/p:16x9/capture-5e8d4fca.jpg"
+    },
+    {
+     "title": "What the 2026 election could mean for Agriculture",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVAtYVV4amtSRXFwREU5Z3dHWXBUdEtvdjVFU0pyRUpONEhyUWQ3eDBNbmVodnR0X05wTm5Mam54YmVSSkU0Q1d0RVVGWHRpNUhEYTZhSFA2MTRXV250dmZocUtuYmRIWC1MU2RHQzd3RV9mR29lNGJCT1hZT1g4QkRiVEFLOUlIUmlrRklCVTc?oc=5",
+     "source": "Brownfield Ag News",
+     "published": "2026-11-13T17:46:11+00:00",
+     "summary": "What the 2026 election could mean for Agriculture&nbsp;&nbsp;Brownfield Ag News",
+     "image": ""
+    },
+    {
+     "title": "AASHTO Comments on FTA Grant Policy Update",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXR1aWtoQTJCV3k3NHIxbDJySzlSV085Wkl5dnltYm10ZEFTNHNxQnJyN041Z0doTEVhN1hvbTRVR3hYcHVjbU5tUWVtSmdheWhWQkQtSkFKeEkxOVV0aXQ1Q19SOWhBUVV1X3hhWXlFamhReks2bUV4QXpHOTRWTUd6NTZ2OWxDMVRONQ?oc=5",
+     "source": "AASHTO Journal",
+     "published": "2026-11-13T17:38:15+00:00",
+     "summary": "AASHTO Comments on FTA Grant Policy Update&nbsp;&nbsp;AASHTO Journal",
+     "image": ""
+    },
+    {
+     "title": "Polluting Industries Swarm COP31, Outnumber Climate-Vulnerable Nations",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xZWtvUFhnVWhjUURZR2lUVDFzR1k4OFVQV3BPbmtLVmx4TkxyYUpoRHZYdUEza2huS2JBcTcyTzlnVkw1MzlPN2dib29hRGhyeUNOV2IxRW9USmdQX1pPdTBENFlDSU1rZmw1Zm9TN3ByMi1m?oc=5",
+     "source": "Health Policy Watch",
+     "published": "2026-11-13T17:36:47+00:00",
+     "summary": "Polluting Industries Swarm COP31, Outnumber Climate-Vulnerable Nations&nbsp;&nbsp;Health Policy Watch",
+     "image": ""
+    },
     {
      "title": "Mississippi\u2019s Historic Senate Election Was a Victory Generations in the Making",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWFNmSzZXM2psREdBYUFOZ3NZZ0c0bmdPN0pFRDZ0MHowck9fdnY3MVRWeHg0bXUyZVA3a1hwTFVIRVo1TTN4N2pQcVhFaW9hVFN0Q0M3UmljUXlRRE5EcndwMVN2NnE0WEZad3dsSG1zMnlIRm53MU1kSUNpY1lUcUNIeG9XTjFTX1J2Z1dzbmtaQlZTR091MDlFU04?oc=5",
@@ -234,11 +274,27 @@
      "image": ""
     },
     {
+     "title": "JoCo reports turnout in Nov. 3 election was third highest ever",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDJ5MDFOR3FQakMwTjU1UTlBWEIwNld6TzBTd2o2ZXQtWmk4djkyUTB1YjAxWnNMbFY5MDdLTUttdlRlLXdwdGdiYzl3ejRxYlhrTEhCOFlCbjZibzZHcVdjZThRSlVEeUJabzNTaEpncFFfWFBfYmpjQVhnUFZrZ1p5dXZCeDRMa2NTTFpB?oc=5",
+     "source": "Johnson County Post",
+     "published": "2026-11-13T17:30:04+00:00",
+     "summary": "JoCo reports turnout in Nov. 3 election was third highest ever&nbsp;&nbsp;Johnson County Post",
+     "image": ""
+    },
+    {
      "title": "The Blue Wave hits the Cape Fear: Recapping the 2026 general election results",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZG5WOXdUeFZBNXRVbm4xS3Jqd3JGbV9OUWRRMUQ1a3llNnhpZ20yUFAzQXU3RVlWNVpTUjdTZW00YXMwLXdtSDEtcFJHZEkxOFVzaWxybkFuUlBmZVhaR1J3UGRmLW15S0xwQlJqZkhvckpsZXdrLXBqc2tWSDR1cjR1SDV6M3BXeExZRkpUY2QtTDIzX0psYzdMeGp0WC1zc2RKX19BWUw2RGFDNnBmT0FrLTdKa3NNY2h4REJtTUtjOWJl?oc=5",
      "source": "WHQR",
      "published": "2026-11-13T17:21:00+00:00",
      "summary": "The Blue Wave hits the Cape Fear: Recapping the 2026 general election results&nbsp;&nbsp;WHQR",
+     "image": ""
+    },
+    {
+     "title": "Counted Out Before Election Day, Blue Dogs Return With Ranks More Than Doubled",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdTgwVi1vVWhqMVJLZXBVc2lmT3MzcjIxbTVKNGJqUC1qY2YzOXJHWkF5d2d1SkFQdGcxMUcydHZOTE53TlRWbXo3QjVnOHhxNmJVdXRwZEtKaHJIRGtkQkdaYjdSQmFpM29sMlZROEctYkMzRUVPbVdSNllkdFo0ZDVGRy1Ta2duNEQ5MGVMVDBNVzduSmxjSTl4b1p0SjdOM3dweGtseFpHRFk4b2FrTTBNeE1ZZw?oc=5",
+     "source": "The Well News",
+     "published": "2026-11-13T17:14:35+00:00",
+     "summary": "Counted Out Before Election Day, Blue Dogs Return With Ranks More Than Doubled&nbsp;&nbsp;The Well News",
      "image": ""
     },
     {
@@ -264,69 +320,21 @@
      "published": "2026-11-13T17:01:05+00:00",
      "summary": "Certified election results confirm four runoffs in Cross County&nbsp;&nbsp;Wynne Progress",
      "image": ""
-    },
-    {
-     "title": "The Trump administration\u2019s voter roll crusade could continue",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDJzajFNX1dsTzZxeXpFWi1pdWtBZktpMWxEMWlLUks0VHpWWHp6aGdKb2kyUEZNYkNaVUlkQkxBMlhvc010VTNzNWVjanVtUzB0MV84cElNYWs3YTZ6ei1WMzFNaDJpVTJ2eXI0cTZmYlY0aU5SeDVWWDNERnpaang0aG9sMjQ?oc=5",
-     "source": "NPR",
-     "published": "2026-11-13T17:00:00+00:00",
-     "summary": "The Trump administration\u2019s voter roll crusade could continue&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "North Carolina election recounts: Deadlines, rules and what happens next",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREhiOUQxU0pKSkExRl9wcFg5ZTRuSWdHOTBWQ2NDNC03TG1jSFF0aGViaXpMdEN2SFN6UUVkVFVDR2JJUEU0WmN4QWM3c1Y4WXRIRW1QaWktVGdpUUl2S0lOcTFVWWRrdVRMV1FYLXlwM0dudFZwSnJZeTBXUV94dFVTdl9RQktydzZhcmdkdzAyTkdEaUh0ZFpRWXE2RDRt0gG0AUFVX3lxTFBQRVJyb19VSWhtNGdQamo3cklMcGJ3MVNvUm5hUElBRElTdzZGZzZ0S0VneG5BTnp1M3poMGpkbDA2aFRmekpRWVA5eEptOEhSeWlBX1p4UXV1SHV6Z0pBa2xDRHZNN3dlRkY3VnRkSzhJUHhRMzVwYURhQ3cydEE3RmxPOF9CUEpHSGVlRXdheVRDRTFjR1RXemd3ODNVdVg3cENRRWlkcVRzRjc3dVlhazZNYQ?oc=5",
-     "source": "WECT",
-     "published": "2026-11-13T17:00:00+00:00",
-     "summary": "North Carolina election recounts: Deadlines, rules and what happens next&nbsp;&nbsp;WECT",
-     "image": ""
-    },
-    {
-     "title": "WATCH: Pennsylvania kicks off general election audit with live dice roll",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0dXVjh4V2ltTEc0R3NMS2pmRVdaT1ZialZmTXkwaDQyWkJmTkctTXlaVkpHcVNEdTBYeEtUa1ZzS0xvVW91YVBJWDJCOXlPdWtILTJUN1ZSLTFRdTZNTlJEMnRiVkNNSTEydVl5bXIzZ1VhamkxLTQ5ckM2ZG9RaWszNzdwOEhzNUtOeUtsQ3FPQQ?oc=5",
-     "source": "WGAL",
-     "published": "2026-11-13T16:57:00+00:00",
-     "summary": "WATCH: Pennsylvania kicks off general election audit with live dice roll&nbsp;&nbsp;WGAL",
-     "image": ""
-    },
-    {
-     "title": "Left-leaning California school board candidates ride \u2018blue tsunami\u2019 to big leads in local races",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02ZEJQUWNkdkNTekRBX1FXSkZPZTlNRVRsWUNaVXBJMnloSmROYkdEOUZTa1RfbTRWbjczQjFBd3Nnc1Fjck5vSEljMlNrWjlYSEtyUlhiZ3NrTFZtQUhVM0dZRXhKN3lIOXBYbUF1ZVZCRnhqaTUyR3RaMVZnUdIBhgFBVV95cUxQbENTeUFPNV9ycF94M2Z3NmpGaUFSek4zaE5xNC1zVFRBX0hTdFI4b0VzTU55NFU3NjNnMWJyQWlOLVhYaDAwRmx0cWdwWVVxbUJJNDFBdE1RbmIxTnpGTlJVVzk0VjRfY041Z1RzcW1BODBfXy1zVi10VUlqanRuSGppcnR3UQ?oc=5",
-     "source": "EdSource",
-     "published": "2026-11-13T16:52:30+00:00",
-     "summary": "Left-leaning California school board candidates ride \u2018blue tsunami\u2019 to big leads in local races&nbsp;&nbsp;EdSource",
-     "image": ""
-    },
-    {
-     "title": "\u201cThe Rules Were Bending in Every Way\u201d: Six People on the Life-Changing Sex They Had on Election Night",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjA3c01KeS1nd2x0RDlHNUYwNERleHE3RTd2NGNubm5Oa0c0bmVfOWt0bGt1dEVyeXkyclNMX1dKbnlMUUl5SFlQLU9BdHp1c2VIWkxHZVhEcktMLWhhSmpSTllVT1p0SExGVTBxNmJBUU9EOEg2S0Y0cmZCT2pkYjQzOGlMVnRGVWJVcmNfcXJLdnh6YVNiSw?oc=5",
-     "source": "Slate Magazine",
-     "published": "2026-11-13T16:48:00+00:00",
-     "summary": "\u201cThe Rules Were Bending in Every Way\u201d: Six People on the Life-Changing Sex They Had on Election Night&nbsp;&nbsp;Slate Magazine",
-     "image": ""
-    },
-    {
-     "title": "Disabled People Showed Up in the 2026 Election",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZelEzTGxiV3ZmSm5ZSnlXZ0hpSHhsUUhNRjNJbnVwVlRJT18tNEJVSHhhYUtBOW9oT1NNVmxLQzVtckJKN3V4QzhvdWxweGZGWENzUEtrY3VILXlydDBJbF9VTzNVMFJlOWQ3WlRadFF4ZzNwRmQ0?oc=5",
-     "source": "www.aapd.com",
-     "published": "2026-11-13T16:47:58+00:00",
-     "summary": "Disabled People Showed Up in the 2026 Election&nbsp;&nbsp;www.aapd.com",
-     "image": ""
-    },
-    {
-     "title": "The election that never happened, and why Washington needs a new strategy toward Nicaragua",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYU5hR1BhUDZRTnR3NDd4cTAxSERjWlNjekRCZ0NtejItMjRYMlhpTWlKOU11TEJHSS01SnJlaFVJYmwxaDJzYjJqZjM5WkMzRzl4MGYwdFJ6cTVMNlYwWjZSczdBbGxhLWtlcjRISG5yN1F2NVNMMzdBOUFyaHF4RXliUXp3TE0xLVJCcUF0SHQyX2wyMDdoU3AyRHJLT0U2bG5KLUVlY3ZLRWpIQmZmNFJENmxjM3RVeEJtNVpIcXJLTEhMT1RaQUVoOVpCUQ?oc=5",
-     "source": "Atlantic Council",
-     "published": "2026-11-13T16:45:06+00:00",
-     "summary": "The election that never happened, and why Washington needs a new strategy toward Nicaragua&nbsp;&nbsp;Atlantic Council",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T17:32:32.274330+00:00",
+   "fetched_at": "2026-11-13T18:02:35.770978+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "The fight over Canadian steelworker jobs",
+     "url": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T17:10:43+00:00",
+     "summary": "Stelco&#039;s US owner blames Trump&#039;s tariffs for layoffs, but its support for those same tariffs has raised questions.",
+     "image": ""
+    },
     {
      "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
      "url": "https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai",
