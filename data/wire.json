@@ -1,17 +1,41 @@
 {
- "generated_at": "2026-11-13T22:03:37.093777+00:00",
+ "generated_at": "2026-11-13T22:33:43.210798+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T22:03:37.093740+00:00",
+   "fetched_at": "2026-11-13T22:33:43.210735+00:00",
    "stale": false,
    "items": [
     {
      "title": "Flights grounded at all US airports due to air traffic control \u2018communication issue\u2019, transport secretary says \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-13T21:53:02+00:00",
+     "published": "2026-11-13T22:14:56+00:00",
      "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating the issue, which has delayed thousands of flightsFAA issues nationwide ground-stop order, delayin",
      "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
+    },
+    {
+     "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people \u2013 latest updates",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T22:14:45+00:00",
+     "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi RiverTanker collides with cruise ship on Mississippi River in New OrleansA v",
+     "image": "https://i.guim.co.uk/img/media/b1ae0fc91d5b094fbe8c34dcbd7057984449ef70/130_0_1071_857/master/1071.jpg?width=140&quality=85&auto=format&fit=max&s=2ba66c2ec5ac20c3dc00042e0a530831"
+    },
+    {
+     "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+     "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+     "source": "The Guardian",
+     "published": "2026-11-13T22:12:54+00:00",
+     "summary": "Anti-corruption agency carried out searches as part of investigation into Orb\u00e1n-era minister accused of taking bribesHungary\u2019s anti-corruption agency said on Friday it had seized c",
+     "image": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=140&quality=85&auto=format&fit=max&s=983e1129eb4afed3c581d7bf7308ca4c"
+    },
+    {
+     "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T22:02:07+00:00",
+     "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
+     "image": ""
     },
     {
      "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
@@ -20,14 +44,6 @@
      "published": "2026-11-13T21:49:50+00:00",
      "summary": "Large emergency response under way to rescue people from the water, with overnight cruise ship on its sideNew Orleans river collision \u2013 latest updatesA tanker collided with a river",
      "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11"
-    },
-    {
-     "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people \u2013 latest updates",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T21:47:36+00:00",
-     "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi RiverTanker collides with cruise ship on Mississippi River in New OrleansA v",
-     "image": "https://i.guim.co.uk/img/media/b1ae0fc91d5b094fbe8c34dcbd7057984449ef70/130_0_1071_857/master/1071.jpg?width=140&quality=85&auto=format&fit=max&s=2ba66c2ec5ac20c3dc00042e0a530831"
     },
     {
      "title": "Gambia's Adama Barrow seeks third term",
@@ -70,11 +86,11 @@
      "image": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=140&quality=85&auto=format&fit=max&s=6492bacf627eef1865b546aceb5e63b2"
     },
     {
-     "title": "US grounds all flights after \u2018communication issue\u2019",
+     "title": "FAA grounds US flights nationwide after \u2018communication issue\u2019",
      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-13T21:32:08+00:00",
-     "summary": "US Transportation Secretary Sean Duffy said the US aviation agency was investigating.",
+     "summary": "US Transportation Secretary Sean Duffy says federal aviation agency is &#039;investigating the issue&#039;.",
      "image": ""
     },
     {
@@ -100,29 +116,37 @@
      "published": "2026-11-13T21:01:40+00:00",
      "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US air force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
      "image": "https://i.guim.co.uk/img/media/a48343859349310a22c156f4bd8b222fbebabbf3/970_0_4879_3903/master/4879.jpg?width=140&quality=85&auto=format&fit=max&s=9b539226855b0f6819e574ce7da82ee2"
-    },
-    {
-     "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T20:52:31+00:00",
-     "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
-     "image": ""
-    },
-    {
-     "title": "Probation officers in England and Wales vote for strike action over pay and workloads",
-     "url": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
-     "source": "The Guardian",
-     "published": "2026-11-13T20:51:01+00:00",
-     "summary": "Move deals blow to government\u2019s plans to release thousands of prisoners early to tackle prison overcrowdingThe government\u2019s plans to release thousands of prisoners early were dealt",
-     "image": "https://i.guim.co.uk/img/media/210975900bcd4af5d82e0f77eea4cfc10704b96f/710_0_4085_3266/master/4085.jpg?width=140&quality=85&auto=format&fit=max&s=af150b0f669ca87f4d79f2e941aff9eb"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T22:03:37.093761+00:00",
+   "fetched_at": "2026-11-13T22:33:43.210763+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "War Fatigue and Economic Pressure Weigh on Russians as Anxiety Rises, Poll Shows",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOME1nM09UeWEyRmI5aFNxbXVPYzlTb1ZDRzFJc3A0eUN3UExtMHM4MHhoTXVaV1VTOXQ1VHAxV1RDelBwN2JNb1NzLUVoLVpGVkNuR1B3dmN2eGZIWkswUEJzVDVJNHM0dW50OTVpVW1VVGl2RHN5WUJfOEJRX0h3LWZjbWdGdVpYT1NaWEpfNUY5b0gwQ0N4LXlCLVkzSlczVDhkbl9wOWEwMGtDWVZaVTJoU3pEbXZDaWtyblNuZ0lIeFMt?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-13T22:14:25+00:00",
+     "summary": "War Fatigue and Economic Pressure Weigh on Russians as Anxiety Rises, Poll Shows&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Russo-Ukrainian war, day 1724: A Ukrainian official says all Starshield missions were failing by day three of the new speed cap, while SpaceX says there has been no change",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZlQ4b1ZsWlBweUo1YkdXNUNGbjRibm5UdktKT3l4VWpoZjRES05nOFFUVkRhWDZvZmVkNjFCZ3huZndZLU5JNXdoNFlTNHRiYTBPVmRfbTdKMHhUY0g3ZV9LVXlnbVJMVDZIWW91UGwtRHptcUpB?oc=5",
+     "source": "Euromaidan Press",
+     "published": "2026-11-13T22:12:03+00:00",
+     "summary": "Russo-Ukrainian war, day 1724: A Ukrainian official says all Starshield missions were failing by day three of the new speed cap, while SpaceX says there has been no change&nbsp;&nb",
+     "image": ""
+    },
+    {
+     "title": "How the UAE Became the Ukraine War\u2019s Top Mediator",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTdtUjJMOVkxeTJrYklRdlFIMTR1QUFLQmpELWJPbkxVMEZNTkRWMGE2MURVQmlrUV9nZURPRWdNXzhXeUNoUkRpU0xmdGJYeThZNmQtMWt4REpENlV1VVNjOXgyX0FjbVNfQ0lHZXBaZGdMdWlGX0dHU19OQ1JBekk1amNLV2I0dzdEWDM4Z19jVXpCZlE?oc=5",
+     "source": "The National Interest",
+     "published": "2026-11-13T22:08:01+00:00",
+     "summary": "How the UAE Became the Ukraine War\u2019s Top Mediator&nbsp;&nbsp;The National Interest",
+     "image": ""
+    },
     {
      "title": "France among five major powers to represent EU in Ukraine talks",
      "url": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
@@ -194,37 +218,69 @@
      "published": "2026-11-13T19:46:54+00:00",
      "summary": "On The World This Week with Gavin Lee, our panel distills the breaking news and global stories of the past 7 days into 45 minutes. Ukraine: Who will speak for Europe? In a week tha",
      "image": "https://s.france24.com/media/display/fd993a00-df97-11f1-a921-695cb59fade5/w:1024/p:16x9/c225d164-32c2-48f7-924f-e100efad3094.png"
-    },
-    {
-     "title": "Europe Names Its Team for the Next Round of Ukraine-Russia Negotiations",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWpEVE9YTVRPLXZock1ySExtTDdZWVlFQWxRSEp5Rm5ZdmozQ0NGZkVqdWZWaVNUSjVjVVdsUXROYXBwV2lnQmg3eGY3NmdYVU5ISk9tTUdNc1doYXlDRmp4WmhPT2ROM0tROFVlVU1wUk5ScGxaZTBoYVVYWXNrTEF0UlBKbHN5Zk52VHo4OW03WUVGdlRvT0FCelg2NlZjZThYcHJzMFB2dHFLZWRvMGp0NVJNNnRZTXc?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-13T19:43:48+00:00",
-     "summary": "Europe Names Its Team for the Next Round of Ukraine-Russia Negotiations&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war latest: Ex-PM press secretary reportedly injured in Moscow car explosion",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUlfNU80RmRVNmlTTGtmbndXSUdYNHdiMHV3enhhNXo2V2NNejJIZUpMcDJKYUZBbnBReW5VRThscXBhelE5UzFHTXdseWp4WVdwcjJlR2xuTHVab2NJWFhFcjNMU1p6bmJxa0JYbzVlUDNiR25BT2x3QXVYMDdEZndqcnhrSGJU?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-13T19:41:51+00:00",
-     "summary": "Ukraine war latest: Ex-PM press secretary reportedly injured in Moscow car explosion&nbsp;&nbsp;Yahoo",
-     "image": ""
-    },
-    {
-     "title": "EU agrees on five countries to represent Europe in Ukraine peace talks",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzY5ODlrN1lPaS1xQndfcDAwc1M1STVqY0xCUnpHUjF0bVVvMnp2S2JQeHRraDQ4QTBVM3BDWUFCZWFhbzJCekV3bnpwQUdVbnN6ZTJjWE5UNWY1c1I3V0lFbzBMSGYwUDhaamVxSVc4eEtfVGdueV9pQ29rd25wdUxiS0NQN1hiWllBbjBYVHZIZUxxSEdCMDU4aDF4c202WE4yekRWTkhFd9IBrwFBVV95cUxPUEFBT01YNXNZQkpDbFJMM1ExbVJHaVhhM3lLMW52YjVpZUlteGpBczdMb2ZWZ0JUTkdZcWZWS0MyRWdnd1p2cGpoTXJuZzYtNFBUeFJWY2YxSzdxQkpVU0xsaE4tOU9SZlRCU2dVR0hIX1g1ZmhMd1pJa0U2dkpDQ2t0MmkwdmFCQTYyN1NwWXR4YTNnZTlFOC1LRjd5ZXhMSUo0UndnZy1wS3BkdHpv?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T19:36:44+00:00",
-     "summary": "EU agrees on five countries to represent Europe in Ukraine peace talks&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T22:03:37.093765+00:00",
+   "fetched_at": "2026-11-13T22:33:43.210769+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Elon faculty break down midterm results in post-election panel",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczB4amVnSnIzQ3BRZVhnMWE4bUJ2U0FKb0FtTldPdGNhUXltNlQza09ONDR2bFpzLUd1ZHNyZWh4WkhyZ0Z4cXI2ZVdmV19jY2IzTTl4RHFJTXFkQ256MmVyZWJoVG5UUmI2UnRFa05zN3VaT05lazQzT0xoR2xRQ2dBT3UwQ1JYZWd2MzZyVnpkMVFiNHo2azk5SHFpbXpWTTROdg?oc=5",
+     "source": "Elon University",
+     "published": "2026-11-13T22:30:00+00:00",
+     "summary": "Elon faculty break down midterm results in post-election panel&nbsp;&nbsp;Elon University",
+     "image": ""
+    },
+    {
+     "title": "Clark County commissioners certify 2026 General Election results",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0RMdngyOTFlWmhtaEFkU1A1bVRfT3NEdlZkTDEyQUtuRkF4MjZwSkQtVExudDU1dVBQMTZQWm9ZZGVpOHFwdkZvR1otY3RSN2NOOEZ4cTFBTDBYLVhSRTkzS0lQZFNHMjVtV3RlZXJURi1NNkh3czlJZTlyNEM3WDdQYV9HUXNpN2I4TnNHSWZlOHVteXJnVHZ0MA?oc=5",
+     "source": "KSNV",
+     "published": "2026-11-13T22:22:21+00:00",
+     "summary": "Clark County commissioners certify 2026 General Election results&nbsp;&nbsp;KSNV",
+     "image": ""
+    },
+    {
+     "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mRE5NY1phNEUteklMY3dTQ19rVWJsWHE5ZTAxSVVkdnFzdGZzbmpQMzJNWURRdHZ5ZXl1dGhGMGhULWlpRFdwRzA3TnFrVGNSb3FZZnc1R3FQNHRGMERyUEVTcjhYdGU2R2NnSUpkakJYVVE?oc=5",
+     "source": "NPR",
+     "published": "2026-11-13T22:18:55+00:00",
+     "summary": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election&nbsp;&nbsp;NPR",
+     "image": ""
+    },
+    {
+     "title": "Election Reckonings: Israel, America and Unfolding Pathways",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdk9lZEV2STZydkRXQjkzcjFpbjNVZmEyRFRiLXVWd3VmcTlkWG9BLXJ5bTV0eldWNHFZMUFrbGZBd3pnTkRnbGhWcGF0S0Z5MmZVTkotSXNsOVR4OHZEQzN3a3BCc2QyNHFJRmdzUHVvUHQ3QzV0WVFFVDliQ240ZlN6bWlNOVRxay01eGJfT1JsMXRPSDRfMklB?oc=5",
+     "source": "Global Atlanta",
+     "published": "2026-11-13T22:17:50+00:00",
+     "summary": "Election Reckonings: Israel, America and Unfolding Pathways&nbsp;&nbsp;Global Atlanta",
+     "image": ""
+    },
+    {
+     "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+     "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+     "source": "The Guardian",
+     "published": "2026-11-13T22:12:54+00:00",
+     "summary": "Anti-corruption agency carried out searches as part of investigation into Orb\u00e1n-era minister accused of taking bribesHungary\u2019s anti-corruption agency said on Friday it had seized c",
+     "image": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=140&quality=85&auto=format&fit=max&s=983e1129eb4afed3c581d7bf7308ca4c"
+    },
+    {
+     "title": "Changes coming to Springfield City Hall after November election",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2k5NU1TSGVBQXhQRWlrV3dPQVVfbHU1c3U0X1pyNVNFZGVMOVJQS3ZOcEpLSDVaQlBxbWVqQWNQUnJmUnhHaWNzeHc3ZEpNT1NsSEZXbWtRalA3REw1R1pNRWtUYjRqRl9XWGk2SkZqV0U4NTlKeTZqUUhrckZRMnpMbTdwekhFZEpmZi1QSi01OW5EN214MnFNbkNBMGh1NzNiX2V3MjNjcmMtTHlFSF9wbGV5dw?oc=5",
+     "source": "NPR for Oregonians",
+     "published": "2026-11-13T22:12:00+00:00",
+     "summary": "Changes coming to Springfield City Hall after November election&nbsp;&nbsp;NPR for Oregonians",
+     "image": ""
+    },
+    {
+     "title": "Even solidly red Saline County saw a shift toward Democrats in Arkansas\u2019 midterm election",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMnFIUHJ0cmpRQWhnc0VERW9oZzUxblRnaXplcjB3Zl9tWUpqamd2WTBieXhlNTRVUW5oLWd6RWhBNUs3eGdOeVFXU0s3eENmcHVxX1RVOHVMdm9LUC1QS3NKZWVHZkxfTDd5cnczeUlCR0ZCVlJfWFJsenBaSk1wejNrUW1EM0kwVFRDTWNyQ0R4czBPVERjUlVOZThMRGVqVGFpYnlUeGFYamswRkVaYmtKamlUM1oxRElkT3o4SEY1LTlRLU1SUlE5ZURtMG8?oc=5",
+     "source": "Arkansas Times",
+     "published": "2026-11-13T22:06:19+00:00",
+     "summary": "Even solidly red Saline County saw a shift toward Democrats in Arkansas\u2019 midterm election&nbsp;&nbsp;Arkansas Times",
+     "image": ""
+    },
     {
      "title": "Data center policy a \u2018ubiquitous\u2019 and \u2018pressing\u2019 issue for state lawmakers",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWJhcGVYTlkzNUxUNS1zMVZJd3FiYUpjVGp6QjBLb2VjeDByZXhLbXZxSmtMVlQtMXQ2UTVPRWFScWtLTmRfRVRnbnludGRuWDFkdlg1b0FyVDcxRm9DUFpSYWpmZDR3R2phQk8xTzBsa0hlV0JmNDY5QTVIT1VFbXpIWVgzVk9vTVcxMUpnSFRfVUNoVmxabG5Xd05BOWJRQkZaNy04NXRoMGJzZ0pKeDk1Qjg?oc=5",
@@ -245,7 +301,7 @@
      "title": "Election denier Lauren Boebert loses reelection bid after her campaign questioned Colorado vote count",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdHJNa0dkUmd5QUw0WGhjTUlFa25xZVhqTFoxTEVTZ2tLQ2R5REhlYXdzNDQ4NFh0UFdldWNXeDBDdHNZbjlEREdwU0RVd1VFeVZoT2dLeEhfUW1reUZUaGxuYnhYY3lLaXFCMnVKV0ExMGlKM0hjT0hTM2hNNE1YdmNOTW1XTWxzU0VkUV9TeW9lNjhHZERvT1BBQ19hOEp3XzdTOWpkTjZ2SEVvbkI2c2k2LXh6a3d3TFVmaDNBd3FHT1JUeHBjMVNyV1FDcWVQR2hHN2w4dndlWE1NTFk4?oc=5",
      "source": "Democracy Docket",
-     "published": "2026-11-13T21:54:23+00:00",
+     "published": "2026-11-13T21:53:48+00:00",
      "summary": "Election denier Lauren Boebert loses reelection bid after her campaign questioned Colorado vote count&nbsp;&nbsp;Democracy Docket",
      "image": ""
     },
@@ -264,67 +320,11 @@
      "published": "2026-11-13T21:46:32+00:00",
      "summary": "In tonight's programme, Gambia's electoral commission has announced the five official candidates for the country's upcoming presidential election. President Adama Barrow is seeking",
      "image": "https://s.france24.com/media/display/5ffd1078-dfab-11f1-ae95-5f54d898a954/w:1024/p:16x9/capture-43ee1b88.jpg"
-    },
-    {
-     "title": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-13T21:28:05+00:00",
-     "summary": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Election updates: O\u2019Donnell wins WA Supreme Court seat; Fire District 1 levy fails",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3FuX29rSE9zRmpyX184VGtxUGI1SzJTLWRZenpQYXpFa1ZZcWF3OE1NLW5JZERURWtaRDZYSnN1RkRZbzhuVnNEMlFEekhmdE41TW10RVdyZm9oWEdjVkw1RHJsN3FZdEx5RDlFV19LanJITzFVUTJPc1FsOHdUV25UaVFFTjFGVkd2c19iZmFlalEzejBoUWVoOTZkZUJZMTJFZGFZTmZNVU1Jc3c2V2NVd1lxZjlCSmFnbUMyaw?oc=5",
-     "source": "Cascadia Daily News",
-     "published": "2026-11-13T21:24:18+00:00",
-     "summary": "Election updates: O\u2019Donnell wins WA Supreme Court seat; Fire District 1 levy fails&nbsp;&nbsp;Cascadia Daily News",
-     "image": ""
-    },
-    {
-     "title": "Defense contractors gave Millions to key House Democrats",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeG83cVZHTWRCT2lwT3NVMmNHRVZ1UVVRbzUzYVN4T016MjJjN2JrcHd4SEZGdW5TSW9YTHZhNEVFM3ZqNFJKWlktbVRsYjdFM1hSUjBocVJZVHVtc2hCa0xqNTRqeFoydTg3T084TDl2ZHFhQ1ZTLURiNDlxTHNrUVFBczlnRFdQRkQ1WUxsQkgyWlBXMGF6U0p5R3FnT1VjcWh5Yy10UVl6MDZjZlBkU0dDOUljWTFIYzJ6YV9zTVpIRk52MnZ5ZDZoWlg5bmI0eGlSeXpWSQ?oc=5",
-     "source": "OpenSecrets",
-     "published": "2026-11-13T21:21:10+00:00",
-     "summary": "Defense contractors gave Millions to key House Democrats&nbsp;&nbsp;OpenSecrets",
-     "image": ""
-    },
-    {
-     "title": "Republican state party chair resigns following party losses on election day",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNblM2YzhtZEVPQXBqOWZ5bHR0dUViRnpNOVZwbTlTaGhYS1JhVXh1TVNVQlJiZ000dmh5TG96d1l2b3N2aEpJUzVzN0lfV0RkeU9vYlczMkZKbnAtWkVNOFl6Q2tWV095YXMxenVYYUJFc0ZDQVN6X0tjeUtQTEdudzRtbzBHQ0tTNFhRc0dwcnBXSkJ4LVBaMkdZZGZxSnR0UWxKd0cybTZjY0JlaldXTA?oc=5",
-     "source": "Louisville Public Media",
-     "published": "2026-11-13T21:16:00+00:00",
-     "summary": "Republican state party chair resigns following party losses on election day&nbsp;&nbsp;Louisville Public Media",
-     "image": ""
-    },
-    {
-     "title": "Post-Midterm American Foreign Policy",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjJaQUFLTXdGMFhobUl2X19SbWYtUG5aWUdHU2lscU0tRmhPaVdZZXdNLVI3UnFubXJzV3NpYWFXc3B5QUZ3dG45Mmp0Q2RlYkVvZGVyekpHVGdDUS1HbzkwUl9IemRUUUxtUE9iMmNvWlFfN1A2cFowOGRjSVV6QWM0VE5KR3lQMjJNVVd4WQ?oc=5",
-     "source": "Hudson Institute",
-     "published": "2026-11-13T21:10:46+00:00",
-     "summary": "Post-Midterm American Foreign Policy&nbsp;&nbsp;Hudson Institute",
-     "image": ""
-    },
-    {
-     "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRGMVNoOVFrYk5JdjNKX0V1OHcteEhBdjQ3WVl3OXBRdDlhd3pWVDVObnpUNlF2M04xMnd0WHZvQnZGLTJJSm5EbEZwZEdCRzVLbGlJQkVrV2JYT1NQS3ViT0x4UW9HNFdJUUk0N0pDX1FmTjBEM25Bc0N6YnRPM19OSlVKOTZacFM0VWZwVkUyOXRaVnhNWVNoYTFtMGMzNmlaOGMtWTZ4bGJGU0ZwRnpzWnNMS3c?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-13T21:03:58+00:00",
-     "summary": "Supreme Court to review Trump policy blocking asylum seekers at border&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "The New Congress Has a Unique Opportunity for a Sensible Approach to AI Policy",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3FTZHlYOGV1dmJtbU5uNENSN3YybDV3bENYdmREMkQ5U0M0WG5oMlRxaUt2RjZSbmpla1p6akYxSHh2dXM5dUhQRVcwSEdEZEh2YzBYS21HYnRkd2pwanZnRFo2VlFEQmJ1V1ZPc09BMUUtTWgtQ1Vaa0oxMzhQWkVqSUZMdUN1aUJFOWJ1NmZkWFU?oc=5",
-     "source": "Cato Institute",
-     "published": "2026-11-13T20:52:04+00:00",
-     "summary": "The New Congress Has a Unique Opportunity for a Sensible Approach to AI Policy&nbsp;&nbsp;Cato Institute",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T22:03:37.093768+00:00",
+   "fetched_at": "2026-11-13T22:33:43.210773+00:00",
    "stale": false,
    "items": [
     {
