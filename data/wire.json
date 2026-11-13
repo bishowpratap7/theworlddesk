@@ -1,25 +1,17 @@
 {
- "generated_at": "2026-11-13T14:01:40.587911+00:00",
+ "generated_at": "2026-11-13T14:01:59.839626+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T14:01:40.587883+00:00",
+   "fetched_at": "2026-11-13T14:01:59.839593+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Row breaks out between Tories and Reform at Piddington news conference \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T13:49:44+00:00",
-     "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and camerasEarlier today, Downing Street said the government was seeking to establish \u201cthe ful",
-     "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
-    },
-    {
-     "title": "\u2018So lovely\u2019: Stevie Wonder surprises Stalybridge restaurant with late-night visit and \u00a31,000 tip",
-     "url": "https://www.theguardian.com/music/2026/nov/13/stevie-wonder-stalybridge-restaurant-cafe-continental-1000-tip",
-     "source": "The Guardian",
-     "published": "2026-11-13T13:48:13+00:00",
-     "summary": "Singer, 76, was in Manchester with his band for penultimate UK show of his Songs in the Key of Life anniversary tourWhen Stevie Wonder\u2019s team just called to say: \u201cCan we all come t",
-     "image": "https://i.guim.co.uk/img/media/81b1cebb3043da60d06b2ee300883a8c529904f8/0_609_3032_2425/master/3032.jpg?width=140&quality=85&auto=format&fit=max&s=2422421fea119786b9399733ec25175f"
+     "title": "China warns against fresh US chip curbs",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T13:42:49+00:00",
+     "summary": "China has warned the US against imposing additional export controls on AI chips.",
+     "image": ""
     },
     {
      "title": "UK\u2019s biggest insurer hit by rise in subsidence claims after record hot summer",
@@ -28,6 +20,14 @@
      "published": "2026-11-13T13:37:31+00:00",
      "summary": "Increase reported by Aviva after Hastings Direct said claims were up 140% in August and Axa said it had been a \u2018surge year\u2019The UK\u2019s largest insurer has been hit by a rise in subsid",
      "image": "https://i.guim.co.uk/img/media/7e2a8ff0384e7fb6700c4719edde4c33999c311c/19_0_4529_3624/master/4529.jpg?width=140&quality=85&auto=format&fit=max&s=d5c585fe960d9b9cc813f0ff9fa126cf"
+    },
+    {
+     "title": "Nvidia scandal: What\u2019s next for the US tech company?",
+     "url": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T13:36:19+00:00",
+     "summary": "What happens next at one of the world&#039;s most valuable companies will have repercussions far beyond Silicon Valley.",
+     "image": ""
     },
     {
      "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms \u2013 US politics live",
@@ -44,6 +44,14 @@
      "published": "2026-11-13T13:34:53+00:00",
      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Row breaks out between Tories and Reform at Piddington news conference \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T13:29:36+00:00",
+     "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and camerasMeanwhile, Downing Street has defended plans to convert the site at MoD Bicester ne",
+     "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
     },
     {
      "title": "UK accused of \u2018silencing\u2019 pro-Palestine voices through entry bans",
@@ -78,7 +86,7 @@
      "image": ""
     },
     {
-     "title": "France slams Israel\u2019s \u2018demagogic\u2019 ban on left-wing leader Melenchon",
+     "title": "France slams Israel\u2019s \u2018demagogic\u2019 ban on opposition leader Melenchon",
      "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-13T12:57:08+00:00",
@@ -108,19 +116,11 @@
      "published": "2026-11-13T12:40:11+00:00",
      "summary": "Not receiving your work emails? That\u2019s because Microsoft has been hit by a global outage.",
      "image": ""
-    },
-    {
-     "title": "Mauricio Pochettino announced as new Manchester United manager",
-     "url": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T12:39:34+00:00",
-     "summary": "Pochettino replaces Michael Carrick, who was sacked after United&#039;s disastrous start to the season.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T14:01:40.587897+00:00",
+   "fetched_at": "2026-11-13T14:01:59.839608+00:00",
    "stale": false,
    "items": [
     {
@@ -129,6 +129,14 @@
      "source": "TVP World",
      "published": "2026-11-13T13:45:00+00:00",
      "summary": "Russia scraps defense forum for third time amid war in Ukraine&nbsp;&nbsp;TVP World",
+     "image": ""
+    },
+    {
+     "title": "China warns against fresh US chip curbs",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T13:42:49+00:00",
+     "summary": "China has warned the US against imposing additional export controls on AI chips.",
      "image": ""
     },
     {
@@ -188,7 +196,7 @@
      "image": ""
     },
     {
-     "title": "France slams Israel\u2019s \u2018demagogic\u2019 ban on left-wing leader Melenchon",
+     "title": "France slams Israel\u2019s \u2018demagogic\u2019 ban on opposition leader Melenchon",
      "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-13T12:57:08+00:00",
@@ -210,29 +218,13 @@
      "published": "2026-11-13T12:36:39+00:00",
      "summary": "Starshield Speed Limits Hit All Russian-Occupied Ukraine, but Not Kyiv-Controlled Areas&nbsp;&nbsp;UNITED24 Media",
      "image": ""
-    },
-    {
-     "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-     "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T12:28:28+00:00",
-     "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06a/live/954609a0-df57-11f1-93e1-3b657b665bcf.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T14:01:40.587900+00:00",
+   "fetched_at": "2026-11-13T14:01:59.839613+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Row breaks out between Tories and Reform at Piddington news conference \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T13:49:44+00:00",
-     "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and camerasEarlier today, Downing Street said the government was seeking to establish \u201cthe ful",
-     "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
-    },
     {
      "title": "Countries Growing More Ambitious on Climate, Despite U.S. Retreat",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BaHo1eGdYdDJWNHVUY3NId0FCUkZwR2JVTWpUWEtLZnBfVng5T3o4QU5hWjh0VlJ6ZE8zelppcFVzNG1HbG1hQlRmSTJoV3VIdThibjRlMWphVVA5bkhz?oc=5",
@@ -320,11 +312,19 @@
      "published": "2026-11-13T12:04:41+00:00",
      "summary": "Santa Cruz County school board candidates declare victory, concede in 2026 election&nbsp;&nbsp;Lookout Santa Cruz",
      "image": ""
+    },
+    {
+     "title": "From Science to Policy",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82V2VsWHU3ZHJJS09iMUtETDdfU1Itd2ZDckdzVHhwRTNlWFlkUVZhOVBtTk85UVIwUndGb0Q1elpwWkNyc1BvXzNQWTZVXzNzSmxXZzR6ZmUtZU1aT0o5UC1jOE1jUkM5U25wdnhpVTlnUQ?oc=5",
+     "source": "AMS Headlines",
+     "published": "2026-11-13T12:02:59+00:00",
+     "summary": "From Science to Policy&nbsp;&nbsp;AMS Headlines",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T14:01:40.587902+00:00",
+   "fetched_at": "2026-11-13T14:01:59.839616+00:00",
    "stale": false,
    "items": [
     {
