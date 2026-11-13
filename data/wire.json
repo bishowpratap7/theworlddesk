@@ -1,17 +1,73 @@
 {
- "generated_at": "2026-11-13T19:03:03.112859+00:00",
+ "generated_at": "2026-11-13T19:33:06.903665+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T19:03:03.112814+00:00",
+   "fetched_at": "2026-11-13T19:33:06.903634+00:00",
    "stale": false,
    "items": [
     {
      "title": "Bessent blames Lutnick\u2019s commerce department over delay blacklisting China-linked data firm \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-13T18:42:32+00:00",
+     "published": "2026-11-13T19:16:46+00:00",
      "summary": "Treasury secretary says he was in favor \u2018for months\u2019 of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to BeijingHoward Lutnick under pressure over alleged ",
      "image": "https://i.guim.co.uk/img/media/e19db10acdf9eb2e9d6a55f68aad687b6e2dd221/962_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a2df8a42472340585fd28309ff95b066"
+    },
+    {
+     "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+     "source": "The Guardian",
+     "published": "2026-11-13T19:09:05+00:00",
+     "summary": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia\u2019s ability to sell to ChinaDonald Trump bought Nvidia stock worth millions of dollars as he",
+     "image": "https://i.guim.co.uk/img/media/5d5bae65dfe648ee0640fe44d78bbefc78d94a15/69_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=d8a807e89eb2444738f7d753deae084d"
+    },
+    {
+     "title": "Democratic Senate leader Schumer set to face leadership challenge",
+     "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-13T19:03:10+00:00",
+     "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
+    },
+    {
+     "title": "What's Trump's strategy now with Iran? To keep things as they are",
+     "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+     "source": "NPR",
+     "published": "2026-11-13T19:02:04+00:00",
+     "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+     "image": ""
+    },
+    {
+     "title": "How will the US deal with Nvidia scandal?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T18:57:43+00:00",
+     "summary": "Tech giant CEO resigned and will testify before Congress.",
+     "image": ""
+    },
+    {
+     "title": "Families clear homes of David Walliams books after sexual offence allegations",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
+     "source": "The Guardian",
+     "published": "2026-11-13T18:55:08+00:00",
+     "summary": "Parents take action while independent bookshops say they had already stopped stocking his titles In Sarah\u2019s house, David Walliams has been a bedtime staple for years. Her children,",
+     "image": "https://i.guim.co.uk/img/media/a29ed4693a342a6cd38c082c316edb7ccaf79f78/1192_157_6213_4970/master/6213.jpg?width=140&quality=85&auto=format&fit=max&s=81a585c2b13265920736ce27d26c8c70"
+    },
+    {
+     "title": "Police launch investigation into David Walliams over alleged serious sexual offences",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
+     "source": "The Guardian",
+     "published": "2026-11-13T18:53:28+00:00",
+     "summary": "Met police say allegations are separate from those made by multiple women in Guardian and ITV investigationThe Metropolitan police have launched a criminal investigation into David",
+     "image": "https://i.guim.co.uk/img/media/a15d22f7a417f5bfb3854c995f7c67e00cd578c0/740_407_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=7ea8b24d472f22d34381c576e8e9a7f2"
+    },
+    {
+     "title": "At least 10 killed in Guinea in crackdown on gold mining",
+     "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T18:44:45+00:00",
+     "summary": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
+     "image": ""
     },
     {
      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
@@ -43,15 +99,7 @@
      "source": "The Guardian",
      "published": "2026-11-13T18:20:01+00:00",
      "summary": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and GreensAndy Burnham has instructed the Labour party to \u201cre-arm\u201d to fight the ",
-     "image": "https://i.guim.co.uk/img/media/2322c0060f6422b953c5d72ba7a10ff917647ec6/2454_639_1669_1336/master/1669.jpg?width=140&quality=85&auto=format&fit=max&s=8d4232673449b2a0eaea08e7d7849b9c"
-    },
-    {
-     "title": "What we know about China's military exercises around Taiwan",
-     "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
-     "source": "\u00a9  X, Institute for the Study of War.",
-     "published": "2026-11-13T18:19:19+00:00",
-     "summary": "China has been carrying out major military drills around Taiwan since early November. But contrary to some claims on social media, Beijing's armed forces have not actually implemen",
-     "image": "https://s.france24.com/media/display/92520268-dd08-11f1-8ebf-29048b396e03/w:1024/p:16x9/image3-138.jpg"
+     "image": "https://i.guim.co.uk/img/media/e38bb3728105c5d43c48c890dbafe4ef3e75d70d/185_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=68370e6297fc946040a1c10e2adee8c5"
     },
     {
      "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
@@ -62,82 +110,66 @@
      "image": "https://i.guim.co.uk/img/media/4c1be2018c85b1bd8f3b44061ee196854105b58f/0_0_3590_2874/master/3590.jpg?width=140&quality=85&auto=format&fit=max&s=8747823bb9347de7d7a997354c336057"
     },
     {
-     "title": "Police launch investigation into David Walliams over alleged serious sexual offences",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
-     "source": "The Guardian",
-     "published": "2026-11-13T18:14:37+00:00",
-     "summary": "Met police say allegations are separate from those made by multiple women in Guardian and ITN investigationThe Metropolitan police have launched a criminal investigation into David",
-     "image": "https://i.guim.co.uk/img/media/a15d22f7a417f5bfb3854c995f7c67e00cd578c0/740_407_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=7ea8b24d472f22d34381c576e8e9a7f2"
-    },
-    {
      "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
      "source": "The Guardian",
      "published": "2026-11-13T18:10:05+00:00",
      "summary": "NHS suffering \u2018serious\u2019 and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage \u2013 live updatesVital UK services have been hit",
      "image": "https://i.guim.co.uk/img/media/2c228d770bc36da0b6ae784dc3d2be62613a6e18/210_0_2579_2065/master/2579.jpg?width=140&quality=85&auto=format&fit=max&s=564f6d76df4b85262cfd0c08d36d32eb"
-    },
-    {
-     "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T18:09:05+00:00",
-     "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
-     "image": ""
-    },
-    {
-     "title": "Eisenkot slams Netanyahu\u2019s \u2018racist\u2019 campaign against Palestinian Israelis",
-     "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T18:04:22+00:00",
-     "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel &#039;an anti-state act&#039;.",
-     "image": ""
-    },
-    {
-     "title": "No emails, no problem? Workers joke about Microsoft outage",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T17:55:05+00:00",
-     "summary": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
-     "image": ""
-    },
-    {
-     "title": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
-     "url": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
-     "source": "France 24",
-     "published": "2026-11-13T17:46:16+00:00",
-     "summary": "FRANCE 24 hosts Albin Kurti, the prime minister of Kosovo, a country that declared its independence from Serbia back in 2008 and sees itself as part of the European family. But fou",
-     "image": "https://s.france24.com/media/display/419fc3dc-df4c-11f1-8b89-29048b396e03/w:1024/p:16x9/capture-5e8d4fca.jpg"
-    },
-    {
-     "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
-     "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
-     "source": "The Guardian",
-     "published": "2026-11-13T17:43:26+00:00",
-     "summary": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adultsDowning Street is considering whether plans to replace key disability",
-     "image": "https://i.guim.co.uk/img/media/c2b0279682d508425e716930b12babc769cd705c/1106_585_4650_3723/master/4650.jpg?width=140&quality=85&auto=format&fit=max&s=ae911deb0c8a1cca78223aca44e0a48b"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T19:03:03.112829+00:00",
+   "fetched_at": "2026-11-13T19:33:06.903648+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Ukraine updates: Russia hit with second car bomb attack in two days",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWEzNmtRVDc1RlFMTTNiS3NUazFLRjB5VXVzd21la0JYNHY3b1kxd0ZUQmdmTXZLeTZadklWOUJZczZ0OXJaQXdEcG9VLVpCcmFPTmVqS3UtRmpGMjNseEh1b3dBMjUyUG1zcTJZNU1UQWdwOHU4dEdxXzA3Q204Ti1keE81aFJRWllMMUpiWWUwSk1LYWRGUHdaWUtjcktfQ1BTbQ?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-13T18:45:00+00:00",
-     "summary": "Ukraine updates: Russia hit with second car bomb attack in two days&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
     {
      "title": "Bessent blames Lutnick\u2019s commerce department over delay blacklisting China-linked data firm \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-13T18:42:32+00:00",
+     "published": "2026-11-13T19:16:46+00:00",
      "summary": "Treasury secretary says he was in favor \u2018for months\u2019 of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to BeijingHoward Lutnick under pressure over alleged ",
      "image": "https://i.guim.co.uk/img/media/e19db10acdf9eb2e9d6a55f68aad687b6e2dd221/962_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a2df8a42472340585fd28309ff95b066"
+    },
+    {
+     "title": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ3RfZkRObmNOQ0I3UFpFYnlOWDhhVEtRSGNJR0hFeXA2Q2dUa2F3N2NNc2ZUQS1nMGRQazd3aHhtaHZpRHZ5TmQtTnJkTnBfblFESXVOX2VXay1Ra2IxeXQ4Qy1BT1VMX1ZsTDgwanJJUmNPRkVrYU1FXzJYRnVxOUlhVVJzdE15X2M1YzVxQngzazllckRrMjdDRzEyZEtieUd0a2pQR29KNFJ2b2tEZVVSMmN5Um9fbGYtWHhmbVlOTXc0N0RWa0Q0N0M4ZU53NnMzVF80VQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-13T19:08:49+00:00",
+     "summary": "Bombings in Russia kill a military officer and injure an adviser to Ukraine's former prime minister&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Democratic Senate leader Schumer set to face leadership challenge",
+     "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-13T19:03:10+00:00",
+     "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
+    },
+    {
+     "title": "What's Trump's strategy now with Iran? To keep things as they are",
+     "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+     "source": "NPR",
+     "published": "2026-11-13T19:02:04+00:00",
+     "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+     "image": ""
+    },
+    {
+     "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXZ5el9iR2VOdWd1dVNVX00zWkdWM01yQkk4WkxZZmtrNUNxUVZIQ3E0aHdrZ0NmMWlsclN0ejlhaHNvMWV3OWVBWXI4aF9aRzhPOW5pNTUwdHJNdWFSclFQckhJUDFYMXBpWDM4QjhsQ00wazRta0FVS2F3NDIwSWVBVjg5SjA?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-13T18:52:07+00:00",
+     "summary": "Europe Agrees on a Team to Represent It in Talks With Russia&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Ukraine updates: Russia hit with second car bomb attack in two days",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWEzNmtRVDc1RlFMTTNiS3NUazFLRjB5VXVzd21la0JYNHY3b1kxd0ZUQmdmTXZLeTZadklWOUJZczZ0OXJaQXdEcG9VLVpCcmFPTmVqS3UtRmpGMjNseEh1b3dBMjUyUG1zcTJZNU1UQWdwOHU4dEdxXzA3Q204Ti1keE81aFJRWllMMUpiWWUwSk1LYWRGUHdaWUtjcktfQ1BTbQ?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-13T18:45:14+00:00",
+     "summary": "Ukraine updates: Russia hit with second car bomb attack in two days&nbsp;&nbsp;DW.com",
+     "image": ""
     },
     {
      "title": "Russia is \u2018setting traps\u2019 in Ukraine talks, EU foreign policy chief warns",
@@ -148,11 +180,11 @@
      "image": ""
     },
     {
-     "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks will consider wider European security",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRzlsaUVhZWtnQnljeXRWZXBqWHMzc2l2S3h6RXlLYlYzNHhuNW9MOXRQRUdoMEp4TXBLbnhiZTVUVGtxbmF1dENLcmk5NDRBUm1DQnMyZHJfTFNXNG8zTFJkQTIyWklrYWY3U3hqT3BPdG5pRDAtdC1Zc1BCOEZGOTRyVkstRXhVS3NGTlR5Y2xGbVYyZ3VmOHlLdE9TYm9XWVhUX0V5MW1JZkVOSU5FTlhYY0E3ZHc3b01qREVxcUZFNE5QWUQ5OTlwNjg3OFBtUzlSUW82TXdkLU9lZTVQWGdpWWpOVUt5Q3YzbnljYVRyMkpoMnFtV3hNQUQ5ZTdvRHVOSFBSOHI?oc=5",
-     "source": "News-Press NOW",
-     "published": "2026-11-13T18:35:41+00:00",
-     "summary": "Ukraine launches nearly 1,200 drones at Russia as US-led talks will consider wider European security&nbsp;&nbsp;News-Press NOW",
+     "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2JwQ1NhbWZ4ZUVzUDA2UF80TkVwRG5GQ3IzMGNHQW9tNjNUWjNUMjRnQTcwdEJWMzQtRTMtalJrWHp4NURORjFfc2VZMWZvdllDZXJOdFBGOEpLTmU1MDNRMF9EdmlUSk1GbHByUXUyR2JWUzltbHhWNTlobnN6aG1EazhmMFhUNC1rVm52c0RKdmtQSUswTDlJQ2J6SjN2dlpCVHhlajlpVTlpUVFKY1ZKc0hib3NZYVh4a1YzRFBEZFRrT0stU29B?oc=5",
+     "source": "Oskaloosa Herald",
+     "published": "2026-11-13T18:34:21+00:00",
+     "summary": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi&nbsp;&nbsp;Oskaloosa Herald",
      "image": ""
     },
     {
@@ -180,51 +212,91 @@
      "image": ""
     },
     {
-     "title": "What we know about China's military exercises around Taiwan",
-     "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
-     "source": "\u00a9  X, Institute for the Study of War.",
-     "published": "2026-11-13T18:19:19+00:00",
-     "summary": "China has been carrying out major military drills around Taiwan since early November. But contrary to some claims on social media, Beijing's armed forces have not actually implemen",
-     "image": "https://s.france24.com/media/display/92520268-dd08-11f1-8ebf-29048b396e03/w:1024/p:16x9/image3-138.jpg"
-    },
-    {
-     "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T18:09:05+00:00",
-     "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+     "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXVZUW9PS0M3SlFocHN4c3ZfZE5aZmwzamtmX3lkRHYtMm14N2EzVFV1M3ZzQ0tsbjNiMWVOMlBtRkdrLVp1cGhubG1yc283Y1RRMnk3SkRtXzVhQkItYlVJME9vX2stYUxNOEJTU2puX19kUHM4NnpZdVN4QUdTN2FNMGw5Sk9xeEtuV1hUT2pyYjBIRnQ0dDF1Um1lVFlMSEJzS1JmNUpYQjA?oc=5",
+     "source": "AP News",
+     "published": "2026-11-13T18:10:00+00:00",
+     "summary": "Ukraine launches nearly 1,200 drones at Russia as US-led talks to consider wider European security&nbsp;&nbsp;AP News",
      "image": ""
-    },
-    {
-     "title": "Eisenkot slams Netanyahu\u2019s \u2018racist\u2019 campaign against Palestinian Israelis",
-     "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T18:04:22+00:00",
-     "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel &#039;an anti-state act&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNOd293aEcwZy16alMzNy1xTmNzZ19oa3JPNU5jREhhaDBMOUV5VFpKZUNpdW54S21MaGtJLVEyYzdCVFQwVThaaUNpeUFXT0M4cUZNeU1qZThSa0NJZE1pU2lfeEtTR3ZBWnZPRzRvOWw3NEZZTkpSb3Yyenp1S2xTai11X3RmblE?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-13T17:37:44+00:00",
-     "summary": "Europe's security cannot be part of Russia-Ukraine peace talks, EU leaders say&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
-     "url": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
-     "source": "France 24",
-     "published": "2026-11-13T17:28:54+00:00",
-     "summary": "As EU leaders meet for an AI summit in Dublin, largely overshadowed by Russia's war on Ukraine, William Hilderbrandt is pleased to welcome Fabrice Pothier, CEO of Rasmussen Global.",
-     "image": "https://s.france24.com/media/display/025bc748-df83-11f1-9f2b-f71d22e7fea9/w:1024/p:16x9/EN-20261113-130829-131531-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T19:03:03.112833+00:00",
+   "fetched_at": "2026-11-13T19:33:06.903653+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Election results for Columbia County special districts, countywide races",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYU5ZMFB3NGhDODRqQV90MmJoeDdIaUR5a0YtX1RHUHpfdllpWU9MUi1uR0gxLXNkMEcxVXozemxQaWRaOUZBYVhONUp3QTBBMlMyaEg3ejcwQkhteHNyZEdid1hhN3ZsYkpRblhONUl0aEpGeXdUX1lNZ3VuRkFyb2pWMTVpSW5tQmN1TmlESkFDV05pSTdXWVVlQTBBSl9fV0praXEwWlhsLUdLdS12azBnQXBQak14RDBN?oc=5",
+     "source": "Columbia County Spotlight",
+     "published": "2026-11-13T19:25:35+00:00",
+     "summary": "Election results for Columbia County special districts, countywide races&nbsp;&nbsp;Columbia County Spotlight",
+     "image": ""
+    },
+    {
+     "title": "Policy Letter: Comments on the Streets for All Program",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZ3FVb2diY1habVBOUERLZDd1LUhnOHoySUs3QmR5U2ZGN3lVbndMaDQyd1Jla2o5QVluQmViRjBoV2diRlpaZWZYbTR3ZVFCS3EyQ0FQNlpPWVI3WUJGT2hTUU5rV2dMY25odG9zNlZqd0ttcFE?oc=5",
+     "source": "Circulate San Diego",
+     "published": "2026-11-13T19:14:45+00:00",
+     "summary": "Policy Letter: Comments on the Streets for All Program&nbsp;&nbsp;Circulate San Diego",
+     "image": ""
+    },
+    {
+     "title": "Sitka Tribe of Alaska announces 2026 election results",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjVaMkFkcW84NVBEOHFzUlZRQ0VZaHdGRTd6bVpJUVgyTjVYQnBQTElyVDZRcnE0ek53Tl9UeTNBT2g3WWV1clZ2Vk43VGhxbHRIN1NtWTZLaG9IRjNVUnJYaUtnYllYb0tSMDNrdVl6Sm5HRVRJbXdkd2RzTEN2MVhpRjZtelp2VGdIeUVBOA?oc=5",
+     "source": "KCAW",
+     "published": "2026-11-13T19:10:04+00:00",
+     "summary": "Sitka Tribe of Alaska announces 2026 election results&nbsp;&nbsp;KCAW",
+     "image": ""
+    },
+    {
+     "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+     "source": "The Guardian",
+     "published": "2026-11-13T19:09:05+00:00",
+     "summary": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia\u2019s ability to sell to ChinaDonald Trump bought Nvidia stock worth millions of dollars as he",
+     "image": "https://i.guim.co.uk/img/media/5d5bae65dfe648ee0640fe44d78bbefc78d94a15/69_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=d8a807e89eb2444738f7d753deae084d"
+    },
+    {
+     "title": "Las Vegas City Council certifies results of municipal general election",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0E2ckVmOFJIV3lWTEJQOEhnYk11V29yOUl3UndDczZpNU0wcjFZVzJyOV83X0Zuck9IMmxxckhtcDBJLW5NTVBET1NiZHRQaGRUQzY3Nkhya2tmc3dwODNsMjBMcnlxUy1tNWhUTDdoQ1NQUnFNTmZ1SUxRbWdFUl9ZQVdQdkNmYUhiV2xVNFZnVmR5SGlscTBwdmtjN0V0YWdGNVdQa3E?oc=5",
+     "source": "FOX5 Vegas",
+     "published": "2026-11-13T19:07:00+00:00",
+     "summary": "Las Vegas City Council certifies results of municipal general election&nbsp;&nbsp;FOX5 Vegas",
+     "image": ""
+    },
+    {
+     "title": "Across racial lines, Mississippians celebrate Scott Colom\u2019s historic election: \u2018The times they are a-changin\u2019",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSjNxV2o1emNTTzRtRHFMNFNodnprNC1SQjdTZk4tTHZNb1ZPdk1mQlB5dEt2SW9SdjN1SnZmSk9XMXFIS01JYnQtN3hEYXVqMjE2bzlIb3U0Ti1ZMmh4c3FLVmVNNkFLTTlEbjJfZEhvb0M0Y05NazhYcWpzUjIwY3VNLUdXT0FNNjBJ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-13T19:05:00+00:00",
+     "summary": "Across racial lines, Mississippians celebrate Scott Colom\u2019s historic election: \u2018The times they are a-changin\u2019&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Washington Republicans on their party\u2019s future after the midterm election",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjRMdWZWM3VjXzdDck5iblZDbWJYR0pYQXJMVlpGcGJrRmtmak1OeGdaN3ktV25Fc19CZDc1a2xLSlE3UGtsZHB0RjBxY1BZRTVRWE1meElybjJfYi1MZVFkMUhvNk1IcTVCbHhHUEF5MDVySDdZTTlTZk4tazdFazMxVlZnVjNEQVhpUmZZX1p6b3k1am9iRjNONUtpUHo3NjA4Uy1rc2d6QVhGUFJiOGk5ZTV4WW5SNDdYQlNB?oc=5",
+     "source": "KUOW",
+     "published": "2026-11-13T19:03:00+00:00",
+     "summary": "Washington Republicans on their party\u2019s future after the midterm election&nbsp;&nbsp;KUOW",
+     "image": ""
+    },
+    {
+     "title": "Secretary of State Watson faces criticism over Mississippi election management mishaps",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVF3bzFieGN6Q1FqOVRLdmVTdV85U21HOTNsUENwTy1GODhjWHo2YlFMSFJYaHZkQ3Z4cEtKVWtVUlN4MGc1OVQ5QllGRmVHbHBuRXg4elpPZFBqUFJyU2xjZVVRMmF0WnJRZVF6QWI2NTNJOVNqbzlwZWNRaHVtVzlYSy0?oc=5",
+     "source": "Mississippi Today",
+     "published": "2026-11-13T19:00:00+00:00",
+     "summary": "Secretary of State Watson faces criticism over Mississippi election management mishaps&nbsp;&nbsp;Mississippi Today",
+     "image": ""
+    },
+    {
+     "title": "UK officials defend proposed change to tech policy after pushback from faculty, advocates",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VR1pJbVlkdThoeVV0OV82U0dtd0hQWUJzeEY5TXNZdzIyRFFqQnhEcXN6MHhUY0tPcHlLblFZSzRxXzBZOElIT3U3RGdqSEtLZlpwZFN2cFRHSVJEbERvdlh6Z0h1X2FpWFZ2WWRtTjNETU9LS3fSAXZBVV95cUxQZkhuX3RjTVExaFloTjJlYjJsZnBpOEtKSWV3UWRJNk9aWDNmMWxnY0UwQ2FId21yMEhTR2R4V0xXNGxaYmg2ak5nMi04alh4ZVpnUVR3dERYQ2NST0hqNHRNM2ZfdF9BLWV2OE1BQVRXQkp5UUpn?oc=5",
+     "source": "Lexington Herald Leader",
+     "published": "2026-11-13T18:58:55+00:00",
+     "summary": "UK officials defend proposed change to tech policy after pushback from faculty, advocates&nbsp;&nbsp;Lexington Herald Leader",
+     "image": ""
+    },
     {
      "title": "Smart Tax Policy Can Help Drive Housing Production",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXVMQkJOcl8xVzVvdTBnU2VxQVVaNmt6UDk4M0s2RFBfd1I5THJPMW9Kb1J1V3VwemFSRDFMeU51RFpOYjJGS2s1U3pmNlpQcnpuZTE3a3A2RUtpdHRTblYyYmZwNVcxeGZrX01RRWRQSUxZcUlCSnFhY29TSDhiSmJydVo1MG4xbnYyRA?oc=5",
@@ -234,97 +306,25 @@
      "image": ""
     },
     {
+     "title": "How will the US deal with Nvidia scandal?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T18:57:43+00:00",
+     "summary": "Tech giant CEO resigned and will testify before Congress.",
+     "image": ""
+    },
+    {
      "title": "Governor Josh Shapiro on why foreign policy matters to Pennsylvanians",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjByR2ptWlhHVWkwMGRtWXdhZnZ3cnVhUk11SG44S2Fha3gzai1YYWpxSUhGWldoYW5LOGYzakIzWHpsWG51ZEluMGpBRHNCby1QNGo0MGhYa1BpVUdFTWd5bEdGQVZ3UVBSNG1WbE56cjBWYVBqdmtrbTl3X1hvT1NxcEZmWV9wUm1NTG40MWVXSC1ZNkk2RDZLdWJCWk1GcWNLTWFRd3FlQTIw?oc=5",
      "source": "Atlantic Council",
      "published": "2026-11-13T18:56:03+00:00",
      "summary": "Governor Josh Shapiro on why foreign policy matters to Pennsylvanians&nbsp;&nbsp;Atlantic Council",
      "image": ""
-    },
-    {
-     "title": "Columbia County\u2019s updated November 2026 election results",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSndEVGxwYnl0WGJyOGFKZUkyVEJDMkhoS1VTZmhZVHRFbFozQWs4b05wS2ZfYmR4b1RXODRadnkyTWZlTWtFV3doQ1JmdVJhQ0dIMGoyeGZ1aDBxSUNnekZqSzJWLTR2WjlQeXVhbXR2eXRoc3B5U2xWdzRVaDNjZjBDaEFiamxkR1AyR1NiMjBsSlRLajhEdjRRdw?oc=5",
-     "source": "Columbia County Spotlight",
-     "published": "2026-11-13T18:50:34+00:00",
-     "summary": "Columbia County\u2019s updated November 2026 election results&nbsp;&nbsp;Columbia County Spotlight",
-     "image": ""
-    },
-    {
-     "title": "Elena Kagan Is No Supreme Court or Election Soothsayer",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFh1RjNDLWdaSFZUaU52Ulh1X0FTZDFDVHBfVS1JRWw2NFN4NjZPLUpnOW9udkhfSGxCMjB3dkFJVUxOSmhYV21YWU1jMEpEeTQwaVRwNGtLSU1yQXRnWVhKU2lHMmN3aXc5V0NOcmZSb2ZRbEdDVlNJTGVsRkpJZmsyM3Aza29HcWRTWjZOSQ?oc=5",
-     "source": "American Enterprise Institute - AEI",
-     "published": "2026-11-13T18:34:46+00:00",
-     "summary": "Elena Kagan Is No Supreme Court or Election Soothsayer&nbsp;&nbsp;American Enterprise Institute - AEI",
-     "image": ""
-    },
-    {
-     "title": "Blue wave ignites a wild, wide-open 2028 race",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDk3ZVR2c2NPRkU4TTNIN2xhS2dDNHNVUkR0ZkZsSjRCTncwQ0dEaXFiVThDVV92UGZYaVc1ZXZ1VEotRm5YdUlJMVU2eGRvVkVRbk1XYkpucTlLb0VOZU9UQUtzWWhTc1JSS2VrVVo4YTZlaWthSUNZSlkyc3UyVGcyNVJQV0lvSnppcDhkenlOS2QyNWtXaVFmV3R0SW1xOWc?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-13T18:34:35+00:00",
-     "summary": "Blue wave ignites a wild, wide-open 2028 race&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Republican challenges Allison Tant's House District 9 win",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdnFfcEZXV2doeTNIQ0JvNUZWMDVaTUZQU3IzQzFseGE5TUl5VE1heFlsTHhkVUJ0Wm5tNTRGNkx5dDhWRFBEaDJkTHExelBUQVFQRGdTdUJWb1hqR2t1WkVPX1hrWm9BZFd4VDV5dUQ0MDZBODFNUjhGSDFqS3VIZDdQcXE4MXFRT0RKM2dBMUxIZ0Z6cjd5ajc2RXpBQVNOTy01QUJueFJ6THBmUGNvcndsRG03RzFUQUEySFlUY3pWV21ZM3JCUmxMbHFNLXcxSjR6RVlQVTRPUHQ3X1NsVA?oc=5",
-     "source": "Tallahassee Democrat",
-     "published": "2026-11-13T18:33:00+00:00",
-     "summary": "Republican challenges Allison Tant's House District 9 win&nbsp;&nbsp;Tallahassee Democrat",
-     "image": ""
-    },
-    {
-     "title": "Some CT towns are hit harder by federal health policy changes",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3UzQXRrOUlYelJxejJraU56WDA2S2swaGlGTzl1SkVmS3NnT1E4a0h1Z3l2X2lFU2p4MEE3bHM4MU5MMjhlakV4Ry1iU3pWanBhNW5qQWVMOEpOMFpJRkRrcHlxQk5mS20tbkVycEZlNnN2aWdQOS01WGFISDFlZG5qUDJURjByckJaWW5OVU5qaXZGTDk0aEp3?oc=5",
-     "source": "CT Mirror",
-     "published": "2026-11-13T18:27:36+00:00",
-     "summary": "Some CT towns are hit harder by federal health policy changes&nbsp;&nbsp;CT Mirror",
-     "image": ""
-    },
-    {
-     "title": "United States Welcomes Re-Election of Doreen Bogdan-Martin as Secretary-General of the International Telecommunication Union",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNNWpkODdiX09lOGJ3NEl2cGpEcVFSZ0lRcy1aWFRWMXB3NEVYeWw1OUEwYW1YMmxmeUdvdGhMNTZDdnctREkza1pYYTR3TktsVmtkQTgxcXJCd0NGMXY1WVc4UjBWNjNLWEIzMU5wSmJyVDZsV2NIRWpqa290UzFpajl4cnhDODMyOVYwUEUxNG1qbkRjY1BxMVdHTl9Oc1pOMXFfcWlyT0ZKZ3JjenlyeTJBdE9IZEFJRzYxem9LSnFGd3FUZU1JLUlXVHpZMnpNNHpJcFFLbVhnbm41MFlLbzRHdXJQVVUtd0NvbE96VVhBS0Q3SklwVFB4ZVFMdUJNN2hqQVkzZkJOQnRiSEhiUURXOEFVSU0?oc=5",
-     "source": "U.S. Department of State (.gov)",
-     "published": "2026-11-13T18:22:35+00:00",
-     "summary": "United States Welcomes Re-Election of Doreen Bogdan-Martin as Secretary-General of the International Telecommunication Union&nbsp;&nbsp;U.S. Department of State (.gov)",
-     "image": ""
-    },
-    {
-     "title": "Meet Our New Vice President for Public Policy",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iUmtwYWZRRUJRdjE4Z3VGU01pQi1wazlac2IwZnF5a0dnMFV0UGFId2s4aDNiV0Z5QWtfZkR1MU1fbGVTOGNaczJBbFVjX29YelUzUGZ4U1RTelFscUlIblJuYUZHdElIWHIxeEJVUXJwaXpLQThv?oc=5",
-     "source": "Empower Mississippi",
-     "published": "2026-11-13T18:18:02+00:00",
-     "summary": "Meet Our New Vice President for Public Policy&nbsp;&nbsp;Empower Mississippi",
-     "image": ""
-    },
-    {
-     "title": "A Deep Look at Santa Barbara\u2019s Election",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTdlNUpLVHE5bF9zN0QtWVpWb2VVZklCM2ZxTFJMRzNMNlpSeWQtbWxxSklXWmoteWFtaFRtMFQyTTNyaUNZU0JpNlNqUkZNRHdxcVcxQnNfbl9OaUxYTjBqX2xXRWdFZ3o3NlRkZ192QnNSc21qb05ESXk0N1hGRG9XeWg?oc=5",
-     "source": "The Santa Barbara Independent",
-     "published": "2026-11-13T18:12:55+00:00",
-     "summary": "A Deep Look at Santa Barbara\u2019s Election&nbsp;&nbsp;The Santa Barbara Independent",
-     "image": ""
-    },
-    {
-     "title": "Election season's in full swing -- for 2028 that is.",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelpGMFdVb3ZfSHlYOGdwdWNfaVJwcWVaYmtyUzRnY2JlNEJVTk9TWkwwRC1PZkcyc1BkbmtMSGxJS0hhTUZLTGxXblc1eDFyWmNNb29sQ2tUSlBwSWNfT01ReWkxVTAycVdSZjZxclJDb0xPeGJsRHFrNmJ1dEJKaENEOHJGUEQ4U1FTSmNyV2R1Qkt2dkJjUWdrZUlWc0pTdE40WmRmUUJncVF6aFE?oc=5",
-     "source": "Michigan Public",
-     "published": "2026-11-13T18:09:00+00:00",
-     "summary": "Election season's in full swing -- for 2028 that is.&nbsp;&nbsp;Michigan Public",
-     "image": ""
-    },
-    {
-     "title": "What in the World?",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHRmZURmdjFfZTExSHV5RFgyaHMzVHBkcU5wSkNocXRDUnJ3TkNWdUU0Qmw3RjgtdWtKakdzbmQ2U1AtY1FYd2VxazNzdTRHVzJxWXRJbklnUlJZU01uLUphWktBU3VpMnBMTG9Ma20yRWtYOUFaOE9qZW9FVDRIbTdvN1hacTVlX0lBT3NDeWV5dFhKU2h1bW8tUDNZdk15emJDYQ?oc=5",
-     "source": "Foreign Policy",
-     "published": "2026-11-13T18:05:45+00:00",
-     "summary": "What in the World?&nbsp;&nbsp;Foreign Policy",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T19:03:03.112835+00:00",
+   "fetched_at": "2026-11-13T19:33:06.903655+00:00",
    "stale": false,
    "items": [
     {
@@ -334,14 +334,6 @@
      "published": "2026-11-13T17:10:43+00:00",
      "summary": "Stelco&#039;s US owner blames Trump&#039;s tariffs for layoffs, but its support for those same tariffs has raised questions.",
      "image": ""
-    },
-    {
-     "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
-     "url": "https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai",
-     "source": "\u00a9 Patrick T. Fallon, AFP",
-     "published": "2026-11-13T17:02:40+00:00",
-     "summary": "Jensen Huang\u2019s departure from Nvidia exposes the vulnerabilities behind the AI boom. As equities reel in response to his resignation following extramarital affairs, alleged Chinese",
-     "image": "https://s.france24.com/media/display/f641d4de-deb5-11f1-8acd-5f54d898a954/w:1024/p:16x9/6bb584644ef73cfa0c9ff3548f3f68f8f5d99d1a.jpg"
     },
     {
      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
