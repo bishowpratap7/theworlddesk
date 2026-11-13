@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-13T08:30:40.716526+00:00",
+ "generated_at": "2026-11-13T09:00:44.724609+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T08:30:40.716501+00:00",
+   "fetched_at": "2026-11-13T09:00:44.724582+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+     "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+     "source": "The Guardian",
+     "published": "2026-11-13T08:49:19+00:00",
+     "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninusla t",
+     "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e"
+    },
     {
      "title": "Microsoft \u2018seeing positive results\u2019 from attempts to fix global outage affecting Teams and Outlook",
      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
@@ -108,26 +116,34 @@
      "published": "2026-11-13T06:34:59+00:00",
      "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America\u2019s security was put at risk Nvidia scandal \u2013 latest updatesAnalysis:",
      "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175"
-    },
-    {
-     "title": "Victoria election 2026: Labor and Greens trade accusations of \u2018dodgy deals\u2019 as preference fight puts key seats at risk",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
-     "source": "The Guardian",
-     "published": "2026-11-13T06:16:06+00:00",
-     "summary": "Greens say they will not direct preferences to Labor in 15 seats after party\u2019s \u2018unforgivable\u2019 decision earlier in weekGet our daily political email, free app or daily news podcastT",
-     "image": "https://i.guim.co.uk/img/media/299ca057bd2e7758beac23346a48b6968734c813/460_0_4600_3680/master/4600.jpg?width=140&quality=85&auto=format&fit=max&s=cfaed272d5c5a6e363b556972986b69d"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T08:30:40.716514+00:00",
+   "fetched_at": "2026-11-13T09:00:44.724596+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Kushner Says U.S. Working Toward 'Largest Prisoner Exchange' of Russia's War in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3JkdktUN21FUDg3ZTJTMkR2TzRSR2hQMUJuNlQtRjhyRjYyQjQ4U3hqVER6YXlNREk1ZHRjVmYtczdNVHJBZHh5MDdMLTFIdTkxRTYwNktEcThLelVYejJfYkZ4OWhjQzRyQnc1RE1aRTFmTXMtc3Y5Z2FxWVNUT0xOdlJ0TjE1bDZnX2hEYVpNLWFoVmxWWUZtbklWRC1CNnZNNGJ1N2wwMUFsRmpKbFBUcndhWXpnR3VzSXRoQThsS29aN1ZBdmM3QQ?oc=5",
+     "source": "The Moscow Times",
+     "published": "2026-11-13T08:40:28+00:00",
+     "summary": "Kushner Says U.S. Working Toward 'Largest Prisoner Exchange' of Russia's War in Ukraine&nbsp;&nbsp;The Moscow Times",
+     "image": ""
+    },
+    {
+     "title": "6 killed as Russia, Ukraine trade accusations about overnight attacks after Abu Dhabi talks",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWmpzZ2tINjVOaVZhX1RHVjNlTHlzb2lGMVVJcGZkbFBJY3ZhSTA1bVZfUDZRb0U2bUpDc2dvUXBDUEN2bkhVd19ETm9SMmRRSWpWOGt5MFdOUzFkM2xDOGNkSHNGVEhYdHNOZTZ3RzgxRjJaNDRqd3J2VXJNdkRnMHQwTXh5c05EdnRFdEMyTm9nT3BjQm5ZWmdXQVRxSmVxVTZYcnlfbHUweE9TMzk4alA4STNCejNhdjZKLWo1TlFMdVl3Z0VyWGhzUTFERXNHUGFrMA?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-13T08:34:40+00:00",
+     "summary": "6 killed as Russia, Ukraine trade accusations about overnight attacks after Abu Dhabi talks&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
     {
      "title": "Kushner: \u2019largest prisoner exchange\u2019 of Russia-Ukraine war nears",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTc0VHZ1NzY1Wnl5LW0zMmJUS1h3N0FHcnpCejB3bHF0dXdjcVVocU5HdTNkSkt1TmJZdlRBTE9zN0h1OXE4ZW9uZzBPNEtPb3A3YktsQlFJTjhqTkNNYXdWcy1fRmFGcVExZlZ1elEyYVl4R3o3dlpPOGdWODdkZklLcmROXzhCNTR0UzhHRzU?oc=5",
      "source": "The New Arab",
-     "published": "2026-11-13T08:23:34+00:00",
+     "published": "2026-11-13T08:23:46+00:00",
      "summary": "Kushner: \u2019largest prisoner exchange\u2019 of Russia-Ukraine war nears&nbsp;&nbsp;The New Arab",
      "image": ""
     },
@@ -202,35 +218,35 @@
      "published": "2026-11-13T06:23:00+00:00",
      "summary": "Russia's war casualty toll in Ukraine up by 2,590 over past day&nbsp;&nbsp;Ukrinform",
      "image": ""
-    },
-    {
-     "title": "Boxer on death row in Iran vows \u2018not to bow before oppression\u2019 after winning rights prize",
-     "url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
-     "source": "The Guardian",
-     "published": "2026-11-13T06:00:11+00:00",
-     "summary": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award A boxer and political prisoner on ",
-     "image": "https://i.guim.co.uk/img/media/ae911a85a5e3f88e9b0812fc2e2ee4780633d4b5/0_1_2320_1856/master/2320.jpg?width=140&quality=85&auto=format&fit=max&s=b3984b367b1faf3a0bae461597f477ad"
-    },
-    {
-     "title": "Russian diplomat appears in audience for Telegraph live Ukraine event",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUThJRF80WEJwek5VaG5vME1FZ3JaUWRmQWd5OTE4THJNc2htX1lGMTZoNFJ5M3I4UTFQRjduQUJLNzI4YUpMZ3RUME0tY0RPcUowUnlkc0VaMGtUcVdWSnR1cWw0NVVpVVVHNHI2RFc2eEExMzBXSmVZZUNsX0x3Y0NOaU1rVG42Z2tFNTJJX0U1dUlpaTU5bm5NcW1ucGlo?oc=5",
-     "source": "The Telegraph",
-     "published": "2026-11-13T06:00:00+00:00",
-     "summary": "Russian diplomat appears in audience for Telegraph live Ukraine event&nbsp;&nbsp;The Telegraph",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T08:30:40.716517+00:00",
+   "fetched_at": "2026-11-13T09:00:44.724599+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Kern County says 30,054 ballots still unprocessed as election concerns raised at meeting",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFVFSDluS0h3Y3dlNkp4UG5Ec19uY2g0THpHbGVSV3hmelhINEpzalZ6ODZLa0tNeTRlQ0c1dEdsdEpVeUt4TU5oLTNpVEt3Yk5qREpOUGZWRy1TVVY0NndHdjVRbDlVYjllb2Q1aXo2b3dDWVhBclZPMXN6QzJmTzhoY1BBUTdFYmpXcEhfV01QeFJRVDMxcDdLUlN2RFlibktQcmJ1Vno2T055UlhmZ0UxSVJ1TmYtS2JwQXExc0VCanM?oc=5",
+     "source": "KBAK",
+     "published": "2026-11-13T08:35:48+00:00",
+     "summary": "Kern County says 30,054 ballots still unprocessed as election concerns raised at meeting&nbsp;&nbsp;KBAK",
+     "image": ""
+    },
     {
      "title": "NAWG Urges Farm Bill Action and Democrats and Farm Policy",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUM4Wjd5Y0NlYk40WElZU3l2RjhweThRZE5RNThvRDU1RmJKM3JfZHZ0dlFhTk1ieDM3em00cHZZdnFxVmJwNmlJRFU4RENnOVlzMURSRUhuMGRTNXB2X29lYTlXRXBTNUtiYi1jMHMwS01HSjBfcU5UcGNxZnozaEU4aXlRTzVZZ1ctV1UxM2haMnlZaHktMWR1VzVZOTgwbnhTY0VkRElGZ1ZDbjlEQzZiVllWTWds?oc=5",
      "source": "AG INFORMATION NETWORK OF THE WEST",
      "published": "2026-11-13T08:01:18+00:00",
      "summary": "NAWG Urges Farm Bill Action and Democrats and Farm Policy&nbsp;&nbsp;AG INFORMATION NETWORK OF THE WEST",
+     "image": ""
+    },
+    {
+     "title": "Serbia: Seismic election result ousts long-serving leader and dominant party from power",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdkRyUWpnaEREdEJrV2x2V01EQXJQYmh3aUYzU0pFN2JKeG4wOXIwMUUyQk5jUDZuWGhCWGtwWVFGZzZzUTFUeVhMM04xVVRJUjVkWXB1T1NDQWk2YmU0Ql9mMU14SjBnMjFnaHFHR2tNVVF0N3BSbUVDWEtOQTc1LUk5S255RWVZNFItQTkxcHpBYVlRUDAxMmJJZGVKMExXVmJDZ3hKVFZfem1sTG83S0lqQWtRZWF5aVFZ?oc=5",
+     "source": "Credendo",
+     "published": "2026-11-13T07:39:47+00:00",
+     "summary": "Serbia: Seismic election result ousts long-serving leader and dominant party from power&nbsp;&nbsp;Credendo",
      "image": ""
     },
     {
@@ -304,27 +320,11 @@
      "published": "2026-11-13T05:01:06+00:00",
      "summary": "In French Election, Centrists Eye a Judo Star and a Central Banker&nbsp;&nbsp;The New York Times",
      "image": ""
-    },
-    {
-     "title": "2026 election points to a changing Michigan, more divided by party",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WSWtORFpva0I1aGE2RjRGZmdvWU9iSllHMVZwR0gydDhESkZvdW5FNkdiXzI0d09oTE1fbUZDYjNlWnpIeWhIYjBhWkZUU05mMVFVbDlteThjY3VYc2hvTWpBMldGbUNyejlselIyT1locnU5OGJv?oc=5",
-     "source": "Belleville News-Democrat",
-     "published": "2026-11-13T05:01:00+00:00",
-     "summary": "2026 election points to a changing Michigan, more divided by party&nbsp;&nbsp;Belleville News-Democrat",
-     "image": ""
-    },
-    {
-     "title": "Workforce Investment, AMR and HIV Funding Lead IDSA Policy Priorities for New Congress",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSk5wQlZQajJYS0dCbEtjcHNRVDNIV0JvY2V3eDZoa2ZuY0x2SEtJaU9rNEVVTWtIZUlWU2ZoYjN1dDRRX1ZvQ0ZkWDVXYnNOM2RBYmZpQS1IdFRDNWctbmUyU0N1YUtCWEJ4MjFCcXNsS2c0NWt4V1FIOVpVa0tOVTNfczZKQ3JPcDkwcFlJa2x3WU55eW9WdjB3RnI5TnUyNEI5Z05mc1BSV0V0RlhwQnJUSE9mdXFNZnpjeGFPNENiU0Jxc044SkFSLURHQ3IzUDN5TjdKRzRncFpVRXpHag?oc=5",
-     "source": "Infectious Disease Special Edition",
-     "published": "2026-11-13T05:00:17+00:00",
-     "summary": "Workforce Investment, AMR and HIV Funding Lead IDSA Policy Priorities for New Congress&nbsp;&nbsp;Infectious Disease Special Edition",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T08:30:40.716518+00:00",
+   "fetched_at": "2026-11-13T09:00:44.724601+00:00",
    "stale": false,
    "items": [
     {
