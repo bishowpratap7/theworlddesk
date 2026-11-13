@@ -1,10 +1,58 @@
 {
- "generated_at": "2026-11-13T09:00:44.724609+00:00",
+ "generated_at": "2026-11-13T09:31:02.745192+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T09:00:44.724582+00:00",
+   "fetched_at": "2026-11-13T09:31:02.745163+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\ud83d\udd34 Live: Microsoft 'not aware of any malicious activity' behind global Outlook outage",
+     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
+     "source": "France 24",
+     "published": "2026-11-13T09:18:23+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "Pope Leo XIV warns on pressures facing modern families",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T09:11:37+00:00",
+     "summary": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
+     "image": ""
+    },
+    {
+     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "source": "The Guardian",
+     "published": "2026-11-13T09:08:16+00:00",
+     "summary": "Tech company \u2018seeing positive results\u2019 with efforts and says no indication problem was caused by cyber-attackMicrosoft outage \u2013 live updatesTell us: have you been affected by the M",
+     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
+    },
+    {
+     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T08:53:53+00:00",
+     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesin DublinEU leaders will continue talks on their diplomatic and financial support f",
+     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+    },
+    {
+     "title": "Who gets to tell the world\u2019s news?",
+     "url": "https://www.aljazeera.com/features/longform/2026/11/13/who-gets-to-tell-the-worlds-news?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T08:51:11+00:00",
+     "summary": "A look back at the Global South&#039;s early efforts to challenge Western dominance of international news.",
+     "image": ""
+    },
+    {
+     "title": "Nvidia\u2019s Huang, Lutnick summoned to testify to US Senate",
+     "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T08:49:59+00:00",
+     "summary": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
+     "image": ""
+    },
     {
      "title": "Storm Charles causes floods and flight cancellations across southern Europe",
      "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
@@ -12,14 +60,6 @@
      "published": "2026-11-13T08:49:19+00:00",
      "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninusla t",
      "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e"
-    },
-    {
-     "title": "Microsoft \u2018seeing positive results\u2019 from attempts to fix global outage affecting Teams and Outlook",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "source": "The Guardian",
-     "published": "2026-11-13T08:16:11+00:00",
-     "summary": "Microsoft 365 also hit but tech company says no indication problem was caused by cyber-attackMicrosoft outage \u2013 live updatesMicrosoft has said it is \u201cseeing positive results\u201d from ",
-     "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
     },
     {
      "title": "Washington residents hold vigil after deadly shooting",
@@ -76,53 +116,61 @@
      "published": "2026-11-13T07:04:10+00:00",
      "summary": "More than six decades after James Bond first appeared on the big screen, the search for Daniel Craig's successor has become a revealing debate about the future of one of cinema's m",
      "image": "https://s.france24.com/media/display/b9a9d7aa-df2e-11f1-9fbc-29048b396e03/w:1024/p:16x9/EN-20261112-163722-164327-CS.jpg"
-    },
-    {
-     "title": "2027 AFCON Qualifiers: Top guns Senegal, Cameroon, Ivory Coast deliver",
-     "url": "https://www.france24.com/en/tv-shows/sports/20261113-2027-afcon-qualifiers-top-guns-senegal-cameroon-ivory-coast-deliver",
-     "source": "France 24",
-     "published": "2026-11-13T06:59:59+00:00",
-     "summary": "Africa's heavyweights are delivering in the 2027 AFCON qualifiers. Senegal marked Patrick Vieira's first home game with an emphatic win over Sudan, while Cameroon and Ivory Coast t",
-     "image": "https://s.france24.com/media/display/cbc682b6-df02-11f1-9a47-695cb59fade5/w:1024/p:16x9/000-D7BZ2XB.jpg"
-    },
-    {
-     "title": "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
-     "url": "https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T06:57:56+00:00",
-     "summary": "Pegula&#039;s win, in the final group one round-robin match, meant Gauff was knocked out of the season-ending championships.",
-     "image": ""
-    },
-    {
-     "title": "Calls for crackdown on China chip exports \u2013 as it happened",
-     "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T06:50:49+00:00",
-     "summary": "This live blog is now closed \u2013 you can read our latest report hereCan the AI economy survive without its \u201ccentral bank\u201d? What does Jensen Huang\u2019s fall mean for the world\u2019s second-m",
-     "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682"
-    },
-    {
-     "title": "US reports record number of deportations and arrests in 2026",
-     "url": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T06:46:35+00:00",
-     "summary": "ICE carried out 483,200 deportations in 2026. Democrats prepare to investigate tactics used.",
-     "image": ""
-    },
-    {
-     "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-     "source": "The Guardian",
-     "published": "2026-11-13T06:34:59+00:00",
-     "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America\u2019s security was put at risk Nvidia scandal \u2013 latest updatesAnalysis:",
-     "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T09:00:44.724596+00:00",
+   "fetched_at": "2026-11-13T09:31:02.745177+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukrainian Drone Attack Kills 4 Workers, Sparks Fire at Volgograd Oil Refinery",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTVzYmZBZlpGQ1NrNzRkZzAzQTgyS09SUW1NbWpqNEdzMXNkd0RSb2NNWVdXaEt6RXdtMDR2UW9kSXJkUnF2MjFNVmZNTUYwRmZ1b0QwUi1QOG5FYzFKN1hONHpMb3lscnJmODhMa1gwMDRsXzA3VVpiRTZPQjZmSzFNOXJkYmw3SHpMZlkwcV85VTNUcXAtTG0tQXpZSXJUeFBjRTk1S21zYVZFWkcxUXhyR0VaUjdZcjRWeXRzcmdpTnM?oc=5",
+     "source": "The Moscow Times",
+     "published": "2026-11-13T09:26:13+00:00",
+     "summary": "Ukrainian Drone Attack Kills 4 Workers, Sparks Fire at Volgograd Oil Refinery&nbsp;&nbsp;The Moscow Times",
+     "image": ""
+    },
+    {
+     "title": "\ud83d\udd34 Live: Microsoft 'not aware of any malicious activity' behind global Outlook outage",
+     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
+     "source": "France 24",
+     "published": "2026-11-13T09:18:23+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "Pope Leo XIV warns on pressures facing modern families",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T09:11:37+00:00",
+     "summary": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
+     "image": ""
+    },
+    {
+     "title": "Former Ukrainian PM\u2019s Aide Seriously Injured in Moscow Car Blast \u2013 Reports",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlNkOTh5bHB1SEh4aVpYUVZSS1RvOUg3cjBodjBfNlR0bXNKZGljUkhMUm1tNlZOTXNKd2hiVzhuX2V4ODc0WFNQdTVDTS00V1ljcjVTZ1JGRnNyUk9GbXo3M1dSMzZkQTJGWm5pajFLYndjWlBrbGM5ODR3TWJaTFE3dUpjV2R3b0ZMN1hIZTNIT1phX3pKeVc2NkxleVMzQmE1NDFNQWM2OTY4emhuVERCd3lUV3A5YnA1Nw?oc=5",
+     "source": "The Moscow Times",
+     "published": "2026-11-13T08:54:00+00:00",
+     "summary": "Former Ukrainian PM\u2019s Aide Seriously Injured in Moscow Car Blast \u2013 Reports&nbsp;&nbsp;The Moscow Times",
+     "image": ""
+    },
+    {
+     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T08:53:53+00:00",
+     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesin DublinEU leaders will continue talks on their diplomatic and financial support f",
+     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+    },
+    {
+     "title": "Four killed in Ukrainian drone strike in Russia\u2019s Volgograd, official says",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNEJHTWtfaGoyVkZ4Q1AyS2hUVjVmMmdidnF2TzF0ZVpzT2N6NWw4dHFLZDVzaHlGTmpObHg1S1BLYmg4cG8tY2Jrdm0xdVpDLWdOWEhKdW5ZbjZ5aDExbXJXenktbHJYdmwzaDB2a01RU1NCdGtuYndtNlJwUVMyOURlZWlWRElDaU9kWmRZMmtabTNjMXVBQ09UNTNEUzNLWWdZTlNMTkZYMmxmdzdmUUdXcVlXYklKRWpDWG9YMlNUbVXSAcgBQVVfeXFMTmpyUnJTSWFLQnNmcVhnSXBUTEpDd0xQS2VlOC02RWVRQ3BnTTdOaE5kX1NkYTg5aFAxSmF4SnBEU3V5d25rTzMwS3g2dTJOZl9KNnVyd1V3MGVDeU5FTTBhX2k1cngtUVlOb0dnM21mTmRHSURRWW1wZVVsRG1aLWpQbjVFOWc0UjFGOFlhN3VMMHM5Z3ZHREpYZUxtbmVJWUtVUk1ZWllIcUFXUmZsUlJzRFdBU1gzZVRHc1d5a1YyVlFlY09xN0s?oc=5",
+     "source": "Al Arabiya English",
+     "published": "2026-11-13T08:46:00+00:00",
+     "summary": "Four killed in Ukrainian drone strike in Russia\u2019s Volgograd, official says&nbsp;&nbsp;Al Arabiya English",
+     "image": ""
+    },
     {
      "title": "Kushner Says U.S. Working Toward 'Largest Prisoner Exchange' of Russia's War in Ukraine",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3JkdktUN21FUDg3ZTJTMkR2TzRSR2hQMUJuNlQtRjhyRjYyQjQ4U3hqVER6YXlNREk1ZHRjVmYtczdNVHJBZHh5MDdMLTFIdTkxRTYwNktEcThLelVYejJfYkZ4OWhjQzRyQnc1RE1aRTFmTXMtc3Y5Z2FxWVNUT0xOdlJ0TjE1bDZnX2hEYVpNLWFoVmxWWUZtbklWRC1CNnZNNGJ1N2wwMUFsRmpKbFBUcndhWXpnR3VzSXRoQThsS29aN1ZBdmM3QQ?oc=5",
@@ -170,61 +218,45 @@
      "published": "2026-11-13T07:19:08+00:00",
      "summary": "The fight for control of the Constitutional Tribunal is eroding Poles&#039; trust in their own state.",
      "image": ""
-    },
-    {
-     "title": "Ukraine Talks: Is Peace Any Closer?",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oUmNIakR2M0Zfa3JuYWZyUkN1NmJvZjAwbk5RVzktZjR4TlhOSmFGQ1pQdXhfNmpSV3VXbjNwaGRqMWM3ZTNoc091MA?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-13T07:13:06+00:00",
-     "summary": "Ukraine Talks: Is Peace Any Closer?&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Ukraine War, Day 1,723: No Advance But Europe To Join Talks With Russia",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjBqWXNWUk41eHpXYXBZbW5ZS1pzTjFIaDZSQWJxbDc0VGxaZ3IzZktESXkxM1pQRXdZX29fR0JrcVpYQjRLT0VLU0xsRXZkRmpHVlBKcVRkcGZoZ1gwTWM0S29KVHF4eUN0ZWI5dTVkVkkyNUJoOGl4NWJ3V25wemJpR3BRSldVdWdJLTVWcjRPT2RwcXVV?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-13T07:08:55+00:00",
-     "summary": "Ukraine War, Day 1,723: No Advance But Europe To Join Talks With Russia&nbsp;&nbsp;EA WorldView",
-     "image": ""
-    },
-    {
-     "title": "The Gulf must build security that can outlast this war",
-     "url": "https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T07:08:01+00:00",
-     "summary": "Trump\u2019s latest statement should accelerate the region\u2019s move towards a layered and networked security architecture.",
-     "image": ""
-    },
-    {
-     "title": "2027 AFCON Qualifiers: Top guns Senegal, Cameroon, Ivory Coast deliver",
-     "url": "https://www.france24.com/en/tv-shows/sports/20261113-2027-afcon-qualifiers-top-guns-senegal-cameroon-ivory-coast-deliver",
-     "source": "France 24",
-     "published": "2026-11-13T06:59:59+00:00",
-     "summary": "Africa's heavyweights are delivering in the 2027 AFCON qualifiers. Senegal marked Patrick Vieira's first home game with an emphatic win over Sudan, while Cameroon and Ivory Coast t",
-     "image": "https://s.france24.com/media/display/cbc682b6-df02-11f1-9a47-695cb59fade5/w:1024/p:16x9/000-D7BZ2XB.jpg"
-    },
-    {
-     "title": "Putin proposes another local ceasefire, Ukraine is wary",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oT2FhMm9JLXA1X1VsZ1IzQXNYVWVwem9vZ0NVYXdsWnBDQkZZd1FaR0xacHZzT0ZMZFQxakdkc3RYNFdHaVpabDhJbGUyR1ZxbXotRjRoSUdaWXNTTXJ6MkdNbw?oc=5",
-     "source": "NHK\u30cb\u30e5\u30fc\u30b9",
-     "published": "2026-11-13T06:45:08+00:00",
-     "summary": "Putin proposes another local ceasefire, Ukraine is wary&nbsp;&nbsp;NHK\u30cb\u30e5\u30fc\u30b9",
-     "image": ""
-    },
-    {
-     "title": "Russia's war casualty toll in Ukraine up by 2,590 over past day",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3dRdUZ6OHZJMUNzLW9pNkZ6WGszODVUWF9xSFk4a3RPclBkeFhVZEdGdEJTUGpZbU90S0FlVkQwY0Z1eE54XzZqREhsZ05mSUloZUkzb1M5OHFPSGUtWDhaTU8zbVNkZWJ4a20yQ3dWN0s5OFRWZlRyVDBORWVPQ0JJc2xTR0tRcmwwaWUyVGkyRC1XXzlHcGE4UnNVNFBuemQ5aFFUQVNZMWR5VzR3ddIBtgFBVV95cUxNY25hRTZtSWJOWm9oVHY2ZV9qcjFkNkNmMmFWZ0N1ZEF6OFVCbjF1TFlxSGJ5Q3RlYzJIQU5Fd3g1QmlDMGkxLW8zenFvdVgtNXFuSnZla1VGdjR6bnNueWNWREdnZl9FcWQ0V3NGZHQ1aFpNd3d0MnJhdVJCR21lQm1fMXNCbGs4dzZSTC1CYU9SZDBsb0Jyd08tU2haTDNIRTVSQklVUUpXdndjUjRTUmphYnF5dw?oc=5",
-     "source": "Ukrinform",
-     "published": "2026-11-13T06:23:00+00:00",
-     "summary": "Russia's war casualty toll in Ukraine up by 2,590 over past day&nbsp;&nbsp;Ukrinform",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T09:00:44.724599+00:00",
+   "fetched_at": "2026-11-13T09:31:02.745181+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Your 2026 Student Government Senate election guide",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUdCb01TUjFBM21yZ3pFZUpuNzZkOERLc2YzTEpGajFpVjhpSkYteTR4NC10aXp5Q3FqYno0LTJBVlA2UUIwQnpvR2c1MFVtX2w3QktERDliYTNXMnlYUl9iWFR1T1RPN0IzMnV0bUhyTHRBdmVka3doejhXbHNkcFlTNUVCeEJzWlN0c1ZfTFo1Z2JCUjUzV0Y4M2M?oc=5",
+     "source": "The Lafayette \u2013 The Oldest College Newspaper in Pennsylvania",
+     "published": "2026-11-13T09:09:32+00:00",
+     "summary": "Your 2026 Student Government Senate election guide&nbsp;&nbsp;The Lafayette \u2013 The Oldest College Newspaper in Pennsylvania",
+     "image": ""
+    },
+    {
+     "title": "How the \u2018Blue Wave\u2019 Could Shake Up Food and Ag Policy",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDgxWDlYVUtXYXA4cHFud3RGRWV2UUQ3eFJmREhPdmRnS0J4eUVEbmlzcDFoZFBtN21uR1FtLTloQ0ZzQ0xrR2pwQkN2RXRsU283S0pkcTlrT1diRzZaOE9qQ3cxUkEzNjdfVmVFWVoyZURScWFTRzNNa2ZtS1U4V1VUejV4a1hFRlcxdk53?oc=5",
+     "source": "Civil Eats",
+     "published": "2026-11-13T09:05:48+00:00",
+     "summary": "How the \u2018Blue Wave\u2019 Could Shake Up Food and Ag Policy&nbsp;&nbsp;Civil Eats",
+     "image": ""
+    },
+    {
+     "title": "A moment from Deb Haaland\u2019s election night",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0weGp4MmttQzRHajJ0OXpER09MdGdFOXNuUEpUMlRaRTZ4OEpSNWRQOU5SdUZxUi1XYldkcUIwQUN3YTFDdGRsejBYTzVPbHlVVXRjTl9oYWFYQ0tHZDV6emxxZktKVnphWTNwWHJqSnN3Y2F6cVBfbkRxTFVPVUk?oc=5",
+     "source": "High Country News",
+     "published": "2026-11-13T09:00:00+00:00",
+     "summary": "A moment from Deb Haaland\u2019s election night&nbsp;&nbsp;High Country News",
+     "image": ""
+    },
+    {
+     "title": "Nvidia\u2019s Huang, Lutnick summoned to testify to US Senate",
+     "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T08:49:59+00:00",
+     "summary": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
+     "image": ""
+    },
     {
      "title": "Kern County says 30,054 ballots still unprocessed as election concerns raised at meeting",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFVFSDluS0h3Y3dlNkp4UG5Ec19uY2g0THpHbGVSV3hmelhINEpzalZ6ODZLa0tNeTRlQ0c1dEdsdEpVeUt4TU5oLTNpVEt3Yk5qREpOUGZWRy1TVVY0NndHdjVRbDlVYjllb2Q1aXo2b3dDWVhBclZPMXN6QzJmTzhoY1BBUTdFYmpXcEhfV01QeFJRVDMxcDdLUlN2RFlibktQcmJ1Vno2T055UlhmZ0UxSVJ1TmYtS2JwQXExc0VCanM?oc=5",
@@ -239,6 +271,14 @@
      "source": "AG INFORMATION NETWORK OF THE WEST",
      "published": "2026-11-13T08:01:18+00:00",
      "summary": "NAWG Urges Farm Bill Action and Democrats and Farm Policy&nbsp;&nbsp;AG INFORMATION NETWORK OF THE WEST",
+     "image": ""
+    },
+    {
+     "title": "A journalist's election cycle",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnJIZjJVV3pueVgzNU52N3NPR1p6V0xmZ3ZQNnJSVEUyTXQxZ0VEeDB5X1NyR0pnWTZlNU9QbVNSaU40WURDbUpMNDVoVGtDeDZMMUZjaXJRZ054TU5kTmV1S2hONE9YQ2pUaUxreTNnRjVfZ21QUjdYcEpDSUdhSk4zMkNjUkt6WXVCTHk0VQ?oc=5",
+     "source": "Coeur d'Alene Press",
+     "published": "2026-11-13T08:00:00+00:00",
+     "summary": "A journalist's election cycle&nbsp;&nbsp;Coeur d'Alene Press",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-13T05:36:10+00:00",
      "summary": "Hegseth\u2019s Troubles Are Far From Over&nbsp;&nbsp;Foreign Policy",
      "image": ""
-    },
-    {
-     "title": "Students From Swing States Share Post-Election Reactions",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjZUSExDQXQ3N3cyS1J6ZUJnNjRGWjhzY0dlb1dFNExaVzEzd09DaXhqR3dMX3FzT2FaWl94eGJoU005c054WE9qY1ExQzJKeFA2UkVjQ3NrNGZ1ZWkwaE9HOTZDMDBCYXN4OWsyS2Nqb21zaUdzLXZCSFByNnV4Rmg5WFMwakdfV25Dd0RoQkdldjctSHJXcU9xRWJDWmRJ?oc=5",
-     "source": "The Cornell Daily Sun",
-     "published": "2026-11-13T05:29:10+00:00",
-     "summary": "Students From Swing States Share Post-Election Reactions&nbsp;&nbsp;The Cornell Daily Sun",
-     "image": ""
-    },
-    {
-     "title": "Liberal residents reflect on ICE raids, election results in southwest Kansas",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHFiTHlvcTRSYjV4OGRtb1RQeWFITmZRWDFTQTRYa1pyMHVWejFPNWpEbm1GWlVnUlVNclZNVU9wVW56OUU3N3ZaZGptSFRVYi0tWGVXQnhQZDhwUzdYb3UtS3pHQzlYQUdKR016NGZNNGw0TnZ5T0dCRi1adFkwc3VkbVpVUmRCNnU1UTN3eE43a085cWVaR3djZmRuYUI3WGo5Y9IBuAFBVV95cUxNR3A1TXhBU2E4QmJkeVZ1VEdQSXk3Z1hiR3o1cmdDbVpoSklXdmRqMVBabjYyZE5DdmRFYkwxU29HS3FmdzhlRmltQU1ndEluNUJvLXl3WDE3N3FhaThKdDFSVVlBZDRUckxDQmhKblNrVkRZSERIVmYyZVZNVllQQXMzcTNRYjB2OGlNbTF6c2xFX1dNNDVLS1A3Y2djWVBOT3JsdnlkVS1rUGJGZWtVTUZoSHBkUHdS?oc=5",
-     "source": "KWCH",
-     "published": "2026-11-13T05:16:00+00:00",
-     "summary": "Liberal residents reflect on ICE raids, election results in southwest Kansas&nbsp;&nbsp;KWCH",
-     "image": ""
-    },
-    {
-     "title": "Election latest: JKT goes over 50% with new batch of results",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMFlpcm1MNGFZUE1HOFhDYUJLLTE5RnpfQ1JRNy1KTjNMMXRMUDBTa1hWdjJTb0dQMlVCbndwZF9TWE5UQnZSOVk2cFBaVlUzNldtTzNLd19od2JyLVhabjZqTnNfNzNnaVBZX0VlcV9vSmo5dlgzSDVhcExjZ2VjampoNFJzSWdKbFVJQU11UjFEY0FPa1dOTlZTTzVLZU1DOWh3RlpNSlZhLTA?oc=5",
-     "source": "Alaska's News Source",
-     "published": "2026-11-13T05:14:00+00:00",
-     "summary": "Election latest: JKT goes over 50% with new batch of results&nbsp;&nbsp;Alaska's News Source",
-     "image": ""
-    },
-    {
-     "title": "As election nears, Spain's Sanchez struggles to rally disillusioned left",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEdIdklzemVxYVBScFNuVEVObkNwNFc3NlpDeWFNUDZuYVc0anZEOWFHUFJDRWxSenRjLUdxalJyWXJmZFBDUzdHZmdvQUdoQmVrMEU1WWJGQUhZR0ZLMHZpc1Q0R2FSam43LWhybHBlUFBrY3RETW1vWDJtMkd5RURGWE9kX2Vpckw1QnkxMHFZZm5STWJoWUMzTm1PSFdzQkVSU3JMdjdFdw?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-13T05:03:00+00:00",
-     "summary": "As election nears, Spain's Sanchez struggles to rally disillusioned left&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "In French Election, Centrists Eye a Judo Star and a Central Banker",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWlPY2VGX3Zsbi0zUUJ0eUV3UENILXJJRnduVVBfNXJidi1OaTJQUkxSUERXYmt4ckR6bDB1MXoyQm9wVjlNSTV1UU80SFg5dWhGTHM0OWY0MzJZdFIwNkFGemVCcTVIWmJtRjV6dVAxS1FkNkRyYXVEYmxvV2pSUHE4WFVuRFg0TzFaaGY3c1Y?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-13T05:01:06+00:00",
-     "summary": "In French Election, Centrists Eye a Judo Star and a Central Banker&nbsp;&nbsp;The New York Times",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T09:00:44.724601+00:00",
+   "fetched_at": "2026-11-13T09:31:02.745183+00:00",
    "stale": false,
    "items": [
     {
