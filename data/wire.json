@@ -1,10 +1,66 @@
 {
- "generated_at": "2026-11-13T09:31:02.745192+00:00",
+ "generated_at": "2026-11-13T10:01:06.692121+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T09:31:02.745163+00:00",
+   "fetched_at": "2026-11-13T10:01:06.692092+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "'One of the biggest outages ever': Disruption to Microsoft services enters second day",
+     "url": "https://www.france24.com/en/video/20261113-one-of-the-biggest-outages-ever-disruption-to-microsoft-services-enters-second-day",
+     "source": "France 24",
+     "published": "2026-11-13T09:59:22+00:00",
+     "summary": "An outage of Microsoft services such as Outlook, Teams and Copilot that began on Thursday continued to cause disruption to users around the world on Friday as the tech giant strugg",
+     "image": "https://s.france24.com/media/display/cefb3d1c-df45-11f1-8907-f71d22e7fea9/w:1024/p:16x9/EN-20261113-100137-100517-CS.jpg"
+    },
+    {
+     "title": "What we know about the global Microsoft outage",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-13T09:59:20+00:00",
+     "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94f/live/05203e60-df46-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+     "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T09:43:30+00:00",
+     "summary": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
+     "image": ""
+    },
+    {
+     "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+     "source": "The Guardian",
+     "published": "2026-11-13T09:41:22+00:00",
+     "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy\u2019s ties to Jensen Huang and delays in adding MegaSpeed to trade blacklistAnalysis: Jensen Huang built a",
+     "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175"
+    },
+    {
+     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T09:39:57+00:00",
+     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesToday\u2019s host, Ireland\u2019s Miche\u00e1l Martin, said discussions will focus on what Europe ",
+     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+    },
+    {
+     "title": "Microsoft hit by global outages: What happened and why?",
+     "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T09:30:55+00:00",
+     "summary": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports \u2018marginal success\u2019 in fixing outage.",
+     "image": ""
+    },
+    {
+     "title": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
+     "url": "https://www.france24.com/en/winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
+     "source": "France 24",
+     "published": "2026-11-13T09:26:32+00:00",
+     "summary": "As renewed diplomatic efforts seek to bring an end to Russia's war on Ukraine, the prospect of a negotiated settlement remains unlikely due to Russia's irreconcilable territorial d",
+     "image": "https://s.france24.com/media/display/64f9ee20-df42-11f1-8bdb-f71d22e7fea9/w:1024/p:16x9/EN-20261112-151425-152330-CS.jpg"
+    },
     {
      "title": "\ud83d\udd34 Live: Microsoft 'not aware of any malicious activity' behind global Outlook outage",
      "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
@@ -28,14 +84,6 @@
      "published": "2026-11-13T09:08:16+00:00",
      "summary": "Tech company \u2018seeing positive results\u2019 with efforts and says no indication problem was caused by cyber-attackMicrosoft outage \u2013 live updatesTell us: have you been affected by the M",
      "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
-    },
-    {
-     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T08:53:53+00:00",
-     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesin DublinEU leaders will continue talks on their diplomatic and financial support f",
-     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
     },
     {
      "title": "Who gets to tell the world\u2019s news?",
@@ -62,72 +110,72 @@
      "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e"
     },
     {
-     "title": "Washington residents hold vigil after deadly shooting",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T08:06:44+00:00",
-     "summary": "Residents gathered in Washington, DC, to mourn victims of a shooting that left one person dead and four others wounded.",
-     "image": ""
-    },
-    {
-     "title": "Australia\u2019s friendly against Jordan moved to Qatar over security concerns",
-     "url": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T07:59:31+00:00",
-     "summary": "Asian football giants Australia&#039;s upcoming friendly with Jordan was initially scheduled to be played in Amman.",
-     "image": ""
-    },
-    {
-     "title": "US terror case sheds light on RAF Fairford arrests mystery",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-terror-case-raf-fairford-arrests",
-     "source": "The Guardian",
-     "published": "2026-11-13T07:55:56+00:00",
-     "summary": "Suspect held in New York jail has been linked to handler behind Iran-linked operations in BritainWhen the US took custody of Mohammad Baqer Saad Dawood al-Saadi in May, investigato",
-     "image": "https://i.guim.co.uk/img/media/d1735b4a44ef062b46112fa9ecc27587ab34641c/528_0_2778_2222/master/2778.jpg?width=140&quality=85&auto=format&fit=max&s=ef04e78363c6563bd8a5f613d9a240bf"
-    },
-    {
-     "title": "The real winner in Poland\u2019s constitutional battle is Putin",
-     "url": "https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T07:19:08+00:00",
-     "summary": "The fight for control of the Constitutional Tribunal is eroding Poles&#039; trust in their own state.",
-     "image": ""
-    },
-    {
-     "title": "The Gulf must build security that can outlast this war",
-     "url": "https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T07:08:01+00:00",
-     "summary": "Trump\u2019s latest statement should accelerate the region\u2019s move towards a layered and networked security architecture.",
-     "image": ""
-    },
-    {
-     "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia\u2019s Jensen Huang?",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
-     "source": "The Guardian",
-     "published": "2026-11-13T07:07:41+00:00",
-     "summary": "Few solid clues have emerged as to the true nature of Megaspeed, whose former director Alice Huang has been accused of being a Chinese spyGet our breaking news email, free app or d",
-     "image": "https://i.guim.co.uk/img/media/b6d8e7412b6ad0886ec252e47c04e538337b8daf/867_0_4345_3476/master/4345.jpg?width=140&quality=85&auto=format&fit=max&s=0717fbe994fa703664a5d9604f727ac1"
-    },
-    {
-     "title": "Who will inherit 007's licence to thrill? 'The world is not enough' in the hunt for James Bond",
-     "url": "https://www.france24.com/en/who-will-inherit-007-s-licence-to-thrill-the-world-is-not-enough-in-the-hunt-for-james-bond",
-     "source": "France 24",
-     "published": "2026-11-13T07:04:10+00:00",
-     "summary": "More than six decades after James Bond first appeared on the big screen, the search for Daniel Craig's successor has become a revealing debate about the future of one of cinema's m",
-     "image": "https://s.france24.com/media/display/b9a9d7aa-df2e-11f1-9fbc-29048b396e03/w:1024/p:16x9/EN-20261112-163722-164327-CS.jpg"
+     "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+     "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-13T08:20:28+00:00",
+     "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T09:31:02.745177+00:00",
+   "fetched_at": "2026-11-13T10:01:06.692107+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US envoy Kushner says next round of Russia-Ukraine peace talks to include Europe",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1Vfc1JKWjlUZzFINjVjZDczYkJBUW1BajNLMC1TMTh5eUsyTmlYVTJzOUNqRS02Mk5mWTFPYVNYX1RVZUNDMVVVU2tsWFUxeXoyY0RWLWd4Q0dlUmZLajBTcVNsRlFYc05XRS1xb1RjbFlqWDh5Z283TlpCajJTNDY1SGZReE5KUE1lZ2lVTHN4cDZBTGNtd1NFdEgwWUppdHRiRTB4LWFUMm1vTGJEY0p4VHFLQQ?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-13T09:47:25+00:00",
+     "summary": "US envoy Kushner says next round of Russia-Ukraine peace talks to include Europe&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdG1TcUktamhkclVuNDdNUFhnQkNraERRc244VnJaUHE5aDVSUlBhNjZwYXMzRFdFS01Wc2NFLUlQaDlPZHVIZEEwMC05SzF6cFI3dWF4M2hEUFFoM3hMZjhlQkVuQUlSYWUyeVo2emE2S3U1dHNtTi16MHRucU1lWDdheFI2Zw?oc=5",
+     "source": "Newsday",
+     "published": "2026-11-13T09:47:11+00:00",
+     "summary": "Europe pushes for seat at Ukraine peace talks but lacks unified voice&nbsp;&nbsp;Newsday",
+     "image": ""
+    },
+    {
+     "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+     "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T09:43:30+00:00",
+     "summary": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
+     "image": ""
+    },
+    {
+     "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+     "source": "The Guardian",
+     "published": "2026-11-13T09:41:22+00:00",
+     "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy\u2019s ties to Jensen Huang and delays in adding MegaSpeed to trade blacklistAnalysis: Jensen Huang built a",
+     "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175"
+    },
+    {
+     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T09:39:57+00:00",
+     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesToday\u2019s host, Ireland\u2019s Miche\u00e1l Martin, said discussions will focus on what Europe ",
+     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
+    },
+    {
+     "title": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
+     "url": "https://www.france24.com/en/winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
+     "source": "France 24",
+     "published": "2026-11-13T09:26:32+00:00",
+     "summary": "As renewed diplomatic efforts seek to bring an end to Russia's war on Ukraine, the prospect of a negotiated settlement remains unlikely due to Russia's irreconcilable territorial d",
+     "image": "https://s.france24.com/media/display/64f9ee20-df42-11f1-8bdb-f71d22e7fea9/w:1024/p:16x9/EN-20261112-151425-152330-CS.jpg"
+    },
     {
      "title": "Ukrainian Drone Attack Kills 4 Workers, Sparks Fire at Volgograd Oil Refinery",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTVzYmZBZlpGQ1NrNzRkZzAzQTgyS09SUW1NbWpqNEdzMXNkd0RSb2NNWVdXaEt6RXdtMDR2UW9kSXJkUnF2MjFNVmZNTUYwRmZ1b0QwUi1QOG5FYzFKN1hONHpMb3lscnJmODhMa1gwMDRsXzA3VVpiRTZPQjZmSzFNOXJkYmw3SHpMZlkwcV85VTNUcXAtTG0tQXpZSXJUeFBjRTk1S21zYVZFWkcxUXhyR0VaUjdZcjRWeXRzcmdpTnM?oc=5",
      "source": "The Moscow Times",
-     "published": "2026-11-13T09:26:13+00:00",
+     "published": "2026-11-13T09:26:00+00:00",
      "summary": "Ukrainian Drone Attack Kills 4 Workers, Sparks Fire at Volgograd Oil Refinery&nbsp;&nbsp;The Moscow Times",
      "image": ""
     },
@@ -156,14 +204,6 @@
      "image": ""
     },
     {
-     "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T08:53:53+00:00",
-     "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countriesin DublinEU leaders will continue talks on their diplomatic and financial support f",
-     "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
-    },
-    {
      "title": "Four killed in Ukrainian drone strike in Russia\u2019s Volgograd, official says",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNEJHTWtfaGoyVkZ4Q1AyS2hUVjVmMmdidnF2TzF0ZVpzT2N6NWw4dHFLZDVzaHlGTmpObHg1S1BLYmg4cG8tY2Jrdm0xdVpDLWdOWEhKdW5ZbjZ5aDExbXJXenktbHJYdmwzaDB2a01RU1NCdGtuYndtNlJwUVMyOURlZWlWRElDaU9kWmRZMmtabTNjMXVBQ09UNTNEUzNLWWdZTlNMTkZYMmxmdzdmUUdXcVlXYklKRWpDWG9YMlNUbVXSAcgBQVVfeXFMTmpyUnJTSWFLQnNmcVhnSXBUTEpDd0xQS2VlOC02RWVRQ3BnTTdOaE5kX1NkYTg5aFAxSmF4SnBEU3V5d25rTzMwS3g2dTJOZl9KNnVyd1V3MGVDeU5FTTBhX2k1cngtUVlOb0dnM21mTmRHSURRWW1wZVVsRG1aLWpQbjVFOWc0UjFGOFlhN3VMMHM5Z3ZHREpYZUxtbmVJWUtVUk1ZWllIcUFXUmZsUlJzRFdBU1gzZVRHc1d5a1YyVlFlY09xN0s?oc=5",
      "source": "Al Arabiya English",
@@ -178,53 +218,29 @@
      "published": "2026-11-13T08:40:28+00:00",
      "summary": "Kushner Says U.S. Working Toward 'Largest Prisoner Exchange' of Russia's War in Ukraine&nbsp;&nbsp;The Moscow Times",
      "image": ""
-    },
-    {
-     "title": "6 killed as Russia, Ukraine trade accusations about overnight attacks after Abu Dhabi talks",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWmpzZ2tINjVOaVZhX1RHVjNlTHlzb2lGMVVJcGZkbFBJY3ZhSTA1bVZfUDZRb0U2bUpDc2dvUXBDUEN2bkhVd19ETm9SMmRRSWpWOGt5MFdOUzFkM2xDOGNkSHNGVEhYdHNOZTZ3RzgxRjJaNDRqd3J2VXJNdkRnMHQwTXh5c05EdnRFdEMyTm9nT3BjQm5ZWmdXQVRxSmVxVTZYcnlfbHUweE9TMzk4alA4STNCejNhdjZKLWo1TlFMdVl3Z0VyWGhzUTFERXNHUGFrMA?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-13T08:34:40+00:00",
-     "summary": "6 killed as Russia, Ukraine trade accusations about overnight attacks after Abu Dhabi talks&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Kushner: \u2019largest prisoner exchange\u2019 of Russia-Ukraine war nears",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTc0VHZ1NzY1Wnl5LW0zMmJUS1h3N0FHcnpCejB3bHF0dXdjcVVocU5HdTNkSkt1TmJZdlRBTE9zN0h1OXE4ZW9uZzBPNEtPb3A3YktsQlFJTjhqTkNNYXdWcy1fRmFGcVExZlZ1elEyYVl4R3o3dlpPOGdWODdkZklLcmROXzhCNTR0UzhHRzU?oc=5",
-     "source": "The New Arab",
-     "published": "2026-11-13T08:23:46+00:00",
-     "summary": "Kushner: \u2019largest prisoner exchange\u2019 of Russia-Ukraine war nears&nbsp;&nbsp;The New Arab",
-     "image": ""
-    },
-    {
-     "title": "US terror case sheds light on RAF Fairford arrests mystery",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-terror-case-raf-fairford-arrests",
-     "source": "The Guardian",
-     "published": "2026-11-13T07:55:56+00:00",
-     "summary": "Suspect held in New York jail has been linked to handler behind Iran-linked operations in BritainWhen the US took custody of Mohammad Baqer Saad Dawood al-Saadi in May, investigato",
-     "image": "https://i.guim.co.uk/img/media/d1735b4a44ef062b46112fa9ecc27587ab34641c/528_0_2778_2222/master/2778.jpg?width=140&quality=85&auto=format&fit=max&s=ef04e78363c6563bd8a5f613d9a240bf"
-    },
-    {
-     "title": "Another Foreigner Arrested in South Africa",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHg3dkZUV185X0VNQVpCS1ZjbGY3TF9Ib0kydjljVE1DaTd3d1lkVEdyNDRvel9Db1FmV0JOeXlyYlNzdG9OOTVsRTNQMTRWMWo5bGljN3ljX2JKODVadWFhdW5OQWU2X1d1c3ZNS3hvYmFSbTBxdm5sWHVZMG5mNjkxVEFOSFc1T01SaS1tV2syRnhRaU1UWS01WTBKdVVJcHpWdmY1cGFyNGVWaE9RSjQyaXl1OGhKTkg2MDNR?oc=5",
-     "source": "Stop Russian Recruiters",
-     "published": "2026-11-13T07:51:47+00:00",
-     "summary": "Another Foreigner Arrested in South Africa&nbsp;&nbsp;Stop Russian Recruiters",
-     "image": ""
-    },
-    {
-     "title": "The real winner in Poland\u2019s constitutional battle is Putin",
-     "url": "https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T07:19:08+00:00",
-     "summary": "The fight for control of the Constitutional Tribunal is eroding Poles&#039; trust in their own state.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T09:31:02.745181+00:00",
+   "fetched_at": "2026-11-13T10:01:06.692110+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "The affordability election delivered billions for public transit",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX29MMjZqdUl0MEFrYTEzYkJfSkJKYzNKV3gtcV9JYnRKeDl5ZUx6M0tNV2xuanMwY05pd3REWEZmYm4xdmpxRW9zSkFtNnJZQmJrZmloOWFzTUQ4YVl6TjJSb3laY3p0T2ZQTFAyam9qVHY1Y21rNWhsZVhwR0I3V1hGeGZRcFFaa1VQRUxrY0Q1amo5S1o5TGU1SmJmM0k?oc=5",
+     "source": "Grist",
+     "published": "2026-11-13T09:46:40+00:00",
+     "summary": "The affordability election delivered billions for public transit&nbsp;&nbsp;Grist",
+     "image": ""
+    },
+    {
+     "title": "In French Election, Centrists Eye a Judo Star and a Central Banker",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWlPY2VGX3Zsbi0zUUJ0eUV3UENILXJJRnduVVBfNXJidi1OaTJQUkxSUERXYmt4ckR6bDB1MXoyQm9wVjlNSTV1UU80SFg5dWhGTHM0OWY0MzJZdFIwNkFGemVCcTVIWmJtRjV6dVAxS1FkNkRyYXVEYmxvV2pSUHE4WFVuRFg0TzFaaGY3c1Y?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-13T09:22:48+00:00",
+     "summary": "In French Election, Centrists Eye a Judo Star and a Central Banker&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
     {
      "title": "Your 2026 Student Government Senate election guide",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUdCb01TUjFBM21yZ3pFZUpuNzZkOERLc2YzTEpGajFpVjhpSkYteTR4NC10aXp5Q3FqYno0LTJBVlA2UUIwQnpvR2c1MFVtX2w3QktERDliYTNXMnlYUl9iWFR1T1RPN0IzMnV0bUhyTHRBdmVka3doejhXbHNkcFlTNUVCeEJzWlN0c1ZfTFo1Z2JCUjUzV0Y4M2M?oc=5",
@@ -266,6 +282,14 @@
      "image": ""
     },
     {
+     "title": "LA voters react to this past election with hope",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXVsTmJMUmNjXzZMSDk4eGh1RzJIc2V2eC1VcFNGaW5SUDJucFBEaDduYU1EYm5iZktWXzJ5U3BoTVZJc0k5OTU3Qml6clllVnVDQzZhREk4UkFzcm5hWmJKLUtzdVAycW5zc0twcFJMYnVFTVI2amJzenpGRWkwNXlqZVNjUmkzMlROQWREdUNiQjhkcHNV?oc=5",
+     "source": "Daily Trojan",
+     "published": "2026-11-13T08:04:14+00:00",
+     "summary": "LA voters react to this past election with hope&nbsp;&nbsp;Daily Trojan",
+     "image": ""
+    },
+    {
      "title": "NAWG Urges Farm Bill Action and Democrats and Farm Policy",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUM4Wjd5Y0NlYk40WElZU3l2RjhweThRZE5RNThvRDU1RmJKM3JfZHZ0dlFhTk1ieDM3em00cHZZdnFxVmJwNmlJRFU4RENnOVlzMURSRUhuMGRTNXB2X29lYTlXRXBTNUtiYi1jMHMwS01HSjBfcU5UcGNxZnozaEU4aXlRTzVZZ1ctV1UxM2haMnlZaHktMWR1VzVZOTgwbnhTY0VkRElGZ1ZDbjlEQzZiVllWTWds?oc=5",
      "source": "AG INFORMATION NETWORK OF THE WEST",
@@ -296,35 +320,11 @@
      "published": "2026-11-13T07:14:48+00:00",
      "summary": "State Senator Cindy Holscher won election as governor of Kansas, keeping the seat in Democratic hands for a third straight term. Holscher\u2019s victory added to a momentous election fo",
      "image": ""
-    },
-    {
-     "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-     "source": "The Guardian",
-     "published": "2026-11-13T06:34:59+00:00",
-     "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America\u2019s security was put at risk Nvidia scandal \u2013 latest updatesAnalysis:",
-     "image": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175"
-    },
-    {
-     "title": "Victoria election 2026: Labor and Greens trade accusations of \u2018dodgy deals\u2019 as preference fight puts key seats at risk",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
-     "source": "The Guardian",
-     "published": "2026-11-13T06:16:06+00:00",
-     "summary": "Greens say they will not direct preferences to Labor in 15 seats after party\u2019s \u2018unforgivable\u2019 decision earlier in weekGet our daily political email, free app or daily news podcastT",
-     "image": "https://i.guim.co.uk/img/media/299ca057bd2e7758beac23346a48b6968734c813/460_0_4600_3680/master/4600.jpg?width=140&quality=85&auto=format&fit=max&s=cfaed272d5c5a6e363b556972986b69d"
-    },
-    {
-     "title": "Hegseth\u2019s Troubles Are Far From Over",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVZwMU1iY09HQU16SjZFQ0dGbm13TE1vRVBiQmRDdzh3aWI2eHRvYlA4aTdTRHlTU3lNZ0Ztc1JlRURQaTZVeG96SE9Na2xOZExuS3RPX3JucF9hbExqR042REx0dkdST0h0RGNXNVllWk0xNllCUXFuZ0hRRmlsU0NWTmRKM3NfbHc?oc=5",
-     "source": "Foreign Policy",
-     "published": "2026-11-13T05:36:10+00:00",
-     "summary": "Hegseth\u2019s Troubles Are Far From Over&nbsp;&nbsp;Foreign Policy",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T09:31:02.745183+00:00",
+   "fetched_at": "2026-11-13T10:01:06.692113+00:00",
    "stale": false,
    "items": [
     {
