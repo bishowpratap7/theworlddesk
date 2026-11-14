@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-14T18:07:12.130774+00:00",
+ "generated_at": "2026-11-14T18:37:18.499347+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T18:07:12.130741+00:00",
+   "fetched_at": "2026-11-14T18:37:18.499316+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Italy fines Meta \u20ac805m over accessing users' photos",
+     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T18:28:06+00:00",
+     "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
+    },
+    {
+     "title": "Philippines wins first Eurovision Song Contest Asia",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T18:17:58+00:00",
+     "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
+    },
+    {
+     "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
+     "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T18:02:53+00:00",
+     "summary": "Sean Duffy, the country&#039;s transportation secretary, said his agency is &#039;going to hold people accountable&#039;.",
+     "image": ""
+    },
     {
      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +38,12 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg"
     },
     {
-     "title": "Philippines wins first Eurovision Song Contest Asia",
-     "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T17:56:59+00:00",
-     "summary": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
+     "title": "Family of Watford woman set alight \u2018desperate for answers\u2019 after attack",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+     "source": "The Guardian",
+     "published": "2026-11-14T17:59:12+00:00",
+     "summary": "Appeal for information comes after Brenda Raymond, 80, was set on fire outside her flat on MondayThe family of an elderly woman who was set on fire outside a block of flats in Watf",
+     "image": "https://i.guim.co.uk/img/media/6f2286e1b2b467534e5f0baa5dda7a77ba7cd596/0_150_528_422/master/528.jpg?width=140&quality=85&auto=format&fit=max&s=46ca8262114f5840731faf400d316285"
     },
     {
      "title": "Rising costs and arrests fuel protests in Central African Republic",
@@ -92,37 +116,21 @@
      "published": "2026-11-14T16:58:33+00:00",
      "summary": "Jonathan Kreiss-Tomkins\u2019 victory means Democrats will now hold 30 US governorships after midterm blowoutDemocrats have captured Alaska\u2019s governor\u2019s seat for the first time in nearl",
      "image": "https://i.guim.co.uk/img/media/0e83e7d08933409bcc15b86d35740272644b415a/0_0_4305_3444/master/4305.jpg?width=140&quality=85&auto=format&fit=max&s=515c0b809a977e0e0b59065107959388"
-    },
-    {
-     "title": "Portugal vs Denmark LIVE: UEFA Nations League",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T16:45:00+00:00",
-     "summary": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
-     "image": ""
-    },
-    {
-     "title": "Cold weather health alerts issued for parts of UK on Sunday night",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
-     "source": "The Guardian",
-     "published": "2026-11-14T16:42:04+00:00",
-     "summary": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until ThursdayMore cold health alerts have been issued for parts of the UK on Sunday night and ne",
-     "image": "https://i.guim.co.uk/img/media/6035732eda45a68c9aabfbeb732079748dc463bf/113_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=00e2dd606b1598ea617eb312f27034f8"
-    },
-    {
-     "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
-     "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
-     "source": "France 24",
-     "published": "2026-11-14T16:35:52+00:00",
-     "summary": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the in",
-     "image": "https://s.france24.com/media/display/24754d74-e049-11f1-92be-5f54d898a954/w:1024/p:16x9/2026-11-14T154753Z-749061195-RC2ONOA67Q43-RTRMADP-3-USA-FAA-GROUND-STOP.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T18:07:12.130756+00:00",
+   "fetched_at": "2026-11-14T18:37:18.499330+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Military activity caused instability in electrical grid at some Ukraine nuclear units, IAEA says",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLTNscXp2Q3FKN3lZQzNqTmk4N21hc0xhdjZlTmQ1VGlzTzhxcDlTTjk5cG41ME5oOU1VSmxvT3pvUzg1NmhPSG1kZklPano5Nkl5cDRXakp6dVNoYlN4eGc4T250Nk9UWDUxbU4xTUE3VjJLTnJpNnFRWWFOZnFSWTUtYzZwczJieUFTeGFmQjlSeTV6MmpOcTBvRGNZZEo2VUdscUZkRHhrd0VDV1NYeHdRV3R5QnZrUHJzLTFJcVk3N3oyemsxT3lBcG00d2M?oc=5",
+     "source": "Arab News",
+     "published": "2026-11-14T18:23:28+00:00",
+     "summary": "Military activity caused instability in electrical grid at some Ukraine nuclear units, IAEA says&nbsp;&nbsp;Arab News",
+     "image": ""
+    },
     {
      "title": "Whose Eyes? Whose Sky? Drone Capabilities and AI Diffusion Risks From Ukraine to the Sahel",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWRNYWQ2ZDVhQTNNNW1rR09LOVJhdE03M1YxbTNicjg4bHR6dnZOTFEtaGNaTTlzZ1lOWWZrUW9uOWdUWHY1elI2ajdqbUYtRmpTdGJBamZTZ01fc0xfRDg0VTJqSmJaZWx6SS0zQW9MbXJOWFVHZG9BOWMzaW1JRFRfZXIwTnI5c3l0UjdFbktfZnM1LVNSaFdfRG5yRERwRkZaWExDNlZDNF9acXVKRWdmd295TGN1aUdIUWkxMHZUdHQ5NEU5TGg5Y05QbFo3c0dCMzN3UGE5NmRjdGlsMEdXM2kza3d1c0YtTw?oc=5",
@@ -210,21 +218,21 @@
      "published": "2026-11-14T15:36:37+00:00",
      "summary": "Israeli forces occupied a Palestinian-American\u2019s home in the occupied West Bank for 17 days.",
      "image": ""
-    },
-    {
-     "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T15:27:04+00:00",
-     "summary": "Trump-Xi-Putin trilateral meeting at APEC: What to expect&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T18:07:12.130761+00:00",
+   "fetched_at": "2026-11-14T18:37:18.499335+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0tBZDBfQ3JlM3FTRXRGS1ViT1IxQ1hCZzRsaGwtMDJsZzVvRDJkQWJLYnY4TlB4WVFFTHg1bE4wMk9oRE5ySDRvSFJVWVlMSW5LS3BGQ25WZ1NmalF4ZmpKdGxhZGRncHBsRHlFa09uaVJSOF9sR0VQRTUwZ2tRaXNnTW5Rb0pydHdxX2xRR0NiOGpTWms4VWhiS0czS0N4RlE0ZGs1dFpyUTQ5OW11bUktSGMwX2otZWRyLVdB?oc=5",
+     "source": "PBS",
+     "published": "2026-11-14T18:19:50+00:00",
+     "summary": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope&nbsp;&nbsp;PBS",
+     "image": ""
+    },
     {
      "title": "Rising costs and arrests fuel protests in Central African Republic",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
@@ -312,19 +320,11 @@
      "published": "2026-11-14T16:38:34+00:00",
      "summary": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska&nbsp;&nbsp;PBS",
      "image": ""
-    },
-    {
-     "title": "Washoe County Certifies 2026 Election Despite Splits",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lT2x5bkR3T09ueHhfNHpUalBwMlN4bTlDZGNlU3RwODJYMnBrUjA2QlZsY3p1SHRRSGs2VzU4TndWaVhrZFY4TkJNaTNyNFdiY28tbDVhZUIyS1NzTmZKOTZhbTVkSFVzVXdYaHY2OA?oc=5",
-     "source": "This Is Reno",
-     "published": "2026-11-14T16:36:28+00:00",
-     "summary": "Washoe County Certifies 2026 Election Despite Splits&nbsp;&nbsp;This Is Reno",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T18:07:12.130764+00:00",
+   "fetched_at": "2026-11-14T18:37:18.499337+00:00",
    "stale": false,
    "items": [
     {
