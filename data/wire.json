@@ -1,24 +1,32 @@
 {
- "generated_at": "2026-11-14T02:04:25.467412+00:00",
+ "generated_at": "2026-11-14T02:34:29.139147+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T02:04:25.467394+00:00",
+   "fetched_at": "2026-11-14T02:34:29.139131+00:00",
    "stale": false,
    "items": [
     {
-     "title": "US flight outage live updates: FAA lifts nationwide ground stop as Trump officials holds press briefing",
+     "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-14T01:56:30+00:00",
+     "published": "2026-11-14T02:20:58+00:00",
      "summary": "Sean Duffy says \u2018it\u2019s going to take us some time to unwind what\u2019s happened\u2019 but also points finger at Congress, claiming lack of funding for systems upgradesSign up for the Breakin",
-     "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
+     "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153"
     },
     {
-     "title": "US-bound flights out of Australia grounded as telecommunications outage affects American travel",
+     "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
+     "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+     "source": "The Guardian",
+     "published": "2026-11-14T02:15:53+00:00",
+     "summary": "Sean Duffy, the transportation secretary, said the airspace was now open and the problem had been identifiedFAA grounds thousands of flights \u2013 liveThe Federal Aviation Administrati",
+     "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fd2dbf21f21395c9bf79c41eeb755986"
+    },
+    {
+     "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
      "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
      "source": "The Guardian",
-     "published": "2026-11-14T01:54:25+00:00",
-     "summary": "Sydney and Melbourne airports say grounding of planes from US airports led to delays for some flightsUS flight outage \u2013 live updatesGet our breaking news email, free app or daily n",
+     "published": "2026-11-14T02:15:04+00:00",
+     "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in USUS flight outage \u2013 live updatesGet our breaking news email, free app or daily news podc",
      "image": "https://i.guim.co.uk/img/media/0f73a43c7adabdff5e4709c7319a3e2dd6459d4d/2337_146_6560_5249/master/6560.jpg?width=140&quality=85&auto=format&fit=max&s=5e9b61407d5b8104eb046c8c98d7d409"
     },
     {
@@ -44,14 +52,6 @@
      "published": "2026-11-14T01:28:46+00:00",
      "summary": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
      "image": ""
-    },
-    {
-     "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-     "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-     "source": "The Guardian",
-     "published": "2026-11-14T01:01:12+00:00",
-     "summary": "Transportation secretary said stoppage is due to \u2018communication issue\u2019 and homeland security says there\u2019s no indication of \u2018nefarious attack\u2019FAA grounds thousands of flights \u2013 live",
-     "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fd2dbf21f21395c9bf79c41eeb755986"
     },
     {
      "title": "Stuart Bonds made \u2018racist\u2019 and \u2018divisive\u2019 comments. But One Nation is showing no sign of dumping the NSW candidate",
@@ -120,9 +120,17 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T02:04:25.467402+00:00",
+   "fetched_at": "2026-11-14T02:34:29.139138+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on \u2018entire front line\u2019",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcVdEX2ZlWUE5cElsRnRQOWw4LWJHV3lJR1VJVmNGZXZCMGlJY0poV1JjM0FBZUYwclRucS1CRjIydUpMQ1prSXJTSkVHZkZOVFE2bU14bmpvWUNmZVdXanJWcUVVd2VNdVVvY3lrRDc4eTdvc2RFemRDMXd5c1Y1cGl4OXBYeEJOZU1pWWw5VkRCVVhLaUVKVGcwZm50WjM5cVl2QnhaZVdxTDBHOGZ6eEpFQnB0NTZVSUtfSXczYkNxRndpX25nb0ZzeGh4ekhC?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-14T02:08:00+00:00",
+     "summary": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on \u2018entire front line\u2019&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
     {
      "title": "Microsoft \u2018deeply sorry\u2019 for global disruption that could have billion-dollar impact on Australia",
      "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
@@ -153,6 +161,14 @@
      "source": "Al Jazeera",
      "published": "2026-11-14T00:00:25+00:00",
      "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+     "image": ""
+    },
+    {
+     "title": "Exclusive | Democrats Order Musk to Preserve Records Over Ukraine Starlink Access",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZF9udEVzb0ExTk1fRlVWNVRLX1BYVlU3RXY3X08xaXFGXzRiMVMxd2xXWEt0T0dBb3ZQaVFqNDhjSHQ5cDE4Q2ZZRXhUbm80cW9UNVZUT0hVbGVxYV80U3FYbnVPT3lBVnRKcHFNMG9YSHlUVUZoOS1rQVA3My12SUVmdTVBSm9UNWJ0Vjg1bzRhMXRIclZhT3JiVGhOYkJxdTd3NVZEN1hxaDdNbjlGbDhEcEM?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-13T23:33:00+00:00",
+     "summary": "Exclusive | Democrats Order Musk to Preserve Records Over Ukraine Starlink Access&nbsp;&nbsp;WSJ",
      "image": ""
     },
     {
@@ -202,44 +218,36 @@
      "published": "2026-11-13T22:18:02+00:00",
      "summary": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal&nbsp;&nbsp;The New York Times",
      "image": ""
-    },
-    {
-     "title": "War Fatigue and Economic Pressure Weigh on Russians as Anxiety Rises, Poll Shows",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOME1nM09UeWEyRmI5aFNxbXVPYzlTb1ZDRzFJc3A0eUN3UExtMHM4MHhoTXVaV1VTOXQ1VHAxV1RDelBwN2JNb1NzLUVoLVpGVkNuR1B3dmN2eGZIWkswUEJzVDVJNHM0dW50OTVpVW1VVGl2RHN5WUJfOEJRX0h3LWZjbWdGdVpYT1NaWEpfNUY5b0gwQ0N4LXlCLVkzSlczVDhkbl9wOWEwMGtDWVZaVTJoU3pEbXZDaWtyblNuZ0lIeFMt?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-13T22:14:25+00:00",
-     "summary": "War Fatigue and Economic Pressure Weigh on Russians as Anxiety Rises, Poll Shows&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Russo-Ukrainian war, day 1724: A Ukrainian official says all Starshield missions were failing by day three of the new speed cap, while SpaceX says there has been no change",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZlQ4b1ZsWlBweUo1YkdXNUNGbjRibm5UdktKT3l4VWpoZjRES05nOFFUVkRhWDZvZmVkNjFCZ3huZndZLU5JNXdoNFlTNHRiYTBPVmRfbTdKMHhUY0g3ZV9LVXlnbVJMVDZIWW91UGwtRHptcUpB?oc=5",
-     "source": "Euromaidan Press",
-     "published": "2026-11-13T22:12:03+00:00",
-     "summary": "Russo-Ukrainian war, day 1724: A Ukrainian official says all Starshield missions were failing by day three of the new speed cap, while SpaceX says there has been no change&nbsp;&nb",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T02:04:25.467405+00:00",
+   "fetched_at": "2026-11-14T02:34:29.139141+00:00",
    "stale": false,
    "items": [
     {
      "title": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-14T01:58:05+00:00",
+     "published": "2026-11-14T02:26:55+00:00",
      "summary": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
-     "title": "US flight outage live updates: FAA lifts nationwide ground stop as Trump officials holds press briefing",
+     "title": "Key Assembly Republican loses her seat in the California Legislature amid historic election losses for the party",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDU5QU1yYWEyb1kwYU5KM0xLNjZFQkh0WGdueEdOaXczMERQbUR4SG9MbEVkVmprQkd0OXAzd3VvNVFHUGdCeUhYUWpjYnBHaEkzaUhzQUFVMWlmNTU1d1RiY1hNekVvSU9WUEJWMng1SEhuclZrWmxqTnYtWXFaelNpRHZ5cFcxQ2o4N21CU216NEw1bkNUdQ?oc=5",
+     "source": "KCRA",
+     "published": "2026-11-14T02:26:00+00:00",
+     "summary": "Key Assembly Republican loses her seat in the California Legislature amid historic election losses for the party&nbsp;&nbsp;KCRA",
+     "image": ""
+    },
+    {
+     "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-14T01:56:30+00:00",
+     "published": "2026-11-14T02:20:58+00:00",
      "summary": "Sean Duffy says \u2018it\u2019s going to take us some time to unwind what\u2019s happened\u2019 but also points finger at Congress, claiming lack of funding for systems upgradesSign up for the Breakin",
-     "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
+     "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153"
     },
     {
      "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
@@ -312,19 +320,11 @@
      "published": "2026-11-14T00:30:01+00:00",
      "summary": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran&nbsp;&nbsp;PBS",
      "image": ""
-    },
-    {
-     "title": "Buncombe County certifies 2026 election results after hand-count audit matches machines",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORC1TcFozRS14VUtNLW5OVU9JR0xkV3R1bWttUjJ5LXdwUmxWMUVfOExnUGt3eUVJcDJral9QRldiTVd3d050d0w5M2pGRW9UTnlmaUw1UkpJNTVoaHRxQW1PSjZnNXVIbWZnMHZNNTU4amRkbU9WVDVrS3lITU1FUThmeG54UzdJS3hEeEJtY2IyWklCWFg2cm9fNS1mWkFBdkctblM0WHhTdDZOZFBvLVlVM0NRMmRORHdMS21scHo3QkJlSFo3Z3lrSlctMkRqZEVuNHNja185dlBFdE1yXzVkV19UZw?oc=5",
-     "source": "WLOS",
-     "published": "2026-11-14T00:22:59+00:00",
-     "summary": "Buncombe County certifies 2026 election results after hand-count audit matches machines&nbsp;&nbsp;WLOS",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T02:04:25.467407+00:00",
+   "fetched_at": "2026-11-14T02:34:29.139142+00:00",
    "stale": false,
    "items": [
     {
