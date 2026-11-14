@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-14T07:35:22.586904+00:00",
+ "generated_at": "2026-11-14T08:05:27.779720+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T07:35:22.586875+00:00",
+   "fetched_at": "2026-11-14T08:05:27.779692+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "What we know about the longest ground stop since 9/11",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T07:42:11+00:00",
+     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+    },
     {
      "title": "Reijnders\u2019 hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
      "url": "https://www.aljazeera.com/sports/2026/11/14/reijnders-hattrick-netherlands-germany-uefa-nations-league-football?traffic_source=rss",
@@ -62,7 +70,7 @@
      "image": ""
     },
     {
-     "title": "Microsoft says services fully restored after for day-long global outage",
+     "title": "Microsoft says services fully restored after day-long global outage",
      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-14T06:42:27+00:00",
@@ -108,27 +116,35 @@
      "published": "2026-11-14T06:17:27+00:00",
      "summary": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
      "image": ""
-    },
-    {
-     "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
-     "url": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T06:14:09+00:00",
-     "summary": "Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T07:35:22.586889+00:00",
+   "fetched_at": "2026-11-14T08:05:27.779706+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbjQ1d3h4WGpkU1UyVEp6X0Y0Y0Z0blVpLUxNRTNvWTAzRnVQSzU5d3cteV9kU2VMNlUwUm00VWlMVjB6c0t3WjlNVXBUakhpQXpwMmtXeHJLdVYzRzNEbWE3T3IxZjdWdDZoeG1xUndUbzJQNGhoaHFVdzYxYVc4dGpWdHg4R2Z4Y0xLNVdHVTdTVHVLSG9tRXdZVTJNVVI1ZW9ic0kxazd6ZWRUcHNPLVo3R2VSOXBacjZ6NUlueTEtNkhSemh5R3dzdWI0SHg5OUlIOVRjSTc2Tk5NU1NDTUhUVnVxZC1NOTV1RmIzUnlfQWRTYmVzRnJjNWlDSDA?oc=5",
-     "source": "Bluefield Daily Telegraph",
-     "published": "2026-11-14T07:20:55+00:00",
-     "summary": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi&nbsp;&nbsp;Bluefield Daily Telegraph",
+     "title": "From Ukraine to Gaza, this is why we need to tell better stories about war",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHY5aUtVWHgyVF93YWRjNUk3M0psYXZQN1RjYTRpVUFaTWpxVEstb1J0OUlCVm0wVzdpR05oNXRkNjM3aVF1dGRZWlZMOWtUcFpBczJRRHpyelZmWXRrQlR2a0ZEY1JCc1FnVGllMWZ3alFVb1FBZjRmVjEyTzRTOXhHNWpZVkV3eHFWTk9XY2poWGJOanJ3OFFtaXdnWUU2ZWxNUmVLWnY?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-14T08:02:00+00:00",
+     "summary": "From Ukraine to Gaza, this is why we need to tell better stories about war&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS19yeXk3eWVuYlI1S0MzSFZNQkFlSFh1TUs1THlZM0NhdUViS0hCRnlTOU5oMzBSWVQzOG4yS0xYOGNRU1phNnhqWjNuOUtEMWJJSVdWY2hLT2xGLXpaSlVTdl9EQ1MyVTZpbkgxSVppQ3gtUDQyTnlWQ19FZmhDZXoydjlfeFcyVGhIM0ZPaHhEQUlPZTg1bENsUjJXclJxN1RLbkpfcw?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-14T07:56:04+00:00",
+     "summary": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "Ukraine War, Day 1,724: Zelensky \u2014 Starshield Restrictions Continue on Frontline",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1FJb3lWS2hua0ktcDRKOFR2UGQ3MDVuVW53R1ZNUWVLRHY4amxseWFueXJ5NWg5Z3c1ZFlZemZheHBNN2Z2X0laeC0zSHN0bEVxSHNESVBNbm55WmlPbVJST29CLWxfQkZienk4bU0tZFpOTHFvTFA1WFF3eXBKNFlUSXI1WWZQNTA5ZkZQZmVqeWNIUng0ajMzVjhxSUxY?oc=5",
+     "source": "EA WorldView",
+     "published": "2026-11-14T07:48:24+00:00",
+     "summary": "Ukraine War, Day 1,724: Zelensky \u2014 Starshield Restrictions Continue on Frontline&nbsp;&nbsp;EA WorldView",
      "image": ""
     },
     {
@@ -151,7 +167,7 @@
      "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOU5VcUlzV2Z2dWRXQzBMYnVQMnBWUEwzbXR2dktwaEZ5dUYxUXBvSmdEZjVZTmJDek5GQUIxdFBTNVprcHpFNE9WTC1taF9iZnp6aWNpN2YxbmplX1NOS0hBN0UwYnp3T3pGeXpYOEdMMDFzYkd5d2x2X05nSWZjOTNpLTJURnhSLTJoVzdkaVFsZk5Rb0hrVUtvYThmVmRL?oc=5",
      "source": "Arab News",
-     "published": "2026-11-14T06:33:45+00:00",
+     "published": "2026-11-14T06:36:12+00:00",
      "summary": "Trump, Xi, Putin to hold historic meeting in China: White House&nbsp;&nbsp;Arab News",
      "image": ""
     },
@@ -196,35 +212,27 @@
      "image": ""
     },
     {
-     "title": "Trump, Xi and Putin to hold first three-way summit in China",
-     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T04:55:58+00:00",
-     "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
-     "image": ""
-    },
-    {
-     "title": "German spies granted sweeping new powers",
-     "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T04:41:11+00:00",
-     "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
-     "image": ""
-    },
-    {
-     "title": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T04:12:15+00:00",
-     "summary": "The UN says Israel could have prevented death and destruction caused by the storm in Gaza had it allowed sufficient aid.",
+     "title": "The redesigned Russian missile splitting Ukraine in two",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTA5a2tNTjlvUVF4NTc2WWxrWGU3V3lEUFZ0Q1lDYWJPTnY3ektYbFdPMlJsWlgyT2hzX2k5UDlOaGtqZ0Y4QkpSWUY2YTUzMG91ejh1cS1ycWxJbVhHZGwxMVBRSTdDdUhPbXRreW9RbzlLWUpxRG5pbDJWMjNEOG1udWVTZG13eldqMkZMX1ZPSlRlZWNDVFdMeGd2MWRRZG1IOXlB?oc=5",
+     "source": "The Telegraph",
+     "published": "2026-11-14T05:00:00+00:00",
+     "summary": "The redesigned Russian missile splitting Ukraine in two&nbsp;&nbsp;The Telegraph",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T07:35:22.586893+00:00",
+   "fetched_at": "2026-11-14T08:05:27.779709+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Hawaii Workers Center cheers changes from election in annual \u2018Victory Celebration\u2019",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3R3dVBqRmswY0NhbnpMVUtqN09WWlBTQV9HNzhoRlZBbGpHZVJMN1BCamNXUi0ybVVQeElicUtsRFpfOXJFVW95aGJZOVlqdjVMVS1fbWRXR1RCdGVXOEtCOGxaSl9fMjJRTVVpc1JobFhjdVhOS0xHcDV2eEdfNi1pb2lLdnEwNXFoeDBfZHk4R2pMVDdqYzU5aDdGVUc0VDFkY3I2ZnVFRzZjQXYyOXU2TXTSAcgBQVVfeXFMUEs5eWktYUc5Y0ZaN1QxZTBiWWVmMTdyY3hYRkFya3BxM3lSY0RWUEhlUUdTVGZrUHlzdUtNdk5fb0hhYlhtZlQzNXg3bjJaSWVKVFZlSDZXNnh1UTdqbkpfNEhmWEFlNTFzMXpsczBwOFE2WjZkOFdIOUI0T2xjZVpFVkVoREJVbFR2SFdfNzJOYkJMaV9uTnpNZ3ZkQk9mWDFCVUFlS2tsRW55QzhjZUhGV2NfX1g3ZG1TSGZkRFdOWWVCMG95Nlk?oc=5",
+     "source": "Hawaii News Now",
+     "published": "2026-11-14T07:33:00+00:00",
+     "summary": "Hawaii Workers Center cheers changes from election in annual \u2018Victory Celebration\u2019&nbsp;&nbsp;Hawaii News Now",
+     "image": ""
+    },
     {
      "title": "Protesters heckle Hakeem Jeffries at Democratic conference",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/protesters-heckle-hakeem-jeffries-at-democratic-conference?traffic_source=rss",
@@ -312,19 +320,11 @@
      "published": "2026-11-14T05:00:23+00:00",
      "summary": "Supreme Court to review Trump policy blocking asylum seekers at border&nbsp;&nbsp;The Washington Post",
      "image": ""
-    },
-    {
-     "title": "Ohio\u2019s newly elected secretary of state outlines election priorities",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUk55XzVNb3d4TDUwblVIcXltSEhUX1d5SG9HekVLY05NZnlpR1pNSFdEUGd3elpwY1J5cVpKUGU0c0V4VGpXcERodUM1ZGhsdFdtb3FTT3puWTNRVDVkOXR1bzB1T25Rek9fMVNLc1dETUE1OEJ2UDFXNUU2VlRhNW9zZXRXOXZ4SUlnY0JnZlBnTi13OE1sTXU0ZXRHVEpMX2ZRdHd0WdIBuwFBVV95cUxQNC1KaU1DaWJpRlNmMldVNjlyc05NUFRDa0N4X2daMzdBSVkxa1EwOUhnMTFwX3dNTW5HeWRZSEJWMkJSaHhzdnVoN0NYV2psZXI5NC1xWVAxMW1uV3ZNZjA0U3d5RXV5QWlTZGl1bUJMQ1VkMnE4VUlXTDY3WHcySl93T1ZqZnJkaWlHM3dlODcxMlhzeXVndGdzU3h4bHE1bjF6MEdjRmZ3RThvT0k0MW1LS0hPdGVYUDI4?oc=5",
-     "source": "Cleveland 19 News",
-     "published": "2026-11-14T04:51:00+00:00",
-     "summary": "Ohio\u2019s newly elected secretary of state outlines election priorities&nbsp;&nbsp;Cleveland 19 News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T07:35:22.586895+00:00",
+   "fetched_at": "2026-11-14T08:05:27.779712+00:00",
    "stale": false,
    "items": [
     {
