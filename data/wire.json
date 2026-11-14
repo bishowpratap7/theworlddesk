@@ -1,17 +1,41 @@
 {
- "generated_at": "2026-11-14T02:34:29.139147+00:00",
+ "generated_at": "2026-11-14T03:04:33.314342+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T02:34:29.139131+00:00",
+   "fetched_at": "2026-11-14T03:04:33.314324+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "FAA lifts nationwide ground stop on all US flights",
+     "url": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
+     "source": "France 24",
+     "published": "2026-11-14T02:50:21+00:00",
+     "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping ",
+     "image": "https://s.france24.com/media/display/b957cd96-dfd5-11f1-857f-f71d22e7fea9/w:1024/p:16x9/EN-20261114-030158-030311-CS.jpg"
+    },
+    {
+     "title": "\u2018It\u2019s frustrating\u2019: chaos at US airports as stoppage grinds travel plans to a halt",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+     "source": "The Guardian",
+     "published": "2026-11-14T02:49:59+00:00",
+     "summary": "Travelers and crew feeling \u2018pissed\u2019 or \u2018lucky\u2019 depending on level of upset amid nationwide ground stopThe US Federal Aviation Administration\u2019s decision to ground all flights on Fri",
+     "image": "https://i.guim.co.uk/img/media/7ed43949a5180577da723e2bf8cbe9c1ff30a73b/116_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a42d4b21d85e960cc27767128ff75b5b"
+    },
     {
      "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-14T02:20:58+00:00",
-     "summary": "Sean Duffy says \u2018it\u2019s going to take us some time to unwind what\u2019s happened\u2019 but also points finger at Congress, claiming lack of funding for systems upgradesSign up for the Breakin",
+     "published": "2026-11-14T02:45:23+00:00",
+     "summary": "Sean Duffy says \u2018it\u2019s going to take us some time to unwind what\u2019s happened\u2019 but also points finger at Congress, claiming lack of funding for systems upgradesUS aviation agency lift",
      "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153"
+    },
+    {
+     "title": "US flights resume after nationwide ground stop lifted",
+     "url": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
+     "source": "\u00a9 Tony Gutierrez, AP",
+     "published": "2026-11-14T02:35:48+00:00",
+     "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping ",
+     "image": "https://s.france24.com/media/display/de33210e-dfd2-11f1-8675-29048b396e03/w:1024/p:16x9/AP26317844187470.jpg"
     },
     {
      "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
@@ -92,35 +116,11 @@
      "published": "2026-11-14T00:17:59+00:00",
      "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
      "image": ""
-    },
-    {
-     "title": "Afghanistan\u2019s new road to China ends at a closed border",
-     "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T00:06:43+00:00",
-     "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
-     "image": ""
-    },
-    {
-     "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-     "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T00:03:56+00:00",
-     "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-     "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T00:03:52+00:00",
-     "summary": "The 52-year-old general\u2019s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T02:34:29.139138+00:00",
+   "fetched_at": "2026-11-14T03:04:33.314332+00:00",
    "stale": false,
    "items": [
     {
@@ -129,6 +129,14 @@
      "source": "The Guardian",
      "published": "2026-11-14T02:08:00+00:00",
      "summary": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on \u2018entire front line\u2019&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Russian Offensive Campaign Assessment, November 13, 2026",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclBWaUFmS1p3dUlMYzVncklFbVpIeE1IRnlQc2NRZlY3WXRqNkViU3JpbzM5VUYyWmVBV2NuLU4tanJOZV9ybjl5cXNfRUdtZEhWalVyVjAwa1NBVUREdkZISk1yMktONXRCZEo0bk1VbjNiUkxoakgybldWenF6WFFRelE1a3Uwa0l6V3cwYk1CMDNSb1ZyTHlJTFlNbXdHS3F5SFR1eUpZRFZq?oc=5",
+     "source": "Institute for the Study of War",
+     "published": "2026-11-14T01:19:40+00:00",
+     "summary": "Russian Offensive Campaign Assessment, November 13, 2026&nbsp;&nbsp;Institute for the Study of War",
      "image": ""
     },
     {
@@ -167,7 +175,7 @@
      "title": "Exclusive | Democrats Order Musk to Preserve Records Over Ukraine Starlink Access",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZF9udEVzb0ExTk1fRlVWNVRLX1BYVlU3RXY3X08xaXFGXzRiMVMxd2xXWEt0T0dBb3ZQaVFqNDhjSHQ5cDE4Q2ZZRXhUbm80cW9UNVZUT0hVbGVxYV80U3FYbnVPT3lBVnRKcHFNMG9YSHlUVUZoOS1rQVA3My12SUVmdTVBSm9UNWJ0Vjg1bzRhMXRIclZhT3JiVGhOYkJxdTd3NVZEN1hxaDdNbjlGbDhEcEM?oc=5",
      "source": "WSJ",
-     "published": "2026-11-13T23:33:00+00:00",
+     "published": "2026-11-13T23:34:43+00:00",
      "summary": "Exclusive | Democrats Order Musk to Preserve Records Over Ukraine Starlink Access&nbsp;&nbsp;WSJ",
      "image": ""
     },
@@ -210,27 +218,67 @@
      "published": "2026-11-13T22:31:05+00:00",
      "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US Air Force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
      "image": "https://i.guim.co.uk/img/media/a48343859349310a22c156f4bd8b222fbebabbf3/970_0_4879_3903/master/4879.jpg?width=140&quality=85&auto=format&fit=max&s=9b539226855b0f6819e574ce7da82ee2"
-    },
-    {
-     "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-13T22:18:02+00:00",
-     "summary": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal&nbsp;&nbsp;The New York Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T02:34:29.139141+00:00",
+   "fetched_at": "2026-11-14T03:04:33.314335+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRGMVNoOVFrYk5JdjNKX0V1OHcteEhBdjQ3WVl3OXBRdDlhd3pWVDVObnpUNlF2M04xMnd0WHZvQnZGLTJJSm5EbEZwZEdCRzVLbGlJQkVrV2JYT1NQS3ViT0x4UW9HNFdJUUk0N0pDX1FmTjBEM25Bc0N6YnRPM19OSlVKOTZacFM0VWZwVkUyOXRaVnhNWVNoYTFtMGMzNmlaOGMtWTZ4bGJGU0ZwRnpzWnNMS3c?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-14T03:02:36+00:00",
+     "summary": "Supreme Court to review Trump policy blocking asylum seekers at border&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "\u2018Heartbreaking\u2019: Days after election, Pittsburg County Sheriff Frankie McClendon dies",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd1R3cktYNkRqdHFkNHdhYzdHM3pVT1BNOXdiVlZmeU5CT1hieTlOTHBESUEzLVRSQ0tybkl1ODNzUFhwbGRvWi1faVFDeTJha2pidXBUYmE4ZkhwRUo1bUpqaVRQcDhNUGU4MG05V3pUYVB2ZU5lcmJFUU5MMkxya3FYVndhVWdJZDJQajQtOUVVWVZjV2t1djJWQkVnVDlyYkl3cG5RM3lfWlVKejh6VnpB?oc=5",
+     "source": "NonDoc Media",
+     "published": "2026-11-14T03:00:00+00:00",
+     "summary": "\u2018Heartbreaking\u2019: Days after election, Pittsburg County Sheriff Frankie McClendon dies&nbsp;&nbsp;NonDoc Media",
+     "image": ""
+    },
+    {
+     "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "source": "The Guardian",
+     "published": "2026-11-14T02:45:23+00:00",
+     "summary": "Sean Duffy says \u2018it\u2019s going to take us some time to unwind what\u2019s happened\u2019 but also points finger at Congress, claiming lack of funding for systems upgradesUS aviation agency lift",
+     "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153"
+    },
+    {
+     "title": "Election Results Update Nov. 13",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TUFJzOHJPc0FsUzdwLWtSYlN1UVdwZVhPaHFyV3JjTGVLQl83MzRlZTlDcW5jSG5sS3d5SmRNR2dTY0Z1eG5PVnJfWXN5b19GQnVscnV6Y1pfMk5LV0tPZ2FYVGJ3SHhrR0h3SQ?oc=5",
+     "source": "YubaNet",
+     "published": "2026-11-14T02:38:39+00:00",
+     "summary": "Election Results Update Nov. 13&nbsp;&nbsp;YubaNet",
+     "image": ""
+    },
+    {
+     "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mRE5NY1phNEUteklMY3dTQ19rVWJsWHE5ZTAxSVVkdnFzdGZzbmpQMzJNWURRdHZ5ZXl1dGhGMGhULWlpRFdwRzA3TnFrVGNSb3FZZnc1R3FQNHRGMERyUEVTcjhYdGU2R2NnSUpkakJYVVE?oc=5",
+     "source": "NPR",
+     "published": "2026-11-14T02:34:48+00:00",
+     "summary": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election&nbsp;&nbsp;NPR",
+     "image": ""
+    },
     {
      "title": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-14T02:26:55+00:00",
+     "published": "2026-11-14T02:33:15+00:00",
      "summary": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Election results in Berkeley and Alameda County",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0hpSUlLMFVTclRRNmhFY3hidERlR0FRR2o0WnI1WFU3NV90RDJXZGRGdWJzNjBsVEVyT0o0VlJjbnVYb2llTFNuNElkQ2lCSTVGd2pLNlEtNHBFcHd1SXZkbllmVGIyczBCU3Bxb1FwS3ZGZEN5VUdJU0NwX09RTTB0ZVpsVF9GbE9FcjJn?oc=5",
+     "source": "Berkeleyside",
+     "published": "2026-11-14T02:31:19+00:00",
+     "summary": "Election results in Berkeley and Alameda County&nbsp;&nbsp;Berkeleyside",
      "image": ""
     },
     {
@@ -242,19 +290,11 @@
      "image": ""
     },
     {
-     "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-     "source": "The Guardian",
-     "published": "2026-11-14T02:20:58+00:00",
-     "summary": "Sean Duffy says \u2018it\u2019s going to take us some time to unwind what\u2019s happened\u2019 but also points finger at Congress, claiming lack of funding for systems upgradesSign up for the Breakin",
-     "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153"
-    },
-    {
-     "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRGMVNoOVFrYk5JdjNKX0V1OHcteEhBdjQ3WVl3OXBRdDlhd3pWVDVObnpUNlF2M04xMnd0WHZvQnZGLTJJSm5EbEZwZEdCRzVLbGlJQkVrV2JYT1NQS3ViT0x4UW9HNFdJUUk0N0pDX1FmTjBEM25Bc0N6YnRPM19OSlVKOTZacFM0VWZwVkUyOXRaVnhNWVNoYTFtMGMzNmlaOGMtWTZ4bGJGU0ZwRnpzWnNMS3c?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-14T01:32:36+00:00",
-     "summary": "Supreme Court to review Trump policy blocking asylum seekers at border&nbsp;&nbsp;The Washington Post",
+     "title": "Democrat Eileen Laubacher wins election to U.S. House in Colorado ousting GOP Rep. Lauren Boebert",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRUFSTFFHcXlJNmQwS21aeHR0TFZGcU5wenFSdTBlYkJEWkRBd0h3OWVLZ1lfWXBVUzFKZ0s2aFFaRks2NmphcFNlNjBKOXUydUwyLWZ2Yk1ac0FKc2tnNWdKdi10Z1lUYUFwTGE4VDNPVlc2LWY2UFBicE9lbTIyblBIQzVTdzc1U1NSc3NfMEotY0Jkd2E5U0h3eHFrNlFfMXdUVFFBLVA0R25GcEZITk90akxVOGN0Nnh6b2Y4WFBqeVM0dEQwRXJfWnc2RGlOV3dkWlpsWDRQUVFmQzBDRzhvaFhEdjJCaDdIUzFKa0tRaUEtbWpLMWExSUgwMnB4N2hReQ?oc=5",
+     "source": "KVUE",
+     "published": "2026-11-14T02:14:04+00:00",
+     "summary": "Democrat Eileen Laubacher wins election to U.S. House in Colorado ousting GOP Rep. Lauren Boebert&nbsp;&nbsp;KVUE",
      "image": ""
     },
     {
@@ -274,57 +314,17 @@
      "image": ""
     },
     {
-     "title": "Democrat Eileen Laubacher wins election to U.S. House in Colorado ousting GOP Rep. Lauren Boebert",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMm9YNlVxbDhXX3lXaUp5ZmFGaHgtamc2emRiOUEtekI2bTBFTHJtNmNlb1l6eERsb2haT0pqeWh2NllVQmN6T0JNX095cG1LckVSclQzZm9RVHoyNGZCZ19rOVJCSnItbmRQWVFqQjJ1dUxWcTFOdFkyb0xjSERBb3d4dnFKZ1dNRWRaVFlMZklSV2hCRk5EUmd5MHhRR3B0eGgxT256aTV1VDUwZ1BaaFdjVnBRc0g4cDA5YUMxcm9vbTN4bGxJbUM0ZVh3ZmNVTzdDbWYzYkFaTTBidXp5RGEwMVh1MHhNZy04elBta2dyOWZONURMSFV0QUp1ZFFiWF9FbEpR?oc=5",
-     "source": "kens5.com",
-     "published": "2026-11-14T01:07:17+00:00",
-     "summary": "Democrat Eileen Laubacher wins election to U.S. House in Colorado ousting GOP Rep. Lauren Boebert&nbsp;&nbsp;kens5.com",
-     "image": ""
-    },
-    {
      "title": "Two Fresno Unified leaders are in danger of losing midterm election",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42amVBVlRmYS1iN0RIcU1SaktEanJqWURseFJWMUdQazVUbE9LTUZWbUFvbEJaVE5lRU51aWljU2FIZ2dxUENva0xSTmpPQmtXd2praDhLQnpUMHczQ0E?oc=5",
      "source": "Fresnoland",
      "published": "2026-11-14T01:07:11+00:00",
      "summary": "Two Fresno Unified leaders are in danger of losing midterm election&nbsp;&nbsp;Fresnoland",
      "image": ""
-    },
-    {
-     "title": "Provisional ballots tallied, marks end of 2026 midterm election cycle",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWFwSW5sdjc4NVFFZXZNQ2FESjZBYVE4UU93LW5GN0RUTFVKaVdZWGU2R1llS2daSmtuUVVoM1owVFcwQ2FreDlRYVk2R1BLUDhEdGhBM0s0T2FPUVY2dVpaQXM3MnJWSjdQZFRROGxZUEN4bzFvNWxxdXpLWDJsbnRnYlZ6OUx2ZUNMQVBYa1Zla3N0VldyUVM1WGZnRFYxSXpN0gG3AUFVX3lxTE53LVRZSHlTZ1d6VHo4NXZmZWdYQ3B5bUo4eTRuak04OU9fdmRGbndXQkNpRmd3RUVuQWpGZGo1NUpVRlV0am45X0lMWkRnQ2VEdHpLQ1ZlRVo0QkE0RGhJUkxHTnRnTEFsaU9FclViR2JPZ3ZHemNlZy10VVVFZ3dKV1ZwWFdyZEhmMmY1enpJZnFoZUItTVFtcTZQdWgyRXdKblJmWC1lTHdxLVFwS0JWdVZKUFU4UQ?oc=5",
-     "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-     "published": "2026-11-14T01:01:00+00:00",
-     "summary": "Provisional ballots tallied, marks end of 2026 midterm election cycle&nbsp;&nbsp;KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-     "image": ""
-    },
-    {
-     "title": "Election 2026: Skagit County counts another 773 ballots",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOU1IeGMtVkp6NHV3Q0hIZDA4T29tcnVDWTUyX3l4VWROQXpRMDRqMUZYX0VxeG9MS1dEb1R3dk5JeXBRZlZtOVI1R1NMbVE0bUZ2LVhxNnlSVjNGcEF5NXBicEd5Ym9fV1lqSjZEZ1JsWXhlOE1XMEJ6NmJvczJvWjFVQ3RrZGIxTWpPcDRBLUIxaDJLNjNIdlEwU1lOLWV6SU9XMTZtNTRkOEdBTXI2cE5HaGZQYXI1WkZrdlVBX1EwTHVKXzRmTjFwY09WajE4SXc1engwQjVsV2Yx?oc=5",
-     "source": "goSkagit",
-     "published": "2026-11-14T01:00:00+00:00",
-     "summary": "Election 2026: Skagit County counts another 773 ballots&nbsp;&nbsp;goSkagit",
-     "image": ""
-    },
-    {
-     "title": "Idaho election officials will audit two counties that underreported votes",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMi0zaTZZcXEtZE9venZabnFVWGlhLWw1M1p5a2ltS2lLZ2wyOXNJQVRydE1neEZvR1pJN2tTaHdCeFczT3pCZ2xycEFOUFlZTEplRXhjS3VKUlBIRjRra2V2d1R3MGpkaDRiT2E2d1V5M0ZJcElhczlvc3Nzb2cwTzNtX2pfUXU2RnhjaDloZEs2UDQ0YXY2SjJ2cThXeXNWNWNVRU5RU3VPMWpGTmNKVGN3RQ?oc=5",
-     "source": "Idaho Capital Sun",
-     "published": "2026-11-14T00:45:47+00:00",
-     "summary": "Idaho election officials will audit two counties that underreported votes&nbsp;&nbsp;Idaho Capital Sun",
-     "image": ""
-    },
-    {
-     "title": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHRmUU1nendWQU5JOEp5c0VxXzhXVEVOaHdVUnlZNUI2MFpsMHd6VERDSWV0TE4yYlVISFpMMmJmMVJ1S1BuYVpKQlljOVRSdzd3dVZJLVVRaTVLOFQ0Q3pqeHhZeXNtZUpzdGVwYXJhVXhiSWZ0UUtBRkNHaHk5blZ2WVR1TDlNbGViUG9ENTZjckFoSWg4RkVWbHNJVnFLYkFBZWc2cHpwSFpVamsyc0xRckRFZk9uN05qTWJXSGZ5cGcyZks0?oc=5",
-     "source": "PBS",
-     "published": "2026-11-14T00:30:01+00:00",
-     "summary": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran&nbsp;&nbsp;PBS",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T02:34:29.139142+00:00",
+   "fetched_at": "2026-11-14T03:04:33.314337+00:00",
    "stale": false,
    "items": [
     {
