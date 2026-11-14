@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-14T12:06:12.132571+00:00",
+ "generated_at": "2026-11-14T12:36:15.878136+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T12:06:12.132543+00:00",
+   "fetched_at": "2026-11-14T12:36:15.878105+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Who are the 'street medics' showing up at protests around the world?",
+     "url": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world",
+     "source": "France 24",
+     "published": "2026-11-14T12:19:19+00:00",
+     "summary": "From treating tear gas exposure to tending to injuries, street medics have become an increasingly common sight at protests all over the world. But who exactly are they and when did",
+     "image": "https://s.france24.com/media/display/764618c8-e025-11f1-878e-5f54d898a954/w:1024/p:16x9/capture-d4ac3443.jpg"
+    },
+    {
+     "title": "U2 releases first new studio album in a decade, 'Caranaval de Luz'",
+     "url": "https://www.france24.com/en/u2-releases-first-new-studio-album-in-a-decade-caranaval-de-luz",
+     "source": "France 24",
+     "published": "2026-11-14T12:17:19+00:00",
+     "summary": "U2 just released a new album after nine years of no new content. And fans are already rocking out to the new songs. Details on the Irish rock band\u2019s comeback by Ophelie Jacobson.",
+     "image": "https://s.france24.com/media/display/63928f76-e01c-11f1-9567-695cb59fade5/w:1024/p:16x9/EN-20261114-082432-082622-CS.jpg"
+    },
+    {
+     "title": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
+     "url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
+     "source": "The Guardian",
+     "published": "2026-11-14T12:00:44+00:00",
+     "summary": "Experts warn of risks of platforms hosting bets tied to US public health \u2013 including vaccine mandates and drug trialsThe sign was pasted on a construction fence next to an elementa",
+     "image": "https://i.guim.co.uk/img/media/e97888976677bdf10666c58dc0c0b7f1d095e175/165_0_2324_1860/master/2324.jpg?width=140&quality=85&auto=format&fit=max&s=60af66d424bcac0a7148f01f7aec05e6"
+    },
+    {
+     "title": "\u2018Enough is enough\u2019: rising number of deadly ebike battery fires spark fear in New York City",
+     "url": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
+     "source": "The Guardian",
+     "published": "2026-11-14T12:00:44+00:00",
+     "summary": "City has failed to build infrastructure that could reduce threat, and saw 400 fires, 83 injuries and 12 deaths this yearFires from lithium-ion batteries, which power ebikes and sco",
+     "image": "https://i.guim.co.uk/img/media/23c25d71e33c11c509144a78a32f53c9cb09a57d/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=748be69ea24b6ab6e8f14e4eb1923f61"
+    },
     {
      "title": "Microsoft says services fully restored after global outage hits governments",
      "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
@@ -14,12 +46,20 @@
      "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f"
     },
     {
-     "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+     "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T11:43:06+00:00",
+     "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+     "image": ""
+    },
+    {
+     "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-14T11:30:10+00:00",
      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg"
     },
     {
      "title": "Half a million people gather for an open-air mass by Pope Leo in Peru",
@@ -76,53 +116,37 @@
      "published": "2026-11-14T11:00:43+00:00",
      "summary": "Activists dumped rocks off Norfolk coast on site of Burnham-backed project in protest against seabed trawlingThe giant offshore windfarms backed by Andy Burnham this week may face ",
      "image": "https://i.guim.co.uk/img/media/5c3dbca857b8f7de780fc54ca9d2ea37e0f290bf/251_0_1937_1550/master/1937.jpg?width=140&quality=85&auto=format&fit=max&s=97e2e9aec87c9a6b8acc48da7fe08984"
-    },
-    {
-     "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
-     "source": "The Guardian",
-     "published": "2026-11-14T11:00:43+00:00",
-     "summary": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham KingAsylum seekers accommodated at a controversial mili",
-     "image": "https://i.guim.co.uk/img/media/4a90df7883b7c5941dd14a6eef2a0f2678cebf9d/566_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6ea5aae5938a03625a134c3b27a6d257"
-    },
-    {
-     "title": "Will Trump\u2019s lame duck presidency push him further beyond constraints of the law?",
-     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
-     "source": "The Guardian",
-     "published": "2026-11-14T11:00:43+00:00",
-     "summary": "Midterm elections have defanged the US president \u2013 leaving critics to worry about his next move in his \u2018fat Elvis\u2019 stageIt was just before 3am when Donald Trump entered a crowded M",
-     "image": "https://i.guim.co.uk/img/media/f850cba9168bff3c2fc933bd2b10aa840d98f1b2/0_216_2109_1686/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=04dbbb0abc072b15895de6c337b4cfac"
-    },
-    {
-     "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-     "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T11:00:39+00:00",
-     "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
-     "image": ""
-    },
-    {
-     "title": "France fend off South African comeback to clinch long-awaited win in Paris",
-     "url": "https://www.france24.com/en/tv-shows/sports/20261114-france-fend-off-south-african-comeback-to-clinch-long-awaited-win-in-paris",
-     "source": "France 24",
-     "published": "2026-11-14T10:58:10+00:00",
-     "summary": "Twenty-one years after last beating the Springboks in Paris, Les Bleus held out for a 21-19 win over the world champions on Friday after a nailbiting finale. Antoine Dupont and com",
-     "image": "https://s.france24.com/media/display/0732732e-dfe8-11f1-801a-29048b396e03/w:1024/p:16x9/J24-France-celebrate.jpg"
-    },
-    {
-     "title": "Hungarian authorities uncover $20m during probe of Orb\u00e1n-era minister",
-     "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T10:42:20+00:00",
-     "summary": "Prime Minister P\u00e9ter Magyar promised a sweeping anti-corruption drive after ousting Orb\u00e1n in April.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T12:06:12.132557+00:00",
+   "fetched_at": "2026-11-14T12:36:15.878120+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T12:14:41+00:00",
+     "summary": "Trump-Xi-Putin trilateral meeting at APEC: What to expect&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN2ZyRGVhbVc3bW5vWGNJT0JxQlZpNzllbzM4aWNKOXhGMzh5OF9JSS12RWl3ZHdqUDFtQmM3Yk5SZ2I5dWlKWUNZMklnWHNhWkQxQUZYcVRidmxrbFEtTlVPRjB4NHRMWXl3bmMxeGQ0b216UWlPX1d3STNBTXFNZDd4ZkxEUHpsMERJVVVSWWFkenc2MFBSUFRlS0J6OEFZNVBOY2NQQTNqa0hGSkZ4aUFYdWNyODNoVFZ2eG5yUEwyend1cHM4OVNOeklQUFBUWjVXbGNWaUVJMTVhS0g5YlZpVDBpVm9tRUhIQkJmR2R2M2VzZ3c?oc=5",
+     "source": "Il Sole 24 ORE",
+     "published": "2026-11-14T12:13:42+00:00",
+     "summary": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories&nbsp;&nbsp;Il Sole 24 ORE",
+     "image": ""
+    },
+    {
+     "title": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
+     "url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
+     "source": "The Guardian",
+     "published": "2026-11-14T12:00:44+00:00",
+     "summary": "Experts warn of risks of platforms hosting bets tied to US public health \u2013 including vaccine mandates and drug trialsThe sign was pasted on a construction fence next to an elementa",
+     "image": "https://i.guim.co.uk/img/media/e97888976677bdf10666c58dc0c0b7f1d095e175/165_0_2324_1860/master/2324.jpg?width=140&quality=85&auto=format&fit=max&s=60af66d424bcac0a7148f01f7aec05e6"
+    },
     {
      "title": "Zelenskyy says Ukraine, Russia discuss prisoner swap involving 1,200-1,300 people from each side",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUdRV2xWRGFNbnlDTmhwUDFBcVFuRjFYQnlNQWNLUW9IZjg1WlBYMGlpRnIxclIwSWlTZXlfR2prTXJZMzBDR1F6eW5XNHhyNmR2LU1oOVJvakNRcXQ5T2NjZ2tQMlZ0VllvM2pVZTNTSERuaDNUQjJkckdoLTVaSk52Z3lCQWlYNTk3enFvRFR6TmFhaFJONTZPYkpWbmdBam1DNGlJMHhMOFlZU1oyZ3pKU2NYdWtkenlFWHBwRFB3VnZOenhFdGIwRGh0ZVdKLVpFTmIxeXpKNmM?oc=5",
@@ -140,19 +164,19 @@
      "image": ""
     },
     {
-     "title": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN2ZyRGVhbVc3bW5vWGNJT0JxQlZpNzllbzM4aWNKOXhGMzh5OF9JSS12RWl3ZHdqUDFtQmM3Yk5SZ2I5dWlKWUNZMklnWHNhWkQxQUZYcVRidmxrbFEtTlVPRjB4NHRMWXl3bmMxeGQ0b216UWlPX1d3STNBTXFNZDd4ZkxEUHpsMERJVVVSWWFkenc2MFBSUFRlS0J6OEFZNVBOY2NQQTNqa0hGSkZ4aUFYdWNyODNoVFZ2eG5yUEwyend1cHM4OVNOeklQUFBUWjVXbGNWaUVJMTVhS0g5YlZpVDBpVm9tRUhIQkJmR2R2M2VzZ3c?oc=5",
-     "source": "Il Sole 24 ORE",
-     "published": "2026-11-14T11:37:28+00:00",
-     "summary": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories&nbsp;&nbsp;Il Sole 24 ORE",
+     "title": "US suggests Ukraine \u2018trade territory for NATO seat\u2019",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1A3YVNWWjRuUDFnZUxIRWdiR1dNc013bklVV2V5TlJNWEpUZkRuSFR6Nm56NmJVTXJ6cmRsSzZJY3duR1RwVVMzeVNWLUNCU1VWNlV2UUpuY3hKUHN2VG91TVY1T2xIWFVZd09tTEs4NmFxSHJaUkpob2FveGdncERrdWIwWVY3Q3l6dm9HbGludXZC?oc=5",
+     "source": "Bangkok Post",
+     "published": "2026-11-14T11:45:00+00:00",
+     "summary": "US suggests Ukraine \u2018trade territory for NATO seat\u2019&nbsp;&nbsp;Bangkok Post",
      "image": ""
     },
     {
      "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWw1VWpUVExUNUNfczNObWpNSU1jMTU0YUpoeC0ybWxZOGFBeFA0V0lQSnJ3c1RxMzJHUFZiUF84TFJIaTJHNUpQbGZPV2xYaGhXRk01RW9lNzB1TlVYc1VqWE9hTEg1M3UxODJGMFhBQWl4QmM0REZObUN2QmtYS2pTd2R1RVlEX0s5OUxQT3NJd2lqZGFiTUJ4Ynljbkt4MnNNVld3VExMZklJeV9xUw?oc=5",
-     "source": "Audacy",
-     "published": "2026-11-14T11:21:00+00:00",
-     "summary": "Zelenskyy says a new European security framework floated by US could benefit Putin&nbsp;&nbsp;Audacy",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUWJTRWotel9MU3ZKeTdEd2RmYmZRejA3MTBWY00xU242Zno3UWU5Qm82YWRkWmJRLUFEU0laUWVfSnlsTWIxalRIdXhOZzRxcU5iQ3pVcXBIMEJsSnBuSXRHQVp2bkZuWGJVRFpqUUFxQ2NfaHUyS1VYalFkMGd0Zzh5Z3huUQ?oc=5",
+     "source": "Newsday",
+     "published": "2026-11-14T11:25:19+00:00",
+     "summary": "Zelenskyy says a new European security framework floated by US could benefit Putin&nbsp;&nbsp;Newsday",
      "image": ""
     },
     {
@@ -194,37 +218,29 @@
      "published": "2026-11-14T11:00:43+00:00",
      "summary": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham KingAsylum seekers accommodated at a controversial mili",
      "image": "https://i.guim.co.uk/img/media/4a90df7883b7c5941dd14a6eef2a0f2678cebf9d/566_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6ea5aae5938a03625a134c3b27a6d257"
-    },
-    {
-     "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-     "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T11:00:39+00:00",
-     "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
-     "image": ""
-    },
-    {
-     "title": "\u201cSort this out with Putin.\u201d Zelenskyy Reveals Russia\u2019s Reply on a Ceasefire Negotiations",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWWxhOHpkV1VYMXpsS2w0ZFRucHp4QnkwWll5bEVOS2J6ekZFa0FwOEl5eXJ4ZHlScVFnZUhzUW9kbXZValRKRHR1RVJyV1d5X3hFYTgxYUxBbkptZTJWeEwtbjRYODF2OFBnaDFXY1BIZjFIa29aXzJ0T2M2MURvLUhCUzRpMU93ODhHdWRnLUJSQldzNU9DTVZhM0FWNjFVcDNrdXFfLWpFanRZZi1zblYyLXg0dHJVWEJ2dDhlYlYwY3M?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-14T10:44:59+00:00",
-     "summary": "\u201cSort this out with Putin.\u201d Zelenskyy Reveals Russia\u2019s Reply on a Ceasefire Negotiations&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "At least 7 killed, 80 injured in Russian attacks across Ukraine; Zaporizhzhia among worst hit",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmo1ZlZFelVnRHRmOXFUcUZjU2N0NmlGNGZucy1XRUNKRk9EMnY5eVJqSU92VldKZ0xqV3JKNkxQakxjdFA0TFJjbUhBanlhMWlLQ01jMWJySEQwZ1BDbEJlTVIxUzJjblFGd216ZmtzWF9QRW94VlFpRUhZYmZLZENrZUZLNWVGSEZLbWpXaHYxSHpmUVVJTE5sNVY3d09DMG9xOHhkZ3ZXa2tpdE83OFJjRVFlVVZPay1nZA?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-14T10:43:28+00:00",
-     "summary": "At least 7 killed, 80 injured in Russian attacks across Ukraine; Zaporizhzhia among worst hit&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T12:06:12.132561+00:00",
+   "fetched_at": "2026-11-14T12:36:15.878124+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Who are the 'street medics' showing up at protests around the world?",
+     "url": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world",
+     "source": "France 24",
+     "published": "2026-11-14T12:19:19+00:00",
+     "summary": "From treating tear gas exposure to tending to injuries, street medics have become an increasingly common sight at protests all over the world. But who exactly are they and when did",
+     "image": "https://s.france24.com/media/display/764618c8-e025-11f1-878e-5f54d898a954/w:1024/p:16x9/capture-d4ac3443.jpg"
+    },
+    {
+     "title": "Legal Note: Notice Of Post-Election Audit",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWthWS1NV0YwZmdkcXppMVVuYU91dXVqT0FXdXFPQ0paRDlLaHZjMDhmZ1JJaXpnMzZXdUhmZUZWY2llb09vdmoxaW81SUNLalgyU0FWSTBGY2FkRGl2eGJUOFh3emhpTEk0dFNlRUVWc2J1SEFvdU9nZm9fYnRCVk1qVElwQlZlYThSVy1pSjNaeVU2LWc?oc=5",
+     "source": "Valley Independent Sentinel",
+     "published": "2026-11-14T12:01:35+00:00",
+     "summary": "Legal Note: Notice Of Post-Election Audit&nbsp;&nbsp;Valley Independent Sentinel",
+     "image": ""
+    },
     {
      "title": "Microsoft says services fully restored after global outage hits governments",
      "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
@@ -232,6 +248,14 @@
      "published": "2026-11-14T11:54:31+00:00",
      "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in yearsMicrosoft has said its service has been fully restored after a massi",
      "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f"
+    },
+    {
+     "title": "Cinephil Boards Alexandru Solomon\u2019s Romanian Election Doc \u2018Small Expectations\u2019 \u2013 IDFA",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0ROY3ZhV09rdkFzWi13b0RPUURjNGc1ZHNaakE1S0xuTDcwNVBNUGJud2ZUTmQtc2g5NjZrb0hDWXlmQXZOZVFMcnZ2eWdKS3dkaHlJb2tuQ2FiR2J6YWZQU01RdV92Qi1NeFA4YWJ5SUJKYW95Y0JVVDFHLS1TMW1ZckNDUUpFQ0xQR2k4Y3k3NnhOZ3c?oc=5",
+     "source": "Deadline",
+     "published": "2026-11-14T11:40:00+00:00",
+     "summary": "Cinephil Boards Alexandru Solomon\u2019s Romanian Election Doc \u2018Small Expectations\u2019 \u2013 IDFA&nbsp;&nbsp;Deadline",
+     "image": ""
     },
     {
      "title": "Greenpeace boulders may delay building of \u00a312bn windfarms in North Sea",
@@ -296,35 +320,11 @@
      "published": "2026-11-14T10:15:42+00:00",
      "summary": "Different causes are set to come together for one march in Paris this Saturday. Campaign groups, students and Yellow Vest protesters are due to join forces in the capital, bringing",
      "image": "https://s.france24.com/media/display/d23ba148-e011-11f1-8b8d-29048b396e03/w:1024/p:16x9/EN-20261114-100425-100557-CS.jpg"
-    },
-    {
-     "title": "What Donalds\u2019 new policy aide signals about plans for healthcare, food assistance",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVThGcXEyOXRpU21LZFJGRTNDcmdab3dmRkdqWG9aV0YtQjh4dUFPME9kRE1fUDVyLXgxV2E4UnNwbFZaLVk2R2ozTG1VMVFDN0xqblRkVm5veFlZbGcwaEpLajgyQ0xrOFpIa1luQmFXLTlLek9EU0hseWtTajNZdDJBWHFoRmNiR0twX2xjYkNNelnSAZMBQVVfeXFMTmo1YjZOdEhYcWtTTHFkSkVfdTNkOUkxSmlwNWFxdVIzUnRYZ290SEYxeXAxMXVYYkhUSDVHOFhjY1NxTU1sdF96TGU4ZWZtQWtJU2dHTmdIQVBRcklfR1RBcFRPMkVTSzRWbHlEODVMZmhVajF5ZE1WbXpNM0hWZjJrTnZTZlJWWURSc29FcjZ1aTlr?oc=5",
-     "source": "Miami Herald",
-     "published": "2026-11-14T10:15:00+00:00",
-     "summary": "What Donalds\u2019 new policy aide signals about plans for healthcare, food assistance&nbsp;&nbsp;Miami Herald",
-     "image": ""
-    },
-    {
-     "title": "Do\u00f1a Ana County hits voter milestone for midterm election",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakZ6aTF0OEItNi0zMUp4YlVvTG1MTDF3N3VNdVNQWjVIbjN0ZmZoLUZlenVBZU45U0oyVUd5VTNPcG1DYURPWjI4cHdQM1pWZlJBVGxiWmVOUV9TRFB1Qjc4c3g4WVRnQzU0Umw0S3JTUkFnQVBHaFZGNnBxeDJTZDZMazA?oc=5",
-     "source": "Fort Worth Star-Telegram",
-     "published": "2026-11-14T10:03:00+00:00",
-     "summary": "Do\u00f1a Ana County hits voter milestone for midterm election&nbsp;&nbsp;Fort Worth Star-Telegram",
-     "image": ""
-    },
-    {
-     "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUHdCU09TcEVmOGdMeUN5TWpfWS1yZ2VGOG1mSmhsMWhlbm9TbU1Edk1DR1pHTUVhX0F6RVpMTGYtTVNidE54RlFHenFoY2dlNjdmYkJwQUtiUVU4WXNac203dXpiTmQwUGJocTdaN2hFWGNDUERydDQxWXZ6d0JxbmYwdE5kZGE2T2tHcllZdEtpZw?oc=5",
-     "source": "NPR",
-     "published": "2026-11-14T10:00:00+00:00",
-     "summary": "As Democrats win big, thirst traps of male candidates take social media by storm&nbsp;&nbsp;NPR",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T12:06:12.132563+00:00",
+   "fetched_at": "2026-11-14T12:36:15.878126+00:00",
    "stale": false,
    "items": [
     {
