@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-14T05:04:50.619367+00:00",
+ "generated_at": "2026-11-14T05:35:05.864164+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T05:04:50.619352+00:00",
+   "fetched_at": "2026-11-14T05:35:05.864136+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "University hounded out of Hungary by Orb\u00e1n reaches out to new government",
+     "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+     "source": "The Guardian",
+     "published": "2026-11-14T05:00:35+00:00",
+     "summary": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary\u2019s futureA university that Viktor Orb\u00e1n tried to chase out of Hungary is open to",
+     "image": "https://i.guim.co.uk/img/media/8ca795707b5c5b5c8936bdd665604906c2712ffe/405_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=860402a67258d4737d3e72f279394bd5"
+    },
+    {
+     "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+     "source": "The Guardian",
+     "published": "2026-11-14T04:56:06+00:00",
+     "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in USUS flight outage \u2013 live updatesGet our breaking news email, free app or daily news podc",
+     "image": "https://i.guim.co.uk/img/media/0f73a43c7adabdff5e4709c7319a3e2dd6459d4d/2337_146_6560_5249/master/6560.jpg?width=140&quality=85&auto=format&fit=max&s=5e9b61407d5b8104eb046c8c98d7d409"
+    },
     {
      "title": "Trump, Xi and Putin to hold first three-way summit in China",
      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
@@ -78,14 +94,6 @@
      "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11"
     },
     {
-     "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
-     "source": "The Guardian",
-     "published": "2026-11-14T03:08:34+00:00",
-     "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in USUS flight outage \u2013 live updatesGet our breaking news email, free app or daily news podc",
-     "image": "https://i.guim.co.uk/img/media/0f73a43c7adabdff5e4709c7319a3e2dd6459d4d/2337_146_6560_5249/master/6560.jpg?width=140&quality=85&auto=format&fit=max&s=5e9b61407d5b8104eb046c8c98d7d409"
-    },
-    {
      "title": "FAA lifts nationwide ground stop on all US flights",
      "url": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
      "source": "France 24",
@@ -108,19 +116,11 @@
      "published": "2026-11-14T02:35:48+00:00",
      "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping ",
      "image": "https://s.france24.com/media/display/de33210e-dfd2-11f1-8675-29048b396e03/w:1024/p:16x9/AP26317844187470.jpg"
-    },
-    {
-     "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
-     "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T02:34:50+00:00",
-     "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T05:04:50.619358+00:00",
+   "fetched_at": "2026-11-14T05:35:05.864150+00:00",
    "stale": false,
    "items": [
     {
@@ -204,27 +204,59 @@
      "image": ""
     },
     {
+     "title": "Trump, Xi and Putin to meet Thursday, discuss nukes",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzZVbHFZa2NPRXFKZld5dVRCeDUyVFVFdmlaRURQVlFDQ0VxSjhWSC1aVm1zX3ExckJzaFM1dEIydUREa1FoMl8tM3h0RHpWQkFvNEptbjI3TmFNMDN6NGZfYUZHT3d1YzFMenZuYTBqMVQ2U1lkVEJfcktMa1ZIZ21EdG10bmJGZ3RsSk1MSmgyd1NNQTV0RnpyekVHY3VM?oc=5",
+     "source": "Politico",
+     "published": "2026-11-14T01:41:00+00:00",
+     "summary": "Trump, Xi and Putin to meet Thursday, discuss nukes&nbsp;&nbsp;Politico",
+     "image": ""
+    },
+    {
      "title": "Microsoft \u2018deeply sorry\u2019 for global disruption that could have billion-dollar impact on Australia",
      "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
      "source": "The Guardian",
      "published": "2026-11-14T00:52:48+00:00",
      "summary": "Experts say outage exposes \u2018Australia\u2019s reliance on foreign technology\u2019 as software giant says services being restoredGet our breaking news email, free app or daily news podcastThe",
      "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/411_82_4687_3752/master/4687.jpg?width=140&quality=85&auto=format&fit=max&s=32d07acfc6c3a30cd9dc6332d3e3023c"
-    },
-    {
-     "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-     "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T00:03:56+00:00",
-     "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T05:04:50.619361+00:00",
+   "fetched_at": "2026-11-14T05:35:05.864153+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "A New Era for Childhood Vaccine Policy",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV1pZdUoyXzVHSG5tdkZna1VWemF2TFlwZmYwV2FZNFMyZUswaEFPUXpmSExNTzFhS1g3VmNIR012YlBnTUx0eGFBQjZsYXJveG9sN0hyWkVHcnQyUEZJcjRnQTA4dUZpZ2FBdG9nRlBuT1NPRXRFOGJkOG1uNkJ4M3U4M0NZdTEwTnB4cjhmblI?oc=5",
+     "source": "The Regulatory Review",
+     "published": "2026-11-14T05:20:58+00:00",
+     "summary": "A New Era for Childhood Vaccine Policy&nbsp;&nbsp;The Regulatory Review",
+     "image": ""
+    },
+    {
+     "title": "Op-ed: West Virginia\u2019s 2026 election was a national model for safe, secure and accurate voting",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOGpQYVVlc2lpbGFaTURYQXlIS1hKOG1WWjJBXzFDZDlBQ01LZ2l1cGx3bDBFcWt2cmNEUWZtNjBIZzdlYVd1bHpDOS1iRzkzM2NtdFRrcDdxeEt4MTBHZElucWpSeGZ1Nlg1amtfVFlnRlQxV0lzMGtRVVpQa01WQTRsUlhIMFBwUVJGS3ZJNEZNbnVacE14YkVmVTdtWGVPUHZpYllHMnpZSmtlLXRLYVBEaERGQnZ1VnluangzMk9hNXRJdWVVOFhXLVhUQWc4R0lFM21JUlVjalVXMUdxR1pVMTk0R2xzX0E?oc=5",
+     "source": "News and Sentinel",
+     "published": "2026-11-14T05:15:31+00:00",
+     "summary": "Op-ed: West Virginia\u2019s 2026 election was a national model for safe, secure and accurate voting&nbsp;&nbsp;News and Sentinel",
+     "image": ""
+    },
+    {
+     "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor\u2019s race",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnkyYjBoWS1aV2dpOEZsWm1Rak9SZkVUaEllQVMwai02UlpnYWZ4bzlfckdiaXFEYVhXUEEtSkNVdVhJaFU1T0dIWGhiSk5Kb2ViV2laSC1PbUdrazBiWW5tWmdUajJsSVM3a3FNb1FZa3h1LTdZankxRVpJZkh5eFVMYkpwNUZnZTBQQWZfMWpoclhBSGZScFF1THZRS0hPbVc3X0k2Zmh0dHU3UFR4Q0VaLUFiaW8?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-14T05:05:00+00:00",
+     "summary": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor\u2019s race&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "University hounded out of Hungary by Orb\u00e1n reaches out to new government",
+     "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+     "source": "The Guardian",
+     "published": "2026-11-14T05:00:35+00:00",
+     "summary": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary\u2019s futureA university that Viktor Orb\u00e1n tried to chase out of Hungary is open to",
+     "image": "https://i.guim.co.uk/img/media/8ca795707b5c5b5c8936bdd665604906c2712ffe/405_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=860402a67258d4737d3e72f279394bd5"
+    },
     {
      "title": "Ohio\u2019s newly elected secretary of state outlines election priorities",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUk55XzVNb3d4TDUwblVIcXltSEhUX1d5SG9HekVLY05NZnlpR1pNSFdEUGd3elpwY1J5cVpKUGU0c0V4VGpXcERodUM1ZGhsdFdtb3FTT3puWTNRVDVkOXR1bzB1T25Rek9fMVNLc1dETUE1OEJ2UDFXNUU2VlRhNW9zZXRXOXZ4SUlnY0JnZlBnTi13OE1sTXU0ZXRHVEpMX2ZRdHd0WdIBuwFBVV95cUxQNC1KaU1DaWJpRlNmMldVNjlyc05NUFRDa0N4X2daMzdBSVkxa1EwOUhnMTFwX3dNTW5HeWRZSEJWMkJSaHhzdnVoN0NYV2psZXI5NC1xWVAxMW1uV3ZNZjA0U3d5RXV5QWlTZGl1bUJMQ1VkMnE4VUlXTDY3WHcySl93T1ZqZnJkaWlHM3dlODcxMlhzeXVndGdzU3h4bHE1bjF6MEdjRmZ3RThvT0k0MW1LS0hPdGVYUDI4?oc=5",
@@ -282,49 +314,17 @@
      "image": ""
     },
     {
-     "title": "Victory for Alaska Voters: Court Rejects Trump/Vance Administration\u2019s Attempt to Interfere in Senate Election",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLVd4TWxqMFFZTmZvXzVpWTRVOE05NmowOTk1c09YM1hZMnZneWdfLXhLUEZfMGQ3ZFZIQjlxaDhwaHl3RDZ2UjVnLVh0clhRV3dIM0JsOHkzanI5ZGNTQ0FITDloczVEdVJ4Qm5IMk1XMWZsOU5iNDA5OVV2NFhOODN3c2NRRUZXcVRERnhwQVB3aTkzMzVxY0EwNWZUeXRxY0VZTF9DcVU2dm1vMVVhR2U0UWFlQkdRS3dXNlY4WTQ1WlVCUlFYOXpOcnZRU3RhdkJrdmxaX3cteklvRVhhalpPc2VUUQ?oc=5",
-     "source": "Common Cause",
-     "published": "2026-11-14T03:43:51+00:00",
-     "summary": "Victory for Alaska Voters: Court Rejects Trump/Vance Administration\u2019s Attempt to Interfere in Senate Election&nbsp;&nbsp;Common Cause",
-     "image": ""
-    },
-    {
      "title": "\u2018Heartbreaking\u2019: Days after election, Pittsburg County Sheriff Frankie McClendon dies",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd1R3cktYNkRqdHFkNHdhYzdHM3pVT1BNOXdiVlZmeU5CT1hieTlOTHBESUEzLVRSQ0tybkl1ODNzUFhwbGRvWi1faVFDeTJha2pidXBUYmE4ZkhwRUo1bUpqaVRQcDhNUGU4MG05V3pUYVB2ZU5lcmJFUU5MMkxya3FYVndhVWdJZDJQajQtOUVVWVZjV2t1djJWQkVnVDlyYkl3cG5RM3lfWlVKejh6VnpB?oc=5",
      "source": "NonDoc Media",
      "published": "2026-11-14T03:00:00+00:00",
      "summary": "\u2018Heartbreaking\u2019: Days after election, Pittsburg County Sheriff Frankie McClendon dies&nbsp;&nbsp;NonDoc Media",
      "image": ""
-    },
-    {
-     "title": "Election Results Update Nov. 13",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TUFJzOHJPc0FsUzdwLWtSYlN1UVdwZVhPaHFyV3JjTGVLQl83MzRlZTlDcW5jSG5sS3d5SmRNR2dTY0Z1eG5PVnJfWXN5b19GQnVscnV6Y1pfMk5LV0tPZ2FYVGJ3SHhrR0h3SQ?oc=5",
-     "source": "YubaNet",
-     "published": "2026-11-14T02:38:39+00:00",
-     "summary": "Election Results Update Nov. 13&nbsp;&nbsp;YubaNet",
-     "image": ""
-    },
-    {
-     "title": "Election results in Berkeley and Alameda County",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0hpSUlLMFVTclRRNmhFY3hidERlR0FRR2o0WnI1WFU3NV90RDJXZGRGdWJzNjBsVEVyT0o0VlJjbnVYb2llTFNuNElkQ2lCSTVGd2pLNlEtNHBFcHd1SXZkbllmVGIyczBCU3Bxb1FwS3ZGZEN5VUdJU0NwX09RTTB0ZVpsVF9GbE9FcjJn?oc=5",
-     "source": "Berkeleyside",
-     "published": "2026-11-14T02:31:19+00:00",
-     "summary": "Election results in Berkeley and Alameda County&nbsp;&nbsp;Berkeleyside",
-     "image": ""
-    },
-    {
-     "title": "Democrat Eileen Laubacher wins election to U.S. House in Colorado ousting GOP Rep. Lauren Boebert",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRUFSTFFHcXlJNmQwS21aeHR0TFZGcU5wenFSdTBlYkJEWkRBd0h3OWVLZ1lfWXBVUzFKZ0s2aFFaRks2NmphcFNlNjBKOXUydUwyLWZ2Yk1ac0FKc2tnNWdKdi10Z1lUYUFwTGE4VDNPVlc2LWY2UFBicE9lbTIyblBIQzVTdzc1U1NSc3NfMEotY0Jkd2E5U0h3eHFrNlFfMXdUVFFBLVA0R25GcEZITk90akxVOGN0Nnh6b2Y4WFBqeVM0dEQwRXJfWnc2RGlOV3dkWlpsWDRQUVFmQzBDRzhvaFhEdjJCaDdIUzFKa0tRaUEtbWpLMWExSUgwMnB4N2hReQ?oc=5",
-     "source": "KVUE",
-     "published": "2026-11-14T02:14:04+00:00",
-     "summary": "Democrat Eileen Laubacher wins election to U.S. House in Colorado ousting GOP Rep. Lauren Boebert&nbsp;&nbsp;KVUE",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T05:04:50.619362+00:00",
+   "fetched_at": "2026-11-14T05:35:05.864156+00:00",
    "stale": false,
    "items": [
     {
