@@ -1,33 +1,57 @@
 {
- "generated_at": "2026-11-13T23:33:52.315224+00:00",
+ "generated_at": "2026-11-14T00:03:56.268132+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-13T23:33:52.315196+00:00",
+   "fetched_at": "2026-11-14T00:03:56.268103+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Setback for SpaceX Starship rocket's double-catch test",
+     "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T00:01:01+00:00",
+     "summary": "Elon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the ocean.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg"
+    },
     {
      "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "published": "2026-11-13T23:24:05+00:00",
+     "published": "2026-11-13T23:58:45+00:00",
      "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump\u2019s homeland security secretary says \u2018no indication as of yet\u2019 of cyberattackFAA issues nati",
      "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
     },
     {
-     "title": "New Orleans boat crash live: all passengers and crew found alive in \u2018miracle on the Mississippi\u2019",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
+     "title": "What to know about the rare nationwide ground stop issued by the FAA",
+     "url": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
      "source": "The Guardian",
-     "published": "2026-11-13T23:03:17+00:00",
-     "summary": "New Orleans mayor says 32 people are being treated for minor injuries after ship narrowly missed striking a major bridgeTanker collides with cruise ship on Mississippi River in New",
-     "image": "https://i.guim.co.uk/img/media/c8e77aee359cc4c5de7c6aaa1f2da566b12be4bd/211_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=3f89d09a3547d4763a9dd6b7e03b920e"
+     "published": "2026-11-13T23:56:08+00:00",
+     "summary": "The Federal Aviation Administration issued a ground stop for all planes due to take off in the US, delaying and canceling thousands of flightsFlights grounded at all US airports du",
+     "image": "https://i.guim.co.uk/img/media/65cfe750f8f356c4184de878849ed7c03107aa6f/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=7860155056d5c7f957fb63c5ba52237d"
     },
     {
-     "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-     "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+     "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
      "source": "The Guardian",
-     "published": "2026-11-13T23:01:06+00:00",
-     "summary": "Transportation secretary said stoppage is due to \u2018communication issue\u2019 and homeland security says there\u2019s no indication of \u2018nefarious attack\u2019Flights grounded at all US airports due",
-     "image": "https://i.guim.co.uk/img/media/e0ab041b575c8eedc802a6fc41aa64352628fae1/0_0_3024_2420/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=ba8fdc5781587a131e79485a0c361fae"
+     "published": "2026-11-13T23:53:43+00:00",
+     "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to complyZohran Mamdani, the New York City mayor, has struck a deal with Donald",
+     "image": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=140&quality=85&auto=format&fit=max&s=312b2756177b7c278a3a9469fa907879"
+    },
+    {
+     "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
+     "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+     "source": "The Guardian",
+     "published": "2026-11-13T23:38:09+00:00",
+     "summary": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, TexasSpaceX\u2019s Starship megarocket blasted off from Texas on Friday afternoon,",
+     "image": "https://i.guim.co.uk/img/media/e49347059f6c48431222b1105f2ca576e92c1c82/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5c0c6d7edd01447ecc6dda30577aeb3d"
+    },
+    {
+     "title": "All passengers and crew accounted for after New Orleans boat crash in \u2018miracle on the Mississippi\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+     "source": "The Guardian",
+     "published": "2026-11-13T23:36:21+00:00",
+     "summary": "No passengers or crew were killed or critically hurt after a tanker collided with a river cruise ship on the Mississippi River, officials sayNew Orleans river collision \u2013 latest up",
+     "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11"
     },
     {
      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
@@ -78,14 +102,6 @@
      "image": ""
     },
     {
-     "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
-     "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-     "source": "The Guardian",
-     "published": "2026-11-13T21:49:50+00:00",
-     "summary": "Large emergency response under way to rescue people from the water, with overnight cruise ship on its sideNew Orleans river collision \u2013 latest updatesA tanker collided with a river",
-     "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11"
-    },
-    {
      "title": "Gambia's Adama Barrow seeks third term",
      "url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
      "source": "France 24",
@@ -100,27 +116,11 @@
      "published": "2026-11-13T21:38:52+00:00",
      "summary": "European Council President Antonio Costa on Friday said that Brussels will send diplomats from the bloc and five countries, including the UK, France, Germany, Italy and Poland, to ",
      "image": "https://s.france24.com/media/display/b484b08c-dfa7-11f1-aaa1-f71d22e7fea9/w:1024/p:16x9/2026-10-16T084030Z-885766991-RC274OADTRVQ-RTRMADP-3-UKRAINE-CRISIS-EU.jpg"
-    },
-    {
-     "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
-     "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
-     "source": "The Guardian",
-     "published": "2026-11-13T21:34:43+00:00",
-     "summary": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to bring shoppers backThe long decline of the high street is a problem that has gripped B",
-     "image": "https://i.guim.co.uk/img/media/d24ecfe085b5748a596ec8152c77a991779dc686/572_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=2fa830b4b6a80cafec41c4f31bf8de1b"
-    },
-    {
-     "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-     "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-     "source": "The Guardian",
-     "published": "2026-11-13T21:34:14+00:00",
-     "summary": "Maryland senator\u2019s bid against Chuck Schumer for leadership could decide direction of the Democratic partyUS politics live \u2013 latest updatesEver since Donald Trump returned to the W",
-     "image": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=140&quality=85&auto=format&fit=max&s=6492bacf627eef1865b546aceb5e63b2"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-13T23:33:52.315209+00:00",
+   "fetched_at": "2026-11-14T00:03:56.268117+00:00",
    "stale": false,
    "items": [
     {
@@ -196,14 +196,6 @@
      "image": ""
     },
     {
-     "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-     "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-     "source": "The Guardian",
-     "published": "2026-11-13T21:34:14+00:00",
-     "summary": "Maryland senator\u2019s bid against Chuck Schumer for leadership could decide direction of the Democratic partyUS politics live \u2013 latest updatesEver since Donald Trump returned to the W",
-     "image": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=140&quality=85&auto=format&fit=max&s=6492bacf627eef1865b546aceb5e63b2"
-    },
-    {
      "title": "Target of Opportunity: Ukraine Just Bombed a Russian Warship in the Baltic Sea",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1piRjQ5TTFfOFhwMkFGak54dGMtamNkaEFkenZ4amp0bXB6VGwyV3BIdzF3dHBYcTlwMDhBYTZpZUZ0V1h3ZG01TW95dWxRSF9oNTlqZDE3amxtTUMwTzBEWFN1OTJqd2Q4Z3AyMS03UlV6bGpYd09MN2ttaVdPNkVsYVJ5M2ZLVmFUQVhudUxmSnRDcXhMM3I3Z3B4R2dDRkhqMjBEb2ZGdjhUZ0poQWRKTDlQS3VH?oc=5",
      "source": "The National Interest",
@@ -218,13 +210,93 @@
      "published": "2026-11-13T20:41:35+00:00",
      "summary": "Europe Must Step Up to Settle the Russia-Ukraine War&nbsp;&nbsp;Council on Foreign Relations",
      "image": ""
+    },
+    {
+     "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-13T20:05:56+00:00",
+     "summary": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal&nbsp;&nbsp;The New York Times",
+     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-13T23:33:52.315213+00:00",
+   "fetched_at": "2026-11-14T00:03:56.268121+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRGMVNoOVFrYk5JdjNKX0V1OHcteEhBdjQ3WVl3OXBRdDlhd3pWVDVObnpUNlF2M04xMnd0WHZvQnZGLTJJSm5EbEZwZEdCRzVLbGlJQkVrV2JYT1NQS3ViT0x4UW9HNFdJUUk0N0pDX1FmTjBEM25Bc0N6YnRPM19OSlVKOTZacFM0VWZwVkUyOXRaVnhNWVNoYTFtMGMzNmlaOGMtWTZ4bGJGU0ZwRnpzWnNMS3c?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-14T00:02:36+00:00",
+     "summary": "Supreme Court to review Trump policy blocking asylum seekers at border&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "150 years in the Valley: Colorado\u2019s first presidential election",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzk1TWlPc3hkMHlTRmFyejJNZEdkWDVKeDdOeHdTYzVRSVVNUjVwRHZMZm41X3Z6dnM2VzVIbnBDR1ZLQTZXcmt5RTNRMkQ2U1MtOG1NLVNtZ2dqRjNqb3ByRkxXNGVhSnE0T0xWZ2c2RXJfeW5HY3ByYUtHM0JoOTNEcmlaZDdVTWktNjk1TTFUVHo4MjlYMw?oc=5",
+     "source": "Alamosa Citizen",
+     "published": "2026-11-13T23:57:30+00:00",
+     "summary": "150 years in the Valley: Colorado\u2019s first presidential election&nbsp;&nbsp;Alamosa Citizen",
+     "image": ""
+    },
+    {
+     "title": "How North Carolina's Recount Process Works After the 2026 Election: Deadlines, Steps and What to Know",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTDViNktJbDRyS2FDRl9aQ3VUbDlDX1RhRExfS004MW53Qzlvd1FSdVZRcjJrZGpEVE9NU2F6eVR4R01rZURNbkhZanVxUDJ5Y0YtMGhwM2NLVDNzd1VNckNDa2lXZFB1aVo1OEdkZVhlNVBXRWxiMXJDSk9kNFdqd0VMVWk1SEdZcnZSS094S1duR1BKUzIwSktXWThUWW1VSFhPUlRGcXJzRm5MS21pNlQ0MEFmSjhuaGxybHNZcUhXaWc?oc=5",
+     "source": "WataugaOnline.com",
+     "published": "2026-11-13T23:48:45+00:00",
+     "summary": "How North Carolina's Recount Process Works After the 2026 Election: Deadlines, Steps and What to Know&nbsp;&nbsp;WataugaOnline.com",
+     "image": ""
+    },
+    {
+     "title": "\u201cNew territory\u201d: 2027 election for Klobuchar\u2019s seat will be first of its kind in Minnesota",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSENqOWlCOTlicG9KXzJ0b3lrMzZYd0hrOU5MYmJyeHhxOWF0S3Y2UE9RTkd1Mzd2NUhDc3AxRUxvQW9wYlQ4TTVManA4TUdGSXhlX1J1S1lnTTl3SkpCZi1sZzBYQ2NyQUZkRHkzbUJndDFDUW1xX3FhNUlpTzlYS2ptbXA3RXVWOUc5WXNXUXBKQWRqUTl5QlFHcGJNcElfOUViZUNiNFljajh0dnfSAcIBQVVfeXFMUHV4R3k4ek1pS044NzQ3MTJnVjd5SXJIbUpJMDk4ZC1peDRmVFRkSHJEU2F5d01MSHgxLTJraGM2V2t4WEJoYkNKVmpSMTNYZUFvUDZvRzhhcTJaWmVBdHFSTlRsZG1lbnJpaW5rWTFtSDh0MUk2MGF1ckhzM2JtMG42MzY0eWJ3YmRpZHowNXpCVUh2WjFDTkswc241UDAyV2w5Zmd3SWlidGxvY3dpRTdXY01GVW9RTTVsUENQMkExSVE?oc=5",
+     "source": "KTTC",
+     "published": "2026-11-13T23:42:00+00:00",
+     "summary": "\u201cNew territory\u201d: 2027 election for Klobuchar\u2019s seat will be first of its kind in Minnesota&nbsp;&nbsp;KTTC",
+     "image": ""
+    },
+    {
+     "title": "Merced County election update: Incumbent extends lead in city council race",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeC1HWWZTSXhDMlJrTG5jZ21KMTltT1lDOWNhOTFsYnlidnVuWmtHc2ZyZmFFNE81TkNsUVdnWFo1VWFpN2NBODNaZHpvd0VJSkFjeUpYZ3dsTlRDMUJOZl9iNkF3OVJ2dE90eUdfTnpCNlBRMG9CVnl3dkNuZFpNd29SQ2h3X29YZUctQ0VB0gGOAUFVX3lxTE96Z2dzaTR3ZFluZ3BVeDhiTmZfU2hfSDVIUW1QMEVZem5CVmdGMXFscVpHS1dsZzYza05DZlJiSENuSXJUTEZNblRVcWQtdUU3MFFqbDB0TGxLUFhSbDBDSU1xWlB0YmVYWkhYWVgzbDVac3AwajNWVHdSMEFQT25mS2JhZVZSNE9RVVlySVE?oc=5",
+     "source": "Merced Sun-Star",
+     "published": "2026-11-13T23:34:19+00:00",
+     "summary": "Merced County election update: Incumbent extends lead in city council race&nbsp;&nbsp;Merced Sun-Star",
+     "image": ""
+    },
+    {
+     "title": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-13T23:33:44+00:00",
+     "summary": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Jeffco Public Schools Ballot Issue 5A headed for a recount after tally shows it\u2019s passing by 327 votes",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeUlYSEFvTng2bERDTWRaZW1tR0djaXpzRVVuZjhSbHdSbWRIM0FlSDMxSGl2WWNXOVRWM1hIWnEtTmFQRndPdzAwSTZVQlRFbXZIdmtzakhfNWpBQ0oycU5fa05QQUZ2cHNQblBIWUhreTVnTFVEQ0xHMnM2LV9wSzhlWEJqQWNkekZnU0pNbzNZVFlteUxSeVlDU2VfYUZhWGZmLXB3NjdWd1R5bndsbVpIajh3S3k0RW51VA?oc=5",
+     "source": "Chalkbeat",
+     "published": "2026-11-13T23:33:00+00:00",
+     "summary": "Jeffco Public Schools Ballot Issue 5A headed for a recount after tally shows it\u2019s passing by 327 votes&nbsp;&nbsp;Chalkbeat",
+     "image": ""
+    },
+    {
+     "title": "Rep. Lauren Boebert loses seat to Democrat Eileen Laubacher, election awaits certification",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHBiTmZ1ZU90c3FSaUk0bEtNMURaU1NkYXA2MEtaTW5Da1k2M1VtSnNuMkZOWXVvclZXSzNIN0lvUzRfVWN6YlJqYXVXNkVXaEZsa1N1ZGJGRUREN3Q5ZG9ibm1ZdXF3amd6NUdjRUZSdy12SkJXNXlFeWI1MXhOaUtuNEROY3E1dkNQZ0tWNG9VbWFiYUdPcXotdkhyLWN0R1ItclQxVmw1YmNtV2E5QzlmY2ZQVUR4MkZ6ZXZodVA?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-13T23:31:57+00:00",
+     "summary": "Rep. Lauren Boebert loses seat to Democrat Eileen Laubacher, election awaits certification&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
+    {
+     "title": "Iowa secretary of state defends midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUxrUVh0RkdPOW44M1Exb001ZjZ2NWlaMmNBSjB1RTMtU1hiZURqdnFUQWpqUWZBajUxSTU1TlJIbFdMM1lDWmZXdHRWRjl2SnkxaTR6RjVLNlVPU0dRX1BFNWNsbkFISUFtNElqQlZUd3U2QzJKSU5CQ3d2bnhic1BXV0pWaEhqaDBObVlDMnpsLUdyVnNr?oc=5",
+     "source": "KCRG",
+     "published": "2026-11-13T23:19:00+00:00",
+     "summary": "Iowa secretary of state defends midterm election results&nbsp;&nbsp;KCRG",
+     "image": ""
+    },
     {
      "title": "Anchoring Maternal Mental Health in Obstetric Care: Key Takeaways from New York\u2019s Historic Hearing",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUp0Y2ExR2VaNzdyQTZBaUszbV9ieVBfSXc5NTVENDBGRXNoTlNSWi1UZXdVMTN3YjNwdHhtRzFBZ1BWdHZXVHpxRDAzTmFNejI5NkhabkstWDBBN25qU2llbmNDNkRfRkhEQm9NeC0yeWZXc3JBZVdIbWZVSGdLSlpKT1dkUkhPT1VuV0xLMXdqNkV3X0FKeUZzOVFpWDNzRVpvQ0thelh5T25VMjk5MzltQjdXbkdCMW4xYXJxTTZYcjA?oc=5",
@@ -248,83 +320,11 @@
      "published": "2026-11-13T22:59:13+00:00",
      "summary": "From Protections to Restrictions: State Immigration Policy Trends in 2026&nbsp;&nbsp;American Immigration Council",
      "image": ""
-    },
-    {
-     "title": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-13T22:58:05+00:00",
-     "summary": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Inside Chuck Gray\u2019s working relationship with election denier Cleta Mitchell",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObm11YkV6S2trM3k1UXJ3eHlodkVOUWtHNUZUWVN6dk0yYi1oOEdSZEUtYUNDUnZCaHNNdE5ESlRRLUdzNFc5MktRVjMteHZWdTFVaHc5dUdzMUZLSEZ1Rmxka2gyc3l0SDJVMDN2NUtMSGxONTdNYmZhTU9ucS1yMnRlbUFlSUdvZ043X2FRdXNYNGlsOGNNU0hRbEx2ckROQnQxdXBXWWVOcmxHUUJZdG5IV0NOWDNvZThRRFdRUVlrelE4Mi1XUEg1cDFmVDhWMmhXSg?oc=5",
-     "source": "Oil City News",
-     "published": "2026-11-13T22:44:00+00:00",
-     "summary": "Inside Chuck Gray\u2019s working relationship with election denier Cleta Mitchell&nbsp;&nbsp;Oil City News",
-     "image": ""
-    },
-    {
-     "title": "Tippecanoe Democrats to seek special election after voting machine error",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbzlWYXpwbUgtWG1iblVhRGRYZkVBS3BfSXN6WFYzWnl3c1JvTVFZZVNNS0tKUGpuTm0zZ2ZxRGwyT2k5T0ltNVREQ2Zid0hxdFdPQnpuTmVlaU1meHlBMEM1Znp2VnBwMEZ5N0w0TmplMGtjWm9yMkduaXVnN1VPT1NRWC1Vb1FGZWV6azFCa09CMXlsWDBLUkFXT3ZhUXJRRFRZZWdoWWxfcURsNkJKRG1BdDlhck1VdGthQzMxZHBWNjNabDVDVjRDWlNXejVlakpMa0l6UVNrVlZ3MHlkb2FINXp4Y1RNZGZaTmNiTU5KWk80SFh6Smo3SGJqZGFIWXNVSmlZMDU?oc=5",
-     "source": "Purdue Exponent",
-     "published": "2026-11-13T22:35:00+00:00",
-     "summary": "Tippecanoe Democrats to seek special election after voting machine error&nbsp;&nbsp;Purdue Exponent",
-     "image": ""
-    },
-    {
-     "title": "Ken Martin reflects on Democrats' historic win, eyes the work ahead for his party",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVk9YTHUwN3RBSVdSRmxCeGJ0el9qNmtiQUtkZWpQX3JvMHJkb3BURnA3OG9LRDhOTkZjcGtfWXhab0U1SGR1OE43QVU4QmNHZkpOSG1yMHE5SEN5WjFXeE50Ym5iZUI3dzU5NFpRTE9QMU9Bdlp2RmQ2bEVuei1yY0swaXRSdjNtZzJmZUZoOWF1ZXhKVklGcjdwazFMWl9FbjhJRm1qYUdsOEE?oc=5",
-     "source": "MPR News",
-     "published": "2026-11-13T22:34:00+00:00",
-     "summary": "Ken Martin reflects on Democrats' historic win, eyes the work ahead for his party&nbsp;&nbsp;MPR News",
-     "image": ""
-    },
-    {
-     "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRGMVNoOVFrYk5JdjNKX0V1OHcteEhBdjQ3WVl3OXBRdDlhd3pWVDVObnpUNlF2M04xMnd0WHZvQnZGLTJJSm5EbEZwZEdCRzVLbGlJQkVrV2JYT1NQS3ViT0x4UW9HNFdJUUk0N0pDX1FmTjBEM25Bc0N6YnRPM19OSlVKOTZacFM0VWZwVkUyOXRaVnhNWVNoYTFtMGMzNmlaOGMtWTZ4bGJGU0ZwRnpzWnNMS3c?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-13T22:32:36+00:00",
-     "summary": "Supreme Court to review Trump policy blocking asylum seekers at border&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Elon faculty break down midterm results in post-election panel",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczB4amVnSnIzQ3BRZVhnMWE4bUJ2U0FKb0FtTldPdGNhUXltNlQza09ONDR2bFpzLUd1ZHNyZWh4WkhyZ0Z4cXI2ZVdmV19jY2IzTTl4RHFJTXFkQ256MmVyZWJoVG5UUmI2UnRFa05zN3VaT05lazQzT0xoR2xRQ2dBT3UwQ1JYZWd2MzZyVnpkMVFiNHo2azk5SHFpbXpWTTROdg?oc=5",
-     "source": "Elon University",
-     "published": "2026-11-13T22:30:00+00:00",
-     "summary": "Elon faculty break down midterm results in post-election panel&nbsp;&nbsp;Elon University",
-     "image": ""
-    },
-    {
-     "title": "Clark County commissioners certify 2026 General Election results",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0RMdngyOTFlWmhtaEFkU1A1bVRfT3NEdlZkTDEyQUtuRkF4MjZwSkQtVExudDU1dVBQMTZQWm9ZZGVpOHFwdkZvR1otY3RSN2NOOEZ4cTFBTDBYLVhSRTkzS0lQZFNHMjVtV3RlZXJURi1NNkh3czlJZTlyNEM3WDdQYV9HUXNpN2I4TnNHSWZlOHVteXJnVHZ0MA?oc=5",
-     "source": "KSNV",
-     "published": "2026-11-13T22:22:21+00:00",
-     "summary": "Clark County commissioners certify 2026 General Election results&nbsp;&nbsp;KSNV",
-     "image": ""
-    },
-    {
-     "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mRE5NY1phNEUteklMY3dTQ19rVWJsWHE5ZTAxSVVkdnFzdGZzbmpQMzJNWURRdHZ5ZXl1dGhGMGhULWlpRFdwRzA3TnFrVGNSb3FZZnc1R3FQNHRGMERyUEVTcjhYdGU2R2NnSUpkakJYVVE?oc=5",
-     "source": "NPR",
-     "published": "2026-11-13T22:18:55+00:00",
-     "summary": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "Election Reckonings: Israel, America and Unfolding Pathways",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdk9lZEV2STZydkRXQjkzcjFpbjNVZmEyRFRiLXVWd3VmcTlkWG9BLXJ5bTV0eldWNHFZMUFrbGZBd3pnTkRnbGhWcGF0S0Z5MmZVTkotSXNsOVR4OHZEQzN3a3BCc2QyNHFJRmdzUHVvUHQ3QzV0WVFFVDliQ240ZlN6bWlNOVRxay01eGJfT1JsMXRPSDRfMklB?oc=5",
-     "source": "Global Atlanta",
-     "published": "2026-11-13T22:17:50+00:00",
-     "summary": "Election Reckonings: Israel, America and Unfolding Pathways&nbsp;&nbsp;Global Atlanta",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-13T23:33:52.315215+00:00",
+   "fetched_at": "2026-11-14T00:03:56.268123+00:00",
    "stale": false,
    "items": [
     {
