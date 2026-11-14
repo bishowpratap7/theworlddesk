@@ -1,10 +1,66 @@
 {
- "generated_at": "2026-11-14T16:06:56.976523+00:00",
+ "generated_at": "2026-11-14T16:37:00.146187+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T16:06:56.976478+00:00",
+   "fetched_at": "2026-11-14T16:37:00.146155+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
+     "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
+     "source": "France 24",
+     "published": "2026-11-14T16:35:52+00:00",
+     "summary": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the in",
+     "image": "https://s.france24.com/media/display/24754d74-e049-11f1-92be-5f54d898a954/w:1024/p:16x9/2026-11-14T154753Z-749061195-RC2ONOA67Q43-RTRMADP-3-USA-FAA-GROUND-STOP.jpg"
+    },
+    {
+     "title": "US Transport\u00a0Secretary\u00a0asks Congress for $30 bn to\u00a0upgrade\u00a0aviation\u00a0infrastructure",
+     "url": "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
+     "source": "France 24",
+     "published": "2026-11-14T16:32:52+00:00",
+     "summary": "A failure in aging telecommunications equipment Friday forced a nationwide halt to departures from US airports. Homeland Security Secretary Markwayne Mullin says officials have fou",
+     "image": "https://s.france24.com/media/display/fc695742-e040-11f1-8c71-3f371022a770/w:1024/p:16x9/EN-20261114-150457-150644-CS-01.jpg"
+    },
+    {
+     "title": "Italy fines Meta $880m over photo privacy",
+     "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T16:16:15+00:00",
+     "summary": "Regulator said Meta&#039;s &#039;lack of cooperation&#039; and the large number of people affected contributed to size of the fine.",
+     "image": ""
+    },
+    {
+     "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T16:13:43+00:00",
+     "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+     "image": ""
+    },
+    {
+     "title": "Fuel crisis and protests pressure Chile's far-right president",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+     "source": "NPR",
+     "published": "2026-11-14T16:05:12+00:00",
+     "summary": "Chile's far-right President Jos\u00e9 Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+     "image": ""
+    },
+    {
+     "title": "A rapid interest rate rise seems inevitable \u2013 and households are expected to pick up the tab",
+     "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+     "source": "The Guardian",
+     "published": "2026-11-14T16:00:48+00:00",
+     "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economyA head of steam is building up behind the Bank of England raising interest rates again.",
+     "image": "https://i.guim.co.uk/img/media/91a65d8728a29fe09fb1706e308ff8c46b77c4d6/187_0_2954_2363/master/2954.jpg?width=140&quality=85&auto=format&fit=max&s=f97dd0061161f4f38fc8ed6c84f1fd3d"
+    },
+    {
+     "title": "EU calls for immediate humanitarian access to Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T15:57:22+00:00",
+     "summary": "The EU said that \u201cIsrael must enable the work of the UN and its agencies&quot; after the group was blocked access into Gaza.",
+     "image": ""
+    },
     {
      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
@@ -22,6 +78,14 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg"
     },
     {
+     "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American\u2019s home",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T15:36:37+00:00",
+     "summary": "Israeli forces occupied a Palestinian-American\u2019s home in the occupied West Bank for 17 days.",
+     "image": ""
+    },
+    {
      "title": "Andy Burnham says UK has \u2018lost more than we gained\u2019 through Brexit",
      "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
      "source": "The Guardian",
@@ -34,7 +98,7 @@
      "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-14T15:14:54+00:00",
-     "summary": "The probe was launched in 1977 but it continues to relay space-related data back to a team of NASA scientists daily.",
+     "summary": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
      "image": ""
     },
     {
@@ -52,83 +116,35 @@
      "published": "2026-11-14T15:03:00+00:00",
      "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide groundingTravel chaos continued across the US on Saturday morning as airlines scram",
      "image": "https://i.guim.co.uk/img/media/6934b82431c8fab49bd4a56b9baaca81b07d75ae/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b2b556b1036b2ad108c6ca8de27291e7"
-    },
-    {
-     "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-     "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
-     "source": "The Guardian",
-     "published": "2026-11-14T15:00:47+00:00",
-     "summary": "James \u2018Fergie\u2019 Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for HamasA two-hour hearing in Spain\u2019s high court Friday on the US extradition reque",
-     "image": "https://i.guim.co.uk/img/media/dd871a986aabb7abca5224af03caccf474d981ca/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=db6882dd8691cc543d5e94637b3bb040"
-    },
-    {
-     "title": "'Poisoned chalice': French presidential hopeful Riner rebuffs Macron's backing",
-     "url": "https://www.france24.com/en/france/20261114-judo-star-and-presidential-hopeful-riner-calls-macron",
-     "source": "\u00a9 Sarah Meyssonnier, AFP",
-     "published": "2026-11-14T14:57:22+00:00",
-     "summary": "French judo champion Teddy Riner on Saturday publicly distanced himself from President Emmanuel Macron, calling his endorsement a \"poisoned chalice\". The presidential hopeful seeks",
-     "image": "https://s.france24.com/media/display/b1f14a76-e03b-11f1-b5fb-5f54d898a954/w:1024/p:16x9/f5ae5d1a011da330950d95ba29881fd4f63077cb.jpg"
-    },
-    {
-     "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
-     "url": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T14:57:04+00:00",
-     "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
-     "image": ""
-    },
-    {
-     "title": "DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise",
-     "url": "https://www.france24.com/en/africa/20261114-dr-congo-rwanda-clash-over-francophonie-leadership-as-macron-seeks-compromise",
-     "source": "\u00a9 Ludovic Marin, AFP",
-     "published": "2026-11-14T14:54:43+00:00",
-     "summary": "DR Congo and Rwanda clashed Saturday over the leadership of the Francophonie, as tensions between the neighbouring countries spilled into the race to head the 53-member organisatio",
-     "image": "https://s.france24.com/media/display/1dfdc724-e039-11f1-b629-29048b396e03/w:1024/p:16x9/000-36JD2YF.jpg"
-    },
-    {
-     "title": "Empower conference: officials and youth discuss peace and security",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T14:49:37+00:00",
-     "summary": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.",
-     "image": ""
-    },
-    {
-     "title": "Napping Kansas driver whose truck sped on to soccer field and killed two won\u2019t be charged",
-     "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
-     "source": "The Guardian",
-     "published": "2026-11-14T14:38:36+00:00",
-     "summary": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth gameA soccer mom napping in her pickup truck when it suddenly accelerate",
-     "image": "https://i.guim.co.uk/img/media/1fdb117e6f40eedb3f4040a34c7d5be50ffb4bbe/76_0_1281_1025/master/1281.jpg?width=140&quality=85&auto=format&fit=max&s=fe05ab8650934bbfeb06191c08d521e5"
-    },
-    {
-     "title": "When tech founders leave, what happens to their companies?",
-     "url": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T14:24:36+00:00",
-     "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang&#039;s decision to step down, analysts warns.",
-     "image": ""
-    },
-    {
-     "title": "What we know about the ground stop and what to do if you're affected",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T14:20:57+00:00",
-     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T16:06:56.976495+00:00",
+   "fetched_at": "2026-11-14T16:37:00.146171+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Ukraine war, latest news. Kyiv media: Moscow has lifted its veto on the physical elimination of Zelensky",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN2ZyRGVhbVc3bW5vWGNJT0JxQlZpNzllbzM4aWNKOXhGMzh5OF9JSS12RWl3ZHdqUDFtQmM3Yk5SZ2I5dWlKWUNZMklnWHNhWkQxQUZYcVRidmxrbFEtTlVPRjB4NHRMWXl3bmMxeGQ0b216UWlPX1d3STNBTXFNZDd4ZkxEUHpsMERJVVVSWWFkenc2MFBSUFRlS0J6OEFZNVBOY2NQQTNqa0hGSkZ4aUFYdWNyODNoVFZ2eG5yUEwyend1cHM4OVNOeklQUFBUWjVXbGNWaUVJMTVhS0g5YlZpVDBpVm9tRUhIQkJmR2R2M2VzZ3c?oc=5",
-     "source": "Il Sole 24 ORE",
-     "published": "2026-11-14T16:04:23+00:00",
-     "summary": "Ukraine war, latest news. Kyiv media: Moscow has lifted its veto on the physical elimination of Zelensky&nbsp;&nbsp;Il Sole 24 ORE",
+     "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
+     "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
+     "source": "France 24",
+     "published": "2026-11-14T16:35:52+00:00",
+     "summary": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the in",
+     "image": "https://s.france24.com/media/display/24754d74-e049-11f1-92be-5f54d898a954/w:1024/p:16x9/2026-11-14T154753Z-749061195-RC2ONOA67Q43-RTRMADP-3-USA-FAA-GROUND-STOP.jpg"
+    },
+    {
+     "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T16:13:43+00:00",
+     "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+     "image": ""
+    },
+    {
+     "title": "EU calls for immediate humanitarian access to Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T15:57:22+00:00",
+     "summary": "The EU said that \u201cIsrael must enable the work of the UN and its agencies&quot; after the group was blocked access into Gaza.",
      "image": ""
     },
     {
@@ -145,6 +161,14 @@
      "source": "Reuters",
      "published": "2026-11-14T15:37:54+00:00",
      "summary": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American\u2019s home",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T15:36:37+00:00",
+     "summary": "Israeli forces occupied a Palestinian-American\u2019s home in the occupied West Bank for 17 days.",
      "image": ""
     },
     {
@@ -194,37 +218,37 @@
      "published": "2026-11-14T14:24:36+00:00",
      "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang&#039;s decision to step down, analysts warns.",
      "image": ""
-    },
-    {
-     "title": "Ukraine\u2019s FREYJA Missile Interceptor Ready as Denmark Delivers Key Radar, Zelenskyy Says",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYmRuZUhMbS1McDNHNzNYVXJ4dU1RelZ0UGRseVBIYWQtMXRsMFlobmtPQ2F2QXRKVWRyWG4xMkhGU1VyMnd3VVJKejRxd0JjMmVJajdMYjZUOUt2R2dLeXhTbkhPUWl6WVgzZXFmejZEOWJnbWdUOWtDMjNRaS16alVtLVpCYjc1aUN5TGs5bkpOOEN0NUxFT19yUkhFX2JtZm81bGJDNlF0a2JUd0o2QUFMTjZlWnl6UTRqMEQ4VU1mOTNPdndrME9wOENDUQ?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-14T14:19:46+00:00",
-     "summary": "Ukraine\u2019s FREYJA Missile Interceptor Ready as Denmark Delivers Key Radar, Zelenskyy Says&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
-     "source": "The Guardian",
-     "published": "2026-11-14T14:07:47+00:00",
-     "summary": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham KingAsylum seekers accommodated at a controversial mili",
-     "image": "https://i.guim.co.uk/img/media/4a90df7883b7c5941dd14a6eef2a0f2678cebf9d/566_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6ea5aae5938a03625a134c3b27a6d257"
-    },
-    {
-     "title": "Ukraine hits key Russian oil hub, military airbase in latest long-range strikes",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPREdVN2lkREJIaFF5ZDlqa0NIaGhxZnpnMXQ1OHhIa1NyaHo4T2JkcGIzdTJ1T051WEF4M05UTFp2ODQ0ZkN3ZnNQWW5IN0h4WThtY0hOcUZwWFJJWGtrUlhsVGwwS2hvc2FDNnRNb09KSVpMWW1EQ0hycEJ1VURRNmtFZUthdnNySzFqQWgyTGRybVFhSl80NkY3WXJGcDNEa3g3RE9SNzM3NVU?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-14T13:29:02+00:00",
-     "summary": "Ukraine hits key Russian oil hub, military airbase in latest long-range strikes&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T16:06:56.976511+00:00",
+   "fetched_at": "2026-11-14T16:37:00.146175+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US Transport\u00a0Secretary\u00a0asks Congress for $30 bn to\u00a0upgrade\u00a0aviation\u00a0infrastructure",
+     "url": "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
+     "source": "France 24",
+     "published": "2026-11-14T16:32:52+00:00",
+     "summary": "A failure in aging telecommunications equipment Friday forced a nationwide halt to departures from US airports. Homeland Security Secretary Markwayne Mullin says officials have fou",
+     "image": "https://s.france24.com/media/display/fc695742-e040-11f1-8c71-3f371022a770/w:1024/p:16x9/EN-20261114-150457-150644-CS-01.jpg"
+    },
+    {
+     "title": "Homeland Secretary Mullin to Testify in First Post-Election Test",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNMMFNIbHJISF9tN0JUdWt1aUJvSDBvUmpyZjdDeEN5VHVXQjFiZ1ozTWdPcFpfeWoyZ051cjA4ZE5hUnBkNEVGV184QXV4TUM3OTdwaDFBc0J3ZW13MDU0TGxMbmI5b2xMUWU2TllINU4xZWVaRC0wX2ZPY0lUcUc0Qy1NeUhZZlhJNHNpUmtPXzNoSmp0TDdtaWh0OEk?oc=5",
+     "source": "Bloomberg Government News",
+     "published": "2026-11-14T16:10:00+00:00",
+     "summary": "Homeland Secretary Mullin to Testify in First Post-Election Test&nbsp;&nbsp;Bloomberg Government News",
+     "image": ""
+    },
+    {
+     "title": "Fuel crisis and protests pressure Chile's far-right president",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+     "source": "NPR",
+     "published": "2026-11-14T16:05:12+00:00",
+     "summary": "Chile's far-right President Jos\u00e9 Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+     "image": ""
+    },
     {
      "title": "L.A.\u2019s police union spent big in the city runoff election, only to lose key races",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0JBY1JfaG1OTVI3MnpIejNRQVRQRVZXZElzMHQ1Nnk3MDBqelpvZVY4dDBlZmJ3QmRudmJQdjFsUENKM3VUV2FqdUE0S3hsUVR2azFIeW51bURtbFpGWXdyQzN3b000VnhQUFFqVG1Bdy1aUkNLaWlfQWsyRGxPNVdMNzNuRFhiMEJ0SWl0aE9MQnc4VUh1dU42REtUZmJpLUtkWVZLa3hxcGFPVHdJb2pyZ3VacEpkZlE?oc=5",
@@ -296,37 +320,21 @@
      "published": "2026-11-14T14:33:37+00:00",
      "summary": "Post-Election Audit Selection of Idaho Counties, Precincts&nbsp;&nbsp;Big Country News |",
      "image": ""
-    },
-    {
-     "title": "A dead California supervisor candidate about to be declared election winner",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNblVBREZxUnFOUmljNWVoejFsSGtGV0g3VV9qR3JYYzU5bU9XUVRnQmN5ZWVxY3hsRzJwcldWdkM3andTQ1o5cm5ua3o5LUs5X2czUW82UTd2Nng1ak40NV8yU2xzZ1FGaEpBNllBczMzUjFqbU1QLVF6Nnh4NkxIZWlEVzR0bUQ5LVYxaTJFVVlyN0NlMUJIVmZaME1WWGY2R0FaVWxGTXJXOTBSZnRzREYyZ1JlV1NxM3VFUVZHNlI1ZmVOZnMzYUltSGFIUQ?oc=5",
-     "source": "Los Angeles Times",
-     "published": "2026-11-14T14:30:00+00:00",
-     "summary": "A dead California supervisor candidate about to be declared election winner&nbsp;&nbsp;Los Angeles Times",
-     "image": ""
-    },
-    {
-     "title": "Alaska elects first Democratic governor since 1998, US media project",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-14T14:28:09+00:00",
-     "summary": "Alaska elects first Democratic governor since 1998, US media project&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Official: Malag\u00f2 and Galliani admitted as candidates for FIGC election",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0VfYVZQQktjcS1UdWlvWHduTWRJYy02OWxXblRzSzMxUkptSGdndWVjMlBaekdiX0Q2a2trVXRldDN0UEpjWVhjNmlGa1MwS3ltRFRUT2VXaWM2dnBJS1dNNmpOMm5HODlsSEtSYWVuTC0yNklmbi16a0J4d3FYWm9Pb2JKRTgzSmpzSi1EN19nd3ZlamdJ?oc=5",
-     "source": "Yahoo Sports",
-     "published": "2026-11-14T14:14:00+00:00",
-     "summary": "Official: Malag\u00f2 and Galliani admitted as candidates for FIGC election&nbsp;&nbsp;Yahoo Sports",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T16:06:56.976514+00:00",
+   "fetched_at": "2026-11-14T16:37:00.146177+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "A rapid interest rate rise seems inevitable \u2013 and households are expected to pick up the tab",
+     "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+     "source": "The Guardian",
+     "published": "2026-11-14T16:00:48+00:00",
+     "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economyA head of steam is building up behind the Bank of England raising interest rates again.",
+     "image": "https://i.guim.co.uk/img/media/91a65d8728a29fe09fb1706e308ff8c46b77c4d6/187_0_2954_2363/master/2954.jpg?width=140&quality=85&auto=format&fit=max&s=f97dd0061161f4f38fc8ed6c84f1fd3d"
+    },
     {
      "title": "Canada\u2019s Stelco to recall 175 workers after government pressure",
      "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
