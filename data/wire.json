@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-14T11:36:08.111643+00:00",
+ "generated_at": "2026-11-14T12:06:12.132571+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T11:36:08.111611+00:00",
+   "fetched_at": "2026-11-14T12:06:12.132543+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Microsoft says services fully restored after global outage hits governments",
+     "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+     "source": "The Guardian",
+     "published": "2026-11-14T11:54:31+00:00",
+     "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in yearsMicrosoft has said its service has been fully restored after a massi",
+     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f"
+    },
     {
      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
@@ -22,6 +30,14 @@
      "image": "https://s.france24.com/media/display/b4004e80-e01c-11f1-be8e-f71d22e7fea9/w:1024/p:16x9/2026-11-13T214746Z-754212400-RC29NOA0KQRS-RTRMADP-3-POPE-LATAM-PERU.jpg"
     },
     {
+     "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+     "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T11:14:18+00:00",
+     "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
+     "image": ""
+    },
+    {
      "title": "Eisenkot condemns Netanyahu\u2019s \u2018racist\u2019 campaign against Israel\u2019s Arab citizens",
      "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
      "source": "The Guardian",
@@ -36,14 +52,6 @@
      "published": "2026-11-14T11:07:33+00:00",
      "summary": "Microsoft says it is seeing improvements in its service availability after an hours-long disruption knocked out its platforms including Outlook and Teams. The outage has affected h",
      "image": "https://s.france24.com/media/display/0281a17e-e01a-11f1-bec4-f71d22e7fea9/w:1024/p:16x9/EN-20261114-080413-080559-CS.jpg"
-    },
-    {
-     "title": "Microsoft says services fully restored after global outage",
-     "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-     "source": "The Guardian",
-     "published": "2026-11-14T11:07:10+00:00",
-     "summary": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in yearsMicrosoft has said its service is fully restored after a massive outage",
-     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f"
     },
     {
      "title": "SpaceX not being honest about \u2018political\u2019 reasons for slowing Starshield, says Zelenskyy",
@@ -86,6 +94,14 @@
      "image": "https://i.guim.co.uk/img/media/f850cba9168bff3c2fc933bd2b10aa840d98f1b2/0_216_2109_1686/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=04dbbb0abc072b15895de6c337b4cfac"
     },
     {
+     "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+     "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T11:00:39+00:00",
+     "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+     "image": ""
+    },
+    {
      "title": "France fend off South African comeback to clinch long-awaited win in Paris",
      "url": "https://www.france24.com/en/tv-shows/sports/20261114-france-fend-off-south-african-comeback-to-clinch-long-awaited-win-in-paris",
      "source": "France 24",
@@ -100,35 +116,51 @@
      "published": "2026-11-14T10:42:20+00:00",
      "summary": "Prime Minister P\u00e9ter Magyar promised a sweeping anti-corruption drive after ousting Orb\u00e1n in April.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
-    },
-    {
-     "title": "South Sudan postpones first-ever national elections until February",
-     "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T10:30:32+00:00",
-     "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country&#039;s election commission.",
-     "image": ""
-    },
-    {
-     "title": "SpaceX's Starship encounters problems during 15th test flight",
-     "url": "https://www.france24.com/en/spacex-s-starship-encounters-problems-during-15th-test-flight",
-     "source": "France 24",
-     "published": "2026-11-14T10:21:09+00:00",
-     "summary": "Elon Musk\u2019s SpaceX successfully launched its Starship, the world's largest spaceship, into orbit where it should release 15 satellites for its Starlink network. A few minutes after",
-     "image": "https://s.france24.com/media/display/eb59b9c4-e013-11f1-9576-f71d22e7fea9/w:1024/p:16x9/EN-20261114-101129-101300-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T11:36:08.111627+00:00",
+   "fetched_at": "2026-11-14T12:06:12.132557+00:00",
    "stale": false,
    "items": [
     {
+     "title": "Zelenskyy says Ukraine, Russia discuss prisoner swap involving 1,200-1,300 people from each side",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUdRV2xWRGFNbnlDTmhwUDFBcVFuRjFYQnlNQWNLUW9IZjg1WlBYMGlpRnIxclIwSWlTZXlfR2prTXJZMzBDR1F6eW5XNHhyNmR2LU1oOVJvakNRcXQ5T2NjZ2tQMlZ0VllvM2pVZTNTSERuaDNUQjJkckdoLTVaSk52Z3lCQWlYNTk3enFvRFR6TmFhaFJONTZPYkpWbmdBam1DNGlJMHhMOFlZU1oyZ3pKU2NYdWtkenlFWHBwRFB3VnZOenhFdGIwRGh0ZVdKLVpFTmIxeXpKNmM?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-14T11:54:27+00:00",
+     "summary": "Zelenskyy says Ukraine, Russia discuss prisoner swap involving 1,200-1,300 people from each side&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3BSZGZYdTBnMGgwZ2pfM1FVWWdtQUlNT0xVci1Tb0VSYUVZVUIta05tSER2dHV1WDlpY0lzSkFfaXl2R0FvRUgxYUd0MEtXOUVYeVVGRzFfU3k0a3hGOXkxUnVBTVlEQVBib0N4N1VUN0REX3N2QUt5c0ZuZTVwNnVxUXhNazV6Y0dKV2VjWEhHLUVFU3RyeUdweEdwSUNyVjd5RUxSTHBBRFFuLTBEOGNNcFc0MDTSAbwBQVVfeXFMTWFfeHZ6ZE9JTlpTT0k2Qkt6c0FXamE3N1FEa25TTEQ5NVh3dmxvS3Y0NlJGelo4d2RQVTEyaTZmeW1aT0xUQnFpblk1dmhWTUNJV1ZXa2JKSlI2bUdLNm44Tlc3ZU1nZGd1UEFDY2lhZWFNUHhyVGlJSThuQy0zb2VhaHViYVZzbVJMMWNDOWZ4Z0ljM0hLY0djQ0sySU9BY2U1ekRVY0pnbkRfMmpwcElzRWVwMnZSbGs2c0E?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T11:48:45+00:00",
+     "summary": "Three killed in Russia as Ukraine claims US floated NATO membership option&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN2ZyRGVhbVc3bW5vWGNJT0JxQlZpNzllbzM4aWNKOXhGMzh5OF9JSS12RWl3ZHdqUDFtQmM3Yk5SZ2I5dWlKWUNZMklnWHNhWkQxQUZYcVRidmxrbFEtTlVPRjB4NHRMWXl3bmMxeGQ0b216UWlPX1d3STNBTXFNZDd4ZkxEUHpsMERJVVVSWWFkenc2MFBSUFRlS0J6OEFZNVBOY2NQQTNqa0hGSkZ4aUFYdWNyODNoVFZ2eG5yUEwyend1cHM4OVNOeklQUFBUWjVXbGNWaUVJMTVhS0g5YlZpVDBpVm9tRUhIQkJmR2R2M2VzZ3c?oc=5",
+     "source": "Il Sole 24 ORE",
+     "published": "2026-11-14T11:37:28+00:00",
+     "summary": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories&nbsp;&nbsp;Il Sole 24 ORE",
+     "image": ""
+    },
+    {
      "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazNGUm5FYkpWaFByYWgtblRJVHZZRWVfNzVpaEdrb2FCU1VPTUx3SkxNc0xlT2Z0R3lXaHBNdTNEY0lNb3d3NzN0YUdQOXZkdmpmR09DM1A1eWJHTk1oTHktUHZpRVlLUGsxcEhGOG4talhjdUptMmo0di1UOWVRTFIwZjFPcU4tblJfanp5OVJCamZ6Qm11TGFYU0EyQkVWNEVRclVnc1dhT1hV?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWw1VWpUVExUNUNfczNObWpNSU1jMTU0YUpoeC0ybWxZOGFBeFA0V0lQSnJ3c1RxMzJHUFZiUF84TFJIaTJHNUpQbGZPV2xYaGhXRk01RW9lNzB1TlVYc1VqWE9hTEg1M3UxODJGMFhBQWl4QmM0REZObUN2QmtYS2pTd2R1RVlEX0s5OUxQT3NJd2lqZGFiTUJ4Ynljbkt4MnNNVld3VExMZklJeV9xUw?oc=5",
      "source": "Audacy",
      "published": "2026-11-14T11:21:00+00:00",
      "summary": "Zelenskyy says a new European security framework floated by US could benefit Putin&nbsp;&nbsp;Audacy",
+     "image": ""
+    },
+    {
+     "title": "Russia Ukraine War Daily Life",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajFsR0JxT1V3c2o4aWdQdzdCV1RiTWpBSVNGTWNDWC1UREIzSHJvR1pkeWFzRWdpX3lrQlR4V2wyNUF5YlA0S0hJN1VDOGlSRHBMeW1yMlNlQXpOQUlQeERESm05NnRFMk15dXFMSDA4N1BVeC16WmNRR29oei1iUk4yMGtyVWJ0VHZMMEowMGZCZWtPOTFXaHUzc0hnWHc1T2FqcFJBcEkyWXlhVXRnelR5WWwtOC00?oc=5",
+     "source": "Post Register",
+     "published": "2026-11-14T11:19:55+00:00",
+     "summary": "Russia Ukraine War Daily Life&nbsp;&nbsp;Post Register",
      "image": ""
     },
     {
@@ -164,6 +196,14 @@
      "image": "https://i.guim.co.uk/img/media/4a90df7883b7c5941dd14a6eef2a0f2678cebf9d/566_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6ea5aae5938a03625a134c3b27a6d257"
     },
     {
+     "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+     "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T11:00:39+00:00",
+     "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+     "image": ""
+    },
+    {
      "title": "\u201cSort this out with Putin.\u201d Zelenskyy Reveals Russia\u2019s Reply on a Ceasefire Negotiations",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWWxhOHpkV1VYMXpsS2w0ZFRucHp4QnkwWll5bEVOS2J6ekZFa0FwOEl5eXJ4ZHlScVFnZUhzUW9kbXZValRKRHR1RVJyV1d5X3hFYTgxYUxBbkptZTJWeEwtbjRYODF2OFBnaDFXY1BIZjFIa29aXzJ0T2M2MURvLUhCUzRpMU93ODhHdWRnLUJSQldzNU9DTVZhM0FWNjFVcDNrdXFfLWpFanRZZi1zblYyLXg0dHJVWEJ2dDhlYlYwY3M?oc=5",
      "source": "UNITED24 Media",
@@ -178,53 +218,21 @@
      "published": "2026-11-14T10:43:28+00:00",
      "summary": "At least 7 killed, 80 injured in Russian attacks across Ukraine; Zaporizhzhia among worst hit&nbsp;&nbsp;The Kyiv Independent",
      "image": ""
-    },
-    {
-     "title": "South Sudan postpones first-ever national elections until February",
-     "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T10:30:32+00:00",
-     "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country&#039;s election commission.",
-     "image": ""
-    },
-    {
-     "title": "Drones and commercial technology are changing the battlefield in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRmZtbDU3c0lCOHRpYUMzblpNUUR5X1pDMFVxd3dHRjhpV0l4ZGpTYjBnOEo1YldsaGwzRlRuNUFtbFdCVU5SU1oydnBndFYxSVRhOGxBUThwS1lSV29HdWJ3UEk0VmQwMXkzMXVUSFdkaTJlMFlienEtci1hRHdGS2pya0RqbFlHQ0k2a1c1dWd0SEJaTzZCZDZuZ3lfa2hGQnNoUTZB?oc=5",
-     "source": "Defence24.com",
-     "published": "2026-11-14T10:30:02+00:00",
-     "summary": "Drones and commercial technology are changing the battlefield in Ukraine&nbsp;&nbsp;Defence24.com",
-     "image": ""
-    },
-    {
-     "title": "Russia, Ukraine trade deadly overnight strikes, leaving 5 killed, 18 injured",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWRFTkhncUFoYVNYZDFxdUFfYVNxRmN6NkRaRFZYMUJBUjhwMHZEQWJBUE1aSFBqQzY3VEszb2dJRXRkN0Z2d1FmZm1uWnktaWtUNFVYYkc0LTJteTB6UVV3M3JVQ1ZYeHc1LXpKd0h2NGJQd0pkRkU5TTd6WlptNGE5RUdzUndzbVhUMVJYSC0zejZtb3V1WS1xQlg0ZHZTYi1uX3BUQ0Q0aWx5cThSOFFLQ1NjMFd5MjA3QnJR?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-14T10:23:34+00:00",
-     "summary": "Russia, Ukraine trade deadly overnight strikes, leaving 5 killed, 18 injured&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Putin Wants Ukraine to Abandon Kostiantynivka Under Cover of Humanitarian Mission, Zelenskyy Says",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUHFmYUJYVWZ5a2VySnRiNTN3VTVWMkxXSE9iQmVHd2I1anNOckIxSFYycVEzVlBvc0l4bTI1b2loNUZ2dzBFMVhlaG0tcUNnOE5jWVowLVRybkkyTkpjdUJka2xiYml6c0JXMnprQllWcG1sNEEwbnRWV01XcG9aVlMxbzFrWGtUTGlhUm15YUd0cWxLWWpsbUNONGFGVVdURmtFRFFqa2JLeGIzUzNNejBqR2JXX19ranB0TnRYTzFzSnFWemFhTExBYXM5eWN0SzA3b2F3RVdSb0E?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-14T10:22:35+00:00",
-     "summary": "Putin Wants Ukraine to Abandon Kostiantynivka Under Cover of Humanitarian Mission, Zelenskyy Says&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Can Nvidia survive without tech titan Jensen Huang?",
-     "url": "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang",
-     "source": "France 24",
-     "published": "2026-11-14T10:20:11+00:00",
-     "summary": "The Financial Times says computing giant Nvidia has approached Rene Haas, CEO of British chip designer Arm, in its search for a potential successor to Jensen Huang. Huang resigned ",
-     "image": "https://s.france24.com/media/display/289dfed6-e013-11f1-a54f-3f371022a770/w:1024/p:16x9/EN-20261114-100838-101020-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T11:36:08.111631+00:00",
+   "fetched_at": "2026-11-14T12:06:12.132561+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Microsoft says services fully restored after global outage hits governments",
+     "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+     "source": "The Guardian",
+     "published": "2026-11-14T11:54:31+00:00",
+     "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in yearsMicrosoft has said its service has been fully restored after a massi",
+     "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f"
+    },
     {
      "title": "Greenpeace boulders may delay building of \u00a312bn windfarms in North Sea",
      "url": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
@@ -312,19 +320,11 @@
      "published": "2026-11-14T10:00:00+00:00",
      "summary": "As Democrats win big, thirst traps of male candidates take social media by storm&nbsp;&nbsp;NPR",
      "image": ""
-    },
-    {
-     "title": "Nearly $20m found in Hungary\u2019s forests, buildings amid corruption probe",
-     "url": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T09:08:21+00:00",
-     "summary": "An ex-minister faces a bribery probe as Hungary&#039;s new government investigates alleged corruption during Orban&#039;s rule.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T11:36:08.111634+00:00",
+   "fetched_at": "2026-11-14T12:06:12.132563+00:00",
    "stale": false,
    "items": [
     {
