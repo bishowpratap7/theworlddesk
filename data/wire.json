@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-14T18:37:18.499347+00:00",
+ "generated_at": "2026-11-14T19:07:24.758125+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T18:37:18.499316+00:00",
+   "fetched_at": "2026-11-14T19:07:24.758093+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "What we know about the ground stop and what to do if you're affected",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T19:00:16+00:00",
+     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "US blames outdated technology for nationwide flight disruption",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T18:32:40+00:00",
+     "summary": "US blames outdated technology for nationwide flight disruption",
+     "image": ""
+    },
     {
      "title": "Italy fines Meta \u20ac805m over accessing users' photos",
      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
@@ -100,27 +116,11 @@
      "published": "2026-11-14T17:11:18+00:00",
      "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide groundingThe Trump administration says Friday\u2019s four-hour nationwide Federal Aviati",
      "image": "https://i.guim.co.uk/img/media/6934b82431c8fab49bd4a56b9baaca81b07d75ae/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b2b556b1036b2ad108c6ca8de27291e7"
-    },
-    {
-     "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
-     "url": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
-     "source": "The Guardian",
-     "published": "2026-11-14T17:00:49+00:00",
-     "summary": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadershipNearly 10,000 more cancer patients i",
-     "image": "https://i.guim.co.uk/img/media/b00e7ea04eeee225998f3f0ab4b1036edaafc939/631_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=6ba9b24abbe7d89f6558a5d65975c9cb"
-    },
-    {
-     "title": "Democrat wins Alaska governor\u2019s seat for first time in nearly 30 years",
-     "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
-     "source": "The Guardian",
-     "published": "2026-11-14T16:58:33+00:00",
-     "summary": "Jonathan Kreiss-Tomkins\u2019 victory means Democrats will now hold 30 US governorships after midterm blowoutDemocrats have captured Alaska\u2019s governor\u2019s seat for the first time in nearl",
-     "image": "https://i.guim.co.uk/img/media/0e83e7d08933409bcc15b86d35740272644b415a/0_0_4305_3444/master/4305.jpg?width=140&quality=85&auto=format&fit=max&s=515c0b809a977e0e0b59065107959388"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T18:37:18.499330+00:00",
+   "fetched_at": "2026-11-14T19:07:24.758108+00:00",
    "stale": false,
    "items": [
     {
@@ -222,12 +222,44 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T18:37:18.499335+00:00",
+   "fetched_at": "2026-11-14T19:07:24.758113+00:00",
    "stale": false,
    "items": [
     {
+     "title": "2027 presidential election: 'French people are increasingly losing faith in progress'",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUEJWOXgtMml0NENTNXVqYWFfeDZYemlQWHNHX0ZJNjR1RXNNT0M0QW90NEFBOU42aVphUm1ZeXBQVl9wR25qTnRkQlVBUGhnX1Buc2dMSXBvQmxldHVrRW9IdFoyQ2hKMzItckRXakZCTjdiZldSbjFVUFVNWWJMc2I4bUgwOEc3T0ttU1NCOFo2OUtEQnVILVlzbVhFSFp4aTl0MG9IYnF0ZDF4VFJWUU9QWTlZenh5YWY5WEMtTTQzN1ZXRnRzYmRFMEtLQUJjMnZBcWw3RWlsVmp0c0k3Q3Jnaw?oc=5",
+     "source": "Le Monde.fr",
+     "published": "2026-11-14T19:00:13+00:00",
+     "summary": "2027 presidential election: 'French people are increasingly losing faith in progress'&nbsp;&nbsp;Le Monde.fr",
+     "image": ""
+    },
+    {
+     "title": "El Paso County Elections Department conducts post-election audits",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWnNUZHNLbEtfd2VLdEFTWnJoUjRpRVRMT1JzWmhNS1pEWFAtZHB3eWFBaXk5dVdINW1wSmRqa3RNbU5ZWHdleGJGQW9fcU1EUHQ4UjhrRUtjUDBJU0t2NzdPMlVhQ1RERE8yLWVidzluN2RZZGhYbFpMdXZjX21TeTlOVDRnUUF2TlhaYjVfVm54TlYxQVVxQk9xUl9tbzFLUmhBTA?oc=5",
+     "source": "KTSM 9 News",
+     "published": "2026-11-14T18:57:02+00:00",
+     "summary": "El Paso County Elections Department conducts post-election audits&nbsp;&nbsp;KTSM 9 News",
+     "image": ""
+    },
+    {
+     "title": "Letter: Good broadband policy leaves room for satellites",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnhjNFF6NERwMEJVTEp3cTE2NG5pZ3RHcmxhTnBfY1hjZGhxaXd6RHE5U2JNSU5xeGJ6QzFyeHEyOWYyNWZVNlk2Z2dtNTFZYkxmR1c3S3VDOUtpT09lYzB6TWxUOTFqdWhjQmRldVhBOUh1a2dLOE4yT0JrdjRsZzVPd1lzWlNOQlQ4cXNOeGlhWEJtNkxtTUtfS1RPNEhueG9wWC03QQ?oc=5",
+     "source": "Anchorage Daily News",
+     "published": "2026-11-14T18:35:37+00:00",
+     "summary": "Letter: Good broadband policy leaves room for satellites&nbsp;&nbsp;Anchorage Daily News",
+     "image": ""
+    },
+    {
+     "title": "Arizona judge ousters spur push for judicial election reform",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEhsSDZKTXNOMmtXZTVYQ2NfMDdBaWVhRVN5bHY4S2FZczZxaUI1ZVp0LXlzNnVGQ0JITXk5QWRKbDNJVVp0SkU1QXpfQkduSDdjTnlwTFA1N1BWdmpUazNtYmxvRWhrUjVMeVBvdm1MVllXbjJNc2xEODAzWkZGaDNmSnA5U3BidmJwQTI5TGwwdWF3cTd0Mmx0dlVPSU5iZmd4ZWlYMDFyT0NG?oc=5",
+     "source": "Arizona Daily Star",
+     "published": "2026-11-14T18:20:00+00:00",
+     "summary": "Arizona judge ousters spur push for judicial election reform&nbsp;&nbsp;Arizona Daily Star",
+     "image": ""
+    },
+    {
      "title": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0tBZDBfQ3JlM3FTRXRGS1ViT1IxQ1hCZzRsaGwtMDJsZzVvRDJkQWJLYnY4TlB4WVFFTHg1bE4wMk9oRE5ySDRvSFJVWVlMSW5LS3BGQ25WZ1NmalF4ZmpKdGxhZGRncHBsRHlFa09uaVJSOF9sR0VQRTUwZ2tRaXNnTW5Rb0pydHdxX2xRR0NiOGpTWms4VWhiS0czS0N4RlE0ZGs1dFpyUTQ5OW11bUktSGMwX2otZWRyLVdB?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0tBZDBfQ3JlM3FTRXRGS1ViT1IxQ1hCZzRsaGwtMDJsZzVvRDJkQWJLYnY4TlB4WVFFTHg1bE4wMk9oRE5ySDRvSFJVWVlMSW5LS3BGQ25WZ1NmalF4ZmpKdGxhZGRncHBsRHlFa09uaVJSOF9sR0VQRTUwZ2tRaXNnTW5Rb0pydHdxX2xRR0NiOGpTWms4VWhiS0czS0N4RlE0ZGs1dFpyUTQ5OW11bUktSGMwX2otZWRyLVdB0gHDAUFVX3lxTE12VlpUeURMYmR1bWx3Mk5kZ3NCMWR5ck1NVFExTy10M2tUX2p0eVcybmpxcDBZdmEtVkJEdzVac0FpbF8wMmY1emZLckw2Z0t6bTNlOUgzQTZwQkg5SDVkV0xHYWxrUFNTTDRJaWEycm5TYjBMeVJzQjBtdl9QNUZmblJ4a21ydWRyejdTM2pUaGNuVkhDcVVabUNpN2FCRUszOXJHWTVCRUpVbWtRSlBOMWlieUR2ZVZybGZSdDJKU3VqVQ?oc=5",
      "source": "PBS",
      "published": "2026-11-14T18:19:50+00:00",
      "summary": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope&nbsp;&nbsp;PBS",
@@ -239,6 +271,14 @@
      "source": "Al Jazeera",
      "published": "2026-11-14T17:50:28+00:00",
      "summary": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
+     "image": ""
+    },
+    {
+     "title": "Alaska voters stick with ranked-choice voting, again",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQmpFNXNTVEFJOGVjWl9rMDRfUEVwdHd1aXp6c0lxY1A5TFhpTDBjT1VoQjlIS2RaclVIekZaM1JGbmNSZkZoRXBLbUI5SWNCUEcxNzlOSkxXcmJKLUI1bnhfVVllbjNpb1VydWtxYWl0TkRZUHNmcHdITUtfQ0xFMGduZ2dBOHYxbUlub3hZRUg?oc=5",
+     "source": "Politico",
+     "published": "2026-11-14T17:42:00+00:00",
+     "summary": "Alaska voters stick with ranked-choice voting, again&nbsp;&nbsp;Politico",
      "image": ""
     },
     {
@@ -266,65 +306,25 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg"
     },
     {
+     "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-14T17:14:23+00:00",
+     "summary": "After midterm sweep, Democrats split over Trump, cost-cutting agenda&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
      "title": "Across California, Big Tech Spending Led to Election Wins. But Not in These Races",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHZOd1p1VVE2QmxiLVBxSkl3alN3TkstVFZ3Ukxna2htQml0bTZFX05TUzF1dnlhSkxQYzVYWjdEeEw3WkJRWEttMTYtYlVzOF9fS3o1dHB6ZWI4R1dSamw2dG41RU5MNUxKMHY2eTBFa2piejc1cE5Ub1U4VXFzMkw1YXJycUFkVVdyWEVnODU1UlhsaUtLZk9ZY1VUdmtuOU1NSVR6bmdYVkVKX2JrbXRtMDQ?oc=5",
      "source": "KQED",
      "published": "2026-11-14T17:07:45+00:00",
      "summary": "Across California, Big Tech Spending Led to Election Wins. But Not in These Races&nbsp;&nbsp;KQED",
      "image": ""
-    },
-    {
-     "title": "The Criminal Justice Election Results You Might Have Missed",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX0Ntb0haSDB6MExTbUlReFV5TmNrbEZnaXh0ampzMzhsSUhteHNTYTJpLXA2cFJ0by1MS20tZW50MVhmbXFXVHpkbHp4TFY4TEp2WXYzazhVdm9MVTBHTUxHaEd2MC1yMFplR3dzU3V3MkhoRVVfazg0WjZsWXkya19XU2daTThfMUpNQlpobw?oc=5",
-     "source": "The Marshall Project",
-     "published": "2026-11-14T17:00:00+00:00",
-     "summary": "The Criminal Justice Election Results You Might Have Missed&nbsp;&nbsp;The Marshall Project",
-     "image": ""
-    },
-    {
-     "title": "Midterm Election Results and Party Unity Issues",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTJIcm44cFpNc2RTSGRqV0UtcVdaaVgtTFZTYXlLRFNyeWRBTm1MUnQyTGNrMThXM0lNeFJ3ZHdOM1p6U2dRQW53OGRPUE5GSXp1Vkdsb3c3ekNVZlc5emN3ZWVVM09ZZm9ubkVCQ3hlWXFydHpKRjZyYUV4aVpVNVNPQzhvWHZLelpLWEJVUEdCenZqYU5abjhDYk1lQQ?oc=5",
-     "source": "GV Wire",
-     "published": "2026-11-14T16:52:51+00:00",
-     "summary": "Midterm Election Results and Party Unity Issues&nbsp;&nbsp;GV Wire",
-     "image": ""
-    },
-    {
-     "title": "South Sudan\u2019s National Election, Its First, Will Be Delayed",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qcW9WU2tQVG1zRzhKUTJvbFBmUXNqYUJMZFhUWmhCMG02bmt2T3psSUlEVi13WDNlYVV4SXhXZTdxQ1RHdEVPVkN6X3Nab2NHU19YbVpOd05JMUVxbWIzUllPNm9oSE1SbHZKUVF0dkwza09XMXdKVG1wdmNXQQ?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-14T16:51:55+00:00",
-     "summary": "South Sudan\u2019s National Election, Its First, Will Be Delayed&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Friday's canvass wraps up Douglas County's 2026 Election",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXVUM0ZKVXM0cThDMVJaRjlmUnNGWkxzTjZBZlZpMGNCTThreTNiYVBWb2FxOUdJdFQyTm1XdnBlWm1uV1pCQ2thTV9Zc3hfOXRPUUtHLThEaldqVW91ODZIcU5jVEhPbFBJRjc0b0hLYlBZdWxYaEU4dTdQTjFLbWdmN0tTc3VNbElXQUlVLW04VDRmMGp0eUJLQlB0QlFEU0lNNQ?oc=5",
-     "source": "The Record Courier",
-     "published": "2026-11-14T16:51:36+00:00",
-     "summary": "Friday's canvass wraps up Douglas County's 2026 Election&nbsp;&nbsp;The Record Courier",
-     "image": ""
-    },
-    {
-     "title": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Naval Submarine League'",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObEJiRzJMVGVnZUc4OEVmWWh2YlBldzl6NkpWaGVjWDRjeFpGZUZjbjJvbm81Q3VEdjZfbmVZN0VlZU1fa2NYUmI3YXF1QmJjZldfZmRCR1g5Y2ZBb0x1NnF4Ul8xVTB6Mm4xaTQ2eVd6RUxma0J0aFNFYWNfMVV0d0prNFRiUlY0djZUck5BRkxrNnN3d1F6X1U4V1dEUEwza0xvT3ZvNEhPck5mWDZldGp0YTBFMjc2R19JUjhHcnZHM3RHckpNa29WYnRLVFlmTWt3?oc=5",
-     "source": "U.S. Department of War (.gov)",
-     "published": "2026-11-14T16:45:59+00:00",
-     "summary": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Naval Submarine League'&nbsp;&nbsp;U.S. Department of War (.gov)",
-     "image": ""
-    },
-    {
-     "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSm4xRVNXOGdyam1VRERaZGp5RUFldTc1OFFodjl6M3hIcmlyejBLYzBVNHNZLXprNDJEaTlscmhSX3Y4MVAtU3JFb0hqME9PUFo4N1VvRGc3TmpFUXgyT2YtQzBMdGpuQVNlZ1FsOFBZb05OWTMtcDFRbDdDNlJNVm43Qm5OUmEwS25BZWVDQXMxR0l0ZDJuQ25JTnZWN2o1amZpa3U3NXRZTG91UHNBTmRkQWRjVmgwdXdFNnVrd9IBxAFBVV95cUxNX09UN2V6Zm5ISC1JVk9LZHpLSE16TVVNRnh5akVNbkdGb0o5ejJvTjl6OTlYQW15Z1hxS0FKWGZlcW1PbDltcFA4SUNqcDZpYThxV1BoWFJISnE3ZnJoZE0yMHJjNmY0dUNoYzh4TmpZVkNZMU1Pb0F0clJrN0FZY1R4dFd1Vmt0WVQ3T2MtbFBMNThjSnJQaENyNDBpOEx1aFd5OVlkME1xUmFHRlBNbGdmV29DbGtfSExnbzJ0NmdmQXhP?oc=5",
-     "source": "PBS",
-     "published": "2026-11-14T16:38:34+00:00",
-     "summary": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska&nbsp;&nbsp;PBS",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T18:37:18.499337+00:00",
+   "fetched_at": "2026-11-14T19:07:24.758116+00:00",
    "stale": false,
    "items": [
     {
