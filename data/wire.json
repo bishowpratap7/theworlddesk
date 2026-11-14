@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T00:03:56.268132+00:00",
+ "generated_at": "2026-11-14T00:04:09.752160+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T00:03:56.268103+00:00",
+   "fetched_at": "2026-11-14T00:04:09.752137+00:00",
    "stale": false,
    "items": [
     {
@@ -14,28 +14,20 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg"
     },
     {
-     "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-     "source": "The Guardian",
-     "published": "2026-11-13T23:58:45+00:00",
-     "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump\u2019s homeland security secretary says \u2018no indication as of yet\u2019 of cyberattackFAA issues nati",
-     "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
-    },
-    {
-     "title": "What to know about the rare nationwide ground stop issued by the FAA",
-     "url": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
-     "source": "The Guardian",
-     "published": "2026-11-13T23:56:08+00:00",
-     "summary": "The Federal Aviation Administration issued a ground stop for all planes due to take off in the US, delaying and canceling thousands of flightsFlights grounded at all US airports du",
-     "image": "https://i.guim.co.uk/img/media/65cfe750f8f356c4184de878849ed7c03107aa6f/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=7860155056d5c7f957fb63c5ba52237d"
-    },
-    {
      "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
      "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
      "source": "The Guardian",
      "published": "2026-11-13T23:53:43+00:00",
      "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to complyZohran Mamdani, the New York City mayor, has struck a deal with Donald",
      "image": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=140&quality=85&auto=format&fit=max&s=312b2756177b7c278a3a9469fa907879"
+    },
+    {
+     "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "source": "The Guardian",
+     "published": "2026-11-13T23:53:13+00:00",
+     "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump\u2019s homeland security secretary says \u2018no indication as of yet\u2019 of cyberattackFAA issues nati",
+     "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
     },
     {
      "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
@@ -52,6 +44,14 @@
      "published": "2026-11-13T23:36:21+00:00",
      "summary": "No passengers or crew were killed or critically hurt after a tanker collided with a river cruise ship on the Mississippi River, officials sayNew Orleans river collision \u2013 latest up",
      "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11"
+    },
+    {
+     "title": "New Orleans boat crash live: all passengers and crew found alive in \u2018miracle on the Mississippi\u2019 \u2013 as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
+     "source": "The Guardian",
+     "published": "2026-11-13T23:03:17+00:00",
+     "summary": "This live blog is now closed. You can read our full report here:\u2018Miracle on the Mississippi\u2019: all accounted for after tanker collides with cruise ship in New OrleansA video circula",
+     "image": "https://i.guim.co.uk/img/media/c8e77aee359cc4c5de7c6aaa1f2da566b12be4bd/211_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=3f89d09a3547d4763a9dd6b7e03b920e"
     },
     {
      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T00:03:56.268117+00:00",
+   "fetched_at": "2026-11-14T00:04:09.752148+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T00:03:56.268121+00:00",
+   "fetched_at": "2026-11-14T00:04:09.752151+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T00:03:56.268123+00:00",
+   "fetched_at": "2026-11-14T00:04:09.752152+00:00",
    "stale": false,
    "items": [
     {
