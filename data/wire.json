@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-14T00:04:09.752160+00:00",
+ "generated_at": "2026-11-14T00:34:14.988158+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T00:04:09.752137+00:00",
+   "fetched_at": "2026-11-14T00:34:14.988139+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+     "source": "The Guardian",
+     "published": "2026-11-14T00:19:28+00:00",
+     "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump\u2019s homeland security secretary says \u2018no indication as of yet\u2019 of cyberattackFAA issues nati",
+     "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
+    },
+    {
+     "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+     "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+     "source": "The Guardian",
+     "published": "2026-11-14T00:09:06+00:00",
+     "summary": "Transportation secretary said stoppage is due to \u2018communication issue\u2019 and homeland security says there\u2019s no indication of \u2018nefarious attack\u2019FAA grounds thousands of flights \u2013 live",
+     "image": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fd2dbf21f21395c9bf79c41eeb755986"
+    },
+    {
+     "title": "Afghanistan\u2019s new road to China ends at a closed border",
+     "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T00:06:43+00:00",
+     "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+     "image": ""
+    },
+    {
+     "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+     "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T00:03:56+00:00",
+     "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+     "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T00:03:52+00:00",
+     "summary": "The 52-year-old general\u2019s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
+    },
     {
      "title": "Setback for SpaceX Starship rocket's double-catch test",
      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
@@ -12,6 +52,22 @@
      "published": "2026-11-14T00:01:01+00:00",
      "summary": "Elon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the ocean.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg"
+    },
+    {
+     "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T00:00:25+00:00",
+     "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+     "image": ""
+    },
+    {
+     "title": "What to know about the rare nationwide ground stop issued by the FAA",
+     "url": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
+     "source": "The Guardian",
+     "published": "2026-11-13T23:56:08+00:00",
+     "summary": "The Federal Aviation Administration issued a ground stop for all planes due to take off in the US, delaying and canceling thousands of flightsFlights grounded at all US airports du",
+     "image": "https://i.guim.co.uk/img/media/65cfe750f8f356c4184de878849ed7c03107aa6f/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=7860155056d5c7f957fb63c5ba52237d"
     },
     {
      "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
@@ -22,12 +78,20 @@
      "image": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=140&quality=85&auto=format&fit=max&s=312b2756177b7c278a3a9469fa907879"
     },
     {
-     "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-     "source": "The Guardian",
-     "published": "2026-11-13T23:53:13+00:00",
-     "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump\u2019s homeland security secretary says \u2018no indication as of yet\u2019 of cyberattackFAA issues nati",
-     "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
+     "title": "FAA grounds all fights across the US over \u2018telecommunication outage\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T23:45:22+00:00",
+     "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
+     "image": ""
+    },
+    {
+     "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-13T23:40:45+00:00",
+     "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
     },
     {
      "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
@@ -38,22 +102,6 @@
      "image": "https://i.guim.co.uk/img/media/e49347059f6c48431222b1105f2ca576e92c1c82/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5c0c6d7edd01447ecc6dda30577aeb3d"
     },
     {
-     "title": "All passengers and crew accounted for after New Orleans boat crash in \u2018miracle on the Mississippi\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-     "source": "The Guardian",
-     "published": "2026-11-13T23:36:21+00:00",
-     "summary": "No passengers or crew were killed or critically hurt after a tanker collided with a river cruise ship on the Mississippi River, officials sayNew Orleans river collision \u2013 latest up",
-     "image": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11"
-    },
-    {
-     "title": "New Orleans boat crash live: all passengers and crew found alive in \u2018miracle on the Mississippi\u2019 \u2013 as it happened",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
-     "source": "The Guardian",
-     "published": "2026-11-13T23:03:17+00:00",
-     "summary": "This live blog is now closed. You can read our full report here:\u2018Miracle on the Mississippi\u2019: all accounted for after tanker collides with cruise ship in New OrleansA video circula",
-     "image": "https://i.guim.co.uk/img/media/c8e77aee359cc4c5de7c6aaa1f2da566b12be4bd/211_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=3f89d09a3547d4763a9dd6b7e03b920e"
-    },
-    {
      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -62,67 +110,51 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg"
     },
     {
-     "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+     "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
      "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-13T22:47:16+00:00",
      "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
      "image": ""
-    },
-    {
-     "title": "Eisenkot accuses Netanyahu of \u2018racist\u2019 campaign against Israel\u2019s Arab minority",
-     "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-     "source": "The Guardian",
-     "published": "2026-11-13T22:36:38+00:00",
-     "summary": "Statement is rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab IsraelisIsraeli prime ministerial hopeful Gadi Eisenkot accused caretaker",
-     "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf"
-    },
-    {
-     "title": "US Air Force responds to suspected drone activity at RAF Lakenheath",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
-     "source": "The Guardian",
-     "published": "2026-11-13T22:31:05+00:00",
-     "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US Air Force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
-     "image": "https://i.guim.co.uk/img/media/a48343859349310a22c156f4bd8b222fbebabbf3/970_0_4879_3903/master/4879.jpg?width=140&quality=85&auto=format&fit=max&s=9b539226855b0f6819e574ce7da82ee2"
-    },
-    {
-     "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
-     "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
-     "source": "The Guardian",
-     "published": "2026-11-13T22:12:54+00:00",
-     "summary": "Anti-corruption agency carried out searches as part of investigation into Orb\u00e1n-era minister accused of taking bribesHungary\u2019s anti-corruption agency said on Friday it had seized c",
-     "image": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=140&quality=85&auto=format&fit=max&s=983e1129eb4afed3c581d7bf7308ca4c"
-    },
-    {
-     "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T22:02:07+00:00",
-     "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
-     "image": ""
-    },
-    {
-     "title": "Gambia's Adama Barrow seeks third term",
-     "url": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
-     "source": "France 24",
-     "published": "2026-11-13T21:46:32+00:00",
-     "summary": "In tonight's programme, Gambia's electoral commission has announced the five official candidates for the country's upcoming presidential election. President Adama Barrow is seeking",
-     "image": "https://s.france24.com/media/display/5ffd1078-dfab-11f1-ae95-5f54d898a954/w:1024/p:16x9/capture-43ee1b88.jpg"
-    },
-    {
-     "title": "France among five major powers to represent EU in Ukraine talks",
-     "url": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
-     "source": "\u00a9 Yves Herman, Reuters",
-     "published": "2026-11-13T21:38:52+00:00",
-     "summary": "European Council President Antonio Costa on Friday said that Brussels will send diplomats from the bloc and five countries, including the UK, France, Germany, Italy and Poland, to ",
-     "image": "https://s.france24.com/media/display/b484b08c-dfa7-11f1-aaa1-f71d22e7fea9/w:1024/p:16x9/2026-10-16T084030Z-885766991-RC274OADTRVQ-RTRMADP-3-UKRAINE-CRISIS-EU.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T00:04:09.752148+00:00",
+   "fetched_at": "2026-11-14T00:34:14.988148+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+     "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T00:03:56+00:00",
+     "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+     "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T00:03:52+00:00",
+     "summary": "The 52-year-old general\u2019s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
+    },
+    {
+     "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T00:00:25+00:00",
+     "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine Sends Drones Toward Russia as Finland Detects Strike on Russian Warship in Gulf of Finland",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSkJjZi0zYU92OG1KVGdEc2szNXl2eGZzR0FOcDhzWWhxbDEzM2w0ODRJa3dTREpDbjdSMTBOdG1yWmNIdjJ2bi04dElsX1UwaDJuSFJGa3pIbTB0R3Nsay16eGlrSjdQY2FWZUQ1MlZfel82RDlDSm55U3p0NnUzQUNxM1U4ZWFGX2xRcUxQbDlyU1ctc2hubEJzcHhQeEhfMk5pUWVrNHhQRmp5ZzZ2SU1uNVp3MGo4enY3T3p0TnVnXzR0VkR6WmYxSU1KTkxhWDZOZTh5LW43ckNSdEI1cUxWR2hJbVR3?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-13T23:20:05+00:00",
+     "summary": "Ukraine Sends Drones Toward Russia as Finland Detects Strike on Russian Warship in Gulf of Finland&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
     {
      "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 14, 2026 from Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jWmdtemhEMjh0MS1Qc0RCUE5HVlNTV1hyRjVCWVRkeEZ1ZDhDWk1kYjViejhBQVRTczZTcjFzWFkyMHN5WEZNY193dlpFUQ?oc=5",
@@ -132,14 +164,6 @@
      "image": ""
     },
     {
-     "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXZ5el9iR2VOdWd1dVNVX00zWkdWM01yQkk4WkxZZmtrNUNxUVZIQ3E0aHdrZ0NmMWlsclN0ejlhaHNvMWV3OWVBWXI4aF9aRzhPOW5pNTUwdHJNdWFSclFQckhJUDFYMXBpWDM4QjhsQ00wazRta0FVS2F3NDIwSWVBVjg5SjA?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-13T22:47:13+00:00",
-     "summary": "Europe Agrees on a Team to Represent It in Talks With Russia&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
      "title": "Eisenkot accuses Netanyahu of \u2018racist\u2019 campaign against Israel\u2019s Arab minority",
      "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
      "source": "The Guardian",
@@ -148,12 +172,28 @@
      "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf"
     },
     {
+     "title": "Putin\u2019s Ukraine Peace Plan: The Prewar Ultimatum, With Interest",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYlJHbVdUOHNJN1BkZE9teG9hVXQ2QWkwSHY2cGx2Q0g4YVM1SVJIOWVoQTZ4TnZObVM5eUlvVVBqaHZEWW5KMlc1VVBUeVlValZObmxYWk5maVU1QmNENXJIUDdnc3pkV2FOM0RRLVFKWW1ITlpZQm02MWpyc3dldk82VlZSWXN4WGo5OUhfTmtMdVdOTjVKd0Z3?oc=5",
+     "source": "Newsweek",
+     "published": "2026-11-13T22:35:00+00:00",
+     "summary": "Putin\u2019s Ukraine Peace Plan: The Prewar Ultimatum, With Interest&nbsp;&nbsp;Newsweek",
+     "image": ""
+    },
+    {
      "title": "US Air Force responds to suspected drone activity at RAF Lakenheath",
      "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
      "source": "The Guardian",
      "published": "2026-11-13T22:31:05+00:00",
      "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US Air Force has said it responded to \u201csuspected unauthorised drone activity\u201d on Friday nigh",
      "image": "https://i.guim.co.uk/img/media/a48343859349310a22c156f4bd8b222fbebabbf3/970_0_4879_3903/master/4879.jpg?width=140&quality=85&auto=format&fit=max&s=9b539226855b0f6819e574ce7da82ee2"
+    },
+    {
+     "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-13T22:18:02+00:00",
+     "summary": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal&nbsp;&nbsp;The New York Times",
+     "image": ""
     },
     {
      "title": "War Fatigue and Economic Pressure Weigh on Russians as Anxiety Rises, Poll Shows",
@@ -178,53 +218,53 @@
      "published": "2026-11-13T22:08:01+00:00",
      "summary": "How the UAE Became the Ukraine War\u2019s Top Mediator&nbsp;&nbsp;The National Interest",
      "image": ""
-    },
-    {
-     "title": "France among five major powers to represent EU in Ukraine talks",
-     "url": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
-     "source": "\u00a9 Yves Herman, Reuters",
-     "published": "2026-11-13T21:38:52+00:00",
-     "summary": "European Council President Antonio Costa on Friday said that Brussels will send diplomats from the bloc and five countries, including the UK, France, Germany, Italy and Poland, to ",
-     "image": "https://s.france24.com/media/display/b484b08c-dfa7-11f1-aaa1-f71d22e7fea9/w:1024/p:16x9/2026-10-16T084030Z-885766991-RC274OADTRVQ-RTRMADP-3-UKRAINE-CRISIS-EU.jpg"
-    },
-    {
-     "title": "Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2RQN2xna0ROM0tiS0pGZGNUX2xtb3ZybjMxOEhmbXZrbE1hakhaTHY1UWVrOTFSTmsxUEtmVC1ydHBkUkdwUkpaT21QWHFmU2hTZmlYMmt1MGJZc2Q4WTZLSDV2R3hOODhjMUlQZkZDTTBYOFYyVVl2M2o2T21iUFhRRlplSEFnUDFSTEU1RjZBdkRLX3o1aA?oc=5",
-     "source": "TelegraphHerald.com",
-     "published": "2026-11-13T21:35:26+00:00",
-     "summary": "Russia Ukraine War&nbsp;&nbsp;TelegraphHerald.com",
-     "image": ""
-    },
-    {
-     "title": "Target of Opportunity: Ukraine Just Bombed a Russian Warship in the Baltic Sea",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1piRjQ5TTFfOFhwMkFGak54dGMtamNkaEFkenZ4amp0bXB6VGwyV3BIdzF3dHBYcTlwMDhBYTZpZUZ0V1h3ZG01TW95dWxRSF9oNTlqZDE3amxtTUMwTzBEWFN1OTJqd2Q4Z3AyMS03UlV6bGpYd09MN2ttaVdPNkVsYVJ5M2ZLVmFUQVhudUxmSnRDcXhMM3I3Z3B4R2dDRkhqMjBEb2ZGdjhUZ0poQWRKTDlQS3VH?oc=5",
-     "source": "The National Interest",
-     "published": "2026-11-13T21:18:01+00:00",
-     "summary": "Target of Opportunity: Ukraine Just Bombed a Russian Warship in the Baltic Sea&nbsp;&nbsp;The National Interest",
-     "image": ""
-    },
-    {
-     "title": "Europe Must Step Up to Settle the Russia-Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQklHM0IxVjFxSFA4Z1lIWUhqd09VSDhPeTM3ME4xTWs1NGNCMlBSN3hiUWNmWklGYkh2VzdsQk5Pbl80TUVDX3pJYy13Y3dCNlp3NUVzTzhCRkVqT2NTMUw3dXluaXZuNmF1WlhfU1pFQk5JNFRCT3h6VmxOWTdqYXNhQVRUaUtm?oc=5",
-     "source": "Council on Foreign Relations",
-     "published": "2026-11-13T20:41:35+00:00",
-     "summary": "Europe Must Step Up to Settle the Russia-Ukraine War&nbsp;&nbsp;Council on Foreign Relations",
-     "image": ""
-    },
-    {
-     "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-13T20:05:56+00:00",
-     "summary": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal&nbsp;&nbsp;The New York Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T00:04:09.752151+00:00",
+   "fetched_at": "2026-11-14T00:34:14.988150+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-14T00:28:05+00:00",
+     "summary": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Buncombe County certifies 2026 election results after hand-count audit matches machines",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORC1TcFozRS14VUtNLW5OVU9JR0xkV3R1bWttUjJ5LXdwUmxWMUVfOExnUGt3eUVJcDJral9QRldiTVd3d050d0w5M2pGRW9UTnlmaUw1UkpJNTVoaHRxQW1PSjZnNXVIbWZnMHZNNTU4amRkbU9WVDVrS3lITU1FUThmeG54UzdJS3hEeEJtY2IyWklCWFg2cm9fNS1mWkFBdkctblM0WHhTdDZOZFBvLVlVM0NRMmRORHdMS21scHo3QkJlSFo3Z3lrSlctMkRqZEVuNHNja185dlBFdE1yXzVkV19UZw?oc=5",
+     "source": "WLOS",
+     "published": "2026-11-14T00:22:59+00:00",
+     "summary": "Buncombe County certifies 2026 election results after hand-count audit matches machines&nbsp;&nbsp;WLOS",
+     "image": ""
+    },
+    {
+     "title": "Washoe County canvasses election, outlines changes for 2028",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlpFcF9vam5nREdtM3hVYlRReE8wUVdKcS1iVnlTeUFVdk1xTlphUHNsTHhaQmgwektFZVJpd25wN0pUY1I1c00yeTdoNjg5U2V0dUtMRWluaW81X3UzbWtFTUR6WFVBYVd6SnFQU1Q2dFJDdWJlbDZvRVloSE11UmhDU0Z0d05qcDFJQmhvMzZ5VzQ?oc=5",
+     "source": "KRXI2",
+     "published": "2026-11-14T00:16:42+00:00",
+     "summary": "Washoe County canvasses election, outlines changes for 2028&nbsp;&nbsp;KRXI2",
+     "image": ""
+    },
+    {
+     "title": "Texas Matters: What could be the energy policy for a blue Texas?",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGRkUGRlc3AyVzNTMWt6dzdJNzNNYlctb2RoTzYxNlNHNC1IaHpIMTVkTGhQNUQ5UDFhRG91SUExQlh4VXNJXzM1clg0U1kzcm5YMU9Sb21UQWsxVlJ4WURjVDc4Y0NRX2lFNnctS1Q5QmxtWkR2WW1jQ3h0UURUa1g0TmV5SGlaejY0YjEzYTdRU3FDSEowdC0wVUk3bEhVNnJBakxvajRXVXpSRWxvYVNuSnBHUQ?oc=5",
+     "source": "Texas Public Radio | TPR",
+     "published": "2026-11-14T00:12:45+00:00",
+     "summary": "Texas Matters: What could be the energy policy for a blue Texas?&nbsp;&nbsp;Texas Public Radio | TPR",
+     "image": ""
+    },
+    {
+     "title": "Afghanistan\u2019s new road to China ends at a closed border",
+     "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T00:06:43+00:00",
+     "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+     "image": ""
+    },
     {
      "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRGMVNoOVFrYk5JdjNKX0V1OHcteEhBdjQ3WVl3OXBRdDlhd3pWVDVObnpUNlF2M04xMnd0WHZvQnZGLTJJSm5EbEZwZEdCRzVLbGlJQkVrV2JYT1NQS3ViT0x4UW9HNFdJUUk0N0pDX1FmTjBEM25Bc0N6YnRPM19OSlVKOTZacFM0VWZwVkUyOXRaVnhNWVNoYTFtMGMzNmlaOGMtWTZ4bGJGU0ZwRnpzWnNMS3c?oc=5",
@@ -266,14 +306,6 @@
      "image": ""
     },
     {
-     "title": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-13T23:33:44+00:00",
-     "summary": "Rep. Lauren Boebert ousted in Colorado\u2019s conservative 4th District&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
      "title": "Jeffco Public Schools Ballot Issue 5A headed for a recount after tally shows it\u2019s passing by 327 votes",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeUlYSEFvTng2bERDTWRaZW1tR0djaXpzRVVuZjhSbHdSbWRIM0FlSDMxSGl2WWNXOVRWM1hIWnEtTmFQRndPdzAwSTZVQlRFbXZIdmtzakhfNWpBQ0oycU5fa05QQUZ2cHNQblBIWUhreTVnTFVEQ0xHMnM2LV9wSzhlWEJqQWNkekZnU0pNbzNZVFlteUxSeVlDU2VfYUZhWGZmLXB3NjdWd1R5bndsbVpIajh3S3k0RW51VA?oc=5",
      "source": "Chalkbeat",
@@ -288,43 +320,11 @@
      "published": "2026-11-13T23:31:57+00:00",
      "summary": "Rep. Lauren Boebert loses seat to Democrat Eileen Laubacher, election awaits certification&nbsp;&nbsp;CBS News",
      "image": ""
-    },
-    {
-     "title": "Iowa secretary of state defends midterm election results",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUxrUVh0RkdPOW44M1Exb001ZjZ2NWlaMmNBSjB1RTMtU1hiZURqdnFUQWpqUWZBajUxSTU1TlJIbFdMM1lDWmZXdHRWRjl2SnkxaTR6RjVLNlVPU0dRX1BFNWNsbkFISUFtNElqQlZUd3U2QzJKSU5CQ3d2bnhic1BXV0pWaEhqaDBObVlDMnpsLUdyVnNr?oc=5",
-     "source": "KCRG",
-     "published": "2026-11-13T23:19:00+00:00",
-     "summary": "Iowa secretary of state defends midterm election results&nbsp;&nbsp;KCRG",
-     "image": ""
-    },
-    {
-     "title": "Anchoring Maternal Mental Health in Obstetric Care: Key Takeaways from New York\u2019s Historic Hearing",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUp0Y2ExR2VaNzdyQTZBaUszbV9ieVBfSXc5NTVENDBGRXNoTlNSWi1UZXdVMTN3YjNwdHhtRzFBZ1BWdHZXVHpxRDAzTmFNejI5NkhabkstWDBBN25qU2llbmNDNkRfRkhEQm9NeC0yeWZXc3JBZVdIbWZVSGdLSlpKT1dkUkhPT1VuV0xLMXdqNkV3X0FKeUZzOVFpWDNzRVpvQ0thelh5T25VMjk5MzltQjdXbkdCMW4xYXJxTTZYcjA?oc=5",
-     "source": "Policy Center for Maternal Mental Health",
-     "published": "2026-11-13T23:14:55+00:00",
-     "summary": "Anchoring Maternal Mental Health in Obstetric Care: Key Takeaways from New York\u2019s Historic Hearing&nbsp;&nbsp;Policy Center for Maternal Mental Health",
-     "image": ""
-    },
-    {
-     "title": "Column: Election interference didn\u2019t simply disappear on its own",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2dBY0pVbGtNVFlRX2FjR2F6SVRRQk1JeFp0RTdnSmFkbnpvYTRBWTNSUkxNMElvRG9feFR3VVhVQTd2M0Z1NW96Vnd4XzJsWFZYOXR0VHNHRWJmaFd5Ylc5eTVkdVAwNkFTV2JlODllMWpSaHFWZ2V6Qm1KNTB0OVNLRFNqTk9RSXNFWVYyMURUZ0EtcnBHT3lfR0tNeEV6YXMxMg?oc=5",
-     "source": "The Virginian-Pilot",
-     "published": "2026-11-13T23:07:02+00:00",
-     "summary": "Column: Election interference didn\u2019t simply disappear on its own&nbsp;&nbsp;The Virginian-Pilot",
-     "image": ""
-    },
-    {
-     "title": "From Protections to Restrictions: State Immigration Policy Trends in 2026",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVExuMFpNRTBRMXRwbk1yTTljWEdsNVdMRzVhcHZnczN6RnlFV01TYnB2Nkx6ekxBT2QtZlFqWXFRbnJBWDRPajlZemtwVnZneFN1Z1o0ODNhR2xyMXlPYnU4SGwweGswRnhXbWV6X0wwd2l3cFNzblVtdWE1U2FjS0NaeVo3VDdVTTRxc0FkbDEwQQ?oc=5",
-     "source": "American Immigration Council",
-     "published": "2026-11-13T22:59:13+00:00",
-     "summary": "From Protections to Restrictions: State Immigration Policy Trends in 2026&nbsp;&nbsp;American Immigration Council",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T00:04:09.752152+00:00",
+   "fetched_at": "2026-11-14T00:34:14.988152+00:00",
    "stale": false,
    "items": [
     {
