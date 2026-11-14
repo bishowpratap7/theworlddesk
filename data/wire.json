@@ -1,25 +1,33 @@
 {
- "generated_at": "2026-11-14T21:37:57.227643+00:00",
+ "generated_at": "2026-11-14T22:08:01.223231+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T21:37:57.227609+00:00",
+   "fetched_at": "2026-11-14T22:08:01.223188+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-     "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T21:05:14+00:00",
-     "summary": "The attempt follows an unsuccessful effort to catch of the rocket\u2019s booster which instead came down in the ocean.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg"
+     "title": "US flights resume after ageing technology blamed for outage",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T21:36:19+00:00",
+     "summary": "US flights resume after ageing technology blamed for outage",
+     "image": ""
     },
     {
-     "title": "SpaceX's Starship set for return to Earth after failed booster catch",
+     "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+     "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T21:10:26+00:00",
+     "summary": "Europe&#039;s direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+     "image": ""
+    },
+    {
+     "title": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
      "url": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
-     "source": "\u00a9 Steve Nesius, Reuters",
+     "source": "\u00a9 Ricardo Arduengo, AFP",
      "published": "2026-11-14T20:51:24+00:00",
-     "summary": "SpaceX's Starship spacecraft was on track to return to its Texas launch site for a planned mid-air catch, after an aborted recovery attempt.",
-     "image": "https://s.france24.com/media/display/8cb1e4b2-e05b-11f1-b193-5f54d898a954/w:1024/p:16x9/2026-11-14T012408Z-750862810-RC2ANOA0O8FL-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg"
+     "summary": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
+     "image": "https://s.france24.com/media/display/db6b6746-e073-11f1-8695-695cb59fade5/w:1024/p:16x9/000-D7H72W2.jpg"
     },
     {
      "title": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
@@ -108,21 +116,21 @@
      "published": "2026-11-14T19:20:11+00:00",
      "summary": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
      "image": ""
-    },
-    {
-     "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-     "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T19:14:33+00:00",
-     "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T21:37:57.227625+00:00",
+   "fetched_at": "2026-11-14T22:08:01.223216+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-14T22:07:08+00:00",
+     "summary": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
     {
      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0x6X3prTmdxdXlVNU1GdjBSdThpaDdHT2ZzYkVqVzlTMkQyTG5Fc3Z0NFJVSUVJTWk5QjdfZkhIaTNPOEJJTVU3Mk41NWlPZVl4SHctSmZ4dXhLT0s4RWYyNVUwd0p0Qk9hOWtwRkF3Uy1YOWdyUnZJbVg5dU9RM3UwblUxYi13dnJuUmZvOWNVY29VYVNCSnNyMS1wVWs0dWd3bXd6T3BnTy04aV94ZUxB0gG3AUFVX3lxTE5kbXVNakk4aUFZU3NlYkRkWUxvalJraFN3VWc5bjhBSzdyLVJ6MS1zVTVqeVRySm5kQ1VNOGVTX2JEMm9GMjFRVTVMS21WSzVxbGNULUNhMmdJRVdoTFlBVjBKUnpXWE0zRUFnRVlBYlJ3WEUzcFdIdmgyQzZrNTVyZWpkUFhJcDJhVlkzakZtUXFQRTNwN3RuQ3pQai1YUnA4YlFPMkR2NnBQMEEwR3FwQ1ZPY0QyQQ?oc=5",
@@ -210,21 +218,21 @@
      "published": "2026-11-14T18:23:28+00:00",
      "summary": "Military activity caused instability in electrical grid at some Ukraine nuclear units, IAEA says&nbsp;&nbsp;Arab News",
      "image": ""
-    },
-    {
-     "title": "Whose Eyes? Whose Sky? Drone Capabilities and AI Diffusion Risks From Ukraine to the Sahel",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWRNYWQ2ZDVhQTNNNW1rR09LOVJhdE03M1YxbTNicjg4bHR6dnZOTFEtaGNaTTlzZ1lOWWZrUW9uOWdUWHY1elI2ajdqbUYtRmpTdGJBamZTZ01fc0xfRDg0VTJqSmJaZWx6SS0zQW9MbXJOWFVHZG9BOWMzaW1JRFRfZXIwTnI5c3l0UjdFbktfZnM1LVNSaFdfRG5yRERwRkZaWExDNlZDNF9acXVKRWdmd295TGN1aUdIUWkxMHZUdHQ5NEU5TGg5Y05QbFo3c0dCMzN3UGE5NmRjdGlsMEdXM2kza3d1c0YtTw?oc=5",
-     "source": "Georgetown University",
-     "published": "2026-11-14T18:02:45+00:00",
-     "summary": "Whose Eyes? Whose Sky? Drone Capabilities and AI Diffusion Risks From Ukraine to the Sahel&nbsp;&nbsp;Georgetown University",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T21:37:57.227629+00:00",
+   "fetched_at": "2026-11-14T22:08:01.223220+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0tWRjdXLWNKYmp0NERhQ053eDlqTG9MenJsc0VMUFQ4YlE0eW1KVjhJcUNvcjVlcGJVbXJlRERTejBoNG5JQ0hIQVlZZEphR3doVndCb2I5N19ILU40Z21FZTJKYk8waGR6NzU3V08xYVFLX21mcEMxZnpFejNENzl2U3FZWUFYUmRRMm5tX0JCZ3lKODR5MjZUcnZlbmQ2N2R5bWNvMXlGZ3QyOEJjMlRYcDgxLW02Wjk2TUU5Mm5PQQ?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-14T21:22:15+00:00",
+     "summary": "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
     {
      "title": "Democrat Mary Peltola is likely to win Alaska\u2019s Senate race, as vote counting continues",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkxEOFFMTXBJUF9IamZfemJ4N3JEaXdvYTZvQWJybU5vZVRZZmRDRXhxN3dHOWpsS2R2WWZCcG9qVDNIZVhzWGI0cm9HYzZjVVBYZG90SlZkSF80Z2lBSUZYTjVoanZXSWVpRmRYRXY4OXdQYm4yTUNzVF9tWGhkS0lad29jUnVxMDhKVm01V0tIUERVaVFpQ2ZEbUxfRXZLalpJNmVlMnRjWWQzTmc?oc=5",
@@ -312,19 +320,11 @@
      "published": "2026-11-14T19:00:53+00:00",
      "summary": "MPs across factional lines share concerns about policy that legal expert says \u2018paints the imprisonment of children as therapeutic\u2019Get our daily political email, free app or daily n",
      "image": "https://i.guim.co.uk/img/media/0ddcc3866d426031d184b92ca5117f79edd2abd4/390_0_5750_4600/master/5750.jpg?width=140&quality=85&auto=format&fit=max&s=0c9a26d78f9de18030033c9b633d5278"
-    },
-    {
-     "title": "2027 presidential election: 'French people are increasingly losing faith in progress'",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUEJWOXgtMml0NENTNXVqYWFfeDZYemlQWHNHX0ZJNjR1RXNNT0M0QW90NEFBOU42aVphUm1ZeXBQVl9wR25qTnRkQlVBUGhnX1Buc2dMSXBvQmxldHVrRW9IdFoyQ2hKMzItckRXakZCTjdiZldSbjFVUFVNWWJMc2I4bUgwOEc3T0ttU1NCOFo2OUtEQnVILVlzbVhFSFp4aTl0MG9IYnF0ZDF4VFJWUU9QWTlZenh5YWY5WEMtTTQzN1ZXRnRzYmRFMEtLQUJjMnZBcWw3RWlsVmp0c0k3Q3Jnaw?oc=5",
-     "source": "Le Monde.fr",
-     "published": "2026-11-14T19:00:13+00:00",
-     "summary": "2027 presidential election: 'French people are increasingly losing faith in progress'&nbsp;&nbsp;Le Monde.fr",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T21:37:57.227632+00:00",
+   "fetched_at": "2026-11-14T22:08:01.223223+00:00",
    "stale": false,
    "items": [
     {
