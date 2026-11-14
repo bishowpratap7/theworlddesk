@@ -1,17 +1,65 @@
 {
- "generated_at": "2026-11-14T19:07:24.758125+00:00",
+ "generated_at": "2026-11-14T19:37:28.903569+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T19:07:24.758093+00:00",
+   "fetched_at": "2026-11-14T19:37:28.903533+00:00",
    "stale": false,
    "items": [
     {
      "title": "What we know about the ground stop and what to do if you're affected",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-14T19:00:16+00:00",
+     "published": "2026-11-14T19:27:03+00:00",
      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+     "url": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T19:20:11+00:00",
+     "summary": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
+     "image": ""
+    },
+    {
+     "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+     "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T19:14:33+00:00",
+     "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T19:12:25+00:00",
+     "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
+    },
+    {
+     "title": "Philippines\u2019 Carmelle wins first Eurovision contest in Asia",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+     "source": "The Guardian",
+     "published": "2026-11-14T19:01:32+00:00",
+     "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in BangkokCarmelle Collado has won the first Eurovision song contest Asia, taking the Phil",
+     "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=140&quality=85&auto=format&fit=max&s=6824875970409bb022b0fe92c92ae52e"
+    },
+    {
+     "title": "Even Labor MPs are at a loss over the Victorian premier\u2019s \u2018tough love\u2019 plan for youth offenders",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-14T19:00:53+00:00",
+     "summary": "MPs across factional lines share concerns about policy that legal expert says \u2018paints the imprisonment of children as therapeutic\u2019Get our daily political email, free app or daily n",
+     "image": "https://i.guim.co.uk/img/media/0ddcc3866d426031d184b92ca5117f79edd2abd4/390_0_5750_4600/master/5750.jpg?width=140&quality=85&auto=format&fit=max&s=0c9a26d78f9de18030033c9b633d5278"
+    },
+    {
+     "title": "Art \u2018must not be sacrificed on the altar of corporate profit\u2019 Liberal senator says as AI policy debate rages",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+     "source": "The Guardian",
+     "published": "2026-11-14T19:00:52+00:00",
+     "summary": "Andrew McLachlan says he chooses \u2018real forests over virtual ones\u2019 as he urges Labor government to consider AI\u2019s impact on artists and environmentGet our daily political email, free",
+     "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=d72d9f2961e3b70e5c920ce9fd1fa088"
     },
     {
      "title": "US blames outdated technology for nationwide flight disruption",
@@ -68,61 +116,37 @@
      "published": "2026-11-14T17:50:28+00:00",
      "summary": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
      "image": ""
-    },
-    {
-     "title": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
-     "url": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues",
-     "source": "France 24",
-     "published": "2026-11-14T17:33:37+00:00",
-     "summary": "Elon Musk's SpaceX is in the midst of a 15th test-flight of its Starship rocket. The company was hoping to pull off the first-ever \"double catch\" - with both the booster and the sh",
-     "image": "https://s.france24.com/media/display/0ecebe06-e02b-11f1-b834-f71d22e7fea9/w:1024/p:16x9/EN-20261114-080810-081151-CS-01.jpg"
-    },
-    {
-     "title": "Youth Olympic Games organisers hail Senegal's capability to host major events",
-     "url": "https://www.france24.com/en/youth-olympic-games-organisers-hail-senegal-s-capability-to-host-major-events",
-     "source": "France 24",
-     "published": "2026-11-14T17:25:51+00:00",
-     "summary": "Dakar 2026 is over. Two weeks of competition, thousands of young athletes and a historic first for Africa. The Youth Olympic Games brought the world to Senegal for the first Olympi",
-     "image": "https://s.france24.com/media/display/22d2e2f4-e050-11f1-b0c8-3f371022a770/w:1024/p:16x9/2026-11-14T101501Z-1652258025-RC2ZMOAAAUIS-RTRMADP-3-OLYMPICS-YOUTH.jpg"
-    },
-    {
-     "title": "France and Cambodia share their love for p\u00e9tanque in Phnom Penh",
-     "url": "https://www.france24.com/en/video/20261114-france-and-cambodia-share-their-love-for-p%C3%A9tanque-in-phnom-penh",
-     "source": "France 24",
-     "published": "2026-11-14T17:23:02+00:00",
-     "summary": "Phnom Penh is hosting the 20th Francophonie Summit this Sunday and Monday. French President Emmanuel Macron is attending as part of a 3-day state visit to Cambodia. France and Camb",
-     "image": "https://s.france24.com/media/display/42c5394e-e04c-11f1-9bf6-f71d22e7fea9/w:1024/p:16x9/EN-20261114-171014-171151-CS-01.jpg"
-    },
-    {
-     "title": "Washington divided over how to deal with fallout from the Nvidia case",
-     "url": "https://www.france24.com/en/washington-divided-over-how-to-deal-with-fallout-from-the-nvidia-case",
-     "source": "France 24",
-     "published": "2026-11-14T17:21:26+00:00",
-     "summary": "After the fall, the fallout. US government agencies are squabbling after AI leader Jensen Huang stepped down from chips giant Nvidia in disgrace. The Treasury says it wanted to bla",
-     "image": "https://s.france24.com/media/display/de9eb5ba-e025-11f1-b03b-695cb59fade5/w:1024/p:16x9/EN-20261114-120954-121129-CS-01.jpg"
-    },
-    {
-     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T17:16:36+00:00",
-     "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg"
-    },
-    {
-     "title": "US officials say flight stoppage stemmed from \u2018routine maintenance\u2019 as travel chaos continues",
-     "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-     "source": "The Guardian",
-     "published": "2026-11-14T17:11:18+00:00",
-     "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide groundingThe Trump administration says Friday\u2019s four-hour nationwide Federal Aviati",
-     "image": "https://i.guim.co.uk/img/media/6934b82431c8fab49bd4a56b9baaca81b07d75ae/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b2b556b1036b2ad108c6ca8de27291e7"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T19:07:24.758108+00:00",
+   "fetched_at": "2026-11-14T19:37:28.903551+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUwtNDZmd2xnRmh5QU5UQWs1UWhXZXZsT3Vab2dPU3E4S295N0ZtWW1mQWN3NkdSNkJDeHdPV3FmUDRVVXVGWjlxS1B5dU50a2xMSGF4dEpjajltZEtrVmxWd1Y0Nlo2bGJBN0pWNUVBQlRvRlItSFJRcDROaGhXWk1yeDJDTzFGZm00WDBVSWpNRkx5VTgzcUFYY2xZVFlEa0tZ?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-14T19:31:39+00:00",
+     "summary": "Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
+     "title": "Art \u2018must not be sacrificed on the altar of corporate profit\u2019 Liberal senator says as AI policy debate rages",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+     "source": "The Guardian",
+     "published": "2026-11-14T19:00:52+00:00",
+     "summary": "Andrew McLachlan says he chooses \u2018real forests over virtual ones\u2019 as he urges Labor government to consider AI\u2019s impact on artists and environmentGet our daily political email, free",
+     "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=d72d9f2961e3b70e5c920ce9fd1fa088"
+    },
+    {
+     "title": "Ukraine\u2019s unusual operation in Crimea: extracting witness to catch collaborator who prepared five-year-old children for war",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOakRfcXNpd21aSlh5WHR1UEdOZXNhUWFmSzJNeGhjMWlmWUxpcy1UdVZ4a3VfcUc4c1FfaUZiU3hIUHhwdVNmdWk2ZnBJQm1kOFlna09jMDItQVMxVDZ0dDNaZ0dMRUhnaUhoam1vRjJndzdiUXZtRnJoSlBlQi1zZ3FqZEJFZXRvTlJ6TS1SaHVLY2psbnNFR1RRQUFsWW9LS2pHeWNQdUJCUWNQdDduSE5NTDhGOGtXMW9FYm1GUWJWVldDOEx6MHIyOC1PaXRJNnRvTXZaNDc2LWtFbU91cy13SmVrUFdoTXc3eFpVb3ViNEU?oc=5",
+     "source": "Euromaidan Press",
+     "published": "2026-11-14T18:37:51+00:00",
+     "summary": "Ukraine\u2019s unusual operation in Crimea: extracting witness to catch collaborator who prepared five-year-old children for war&nbsp;&nbsp;Euromaidan Press",
+     "image": ""
+    },
     {
      "title": "Military activity caused instability in electrical grid at some Ukraine nuclear units, IAEA says",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLTNscXp2Q3FKN3lZQzNqTmk4N21hc0xhdjZlTmQ1VGlzTzhxcDlTTjk5cG41ME5oOU1VSmxvT3pvUzg1NmhPSG1kZklPano5Nkl5cDRXakp6dVNoYlN4eGc4T250Nk9UWDUxbU4xTUE3VjJLTnJpNnFRWWFOZnFSWTUtYzZwczJieUFTeGFmQjlSeTV6MmpOcTBvRGNZZEo2VUdscUZkRHhrd0VDV1NYeHdRV3R5QnZrUHJzLTFJcVk3N3oyemsxT3lBcG00d2M?oc=5",
@@ -154,14 +178,6 @@
      "published": "2026-11-14T17:00:49+00:00",
      "summary": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadershipNearly 10,000 more cancer patients i",
      "image": "https://i.guim.co.uk/img/media/b00e7ea04eeee225998f3f0ab4b1036edaafc939/631_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=6ba9b24abbe7d89f6558a5d65975c9cb"
-    },
-    {
-     "title": "On a burns unit, Ukrainian doctors see what Putin\u2019s drones really do",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVm5iN08tbEVOdVZTd2VYb0VYZ19saThUU1UtamphS08xeUhycWFWZy12TEplcUh1TDU3SXlkVnNTVDRzN242d201eVpTc3E0M2pob1lPZVQ0UHlIWGU2WHhxVXl1THNjaVgxWFNUOGprTkw4V2pGakxmdExBTjN5ZTRhWFNwSVBYUlVVOGIyT3o2NzhQTU95YW9IRQ?oc=5",
-     "source": "The Times",
-     "published": "2026-11-14T16:45:00+00:00",
-     "summary": "On a burns unit, Ukrainian doctors see what Putin\u2019s drones really do&nbsp;&nbsp;The Times",
-     "image": ""
     },
     {
      "title": "Cold weather health alerts issued for parts of UK on Sunday night",
@@ -202,29 +218,29 @@
      "published": "2026-11-14T15:53:55+00:00",
      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
-    },
-    {
-     "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-14T15:37:54+00:00",
-     "summary": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American\u2019s home",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T15:36:37+00:00",
-     "summary": "Israeli forces occupied a Palestinian-American\u2019s home in the occupied West Bank for 17 days.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T19:07:24.758113+00:00",
+   "fetched_at": "2026-11-14T19:37:28.903556+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T19:12:25+00:00",
+     "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg"
+    },
+    {
+     "title": "Even Labor MPs are at a loss over the Victorian premier\u2019s \u2018tough love\u2019 plan for youth offenders",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-14T19:00:53+00:00",
+     "summary": "MPs across factional lines share concerns about policy that legal expert says \u2018paints the imprisonment of children as therapeutic\u2019Get our daily political email, free app or daily n",
+     "image": "https://i.guim.co.uk/img/media/0ddcc3866d426031d184b92ca5117f79edd2abd4/390_0_5750_4600/master/5750.jpg?width=140&quality=85&auto=format&fit=max&s=0c9a26d78f9de18030033c9b633d5278"
+    },
     {
      "title": "2027 presidential election: 'French people are increasingly losing faith in progress'",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUEJWOXgtMml0NENTNXVqYWFfeDZYemlQWHNHX0ZJNjR1RXNNT0M0QW90NEFBOU42aVphUm1ZeXBQVl9wR25qTnRkQlVBUGhnX1Buc2dMSXBvQmxldHVrRW9IdFoyQ2hKMzItckRXakZCTjdiZldSbjFVUFVNWWJMc2I4bUgwOEc3T0ttU1NCOFo2OUtEQnVILVlzbVhFSFp4aTl0MG9IYnF0ZDF4VFJWUU9QWTlZenh5YWY5WEMtTTQzN1ZXRnRzYmRFMEtLQUJjMnZBcWw3RWlsVmp0c0k3Q3Jnaw?oc=5",
@@ -298,33 +314,17 @@
      "image": "https://s.france24.com/media/display/de9eb5ba-e025-11f1-b03b-695cb59fade5/w:1024/p:16x9/EN-20261114-120954-121129-CS-01.jpg"
     },
     {
-     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T17:16:36+00:00",
-     "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg"
-    },
-    {
      "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5",
      "source": "Reuters",
      "published": "2026-11-14T17:14:23+00:00",
      "summary": "After midterm sweep, Democrats split over Trump, cost-cutting agenda&nbsp;&nbsp;Reuters",
      "image": ""
-    },
-    {
-     "title": "Across California, Big Tech Spending Led to Election Wins. But Not in These Races",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHZOd1p1VVE2QmxiLVBxSkl3alN3TkstVFZ3Ukxna2htQml0bTZFX05TUzF1dnlhSkxQYzVYWjdEeEw3WkJRWEttMTYtYlVzOF9fS3o1dHB6ZWI4R1dSamw2dG41RU5MNUxKMHY2eTBFa2piejc1cE5Ub1U4VXFzMkw1YXJycUFkVVdyWEVnODU1UlhsaUtLZk9ZY1VUdmtuOU1NSVR6bmdYVkVKX2JrbXRtMDQ?oc=5",
-     "source": "KQED",
-     "published": "2026-11-14T17:07:45+00:00",
-     "summary": "Across California, Big Tech Spending Led to Election Wins. But Not in These Races&nbsp;&nbsp;KQED",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T19:07:24.758116+00:00",
+   "fetched_at": "2026-11-14T19:37:28.903558+00:00",
    "stale": false,
    "items": [
     {
