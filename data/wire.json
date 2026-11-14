@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T13:36:23.490941+00:00",
+ "generated_at": "2026-11-14T14:06:27.259237+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T13:36:23.490911+00:00",
+   "fetched_at": "2026-11-14T14:06:27.259208+00:00",
    "stale": false,
    "items": [
     {
@@ -12,6 +12,14 @@
      "published": "2026-11-14T13:25:35+00:00",
      "summary": "Two trainloads of children, some of them born in Nazi-run \"Lebensborn\" maternity homes, were brought from Germany to Commercy in eastern France in 1946. One of them was \u00c9dith Pagot",
      "image": "https://s.france24.com/media/display/9490f12c-c0c2-11f1-985b-69fad0a7cb9f/w:1024/p:16x9/main-lebensborn.png"
+    },
+    {
+     "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+     "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T13:24:44+00:00",
+     "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
+     "image": ""
     },
     {
      "title": "USA: All passengers survive after tanker hits docked river cruise ship in New Orleans",
@@ -108,21 +116,21 @@
      "published": "2026-11-14T12:17:19+00:00",
      "summary": "U2 just released a new album after nine years of no new content. And fans are already rocking out to the new songs. Details on the Irish rock band\u2019s comeback by Ophelie Jacobson.",
      "image": "https://s.france24.com/media/display/63928f76-e01c-11f1-9567-695cb59fade5/w:1024/p:16x9/EN-20261114-082432-082622-CS.jpg"
-    },
-    {
-     "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T12:14:14+00:00",
-     "summary": "A nuclear treaty and the US&#039;s war on Iran are among priority topics for China, Russia and US leaders.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T13:36:23.490926+00:00",
+   "fetched_at": "2026-11-14T14:06:27.259221+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN2ZyRGVhbVc3bW5vWGNJT0JxQlZpNzllbzM4aWNKOXhGMzh5OF9JSS12RWl3ZHdqUDFtQmM3Yk5SZ2I5dWlKWUNZMklnWHNhWkQxQUZYcVRidmxrbFEtTlVPRjB4NHRMWXl3bmMxeGQ0b216UWlPX1d3STNBTXFNZDd4ZkxEUHpsMERJVVVSWWFkenc2MFBSUFRlS0J6OEFZNVBOY2NQQTNqa0hGSkZ4aUFYdWNyODNoVFZ2eG5yUEwyend1cHM4OVNOeklQUFBUWjVXbGNWaUVJMTVhS0g5YlZpVDBpVm9tRUhIQkJmR2R2M2VzZ3c?oc=5",
+     "source": "Il Sole 24 ORE",
+     "published": "2026-11-14T13:59:17+00:00",
+     "summary": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories&nbsp;&nbsp;Il Sole 24 ORE",
+     "image": ""
+    },
     {
      "title": "Ukraine hits key Russian oil hub, military airbase in latest long-range strikes",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPREdVN2lkREJIaFF5ZDlqa0NIaGhxZnpnMXQ1OHhIa1NyaHo4T2JkcGIzdTJ1T051WEF4M05UTFp2ODQ0ZkN3ZnNQWW5IN0h4WThtY0hOcUZwWFJJWGtrUlhsVGwwS2hvc2FDNnRNb09KSVpMWW1EQ0hycEJ1VURRNmtFZUthdnNySzFqQWgyTGRybVFhSl80NkY3WXJGcDNEa3g3RE9SNzM3NVU?oc=5",
@@ -132,19 +140,19 @@
      "image": ""
     },
     {
-     "title": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN2ZyRGVhbVc3bW5vWGNJT0JxQlZpNzllbzM4aWNKOXhGMzh5OF9JSS12RWl3ZHdqUDFtQmM3Yk5SZ2I5dWlKWUNZMklnWHNhWkQxQUZYcVRidmxrbFEtTlVPRjB4NHRMWXl3bmMxeGQ0b216UWlPX1d3STNBTXFNZDd4ZkxEUHpsMERJVVVSWWFkenc2MFBSUFRlS0J6OEFZNVBOY2NQQTNqa0hGSkZ4aUFYdWNyODNoVFZ2eG5yUEwyend1cHM4OVNOeklQUFBUWjVXbGNWaUVJMTVhS0g5YlZpVDBpVm9tRUhIQkJmR2R2M2VzZ3c?oc=5",
-     "source": "Il Sole 24 ORE",
-     "published": "2026-11-14T13:13:07+00:00",
-     "summary": "Ukraine war, latest news. Zelensky: US proposes NATO membership in exchange for the cession of Ukrainian territories&nbsp;&nbsp;Il Sole 24 ORE",
+     "title": "Ukraine War, Day 1,724: Zelensky \u2014 Starshield Restrictions Continue on Frontline",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1FJb3lWS2hua0ktcDRKOFR2UGQ3MDVuVW53R1ZNUWVLRHY4amxseWFueXJ5NWg5Z3c1ZFlZemZheHBNN2Z2X0laeC0zSHN0bEVxSHNESVBNbm55WmlPbVJST29CLWxfQkZienk4bU0tZFpOTHFvTFA1WFF3eXBKNFlUSXI1WWZQNTA5ZkZQZmVqeWNIUng0ajMzVjhxSUxY?oc=5",
+     "source": "EA WorldView",
+     "published": "2026-11-14T13:28:46+00:00",
+     "summary": "Ukraine War, Day 1,724: Zelensky \u2014 Starshield Restrictions Continue on Frontline&nbsp;&nbsp;EA WorldView",
      "image": ""
     },
     {
-     "title": "Ukraine Needs 2.5 Times More F-16s in the Sky as Aging Jets Undergo Repairs, Zelenskyy Says",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX3NHMnJKRmZ4WFJqbm0zVkE5V1JtQW9pS3NoY3hqSXRrWWVuRG1pQUhCLWt6REFHTUdscjJpT0xaMkVSdU9teEl4V3BCcnVYRjN3bXY4Vy1aZF90c0NZV0VKczBDRVcxaWc2OUNxODFZM3ZrOVM1bjMzQkFfcl9YeVA2WU9saWxjUHNKOElvT2UtVXkwLTF6WXZoMVhCVS0zbUsxb1ZwQkp4dG9uZnlpSVBYdlFYNE55cEZ1Sm9zTmlfR2NXUUNDNUhfWHlDdmhMSmc?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-14T13:06:37+00:00",
-     "summary": "Ukraine Needs 2.5 Times More F-16s in the Sky as Aging Jets Undergo Repairs, Zelenskyy Says&nbsp;&nbsp;UNITED24 Media",
+     "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+     "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T13:24:44+00:00",
+     "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
      "image": ""
     },
     {
@@ -180,6 +188,14 @@
      "image": ""
     },
     {
+     "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUy1TMU1RU25VcERIb044Y19mT1huWEZaTXhpTWZ6Y0p0eVkyMTVRd3JPMXBZZGRtYkRycUZHUVJMUkFaMEhRbWFFdFpfTDA2Nmg2cXJadU41RThkdTJ1YXI5OEpNN2NTYVcyUVJSbmo5TkdzM0ZnR2FIOXc4MmRVdTZmX2g2Smt2cHo5LURwYWd5dTExbkVvTVpsdy16WllodDBLVHhHVzRSeXpIeTBmLW03TWLSAboBQVVfeXFMUG1LY0F4R3oyYmFQMlVZM3AxendJQ3lxMXBRbkNGdnNWQ2UydXd3eTI0djh2STJlYWVNYUgyZFBYa01tTVJfWmozMXNVVHVMVkFoV29MMGU5TjlJbkhEb3YxX2ZfVHVaVDliTnQ4RHI3WFhIQXNSUTVaRzdhSVV4d1NVVkEzSFhuLWlUOG1wTVU0V090MElpbU9XSzYydl9aSXU0UFFkZmZYU3VBbDAtaVhRLVNTY3VKSFl3?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-11-14T12:40:52+00:00",
+     "summary": "Zelenskyy says a new European security framework floated by US could benefit Putin&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+     "image": ""
+    },
+    {
      "title": "Zelensky says the EU will finally have a seat at the table in the next Ukraine-Russia peace talks",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ibVFHX25SN21HUkNQQ0hvWXhTaElKaDhKTFJhWXRUdVRyMk8tMHV0ZDVQdmozNG9uc0xVbW5zVF9FaElMdG1jLS0wNHh1R1dsWk9QLTZaQ3ZISUJrNThtMGhnQWVEV3pXeUZBN1RmeWlVTXdZMkxoT0dNN015Zw?oc=5",
      "source": "Latin Times",
@@ -188,11 +204,11 @@
      "image": ""
     },
     {
-     "title": "Ukraine\u2019s Starshield Access Is Being Restricted Again, Zelensky Says",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckdLR2o1dDhYcVBvZTB2SmE5TnhWa2VpNE40dmlFM0dOSF9yREM4TWFhQmFPTEFyRFltZ1VLRXUtLVM1T0I5bWw3bFRoXy05S3NhSjFmdGJXdFduNXBGWl9iRldaNDh4R0RlUkIxSE5XaEVMcnpSQU5GNnNBemo4SEFEX2tlaVk?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-14T12:24:35+00:00",
-     "summary": "Ukraine\u2019s Starshield Access Is Being Restricted Again, Zelensky Says&nbsp;&nbsp;The New York Times",
+     "title": "US suggests Ukraine \u2018trade territory for NATO seat\u2019",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1A3YVNWWjRuUDFnZUxIRWdiR1dNc013bklVV2V5TlJNWEpUZkRuSFR6Nm56NmJVTXJ6cmRsSzZJY3duR1RwVVMzeVNWLUNCU1VWNlV2UUpuY3hKUHN2VG91TVY1T2xIWFVZd09tTEs4NmFxSHJaUkpob2FveGdncERrdWIwWVY3Q3l6dm9HbGludXZC?oc=5",
+     "source": "Bangkok Post",
+     "published": "2026-11-14T12:15:00+00:00",
+     "summary": "US suggests Ukraine \u2018trade territory for NATO seat\u2019&nbsp;&nbsp;Bangkok Post",
      "image": ""
     },
     {
@@ -202,29 +218,45 @@
      "published": "2026-11-14T12:14:41+00:00",
      "summary": "Trump-Xi-Putin trilateral meeting at APEC: What to expect&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Russia Ukraine War Daily Life",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDRpcE1oVUpvN0o3c2dkLVRtUnM5ZmIzR24wbWN6dmxpTFJkQWhmWkpsTUpUb1hBVkdXajZIdk01dXJKZURSX1owRFJJZ3dmRlFmTG1TUXNsTThDM1A3dUVLWE9MM01MU01QWGd0blpyU0JsbktJRWZ2WFF2SzExVllydmJtd3NLY3BYQ0N5UmU2TUVpV1RnTEpGd1FyaV9MYnhfNVpyMVZJbmVQbXppb1lONkdlaDgy?oc=5",
-     "source": "Post Register",
-     "published": "2026-11-14T12:06:20+00:00",
-     "summary": "Russia Ukraine War Daily Life&nbsp;&nbsp;Post Register",
-     "image": ""
-    },
-    {
-     "title": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
-     "url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
-     "source": "The Guardian",
-     "published": "2026-11-14T12:00:44+00:00",
-     "summary": "Experts warn of risks of platforms hosting bets tied to US public health \u2013 including vaccine mandates and drug trialsThe sign was pasted on a construction fence next to an elementa",
-     "image": "https://i.guim.co.uk/img/media/e97888976677bdf10666c58dc0c0b7f1d095e175/165_0_2324_1860/master/2324.jpg?width=140&quality=85&auto=format&fit=max&s=60af66d424bcac0a7148f01f7aec05e6"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T13:36:23.490929+00:00",
+   "fetched_at": "2026-11-14T14:06:27.259225+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Napa County nearly finished with ballot count, election officials say",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEh6X3M5VzlSc19PMHRnVEwwSnNCVW5QLVJ1a01ORG9oV1VtdkNrdFpaTmFoZnEtMU85c0ZkOVQtVFdlS3lwd2hsYTVSUW12WG9kazZCMXNyd2pQWXl3RllMWXdwWDBwcG5wRWJnajFtczJkV2p0c0otN1pwelZCUS1udVVNR21hWkUwaFBsNHU4MlY3MEtSMWFVNE5fNlg2eHkxLW1nZnQ2UWJONVZV?oc=5",
+     "source": "The Press Democrat",
+     "published": "2026-11-14T14:02:07+00:00",
+     "summary": "Napa County nearly finished with ballot count, election officials say&nbsp;&nbsp;The Press Democrat",
+     "image": ""
+    },
+    {
+     "title": "After comfortable election wins, problems still dog Deschutes County Sheriff\u2019s Office",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMTAyd3JJOE9xN0hyRTVKNnpyQnloLWx1XzdGczZ5YVRCTHJQT1FlV2hkdzBmZmY2eTlsbDFyelF1UGh2dkxCTzVHa0VmX0N1OURNLVFuSnNZS2Y3TURmM2VjWkFSQ2tpR2h5bzkyaEo5b3pwM0tab3MyQkRTOWgwM0l6Um9keUlCcUdFbk9ZSHdhV09BOGxudklDNnItcTB5dU00bXJ0Z1lGN3l0b09oa3RPS0dsLUdpUUVWdg?oc=5",
+     "source": "Bend Bulletin",
+     "published": "2026-11-14T14:00:46+00:00",
+     "summary": "After comfortable election wins, problems still dog Deschutes County Sheriff\u2019s Office&nbsp;&nbsp;Bend Bulletin",
+     "image": ""
+    },
+    {
+     "title": "Questions asked and answered as Porter County certified election results",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHZDd0J6U0lmNlM3WkV1SlpySHZvRG5MaEVqT3VpeVZnbkowM3FocWpVNXpZRm85NmRvNUJYbkRTRUlXaVBlV1VUZ1JVVV8wbjBuUjBYdjlCT0o5VVJWSWJCcER6bHhON2FOX1hjeUhWR2FIRXpXMjZDdjNJNWRsUjV4STVKUFNfTS1JYUFQVGRSMzVjQXc?oc=5",
+     "source": "Chicago Tribune",
+     "published": "2026-11-14T13:45:06+00:00",
+     "summary": "Questions asked and answered as Porter County certified election results&nbsp;&nbsp;Chicago Tribune",
+     "image": ""
+    },
+    {
+     "title": "The Post-Election Vibe Shift Is Real",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOalYtLUZKNEdIU00yUU1fZWJOSlBLRjJEbnZ2cDZpWmJSMFpycWJoMEtMRDlLQzhTUElxdjZhSlNwZ0FOZWNDLXNJb1BnMkJISmNOdXRsUkhWcFdQbl9PX0I4T19INnFVOWRyZThxcTh4Vm1LRllKamotaWJTcjRGVGN5WkRYcC13Rm9KYVhIMVFBTnZ6RGRXeUFHa19mN1hjTE5qUUZ4WUtqRGxtYmY1LWYwVnlFQVRwTkdXaFRVa1piaEpPb3c?oc=5",
+     "source": "Mother Jones",
+     "published": "2026-11-14T13:39:03+00:00",
+     "summary": "The Post-Election Vibe Shift Is Real&nbsp;&nbsp;Mother Jones",
+     "image": ""
+    },
     {
      "title": "From Polls to Certification: Safeguarding Public Trust in American Democracy",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkdQY0k1bVRvbVdubi1ka2RNVlR3VkZPR0xBWkhEUGhTc0tJejR6eVd3d3lOYUNDQS1kejZqS2pqOHlzdG1YNlVlTWNpekM3R3paU3FzOWdHNXJGS1FfVF9sZ25CZXZ5d3luRGR1XzdHSG01MTZEUWlkanhVc1ZLZ1B0dElWVnRoN2JTU2p2T2E?oc=5",
@@ -258,11 +290,19 @@
      "image": ""
     },
     {
-     "title": "Travel Insurance And European Strikes: Will Your Policy Pay Out?",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN3ZJcFhiSkJITzJhVTUxbHBTdzEzM1dBdlBsRk5Pal9YaTRObmZBWl8zdmFNdHhpbll6TGhKc0pwbUlJMFR6dWpVU2xCRkRMVEFWZjlBZy1aVUJDMHVpV2NpNjFxS19JRDBkX0xhdGlxeDhFZTFKRXVkZnBjSzk0cU9qMEVBVFVDeEtxTThyRmtnQl9FTzFUR1FHVTI0Yy1jdGdEYjZoWE03MmpsUUxxNGZlWTRqS0txQzRsckJKZw?oc=5",
-     "source": "Forbes",
+     "title": "Raymond Barranco: That\u2019s the policy",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqU3oyMjNhaDY0aWF6RlY3Qmw2TE9fU1BEak8wcU5BYk5IWE9fbGJIRElzcFVITnlfRW5kc1lScmpobk1SR0dIZ013WWp0UVUwSnpZSUg3ejdxYXFrZ1RNY0JfaG5YelZlc0ZJU0NXZ0JCMjg?oc=5",
+     "source": "Commercial Dispatch",
+     "published": "2026-11-14T12:00:13+00:00",
+     "summary": "Raymond Barranco: That\u2019s the policy&nbsp;&nbsp;Commercial Dispatch",
+     "image": ""
+    },
+    {
+     "title": "Did Democrats win, or did Donald Trump just lose?",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBITWdrcHBzREMtYURPSnRhYTZvQ2xURjJKZWh2allVSlZlWlRzc1lLM0RWLUZEeWRvNW1TNEN5V2tMamJfaTEzeEhYSkdVYnpwQnZPRldFVWxMUnNuMmlqQmFDX2IwckFP?oc=5",
+     "source": "MS NOW",
      "published": "2026-11-14T12:00:00+00:00",
-     "summary": "Travel Insurance And European Strikes: Will Your Policy Pay Out?&nbsp;&nbsp;Forbes",
+     "summary": "Did Democrats win, or did Donald Trump just lose?&nbsp;&nbsp;MS NOW",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-14T11:40:00+00:00",
      "summary": "Cinephil Boards Alexandru Solomon\u2019s Romanian Election Doc \u2018Small Expectations\u2019 \u2013 IDFA&nbsp;&nbsp;Deadline",
      "image": ""
-    },
-    {
-     "title": "Greenpeace boulders may delay building of \u00a312bn windfarms in North Sea",
-     "url": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
-     "source": "The Guardian",
-     "published": "2026-11-14T11:00:43+00:00",
-     "summary": "Activists dumped rocks off Norfolk coast on site of Burnham-backed project in protest against seabed trawlingThe giant offshore windfarms backed by Andy Burnham this week may face ",
-     "image": "https://i.guim.co.uk/img/media/5c3dbca857b8f7de780fc54ca9d2ea37e0f290bf/251_0_1937_1550/master/1937.jpg?width=140&quality=85&auto=format&fit=max&s=97e2e9aec87c9a6b8acc48da7fe08984"
-    },
-    {
-     "title": "Debora Cahn on diplomacy in an age of political upheaval",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmlFNlk4UEtUZ0ZNdVlNWWNFeFpkaXhJT3lnc09JbXBLQ3FBYTdjY2FmWndpQ0dUNVZ0aURYdGRta05kd1dmWFNwaGpxM2Z3a05Nc19BVkNPMFNDZDV1NUd5SGhMUFRFOVVlV3hJM0pGRlJyMTBMOFF3OXBhYWdQa0w2cmt5emJyN1pfZHNubGp2Y2oyYVFnTGdibmVmeXE5bHdwbkFBQmpLZ0FiMUE?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-14T11:00:00+00:00",
-     "summary": "Debora Cahn on diplomacy in an age of political upheaval&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Naval Submarine League'",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObEJiRzJMVGVnZUc4OEVmWWh2YlBldzl6NkpWaGVjWDRjeFpGZUZjbjJvbm81Q3VEdjZfbmVZN0VlZU1fa2NYUmI3YXF1QmJjZldfZmRCR1g5Y2ZBb0x1NnF4Ul8xVTB6Mm4xaTQ2eVd6RUxma0J0aFNFYWNfMVV0d0prNFRiUlY0djZUck5BRkxrNnN3d1F6X1U4V1dEUEwza0xvT3ZvNEhPck5mWDZldGp0YTBFMjc2R19JUjhHcnZHM3RHckpNa29WYnRLVFlmTWt3?oc=5",
-     "source": "U.S. Department of War (.gov)",
-     "published": "2026-11-14T10:45:59+00:00",
-     "summary": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Naval Submarine League'&nbsp;&nbsp;U.S. Department of War (.gov)",
-     "image": ""
-    },
-    {
-     "title": "A new Democratic Congress will view Trump\u2019s harsh Cuba policy skeptically \u2013 but that doesn\u2019t mean a change is coming soon",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUlJPb1RlWFpoVE9HNjdQU3VaN1hvUGoza1g0YlpzLXhNNlkwLUdPUE9DUy16Sjl3NG1zQ1dwaFhUd1ZYWGpGUU43T21SMWdUcDBSYXNZbThtSEl1d1Bvd3k4TjRpeXR1NVhBSUJzNmJKRWY5eEV6ZWdXdzJEcVJ3eDZoeTMzOXJLdHRHOEp1anlUM05Ta05EUDhFV19UWHg4d2gtYTRYa3otb1NVR2FONFlNUTBha0JxSHhYMXZyNlR3LTlIMEVaYUpmeU9GcGRFX0Q2TkhHekFjM3cyZ2JLNFpoRTJDelk?oc=5",
-     "source": "The Conversation",
-     "published": "2026-11-14T10:45:46+00:00",
-     "summary": "A new Democratic Congress will view Trump\u2019s harsh Cuba policy skeptically \u2013 but that doesn\u2019t mean a change is coming soon&nbsp;&nbsp;The Conversation",
-     "image": ""
-    },
-    {
-     "title": "Hungarian authorities uncover $20m during probe of Orb\u00e1n-era minister",
-     "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T10:42:20+00:00",
-     "summary": "Prime Minister P\u00e9ter Magyar promised a sweeping anti-corruption drive after ousting Orb\u00e1n in April.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T13:36:23.490932+00:00",
+   "fetched_at": "2026-11-14T14:06:27.259227+00:00",
    "stale": false,
    "items": [
     {
