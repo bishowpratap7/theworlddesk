@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-14T23:08:10.171747+00:00",
+ "generated_at": "2026-11-14T23:38:13.623107+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T23:08:10.171714+00:00",
+   "fetched_at": "2026-11-14T23:38:13.623074+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "How telecoms upgrade work sparked US flight chaos",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T23:11:27+00:00",
+     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+    },
     {
      "title": "Netanyahu says only a unity government can guarantee Israel\u2019s security",
      "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
@@ -108,26 +116,18 @@
      "published": "2026-11-14T20:14:27+00:00",
      "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigatingResidents were ordered to evacuate parts of an Illinois community on Fri",
      "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb"
-    },
-    {
-     "title": "India\u2019s Assam state demolishes homes of 132 Muslim families",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T20:14:10+00:00",
-     "summary": "Authorities in India\u2019s Assam have demolished the homes of 132 Muslim families.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T23:08:10.171732+00:00",
+   "fetched_at": "2026-11-14T23:38:13.623092+00:00",
    "stale": false,
    "items": [
     {
      "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 15, 2026 from Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KdkdBNzQzQXExNHFHX0RIeEt3b1FzQnRyN2lVUGhqdWdXVHM1c0hRbjZiR3hWdm9RNDVJemRIejM0TkN0RTFBcFBkY2Ftdw?oc=5",
      "source": "Kyiv Post",
-     "published": "2026-11-14T23:01:31+00:00",
+     "published": "2026-11-14T23:11:40+00:00",
      "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 15, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
      "image": ""
     },
@@ -222,9 +222,49 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T23:08:10.171735+00:00",
+   "fetched_at": "2026-11-14T23:38:13.623095+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Curing Period Ends, Election Results for Chaffee Remain Steady",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1pGMGNQQ3FVb2NnUUNWYWhmUGlzcC1nX1FJMEx3X2FIRF9WMWUtdkU5NlRXN29YdVlGUF9ESDBOMjFRd0xIQUhyN1NCd1pUOTBDLXpRc3poaEpwQmtjenBhVmpPbll4N1hmTzAweldlaTh2TVo1VjExQXdxVE4xdHpQUmZVakE?oc=5",
+     "source": "Ark Valley Voice",
+     "published": "2026-11-14T23:34:12+00:00",
+     "summary": "Curing Period Ends, Election Results for Chaffee Remain Steady&nbsp;&nbsp;Ark Valley Voice",
+     "image": ""
+    },
+    {
+     "title": "Tennessee\u2019s gerrymandered election maps hold up, but not as well as in past cycles",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEVwMjhtTFR4VXNHUkVRMEtTUlJ6WjhXZzBsa0ZiQzZsUElHODN5SHJydERUQ3JiZS02X0o4NHhBQ2c4U2hKa2U1VENDbktVdUlQQ2Iwb2J6ZDN0eHllalNTYS0wXzJILTh2d0gwQngzc1lpb1kxWWFublRILTlIUHVPN1FPbldZV3FhV3padWZRVjFZWHhpZXRCY21CSVMzZFFKOHc0LThpTG9wWlVqSThXV3BuY2dBTVp4RkhHWk45TFRCT1NNTA?oc=5",
+     "source": "Chattanooga Times Free Press",
+     "published": "2026-11-14T23:32:00+00:00",
+     "summary": "Tennessee\u2019s gerrymandered election maps hold up, but not as well as in past cycles&nbsp;&nbsp;Chattanooga Times Free Press",
+     "image": ""
+    },
+    {
+     "title": "What happens to campaign signs after Election Day? Hillsborough County gives them a second life",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQXJIQllXd0x2ZGN0OFl3WENWU0piY3YzVzBqLWs5WjZXRzFMV2I0VEJ6TzlGTkVCaVFNSngyT0htRllOaU5oZElkVk5vSWVDZGM1dmF2TW9vSFkyckZGQjk3bURwVnRjWU0xZ1lIYUs2c0Z5MDRWWGxhWW9PbXlZV1hpM00xNG1SeDUwQ3l5MTgwV3ZpOG9OeG1oSVFtNnVMWm9mYWNnSDJBRE1wYndpOTVJUXBhaDdWMkdtVF9veVVMV2VhbEV5ZzBFaVNMWHFNcEdCV3d4WVlYcUhNOUxKQVE2NTg2MDVLYWZXSnI3UzgtY1JoaUkzV2Z5V0pCZWtPZTFYbm1rcXlxOE5OYTYyUURPcERxdnZFWkFR?oc=5",
+     "source": "wtsp.com",
+     "published": "2026-11-14T23:30:00+00:00",
+     "summary": "What happens to campaign signs after Election Day? Hillsborough County gives them a second life&nbsp;&nbsp;wtsp.com",
+     "image": ""
+    },
+    {
+     "title": "New Citizen Petition Policy Offers Submission Flexibility",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xaGIwYVZ4eWxOV1VaZnYtMmwxVWI3ZU5MYnlndU1uek04ZEh2Zk05UjhLOUNoZUlwYVBTYkNtd2hNZUh4V0tBVjQ0U0RWeXFnOWpJ?oc=5",
+     "source": "The Belmont Voice",
+     "published": "2026-11-14T23:24:06+00:00",
+     "summary": "New Citizen Petition Policy Offers Submission Flexibility&nbsp;&nbsp;The Belmont Voice",
+     "image": ""
+    },
+    {
+     "title": "How election laws could change now that Democrats are in power in Pennsylvania",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcENtVXhSRU92YnY4a0pKSmlIMkN5Mlp3c2lnSmhWbWgtQ0pZY1N4bDlneDc3RTlkOWVOekhrbnJLVVRub0JrN3k3ald3amhnZEluSVVJT1VFVjg0VFlBd3pwVXJSRy1QX2pLQjBPWDR4SXI1SWlIZEo3WC1RZml6YlZyZTMxODlwSkxxZTlzVXJMX1ZCbzFKZUZlcVlUdmhvd0JGWGltcDJlX1NxSlV0LUNn?oc=5",
+     "source": "Pittsburgh Post-Gazette",
+     "published": "2026-11-14T22:51:15+00:00",
+     "summary": "How election laws could change now that Democrats are in power in Pennsylvania&nbsp;&nbsp;Pittsburgh Post-Gazette",
+     "image": ""
+    },
     {
      "title": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Naval Submarine League'",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObEJiRzJMVGVnZUc4OEVmWWh2YlBldzl6NkpWaGVjWDRjeFpGZUZjbjJvbm81Q3VEdjZfbmVZN0VlZU1fa2NYUmI3YXF1QmJjZldfZmRCR1g5Y2ZBb0x1NnF4Ul8xVTB6Mm4xaTQ2eVd6RUxma0J0aFNFYWNfMVV0d0prNFRiUlY0djZUck5BRkxrNnN3d1F6X1U4V1dEUEwza0xvT3ZvNEhPck5mWDZldGp0YTBFMjc2R19JUjhHcnZHM3RHckpNa29WYnRLVFlmTWt3?oc=5",
@@ -280,51 +320,11 @@
      "published": "2026-11-14T20:22:28+00:00",
      "summary": "After comfortable election wins, problems still dog Deschutes County Sheriff\u2019s Office&nbsp;&nbsp;Redmond Spokesman",
      "image": ""
-    },
-    {
-     "title": "Regional Development Association discusses election results at monthly meeting",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb18td0dhWDBmQmJtUkZhcm1mc09EdTBCNWUtTEFpb0Vob29vcmxyTFh2VmpwcllvQ0Nuc3Fxdi1EbUJyMEx2X1NuY2l5Y1lXTzRkLUlLWnJOazIxTWd5WDZCR0dPTUZHU3pzYzMtcVhSVlNWV0w4NkIyWkE5MFc1cm9ORjJFWkZjRzBTQkpnNFhtNlIwZ0xOUUtKdGNGb1dpWHBOakh3QjNkdHc?oc=5",
-     "source": "KVOE",
-     "published": "2026-11-14T20:07:38+00:00",
-     "summary": "Regional Development Association discusses election results at monthly meeting&nbsp;&nbsp;KVOE",
-     "image": ""
-    },
-    {
-     "title": "Can being \u2018non-Western\u2019 cost you your home in Denmark?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T19:52:49+00:00",
-     "summary": "Denmark\u2019s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
-     "image": ""
-    },
-    {
-     "title": "More than 100,000 rally across France in new Yellow Vest protests",
-     "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T19:46:24+00:00",
-     "summary": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
-     "image": ""
-    },
-    {
-     "title": "Election 2026: Size of Pat Ryan\u2019s election win surprised even some in his campaign",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmVHOVhfNkw4OHI1aWl4LVE1ZGMwUzdyOWxSUFRka2twTTB0OU9lMVkxcjR2VlpGN3lvbEowSHg3MnA5OGJmTlJpU2t2S196bzROdVhOVnNEUUJtTElnODdRWFhrZnpZQ00tbDBDMi1ZdGJob1BYcVBidDlvaXdVckxRMTQwcjl5MXRwanpNZzNMQ0lBOHdWYW9RQVFiaHBidmNtemg2V3BJVnRMY3ZGV1RwellqbnhLc2dKN2x3?oc=5",
-     "source": "Daily Freeman",
-     "published": "2026-11-14T19:37:59+00:00",
-     "summary": "Election 2026: Size of Pat Ryan\u2019s election win surprised even some in his campaign&nbsp;&nbsp;Daily Freeman",
-     "image": ""
-    },
-    {
-     "title": "Tens of thousands march in latest Portugal housing protests",
-     "url": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T19:27:55+00:00",
-     "summary": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T23:08:10.171738+00:00",
+   "fetched_at": "2026-11-14T23:38:13.623098+00:00",
    "stale": false,
    "items": [
     {
