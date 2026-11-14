@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-14T20:07:32.761229+00:00",
+ "generated_at": "2026-11-14T20:37:48.423222+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T20:07:32.761193+00:00",
+   "fetched_at": "2026-11-14T20:37:48.423181+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T20:23:06+00:00",
+     "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
+    },
+    {
+     "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
+     "url": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
+     "source": "\u00a9 Teresa Suarez, AP",
+     "published": "2026-11-14T20:15:43+00:00",
+     "summary": "French President Emmanuel Macron on Saturday warned that limiting aid to Ukraine would force Kyiv into an \"unjust peace\" and risk another war. His statement comes as the United Sta",
+     "image": "https://s.france24.com/media/display/b003a0ce-ce6b-11f1-a0f5-23d55109f116/w:1024/p:16x9/AP26295395173953-1.jpg"
+    },
+    {
+     "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+     "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+     "source": "The Guardian",
+     "published": "2026-11-14T20:14:27+00:00",
+     "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigatingResidents were ordered to evacuate parts of an Illinois community on Fri",
+     "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb"
+    },
+    {
+     "title": "India\u2019s Assam state demolishes homes of 132 Muslim families",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T20:14:10+00:00",
+     "summary": "Authorities in India\u2019s Assam have demolished the homes of 132 Muslim families.",
+     "image": ""
+    },
     {
      "title": "How telecoms upgrade work sparked US flight chaos",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
@@ -84,45 +116,21 @@
      "published": "2026-11-14T19:00:53+00:00",
      "summary": "MPs across factional lines share concerns about policy that legal expert says \u2018paints the imprisonment of children as therapeutic\u2019Get our daily political email, free app or daily n",
      "image": "https://i.guim.co.uk/img/media/0ddcc3866d426031d184b92ca5117f79edd2abd4/390_0_5750_4600/master/5750.jpg?width=140&quality=85&auto=format&fit=max&s=0c9a26d78f9de18030033c9b633d5278"
-    },
-    {
-     "title": "Art \u2018must not be sacrificed on the altar of corporate profit\u2019 Liberal senator says as AI policy debate rages",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-     "source": "The Guardian",
-     "published": "2026-11-14T19:00:52+00:00",
-     "summary": "Andrew McLachlan says he chooses \u2018real forests over virtual ones\u2019 as he urges Labor government to consider AI\u2019s impact on artists and environmentGet our daily political email, free",
-     "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=d72d9f2961e3b70e5c920ce9fd1fa088"
-    },
-    {
-     "title": "US blames outdated technology for nationwide flight disruption",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T18:32:40+00:00",
-     "summary": "US blames outdated technology for nationwide flight disruption",
-     "image": ""
-    },
-    {
-     "title": "Italy fines Meta \u20ac805m over accessing users' photos",
-     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T18:28:06+00:00",
-     "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
-    },
-    {
-     "title": "Philippines wins first Eurovision Song Contest Asia",
-     "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T18:17:58+00:00",
-     "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T20:07:32.761211+00:00",
+   "fetched_at": "2026-11-14T20:37:48.423198+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
+     "url": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
+     "source": "\u00a9 Teresa Suarez, AP",
+     "published": "2026-11-14T20:15:43+00:00",
+     "summary": "French President Emmanuel Macron on Saturday warned that limiting aid to Ukraine would force Kyiv into an \"unjust peace\" and risk another war. His statement comes as the United Sta",
+     "image": "https://s.france24.com/media/display/b003a0ce-ce6b-11f1-a0f5-23d55109f116/w:1024/p:16x9/AP26295395173953-1.jpg"
+    },
     {
      "title": "Reducing Ukraine aid sets scene for more war: Macron",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNnRGQWdqLXFETlJIcXI1bDdvSDBuajh6a3hZS1VOSlZ2b0c2UWhESDNpSS1Pd2tJVWtWWUU1RkUySTk2U1lwVFY5MWd0TW9KSVZNZHFYcUdLOHFmSEdoYlhMMW1MVG03NE9JWFZJUGl4OGtyclFaa0hhcmJ5c1RvS0dWT2F3Q1hqb0dZeTN5aTJWcE03?oc=5",
@@ -148,6 +156,14 @@
      "image": ""
     },
     {
+     "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfalhwYlVRWXJRS2M0Q1FYdEtNaDFFVG1aOFlyUG1YZmd3M0JQNkM0bUJQTlpRTXRsclVfWDJENmZwOFd1LWpWeW50X3lvNlRLa3lsZ0JuQXdQd0t2Yk5kZml4N1F3UkpDUDFZNnc4U0RZZTRrUGNlbkRmSndxQQ?oc=5",
+     "source": "CBC",
+     "published": "2026-11-14T19:06:09+00:00",
+     "summary": "European security plan floated by U.S. would benefit Putin, Zelenskyy says&nbsp;&nbsp;CBC",
+     "image": ""
+    },
+    {
      "title": "Art \u2018must not be sacrificed on the altar of corporate profit\u2019 Liberal senator says as AI policy debate rages",
      "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
      "source": "The Guardian",
@@ -161,6 +177,14 @@
      "source": "Euromaidan Press",
      "published": "2026-11-14T18:37:51+00:00",
      "summary": "Ukraine\u2019s unusual operation in Crimea: extracting witness to catch collaborator who prepared five-year-old children for war&nbsp;&nbsp;Euromaidan Press",
+     "image": ""
+    },
+    {
+     "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWlZUDZrQV9aZ2RzMS04ZERzWXlNWHp4THBtR1pyZ3NBbjZkcm1PMF9PLUhuTzJzZzRZT2Nlb1p5NVJ3Ul9EaWVVTHQtb1Ytb1loSHRvYkU2ajBBZ3hPdW1YdTY1Smd5WDRRdWNFMl85cVBVRGJBbl9fRTAtZ0lBUFctdFZXVWlYdGdPb2paa3piNzRwbHVrQ2RR?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-14T18:36:00+00:00",
+     "summary": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda&nbsp;&nbsp;The New York Times",
      "image": ""
     },
     {
@@ -194,37 +218,29 @@
      "published": "2026-11-14T17:00:49+00:00",
      "summary": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadershipNearly 10,000 more cancer patients i",
      "image": "https://i.guim.co.uk/img/media/b00e7ea04eeee225998f3f0ab4b1036edaafc939/631_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=6ba9b24abbe7d89f6558a5d65975c9cb"
-    },
-    {
-     "title": "On a burns unit, Ukrainian doctors see what Putin\u2019s drones really do",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVm5iN08tbEVOdVZTd2VYb0VYZ19saThUU1UtamphS08xeUhycWFWZy12TEplcUh1TDU3SXlkVnNTVDRzN242d201eVpTc3E0M2pob1lPZVQ0UHlIWGU2WHhxVXl1THNjaVgxWFNUOGprTkw4V2pGakxmdExBTjN5ZTRhWFNwSVBYUlVVOGIyT3o2NzhQTU95YW9IRQ?oc=5",
-     "source": "The Times",
-     "published": "2026-11-14T16:45:00+00:00",
-     "summary": "On a burns unit, Ukrainian doctors see what Putin\u2019s drones really do&nbsp;&nbsp;The Times",
-     "image": ""
-    },
-    {
-     "title": "Cold weather health alerts issued for parts of UK on Sunday night",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
-     "source": "The Guardian",
-     "published": "2026-11-14T16:42:04+00:00",
-     "summary": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until ThursdayMore cold health alerts have been issued for parts of the UK on Sunday night and ne",
-     "image": "https://i.guim.co.uk/img/media/6035732eda45a68c9aabfbeb732079748dc463bf/113_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=00e2dd606b1598ea617eb312f27034f8"
-    },
-    {
-     "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
-     "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
-     "source": "France 24",
-     "published": "2026-11-14T16:35:52+00:00",
-     "summary": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the in",
-     "image": "https://s.france24.com/media/display/24754d74-e049-11f1-92be-5f54d898a954/w:1024/p:16x9/2026-11-14T154753Z-749061195-RC2ONOA67Q43-RTRMADP-3-USA-FAA-GROUND-STOP.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T20:07:32.761216+00:00",
+   "fetched_at": "2026-11-14T20:37:48.423202+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "After comfortable election wins, problems still dog Deschutes County Sheriff\u2019s Office",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVhvaEZEWjhPT0Y2NmR0cXJxcTJKcXB5RVB6WFk5YVo5ckt4QTdDcC0yR0h3MFhrRy1zTms4NGl4U3pfdVNfQzVjZjBjTGNlM0JrbWVUSnNQQjFPQVo5aXFYUTJSaUQ3dURsSXlyMjhoZ1pPQlY4d2dyWDVSZmZKWlRtLTZVNWhiWUNMcmJBNjJQeFZuN0JsTzdWdEVSS0FESmoyN0d3SERVbWNrQ00zRWpLZG95M0dESnRsa0pqcVRBQQ?oc=5",
+     "source": "Redmond Spokesman",
+     "published": "2026-11-14T20:22:28+00:00",
+     "summary": "After comfortable election wins, problems still dog Deschutes County Sheriff\u2019s Office&nbsp;&nbsp;Redmond Spokesman",
+     "image": ""
+    },
+    {
+     "title": "Regional Development Association discusses election results at monthly meeting",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb18td0dhWDBmQmJtUkZhcm1mc09EdTBCNWUtTEFpb0Vob29vcmxyTFh2VmpwcllvQ0Nuc3Fxdi1EbUJyMEx2X1NuY2l5Y1lXTzRkLUlLWnJOazIxTWd5WDZCR0dPTUZHU3pzYzMtcVhSVlNWV0w4NkIyWkE5MFc1cm9ORjJFWkZjRzBTQkpnNFhtNlIwZ0xOUUtKdGNGb1dpWHBOakh3QjNkdHc?oc=5",
+     "source": "KVOE",
+     "published": "2026-11-14T20:07:38+00:00",
+     "summary": "Regional Development Association discusses election results at monthly meeting&nbsp;&nbsp;KVOE",
+     "image": ""
+    },
     {
      "title": "Can being \u2018non-Western\u2019 cost you your home in Denmark?",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
@@ -234,19 +250,19 @@
      "image": ""
     },
     {
+     "title": "How election laws could change now that Democrats are in power in Pennsylvania",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcENtVXhSRU92YnY4a0pKSmlIMkN5Mlp3c2lnSmhWbWgtQ0pZY1N4bDlneDc3RTlkOWVOekhrbnJLVVRub0JrN3k3ald3amhnZEluSVVJT1VFVjg0VFlBd3pwVXJSRy1QX2pLQjBPWDR4SXI1SWlIZEo3WC1RZml6YlZyZTMxODlwSkxxZTlzVXJMX1ZCbzFKZUZlcVlUdmhvd0JGWGltcDJlX1NxSlV0LUNn?oc=5",
+     "source": "Pittsburgh Post-Gazette",
+     "published": "2026-11-14T19:52:32+00:00",
+     "summary": "How election laws could change now that Democrats are in power in Pennsylvania&nbsp;&nbsp;Pittsburgh Post-Gazette",
+     "image": ""
+    },
+    {
      "title": "More than 100,000 rally across France in new Yellow Vest protests",
      "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-14T19:46:24+00:00",
      "summary": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
-     "image": ""
-    },
-    {
-     "title": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdzV4MnFablI3a0U5TmdpOHA2Y1YzcGY1UjIzdlhEcmkxdmwxbDc2aWtKV1VCNmtvREcwVUw5UVplUVNHNHpzZWliUGpmeTdlVy15TENNeGVFVlJicm85OU9FRHFiYXg4cnFFbzdPN1Nmd3hGM082cDVydml0Y2xiLUNsU1lLQXEtRk9Gem5zVnVGS05SZllwMTl3bC1WX2M4SVlNMGRRQUR1ZGZkVWc3UC1NRHZCMjVPVGJhNGc3MjgtSVB4OHozb2RnN1dWTWlCUXhQVERBY05Zdms?oc=5",
-     "source": "Los Angeles Times",
-     "published": "2026-11-14T19:32:00+00:00",
-     "summary": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system&nbsp;&nbsp;Los Angeles Times",
      "image": ""
     },
     {
@@ -298,33 +314,17 @@
      "image": ""
     },
     {
-     "title": "Letter: Good broadband policy leaves room for satellites",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnhjNFF6NERwMEJVTEp3cTE2NG5pZ3RHcmxhTnBfY1hjZGhxaXd6RHE5U2JNSU5xeGJ6QzFyeHEyOWYyNWZVNlk2Z2dtNTFZYkxmR1c3S3VDOUtpT09lYzB6TWxUOTFqdWhjQmRldVhBOUh1a2dLOE4yT0JrdjRsZzVPd1lzWlNOQlQ4cXNOeGlhWEJtNkxtTUtfS1RPNEhueG9wWC03QQ?oc=5",
-     "source": "Anchorage Daily News",
-     "published": "2026-11-14T18:35:37+00:00",
-     "summary": "Letter: Good broadband policy leaves room for satellites&nbsp;&nbsp;Anchorage Daily News",
-     "image": ""
-    },
-    {
-     "title": "Arizona judge ousters spur push for judicial election reform",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEhsSDZKTXNOMmtXZTVYQ2NfMDdBaWVhRVN5bHY4S2FZczZxaUI1ZVp0LXlzNnVGQ0JITXk5QWRKbDNJVVp0SkU1QXpfQkduSDdjTnlwTFA1N1BWdmpUazNtYmxvRWhrUjVMeVBvdm1MVllXbjJNc2xEODAzWkZGaDNmSnA5U3BidmJwQTI5TGwwdWF3cTd0Mmx0dlVPSU5iZmd4ZWlYMDFyT0NG?oc=5",
-     "source": "Arizona Daily Star",
-     "published": "2026-11-14T18:20:00+00:00",
-     "summary": "Arizona judge ousters spur push for judicial election reform&nbsp;&nbsp;Arizona Daily Star",
-     "image": ""
-    },
-    {
-     "title": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0tBZDBfQ3JlM3FTRXRGS1ViT1IxQ1hCZzRsaGwtMDJsZzVvRDJkQWJLYnY4TlB4WVFFTHg1bE4wMk9oRE5ySDRvSFJVWVlMSW5LS3BGQ25WZ1NmalF4ZmpKdGxhZGRncHBsRHlFa09uaVJSOF9sR0VQRTUwZ2tRaXNnTW5Rb0pydHdxX2xRR0NiOGpTWms4VWhiS0czS0N4RlE0ZGs1dFpyUTQ5OW11bUktSGMwX2otZWRyLVdB0gHDAUFVX3lxTE12VlpUeURMYmR1bWx3Mk5kZ3NCMWR5ck1NVFExTy10M2tUX2p0eVcybmpxcDBZdmEtVkJEdzVac0FpbF8wMmY1emZLckw2Z0t6bTNlOUgzQTZwQkg5SDVkV0xHYWxrUFNTTDRJaWEycm5TYjBMeVJzQjBtdl9QNUZmblJ4a21ydWRyejdTM2pUaGNuVkhDcVVabUNpN2FCRUszOXJHWTVCRUpVbWtRSlBOMWlieUR2ZVZybGZSdDJKU3VqVQ?oc=5",
+     "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzhXNjh2RVF3WldGNE9uTUZyNWFzeUo2aEZaRG1LcDNJX0VEbzhxa25oSmZycGZ2WUlNN2tnVEJ6eHRMSHhvb3J0MG9hZzlJQ3BCemoxSmFfVmRxbnQyYzNjWi16Uk1KZHN1ZDhDNGNEU2hJU0VDeWdzaU5CUGQxSDViM0hFWWdjWU5EXzFGWjMxMUR5R1dmRDUycVZXQkRjMGRUODR2ejZpT1BLUU5aMEZOdHRUWXpJbGVFVzdUVTAxWVI4U2k1T2dWd9IB0AFBVV95cUxOWTN6d3R3b3NBQURpSGhuSXAtN2YxS201bkpXQmZ2RkZlTUR3Q1RQb3Naa1RicVJ5ZElaU1Nxa3RNbDc1UzRKcGJPbElLczAzYl8xRHlvdmlHcXM1cjJveFZaMGZOQzh2R1lzMjNac0IteEt1TDR5bTdjLW45a3kxRnlrclZGYlNvajE0LXlpYk9Vd2lubjlLWG1RSkl2MzlMc19ZdGRWWUhYS19vS3NnMGxUT2lqZ2RKRERKd3VzVzVqcTRyMDFwV2RBaUhsVTdi?oc=5",
      "source": "PBS",
-     "published": "2026-11-14T18:19:50+00:00",
-     "summary": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope&nbsp;&nbsp;PBS",
+     "published": "2026-11-14T18:43:07+00:00",
+     "summary": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system&nbsp;&nbsp;PBS",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T20:07:32.761219+00:00",
+   "fetched_at": "2026-11-14T20:37:48.423213+00:00",
    "stale": false,
    "items": [
     {
