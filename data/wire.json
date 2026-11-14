@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-14T16:37:00.146187+00:00",
+ "generated_at": "2026-11-14T17:07:04.646931+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T16:37:00.146155+00:00",
+   "fetched_at": "2026-11-14T17:07:04.646900+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Cold weather health alerts issued for parts of UK on Sunday night",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+     "source": "The Guardian",
+     "published": "2026-11-14T16:42:04+00:00",
+     "summary": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until ThursdayMore cold health alerts have been issued for parts of the UK on Sunday night and ne",
+     "image": "https://i.guim.co.uk/img/media/6035732eda45a68c9aabfbeb732079748dc463bf/113_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=00e2dd606b1598ea617eb312f27034f8"
+    },
     {
      "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
      "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
@@ -20,6 +28,14 @@
      "published": "2026-11-14T16:32:52+00:00",
      "summary": "A failure in aging telecommunications equipment Friday forced a nationwide halt to departures from US airports. Homeland Security Secretary Markwayne Mullin says officials have fou",
      "image": "https://s.france24.com/media/display/fc695742-e040-11f1-8c71-3f371022a770/w:1024/p:16x9/EN-20261114-150457-150644-CS-01.jpg"
+    },
+    {
+     "title": "Italy fines Meta \u20ac805m over accessing users' photos",
+     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T16:29:48+00:00",
+     "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
     },
     {
      "title": "Italy fines Meta $880m over photo privacy",
@@ -100,29 +116,29 @@
      "published": "2026-11-14T15:14:54+00:00",
      "summary": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
      "image": ""
-    },
-    {
-     "title": "Canada\u2019s Stelco to recall 175 workers after government pressure",
-     "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T15:06:52+00:00",
-     "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
-     "image": ""
-    },
-    {
-     "title": "US air travel slowly recovers from nationwide flight ground stop as chaos continues",
-     "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-     "source": "The Guardian",
-     "published": "2026-11-14T15:03:00+00:00",
-     "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide groundingTravel chaos continued across the US on Saturday morning as airlines scram",
-     "image": "https://i.guim.co.uk/img/media/6934b82431c8fab49bd4a56b9baaca81b07d75ae/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b2b556b1036b2ad108c6ca8de27291e7"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T16:37:00.146171+00:00",
+   "fetched_at": "2026-11-14T17:07:04.646915+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "On a burns unit, Ukrainian doctors see what Putin\u2019s drones really do",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVm5iN08tbEVOdVZTd2VYb0VYZ19saThUU1UtamphS08xeUhycWFWZy12TEplcUh1TDU3SXlkVnNTVDRzN242d201eVpTc3E0M2pob1lPZVQ0UHlIWGU2WHhxVXl1THNjaVgxWFNUOGprTkw4V2pGakxmdExBTjN5ZTRhWFNwSVBYUlVVOGIyT3o2NzhQTU95YW9IRQ?oc=5",
+     "source": "The Times",
+     "published": "2026-11-14T16:45:00+00:00",
+     "summary": "On a burns unit, Ukrainian doctors see what Putin\u2019s drones really do&nbsp;&nbsp;The Times",
+     "image": ""
+    },
+    {
+     "title": "Cold weather health alerts issued for parts of UK on Sunday night",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+     "source": "The Guardian",
+     "published": "2026-11-14T16:42:04+00:00",
+     "summary": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until ThursdayMore cold health alerts have been issued for parts of the UK on Sunday night and ne",
+     "image": "https://i.guim.co.uk/img/media/6035732eda45a68c9aabfbeb732079748dc463bf/113_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=00e2dd606b1598ea617eb312f27034f8"
+    },
     {
      "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
      "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
@@ -202,29 +218,69 @@
      "published": "2026-11-14T15:00:00+00:00",
      "summary": "Europe may get a voice at Ukraine talks. What does it have to say?&nbsp;&nbsp;The Times",
      "image": ""
-    },
-    {
-     "title": "Ukraine Strikes Key Russian Urals Oil Export Hub and Damages Military Airfield in Lipetsk",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN09td21oQ2lTanUyNXN4Zlh0RFJ4OGw4bElIOEZVZVpEZGtmZGVKWjBDQjgxaDk1Vi1wLUIzdnQwRXRBbF9JMm1KMWVNc1FaSnVUSWxub1A2eFV4R0k4SnB5RWhsd2RrMmM1ZnR0RUxpbk1mVmdLNjhiWEpnemJ0WGh2aXhjUlM2OTJGcjBCalJ4MzQ4aDJld1RYRXNJdzloN2hfa0VfQ1VrNTlFNmN1eG04ZDlfSExSUmwzcXY3Wk9aMmkwX0hRckJzeEl1TGJfalE?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-14T14:36:18+00:00",
-     "summary": "Ukraine Strikes Key Russian Urals Oil Export Hub and Damages Military Airfield in Lipetsk&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "When tech founders leave, what happens to their companies?",
-     "url": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T14:24:36+00:00",
-     "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang&#039;s decision to step down, analysts warns.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T16:37:00.146175+00:00",
+   "fetched_at": "2026-11-14T17:07:04.646920+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "The Criminal Justice Election Results You Might Have Missed",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX0Ntb0haSDB6MExTbUlReFV5TmNrbEZnaXh0ampzMzhsSUhteHNTYTJpLXA2cFJ0by1MS20tZW50MVhmbXFXVHpkbHp4TFY4TEp2WXYzazhVdm9MVTBHTUxHaEd2MC1yMFplR3dzU3V3MkhoRVVfazg0WjZsWXkya19XU2daTThfMUpNQlpobw?oc=5",
+     "source": "The Marshall Project",
+     "published": "2026-11-14T17:00:00+00:00",
+     "summary": "The Criminal Justice Election Results You Might Have Missed&nbsp;&nbsp;The Marshall Project",
+     "image": ""
+    },
+    {
+     "title": "Midterm Election Results and Party Unity Issues",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTJIcm44cFpNc2RTSGRqV0UtcVdaaVgtTFZTYXlLRFNyeWRBTm1MUnQyTGNrMThXM0lNeFJ3ZHdOM1p6U2dRQW53OGRPUE5GSXp1Vkdsb3c3ekNVZlc5emN3ZWVVM09ZZm9ubkVCQ3hlWXFydHpKRjZyYUV4aVpVNVNPQzhvWHZLelpLWEJVUEdCenZqYU5abjhDYk1lQQ?oc=5",
+     "source": "GV Wire",
+     "published": "2026-11-14T16:52:51+00:00",
+     "summary": "Midterm Election Results and Party Unity Issues&nbsp;&nbsp;GV Wire",
+     "image": ""
+    },
+    {
+     "title": "South Sudan\u2019s National Election, Its First, Will Be Delayed",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qcW9WU2tQVG1zRzhKUTJvbFBmUXNqYUJMZFhUWmhCMG02bmt2T3psSUlEVi13WDNlYVV4SXhXZTdxQ1RHdEVPVkN6X3Nab2NHU19YbVpOd05JMUVxbWIzUllPNm9oSE1SbHZKUVF0dkwza09XMXdKVG1wdmNXQQ?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-14T16:51:55+00:00",
+     "summary": "South Sudan\u2019s National Election, Its First, Will Be Delayed&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Friday's canvass wraps up Douglas County's 2026 Election",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXVUM0ZKVXM0cThDMVJaRjlmUnNGWkxzTjZBZlZpMGNCTThreTNiYVBWb2FxOUdJdFQyTm1XdnBlWm1uV1pCQ2thTV9Zc3hfOXRPUUtHLThEaldqVW91ODZIcU5jVEhPbFBJRjc0b0hLYlBZdWxYaEU4dTdQTjFLbWdmN0tTc3VNbElXQUlVLW04VDRmMGp0eUJLQlB0QlFEU0lNNQ?oc=5",
+     "source": "The Record Courier",
+     "published": "2026-11-14T16:51:36+00:00",
+     "summary": "Friday's canvass wraps up Douglas County's 2026 Election&nbsp;&nbsp;The Record Courier",
+     "image": ""
+    },
+    {
+     "title": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Naval Submarine League'",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObEJiRzJMVGVnZUc4OEVmWWh2YlBldzl6NkpWaGVjWDRjeFpGZUZjbjJvbm81Q3VEdjZfbmVZN0VlZU1fa2NYUmI3YXF1QmJjZldfZmRCR1g5Y2ZBb0x1NnF4Ul8xVTB6Mm4xaTQ2eVd6RUxma0J0aFNFYWNfMVV0d0prNFRiUlY0djZUck5BRkxrNnN3d1F6X1U4V1dEUEwza0xvT3ZvNEhPck5mWDZldGp0YTBFMjc2R19JUjhHcnZHM3RHckpNa29WYnRLVFlmTWt3?oc=5",
+     "source": "U.S. Department of War (.gov)",
+     "published": "2026-11-14T16:45:59+00:00",
+     "summary": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Naval Submarine League'&nbsp;&nbsp;U.S. Department of War (.gov)",
+     "image": ""
+    },
+    {
+     "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSm4xRVNXOGdyam1VRERaZGp5RUFldTc1OFFodjl6M3hIcmlyejBLYzBVNHNZLXprNDJEaTlscmhSX3Y4MVAtU3JFb0hqME9PUFo4N1VvRGc3TmpFUXgyT2YtQzBMdGpuQVNlZ1FsOFBZb05OWTMtcDFRbDdDNlJNVm43Qm5OUmEwS25BZWVDQXMxR0l0ZDJuQ25JTnZWN2o1amZpa3U3NXRZTG91UHNBTmRkQWRjVmgwdXdFNnVrd9IBxAFBVV95cUxNX09UN2V6Zm5ISC1JVk9LZHpLSE16TVVNRnh5akVNbkdGb0o5ejJvTjl6OTlYQW15Z1hxS0FKWGZlcW1PbDltcFA4SUNqcDZpYThxV1BoWFJISnE3ZnJoZE0yMHJjNmY0dUNoYzh4TmpZVkNZMU1Pb0F0clJrN0FZY1R4dFd1Vmt0WVQ3T2MtbFBMNThjSnJQaENyNDBpOEx1aFd5OVlkME1xUmFHRlBNbGdmV29DbGtfSExnbzJ0NmdmQXhP?oc=5",
+     "source": "PBS",
+     "published": "2026-11-14T16:38:34+00:00",
+     "summary": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska&nbsp;&nbsp;PBS",
+     "image": ""
+    },
+    {
+     "title": "Washoe County Certifies 2026 Election Despite Splits",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lT2x5bkR3T09ueHhfNHpUalBwMlN4bTlDZGNlU3RwODJYMnBrUjA2QlZsY3p1SHRRSGs2VzU4TndWaVhrZFY4TkJNaTNyNFdiY28tbDVhZUIyS1NzTmZKOTZhbTVkSFVzVXdYaHY2OA?oc=5",
+     "source": "This Is Reno",
+     "published": "2026-11-14T16:36:28+00:00",
+     "summary": "Washoe County Certifies 2026 Election Despite Splits&nbsp;&nbsp;This Is Reno",
+     "image": ""
+    },
     {
      "title": "US Transport\u00a0Secretary\u00a0asks Congress for $30 bn to\u00a0upgrade\u00a0aviation\u00a0infrastructure",
      "url": "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
@@ -264,67 +320,11 @@
      "published": "2026-11-14T15:56:00+00:00",
      "summary": "Beshear, Barr share handshake at Kentucky basketball game after election&nbsp;&nbsp;WKYT",
      "image": ""
-    },
-    {
-     "title": "Peltola widens lead in Alaska Senate race, now rated \u2018likely Democratic\u2019",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5U0d6Ni1lb25CU1Z1c19JYmxuMUctUEZudU5BQ21fQnZQcm5TLVVtX2lXajZINE9qbEljdlRPdWJkSkx6d0FuRzdQLW9KSmFIcEoxWWNqbnZzeVhCdHRCNWtUNW9aakVfc1lhY3lfdFVyMFVkT3ZmLWs4TzA?oc=5",
-     "source": "MS NOW",
-     "published": "2026-11-14T15:30:03+00:00",
-     "summary": "Peltola widens lead in Alaska Senate race, now rated \u2018likely Democratic\u2019&nbsp;&nbsp;MS NOW",
-     "image": ""
-    },
-    {
-     "title": "Changing Political Winds in US",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TVU5xdVVBMHU1MXBiMVQxVTFBR2ZDbkRqNTdGakpxeklPNUJqam1nWS1WbUw0cXRwMnlNSzdEZC1BaXhLaFI2RVBocjllbE8zSHZyYlVIaGg5aU56V09HYndHa3lRYVVQTEYzVml5dGxOUVJUakpGbg?oc=5",
-     "source": "Modern Diplomacy",
-     "published": "2026-11-14T15:19:13+00:00",
-     "summary": "Changing Political Winds in US&nbsp;&nbsp;Modern Diplomacy",
-     "image": ""
-    },
-    {
-     "title": "Canada\u2019s Stelco to recall 175 workers after government pressure",
-     "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T15:06:52+00:00",
-     "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
-     "image": ""
-    },
-    {
-     "title": "'Poisoned chalice': French presidential hopeful Riner rebuffs Macron's backing",
-     "url": "https://www.france24.com/en/france/20261114-judo-star-and-presidential-hopeful-riner-calls-macron",
-     "source": "\u00a9 Sarah Meyssonnier, AFP",
-     "published": "2026-11-14T14:57:22+00:00",
-     "summary": "French judo champion Teddy Riner on Saturday publicly distanced himself from President Emmanuel Macron, calling his endorsement a \"poisoned chalice\". The presidential hopeful seeks",
-     "image": "https://s.france24.com/media/display/b1f14a76-e03b-11f1-b5fb-5f54d898a954/w:1024/p:16x9/f5ae5d1a011da330950d95ba29881fd4f63077cb.jpg"
-    },
-    {
-     "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
-     "url": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T14:57:04+00:00",
-     "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
-     "image": ""
-    },
-    {
-     "title": "Minnesota Republican who lost re-election thinks Americans should have to pass a test to vote",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzhXNmFQdk1NQUd0amw1MUpNNUlBV1o2U0R1azV2cVNGeEN4VkNaa1dKSjJGOFQ2cWh6NXJvd2VxaFZrS0lodGhRMWVjUWk0NGtjWmE4eXVmS0xQT3VjRXVwcUU3MUZORFllQmM1dHl4bk8yUzZHNHNydnBQazBjXzZheGZGcHNhR00yNU1KeGFuRkRMN2h0b08yRDV3bHdzNEQzQ1ZhcGd6QTcyZHhJSnYxQU5pMmpFZkJtRVZCYnRoOEF4N1dId0JtZjR0SlFo?oc=5",
-     "source": "Bring Me The News",
-     "published": "2026-11-14T14:36:46+00:00",
-     "summary": "Minnesota Republican who lost re-election thinks Americans should have to pass a test to vote&nbsp;&nbsp;Bring Me The News",
-     "image": ""
-    },
-    {
-     "title": "Post-Election Audit Selection of Idaho Counties, Precincts",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSTkyNGFTWjZPLW1YR2Zmb1lfR1FHUlBfcVVPZXVBWjZlV3hCY3pvYi1lTDVQOFJYT29keU9QMEljTm5RNDdYSTRlcmpuMW1uMFhpZlR4VVM0dk5URmx3NEI4RzlUNzBYeU42OTNPLWdtYldEbmM3WFFfMWg1QU9VOGQ4Tk10UGplQ09uWEZLUngyNVNNRnJnU3dnd190bVVy?oc=5",
-     "source": "Big Country News |",
-     "published": "2026-11-14T14:33:37+00:00",
-     "summary": "Post-Election Audit Selection of Idaho Counties, Precincts&nbsp;&nbsp;Big Country News |",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T16:37:00.146177+00:00",
+   "fetched_at": "2026-11-14T17:07:04.646922+00:00",
    "stale": false,
    "items": [
     {
