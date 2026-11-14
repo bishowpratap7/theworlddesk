@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-14T08:35:31.566179+00:00",
+ "generated_at": "2026-11-14T09:05:35.890658+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T08:35:31.566150+00:00",
+   "fetched_at": "2026-11-14T09:05:35.890629+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T08:39:07+00:00",
+     "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
+     "image": ""
+    },
+    {
+     "title": "Warner accuses Cricket Australia of \u2018cover-up\u2019 in ball-tampering scandal",
+     "url": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T08:10:14+00:00",
+     "summary": "Former opener Warner was banned for a year for his involvement in the 2018 &#039;Sandpapergate&#039; incident in South Africa.",
+     "image": ""
+    },
     {
      "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
      "url": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
@@ -38,7 +54,7 @@
      "image": ""
     },
     {
-     "title": "What we know about the longest ground stop since 9/11",
+     "title": "What we know about the ground stop and what to do if you're affected",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-14T07:42:11+00:00",
@@ -100,29 +116,29 @@
      "published": "2026-11-14T06:48:14+00:00",
      "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China&#039;s Xi.",
      "image": ""
-    },
-    {
-     "title": "Microsoft says services fully restored after day-long global outage",
-     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T06:42:27+00:00",
-     "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
-    },
-    {
-     "title": "Ukraine is running out of options, and Russia knows it",
-     "url": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T06:39:09+00:00",
-     "summary": "The Abu Dhabi talks reveal Moscow\u2019s growing leverage over Ukraine and a shifting Western approach to peace.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T08:35:31.566164+00:00",
+   "fetched_at": "2026-11-14T09:05:35.890643+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUwtNDZmd2xnRmh5QU5UQWs1UWhXZXZsT3Vab2dPU3E4S295N0ZtWW1mQWN3NkdSNkJDeHdPV3FmUDRVVXVGWjlxS1B5dU50a2xMSGF4dEpjajltZEtrVmxWd1Y0Nlo2bGJBN0pWNUVBQlRvRlItSFJRcDROaGhXWk1yeDJDTzFGZm00WDBVSWpNRkx5VTgzcUFYY2xZVFlEa0tZ?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-14T09:01:37+00:00",
+     "summary": "Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
+     "title": "Warner accuses Cricket Australia of \u2018cover-up\u2019 in ball-tampering scandal",
+     "url": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T08:10:14+00:00",
+     "summary": "Former opener Warner was banned for a year for his involvement in the 2018 &#039;Sandpapergate&#039; incident in South Africa.",
+     "image": ""
+    },
     {
      "title": "From Ukraine to Gaza, this is why we need to tell better stories about war",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHY5aUtVWHgyVF93YWRjNUk3M0psYXZQN1RjYTRpVUFaTWpxVEstb1J0OUlCVm0wVzdpR05oNXRkNjM3aVF1dGRZWlZMOWtUcFpBczJRRHpyelZmWXRrQlR2a0ZEY1JCc1FnVGllMWZ3alFVb1FBZjRmVjEyTzRTOXhHNWpZVkV3eHFWTk9XY2poWGJOanJ3OFFtaXdnWUU2ZWxNUmVLWnY?oc=5",
@@ -202,29 +218,37 @@
      "published": "2026-11-14T06:17:27+00:00",
      "summary": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
      "image": ""
-    },
-    {
-     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T05:52:31+00:00",
-     "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
-    },
-    {
-     "title": "US air travel thrown into chaos after nationwide ground stop halts flights",
-     "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T05:42:41+00:00",
-     "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T08:35:31.566167+00:00",
+   "fetched_at": "2026-11-14T09:05:35.890647+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T08:39:07+00:00",
+     "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
+     "image": ""
+    },
+    {
+     "title": "Essay: I can\u2019t vote yet, but I just helped run the Colorado elections",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWkVSdmFBRWpIUXpCbHloR1ctVlN6SmFGYktnVXVXRlgwSEEwaXBNRGVLZTd1YmF2dmh2UnpzT1k0NVhvTEFJRDBFbFgtMHdnX3llamdDeGtsTFg4SXFNRXY0QmNxUGE1TUN3VUh1aVp0dkhKWFhXa1F2akxwMm41bDdPcw?oc=5",
+     "source": "The Colorado Sun",
+     "published": "2026-11-14T08:30:00+00:00",
+     "summary": "Essay: I can\u2019t vote yet, but I just helped run the Colorado elections&nbsp;&nbsp;The Colorado Sun",
+     "image": ""
+    },
+    {
+     "title": "\u2018We didn\u2019t see any change\u2019: Melaka votes as Anwar\u2019s PH faces Umno tide",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjhfaWdRaW9uZ2RmZGYwNTB0TjJkYUR3dFUwWVlfakE5N1ZYdlJDaWloT01nT0ZOWVVqVURFT1VxMUhuZkMzMXlmZ0c4WTdBVDNpc1VKOWZValVRd3NIVXFYdWE1TlRhWUNRR2NUSEx2UTF3cnhlakZoZWU2ME5rcU1tYVRxcm5EdjFmckVOVVBHUFFXZGRFRFVZYnFPR3BOYzVlUGJGOWNBSjd4NzFVdktBNDY2MHZiRTIxa3hQaTNJQXdDSFHSAcYBQVVfeXFMT1VPekFvQzZ1bWprVG9DTE9xLXRUUDVpRjVJZjk4NGljYlpzTmExejNnSnhzNE95WC1ESTBaenpNOGIyOThvYzdFallnOHNlcXVRUmgtM1Uzb3JxWnBtRllfU0htQ0pvZTlKclZRZmJ3X09Hd3FaM3Zndk0tcFR5V2lPdHRrM0ZnOXBuNWxpck43LVRqbTFxek84Z1RGSk80Z29feFVLZkQ1X2g0cUFVZWl0VVNQMzU2RlRnYUJjcXpjQnc1bFdn?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-14T08:21:41+00:00",
+     "summary": "\u2018We didn\u2019t see any change\u2019: Melaka votes as Anwar\u2019s PH faces Umno tide&nbsp;&nbsp;South China Morning Post",
+     "image": ""
+    },
     {
      "title": "Hawaii Workers Center cheers changes from election in annual \u2018Victory Celebration\u2019",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3R3dVBqRmswY0NhbnpMVUtqN09WWlBTQV9HNzhoRlZBbGpHZVJMN1BCamNXUi0ybVVQeElicUtsRFpfOXJFVW95aGJZOVlqdjVMVS1fbWRXR1RCdGVXOEtCOGxaSl9fMjJRTVVpc1JobFhjdVhOS0xHcDV2eEdfNi1pb2lLdnEwNXFoeDBfZHk4R2pMVDdqYzU5aDdGVUc0VDFkY3I2ZnVFRzZjQXYyOXU2TXTSAcgBQVVfeXFMUEs5eWktYUc5Y0ZaN1QxZTBiWWVmMTdyY3hYRkFya3BxM3lSY0RWUEhlUUdTVGZrUHlzdUtNdk5fb0hhYlhtZlQzNXg3bjJaSWVKVFZlSDZXNnh1UTdqbkpfNEhmWEFlNTFzMXpsczBwOFE2WjZkOFdIOUI0T2xjZVpFVkVoREJVbFR2SFdfNzJOYkJMaV9uTnpNZ3ZkQk9mWDFCVUFlS2tsRW55QzhjZUhGV2NfX1g3ZG1TSGZkRFdOWWVCMG95Nlk?oc=5",
@@ -296,35 +320,11 @@
      "published": "2026-11-14T05:08:00+00:00",
      "summary": "Alaskans opt to stick with ranked choice voting&nbsp;&nbsp;NBC News",
      "image": ""
-    },
-    {
-     "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor\u2019s race",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnkyYjBoWS1aV2dpOEZsWm1Rak9SZkVUaEllQVMwai02UlpnYWZ4bzlfckdiaXFEYVhXUEEtSkNVdVhJaFU1T0dIWGhiSk5Kb2ViV2laSC1PbUdrazBiWW5tWmdUajJsSVM3a3FNb1FZa3h1LTdZankxRVpJZkh5eFVMYkpwNUZnZTBQQWZfMWpoclhBSGZScFF1THZRS0hPbVc3X0k2Zmh0dHU3UFR4Q0VaLUFiaW8?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-14T05:05:00+00:00",
-     "summary": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor\u2019s race&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "University hounded out of Hungary by Orb\u00e1n reaches out to new government",
-     "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
-     "source": "The Guardian",
-     "published": "2026-11-14T05:00:35+00:00",
-     "summary": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary\u2019s futureA university that Viktor Orb\u00e1n tried to chase out of Hungary is open to",
-     "image": "https://i.guim.co.uk/img/media/8ca795707b5c5b5c8936bdd665604906c2712ffe/405_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=860402a67258d4737d3e72f279394bd5"
-    },
-    {
-     "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRGMVNoOVFrYk5JdjNKX0V1OHcteEhBdjQ3WVl3OXBRdDlhd3pWVDVObnpUNlF2M04xMnd0WHZvQnZGLTJJSm5EbEZwZEdCRzVLbGlJQkVrV2JYT1NQS3ViT0x4UW9HNFdJUUk0N0pDX1FmTjBEM25Bc0N6YnRPM19OSlVKOTZacFM0VWZwVkUyOXRaVnhNWVNoYTFtMGMzNmlaOGMtWTZ4bGJGU0ZwRnpzWnNMS3c?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-14T05:00:23+00:00",
-     "summary": "Supreme Court to review Trump policy blocking asylum seekers at border&nbsp;&nbsp;The Washington Post",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T08:35:31.566170+00:00",
+   "fetched_at": "2026-11-14T09:05:35.890649+00:00",
    "stale": false,
    "items": [
     {
