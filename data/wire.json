@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-14T23:38:13.623107+00:00",
+ "generated_at": "2026-11-15T00:08:17.620709+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-14T23:38:13.623074+00:00",
+   "fetched_at": "2026-11-15T00:08:17.620678+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T23:34:37+00:00",
+     "summary": "Iraq\u2019s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
+     "image": ""
+    },
     {
      "title": "How telecoms upgrade work sparked US flight chaos",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
@@ -86,7 +94,7 @@
      "image": "https://s.france24.com/media/display/db6b6746-e073-11f1-8695-695cb59fade5/w:1024/p:16x9/000-D7H72W2.jpg"
     },
     {
-     "title": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
+     "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
      "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
      "source": "\u00a9 Ilia Yefimovich, AFP",
      "published": "2026-11-14T20:35:22+00:00",
@@ -108,21 +116,21 @@
      "published": "2026-11-14T20:15:43+00:00",
      "summary": "French President Emmanuel Macron on Saturday warned that limiting aid to Ukraine would force Kyiv into an \"unjust peace\" and risk another war. His statement comes as the United Sta",
      "image": "https://s.france24.com/media/display/b003a0ce-ce6b-11f1-a0f5-23d55109f116/w:1024/p:16x9/AP26295395173953-1.jpg"
-    },
-    {
-     "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
-     "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-     "source": "The Guardian",
-     "published": "2026-11-14T20:14:27+00:00",
-     "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigatingResidents were ordered to evacuate parts of an Illinois community on Fri",
-     "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-14T23:38:13.623092+00:00",
+   "fetched_at": "2026-11-15T00:08:17.620694+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWG80VUtNR01nX3UxTU9hbXE5eXhqNkpUN3R6emRaeWNVSDN4enREOW1rQ0xNREFPQ3hNVXBaS3k0S1VzMGZ2bkFlTThfU0cyWmJ0dkU1VjlDQ1JGTHpELVpGTnVpeHh4aGFSMVFRYXBEVjVDM3BMRzdLYmJRNGdmanNJMFdoUWZXTlVkeUcwUWIyb0FfUmo4NUE0SFF3SlNWam5aQUZocGZiSWpoeDhPdERRQlA?oc=5",
+     "source": "POLITICO.eu",
+     "published": "2026-11-14T23:50:00+00:00",
+     "summary": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance&nbsp;&nbsp;POLITICO.eu",
+     "image": ""
+    },
     {
      "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 15, 2026 from Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KdkdBNzQzQXExNHFHX0RIeEt3b1FzQnRyN2lVUGhqdWdXVHM1c0hRbjZiR3hWdm9RNDVJemRIejM0TkN0RTFBcFBkY2Ftdw?oc=5",
@@ -180,7 +188,7 @@
      "image": ""
     },
     {
-     "title": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
+     "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
      "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
      "source": "\u00a9 Ilia Yefimovich, AFP",
      "published": "2026-11-14T20:35:22+00:00",
@@ -210,21 +218,29 @@
      "published": "2026-11-14T20:15:43+00:00",
      "summary": "French President Emmanuel Macron on Saturday warned that limiting aid to Ukraine would force Kyiv into an \"unjust peace\" and risk another war. His statement comes as the United Sta",
      "image": "https://s.france24.com/media/display/b003a0ce-ce6b-11f1-a0f5-23d55109f116/w:1024/p:16x9/AP26295395173953-1.jpg"
-    },
-    {
-     "title": "Deadly car bomb blast kills two near Syria\u2019s capital",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T19:46:36+00:00",
-     "summary": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria&#039;s capital Damascus.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-14T23:38:13.623095+00:00",
+   "fetched_at": "2026-11-15T00:08:17.620697+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "USMEF Conference Concludes with Election of New Officers & Deep Dive into Export Market Development",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0lzcDZMd0hNMGxHeVBUU2FXTFFyV3Q4bWdIVlpwMEQ2S2hDUWJsME9mMXB0eDdSQ1hVdjlyV0poalBoaWxUU2J5blFYWFBjWjYtX2NXMENrLVloYURBTE56VnA3VUwycHZ1TGF6T1FvQkVmaEF0ZmZ5VUdOMDNjS1g3b01DOHR0U2JuUk5xd2hHQU5WbHluRnJxTWtwdi1tY214UVJ3SnpWbkhXNFh5ejMyUlpyZFJJbENPZHIzMTZMTjdRUlE2YXdSSXZmWWdSVGo4Q2FtZ2FFd01o?oc=5",
+     "source": "Oklahoma Farm Report",
+     "published": "2026-11-14T23:58:57+00:00",
+     "summary": "USMEF Conference Concludes with Election of New Officers & Deep Dive into Export Market Development&nbsp;&nbsp;Oklahoma Farm Report",
+     "image": ""
+    },
+    {
+     "title": "Lessons to Be Learned from the Midterm Election",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFM5YUxUUWV0cjcwaTI1cW5GNUc1aG4zQ0dUTUVNZHF4TXEzUWdfLTRjeFNzVHBqUEhzQkc1aUlXa1R6VTYxTTJWWHJtWWJWdEh5TEZxQzhoMVBvQ0w3V1NvYWU3UnhUX2ROMGZpanhrYjF4WXFCTlNLZzV0VDhjMEc3ZnY4ZUhM?oc=5",
+     "source": "InDepthNH.org",
+     "published": "2026-11-14T23:40:15+00:00",
+     "summary": "Lessons to Be Learned from the Midterm Election&nbsp;&nbsp;InDepthNH.org",
+     "image": ""
+    },
     {
      "title": "Curing Period Ends, Election Results for Chaffee Remain Steady",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1pGMGNQQ3FVb2NnUUNWYWhmUGlzcC1nX1FJMEx3X2FIRF9WMWUtdkU5NlRXN29YdVlGUF9ESDBOMjFRd0xIQUhyN1NCd1pUOTBDLXpRc3poaEpwQmtjenBhVmpPbll4N1hmTzAweldlaTh2TVo1VjExQXdxVE4xdHpQUmZVakE?oc=5",
@@ -250,11 +266,27 @@
      "image": ""
     },
     {
+     "title": "Federalist Society\u2019s celebrations mix with shock over Democratic sweep",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1pPSHByRWcxcUNmblVqQy1BTFlFZWNDTG5jSnJ5VV9NMi05MUR1YWpJaDR1UTNXTi1YRmZyYm9iV2Q4RlBTZktYUThVYzdHZDV3cG5uVEtKRVVURDlMdTc1Qy01ZHJOdHVwdm4taUR6dXBmVm1HYWtxNi10TlFVeFNOSF9PZ9IBiwFBVV95cUxOSjNadE56V08zSDZwRWNHTHJuTEROTmFVQTdJcGs0TGdkM0lmS1hlT1VXeGxZTHFDODhMejZwT0hQaTdVLWk0SjN3cmdsaGZ0SUJsSjRYTlV1bU5qUXZKcVRwYnhsd1N2WnpMRDlEZmwxS3hndFdIdDdzdUdkY3ZKbmRBMFBaMnNRVTg4?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-14T23:25:00+00:00",
+     "summary": "Federalist Society\u2019s celebrations mix with shock over Democratic sweep&nbsp;&nbsp;The Hill",
+     "image": ""
+    },
+    {
      "title": "New Citizen Petition Policy Offers Submission Flexibility",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xaGIwYVZ4eWxOV1VaZnYtMmwxVWI3ZU5MYnlndU1uek04ZEh2Zk05UjhLOUNoZUlwYVBTYkNtd2hNZUh4V0tBVjQ0U0RWeXFnOWpJ?oc=5",
      "source": "The Belmont Voice",
      "published": "2026-11-14T23:24:06+00:00",
      "summary": "New Citizen Petition Policy Offers Submission Flexibility&nbsp;&nbsp;The Belmont Voice",
+     "image": ""
+    },
+    {
+     "title": "Beshear, Barr share handshake at Kentucky basketball game after election",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnNuNmJBVU9neDlnM21UeEZKMjg5czJuUGhwRTctZjBmY0JVZ2ZOb19ndFZ6NW5kLXhBX2tKT0poM08tTEdFR1kzeURDa2xhRFltT3ZlZ1p4c2xYbWN4U1BTUlJkQlY4U29Ub2p6ZHE1MjFJbE51Z3o2OWZCR1VlZTVmQXNDV09ITVJqTXVzOXFwakdsLXhoeTA2Z25TQzktQ0dFajJQSEFZTU0?oc=5",
+     "source": "WCAX",
+     "published": "2026-11-14T23:11:19+00:00",
+     "summary": "Beshear, Barr share handshake at Kentucky basketball game after election&nbsp;&nbsp;WCAX",
      "image": ""
     },
     {
@@ -274,57 +306,25 @@
      "image": ""
     },
     {
+     "title": "Democrats\u2019 election rout is poised to dramatically reorder federal health policy",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX1UtWnFDQ0JUU2ZIaXpvdC1TcktzLXFFaDF2ZEFWX2pHUXFnazJxOHJOMXlKaGphbTFfbXdaNHpGODBVdWpiam5ocWFnelJvZ1A4Nk5vZHZkcGM4eFJOdkNjY09VOURHLXlRR3cxRUNzSWxkQ3lucDNILWxaYkZaN0xIYzdqcjZIeVljU3c5U1VwdEh6R2RrQ1JqcW1LbXkwMEsyeDJCMTJmNjVDekdoS3dMSGhXTDdhalBJNzdNUnBCNERLVmtJRk5qMHdWZi1DOFZIOTNaNV81cFVOM2k1RDVzSEFCcDJlV1pNOVFtdnF1c0llY0ZNdVd3?oc=5",
+     "source": "Arizona Daily Sun",
+     "published": "2026-11-14T22:15:00+00:00",
+     "summary": "Democrats\u2019 election rout is poised to dramatically reorder federal health policy&nbsp;&nbsp;Arizona Daily Sun",
+     "image": ""
+    },
+    {
      "title": "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0tWRjdXLWNKYmp0NERhQ053eDlqTG9MenJsc0VMUFQ4YlE0eW1KVjhJcUNvcjVlcGJVbXJlRERTejBoNG5JQ0hIQVlZZEphR3doVndCb2I5N19ILU40Z21FZTJKYk8waGR6NzU3V08xYVFLX21mcEMxZnpFejNENzl2U3FZWUFYUmRRMm5tX0JCZ3lKODR5MjZUcnZlbmQ2N2R5bWNvMXlGZ3QyOEJjMlRYcDgxLW02Wjk2TUU5Mm5PQQ?oc=5",
      "source": "NBC News",
      "published": "2026-11-14T21:22:15+00:00",
      "summary": "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play&nbsp;&nbsp;NBC News",
      "image": ""
-    },
-    {
-     "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-14T21:18:00+00:00",
-     "summary": "After midterm sweep, Democrats split over Trump, cost-cutting agenda&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Democrat Mary Peltola is likely to win Alaska\u2019s Senate race, as vote counting continues",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkxEOFFMTXBJUF9IamZfemJ4N3JEaXdvYTZvQWJybU5vZVRZZmRDRXhxN3dHOWpsS2R2WWZCcG9qVDNIZVhzWGI0cm9HYzZjVVBYZG90SlZkSF80Z2lBSUZYTjVoanZXSWVpRmRYRXY4OXdQYm4yTUNzVF9tWGhkS0lad29jUnVxMDhKVm01V0tIUERVaVFpQ2ZEbUxfRXZLalpJNmVlMnRjWWQzTmc?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-14T20:52:00+00:00",
-     "summary": "Democrat Mary Peltola is likely to win Alaska\u2019s Senate race, as vote counting continues&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Election offered a needed message for state\u2019s Democrats",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWJFVE5CbzdPTEtOdW83TjJOMkFXbmlNQmxtZWJ5YlNYTXFJakhaVjZtSjBGd0ZlYzlxa1d4YkJCWjdudkRNVlc2TXEzc3hoMFVseGVhNmw4RWxoamZSblYwMnJUaUQyeTF3bEZlclJzOUExSnJUQUw5Y1V3bE5jeVVmUzBOV1pScGxleElKeGI2V0I5bGc?oc=5",
-     "source": "The Farmville Herald",
-     "published": "2026-11-14T20:50:45+00:00",
-     "summary": "Election offered a needed message for state\u2019s Democrats&nbsp;&nbsp;The Farmville Herald",
-     "image": ""
-    },
-    {
-     "title": "'Bring your own chair': Three Black women candidates make Sonoma County history, joining national election wave",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUUyeEsxOGt0TXNIbmdmbnR3TmNrTEVDdmVlcHRkMkU4TXo2MG5sN2NBMEVRbEFXRWJKRFBFVGtBZkdVdXo2Z2JyTHdJTDhUQ1Y0OTF0NVRHUkVXN2lOY01wMWRubWlVRkg1N2YybnE3RlFPY091Yjdxb1FGMWNzMUxxcTJEMzZPNXhEQzd3?oc=5",
-     "source": "The Press Democrat",
-     "published": "2026-11-14T20:45:58+00:00",
-     "summary": "'Bring your own chair': Three Black women candidates make Sonoma County history, joining national election wave&nbsp;&nbsp;The Press Democrat",
-     "image": ""
-    },
-    {
-     "title": "After comfortable election wins, problems still dog Deschutes County Sheriff\u2019s Office",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVhvaEZEWjhPT0Y2NmR0cXJxcTJKcXB5RVB6WFk5YVo5ckt4QTdDcC0yR0h3MFhrRy1zTms4NGl4U3pfdVNfQzVjZjBjTGNlM0JrbWVUSnNQQjFPQVo5aXFYUTJSaUQ3dURsSXlyMjhoZ1pPQlY4d2dyWDVSZmZKWlRtLTZVNWhiWUNMcmJBNjJQeFZuN0JsTzdWdEVSS0FESmoyN0d3SERVbWNrQ00zRWpLZG95M0dESnRsa0pqcVRBQQ?oc=5",
-     "source": "Redmond Spokesman",
-     "published": "2026-11-14T20:22:28+00:00",
-     "summary": "After comfortable election wins, problems still dog Deschutes County Sheriff\u2019s Office&nbsp;&nbsp;Redmond Spokesman",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-14T23:38:13.623098+00:00",
+   "fetched_at": "2026-11-15T00:08:17.620700+00:00",
    "stale": false,
    "items": [
     {
