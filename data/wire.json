@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-15T11:10:07.143038+00:00",
+ "generated_at": "2026-11-15T11:10:19.428433+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-15T11:10:07.143021+00:00",
+   "fetched_at": "2026-11-15T11:10:19.428392+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Police confront protesters in clashes across France and Germany",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T11:04:10+00:00",
+     "summary": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
+     "image": ""
+    },
     {
      "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
@@ -20,6 +28,14 @@
      "published": "2026-11-15T10:55:11+00:00",
      "summary": "Pope Leo XIV on Sunday will traverse the length of Peru in what marks the penultimate day of his Latin American tour. The leader of the Catholic church \u2013 who underwent cancer surge",
      "image": "https://s.france24.com/media/display/1e4a9246-e0e0-11f1-a218-29048b396e03/w:1024/p:16x9/000-D7HD3NR.jpg"
+    },
+    {
+     "title": "India\u2019s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
+     "url": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T10:52:36+00:00",
+     "summary": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
+     "image": ""
     },
     {
      "title": "Global diesel prices ease as winter approaches",
@@ -100,27 +116,11 @@
      "published": "2026-11-15T09:57:25+00:00",
      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
-    },
-    {
-     "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T09:49:43+00:00",
-     "summary": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
-     "image": ""
-    },
-    {
-     "title": "SpaceX makes rocketry history by recapturing massive reusable rocketship",
-     "url": "https://www.france24.com/en/spacex-makes-rocketry-history-by-recapturing-massive-reusable-rocketship",
-     "source": "France 24",
-     "published": "2026-11-15T09:42:55+00:00",
-     "summary": "After failing to catch a booster yesterday, SpaceX managed to recapture its massive reusable rocketship, \"Starship\" for the first time. Smaller previous models have successfully re",
-     "image": "https://s.france24.com/media/display/8c43ae00-e080-11f1-8286-f71d22e7fea9/w:1024/p:16x9/2026-11-14T213803Z-704233441-RC2XNOAR9QE8-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-15T11:10:07.143029+00:00",
+   "fetched_at": "2026-11-15T11:10:19.428415+00:00",
    "stale": false,
    "items": [
     {
@@ -222,9 +222,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T11:10:07.143032+00:00",
+   "fetched_at": "2026-11-15T11:10:19.428420+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Police confront protesters in clashes across France and Germany",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T11:04:10+00:00",
+     "summary": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
+     "image": ""
+    },
     {
      "title": "After bruising campaign, Minnesota\u2019s Somali neighborhoods shift toward Democrats",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaWDNQbmE4QXpBREl2NmVZUWg2QlZtSTg2R3NSQWNHSEd2ZG9WU0JIRVloT3J1cHRhY3dybnBYanl6SjhRZVRIM1dXNU9MQTJoUDFUc254cVpQamJUbVRnbmtuTTM2NDlaeUg4TlFQUFQxdVhLZmpaWl9acw?oc=5",
@@ -312,19 +320,11 @@
      "published": "2026-11-15T10:03:02+00:00",
      "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
      "image": ""
-    },
-    {
-     "title": "Fitzwater announces 2027 re-election bid",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNUhkRWxabkh4XzZGMGFMaFAzUV8zdDRDZkplWWtWczA5cEIycG5hYUpfRzJFdE1hMS1HV2locXFFZVlFRGlMMnpXbktVZW4xNzRsbkxHTlpHOWlWeFBacFdhVm9zZ2IwTUVpeGdvSUtIOG1uRE9BWXlldHBKZHJ2RGgycE8tdnlIM1hueUpXdw?oc=5",
-     "source": "Jefferson City News Tribune",
-     "published": "2026-11-15T10:00:40+00:00",
-     "summary": "Fitzwater announces 2027 re-election bid&nbsp;&nbsp;Jefferson City News Tribune",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-15T11:10:07.143033+00:00",
+   "fetched_at": "2026-11-15T11:10:19.428423+00:00",
    "stale": false,
    "items": [
     {
