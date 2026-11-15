@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-15T06:39:33.146926+00:00",
+ "generated_at": "2026-11-15T07:09:37.739526+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-15T06:39:33.146909+00:00",
+   "fetched_at": "2026-11-15T07:09:37.739506+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
+     "url": "https://www.france24.com/en/technology/20261115-is-this-a-cyberattack-grounded-flights-a-microsoft-outage-and-ai-chaos-fuel-cybersecurity-fears",
+     "source": "\u00a9 Idrees Mohammed, AFP",
+     "published": "2026-11-15T07:04:31+00:00",
+     "summary": "A series of unsettling disruptions, from tech stock turbulence and Microsoft outages to a nationwide grounding of flights, has left millions wondering whether the world\u2019s increasin",
+     "image": "https://s.france24.com/media/display/19ce78fa-e0c1-11f1-9d67-f71d22e7fea9/w:1024/p:16x9/000-D76L3L9.jpg"
+    },
+    {
+     "title": "Israel: Making the Holy Land burn",
+     "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T06:49:14+00:00",
+     "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+     "image": ""
+    },
+    {
+     "title": "The French Republic\u2019s forgotten promise of equality",
+     "url": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T06:44:27+00:00",
+     "summary": "French youth learn in school about the Revolution\u2019s values but they do not see them reflected in their own reality.",
+     "image": ""
+    },
     {
      "title": "Anthony Albanese welcomes Trump-Xi-Putin summit \u2013 even as European leaders express reservations",
      "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
@@ -92,37 +116,21 @@
      "published": "2026-11-15T03:39:39+00:00",
      "summary": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India\u2019s Gujarat state.",
      "image": ""
-    },
-    {
-     "title": "Italian artist reimagines Madonna paintings to expose Gaza\u2019s pain",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T03:30:29+00:00",
-     "summary": "Italian artist Eduardo Castaldo has unveiled an artwork titled \u2018Holy Mothers of Gaza\u2019 inside Naples\u2019 Pappacoda Chapel.",
-     "image": ""
-    },
-    {
-     "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-15T03:21:04+00:00",
-     "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-     "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T02:59:06+00:00",
-     "summary": "Fighting escalates in Yemen&#039;s Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-15T06:39:33.146917+00:00",
+   "fetched_at": "2026-11-15T07:09:37.739516+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Israel: Making the Holy Land burn",
+     "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T06:49:14+00:00",
+     "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+     "image": ""
+    },
     {
      "title": "Anthony Albanese welcomes Trump-Xi-Putin summit \u2013 even as European leaders express reservations",
      "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
@@ -172,19 +180,11 @@
      "image": ""
     },
     {
-     "title": "Prince Harry visits Lviv for first Superhumans War Trauma Conference",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmRqNVVSX2w5NGR0Q2JqR0JuZmZjTGczQk50LUdkYUFUT0xLeTZNV01QckVCVEQ3a1haeVJJcDlvNHk0bTFPNE9TSUxTdmt4ckxVc3dnZUlkd2RaTEJLZXRDSTNwNXBVRHZzS1JsbzJVZWRPRHZHc3RLdXg4c0lxMTNhU0pNaGNMcGRKMlNCNDFlMmFmSzhiWXNFelp0eDZfd0JaRnU5eFNldWFXRkFnaEVQeXRWU2VHaGlsSFlKQdIBxAFBVV95cUxQUVJlOXlqZFRUT3dSSUpYOThCX3RuOEFIWUNCbkxWNGt1T3VIeGNnS2x4anNFTURWdTdhN3E2ZzBXaWNvWTZWaXN1OUY1dElGZ2ZSX2VrclpUb01hOHEwN3RRQmhDY1JxVFE4cmd0QXQtSUxvaFNXU0E0Wl9fX3Y4WnF4MTA4QS10QlFKeU9tMENfMDk2RGZXU1V3WmJvRmNvMC1PNDdYZ1dRN0ltTV9VWElIZDVnZmhCQ0NZWlEtclQyeFV2?oc=5",
-     "source": "Ukrinform",
-     "published": "2026-11-15T04:52:00+00:00",
-     "summary": "Prince Harry visits Lviv for first Superhumans War Trauma Conference&nbsp;&nbsp;Ukrinform",
-     "image": ""
-    },
-    {
-     "title": "Ukraine Diplomacy, Huge Russian Battlefield Losses and China\u2019s Quiet Rehearsal for Isolating Taiwan. Weekly Update & Big Five, 15 November.",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UHZKaUstRjQ4MVJVaFFIeTV5cUM2MVdrRVNLaGhyZEJReFlUa2NORGJjVHY4YkhJVHdDWmtCYzZNVnZPa0RZcjRpcFkyS3pSM1BtTVpRbm52OS1yUHBHZ3hTaTF6NnFFajdGQmdXajMyTVg3R0x0VUY3bzlpY2M?oc=5",
-     "source": "Futura Doctrina | Mick Ryan",
-     "published": "2026-11-15T04:21:11+00:00",
-     "summary": "Ukraine Diplomacy, Huge Russian Battlefield Losses and China\u2019s Quiet Rehearsal for Isolating Taiwan. Weekly Update & Big Five, 15 November.&nbsp;&nbsp;Futura Doctrina | Mick Ryan",
+     "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0x6X3prTmdxdXlVNU1GdjBSdThpaDdHT2ZzYkVqVzlTMkQyTG5Fc3Z0NFJVSUVJTWk5QjdfZkhIaTNPOEJJTVU3Mk41NWlPZVl4SHctSmZ4dXhLT0s4RWYyNVUwd0p0Qk9hOWtwRkF3Uy1YOWdyUnZJbVg5dU9RM3UwblUxYi13dnJuUmZvOWNVY29VYVNCSnNyMS1wVWs0dWd3bXd6T3BnTy04aV94ZUxB0gG3AUFVX3lxTE5kbXVNakk4aUFZU3NlYkRkWUxvalJraFN3VWc5bjhBSzdyLVJ6MS1zVTVqeVRySm5kQ1VNOGVTX2JEMm9GMjFRVTVMS21WSzVxbGNULUNhMmdJRVdoTFlBVjBKUnpXWE0zRUFnRVlBYlJ3WEUzcFdIdmgyQzZrNTVyZWpkUFhJcDJhVlkzakZtUXFQRTNwN3RuQ3pQai1YUnA4YlFPMkR2NnBQMEEwR3FwQ1ZPY0QyQQ?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T04:06:46+00:00",
+     "summary": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
     {
@@ -222,9 +222,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T06:39:33.146919+00:00",
+   "fetched_at": "2026-11-15T07:09:37.739518+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Policy fixes could curb accidental shootings in New Mexico \u2014 but they\u2019re tough to enforce",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSkQ3S3FGMTVVZ2JHcnUtcnFtUW1kNVIxbjJKbHJRMVZNeEh0ZkJ5dzBIdDFHSmlITVl5bXpwYTMtQUp1MzN5RFAyQ2dWZEZySlhQQXVzWS1obG40Z3BydHpRcUJ6Y29IZXB2QzVseVdObFJPdm9FQ3otSVN3azBxREtpcEZYaXNEbGVrTjFLTkFLSFlucEotWEVxc0dpOFkwbnotMDhYX2htWjZYblQ3RElIXzJJVGJzTlhzT2dVREljemlYMFRVS0M1eHA3Z3hhNm53SzVQZXRpekU1aTh4eFdCV3Q4OTIxN010cXJsdjhQNWZQUVJHRUVKLTNTRE5tY1lfRmNsTFhVM3daelNxNlV6MmtJdw?oc=5",
+     "source": "Santa Fe New Mexican",
+     "published": "2026-11-15T06:45:00+00:00",
+     "summary": "Policy fixes could curb accidental shootings in New Mexico \u2014 but they\u2019re tough to enforce&nbsp;&nbsp;Santa Fe New Mexican",
+     "image": ""
+    },
     {
      "title": "Who would win a general election today? What the Britain Predicts model says",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0N6bFF0clk1MDY5MjZ3TUZ1UFIweVF4bElXa1l2ZzgxVldiUmhiM0tONzFtVzM0NzdpNVJnVkZ6OEc1aFRJU05fQVpXYTd6MkFRN2V2aWV0MEpOUnk3Z3N0V180Q2xzbUUwRWMwSlRHUGd3cTVVYThMQUxzSHBXLUQtVFlDMFBQT3JWMDJjWTFFSkNfY2toZlV0RUs0MXROYWJZNWx6Y2xCSTRmSEF3clg3OHYwSjNvdnFnMk1FM2tiU2ZqM0I5Zg?oc=5",
@@ -311,14 +319,6 @@
      "source": "Quality Magazine",
      "published": "2026-11-15T05:00:00+00:00",
      "summary": "The AI Use Policy Your Quality Team Will Actually Follow&nbsp;&nbsp;Quality Magazine",
-     "image": ""
-    },
-    {
-     "title": "Portsmouth councilman plans recount after losing re-election bid by 21 votes",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbkdGdThtZWxHV2tiU3JYRGdodjVOTmRLYkhCTU05amk1NEdCcEZsRjBybHZaTHNSMklTcHdqT3Rfb3E5cUFuWGtENE13Ykh6eGlOemdhMnNlekZLNUp6V3FiSFRpWS1YeDJUelpoVVJhdkwyRVB0b2taajQ0Z0RBaUR4RER2Q3Fqc2dHNFZBWVFuMFJlcjd2RzhDX3B5UzlMQklycXhabVNLU3E2RlJURjhHa1JXRWNUZ2hLNjFYZnhjRWczU1hLdjlobjJ0Tm5pdXJFYTFtcmhqTHcxWkJ0TERDTldHZHdpM1c0VzlBdV9RM1JpTU9KbjVLck50Y2ZzR2hUNktiSGNMUQ?oc=5",
-     "source": "13newsnow.com",
-     "published": "2026-11-15T04:56:00+00:00",
-     "summary": "Portsmouth councilman plans recount after losing re-election bid by 21 votes&nbsp;&nbsp;13newsnow.com",
      "image": ""
     }
    ]
