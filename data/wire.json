@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-15T09:09:52.640586+00:00",
+ "generated_at": "2026-11-15T09:39:56.472849+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-15T09:09:52.640565+00:00",
+   "fetched_at": "2026-11-15T09:39:56.472830+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+     "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T09:26:37+00:00",
+     "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg"
+    },
+    {
+     "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
+     "url": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+     "source": "The Guardian",
+     "published": "2026-11-15T09:22:39+00:00",
+     "summary": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consentAlmost one in five young women and girls in the UK",
+     "image": "https://i.guim.co.uk/img/media/c3d1287e2bde13655bc5b90da4555cdf0f7dcb39/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=66f5fb9c6d91af76a2f76de87c73789b"
+    },
+    {
+     "title": "What forced the US to ground all planes? A router switch, we now know",
+     "url": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T09:17:49+00:00",
+     "summary": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
+     "image": ""
+    },
     {
      "title": "AI cheating scandal rattles South Korea as annual college exam looms",
      "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
@@ -92,37 +116,37 @@
      "published": "2026-11-15T07:11:24+00:00",
      "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
      "image": ""
-    },
-    {
-     "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-15T07:10:31+00:00",
-     "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears",
-     "url": "https://www.france24.com/en/technology/20261115-is-this-a-cyberattack-grounded-flights-a-microsoft-outage-and-ai-chaos-fuel-cybersecurity-fears",
-     "source": "\u00a9 Idrees Mohammed, AFP",
-     "published": "2026-11-15T07:04:31+00:00",
-     "summary": "A series of unsettling disruptions, from tech stock turbulence and Microsoft outages to a nationwide grounding of flights, has left millions wondering whether the world\u2019s increasin",
-     "image": "https://s.france24.com/media/display/19ce78fa-e0c1-11f1-9d67-f71d22e7fea9/w:1024/p:16x9/000-D76L3L9.jpg"
-    },
-    {
-     "title": "Israel: Making the Holy Land burn",
-     "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T06:49:14+00:00",
-     "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-15T09:09:52.640577+00:00",
+   "fetched_at": "2026-11-15T09:39:56.472839+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+     "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T09:26:37+00:00",
+     "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg"
+    },
+    {
+     "title": "Kushner says new proposals could advance Russia-Ukraine peace efforts",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZaWwyODJFWWdCVDhURVdKQUhKZVZVelpUcFY0czRzX1IxNUQ4LWtTTGVlRlZXRG9MZFdBM2c1Tm0tcEJlWm9YY0VRRThGZFJvWEFj?oc=5",
+     "source": "\u0633\u0627\u0646\u0627",
+     "published": "2026-11-15T09:11:42+00:00",
+     "summary": "Kushner says new proposals could advance Russia-Ukraine peace efforts&nbsp;&nbsp;\u0633\u0627\u0646\u0627",
+     "image": ""
+    },
+    {
+     "title": "Fewer People in Bashkortostan Are Willing to Join Russia\u2019s Army for the War Against Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1N6ZHFFQ25YUU5vRDVfQ2dKLVQwcDVuRURTQjMwRUxlZlJxNTA1WXFRVk5QX2hUR2I5elFJd0t5WWF1UGFkTU5IX2MwcC1CZEZXTUFMX1BRVDBGX3JvRnBjeHFiMFZMWFJPUmhXZzY1X2F0NTExdW1uOTQ5WmlqU1dkbk1ESnFlak50WmNrVVNLTE5lM2NiOG05b0xfTFB6WWlsNTRScDNHYmNWRTVFLWppel9SU1ZscDdBV3F6SlU?oc=5",
+     "source": "\u041c\u0456\u043b\u0456\u0442\u0430\u0440\u043d\u0438\u0439",
+     "published": "2026-11-15T08:58:52+00:00",
+     "summary": "Fewer People in Bashkortostan Are Willing to Join Russia\u2019s Army for the War Against Ukraine&nbsp;&nbsp;\u041c\u0456\u043b\u0456\u0442\u0430\u0440\u043d\u0438\u0439",
+     "image": ""
+    },
     {
      "title": "EA-Ukraine VideoCast: Kremlin Maintains Maximum Demands as It Manipulates Trump Envoys",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTVKUGlhbzdxY2ktNGZ4eXV6UzNxQXVxZEgtMjJGSDNLX0pqNHVkemdkUks3RUVrQk1IelJ5b0NEX1BOd1g1Q1lraWRIVFNzSGVHeGZKTEZ1a0dqckJRVGhlN0J0aTBlTXJtVWE4RW5aX0hFeG41YlFESlZwMUNJUGh1ZFhONzZNVnBqaEtYN2hRYlVzY1daX1dFeXZFZ1piR1NJTklINA?oc=5",
@@ -194,37 +218,29 @@
      "published": "2026-11-15T06:00:05+00:00",
      "summary": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smellsA Home Office plan to build asylum seeker detention facilities next",
      "image": "https://i.guim.co.uk/img/media/d09ed18d9dd0cdd685e28614ca19c5a774a69750/268_0_2268_1816/master/2268.jpg?width=140&quality=85&auto=format&fit=max&s=a94ae645f7999f7bde5d4240fd8be790"
-    },
-    {
-     "title": "Russian Offensive Campaign Assessment, November 14, 2026",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVJNGlwMmRIbWpsSXRHOXE0enlXZktiYXduYWRHYmpTSHJjT2Q5ckJCQUt3TUE1T1lfOGRwZW1tcjR6V0kyb1A5SUpVYTNnWTh2UVV4X3N0aWV6STZpX183WWppZlBGSkZBdW9wNkNZRFFUVnRqNEJJSkZZTjN5Q1VoTENvWU9JaFZhY3BxNmNYQVJPcGo4ak5nM083M0tzRDBjTEpNX3dmaW5f?oc=5",
-     "source": "Institute for the Study of War",
-     "published": "2026-11-15T05:57:17+00:00",
-     "summary": "Russian Offensive Campaign Assessment, November 14, 2026&nbsp;&nbsp;Institute for the Study of War",
-     "image": ""
-    },
-    {
-     "title": "EU Agrees Five-Country Team for Ukraine Peace Talks, Leaving Spain Out: 16 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTXJUQ2I2YmhvOEprZ2xYRkFreGRjdFAyMnJVSVFpUklzNkVhRk0yRjUwb2dsRUxHZWxpcU5INGpZTmowX2FCbzVwSjhzMzdka0gzQ2d6d3dEelFXZ0R5Vk4xRGhzbENCcVFGRl9KUE1RZ0ZLZUtUTGhEb196X1IxQklOTGZrR19mX0NFcHZFazdxS1pQY1lIZ1hWbDZETWl3ODlfUk0zaTNDbWZISkdRVDZFa2dGZlBzbE9JbDJQanRTV0xoOG5aaFotRDVBSjIyb0lHQ1B0c0g3ZEFvdmwya293Ui12WUJwODg4RQ?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-15T05:23:42+00:00",
-     "summary": "EU Agrees Five-Country Team for Ukraine Peace Talks, Leaving Spain Out: 16 outlets compared&nbsp;&nbsp;NewsCord",
-     "image": ""
-    },
-    {
-     "title": "The War Must End Before It\u2019s Too Late for Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODdDUFJNWWwwRm53NGhsUmthOUl0bVJTZjQxUEdzaThwdWs5T3BaOXhVeDRwQmtpbDR5SG9MT21TWFpCV0pTMjBFYzlFV0FqVFlDbWtyRkRfU3BOd0lvYkxxeHZmbElLTk1yS0dfT0liRXBRWmNGVGtRU19QOUJiVEZMWFhabXhWV0JqRnJTOUR1S3c?oc=5",
-     "source": "The American Conservative",
-     "published": "2026-11-15T05:03:00+00:00",
-     "summary": "The War Must End Before It\u2019s Too Late for Ukraine&nbsp;&nbsp;The American Conservative",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T09:09:52.640580+00:00",
+   "fetched_at": "2026-11-15T09:39:56.472841+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Iran\u2019s Hormuz Brinkmanship Tests the Limits of Diplomacy",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QWjhwaVVicDFjcUFjcjNfOHE3UDk2N251R19KWXlSWFVSREVid0ZyeHMxcVR2U09FZEFTSEVrWFp0RmJNRVprVEF2dmptSUxodlZNdm5sbGlLY0RMendvMkI3MA?oc=5",
+     "source": "Jerusalem Center for Security and Foreign Affairs",
+     "published": "2026-11-15T09:10:20+00:00",
+     "summary": "Iran\u2019s Hormuz Brinkmanship Tests the Limits of Diplomacy&nbsp;&nbsp;Jerusalem Center for Security and Foreign Affairs",
+     "image": ""
+    },
+    {
+     "title": "Pluralistic AI Agents for Policy Deliberation",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWtNUUpOdjlNUFc2ZW9nMDBfM29KRzFLUlhFUmdTb005d0J0UjNyaHMyRGZYTENSV3RRblJNN3lIUTN2VFkwbDZDZWVkMTRFVUFKVjRNNHhNV1M2bXNuTGQzcFZ4eGY4UDR6Zy1tS3BKMzdjNlhwa09aSnlfZDdxUTBsMy1yX1NK?oc=5",
+     "source": "CASRAI",
+     "published": "2026-11-15T09:08:31+00:00",
+     "summary": "Pluralistic AI Agents for Policy Deliberation&nbsp;&nbsp;CASRAI",
+     "image": ""
+    },
     {
      "title": "Ireland\u2019s Data-Center Lawsuit Puts Energy Policy Under Scrutiny",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzJmLTZUWkU1QldQeUFYc01TWWlFLTJ3UlBHSUc2T0lUV0NXbks1bjAzMGJKaEtpU2NfbjcwNTFlcXBDYm9OUjkweHJfSDM5VDZ1eHdERDU0X0dsOWx4WXhKVzY0Nmxacko5dUZ4ekYyZGlVck0wdDZVQjRDLUg2Sml0ZmNoYnFzRk14YW5oaFo4VkVoN19Dd2VaTmtXekFaSzhqb3FoWEFQN0p2Q2F5LWFqZ3c?oc=5",
@@ -282,14 +298,6 @@
      "image": ""
     },
     {
-     "title": "How election laws could change now that Democrats are in power in Pennsylvania",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcENtVXhSRU92YnY4a0pKSmlIMkN5Mlp3c2lnSmhWbWgtQ0pZY1N4bDlneDc3RTlkOWVOekhrbnJLVVRub0JrN3k3ald3amhnZEluSVVJT1VFVjg0VFlBd3pwVXJSRy1QX2pLQjBPWDR4SXI1SWlIZEo3WC1RZml6YlZyZTMxODlwSkxxZTlzVXJMX1ZCbzFKZUZlcVlUdmhvd0JGWGltcDJlX1NxSlV0LUNn?oc=5",
-     "source": "Pittsburgh Post-Gazette",
-     "published": "2026-11-15T07:52:31+00:00",
-     "summary": "How election laws could change now that Democrats are in power in Pennsylvania&nbsp;&nbsp;Pittsburgh Post-Gazette",
-     "image": ""
-    },
-    {
      "title": "Karpinski-Costa, Lopez-Taff, Middleton, win re-election in Citrus Heights",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGZlQzN1TENBUDR4RHVCRXFjdFVzbGJEOEpmdnhjT0VTR3FmN1EweEljMU9iMUNLcnBMTmh0OWpWVlZMUTlwSVVmNkFKaXBCZWQ3eEpwWjZjLWxGTmw4REJrSXIwZlJBZzI4a0N0UHdXNTVrNlREX3pTUWxfYXo4R0hFUlZTNmNMOTdhWGFTSXFGVU9vek94bWUzVEhIY2R1TUIyLU5kclhXWmtHQ2V6Y21WS2RWZm8?oc=5",
      "source": "Citrus Heights Sentinel",
@@ -312,19 +320,11 @@
      "published": "2026-11-15T07:10:31+00:00",
      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-     "title": "Policy fixes could curb accidental shootings in New Mexico \u2014 but they\u2019re tough to enforce",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSkQ3S3FGMTVVZ2JHcnUtcnFtUW1kNVIxbjJKbHJRMVZNeEh0ZkJ5dzBIdDFHSmlITVl5bXpwYTMtQUp1MzN5RFAyQ2dWZEZySlhQQXVzWS1obG40Z3BydHpRcUJ6Y29IZXB2QzVseVdObFJPdm9FQ3otSVN3azBxREtpcEZYaXNEbGVrTjFLTkFLSFlucEotWEVxc0dpOFkwbnotMDhYX2htWjZYblQ3RElIXzJJVGJzTlhzT2dVREljemlYMFRVS0M1eHA3Z3hhNm53SzVQZXRpekU1aTh4eFdCV3Q4OTIxN010cXJsdjhQNWZQUVJHRUVKLTNTRE5tY1lfRmNsTFhVM3daelNxNlV6MmtJdw?oc=5",
-     "source": "Santa Fe New Mexican",
-     "published": "2026-11-15T06:45:00+00:00",
-     "summary": "Policy fixes could curb accidental shootings in New Mexico \u2014 but they\u2019re tough to enforce&nbsp;&nbsp;Santa Fe New Mexican",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-15T09:09:52.640581+00:00",
+   "fetched_at": "2026-11-15T09:39:56.472843+00:00",
    "stale": false,
    "items": [
     {
