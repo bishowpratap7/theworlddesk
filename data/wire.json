@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T05:39:14.379238+00:00",
+ "generated_at": "2026-11-15T06:09:17.906964+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-15T05:39:14.379208+00:00",
+   "fetched_at": "2026-11-15T06:09:17.906928+00:00",
    "stale": false,
    "items": [
     {
@@ -70,7 +70,7 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
     },
     {
-     "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+     "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
      "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-15T02:59:06+00:00",
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-15T05:39:14.379222+00:00",
+   "fetched_at": "2026-11-15T06:09:17.906943+00:00",
    "stale": false,
    "items": [
     {
@@ -172,7 +172,15 @@
      "image": ""
     },
     {
-     "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+     "title": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWG80VUtNR01nX3UxTU9hbXE5eXhqNkpUN3R6emRaeWNVSDN4enREOW1rQ0xNREFPQ3hNVXBaS3k0S1VzMGZ2bkFlTThfU0cyWmJ0dkU1VjlDQ1JGTHpELVpGTnVpeHh4aGFSMVFRYXBEVjVDM3BMRzdLYmJRNGdmanNJMFdoUWZXTlVkeUcwUWIyb0FfUmo4NUE0SFF3SlNWam5aQUZocGZiSWpoeDhPdERRQlA?oc=5",
+     "source": "POLITICO.eu",
+     "published": "2026-11-15T03:00:00+00:00",
+     "summary": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance&nbsp;&nbsp;POLITICO.eu",
+     "image": ""
+    },
+    {
+     "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
      "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-15T02:59:06+00:00",
@@ -210,21 +218,29 @@
      "published": "2026-11-15T00:00:08+00:00",
      "summary": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
      "image": ""
-    },
-    {
-     "title": "Zelensky: US floated idea of Ukraine swapping land for NATO membership",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnBJSVdsRS1QWWJDQUdWZHN6SFhTcTg1TlNfSm8wTEQ2NGV4aHpqLS1lQVVCT29EdUZJMmNoSFZtbzRRZ2hYeFlvbndWMXFxTjBRZTRNbllTNXQ3TFJKWUxuQkEtSEw5ZnMteXdOS3V5WERSNklISXJKSGZSRmdCQVZPem43RThxcUphU3Nodk5aenRycmhV?oc=5",
-     "source": "CNN",
-     "published": "2026-11-14T23:30:40+00:00",
-     "summary": "Zelensky: US floated idea of Ukraine swapping land for NATO membership&nbsp;&nbsp;CNN",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T05:39:14.379226+00:00",
+   "fetched_at": "2026-11-15T06:09:17.906947+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Karpinski-Costa, Lopez-Taff, Middleton, win re-election in Citrus Heights",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUlSYVZDbFFaYkRjaGhFQjVydlBrQU1VclNyNUNSVkk1cmdLVTExcmhpUTFCaGRaYjlGVVhZVU5NcWFiTVBTckdETGFtdE44Q2VIX21BRFcyUFdSMUd4MzQyNXN3VVdRNzlfTWxrWEJyVnJfVFBnRWlnalg0MXBWN2V2SVJNN04tZ1B1emxfZ09LbVlORUo5WEI3Yk1HVWRaaFd1dzVTdHdycDNpM1lCWVNjU2dfQQ?oc=5",
+     "source": "Citrus Heights Sentinel",
+     "published": "2026-11-15T06:06:31+00:00",
+     "summary": "Karpinski-Costa, Lopez-Taff, Middleton, win re-election in Citrus Heights&nbsp;&nbsp;Citrus Heights Sentinel",
+     "image": ""
+    },
+    {
+     "title": "Election is \u2018board certified\u2019",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFpUN0xyMWZzNWVVdFFueFBhTFVuMkY1b3FMcnROckJ2VzVkMHdoN2ZUem53RndoaFY1aFJWMUZ5VEZiekJCQjVYUUJ6TXBBQkRyLXdEcjQ0SlpUNUNjcGFhbU1sNjRJSWxEOXVvSXRhSUNFa0ljdVhpVzhWOGhBNXl0cGNVT2l4LTdGdmlFRjhVMS1LYzhJSzRfZw?oc=5",
+     "source": "faribaultcountyregister.com",
+     "published": "2026-11-15T06:02:57+00:00",
+     "summary": "Election is \u2018board certified\u2019&nbsp;&nbsp;faribaultcountyregister.com",
+     "image": ""
+    },
     {
      "title": "Cape Verde could elect first woman president since gaining independence in 1975",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEZaaVg2di1CeGcyQlpLZjBmeHpaYXQ5YTRGMk8xM0NyZkVtSmFuX2d1ckFqOExOMVhmbzk4U0lEYk96VVd3OENPVTd6bERTNTJDQl8tR3ZxS2JZX2xER3JfSHdCRF9JQkxLMm11bnFTYmN1LUN4R3lfRy15MmJsSS04VUEzX183SDFYSVFDaHJIaTJFT1VQeHljX2FFbkYwV0hmY1VB?oc=5",
@@ -247,6 +263,14 @@
      "source": "Al Jazeera",
      "published": "2026-11-15T05:05:02+00:00",
      "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+     "image": ""
+    },
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCcmVwdUpkZXFNWjBlUkJ6ekVkR1FzblBpWWhEZFJNOWJiQ1JpbjNDUEhrU01UNWVkRlZxRzdCbU1XTEhoYXRYLTVDSHFLMDk5dzRHWDJxY2hRRkRuNzVoalVfLWdTOXNBcUNuY2dwdjA1Unc4bHdlQW1HVndfdw?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-15T05:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     },
     {
@@ -296,35 +320,11 @@
      "published": "2026-11-15T04:21:11+00:00",
      "summary": "Ukraine Diplomacy, Huge Russian Battlefield Losses and China\u2019s Quiet Rehearsal for Isolating Taiwan. Weekly Update & Big Five, 15 November.&nbsp;&nbsp;Futura Doctrina | Mick Ryan",
      "image": ""
-    },
-    {
-     "title": "California GOP chair not running for re-election",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUEs4RkdMTnFJeS1LT01xem1OamZCX0hxa2RIZUtKZ2tlNlZYaUd0a1ZlcXZQWWw2REJfM3JxZldxSHJpODlwanlkRURENjNHTnpUNXFibFVLMkM3cERuLXBDYXBhaGFQeVFXTTRVdTdRd25RcmhScVB2TGZWVmdoZm1ZVG9Eb1EwdVE?oc=5",
-     "source": "FOX40",
-     "published": "2026-11-15T04:10:12+00:00",
-     "summary": "California GOP chair not running for re-election&nbsp;&nbsp;FOX40",
-     "image": ""
-    },
-    {
-     "title": "How does U.Va.\u2019s sexual assault policy compare to Cornell\u2019s?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0hid0F3RFF1Q0FmRk9BQUl4X2VDYlR5RFl0aVBWckI3bzJHSGpvS0RxaWVtaXV4aVpKTE04LVNYRnd6YTBUVkRDY2JDckpRNGZ6bDhsNE1ybnBoa2xpaF9nMFczdlYzVTFwZ0FWWGczNHhPRjRhUk1JQmlrRTVwZ1BzMFZ1dDU2Sml1d1RtVVk1OG1uc1EtalVFWjUwM3lhNGs0?oc=5",
-     "source": "The Cavalier Daily",
-     "published": "2026-11-15T03:50:35+00:00",
-     "summary": "How does U.Va.\u2019s sexual assault policy compare to Cornell\u2019s?&nbsp;&nbsp;The Cavalier Daily",
-     "image": ""
-    },
-    {
-     "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises \u2018locker-room talk\u2019",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
-     "source": "The Guardian",
-     "published": "2026-11-15T03:49:21+00:00",
-     "summary": "Prime minister says he and Chris Bowen were having \u2018light-hearted banter\u2019 when they were caught discussing where they keep their phonesGet our daily political email, free app or da",
-     "image": "https://i.guim.co.uk/img/media/4234ff2cadfb5b400fae76732ca4c673a2b713e6/639_0_6877_5501/master/6877.jpg?width=140&quality=85&auto=format&fit=max&s=4d3cdc60bc8855259dcbf1ab9ce5da75"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-15T05:39:14.379228+00:00",
+   "fetched_at": "2026-11-15T06:09:17.906950+00:00",
    "stale": false,
    "items": [
     {
