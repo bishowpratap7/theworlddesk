@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-15T14:40:42.917595+00:00",
+ "generated_at": "2026-11-15T15:10:46.206176+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-15T14:40:42.917565+00:00",
+   "fetched_at": "2026-11-15T15:10:46.206145+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "How telecoms upgrade work sparked US flight chaos",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T14:57:15+00:00",
+     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T14:56:21+00:00",
+     "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/3e3fdc00-e103-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+     "source": "The Guardian",
+     "published": "2026-11-15T14:40:27+00:00",
+     "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since septemberThe state-run Bahrain news agency is also carrying the statements of each country in the region ",
+     "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b"
+    },
     {
      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
@@ -14,12 +38,28 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
     },
     {
+     "title": "Twenty Years of Al Jazeera English: The Counternarrative",
+     "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/15/twenty-years-of-al-jazeera-english-the?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T14:29:41+00:00",
+     "summary": "Two decades of AJE: Shaping media, amplifying unheard voices and driving global conversations.",
+     "image": ""
+    },
+    {
      "title": "Why the Nvidia scandal is bad news for Europe\u2019s AI ambitions",
      "url": "https://www.france24.com/en/tv-shows/tech-24/20261115-why-the-nvidia-scandal-is-bad-news-for-europe-s-ai-ambitions",
      "source": "France 24",
      "published": "2026-11-15T14:16:24+00:00",
      "summary": "Nvidia's Jensen Huang poured money into open-source AI, from French-founded Hugging Face to chips for Mistral's data centres, and fought Washington's attempts to restrict it. With ",
      "image": "https://s.france24.com/media/display/b4a8bc10-e0fc-11f1-92b7-29048b396e03/w:1024/p:16x9/2026-11-15T112739Z-857398562-RC2138AW8TLP-RTRMADP-3-NVIDIA-CEO.jpg"
+    },
+    {
+     "title": "\u2018Almost magic\u2019 as SpaceX craft caught mid-air: Why it matters",
+     "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T14:12:09+00:00",
+     "summary": "SpaceX&#039;s Starship successfully returned to its launchpad after orbiting in space.",
+     "image": ""
     },
     {
      "title": "US probes nationwide flights stoppage as travel disruptions persist",
@@ -76,53 +116,37 @@
      "published": "2026-11-15T13:59:21+00:00",
      "summary": "FRANCE 24 looks back at some of the week's most striking images, from angry protests over a housing crisis that has dominated Spain's election campaign, to Leo XIV's visit to his a",
      "image": "https://s.france24.com/media/display/c94a7240-e01f-11f1-b658-29048b396e03/w:1024/p:16x9/AP26317808141916.jpg"
-    },
-    {
-     "title": "French Cyril Gane retains MMA heavyweaight title agianst Josh Hokit",
-     "url": "https://www.france24.com/en/french-cyril-gane-retains-mma-heavyweaight-title-agianst-josh-hokit",
-     "source": "France 24",
-     "published": "2026-11-15T13:58:29+00:00",
-     "summary": "Ciryl Gane remains the world's MMA heavyweight champion. Overnight, the French athlete beat Josh Hokit in the main event of UFC 334 at Madison Square Garden in \u200bNew York. The 5-rou",
-     "image": "https://s.france24.com/media/display/7326ff90-e0fc-11f1-99a1-3f371022a770/w:1024/p:16x9/2026-11-15T052339Z-1246486452-MT1USATODAY30357052-RTRMADP-3-MMA-UFC-334.jpg"
-    },
-    {
-     "title": "Bahrain says air defences destroyed several Iranian drones attacking US base",
-     "url": "https://www.france24.com/en/bahrain-says-air-defences-destroyed-several-iranian-drones-attacking-us-base",
-     "source": "France 24",
-     "published": "2026-11-15T13:55:32+00:00",
-     "summary": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September. The second Iranian drone attack in three days, ending a long lull in strikes duri",
-     "image": "https://s.france24.com/media/display/84b2607c-e0f9-11f1-b274-695cb59fade5/w:1024/p:16x9/EN-20261115-130317-130744-CS.jpg"
-    },
-    {
-     "title": "Germany vs Netherlands: Nations League \u2013 preview, team news, predictions",
-     "url": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T13:54:05+00:00",
-     "summary": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
-     "image": ""
-    },
-    {
-     "title": "France's presidential race heats up",
-     "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261115-france-s-presidential-race-heats-up",
-     "source": "France 24",
-     "published": "2026-11-15T13:49:25+00:00",
-     "summary": "In approximately six months time, French voters will head to the polls for the first round of the presidential election. Due to term limits, current president Emmanuel Macron is ba",
-     "image": "https://s.france24.com/media/display/d47ace7e-e0f8-11f1-b302-3f371022a770/w:1024/p:16x9/capture-bf14f38a.jpg"
-    },
-    {
-     "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
-     "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T13:45:02+00:00",
-     "summary": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-15T14:40:42.917579+00:00",
+   "fetched_at": "2026-11-15T15:10:46.206159+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine war negotiations expand to include Europe",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZURLLTNvclZHcXhSR3ZYWXZYaGNncnF3ei1PZUM3NGJJZC1pN1dldWx4YkI0bW1GRFFZemUtcUhyeE45dU5FdDBoS3VjVG44bmpUYXBB?oc=5",
+     "source": "Fox News",
+     "published": "2026-11-15T14:57:50+00:00",
+     "summary": "Ukraine war negotiations expand to include Europe&nbsp;&nbsp;Fox News",
+     "image": ""
+    },
+    {
+     "title": "Do Average Russians Bear Responsibility for the Ukraine War?",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDlCQWZjX2Y0S25jUDc1R0dWX093b3NtcmNsZkxpdjZYV1l4NzVaejMwWVJqa0hGUkRwNTQxOVh0NXRoWFVTM1VKdHNmRGtrbmdfeEtMWGRDaERMdnFNaWlLaUVQOVgyb0ZtVFU0SDUybGR4TjRuVndITDBSNnJkaVZ3V3g0UWt0a2xIYl9HQlJ2azhNbDlzZHJVYVQ?oc=5",
+     "source": "The National Interest",
+     "published": "2026-11-15T14:47:58+00:00",
+     "summary": "Do Average Russians Bear Responsibility for the Ukraine War?&nbsp;&nbsp;The National Interest",
+     "image": ""
+    },
+    {
+     "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+     "source": "The Guardian",
+     "published": "2026-11-15T14:40:27+00:00",
+     "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since septemberThe state-run Bahrain news agency is also carrying the statements of each country in the region ",
+     "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b"
+    },
     {
      "title": "The race to build autonomous war robots faces a problem that self-driving cars don't. There are no rules of the road.",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFpROFBXdVlZN25LMmczNDhZY3pJT05sVUpVdGYtMXZVckFqa1ZpMXZkNVRGNTA5dXJvTXJtX2x4SHBidVlaQkdQTktYQjNZRWdFNG1Fdml4akFrd0haTEtSSG5aRjlmeVZoQTFaQk5QYkVyQ1lyMUd6WFJ2Q216Z2pCZ1pLNXRPUE5KWm9QbmRPUWljcGZYRzVyQmZQV2Jva1lwOUphUFhNQkRKT2Jn?oc=5",
@@ -169,13 +193,13 @@
      "source": "BBC News",
      "published": "2026-11-15T13:42:58+00:00",
      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg"
     },
     {
      "title": "Starshield restrictions help Russia\u2019s energy attacks on Ukraine: Zelenskyy",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUc1Wld1UGN2cHpoOXhsZlduejh0SXF3S2JDd3NBT0FyX1pyVW95bDlQS3RHbW9LS1M3aDZ5ZzQ1VWREQ25TWkN5b0tYSjUydUljV3k2bThmallacU02MHlfX1RycVNuV1c2R0hZU0pNMFlhclUwOUlJQVRpelFEcTI4WGx0WVVDbzY0NmRuajR4a29idWRCd3lDV0NJcVRlYnZtSFRZNkNhR2dfYU1Ed0J1TmHSAboBQVVfeXFMTXgwZ1U0dFVMUDY2dVR4ZDA2MmZpYmxIZlBqdzdLcjJwUU9oTFVnb0pGUmY4eF9uTnl2cDRKZFd0UnB1WDR5S195ZXVfZmFpSUQzNzIxZS0zMjNQM0l0Y2FBVU5qZWxjb3ZVaDQwaVJZYzFQaVJrcXJwZDZFVmlvT3B1N05aLUN1aHoyMEVhb2FHUUdDX09reFBpRFV4cWcydzVkejBCd3VHUFozMDV0SjZpNVBoR28wcG1R?oc=5",
      "source": "Al Jazeera",
-     "published": "2026-11-15T13:41:01+00:00",
+     "published": "2026-11-15T13:41:43+00:00",
      "summary": "Starshield restrictions help Russia\u2019s energy attacks on Ukraine: Zelenskyy&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
@@ -188,43 +212,59 @@
      "image": "https://s.france24.com/media/display/ffd45668-e0f2-11f1-b056-29048b396e03/w:1024/p:16x9/2026-11-10T121054Z-860283693-RC2QMNADH8MD-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-OIL-REFINING.jpg"
     },
     {
-     "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-     "source": "The Guardian",
-     "published": "2026-11-15T13:34:32+00:00",
-     "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since septemberThe state-run Bahrain news agency is also carrying the statements of each country in the region ",
-     "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b"
-    },
-    {
      "title": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
      "url": "https://www.theguardian.com/uk-news/2026/nov/15/uk-weather-cold-health-alerts-scotland-northern-england-snow-ice",
      "source": "The Guardian",
      "published": "2026-11-15T13:30:18+00:00",
      "summary": "UKHSA warns of health impact on those vulnerable to cold and urges people to check in with neighbours Cold weather warnings have been issued for parts of the UK, and alerts for the",
      "image": "https://i.guim.co.uk/img/media/e40f65cb8a5bcc57a606b579728d6e17a51152f9/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=6ea79c52ed405cd42233ce83b86f447a"
-    },
-    {
-     "title": "Russo-Ukrainian war, day 1725: Russia demands NATO pullback and end to Britain\u2019s nuclear shield over Europe",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXhiaW4yTlMtc2JGTVJWeFQ1eTZLVXVHVi16TE8yY1U4NW4ySVEzVVZBQlhwV2k3VHBOWHpKR19VZGZoajRTazlCWF9rMkk3MHVyU25LVG03MjRqeDBrSDkwV2ZfX25oaHpYWW9zZklSSEYzUUtENWtLUks0cjRNekI1V21VOWwyRVlGSFNDekVLNUc1eld6RU44YW9jczRwUnNyZXNQU0lSRlgyZ0tRUjlpakduWFgyWE0wY0ZiN0pjcV9JNnhoNjBJOU4tNXhQRFhYM1Voc0paU0JS?oc=5",
-     "source": "Euromaidan Press",
-     "published": "2026-11-15T13:15:09+00:00",
-     "summary": "Russo-Ukrainian war, day 1725: Russia demands NATO pullback and end to Britain\u2019s nuclear shield over Europe&nbsp;&nbsp;Euromaidan Press",
-     "image": ""
-    },
-    {
-     "title": "Ukraine Deploys \u2018Stargate\u2019 Aerial Evacuation Drones to Rescue Wounded Troops",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MRjBnMU9MMXZfRFVjQ3Y3ZVdZVmhCZzgzVHR4QWtQS056T0F3X3RjTEwzeTI0VDR3VTJFTHU3RlpGQW45eFVqVmJLWQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-15T13:06:11+00:00",
-     "summary": "Ukraine Deploys \u2018Stargate\u2019 Aerial Evacuation Drones to Rescue Wounded Troops&nbsp;&nbsp;Kyiv Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T14:40:42.917583+00:00",
+   "fetched_at": "2026-11-15T15:10:46.206163+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "How I worked on the 2026 United States midterm election",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmk0SkMzeHNiWWdOd2o3cHIydjByQWhGb1Y4T3AxVTdCR2tYb29yUmhHNmdhTjl3TXV2bUs2cW5sS2JiUGIwZld6SUJHRzBPZVhjZHhLYXZIZUV1UXVjRHRaT3BwVVgta1dPUUZyeENCOXgxNTlVU2N1N01pUUxaVDRrZzdXeEpULTk2TWNreFpHaDhmR0JF?oc=5",
+     "source": "Bryan Alexander",
+     "published": "2026-11-15T15:02:20+00:00",
+     "summary": "How I worked on the 2026 United States midterm election&nbsp;&nbsp;Bryan Alexander",
+     "image": ""
+    },
+    {
+     "title": "Federal policy changes cast shadow over fourth annual Massachusetts Healthcare Summit",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcUR2ZDVnTDdac3o0Zmw4azcyQ3F1SFFYTnVLTVVEZjRkbUNoVFFHMzVqWGhEaktFRURRUkJtYzUyYVhJNnVGSERONE9qUEZ4a3VvNDc2Y3JISXlXUDVOS2RKaU93OVo1UUNCdURWcnlNLU9kU3dQMDhYZ0EyajM3eDc3Ui1acy1NbDhXVnJUTHRQaV9FNG5WM1N2TktFOVJqVXFKWkNvTnJyQ0VRbGFIdUk0aFpIRFlWZFh1c2k5WHhHUQ?oc=5",
+     "source": "Athol Daily News",
+     "published": "2026-11-15T15:00:00+00:00",
+     "summary": "Federal policy changes cast shadow over fourth annual Massachusetts Healthcare Summit&nbsp;&nbsp;Athol Daily News",
+     "image": ""
+    },
+    {
+     "title": "Capitol View: Post-midterm election political roundtable",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzYyNG56bTZOem10STFQMzFNcDM5WnZIbGc1cFFWcndFNnktS29QSUxNN0VTbVlpRk5qQUd2NmhRcTJoNUd2bEx4M3A4VFVHUFMyYW5EQVlGOFJ6NkNSUEZGbHo1SFZlcVdZUmRGT0NyY0ZzZVRWZ3dHUEtvLW53SnJodHFyOU13TXRPMC13cS1rYWxj?oc=5",
+     "source": "KARK",
+     "published": "2026-11-15T14:58:37+00:00",
+     "summary": "Capitol View: Post-midterm election political roundtable&nbsp;&nbsp;KARK",
+     "image": ""
+    },
+    {
+     "title": "Where The 2026 Election Could Really Change U.S. Energy Policy",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ20tWlp1M1Z2THdiVW5SWDJ2Vnl0Y3k2SHBHRVd6U3BzeDBEbzVHREtuaTdnaHZOQ1RzSmx4TDdEQmw1T0xFa2xsZ1BqRUoxRExsU1l4Ui14QUpBUXMtVTU1Ri1IM2Q1QTREZ2UxSTNPckE3TlNZdjFKeWxKdVJHbW52MUh5MGFaYUhLVC03emtGTEFJclBmOF93cGJKandwSjM1ekdnZjNzSVR3NVE?oc=5",
+     "source": "Forbes",
+     "published": "2026-11-15T14:53:13+00:00",
+     "summary": "Where The 2026 Election Could Really Change U.S. Energy Policy&nbsp;&nbsp;Forbes",
+     "image": ""
+    },
+    {
+     "title": "Haaland 'incredibly happy' at Man City, not thinking about possible sanctions",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzVWQTluSHh6c3k5YzBKd2NlNjlBNTVPQ3p0bUJTTVk3OTZoc05BckxxdkFmSENyWHFuZ3FqS3Q0MWZ0NjRkX3JsdmNxekcySzRWenRaRHFoRUNfOTZYR01JZ1d0RVhoOHNFXzN6ejdrQVZ5S3ZaRlV4UlN4ZXBHcWdCTndhQjBCbEI2YVRNOUFvVHNnbGxWSzlET3A?oc=5",
+     "source": "ESPN",
+     "published": "2026-11-15T14:42:00+00:00",
+     "summary": "Haaland 'incredibly happy' at Man City, not thinking about possible sanctions&nbsp;&nbsp;ESPN",
+     "image": ""
+    },
     {
      "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHlKbUJJd1VGNzRWMWd1Wl9UOTlTUWdhNGNKVkM4d2ZPcEgzVjRGbFhrNVhSb0k3UHF0WV9rczNhOE5fWUtmaDZvbFB0T1lXWjMzMnJqSlZqOHZFbmFPZGJfa0dyaThjNk54ejM3STBOTjNEMUQyTVN5YmFqaW9Pdy1mRy1SajJs0gGOAUFVX3lxTE5NUThpczRXb2xhaF9uWURhaGN6UGxZRUYxMmtkdW1YTE40WWtJSVJuOUZSX3RIWXJ0THUybDhsbm1aLV9ocHpCVFEwTy1UWUpBUmFiYnRhSHNsUndPNFFaNEJpSk4tbzdiQ0RZdjNyVVdVQWt5Wnp2YUVDbTN6MlpIRXY0dl85a1RMR1E2cnc?oc=5",
@@ -280,51 +320,11 @@
      "published": "2026-11-15T14:00:00+00:00",
      "summary": "Retrospective thoughts \u2013 Election 2026&nbsp;&nbsp;Colorado Politics",
      "image": ""
-    },
-    {
-     "title": "Tripp Skipper: Trump won the loyalty test. Republicans lost the election.",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnN0cGFlcEhrV3JKZm5ITUhUQlByWW1BTlZCSG1fSjVYTFpiQThiZmpocnpTVl9hYWZMUEY1d25Oc184dXdiNVREeVd1bGJNVm9KYkNUYkRvV3ppMWM5Zk1RMVRJazNnS19VSHpjMC1MMGVnbFhET0VMZHlLbzZZR0Nlem9OSmk4XzRhVWlfYldVQUJzcGdRaW9HR3lLZXJMQ0NqRmV0MjJQMEnSAb8BQVVfeXFMUHhndGE4TnA2X0xBYkVhWWpoU3lsbEtWYXpGQU1YRzhLSXRYOEhsZE1vcko3WW5MSmNuaUdiVFU0TXp6UFFKenZjQzBMeVhOM0stdzdIYTc5UHNaOEIwVVZ5bm9iNndldWJ6aE5GQWdXbl8zaEljS19xYU05MENhYTVIVVFCbVh4SWNxSzhITGVOMTE5cUNsMDR1SG5BaWx0UTM1YmZsNE92MnNuVWQ0VEhNOFo2QUpNaWFLWjhuUWM?oc=5",
-     "source": "AL.com",
-     "published": "2026-11-15T14:00:00+00:00",
-     "summary": "Tripp Skipper: Trump won the loyalty test. Republicans lost the election.&nbsp;&nbsp;AL.com",
-     "image": ""
-    },
-    {
-     "title": "Caddo clerk says election results certified after council delays tax action",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYnNBVjVQM2dEUUVObHFQZVpVV0VZVnFwTS1xN0ZOaFlFbjBKQzdHcWlOVjlkRlpqWGs0a2dieEkyQjRyZFRKY0dRU1h6OVI0QTNRaFNDYVBPN2N0NTRjUW9WX21YOE1weVE5bEU2S1RNZjJFR0ZHY25SeHJXakktY255aFQ5c2FpR0dfbi11cEFTcGstbTY4dmFGeWlkbnh0Q0VtM0xJcks2OEFLX2RUODVWanVxVndmb1hZbXVLZWZZMlBfbFdJRERfMHJ3d0t6QkxGSnZDeThNOGYzNFRQNUZGeXZrc0NqeHFEd3JXa2IyTWc?oc=5",
-     "source": "KTBS 3",
-     "published": "2026-11-15T14:00:00+00:00",
-     "summary": "Caddo clerk says election results certified after council delays tax action&nbsp;&nbsp;KTBS 3",
-     "image": ""
-    },
-    {
-     "title": "The week in pictures: Spain protests, Pope Leo's Peru 'homecoming' and Rocky fans in Philly",
-     "url": "https://www.france24.com/en/europe/20261115-the-week-in-pictures-spain-protests-pope-leo-peru-homecoming-rocky-fans-philly-rosalia",
-     "source": "\u00a9 Matt Slocum, AP",
-     "published": "2026-11-15T13:59:21+00:00",
-     "summary": "FRANCE 24 looks back at some of the week's most striking images, from angry protests over a housing crisis that has dominated Spain's election campaign, to Leo XIV's visit to his a",
-     "image": "https://s.france24.com/media/display/c94a7240-e01f-11f1-b658-29048b396e03/w:1024/p:16x9/AP26317808141916.jpg"
-    },
-    {
-     "title": "The Latest: Democrat Scott Colom wins election to US Senate from Mississippi",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWEV6UHFYT19XYW5oRXFrYlpuNE51Rm5HNjRtQ2ZqWkM4RlI0dEMzb3dwc1draG9McmlMUkFEZHpUR1JjMzNhYUdqc3U1NDdvRUhCcE5SUmZpR2pfZnJXMzRrb1lkTTJONGlXOEhVT2wtY2RxYjhSeTE3X0FvRFJnLU9QMWlaSm9ueExxSUwyQWNLUzltNWJ2azhNWnNJUlRJNVBHV0FJLUtwd2pWS25uVG1ucXFvQnp5U3FYSHR0emFLbm1tQWJqbUR5RnZ2VVVXNlE0bm1KblQ1WXVvZGIxc2Q2Q3hnRE1JREMzcW1EMHBEWXlJTDFwNnpWQ1Q?oc=5",
-     "source": "New Castle News",
-     "published": "2026-11-15T13:57:51+00:00",
-     "summary": "The Latest: Democrat Scott Colom wins election to US Senate from Mississippi&nbsp;&nbsp;New Castle News",
-     "image": ""
-    },
-    {
-     "title": "France's presidential race heats up",
-     "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261115-france-s-presidential-race-heats-up",
-     "source": "France 24",
-     "published": "2026-11-15T13:49:25+00:00",
-     "summary": "In approximately six months time, French voters will head to the polls for the first round of the presidential election. Due to term limits, current president Emmanuel Macron is ba",
-     "image": "https://s.france24.com/media/display/d47ace7e-e0f8-11f1-b302-3f371022a770/w:1024/p:16x9/capture-bf14f38a.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-15T14:40:42.917586+00:00",
+   "fetched_at": "2026-11-15T15:10:46.206166+00:00",
    "stale": false,
    "items": [
     {
