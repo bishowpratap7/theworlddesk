@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-15T05:09:10.494493+00:00",
+ "generated_at": "2026-11-15T05:39:14.379238+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-15T05:09:10.494463+00:00",
+   "fetched_at": "2026-11-15T05:39:14.379208+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+     "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T05:05:02+00:00",
+     "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+     "image": ""
+    },
+    {
+     "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+     "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T04:44:57+00:00",
+     "summary": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
+     "image": ""
+    },
     {
      "title": "Video shows moment of Brooklyn building collapse from inside",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
@@ -100,27 +116,11 @@
      "published": "2026-11-15T01:33:11+00:00",
      "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
      "image": ""
-    },
-    {
-     "title": "Thailand\u2019s elderly kept in cages",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T01:32:08+00:00",
-     "summary": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
-     "image": ""
-    },
-    {
-     "title": "SpaceX\u2019s Starship nails a smooth return with historic catch",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T01:22:01+00:00",
-     "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical \u2018chopsticks\u2019.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-15T05:09:10.494477+00:00",
+   "fetched_at": "2026-11-15T05:39:14.379222+00:00",
    "stale": false,
    "items": [
     {
@@ -208,7 +208,7 @@
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-15T00:00:08+00:00",
-     "summary": "Saudi-led coalition strikes down three Houthi drones in as many hours, as Iran says its targeted a US base in Bahrain.",
+     "summary": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
      "image": ""
     },
     {
@@ -222,9 +222,33 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T05:09:10.494481+00:00",
+   "fetched_at": "2026-11-15T05:39:14.379226+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Cape Verde could elect first woman president since gaining independence in 1975",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEZaaVg2di1CeGcyQlpLZjBmeHpaYXQ5YTRGMk8xM0NyZkVtSmFuX2d1ckFqOExOMVhmbzk4U0lEYk96VVd3OENPVTd6bERTNTJDQl8tR3ZxS2JZX2xER3JfSHdCRF9JQkxLMm11bnFTYmN1LUN4R3lfRy15MmJsSS04VUEzX183SDFYSVFDaHJIaTJFT1VQeHljX2FFbkYwV0hmY1VB?oc=5",
+     "source": "AP News",
+     "published": "2026-11-15T05:22:00+00:00",
+     "summary": "Cape Verde could elect first woman president since gaining independence in 1975&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "USA-ELECTION/TEXAS",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xb0I2OTJpMEp4T0hrd2dYYzU1N29aOWRYWFVLWWdwWkVtNmtmY0o5SEZUTEwtMTVLMjdMSlpGTFdzQmVQNi11dk1RSVZiRU80a1dPSGlUZTVEbDZsaXg2cnd5dTRFaTAwRGR5NzVDZnJ0X1hN?oc=5",
+     "source": "Arizona Daily Star",
+     "published": "2026-11-15T05:15:41+00:00",
+     "summary": "USA-ELECTION/TEXAS&nbsp;&nbsp;Arizona Daily Star",
+     "image": ""
+    },
+    {
+     "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+     "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T05:05:02+00:00",
+     "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+     "image": ""
+    },
     {
      "title": "The AI Use Policy Your Quality Team Will Actually Follow",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHNGR3NqU3p6UWNabGNnQmc5bTc4OXpWeGY0YjVFdmNObVg4SW54aTB0djc1N2ozeUxoTEVNTFFPYmw2WGptcmFKM0dXcFBSRTNabVV6Mk11RjBkNEFCOFFhQVVDWUZJclh3Q0NMeG1QUjJoaldNUlJ1dktsdG9DdHo1OVBYM2lmLV9qeUJCckVId21HWnMxa2xUcU50NmVp?oc=5",
@@ -258,6 +282,14 @@
      "image": ""
     },
     {
+     "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+     "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T04:44:57+00:00",
+     "summary": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
+     "image": ""
+    },
+    {
      "title": "Ukraine Diplomacy, Huge Russian Battlefield Losses and China\u2019s Quiet Rehearsal for Isolating Taiwan. Weekly Update & Big Five, 15 November.",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UHZKaUstRjQ4MVJVaFFIeTV5cUM2MVdrRVNLaGhyZEJReFlUa2NORGJjVHY4YkhJVHdDWmtCYzZNVnZPa0RZcjRpcFkyS3pSM1BtTVpRbm52OS1yUHBHZ3hTaTF6NnFFajdGQmdXajMyTVg3R0x0VUY3bzlpY2M?oc=5",
      "source": "Futura Doctrina | Mick Ryan",
@@ -271,14 +303,6 @@
      "source": "FOX40",
      "published": "2026-11-15T04:10:12+00:00",
      "summary": "California GOP chair not running for re-election&nbsp;&nbsp;FOX40",
-     "image": ""
-    },
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCcmVwdUpkZXFNWjBlUkJ6ekVkR1FzblBpWWhEZFJNOWJiQ1JpbjNDUEhrU01UNWVkRlZxRzdCbU1XTEhoYXRYLTVDSHFLMDk5dzRHWDJxY2hRRkRuNzVoalVfLWdTOXNBcUNuY2dwdjA1Unc4bHdlQW1HVndfdw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-15T04:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     },
     {
@@ -296,35 +320,11 @@
      "published": "2026-11-15T03:49:21+00:00",
      "summary": "Prime minister says he and Chris Bowen were having \u2018light-hearted banter\u2019 when they were caught discussing where they keep their phonesGet our daily political email, free app or da",
      "image": "https://i.guim.co.uk/img/media/4234ff2cadfb5b400fae76732ca4c673a2b713e6/639_0_6877_5501/master/6877.jpg?width=140&quality=85&auto=format&fit=max&s=4d3cdc60bc8855259dcbf1ab9ce5da75"
-    },
-    {
-     "title": "SHOOTING: Euro Confederation chief Ratner removed from ISSF Presidential election ballot, is appealing to CAS; this is all about Russia",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYjV4NTJqR0N1SThqb3NRN1IyNGlxdW9rcHRpbmNTREZIcGowMHU4b3daeTAwQzlaX290THVGLWRMM3BQNDlULUVaSTV6NUZ0NTlYN29hT0V0Ylp4UUlVQ04wMmYyTzRqa0N1dF9WN3l4Z2dUUS03eHpLODVwa29YQXpENUxlT0hsTExhUmNNMm9fSVdnWVhIV3dvMFpEOTdWVkROdzljRzlNWWljRXhfQ19JNExkMUZvQjctN2JIUXZMWk45cDItVG55YXExZ3BuRGVtX0hWTDl5TUdPUUs3YWNJM1JBdUJwSTlYdXkweWlTc2taQlBmUmlWNA?oc=5",
-     "source": "The Sports Examiner",
-     "published": "2026-11-15T03:47:14+00:00",
-     "summary": "SHOOTING: Euro Confederation chief Ratner removed from ISSF Presidential election ballot, is appealing to CAS; this is all about Russia&nbsp;&nbsp;The Sports Examiner",
-     "image": ""
-    },
-    {
-     "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-15T03:21:04+00:00",
-     "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "Polling practice: Wilkes University students conduct Election Day exit surveys",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZThnRjMtWG96S2Fib29KT3gzVVF6VHBTeFBCdy0xNWs2b2RyRmdEeHEzakpEc1dER25zTzZCQ1l3SjIxUHZlaHFVX2tPUzBUc2o3dUdZbzFNS1pyMmgzcUgya0F0Y3IySlc0WlFWcGtVb2JnTVdlVzZUbWp1OHg1X01ja3lCazBaSEtiaWN1SjlyZF8yU194NklhOGFfaWVxM0w4dERuaDJrTThLc2hUYU9NcWxCQUVyQVE?oc=5",
-     "source": "Times Leader",
-     "published": "2026-11-15T02:30:00+00:00",
-     "summary": "Polling practice: Wilkes University students conduct Election Day exit surveys&nbsp;&nbsp;Times Leader",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-15T05:09:10.494484+00:00",
+   "fetched_at": "2026-11-15T05:39:14.379228+00:00",
    "stale": false,
    "items": [
     {
