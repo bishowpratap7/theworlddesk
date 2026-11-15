@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-15T01:08:28.558389+00:00",
+ "generated_at": "2026-11-15T01:38:43.256318+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-15T01:08:28.558359+00:00",
+   "fetched_at": "2026-11-15T01:38:43.256288+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "SpaceX\u2019s Starship nails a smooth return with historic catch",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T01:22:01+00:00",
+     "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical \u2018chopsticks\u2019.",
+     "image": ""
+    },
+    {
+     "title": "Israeli air strike kills senior Hamas commander in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T01:00:42+00:00",
+     "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+     "image": ""
+    },
     {
      "title": "Hundreds of men march in Switzerland to protest violence against women",
      "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
@@ -100,29 +116,45 @@
      "published": "2026-11-14T22:43:12+00:00",
      "summary": "Syria\u2019s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
      "image": ""
-    },
-    {
-     "title": "SpaceX\u2019s Starship returns to launch pad from orbit in victory for company",
-     "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
-     "source": "The Guardian",
-     "published": "2026-11-14T22:35:06+00:00",
-     "summary": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusableSpaceX\u2019s megarocket Starship returned to its Texas launch tower on Satur",
-     "image": "https://i.guim.co.uk/img/media/8d43d90555e696b8b0c519ba0b4fd459453f0aab/304_0_3038_2430/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=dda7e62a63c3fd758825b1e756002abf"
-    },
-    {
-     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T22:09:40+00:00",
-     "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-15T01:08:28.558375+00:00",
+   "fetched_at": "2026-11-15T01:38:43.256302+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "EU membership?: Ukraine\u2019s path to accession narrows as war drags on",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazlXYUhGSS15eUlGdHo4Mm0tNDRpcFlHWWNYaVpsWWE2U2JPT2ZzWnp4cVNIOE5WNE1TQXNBajg0SWtIUzdkVjFTd2ZOazRtYTBIbE1LV2pvdmJ0ajhpSENDRHZDNk5xdlRBeVVBUU5EZTZ2VnRrVkNKM2RFRzhpQU5WZTYzMnU2T0dBUkNiMDZuaFlrWEhPc1llMnNVd0JIZDlTNXV3?oc=5",
+     "source": "Sight Magazine",
+     "published": "2026-11-15T01:32:34+00:00",
+     "summary": "EU membership?: Ukraine\u2019s path to accession narrows as war drags on&nbsp;&nbsp;Sight Magazine",
+     "image": ""
+    },
+    {
+     "title": "Russia Ukraine War Daily Life",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTh2eWdmdlNWV2lGY1lYeXQzZnFhZVozdlZ0S2dYcnBZdVBIeUZlTUFOTkQ0YjR0UGhmNjIyc2QxeVZGdGtFdkpuQ0kwM3dWaWl5VjY5aTRpZktuUWNla2haRFRYaW1MSTItM0RRNGwzNVV0YTQxcDZzb21EeXhjZlYzaTRhSnp0S1VzN3p5ekM2cTZRXy1Keg?oc=5",
+     "source": "TelegraphHerald.com",
+     "published": "2026-11-15T01:30:27+00:00",
+     "summary": "Russia Ukraine War Daily Life&nbsp;&nbsp;TelegraphHerald.com",
+     "image": ""
+    },
+    {
+     "title": "Israeli air strike kills senior Hamas commander in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T01:00:42+00:00",
+     "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+     "image": ""
+    },
+    {
+     "title": "Kushner seeks Russia-Europe talks to shape postwar security and pursue Ukraine peace",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY2ZlTVFfZlVrekgzbHB4NGY0NFpMRHh5ZXVFYmUxaVJMNk9DVWJDSVVEZENWNjJvZXRneXp0VGc3MDFXSnJJcEdDLVRyOFlXcmNOMEJZVVNJVjlROHVvMU5NdWgtbkFnRkpabFdkT2tfY1IxdDJad0l3ZmpHd2trMXRNR0RlVkhU0gGcAUFVX3lxTE04eDEzYnQ5RnFMYTQ1cDF3VFpLcWYxQ1JaUGFVS0xkNG8zcVYwVkhQWTFCR1BkbTU1cDczMVJsSktxUTVaUVhSWlU5R1MwWmZ5UENsbndXeEZkSzcydkRfVm9Jbjl3cXlMN0o4QmZBMWJYcjhTTExzWDBuLTBSZTlEYjM5TmRQT3diZTJFbVJBZ0pRZ2tBUVVNSGJIZg?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-11-15T00:54:00+00:00",
+     "summary": "Kushner seeks Russia-Europe talks to shape postwar security and pursue Ukraine peace&nbsp;&nbsp;Chosunbiz",
+     "image": ""
+    },
     {
      "title": "Iran war live: Israel vows Gaza \u2018offensive policy\u2019 despite caretaker status",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
@@ -180,49 +212,17 @@
      "image": ""
     },
     {
-     "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0x6X3prTmdxdXlVNU1GdjBSdThpaDdHT2ZzYkVqVzlTMkQyTG5Fc3Z0NFJVSUVJTWk5QjdfZkhIaTNPOEJJTVU3Mk41NWlPZVl4SHctSmZ4dXhLT0s4RWYyNVUwd0p0Qk9hOWtwRkF3Uy1YOWdyUnZJbVg5dU9RM3UwblUxYi13dnJuUmZvOWNVY29VYVNCSnNyMS1wVWs0dWd3bXd6T3BnTy04aV94ZUxB0gG3AUFVX3lxTE5kbXVNakk4aUFZU3NlYkRkWUxvalJraFN3VWc5bjhBSzdyLVJ6MS1zVTVqeVRySm5kQ1VNOGVTX2JEMm9GMjFRVTVMS21WSzVxbGNULUNhMmdJRVdoTFlBVjBKUnpXWE0zRUFnRVlBYlJ3WEUzcFdIdmgyQzZrNTVyZWpkUFhJcDJhVlkzakZtUXFQRTNwN3RuQ3pQai1YUnA4YlFPMkR2NnBQMEEwR3FwQ1ZPY0QyQQ?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T21:21:03+00:00",
-     "summary": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Tsikhanouskaya ally condemns Belarusian athlete for insulting Ukrainian opponent, complacency in Russia's war",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDJLa1RybEYteFpxbnF4SHpiaTEtcG41VWdyRDdIZ1VDY2oxN2J4WDJnM3BoZkduRFYtN1FxVzR5aWM0Z25KVjh5Z2hwWHhyaXhDTDdqaUdKVTV5WHRBZHEwWER6N0tTMXdHQUhkZVJ2Zjd5Z0ZZTDNfTXNIckIxOXNteFBuLW83c3d0QnlPeTFXRExSMG5QUER0NVgtUzRaeDNpeG1hZEY5cWRCRGZoZzR1ZXZ1VVUzdVpCaG9OZ2dJR0NFTG9ZU3MtcXN2ZFduaHc?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-14T20:56:11+00:00",
-     "summary": "Tsikhanouskaya ally condemns Belarusian athlete for insulting Ukrainian opponent, complacency in Russia's war&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
-     "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
-     "source": "\u00a9 Ilia Yefimovich, AFP",
-     "published": "2026-11-14T20:35:22+00:00",
-     "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu on Saturday renewed his call for a national unity government with Gadi Eisenkot, who dismissed the appeal as a political ploy. T",
-     "image": "https://s.france24.com/media/display/e9d87c1e-e06a-11f1-b45a-f71d22e7fea9/w:1024/p:16x9/eb428c66bf6978a929203d6ac1afd3964fb560b1.jpg"
-    },
-    {
-     "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-14T20:23:56+00:00",
-     "summary": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVJaNmpaaGdfSkd4dWhzZE8wMEx3dFZha3JtM0FZanNic0tnbEh2dXhaUm9kUkRtMi1mWnVCNVFXSU85VV9wVl9qd1A3cVhxQTBpaDg0djlmMkhRc1JNQm1KOFBxMExkSU5iOXB5RUJvcEFHb3kxcnhRZ3plY095UFN0SFFNYkYyVHVUQ0hjYWZpckpFWGVGNjJXaFlHVlRDODk4dy0tdDkweUx4N2h1OTgzdFV2MEtlaWfSAb8BQVVfeXFMTVEyNzBjU1YwN0lpendMNWhrNldxTUlLZ2VWSHRlTDVJcG15TUNrZHBNdmZFcnBwTlFZMk9LYmlCTVB4cEV1UUVCYzB4YUVlNHI0eFFNczExVlZaVjIwREFPN0IyanRDTXFBVTFDTnRmSFFSVzVWMHVZRHhnSGpCSndNak1sa0cxc1lRWUFDZEs1MU1yQUxmSzJhZFRqTEdybFJtS2Q0ZXVUYTFQMTFUMjktNFpYQWV0al9US2REQ2c?oc=5",
-     "source": "PBS",
-     "published": "2026-11-14T20:23:29+00:00",
-     "summary": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin&nbsp;&nbsp;PBS",
+     "title": "Are we heading for a Third World War?",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc1I1TEloSEJySGxQMGs3NFJ0OHpVX1M3MEtTRFAzNm9CaGw4VEZnY2E1QmlwWTMtdzhheXM1eFBtZHVGQ3BRbXoyeWczMDFIX1B5QlhMT1JWbXFWcWhSeHJHcElhUG9EYUlGZWl3VnZXRlk0SWNXajJnMlNSLVIzeTdHLU5FbHpXZ1BLV29rTEpCdFlVUnZlMEstd1JTU1VIZmhDZm9NVkdWa1doS05XdG9ISVpnczVDeEhYV0plbFNsaFNsWmxvTVhqcnNEYV9yUTRpQjJ6QzktWGpYaFVINDZpMGg?oc=5",
+     "source": "The Times",
+     "published": "2026-11-14T22:00:00+00:00",
+     "summary": "Are we heading for a Third World War?&nbsp;&nbsp;The Times",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T01:08:28.558378+00:00",
+   "fetched_at": "2026-11-15T01:38:43.256307+00:00",
    "stale": false,
    "items": [
     {
@@ -266,6 +266,14 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg"
     },
     {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCcmVwdUpkZXFNWjBlUkJ6ekVkR1FzblBpWWhEZFJNOWJiQ1JpbjNDUEhrU01UNWVkRlZxRzdCbU1XTEhoYXRYLTVDSHFLMDk5dzRHWDJxY2hRRkRuNzVoalVfLWdTOXNBcUNuY2dwdjA1Unc4bHdlQW1HVndfdw?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-15T00:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
      "title": "General election certified in Frederick County",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0M0LVc1cThiTjE2NG5kUnJwaVlSZWpnUjBmV051SlhkX0U2RVh2Z3gwQVV0cWRNZjV5RFhaRUpNWExjSWVEOEc1aERlZXkybDlXVnN5STJpRzdCU1NrMXJsckF3cTg3LXc3dUo2R3pXU1pSb0IxRnhueFg3bGpOeTF3UWdaWF9aSi1EbFZYM3otNTRBbnVQZ2pZUnhXcC03QkdQS2swbDdTYkU2RUwwbnBKTEE0YVU3SFh0cDhHcTZyUmlTRHB5SHBR?oc=5",
      "source": "The Frederick News-Post",
@@ -290,11 +298,11 @@
      "image": ""
     },
     {
-     "title": "Lessons to Be Learned from the Midterm Election",
+     "title": "Distant Dome: Lessons to Be Learned from the Midterm Election",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFM5YUxUUWV0cjcwaTI1cW5GNUc1aG4zQ0dUTUVNZHF4TXEzUWdfLTRjeFNzVHBqUEhzQkc1aUlXa1R6VTYxTTJWWHJtWWJWdEh5TEZxQzhoMVBvQ0w3V1NvYWU3UnhUX2ROMGZpanhrYjF4WXFCTlNLZzV0VDhjMEc3ZnY4ZUhM?oc=5",
      "source": "InDepthNH.org",
      "published": "2026-11-14T23:40:15+00:00",
-     "summary": "Lessons to Be Learned from the Midterm Election&nbsp;&nbsp;InDepthNH.org",
+     "summary": "Distant Dome: Lessons to Be Learned from the Midterm Election&nbsp;&nbsp;InDepthNH.org",
      "image": ""
     },
     {
@@ -312,19 +320,11 @@
      "published": "2026-11-14T23:32:00+00:00",
      "summary": "Tennessee\u2019s gerrymandered election maps hold up, but not as well as in past cycles&nbsp;&nbsp;Chattanooga Times Free Press",
      "image": ""
-    },
-    {
-     "title": "What happens to campaign signs after Election Day? Hillsborough County gives them a second life",
-     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQXJIQllXd0x2ZGN0OFl3WENWU0piY3YzVzBqLWs5WjZXRzFMV2I0VEJ6TzlGTkVCaVFNSngyT0htRllOaU5oZElkVk5vSWVDZGM1dmF2TW9vSFkyckZGQjk3bURwVnRjWU0xZ1lIYUs2c0Z5MDRWWGxhWW9PbXlZV1hpM00xNG1SeDUwQ3l5MTgwV3ZpOG9OeG1oSVFtNnVMWm9mYWNnSDJBRE1wYndpOTVJUXBhaDdWMkdtVF9veVVMV2VhbEV5ZzBFaVNMWHFNcEdCV3d4WVlYcUhNOUxKQVE2NTg2MDVLYWZXSnI3UzgtY1JoaUkzV2Z5V0pCZWtPZTFYbm1rcXlxOE5OYTYyUURPcERxdnZFWkFR?oc=5",
-     "source": "wtsp.com",
-     "published": "2026-11-14T23:30:00+00:00",
-     "summary": "What happens to campaign signs after Election Day? Hillsborough County gives them a second life&nbsp;&nbsp;wtsp.com",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-15T01:08:28.558381+00:00",
+   "fetched_at": "2026-11-15T01:38:43.256309+00:00",
    "stale": false,
    "items": [
     {
