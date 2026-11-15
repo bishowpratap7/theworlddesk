@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T02:38:49.956844+00:00",
+ "generated_at": "2026-11-15T03:08:55.196506+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-15T02:38:49.956810+00:00",
+   "fetched_at": "2026-11-15T03:08:55.196467+00:00",
    "stale": false,
    "items": [
     {
@@ -120,9 +120,17 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-15T02:38:49.956825+00:00",
+   "fetched_at": "2026-11-15T03:08:55.196481+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "A Theory of Victory for Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mdEdqUEtfVHJxZjM2QTVaQ1RXNGh4MnlVU19WeHNobkw2QnFtdjRrTjBjaHM1NGE0dXNOc1Zja3YycUVsSEZILUNHWE1GNU1IVkRzdldVVlk4U1o2Xy0yaWZYbHhBeHMzb3BaaHczZDBaY0Nv?oc=5",
+     "source": "The Common Sense",
+     "published": "2026-11-15T03:01:41+00:00",
+     "summary": "A Theory of Victory for Ukraine&nbsp;&nbsp;The Common Sense",
+     "image": ""
+    },
     {
      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
      "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
@@ -210,19 +218,11 @@
      "published": "2026-11-14T22:07:08+00:00",
      "summary": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says&nbsp;&nbsp;CBS News",
      "image": ""
-    },
-    {
-     "title": "Are we heading for a Third World War?",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc1I1TEloSEJySGxQMGs3NFJ0OHpVX1M3MEtTRFAzNm9CaGw4VEZnY2E1QmlwWTMtdzhheXM1eFBtZHVGQ3BRbXoyeWczMDFIX1B5QlhMT1JWbXFWcWhSeHJHcElhUG9EYUlGZWl3VnZXRlk0SWNXajJnMlNSLVIzeTdHLU5FbHpXZ1BLV29rTEpCdFlVUnZlMEstd1JTU1VIZmhDZm9NVkdWa1doS05XdG9ISVpnczVDeEhYV0plbFNsaFNsWmxvTVhqcnNEYV9yUTRpQjJ6QzktWGpYaFVINDZpMGg?oc=5",
-     "source": "The Times",
-     "published": "2026-11-14T22:00:00+00:00",
-     "summary": "Are we heading for a Third World War?&nbsp;&nbsp;The Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T02:38:49.956829+00:00",
+   "fetched_at": "2026-11-15T03:08:55.196485+00:00",
    "stale": false,
    "items": [
     {
@@ -231,6 +231,14 @@
      "source": "Times Leader",
      "published": "2026-11-15T02:30:00+00:00",
      "summary": "Polling practice: Wilkes University students conduct Election Day exit surveys&nbsp;&nbsp;Times Leader",
+     "image": ""
+    },
+    {
+     "title": "NOPO: Negative-Only Policy Optimization for RLVR",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0QzNjYtMGVPTzllVGVWR2ZZUnJJeXpsN1lFWl9yUGhiOWRMVHdid2JBVXJzMTU1dFJRazB3cHkzX0FkNnZGbERJS2x2VUFLUThiaENGbDJnUktvdW5UUVpKa1ViWHdPRDdFLUk4M1YyNUI0c3RBQ0JRTFNZZmtNeGhZdw?oc=5",
+     "source": "CASRAI",
+     "published": "2026-11-15T02:18:26+00:00",
+     "summary": "NOPO: Negative-Only Policy Optimization for RLVR&nbsp;&nbsp;CASRAI",
      "image": ""
     },
     {
@@ -312,19 +320,11 @@
      "published": "2026-11-14T23:53:06+00:00",
      "summary": "Beshear, Barr share handshake at Kentucky basketball game after election&nbsp;&nbsp;WSMV",
      "image": ""
-    },
-    {
-     "title": "Distant Dome: Lessons to Be Learned from the Midterm Election",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFM5YUxUUWV0cjcwaTI1cW5GNUc1aG4zQ0dUTUVNZHF4TXEzUWdfLTRjeFNzVHBqUEhzQkc1aUlXa1R6VTYxTTJWWHJtWWJWdEh5TEZxQzhoMVBvQ0w3V1NvYWU3UnhUX2ROMGZpanhrYjF4WXFCTlNLZzV0VDhjMEc3ZnY4ZUhM?oc=5",
-     "source": "InDepthNH.org",
-     "published": "2026-11-14T23:40:15+00:00",
-     "summary": "Distant Dome: Lessons to Be Learned from the Midterm Election&nbsp;&nbsp;InDepthNH.org",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-15T02:38:49.956832+00:00",
+   "fetched_at": "2026-11-15T03:08:55.196488+00:00",
    "stale": false,
    "items": [
     {
