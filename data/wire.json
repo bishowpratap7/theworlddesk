@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-15T16:10:53.607541+00:00",
+ "generated_at": "2026-11-15T16:11:40.374237+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-15T16:10:53.607506+00:00",
+   "fetched_at": "2026-11-15T16:11:40.374205+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "British tourist smashes Jesus statue outside Vilnius church",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T16:04:22+00:00",
+     "summary": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
+     "image": ""
+    },
     {
      "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
@@ -108,29 +116,13 @@
      "published": "2026-11-15T14:55:40+00:00",
      "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
      "image": ""
-    },
-    {
-     "title": "Fascism built the AI bubble. What will burst it?",
-     "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T14:55:00+00:00",
-     "summary": "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-15T16:10:53.607523+00:00",
+   "fetched_at": "2026-11-15T16:11:40.374224+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Ukraine war, latest news. Kremlin: \u2018If no agreement is reached with Europe, we will use force\u2019",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWVtcEZBUXBmSS1vRU05WEZ5TzczLXFVU0tqZW5BZ3hjM2ZTMmVpSk1nX2RDSkNFQ1ZQQkQ3T19rWkZJZVhzcmF6aWJ2dE54UWZHY3ZkSi1sN1pqTmFYWW1ZanlQcXFLUmNRVnNwOHVSdHltM1N6UVZPUy1CUW90TmxlUzl0bkkteDlsLUJ0a1R0ZHNQY2NjVExIQ3E5OFBEdmtDd3dXUjlyTmJrOHpwbkVmamJ1Nm9kcm5GSWl3?oc=5",
-     "source": "Il Sole 24 ORE",
-     "published": "2026-11-15T15:59:04+00:00",
-     "summary": "Ukraine war, latest news. Kremlin: \u2018If no agreement is reached with Europe, we will use force\u2019&nbsp;&nbsp;Il Sole 24 ORE",
-     "image": ""
-    },
     {
      "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
@@ -172,27 +164,11 @@
      "image": ""
     },
     {
-     "title": "Ukraine war negotiations expand to include Europe",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZURLLTNvclZHcXhSR3ZYWXZYaGNncnF3ei1PZUM3NGJJZC1pN1dldWx4YkI0bW1GRFFZemUtcUhyeE45dU5FdDBoS3VjVG44bmpUYXBB?oc=5",
-     "source": "Fox News",
-     "published": "2026-11-15T14:57:50+00:00",
-     "summary": "Ukraine war negotiations expand to include Europe&nbsp;&nbsp;Fox News",
-     "image": ""
-    },
-    {
      "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-15T14:55:40+00:00",
      "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
-     "image": ""
-    },
-    {
-     "title": "Do Average Russians Bear Responsibility for the Ukraine War?",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDlCQWZjX2Y0S25jUDc1R0dWX093b3NtcmNsZkxpdjZYV1l4NzVaejMwWVJqa0hGUkRwNTQxOVh0NXRoWFVTM1VKdHNmRGtrbmdfeEtMWGRDaERMdnFNaWlLaUVQOVgyb0ZtVFU0SDUybGR4TjRuVndITDBSNnJkaVZ3V3g0UWt0a2xIYl9HQlJ2azhNbDlzZHJVYVQ?oc=5",
-     "source": "The National Interest",
-     "published": "2026-11-15T14:47:58+00:00",
-     "summary": "Do Average Russians Bear Responsibility for the Ukraine War?&nbsp;&nbsp;The National Interest",
      "image": ""
     },
     {
@@ -204,35 +180,51 @@
      "image": "https://s.france24.com/media/display/c9d5d0c4-e100-11f1-b165-29048b396e03/w:1024/p:16x9/EN-20261115-082508-082646-CS-01.jpg"
     },
     {
-     "title": "The race to build autonomous war robots faces a problem that self-driving cars don't. There are no rules of the road.",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFpROFBXdVlZN25LMmczNDhZY3pJT05sVUpVdGYtMXZVckFqa1ZpMXZkNVRGNTA5dXJvTXJtX2x4SHBidVlaQkdQTktYQjNZRWdFNG1Fdml4akFrd0haTEtSSG5aRjlmeVZoQTFaQk5QYkVyQ1lyMUd6WFJ2Q216Z2pCZ1pLNXRPUE5KWm9QbmRPUWljcGZYRzVyQmZQV2Jva1lwOUphUFhNQkRKT2Jn?oc=5",
-     "source": "Business Insider",
-     "published": "2026-11-15T14:10:00+00:00",
-     "summary": "The race to build autonomous war robots faces a problem that self-driving cars don't. There are no rules of the road.&nbsp;&nbsp;Business Insider",
-     "image": ""
-    },
-    {
      "title": "Can Netanyahu and Eisenkot form a \u2018unity\u2019 government in Israel?",
      "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-15T14:02:08+00:00",
      "summary": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
      "image": ""
+    },
+    {
+     "title": "Bahrain says air defences destroyed several Iranian drones attacking US base",
+     "url": "https://www.france24.com/en/bahrain-says-air-defences-destroyed-several-iranian-drones-attacking-us-base",
+     "source": "France 24",
+     "published": "2026-11-15T13:55:32+00:00",
+     "summary": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September. The second Iranian drone attack in three days, ending a long lull in strikes duri",
+     "image": "https://s.france24.com/media/display/84b2607c-e0f9-11f1-b274-695cb59fade5/w:1024/p:16x9/EN-20261115-130317-130744-CS.jpg"
+    },
+    {
+     "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+     "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T13:45:02+00:00",
+     "summary": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
+     "image": ""
+    },
+    {
+     "title": "Iran targets US military base in Bahrain with drone attack",
+     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T13:42:58+00:00",
+     "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Starshield restrictions help Russia\u2019s energy attacks on Ukraine: Zelenskyy",
+     "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T13:37:08+00:00",
+     "summary": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
+     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-15T16:10:53.607528+00:00",
+   "fetched_at": "2026-11-15T16:11:40.374227+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "How Could Pennsylvania Democrats Change Election Law Next Year?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWHlDaUo0XzhJQ2xVSzdmRnpTeVFsUF9hUG4tZE0zV21CQlJyZThjdWt4RVZfYkV5WGwtR3RlWGFXWU11QXJxdHV4YTBQaFQ3N1ZuSUlzTGtmNEdGTWl2VWM2UDRyVmtjMjVnaGVZZHpkcW5qeUtrLV9JRThFQ0hHb09Ed0pVUE53THRYRU0yUHBxejFvWXZ6bGhRRjZfWk4wNjdB?oc=5",
-     "source": "Bucks County Beacon",
-     "published": "2026-11-15T15:58:53+00:00",
-     "summary": "How Could Pennsylvania Democrats Change Election Law Next Year?&nbsp;&nbsp;Bucks County Beacon",
-     "image": ""
-    },
     {
      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
@@ -240,14 +232,6 @@
      "published": "2026-11-15T15:57:03+00:00",
      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-     "title": "How immigration policy plays out after Democrats sweep elections",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmM0cW1WVkhWaWlPV0Jkd2lNNTNjbG0xak5CQUpueEoxOVpuSktaLWFkZTc5dVdpOVdobGY4OE8tVnNKdW1yQzBMS3Rvbjc1am5idW1XZlJRQ3Y2ZlBMeE9Ba2x4WU1icDNvazBGOUNTMTQ5eVJoZWxEcXNhSE84cjVPQTNJb1ZQZUNxZHJCNE5HMkNRV2pUUi0yVEpCdzhpT0YwQW9BS0tBdlRuS3lTV3VCWkRac3ZwdVJJ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-15T15:32:33+00:00",
-     "summary": "How immigration policy plays out after Democrats sweep elections&nbsp;&nbsp;The Washington Post",
-     "image": ""
     },
     {
      "title": "Canaries urge government action after 2,200 migrants reach the islands in 48h",
@@ -258,73 +242,89 @@
      "image": "https://s.france24.com/media/display/6524e48c-e108-11f1-a387-3f371022a770/w:1024/p:16x9/EN-20261115-160718-161132-CS.jpg"
     },
     {
-     "title": "Van Hollen says \u2018bunch of nonsense\u2019 that he can\u2019t win Senate majority leader",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYS1ieUtmRlR0TU9WaktEd210MjNrMWRpSFJNSVI3dUlYdWlhZTU1Sm8tUVl6b0ZuLXpzZm9yR3BISGpUUnBPS1UzOWVSMDlvdzFBUk91YzRndkxXUEZfUHlYc3l1MmtiS3BseWhVTU1EV3J4R3dPU1J6OEdHVUxvN9IBhgFBVV95cUxQQjVsdURSZlltNzBPYTh0czhMV3EtRlBHR3NoR1JCNFRERWpoZTJyNWRpN09od0FSc2ZWLXAtYkFzWndGUThSQzg3V1JLZVBSZWpJNFpmZHEzdXlYLXYwMUlfd2dDZFpkNUdKTUpOQTE2YldWaUVLU3YzSTZNSHhnMUoxWjVxQQ?oc=5",
-     "source": "The Hill",
-     "published": "2026-11-15T15:11:00+00:00",
-     "summary": "Van Hollen says \u2018bunch of nonsense\u2019 that he can\u2019t win Senate majority leader&nbsp;&nbsp;The Hill",
+     "title": "The week in pictures: Spain protests, Pope Leo's Peru 'homecoming' and Rocky fans in Philly",
+     "url": "https://www.france24.com/en/europe/20261115-the-week-in-pictures-spain-protests-pope-leo-peru-homecoming-rocky-fans-philly-rosalia",
+     "source": "\u00a9 Matt Slocum, AP",
+     "published": "2026-11-15T13:59:21+00:00",
+     "summary": "FRANCE 24 looks back at some of the week's most striking images, from angry protests over a housing crisis that has dominated Spain's election campaign, to Leo XIV's visit to his a",
+     "image": "https://s.france24.com/media/display/c94a7240-e01f-11f1-b658-29048b396e03/w:1024/p:16x9/AP26317808141916.jpg"
+    },
+    {
+     "title": "France's presidential race heats up",
+     "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261115-france-s-presidential-race-heats-up",
+     "source": "France 24",
+     "published": "2026-11-15T13:49:25+00:00",
+     "summary": "In approximately six months time, French voters will head to the polls for the first round of the presidential election. Due to term limits, current president Emmanuel Macron is ba",
+     "image": "https://s.france24.com/media/display/d47ace7e-e0f8-11f1-b302-3f371022a770/w:1024/p:16x9/capture-bf14f38a.jpg"
+    },
+    {
+     "title": "Francophone summit opens in Cambodia, overshadowed by tensions in Africa",
+     "url": "https://www.france24.com/en/video/20261115-francophone-summit-opens-in-cambodia-overshadowed-by-tensions-in-africa",
+     "source": "France 24",
+     "published": "2026-11-15T12:06:21+00:00",
+     "summary": "The 20th Francophonie Summit opened on Sunday in Phnom Penh, Cambodia, overshadowed by a high-stakes leadership dispute. The International Organisation of the Francophonie is set t",
+     "image": "https://s.france24.com/media/display/f59109c4-e0ea-11f1-83da-f71d22e7fea9/w:1024/p:16x9/EN-20261115-120651-120900-CS.jpg"
+    },
+    {
+     "title": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
+     "url": "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
+     "source": "The Guardian",
+     "published": "2026-11-15T12:00:15+00:00",
+     "summary": "Activists have been shouting about economic issues for years \u2013 in January they will expect lawmakers to respondStonecrest is resolutely middle class. About six out of 10 of its vot",
+     "image": "https://i.guim.co.uk/img/media/965398d86ac792d2522a2a4d356cb2d6b2d3f207/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=5fffe4e093694f440c987cab686cc54a"
+    },
+    {
+     "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia\u2019s history",
+     "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+     "source": "The Guardian",
+     "published": "2026-11-15T11:17:18+00:00",
+     "summary": "Hundreds of thousands rally against plan to scrap licence fees and fund broadcasters from state budgetHundreds of thousands of Czechs are rallying in Prague to protest against what",
+     "image": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328"
+    },
+    {
+     "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T07:10:31+00:00",
+     "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+     "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises \u2018locker-room talk\u2019",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
+     "source": "The Guardian",
+     "published": "2026-11-15T03:49:21+00:00",
+     "summary": "Prime minister says he and Chris Bowen were having \u2018light-hearted banter\u2019 when they were caught discussing where they keep their phonesGet our daily political email, free app or da",
+     "image": "https://i.guim.co.uk/img/media/4234ff2cadfb5b400fae76732ca4c673a2b713e6/639_0_6877_5501/master/6877.jpg?width=140&quality=85&auto=format&fit=max&s=4d3cdc60bc8855259dcbf1ab9ce5da75"
+    },
+    {
+     "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+     "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T00:06:51+00:00",
+     "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg"
+    },
+    {
+     "title": "Fuel crisis and protests pressure Chile's far-right president",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+     "source": "NPR",
+     "published": "2026-11-14T16:05:12+00:00",
+     "summary": "Chile's far-right President Jos\u00e9 Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
      "image": ""
     },
     {
-     "title": "City of Elmira Mayor Dan Mandell will not run for re-election in 2027",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDd6RXZyUUJOQlpFTDF6TDNnb3M3eFhNLVlIS09oWXVyZ0FfekpydWNVTzlmbWNnZnZETy1DR2VJTVNZMWFva3F6NF92QTlqRzltMUZKZ1RlalctaTZNT2VrRTBPY1RHRVA2anVZMjZ0QzJWQXVSbElKYjZISFJQckNYUFdLMmFxNU9lSy02ZlR0Q3gxM1loVGc3SC1hQUVfa0JKV3E5U1NjalZ5VnVqMUVBZw?oc=5",
-     "source": "WETM",
-     "published": "2026-11-15T15:09:40+00:00",
-     "summary": "City of Elmira Mayor Dan Mandell will not run for re-election in 2027&nbsp;&nbsp;WETM",
-     "image": ""
-    },
-    {
-     "title": "Former candidate Tim Herbst says Connecticut GOP needs overhaul",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUUt6OGt0R3BNYTBmeUVKUG9iQWgzUGNPWHJBYVhTbERsYTFpNVluNW9OUGg0eV96Y2o5ZVplbU1scEE4MlFTT1lIc2pjbFlWb2hqUGk1ZXZ5WmxGQnoxeEwxZHc5VDJiaVUxaHFlc2ZzaEgxdWExTTdEdFoyS1hoZlZBUy0yNml2azM4ZVIzWFFPVUZ3blVDN2JoV2pQSkt0aURkYXNxMmVmaU0wdEhXSVRDeETSAboBQVVfeXFMTnhyTlJpcFJoTlJvVDhkVEF5VHJ6R3V6NFRYTFZXbGFHR1gwdkxCUzlyS3JRdkhIR3ZjNkFWRG94aW1ScUpLYTY2RlkwM3IwSG5Gcko5ZjZidlhWSGFqeHpxRk94SDU0d3VyYXJ3WnBZYXNYWndCU1cxUFQ0SnBFUjZVWWowT0tMRWNraHNaQnBjOG1CbGtsN2I4TWVUVUpjMFlFNHlDemZwZnBNM1FGOEdPQlpOUE5wend3?oc=5",
-     "source": "WTNH.com",
-     "published": "2026-11-15T15:06:00+00:00",
-     "summary": "Former candidate Tim Herbst says Connecticut GOP needs overhaul&nbsp;&nbsp;WTNH.com",
-     "image": ""
-    },
-    {
-     "title": "How I worked on the 2026 United States midterm election",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmk0SkMzeHNiWWdOd2o3cHIydjByQWhGb1Y4T3AxVTdCR2tYb29yUmhHNmdhTjl3TXV2bUs2cW5sS2JiUGIwZld6SUJHRzBPZVhjZHhLYXZIZUV1UXVjRHRaT3BwVVgta1dPUUZyeENCOXgxNTlVU2N1N01pUUxaVDRrZzdXeEpULTk2TWNreFpHaDhmR0JF?oc=5",
-     "source": "Bryan Alexander",
-     "published": "2026-11-15T15:02:01+00:00",
-     "summary": "How I worked on the 2026 United States midterm election&nbsp;&nbsp;Bryan Alexander",
-     "image": ""
-    },
-    {
-     "title": "Federal policy changes cast shadow over fourth annual Massachusetts Healthcare Summit",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcUR2ZDVnTDdac3o0Zmw4azcyQ3F1SFFYTnVLTVVEZjRkbUNoVFFHMzVqWGhEaktFRURRUkJtYzUyYVhJNnVGSERONE9qUEZ4a3VvNDc2Y3JISXlXUDVOS2RKaU93OVo1UUNCdURWcnlNLU9kU3dQMDhYZ0EyajM3eDc3Ui1acy1NbDhXVnJUTHRQaV9FNG5WM1N2TktFOVJqVXFKWkNvTnJyQ0VRbGFIdUk0aFpIRFlWZFh1c2k5WHhHUQ?oc=5",
-     "source": "Athol Daily News",
-     "published": "2026-11-15T15:00:00+00:00",
-     "summary": "Federal policy changes cast shadow over fourth annual Massachusetts Healthcare Summit&nbsp;&nbsp;Athol Daily News",
-     "image": ""
-    },
-    {
-     "title": "Sarah Huckabee Sanders: 'There's no question that Election Night was a bad night for Republicans'",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkswOVo4T2YweF9nQ1hKakZXU2ZIT0ZaSWt0clBVYUJtbUo0NjUtM0R6T2FLd09tQjlqU3RPZ2tiRTBXaklKYkVuU0tkUkdkWG9IbmItbnc0ckY2TWJ4RDlvc1B2LU1MR3kzV0dmVlpOVEhsWFBBbTBxTnl3TFF1NGxR?oc=5",
-     "source": "CNN",
-     "published": "2026-11-15T14:59:11+00:00",
-     "summary": "Sarah Huckabee Sanders: 'There's no question that Election Night was a bad night for Republicans'&nbsp;&nbsp;CNN",
-     "image": ""
-    },
-    {
-     "title": "Capitol View: Post-midterm election political roundtable",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzYyNG56bTZOem10STFQMzFNcDM5WnZIbGc1cFFWcndFNnktS29QSUxNN0VTbVlpRk5qQUd2NmhRcTJoNUd2bEx4M3A4VFVHUFMyYW5EQVlGOFJ6NkNSUEZGbHo1SFZlcVdZUmRGT0NyY0ZzZVRWZ3dHUEtvLW53SnJodHFyOU13TXRPMC13cS1rYWxj?oc=5",
-     "source": "KARK",
-     "published": "2026-11-15T14:58:37+00:00",
-     "summary": "Capitol View: Post-midterm election political roundtable&nbsp;&nbsp;KARK",
-     "image": ""
-    },
-    {
-     "title": "Where The 2026 Election Could Really Change U.S. Energy Policy",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ20tWlp1M1Z2THdiVW5SWDJ2Vnl0Y3k2SHBHRVd6U3BzeDBEbzVHREtuaTdnaHZOQ1RzSmx4TDdEQmw1T0xFa2xsZ1BqRUoxRExsU1l4Ui14QUpBUXMtVTU1Ri1IM2Q1QTREZ2UxSTNPckE3TlNZdjFKeWxKdVJHbW52MUh5MGFaYUhLVC03emtGTEFJclBmOF93cGJKandwSjM1ekdnZjNzSVR3NVE?oc=5",
-     "source": "Forbes",
-     "published": "2026-11-15T14:53:13+00:00",
-     "summary": "Where The 2026 Election Could Really Change U.S. Energy Policy&nbsp;&nbsp;Forbes",
-     "image": ""
+     "title": "Hungarian authorities uncover $20m during probe of Orb\u00e1n-era minister",
+     "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T10:42:20+00:00",
+     "summary": "Prime Minister P\u00e9ter Magyar promised a sweeping anti-corruption drive after ousting Orb\u00e1n in April.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-15T16:10:53.607531+00:00",
+   "fetched_at": "2026-11-15T16:11:40.374229+00:00",
    "stale": false,
    "items": [
     {
