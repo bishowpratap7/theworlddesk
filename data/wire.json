@@ -1,16 +1,40 @@
 {
- "generated_at": "2026-11-16T02:49:08.424050+00:00",
+ "generated_at": "2026-11-16T03:19:39.405619+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T02:49:08.424012+00:00",
+   "fetched_at": "2026-11-16T03:19:39.405587+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T03:09:49+00:00",
+     "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg"
+    },
+    {
+     "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T03:08:31+00:00",
+     "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg"
+    },
+    {
+     "title": "ASEAN, China fall short of agreeing on South China Sea code",
+     "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T02:46:35+00:00",
+     "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country&#039;s leader attending bloc&#039;s summits.",
+     "image": ""
+    },
     {
      "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
      "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-16T02:26:24+00:00",
-     "summary": "Independent MP says she is \u2018overwhelmed\u2019 by thousands of warm wishes and thanked Australians for donations Independent Australian MP Helen Haines has been discharged from hospital,",
+     "summary": "Independent MP says she is \u2018overwhelmed\u2019 by thousands of warm wishes and thanked Australians for charity donationsGet our breaking news email, free app or daily news podcastThe ind",
      "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=758324403670a0e19ad94c4c31f87257"
     },
     {
@@ -20,14 +44,6 @@
      "published": "2026-11-16T02:22:29+00:00",
      "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government\u2019s last strongholds.",
      "image": ""
-    },
-    {
-     "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
-     "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T01:53:19+00:00",
-     "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg"
     },
     {
      "title": "Pope condemns murders of Peru\u2019s Indigenous leaders, deforestation of Amazon",
@@ -70,14 +86,6 @@
      "image": "https://i.guim.co.uk/img/media/5656d136eaed416d7dd76ab2932c283b5ce64f39/373_0_3525_2820/master/3525.jpg?width=140&quality=85&auto=format&fit=max&s=b5f344ca36bf7198ae159b63c8dc109a"
     },
     {
-     "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-     "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T01:05:44+00:00",
-     "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (\u00a3182) a month.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg"
-    },
-    {
      "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
      "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
      "source": "The Guardian",
@@ -108,27 +116,35 @@
      "published": "2026-11-16T00:45:48+00:00",
      "summary": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
      "image": ""
-    },
-    {
-     "title": "Coles investigating \u2018cybersecurity incident\u2019 and apologises to customers",
-     "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
-     "source": "The Guardian",
-     "published": "2026-11-16T00:25:13+00:00",
-     "summary": "Supermarket giant says no customer, team or supplier data breached in cyber-attack but recommends customers update passwordsGet our breaking news email, free app or daily news podc",
-     "image": "https://i.guim.co.uk/img/media/5d6841423c15f03bccc940dc248768d8adba7384/780_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9918a374d89f099274e3dc1e83cfae34"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T02:49:08.424034+00:00",
+   "fetched_at": "2026-11-16T03:19:39.405606+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T03:08:31+00:00",
+     "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg"
+    },
+    {
+     "title": "ASEAN, China fall short of agreeing on South China Sea code",
+     "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T02:46:35+00:00",
+     "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country&#039;s leader attending bloc&#039;s summits.",
+     "image": ""
+    },
     {
      "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
      "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-16T02:26:24+00:00",
-     "summary": "Independent MP says she is \u2018overwhelmed\u2019 by thousands of warm wishes and thanked Australians for donations Independent Australian MP Helen Haines has been discharged from hospital,",
+     "summary": "Independent MP says she is \u2018overwhelmed\u2019 by thousands of warm wishes and thanked Australians for charity donationsGet our breaking news email, free app or daily news podcastThe ind",
      "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=758324403670a0e19ad94c4c31f87257"
     },
     {
@@ -202,27 +218,11 @@
      "published": "2026-11-15T22:28:02+00:00",
      "summary": "Four countries call situation \u2018entirely reversible\u2019 in joint statement as flooding exacerbates humanitarian crisisAustralia, Canada, the United Kingdom and Italy have urged Israel ",
      "image": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=140&quality=85&auto=format&fit=max&s=f7bf201bcb081c3480d5b33a65ba7ba5"
-    },
-    {
-     "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-     "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-     "source": "The Guardian",
-     "published": "2026-11-15T22:17:09+00:00",
-     "summary": "Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn\u2019s support for Ukraine Estonia will close all its border crossings with Russia from 1 ",
-     "image": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=4699c1636ab8599033326f36694ff0a4"
-    },
-    {
-     "title": "What to expect from Trump and Xi's upcoming meeting in China",
-     "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
-     "source": "NPR",
-     "published": "2026-11-15T22:11:26+00:00",
-     "summary": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, ",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T02:49:08.424037+00:00",
+   "fetched_at": "2026-11-16T03:19:39.405609+00:00",
    "stale": false,
    "items": [
     {
