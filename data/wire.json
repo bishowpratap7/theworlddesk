@@ -1,41 +1,73 @@
 {
- "generated_at": "2026-11-16T09:54:31.290831+00:00",
+ "generated_at": "2026-11-16T10:24:36.768360+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T09:54:31.290802+00:00",
+   "fetched_at": "2026-11-16T10:24:36.768330+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Ed Miliband defends doing 2015 election interview with Russell Brand, saying he was \u2018taking him on\u2019 not endorsing him \u2013 UK politics live",
+     "title": "Barristers could be barred from practice over use of rape myths, warns justice secretary",
+     "url": "https://www.theguardian.com/law/2026/nov/16/barristers-barred-practice-rape-myths-russell-brand-trial",
+     "source": "The Guardian",
+     "published": "2026-11-16T10:16:54+00:00",
+     "summary": "Move follows Russell Brand trial, in which his barrister argued comedian could not be a rapist because his accusers had not \u2018resisted\u2019UK politics live \u2013 latest updatesBarristers co",
+     "image": "https://i.guim.co.uk/img/media/5d8e8cda06441c9ed3a5c4e6f51bfd21ce1591a6/823_0_4177_3342/master/4177.jpg?width=140&quality=85&auto=format&fit=max&s=0a65764157d77eff346307720639fa64"
+    },
+    {
+     "title": "\u2018NATO will collapse\u2019: Russia stalls Ukraine talks, seeks to divide Europe",
+     "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T10:03:11+00:00",
+     "summary": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
+     "image": ""
+    },
+    {
+     "title": "Verdict week in the Myanmar genocide case",
+     "url": "https://www.france24.com/en/tv-shows/press-review/20261116-verdict-week-in-the-myanmar-genocide-case",
+     "source": "France 24",
+     "published": "2026-11-16T10:01:18+00:00",
+     "summary": "PRESS REVIEW \u2013 Monday, November 16: The international press looks ahead to a verdict that could find the state of Myanmar guilty of genocide against the Rohingya minority. In other",
+     "image": "https://s.france24.com/media/display/36ce2490-e1a3-11f1-92de-f71d22e7fea9/w:1024/p:16x9/capture-0493f6c2.jpg"
+    },
+    {
+     "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+     "source": "NPR",
+     "published": "2026-11-16T10:00:00+00:00",
+     "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+     "image": ""
+    },
+    {
+     "title": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
+     "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T09:57:37+00:00",
+     "summary": "UN&#039;s health agency says growing resistance to antibiotics and other medicines threatens &#039;future of modern medicine&#039;.",
+     "image": ""
+    },
+    {
+     "title": "Sadiq Khan: Global North must take responsibility for climate change",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T09:52:11+00:00",
+     "summary": "At COP31, Sadiq Khan urges wealthy nations to support the Global South, which bears the brunt of climate change.",
+     "image": ""
+    },
+    {
+     "title": "Breaking taboos: Egypt's sexual revolution takes to social media",
+     "url": "https://www.france24.com/en/tv-shows/focus/20261116-breaking-taboos-egypt-s-sexual-revolution-takes-to-social-media",
+     "source": "France 24",
+     "published": "2026-11-16T09:50:45+00:00",
+     "summary": "In Egypt, a sexual revolution is quietly unfolding on social media. Accounts followed by tens of thousands of people, with posts attracting millions of views, are tackling a wide r",
+     "image": "https://s.france24.com/media/display/a1e52f70-df7e-11f1-ba40-f71d22e7fea9/w:1024/p:16x9/EN-NW-PKG-F24-FOCUS-EGYPT-SEXUALITY-NO-MIX-Video-Mixdown-4-FF.jpg"
+    },
+    {
+     "title": "Miliband defends 2015 interview with Russell Brand, saying he was \u2018taking him on\u2019 not endorsing him \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
      "source": "The Guardian",
-     "published": "2026-11-16T09:46:46+00:00",
-     "summary": "Ed Balls, shadow chancellor at the time, said he had warned Labour leader not to go ahead with \u2018ridiculous\u2019 interviewEd Miliband has said he will not resign from the cabinet if the",
-     "image": "https://i.guim.co.uk/img/media/ef126584df82a48b24400e05e2c119d76758027d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d9f3d899590be25f462c7f81980602a6"
-    },
-    {
-     "title": "Doctor explains why he shared footage of the destruction a hospital in the Gaza Strip",
-     "url": "https://www.npr.org/2026/11/16/nx-s1-6039253/doctor-explains-why-he-shared-footage-of-the-destruction-a-hospital-in-the-gaza-strip",
-     "source": "NPR",
-     "published": "2026-11-16T09:46:09+00:00",
-     "summary": "NPR's Leila Fadel speaks with Dr. Goher Rahbour, who survived an Israeli air strike on Nasser Hospital in the Gaza Strip and operated on another surgeon killed in the attack.",
-     "image": ""
-    },
-    {
-     "title": "Trump to arrive in the Philippines as Southeast Asian leaders meet for ASEAN summit",
-     "url": "https://www.npr.org/2026/11/16/nx-s1-6040052/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit",
-     "source": "NPR",
-     "published": "2026-11-16T09:46:05+00:00",
-     "summary": "President Trump will arrive in Manila Monday as Southeast Asian leaders gather for the ASEAN summit.",
-     "image": ""
-    },
-    {
-     "title": "Trump heads to Asia in first international trip since the midterms",
-     "url": "https://www.npr.org/2026/11/16/nx-s1-6041689/trump-heads-to-asia-in-first-international-trip-since-the-midterms",
-     "source": "NPR",
-     "published": "2026-11-16T09:44:49+00:00",
-     "summary": "President Trump is flying to the Philippines and China for his first foreign trip since his party lost in the midterms and the Nvidia scandal.",
-     "image": ""
+     "published": "2026-11-16T09:50:31+00:00",
+     "summary": "Then Labour leader says he wanted to counter comedian\u2019s call for people not to vote in general electionThe Tories have pledged to halt \u201cscreen-based\u201d exams and cut coursework in a ",
+     "image": "https://i.guim.co.uk/img/media/15533b940574bf8a1c0f8c7044d13b411b628032/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2d569359cce012ba230807ff5d269d7e"
     },
     {
      "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
@@ -79,252 +111,220 @@
     },
     {
      "title": "Ronaldinho comes out retirement for 45 mins in Italy\u2019s third division",
-     "url": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-16T08:54:58+00:00",
      "summary": "Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy\u2019s third division.",
-     "image": ""
-    },
-    {
-     "title": "NSW halts new law to crack down on underquoting by real estate agents at 11th hour",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-halts-new-law-to-crack-down-on-underquoting-by-real-estate-agents-at-11th-hour",
-     "source": "The Guardian",
-     "published": "2026-11-16T08:53:22+00:00",
-     "summary": "Backdown is one of several premier Chris Minns has announced in recent weeks as state prepares for election in MarchGet our breaking news email, free app or daily news podcastThe M",
-     "image": "https://i.guim.co.uk/img/media/6f6b9ed84a95172b199c1ab51e5f6758027ef874/506_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=d7ccd21554a83fef45aba172d9159f9b"
-    },
-    {
-     "title": "Kachin: where Myanmar\u2019s rare earth minerals are in tight grip",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T08:49:51+00:00",
-     "summary": "In Myanmar\u2019s northern state of Kachin lies millions of dollars worth of rare earth minerals.",
-     "image": ""
-    },
-    {
-     "title": "Ahmed Tibi appointed as deputy speaker of Israel\u2019s Knesset",
-     "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T08:45:07+00:00",
-     "summary": "This is a breaking news story.",
-     "image": ""
-    },
-    {
-     "title": "Over 2,000 people cross over from Senegal into Spain\u2019s Canary Islands",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T08:23:19+00:00",
-     "summary": "Around 2,000 migrants have crossed into Spain\u2019s Canary Islands from Senegal in two days.",
      "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T09:54:31.290815+00:00",
+   "fetched_at": "2026-11-16T10:24:36.768344+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Ed Miliband defends doing 2015 election interview with Russell Brand, saying he was \u2018taking him on\u2019 not endorsing him \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-16T09:46:46+00:00",
-     "summary": "Ed Balls, shadow chancellor at the time, said he had warned Labour leader not to go ahead with \u2018ridiculous\u2019 interviewEd Miliband has said he will not resign from the cabinet if the",
-     "image": "https://i.guim.co.uk/img/media/ef126584df82a48b24400e05e2c119d76758027d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d9f3d899590be25f462c7f81980602a6"
-    },
-    {
-     "title": "Doctor explains why he shared footage of the destruction a hospital in the Gaza Strip",
-     "url": "https://www.npr.org/2026/11/16/nx-s1-6039253/doctor-explains-why-he-shared-footage-of-the-destruction-a-hospital-in-the-gaza-strip",
-     "source": "NPR",
-     "published": "2026-11-16T09:46:09+00:00",
-     "summary": "NPR's Leila Fadel speaks with Dr. Goher Rahbour, who survived an Israeli air strike on Nasser Hospital in the Gaza Strip and operated on another surgeon killed in the attack.",
+     "title": "Russia Tries to Outrun Ukraine\u2019s Defenses on Quad Bikes and Motorcycles\u2014It Doesn\u2019t Work, Video",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdXEyNVpEUkpEWENHaUFONE5zUFlfZGw2Smc4WVY1bzdSVmIzQWtTOW5NM25yNE1RYW9QNGQzRXA5VkVKam4tNFFkUmhXS1dMZjRzM284VllmajJ0TVVTWlM2MF9velhYOEpzQzljTGlfOXE0SmdEcWJ6a3JlaU9mUC03V0xLSHdCOTFhUTF3UTJBUXRtZFVRYzN5Vm1KQ2JVVGFydVBKazlwc19GZ05tcmU1eHF0V2xqcktRYjRJSW8zX3FkVmZQR0JVWE1HODVZZVkyaQ?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-16T10:19:53+00:00",
+     "summary": "Russia Tries to Outrun Ukraine\u2019s Defenses on Quad Bikes and Motorcycles\u2014It Doesn\u2019t Work, Video&nbsp;&nbsp;UNITED24 Media",
      "image": ""
     },
     {
-     "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+     "title": "Barristers could be barred from practice over use of rape myths, warns justice secretary",
+     "url": "https://www.theguardian.com/law/2026/nov/16/barristers-barred-practice-rape-myths-russell-brand-trial",
      "source": "The Guardian",
-     "published": "2026-11-16T09:40:29+00:00",
-     "summary": "Quad leaders\u2019 summit in Philippines is Trump\u2019s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominateAnthony Albanese will attempt t",
-     "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6"
+     "published": "2026-11-16T10:16:54+00:00",
+     "summary": "Move follows Russell Brand trial, in which his barrister argued comedian could not be a rapist because his accusers had not \u2018resisted\u2019UK politics live \u2013 latest updatesBarristers co",
+     "image": "https://i.guim.co.uk/img/media/5d8e8cda06441c9ed3a5c4e6f51bfd21ce1591a6/823_0_4177_3342/master/4177.jpg?width=140&quality=85&auto=format&fit=max&s=0a65764157d77eff346307720639fa64"
     },
     {
-     "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+     "title": "Kremlin Tells United Russia Lawmakers to Prepare for \u2018Victory\u2019 in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWS1EclpzeUl1MEx6bUlDM1RwY1VNbkVhdF81ZUlzaHVWWVcyb0M1cmF5c1dvRVZaemxpQWNoQWoxckJwTVJXWGVqNXllNWhBNHFKMk5RM3dac3Bub0VBb3ZxVWJqMm4tV1poZE1sWXZpS0cxRlNiVUxwRVNfVTR2WTZwc3Y4UlNGbUFPelFnMHJESU1KaW9iWFhGZ1p4QzVfVzE5WloyQ0M2QUNUdDNJY004QUhVTVM1NHgxcA?oc=5",
+     "source": "The Moscow Times",
+     "published": "2026-11-16T10:14:56+00:00",
+     "summary": "Kremlin Tells United Russia Lawmakers to Prepare for \u2018Victory\u2019 in Ukraine&nbsp;&nbsp;The Moscow Times",
+     "image": ""
+    },
+    {
+     "title": "What Democrats in the New US Congress Should Do About Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGU2M2xfVEJxWnNwR3VpeVZ1ZVdLQjlhZ2JMTm5mTEdBNDRXcWZYaUZqWGZQX2gxRm9TazVPd0xNVUplYUJJajlRUW1sUmdFRlEwWE1QRWFleU9oT2h0bEgzSDVnM05nOUQydzAxa0ZqbmN2VzFDSW93NXJuRG5xV0FUMjE0azRvRl9Za2I2dFpMZw?oc=5",
+     "source": "EA WorldView",
+     "published": "2026-11-16T10:09:25+00:00",
+     "summary": "What Democrats in the New US Congress Should Do About Ukraine&nbsp;&nbsp;EA WorldView",
+     "image": ""
+    },
+    {
+     "title": "\u2018NATO will collapse\u2019: Russia stalls Ukraine talks, seeks to divide Europe",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTdwQ0doWjlyZXNRZEVpOGd6aVVCNmFQTkdNT3lBOU9kY1d1YlZJSWRldWFDTUFoWjQ4TUE1TEpwbTlWTkJ6ckszT1g2RmJENVQzZ01lMVRScG1UQk1ZbHR1OHRaUWJLUWxGdmxYQnlGclFiU1FRLXNSZTF2ZUcwbGM2bk5OdDh2aGctWUhkdjlBU3pFVzhZRW9aSG5ob3cwVVFGc1dIV0pZbGZsQTBHUNIBtgFBVV95cUxPVEJNajdIOXd2dzZfTmxhZ2dZT2RuTXVNY2tRSDNQNlBPVFBFMXJJbmhIMEpnT0VlNl9ET1FpNHB4dDZYVDAwZERCdlNuZ0VmLUI0dmpueDRBM1dQckI1azNtNF81a0JPMlBUd1o0RVJ6Y3h1SldrZkZjd1Y5NldYZnR3SGVSVzZrV1hiZ1Vob1Y1dThRZjI2TmxHTUhNQzdQcUdfM3FDZjFjT18zbGdzc1VQZWNWZw?oc=5",
      "source": "Al Jazeera",
-     "published": "2026-11-16T09:31:36+00:00",
-     "summary": "Trump shares a message saying: \u2018May God protect our troops\u2019 as the USS Theodore Roosevelt arrives in the Middle East.",
+     "published": "2026-11-16T10:07:30+00:00",
+     "summary": "\u2018NATO will collapse\u2019: Russia stalls Ukraine talks, seeks to divide Europe&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
     {
-     "title": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1VNUTdhSEljaXMyQ0dvZDZBUWs4M2NNWFdneldQSDVzTGdiZnZDZVZBSjhNUjAxVEpkYkFlREdzelFlUmR1X1oxQUdkcjQxRnlIUHc2SXZxdHdfN3psV2JLWFYxSVE5Q0I0M0t5N2JqcFZyM2huS1c4QTVOd3FobHdCVWxEMHVCTzNNTkIwQXRWQ2hjMEp3YmtwNWZ4ZXluRDN0SEs5VGdqUE9PN2xxSmx0ZGJFVmptdlcxSUtYYUV4Zw?oc=5",
-     "source": "Audacy",
-     "published": "2026-11-16T09:29:00+00:00",
-     "summary": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack&nbsp;&nbsp;Audacy",
+     "title": "Relentless Attacks on Ukraine\u2019s Power Grid Threaten to Make Cities Unlivable",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0pLTFh0VFh3NEd3cS1VeHNNckxHUktEWUFDM2F5QWZvdFgyUDVCZHlVWmJVZGZNOXN4dDN5TzQ3aUpTU3d1U2VtM3ozNVJhMUs3aGpBU29XZkx5OUlodk5XLThqM2ZlSHpzdmhZU25MdlBETTNHOEVRNFQzSWZjSG5sQ0xSR3ZOcUdj?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-16T10:03:00+00:00",
+     "summary": "Relentless Attacks on Ukraine\u2019s Power Grid Threaten to Make Cities Unlivable&nbsp;&nbsp;The New York Times",
      "image": ""
     },
     {
-     "title": "Delaware hit by rare November tornado",
-     "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
-     "source": "The Guardian",
-     "published": "2026-11-16T09:27:06+00:00",
-     "summary": "Meanwhile, severe thunderstorms bring hailstones the size of baseballs in ArgentinaThe National Weather Service in the US has confirmed that an EF1 tornado touched down south-east ",
-     "image": "https://i.guim.co.uk/img/media/e86938f808aacaed63529ffbd461f2de4ff10c74/500_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=08baed31878c1dff227aa589c3e71a31"
-    },
-    {
-     "title": "Ukraine and World Bank Discuss War Risk Insurance Fund for Businesses - Oj",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzVFelhxR3NlQ1E4VDlvdHRXcllqVVNiQW0zU1p4b2YzbDdPMVBoSzJOSzBCckRGaFVjRlJhU3NLQ0hNRUpXM3Z6cWZuWF9fMDcwZ2gzVGdRNV80ZHV3d082MXRQd3Vuc1ZzRTN5Y21rTkdENVl3S2JTeVlmZmUyLTNOZGpHOTlmRGk5TGx6Qmw1ZkxiSUtiVFhhRVlUNjAw?oc=5",
-     "source": "Odessa Journal",
-     "published": "2026-11-16T09:22:23+00:00",
-     "summary": "Ukraine and World Bank Discuss War Risk Insurance Fund for Businesses - Oj&nbsp;&nbsp;Odessa Journal",
+     "title": "Trump Has Eased Up on Russia, but Russia Hasn\u2019t Eased Up on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFhVQ01GYnlwNHFnR2otMDljZVRSMjFNSGlIODhITlh3OThBZzkyRFRGb3Z0Y21EVGxmY3VlTUtQTjNpUHpnWlhtTHp2ckRwdXVKV3dMOWdJanpnSEhsV2luS19wb1dXREhONGZJZG9aT1hnbGdxNklRMkhSTlhFRTIxRWpibkRQdmZKTjRhVHZSdzA?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-16T10:02:35+00:00",
+     "summary": "Trump Has Eased Up on Russia, but Russia Hasn\u2019t Eased Up on Ukraine&nbsp;&nbsp;The New York Times",
      "image": ""
     },
     {
-     "title": "Ukraine war, latest news. Zelensky: over 55 per cent of Russia\u2019s refining capacity has been neutralised",
+     "title": "Verdict week in the Myanmar genocide case",
+     "url": "https://www.france24.com/en/tv-shows/press-review/20261116-verdict-week-in-the-myanmar-genocide-case",
+     "source": "France 24",
+     "published": "2026-11-16T10:01:18+00:00",
+     "summary": "PRESS REVIEW \u2013 Monday, November 16: The international press looks ahead to a verdict that could find the state of Myanmar guilty of genocide against the Rohingya minority. In other",
+     "image": "https://s.france24.com/media/display/36ce2490-e1a3-11f1-92de-f71d22e7fea9/w:1024/p:16x9/capture-0493f6c2.jpg"
+    },
+    {
+     "title": "Ukraine war: latest news. EU Council approves a further 8 billion payment to Ukraine",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamZhVFZWWHhRLXJqbW5sQmt4ZVFwMUI2bmUtbUUtajZ4eHZzT2tmZkxZekN6Q25oLWF1bDRLVVp0V2ZVanNheWwyU3cya2dOWjVwYi13S0lHcmMzRTUyWVp6ckg0RkNkQS15NXFxR1ZfSVV0Q2d2d0l1OUdlVFFLbFFWbTJZTDFmT1dqRGxpUkd6SjhLVTNxb2x5NGtHaUptQ1NVczVtQmdjTWR2el9zeUV1ck5IeExkdHBhRFRvVXFldXNaMFk2cE5MZG51SnAwMWc?oc=5",
      "source": "Il Sole 24 ORE",
-     "published": "2026-11-16T09:17:19+00:00",
-     "summary": "Ukraine war, latest news. Zelensky: over 55 per cent of Russia\u2019s refining capacity has been neutralised&nbsp;&nbsp;Il Sole 24 ORE",
+     "published": "2026-11-16T10:00:38+00:00",
+     "summary": "Ukraine war: latest news. EU Council approves a further 8 billion payment to Ukraine&nbsp;&nbsp;Il Sole 24 ORE",
      "image": ""
     },
     {
-     "title": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGFyRTd1TlRuZXFxcU53N2ltQjM4QVAyYmFHeHlVZmh2OEZpSmlWeUhOWjFQRkQwSkJhNGhKRVFzVXlPVEQtTVJqNXdpM2o3MzNIcGlqVmJqTDRscmxIMFZlWE5YS3duVzdQOXozUGx4aUU3YXNYVldHelZqMl9oby0tZHZaYkZSNlM3a2FUTFM4VE5VWmQ4UkdUcmJWUFBvTnhRNW5KdWJCNjJoM0lVbg?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-16T09:16:10+00:00",
-     "summary": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack&nbsp;&nbsp;The Moscow Times",
+     "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+     "source": "NPR",
+     "published": "2026-11-16T10:00:00+00:00",
+     "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
      "image": ""
     },
     {
-     "title": "Ukraine strikes bridge linking Russia to Crimea in 1,336-drone barrage",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmVubTdWMGkzRFAwaHI2SjFkaFNvQnl3SXBvVXE3MGdCcHVzVzdPV2ZBczZmMmZYMzBoaGh1cmE1Wml3Njc4S3F6UUxISWhUQlFkVzB1aDdZNGFBaExNanpzY1VFYnNJOVNJRVJGS0xwWXY2SlhwYVZiZ1VzLUtFNFB4RW1qNmN3X3JMVDl4eXo4eDUwWXh2U21sREdZRHhYS1hHT1BkYlNMWW53cXdlQV9NNGJ1NnR6LVd3?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-11-16T09:15:47+00:00",
-     "summary": "Ukraine strikes bridge linking Russia to Crimea in 1,336-drone barrage&nbsp;&nbsp;South China Morning Post",
+     "title": "Weekend Round-Up War in Ukraine Brief \u2013 Europe",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFo0bEtMV1JUME1mOHpmZzRVU3AyVjZ1ekJ6MHFHbl9wZTVjaVNOQkk2TmFRQU9VdUFXMlh1Sk9TalFVNUJobG9YWUFPU0k0T0JEMXVMRzlFVXY1bnZabGF6THpTN3NHU3FXbHR3b2VBLVJqSFpxbnBoYjdrMDJSYW9HYVQ4Q2s?oc=5",
+     "source": "Eunews",
+     "published": "2026-11-16T09:59:34+00:00",
+     "summary": "Weekend Round-Up War in Ukraine Brief \u2013 Europe&nbsp;&nbsp;Eunews",
      "image": ""
     },
     {
-     "title": "Between Putin\u2019s Russia and Trump\u2019s America, Europe is looking for a seat at the table \u2014 and a say in its own future",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY010MVEta1JnTkxWSi0xSXRMT2g1ZllDRVVXOUVNR29iNTdZQXFpMVVYOFFLMEt5SUh6QmtWM0JUV2lOX1BCNm9sQmEyaXZJMVFLNEM0MVcxVGlxUWdidjhGSXZWRnFGaVFLVGJsZUN6LWJGYzhwZ01ZTFk0NXI0RFBDUGw1cEk5SldhaFoxRy1ONlhxUDAxNGRtNkhrazJzeVhjaGpsbzZBR0NRemVsLVhjQ0pmbGQtWVZBVHhCYmNUdW5qd1p3c1dXcjJBak1MX1VlaHJIY2VFWnRjUGNV0gHmAUFVX3lxTE5EZU81bFJqak9SWG1sTGpORC1yNWRvVjkwMTcwVGlSQWNkR3pWNV9WRGRHaDBNbDBndFVJM3BoQ3Z2VHFhWUFlTFM0cXdyaV94M2JwWldNMFU5T1lLZHFfN1hFN3oxSy15c3VxWXIzOThJVmR5TXFSYVNqNllkam9venpiRV92aHFONkhhT3BBekg4VHVhV2hoZDQ0UnRjd25iZWtFOWtQYTIwNmdMaWhxek1MMFFrM3BlSExIVEJ1R1JuZlJDSXl2NHJfSXNfdHhNRGZ6U08tNW5FMUpQUUlOelE5Z0t3?oc=5",
-     "source": "The Indian Express",
-     "published": "2026-11-16T09:10:16+00:00",
-     "summary": "Between Putin\u2019s Russia and Trump\u2019s America, Europe is looking for a seat at the table \u2014 and a say in its own future&nbsp;&nbsp;The Indian Express",
-     "image": ""
-    },
-    {
-     "title": "Ukraine Strikes Crimean Bridge as Russian Reports Claim One of Its Arches Has Shifted",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGFtS1NpZWpsWVFzODZyaUdTUFd1RVFIYm5vVzQwRTFYYWJibGtNZnk1Q3RuUkQyRFQ1NG5MbWJ2MEJKYjRuTXNNNGFlQ3ozcFM0S3pHZkZ2QXNUVG51Y001Z0tKSWh5cG9qTVlrWnpEVFRDVEw0Uzd5MkVjRjhYaFZHbzRNMFlNRWs3YTIwVDVXUGRZb0ZTRll2c2VNeGItNUlGZnRZOFNWLVZxYnd3ZU9yTFhuOXZsYnlwMEttaTEzeU9LQ2ViTTBxa3o?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-16T09:04:51+00:00",
-     "summary": "Ukraine Strikes Crimean Bridge as Russian Reports Claim One of Its Arches Has Shifted&nbsp;&nbsp;UNITED24 Media",
+     "title": "Kremlin tells Russian lawmakers to prepare for \u2018victory\u2019 in war against Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0UxM2VKU2ptRko2R09EbVRCdGxmaDN5elpiS3lDUHRvTlh4MmFraWhDYnFlRHlSdWFMZjAzYkZsZkoyYjVvdHRsWUZTNjRaT254Y2NReWhVX1JKM0dxYXFCdUVVT2ZzaDBfR1JlUUtraWRkZE83Ri1tbjdISWQ2UzJicUJ6TUg3M0pSVVp1ZENuOV9TSXFnUUNDdEk2cWFwdWd2aFVLWUFKOXFBSUtBdzh0N2_SAboBQVVfeXFMT0Z5WDU0U3pzd3lSQjJ5b01NSDQtWGFGZTA3V3RDeVUzcGZ4U3hoaF82VmRvY3pleFRZc1k1TW85UnVuTUkzb2pzelFRTGFxNlRKZ3V1MFVEdmw2MlJWMzJQOElCR3dTRDNHbkxvQjFtZ0d4alQyYzRSXzViYTFJaVZGUUFlOXlLZ0E4TmIzNXlJamR5ekREbFZzdTctV2VBWTNhUEJmbEtzeFZQbVAxT3VLUXFSS0J6TmNB?oc=5",
+     "source": "Meduza",
+     "published": "2026-11-16T09:57:00+00:00",
+     "summary": "Kremlin tells Russian lawmakers to prepare for \u2018victory\u2019 in war against Ukraine&nbsp;&nbsp;Meduza",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T09:54:31.290819+00:00",
+   "fetched_at": "2026-11-16T10:24:36.768348+00:00",
    "stale": false,
    "items": [
     {
-     "title": "COP31: How T\u00fcrkiye makes difference in climate diplomacy | Daily Sabah",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaU1qem54YmdKekFzeDdRU1JEazJyMTBzZU5VMmFUMV9NeUFmQ2tpYXE3SDhfYmxNMDBtd2Q3QzdpYXdERHdQOFRhNW0wSzZtdktqejl0R25FT3A0ZWU0YUhXTUFFYk92bHdCMnE5dEk2a2p6bWlrRDRfLTV6aUN2bUhXQUY5WDBzeUFzczFFb2VJTFJZNUJmdlBaYzRfcG_SAaQBQVVfeXFMTW4tdXN6cnNlMEdIZGlJWGs3cG1oVHpkNEpKN3NqSHZ6ZXBOcUVuRDNkX3hRdk84a215RnNvdTJBMDFlQTVFMkpEUTZSR3pSbnVyS0I5UHg1LXRYZTlmNEtMM1c0MjhRUkJlUXdzOWZubW5VSERnVWEzd18wanJkblo5d3FLRnpMLWV6eHltZk9RUV9aYlF5WUt4ZGZzLURkczFtb0M?oc=5",
-     "source": "Daily Sabah",
-     "published": "2026-11-16T09:49:00+00:00",
-     "summary": "COP31: How T\u00fcrkiye makes difference in climate diplomacy | Daily Sabah&nbsp;&nbsp;Daily Sabah",
+     "title": "What to know as a Serbian student movement prepares to govern after election win",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlhUNzZXRTFEOGdvc3ZjdllsdUlUNVBQa0FuZlA2OTItTzBidWN2LUkwWlZWYXBYZjlTN3hqNVl0azc1Q252bm1PZzZkS1dUaEdwRjBlTkp2X2lNaFJiNDdkOTkzUWpUWlF6Nm5RWmxmQ1F4RGJoMGxMbDE2MDhubGt5b1ZyQVpCWElfSExaRWRzaGV2c2JYN1Nid19hT3A4QWZMQmktOThBbElRUjdWeXpzbTNWdw?oc=5",
+     "source": "WTOP News",
+     "published": "2026-11-16T10:21:46+00:00",
+     "summary": "What to know as a Serbian student movement prepares to govern after election win&nbsp;&nbsp;WTOP News",
      "image": ""
     },
     {
-     "title": "Trump to arrive in the Philippines as Southeast Asian leaders meet for ASEAN summit",
-     "url": "https://www.npr.org/2026/11/16/nx-s1-6040052/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit",
-     "source": "NPR",
-     "published": "2026-11-16T09:46:05+00:00",
-     "summary": "President Trump will arrive in Manila Monday as Southeast Asian leaders gather for the ASEAN summit.",
+     "title": "After an Election Day trouncing, Pennsylvania Republicans look to the future",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVN1R3BCdWQ5MTY4Z1RtZWtyM3k0V2JubTRDemhpUExmcm1tVXBiS3c2VFpYRmR6QVV3WE16VlNYelgtTWVOam9GU1dYRWp6SU1VNlFyNlNtVFBNdmpUbm0wcnpmeEJ4YzFjTWF5UjRVTDd5Z2dObVVuanZjUHJKSUFPMDI1Mktva1RyQXJnUFJXUWxUWXYzUjVBcjNya1pWV2FRVTRPREYwTXE5TktMOE1GNmYzdnBUMkxtUTN0aElXVjQ?oc=5",
+     "source": "Pennsylvania Capital-Star",
+     "published": "2026-11-16T10:18:29+00:00",
+     "summary": "After an Election Day trouncing, Pennsylvania Republicans look to the future&nbsp;&nbsp;Pennsylvania Capital-Star",
      "image": ""
     },
     {
-     "title": "Trump heads to Asia in first international trip since the midterms",
-     "url": "https://www.npr.org/2026/11/16/nx-s1-6041689/trump-heads-to-asia-in-first-international-trip-since-the-midterms",
-     "source": "NPR",
-     "published": "2026-11-16T09:44:49+00:00",
-     "summary": "President Trump is flying to the Philippines and China for his first foreign trip since his party lost in the midterms and the Nvidia scandal.",
+     "title": "The Electoral College could be irrelevant as soon as the 2028 election",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEpjTnQ1WDJCYkFrOGUwbTVvRi1wN2dxamtGZW9VaHk3RkMxajNXT0oyemNxa0dEYmhjYVlsSkhOZC1MQVI3aUxFcWYyYlBMeV9tLVNsc1RvREFfN2k1SzczcHVnUWM4UDU5OU9sZkEzRWFHU0NRUDVxVlptQU0yUzZpWW5uTEpyczZ0T0hLX3hfamtzZFoyNmVKVDhtMVJ5Q0V4RWplZ0MzTEpLTm9xYU5jbXcxZ2lLSHc?oc=5",
+     "source": "Votebeat",
+     "published": "2026-11-16T10:06:57+00:00",
+     "summary": "The Electoral College could be irrelevant as soon as the 2028 election&nbsp;&nbsp;Votebeat",
      "image": ""
     },
     {
-     "title": "Altadena Town Council Set to Certify Election Results Tuesday After Close Three-Vote Contest",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWUFuUElfa29kV2RLSGpNelRnaUZxcGJwb0NibXAtUjRHN2Q2eU5ucGdvOF9lb2pTUlgydFY4dzlnS0tsdkZLTWZBSW4wLS11VzdfeGlkS3N4THNrZVFfdU10THJTb0xnb0x4VEUtOFJnZTFDTzVmY3ZDOE1Zb3FodHZsQ0tTSGU4aExVbktJUzI2VFNiRW14QlJTOXFwajNXS0FNajJ0aXJ1T29ZS0RidDNISWs0N0xtdjZEclV3?oc=5",
-     "source": "Pasadena Now",
-     "published": "2026-11-16T09:41:04+00:00",
-     "summary": "Altadena Town Council Set to Certify Election Results Tuesday After Close Three-Vote Contest&nbsp;&nbsp;Pasadena Now",
+     "title": "Inside the Philadelphia Orchestra\u2019s cultural diplomacy in China",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12RUR2Tl9veEdQenJsbVlObW9aVk14UWlGZTBlcnBMZmo0M00wSHlXaGNZTmIyQmVIVjJtMjFFLVJfWV9mdkp3NEFKTGFVNkZfY1VYRTlyclJMOUxjOHFVTWhfWjFYdnZuRmZOY2gxbw?oc=5",
+     "source": "WHYY",
+     "published": "2026-11-16T10:05:42+00:00",
+     "summary": "Inside the Philadelphia Orchestra\u2019s cultural diplomacy in China&nbsp;&nbsp;WHYY",
+     "image": ""
+    },
+    {
+     "title": "How Zach Dembo went from unknown to Central Kentucky's next congressman | Exclusive",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ05ZREtFbEpSRFZyUmNOOEhwRURwSUVBandDd2VFLWc5WmpXRzQxeEN5Wk1jcm9PZEc1OGR6OXA0QUh6aDhSdDNzZ2lmUktIenViNEdTeUhaTER6Tzh1YVRXUERrRzFLX1RlZ2k1ZHRwUHBqR2p6dWJ6QWtTMjNVdURrSXQ0ckM5M1ZTMmZRb2JrN3p4dVpoamZ2U3lWdTNQbHpTLU85TEY5dWRzTExUX0hiTFE5M284TFlSLWV6QlUxaThESDhPdHpkZ2lwRzVHTEJJUW9B?oc=5",
+     "source": "The Courier-Journal",
+     "published": "2026-11-16T10:05:00+00:00",
+     "summary": "How Zach Dembo went from unknown to Central Kentucky's next congressman | Exclusive&nbsp;&nbsp;The Courier-Journal",
+     "image": ""
+    },
+    {
+     "title": "NC film industry urges legislators to keep pre-election funding promise",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVjhIcU1CX0lKelFOM1BESFNoUlVwaTMzTlBYUW43Y0lLb3Vac1NBaHRkR2l4MnEzQjlTS2Y0emExQmVPQnN4bl80dl9BZHBvZWllMjkyWHMwSHIxSjBwdkZKbGp1UHAtMmJVZGhTa2pGVkFfejFzS3psSDQ5RWpRZEQ0UzlLRjAtSE9vdlMxdFZvQ0FGX21OYWtYeENNSEZTaXEtQjJQYkNLRWxSVExBb0F4a2FrdWFHZVhWcnNjVHA5WnVWdWlyWTV0RTFsX0NWMXBTc2Q5NkNyYVZCMEJqcVRPb201QWpWVW9tNEFIdF9LWjZpY1RtOXpsTWhpOGdya1JCNHhn?oc=5",
+     "source": "Wilmington Star-News",
+     "published": "2026-11-16T10:04:00+00:00",
+     "summary": "NC film industry urges legislators to keep pre-election funding promise&nbsp;&nbsp;Wilmington Star-News",
+     "image": ""
+    },
+    {
+     "title": "What voters in Texas told Bernie about the midterm election",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTYtU1JiWkFiVzczcXNqbXlUblFKYm53Wl8yYURLRkllUkNJV3E2VC1zTVhsRDd6UXFvM19CdTc4NzB0dVdMZkV0c056bnJNMlE2cnlyRTh6SXVmTmF1Ylc4UjEwOHZDNFdySUl6VW5lY1RoeVl0dFBCYjZBS2FJX3FHbExXYTl5VWUyVktzTHdjZWRsTkE?oc=5",
+     "source": "Aliran",
+     "published": "2026-11-16T10:03:49+00:00",
+     "summary": "What voters in Texas told Bernie about the midterm election&nbsp;&nbsp;Aliran",
+     "image": ""
+    },
+    {
+     "title": "Blackburn makes history in election, but not the kind you seek | Opinion",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjhhQ092N25reEFWWmFQUjFOdWtJZ3RmY0dVRkZNM08wbVFHT3pHNmlWU200b3F3cnhSckkzVWhIWmdZcnEtOXlZZno5LXRFZlBiVlBwVnN0RzJYcURLNmhaT1UtQmJRcFhRMWV3eVNSN2FnQUZ5enAzOXBuSnMwS2FMMm55Z1hLY1VUOWhZcEdacUtzd3lMYnROOXZUVDI0bVFqRlE4RVN6ZHlpcTkwWXVMNGo1c2otbjFmSHhxcnFDYnRrV3FkNFN1SnVhMFBz?oc=5",
+     "source": "Knoxville News Sentinel",
+     "published": "2026-11-16T10:02:00+00:00",
+     "summary": "Blackburn makes history in election, but not the kind you seek | Opinion&nbsp;&nbsp;Knoxville News Sentinel",
      "image": ""
     },
     {
      "title": "Technical issues caused Oklahoma election result delays",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDByM055TXV1T3RMQ3FVdkh0LUt2MHdHcEloZW1leFVDaWRZelFDWHpmaGtJRHpLR1RxUC1LUDB1NlVqNXFfTkNpMC1uT05mdjM1akgzTmJLRkdMZUZNdzhnTmNVWGhDdnlxN1dJZFJLTEpoeUVrck5ZZ2N5V3V2UEcyb1JiYzBNc2tMdlRjUVpWUVVEckVrT2wyajJMbVVodkt4MmItcWoxWWRFODdiaw?oc=5",
-     "source": "KGOU",
-     "published": "2026-11-16T09:35:27+00:00",
-     "summary": "Technical issues caused Oklahoma election result delays&nbsp;&nbsp;KGOU",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2NJdnFnM2N2M2pkSVVnWTNHRFkyYm9rVnlVbURlZ2pZMW1fM0xYbFZfa21yeTNUUmQ4SW5FUGdNMVBpYVZTV2NZTXlfdkF3MnE1QmpRQ2VxN1pGRUYwNEVoemIwaFZGV3BLSUtsSDhsYWFvbjFiZERScjd6NUVITXFIUVdHdE04YmQ4MlJZQkJ5d0MzTlFyYmlJSGc?oc=5",
+     "source": "KOSU",
+     "published": "2026-11-16T10:01:50+00:00",
+     "summary": "Technical issues caused Oklahoma election result delays&nbsp;&nbsp;KOSU",
      "image": ""
     },
     {
-     "title": "Liberman accuses Netanyahu's office of illegal election interference, calls in security chiefs",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqM0VSU3FRM3JZZEU3OFZLdm4xbU5QUmFla2FlUHFUMmJ1TDhEUXBnMG1LZU1sLW1vUG1ZeDBORUhIcGJiMWFPU0NIdWJudFE1T2NYM1BUaw?oc=5",
-     "source": "Ynetnews",
-     "published": "2026-11-16T09:34:06+00:00",
-     "summary": "Liberman accuses Netanyahu's office of illegal election interference, calls in security chiefs&nbsp;&nbsp;Ynetnews",
+     "title": "Opinion: Can the Midterm Elections Signal a Return to Ethical Leadership?",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0dVdDWFk4SHVrQWxQQXdxdmQxY01wTTdWMUVpYnc2SWE2b3NfdnpsamxpcTlBbS1PQ3Uzc0RZcVgzaXk3QW9XeGRKNVNYTlIwUFRnejdLdlFTY01xWElZLU1RRXVFd1R1UlllTg?oc=5",
+     "source": "Hartford Courant",
+     "published": "2026-11-16T10:01:11+00:00",
+     "summary": "Opinion: Can the Midterm Elections Signal a Return to Ethical Leadership?&nbsp;&nbsp;Hartford Courant",
      "image": ""
     },
     {
-     "title": "Watson faces criticism over Mississippi election management mishaps",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ2xtQS04b0E5RGwyRE1wMkpMOXpzUUs1TzdSeHdMWDJsVFlmVE4yZ0NRM1FtN2dBV21jZGRYZnNNTVlRWFJPUnhZZkhTT18wNkRSLWVCWXpJNjdVNlVUZ1AycVFaeEJQbUJtMFJQVnB0VEZTMXpHYkZ4ZzFyVjVLb2tnY3dMdmZzem83Wk5zLWROdG9FTU5PU3l2aEViT29mS252NmhTUTVGdmw0Tkc5SWFTNGRtclItN3A5dTY5d3d4S3MyaHB2NFpUanJGaHc0Z1pqZElaYTB6QVlHbUc5RUVjdVZkX241bUFlbzdtc3doUQ?oc=5",
-     "source": "Northeast Mississippi Daily Journal",
-     "published": "2026-11-16T09:30:00+00:00",
-     "summary": "Watson faces criticism over Mississippi election management mishaps&nbsp;&nbsp;Northeast Mississippi Daily Journal",
+     "title": "AI bubble will likely burst and cause a recession by 2028 election, Wall Street\u2019s former top cop says | CNN Business",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ISTFFbzctbFN5S3RraVZnbzBORlh6VHFWYS1rOTQxU2tiVDhkNDlGVS15R1UzMnVXUXQ1T1FKeWNYNmktNXozd3RnUXNGUjdNcDdqUUFxaTR0QU1PMGVCVHZkZWYyYlIwWjZUeXNUekNwVEE0cV9wcjVqWTE?oc=5",
+     "source": "CNN",
+     "published": "2026-11-16T10:00:56+00:00",
+     "summary": "AI bubble will likely burst and cause a recession by 2028 election, Wall Street\u2019s former top cop says | CNN Business&nbsp;&nbsp;CNN",
      "image": ""
     },
     {
-     "title": "Can political leadership help move guaranteed income from temporary pilots towards lasting public policy?",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3dWSkcwbk83UjNLQ2p4RXVQVnJMRF9GczdROUNVYUhfZDNSdVV6WGZGMjFGSWN6UXZkbHJBM3EtY2M5NVA5ZFEzaFdwcjBXRC1jQ1pkRUhrUVZ4Y09oQVdJZERhcXR0dmtabW5LNlNkSHVvSVc3NXZ6YzNYZ3BOT0E1Vjg5ZzdQUF9ScVBqT2JpV1g2UEJveGQ5Wmwya21odkQtbzZqVUNPTHRZOTRBRDEwcnhaRERUNjR2ZHRqLTVkVEQ0b2pacC1iOGIzUEtCcXBCLS14Wm9XZw?oc=5",
-     "source": "Basic Income Earth Network",
-     "published": "2026-11-16T09:05:27+00:00",
-     "summary": "Can political leadership help move guaranteed income from temporary pilots towards lasting public policy?&nbsp;&nbsp;Basic Income Earth Network",
+     "title": "Hong Kong insurers expanding into wealth management as policy sets record",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWJ5MS1ablM4LXlsek1nZWJSNk0yMXFYOXVWVnVOWTBQdVJYNlBMQ0FsMjV0Y0w1T0puZE1vanZQTzZnZTRDaEQ1TkNRVGJZSWxmdUgxSUFfOXV3TmNSZUJqeklmMU5CMG03SUlKNlJjVlJIOHlBNEptTWdGY2tnUVA3ZEpkWW51QUhzcXU5Z0FvNUtTRDJhZ0dPNXlRaWt3bm1sUGhORF9NblF6WW5uMw?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-16T10:00:11+00:00",
+     "summary": "Hong Kong insurers expanding into wealth management as policy sets record&nbsp;&nbsp;South China Morning Post",
      "image": ""
-    },
-    {
-     "title": "Errors remain in Connecticut election data two weeks after voting",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHZGek53dU9VcWxnMDVNS1Y2aHNZTXctSlI3WktqWFlJaGZjbjNRZ3JRcmJIRG9vbHlKc21JTF9YT1pONTBtYjlyZVhxRTkwQ2ZLU2V2T2IzRDYwTlp4bG1nczJkSnJoeXZUdkx3a1Zyb0xaNVRQSW9wYWtpaUlpZFdSd2U0VGo2TjNBLXNZRQ?oc=5",
-     "source": "CT Insider",
-     "published": "2026-11-16T09:04:54+00:00",
-     "summary": "Errors remain in Connecticut election data two weeks after voting&nbsp;&nbsp;CT Insider",
-     "image": ""
-    },
-    {
-     "title": "'French Fractures': Le Pen and the limits of 'de-demonization' before the presidential election",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYjhUNExoRU9XY0FHWlpSd2YzT3hmel9HazZHNjMxWEp1aUxpOEFPLVpsU1g5Y3Y5Tl9ZVXh6SE9mQVpRa3BvVXFJZVhXMjd1V1ptYmIxaVVaTjJ3di11NGxRREx3d1paYzFLanM2Tk01dW1ndm9XcU1BSklMemZYNWZjSUFnMUF1ZXp4d2gxUjBQa0FsTXNIcDJzVWRIYXdYQnNSRkhRNHN0M3hxWlprRHUwcmoyVnhHQ0lBeDlUYU5xTHlSNHpSS1NXcHgzdmsyNFZsMkpLQ1JBUWJuaDZ1djVlMTQ5dlFkelh6N0pSTGE?oc=5",
-     "source": "Le Monde.fr",
-     "published": "2026-11-16T09:04:45+00:00",
-     "summary": "'French Fractures': Le Pen and the limits of 'de-demonization' before the presidential election&nbsp;&nbsp;Le Monde.fr",
-     "image": ""
-    },
-    {
-     "title": "Womack discusses religion, policy, pending charge",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd2tCakVFbi1SVF9vS011R09Uak5iNXlPZ3BydjNzQno3VThsZENSRnAtUThuVzN6bnY2VF8yOEhCVFBIb0J6dUhCTXROcnVISlVqdW4yNUg3azJJd1lUWkhGQ2RPeE5sSHNndWx4ZWxPUlI3bmFRb1RFcUR4XzUtZFRBSWdneXc?oc=5",
-     "source": "Carolina Journal",
-     "published": "2026-11-16T09:00:40+00:00",
-     "summary": "Womack discusses religion, policy, pending charge&nbsp;&nbsp;Carolina Journal",
-     "image": ""
-    },
-    {
-     "title": "NSW halts new law to crack down on underquoting by real estate agents at 11th hour",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-halts-new-law-to-crack-down-on-underquoting-by-real-estate-agents-at-11th-hour",
-     "source": "The Guardian",
-     "published": "2026-11-16T08:53:22+00:00",
-     "summary": "Backdown is one of several premier Chris Minns has announced in recent weeks as state prepares for election in MarchGet our breaking news email, free app or daily news podcastThe M",
-     "image": "https://i.guim.co.uk/img/media/6f6b9ed84a95172b199c1ab51e5f6758027ef874/506_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=d7ccd21554a83fef45aba172d9159f9b"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-16T09:54:31.290822+00:00",
+   "fetched_at": "2026-11-16T10:24:36.768351+00:00",
    "stale": false,
    "items": [
     {
