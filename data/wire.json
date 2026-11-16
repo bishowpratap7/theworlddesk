@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-16T00:17:31.309468+00:00",
+ "generated_at": "2026-11-16T00:47:36.014817+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T00:17:31.309435+00:00",
+   "fetched_at": "2026-11-16T00:47:36.014784+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Coles investigating \u2018cybersecurity incident\u2019 and apologises to customers",
+     "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+     "source": "The Guardian",
+     "published": "2026-11-16T00:25:13+00:00",
+     "summary": "Supermarket giant says no customer, team or supplier data breached in cyber-attack but recommends customers update passwordsGet our breaking news email, free app or daily news podc",
+     "image": "https://i.guim.co.uk/img/media/5d6841423c15f03bccc940dc248768d8adba7384/780_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9918a374d89f099274e3dc1e83cfae34"
+    },
+    {
+     "title": "Russia's mega-rich are already imagining a future after Putin",
+     "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T00:13:14+00:00",
+     "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
+     "url": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+     "source": "The Guardian",
+     "published": "2026-11-16T00:08:23+00:00",
+     "summary": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consentAlmost one in five young women and girls in the UK",
+     "image": "https://i.guim.co.uk/img/media/c3d1287e2bde13655bc5b90da4555cdf0f7dcb39/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=66f5fb9c6d91af76a2f76de87c73789b"
+    },
+    {
+     "title": "Burnham pledges early intervention and \u2018benefits backstop\u2019 to tackle youth jobs crisis",
+     "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+     "source": "The Guardian",
+     "published": "2026-11-16T00:06:13+00:00",
+     "summary": "Prime minister promises \u2018root-and-branch rethink\u2019 of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain\u2019s ",
+     "image": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=ac37a8f6dd0b557e724874bc86532ce8"
+    },
+    {
+     "title": "Zambia\u2019s copper boom attracts billions in investment, but who benefits?",
+     "url": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T00:04:28+00:00",
+     "summary": "Workers&#039; rights, environmental concerns and local businesses remain at the centre of the debate.",
+     "image": ""
+    },
     {
      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
@@ -14,12 +54,28 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
     },
     {
+     "title": "Eisenkot says Netanyahu can\u2019t remain Israel PM amid alleged vote meddling",
+     "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T00:01:45+00:00",
+     "summary": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM&#039;s office.",
+     "image": ""
+    },
+    {
      "title": "\u2018Loaded with potential\u2019: stage version of TV smash It\u2019s a Sin has the dancefloor at its heart",
      "url": "https://www.theguardian.com/stage/2026/nov/16/stage-version-tv-series-its-a-sin-trailer",
      "source": "The Guardian",
      "published": "2026-11-16T00:01:27+00:00",
      "summary": "Exclusive: Trailer released for Rambert\u2019s version of Russell T Davies\u2019s show about friendship amid the 80s Aids crisis and the \u2018extraordinary freedom\u2019 of clubbingRussell T Davies\u2019s",
      "image": "https://i.guim.co.uk/img/media/9bc9877734957991e38c6a46af621ddfc1a3d097/0_0_6663_5333/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=f4e3cf54375cf3b54368c16ac79e0bda"
+    },
+    {
+     "title": "Iran war live: Tehran warns it may strike first before another US attack",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T00:00:00+00:00",
+     "summary": "Yemeni army says it is &#039;repositioning&#039; troops away from the Bab al-Mandeb strait and other key coastal areas.",
+     "image": ""
     },
     {
      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
@@ -60,69 +116,45 @@
      "published": "2026-11-15T23:19:05+00:00",
      "summary": "Professor urges ministers to use awareness triggered by Russell Brand conviction to examine use of rape myths in trialsThe debate triggered by high-profile cases must \u201cpull back th",
      "image": "https://i.guim.co.uk/img/media/70da16c077d52bf4ba97063e669ba34a16329c85/645_0_2907_2326/master/2907.jpg?width=140&quality=85&auto=format&fit=max&s=16427c154be1f5d516fa4caa85b7d6e4"
-    },
-    {
-     "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-     "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-15T22:57:27+00:00",
-     "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55e/live/4bc0f750-e140-11f1-859a-418a418deb7d.jpg"
-    },
-    {
-     "title": "Miguel Angel Felix Gallardo, architect of Mexico\u2019s drug trade, dies aged 80",
-     "url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
-     "source": "\u00a9 AFP",
-     "published": "2026-11-15T22:48:31+00:00",
-     "summary": "Miguel Angel Felix Gallardo, a founder of Mexico\u2019s Guadalajara cartel known as the \u201cboss of bosses\u201d, died in hospital on Sunday aged 80 after suffering multiple organ failure, Jali",
-     "image": "https://s.france24.com/media/display/a3174496-e145-11f1-ae4a-f71d22e7fea9/w:1024/p:16x9/000-D7JM9ZV.jpg"
-    },
-    {
-     "title": "England stun Spain to end La Roja\u2019s 43-game unbeaten run",
-     "url": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T22:40:01+00:00",
-     "summary": "Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.",
-     "image": ""
-    },
-    {
-     "title": "Police ban protests near 10 schools and five universities in Paris",
-     "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-15T22:28:54+00:00",
-     "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg"
-    },
-    {
-     "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-15T22:28:02+00:00",
-     "summary": "Four countries call situation \u2018entirely reversible\u2019 in joint statement as flooding exacerbates humanitarian crisisAustralia, Canada, the United Kingdom and Italy have urged Israel ",
-     "image": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=140&quality=85&auto=format&fit=max&s=f7bf201bcb081c3480d5b33a65ba7ba5"
-    },
-    {
-     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-15T22:24:20+00:00",
-     "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-     "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-     "source": "The Guardian",
-     "published": "2026-11-15T22:17:09+00:00",
-     "summary": "Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn\u2019s support for Ukraine Estonia will close all its border crossings with Russia from 1 ",
-     "image": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=4699c1636ab8599033326f36694ff0a4"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T00:17:31.309450+00:00",
+   "fetched_at": "2026-11-16T00:47:36.014800+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Svitolina to return to Ukraine, vows continued support for war-hit homeland",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdHNGbzhkdWF5VDJjUHJWMkN4MGlpeS0xR0RydUVLV3UweUpFYUd6WDVLWUxZbGR4b1FnbnRCd0JZemktMUNQeGZaX25EUnpVMGFSeVhHalVHX3VIcDhXS2pqWWE0Qk54eWRZdWJJaHk0ZjVpbXh1MTlpcVEyREJwOXZsejEzYVhlQUVhd2sycmlXQUNBaXFtbE41VUl0OXBTbUdkS25LS1NPcWs0OU41YksxNWlfNjQ?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-11-16T00:29:00+00:00",
+     "summary": "Svitolina to return to Ukraine, vows continued support for war-hit homeland&nbsp;&nbsp;The Straits Times",
+     "image": ""
+    },
+    {
+     "title": "Russia's mega-rich are already imagining a future after Putin",
+     "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T00:13:14+00:00",
+     "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+     "title": "Eisenkot says Netanyahu can\u2019t remain Israel PM amid alleged vote meddling",
+     "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T00:01:45+00:00",
+     "summary": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM&#039;s office.",
+     "image": ""
+    },
+    {
+     "title": "Iran war live: Tehran warns it may strike first before another US attack",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T00:00:00+00:00",
+     "summary": "Yemeni army says it is &#039;repositioning&#039; troops away from the Bab al-Mandeb strait and other key coastal areas.",
+     "image": ""
+    },
     {
      "title": "Atlanta man sends surgical gear, generators to Ukraine war front",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZURVenJIeEdLNTdSYUVVNFFMTEt3RGdNU0NyWVJvRHVHd0dtVlVhY014WlZfcnk3SkZOT0hRWThoVXhaaWhTYXRSWW54Nl91N3FON2EwRm0xdmJLTDRFV2NIc08yZHZmVDdQd1BiUDBHSk5jQTl5b25oMGw2MVR2cmdLemNoMVJnZGl1cjJqWkdRNmJWcDlv?oc=5",
@@ -186,45 +218,61 @@
      "published": "2026-11-15T22:33:00+00:00",
      "summary": "Prince Harry says \u2018you\u2019re going to win\u2019 on Ukraine trip&nbsp;&nbsp;Inquirer.net",
      "image": ""
-    },
-    {
-     "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-15T22:28:02+00:00",
-     "summary": "Four countries call situation \u2018entirely reversible\u2019 in joint statement as flooding exacerbates humanitarian crisisAustralia, Canada, the United Kingdom and Italy have urged Israel ",
-     "image": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=140&quality=85&auto=format&fit=max&s=f7bf201bcb081c3480d5b33a65ba7ba5"
-    },
-    {
-     "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-     "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-     "source": "The Guardian",
-     "published": "2026-11-15T22:17:09+00:00",
-     "summary": "Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn\u2019s support for Ukraine Estonia will close all its border crossings with Russia from 1 ",
-     "image": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=4699c1636ab8599033326f36694ff0a4"
-    },
-    {
-     "title": "Britain\u2019s Prince Harry visits war-wounded in Ukraine By Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ21ETjUtQzV2anVfdVk2eGpLM00zc20xT0hYQ2xPdkVzTHBCVXE1eld3WlZRQkNybzdyaE9GNFozeFpjV1AtSGNKX28yc0prUUx0R29jcEtSUGpYNURjaHlPbUx6blVMUVpFcVkzNFhPYmFlV1dTZmxaUU4yLXgyaDdoSTFoWXp5WHRURjB0NWphUkxZNmNxUl9oSC1vZ0o3ZWc?oc=5",
-     "source": "Investing.com",
-     "published": "2026-11-15T22:16:58+00:00",
-     "summary": "Britain\u2019s Prince Harry visits war-wounded in Ukraine By Reuters&nbsp;&nbsp;Investing.com",
-     "image": ""
-    },
-    {
-     "title": "What to expect from Trump and Xi's upcoming meeting in China",
-     "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
-     "source": "NPR",
-     "published": "2026-11-15T22:11:26+00:00",
-     "summary": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, ",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T00:17:31.309454+00:00",
+   "fetched_at": "2026-11-16T00:47:36.014804+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Panel finds lack of standing to challenge DHS policy",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0JmZlNCRUdpREg1Z2o1QmVsV05NVFZ5ZEFqUDNXMDZkTjdLLVB4NDV6RFl0bHdsZUtEMk5wQy1rQzRaSncxdGZzM054clluSk90c0hCTURtaGZVNTQ1WDNGek1VZVZKMUY1QXhEa2NTT3R0SmlnN2p6QTV0a2NWRFdwV012Tlp6aHZyVjlVS3BELUxDOE56WVhR?oc=5",
+     "source": "Massachusetts Lawyers Weekly",
+     "published": "2026-11-16T00:45:41+00:00",
+     "summary": "Panel finds lack of standing to challenge DHS policy&nbsp;&nbsp;Massachusetts Lawyers Weekly",
+     "image": ""
+    },
+    {
+     "title": "INTERVIEW: Peninsula Says Diverging US and EU Sanctions Rules Mean Bunker Suppliers Must Clear Every Deal Twice \u2014 Ship & Bunker",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeVlIREFfemUwTkdVekcxQTBaczBxMHM0OFV3RU82VGdnX1N1ckE2ckd2eFN5cy0tRDBWQm16b054OW4tbUVxUFltUVNLTElUV0NwSGd1NzVxcGZyQ0ZwbTdDSC1NbmNiNkF0N0tZRFJ0RmtFZmxoUzZnSTF3M2tKNnFIRXJTNTlrb1J0S1FzaHFLSUhrOEVKRE81LUFwdjNUbjZDcnBHXzNOazVJdW5WWG5xb2JrT0xET2k3R1ByRk94aXBEN2E2bTFoM3BzWHVVbU91MGlOb01MdXJnUUlyY0ZWSFNTN2RYU2c?oc=5",
+     "source": "Ship & Bunker",
+     "published": "2026-11-16T00:33:49+00:00",
+     "summary": "INTERVIEW: Peninsula Says Diverging US and EU Sanctions Rules Mean Bunker Suppliers Must Clear Every Deal Twice \u2014 Ship & Bunker&nbsp;&nbsp;Ship & Bunker",
+     "image": ""
+    },
+    {
+     "title": "Unofficial general election results for Union County by precinct",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbzRVSDBxRktUb29wMjVnSU5ZTEN6bExJdTBOZ2d4OUd6R0dsa3pkbEdjZVN4WnIwc0dVOG8xQWItclU1YTNjZTZlTENwcllScEpXZGN4azZGX3NUaWJVRkkzOU01Zk9NcTlCOXhGUXZNYzJCRXhER3FWdGhnNk9BUk95bWFlY1ZpZVNPazA2b1BDT25oenhPeUNUaVJDWXA4M09BV0JGSDF1Zi1LSWljSEl3UnNZWDhrZVoyRTIwSlRmbVBVcFp4Zk9kcFdkQUdpNmJoenpJREMyV2tUN0tWMFJtOTQ?oc=5",
+     "source": "Northeast Mississippi Daily Journal",
+     "published": "2026-11-16T00:32:00+00:00",
+     "summary": "Unofficial general election results for Union County by precinct&nbsp;&nbsp;Northeast Mississippi Daily Journal",
+     "image": ""
+    },
+    {
+     "title": "Trump: US deportation policy 'too tough' | What's Your Point?",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CQWI3c09jeTBsazVueURGLVlTd05PYUhlVGY1bV95R2lzYTFtajZlaXR3RFFEUktLZnBwRnY0RVhpbnExSk9KcmdRRWdSb0tibkdlZmRld2dYOXBJZXJndHBXVWtEd9IBa0FVX3lxTE5nSjVRcGptb2kzRnBpemgzMTZ3Ujk2NmxWeExxRkRzQ1NVWXV4S3RYNWFZS1FkQm92WWE0bFdjcEZIcGgtcm9sY0VmMHdMUkxPaUF1aE10NkN5TDRHTU9WU0lDYUlrb3ZHbnJF?oc=5",
+     "source": "FOX 26 Houston",
+     "published": "2026-11-16T00:20:58+00:00",
+     "summary": "Trump: US deportation policy 'too tough' | What's Your Point?&nbsp;&nbsp;FOX 26 Houston",
+     "image": ""
+    },
+    {
+     "title": "After special election, Senator-elect Sherrod Brown could soon be getting an early start in Washington",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjBiZkU1cGR2ak5qdDJ3QVdTdENlY3JvVldUTElHR1FHNWlUbnhvLWNFVlp4cGlpdUlFeWJ6Qjh0SWo1STdlNlNXZ0VlRFhIN1hTMHhTU2tZY1dwWkFSUmJUMWJBcXktVERTRDY0X0pwelc5M3l2OG12TTFMR0x3RllvX1ZwMmJwMjhTV1d3eEdCcVdOQWxlMUNOWU42ZWdHUFBUcw?oc=5",
+     "source": "WLWT",
+     "published": "2026-11-16T00:12:13+00:00",
+     "summary": "After special election, Senator-elect Sherrod Brown could soon be getting an early start in Washington&nbsp;&nbsp;WLWT",
+     "image": ""
+    },
+    {
+     "title": "Burnham pledges early intervention and \u2018benefits backstop\u2019 to tackle youth jobs crisis",
+     "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+     "source": "The Guardian",
+     "published": "2026-11-16T00:06:13+00:00",
+     "summary": "Prime minister promises \u2018root-and-branch rethink\u2019 of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain\u2019s ",
+     "image": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=ac37a8f6dd0b557e724874bc86532ce8"
+    },
     {
      "title": "Did corruption impact the midterm election? | What's Your Point?",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VckJnTFJHM3VYWHRMaWlSeXYxV19qZTlyV0NWazFTSjBIZXdhWjNzNmlTMXhpOFRMaF9iNTFrLXBURHJtUm5fTzZvbURwQkNwR2tlemtTRGNESUNJb1BadTAtMzFXd9IBa0FVX3lxTE9lSmczcW5lc1VqOEU4bnVIMTlWZlNQalIwN3E3RXJMMFFvdWM5MVhsalZWc0NqZHh0dHNIQk5oZElreHZ3aHJwYWtoNVZVTkZGekpPekZRYWVVMDAwRGVaWkVNUmlVWExiQkhF?oc=5",
@@ -271,54 +319,6 @@
      "source": "Anadolu Ajans\u0131",
      "published": "2026-11-15T22:23:07+00:00",
      "summary": "Eisenkot calls Netanyahu a \u2018direct threat\u2019 to Israel\u2019s democracy, vows probe into alleged election interference&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "After special election, Senator-elect Sherrod Brown could soon be getting an early start in Washington",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjBiZkU1cGR2ak5qdDJ3QVdTdENlY3JvVldUTElHR1FHNWlUbnhvLWNFVlp4cGlpdUlFeWJ6Qjh0SWo1STdlNlNXZ0VlRFhIN1hTMHhTU2tZY1dwWkFSUmJUMWJBcXktVERTRDY0X0pwelc5M3l2OG12TTFMR0x3RllvX1ZwMmJwMjhTV1d3eEdCcVdOQWxlMUNOWU42ZWdHUFBUcw?oc=5",
-     "source": "WLWT",
-     "published": "2026-11-15T22:18:45+00:00",
-     "summary": "After special election, Senator-elect Sherrod Brown could soon be getting an early start in Washington&nbsp;&nbsp;WLWT",
-     "image": ""
-    },
-    {
-     "title": "5 takeaways as lame-duck defense fights heat up",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUktfSkdjQ0hHQjBVeFI3ejFOOG5ub0RqTE9MbmdHYUJXSk1YUm9YMTlfZ1pjSGg1ZlNXQ3gyYUJWOF9HYzNMUkpfY3F4WDVxal9wdEQzQ0dkUnFBdVF3cThrd2VFM204NWxSQ3NmYURydlVkQkMwNHpwYlQ1cl9xaNIBhgFBVV95cUxQZTBReVFpUHg0QmY4dFItUF9jeXk2Mzl2MlZreVJjVEtTZTdZSTF2Qm9fcVY0aW5fbU45WkU5d3I4MnlEb2J4QkhrRDFnSnVWTTdTamFVY0pGS2tiSzFHLWpjNGRPNXpCMW5SUGJDMmNuUk92akFXc29nd2VVZFl1Z09oYkx3Zw?oc=5",
-     "source": "The Hill",
-     "published": "2026-11-15T22:00:00+00:00",
-     "summary": "5 takeaways as lame-duck defense fights heat up&nbsp;&nbsp;The Hill",
-     "image": ""
-    },
-    {
-     "title": "Thousands run Cuba\u2019s Marabana marathon as many protest US sanctions",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmJwaGxVZTNSbUV0UXRHX0tUTUwySEl0NG83MmYzenhqTmpfUVB3ZlVqNUd6WXJKZWlBYXF2RnUxalI1cFhzaGt0SkxITHEwcFBDbXdJZ3ZxUjF5Z3lxbUZ0eV9EdGhrc1FldzhVZ0J3NDlvMGo1R0hOa19neURPd2FhRkxaZzIxZjVFX3ZWZHRMN0UtX1lOQXhZTm9XclFaczgySEJB?oc=5",
-     "source": "WRAL",
-     "published": "2026-11-15T21:56:15+00:00",
-     "summary": "Thousands run Cuba\u2019s Marabana marathon as many protest US sanctions&nbsp;&nbsp;WRAL",
-     "image": ""
-    },
-    {
-     "title": "Chuck Rocha on Senate Democratic caucus leadership election",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSW9VdHpIN3ZhVGQzS1FwdVFrMi1Xbm9HQ0FGNHdKWVRTelcwOGhVcDVocGppU0RGQkhzRk1kWGZaeFBoUlh4T0ota1NfVlhPeDFkMms3VWhZVTJIaGp1UV9DcGhPZ1EwbnBtZlY4N3FXa2FvdE1yRm5KSnVJRDg5cjNKa3Y1czNVU2FLRnVmcURoaWZNbC1lMmZzdzVLOUpRZjNUckxPMNIBrAFBVV95cUxOMEJBdUtiQ3FCbFRGN2l0RWlFUWVYZDVaSHRsSEw0ekljTDl6RDc5MU9rV1ZicHpvY3hjTDk4OWFuMm5rOExuZGRjOFVfSkxlYjVWR1ZOcHpGN0I4UU5QZW91SGlfcjJIczYxeDVORE1uWGpkSUtwYWxSQlZKY2RwNGJnOVlKNTZSdTZUQ2ZhdV9tSDdLdFFmb29GM2FESTJQdk1LYS00MGxoM3hG?oc=5",
-     "source": "The Hill",
-     "published": "2026-11-15T21:48:00+00:00",
-     "summary": "Chuck Rocha on Senate Democratic caucus leadership election&nbsp;&nbsp;The Hill",
-     "image": ""
-    },
-    {
-     "title": "Netanyahu aides suspected of coordinating arrests of Arab party activists during Israel's election: Report",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOclVNOFBCYVV4UXhzOWNPcEhzODVGLWNMTUEtTDNwNWFPLWVVZFVpdGxWWVY3SGdEeXpFQzBPU2UyeXF2X2R3RWMtTHN6YTJYNWRrY3dVMHBUOVhDcXJGWEpQcGt5Tzd2Um1idU91X2prRGtpVTgtYnVZUXRJZXJVRzBQQ2tHeEtWZmRoeWlJb0k1MlZrdzhYeXBXeDMySTBtQVdINU1pVXBUc3ZQcm5nU1Fsb2d2Sl9ETDhEc25vak1qb1hEZVR6Z3RMX2ZtNDhKVVpyUFpEVTItcm40UXAtUHhFQQ?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-15T21:34:32+00:00",
-     "summary": "Netanyahu aides suspected of coordinating arrests of Arab party activists during Israel's election: Report&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "'Despicable blood libel\u2019: Jabareen slams Netanyahu over Ra\u2019am Election Day arrests report",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSkVqZmQ2X3hRZTFoTWFDLUROZktoNG93NEN6emFJWDU2cE5tbnlTV2JhVmltUkc0YjE5Zk85OWR2bmpRMWpIS3hjaFRXeW9LTmJjS3BLRFZJWXBCTmhhU0lMV21DNWtPekVkQXB2bWpydkU5VTZJQ0FOUQ?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-15T21:32:49+00:00",
-     "summary": "'Despicable blood libel\u2019: Jabareen slams Netanyahu over Ra\u2019am Election Day arrests report&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     }
    ]
