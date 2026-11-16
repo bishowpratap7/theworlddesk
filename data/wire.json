@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T04:20:45.917042+00:00",
+ "generated_at": "2026-11-16T04:51:18.557702+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T04:20:45.917005+00:00",
+   "fetched_at": "2026-11-16T04:51:18.557669+00:00",
    "stale": false,
    "items": [
     {
@@ -18,7 +18,7 @@
      "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
      "source": "The Guardian",
      "published": "2026-11-16T04:04:37+00:00",
-     "summary": "Supermarket giant says no customer, team or supplier data compromised but recommends customers update passwordsGet our breaking news email, free app or daily news podcastAustralia\u2019",
+     "summary": "Supermarket giant says no customer, team or supplier data compromised but recommends updating passwords as a precautionGet our breaking news email, free app or daily news podcastAu",
      "image": "https://i.guim.co.uk/img/media/5d6841423c15f03bccc940dc248768d8adba7384/780_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9918a374d89f099274e3dc1e83cfae34"
     },
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T04:20:45.917027+00:00",
+   "fetched_at": "2026-11-16T04:51:18.557688+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T04:20:45.917030+00:00",
+   "fetched_at": "2026-11-16T04:51:18.557690+00:00",
    "stale": false,
    "items": [
     {
