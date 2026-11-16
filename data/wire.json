@@ -1,10 +1,82 @@
 {
- "generated_at": "2026-11-16T11:24:46.971786+00:00",
+ "generated_at": "2026-11-16T11:54:50.726314+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T11:24:46.971756+00:00",
+   "fetched_at": "2026-11-16T11:54:50.726284+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T11:47:17+00:00",
+     "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg"
+    },
+    {
+     "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
+     "source": "The Guardian",
+     "published": "2026-11-16T11:46:33+00:00",
+     "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is ",
+     "image": "https://i.guim.co.uk/img/media/3895a73fc525e4b560bc91f0b5480fe71850c3d8/717_0_7144_5719/master/7144.jpg?width=140&quality=85&auto=format&fit=max&s=3029d1ad8d73f54cbd2c9c76388b04d5"
+    },
+    {
+     "title": "Estonia to close Russian border crossings after attempted arson attack on\u00a0drone\u00a0\u200cmaker",
+     "url": "https://www.france24.com/en/video/20261116-estonia-to-close-russian-border-crossings-after-attempted-arson-attack-on-drone-maker",
+     "source": "France 24",
+     "published": "2026-11-16T11:43:54+00:00",
+     "summary": "Estonia will close all its border crossing points with Russia from December 1, its foreign minister said on Sunday, following a suspected sabotage attack on an Estonian drone maker",
+     "image": "https://s.france24.com/media/display/b67152b6-e1ae-11f1-9ccf-5f54d898a954/w:1024/p:16x9/EN-20261116-103646-103821-CS.jpg"
+    },
+    {
+     "title": "Macron to inaugurate Cambodia temple after 14-year restoration",
+     "url": "https://www.france24.com/en/video/20261116-macron-to-inaugurate-cambodia-temple-after-14-year-restoration",
+     "source": "France 24",
+     "published": "2026-11-16T11:41:02+00:00",
+     "summary": "In Cambodia, French President Emmanuel Macron and King Norodom Sihamoni are expected to inaugurate a newly restored temple at the world-famous Angkor archaeological site on Monday.",
+     "image": "https://s.france24.com/media/display/438af9a6-e1ad-11f1-a126-3f371022a770/w:1024/p:16x9/EN-20261116-102356-102604-CS-01.jpg"
+    },
+    {
+     "title": "Yemen's\u00a0Houthis advance on Aden as govt bolsters defences",
+     "url": "https://www.france24.com/en/video/20261116-yemen-s-houthis-advance-on-aden-as-govt-bolsters-defences",
+     "source": "France 24",
+     "published": "2026-11-16T11:36:38+00:00",
+     "summary": "Yemen's Houthis were advancing on the interim seat of the internationally recognised government on Sunday, positioned just 60 kilometres from Aden, according to military sources, a",
+     "image": "https://s.france24.com/media/display/278b0c00-e1ad-11f1-b157-695cb59fade5/w:1024/p:16x9/EN-20261116-101050-101247-CS.jpg"
+    },
+    {
+     "title": "DOJ warns Elizabeth Warren over Trump investigations \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-16T11:32:14+00:00",
+     "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans following midterms successDemocratic US senator Chris Van Hollen on Su",
+     "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4"
+    },
+    {
+     "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+     "source": "The Guardian",
+     "published": "2026-11-16T11:30:35+00:00",
+     "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, as US treasury secretary urges \u2018dramatic shake-up\u2019Megaspeed says it\u2019s a \u2018legitimate and lawful busines",
+     "image": "https://i.guim.co.uk/img/media/e480adfe7860e9e4439f965fe15e55a5e4ff13f0/555_0_5960_4770/master/5960.jpg?width=140&quality=85&auto=format&fit=max&s=50878ed33290d246ee0c626a144dabdb"
+    },
+    {
+     "title": "Burnham sets three tests for EU deal, saying it should make Brexit \u2018closer to what people thought they were voting for\u2019 \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+     "source": "The Guardian",
+     "published": "2026-11-16T11:30:08+00:00",
+     "summary": "PM to address fallout from Brexit in speech this eveningBurnham to say Brexit \u2018has not worked\u2019Following the Russell Brand conviction, and the revelations about David Walliams, ther",
+     "image": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=a1d0431197dfc3244a7a8c256f04c8c7"
+    },
+    {
+     "title": "As homes seized, Jericho\u2019s Palestinian residents fear settler takeover",
+     "url": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T11:23:43+00:00",
+     "summary": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
+     "image": ""
+    },
     {
      "title": "Ukraine strikes Crimea bridge as Zelensky says Starshield caps helping Russian attacks",
      "url": "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks",
@@ -20,6 +92,14 @@
      "published": "2026-11-16T11:16:44+00:00",
      "summary": "Israeli prime ministerial hopeful Gadi Eisenkot on Sunday said caretaker premier Benjamin Netanyahu \"cannot remain at the head of the government for a minute longer\", following pre",
      "image": "https://s.france24.com/media/display/7db42cb4-e1ae-11f1-8a4c-f71d22e7fea9/w:1024/p:16x9/EN-20261116-103439-103615-CS.jpg"
+    },
+    {
+     "title": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
+     "source": "The Guardian",
+     "published": "2026-11-16T11:12:44+00:00",
+     "summary": "Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokespersonEurovision\u2019s organisers have said they are \u201csurprised and disappointed\u201d that the ",
+     "image": "https://i.guim.co.uk/img/media/aadbe462ac001cb187d32aae61cb263f228a36eb/340_0_3192_2554/master/3192.jpg?width=140&quality=85&auto=format&fit=max&s=32816c79aa7da486780d3d0dacb1c96c"
     },
     {
      "title": "Yemeni forces retreat to defend port city from Houthis",
@@ -36,93 +116,101 @@
      "published": "2026-11-16T11:05:47+00:00",
      "summary": "Huang&#039;s peers, including Elon Musk, have praised his business acumen and potential risks to the US&#039;s AI goals.",
      "image": ""
-    },
-    {
-     "title": "Americans relying on heating oil brace for harsh winter: \u2018We\u2019re often cold in our own home\u2019",
-     "url": "https://www.theguardian.com/business/2026/nov/16/heating-oil-price-increase-winter",
-     "source": "The Guardian",
-     "published": "2026-11-16T11:00:58+00:00",
-     "summary": "Surge in prices is forcing many to cut back on spending, with a projected 21% increase in costs of those householdsMillions of homeowners in the US will pay hundreds of dollars mor",
-     "image": "https://i.guim.co.uk/img/media/d01f4f4effab01ef64a2fc21dcdf4c74f6e88da5/412_0_2439_1952/master/2439.jpg?width=140&quality=85&auto=format&fit=max&s=1d535f42aca70553149e73f1c1ddc3bb"
-    },
-    {
-     "title": "Revealed: Israel uploaded millions of photos to Amazon\u2019s facial recognition platform to track Palestinians",
-     "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-     "source": "The Guardian",
-     "published": "2026-11-16T11:00:56+00:00",
-     "summary": "Upload came as the Israeli military was increasing its reliance on Amazon\u2019s cloud platform to meet the technological demands of its bombardment of GazaThe Israeli military uploaded",
-     "image": "https://i.guim.co.uk/img/media/bc01b369b562e3e2bf256cd5482bab9f368d5175/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=d4fd5266aa44369a3472db45234f5224"
-    },
-    {
-     "title": "Miliband defends 2015 interview with Russell Brand, saying he was \u2018taking him on\u2019 not endorsing him \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-16T11:00:34+00:00",
-     "summary": "Then Labour leader says he wanted to counter comedian\u2019s call for people not to vote in general electionWhen Andy Burnham told the Labour conference that he wanted to start a debate",
-     "image": "https://i.guim.co.uk/img/media/15533b940574bf8a1c0f8c7044d13b411b628032/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2d569359cce012ba230807ff5d269d7e"
-    },
-    {
-     "title": "Two mass shootings in South Africa leave 17 dead",
-     "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T10:57:48+00:00",
-     "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg"
-    },
-    {
-     "title": "Francophonie summit postpones new leader vote amid DR Congo-Rwanda dispute",
-     "url": "https://www.france24.com/en/africa/20261116-francophonie-summit-postpones-new-leader-vote-amid-dr-congo-rwanda-dispute",
-     "source": "\u00a9 Tang Chin Sothy, AFP",
-     "published": "2026-11-16T10:51:40+00:00",
-     "summary": "The Organisation Internationale de la Francophonie (OIF) on Monday had been set to choose its new secretary general during talks in the Cambodian capital Phnom Penh. But delegates ",
-     "image": "https://s.france24.com/media/display/3df16a22-e188-11f1-be7e-f71d22e7fea9/w:1024/p:16x9/000-D7HJ4YA.jpg"
-    },
-    {
-     "title": "Man charged after two people die in Leeds police pursuit crash",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
-     "source": "The Guardian",
-     "published": "2026-11-16T10:43:11+00:00",
-     "summary": "Leigh Ross, 39, charged with causing death by dangerous driving after BMW being pursued by police collided with another carA man has been charged with causing death by dangerous dr",
-     "image": "https://i.guim.co.uk/img/media/19d0c0379729b3ff7062983ea32abdcc2ef78628/975_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9d4b29a889a4bcae842caafcb0bd6f91"
-    },
-    {
-     "title": "Birth keeper told mother of baby who later died to \u2018go home and rest\u2019, NSW inquest hears",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-inquest-four-babies-freebirth-home-birth-northern-rivers-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-16T10:41:38+00:00",
-     "summary": "Sita Kali was involved in care for two of four babies who died between 2022 and 2024 in Lismore after free births or home birthsGet our daily political email, free app or daily new",
-     "image": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a6d63bb74b4836b6135a506b431ed05c"
-    },
-    {
-     "title": "Boots to begin prescribing medical cannabis in UK",
-     "url": "https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk",
-     "source": "The Guardian",
-     "published": "2026-11-16T10:32:50+00:00",
-     "summary": "Online service will be offered to patients with eligible conditions, in a first for a British high street pharmacyBoots is to start prescribing medical cannabis, it has announced, ",
-     "image": "https://i.guim.co.uk/img/media/c4ab522ef7f0b0778e51fabb97dadc5fd5f1e2bb/297_0_4669_3735/master/4669.jpg?width=140&quality=85&auto=format&fit=max&s=df6c403a4c2f71b6474f586956da987f"
-    },
-    {
-     "title": "Lebanon\u2019s second airport could provide economic and political benefits",
-     "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T10:28:22+00:00",
-     "summary": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
-     "image": ""
-    },
-    {
-     "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-     "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-     "source": "The Guardian",
-     "published": "2026-11-16T10:19:08+00:00",
-     "summary": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and humanThe relocation of a troop of baboons in Cape Tow",
-     "image": "https://i.guim.co.uk/img/media/2d86a054583a1a5d541606f7e702b5f03c426653/770_0_4580_3666/master/4580.jpg?width=140&quality=85&auto=format&fit=max&s=3225fd899e48e3305f15e48965e30afe"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T11:24:46.971771+00:00",
+   "fetched_at": "2026-11-16T11:54:50.726298+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Opinion | Erasing \u2018peace\u2019: How Russia\u2019s church serves its war in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUwzcFZ6YWtJNXdpSm03c2kzeUdJdUZUcDJCOVVrdmVMUmtSSzM0dUNial8zWkFWVTBnUno1bGY5c3pwU2ZHUnpQZHdjMFVReUxYT0NERE5GbWtJbU9MWVhSNGJ6NXhaLVR4NnVfTm9nZno1aGZIX082WVg0dUx1TmJDS1Q5UWlNV2FzOTktTlZIS3pCajJ3Wg?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-16T11:47:37+00:00",
+     "summary": "Opinion | Erasing \u2018peace\u2019: How Russia\u2019s church serves its war in Ukraine&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
+     "source": "The Guardian",
+     "published": "2026-11-16T11:46:33+00:00",
+     "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is ",
+     "image": "https://i.guim.co.uk/img/media/3895a73fc525e4b560bc91f0b5480fe71850c3d8/717_0_7144_5719/master/7144.jpg?width=140&quality=85&auto=format&fit=max&s=3029d1ad8d73f54cbd2c9c76388b04d5"
+    },
+    {
+     "title": "Trump, Putin and Xi to Meet Without Set Agenda as Ukraine War Likely Off Table",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqa2ZkcWQ2V1B2UGtOS0FJc2xHclgxRTFrNDMxd3hZR3ZoWWZOQjlZTDNNenlQc1EzMzFpM0E0ZjRuUDM0NlNrLXB0bw?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-16T11:44:09+00:00",
+     "summary": "Trump, Putin and Xi to Meet Without Set Agenda as Ukraine War Likely Off Table&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
+    {
+     "title": "Estonia to close Russian border crossings after attempted arson attack on\u00a0drone\u00a0\u200cmaker",
+     "url": "https://www.france24.com/en/video/20261116-estonia-to-close-russian-border-crossings-after-attempted-arson-attack-on-drone-maker",
+     "source": "France 24",
+     "published": "2026-11-16T11:43:54+00:00",
+     "summary": "Estonia will close all its border crossing points with Russia from December 1, its foreign minister said on Sunday, following a suspected sabotage attack on an Estonian drone maker",
+     "image": "https://s.france24.com/media/display/b67152b6-e1ae-11f1-9ccf-5f54d898a954/w:1024/p:16x9/EN-20261116-103646-103821-CS.jpg"
+    },
+    {
+     "title": "'No one can dictate' Ukraine's security choices, French foreign minister says",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUURjMkhoSkRKNnFiNGNrOTJ2aVZ1THFhaHhEQUFWYUo0akV3aG5DTEl0VlBvWlN3MlRQR0FIOUVRSnY4bFFwSmZNU08zbVFONmVaQ2UwQURoN0tlN0k3Zks2VC1nSTdGeWRXRkt3RXpwaGRVOXdzek9JTmpaMFhPWTFNSUZZdXhGRUt3UDN2clFEa3FKVDV3aWEzcTNOaFRWbUFWaEd0akJEeWVabU5tSWtEWQ?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-16T11:42:04+00:00",
+     "summary": "'No one can dictate' Ukraine's security choices, French foreign minister says&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Yemen's\u00a0Houthis advance on Aden as govt bolsters defences",
+     "url": "https://www.france24.com/en/video/20261116-yemen-s-houthis-advance-on-aden-as-govt-bolsters-defences",
+     "source": "France 24",
+     "published": "2026-11-16T11:36:38+00:00",
+     "summary": "Yemen's Houthis were advancing on the interim seat of the internationally recognised government on Sunday, positioned just 60 kilometres from Aden, according to military sources, a",
+     "image": "https://s.france24.com/media/display/278b0c00-e1ad-11f1-b157-695cb59fade5/w:1024/p:16x9/EN-20261116-101050-101247-CS.jpg"
+    },
+    {
+     "title": "Russia Claims Ukraine Launched Largest Drone Assault of the War With Over 2,000 UAVs",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGItdEl6UENBRVRlZjlDODRFSlFLeHN0VGVmUEhrRERyLWlkeWFNWmlVbTdaUjIyX3RaX2pvZm1WSnB2MWduOEpnT1hXcXhFUGhXaDlUczNqc0JHZHhDY05rNkF4em92M0xuRXJzV2VUNThtUVNQdWFpdF95STlEVnltUDBBT0hFUnk2VHVyVzFfSm85ZHFONjNVNWw4OWlNaURJRkNCTTRSRXVJV1Z1c3U5cTBja3o1a0lhZmRUNVpzdEhobGo1TVhR?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-16T11:33:34+00:00",
+     "summary": "Russia Claims Ukraine Launched Largest Drone Assault of the War With Over 2,000 UAVs&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "DOJ warns Elizabeth Warren over Trump investigations \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-16T11:32:14+00:00",
+     "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans following midterms successDemocratic US senator Chris Van Hollen on Su",
+     "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4"
+    },
+    {
+     "title": "Ukraine should seriously consider trading territory for Nato membership",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUljUk9vQ1RnVlZzajJiT3NrMjhYREJZRVBLekZBUHZqdWZtOFhqejdicnJDdEJsZ0J2cHNUSGhlclZ2NFVGSnEzTEVyVkpNd1JhWm56TDBEcE1MRnZUdXc5RzZXWEQ4N3duQ2k0WjJVbFoycEdGM2QzVEpkbzBIOHRmZ1V0aTdpMVpHV1J6X1U1WXpH?oc=5",
+     "source": "The Telegraph",
+     "published": "2026-11-16T11:31:00+00:00",
+     "summary": "Ukraine should seriously consider trading territory for Nato membership&nbsp;&nbsp;The Telegraph",
+     "image": ""
+    },
+    {
+     "title": "Ukraine Launches 1,336 Drones at Russia, Russia Says; Crimean Bridge Traffic Halted: 25 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMG5TX2tQYW5LZVlWd2ROR0stMWZvUHc2Q250OWlFZzhzSktpWTR4dTVkY21rS3RDMFo5d2FKQTRWS0M1ZmxQV2xZUDZzb3ZYcndlV0Zyb3ZOd3Zja25oN1N6bmF5a3RXS3RmZFpoYVg0dlQtZ0pjT3c4TVlKRW80RXZXMzRmLWxrYnptWXZtbEdMeFVHZXhrQkRZVW9ZRU5PWmF5LURQaVg3Zi04YTdrWEpNYWpyRUIya0ExNF9YNGpzbWswVGloUGhVVXp0UmR3QUxoOG1tVHFtbTlfeFdHT0R4QjhJSUhlV1E?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-16T11:28:50+00:00",
+     "summary": "Ukraine Launches 1,336 Drones at Russia, Russia Says; Crimean Bridge Traffic Halted: 25 outlets compared&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
+    {
+     "title": "EU Unlocks Nearly $8.8 Billion to Sustain Ukraine Through Russia\u2019s Full-Scale War",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkE4S1lwakZCNF9sM2FuZ1R6X1QySWRySktUaHFGdXg2LUJsZms2WmxKRHNFbkE3YXpSZFlBRmRjYXNmdHM2RUFnM3dlZ0E5Q2hTanZJRUFuQjlmOEFJTzdReWNLdVJnejgyNmkzQUwzcmkzQmhDWTZLQW1XTlZzLXVvQnlUYWE1bzFLV2tlUVRNLWFRN1d5Vy12XzNfRzdTeHZJckhoV0RsZXZQQk1SeXJaQnkwbms?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-16T11:26:12+00:00",
+     "summary": "EU Unlocks Nearly $8.8 Billion to Sustain Ukraine Through Russia\u2019s Full-Scale War&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
     {
      "title": "Ukraine strikes Crimea bridge as Zelensky says Starshield caps helping Russian attacks",
      "url": "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks",
@@ -130,101 +218,101 @@
      "published": "2026-11-16T11:18:47+00:00",
      "summary": "Ukraine has struck the bridge linking Russia and \u2060Crimea across the Kerch strait, limiting the flow of traffic, the peninsula's Russian-backed governor Sergei Aksyonov \u2060said on Mon",
      "image": "https://s.france24.com/media/display/1271aa7c-e1ad-11f1-bb95-29048b396e03/w:1024/p:16x9/EN-20261116-100244-100739-CS-01.jpg"
-    },
-    {
-     "title": "'Not a minute longer': Israel's Eisenkot calls for Netanyahu's ouster",
-     "url": "https://www.france24.com/en/video/20261116-not-a-minute-longer-israel-s-eisenkot-calls-for-netanyahu-s-ouster",
-     "source": "France 24",
-     "published": "2026-11-16T11:16:44+00:00",
-     "summary": "Israeli prime ministerial hopeful Gadi Eisenkot on Sunday said caretaker premier Benjamin Netanyahu \"cannot remain at the head of the government for a minute longer\", following pre",
-     "image": "https://s.france24.com/media/display/7db42cb4-e1ae-11f1-8a4c-f71d22e7fea9/w:1024/p:16x9/EN-20261116-103439-103615-CS.jpg"
-    },
-    {
-     "title": "Ghana, DRC and other African countries feature in new report linking 50 African women to Russia's attack drone industry used to fight Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdlUtb0N0LTY5OTdiLTJkSEZJX1RMUWZrdFZUX001c3A4dlNfUTdRWG5CaWRabTdtV1UyRHJTYUExLWhfWHRMSFNaV0xCU0dKMmdXN2s5ZEVVSDJPblpoTGNHSjAwNWhQSFVhSC1WRlN2bDZURUcwTDVKVDZ3MTRoQ1pEZUxwT19tTmtFTE5KczVQcmhzcTZ5TWVlcG1Oa05xc1RDTFdKM25GeFVvNUNiVm94TjZDOWtwVlRYOFFrTW1hTVMwUFY4SnBmRFZCTndKa2FXbWE5bU4?oc=5",
-     "source": "Business Insider Africa",
-     "published": "2026-11-16T11:10:03+00:00",
-     "summary": "Ghana, DRC and other African countries feature in new report linking 50 African women to Russia's attack drone industry used to fight Ukraine&nbsp;&nbsp;Business Insider Africa",
-     "image": ""
-    },
-    {
-     "title": "Yemeni forces retreat to defend port city from Houthis",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T11:09:38+00:00",
-     "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg"
-    },
-    {
-     "title": "Russian demands are 'absurd,' ceasefire must come first, Kallas comments on Ukraine peace talks",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVmpkWWx0SkFTU3NiNXczZFNKWW0tWGY2NmViX1BndHlxSHJNLWg2bWtIcXQyRW05bnZRREd4N0M1ajJNOGdqSmtsdDJEczMwV3pqWWx2eHIxMlhUYkNhVmRMQUlGQWxyX0lqUkVIeE45bWtlWXd4cE1SdmlJdDhyaFYwVkY0Q3g0WHo0bUFRRnpsYng4VlVHcmtibGNtZktNaE92WEZja1pxT05LeHdBMC1SbmhIWGVDdGdaMw?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-16T11:07:34+00:00",
-     "summary": "Russian demands are 'absurd,' ceasefire must come first, Kallas comments on Ukraine peace talks&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "Revealed: Israel uploaded millions of photos to Amazon\u2019s facial recognition platform to track Palestinians",
-     "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-     "source": "The Guardian",
-     "published": "2026-11-16T11:00:56+00:00",
-     "summary": "Upload came as the Israeli military was increasing its reliance on Amazon\u2019s cloud platform to meet the technological demands of its bombardment of GazaThe Israeli military uploaded",
-     "image": "https://i.guim.co.uk/img/media/bc01b369b562e3e2bf256cd5482bab9f368d5175/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=d4fd5266aa44369a3472db45234f5224"
-    },
-    {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 16, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nVWR2MlZNV2lUSEN4WEhUaHl1TjN3LWJvUmhyMjZBZkpPN0FvaEVOSE9OWDN4VWMtd3dsU29HbzlOSXMtOGpieldXNnQ5UQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-16T11:00:53+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 16, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Russia seeks return to UN leadership roles as diplomats warn of 'Ukraine fatigue'",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQzdVODJrc3d2WmF0Y1ZScFF1T2lta1dwMjhsNUJmZ2kyc2ZkeHdDa0hHMTZLSTFMVEJ6dG91NnNGM0RONlUwQm5TaU1mcVIxa0Z4MUlGQTRWV3FFTWdmdUpBRGxnUG84czAtRGN6dVF4VWtTRWxiVEx6OHhmT2pHSVc5YklNT000cG5FNmRobDliRmJQQjQ4SkxnZlAycTJhX0NIbVYydXE0SUVaVDFGaW9oR2pLUC1v0gG-AUFVX3lxTE5fMjNDS1FicjIxX2RPMzZEZEpIUUlOZ0lOSUFHTDVMQ21VY1JETEZTRTNodk0yUDBWWHVTaHNUZkthWWdDZk5UTll1bEkzRWRxR3dDdndqV1ZvUzJtdHg4N1pnVXRyNmR6WlFzNzVPXzMyc1lmWG1rNTJiQ20yTlpRVGZZa1FRVDlIM0h2Z2E0UDlTU0JOeEVkbFpEY2pLOS1YRkRrVVpTQ3VHdGktQjdzRnR0bHhOakNUYTBya1E?oc=5",
-     "source": "Hromadske",
-     "published": "2026-11-16T10:55:00+00:00",
-     "summary": "Russia seeks return to UN leadership roles as diplomats warn of 'Ukraine fatigue'&nbsp;&nbsp;Hromadske",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war: latest news. EU Council approves a further 8 billion payment to Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamZhVFZWWHhRLXJqbW5sQmt4ZVFwMUI2bmUtbUUtajZ4eHZzT2tmZkxZekN6Q25oLWF1bDRLVVp0V2ZVanNheWwyU3cya2dOWjVwYi13S0lHcmMzRTUyWVp6ckg0RkNkQS15NXFxR1ZfSVV0Q2d2d0l1OUdlVFFLbFFWbTJZTDFmT1dqRGxpUkd6SjhLVTNxb2x5NGtHaUptQ1NVczVtQmdjTWR2el9zeUV1ck5IeExkdHBhRFRvVXFldXNaMFk2cE5MZG51SnAwMWc?oc=5",
-     "source": "Il Sole 24 ORE",
-     "published": "2026-11-16T10:45:49+00:00",
-     "summary": "Ukraine war: latest news. EU Council approves a further 8 billion payment to Ukraine&nbsp;&nbsp;Il Sole 24 ORE",
-     "image": ""
-    },
-    {
-     "title": "UN chief pushes for 'immediate, unconditional ceasefire' in Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXRmYkxWY0RaUndoVFNqaHJJSndIZmlyUlNqMWNoU0NKNlBKRkExaXcwZWZ5U3VLT1RISWVHOUl5NFk5RVhoZWd6UjJTYjBhTXZqaTQwX0dUUE51SEt2aEk5QTZCU0JtSjYxcEhxYm1VS1U1RE5EYVNvX1V5cjNMTktyRTItdGdMQ1ZjaTZUbVh0eW10UkFJdXRyNzhoWlRq?oc=5",
-     "source": "Philippine News Agency",
-     "published": "2026-11-16T10:42:37+00:00",
-     "summary": "UN chief pushes for 'immediate, unconditional ceasefire' in Ukraine War&nbsp;&nbsp;Philippine News Agency",
-     "image": ""
-    },
-    {
-     "title": "Ukraine launches biggest drone attack on Russia since war began",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0xfMlFhd1lZcGlEb3k1TGJyUlJGdGJHZDZjbU0xeWRRZDVJeE4wVGJHVUNzTnZ5aFJVZEE2bW8tNjZuODZXS1RnMlFQTkQtQVZtQzF2NmhjNWlzZ1BpVGc1dFZ2QU1oMC0wekZFQnhtWlBJX1VTVXlFTlNtM1JrbDFJaFBKRGVaUnRHZG5UbHNwcDdlX2lWN3ozckVYNVNkc2xmYy1B?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-16T10:38:51+00:00",
-     "summary": "Ukraine launches biggest drone attack on Russia since war began&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Lebanon\u2019s second airport could provide economic and political benefits",
-     "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T10:28:22+00:00",
-     "summary": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T11:24:46.971775+00:00",
+   "fetched_at": "2026-11-16T11:54:50.726302+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Pakistan vows US-Iran diplomacy, urges Afghan action during ECO meeting",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMy1NLTBGUVlsYXBPZFl0RklFOXRLMzk3N2Qzc3BNQk9wLTIxNW9jRmIza0dqemFXYzI5M01qQ2JDaHJFYzRRdWlZVFBTR3ZZUV82UDJKYUw0WDM3WWdjeFRFd091dEh4aXNtVzZlRVAzX2xfdXNNN2JsZjJMNzUzTEEtOG14d0df?oc=5",
+     "source": "WPTZ",
+     "published": "2026-11-16T11:47:00+00:00",
+     "summary": "Pakistan vows US-Iran diplomacy, urges Afghan action during ECO meeting&nbsp;&nbsp;WPTZ",
+     "image": ""
+    },
+    {
+     "title": "Gambia clears Barrow to run for third presidential term, approves eight other candidates",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXg3LVk3YnM1ZUhIYmZ5SldUWk1wUVJ5Vm56T2YydTFnd2VLWmFCR2NFT2dTNTV4MzRRNDdGWWlLa1FhbDBNeUEyNUIzWG1nWWpLNlJBa1AzSXkzc1pnZ0JEM09HTm5BWUxHUk1ZQTlNY1NBVEJyWVNfSVd1VEdvWU83ZGFmSXFhMDNDS1V5NnJuUkxGOHRoSk5DaTJzRm44c3N2NUl1ekthVkRscUMtUHlCNFhydG53ZFJwQkZfemUzYnJ4Q2FDdw?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-16T11:41:44+00:00",
+     "summary": "Gambia clears Barrow to run for third presidential term, approves eight other candidates&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Macron to inaugurate Cambodia temple after 14-year restoration",
+     "url": "https://www.france24.com/en/video/20261116-macron-to-inaugurate-cambodia-temple-after-14-year-restoration",
+     "source": "France 24",
+     "published": "2026-11-16T11:41:02+00:00",
+     "summary": "In Cambodia, French President Emmanuel Macron and King Norodom Sihamoni are expected to inaugurate a newly restored temple at the world-famous Angkor archaeological site on Monday.",
+     "image": "https://s.france24.com/media/display/438af9a6-e1ad-11f1-a126-3f371022a770/w:1024/p:16x9/EN-20261116-102356-102604-CS-01.jpg"
+    },
+    {
+     "title": "Francophonie postpones secretary-general election by 1 year after tense talks in Cambodia",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM1luTGdUR3ROUEhySFF1c1cwc01GTFV5T0RULUQxV1JwUFJsMXp3d2x4bWtjN1Bwa0p1dW1MTEVFYUVhTXVlWXBwaHJmZktlRmNiZHFzdGJtOGhTYUtZNTJjNlZyMXhfLVVKcjJFblB0VG5iN2dRczdTY3MtUjZtblVKQzJqMnR5dHBnV2lrTFJiQ3ljSXAyMkJhbk4tbWFUZXRleUZqcE1MaWhWcmp0SjF1UHhwZzBjdjQ1RHM0STBpUQ?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-16T11:39:48+00:00",
+     "summary": "Francophonie postpones secretary-general election by 1 year after tense talks in Cambodia&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Overtime Policy Led to Firing of Longtime Horry County, SC, Fire Chief",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbm5nSGFKZVRtSndxSnl3ZEg5R1Z4ODV4Q2lNLWRveVFrVkwyWmhzRTBVdEdHbFY5Nk93UHUyejhnZld6NVZVb3pMMDdTaDdRQ25QcUpNMU5LaGhEMXRYbmRkelA4cFhDM2VlQndzcjFBRm5aVlZXeUpGNEVwakdCR0RLSEhWSlpTb1FDWEl0MlhBNV9la3ZSdzhMVl9JdE5IV1dhQVh3NFZnRnI0X1F1d3d1Y2xPRDZwWXVDN19Xc0M0NG5ZQ0E?oc=5",
+     "source": "Firehouse.com",
+     "published": "2026-11-16T11:37:05+00:00",
+     "summary": "Overtime Policy Led to Firing of Longtime Horry County, SC, Fire Chief&nbsp;&nbsp;Firehouse.com",
+     "image": ""
+    },
+    {
+     "title": "\u2018Process over policy\u2019: Arch reflects on qualities of a good speaker of Nebraska Legislature",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ01nZ3JIRnU2bEYyY3FaRmVZYkt4U2ZpZC1ZNl9WaS1jRGNBU3pXcm8xVGMwVEdwOE1Ub19nVHZFamZtTlVBVGx4SmhmR1ZfMURrSEszRURxaEtPZUVZdnNyb2hMT1hCUGEzb3E2WXk1V3p2Zi02SFVoM0xYMFAxLUZHdjJiU1lXMmxGTnQ4YU9PcF9kSkpUV0NOR2JxbWx6MHpjVWpudHRDaFVZU3FlbWJxVHZlbzlTQnJkMHBDOHc4VEI1T196Mw?oc=5",
+     "source": "Nebraska Examiner",
+     "published": "2026-11-16T11:34:39+00:00",
+     "summary": "\u2018Process over policy\u2019: Arch reflects on qualities of a good speaker of Nebraska Legislature&nbsp;&nbsp;Nebraska Examiner",
+     "image": ""
+    },
+    {
+     "title": "Luxardo: Watching history unfold on election night",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2FoU3g1TDRxMG4tVVFESmhTSXJ1aXpncEd6alVQY3B1eFFQdEoxVVdUQ1JETmVHc2QtZVZJUXU5dWx0aTBwZmx2TXZLdUgtU0tRLXVvUDBvV3MyQXlKM2RpZE01UzFfNDJFTzR1ak1uQXQ1OHBOeEtSazRzRWQ3T0JZR3Bxc2xJUmZlSGZXNWxiWjhkSTNacQ?oc=5",
+     "source": "Charleston City Paper",
+     "published": "2026-11-16T11:34:24+00:00",
+     "summary": "Luxardo: Watching history unfold on election night&nbsp;&nbsp;Charleston City Paper",
+     "image": ""
+    },
+    {
+     "title": "Could Texas election help push Project Connect forward?",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1gycHJIamdsSjNTNmMxNFVQOWNnaWFZUV8xLVZ6QVFxQ0N2WlMyRHlQTVVTWHZWRkxGSUpQbWp1YmdRN2MtTW1YWEI2Si0wcjdhNkxseHNoZFZiUU5vUFNubktJYjdzWUd2cVlYSUhWaHk0bGJnb09rU0FIcldma1NaeVk0U25jNmoyM1JQUWw5ODdMVzZyVVk3OG9SakU?oc=5",
+     "source": "Austin Current",
+     "published": "2026-11-16T11:32:57+00:00",
+     "summary": "Could Texas election help push Project Connect forward?&nbsp;&nbsp;Austin Current",
+     "image": ""
+    },
+    {
+     "title": "French presidential election: The challenge of unity",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTNUck05VDBBSGUyeGpJM2hJaDNvUXY2QlZiQkhpV0gzRHpGakpRTXVLbVVkOHpPeVRscWdqVEV6blNTdzJqaVVtN05wS0c1ZHo3MTloMzdnSjlXN1NxSS1BRGdkcVdlOG5lZkNEMEs0bnZiV212R1hTZ0hJTFptUWlETmM3eUZUcDA1YjJ1SkJocFRSMzVFdWZ0SDR6Q290b0thcG80M09LQkNuXzY3SUxPZUhWaG9wWmFwSA?oc=5",
+     "source": "Le Monde.fr",
+     "published": "2026-11-16T11:32:28+00:00",
+     "summary": "French presidential election: The challenge of unity&nbsp;&nbsp;Le Monde.fr",
+     "image": ""
+    },
+    {
+     "title": "EU Global Human Rights Sanctions Regime: Council lists four Haitian entities over serious human rights violations",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWXlZMFV0SFlqdldreFhmSW1TN0RuX3BKN1RaZU82WTlEZnJpVlhDTnZCdC1rTkxrNkFtRV9BTzcwMzNSTU1TbVdnWlRZQjR0eTJOQkdNMi1BRzl3OWVjZWJQQlN0QjdJOVJzRTlTNUwtRUJNd2RiVGs0M2F5RWlBaE1KakhUMHVIYXZuUGZpdzMyM1ZYSmhFaE5XMEhXNE9fVGR1RHJiUmhZT3dqZFl4TmJ4TUh3S0JkWkRPbnVDc3M5THVJM1RZVjlzZGFFb05PTEJ3ZW8zbHlqT1BEUkc3dUY3Sk45M3lLRU1ybkZQdGxqN0E4dVNqX1Vfai1mQ2RWcTM1ZU1SZ2xUSk1T?oc=5",
+     "source": "Council, European Union",
+     "published": "2026-11-16T11:29:38+00:00",
+     "summary": "EU Global Human Rights Sanctions Regime: Council lists four Haitian entities over serious human rights violations&nbsp;&nbsp;Council, European Union",
+     "image": ""
+    },
+    {
+     "title": "Israel Police to Review Their Conduct After Arrest of Arab Activists on Election Day",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMVNwTU93YkNpSFFjc3R5dzlJQkE1VmV4SUJvTnZmbTRJaGRtU2pwVUZvOWM0N1FYVXN2RTZPRHNfTmhsRUk1OFZPNHF1M3Y3dkdxS1l2aEU5Rjd2VlNudUl0cG1ZQ2JuSWFZcWFac0NEVld6TTI2eHZ5SGVLOVVpMWk5Z0Z2UG5yZ082WlJDZ2dWTV9RYnVOcHk5bHRoWElIZVNWOGVUc1RJV05HVXQ0RjM1cnJJT3lBQWNxeHRIdVFYVjFrbURUSml5UWd3NDBRR1ZxUHBGVzVBa2xvUnB5dDlTOXlPcmJReGN6UmtYVl9QNTlFZmZ0Z2RlczJYangzVHhWMjgzaWhhRDFla0JiZ3BXdVFOYktvMUVqYXczNE90UWM?oc=5",
+     "source": "Haaretz",
+     "published": "2026-11-16T11:23:00+00:00",
+     "summary": "Israel Police to Review Their Conduct After Arrest of Arab Activists on Election Day&nbsp;&nbsp;Haaretz",
+     "image": ""
+    },
     {
      "title": "INTERVIEW - 'The same crime': Gaza-born US Senate hopeful eyes South Africa-style Israel sanctions",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR3VrQk1qcUd2MjBmYlRXM2EtSGtaT1ZTWkFtd25jMW1lZnJsa2JnaGpQZF8zMGZ2RUtHOEVxNUJzel9XSUQ0RG9tdlU0dkdlWFJHTWtmdG8tUUFpRU9RNXRjd0xSOG40ZndmWW0xUjMwd216ZVhxUE84bHJiMGxJdmNVTkRub0NBZ1NqVm5mb3NqVnlqWlc5TnJxSXluX0Q0dGVjbEtIQ0VuNk8teGVES09nUGZ0TWQ0dTBZNEtORTRXRUF3NTFGdUo0RlFVSXhq?oc=5",
@@ -232,99 +320,11 @@
      "published": "2026-11-16T11:16:59+00:00",
      "summary": "INTERVIEW - 'The same crime': Gaza-born US Senate hopeful eyes South Africa-style Israel sanctions&nbsp;&nbsp;Anadolu Ajans\u0131",
      "image": ""
-    },
-    {
-     "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDM2WTVPLVNWcUk2V0JzdUY2VzhndjY2RFJuN2g4c1FxdzBLckpSOC1yVUZqWDhKRXQtbEIzX0ZrSnFITFFLaUJpQnFldE9OLUE2Z3RHSEJkTDhkV3Z3ZjRuRmxPQmpZalgxLUdwazVHR29zVlVOUWlWSWRzR09uR1IyNnVjVjBROWc?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-16T11:16:00+00:00",
-     "summary": "Trump to embark on Asia trip in apparent foreign policy push before end of term&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Russia\u2019s FIMI and malicious cyber activities: Council imposes sanctions on 30 individuals and two entities",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeTZxMGhkVG5OQmE3VEVGanVQdm1KSWZyMjh2ZVZobFdkLTFVUkhjSEF6SEFjUU8tdWgwcXJvSTJ6bmNNZ1VJZmVLOUg5emY1OVVaRE5vVENybDJ5djVYWlc1bGdHaTdjdjk0S2l6WUFJNnBBUGxkbE1ISkNIU25jdWVJLWJHREJWTVVISlk4c3V1OTJISEtzOVktUno5VG9felM1dldGUG1yeGNSTDJFOTJDZ28xc0JjdjhmS0VKRzNpcm9pYTdyWTFXM19XUEtXcWsxLTdYd1ppcU5hakFNeGNDYjRMclR2NUN3MFBiUngyN3Qwbk93bzFzek1raHFheTY4?oc=5",
-     "source": "Council, European Union",
-     "published": "2026-11-16T11:15:03+00:00",
-     "summary": "Russia\u2019s FIMI and malicious cyber activities: Council imposes sanctions on 30 individuals and two entities&nbsp;&nbsp;Council, European Union",
-     "image": ""
-    },
-    {
-     "title": "This midterm election outcome gives us an opportunity | Letters",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0JweWh6V2FfNmxQbm9GWmtIS0c2dHFSZ3JSZUZrOG9PQ2VOamw0NGVBYkFZTUVhRGEwWjZHOGtCZklqcFU3QW43UXgzQWM2NXJETHVlX1BHVVFGS1UtYzk2M2hMc0pkeGlaeEg5NXNyU1pYelhZVE90WGstRzk3VzdkN0VJUjlJNmVuYldMYVVHYkRfeDUtSA?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-16T11:03:39+00:00",
-     "summary": "This midterm election outcome gives us an opportunity | Letters&nbsp;&nbsp;Yahoo",
-     "image": ""
-    },
-    {
-     "title": "Election results cloud retirement legislation outlook, experts say",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLXd5Qk9Ca25NTW51ZzllUm90MWY2eDJEZXY1Uzd5ZWZndnhKeXU0MDdMWHEwQTVUWDlZeE45VUNVSmJhdS1XX1BHVVZQa2c4aWg4aWk1T0tPVjBEQ040R2FKRXVIZHVvcjZsQ1Fma0F3d1E5Nk54YUVvRjl4dVNyU2RlLVdRZ0xnempieFBZb01lMHpxZHBhOU44M0xaY1B3VGQ1d0hlcVQ?oc=5",
-     "source": "InsuranceNewsNet",
-     "published": "2026-11-16T11:03:19+00:00",
-     "summary": "Election results cloud retirement legislation outlook, experts say&nbsp;&nbsp;InsuranceNewsNet",
-     "image": ""
-    },
-    {
-     "title": "How Democrats won back a GOP stronghold in North Jersey: Video",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLUk2b3FsTFd3clZDSVg5ajJ0WnR1eVZfejVlRlU0bm5Ycmc1akpNc1J2TG9FLUw3ZkhoWjJnNTItZnlMQnVuZXdlcUxpdmdrc1E2dklOMDd0VFdBblJsek51Z1NPV1pPTWxCaXlhSWtSUmkyUFhiYzBSZDZybmg0T1p0dVg0MHFobnJQYkR3T1Y0ejNtYUxkRFdYTkdKQ2ZUdlBTZ2JxQ2lIN1NyRzZTd1RCczAzWGMwSElJM0txLV9kNTYxcVlDR2JmN0VSNll0NXRGUGphM2JrMTNSWlhFc3JLYXRhYV8wSExoNnRsc18?oc=5",
-     "source": "Bergen Record",
-     "published": "2026-11-16T11:00:50+00:00",
-     "summary": "How Democrats won back a GOP stronghold in North Jersey: Video&nbsp;&nbsp;Bergen Record",
-     "image": ""
-    },
-    {
-     "title": "Miliband defends 2015 interview with Russell Brand, saying he was \u2018taking him on\u2019 not endorsing him \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-16T11:00:34+00:00",
-     "summary": "Then Labour leader says he wanted to counter comedian\u2019s call for people not to vote in general electionWhen Andy Burnham told the Labour conference that he wanted to start a debate",
-     "image": "https://i.guim.co.uk/img/media/15533b940574bf8a1c0f8c7044d13b411b628032/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2d569359cce012ba230807ff5d269d7e"
-    },
-    {
-     "title": "Hendricks County election board seeks procedural audits after ballot errors",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHVIV05tSmMxdzNYODVEYV9rS0d0bVhYVE43S3hySkdPeEI5cmJSdkt4cFhkdEd5cERUWkt3bEZybm5pVEFQZUtJRnlUblpqTlBBalFqZVNONlJKc21MYVpGWXVjMVJPNG9ub2Fuc0wzalpJaTRzZWRlS0FmNTIzcVFUUVBOOU5fdjlRU3VMWm82WHh6Nkh3MS1BWFVUbUo2dngwTXJwOXpheDBDUEN6QkVnZw?oc=5",
-     "source": "Current Publishing",
-     "published": "2026-11-16T11:00:19+00:00",
-     "summary": "Hendricks County election board seeks procedural audits after ballot errors&nbsp;&nbsp;Current Publishing",
-     "image": ""
-    },
-    {
-     "title": "Illinois Republicans turn on each other after election rout but few leaders pointing to Trump as a problem",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU3FRSWd2aF9wTGxlM2VfMndiTGkzSzMtcmJDZ1FuWXYzQUoza0oyQ3hTQzJrWmpEaTdJOHk1bnJTeTE2eFQycXFMZ1ZtSGgxVExiU1hldlE5NDdOSU0xM21JYzA0M3FqVV83TnBlaUhXOUZYSHE1VzdqRmRRSk9UUlFkTTc3ak5zcnBqMTVST2lkMjYxT01oMlgtMGdlcmh0QzhpdVJTT05nbWdYU18zN1c2STA3Zm1XbnNhVnYwTXk4dWxZVW8wV1RudV9wVkc3V0VBdGg0QTVKelF5WTlBMmdZYw?oc=5",
-     "source": "Chicago Tribune",
-     "published": "2026-11-16T11:00:08+00:00",
-     "summary": "Illinois Republicans turn on each other after election rout but few leaders pointing to Trump as a problem&nbsp;&nbsp;Chicago Tribune",
-     "image": ""
-    },
-    {
-     "title": "Post-election economic reports make Fed interest rate hike all but certain",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmo1ZUZwLWlQX1I2TkU1QVVNMXMwSzBiT21EUzFCTWFDbG5FZ0tJbVNJQVJpcldsOF9RbEVpbTZORzF0RnotSTRpa2YwdVlaU29rRGN5bHVqNW9tWVJEZktHd29SLTM4STRndC1iSnV4VThJVVpxNmsxMEVxMm92cW9PUVllMWRKclF3VTRWTnU0eXhtSFQzOTF4Mm9yaldkSTNn?oc=5",
-     "source": "Washington Examiner",
-     "published": "2026-11-16T11:00:00+00:00",
-     "summary": "Post-election economic reports make Fed interest rate hike all but certain&nbsp;&nbsp;Washington Examiner",
-     "image": ""
-    },
-    {
-     "title": "Blue Ribbon Commission on education settles on key policy ideas",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd3hJVlloczB3MjlXbTlEY1lKN1FUOVZGdlY5S2pCQmo4YmU1VDVpcGhaYU5uYy1scTlfMXhucGZkZ1d4eFE4cy1YV2txVEp1RENId0dKMG8zQUJfdXZmQlZ6S09VZ0stbDhqblZudmExM2l4T2FUZXVFZ2pEY2xyM0hnR2xfMUQtSWJDeUxuS24tVHktUmlBN193VnBnYTl5X2RnRC1kZw?oc=5",
-     "source": "The Bristol Edition",
-     "published": "2026-11-16T11:00:00+00:00",
-     "summary": "Blue Ribbon Commission on education settles on key policy ideas&nbsp;&nbsp;The Bristol Edition",
-     "image": ""
-    },
-    {
-     "title": "Democrats' gains could revive efforts to change NC's divorce law",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVU9ETlVFZ3Nsb2c5VnVwWEo0RnV5YTNkZHdFdy1CQzN2TjBxSnltV1V5VjJuSERvajVQOEJybm9CZDU3NkFFY29zdEZtVFlTaGtfbFMyWXlSdExGcU5nczlQaktWYzRkRHRPNDNsaUJpem0yNWZxYU91ajZpaC11MThJTHhtdWMwellUM05sX3djdl9YZ1ZHemhFbU9ZNC01?oc=5",
-     "source": "Axios",
-     "published": "2026-11-16T10:53:47+00:00",
-     "summary": "Democrats' gains could revive efforts to change NC's divorce law&nbsp;&nbsp;Axios",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-16T11:24:46.971777+00:00",
+   "fetched_at": "2026-11-16T11:54:50.726305+00:00",
    "stale": false,
    "items": [
     {
@@ -332,7 +332,7 @@
      "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
      "source": "The Guardian",
      "published": "2026-11-16T07:00:38+00:00",
-     "summary": "Prime minister is to meet European leaders at summit this week and secure agreements that \u2018could raise GDP by 0.4%\u2019Andy Burnham will say on Monday that Brexit \u201chas not worked\u201d and ",
+     "summary": "PM to meet European leaders at summit this week aiming to secure agreements that \u2018could raise GDP by 0.4%\u2019Andy Burnham will say on Monday that Brexit \u201chas not worked\u201d and that he w",
      "image": "https://i.guim.co.uk/img/media/a9167ab535ad3f6ea97ad5092601ebdb54f5d261/247_0_6155_4927/master/6155.jpg?width=140&quality=85&auto=format&fit=max&s=9a45417adf85d4e3c1c1bd540b62862b"
     }
    ]
