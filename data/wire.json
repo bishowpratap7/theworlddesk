@@ -1,10 +1,58 @@
 {
- "generated_at": "2026-11-16T21:56:59.073239+00:00",
+ "generated_at": "2026-11-16T22:27:03.910299+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T21:56:59.073193+00:00",
+   "fetched_at": "2026-11-16T22:27:03.910266+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T22:21:27+00:00",
+     "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+    },
+    {
+     "title": "United Airlines says it is working to fix \u2018widespread\u2019 system outage",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+     "source": "The Guardian",
+     "published": "2026-11-16T22:19:48+00:00",
+     "summary": "Outage at major airline comes just three days after FAA issued rare nationwide ground stop on all US flightsUnited \u2060Airlines said on \u2060Monday \u2060that it was \u200bexperiencing \u2060a widesprea",
+     "image": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28983698125cd7b39a7adedf7e96dd07"
+    },
+    {
+     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-16T22:19:14+00:00",
+     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
+     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+     "title": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/oldest-survivor-pearl-harbor-dies",
+     "source": "The Guardian",
+     "published": "2026-11-16T22:10:51+00:00",
+     "summary": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took placeThe oldest known survivor of the Pearl Harbor attack died Saturday aged 106 years old",
+     "image": "https://i.guim.co.uk/img/media/ca4a6ad01c461dea796bbceb345f9fb016d6ec74/175_0_2885_2308/master/2885.jpg?width=140&quality=85&auto=format&fit=max&s=7cc6a368ba9616034acdac3312e64696"
+    },
+    {
+     "title": "California braces for more towering waves as powerful storms approach",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+     "source": "The Guardian",
+     "published": "2026-11-16T22:06:55+00:00",
+     "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearbyThe massive, 50-foot swells along California\u2019s coas",
+     "image": ""
+    },
+    {
+     "title": "Customers report difficulty accessing online services at major US banks",
+     "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+     "source": "The Guardian",
+     "published": "2026-11-16T22:01:40+00:00",
+     "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issuesCustomers reported service outages and difficulty accessing their onli",
+     "image": "https://i.guim.co.uk/img/media/3646b72898ae901bf0c2c1a9dbe0b69194df306e/452_0_4515_3612/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=90bdf53e095252ef6b02eadb04ea1242"
+    },
     {
      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
@@ -20,14 +68,6 @@
      "published": "2026-11-16T21:35:51+00:00",
      "summary": "Attorney General Rob Bonta says Hugging Face attack was &#039;entirely predictable&#039; result of emphasis on rapid growth.",
      "image": ""
-    },
-    {
-     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-16T21:35:42+00:00",
-     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
-     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
      "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
@@ -62,14 +102,6 @@
      "image": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=140&quality=85&auto=format&fit=max&s=e5f5afca13cfe9bfc8bbfadae70fd1db"
     },
     {
-     "title": "Big wave surfers line up to ride \u2018raw power of the Pacific\u2019 during Super El-Ni\u00f1o swells",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/big-wave-surfers-san-francisco-el-nino",
-     "source": "The Guardian",
-     "published": "2026-11-16T21:12:29+00:00",
-     "summary": "Fans of the sport dubbed the event \u2018Monster Day\u2019 as pro surfers tackled the storm-driven waves at Mavericks BeachWhile this year\u2019s Super El Ni\u00f1o storms are battering the California",
-     "image": "https://i.guim.co.uk/img/media/d83994c899f06f6b3c9e6f669ab4527ee48b60fb/158_0_1583_1267/master/1583.jpg?width=140&quality=85&auto=format&fit=max&s=da0d5e6b0e06bec73903d85fa994f040"
-    },
-    {
      "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
      "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
      "source": "Al Jazeera",
@@ -84,45 +116,29 @@
      "published": "2026-11-16T21:00:22+00:00",
      "summary": "Thirteen years, eight permanent managers, almost \u00a3100 million spent on sacking and hiring \u2014 and still no hiring",
      "image": ""
-    },
-    {
-     "title": "Albanese signs on to Trump\u2019s AI supply chain pact before leaders\u2019 meeting at Quad summit",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-     "source": "The Guardian",
-     "published": "2026-11-16T21:00:21+00:00",
-     "summary": "Quad leaders\u2019 summit in Philippines is Trump\u2019s first, as Australia joins US and Japan to protect AI technologies in face of China\u2019s efforts to dominateGet our daily political email",
-     "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6"
-    },
-    {
-     "title": "Microsoft identifies months-old bug as a root cause of global outage",
-     "url": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
-     "source": "The Guardian",
-     "published": "2026-11-16T20:54:40+00:00",
-     "summary": "Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacityMicrosoft has identified the root causes of the global outage th",
-     "image": "https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=5b754e23f57bbf0dbc9a353eff392d14"
-    },
-    {
-     "title": "November 17 blackout hoax: How a conspiracy theory went viral around the world",
-     "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world",
-     "source": "France 24",
-     "published": "2026-11-16T20:50:29+00:00",
-     "summary": "A conspiracy theory claiming a worldwide \u201cblackout\u201d will hit on November 17 has spread across social media, cutting electricity, internet and banking services. The rumour stems fro",
-     "image": "https://s.france24.com/media/display/4ad0d512-e1ff-11f1-9244-695cb59fade5/w:1024/p:16x9/blackout.png"
-    },
-    {
-     "title": "Pope concludes South America homecoming, reassures faithful after cancer scare",
-     "url": "https://www.france24.com/en/americas/20261116-pope-concludes-south-america-homecoming-reassures-faithful-after-cancer-scare",
-     "source": "\u00a9 Simone Risoluti, Vatican Media, AFP",
-     "published": "2026-11-16T20:50:05+00:00",
-     "summary": "Pope Leo XIV finished Monday his 12-day tour of Uruguay, Argentina and Peru reiterating his advocacy for social justice, environmental protection and the importance of community. J",
-     "image": "https://s.france24.com/media/display/188735cc-e1fc-11f1-bd41-f71d22e7fea9/w:1024/p:16x9/000-D7N43WG.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T21:56:59.073207+00:00",
+   "fetched_at": "2026-11-16T22:27:03.910282+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "California braces for more towering waves as powerful storms approach",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+     "source": "The Guardian",
+     "published": "2026-11-16T22:06:55+00:00",
+     "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearbyThe massive, 50-foot swells along California\u2019s coas",
+     "image": ""
+    },
+    {
+     "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEZvZ1pFSGNkdXh4bXdESEZXLVpHdHFIMWJnd0VLVDhrMHBaUVF3c2VHNVZEOU95cWk1UzE5RWFyQmJFLUFfTjlEbzRteXBOa0RVdFFtTzdQN183V2htYzBMSGprcEZQVHdWTDgzbnRpY1pSUjhpeW5adklHMU02VDFfZkhTQUNoZEhkSEZ3TXU3cWw5VExLdHRJRQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-16T21:56:00+00:00",
+     "summary": "Ukraine hits Kerch bridge between Russia and occupied Crimea&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
     {
      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
@@ -153,14 +169,6 @@
      "source": "Al Jazeera",
      "published": "2026-11-16T21:06:19+00:00",
      "summary": "&#039;Preliminary monitoring&#039; shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEZvZ1pFSGNkdXh4bXdESEZXLVpHdHFIMWJnd0VLVDhrMHBaUVF3c2VHNVZEOU95cWk1UzE5RWFyQmJFLUFfTjlEbzRteXBOa0RVdFFtTzdQN183V2htYzBMSGprcEZQVHdWTDgzbnRpY1pSUjhpeW5adklHMU02VDFfZkhTQUNoZEhkSEZ3TXU3cWw5VExLdHRJRQ?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-16T20:52:00+00:00",
-     "summary": "Ukraine hits Kerch bridge between Russia and occupied Crimea&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
@@ -210,27 +218,83 @@
      "published": "2026-11-16T19:58:14+00:00",
      "summary": "Trump: Putin is holding back somewhat in Ukraine war, could have been much tougher&nbsp;&nbsp;Nacionale",
      "image": ""
-    },
-    {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 16, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nVWR2MlZNV2lUSEN4WEhUaHl1TjN3LWJvUmhyMjZBZkpPN0FvaEVOSE9OWDN4VWMtd3dsU29HbzlOSXMtOGpieldXNnQ5UQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-16T19:53:14+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 16, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T21:56:59.073212+00:00",
+   "fetched_at": "2026-11-16T22:27:03.910287+00:00",
    "stale": false,
    "items": [
     {
      "title": "After claiming election stolen, Netanyahu allies face their own meddling allegations",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdktHdXhWbTM3UkltdmYzS3UtR1IydUwtRi1jWXFYRkJsekx0aC1vbWJXT19yczROcDdqZWRtNExQeGo4UGI4eFllOHA2SmpRd052TFBRMmZFZTJ6UjBfcmt4VmxfTnFud09EaFZNUlR6T3c0ZXVqWmpjNTluR3YzbGNuSnQtcHNYeVlfT1dPT19PX3c1eGhWQkJOc25Sai1YaFE2c2prZjZUc1NjZG40VE5fUHFDcC00eWxVQmNlYkd4a0NwdFk3ZjROdHU?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-16T21:51:14+00:00",
+     "published": "2026-11-16T22:25:21+00:00",
      "summary": "After claiming election stolen, Netanyahu allies face their own meddling allegations&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-16T22:19:14+00:00",
+     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
+     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+     "title": "What the Election Results Mean for Libraries",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkVWVVV4SDJWMnNZNjZHLUU3bkMyanJ1Q1FRdVRMVVZGSTM2a3h5NkZtQjBsOXd5NUV3bWJKUEdSZ0FoSHVSbkZMamNGM1hEYUthQncyWTl4U3JEWTJXWUJpRjQ1WnBDaXJHMWg0S0hiZWs1blhMM05sSEVRbExWdUlRa0JpR3hsckZhOFp5VzVPUjlmNGg3Y1VyOGNvS2xH?oc=5",
+     "source": "American Libraries Magazine",
+     "published": "2026-11-16T22:18:45+00:00",
+     "summary": "What the Election Results Mean for Libraries&nbsp;&nbsp;American Libraries Magazine",
+     "image": ""
+    },
+    {
+     "title": "State Canvassing Board to certify Minnesota election results Thursday",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0xQalBiWnlxSlpXRE9JMVVxNWJ1SV9MMG8yWDhhTTExU3lkXzlLNDJOY0ZzTmptYkZGU0VHR0pSVnB0QV9Odk50RDVZQWNILURobGhuRExMdkctU21FMVdINzFfN0k0VmxpQi03V24tZjVvam5ZRVhpVWtTNDZvTjZWeVRWdDdZTlkyazFNQTVmS2NaX252bUkxMDh0TFhz0gG0AUFVX3lxTE1PNVp4WGFPRXMtNDhIcm9Td08zQ254ME52SThrNksyYXAzUXRQelZvNDF6dDFkM0JxVUxsYVRpS04yODY1eUlGNzg0cnBOanBmTTNNTE1CWXA5OTdYQmRPRkhDSnJ0YnJQTS02SXIzQWI3MktKV09GdDRaSG5XUEVMTGxPOEJlMWxQSlh6VXV2bDNnWUxIaks5Nk5pd0Y4cGlSSjQ5RXBhOE1WMEcyX1VLanJJcQ?oc=5",
+     "source": "KTTC",
+     "published": "2026-11-16T22:15:00+00:00",
+     "summary": "State Canvassing Board to certify Minnesota election results Thursday&nbsp;&nbsp;KTTC",
+     "image": ""
+    },
+    {
+     "title": "EU Targets Russia\u2019s E-Commerce Giant and Dozens More Banks in Latest Wartime Sanctions Push",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SWkhzLTQ5aFJObXFHYkxpRHlXcElBNmRybkJLZjFPVDVVWW5UTE94RUgwZjVGOVdBWTlMMlVPS1lxYlpuc3VtbGFfYmFsTWhkZmduWU1HaUFIa1gxS3BqdEhTbV9LZDFUUkx1SVg0VXVHazQ2ODR3VjhPWUo?oc=5",
+     "source": "Kharon",
+     "published": "2026-11-16T22:14:22+00:00",
+     "summary": "EU Targets Russia\u2019s E-Commerce Giant and Dozens More Banks in Latest Wartime Sanctions Push&nbsp;&nbsp;Kharon",
+     "image": ""
+    },
+    {
+     "title": "Election recounts scheduled this week in NC congressional, legislative races",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2tmaDFqZjlfcFhwSU5USHduZDRfaVBzUzRqTE1XX2ZPckVSUUZxQUdYU2FLS1pWLVZSUmQtbXRaV3pYd0dDMGNYQTRYSTRTb1FBM05aMjdfWElhbllNODJsa2pYbk1ySGxVQk1zNV8ySjdtWjNDZFo2aExEaXBuSDRpLW5tMG5yZV9KOEtuUmJIMWE2Qm12enVIVTRfV1V0a09Pa0FHS2hRT28?oc=5",
+     "source": "WHQR",
+     "published": "2026-11-16T22:14:00+00:00",
+     "summary": "Election recounts scheduled this week in NC congressional, legislative races&nbsp;&nbsp;WHQR",
+     "image": ""
+    },
+    {
+     "title": "Board of elections certifies provisional ballots, election results",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0hiemp1UWdNZmFHNGhiYS1rSHl6Yml3V0FtWlFUR3lTR1gyZHJuWFVQNXE4Ym1TNV96VTlJcVZsclBTZm1nVjh2LUhBM0Nld25tVDBiRWZReFE4cHBFdUliandGdmVjT3p2dGdoeWFobi1KbnhvTkdiNENVU3hnTi1NZUN4d0FEaWd5X0lFbGNvd0NiZFFvblVjSVMtdllZZi1WdTVB?oc=5",
+     "source": "Sent-trib",
+     "published": "2026-11-16T22:03:53+00:00",
+     "summary": "Board of elections certifies provisional ballots, election results&nbsp;&nbsp;Sent-trib",
+     "image": ""
+    },
+    {
+     "title": "Midterm election results may mean more of the same for commercial real estate",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnlRU0JpLVdnY3B3M2tZek5qX2RJeXBnMGxHQ3daTUtxZUl1UlFFa3lYcDBTMk5vODBfOUhMcTNzcTh1M2dxN200dm1JaHhEMTRwZFhSWFJRR29QSW1YX1lKaUtTN1Z4aVJiUUdhY0l2Wi1HWllMTmNfNlo0Y1RnYzJ4MUMtTVEwWl9rb0R3YnNhNVZjYlFIcUdudVIwYjhUTjRndTdSSWVRMmRKdmNxMmxiQQ?oc=5",
+     "source": "Scotsman Guide",
+     "published": "2026-11-16T22:00:42+00:00",
+     "summary": "Midterm election results may mean more of the same for commercial real estate&nbsp;&nbsp;Scotsman Guide",
+     "image": ""
+    },
+    {
+     "title": "How PFAS polluters muddy EU policy waters",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wLUl3eG1hdEszZFNJMjFOVjJqMkROcml5bWxfTWV3dk9lV3FxN21wV3BzQm41d1lVclA3S09QOC1wQ3d3RDdUZkhiRFhoaFdqYS03TEdHTktISGUtc1ZLbDRmN0xKSkE?oc=5",
+     "source": "Corporate Europe Observatory",
+     "published": "2026-11-16T21:57:01+00:00",
+     "summary": "How PFAS polluters muddy EU policy waters&nbsp;&nbsp;Corporate Europe Observatory",
      "image": ""
     },
     {
@@ -256,82 +320,18 @@
      "published": "2026-11-16T21:45:00+00:00",
      "summary": "Georgia House GOP to shuffle leadership after election losses&nbsp;&nbsp;Georgia Recorder",
      "image": ""
-    },
-    {
-     "title": "China 2027: What to Watch",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OYUJCT2ZBM21XZGc5UFBnd3pPWWpzUGd3VUpCdG4xeWpmNzFiV2hzcThzdmpGcWN1aHNBZ1JSNkwtUFlaSVFISEdxbWpETzk2dUVjTWczWV9tVnhBY3VGb0Q2RWNqV01mWGFhcm5ZbGI1QTMxRFNMVg?oc=5",
-     "source": "Asia Society",
-     "published": "2026-11-16T21:42:44+00:00",
-     "summary": "China 2027: What to Watch&nbsp;&nbsp;Asia Society",
-     "image": ""
-    },
-    {
-     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-16T21:35:42+00:00",
-     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
-     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
-    },
-    {
-     "title": "Fourth preliminary election results update",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclZ6ZjN3dXBzenQza2hGb0tsZnNpZU1TQkdsOUJVemFyVGZvUHRoa3FrNUlzNjhIWXlqX0g1RU1wM2t0OXFRd18xeW9iUnZiS2U4Z2w5WXVVTUROa0NtWjdzeE1BZTdQQnZLWUhYbUZIUkk1T1pmcjNqbTJmaURCUUlRRUFLNHNxV2tVaXFLRHN1SUkxaHdSNg?oc=5",
-     "source": "The Sun-Gazette Newspaper",
-     "published": "2026-11-16T21:33:48+00:00",
-     "summary": "Fourth preliminary election results update&nbsp;&nbsp;The Sun-Gazette Newspaper",
-     "image": ""
-    },
-    {
-     "title": "Election 2026: Deschutes County releases updated results",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXUtWWEzeGstell1VlE0RVYyRFNPcy1pOVptVEVGaTdUMFkwem1adldLMkthS091dURVU05wRGY2dEJmU19GLXlDYTJsNE02dVU0QU1oN085VGZUeExJWUt6VlpWYVBFVVEtUTZuUTdfNF9CMmgzbVhPUDhpM28tVmxJU0ZDM3kwZmFQX1cxcFJFYVZmQm52Rk00UkdteWpBeDFr?oc=5",
-     "source": "Bend Bulletin",
-     "published": "2026-11-16T21:32:35+00:00",
-     "summary": "Election 2026: Deschutes County releases updated results&nbsp;&nbsp;Bend Bulletin",
-     "image": ""
-    },
-    {
-     "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T21:16:02+00:00",
-     "summary": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD\u2019s Strategic Response Group or SRG.",
-     "image": ""
-    },
-    {
-     "title": "Landmark election: Two women vie for OST presidency on Nov. 17",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1NDbmZjMHZKZTlUVG1hQl9uS1hqUjBRVE9IZS15aVMtQ2FWVjM3Qkl2c1htUGw0S1NDbjVfVkFNYmtIZEpsXzhyTVdEX29BbkpKaU9TdHlneFkxMUhMMHNhSmFXam5YeWUtX0pqUmNjQl80N1VmTFB6WFhCNUo4X0U2Nzh3VXZodnJieXVZaWJKRDg?oc=5",
-     "source": "Buffalo\u2019s Fire",
-     "published": "2026-11-16T21:15:54+00:00",
-     "summary": "Landmark election: Two women vie for OST presidency on Nov. 17&nbsp;&nbsp;Buffalo\u2019s Fire",
-     "image": ""
-    },
-    {
-     "title": "Students bridge political division on Election Day, gather for community discussion",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXhMOWxlbnhfcUVFdDR3emlOUUo1YmhveE1mU2Q4NVVhSncwamhFZDVnMEU4MDctUFNGTC00VjB6cGxzRy15elhDUWg2M3d5ZUtSdUgyaWpUc3JkekpjUG82eDVSYlRUTzB2bWJlNGx1RWdWVGRmbC10aklkcmN3MHdIRzlvcUtVRmVIeXJJUGdJNFRrdjg0Y2pqTEk2Zkh3dHZ6TEZZUlhsbThHREY2cElMVXdiSV9MbnhhNloxNA?oc=5",
-     "source": "Marquette Wire",
-     "published": "2026-11-16T21:00:23+00:00",
-     "summary": "Students bridge political division on Election Day, gather for community discussion&nbsp;&nbsp;Marquette Wire",
-     "image": ""
-    },
-    {
-     "title": "Albanese signs on to Trump\u2019s AI supply chain pact before leaders\u2019 meeting at Quad summit",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-     "source": "The Guardian",
-     "published": "2026-11-16T21:00:21+00:00",
-     "summary": "Quad leaders\u2019 summit in Philippines is Trump\u2019s first, as Australia joins US and Japan to protect AI technologies in face of China\u2019s efforts to dominateGet our daily political email",
-     "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-16T21:56:59.073215+00:00",
+   "fetched_at": "2026-11-16T22:27:03.910289+00:00",
    "stale": false,
    "items": [
     {
      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-16T21:35:42+00:00",
+     "published": "2026-11-16T22:19:14+00:00",
      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
