@@ -1,17 +1,49 @@
 {
- "generated_at": "2026-11-16T22:57:23.635515+00:00",
+ "generated_at": "2026-11-16T23:27:28.788670+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T22:57:23.635479+00:00",
+   "fetched_at": "2026-11-16T23:27:28.788637+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Five EU countries announce migrant deportation centre in Rwanda",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T23:20:45+00:00",
+     "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
+    },
     {
      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-16T22:49:33+00:00",
+     "published": "2026-11-16T23:07:31+00:00",
      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+     "title": "Big wave surfers line up to ride \u2018raw power of the Pacific\u2019 during Super El-Ni\u00f1o swells",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/big-wave-surfers-san-francisco-el-nino",
+     "source": "The Guardian",
+     "published": "2026-11-16T23:01:28+00:00",
+     "summary": "Fans of the sport dubbed the event \u2018Monster Day\u2019 as pro surfers tackled the storm-driven waves at Mavericks BeachWhile this year\u2019s Super El Ni\u00f1o storms are battering the California",
+     "image": "https://i.guim.co.uk/img/media/d83994c899f06f6b3c9e6f669ab4527ee48b60fb/158_0_1583_1267/master/1583.jpg?width=140&quality=85&auto=format&fit=max&s=da0d5e6b0e06bec73903d85fa994f040"
+    },
+    {
+     "title": "EU agrees to resurrect cooperation deal with Syria",
+     "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T23:00:36+00:00",
+     "summary": "Decision aims to bolster bloc&#039;s ties with Damascus following the collapse of Assad&#039;s government in December 2024.",
+     "image": ""
+    },
+    {
+     "title": "California braces for more towering waves as powerful storms approach",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+     "source": "The Guardian",
+     "published": "2026-11-16T22:59:52+00:00",
+     "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearbyThe massive, 50-ft swells along California\u2019s coast ",
+     "image": ""
     },
     {
      "title": "Chase outage disrupts online banking and Zelle payments in United States",
@@ -78,51 +110,43 @@
      "image": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg"
     },
     {
-     "title": "California braces for more towering waves as powerful storms approach",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
-     "source": "The Guardian",
-     "published": "2026-11-16T22:06:55+00:00",
-     "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearbyThe massive, 50-foot swells along California\u2019s coas",
-     "image": ""
-    },
-    {
      "title": "Germany thrash Netherlands to book quarterfinal spot",
      "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-16T22:04:31+00:00",
      "summary": "Jurgen Klopp&#039;s side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
      "image": ""
-    },
-    {
-     "title": "Customers report difficulty accessing online services at major US banks",
-     "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
-     "source": "The Guardian",
-     "published": "2026-11-16T22:01:40+00:00",
-     "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issuesCustomers reported service outages and difficulty accessing their onli",
-     "image": "https://i.guim.co.uk/img/media/3646b72898ae901bf0c2c1a9dbe0b69194df306e/452_0_4515_3612/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=90bdf53e095252ef6b02eadb04ea1242"
-    },
-    {
-     "title": "Trump says he needs funding for air traffic control after ground\u00a0stop",
-     "url": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
-     "source": "France 24",
-     "published": "2026-11-16T22:01:19+00:00",
-     "summary": "US \u200bPresident \u200bDonald Trump, pressed on a \u200btechnology \u200cfailure \u2060that \u200cgrounded thousands of \u2060flights last week, \u200bon \u200cMonday told reporters \u200cthat \u200bthe government needed funding for ",
-     "image": "https://s.france24.com/media/display/a84d7300-e1fd-11f1-b1a8-29048b396e03/w:1024/p:16x9/EN-20261116-210837-211856-CS.jpg"
-    },
-    {
-     "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-     "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T21:40:07+00:00",
-     "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T22:57:23.635497+00:00",
+   "fetched_at": "2026-11-16T23:27:28.788652+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "EU Foreign Ministers Accuse Russia of Stalling Ukraine Talks as Power Plants Are Bombed: how 6 outlets framed it",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPejkxMTMxTW9uN09KMGl3TUpIUzdNc3pZeUEzM2RiUFZLdk5jQTVVV0w2dHNBUUxFSWR3cE5Fbmx1NlpKa3V1WDFrRG1jUGcwZGVwckdPQjg1akZIWTdPWDBWMVhyeGtEQmFUTnlBSVhsXzNTUGFVaTBYYVNfNC1LSHdhRXhiQ2RXZUtvMmtpUGdkNjJBWEVlWkdXRXRnTElRRFdrNUl3V0FBRElyNW9SMzNzZFZmUHRIQ1dYZEM2dldfZlY5NElOMDE5R0Rna2plVWEzcXJ5emFxNHE1d2J3NHg0ckpPeWZpR3c?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-16T23:19:45+00:00",
+     "summary": "EU Foreign Ministers Accuse Russia of Stalling Ukraine Talks as Power Plants Are Bombed: how 6 outlets framed it&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
+    {
+     "title": "EU agrees to resurrect cooperation deal with Syria",
+     "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T23:00:36+00:00",
+     "summary": "Decision aims to bolster bloc&#039;s ties with Damascus following the collapse of Assad&#039;s government in December 2024.",
+     "image": ""
+    },
+    {
+     "title": "California braces for more towering waves as powerful storms approach",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+     "source": "The Guardian",
+     "published": "2026-11-16T22:59:52+00:00",
+     "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearbyThe massive, 50-ft swells along California\u2019s coast ",
+     "image": ""
+    },
     {
      "title": "Opinion | Why the Ukraine War Is Working for Putin",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXFQZkNUaEZXZlVWY3JuX05XSWpzOHFtQ3hrZE92WFdqYTg3ZVhFejJwT01BbUlmZ25xMmg2MmQtSE53NER1OUluOHR5cllRNTFjZjRQR1BLV3ZmaHMwNUtqRjdtbG5xRXdoMWM4Q3F1TkpZQWRFNl91d0g0OXVPRU9rVQ?oc=5",
@@ -154,14 +178,6 @@
      "published": "2026-11-16T22:07:47+00:00",
      "summary": "As Europe's \u200bdefence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number o",
      "image": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg"
-    },
-    {
-     "title": "California braces for more towering waves as powerful storms approach",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
-     "source": "The Guardian",
-     "published": "2026-11-16T22:06:55+00:00",
-     "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearbyThe massive, 50-foot swells along California\u2019s coas",
-     "image": ""
     },
     {
      "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
@@ -202,43 +218,91 @@
      "published": "2026-11-16T21:06:19+00:00",
      "summary": "&#039;Preliminary monitoring&#039; shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
      "image": ""
-    },
-    {
-     "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
-     "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T20:42:18+00:00",
-     "summary": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US&#039;s California coast.",
-     "image": ""
-    },
-    {
-     "title": "Zelenskyy hopes UAE can host another round of Ukraine peace talks",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZlQxSHdTazZ1R3ZaZzZKT09pOFJDVUxMd1JHY1ZZUnJtYVFGZzNzSHJ5N1VTU0RrcllKWG9aYkVTNjd6b1hVUHpaMGlJX2RfVTZHQmtyZzBNdHRDd2pmVnptVi1zbUlycHR0MlFoblAybUI4NmhpbDc3dEFadGhFbTZvckpsLUF1MnRtektscXNIdUN1ckhwc0x1VmxJN2huOFBoTEJCRU1jWjFUV1o2d3lqZDJNU003?oc=5",
-     "source": "The National",
-     "published": "2026-11-16T20:26:15+00:00",
-     "summary": "Zelenskyy hopes UAE can host another round of Ukraine peace talks&nbsp;&nbsp;The National",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T22:57:23.635502+00:00",
+   "fetched_at": "2026-11-16T23:27:28.788657+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Recounts on tap in several NC election contests",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFJwa2R5ZDdHa1llQmpTSXdyWnpIenhoNGlGUnZKWm1teXk4X0c2ZzZkNVI0aGV6VzRJYzJ1eVZFY214MTZQR2ZKbDJnTzY0dmp4ZmcwYmJ6NnhNMC1QUTV6Y1JBakg3UUdKWG9Bb3FfV1RnTDItMHY5TE9BOXVwc2RBQkp6RDYtN3NTVGZfYw?oc=5",
+     "source": "Carolina Public Press",
+     "published": "2026-11-16T23:19:06+00:00",
+     "summary": "Recounts on tap in several NC election contests&nbsp;&nbsp;Carolina Public Press",
+     "image": ""
+    },
+    {
+     "title": "Attorney General Dave Sunday comments on Midterm Election results",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVVkRk1oZkxNZ1R1cXRDOFJfVGhPWjU3REtfVENVY01VS3Zjd1hBU3R2a2FlMzZrT0tNbUMtOEZiYTJVM3dXZUduaVNLZjFGNG5zYzRocVl4XzNBVjQ4VzU1c0tlbmh1aS1GWG8yeDg0SzBsYnJCSExPSmQ4NHZQVE1wRVZfd1ZfcDZZUEx3amd5UWxyc3c?oc=5",
+     "source": "WGAL",
+     "published": "2026-11-16T23:14:00+00:00",
+     "summary": "Attorney General Dave Sunday comments on Midterm Election results&nbsp;&nbsp;WGAL",
+     "image": ""
+    },
+    {
+     "title": "Burleigh County ballot mistake would not have changed results, election official says",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTThONF9zTmJvNWY1eWI4OExEWElqdWZDYlQ2SG9Wc3VTdG02Q0x1VUdIVE9WdzVvb1l5bkhaTklKOWJsYmZFU3RScE10a2dYMVBCVF9DRk5TVlRnLVdDb2VwaFdET3FpYktoSEFwa0k3NGlWX2x4RnJpdURMYlVnTnI3OEJVSGU3c1Y4S2dfdEo5TVFjbDItdzBoOEdMbXpDWDNRYm9EMHplTkhIX0pPYVIzelJENWZPNzJCRzcyU2djNVBoaEE?oc=5",
+     "source": "North Dakota Monitor",
+     "published": "2026-11-16T23:11:11+00:00",
+     "summary": "Burleigh County ballot mistake would not have changed results, election official says&nbsp;&nbsp;North Dakota Monitor",
+     "image": ""
+    },
+    {
+     "title": "Senate Rules Committee Considers Federal Election Commission Nominees",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMG9lcUwyd283MnVwTEdsR2RfakxDRDlXN2V3X3hSdHpkTkJESFhCNDBHTWwzSUowczg0UVVMajF6dldhZU5iTDY2TnBNSTJpbXlwVG4tMlJYdWluMmFDdGpCeUhZV0lUaldmM0RsYXBQUHFUQjVOVmJFdktpSkJTdDZ3ZENJQjMtZEdrVDdQTVV3NWs1M193bDRRUDhYaGRQS0FSUXFITDhyLUJwU3lpSjJHQU16V3ZCTExmRzRicw?oc=5",
+     "source": "C-SPAN",
+     "published": "2026-11-16T23:09:50+00:00",
+     "summary": "Senate Rules Committee Considers Federal Election Commission Nominees&nbsp;&nbsp;C-SPAN",
+     "image": ""
+    },
     {
      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-16T22:49:33+00:00",
+     "published": "2026-11-16T23:07:31+00:00",
      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
-     "title": "Former Vice Pres. Mike Pence Discusses Trade Policy & the Economy",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1JyTXUyQTIxS25Gb2FuRUNCa1h4U1lTXzZfdFRXNkhWbFNpYy1tZXR5aW04TXVjWDFid1g1dURSOGJfckMtMmlyTURTVWVMRUh6bV9iMmhHX1dlVXNSQTJHVDROb1NCektyZGhvaXpHZDlUX1ZTVVNjZThrWTlPVEdoLVBWTVVUNktqeU4xa3B4VFVwWVBxd2pqSS11MWhCVE5xUG85OXQzVkd0TWpPWmFtRzBUakNhU2ow?oc=5",
-     "source": "C-SPAN",
-     "published": "2026-11-16T22:43:19+00:00",
-     "summary": "Former Vice Pres. Mike Pence Discusses Trade Policy & the Economy&nbsp;&nbsp;C-SPAN",
+     "title": "South Carolina legislative leaders react to election shakeup",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNVBWd2RTaEpLUWgxb0VkempHaFM0ci1mNEZfeldzWERKM2tTNlUzbkNWbzN4VlZKQ29SS2oyczE1T1ZNV2E1RWR5aUUxaXBNcXF4VU9FQk81NTh5bi1DVlkyWUdJZ0EyYUtoQXlMMFhXUElOdzdkYzczZmJFUVk5MHVRYi1QT1U4T21iZV96d1RDeWd00gGoAUFVX3lxTE9namE1WG9oelpkMWRhODRqNi0yTHNVVGxRYjRCMkpQb1hTZUlsU3VDLUt3MTJKaFNhSF9iWXYyV0lVVkl2TTBVMlZfU2xDcHp1VkZMNmdYbGppLWFkeFl6akpaczJHY3pjOXM1UjhYOE5CZGRKZk1WM0VrM01VNzNqTlc3dEFnbVhUWUpjZ1pSZmoySHBxdkJpUDVhMWFQT0pjbEM1LVprYg?oc=5",
+     "source": "WRDW",
+     "published": "2026-11-16T23:07:00+00:00",
+     "summary": "South Carolina legislative leaders react to election shakeup&nbsp;&nbsp;WRDW",
+     "image": ""
+    },
+    {
+     "title": "South Carolina election results certified",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkNxLXRlcFJ4aGFfcWxvRXdPVW95S1lEbDNzS1FMOS1BdG9rTWg0VWcwYklISzRDY29tbTJhSGNRd25NSjQ0ajBPTTVDVkIwbnk4VXJfMjRhdnQtY3BMbkF0Ulo3bjN5Um9GUWJJekdJTldfNTAxWThZTGVjdEQtQlQxVjNDMnlNUklNelo2VHRscEkyUG9vd0tSRHI4OEloajhScnlTd0pETUtXUFZzejBsSDZlbkZnZTNkMnB0bkpla1NFMU94S1BPZjROZw?oc=5",
+     "source": "WLTX",
+     "published": "2026-11-16T23:07:00+00:00",
+     "summary": "South Carolina election results certified&nbsp;&nbsp;WLTX",
+     "image": ""
+    },
+    {
+     "title": "D7 Councilmember Files Policy Request to Advance High-Speed Rail",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWFQRkJ6cWxZaF9DTEpnVnRRcUtlS2UzejdQZzBzTzZUNkNVMHFhdnRkVGJxSGVnMVNLNUlNTG9aTVVKcHYxV1ZmOWdzcG1GUmc0RUFtSnc0S0NhcFE4ZnpVd1NESUM3OHUxcEFua1NfbC1RQS1oZkcxaFJ3NnUzdjdqdVhINkw0a2V4aE54SV9zMVNVaVBKd0xhNlNWQ2tzU3ppVkFuVTdnN1k?oc=5",
+     "source": "City of San Antonio (.gov)",
+     "published": "2026-11-16T23:00:23+00:00",
+     "summary": "D7 Councilmember Files Policy Request to Advance High-Speed Rail&nbsp;&nbsp;City of San Antonio (.gov)",
+     "image": ""
+    },
+    {
+     "title": "Sustainable trade policy must address its measurement problem",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjdFS1A0ei1ONlFDWU5Rck9HdFAtZUxxQm1BcF85Unltd0pvVUhLa3p6c1FwV2R3bndwRkxtTk9WZVJiMWwtNml4d0s1bnBjSTZLUTROb0U2SEJwZlRzamNZUFFVemtsRnE5SnRua2tINlQ4NmFDcV9EcDFtZzdPYmQzckJPcmpWUlFITjNmOE1lRC1BaVFad0h1ZjRQR2ZC?oc=5",
+     "source": "East Asia Forum",
+     "published": "2026-11-16T23:00:00+00:00",
+     "summary": "Sustainable trade policy must address its measurement problem&nbsp;&nbsp;East Asia Forum",
+     "image": ""
+    },
+    {
+     "title": "SC House leaders see election results as mandate to focus on affordability, cooperation",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzAyUWs4dGo2Y3NmY3FhVWlxNUR6dFZxdU40dzc4Z0lJYnFDVnFZc1diWDQybzhZYmZkQ0I5aENFZHRtR0hKRGE5TEtLMHVEemFOLWlkUkhSSnIycndOSUpUZlhtLV95U1Z4bUpjYTJ3YWJLN0FUY3h5NWFwYjlia29yZ3NIanlHSEdESmJ4OHNWRWFkZnJndWg3OE9tbzQxVDU2RTV2LWZMMWJJYmtTXw?oc=5",
+     "source": "WIS News 10",
+     "published": "2026-11-16T22:56:00+00:00",
+     "summary": "SC House leaders see election results as mandate to focus on affordability, cooperation&nbsp;&nbsp;WIS News 10",
      "image": ""
     },
     {
@@ -256,82 +320,18 @@
      "published": "2026-11-16T22:37:39+00:00",
      "summary": "Commission Meeting Recap: No Significant Changes to Russell County Nov. 3 Election Results&nbsp;&nbsp;KRSL.com",
      "image": ""
-    },
-    {
-     "title": "Washington Policy Weekly: Senators Push to Remove US-Israel Defense Cooperation Provisions from NDAA",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQUwwcDJoZ01fbkZQT3A1UVJ2LUZFUS1aQzU2SGJoaURUbzBNLWhMLXdDVjFQaGJ3YTNQUkJJZzdWNHdLeVdpU0taMU1oOFlBd3pUbjJHeHFQVFRMSlVENEhfS2MyZndUdlloRnA1T0lGdC1sRDNMX1BkQ0R6UmZGNWRGT0NsQkVCaGdYMVVuOEJDYk1za1h1UHVWTjRUWEc1NWdqaElxa245TlhXQXQyX2l1UE1fS0h2T09ncS02RlZMVk9tc1ZSU1hzTWtoNG8?oc=5",
-     "source": "Arab Center Washington DC",
-     "published": "2026-11-16T22:33:21+00:00",
-     "summary": "Washington Policy Weekly: Senators Push to Remove US-Israel Defense Cooperation Provisions from NDAA&nbsp;&nbsp;Arab Center Washington DC",
-     "image": ""
-    },
-    {
-     "title": "Alan Milburn urges Burnham to spend billions on \u2018new deal\u2019 for young people",
-     "url": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
-     "source": "The Guardian",
-     "published": "2026-11-16T22:30:55+00:00",
-     "summary": "Report on Britain\u2019s youth jobs crisis calls for welfare, education, health and employment policy shake-upAndy Burnham is being urged to spend billions of pounds on a \u201cnew deal\u201d for",
-     "image": "https://i.guim.co.uk/img/media/a86708b5e4debf383f4b49fc72cc08d1c91043ac/869_0_4344_3475/master/4344.jpg?width=140&quality=85&auto=format&fit=max&s=aa717b7cb0ab5d88b64ff5552b4978d9"
-    },
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLWC1JUDhXX3lvaVA2bG1ncjBvb2h3dERIWmxIWkdlR0VJbEFrUV9UZk9LejgxdW4zdmlXc1BHTk9ITFliM2hWWEZBOGJWTDJQWi1YMWw4am56S2czRk1ZeUMtNVB3V25Zd2tDdDBCdU53cXNrM1NaX1FlNXZSdw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-16T22:26:39+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "San Antonio eyes broader state policy agenda after Democrats' election wins",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFZ5Z0VBUGJMUVdEZ2Z6RUo3RC0zc2ZaOGtDUUJDTnFuWlZlTVZMU0xyR0pIQVNTelhQeTdfc0cwLWZaVDQ4MnNFX1dVaTBWbDd1SWRha1dKWkZKb1VrT29mUDFPR0lXMW9NZVp5RVVFTzUxWHpWMktidHM4T2tZNldQVlZkZWdhV1pmSnFXaE1FQ3RHYUg1T183RzRfdWh3clAtU2llVDJMQnhKOG10bmd2cFFSYTV6VjBsT0FjX1FuNGc?oc=5",
-     "source": "Texas Public Radio | TPR",
-     "published": "2026-11-16T22:25:45+00:00",
-     "summary": "San Antonio eyes broader state policy agenda after Democrats' election wins&nbsp;&nbsp;Texas Public Radio | TPR",
-     "image": ""
-    },
-    {
-     "title": "After claiming election stolen, Netanyahu allies face their own meddling allegations",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdktHdXhWbTM3UkltdmYzS3UtR1IydUwtRi1jWXFYRkJsekx0aC1vbWJXT19yczROcDdqZWRtNExQeGo4UGI4eFllOHA2SmpRd052TFBRMmZFZTJ6UjBfcmt4VmxfTnFud09EaFZNUlR6T3c0ZXVqWmpjNTluR3YzbGNuSnQtcHNYeVlfT1dPT19PX3c1eGhWQkJOc25Sai1YaFE2c2prZjZUc1NjZG40VE5fUHFDcC00eWxVQmNlYkd4a0NwdFk3ZjROdHU?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-16T22:25:21+00:00",
-     "summary": "After claiming election stolen, Netanyahu allies face their own meddling allegations&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Mid-year budget update will \u2018cut enough, but not too much\u2019, Jim Chalmers says",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers",
-     "source": "The Guardian",
-     "published": "2026-11-16T22:21:10+00:00",
-     "summary": "Under growing pressure to sell government\u2019s strategy, treasurer says Myefo will \u2018help ease immediate capacity pressures without putting growth at risk\u2019Get our breaking news email, ",
-     "image": "https://i.guim.co.uk/img/media/0f10e0a245449557757da5e695d170a3df66fbde/1109_0_5520_4419/master/5520.jpg?width=140&quality=85&auto=format&fit=max&s=0dbbb8a06c2f036cc766fecb07638969"
-    },
-    {
-     "title": "What the Election Results Mean for Libraries",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkVWVVV4SDJWMnNZNjZHLUU3bkMyanJ1Q1FRdVRMVVZGSTM2a3h5NkZtQjBsOXd5NUV3bWJKUEdSZ0FoSHVSbkZMamNGM1hEYUthQncyWTl4U3JEWTJXWUJpRjQ1WnBDaXJHMWg0S0hiZWs1blhMM05sSEVRbExWdUlRa0JpR3hsckZhOFp5VzVPUjlmNGg3Y1VyOGNvS2xH?oc=5",
-     "source": "American Libraries Magazine",
-     "published": "2026-11-16T22:18:45+00:00",
-     "summary": "What the Election Results Mean for Libraries&nbsp;&nbsp;American Libraries Magazine",
-     "image": ""
-    },
-    {
-     "title": "State Canvassing Board to certify Minnesota election results Thursday",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0xQalBiWnlxSlpXRE9JMVVxNWJ1SV9MMG8yWDhhTTExU3lkXzlLNDJOY0ZzTmptYkZGU0VHR0pSVnB0QV9Odk50RDVZQWNILURobGhuRExMdkctU21FMVdINzFfN0k0VmxpQi03V24tZjVvam5ZRVhpVWtTNDZvTjZWeVRWdDdZTlkyazFNQTVmS2NaX252bUkxMDh0TFhz0gG0AUFVX3lxTE1PNVp4WGFPRXMtNDhIcm9Td08zQ254ME52SThrNksyYXAzUXRQelZvNDF6dDFkM0JxVUxsYVRpS04yODY1eUlGNzg0cnBOanBmTTNNTE1CWXA5OTdYQmRPRkhDSnJ0YnJQTS02SXIzQWI3MktKV09GdDRaSG5XUEVMTGxPOEJlMWxQSlh6VXV2bDNnWUxIaks5Nk5pd0Y4cGlSSjQ5RXBhOE1WMEcyX1VLanJJcQ?oc=5",
-     "source": "KTTC",
-     "published": "2026-11-16T22:15:00+00:00",
-     "summary": "State Canvassing Board to certify Minnesota election results Thursday&nbsp;&nbsp;KTTC",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-16T22:57:23.635505+00:00",
+   "fetched_at": "2026-11-16T23:27:28.788660+00:00",
    "stale": false,
    "items": [
     {
      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-16T22:49:33+00:00",
+     "published": "2026-11-16T23:07:31+00:00",
      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
