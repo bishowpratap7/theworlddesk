@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-16T06:22:53.150568+00:00",
+ "generated_at": "2026-11-16T06:53:24.445970+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T06:22:53.150535+00:00",
+   "fetched_at": "2026-11-16T06:53:24.445934+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Monday briefing: The many stages of the UK-EU relationship \u2013 and what\u2019s next",
+     "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+     "source": "The Guardian",
+     "published": "2026-11-16T06:46:27+00:00",
+     "summary": "In today\u2019s newsletter: From situationship to a possible makeup, a look at the evolving relationship, and the bloc\u2019s big feelings about the futureGood morning. Ahead of the hotly an",
+     "image": "https://i.guim.co.uk/img/media/6e2cfa54b348df466a21d5a1c4d2bce3e5b12346/1359_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=ae9c6d61d35ff9695d3d3fd72f5c401a"
+    },
+    {
+     "title": "UK exposed to polycrisis of threats amid government \u2018complacency\u2019",
+     "url": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
+     "source": "The Guardian",
+     "published": "2026-11-16T06:30:35+00:00",
+     "summary": "Lords report calls for urgent new approach to resilience planning in face of cyber-attacks, sabotage and climate crisisMinisters are complacent in the face of fast-changing and inc",
+     "image": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=2e252d83e1e5acf197ba4a3668df8463"
+    },
     {
      "title": "Home Office accused of trying to cancel online talk by Andreas Malm",
      "url": "https://www.theguardian.com/politics/2026/nov/16/home-office-andreas-malm-climate-academic-online-talk",
@@ -100,27 +116,11 @@
      "published": "2026-11-16T04:39:20+00:00",
      "summary": "Ahead of Apec summit, PM says \u2018Canada is going to move forward either way\u2019 when asked if Chinese investment was leverage in US negotiationsThe prime minister of Canada, Mark Carney",
      "image": "https://i.guim.co.uk/img/media/2e7e78e8ef011abb9ba52ca72738b8f88e4616f9/14_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=e9368d28045faded7e797e118d8254e3"
-    },
-    {
-     "title": "Watch: New York teen reunites with cat missing after building collapse",
-     "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T04:36:45+00:00",
-     "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de04/live/9f9bf490-e174-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
-     "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T04:11:53+00:00",
-     "summary": "Prabowo says his government has a &#039;zero-tolerance policy&#039; for firms that contribute to blazes and pledges strict action.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T06:22:53.150554+00:00",
+   "fetched_at": "2026-11-16T06:53:24.445954+00:00",
    "stale": false,
    "items": [
     {
@@ -222,9 +222,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T06:22:53.150558+00:00",
+   "fetched_at": "2026-11-16T06:53:24.445957+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "UK exposed to polycrisis of threats amid government \u2018complacency\u2019",
+     "url": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
+     "source": "The Guardian",
+     "published": "2026-11-16T06:30:35+00:00",
+     "summary": "Lords report calls for urgent new approach to resilience planning in face of cyber-attacks, sabotage and climate crisisMinisters are complacent in the face of fast-changing and inc",
+     "image": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=2e252d83e1e5acf197ba4a3668df8463"
+    },
     {
      "title": "Weakening UK electric vehicle targets would hurt car industry, ministers told",
      "url": "https://www.theguardian.com/environment/2026/nov/16/weakening-uk-electric-vehicle-targets-would-hurt-car-industry-ministers-told",
@@ -274,6 +282,14 @@
      "image": ""
     },
     {
+     "title": "Queensland and NT to stick with puberty blocker bans for transgender children against NHMRC advice",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
+     "source": "The Guardian",
+     "published": "2026-11-16T03:15:43+00:00",
+     "summary": "Queensland health minister Tim Nicholls says position on treatment ban in public hospitals \u2018remains unchanged\u2019 despite new guidelinesGet our breaking news email, free app or daily ",
+     "image": "https://i.guim.co.uk/img/media/6ec844d50968e0b0f2cb907692aca2490db5c8ad/215_0_4063_3250/master/4063.jpg?width=140&quality=85&auto=format&fit=max&s=57ee10bf68724ca10556c75e0fca937d"
+    },
+    {
      "title": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
      "url": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb",
      "source": "The Guardian",
@@ -304,22 +320,6 @@
      "published": "2026-11-15T18:20:36+00:00",
      "summary": "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budgetHundreds of thousands of Czechs have rallied in Prague to protest against a",
      "image": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328"
-    },
-    {
-     "title": "'Record number of women elected' to US Congress & governorships across country in midterm elections",
-     "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-record-number-of-women-elected-to-us-congress-governorships-across-country-in-midterm-elections",
-     "source": "France 24",
-     "published": "2026-11-15T15:40:36+00:00",
-     "summary": "Following the 2026 US midterm elections, Gavin Lee is pleased to welcome Politico Senior National Politics Reporter Lauren Fedor. She discusses the growing number of Democratic wom",
-     "image": "https://s.france24.com/media/display/54cc366a-e10a-11f1-a9f0-29048b396e03/w:1024/p:16x9/capture-d8402e1a.jpg"
-    },
-    {
-     "title": "Canaries urge government action after 2,200 migrants reach the islands in 48h",
-     "url": "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1",
-     "source": "France 24",
-     "published": "2026-11-15T15:24:58+00:00",
-     "summary": "Spain says nearly 2,200 migrants have arrived by boat to the Canary Islands this weekend. The Spanish islands are one of the main entry points into Europe for migrants from Africa.",
-     "image": "https://s.france24.com/media/display/6524e48c-e108-11f1-a387-3f371022a770/w:1024/p:16x9/EN-20261115-160718-161132-CS.jpg"
     }
    ]
   },
