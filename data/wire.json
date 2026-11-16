@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-16T02:18:34.331614+00:00",
+ "generated_at": "2026-11-16T02:49:08.424050+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T02:18:34.331565+00:00",
+   "fetched_at": "2026-11-16T02:49:08.424012+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-16T02:26:24+00:00",
+     "summary": "Independent MP says she is \u2018overwhelmed\u2019 by thousands of warm wishes and thanked Australians for donations Independent Australian MP Helen Haines has been discharged from hospital,",
+     "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=758324403670a0e19ad94c4c31f87257"
+    },
+    {
+     "title": "Houthis advance in Yemen as government forces move to defend Aden",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T02:22:29+00:00",
+     "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government\u2019s last strongholds.",
+     "image": ""
+    },
     {
      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
@@ -36,14 +52,6 @@
      "published": "2026-11-16T01:44:11+00:00",
      "summary": "Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.",
      "image": ""
-    },
-    {
-     "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-16T01:36:54+00:00",
-     "summary": "The Alfred hospital in Melbourne confirmed on Monday the independent MP had been dischargedIndependent Australian MP Helen Haines has been discharged from hospital, four weeks afte",
-     "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=758324403670a0e19ad94c4c31f87257"
     },
     {
      "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it\u2019s a \u2018legitimate and lawful business\u2019",
@@ -108,21 +116,29 @@
      "published": "2026-11-16T00:25:13+00:00",
      "summary": "Supermarket giant says no customer, team or supplier data breached in cyber-attack but recommends customers update passwordsGet our breaking news email, free app or daily news podc",
      "image": "https://i.guim.co.uk/img/media/5d6841423c15f03bccc940dc248768d8adba7384/780_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9918a374d89f099274e3dc1e83cfae34"
-    },
-    {
-     "title": "Russia's mega-rich are already imagining a future after Putin",
-     "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T00:13:14+00:00",
-     "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T02:18:34.331586+00:00",
+   "fetched_at": "2026-11-16T02:49:08.424034+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-16T02:26:24+00:00",
+     "summary": "Independent MP says she is \u2018overwhelmed\u2019 by thousands of warm wishes and thanked Australians for donations Independent Australian MP Helen Haines has been discharged from hospital,",
+     "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=758324403670a0e19ad94c4c31f87257"
+    },
+    {
+     "title": "Houthis advance in Yemen as government forces move to defend Aden",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T02:22:29+00:00",
+     "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government\u2019s last strongholds.",
+     "image": ""
+    },
     {
      "title": "Pope urges end to Amazon deforestation",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
@@ -202,27 +218,11 @@
      "published": "2026-11-15T22:11:26+00:00",
      "summary": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, ",
      "image": ""
-    },
-    {
-     "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-     "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T22:06:38+00:00",
-     "summary": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
-     "image": ""
-    },
-    {
-     "title": "Prince Harry tells Ukrainians they are \u2018going to win war\u2019 on surprise trip to Lviv",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
-     "source": "The Guardian",
-     "published": "2026-11-15T22:00:24+00:00",
-     "summary": "Duke of Sussex meets wounded veterans in city and says country could one day host Invictus GamesPrince Harry has told Ukrainian soldiers they are going to win the war with Russia, ",
-     "image": "https://i.guim.co.uk/img/media/082248113d66f00317e3a188a707a740b59e16b9/191_193_2669_2135/master/2669.jpg?width=140&quality=85&auto=format&fit=max&s=ec896eb5e828c19c1a39e8a6177db095"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T02:18:34.331590+00:00",
+   "fetched_at": "2026-11-16T02:49:08.424037+00:00",
    "stale": false,
    "items": [
     {
