@@ -1,10 +1,66 @@
 {
- "generated_at": "2026-11-16T17:56:22.656676+00:00",
+ "generated_at": "2026-11-16T18:26:26.368399+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-16T17:56:22.656645+00:00",
+   "fetched_at": "2026-11-16T18:26:26.368366+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T18:06:26+00:00",
+     "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+    },
+    {
+     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-16T18:06:19+00:00",
+     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
+     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+     "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+     "source": "NPR",
+     "published": "2026-11-16T18:04:50+00:00",
+     "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally bi",
+     "image": ""
+    },
+    {
+     "title": "Brand statement from prison claiming his innocence \u2018appalling\u2019 and could breach rules, says No 10 \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+     "source": "The Guardian",
+     "published": "2026-11-16T18:02:54+00:00",
+     "summary": "Brand\u2019s wife Laura read out a message from him on their YouTube showAfter education questions, there is one urgent question in the Commons and two ministerial statements. They are,",
+     "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42"
+    },
+    {
+     "title": "Police \u2018retreating from streets\u2019 due to major funding crisis, chief constables say",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/16/police-retreating-from-streets-major-funding-crisis-england-wales",
+     "source": "The Guardian",
+     "published": "2026-11-16T18:00:50+00:00",
+     "summary": "Forces across England and Wales struggle amid financial pressures described as worst for decadesPolice chiefs say officers are \u201cretreating from the streets\u201d amid the worst financia",
+     "image": "https://i.guim.co.uk/img/media/4063038e12cd12af9983d3da80722504710011c2/625_167_3799_3039/master/3799.jpg?width=140&quality=85&auto=format&fit=max&s=a8ff917eaf493563aa004faf985c7f0c"
+    },
+    {
+     "title": "Cargo ship capsizes off Bulgaria\u2019s Black Sea coast",
+     "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T17:54:31+00:00",
+     "summary": "Bulgaria&#039;s Transport Ministry says that all 12 of the ship&#039;s crew members were saved in a rescue operation.",
+     "image": ""
+    },
+    {
+     "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+     "source": "The Guardian",
+     "published": "2026-11-16T17:52:13+00:00",
+     "summary": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump\u2019s tariff",
+     "image": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=140&quality=85&auto=format&fit=max&s=0a9deff8c98976654963a86fb1198129"
+    },
     {
      "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
      "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
@@ -14,28 +70,12 @@
      "image": ""
     },
     {
-     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-16T17:47:48+00:00",
-     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
-     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
-    },
-    {
-     "title": "\u2018Near-Philistine\u2019: fury greets Shakespeare Institute plan to leave Stratford-upon-Avon",
+     "title": "\u2018Near-philistine\u2019: fury greets Shakespeare Institute plan to leave Stratford-upon-Avon",
      "url": "https://www.theguardian.com/education/2026/nov/16/near-philistine-fury-shakespeare-institute-plan-leave-stratford-upon-avon-edgbaston",
      "source": "The Guardian",
      "published": "2026-11-16T17:45:02+00:00",
-     "summary": "Renowned centre of Shakespeare studies, which is part of University of Birmingham, to move to its Edgbaston campus \u201cNear-Philistine\u201d, \u201cignorant\u201d, \u201cunbelievably stupid\u201d, \u201cterrible\u201d,",
+     "summary": "Renowned centre of Shakespeare studies, which is part of University of Birmingham, to move to its Edgbaston campus \u201cNear-philistine\u201d, \u201cignorant\u201d, \u201cunbelievably stupid\u201d, \u201cterrible\u201d,",
      "image": "https://i.guim.co.uk/img/media/9d94da0097c2bd4ba768b43c01719b8b8e0e62df/157_0_4497_3598/master/4497.jpg?width=140&quality=85&auto=format&fit=max&s=0456323eeb0ac5b6182d8aa76f695a0c"
-    },
-    {
-     "title": "Brand statement from prison claiming his innocence \u2018appalling\u2019 and could breach rules, says No 10 \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-16T17:43:39+00:00",
-     "summary": "Brand\u2019s wife Laura read out a message from him on their YouTube showAfter education questions, there is one urgent question in the Commons and two ministerial statements. They are,",
-     "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42"
     },
     {
      "title": "Emma Barnett steps down from BBC Radio 4\u2019s Today programme",
@@ -76,53 +116,29 @@
      "published": "2026-11-16T17:08:10+00:00",
      "summary": "Trump denies responsibility for FAA nationwide ground stop",
      "image": ""
-    },
-    {
-     "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T17:07:55+00:00",
-     "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
-     "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
-     "source": "The Guardian",
-     "published": "2026-11-16T17:07:54+00:00",
-     "summary": "Clancy\u2019s first trial on charges of first-degree murder ended in mistrial after jurors couldn\u2019t reach unanimous verdict A Massachusetts judge on Monday scheduled Lindsay Clancy\u2019s se",
-     "image": "https://i.guim.co.uk/img/media/48612869f527ad64a47895bf8b003e95eece7943/219_0_2690_2152/master/2690.jpg?width=140&quality=85&auto=format&fit=max&s=b1a559ad70cff0ded6827f9e1f5d93ec"
-    },
-    {
-     "title": "Iran braces for natural gas shortages during winter energy imbalance",
-     "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T16:58:46+00:00",
-     "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
-     "image": ""
-    },
-    {
-     "title": "Israeli forces demolish the homes of two Palestinian prisoners",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T16:56:54+00:00",
-     "summary": "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera\u2019s Nida Ibrahim was reporting",
-     "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T16:56:46+00:00",
-     "summary": "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu as Prime Minister.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-16T17:56:22.656659+00:00",
+   "fetched_at": "2026-11-16T18:26:26.368382+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+     "source": "NPR",
+     "published": "2026-11-16T18:04:50+00:00",
+     "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally bi",
+     "image": ""
+    },
+    {
+     "title": "Cargo ship capsizes off Bulgaria\u2019s Black Sea coast",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdm42c29LOXNVREw1dWxnRVo5WlpBalQ1Q2N0a3NvYjVaNkRiVXA4NG9YZGx3X0drT2FVT3I1SGFMNmhaOExDbnhrWks2TXZDck1RRk1Hd3hRYlhReUxZOVhOeWppQmIxclBwZGM2SE9pTFZ2Rmc0ZkRsd3FTT3hvb2xjdFFzcWVJaEl3dUQ0WGUxME1XNWc?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T17:54:51+00:00",
+     "summary": "Cargo ship capsizes off Bulgaria\u2019s Black Sea coast&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
     {
      "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
      "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
@@ -180,14 +196,6 @@
      "image": ""
     },
     {
-     "title": "French soldiers on \u2018secret mission to train troops in Ukraine\u2019",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVJEUDZVc3RpRm1raEVFNWttUU1lMkpZblk5c2tNM0pWbkNBNUwweHFKM2NjWno0NW1jeElfTFQ1Q0ZBaEpaUFhPajNSRGticHZFQnhYYkh5dWhmdlhmRlpGY2VZdkVna2lQcG1ZLTN5eWlabF9OWk5LWlVKWjlnak5tUU1EZXpYVnBzMWJvUzJuSms?oc=5",
-     "source": "TVP World",
-     "published": "2026-11-16T17:25:00+00:00",
-     "summary": "French soldiers on \u2018secret mission to train troops in Ukraine\u2019&nbsp;&nbsp;TVP World",
-     "image": ""
-    },
-    {
      "title": "Ukraine launches its biggest airstrike of the war against Russia",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLV2JGMENkZFpxZFZsM3N1bnBabk1qT3VxNXBRVEV4UVdaeUhQakVqUUszb1FTZEVQVGMzLVV4LS1FNV9JSnpTSjlOaDd0M1ByNk45TkFNMU45d0R1SFZrNmNNZ1FsakZ2M0o2dDhnOHFLZmh0Mmc?oc=5",
      "source": "WBUR",
@@ -210,21 +218,61 @@
      "published": "2026-11-16T16:58:46+00:00",
      "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
      "image": ""
-    },
-    {
-     "title": "Israeli forces demolish the homes of two Palestinian prisoners",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T16:56:54+00:00",
-     "summary": "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera\u2019s Nida Ibrahim was reporting",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-16T17:56:22.656664+00:00",
+   "fetched_at": "2026-11-16T18:26:26.368386+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-16T18:06:19+00:00",
+     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
+     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+     "title": "Pennsylvania Policy Center: The Fair Share Tax Proposal 2026: A Policy Proposal to Modernize Pennsylvania\u2019s Personal Income Tax",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmF3bzFmQUZjUXZuQjJqWVZPM2wtYjNzR09tZVB2Sk1WQ0R6Q2h6dU51Mkg0WklYLWk3S09DRjBSX1hiY1dJX3E5ZGRtN3BtMFRyaXR5aEVlOHZsNXFaQzE5UmlWaWF4ZTR3dVE4V21DLVl1blR5OFhkSHpLd1JSZXhpWW96OVRMTXRQeU1XQS1TY1FRcmRsY1dPNEd1VkUxTE1ubEJpRU9GYVphMUVJN1g5VlJVSWY4Z1JMMktYSFdXUTFZb3RXQmZ2V0gzWXBtRFUwajhvcnp5Zw?oc=5",
+     "source": "Institute on Taxation and Economic Policy",
+     "published": "2026-11-16T18:05:58+00:00",
+     "summary": "Pennsylvania Policy Center: The Fair Share Tax Proposal 2026: A Policy Proposal to Modernize Pennsylvania\u2019s Personal Income Tax&nbsp;&nbsp;Institute on Taxation and Economic Policy",
+     "image": ""
+    },
+    {
+     "title": "Brand statement from prison claiming his innocence \u2018appalling\u2019 and could breach rules, says No 10 \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+     "source": "The Guardian",
+     "published": "2026-11-16T18:02:54+00:00",
+     "summary": "Brand\u2019s wife Laura read out a message from him on their YouTube showAfter education questions, there is one urgent question in the Commons and two ministerial statements. They are,",
+     "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42"
+    },
+    {
+     "title": "Land Commissioner Dawn Buckingham: the GLO, Alamo, Energy Independence & Post-Election Path Forward | The Right Idea",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSWdHb1NVZ1ZKN1pBekJ3SVlLVmx6M18yWWZ4MzNSZnd1VzZLRUdYS0RDZlFEdU4ySmc0bFBmd2VJZU9sX2Z2U3FsTl9JU09FdXBoQWZWeDBsdy1kX0tvX0V6Z1g3VUk2aUVFRnNuWFFwMmFZY3FOTEVQV0xGR0ZRMjdiOHM5X0lobExjWHZMSUFkbzBUMUtfYVpiWmMwMjFDVVR5WGhsM0hvTVprQWNUa0tYbFotRzZVOXBESFc5blVvVTBYQ3cwQmY1bnAxamhUczJ5aEtPaEl0TlItbDBhYmplblJBclp5RUFueA?oc=5",
+     "source": "Texas Public Policy Foundation",
+     "published": "2026-11-16T18:00:54+00:00",
+     "summary": "Land Commissioner Dawn Buckingham: the GLO, Alamo, Energy Independence & Post-Election Path Forward | The Right Idea&nbsp;&nbsp;Texas Public Policy Foundation",
+     "image": ""
+    },
+    {
+     "title": "Nigeria says US intelligence support helping target militants, secure 2027 election",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXdLN3dvYlMwVUpIOF80bEVmVXdtTXMyRTFsMlRZNXk3U1BTZ3NzREtJMXhWcnNZTkNvZ3I3eVBZS0d4anFtSDZqaDFJMEQ4Mm83X25Fc3gzcF92RFdndTNxR3RRWWIweDJUajdMWUotVUx3a2FURW0yS0t4SXY0SFE2bHlBWC1naG9PX1phODVfbkFOcjd6UncxTVhYSTJUdnNSSUwyeXVqMm1Lekx0MU02MFQ3ZkJ5S0VISWV5UQ?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-16T17:55:44+00:00",
+     "summary": "Nigeria says US intelligence support helping target militants, secure 2027 election&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "After claiming election stolen, Netanyahu allies face their own meddling allegations",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdktHdXhWbTM3UkltdmYzS3UtR1IydUwtRi1jWXFYRkJsekx0aC1vbWJXT19yczROcDdqZWRtNExQeGo4UGI4eFllOHA2SmpRd052TFBRMmZFZTJ6UjBfcmt4VmxfTnFud09EaFZNUlR6T3c0ZXVqWmpjNTluR3YzbGNuSnQtcHNYeVlfT1dPT19PX3c1eGhWQkJOc25Sai1YaFE2c2prZjZUc1NjZG40VE5fUHFDcC00eWxVQmNlYkd4a0NwdFk3ZjROdHU?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-16T17:55:21+00:00",
+     "summary": "After claiming election stolen, Netanyahu allies face their own meddling allegations&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
     {
      "title": "BernCo Certifies 2026 General Election Results",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdEtLTHFaSDVHd21TRFRnTlJMM0QtcnFSblMwNjlmbXVueEwyWjE2VS1vWkpYUFRHVjZaaG94dG85eU9IWjZBaFUxRjQwQ1VGRHIwVnlhaDl5c3ZxbnpuT1AwcXNSMkFILVh2d01IQTJzZzNpMHg0VWVpVkRmbi1XSHpnaUxwcU4zT2pjY2hocw?oc=5",
@@ -232,14 +280,6 @@
      "published": "2026-11-16T17:50:48+00:00",
      "summary": "BernCo Certifies 2026 General Election Results&nbsp;&nbsp;www.bernco.gov",
      "image": ""
-    },
-    {
-     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-16T17:47:48+00:00",
-     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
-     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
      "title": "Key Veterans Benefits Bill Passes House as Midterm Election Wins Grow for AFGE-Backed Candidates",
@@ -256,14 +296,6 @@
      "published": "2026-11-16T17:46:09+00:00",
      "summary": "France\u2019s Diallo enters race to challenge Infantino in FIFA presidential election | Sports | 2news.com&nbsp;&nbsp;KTVN",
      "image": ""
-    },
-    {
-     "title": "Brand statement from prison claiming his innocence \u2018appalling\u2019 and could breach rules, says No 10 \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-     "source": "The Guardian",
-     "published": "2026-11-16T17:43:39+00:00",
-     "summary": "Brand\u2019s wife Laura read out a message from him on their YouTube showAfter education questions, there is one urgent question in the Commons and two ministerial statements. They are,",
-     "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42"
     },
     {
      "title": "The Limits of Industrial Policy",
@@ -288,52 +320,28 @@
      "published": "2026-11-16T17:30:43+00:00",
      "summary": "Meet the Republicans Emerging as 2028 Contenders&nbsp;&nbsp;Modern Diplomacy",
      "image": ""
-    },
-    {
-     "title": "Georgia\u2019s Black Republicans Regroup After Searing Midterm Election Losses",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZV8tMC14TFRZRy1kanJfZUhyeWhBLV9fQ2lTanFPQXU1a2VPd1dSLXdxY3JWcFMwbWd0MWx1RGZPYnYyZXE2RGdRTFVEZWxRSThWX0Q3UnNvdEUzclFVOGlWWUhfdi1EUnFGNjA0QVJPWVBWRy1RdXQxNVlYVUVDTDFzQ3U3Y1VNQWwwR3BTZEtHekkzdV8xRXEwZm5YenhPNEFoc2huZFVtUQ?oc=5",
-     "source": "Capital B News - Atlanta",
-     "published": "2026-11-16T17:30:00+00:00",
-     "summary": "Georgia\u2019s Black Republicans Regroup After Searing Midterm Election Losses&nbsp;&nbsp;Capital B News - Atlanta",
-     "image": ""
-    },
-    {
-     "title": "LIST: 12 Kentucky counties randomly chosen for a post-election audit",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbHpFdDZrRHRicUl0YTZYaFZrZS1xVDB2MGxtMUFXQ3Vwc1M4VnRIaWJhVzd4V1otUjNRTGRBdThTZVpMcU03VnhDTG5vcWFwZnp5SmdJZ3NHWXRYT2p5Y0czSGpwRUs3ZXdrbnREdjhReFpHbnU3dDUyNnFvM3VuWjRuamNVaVBOdzZRRnROU2RSRU11bkNnb0wyR0ZNUGhRVXFvWGZsOVdBZS1ubmQxX3RUblZzMGxkQVZPbGNONkJjVjdTODRrLUxpZzFEZS1nODBLWnBGYzZuT1ZpM3Fpem1FcDZDNlE?oc=5",
-     "source": "WHAS11",
-     "published": "2026-11-16T17:27:00+00:00",
-     "summary": "LIST: 12 Kentucky counties randomly chosen for a post-election audit&nbsp;&nbsp;WHAS11",
-     "image": ""
-    },
-    {
-     "title": "Kanawha County Commission certifies 2026 election results",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0I2Y0w5M3Z0czVBSV94X2g4d0VNSDFESGRmdWhTd1Q0SFg3TGJ0cHNPRnFGVGVKSVJSZXl2Wmd0RlNPcHJEUzNjM3VEaUI0b0ZOSXJjbzdiMW9tR09zSTMxWi11ODRWeGZ4R1dGSUtpUUx2WHhpQUx5cEJ5bDVMbzFfSzhSTTJnVE9wMVhqZk9BUUxF0gGoAUFVX3lxTFBEZTRHZkxaNm50ejJzVmR0Nm5wR2JfQzF4aWlzY2txcWl4Q1FiVHNBaEdaZWFMd0hMaFdOR0J0c2RZSkJQak5CVHBjSFZtTC01bFVNcUlGbmFHU0tua2hiNWN1Qm5MLXZWT3V3Ml8xZzQzTHZPN1FiLXg0NnNYc0JKb3VtdkpQMTlNbUdfODI5U3gyeHJzQ0UzM0x0ZkJzUEY1OEJyaFMwWA?oc=5",
-     "source": "WSAZ",
-     "published": "2026-11-16T17:24:00+00:00",
-     "summary": "Kanawha County Commission certifies 2026 election results&nbsp;&nbsp;WSAZ",
-     "image": ""
-    },
-    {
-     "title": "Election results have been certified in Kanawha County",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWxic1o5WGRNMUhBYUhVdU9TQ3pfQi13VXJiMjRwUTdOakRJY3h2T1lZYms2YVJySzlDZlhQT2tYVkxYZnlsb21fNGFFbVVfLUxfelZ3Y2JkRHV6TmotbU5UR1QzVjBLRm5oa2lpX2VGbHdMZHNBR1REbFdoM0VsQ3Y5NjBxRndpcWtfNzlJVFlJcGZ3?oc=5",
-     "source": "WSAZ",
-     "published": "2026-11-16T17:23:00+00:00",
-     "summary": "Election results have been certified in Kanawha County&nbsp;&nbsp;WSAZ",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-16T17:56:22.656666+00:00",
+   "fetched_at": "2026-11-16T18:26:26.368389+00:00",
    "stale": false,
    "items": [
     {
      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-16T17:47:48+00:00",
+     "published": "2026-11-16T18:06:19+00:00",
      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+     "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+     "source": "The Guardian",
+     "published": "2026-11-16T17:52:13+00:00",
+     "summary": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump\u2019s tariff",
+     "image": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=140&quality=85&auto=format&fit=max&s=0a9deff8c98976654963a86fb1198129"
     },
     {
      "title": "Andy Burnham to say Brexit \u2018has not worked\u2019 and he will sign new deal with EU",
