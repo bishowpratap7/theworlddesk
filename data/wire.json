@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T13:29:50.739297+00:00",
+ "generated_at": "2026-11-17T13:30:04.303607+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-17T13:29:50.739272+00:00",
+   "fetched_at": "2026-11-17T13:30:04.303573+00:00",
    "stale": false,
    "items": [
     {
@@ -52,14 +52,6 @@
      "published": "2026-11-17T13:03:47+00:00",
      "summary": "One of France's top musical artists has spoken to FRANCE 24 about the need to empower more women in music. M\u00e9lissa Laveaux is currently taking part in the \"Les Femmes s'en m\u00ealent\" ",
      "image": "https://s.france24.com/media/display/582bc328-e283-11f1-9b6b-ff16da94d1fe/w:1024/p:16x9/capture-c20de2d9.jpg"
-    },
-    {
-     "title": "Why do governments switch off the internet?",
-     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T13:03:39+00:00",
-     "summary": "The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.",
-     "image": ""
     },
     {
      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -116,11 +108,19 @@
      "published": "2026-11-17T12:50:12+00:00",
      "summary": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
      "image": ""
+    },
+    {
+     "title": "How is US Senate majority leader chosen?",
+     "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T12:38:39+00:00",
+     "summary": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
+     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-17T13:29:50.739285+00:00",
+   "fetched_at": "2026-11-17T13:30:04.303587+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T13:29:50.739288+00:00",
+   "fetched_at": "2026-11-17T13:30:04.303591+00:00",
    "stale": false,
    "items": [
     {
@@ -263,14 +263,6 @@
      "source": "Economic Policy Institute",
      "published": "2026-11-17T13:05:04+00:00",
      "summary": "Misclassification: State solutions to the U.S. worker rights crisis&nbsp;&nbsp;Economic Policy Institute",
-     "image": ""
-    },
-    {
-     "title": "Why do governments switch off the internet?",
-     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T13:03:39+00:00",
-     "summary": "The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-17T12:43:44+00:00",
      "summary": "Serbia's Student List deputies take seats in parliament after landmark election win&nbsp;&nbsp;Reuters",
      "image": ""
+    },
+    {
+     "title": "How is US Senate majority leader chosen?",
+     "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T12:38:39+00:00",
+     "summary": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-17T13:29:50.739290+00:00",
+   "fetched_at": "2026-11-17T13:30:04.303593+00:00",
    "stale": false,
    "items": [
     {
