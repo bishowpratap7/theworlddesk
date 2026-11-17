@@ -1,17 +1,73 @@
 {
- "generated_at": "2026-11-17T01:27:46.385715+00:00",
+ "generated_at": "2026-11-17T01:57:51.410647+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-17T01:27:46.385681+00:00",
+   "fetched_at": "2026-11-17T01:57:51.410614+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T01:49:26+00:00",
+     "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+    },
+    {
+     "title": "Live: Russian attacks target bridges in Kyiv, knocking out heating and water",
+     "url": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
+     "source": "\u00a9 Peter Morrison, AP",
+     "published": "2026-11-17T01:38:38+00:00",
+     "summary": "Russian strikes hit two major bridges in Kyiv late Monday, part of an overnight attack that damaged critical infrastructure and disrupted heating and water in parts of the capital,",
+     "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg"
+    },
     {
      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-17T00:59:14+00:00",
+     "published": "2026-11-17T01:37:30+00:00",
      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+     "title": "Truck driver fired for \u2018unsafe\u2019 use of smartglasses in first reported sacking over device in Australia",
+     "url": "https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-17T01:25:08+00:00",
+     "summary": "Toll employee Ricardo Martins Silva used smartglasses to take photos at an LPG terminal despite the risk of an explosion caused by an electrical spark, a court heard Get our breaki",
+     "image": "https://i.guim.co.uk/img/media/1bb8d30dcd78052afadd5695ad1cf81a973b10fe/1115_380_2101_1680/master/2101.jpg?width=140&quality=85&auto=format&fit=max&s=fce1026769e0fc3453ed7d39b48fdf28"
+    },
+    {
+     "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+     "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T01:19:56+00:00",
+     "summary": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+     "image": ""
+    },
+    {
+     "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+     "source": "The Guardian",
+     "published": "2026-11-17T01:18:28+00:00",
+     "summary": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staffThe Cincinnati zoo says Fiona, its beloved hippo who became a glo",
+     "image": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8"
+    },
+    {
+     "title": "EU countries announce migrant deportation centre in Rwanda",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T01:12:28+00:00",
+     "summary": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
+     "image": ""
+    },
+    {
+     "title": "Five EU states announce plans for immigration \u2018return hubs\u2019 in Rwanda",
+     "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+     "source": "The Guardian",
+     "published": "2026-11-17T01:10:59+00:00",
+     "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as \u2018grave moral failing\u2019Five EU member states have announced plans to set up an off",
+     "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=7839a06430930a2378822738556852d7"
     },
     {
      "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
@@ -60,69 +116,37 @@
      "published": "2026-11-16T23:57:49+00:00",
      "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
      "image": ""
-    },
-    {
-     "title": "Africa: Trading in yuan",
-     "url": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
-     "source": "NPR",
-     "published": "2026-11-16T23:49:35+00:00",
-     "summary": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
-     "image": ""
-    },
-    {
-     "title": "Paraguay ex-president moved to military jail amid special treatment reports",
-     "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T23:44:32+00:00",
-     "summary": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
-     "image": ""
-    },
-    {
-     "title": "Trump departs for ASEAN on summit with Xi and Putin",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T23:42:03+00:00",
-     "summary": "Donald Trump is heading to the Philippines where he\u2019s scheduled to speak at a meeting of ASEAN leaders in Manila.",
-     "image": ""
-    },
-    {
-     "title": "United Airlines says \u2018widespread\u2019 system outage resolved",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-     "source": "The Guardian",
-     "published": "2026-11-16T23:26:23+00:00",
-     "summary": "Airline acknowledges \u2018technology issue that delayed flight departures\u2019 in latest high-profile outage to affect AmericansUnited \u2060Airlines said on \u2060Monday \u2060that it had resolved \u2060a wi",
-     "image": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28983698125cd7b39a7adedf7e96dd07"
-    },
-    {
-     "title": "Five EU countries announce migrant deportation centre in Rwanda",
-     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T23:20:45+00:00",
-     "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
-     "title": "Band of baby sea turtles swim into ocean after historic California nesting",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
-     "source": "The Guardian",
-     "published": "2026-11-16T23:19:11+00:00",
-     "summary": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coastTwo months after the discovery of the first sea turtle nests eve",
-     "image": "https://i.guim.co.uk/img/media/4861d06aace7cca64a1450b2e61fb90d86e1600a/243_0_2431_1945/master/2431.jpg?width=140&quality=85&auto=format&fit=max&s=12b0764cfaa73133ca97044e6dbc0d99"
-    },
-    {
-     "title": "Police searching for three stolen Melbourne Cup trophies worth $1m each",
-     "url": "https://www.theguardian.com/sport/2026/nov/17/makybe-diva-melbourne-cup-trophies-stolen-flemington-raid-mount-waverley-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-16T23:15:07+00:00",
-     "summary": "Officers searched a Mount Waverley home in Melbourne after trophies belonging to winning horse Makybe Diva were stolen from Flemington racecourseGet our breaking news email, free a",
-     "image": "https://i.guim.co.uk/img/media/e49f8bece2e7b1d85728a821a413a8a1eab7bcad/432_0_5917_4734/master/5917.jpg?width=140&quality=85&auto=format&fit=max&s=928772887ec5806a71f3328e0b226f1f"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-17T01:27:46.385697+00:00",
+   "fetched_at": "2026-11-17T01:57:51.410630+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Live: Russian attacks target bridges in Kyiv, knocking out heating and water",
+     "url": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
+     "source": "\u00a9 Peter Morrison, AP",
+     "published": "2026-11-17T01:38:38+00:00",
+     "summary": "Russian strikes hit two major bridges in Kyiv late Monday, part of an overnight attack that damaged critical infrastructure and disrupted heating and water in parts of the capital,",
+     "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg"
+    },
+    {
+     "title": "Nuclear accident risk in Ukraine rising this winter, atomic safety regulators say",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUS1hOEVzblVxTWhEM3RpemxWaTRYcGk4ckQ5UWNUWUFpQUpnS0pBUVdIYTJydkljcHRxVTViWUdobnZEVXRTcjZ5bVY2NkF4ZlhzeUp4LXpuUjJIZW1TOGxtd0hvT0hvUF9HTG9YQXBBYi1VMXN6UVpKalB3UldZOGJfUFd5ZF9UWWFv?oc=5",
+     "source": "The Japan Times",
+     "published": "2026-11-17T01:19:00+00:00",
+     "summary": "Nuclear accident risk in Ukraine rising this winter, atomic safety regulators say&nbsp;&nbsp;The Japan Times",
+     "image": ""
+    },
+    {
+     "title": "Russia\u2019s Prized Kerch Bridge Struck In Ukrainian Drone Onslaught (Updated)",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHhCc3hMLTlya1JxR3JvOGVuZDJRUUw3WTZNNGM3YUdhX3ZiSFlIT0pGRDEtdnBjX0RXOWlJbzJ6RVpNWEhPMkFUV05Geml2R0xQc19UcFFCcUxVTzVOaHZwYjhiUERWaUxOSkxHWnB4T1ptYzA4ajhTR1pOd0o1clNqRE44cVAyOFU5OE5ZeUdXaXpsMjJ1RHN0TGxndw?oc=5",
+     "source": "TWZ",
+     "published": "2026-11-17T01:11:09+00:00",
+     "summary": "Russia\u2019s Prized Kerch Bridge Struck In Ukrainian Drone Onslaught (Updated)&nbsp;&nbsp;TWZ",
+     "image": ""
+    },
     {
      "title": "Newsom visits Ukraine as pollsters gauge potential presidential hopefuls",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVE52TWRnTzV6WGcyYkpRN1VKbEpyVHpCdHU4bHg0NmlhX1preUIzQUpoa3Z5bVZYVmZfZGN6Z0M5SnNQanRaSWV2NEdwNmRrbXRJODUybmdWZlJYU1N3Z29UbjZzRzZKUXlYekwtUWdsTXVfWnE3SVpkUm54WVFSbDNscUNrVVJfei1yN3VqZy1CMS1NRkNxV2pPdzcxcl9SQ1ExS014azBwUTlXRy14dF9ldHI?oc=5",
@@ -140,6 +164,22 @@
      "image": "https://s.france24.com/media/display/d2e45bd2-e221-11f1-8e06-5f54d898a954/w:1024/p:16x9/AP26319581736584.jpg"
     },
     {
+     "title": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjN3cjhkWFJ6ZVdTa0FNWXdyZHE4VmJpWk9VX1hURlhmTkhRZlIyZWl3bXh2SGNqWm9MbjY3UWs1Zlh6TkI0TmROYko0SGd6WV9NUGZ2NHZzQjVRU3FVN19lV3dFeF9MazBxcDdvdFlLYXN2YTdRMl85aXBjRU1WckI5TFZFLTdabllCUDZ5ZDhUUld1VjNNbTdCSzBpa2xBcTZ5Q2V6OExpcF8xcjVUem4yTzdvdw?oc=5",
+     "source": "WTOP News",
+     "published": "2026-11-17T00:54:30+00:00",
+     "summary": "The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin&nbsp;&nbsp;WTOP News",
+     "image": ""
+    },
+    {
+     "title": "Ukrainian forces reportedly strike Crimean Bridge after Russian missiles hit Kyiv bridges",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmtGbG5JSjRoWGtobWpveTByaFNlY21ib0lVZ2tLZUhacllOaXZHVmxjZHdXSFU5S2xGWGtlM0hRc1Q3aVAzQk15dG10V0c0d1dTRDlUWEViUGh3V2syTFpnZVVPMTF4QlBZMFhZSDVUMERKc3FHRVhFTUlCaUg5WnNQWkRUMkM4YjZKRk5PU3FWZDFSZEFPNXpHU21weUFrVFh5aS1UTVRYb0FzbjljVERiT3RENEpKU1E?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-17T00:40:27+00:00",
+     "summary": "Ukrainian forces reportedly strike Crimean Bridge after Russian missiles hit Kyiv bridges&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
      "title": "Belgium EU Ukraine",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXlFUlJ3cDhGTl9HdzYwZjZYRnZmXzBsaGdnbTMtMFlrQ2p1M1ZNaEwyLWNZeF9zcFA1WjRkd29rTmhzSUxzc09MZmU4QzlIY3NoYnMtUjJaaU5ua1NEQmV3eUhvdFJMSURDd0s1SktFUkJaajBIUmFGb1ZxWDBrcmF5dzNlckx5Uzl2VUprTG1UUHNmbUVubF9aYzBROURXMHNlampsTDg0d25zUmlZRXo0TnlLbUFYTW1z?oc=5",
      "source": "Columbia Missourian",
@@ -153,14 +193,6 @@
      "source": "Al Jazeera",
      "published": "2026-11-16T23:57:49+00:00",
      "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
-     "image": ""
-    },
-    {
-     "title": "European foreign ministers call on EU to crack down on Russian crypto networks financing war against Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTmxRal93WEpDTzZvQTJlOC10eDNhSEEybFNKbW1NalVlTVhLWF9RWm4xRHYwTERGQnd0X3dQRXhNcEVfUU5HaTByQ3BOblV3Z2hXbUg1RHhjcm43MjRONVA3RXNZNTJUOV9qU2dCVFFNeHdhcUJjdk8yby1IX05UeXBvUUFvQmdQSmVFZDZzWlJHOWRtNC1DWUdTa0M4QVFweFlwbVJYaldZY0xqTGtfOV9zZTM0emhYWVVuTkEwQWFueDFYYkV0Ylk5cHFVRk5kelIw?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-16T23:49:54+00:00",
-     "summary": "European foreign ministers call on EU to crack down on Russian crypto networks financing war against Ukraine&nbsp;&nbsp;The Kyiv Independent",
      "image": ""
     },
     {
@@ -186,45 +218,29 @@
      "published": "2026-11-16T23:19:45+00:00",
      "summary": "EU Foreign Ministers Accuse Russia of Stalling Ukraine Talks as Power Plants Are Bombed: how 6 outlets framed it&nbsp;&nbsp;NewsCord",
      "image": ""
-    },
-    {
-     "title": "Ukraine hits key Crimea bridge with drones",
-     "url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
-     "source": "France 24",
-     "published": "2026-11-16T23:13:06+00:00",
-     "summary": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv.",
-     "image": "https://s.france24.com/media/display/3b52c1ca-e210-11f1-ae4f-695cb59fade5/w:1024/p:16x9/EN-20261116-230143-230237-CS.jpg"
-    },
-    {
-     "title": "EU agrees to resurrect cooperation deal with Syria",
-     "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T23:00:36+00:00",
-     "summary": "Decision aims to bolster bloc&#039;s ties with Damascus following the collapse of Assad&#039;s government in December 2024.",
-     "image": ""
-    },
-    {
-     "title": "Opinion | Why the Ukraine War Is Working for Putin",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXFQZkNUaEZXZlVWY3JuX05XSWpzOHFtQ3hrZE92WFdqYTg3ZVhFejJwT01BbUlmZ25xMmg2MmQtSE53NER1OUluOHR5cllRNTFjZjRQR1BLV3ZmaHMwNUtqRjdtbG5xRXdoMWM4Q3F1TkpZQWRFNl91d0g0OXVPRU9rVQ?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-16T22:38:00+00:00",
-     "summary": "Opinion | Why the Ukraine War Is Working for Putin&nbsp;&nbsp;WSJ",
-     "image": ""
-    },
-    {
-     "title": "Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19iSlJyallMZlZCWmp3NlFWRWlYa3FIcVVZM2hPMzU2MVI0TnVlZ0hSZFI2N2RZLUQySGdpTmJlaG13X1FpZjU3enhtT2p6RkNuVjN1SllNRzZSYXBYcU9SbkwwOVdPLTRnamFubWVYX19JU2pCVXZLRkd1TVFSSnNRbEY1Q3ZFbnJEUlZSemp0a3RGc2o4UUhTb2dhRVk0ZWd1MF85VHk0d2IwZW93dThfQTA?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-16T22:20:30+00:00",
-     "summary": "Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T01:27:46.385701+00:00",
+   "fetched_at": "2026-11-17T01:57:51.410634+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T01:37:30+00:00",
+     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
+     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+     "title": "Updated 2026 Election results, Monday evening: Who\u2019s ahead in Marion County, Keizer races",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUl5QjYzZ1FoT2tDQ2ZXQzBwZGhHWExMZXJIU0RzTlpkUHpMOXhlS3dqSHg2c3V5c0tHTDVJSXVuSGR5SHZjWXBBUXgzMVlzcGt5R1NVelp5OHZuMHBlR1NUTEwtTEFwbHh1QWtlbWx5cmRXZVF3ci1XcmNSU09yZUVYZ0RUN3BtZVk1YmpTanVwSTZvZ1UxNU1sbVQxMVJRZmljMTBtaVgwd00xRUsteFFqcENmTUZEWWFlM3EwVjh6dk1ZM0E?oc=5",
+     "source": "Salem Reporter",
+     "published": "2026-11-17T01:37:03+00:00",
+     "summary": "Updated 2026 Election results, Monday evening: Who\u2019s ahead in Marion County, Keizer races&nbsp;&nbsp;Salem Reporter",
+     "image": ""
+    },
     {
      "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLWC1JUDhXX3lvaVA2bG1ncjBvb2h3dERIWmxIWkdlR0VJbEFrUV9UZk9LejgxdW4zdmlXc1BHTk9ITFliM2hWWEZBOGJWTDJQWi1YMWw4am56S2czRk1ZeUMtNVB3V25Zd2tDdDBCdU53cXNrM1NaX1FlNXZSdw?oc=5",
@@ -242,12 +258,12 @@
      "image": ""
     },
     {
-     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "title": "Five EU states announce plans for immigration \u2018return hubs\u2019 in Rwanda",
+     "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
      "source": "The Guardian",
-     "published": "2026-11-17T00:59:14+00:00",
-     "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
-     "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+     "published": "2026-11-17T01:10:59+00:00",
+     "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as \u2018grave moral failing\u2019Five EU member states have announced plans to set up an off",
+     "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=7839a06430930a2378822738556852d7"
     },
     {
      "title": "Trump Administration Divide on China Policy Breaks Into Public View",
@@ -298,50 +314,26 @@
      "image": ""
     },
     {
-     "title": "Shawnee County Election Office finalizes ballot count after general election",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGZWcmIyLThnaVVXQjJzRDMzRFhVWXNIa2NCYm8zU3Jnay00ek1MLXc4SUhsVk1kTXQtQlYzNzlmcXYwM3J2cDNhamtBMU9fQ29BbWdUY3k1SDRPV3dCTDViQjdFRWs2YzJzMmI3QzdQV3RlMUxrSGE2aUVzekdCdnpjZ3dkMUVZcENLdkZNeXZVQmhHeXRqcW9sWThhemlUci1lbG5HeDNnVEpj0gGyAUFVX3lxTE80ZzRlWmVpQ3l6c012WG1fbkVuU1hxcHpfUHlJcko2RTM1NmhrQlZZTl9lM2N5NVlzMXBWVGtFU3JOWTF6SDhWSlZFNk42UEk3VzEzV19fMzVZNlZGSVNSN094QkRWOVVOWldRNGsxVjExUHYySDhyOGhFS1R2Ni14b0VXcE13MGlDeHBGNjRvWUhjQXpvS2lkRzJBaGpzczl3RDNTbXptVm5uMTBJSjhQdVE?oc=5",
-     "source": "KSNT 27 News",
-     "published": "2026-11-17T00:33:36+00:00",
-     "summary": "Shawnee County Election Office finalizes ballot count after general election&nbsp;&nbsp;KSNT 27 News",
-     "image": ""
-    },
-    {
      "title": "Sedgwick County completes election vote count after long verification process",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYXU3ck81TVVqM2tPWWNfRi16ckduSGtDWl96U2pLaGpZQTFObXRhSUE4R0NJWW1PX0VPRER6STA1ckpuT1lHS0tzbkpETzdyWklmM3o5RHhIOGgyUXpULURGbk82YkQ4aUIybVllUWtKVW05M21Cb0VONGVVQXZhdVpuYllFdjFsZ1JoOUlkUzVNYjBVcE0tVmVNZVF4NlcwMXRPcm5yaG5fWTBmSWdZ?oc=5",
      "source": "KWCH",
      "published": "2026-11-17T00:32:00+00:00",
      "summary": "Sedgwick County completes election vote count after long verification process&nbsp;&nbsp;KWCH",
      "image": ""
-    },
-    {
-     "title": "UK seeks closer ties with EU after Brexit fail",
-     "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T00:30:21+00:00",
-     "summary": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-17T01:27:46.385704+00:00",
+   "fetched_at": "2026-11-17T01:57:51.410637+00:00",
    "stale": false,
    "items": [
     {
      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-17T00:59:14+00:00",
+     "published": "2026-11-17T01:37:30+00:00",
      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exportsSign up for the Breaking News US emailLauren",
      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
-    },
-    {
-     "title": "Albanese signs on to Trump\u2019s AI supply chain pact before leaders\u2019 meeting at Quad summit",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-     "source": "The Guardian",
-     "published": "2026-11-16T21:00:21+00:00",
-     "summary": "Quad leaders\u2019 summit in Philippines is Trump\u2019s first, as Australia joins US and Japan to protect AI technologies in face of China\u2019s efforts to dominateGet our daily political email",
-     "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6"
     },
     {
      "title": "Andy Burnham to say Brexit \u2018has not worked\u2019 and he will sign new deal with EU",
