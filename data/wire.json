@@ -1,17 +1,105 @@
 {
- "generated_at": "2026-11-17T10:29:26.693508+00:00",
+ "generated_at": "2026-11-17T10:59:30.775564+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-17T10:29:26.693487+00:00",
+   "fetched_at": "2026-11-17T10:59:30.775541+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Trump arrives in Philippines to kick off Asia trip",
-     "url": "https://www.france24.com/en/video/20261117-trump-arrives-in-philippines-to-kick-off-asia-trip",
+     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T10:52:50+00:00",
+     "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 as the Kremlin says bridge will be restored and will be \u2018better than ever\u2019 following strikeUkraine critically damages Kerch bridgeFrench \u2060f",
+     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
+    },
+    {
+     "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+     "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+     "source": "The Guardian",
+     "published": "2026-11-17T10:47:18+00:00",
+     "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has \u2018refused to clamp down on\u2019Ed Miliband has announced the first set of sanctions",
+     "image": "https://i.guim.co.uk/img/media/0c6c3abea16d477d745d8d4ce121385b428ce6a3/1393_0_7030_5624/master/7030.jpg?width=140&quality=85&auto=format&fit=max&s=a182de5f7254a578cc0222d205e6ba7c"
+    },
+    {
+     "title": "Milburn calls for welfare state \u2018revolution\u2019 as landmark youth unemployment report to be published \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T10:47:12+00:00",
+     "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take yearsMilburn urges Burnham to spend billions on \u2018new deal\u2019 for young p",
+     "image": "https://i.guim.co.uk/img/media/ae21bd65f6f9fcfe7775394d2f559aedc82470e9/1129_170_3606_2885/master/3606.jpg?width=140&quality=85&auto=format&fit=max&s=94aa46c9318ad76499a49f221294c344"
+    },
+    {
+     "title": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
+     "url": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain",
      "source": "France 24",
-     "published": "2026-11-17T10:21:23+00:00",
-     "summary": "US President Donald Trump arrived in the Philippines on Tuesday at the tail end of a Southeast Asian summit, with protests awaiting him as he prepares for the first meeting in two ",
-     "image": "https://s.france24.com/media/display/3bcbaca8-e26e-11f1-a00c-5f54d898a954/w:1024/p:16x9/EN-20261117-101225-101519-CS.jpg"
+     "published": "2026-11-17T10:46:27+00:00",
+     "summary": "A third American aircraft carrier has arrived in the Middle East, US Central Command said in a social media post Monday, making a dramatic show of military might as President Donal",
+     "image": "https://s.france24.com/media/display/9752e8aa-e270-11f1-b650-5f54d898a954/w:1024/p:16x9/EN-20261117-103832-104029-CS.jpg"
+    },
+    {
+     "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T10:45:55+00:00",
+     "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg"
+    },
+    {
+     "title": "Saudi Arabia replaces military commander after Yemen setbacks",
+     "url": "https://www.france24.com/en/video/20261117-saudi-arabia-replaces-military-commander-after-yemen-setbacks",
+     "source": "France 24",
+     "published": "2026-11-17T10:44:27+00:00",
+     "summary": "Saudi Arabia replaced the commander overseeing its coalition against Yemen's Iran-allied Houthis on Monday after Riyadh's Yemeni allies were forced to withdraw from swathes of terr",
+     "image": "https://s.france24.com/media/display/e78c0f28-e26f-11f1-b18f-5f54d898a954/w:1024/p:16x9/EN-20261117-103642-103808-CS.jpg"
+    },
+    {
+     "title": "Trump arrives in Philippines to kick off Asia trip",
+     "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+     "source": "NPR",
+     "published": "2026-11-17T10:43:55+00:00",
+     "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian Pres",
+     "image": ""
+    },
+    {
+     "title": "5 European countries aim to send rejected asylum seekers to Rwanda",
+     "url": "https://www.france24.com/en/video/20261117-5-european-countries-aim-to-send-rejected-asylum-seekers-to-rwanda",
+     "source": "France 24",
+     "published": "2026-11-17T10:41:53+00:00",
+     "summary": "A group of European countries announced Monday that they aim to set up a \u201creturn hub\u201d in Rwanda where rejected asylum seekers could be sent from next year, a move that they hope wi",
+     "image": "https://s.france24.com/media/display/c03fe188-e26f-11f1-b5ff-5f54d898a954/w:1024/p:16x9/EN-20261117-103334-103526-CS.jpg"
+    },
+    {
+     "title": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
+     "url": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
+     "source": "The Guardian",
+     "published": "2026-11-17T10:33:01+00:00",
+     "summary": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next yearBusiness live \u2013 latest updatesThe owner of TG Jones is exploring a potential sale ",
+     "image": "https://i.guim.co.uk/img/media/c1ff7b89a9d54d285510bb6163d009d76d0c2bb9/128_0_7733_6186/master/7733.jpg?width=140&quality=85&auto=format&fit=max&s=71b48d2bb5b1544f8bacb29fce7db1a3"
+    },
+    {
+     "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+     "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+     "source": "The Guardian",
+     "published": "2026-11-17T10:30:22+00:00",
+     "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 but Kremlin claims bridge will be restored and will be \u2018better than ever\u2019Europe live \u2013 follow latestUkraine has critically damaged the Kerc",
+     "image": "https://i.guim.co.uk/img/media/35449468721afd6dae92903e99a8fbed51d602e4/0_12_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=1c51731e27855a4e635195bb9d420463"
+    },
+    {
+     "title": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
+     "url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T10:22:52+00:00",
+     "summary": "Rwanda again proposed as a &#039;return hub&#039; for deported migrants, but critics warn of potential human rights abuses.",
+     "image": ""
+    },
+    {
+     "title": "How new US chip restrictions on South East Asia will hit China",
+     "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T10:22:09+00:00",
+     "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg"
     },
     {
      "title": "\u2018Master manipulator\u2019 police officer should not be released early from UK prison, says ex-partner",
@@ -22,107 +110,91 @@
      "image": "https://i.guim.co.uk/img/media/0f5c0ef70ad1a8f76e92628c11fd28adc4b7aa6b/690_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=c1fdc0f48d36d3993608660e8c0cbf20"
     },
     {
-     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T10:12:24+00:00",
-     "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 as the Kremlin says bridge will be restored and will be \u2018better than ever\u2019 following strikeUkraine critically damages Kerch bridgeMeanwhile",
-     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
-    },
-    {
-     "title": "Milburn calls for welfare state \u2018revolution\u2019 as landmark youth unemployment report to be published \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T10:08:26+00:00",
-     "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take yearsMilburn urges Burnham to spend billions on \u2018new deal\u2019 for young p",
-     "image": "https://i.guim.co.uk/img/media/ae21bd65f6f9fcfe7775394d2f559aedc82470e9/1129_170_3606_2885/master/3606.jpg?width=140&quality=85&auto=format&fit=max&s=94aa46c9318ad76499a49f221294c344"
-    },
-    {
-     "title": "Candidates clash over cost of living in French presidential debate",
-     "url": "https://www.france24.com/en/video/20261117-candidates-clash-over-cost-of-living-in-french-presidential-debate",
-     "source": "France 24",
-     "published": "2026-11-17T10:01:59+00:00",
-     "summary": "Five of the frontrunners for the French presidential election lined up for the second of this year's debates on Monday night. In an often-rowdy debate, candidates clashed over coun",
-     "image": "https://s.france24.com/media/display/b54e088a-e26b-11f1-9490-29048b396e03/w:1024/p:16x9/EN-20261117-101025-101155-CS.jpg"
-    },
-    {
-     "title": "France's far-right presidential candidate Le Pen to set out pension plans",
-     "url": "https://www.france24.com/en/video/20261117-france-s-far-right-presidential-candidate-le-pen-to-set-out-pension-plans",
-     "source": "France 24",
-     "published": "2026-11-17T09:58:43+00:00",
-     "summary": "France's far-right presidential candidate Marine Le Pen is to set out pension proposals on Tuesday as she seeks to convince investors she can balance one of her most popular electo",
-     "image": "https://s.france24.com/media/display/fdabf3ea-e26a-11f1-8272-29048b396e03/w:1024/p:16x9/EN-20261117-100540-100947-CS.jpg"
-    },
-    {
-     "title": "Russia receiving \u2018dozens of missiles per month\u2019 from North Korea, says Kyiv",
-     "url": "https://www.france24.com/en/video/20261117-russia-receiving-dozens-of-missiles-per-month-from-north-korea-says-kyiv",
-     "source": "France 24",
-     "published": "2026-11-17T09:57:14+00:00",
-     "summary": "Ukraine's President Volodymyr Zelensky said Monday that Russia was receiving \"dozens of missiles per month\" from North Korea and warned that the country was taking advantage of the",
-     "image": "https://s.france24.com/media/display/724fc8f8-e26a-11f1-87a1-5f54d898a954/w:1024/p:16x9/EN-20261117-100403-100538-CS.jpg"
-    },
-    {
-     "title": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T09:53:31+00:00",
-     "summary": "Afghan women risk their lives to pursue their dreams, despite strict Taliban restrictions.",
-     "image": ""
-    },
-    {
-     "title": "Expert behind NHS children\u2019s gender services review says she cannot back conversion practices ban",
-     "url": "https://www.theguardian.com/politics/2026/nov/17/expert-nhs-gender-review-cannot-back-conversion-practices-ban",
-     "source": "The Guardian",
-     "published": "2026-11-17T09:51:03+00:00",
-     "summary": "Hilary Cass says draft bill is having \u2018chilling effect\u2019 on healthcare professionals and could pose a risk to parentsThe expert behind a major review into children\u2019s gender services",
-     "image": "https://i.guim.co.uk/img/media/10cc7f42ff1e37c35d3a89b3299e3585acb25c5c/163_0_3173_2539/master/3173.jpg?width=140&quality=85&auto=format&fit=max&s=92e4485e2aa27afd4aa621c2769fbc19"
-    },
-    {
-     "title": "Powering towns on pig manure: How Denmark has transformed energy generation",
-     "url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T09:51:02+00:00",
-     "summary": "Pigs are big business in Denmark. Now their waste is being turned into biogas, which powers the national grid.",
-     "image": ""
-    },
-    {
-     "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
-     "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-     "source": "NPR",
-     "published": "2026-11-17T09:50:45+00:00",
-     "summary": "Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow's forces, meanwhile, fired ballistic missiles and drones at K",
-     "image": ""
-    },
-    {
-     "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
-     "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
-     "source": "NPR",
-     "published": "2026-11-17T09:46:00+00:00",
-     "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
-     "image": ""
-    },
-    {
-     "title": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen",
-     "url": "https://www.france24.com/en/tv-shows/business/20261117-china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen",
-     "source": "France 24",
-     "published": "2026-11-17T09:45:26+00:00",
-     "summary": "China is hosting the 21-member Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen this week, hoping to use the tech megalopolis to showcase its vision for international tr",
-     "image": "https://s.france24.com/media/display/36dae0c6-e267-11f1-b463-695cb59fade5/w:1024/p:16x9/capture-672c7708.jpg"
-    },
-    {
-     "title": "Deutsche Bank shares drop after reports on mass data leak",
-     "url": "https://www.france24.com/en/live-news/20261117-deutsche-bank-shares-drop-after-reports-on-mass-data-leak",
-     "source": "\u00a9 Kirill KUDRYAVTSEV / AFP",
-     "published": "2026-11-17T09:45:25+00:00",
-     "summary": "Shares in Deutsche Bank plunged on Tuesday after international media outlets published reports based on millions of leaked emails and other documents that shine a light on question",
-     "image": "https://s.france24.com/media/display/9d39c8d8-e26b-11f1-8a0d-f71d22e7fea9/w:1024/p:16x9/6597867e619fbec5d361e81bac59edcd25bf3247.jpg"
+     "title": "Will President Trump meet Kim Jong Un?",
+     "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T10:13:27+00:00",
+     "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-17T10:29:26.693497+00:00",
+   "fetched_at": "2026-11-17T10:59:30.775552+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Finland\u2019s president urges direct European talks with Putin over Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzhyWm5ycUYtNXZIUUFUVmdnNl9oYWpCVFNyeV9STGlaRUkxTmlSOFR2QkYzbFpyY0tObVVyTlpEU1lHZFZfelNzYUJqdUxxY1JlajlpUC1FTlNLTlJHUG9BRUJHOHN3SXpqdW42SjhoMkY1dWdsWlN0S0tBVmp2alZPZl9zdF9aYXFXWVdkczloNVdCQ0N5WW9fazB6akR3UGZpc0VET2wxdUJZdHpKTFVB?oc=5",
+     "source": "The Copenhagen Post",
+     "published": "2026-11-17T10:56:21+00:00",
+     "summary": "Finland\u2019s president urges direct European talks with Putin over Ukraine war&nbsp;&nbsp;The Copenhagen Post",
+     "image": ""
+    },
+    {
+     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T10:52:50+00:00",
+     "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 as the Kremlin says bridge will be restored and will be \u2018better than ever\u2019 following strikeUkraine critically damages Kerch bridgeFrench \u2060f",
+     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
+    },
+    {
+     "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+     "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+     "source": "The Guardian",
+     "published": "2026-11-17T10:47:18+00:00",
+     "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has \u2018refused to clamp down on\u2019Ed Miliband has announced the first set of sanctions",
+     "image": "https://i.guim.co.uk/img/media/0c6c3abea16d477d745d8d4ce121385b428ce6a3/1393_0_7030_5624/master/7030.jpg?width=140&quality=85&auto=format&fit=max&s=a182de5f7254a578cc0222d205e6ba7c"
+    },
+    {
+     "title": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
+     "url": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain",
+     "source": "France 24",
+     "published": "2026-11-17T10:46:27+00:00",
+     "summary": "A third American aircraft carrier has arrived in the Middle East, US Central Command said in a social media post Monday, making a dramatic show of military might as President Donal",
+     "image": "https://s.france24.com/media/display/9752e8aa-e270-11f1-b650-5f54d898a954/w:1024/p:16x9/EN-20261117-103832-104029-CS.jpg"
+    },
+    {
+     "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T10:45:55+00:00",
+     "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg"
+    },
+    {
+     "title": "Saudi Arabia replaces military commander after Yemen setbacks",
+     "url": "https://www.france24.com/en/video/20261117-saudi-arabia-replaces-military-commander-after-yemen-setbacks",
+     "source": "France 24",
+     "published": "2026-11-17T10:44:27+00:00",
+     "summary": "Saudi Arabia replaced the commander overseeing its coalition against Yemen's Iran-allied Houthis on Monday after Riyadh's Yemeni allies were forced to withdraw from swathes of terr",
+     "image": "https://s.france24.com/media/display/e78c0f28-e26f-11f1-b18f-5f54d898a954/w:1024/p:16x9/EN-20261117-103642-103808-CS.jpg"
+    },
+    {
+     "title": "Trump arrives in Philippines to kick off Asia trip",
+     "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+     "source": "NPR",
+     "published": "2026-11-17T10:43:55+00:00",
+     "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian Pres",
+     "image": ""
+    },
+    {
+     "title": "Russia warns French troops in Ukraine a 'direct participation' in war",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0p0Z28yX3lKNTlsRVItcENsT0VmVWFXTjZqc2QzcF9Mb2lFOFRvMmd1NERlQzNoSFFNcmhYQXJXQmk5anBJSGl3TGUybEhSRE5qMDB1N0ljZDlVbDUxeTRRZEdkamhBNlZzdThJUHJSVDBIdDNnTmx0Q3hLczk4eHBhM2tfdzhTaVpwZm9VVjBod2pSaE1RZ1FZNk9lWXNpQnJoNFBtOVphY2tyOWpR?oc=5",
+     "source": "Naharnet",
+     "published": "2026-11-17T10:42:00+00:00",
+     "summary": "Russia warns French troops in Ukraine a 'direct participation' in war&nbsp;&nbsp;Naharnet",
+     "image": ""
+    },
+    {
+     "title": "Ukraine and Russia trade strikes on key bridges ahead of Putin-Trump-Xi summit",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10STZVMjlwekNqNzdzaTNockl6aUFRaWZ1MkkwU3ZVSzh1a1JMQXBqWVphTEFRTWNXWTNIVHlsdE9lWENIdVo1SWc2ckFSbVZmQVpkQVpNT1E2VXN3U2xhLW95VW85Rkp5THBnT2Fib2pWRFl2YmJfMlBwSnpHdw?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-17T10:30:00+00:00",
+     "summary": "Ukraine and Russia trade strikes on key bridges ahead of Putin-Trump-Xi summit&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
     {
      "title": "British soldiers training hard for when ceasefire is finally announced in Ukraine",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWY3WWNkci0wWmdhcXdkU0w5TmxFSnR4bnBqRWNxdUtfc1RMWEVvaFNTMmEzWXY0algwdDRSMXMyQkhSRmVMSGFvRmVFelducHlhVFRkNHNGaHhFWVBwdjRvdS1VWFc3cWR6dHZrd2JaQzh5ajZPRHNSTTBkOWdEZG9ZdHVCZWNESF95Uk9kT25ZRHZyZmFBRWFYbGFxMmxQc0Y1R3VQV1F3RjIwZy1NbGFR?oc=5",
@@ -132,99 +204,51 @@
      "image": ""
     },
     {
-     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T10:12:24+00:00",
-     "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 as the Kremlin says bridge will be restored and will be \u2018better than ever\u2019 following strikeUkraine critically damages Kerch bridgeMeanwhile",
-     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
-    },
-    {
-     "title": "Ukraine War, Day 1,727: Kyiv and Russia Trade Strikes on Bridges",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDYwN25IR3lXemVVWEV5SEJtb1FVZkk2bTVic0tfWDh3U2tSWllrc3V2bXVNX00tOFBQdEI2VmUyTzNCR1pFLXNhcUpVd1loQzNPNDZyMS01OWFuUV9leVNFWXdCajZXRDluZnNDQm9BdU5pdUZjTHI2ODJMWlg2YXBEMzZPUFU5clE?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-17T10:04:27+00:00",
-     "summary": "Ukraine War, Day 1,727: Kyiv and Russia Trade Strikes on Bridges&nbsp;&nbsp;EA WorldView",
+     "title": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
+     "url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T10:22:52+00:00",
+     "summary": "Rwanda again proposed as a &#039;return hub&#039; for deported migrants, but critics warn of potential human rights abuses.",
      "image": ""
     },
     {
-     "title": "2 killed in Crimea, 2 in Zaporizhzhia as Russia, Ukraine trade accusations over strikes",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWxlYmNBWjVjajNMRlBJTWFoV0dzcGRnM0VQWnpXMjBxbGVpbzNvQ0JvZ2tUb09ENHdXcXNONzlmeG1iTUdSOGRMdEdDc1ZaUERnaENlQ0R2RV9LTm54Mms0TUxvQ1I1Wi1wN281bVVHXzNaVnZJUEZXbkZjM3pXTlBsa3lqbUx4LTFQVXpqcDVlVXk5MHhyU3YtQzZjejBwOVRiUC1kUVQ4a3FaMUNoUVRlN3hrQmpNc3RoZl9Gc216Sjc5R3lNV29lWC1jUQ?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-17T10:03:12+00:00",
-     "summary": "2 killed in Crimea, 2 in Zaporizhzhia as Russia, Ukraine trade accusations over strikes&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "These Ukrainians Aren\u2019t in Combat. But They Deal With War Every Day.",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NzRCOHQ5NVZvZWt2QVYtQk0yTnlzeG9iN3RNaUtpRENhRVV1eEhJWG95RzNyNktuSDQ5cXdKOEdaUndfT2dQYkRQZGM1RnlsOUtoTW93dzV3SnVBNnFVcVVOdXlsMUdnLXpvdldkZTlhb29kSkJBcjFJS2xXM0k?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-17T10:00:23+00:00",
-     "summary": "These Ukrainians Aren\u2019t in Combat. But They Deal With War Every Day.&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Russia receiving \u2018dozens of missiles per month\u2019 from North Korea, says Kyiv",
-     "url": "https://www.france24.com/en/video/20261117-russia-receiving-dozens-of-missiles-per-month-from-north-korea-says-kyiv",
-     "source": "France 24",
-     "published": "2026-11-17T09:57:14+00:00",
-     "summary": "Ukraine's President Volodymyr Zelensky said Monday that Russia was receiving \"dozens of missiles per month\" from North Korea and warned that the country was taking advantage of the",
-     "image": "https://s.france24.com/media/display/724fc8f8-e26a-11f1-87a1-5f54d898a954/w:1024/p:16x9/EN-20261117-100403-100538-CS.jpg"
-    },
-    {
-     "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWtLTm1oUmtNWG42UWhuQ0l1Q05RS2pJd1NZaHBRTjNPYmpBYUV2cEJ2VkhySDZpa3RjV0dpd25WaTFCbERTdVNpZU9IQ1Y0OHVZUHZiTjc2c1hURGN6STBLRC04eTYzclJIanh2cllwM2pZRDJQanpFeERPWlN1Zjc3TXZkZXhwZWk1YllzVlk3bGRGQ0s0?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-17T09:55:26+00:00",
-     "summary": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Ukraine Strikes Crimean Bridge Again as Russia Hits Kyiv Bridges, Drone War Escalates",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RQWVCQ2VGRmhyV0VkREpBa3I3c3laT25MeDd3RV9lTHFPSGQ0R1B4dTROTmJiY1p0R0dEVFRGanp6bmJ1MFlqanZjR2h1Qjh1d2xGdzAzU0hpLXVUQTNNXzl3?oc=5",
-     "source": "Forth.News",
-     "published": "2026-11-17T09:53:52+00:00",
-     "summary": "Ukraine Strikes Crimean Bridge Again as Russia Hits Kyiv Bridges, Drone War Escalates&nbsp;&nbsp;Forth.News",
-     "image": ""
-    },
-    {
-     "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1bXBjSS1oSzlXdnQtZ3k2OGU1QlR0cU5qMlRqbFRmcWxZeV9YZU84eEVUeDloVWU0a2diUVMySEw0ZG1rWGpKU09MdHZWZkNUeTZJVnlmYUw0NkhEMllxM09GLURQWFpaMjMwTURB?oc=5",
-     "source": "NPR",
-     "published": "2026-11-17T09:50:45+00:00",
-     "summary": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "Ukrainian Drones Hit Gazprom Refinery in Bashkortostan in Second Record Overnight Attack",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM1I0NFl3bXFyaEwxUkdBTjY2YlkxemRlaFJoS3BzcHc4bDJOSzUxbk5EOENaa3loZ1g4RENuc3ZrUGd3X3dlZlVoRHVOV0I3YmpyMU16QmJ1WkdIUTBUaS1md1NhSG9paVdNdldrYl9BTmQySGpPMFd0ZFRobzNnZTFWRTA5LVFJdzlfQVhfU0ZiTk9LTm83VDVKWlljVWo1ZWs2SExIX0hBdnFNb25nZGZabXhyYmJvTGJCTnByeGhDMndTci1pZUpaZFRpaU1PNnZR?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-17T09:50:33+00:00",
-     "summary": "Ukrainian Drones Hit Gazprom Refinery in Bashkortostan in Second Record Overnight Attack&nbsp;&nbsp;The Moscow Times",
-     "image": ""
-    },
-    {
-     "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
-     "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
-     "source": "NPR",
-     "published": "2026-11-17T09:46:00+00:00",
-     "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
-     "image": ""
-    },
-    {
-     "title": "Morning Call: Why is it so hard for Ukraine to destroy Kerch Bridge?",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWRTVG93aDBweWY2TXRRLUVzSkd2d3Z1YW5IcW9JOExyR2FISDg2ZFRuTVZQT0txNkNYMzU2N256VE9JZ2pQYVZmVGxjSWFYb2t5blBUZlpuRzVES3hIMDlLRXp5UU9ZT1BhYzYyMEhJYjVkNG9XZVd6RVE4MnNWaHRuaFRBTGQyUC1WdkhFakhNUklVdmw4bjFPY00xbTAyTmRqcA?oc=5",
-     "source": "Sky News",
-     "published": "2026-11-17T09:44:25+00:00",
-     "summary": "Morning Call: Why is it so hard for Ukraine to destroy Kerch Bridge?&nbsp;&nbsp;Sky News",
-     "image": ""
+     "title": "How new US chip restrictions on South East Asia will hit China",
+     "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T10:22:09+00:00",
+     "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T10:29:26.693500+00:00",
+   "fetched_at": "2026-11-17T10:59:30.775555+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Milburn calls for welfare state \u2018revolution\u2019 as landmark youth unemployment report to be published \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T10:47:12+00:00",
+     "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take yearsMilburn urges Burnham to spend billions on \u2018new deal\u2019 for young p",
+     "image": "https://i.guim.co.uk/img/media/ae21bd65f6f9fcfe7775394d2f559aedc82470e9/1129_170_3606_2885/master/3606.jpg?width=140&quality=85&auto=format&fit=max&s=94aa46c9318ad76499a49f221294c344"
+    },
+    {
+     "title": "Serbia\u2019s Student List candidates sworn in as MPs after election triumph",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcmdXVkFaU1R0c1EydG1jd2FNSExRRl9ZMFR1SjVBNEFJemM0cDRUSUhjamJkblpCWS1WdzJqQ1ptbTYwLWVTQkRSTVJ5TkN4NGRtWi1LNGRTc0NrbVR1MkdRQnlRSi1yWFhGU0ZQUUtSUnpMNW8zN21vVGViZmN0MUo2MU9hcGZrWlJmaklvTjZUam01NVJRSy1HUQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-17T10:27:00+00:00",
+     "summary": "Serbia\u2019s Student List candidates sworn in as MPs after election triumph&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00SzhVODRUYUhoZlA1V3RWMTJLUE5vckdlTjVlTUUyNmdzbXdaa1JiR0hPbVc5T3lIVktXeXZ3Q0Y0bjhBMUhoRWFmZ3pGWURCSld4QzMyMW5NVmhPUVBNQWR5Zjc3elAyZlk5d2Y0Q01vVEFkMlppNUJB0gF_QVVfeXFMTVNqNmQwYW1ZcXNxYWNjd2dCYXdFVzNrejJYYm9BRUpkQmlqZ2lWSzZMRnM0ZzRoVXBIZjBLYnJHZ1prcGtjRWRjVkd5WkpFUHlhTFk0RDFoajdzVE5WYlZTVG4tMW1HN0FJU0hfMkdoMWFpMks2NFplc2dTVWNSSQ?oc=5",
+     "source": "CNBC",
+     "published": "2026-11-17T10:25:54+00:00",
+     "summary": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground&nbsp;&nbsp;CNBC",
+     "image": ""
+    },
     {
      "title": "Charles Franklin, Marquette Law School Poll director, reflects on 2026 election season",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHJjVGJiZ2cxR0swcWZhMEtweVplc184QnQ4OF9OLXJGSmFXaGVhdC1faEZJYkZPeWtOOGZpUS02b0VfYklsanFrSFozZ20zeTc0NjFVZlJSdTZ4Q3JvSkJlazJ1SW52OXJCckh3bENoQWlwVmNaR1RldDR1aXJialhrZ2FJeGRMazdaVGl4ZDVDdDJyV042LTR1OGZla1FmYjFVa2s1dGc2Rzl4ZVNhOFZKWV9GaHVHYWtnR2VLeUdLQQ?oc=5",
@@ -234,12 +258,12 @@
      "image": ""
     },
     {
-     "title": "Trump arrives in Philippines to kick off Asia trip",
-     "url": "https://www.france24.com/en/video/20261117-trump-arrives-in-philippines-to-kick-off-asia-trip",
-     "source": "France 24",
-     "published": "2026-11-17T10:21:23+00:00",
-     "summary": "US President Donald Trump arrived in the Philippines on Tuesday at the tail end of a Southeast Asian summit, with protests awaiting him as he prepares for the first meeting in two ",
-     "image": "https://s.france24.com/media/display/3bcbaca8-e26e-11f1-a00c-5f54d898a954/w:1024/p:16x9/EN-20261117-101225-101519-CS.jpg"
+     "title": "U.K. Sanctions 8 Israeli Firms Tied to West Bank Settlement Construction",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaUhjTXRZdVc3TDdpODV3VXJfcGZXdmEtX2ktaFJyV2FPWGpGZlFIaTBLUnZ5cUxiUmp2THFTWVJZNmJ0dlkzQlBBM0M4ZThaODNXMjJmenVoaUY1Vk5FMnFNYmxWenQyZ2FrSGdDSGtpc255UXNqMUJ0SDd5WnJDZkVldElpMW0wRHNtQldYeUNrUFBUVGI2d2tST2hYUUE2a19FT1lBTjBLenVOOXp3cER0bTZjeXJlajcydUltNzFqMUxaUUxpOC1WMy1oN3BFVHAzWnVWYmNPM1NfOWRvTlgwYWltZWNnazM2U0hNZS04NEhsYXhONU95QllDdjFfT3BFY0FUZTY5QUVUODk0Uzl6SXlyNTgyS01R?oc=5",
+     "source": "Haaretz",
+     "published": "2026-11-17T10:23:00+00:00",
+     "summary": "U.K. Sanctions 8 Israeli Firms Tied to West Bank Settlement Construction&nbsp;&nbsp;Haaretz",
+     "image": ""
     },
     {
      "title": "The deep end of security",
@@ -258,6 +282,30 @@
      "image": ""
     },
     {
+     "title": "Will President Trump meet Kim Jong Un?",
+     "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T10:13:27+00:00",
+     "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "US President Trump arrives in Manila ahead of ASEAN summit",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T10:13:12+00:00",
+     "summary": "US President Donald Trump has landed in Manila ahead of a special ASEAN-US meeting.",
+     "image": ""
+    },
+    {
+     "title": "Richland County election certified with 650 added ballots",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHdGUHhZNWw5YzNMVzlRWFFmRkt0SXNnaFRyMkJEYlViQzVMWnNRZjUzUTc1d3ptUGtXaXNxWEhySFdmTURuRktma2F3cDgwd2RfdGRCckcyVFFKQ3ZwNDQ2U0R4Z3l3SWdoS3BYTTA1eVFKclBDWWdwc2ZBRzlfVGljUHhNb09zNDVSeWw0WWptbEp2Z3lSdC1iTlJaUkRIOFBjamFGT29JWXVGYk1RV3lJbHA?oc=5",
+     "source": "Mansfield News Journal",
+     "published": "2026-11-17T10:12:00+00:00",
+     "summary": "Richland County election certified with 650 added ballots&nbsp;&nbsp;Mansfield News Journal",
+     "image": ""
+    },
+    {
      "title": "Shawnee County Board of Canvassers meet following general election",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTmxISl9CM3dUN05kZndla3ktbEtIZTZyT1h4OEFaMnBVQzM1NF9hTDlqM2ktYUtUSlB5WmNNNEs2cVRydW9qQlpiTVJkUk5KT1Fnc3VTdDZZdUFiQnN5NldhVkE2V2p5bUlOSVlFeF9OTWZvRDF4Rjd2ZnpSN0xYN3FiZkpaVUNSYUdqamVZRW1vaXVuRVhvb19OVE5lS0Q1Um41RXZtRjFRYU5Od3dYSjVaalhuMjg0dFZMNVRKaFdhNERWLVE?oc=5",
      "source": "The Topeka Capital-Journal",
@@ -272,61 +320,21 @@
      "published": "2026-11-17T10:10:16+00:00",
      "summary": "Shawnee County election commissioner explains provisional ballots&nbsp;&nbsp;The Topeka Capital-Journal",
      "image": ""
-    },
-    {
-     "title": "Milburn calls for welfare state \u2018revolution\u2019 as landmark youth unemployment report to be published \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T10:08:26+00:00",
-     "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take yearsMilburn urges Burnham to spend billions on \u2018new deal\u2019 for young p",
-     "image": "https://i.guim.co.uk/img/media/ae21bd65f6f9fcfe7775394d2f559aedc82470e9/1129_170_3606_2885/master/3606.jpg?width=140&quality=85&auto=format&fit=max&s=94aa46c9318ad76499a49f221294c344"
-    },
-    {
-     "title": "See how Shawnee County audit confirmed general election vote totals",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlBQMEdvaFdYbWhtbDRBN1YzcENQd3E4V21fRElJOHZCbFFzaE5CeXVuOWNhRE05UjFvSU5FQkliVkpBbkFJTFhLSVFLMnFxc3lfYWtjOUR0ZjhrdTN5MGx2TnNoLTlwdXladDhKVEJSaTRDb0ZDc0tYYkhEMS1JM3h3MVNXZXplbUt2SlVNdU9ha09xNzVpdEdNV1A0X0h4V0ZuYjR6Ni14bWU1Y1VJSDFmNnN5TFc3QlNKbHlxck4?oc=5",
-     "source": "The Topeka Capital-Journal",
-     "published": "2026-11-17T10:08:00+00:00",
-     "summary": "See how Shawnee County audit confirmed general election vote totals&nbsp;&nbsp;The Topeka Capital-Journal",
-     "image": ""
-    },
-    {
-     "title": "SC gov-elect seeks public\u2019s interest in openings; special election to fill Senate vacancy",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPanNCWkZDTXlTTjNUZDRYNHFlUFhIWXdmb1pGcFFxZVBTVEtDQUh0b3g2d1NQS1pKX2w5LUpockVSc3k2dVFyYm42eFRaUFhPbVBMOS0ydWstU2tkRkEycDdZay1ueGlCTHpERThqbE5NLXhwb3NGYmJTV2xkcnBVVE44T05laUVWV0dnUTJTVmhvd0JqcGxSSWRzd0lyNVpjTEJGaUp6MFU4Sm1CUDB4TGtUVWdHN0F0aDVpSGh0V1FDbk1F?oc=5",
-     "source": "SC Daily Gazette",
-     "published": "2026-11-17T10:06:54+00:00",
-     "summary": "SC gov-elect seeks public\u2019s interest in openings; special election to fill Senate vacancy&nbsp;&nbsp;SC Daily Gazette",
-     "image": ""
-    },
-    {
-     "title": "Candidates clash over cost of living in French presidential debate",
-     "url": "https://www.france24.com/en/video/20261117-candidates-clash-over-cost-of-living-in-french-presidential-debate",
-     "source": "France 24",
-     "published": "2026-11-17T10:01:59+00:00",
-     "summary": "Five of the frontrunners for the French presidential election lined up for the second of this year's debates on Monday night. In an often-rowdy debate, candidates clashed over coun",
-     "image": "https://s.france24.com/media/display/b54e088a-e26b-11f1-9490-29048b396e03/w:1024/p:16x9/EN-20261117-101025-101155-CS.jpg"
-    },
-    {
-     "title": "Former CFR president says congressional involvement is not \u2018the solution\u2019 to Trump\u2019s foreign policy",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaThJVG5UMmQ2VXRKUXV0ZUV3ZTVMcWxZU0ZJc0p6NHlCUUZsa2NaT0JpR2U0M0lOM3VobTZSR2xKc1RueWNnaGNRNDFwUWc3MW5kQUwySjItVGZpMFhoS2JGQmhzWExiTGZSLXFWQ0tua3VFU3BrcHp4ZXJlWUp3V1pQemFjVDdOUy1IQjh1eE9EdXdXQUp2dEotalhQQ2xfcDZUOXB3Z09SOWhDVW1CY0lkNzNjOFNBeXF4a3B2bXQ2WUZXSGY2VlhZUW5Qa0F5OUNaSnBFWlVyamJrWHZSZ1V3?oc=5",
-     "source": "The Dartmouth",
-     "published": "2026-11-17T10:00:22+00:00",
-     "summary": "Former CFR president says congressional involvement is not \u2018the solution\u2019 to Trump\u2019s foreign policy&nbsp;&nbsp;The Dartmouth",
-     "image": ""
-    },
-    {
-     "title": "Could Delaware\u2019s faith leaders become more involved in state policy?",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlJrUkJLVzM2dkFXbks4bjFQRGZoNHlqMlFaMVpLZkdFcWV6WVNMWVE2RnVaUGZpb0NyN3J2TGpzS1oxTjJmVkZ6Z19tdENIVmVDUmRCZndOMWpZaHNEbTVIOUU1WG1FSlV1d1oyX3hFc1ktbk5sWkNYNnhNUjYtenlPcTZyNlhPcExCWlhudEljb3U4Q2s0aTFlZ1owSEJ1MWdLdll5SUd0c0RL?oc=5",
-     "source": "Spotlight Delaware",
-     "published": "2026-11-17T10:00:00+00:00",
-     "summary": "Could Delaware\u2019s faith leaders become more involved in state policy?&nbsp;&nbsp;Spotlight Delaware",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-17T10:29:26.693501+00:00",
+   "fetched_at": "2026-11-17T10:59:30.775556+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "How new US chip restrictions on South East Asia will hit China",
+     "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T10:22:09+00:00",
+     "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg"
+    },
     {
      "title": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen",
      "url": "https://www.france24.com/en/tv-shows/business/20261117-china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen",
