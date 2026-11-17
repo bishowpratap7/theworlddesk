@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-17T23:05:49.821497+00:00",
+ "generated_at": "2026-11-17T23:36:25.326708+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-17T23:05:49.821462+00:00",
+   "fetched_at": "2026-11-17T23:36:25.326676+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "California bans Waymo self-driving cars from freeways",
+     "url": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:14:12+00:00",
+     "summary": "State DMV says vehicles pose \u2018imminent hazard\u2019 after cars entered closed zone and tried to bypass highway patrolCalifornia has banned Waymo\u2019s autonomous vehicles from state freeway",
+     "image": "https://i.guim.co.uk/img/media/39130814dcd0c6daf0a7e2f8e47f01fa166fc583/462_0_4618_3695/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=9fc6563236e2df4f3c545cf3e5bd69b2"
+    },
+    {
+     "title": "Trump brushes off NSA internal network outage: \u2018it\u2019s like that when you\u2019re big and powerful\u2019 \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:09:15+00:00",
+     "summary": "President\u2019s words could be seen to run counter to NSA\u2019s claim of \u2018scheduled routine maintenance\u2019 causing temporary issueSign up for US Breaking News emailAbdul El-Sayed, the Democr",
+     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
+    },
+    {
+     "title": "Haitians protest in support of El Salvador\u2019s anti-gang troop deployment",
+     "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T23:09:00+00:00",
+     "summary": "El Salvador&#039;s security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
+     "image": ""
+    },
+    {
+     "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:05:43+00:00",
+     "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for ",
+     "image": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=2014d5315ebf8cbdfd7cd9f306c8d931"
+    },
+    {
+     "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T23:03:39+00:00",
+     "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
+    },
     {
      "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
      "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
@@ -12,14 +52,6 @@
      "published": "2026-11-17T22:55:06+00:00",
      "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six monthsThe new post-Brexit UK-EU youth mobility scheme ",
      "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf"
-    },
-    {
-     "title": "Trump brushes off NSA internal network outage: \u2018it\u2019s like that when you\u2019re big and powerful\u2019 \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T22:52:01+00:00",
-     "summary": "President\u2019s words could be seen to run counter to NSA\u2019s claim of \u2018scheduled routine maintenance\u2019 causing temporary issueSign up for US Breaking News emailAbdul El-Sayed, the Democr",
-     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
     },
     {
      "title": "Nvidia board rules that co-founder Jensen Huang will not return as CEO",
@@ -30,12 +62,12 @@
      "image": "https://s.france24.com/media/display/e899ca7c-e2b0-11f1-9dea-1ba7ddfab527/w:1024/p:16x9/2026-11-16T182243Z-119858112-RC2O2LA29X51-RTRMADP-3-NVIDIA-CEO.jpg"
     },
     {
-     "title": "Hundreds protest Nathan Cofnas talk on DEI at Oriel College in Oxford",
+     "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
      "url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
      "source": "The Guardian",
      "published": "2026-11-17T22:50:16+00:00",
-     "summary": "Students oppose appearance of self-described \u2018race realist\u2019 who made plagiarism claims against Jason ArdayHundreds of protesters jammed the cobbled streets around Oriel College, Ox",
-     "image": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=bcbbd09c616373bc02ec935ca21fb2a7"
+     "summary": "Students oppose appearance of self-described \u2018race realist\u2019 who made plagiarism claims against Jason ArdayHundreds of protesters filled the cobbled streets around Oriel College, Ox",
+     "image": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1934_751_4662_3729/master/4662.jpg?width=140&quality=85&auto=format&fit=max&s=09a3b9e2f05443b94624e8cc58dc6b57"
     },
     {
      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
@@ -43,7 +75,15 @@
      "source": "BBC News",
      "published": "2026-11-17T22:46:30+00:00",
      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png"
+    },
+    {
+     "title": "Thomas Markle charged over child sex abuse material in Philippines",
+     "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T22:44:15+00:00",
+     "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
     },
     {
      "title": "Xi said China would welcome American students for exchanges. What's the reality?",
@@ -76,60 +116,36 @@
      "published": "2026-11-17T22:24:46+00:00",
      "summary": "Lizbeth Vargas Andrade, 23, was arrested after being pushed to the ground and on to her stomach, her attorney saysUS Immigration and Customs Enforcement (ICE) agents pepper-sprayed",
      "image": "https://i.guim.co.uk/img/media/693f5c56a0dc27d3af826f3e8b707a4539e149ad/282_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=274400284c0278eb871c3c1bb95cdf1f"
-    },
-    {
-     "title": "Russian military plane crash in Siberia kills 19",
-     "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T22:21:16+00:00",
-     "summary": "Russia&#039;s Defence Ministry says preliminary findings for the crash point to equipment failure.",
-     "image": ""
-    },
-    {
-     "title": "US loses measles elimination status amid worst outbreak since 1991",
-     "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
-     "source": "The Guardian",
-     "published": "2026-11-17T22:18:53+00:00",
-     "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US casesThe US lost its measles elimination status, global health authorit",
-     "image": "https://i.guim.co.uk/img/media/4fc167991a875ede60218c98ef9d7d0a6474d67c/1_0_3409_2727/master/3409.jpg?width=140&quality=85&auto=format&fit=max&s=ced4c87134df68b14cefbd371412603e"
-    },
-    {
-     "title": "WHO sounds the alarm on antimicrobial resistance threat",
-     "url": "https://www.france24.com/en/tv-shows/a-propos/20261117-who-sounds-the-alarm-on-antimicrobial-resistance-threat",
-     "source": "France 24",
-     "published": "2026-11-17T22:08:28+00:00",
-     "summary": "The spread of antimicrobial resistance (AMR) is threatening modern medicine despite progress in combating drug-resistant bacteria, senior World Health Organization officials said M",
-     "image": "https://s.france24.com/media/display/8c63b72e-e2d1-11f1-b56b-c5c0357b2a0c/w:1024/p:16x9/EN-20261117-223111-224233-CS.jpg"
-    },
-    {
-     "title": "US Fed\u2019s Lisa Cook refuses to attend White House hearing",
-     "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T22:01:27+00:00",
-     "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
-     "image": ""
-    },
-    {
-     "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
-     "url": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
-     "source": "The Guardian",
-     "published": "2026-11-17T21:55:40+00:00",
-     "summary": "LaNeve, who served as Hegseth\u2019s senior military commander, nominated to permanently replace Gen Randy GeorgeDonald Trump has nominated Gen Chris LaNeve to be the US army\u2019s top offi",
-     "image": "https://i.guim.co.uk/img/media/ab728e7ebf3ce858579de513ee73705fa5d8e5a0/0_121_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=e4d2bef01cee253be048fd44054e6657"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-17T23:05:49.821483+00:00",
+   "fetched_at": "2026-11-17T23:36:25.326695+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Haitians protest in support of El Salvador\u2019s anti-gang troop deployment",
+     "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T23:09:00+00:00",
+     "summary": "El Salvador&#039;s security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
+     "image": ""
+    },
+    {
+     "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:05:43+00:00",
+     "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for ",
+     "image": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=2014d5315ebf8cbdfd7cd9f306c8d931"
+    },
     {
      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-17T22:46:30+00:00",
      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png"
     },
     {
      "title": "Israeli parliament elects new speaker backed by Netanyahu\u2019s opponents",
@@ -146,14 +162,6 @@
      "published": "2026-11-17T22:21:16+00:00",
      "summary": "Russia&#039;s Defence Ministry says preliminary findings for the crash point to equipment failure.",
      "image": ""
-    },
-    {
-     "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
-     "url": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
-     "source": "The Guardian",
-     "published": "2026-11-17T21:55:40+00:00",
-     "summary": "LaNeve, who served as Hegseth\u2019s senior military commander, nominated to permanently replace Gen Randy GeorgeDonald Trump has nominated Gen Chris LaNeve to be the US army\u2019s top offi",
-     "image": "https://i.guim.co.uk/img/media/ab728e7ebf3ce858579de513ee73705fa5d8e5a0/0_121_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=e4d2bef01cee253be048fd44054e6657"
     },
     {
      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
@@ -210,21 +218,21 @@
      "published": "2026-11-17T21:14:31+00:00",
      "summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
      "image": ""
-    },
-    {
-     "title": "Russian military plane crashes, killing all 19 on board",
-     "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T21:06:11+00:00",
-     "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T23:05:49.821486+00:00",
+   "fetched_at": "2026-11-17T23:36:25.326698+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump brushes off NSA internal network outage: \u2018it\u2019s like that when you\u2019re big and powerful\u2019 \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:09:15+00:00",
+     "summary": "President\u2019s words could be seen to run counter to NSA\u2019s claim of \u2018scheduled routine maintenance\u2019 causing temporary issueSign up for US Breaking News emailAbdul El-Sayed, the Democr",
+     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
+    },
     {
      "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
      "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
@@ -234,20 +242,12 @@
      "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf"
     },
     {
-     "title": "Trump brushes off NSA internal network outage: \u2018it\u2019s like that when you\u2019re big and powerful\u2019 \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T22:52:01+00:00",
-     "summary": "President\u2019s words could be seen to run counter to NSA\u2019s claim of \u2018scheduled routine maintenance\u2019 causing temporary issueSign up for US Breaking News emailAbdul El-Sayed, the Democr",
-     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
-    },
-    {
-     "title": "Hundreds protest Nathan Cofnas talk on DEI at Oriel College in Oxford",
+     "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
      "url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
      "source": "The Guardian",
      "published": "2026-11-17T22:50:16+00:00",
-     "summary": "Students oppose appearance of self-described \u2018race realist\u2019 who made plagiarism claims against Jason ArdayHundreds of protesters jammed the cobbled streets around Oriel College, Ox",
-     "image": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=bcbbd09c616373bc02ec935ca21fb2a7"
+     "summary": "Students oppose appearance of self-described \u2018race realist\u2019 who made plagiarism claims against Jason ArdayHundreds of protesters filled the cobbled streets around Oriel College, Ox",
+     "image": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1934_751_4662_3729/master/4662.jpg?width=140&quality=85&auto=format&fit=max&s=09a3b9e2f05443b94624e8cc58dc6b57"
     },
     {
      "title": "Xi said China would welcome American students for exchanges. What's the reality?",
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-17T23:05:49.821487+00:00",
+   "fetched_at": "2026-11-17T23:36:25.326700+00:00",
    "stale": false,
    "items": [
     {
