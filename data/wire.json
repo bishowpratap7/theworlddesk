@@ -1,25 +1,105 @@
 {
- "generated_at": "2026-11-17T20:02:43.420184+00:00",
+ "generated_at": "2026-11-17T20:33:09.200185+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-17T20:02:43.420152+00:00",
+   "fetched_at": "2026-11-17T20:33:09.200152+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:30:20+00:00",
+     "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+     "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:25:46+00:00",
+     "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "Russian military plane crashes killing all 19 on board",
+     "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:25:27+00:00",
+     "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
+    },
+    {
+     "title": "Kalshi halts Trump speech bets after CFTC order",
+     "url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T20:20:18+00:00",
+     "summary": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
+     "image": ""
+    },
+    {
+     "title": "Police charge crowds at Brussels student march",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T20:14:07+00:00",
+     "summary": "Thousands of students and teachers marched in Brussels against higher tuition fees, education reforms and cuts.",
+     "image": ""
+    },
     {
      "title": "NSA claims temporary internal network outage caused by \u2018scheduled routine maintenance\u2019 \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-17T19:49:16+00:00",
+     "published": "2026-11-17T20:13:45+00:00",
      "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency\u2019s employees to send classified information internallySign up for US Breaki",
      "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
+    },
+    {
+     "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+     "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T20:11:41+00:00",
+     "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+     "image": ""
+    },
+    {
+     "title": "Some EU countries \u2018could accept unlimited young Britons\u2019 under youth mobility scheme",
+     "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+     "source": "The Guardian",
+     "published": "2026-11-17T19:59:01+00:00",
+     "summary": "Scheme expected to be sealed in principle at EU-UK summit in Brussels on Friday but trickier elements could be postponed for six monthsEU countries including Germany could accept a",
+     "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf"
+    },
+    {
+     "title": "Authorities take over Turkey's last pro-opposition broadcaster Sozcu TV",
+     "url": "https://www.france24.com/en/authorities-take-over-turkey-s-last-pro-opposition-broadcaster-sozcu-tv",
+     "source": "France 24",
+     "published": "2026-11-17T19:58:26+00:00",
+     "summary": "Police raided the Istanbul headquarters of Sozcu TV on Tuesday, dealing another significant blow to Turkey's pro-opposition media. This is the third such seizure of pro-opposition ",
+     "image": "https://s.france24.com/media/display/b6178ba6-e2c0-11f1-ac75-7908c4e1a3c7/w:1024/p:16x9/EN-20261117-203821-204220-CS.jpg"
+    },
+    {
+     "title": "India\u2019s footballers celebrate SAFF final win against Pakistan",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T19:56:00+00:00",
+     "summary": "The Indian men\u2019s football team has been celebrating after winning the 2026 SAFF Championship.",
+     "image": ""
     },
     {
      "title": "Milburn\u2019s absurdly ambitious report offers blueprint for fixing everything and everyone",
      "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis",
      "source": "The Guardian",
      "published": "2026-11-17T19:47:31+00:00",
-     "summary": "Milburn lays out sweeping aims and finer details for how to fix the Neets crisis \u2013 and is obsessive about welfare Neet ideas: what\u2019s in Milburn\u2019s report?It is not clear if too many",
+     "summary": "He lays out sweeping aims and finer details for how to fix the Neets crisis \u2013 and is obsessive about welfareNeet ideas: what\u2019s in Milburn\u2019s report?It is not clear if too many peopl",
      "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=cdf521cc74be3c957f7e6b5764336bab"
+    },
+    {
+     "title": "The centre cannot hold? Splintered moderates lag in French presidential race",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261117-the-centre-cannot-hold-splintered-moderates-lag-in-french-presidential-race",
+     "source": "France 24",
+     "published": "2026-11-17T19:44:38+00:00",
+     "summary": "Five months to go before the French vote in the presidential election first round to choose Emmanuel Macron\u2019s successor. Not much of a race so far for the top two spots and the May",
+     "image": "https://s.france24.com/media/display/384a938c-e2b9-11f1-8de6-7908c4e1a3c7/w:1024/p:16x9/2026-11-16T195401Z-1339052488-RC27POAN68Y9-RTRMADP-3-FRANCE-POLITICS.jpg"
     },
     {
      "title": "Can a robot pianist upstage a human musician?",
@@ -36,100 +116,36 @@
      "published": "2026-11-17T19:41:45+00:00",
      "summary": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber&#039;s first Black speaker.",
      "image": ""
-    },
-    {
-     "title": "Using law to try to silence abuse victims is \u2018ultimate form of gaslighting\u2019, MPs told",
-     "url": "https://www.theguardian.com/society/2026/nov/17/using-law-try-silence-abuse-victims-ultimate-gaslighting-mps-told",
-     "source": "The Guardian",
-     "published": "2026-11-17T19:36:11+00:00",
-     "summary": "Woman sued by alleged rapist tells justice committee that Slapp lawsuits present perpetrator as victim of wrongdoingAttempts by perpetrators and alleged perpetrators of sexual abus",
-     "image": "https://i.guim.co.uk/img/media/11754c8aa4db933188faedb04c56ce704a5ca49f/2337_2149_4513_3611/master/4513.jpg?width=140&quality=85&auto=format&fit=max&s=73012fdb778ac69425bb84911c7a8595"
-    },
-    {
-     "title": "Russian military plane crashes killing all 19 on board",
-     "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T19:33:55+00:00",
-     "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
-    },
-    {
-     "title": "Ugandan human trafficking survivor uses music to fight abuse",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T19:32:44+00:00",
-     "summary": "After surviving trafficking in Myanmar, Ugandan singer Gideon Mwesezi, known as \u2018Small Q\u2019, is using music to warn others",
-     "image": ""
-    },
-    {
-     "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T19:31:30+00:00",
-     "summary": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-     "image": ""
-    },
-    {
-     "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
-     "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
-     "source": "The Guardian",
-     "published": "2026-11-17T19:30:32+00:00",
-     "summary": "Youth unemployment review risks clash with unions and Labour left over workers\u2019 rights and minimum wageNeet ideas: what\u2019s in Alan Milburn\u2019s youth unemployment report?Who are the Ne",
-     "image": "https://i.guim.co.uk/img/media/94d5dbcaee84ef4860f15c907cea1bc38ec21f3b/663_0_2672_2138/master/2672.jpg?width=140&quality=85&auto=format&fit=max&s=bf95bdbd3cbd8daafc938131e8ca9f1a"
-    },
-    {
-     "title": "Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals",
-     "url": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
-     "source": "The Guardian",
-     "published": "2026-11-17T19:12:15+00:00",
-     "summary": "Non-profit FracTracker Alliance alleges regulators have exempted compounds used in drilling despite 2022 lawThe fossil-fuel industry is violating Colorado law by not disclosing whi",
-     "image": "https://i.guim.co.uk/img/media/8f02a85b241f2031a347ba2959c6552d870749ba/546_0_3757_3006/master/3757.jpg?width=140&quality=85&auto=format&fit=max&s=4bfa827ca36733e29b07524bda144756"
-    },
-    {
-     "title": "More than 100,000 take part in France pay protests",
-     "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T19:09:49+00:00",
-     "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
-     "image": ""
-    },
-    {
-     "title": "Children linked to religious sect raided by UK police now subject of care proceedings",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/17/ahmadi-religion-of-peace-and-light-aropl-children-care-family-courts",
-     "source": "The Guardian",
-     "published": "2026-11-17T19:04:47+00:00",
-     "summary": "Scale of cases in family court relating to Ahmadi Religion of Peace and Light \u2018rarely seen before\u2019, one lawyer saidScores of children linked to a religious sect raided by police ov",
-     "image": "https://i.guim.co.uk/img/media/64ac35cb12cfd59e7d09622e406bd3ba392df6d1/507_25_1949_1560/master/1949.jpg?width=140&quality=85&auto=format&fit=max&s=a4562958f035a5c44a1f7f4c7442d2e2"
-    },
-    {
-     "title": "NSA attributes US network outage to routine \u2018maintenance\u2019 activities",
-     "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T19:03:14+00:00",
-     "summary": "Recent outage at NSA follows a series of unexplained disruptions across US communication and transportation services.",
-     "image": ""
-    },
-    {
-     "title": "National Security Agency network for internal communications goes down",
-     "url": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
-     "source": "The Guardian",
-     "published": "2026-11-17T19:00:21+00:00",
-     "summary": "NSA issues \u2018code yellow\u2019 as NSANet, used by staff to share classified material, including top-secret intelligence, failsThe National Security Agency said on Tuesday that it had exp",
-     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-17T20:02:43.420171+00:00",
+   "fetched_at": "2026-11-17T20:33:09.200172+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:30:20+00:00",
+     "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+     "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:25:46+00:00",
+     "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg"
+    },
     {
      "title": "Russian military plane crashes killing all 19 on board",
      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-17T19:33:55+00:00",
-     "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+     "published": "2026-11-17T20:25:27+00:00",
+     "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
     },
     {
      "title": "Ugandan human trafficking survivor uses music to fight abuse",
@@ -148,11 +164,11 @@
      "image": ""
     },
     {
-     "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+     "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
      "source": "NPR",
      "published": "2026-11-17T18:34:31+00:00",
-     "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month ",
+     "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
      "image": ""
     },
     {
@@ -202,29 +218,29 @@
      "published": "2026-11-17T17:34:27+00:00",
      "summary": "Ali al-Zaidi&#039;s talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
      "image": ""
-    },
-    {
-     "title": "Religious ruling revives memories in Israel of Rabin assassination",
-     "url": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T17:33:18+00:00",
-     "summary": "Hostility towards Palestinian participation in Israel&#039;s government fuels fears of far-right political violence.",
-     "image": ""
-    },
-    {
-     "title": "How Ukraine struck the Kerch bridge, a symbol of Putin\u2019s rule",
-     "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
-     "source": "The Guardian",
-     "published": "2026-11-17T17:30:40+00:00",
-     "summary": "With the SpaceX satellite system faltering, Ukraine\u2019s military launched a surprise, multi-pronged attack to take down vital bridge to CrimeaAt 10pm on Monday evening a Ukrainian so",
-     "image": "https://i.guim.co.uk/img/media/a4611f99a54be31a3aa99444b5865a3d82fb7c0b/669_335_2043_1634/master/2043.jpg?width=140&quality=85&auto=format&fit=max&s=954017efde37f92d5a79b156b7e5fa06"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T20:02:43.420174+00:00",
+   "fetched_at": "2026-11-17T20:33:09.200176+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Some EU countries \u2018could accept unlimited young Britons\u2019 under youth mobility scheme",
+     "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+     "source": "The Guardian",
+     "published": "2026-11-17T19:59:01+00:00",
+     "summary": "Scheme expected to be sealed in principle at EU-UK summit in Brussels on Friday but trickier elements could be postponed for six monthsEU countries including Germany could accept a",
+     "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf"
+    },
+    {
+     "title": "The centre cannot hold? Splintered moderates lag in French presidential race",
+     "url": "https://www.france24.com/en/tv-shows/the-debate/20261117-the-centre-cannot-hold-splintered-moderates-lag-in-french-presidential-race",
+     "source": "France 24",
+     "published": "2026-11-17T19:44:38+00:00",
+     "summary": "Five months to go before the French vote in the presidential election first round to choose Emmanuel Macron\u2019s successor. Not much of a race so far for the top two spots and the May",
+     "image": "https://s.france24.com/media/display/384a938c-e2b9-11f1-8de6-7908c4e1a3c7/w:1024/p:16x9/2026-11-16T195401Z-1339052488-RC27POAN68Y9-RTRMADP-3-FRANCE-POLITICS.jpg"
+    },
     {
      "title": "More than 100,000 take part in France pay protests",
      "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
@@ -240,14 +256,6 @@
      "published": "2026-11-17T17:58:05+00:00",
      "summary": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spyNvidia\u2019s former CEO Jensen Huang will testify before several congression",
      "image": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f670013bc0a3af1c5be5d664c18c5be9"
-    },
-    {
-     "title": "Andy Burnham delays taking stock  of UK\u2019s relationship with EU",
-     "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
-     "source": "The Guardian",
-     "published": "2026-11-17T17:50:40+00:00",
-     "summary": "PM to wait until after Brussels summit at which he hopes for agreements on food, farming and emissionsUK politics live \u2013 latest updatesAndy Burnham has said there is \u201cno rush\u201d to d",
-     "image": "https://i.guim.co.uk/img/media/53e0d070b160448481076537858086ae8db1fbec/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=85b517520bc37debdc7828b1ac07ddb0"
     },
     {
      "title": "Burnham delays announcement about options for closer relationship with EU until next month \u2013 as it happened",
@@ -312,21 +320,29 @@
      "published": "2026-11-17T16:13:48+00:00",
      "summary": "Hundreds hail Student List lawmakers as the new parliament meets for the first time.",
      "image": ""
-    },
-    {
-     "title": "Trump announces critical minerals agreements at Quad meeting in Manila",
-     "url": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T15:59:41+00:00",
-     "summary": "US President Trump says the deals will prevent &#039;coercion by any single foreign supplier&#039;.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-17T20:02:43.420176+00:00",
+   "fetched_at": "2026-11-17T20:33:09.200178+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Kalshi halts Trump speech bets after CFTC order",
+     "url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T20:20:18+00:00",
+     "summary": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
+     "image": ""
+    },
+    {
+     "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+     "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T20:11:41+00:00",
+     "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+     "image": ""
+    },
     {
      "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
