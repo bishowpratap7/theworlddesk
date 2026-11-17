@@ -1,128 +1,82 @@
 {
- "generated_at": "2026-11-17T20:33:09.200185+00:00",
+ "generated_at": "2026-11-17T21:03:38.024912+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-17T20:33:09.200152+00:00",
+   "fetched_at": "2026-11-17T21:03:38.024868+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T20:30:20+00:00",
-     "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-     "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T20:25:46+00:00",
-     "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-     "title": "Russian military plane crashes killing all 19 on board",
-     "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T20:25:27+00:00",
-     "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
-    },
-    {
-     "title": "Kalshi halts Trump speech bets after CFTC order",
-     "url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+     "title": "US Navy chief says Iran war has put \u2018strain\u2019 on maritime forces",
+     "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-17T20:20:18+00:00",
-     "summary": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
+     "published": "2026-11-17T20:57:56+00:00",
+     "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
      "image": ""
     },
     {
-     "title": "Police charge crowds at Brussels student march",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+     "title": "What\u2019s behind the ANC\u2019s decline in South Africa?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-17T20:14:07+00:00",
-     "summary": "Thousands of students and teachers marched in Brussels against higher tuition fees, education reforms and cuts.",
+     "published": "2026-11-17T20:47:07+00:00",
+     "summary": "African National Congress won its lowest-ever vote share in local elections this month.",
+     "image": ""
+    },
+    {
+     "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
+     "source": "The Guardian",
+     "published": "2026-11-17T20:45:48+00:00",
+     "summary": "Trump homeland security chief says \u2018we still got to live our life\u2019 amid outcry over journey to LSU on government planeUS homeland security secretary Markwayne Mullin has defended h",
+     "image": "https://i.guim.co.uk/img/media/7afa9ff87004148c941fa9a8fa79637a6730f305/1151_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=2e5308f135cc27f0080c61b493e107dd"
+    },
+    {
+     "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+     "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:44:54+00:00",
+     "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
+    },
+    {
+     "title": "Tensions rise over draft climate deal at COP31",
+     "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T20:40:29+00:00",
+     "summary": "Publication of the IPCC\u2019s seventh assessment report becomes a sticking point at UN climate talks",
      "image": ""
     },
     {
      "title": "NSA claims temporary internal network outage caused by \u2018scheduled routine maintenance\u2019 \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-17T20:13:45+00:00",
+     "published": "2026-11-17T20:37:57+00:00",
      "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency\u2019s employees to send classified information internallySign up for US Breaki",
      "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
     },
     {
-     "title": "China, Canada expand tariff relief after Carney-Xi meeting",
-     "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T20:11:41+00:00",
-     "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
-     "image": ""
-    },
-    {
-     "title": "Some EU countries \u2018could accept unlimited young Britons\u2019 under youth mobility scheme",
-     "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+     "title": "National Security Agency network for internal communications goes down",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
      "source": "The Guardian",
-     "published": "2026-11-17T19:59:01+00:00",
-     "summary": "Scheme expected to be sealed in principle at EU-UK summit in Brussels on Friday but trickier elements could be postponed for six monthsEU countries including Germany could accept a",
-     "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf"
+     "published": "2026-11-17T20:35:23+00:00",
+     "summary": "NSA issues \u2018code yellow\u2019 as NSANet, used by staff to share classified material, including top-secret intelligence, failsThe National Security Agency said on Tuesday that it had exp",
+     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
     },
     {
-     "title": "Authorities take over Turkey's last pro-opposition broadcaster Sozcu TV",
-     "url": "https://www.france24.com/en/authorities-take-over-turkey-s-last-pro-opposition-broadcaster-sozcu-tv",
-     "source": "France 24",
-     "published": "2026-11-17T19:58:26+00:00",
-     "summary": "Police raided the Istanbul headquarters of Sozcu TV on Tuesday, dealing another significant blow to Turkey's pro-opposition media. This is the third such seizure of pro-opposition ",
-     "image": "https://s.france24.com/media/display/b6178ba6-e2c0-11f1-ac75-7908c4e1a3c7/w:1024/p:16x9/EN-20261117-203821-204220-CS.jpg"
-    },
-    {
-     "title": "India\u2019s footballers celebrate SAFF final win against Pakistan",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T19:56:00+00:00",
-     "summary": "The Indian men\u2019s football team has been celebrating after winning the 2026 SAFF Championship.",
-     "image": ""
-    },
-    {
-     "title": "Milburn\u2019s absurdly ambitious report offers blueprint for fixing everything and everyone",
-     "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis",
+     "title": "University of Birmingham pauses plans to move Shakespeare Institute after outcry",
+     "url": "https://www.theguardian.com/education/2026/nov/17/birmingham-university-shakespeare-institute-stratford-upon-avon",
      "source": "The Guardian",
-     "published": "2026-11-17T19:47:31+00:00",
-     "summary": "He lays out sweeping aims and finer details for how to fix the Neets crisis \u2013 and is obsessive about welfareNeet ideas: what\u2019s in Milburn\u2019s report?It is not clear if too many peopl",
-     "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=cdf521cc74be3c957f7e6b5764336bab"
+     "published": "2026-11-17T20:31:45+00:00",
+     "summary": "Vice-chancellor halts proposed relocation from Stratford-upon-Avon but offers no guarantees over futureThe University of Birmingham has paused plans to move its much-loved Shakespe",
+     "image": "https://i.guim.co.uk/img/media/d2dc0bdfa057e9735457eb1b0e5b4ff952f20fda/0_0_4207_3365/master/4207.jpg?width=140&quality=85&auto=format&fit=max&s=3ca75c05552ee3a89279a300c5275c51"
     },
     {
-     "title": "The centre cannot hold? Splintered moderates lag in French presidential race",
-     "url": "https://www.france24.com/en/tv-shows/the-debate/20261117-the-centre-cannot-hold-splintered-moderates-lag-in-french-presidential-race",
-     "source": "France 24",
-     "published": "2026-11-17T19:44:38+00:00",
-     "summary": "Five months to go before the French vote in the presidential election first round to choose Emmanuel Macron\u2019s successor. Not much of a race so far for the top two spots and the May",
-     "image": "https://s.france24.com/media/display/384a938c-e2b9-11f1-8de6-7908c4e1a3c7/w:1024/p:16x9/2026-11-16T195401Z-1339052488-RC27POAN68Y9-RTRMADP-3-FRANCE-POLITICS.jpg"
+     "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+     "source": "The Guardian",
+     "published": "2026-11-17T20:30:57+00:00",
+     "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionageA US soldier who was arrested in the UK on suspicion of spying for R",
+     "image": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=2014d5315ebf8cbdfd7cd9f306c8d931"
     },
-    {
-     "title": "Can a robot pianist upstage a human musician?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T19:43:50+00:00",
-     "summary": "A 53-fingered robot pianist is taking on a human virtuoso in Italy.",
-     "image": ""
-    },
-    {
-     "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
-     "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T19:41:45+00:00",
-     "summary": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber&#039;s first Black speaker.",
-     "image": ""
-    }
-   ]
-  },
-  "wars": {
-   "fetched_at": "2026-11-17T20:33:09.200172+00:00",
-   "stale": false,
-   "items": [
     {
      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
@@ -146,6 +100,92 @@
      "published": "2026-11-17T20:25:27+00:00",
      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
+    },
+    {
+     "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
+     "source": "The Guardian",
+     "published": "2026-11-17T20:21:58+00:00",
+     "summary": "LaNeve, who served as Hegseth\u2019s senior military commander, nominated to permanently replace Gen Randy GeorgeDonald Trump has nominated Gen Chris LaNeve to be the US army\u2019s top offi",
+     "image": "https://i.guim.co.uk/img/media/8a88692703c32200c6ff9581506e72cd2b05124a/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=bb8c97f2710963a5b13946a275e1fffc"
+    },
+    {
+     "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+     "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+     "source": "The Guardian",
+     "published": "2026-11-17T20:21:48+00:00",
+     "summary": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residentsA 72-year-old Palestinian woman has been shot dead in an overnight ",
+     "image": "https://i.guim.co.uk/img/media/b7d5959fd9dbbbea50ccb8f11198cd72513b020c/971_535_2513_2011/master/2513.jpg?width=140&quality=85&auto=format&fit=max&s=920a9cba3e838b02498259fbaa396d37"
+    }
+   ]
+  },
+  "wars": {
+   "fetched_at": "2026-11-17T21:03:38.024898+00:00",
+   "stale": false,
+   "items": [
+    {
+     "title": "US Navy chief says Iran war has put \u2018strain\u2019 on maritime forces",
+     "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T20:57:56+00:00",
+     "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
+     "image": ""
+    },
+    {
+     "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+     "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:44:54+00:00",
+     "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
+    },
+    {
+     "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+     "source": "The Guardian",
+     "published": "2026-11-17T20:30:57+00:00",
+     "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionageA US soldier who was arrested in the UK on suspicion of spying for R",
+     "image": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=2014d5315ebf8cbdfd7cd9f306c8d931"
+    },
+    {
+     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:30:20+00:00",
+     "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+     "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:25:46+00:00",
+     "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "Russian military plane crashes killing all 19 on board",
+     "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T20:25:27+00:00",
+     "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
+    },
+    {
+     "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
+     "source": "The Guardian",
+     "published": "2026-11-17T20:21:58+00:00",
+     "summary": "LaNeve, who served as Hegseth\u2019s senior military commander, nominated to permanently replace Gen Randy GeorgeDonald Trump has nominated Gen Chris LaNeve to be the US army\u2019s top offi",
+     "image": "https://i.guim.co.uk/img/media/8a88692703c32200c6ff9581506e72cd2b05124a/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=bb8c97f2710963a5b13946a275e1fffc"
+    },
+    {
+     "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+     "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+     "source": "The Guardian",
+     "published": "2026-11-17T20:21:48+00:00",
+     "summary": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residentsA 72-year-old Palestinian woman has been shot dead in an overnight ",
+     "image": "https://i.guim.co.uk/img/media/b7d5959fd9dbbbea50ccb8f11198cd72513b020c/971_535_2513_2011/master/2513.jpg?width=140&quality=85&auto=format&fit=max&s=920a9cba3e838b02498259fbaa396d37"
     },
     {
      "title": "Ugandan human trafficking survivor uses music to fight abuse",
@@ -172,59 +212,43 @@
      "image": ""
     },
     {
-     "title": "Joe Biden criticizes Zelenskyy as \u2018moody\u2019 and \u2018not as grateful\u2019 in new memoir",
-     "url": "https://www.theguardian.com/us-news/2026/nov/17/biden-memoir-zelenskyy-ukraine",
-     "source": "The Guardian",
-     "published": "2026-11-17T18:27:51+00:00",
-     "summary": "Promise Me, America was published just before the former US president\u2019s 84th birthday as he battles advanced cancerIn a new memoir, Joe Biden offers harsh criticism of Volodymyr Ze",
-     "image": "https://i.guim.co.uk/img/media/5fa089ce1711b9c770424cc67276448ee1fbdfdc/270_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=652b23f42e437152b653993d33690cc4"
-    },
-    {
      "title": "UK sanctions firms over Israeli West Bank settlements",
      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-17T18:27:27+00:00",
      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg"
-    },
-    {
-     "title": "Israeli forces invade Syrian village leaving homes damaged",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T17:57:20+00:00",
-     "summary": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria\u2019s Daraa.",
-     "image": ""
-    },
-    {
-     "title": "Anti-Arab hate speech surged on social media during Israel\u2019s election, report finds",
-     "url": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
-     "source": "The Guardian",
-     "published": "2026-11-17T17:44:07+00:00",
-     "summary": "Digital monitors recorded 400% rise in posts attacking Arab Israelis, including Netanyahu\u2019s disproven fraud allegations Anti-Arab hate speech surged on social media in Israel aroun",
-     "image": "https://i.guim.co.uk/img/media/37a63870b9fe724abae273c0715e0d2f5e30e2f4/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=65958be69d83020273afebe3f31bffaf"
-    },
-    {
-     "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-     "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T17:37:04+00:00",
-     "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a331/live/4e364d80-e287-11f1-b166-176de21e2352.jpg"
-    },
-    {
-     "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-     "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T17:34:27+00:00",
-     "summary": "Ali al-Zaidi&#039;s talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T20:33:09.200176+00:00",
+   "fetched_at": "2026-11-17T21:03:38.024902+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "What\u2019s behind the ANC\u2019s decline in South Africa?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T20:47:07+00:00",
+     "summary": "African National Congress won its lowest-ever vote share in local elections this month.",
+     "image": ""
+    },
+    {
+     "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
+     "source": "The Guardian",
+     "published": "2026-11-17T20:45:48+00:00",
+     "summary": "Trump homeland security chief says \u2018we still got to live our life\u2019 amid outcry over journey to LSU on government planeUS homeland security secretary Markwayne Mullin has defended h",
+     "image": "https://i.guim.co.uk/img/media/7afa9ff87004148c941fa9a8fa79637a6730f305/1151_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=2e5308f135cc27f0080c61b493e107dd"
+    },
+    {
+     "title": "Australia sanctions individuals and company involved in illegal West Bank settlements",
+     "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-17T20:20:31+00:00",
+     "summary": "Foreign affairs minister Penny Wong says rapid expansion of settlements and settler violence are \u2018extinguishing the possibility of a two-state solution\u2019Get our breaking news email,",
+     "image": "https://i.guim.co.uk/img/media/8e0b05f851fafa43edbcef767fe07973b7fe2cc0/615_0_6150_4921/master/6150.jpg?width=140&quality=85&auto=format&fit=max&s=d84981dfde50d6993ca6cc20ce9e4a8e"
+    },
     {
      "title": "Some EU countries \u2018could accept unlimited young Britons\u2019 under youth mobility scheme",
      "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
@@ -250,20 +274,20 @@
      "image": ""
     },
     {
+     "title": "Who to watch in Spain's election race",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T18:13:45+00:00",
+     "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg"
+    },
+    {
      "title": "Jensen Huang to testify before Congress on \u2018potential breach of national security\u2019",
      "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
      "source": "The Guardian",
      "published": "2026-11-17T17:58:05+00:00",
      "summary": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spyNvidia\u2019s former CEO Jensen Huang will testify before several congression",
      "image": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f670013bc0a3af1c5be5d664c18c5be9"
-    },
-    {
-     "title": "Burnham delays announcement about options for closer relationship with EU until next month \u2013 as it happened",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T17:46:07+00:00",
-     "summary": "The prime minister earlier said he wanted to open a national debate on Britain\u2019s relationship with the blocThis chart, from the Milburn report, shows what is likely to happen to th",
-     "image": "https://i.guim.co.uk/img/media/f24e544ba2a602587d0ef6266b51104e0ef20807/2503_25_2273_1818/master/2273.jpg?width=140&quality=85&auto=format&fit=max&s=8b5e86d3e79c6f7d5390fa304d9bd9be"
     },
     {
      "title": "France: Protesters march for better salaries across the country",
@@ -296,35 +320,11 @@
      "published": "2026-11-17T16:34:48+00:00",
      "summary": "Tens of thousands of people took part in protests across France on Tuesday after unions called a new nationwide public sector strike to demand pay rises. It follows more than a mon",
      "image": "https://s.france24.com/media/display/962de31a-e2a4-11f1-bf01-6d75ed565170/w:1024/p:16x9/EN-20261117-161432-161846-CS.jpg"
-    },
-    {
-     "title": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
-     "url": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets",
-     "source": "\u00a9 Christophe Archambault, AFP",
-     "published": "2026-11-17T16:27:21+00:00",
-     "summary": "Tens of thousands of people took part in protests across France on Tuesday after unions called a new nationwide public sector strike to demand pay rises. Participation was lower co",
-     "image": "https://s.france24.com/media/display/c3589dc2-e2a3-11f1-99cf-7908c4e1a3c7/w:1024/p:16x9/0259b25588185b9e49f4e2eb64f0a81b7d283d7b.jpg"
-    },
-    {
-     "title": "Organisers hoping for 'joyful' demonstration as French public workers strike",
-     "url": "https://www.france24.com/en/video/20261117-organisers-hoping-for-joyful-demonstration-as-french-public-workers-strike",
-     "source": "France 24",
-     "published": "2026-11-17T16:17:45+00:00",
-     "summary": "France braced for another day of protests Tuesday as unions called for a nationwide strike by public sector workers in a bid to secure pay rises. Hoping to avoid the violence that ",
-     "image": "https://s.france24.com/media/display/14ae05b2-e2a0-11f1-bbb5-1ba7ddfab527/w:1024/p:16x9/EN-20261117-150313-150536-CS.jpg"
-    },
-    {
-     "title": "Election-winning student movement enters Serbia\u2019s new parliament",
-     "url": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T16:13:48+00:00",
-     "summary": "Hundreds hail Student List lawmakers as the new parliament meets for the first time.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-17T20:33:09.200178+00:00",
+   "fetched_at": "2026-11-17T21:03:38.024903+00:00",
    "stale": false,
    "items": [
     {
