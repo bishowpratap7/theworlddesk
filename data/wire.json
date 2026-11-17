@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-17T08:28:58.984221+00:00",
+ "generated_at": "2026-11-17T08:29:11.893537+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-17T08:28:58.984188+00:00",
+   "fetched_at": "2026-11-17T08:29:11.893511+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+     "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T08:12:06+00:00",
+     "summary": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
+     "image": ""
+    },
+    {
+     "title": "AI models abandon climate facts to please users, UNESCO report finds",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T08:10:26+00:00",
+     "summary": "AI models abandon climate facts to agree with users in eight out of 10 tests.",
+     "image": ""
+    },
     {
      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
@@ -100,27 +116,11 @@
      "published": "2026-11-17T07:00:07+00:00",
      "summary": "New tech wealth, amassed with remarkable speed, is now washing up on British shoresSporting hoodies and white trainers rather than the gilets of London\u2019s banker and lawyer class, t",
      "image": "https://i.guim.co.uk/img/media/c213f20f82c61fd3ee1039ccda6aee6e28596124/135_0_3648_2919/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=3832b0a0f2b22d2092ff096b1f4aafa9"
-    },
-    {
-     "title": "Will Netanyahu lose this time?",
-     "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T06:53:23+00:00",
-     "summary": "The Israeli prime minister has manoeuvred out of tough situations to retain power. But he may find it hard this time.",
-     "image": ""
-    },
-    {
-     "title": "New mass protests expected in France Tuesday as presidential election approaches",
-     "url": "https://www.france24.com/en/new-mass-protests-expected-france-tuesday-presidential-election-approaches",
-     "source": "France 24",
-     "published": "2026-11-17T06:41:10+00:00",
-     "summary": "Unions in France are calling for a strike Tuesday to demand wage increases, with students also expected to join. With under five months to go before the presidential election, FRAN",
-     "image": "https://s.france24.com/media/display/8dab9a30-e20d-11f1-b0c0-5f54d898a954/w:1024/p:16x9/EN-20261116-213120-214015-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-17T08:28:58.984203+00:00",
+   "fetched_at": "2026-11-17T08:29:11.893525+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T08:28:58.984208+00:00",
+   "fetched_at": "2026-11-17T08:29:11.893528+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-17T08:28:58.984211+00:00",
+   "fetched_at": "2026-11-17T08:29:11.893529+00:00",
    "stale": false,
    "items": [
     {
