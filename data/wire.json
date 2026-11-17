@@ -1,25 +1,73 @@
 {
- "generated_at": "2026-11-17T13:30:04.303607+00:00",
+ "generated_at": "2026-11-17T14:00:08.140002+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-17T13:30:04.303573+00:00",
+   "fetched_at": "2026-11-17T14:00:08.139971+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018Half measures will not do\u2019: Milburn calls for wholesale reform as he publishes major youth unemployment report \u2013 live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T13:49:24+00:00",
+     "summary": "\u2018We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,\u2019 Alan Milburn saysFull story: Milburn says plan will save only \u00a3200m ",
+     "image": "https://i.guim.co.uk/img/media/f8e6eaf79324f25aaac018727ee7f3f4bcbfe879/650_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=9e79cf673fffa865aa17fda73e58956b"
+    },
+    {
+     "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
+     "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+     "source": "The Guardian",
+     "published": "2026-11-17T13:44:09+00:00",
+     "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into workMilburn urges Burnham to spend billions on young peopleWho are the Neets? UK yout",
+     "image": "https://i.guim.co.uk/img/media/fcacde2d064f282a10c275f3fffebc930491811a/528_156_3303_2643/master/3303.jpg?width=140&quality=85&auto=format&fit=max&s=52028965ab5e15a0547c89e69e1919f6"
+    },
+    {
+     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T13:44:01+00:00",
+     "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 as the Kremlin says bridge will be restored and will be \u2018better than ever\u2019 following strikeUkraine critically damages Kerch bridgeFrench \u2060f",
+     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
+    },
+    {
+     "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T13:42:54+00:00",
+     "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contestProtests greet Trump on Asia visit \u2013 follow liveSign up for US Breaking News emailTwo departments have",
+     "image": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=15d4d3eaeb0e1d1c9b90bb5b3b3a70e7"
+    },
+    {
+     "title": "Rep. Thomas Massie Forces a New Fight for Epstein Survivors",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T13:37:51+00:00",
+     "summary": "Kentucky Republican Rep. Thomas Massie is pushing for justice for victims of the Epstein files.",
+     "image": ""
+    },
+    {
+     "title": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
+     "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+     "source": "The Guardian",
+     "published": "2026-11-17T13:35:39+00:00",
+     "summary": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profitsDeutsche Bank reportedly dismissed wa",
+     "image": "https://i.guim.co.uk/img/media/21474d52763b44585b74c4c50325ba4c99235bdd/247_0_2961_2369/master/2961.jpg?width=140&quality=85&auto=format&fit=max&s=788fab996ab2d7f1de0ae9cee69c3eb8"
+    },
+    {
+     "title": "\u2018Unprecedented\u2019 Ukraine attack on Crimean bridge",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T13:29:27+00:00",
+     "summary": "Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea for a second day.",
+     "image": ""
+    },
     {
      "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
      "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
      "source": "The Guardian",
      "published": "2026-11-17T13:25:02+00:00",
      "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 but Kremlin claims bridge will be restored and will be \u2018better than ever\u2019Europe live \u2013 follow latestUkraine has critically damaged the Kerc",
-     "image": "https://i.guim.co.uk/img/media/35449468721afd6dae92903e99a8fbed51d602e4/0_12_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=1c51731e27855a4e635195bb9d420463"
-    },
-    {
-     "title": "\u2018Half measures will not do\u2019: Milburn calls for wholesale reform as he publishes major youth unemployment report \u2013 live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T13:24:06+00:00",
-     "summary": "\u2018We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,\u2019 Alan Milburn saysFull story: Milburn says plan will save only \u00a3200m ",
-     "image": "https://i.guim.co.uk/img/media/f8e6eaf79324f25aaac018727ee7f3f4bcbfe879/650_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=9e79cf673fffa865aa17fda73e58956b"
+     "image": "https://i.guim.co.uk/img/media/99e6f379e7967f001cc660aae2f7b71f118e92a8/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=34a5e025e259306bc7b9b667b3d11c0e"
     },
     {
      "title": "School phone bans result in \u2018modest\u2019 academic gains for students, study shows",
@@ -30,20 +78,20 @@
      "image": "https://i.guim.co.uk/img/media/26b9c49af1bdad6138eca93a0ce498b711f0fe13/0_0_4903_3924/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=30ab186ac125010b3d929aabf413f1dd"
     },
     {
-     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T13:13:41+00:00",
-     "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 as the Kremlin says bridge will be restored and will be \u2018better than ever\u2019 following strikeUkraine critically damages Kerch bridgeFrench \u2060f",
-     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
+     "title": "At the origin of France\u2019s education protests, students refuse to give up",
+     "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T13:14:25+00:00",
+     "summary": "Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.",
+     "image": ""
     },
     {
-     "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T13:08:19+00:00",
-     "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contestProtests greet Trump on Asia visit \u2013 follow liveSign up for US Breaking News emailDonald Trump is meet",
-     "image": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=15d4d3eaeb0e1d1c9b90bb5b3b3a70e7"
+     "title": "Infantino\u2019s FIFA challenger Diallo claims to have support beyond Europe",
+     "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T13:09:31+00:00",
+     "summary": "French football chief Philippe Diallo says he has received &#039;spontaneous signs of strong support&#039; against Infantino.",
+     "image": ""
     },
     {
      "title": "Singer-songwriter M\u00e9lissa Laveaux: 'Women need more positions of power in the music industry'",
@@ -54,75 +102,107 @@
      "image": "https://s.france24.com/media/display/582bc328-e283-11f1-9b6b-ff16da94d1fe/w:1024/p:16x9/capture-c20de2d9.jpg"
     },
     {
+     "title": "Why do governments switch off the internet?",
+     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T13:03:39+00:00",
+     "summary": "The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.",
+     "image": ""
+    },
+    {
      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-17T13:02:17+00:00",
      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T13:01:11+00:00",
-     "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
-    },
-    {
-     "title": "Santander allows staff to count holidays and sick leave as days worked in office",
-     "url": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
-     "source": "The Guardian",
-     "published": "2026-11-17T13:01:08+00:00",
-     "summary": "News of Spanish-owned lender\u2019s policy emerges as other banks are toughening their stance on working from homeBusiness live \u2013 latest updatesStaff at the high street bank Santander h",
-     "image": "https://i.guim.co.uk/img/media/48f5af3037791bfd816e5a92bc2f9f88c46a5b32/497_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=05cc561d70346e66b02fbf38e2a84afd"
-    },
-    {
-     "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
-     "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T12:55:07+00:00",
-     "summary": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine: Two bridges in Kyiv heavily damaged by Russian strikes",
-     "url": "https://www.france24.com/en/video/20261117-ukraine-two-bridges-in-kyiv-heavily-damaged-by-russian-strikes",
-     "source": "France 24",
-     "published": "2026-11-17T12:54:27+00:00",
-     "summary": "Russia hit two major bridges in Kyiv while Ukraine struck Moscow's link to annexed Crimea for the second night in a row, officials said Tuesday, ahead of a historic meeting of Chin",
-     "image": "https://s.france24.com/media/display/3345e766-e281-11f1-be99-6d75ed565170/w:1024/p:16x9/vignette-Ukraine-bridge0.png"
-    },
-    {
-     "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
-     "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T12:54:04+00:00",
-     "summary": "Brazil&#039;s star forward scored a 12-minute hat-trick in the record world champions&#039; thumping of the hosts in a friendly.",
-     "image": ""
-    },
-    {
-     "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
-     "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T12:50:12+00:00",
-     "summary": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
-     "image": ""
-    },
-    {
-     "title": "How is US Senate majority leader chosen?",
-     "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T12:38:39+00:00",
-     "summary": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-17T13:30:04.303587+00:00",
+   "fetched_at": "2026-11-17T14:00:08.139985+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Zelenskyy gives details on Ukraine\u2019s Crimea bridge operation",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2NIOUptODV5TndzWXpER21XUmtJVnRHUWVwckgxVnV0LUZsNGJ4NkZvZ01EWFladkt0Q3RxZTlYVUNoMmZsWmppRVA0OEtrYmp5MEpaN2lUZmpZLThlUFJXNVBQMzVPYlhtd3B4WFAyZlUyN2IxbkpZeXJGdnltSnpDWWNZbjdNYWk1RmM0VFZUSmRNSHc?oc=5",
+     "source": "www.politico.eu",
+     "published": "2026-11-17T13:52:00+00:00",
+     "summary": "Zelenskyy gives details on Ukraine\u2019s Crimea bridge operation&nbsp;&nbsp;www.politico.eu",
+     "image": ""
+    },
+    {
+     "title": "Trump says Russia-Ukraine war 'very close' to being resolved",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVBINHgxNUgxaWRZOWVrQlUxTzRjdWt5ZkVWbWxxN2V1WDd3QjY0bHBtbGVGUVdTMU9nM0FzVHhmcnd0aEZMNHRZTlFldzdSS19XU1doVWFBM2tfb3gtS19WMTN1OTVSRWRjdmM1alhJQ2k5NG54SmdzY0F6YVd0UDY4cXd0UmFNbllFbHpBVjRCR2lRSUhvX0xUTmN4ak95VUtnUTItN0taM2pDQkJV?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-17T13:49:01+00:00",
+     "summary": "Trump says Russia-Ukraine war 'very close' to being resolved&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Hungary voices concern over Russian strikes on western Ukraine as opposition slams government\u2019s \u2018war policy\u2019",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaE1NUFRKMlRBWGVfYnVfNWsyLXVXYlpISmxVYkJ6bFZuYThLN2d4NVE0RThqSjRCNHNrY0FVMXpzeklqZ1NFQi03eEVsdjNJUU8zQ0FnZkpYV1FLNjhSWVFDaERqQnFXaHBpMDdwR0s5MndONmdmcFQ5VjgzUG5ueDAyQkRSUGlQcGcyVDNmREJQZ3hQV1UxU0hZc3JYV2lDMVdMTWRHZDQ4a01iUmlaOENuaFZhLTRtcTVvNkFEUUZvaHpFbzJPNWFWUG5uLWFjRHFmSUxST253eTFwWjg5Xw?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-17T13:45:14+00:00",
+     "summary": "Hungary voices concern over Russian strikes on western Ukraine as opposition slams government\u2019s \u2018war policy\u2019&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T13:44:01+00:00",
+     "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 as the Kremlin says bridge will be restored and will be \u2018better than ever\u2019 following strikeUkraine critically damages Kerch bridgeFrench \u2060f",
+     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
+    },
+    {
+     "title": "Riding With Evacuation Crews Under Russian Drones in Ukraine's Kill Zone",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0ZhYnZxekFBb3ZVRGdzTXZrZnZDdXdCRUNwaUliTFNxTkM5bld3b0VNdFVGQkxmUUtzNVd5WUd1RHJJMFNmUlJJamVtNXBEQnJTbXZhbkVOLWdVZ05xZURxbC1JZjNnVkJKOTcxM1RoV2FQSTIwc2FycW1NTG5hMmh1MlZEMHZxejVjTVFiakpWQ1FxTS1MNWtlajcxbnRHXzZlaTlXTHlhTDE1eGZLLWJtV1Byb2x1Y0E?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-17T13:38:35+00:00",
+     "summary": "Riding With Evacuation Crews Under Russian Drones in Ukraine's Kill Zone&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Russian War Bloggers Spot NATO Spy Planes Before Crimean Bridge Collapse",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0FfUmkyVXR6MTdIU2IyUXhNdWhseE1ZRlRya2NkTWVNZGdjZUtzVFF4UklNaC1yWDRKbUlCNFdEeFd4YnlLVnVYVmRIYVQ5YXBVLXhnVnlDN29yZENtYnA3V2NMbzdGX3ZaNG5xRnhETkNrcWFkWVJSUmFWVTdGckdYVmxyMHRSd2U0ME9EVjBzUVl3M0ZHdE16aXJvbkUzQllXNzhlcGJUQ2F4UngxUFVHOGVCY2lyeFRF?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-17T13:38:06+00:00",
+     "summary": "Russian War Bloggers Spot NATO Spy Planes Before Crimean Bridge Collapse&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Ukraine Is Opening a New Front Against Russia\u2014And This Time, the Battlefield Is the Mind",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMVdWRlVndUZpUjNOamRLazlRcldUakFaZ1dJS0twOUdKMWp0dEphWElqUkhvQ2hVTDY2VXE5U29aSFF5MmE1ZlhsYVVSREVvY2NhNDZHUjZyTUNySWJQcnM3YzdFelZnSlNHMkJxa2RzSDZ5bkwzNERwQVJrMXFBQ1d5c0YxWGR2OC1yZlJmN0xxczdpUFN2SHYtMXhRZW9xeUhnWERZa2pQbVdHWnFselQ4N0c2am1sbUFOOEI0SnRza2w4OEhUTkFvWFMwQTg?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-17T13:36:48+00:00",
+     "summary": "Ukraine Is Opening a New Front Against Russia\u2014And This Time, the Battlefield Is the Mind&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
+     "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+     "source": "The Guardian",
+     "published": "2026-11-17T13:35:39+00:00",
+     "summary": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profitsDeutsche Bank reportedly dismissed wa",
+     "image": "https://i.guim.co.uk/img/media/21474d52763b44585b74c4c50325ba4c99235bdd/247_0_2961_2369/master/2961.jpg?width=140&quality=85&auto=format&fit=max&s=788fab996ab2d7f1de0ae9cee69c3eb8"
+    },
+    {
+     "title": "\u2018Unprecedented\u2019 Ukraine attack on Crimean bridge",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS05WdWZQbk9RUGEyY25Eblp0eGN6RWc0M2ozQlQxajBCLXMtNnRwUjFEUlVTVUo1dXZnMG5DSDFFTXF3MVdHaXFkM2ZnU3VMTHpVSmtmUG5zYlA3MU1FNXRqa2hwcXZ6SXhycnlBX1Q4d3VNN0tnUlMzYXc1MTBZX0p5Z0xReEVGcDFKbjlELTkxdkRacmNjcFFfbkRHblnSAaQBQVVfeXFMTkY5MjUwVWxkdmZJX0UwMHJMaTQyVzYxZHAyRGFOcnVEZXU5aW9WQ3k4T29ibXk4ckZMdHFBc0dPU2R3bEtfTHdwSHZLa2NfZW1FZHN5cnlmWUhtUkhhZnY2X19IN01WMExrSGNtQnM2ekRTMkR6RVdvNXdRbzctbGl4ZDMxMFYyOGVjdkp1enFDWTkwdTdHQWlpRmF1VkZoRmVVejQ?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T13:34:02+00:00",
+     "summary": "\u2018Unprecedented\u2019 Ukraine attack on Crimean bridge&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Russia-Ukraine war 'very close' to being resolved: Trump",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YY0FvdnB1aDg2MnBfX0FMalF6NTBMTmJ3RmR1YTJrZEljVkNoRUd3Snc0NzBlaTdIVEQxdUFUcDR1NGZubXZnbG9xRDl6UlU3NDc5bm45cm8?oc=5",
+     "source": "TRT World",
+     "published": "2026-11-17T13:31:24+00:00",
+     "summary": "Russia-Ukraine war 'very close' to being resolved: Trump&nbsp;&nbsp;TRT World",
+     "image": ""
+    },
     {
      "title": "Pentagon halted weekly Ukraine war briefings under Hegseth, report says",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PVVIzOW1mQWNtNEk3VnJESTNrUExUOHR0S2RGMjZ2ekJ4SVdISkVmWGlINGZ6cldjbFVKNzV4SHhjRlV4UEJxNXFSZk85VkR0VkdMeg?oc=5",
@@ -138,93 +218,69 @@
      "published": "2026-11-17T13:22:48+00:00",
      "summary": "Give someone a home this holiday season&nbsp;&nbsp;Norwegian Refugee Council",
      "image": ""
-    },
-    {
-     "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T13:13:41+00:00",
-     "summary": "Zelenskyy praises \u2018unprecedented attack\u2019 as the Kremlin says bridge will be restored and will be \u2018better than ever\u2019 following strikeUkraine critically damages Kerch bridgeFrench \u2060f",
-     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
-    },
-    {
-     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T13:02:17+00:00",
-     "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T13:01:11+00:00",
-     "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
-    },
-    {
-     "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
-     "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T12:55:07+00:00",
-     "summary": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine: Two bridges in Kyiv heavily damaged by Russian strikes",
-     "url": "https://www.france24.com/en/video/20261117-ukraine-two-bridges-in-kyiv-heavily-damaged-by-russian-strikes",
-     "source": "France 24",
-     "published": "2026-11-17T12:54:27+00:00",
-     "summary": "Russia hit two major bridges in Kyiv while Ukraine struck Moscow's link to annexed Crimea for the second night in a row, officials said Tuesday, ahead of a historic meeting of Chin",
-     "image": "https://s.france24.com/media/display/3345e766-e281-11f1-be99-6d75ed565170/w:1024/p:16x9/vignette-Ukraine-bridge0.png"
-    },
-    {
-     "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
-     "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T12:54:04+00:00",
-     "summary": "Brazil&#039;s star forward scored a 12-minute hat-trick in the record world champions&#039; thumping of the hosts in a friendly.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWtLTm1oUmtNWG42UWhuQ0l1Q05RS2pJd1NZaHBRTjNPYmpBYUV2cEJ2VkhySDZpa3RjV0dpd25WaTFCbERTdVNpZU9IQ1Y0OHVZUHZiTjc2c1hURGN6STBLRC04eTYzclJIanh2cllwM2pZRDJQanpFeERPWlN1Zjc3TXZkZXhwZWk1YllzVlk3bGRGQ0s0?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-17T12:53:27+00:00",
-     "summary": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
-     "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T12:50:12+00:00",
-     "summary": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
-     "image": ""
-    },
-    {
-     "title": "Ukraine War, Day 1,727: Kyiv and Russia Trade Strikes on Bridges",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDYwN25IR3lXemVVWEV5SEJtb1FVZkk2bTVic0tfWDh3U2tSWllrc3V2bXVNX00tOFBQdEI2VmUyTzNCR1pFLXNhcUpVd1loQzNPNDZyMS01OWFuUV9leVNFWXdCajZXRDluZnNDQm9BdU5pdUZjTHI2ODJMWlg2YXBEMzZPUFU5clE?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-17T12:49:15+00:00",
-     "summary": "Ukraine War, Day 1,727: Kyiv and Russia Trade Strikes on Bridges&nbsp;&nbsp;EA WorldView",
-     "image": ""
-    },
-    {
-     "title": "Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOENINllnODRiSVBhSngtdkR4Nlhmbm9BVmJxMFNhTzlxcFB3Vm9hVEVGYXlCbnFQejdaOGN5OEVaUnBlbV9nRGN5alNzZE1SVUhxcEhVYjJQTUNxalpQYnI1VkZraVhkQ1BkR0pwUnFyalJNYmU1UzJreHdpT2diUEU2QndKTWFpNms1b2JSOWpJUkNBYTJhUG1XeWZGejFKVTFiR2MxRTgzQQ?oc=5",
-     "source": "Post Register",
-     "published": "2026-11-17T12:46:40+00:00",
-     "summary": "Russia Ukraine War&nbsp;&nbsp;Post Register",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T13:30:04.303591+00:00",
+   "fetched_at": "2026-11-17T14:00:08.139990+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia's Arctic oil shipments hit record amid sanctions, melting ice",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGlPakY5VzJWeGFpOGM3YWRvQm5PN0NubVgzUEExYW01ZzVhc3JCVFhtTVpQbTJYdmExbmJpdUttVF9ESEJGZTF4TURoR1BuWWtzOHItNlZ2NG1WTGJZSWIzZVZOd3p4bkRnZ3p5RC1wWDJBc09wUFR6UlNoM3RCOXNrcEdmMkdnM3VFdnZkempJU0pEWWV0aVJ1U0R2YXRNOXJmS0VLWGk?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-17T13:52:00+00:00",
+     "summary": "Russia's Arctic oil shipments hit record amid sanctions, melting ice&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Tax policy and power sector decarbonization",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1JpTGk1NWFuZzNrOXRkSHVXemtNd3BqbF9XZHdlTkI5SXNxNXlpQzEycnpRMEZhdmxXSHBnMWtzS0VXR19qZFFGQlgzUTNlMzdfSE1WRV94bUFtQnVxbTBNY2pmNjdmOGY3SUtCR05jYVBzcmN4cTBPS0Zud1Zpb1dYV0ZKZw?oc=5",
+     "source": "Brookings",
+     "published": "2026-11-17T13:49:21+00:00",
+     "summary": "Tax policy and power sector decarbonization&nbsp;&nbsp;Brookings",
+     "image": ""
+    },
+    {
+     "title": "Space, Fantasia & Inganamort Announce Re-Election Bids in LD-25",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMG1aelNYUVlraEM1NnBCVGxwU0RnZFlzb29xUTk5anhfd01uUnkwT3RVVExmdEtibkl1SkpBNTlkRXQ5aFI4bldBUHNQYTNmaEJ6Y2pjbjE2Mms3LWRTS0UyMDR5UFJ3Wi14WVdmSGpJZWVfY25DZFdqUUQ5dEJoUEZCcTU4cFp0V3dBY2lLVEI?oc=5",
+     "source": "Insider NJ",
+     "published": "2026-11-17T13:48:00+00:00",
+     "summary": "Space, Fantasia & Inganamort Announce Re-Election Bids in LD-25&nbsp;&nbsp;Insider NJ",
+     "image": ""
+    },
+    {
+     "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
+     "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+     "source": "The Guardian",
+     "published": "2026-11-17T13:44:09+00:00",
+     "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into workMilburn urges Burnham to spend billions on young peopleWho are the Neets? UK yout",
+     "image": "https://i.guim.co.uk/img/media/fcacde2d064f282a10c275f3fffebc930491811a/528_156_3303_2643/master/3303.jpg?width=140&quality=85&auto=format&fit=max&s=52028965ab5e15a0547c89e69e1919f6"
+    },
+    {
+     "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T13:42:54+00:00",
+     "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contestProtests greet Trump on Asia visit \u2013 follow liveSign up for US Breaking News emailTwo departments have",
+     "image": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=15d4d3eaeb0e1d1c9b90bb5b3b3a70e7"
+    },
+    {
+     "title": "US foreign policy leaders say America should take an active role in world affairs \u2013 but no consensus on whether Trump\u2019s policies are working",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZENIRHpsbG1CUkZTbUxwVlkxcmo2ZzMtOUxfb0tvLUxuaTJfQVlpZjlTNHNkcUNYSFY1LUVlZVl0WTF0a2NDY1hlWFdjQVduc1gwODJfcEp6cy1BZmtabWs5MzVMcjhsZ00zcGFTY0lWbFBoSXZkOGdGODc4dG1tSHJoTFJmVVFMZ2EteEtmX2xwNnhsSlVhQWJabnNqckc3S3JMSnZaR1M5djZVWDRXcEtycktHYTk0cUhWZ3pQUWRlRGNMNTRlVFMwcHgxcGlZcUs2dUdJMEY1NkpCci1nQ3RZN1Bkc3RwRThkZm9qSHhKTXlhQXkzb3cwRU9yY1hHbFE?oc=5",
+     "source": "The Conversation",
+     "published": "2026-11-17T13:40:15+00:00",
+     "summary": "US foreign policy leaders say America should take an active role in world affairs \u2013 but no consensus on whether Trump\u2019s policies are working&nbsp;&nbsp;The Conversation",
+     "image": ""
+    },
+    {
+     "title": "Younger voters drive engagement in high-turnout Colorado midterm election",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcERGMEJqUXlhY3JYNUNNMERxQzFmeVlEY3BIOU9kUHlTc2ZPa3hXOHNwcWh6QTA1VmJKUWNyN2pZaUJmV2JpNjR0cjMwamZzSUdCNDR4MFBhQzY3bUxnWFZjd01CTTRscndmU0tvZ0pwbVZGZXB0NG5vYUc0dmcybDRzSUFzTDNBZ3pEbm9PbzRNOGM4LUx1U254d2VZd1dzblJsWUtvb0JVTFRVaHc?oc=5",
+     "source": "Aurora Sentinel",
+     "published": "2026-11-17T13:28:18+00:00",
+     "summary": "Younger voters drive engagement in high-turnout Colorado midterm election&nbsp;&nbsp;Aurora Sentinel",
+     "image": ""
+    },
     {
      "title": "WHO DG Candidate Gevorg Tamamyan Says Global Health Inequality Is Costing Lives",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzRQRGZGcGNNdmZFZ1pRZjc4NUIxdDZqcldrLTBrV2E0cG42NFJRcFpzSnBoMU1GejVXbUhRUjQ0Vk1hX3NTMWlLY054bk9haWFvNldfWUFDc3d4RXRTWWFwTEZIamV5WXd6WHlCV2pCdll0WGdsUDZXWDQxX0R3ZDlOUnhvVkQ3MHlpa09jNEluYzR4SmthcFhkclRwaDJPUEt1djR6NnNIQ0hPMjhOOENB?oc=5",
@@ -234,20 +290,20 @@
      "image": ""
     },
     {
+     "title": "At the origin of France\u2019s education protests, students refuse to give up",
+     "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T13:14:25+00:00",
+     "summary": "Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.",
+     "image": ""
+    },
+    {
      "title": "Court postpones deadline for Likud to appeal election results",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUdpRWV0Ri0wNW44TDJoVjNqNE1VOV9hV3JENzEyQVlhc0JGWmRaUUJucm1rSjhEUkdfNkNsWUJyTGxHbFVBaVpxa0FOTDEzSjR0N0Z3TU53WDhtd1pHOS1yUUJ2N3o2VFpYWUlJcTI4ZXBEbFF4Q01rWFRLWjNDWWtqd2NQV2FSOWFPQzhGSl9ERklwVncxdDdnU1lCYlFab0ZKSWVyODBhLW8?oc=5",
      "source": "The Times of Israel",
      "published": "2026-11-17T13:13:02+00:00",
      "summary": "Court postpones deadline for Likud to appeal election results&nbsp;&nbsp;The Times of Israel",
      "image": ""
-    },
-    {
-     "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T13:08:19+00:00",
-     "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contestProtests greet Trump on Asia visit \u2013 follow liveSign up for US Breaking News emailDonald Trump is meet",
-     "image": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=15d4d3eaeb0e1d1c9b90bb5b3b3a70e7"
     },
     {
      "title": "LAUSD cellphone policy",
@@ -264,67 +320,11 @@
      "published": "2026-11-17T13:05:04+00:00",
      "summary": "Misclassification: State solutions to the U.S. worker rights crisis&nbsp;&nbsp;Economic Policy Institute",
      "image": ""
-    },
-    {
-     "title": "Santander allows staff to count holidays and sick leave as days worked in office",
-     "url": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
-     "source": "The Guardian",
-     "published": "2026-11-17T13:01:08+00:00",
-     "summary": "News of Spanish-owned lender\u2019s policy emerges as other banks are toughening their stance on working from homeBusiness live \u2013 latest updatesStaff at the high street bank Santander h",
-     "image": "https://i.guim.co.uk/img/media/48f5af3037791bfd816e5a92bc2f9f88c46a5b32/497_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=05cc561d70346e66b02fbf38e2a84afd"
-    },
-    {
-     "title": "Those sanctions we\u2019ve been hearing about? They\u2019re a much bigger deal than you think.",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90aU81QmQzWFpoaC04bTVpZ2lIYlJ0Y3JkeGJCcnJXLUYyTy01UE9iNkdMRDVUNnRwZVB4N3JHNlIzVnU0UktNUklxNkVES05vYlZxTmJrRW0xMnd1aDJ1TjYtNjByYUVZZjZfMHVYQXFaZlhubGJ3eA?oc=5",
-     "source": "Israel from the Inside with Daniel Gordis",
-     "published": "2026-11-17T13:01:02+00:00",
-     "summary": "Those sanctions we\u2019ve been hearing about? They\u2019re a much bigger deal than you think.&nbsp;&nbsp;Israel from the Inside with Daniel Gordis",
-     "image": ""
-    },
-    {
-     "title": "International agencies urge farm policy reform as support hits $661 bn a year",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTc5VWVhR0tnVUhBQ3V2NUlwMUdOc0w4dlF4bmROd0lJeFRoSmJVTzRubndzRTNfaXVHRHZEaUJmT1dYaUdZd3U4YzR1SU9LUFBIbm10dWtad0VTUm9RbWZ5QXI4aElQX3I2YmxfT0NjekQtZDdFeTJwM0YzN29WaDkyWWpBUDhZYTdXdHFEVGs5eGliZ0tMRVlXNUhzejB5NkNHLTU0WjZqSE42cjAwdFhUZEEtNGc?oc=5",
-     "source": "The Pig Site",
-     "published": "2026-11-17T12:56:15+00:00",
-     "summary": "International agencies urge farm policy reform as support hits $661 bn a year&nbsp;&nbsp;The Pig Site",
-     "image": ""
-    },
-    {
-     "title": "Ohio political candidates face penalties over campaign election law violations",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yN1dJLTJfSW1YOXBoNURncU1ZdnBBdldOUmx2ejUzeG54MEhLeHRScm9MQkJiZjFpNzFDYWYyNmFLaFpYTW1WTS1fdkVfMGg2WTVyTG82TmNFUVZqNk52TVRFOVQ1SXYwcW02cVZxcTZneHdjREU3WmtxTzZCdw?oc=5",
-     "source": "Lexington Herald Leader",
-     "published": "2026-11-17T12:51:00+00:00",
-     "summary": "Ohio political candidates face penalties over campaign election law violations&nbsp;&nbsp;Lexington Herald Leader",
-     "image": ""
-    },
-    {
-     "title": "Cobb Civics Quiz: From Rezoning to Election Results",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFlwT252LVE0Q2RZcFhFUmR6cmdsM2NpUnhXenM0TjJYZTh5VFNlVGxZUGwwSXJnNlNJUndPUUc2SEFXbGZ6UW9rSVdkSU1vQTc2T25uVnRaTDhoemktcW5XZTFYampGODA0RGZJYWdIU1o0aHN0YTk0aE5JWUFSNWs0RXIxR0lnSzhDRFd1a1oxU0E?oc=5",
-     "source": "Cobb Courier",
-     "published": "2026-11-17T12:49:35+00:00",
-     "summary": "Cobb Civics Quiz: From Rezoning to Election Results&nbsp;&nbsp;Cobb Courier",
-     "image": ""
-    },
-    {
-     "title": "Serbia's Student List deputies take seats in parliament after landmark election win",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakF3T2Fha3NKVlNiWlduV29vaV9feVBlMEZqclBQaTQyNEstb1BUaFNxSnFZRXdyeDlJNWJCNDJaeFJ2c3ExUUhROVBtcDFhZVdHLU1sd1FBeEtLd1hXTXk2Z29JcFpPVERQVkhaT2c5Qnh0R194QkNDUG15QTZOZ2dmOXZzMEU4OG80UExKVWtWR2pyc242dS1ZaENBeUZXN3BVdEdEcWc3WW44VFNWVnlFZVE1Nl9uZldZck93?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-17T12:43:44+00:00",
-     "summary": "Serbia's Student List deputies take seats in parliament after landmark election win&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "How is US Senate majority leader chosen?",
-     "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T12:38:39+00:00",
-     "summary": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-17T13:30:04.303593+00:00",
+   "fetched_at": "2026-11-17T14:00:08.139992+00:00",
    "stale": false,
    "items": [
     {
