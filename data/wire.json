@@ -1,128 +1,200 @@
 {
- "generated_at": "2026-11-18T16:09:27.410922+00:00",
+ "generated_at": "2026-11-18T16:39:31.913842+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-18T16:09:27.410893+00:00",
+   "fetched_at": "2026-11-18T16:39:31.913811+00:00",
    "stale": false,
    "items": [
     {
      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-18T16:05:32+00:00",
+     "published": "2026-11-18T16:37:49+00:00",
      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
     },
     {
-     "title": "Yemen: Why the Houthis may besiege Aden rather than storm it",
-     "url": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
-     "source": "\u00a9 Abdulnasser Alseddik, AP",
-     "published": "2026-11-18T15:55:41+00:00",
-     "summary": "Bolstered by their recent military successes, Houthi rebels this week advanced close to the southern port city of Aden, the interim capital of the internationally recognised Yemeni",
-     "image": "https://s.france24.com/media/display/8be454f8-c9ee-11f1-a86a-2d1c143cdef3/w:1024/p:16x9/AP26286485676861.jpg"
+     "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T16:28:54+00:00",
+     "summary": "Israel\u2019s army beat a journalist covering a settler attack near Jericho.",
+     "image": ""
     },
     {
-     "title": "House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch speaker nomination \u2013 live",
+     "title": "Democrats nominate Hakeem Jeffries to become first Black House speaker \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-18T15:54:32+00:00",
-     "summary": "If elected, Jeffries would become the first Black person to hold the gavel in US historyTrump in China for Apec summit \u2013 follow liveSign up for US breaking News emailLinked to that",
+     "published": "2026-11-18T16:23:09+00:00",
+     "summary": "Jeffries was nominated with 251 yes votes and 11 no votes in closed-door processDemocrats nominate Hakeem Jeffries as first Black House speakerTrump in China for Apec summit \u2013 foll",
      "image": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=140&quality=85&auto=format&fit=max&s=f4bab182fae547a69918110ff470d989"
     },
     {
-     "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
-     "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+     "title": "Labour faces double blow over UK fossil fuel projects",
+     "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
      "source": "The Guardian",
-     "published": "2026-11-18T15:53:10+00:00",
-     "summary": "As Democrats flag AI bank breaches and cyberattacks in Japan, Jay Clayton says system failures happenUS politics live \u2013 latest updatesA bipartisan pair of US senators are calling o",
-     "image": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=140&quality=85&auto=format&fit=max&s=5ec85d646e771e5486922ae676de0a9b"
+     "published": "2026-11-18T16:19:41+00:00",
+     "summary": "Big North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage siteThe energy secretary has been dealt a double blow after two UK ",
+     "image": "https://i.guim.co.uk/img/media/43807761436da658bfa0aa4756a6c6866170ca90/585_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=93e605e61347ca2e145736b8c8ce2219"
+    },
+    {
+     "title": "Russia\u2019s new low-cost munitions pose a fresh threat to Ukraine",
+     "url": "https://www.france24.com/en/europe/20261118-russia-new-low-cost-munitions-threat-ukraine",
+     "source": "\u00a9 Telegram / UA_National_Police",
+     "published": "2026-11-18T16:19:08+00:00",
+     "summary": "Dan-T, Filin and Geran-5 might not mean anything to you, but in Ukraine, everyone is talking about these munitions. These new Russian weapons are small, fast and cheap \u2013 and a majo",
+     "image": "https://s.france24.com/media/display/87fb8c48-ddf9-11f1-b48e-3f371022a770/w:1024/p:16x9/cou1.jpg"
+    },
+    {
+     "title": "Canada\u2019s PM calls out \u2018lying\u2019 Putin for downplaying sanctions",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T16:16:48+00:00",
+     "summary": "Carney accuses Putin of \u2018lying\u2019 after the Russian leader dismissed Western sanctions as a \u2018thing of the past\u2019.",
+     "image": ""
+    },
+    {
+     "title": "Israel begins new military operation in Gaza",
+     "url": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
+     "source": "France 24",
+     "published": "2026-11-18T16:12:30+00:00",
+     "summary": "Israeli tanks advanced in an area of the central Gaza Strip on Wednesday, witnesses said, and the Israeli military said its \u200bforces were targeting \u200cHamas infrastructure outside the",
+     "image": "https://s.france24.com/media/display/8f0f71fe-e36a-11f1-82d9-1ba7ddfab527/w:1024/p:16x9/EN-20261118-170112-170442-CS.jpg"
     },
     {
      "title": "PM urges Badenoch to withdraw \u2018crass\u2019 defence of disability cuts on grounds \u2018amputees run marathons\u2019 \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-18T15:51:49+00:00",
+     "published": "2026-11-18T16:11:04+00:00",
      "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood, the home secretary, will also announce plans for a new fast-stream police leaders",
      "image": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=36873cc87e731f89eda2730b224698a4"
     },
     {
-     "title": "UK government \u2018breaking the law\u2019 by not stopping decline of wild birds",
-     "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-     "source": "The Guardian",
-     "published": "2026-11-18T15:49:08+00:00",
-     "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog saysThe environment secretary, Angela Eagle, her ministers and Natural En",
-     "image": "https://i.guim.co.uk/img/media/ec8ab6692ef60ad08b4c21283c2bd1f5159aa301/878_0_2879_2303/master/2879.jpg?width=140&quality=85&auto=format&fit=max&s=0abe6318a3a8ec18bf059cb38498f37c"
-    },
-    {
-     "title": "\ud83d\udd34 US Democrats nominate Hakeem Jeffries to be first Black speaker of the House",
-     "url": "https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house",
-     "source": "France 24",
-     "published": "2026-11-18T15:45:39+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in \u2018humiliating decline\u2019",
-     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-     "source": "The Guardian",
-     "published": "2026-11-18T15:40:40+00:00",
-     "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summ",
-     "image": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25"
-    },
-    {
-     "title": "Who speaks for Europe abroad? Not its top diplomat",
-     "url": "https://www.theguardian.com/world/2026/nov/18/who-speaks-for-europe-abroad-not-its-top-diplomat",
-     "source": "The Guardian",
-     "published": "2026-11-18T15:40:05+00:00",
-     "summary": "EU leaders\u2019 decision to exclude the bloc\u2019s foreign policy chief from their negotiating lineup for Russia peace talks reveals how national turf wars undermine Brussels\u2019 global ambit",
-     "image": "https://i.guim.co.uk/img/media/04488aef9c8a04fbafa393d73e37072a3ee6abb6/0_0_4711_3768/master/4711.jpg?width=140&quality=85&auto=format&fit=max&s=4f0a68d32d35bd09f3d8e35bd7d60cdc"
-    },
-    {
-     "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
-     "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+     "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-18T15:39:57+00:00",
-     "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1d/live/5d5ab520-e35f-11f1-a94c-dd322c59ae3f.jpg"
+     "published": "2026-11-18T16:10:44+00:00",
+     "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg"
     },
     {
-     "title": "Hakeem Jeffries becomes first Black nominee for US House speaker",
-     "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+     "title": "Five EU nations to deport migrants to Rwanda",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-18T15:37:52+00:00",
-     "summary": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+     "published": "2026-11-18T16:05:37+00:00",
+     "summary": "Five European countries are looking to Rwanda to host rejected asylum seekers.",
      "image": ""
     },
     {
-     "title": "Cancer patients at NHS trust harmed by years of unnecessary chemotherapy, report finds",
-     "url": "https://www.theguardian.com/society/2026/nov/18/cancer-patients-nhs-trust-unnecessary-chemotherapy-coventry",
-     "source": "The Guardian",
-     "published": "2026-11-18T15:35:05+00:00",
-     "summary": "Trust apologises after findings on treatment of 20 brain tumour patients under oncologist who retired in 2023Cancer patients were severely harmed after being given years of unneces",
-     "image": "https://i.guim.co.uk/img/media/48d917d9bd2879e15ae0af80d5cbc5eae46ca1e3/1291_411_3782_3026/master/3782.jpg?width=140&quality=85&auto=format&fit=max&s=d3c834960483e763ea94765965036888"
+     "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T16:05:26+00:00",
+     "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/769d/live/66da74a0-e369-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-     "title": "Russian attacks on Ukraine kill at least five people",
-     "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+     "title": "ICE offers firm operating deportation flights windfall and secrecy, data shows",
+     "url": "https://www.theguardian.com/us-news/2026/nov/18/ice-deportation-flights-csi-deal",
+     "source": "The Guardian",
+     "published": "2026-11-18T16:00:06+00:00",
+     "summary": "Exclusive: Trump administration continues to award deals to private contractor CSI Aviation and agreed to remove ICE flights from tracking websitesImmigration and Customs Enforceme",
+     "image": "https://i.guim.co.uk/img/media/1e6b9eca8a6ee488d38702b7e33350a0f8215ed3/267_0_2665_2133/master/2665.jpg?width=140&quality=85&auto=format&fit=max&s=f40d5b3dc534bc3108e0a1a38d5ab5fb"
+    },
+    {
+     "title": "Pax Silica is the new face of US imperialism in the Philippines",
+     "url": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-18T15:32:01+00:00",
-     "summary": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as &#039;brutal&#039;.",
+     "published": "2026-11-18T15:57:20+00:00",
+     "summary": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
      "image": ""
     },
     {
-     "title": "Boy, three, dies after \u2018medical emergency\u2019 at Greater Manchester nursery",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
-     "source": "The Guardian",
-     "published": "2026-11-18T15:23:16+00:00",
-     "summary": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in MiddletonA three-year-old boy has died after a \u201cmedical emergency\u201d a",
-     "image": "https://i.guim.co.uk/img/media/df327e4e617830e1f697e61146d7a0ce405a03e5/394_204_6434_5148/master/6434.jpg?width=140&quality=85&auto=format&fit=max&s=dacd1373a7fc8d2ae159598d00d5efc8"
+     "title": "Yemen: Why the Houthis may besiege Aden rather than storm it",
+     "url": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
+     "source": "\u00a9 Abdulnasser Alseddik, AP",
+     "published": "2026-11-18T15:55:41+00:00",
+     "summary": "Bolstered by their recent military successes, Houthi rebels this week advanced close to the southern port city of Aden, the interim capital of the internationally recognised Yemeni",
+     "image": "https://s.france24.com/media/display/8be454f8-c9ee-11f1-a86a-2d1c143cdef3/w:1024/p:16x9/AP26286485676861.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-18T16:09:27.410908+00:00",
+   "fetched_at": "2026-11-18T16:39:31.913827+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T16:28:54+00:00",
+     "summary": "Israel\u2019s army beat a journalist covering a settler attack near Jericho.",
+     "image": ""
+    },
+    {
+     "title": "Russia\u2019s new low-cost munitions pose a fresh threat to Ukraine",
+     "url": "https://www.france24.com/en/europe/20261118-russia-new-low-cost-munitions-threat-ukraine",
+     "source": "\u00a9 Telegram / UA_National_Police",
+     "published": "2026-11-18T16:19:08+00:00",
+     "summary": "Dan-T, Filin and Geran-5 might not mean anything to you, but in Ukraine, everyone is talking about these munitions. These new Russian weapons are small, fast and cheap \u2013 and a majo",
+     "image": "https://s.france24.com/media/display/87fb8c48-ddf9-11f1-b48e-3f371022a770/w:1024/p:16x9/cou1.jpg"
+    },
+    {
+     "title": "Canada\u2019s PM calls out \u2018lying\u2019 Putin for downplaying sanctions",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T16:16:48+00:00",
+     "summary": "Carney accuses Putin of \u2018lying\u2019 after the Russian leader dismissed Western sanctions as a \u2018thing of the past\u2019.",
+     "image": ""
+    },
+    {
+     "title": "Zelensky hopes for \u2018swift\u2019 EU approval of Ukraine loan",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFVjT3hIYXRyN3pqS0lBeml1cC1hU1kyTXJ1em1CZ2pSMnNYRUVDS1hKQUlXY1ZDWnBieFkwVnByUmpsUXdTNkF2VXJUTV9YeVNSbkJwNHA0WF9HOWhvN1N1YURGX2VHdmszbG5qaktSTVAzZFBHZV9BV1pVME5YcUtLcC1oM01ramdsdzM5ZHE1TU13cmc?oc=5",
+     "source": "Arab News",
+     "published": "2026-11-18T16:12:48+00:00",
+     "summary": "Zelensky hopes for \u2018swift\u2019 EU approval of Ukraine loan&nbsp;&nbsp;Arab News",
+     "image": ""
+    },
+    {
+     "title": "Israel begins new military operation in Gaza",
+     "url": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
+     "source": "France 24",
+     "published": "2026-11-18T16:12:30+00:00",
+     "summary": "Israeli tanks advanced in an area of the central Gaza Strip on Wednesday, witnesses said, and the Israeli military said its \u200bforces were targeting \u200cHamas infrastructure outside the",
+     "image": "https://s.france24.com/media/display/8f0f71fe-e36a-11f1-82d9-1ba7ddfab527/w:1024/p:16x9/EN-20261118-170112-170442-CS.jpg"
+    },
+    {
+     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FNVg3ME1zb05FTlVhMmw5SXQ4eGlxRF9hYUo3bGhVNlMyTjEyeFBMT29tMDM1WjY4QUxONVVjSkp4VFVlZFZrNkNxU0ZDR0c1LWU3cmE1c0lDeTQ?oc=5",
+     "source": "BBC",
+     "published": "2026-11-18T16:10:44+00:00",
+     "summary": "Trump shakes hands with Putin and Xi ahead of historic talks in China&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "How Germany\u2019s Deutsche Bahn May Be Helping Finance Russia\u2019s War Against Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGxJQ1NMNXJGaVhiT25FZ1NDaXIxSTdpMjFhV1FhYVlvVDRpZjJ5RUgyYWZ1OWhITDlXY2hwZ21aWU0wdUNtVDY1aGZTWWFlYVlFZVhScW02QkUxSG9YZ1pEbk9Ub0NMT2k3RWFpYl9GbWZqTkpTZGZvNFc2YmVfT1l3SDBPQ2E3cjZXVGluSkdiYk9VSWxtNjA5a0k3emVBWEM2bjhjWFFBZUJDNjdyTEtzRDViQQ?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-18T16:06:35+00:00",
+     "summary": "How Germany\u2019s Deutsche Bahn May Be Helping Finance Russia\u2019s War Against Ukraine&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzllazFqTmMyZXctZktlcE9pdlY2NzVyejNYWTJjNnFkeW9XRHRHYXpSOUFhdjhMRndpRnYteHpmaXlveXVGdEQwYktPVjMyUDVhamhJU05sV1hyVTduMlZQVlhhYkFzMVFpejZFdDRfZ0NkY0d5cHJJTnMxYWpYUl9Qbkx0R3ZTSTB1T0dFZmt6VVpDMXhERkNmcmxicEJ4RXl1bDI1ZVJhYXo4alE?oc=5",
+     "source": "chronicleonline.com",
+     "published": "2026-11-18T16:04:11+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;chronicleonline.com",
+     "image": ""
+    },
+    {
+     "title": "ICE offers firm operating deportation flights windfall and secrecy, data shows",
+     "url": "https://www.theguardian.com/us-news/2026/nov/18/ice-deportation-flights-csi-deal",
+     "source": "The Guardian",
+     "published": "2026-11-18T16:00:06+00:00",
+     "summary": "Exclusive: Trump administration continues to award deals to private contractor CSI Aviation and agreed to remove ICE flights from tracking websitesImmigration and Customs Enforceme",
+     "image": "https://i.guim.co.uk/img/media/1e6b9eca8a6ee488d38702b7e33350a0f8215ed3/267_0_2665_2133/master/2665.jpg?width=140&quality=85&auto=format&fit=max&s=f40d5b3dc534bc3108e0a1a38d5ab5fb"
+    },
     {
      "title": "Yemen: Why the Houthis may besiege Aden rather than storm it",
      "url": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
@@ -136,101 +208,85 @@
      "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
      "source": "The Guardian",
      "published": "2026-11-18T15:53:10+00:00",
-     "summary": "As Democrats flag AI bank breaches and cyberattacks in Japan, Jay Clayton says system failures happenUS politics live \u2013 latest updatesA bipartisan pair of US senators are calling o",
+     "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happenUS politics live \u2013 latest updatesA bipartisan pair of US senators are calling ",
      "image": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=140&quality=85&auto=format&fit=max&s=5ec85d646e771e5486922ae676de0a9b"
     },
     {
-     "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in \u2018humiliating decline\u2019",
-     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-     "source": "The Guardian",
-     "published": "2026-11-18T15:40:40+00:00",
-     "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summ",
-     "image": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25"
-    },
-    {
-     "title": "Who speaks for Europe abroad? Not its top diplomat",
-     "url": "https://www.theguardian.com/world/2026/nov/18/who-speaks-for-europe-abroad-not-its-top-diplomat",
-     "source": "The Guardian",
-     "published": "2026-11-18T15:40:05+00:00",
-     "summary": "EU leaders\u2019 decision to exclude the bloc\u2019s foreign policy chief from their negotiating lineup for Russia peace talks reveals how national turf wars undermine Brussels\u2019 global ambit",
-     "image": "https://i.guim.co.uk/img/media/04488aef9c8a04fbafa393d73e37072a3ee6abb6/0_0_4711_3768/master/4711.jpg?width=140&quality=85&auto=format&fit=max&s=4f0a68d32d35bd09f3d8e35bd7d60cdc"
-    },
-    {
-     "title": "Russian attacks on Ukraine kill at least five people",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjFqR2o5RHdGai01ai14Q3FpTGpLdHd2aklKSlhYcVVCZzVxbVFmVGlRNEc1cDhuc0hQbzNLYjBzUzN4cjlFaTFHbTA2aHVtNGxjV2pWWk9xNE0tRnVQZ1hwMTBHUHhxU3UyOVRFV2hpMmNqcVRHdV95OHpTRGt4SEhNQUxJaF9LR3pLMGVvTllRT2RiTU5GOWJ30gGfAUFVX3lxTFBZZDlyVFcxWlUzLWpYck5BeVI5ZG5nVEwzZVRVWHdUNWxrT3RybHYweFY3V0taU3VIRDkwYmdPM1VaRzRSRnBPN0JabTh2SzhjT0RDYWJNTXpzSTJmOE9BYUh1ckhTNlBJUW9HNFY4NHFYekYxcmJXaGs5TlhEODlZRnU2OUxmTDB5VXkxWlZWUjhzNk41RDh3YnozWkFVbw?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T15:39:46+00:00",
-     "summary": "Russian attacks on Ukraine kill at least five people&nbsp;&nbsp;Al Jazeera",
+     "title": "Ukraine: Europe\u2019s Defensive Shield On Its East Flanks \u2013 OpEd",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORjZWYm9SeTQzekxidEJkelowdTV0ODBnRTdkM0xtaVhFRFJhTWloaWs1VnlFV2xfam82NU9jMnRPcnczSF9iRE8xRGk0cGZFQ0VXeENHcFY4bjJOdW4tNV9rM3RUVE00aEtfdkVuRmZaZzI4NkduZGMwTjkybHloaVZDTk1rNThfVlVXdnRFdncxeXR3WjNYdC03SUU?oc=5",
+     "source": "Eurasia Review",
+     "published": "2026-11-18T15:43:27+00:00",
+     "summary": "Ukraine: Europe\u2019s Defensive Shield On Its East Flanks \u2013 OpEd&nbsp;&nbsp;Eurasia Review",
      "image": ""
-    },
-    {
-     "title": "Russia Just Got Yet Another Batch of New Su-34 Fighter-Bombers for the Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3Y0NjJOZWFYOGRMUTlRbE9YeGxjcWNlUTlGWXJPUEQzdUxwYTZjTG1LVVJiZkNhemRnUS1RZzk1VUtmUkVmejR3R1c0VVVBQU1LdlJWdEd3Mm1wRzVldGtJdWhhR3JuanBLVGdmNThGekw2OER1UUVSdzZMajhXOGFILXVEV3VpcjBBeHpKcWRhNTQwNEIzYnBwLVdoNml4aHRwSjVNYkc4YXBqa1NmWWpWMjZWdw?oc=5",
-     "source": "The National Interest",
-     "published": "2026-11-18T15:31:40+00:00",
-     "summary": "Russia Just Got Yet Another Batch of New Su-34 Fighter-Bombers for the Ukraine War&nbsp;&nbsp;The National Interest",
-     "image": ""
-    },
-    {
-     "title": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWZxREZPaThlNEtsN1Z2V2s3bVpMbkpiOEYyV19nS2paZndRczh0SG5pcURzTmFSMzYyNDlPbDJFRTIwZTBScFpSLUVrMDNtWm9xMndPT1JHdk00WTFNVlZOdGE1LS1TdHJJX0hsMXI4eEV2cEhEVTkzWVp6ZkNxWVdMbl9lS2FqRnl3TWlEbnRDb1NqLU1iYmtvSkxDa19GWEJpckk1bEI3U09TcDdvQ1ViS25jRXZTZ1U5RA?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-18T15:10:58+00:00",
-     "summary": "EXCLUSIVE: Drone attacks nearly halve Russia's November oil refining, sources say&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails weapons produced in the country",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbGtlN0tIRmZPenBBZFU4UUVSWmRPRWY2X0Fva2xKVmdvY2h0Q0pMbGNmRDFqdnRMYUxHWWlESEo3RTJKNVJuSTVwaFhpblRIZXpwb3Y0X2E2X0RfQWJEVVdQam1rR3JEUm5sSzIyYzBCZWg0SmF4ZWdqWGtqeHFwQmNBT213U0w2bDFma3lrNk42R3dqWjJvanFZXzFSYTV4a0dpampWRUx4dkJqek9RS2VmQ1NYbGdKZnJDXzhkODZMUFZzOE03Yjc3T0ptSjVodEl4NnVXMlB2TDRkMXlxMWZhWVU1UHFOeHdmMV8tQ2dLRXdQaTFWVkFXalAzSUh6SGlaVnJYaHFtbFEzaGxTc1NZNHBHY211?oc=5",
-     "source": "Bozeman Daily Chronicle",
-     "published": "2026-11-18T15:09:25+00:00",
-     "summary": "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails weapons produced in the country&nbsp;&nbsp;Bozeman Daily Chronicle",
-     "image": ""
-    },
-    {
-     "title": "Press point by President von der Leyen together with Commissioners Dombrovskis and Kubilius on an Instrument for Coordinated Support to Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMUtac3ZjU1hNSnNDR2wyRTdDSzVrUzNfY2ZqTnRuNi1XU010WmY4b3dkUVROR3d5X0NqX2ZYSjV4OEw5dGxla0t3X2lMQmFJQy0yRnlVQnMzQllzOHMxN2NLcG8ya1A5VjZZX0pqZjdoYms0VVQydS1pMThwVGRUVjVxY3JlbkNGM2Y3aWtmUG90MTZybTV0Nm03R2wxQXFnanpLcDNhV2diNnBDUXgwMXQ4dHU2aHhicjZ3el9HcVB4ZDZLcEdsMkJBVjhPcUl3aW1TaTlfbS1vUzNnbmhpWG9oYU5pR2JTTVA5a2owbEpQZGpKXy1jdldRVUxuNjdqd2JMMlFKMzZ4N2FCWDhGMVRmYUZiWklEYXRuOElEdDc3Ykd3MUE?oc=5",
-     "source": "PubAffairs Bruxelles",
-     "published": "2026-11-18T15:00:36+00:00",
-     "summary": "Press point by President von der Leyen together with Commissioners Dombrovskis and Kubilius on an Instrument for Coordinated Support to Ukraine&nbsp;&nbsp;PubAffairs Bruxelles",
-     "image": ""
-    },
-    {
-     "title": "What is Iraq\u2019s Jurf al-Sakhar and what is behind gov\u2019t push to control it?",
-     "url": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T15:00:34+00:00",
-     "summary": "Tensions surge between PM al-Zaidi&#039;s government and Kataib Hezbollah amid oil-smuggling scandal.",
-     "image": ""
-    },
-    {
-     "title": "Russia Could Deploy 20 Million Drones Against Ukraine in 2027\u2014More Than 54,000 a Day",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ2lucnVMdDIzY3VXRzdXblNyVzRWZVNQVTZ3dmR1Y1ZYU0tVWklPTXU5NFNReEgxNm4yUUtSb0hwNnhpVm5jQnBOTmNfVmxMUjkySUhOM1k1SEJzOWdzeVZVMnVzU09odXVWNGpYNE5jcU1leklaUVZldnF5WjJ3Mkx3WVA2Z0t5eDUzT250N2phMDNkRVBhZEtFT3ktQ2FGMzJtWGR1c1UxWlJGTkhBalJEMVJWZF9qRFBfT2c3UC1FVUNHUzBVdGtR?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-18T14:55:53+00:00",
-     "summary": "Russia Could Deploy 20 Million Drones Against Ukraine in 2027\u2014More Than 54,000 a Day&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Xi welcomes Trump to China ahead of high-stakes Putin meeting",
-     "url": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
-     "source": "France 24",
-     "published": "2026-11-18T14:52:39+00:00",
-     "summary": "President Xi Jinping personally greeted US counterpart Donald Trump on the tarmac at a Chinese airport on Wednesday, with the two leaders briefly hugging ahead of their highly anti",
-     "image": "https://s.france24.com/media/display/3a938192-e35b-11f1-9d9c-1ba7ddfab527/w:1024/p:16x9/EN-20261118-143132-143324-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-18T16:09:27.410911+00:00",
+   "fetched_at": "2026-11-18T16:39:31.913830+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Money Disrupted: US Monetary Policy and Emerging Markets",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXFGdXVXRFQzVXhyNmlBbTBLRXFQN2JGc3czTGRHSFMyTUFfOHdhMEZfUVN1MWpLa2NNZlN6UFdhelkxSkNXbW9QamlEZ1BZSi16Y2JYZWp4MjdKZEQ3cE1ueVNtSldYSEd0MUNKejFsM2hHOU51Ul90aW1OcFF4MkNtNEVFQUtnWkR0azdmaTU?oc=5",
+     "source": "American Enterprise Institute - AEI",
+     "published": "2026-11-18T16:37:05+00:00",
+     "summary": "Money Disrupted: US Monetary Policy and Emerging Markets&nbsp;&nbsp;American Enterprise Institute - AEI",
+     "image": ""
+    },
+    {
+     "title": "Maryland County Election Results Shift in Several Races",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORTVzMVdodlJ1SFZ5elRsNzZ3Y0ZTb2ZqMzVSNWRjQVVvRU9Dci13ZnA4dUd0bjZkdkxpRVpGV2RTZk9Ka3llaC1jRjFYQ3RRTU56YkU2TUhreGhuMl9Wa1U1azg4TkdTMUE2U3pkdmh1T3lVUUZ2WmFYbnB5bFlQaXItUG0ycUxpaTdQVlZnaFQwSWxrOTdFMUxIbC1jMXJYMHpRWE9qdw?oc=5",
+     "source": "Conduit Street Blog",
+     "published": "2026-11-18T16:32:48+00:00",
+     "summary": "Maryland County Election Results Shift in Several Races&nbsp;&nbsp;Conduit Street Blog",
+     "image": ""
+    },
+    {
+     "title": "Democrats nominate Hakeem Jeffries to become first Black House speaker \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-18T16:23:09+00:00",
+     "summary": "Jeffries was nominated with 251 yes votes and 11 no votes in closed-door processDemocrats nominate Hakeem Jeffries as first Black House speakerTrump in China for Apec summit \u2013 foll",
+     "image": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=140&quality=85&auto=format&fit=max&s=f4bab182fae547a69918110ff470d989"
+    },
+    {
+     "title": "After election losses, state rep offices in Bucks shutting down today",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNYnQtWjJySEZ2cVJubnNzZk9Mejh5cHY1TFJoZGZldERSSFNQR0xON3VWTUE0a0R1cDBxQzNEY01IOEdQMkp4d1NVekFPTi1CXzFEWEJFV3kwaWNPanJpVDJhM1hBN2FuQVFsdE1LRElta1kyRGhfZmJPWmsxbHA1VGJvNDltXy1YSGFfTVFicU9NTzBqTmoxY0NqZ3ozaHFLTmtBNlEtdTZ1c3lhOEFfS3ZSdXhaMDNLbWNiXzB1dTlaVkVFZDdhaGdTM3hRc3V0UENPWmNNX0VNWEp2bHlyR29IM0ZTdU9MNnNEeDZTVWFvLWV6ckRkbjJlQU8tVmFZWmxEMWZzZ1R3Vm1adUJQUmdB?oc=5",
+     "source": "PhillyBurbs",
+     "published": "2026-11-18T16:17:00+00:00",
+     "summary": "After election losses, state rep offices in Bucks shutting down today&nbsp;&nbsp;PhillyBurbs",
+     "image": ""
+    },
+    {
+     "title": "Summit County election results are official: $71M recreation bond fails by 201 votes",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTGVrVHNFdG1nZDZxa1RudU1lRW9FbXpGaWJHOHJXYUltd3BoaVoyQWgzOEtpemVady1ZR0Zyd0hMM3JHakE0MGN3cm9KNG9aSDlHay10eGRMQ3ZnbHNPNXhDMkhXWUJROFd0S0dXdktldWdpTEV6M2d2Ylp6SjdzbWZYZm9JNE82TjQySXpBZXJNaGhQZWNRWmZjTy1DWXdKN3dZeG90VkZXUHg2M0pyZ0Rn?oc=5",
+     "source": "TownLift Park City",
+     "published": "2026-11-18T16:11:24+00:00",
+     "summary": "Summit County election results are official: $71M recreation bond fails by 201 votes&nbsp;&nbsp;TownLift Park City",
+     "image": ""
+    },
+    {
+     "title": "Santa Barbara Unified stops short of voting on \u2018Technology With Intent\u2019 policy",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWhXaFNfWmR0bW0zZkpLWHQyekEwRlZBWmFha09Na05EVXlXWjBtbXZFNXB3YklfSXlFSkZmeFg3U0JqS2lOM2Fod2JleV9pS3h4UXNzeG5FNWhjQk9XUEkzTzVEVFdmeDBwSWppRnZnM0k1cjNxdERXZlZBNXJfZGZUU1lWVVZVRmtGYndFaFlYZEcycHhtNlFYTFNEOWVkZm1nZFZEek56T3JNUm0tenhneHo?oc=5",
+     "source": "Santa Barbara News-Press",
+     "published": "2026-11-18T16:08:54+00:00",
+     "summary": "Santa Barbara Unified stops short of voting on \u2018Technology With Intent\u2019 policy&nbsp;&nbsp;Santa Barbara News-Press",
+     "image": ""
+    },
     {
      "title": "Peltola win doesn\u2019t end DOJ scrutiny of Alaska Senate race, officials say",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclRqakVXUkJrNkk2MjRUR3ZWNlpvMmM1c0dFYTI0bE9KX3lpUTlmcnF3VWhRSUhZMTJ6c3N2R0NGZWxfMVA4c0hKR0lqR3ZxWVRvbndQWkFtdzlVbFZtM2IxbTczeEJ1WWZackRJQzhIeGtjejBNOFkzNE9QbE5CX2pkVkRaTURJZDg2OGt3OUthR3BtZU9YLXl6M244cTBPUy1kVGJoaUVVVjhNdFMyZWNjWE05Z2IyaGhucGRELXdKV0JucFZTWA?oc=5",
      "source": "The Washington Post",
      "published": "2026-11-18T16:02:10+00:00",
      "summary": "Peltola win doesn\u2019t end DOJ scrutiny of Alaska Senate race, officials say&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Christine Flowers: Mississippi election results fulfill wish of many alive and many who died",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2xMZEpiYlMybFVueVl5T1ZwMG5KWlpRbUV0MTkyallwSFphODNNSjVaX3pSVkR0WnVDajFSOS1fUnNSUG9tMTdqanctSkFTYUxTQXFjQmlaOUg1NnhTazE4eXV6Sk00Z2dFQUdFejNyRkpYRmREU2s5R0ZjamJVTnJDcG5TWlJfaUZDeWtScVZzbFNZd1hqTHJ5UXlyZ1poZ0xDQUJ0ZWhJZFVTWE40Q21keTJvQmk4eVhyQVZ3?oc=5",
+     "source": "TribLIVE.com",
+     "published": "2026-11-18T16:02:06+00:00",
+     "summary": "Christine Flowers: Mississippi election results fulfill wish of many alive and many who died&nbsp;&nbsp;TribLIVE.com",
      "image": ""
     },
     {
@@ -250,14 +306,6 @@
      "image": ""
     },
     {
-     "title": "House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch speaker nomination \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-18T15:54:32+00:00",
-     "summary": "If elected, Jeffries would become the first Black person to hold the gavel in US historyTrump in China for Apec summit \u2013 follow liveSign up for US breaking News emailLinked to that",
-     "image": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=140&quality=85&auto=format&fit=max&s=f4bab182fae547a69918110ff470d989"
-    },
-    {
      "title": "Simpson experts reflect on historic 2026 midterm election",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzI3UzJXQ0FXcjVzbmlSdHlEWGlqQWM5Y08xVUFUeXV5YXNta0NUek5CRWp3dmV3Zm1CVlFyWjZBeUliY3NidXRxbGlOZmdNMnpvODc5UTVHaDNSeTBUaGFEV0VTNGtNaHlTVzlqYklyVEkxNlctNFllX3BIR2cxVHM1OXEtLWo2LWVkWVdnd0tXQWtUV05KZkFkVQ?oc=5",
      "source": "The Simpsonian",
@@ -272,59 +320,11 @@
      "published": "2026-11-18T15:49:08+00:00",
      "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog saysThe environment secretary, Angela Eagle, her ministers and Natural En",
      "image": "https://i.guim.co.uk/img/media/ec8ab6692ef60ad08b4c21283c2bd1f5159aa301/878_0_2879_2303/master/2879.jpg?width=140&quality=85&auto=format&fit=max&s=0abe6318a3a8ec18bf059cb38498f37c"
-    },
-    {
-     "title": "W.Va. State Treasurer to release policy priorities for 2027 legislative season",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeF82UHlmVC02VVQ5M085MFAtdDFvSXphOHVBMHNIb09LZ2RnRmdZT0VTZkUxZjRpVm1RcFNBTS1vc0ZPV25mUkZwV0VCamlQbXJ2TTRuaThMOHRKcGlVczFDOU41UVZINUVlREczZU5qcW5JNUkxd3pGSXRhRENBMnpvbmlHWENHeXlVRmltM2lySkJGalhZSGVleDJsbnp6Ump6UHFmMXMzSEUzSmxIc24yWQ?oc=5",
-     "source": "WSAZ",
-     "published": "2026-11-18T15:49:00+00:00",
-     "summary": "W.Va. State Treasurer to release policy priorities for 2027 legislative season&nbsp;&nbsp;WSAZ",
-     "image": ""
-    },
-    {
-     "title": "The Israeli Election Explained | Interview: Dan Senor",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2FvQndfZy1vandXOC1US3Q5S1RRUGFFX0VLdmpBOFpwQlZxMjZ3N2xhbzZJVmJDWlJZN0JMZFpxVDRmTHF1bmxmNlJvVkJQZXRWYm9Nd2k1TjNOM2NxcW4wRTFXQmJabGN5YzFPTUdEbGthazI2SWVmRU1OcktGcWtRSTNXQlJ6V2c?oc=5",
-     "source": "American Enterprise Institute - AEI",
-     "published": "2026-11-18T15:38:51+00:00",
-     "summary": "The Israeli Election Explained | Interview: Dan Senor&nbsp;&nbsp;American Enterprise Institute - AEI",
-     "image": ""
-    },
-    {
-     "title": "Hakeem Jeffries becomes first Black nominee for US House speaker",
-     "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T15:37:52+00:00",
-     "summary": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
-     "image": ""
-    },
-    {
-     "title": "Mary Peltola flips Alaska seat, giving Democrats a 56-44 edge in Senate",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHlDZmRXbTJwaXgzUUlqOEx1X1VjN2ZQTlNjeEYxZ29MTGtmYnFnVExyS1NKOHlYbDFHamoxUkVtaDNpSzJkRHhySzBEQkpnWXF5LU90YlBReTVQcXdJYXVaZVR1ZnFtb1M0UHJzUVpNcTFmNFdzR092NXl3LTRTQ2d1bHFXZWQ1MHBINk5YOXFqYkI4S3hZUXdkdnY2TC1ySDd6ZmNWb2xKdUlsWHVXR1hGZ0ViOGM0WVMtTE5R?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-18T15:31:24+00:00",
-     "summary": "Mary Peltola flips Alaska seat, giving Democrats a 56-44 edge in Senate&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Burnham should fight next election on promise to rejoin EU, says Peter Kyle",
-     "url": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
-     "source": "The Guardian",
-     "published": "2026-11-18T15:18:34+00:00",
-     "summary": "Exclusive: Former business secretary calls for Labour manifesto commitment with referendum on final decisionUK politics live \u2013 latest updatesAndy Burnham should fight the next elec",
-     "image": "https://i.guim.co.uk/img/media/fd4a53ec54287465ec01b8e8411248e3f7adad8d/0_0_3760_3008/master/3760.jpg?width=140&quality=85&auto=format&fit=max&s=3acf204524ff24d0d44c00a9c799f024"
-    },
-    {
-     "title": "Who Are FIFA's Presidential Election Candidates To Replace Gianni Infantino?",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlpjVlV0b3U4UlRuNlU4ODdfNTB1SjJSaXdwdXR3Z1RjQjdBU2dUZFlPZ0U3bjdJZnAxMG9nZkt4cnpuMzVyRm9ERzRSaF9tOHNKWThFNHdZcHVHNHdJdkJVbTdSS0NqNEZFTTMyOUlQM3BLRjJRRTBPUW1MZFFyVG1zVHo2LWRNb3pyTUl0a3hLcC1vMFdqRzlyQl9YcXNQNFHSAaIBQVVfeXFMUFRiWWVUbmdOUkQzS19HMW12UWwzTDZLTHI1SHJBeHE4Ri1taTdHMFRsMlAxMmQ3Q3RDaXNnMi14LVozT0JuNFg3eU53X2EtTEJqLVVpS2RaTW1JNDJJbm9GeHctVFhPZDVkMVBmc0hJdGJWcjV1NlNQcWNIZnlKRXhOT09QSjFEUnotOW1KN3c1a2xIRVVOSXFmcUhoREdHM3Zn?oc=5",
-     "source": "FOX Sports",
-     "published": "2026-11-18T15:15:38+00:00",
-     "summary": "Who Are FIFA's Presidential Election Candidates To Replace Gianni Infantino?&nbsp;&nbsp;FOX Sports",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-18T16:09:27.410914+00:00",
+   "fetched_at": "2026-11-18T16:39:31.913832+00:00",
    "stale": false,
    "items": [
     {
