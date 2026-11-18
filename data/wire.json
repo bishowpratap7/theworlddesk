@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T09:38:10.409704+00:00",
+ "generated_at": "2026-11-18T09:38:23.693486+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-18T09:38:10.409675+00:00",
+   "fetched_at": "2026-11-18T09:38:23.693457+00:00",
    "stale": false,
    "items": [
     {
@@ -12,6 +12,22 @@
      "published": "2026-11-18T09:27:51+00:00",
      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg"
+    },
+    {
+     "title": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
+     "url": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T09:18:37+00:00",
+     "summary": "Cricket Australia says it will establish a forum, likely led by a former judge, but there will be no new sanctions.",
+     "image": ""
+    },
+    {
+     "title": "India-UK ties outride Modi\u2019s \u2018decolonisation\u2019 rhetoric",
+     "url": "https://www.aljazeera.com/news/2026/11/18/india-uk-ties-outride-modis-decolonisation-rhetoric?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T09:13:12+00:00",
+     "summary": "Prince William&#039;s visit highlights growing partnership between New Delhi and London, despite their colonial history.",
+     "image": ""
     },
     {
      "title": "Apec summit live: Xi and Putin start talks as Trump arrives in China",
@@ -28,6 +44,14 @@
      "published": "2026-11-18T09:10:43+00:00",
      "summary": "Home secretary to tell police chiefs \u2018misguided attempts at course correction\u2019 can lead to \u2018differential treatment\u2019UK politics live \u2013 latest updatesShabana Mahmood will set out pla",
      "image": "https://i.guim.co.uk/img/media/a5df35b527e78eea429c557f14c5c7c34d9b9d11/213_0_2158_1727/master/2158.jpg?width=140&quality=85&auto=format&fit=max&s=a5570a308c9422a7e2cebae2da60a5a0"
+    },
+    {
+     "title": "Myanmar-linked arsenic pollution prompts clean water scramble in Thailand",
+     "url": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T09:10:21+00:00",
+     "summary": "Thai authorities race to provide safe water to villagers after arsenic from Myanmar mines contaminates Mekong River.",
+     "image": ""
     },
     {
      "title": "Shabana Mahmood pledges to tackle \u2018corrosive and growing perception of two-tier policing\u2019 \u2013 UK politics live",
@@ -92,35 +116,11 @@
      "published": "2026-11-18T08:35:19+00:00",
      "summary": "An analysis of autopsy records and photos suggests the US sex offender was murdered in 2019, an expert says.",
      "image": ""
-    },
-    {
-     "title": "Ships risk Hormuz Strait due to limited US protection",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ships-risk-hormuz-strait-due-to-limited-us-protection?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T08:12:20+00:00",
-     "summary": "Elisabeth Braw with the Atlantic Council says US navy cannot protection to every vessel passing the Hormuz Strait.",
-     "image": ""
-    },
-    {
-     "title": "China\u2019s Xi pitches free trade at APEC amid Trump\u2019s global trade disruptions",
-     "url": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T08:05:18+00:00",
-     "summary": "The president says Beijing seeks to provide a &#039;stable, predictable and beneficial environment for global enterprises&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Burnham considering cuts to national insurance to create more youth jobs",
-     "url": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
-     "source": "The Guardian",
-     "published": "2026-11-18T08:03:32+00:00",
-     "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25sMilburn urges Burnham to spend billions on young peopleWho are the Ne",
-     "image": "https://i.guim.co.uk/img/media/e7c724ea18187cf1562474492f2c3c9deb12ff39/451_0_4505_3604/master/4505.jpg?width=140&quality=85&auto=format&fit=max&s=a230d7eb0898ce7934bbc9fcff858e2a"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-18T09:38:10.409689+00:00",
+   "fetched_at": "2026-11-18T09:38:23.693471+00:00",
    "stale": false,
    "items": [
     {
@@ -130,6 +130,14 @@
      "published": "2026-11-18T09:12:01+00:00",
      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summ",
      "image": "https://i.guim.co.uk/img/media/0011d23e2098b25ad493ea535b2c96ddaa8ef28f/579_0_4411_3529/master/4411.jpg?width=140&quality=85&auto=format&fit=max&s=180a577985f10c7f06326a8c211ecf87"
+    },
+    {
+     "title": "Myanmar-linked arsenic pollution prompts clean water scramble in Thailand",
+     "url": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T09:10:21+00:00",
+     "summary": "Thai authorities race to provide safe water to villagers after arsenic from Myanmar mines contaminates Mekong River.",
+     "image": ""
     },
     {
      "title": "Canada says Russia sanctions to keep increasing while Ukraine war continues",
@@ -210,19 +218,11 @@
      "published": "2026-11-18T07:42:09+00:00",
      "summary": "Daily Update: Russia Loses 1,970 Troops as Crimean Bridge Makes Its Debut on Ukraine\u2019s Losses List&nbsp;&nbsp;UNITED24 Media",
      "image": ""
-    },
-    {
-     "title": "Italy approves anti-semitism law despite concerns over freedom of expression",
-     "url": "https://www.france24.com/en/europe/20261118-italy-approves-anti-semitism-law-despite-concerns-over-freedom-of-expression",
-     "source": "\u00a9 Alessandra Tarantino, AP",
-     "published": "2026-11-18T07:37:42+00:00",
-     "summary": "Italy's \u200bparliament on Tuesday approved a new bill aimed at combating anti-semitism \u2013 which lists some forms of criticism of \u2060Israel as examples of anti-semitic conduct \u2013 despite c",
-     "image": "https://s.france24.com/media/display/8ca81bd0-e321-11f1-98b5-6d75ed565170/w:1024/p:16x9/AP26321718278404.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-18T09:38:10.409693+00:00",
+   "fetched_at": "2026-11-18T09:38:23.693475+00:00",
    "stale": false,
    "items": [
     {
@@ -247,6 +247,14 @@
      "source": "MS NOW",
      "published": "2026-11-18T09:23:14+00:00",
      "summary": "Mary Peltola unseats Sen. Dan Sullivan, flipping Alaska for Democrats&nbsp;&nbsp;MS NOW",
+     "image": ""
+    },
+    {
+     "title": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
+     "url": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T09:18:37+00:00",
+     "summary": "Cricket Australia says it will establish a forum, likely led by a former judge, but there will be no new sanctions.",
      "image": ""
     },
     {
@@ -312,19 +320,11 @@
      "published": "2026-11-18T08:05:18+00:00",
      "summary": "The president says Beijing seeks to provide a &#039;stable, predictable and beneficial environment for global enterprises&#039;.",
      "image": ""
-    },
-    {
-     "title": "What the New Democratic Congressional Majority Means for Trump\u2019s Asia-Pacific Policy",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlZCd2J0TDlaU1RuYWlGcDZ3YWNmbnFkbEI4cHJCeHAxMnJTSmU2M2JGR0lqMFVwTGxyX3RMRnRLRnBhWUxEUWxFX0hrYXVRMkdCVVNrYXIwSUN2dWJieXVzTDRINUc4dDFJVG95algwT0hZMEFJM3JOTno4b2xGcWRfVFYtYXJEc2dtdFhWbU1kLTktX3ZKVkowN3hLNmJIcC1fV2FCcmJCU3dfMnJCX282MDVxVkk?oc=5",
-     "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-     "published": "2026-11-18T07:47:29+00:00",
-     "summary": "What the New Democratic Congressional Majority Means for Trump\u2019s Asia-Pacific Policy&nbsp;&nbsp;The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-18T09:38:10.409695+00:00",
+   "fetched_at": "2026-11-18T09:38:23.693477+00:00",
    "stale": false,
    "items": [
     {
