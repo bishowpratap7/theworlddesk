@@ -1,17 +1,81 @@
 {
- "generated_at": "2026-11-18T21:10:19.281694+00:00",
+ "generated_at": "2026-11-18T21:40:23.022537+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-18T21:10:19.281668+00:00",
+   "fetched_at": "2026-11-18T21:40:23.022509+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+     "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T21:24:19+00:00",
+     "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+     "image": ""
+    },
+    {
+     "title": "Bassirou Diomaye Faye excluded from Senegal's ruling party",
+     "url": "https://www.france24.com/en/bassirou-diomaye-faye-excluded-from-senegal-s-ruling-party",
+     "source": "France 24",
+     "published": "2026-11-18T21:21:28+00:00",
+     "summary": "In tonight's edition, the political divorce between Senegal's president and the powerful former prime minister and mentor is official. Also, all of Nigeria's states have shown will",
+     "image": "https://s.france24.com/media/display/99dabb00-e394-11f1-9448-6d75ed565170/w:1024/p:16x9/DL00006190-VOD-00023669-01.jpg"
+    },
+    {
+     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T21:13:06+00:00",
+     "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
+    },
+    {
+     "title": "Floodwaters submerge cars and parking lots in Florida town",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T21:08:04+00:00",
+     "summary": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
+     "image": ""
+    },
+    {
+     "title": "FAA chief urges critics to \u2018lay off\u2019 Sean Duffy for flight stoppage: \u2018Blame me\u2019",
+     "url": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
+     "source": "The Guardian",
+     "published": "2026-11-18T21:04:58+00:00",
+     "summary": "Comments come as the top US transportation official faces scrutiny over his handling of tech outage crisisThe head of the Federal Aviation Administration (FAA) took responsibility ",
+     "image": "https://i.guim.co.uk/img/media/4616ce07e7f4de93e722db12aac9bc8b412424c5/0_0_4183_3346/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=f371062e4069fc225f68db85be5fe6f9"
+    },
+    {
+     "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+     "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T21:01:05+00:00",
+     "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+     "image": ""
+    },
     {
      "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-18T20:33:13+00:00",
+     "published": "2026-11-18T20:57:57+00:00",
      "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelledSign up for US breaking News emailLinked to that, the White Hous",
      "image": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=d55919554ad283a6dea6af077192b393"
+    },
+    {
+     "title": "What does Israel\u2019s new ground offensive mean for Palestinians in Gaza?",
+     "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T20:38:06+00:00",
+     "summary": "Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.",
+     "image": ""
+    },
+    {
+     "title": "Pew Research: Islam on track to become world\u2019s largest religion by 2035",
+     "url": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T20:37:40+00:00",
+     "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
+     "image": ""
     },
     {
      "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
@@ -52,77 +116,37 @@
      "published": "2026-11-18T20:24:19+00:00",
      "summary": "Defense secretary asserts US dominance on trip that would have seemed \u2018impossible, almost unbelievable\u2019 a year agoPete Hegseth has used his first visit to Venezuela since US specia",
      "image": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=140&quality=85&auto=format&fit=max&s=a602efe982c7bd9253634a0a1cb5dd5a"
-    },
-    {
-     "title": "Muslims projected to overtake Christians as world\u2019s largest religious group",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T20:21:34+00:00",
-     "summary": "New Pew Research Center projections point to major changes in the world\u2019s religious landscape by 2070.",
-     "image": ""
-    },
-    {
-     "title": "US loses measles-free status after 26 years in historic setback",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T20:18:25+00:00",
-     "summary": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
-     "image": ""
-    },
-    {
-     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T20:14:57+00:00",
-     "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Trump and Putin to meet one-on-one in China Thursday",
-     "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T20:12:20+00:00",
-     "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
-     "image": ""
-    },
-    {
-     "title": "William and Kate meet PM Modi as they wrap up India tour",
-     "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T20:07:08+00:00",
-     "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg"
-    },
-    {
-     "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
-     "url": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
-     "source": "The Guardian",
-     "published": "2026-11-18T20:03:50+00:00",
-     "summary": "Home secretary says \u2018routine two-tier policing\u2019 does not exist, but public trust in impartial law enforcement must be restoredShabana Mahmood has backed a ban on police officers ma",
-     "image": "https://i.guim.co.uk/img/media/fe32e8fff64ccad51c80ae6cbee03e277ab28439/170_0_2659_2128/master/2659.jpg?width=140&quality=85&auto=format&fit=max&s=f3803d60f09103d48c5683bac96d774d"
-    },
-    {
-     "title": "US Democrats nominate Jeffries to be first Black House speaker",
-     "url": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
-     "source": "France 24",
-     "published": "2026-11-18T19:58:23+00:00",
-     "summary": "Hakeem Jeffries is on the cusp of becoming the first Black speaker of the US House of Representatives after Democrats elected him their leader Wednesday following a sweeping midter",
-     "image": "https://s.france24.com/media/display/a8e4f9b8-e389-11f1-908f-1ba7ddfab527/w:1024/p:16x9/EN-20261118-204203-204553-CS.jpg"
-    },
-    {
-     "title": "Heated debate escalates into on-air fight on Armenian TV",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T19:56:17+00:00",
-     "summary": "A heated political debate on Armenia\u2019s Public Television escalated into a physical altercation",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-18T21:10:19.281681+00:00",
+   "fetched_at": "2026-11-18T21:40:23.022522+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+     "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T21:01:05+00:00",
+     "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+     "image": ""
+    },
+    {
+     "title": "EU proposes \u20ac45bn loan for Ukraine to avert cash crisis and boost defences",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUUtlOVpGUm1CT2Zlbl9UalNtYjZwbnBLcGpXQ3pJR1VPOVJsc3lJWl9vMEFMY0hxWnNjLVFhNmVqUk5OQWo3MXRPb1pVX0J5VkNYeXRDaHJqdVVPYUVMZDB4QVBpZndybzVvQjVIUDhDazVRUFZ3OVRYVW5PU1A1aDJ4TkJZR1lPWlpKSTl4UFRiMkFic2RydlNVZFNrSWw5X05V?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-18T20:47:00+00:00",
+     "summary": "EU proposes \u20ac45bn loan for Ukraine to avert cash crisis and boost defences&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "What does Israel\u2019s new ground offensive mean for Palestinians in Gaza?",
+     "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T20:38:06+00:00",
+     "summary": "Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.",
+     "image": ""
+    },
     {
      "title": "Ukraine, Russia target bridges as war against critical infrastructure escalates",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDY2bm1yemVjdm5UNmI0eGFZcjV6cUxMSGxUNkZ1QzJzcG53SUhDNEREWE9TUDNVanRCbDVWUzduU3VJX2NjTU05MklBTWpEV3BBQjNjUVU5akN3bjVZX09rWlJfQks1ZURvSGN5ZWZJYjV1NkV0cEIxVk9TaXBwaHJMcEpBb3g0X0t2Zk0wSjdPYTRjaEpKX19uYUtkREhjLWs1THhRZllhdW11YTFzbGw4RzFtN3Ru?oc=5",
@@ -194,42 +218,74 @@
      "published": "2026-11-18T19:52:48+00:00",
      "summary": "Prince Harry warns UK to brace for war with Russia, says he will rejoin army&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
-    },
-    {
-     "title": "'Netanyahu's only 2 tickets are racism or starting a war: He stopped acting as a democratic player'",
-     "url": "https://www.france24.com/en/tv-shows/spotlight/20261118-netanyahu-s-only-2-tickets-are-racism-or-starting-a-war-he-stopped-acting-as-a-democratic-player",
-     "source": "France 24",
-     "published": "2026-11-18T19:45:16+00:00",
-     "summary": "Fran\u00e7ois Picard is pleased to welcome Israeli writer and filmmaker Etgar Keret, author of \"The Seven Good Years\", joining us from Tel Aviv. Keret argues that Netanyahu is seeking t",
-     "image": "https://s.france24.com/media/display/991ef9ca-e37f-11f1-b661-6d75ed565170/w:1024/p:16x9/EN-20261118-181737-182702-CS.jpg"
-    },
-    {
-     "title": "Xi welcomes Trump: Does Nvidia scandal upend US-China AI race?",
-     "url": "https://www.france24.com/en/tv-shows/the-debate/20261118-xi-welcomes-trump-does-nvidia-scandal-upend-us-china-ai-race",
-     "source": "France 24",
-     "published": "2026-11-18T19:42:17+00:00",
-     "summary": "You can strike Jensen Huang from the guest list but good luck steering dinner conversation away from the topic in Shenzhen. The co-founder of the AI computing leader was to accompa",
-     "image": "https://s.france24.com/media/display/fce0ffda-e35c-11f1-91a4-7908c4e1a3c7/w:1024/p:16x9/2026-11-18T135542Z-942132153-RC2DQOAWFQTC-RTRMADP-3-APEC-SUMMIT.jpg"
-    },
-    {
-     "title": "Four killed as Russian strikes hit Ukraine\u2019s Odesa",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFFETUkwVTJwMzRSLTJFb3JYSi1KSExMM25FVlRMaTQwX2Q3aV9xQ0RPcEluUGxncm9TTVJuWkZQRl9YLUtxbW9MRS1NMEhwZzMtc0RMM05IMk5sWEpfZU4tZFBJdXNkOEdVWVowb1NJajlpdHJ3VkdZalFJWUd3M1hEM09GX0h3RTJlZmYyZWdRdDNxSWJDR2NCWHVkMmtIZm5R0gGoAUFVX3lxTE9nb1RhZkFJcTFqRzZTMWxfQjhRb3NibDRna3NiM283VUdDa2o3a3RFaUZHRFdtc3pzNjl0N3BGMDZKbDR3TTFXOU1OdmlveGNaVVd3Ykw2VTR5aUJpc3Bwc3RyRHp5d1p3OWNfYzFEUlBFMGJ3bEE3ZlF4ZEYwMHFlWGtoYk9hek5IYW9iQ3VOdHpIcFFCeVZMMW1rLVRBV3lBZ1lFa3RkZQ?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T19:41:20+00:00",
-     "summary": "Four killed as Russian strikes hit Ukraine\u2019s Odesa&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-18T21:10:19.281684+00:00",
+   "fetched_at": "2026-11-18T21:40:23.022526+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Peltola win doesn\u2019t end DOJ scrutiny of Alaska Senate race, officials say",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclRqakVXUkJrNkk2MjRUR3ZWNlpvMmM1c0dFYTI0bE9KX3lpUTlmcnF3VWhRSUhZMTJ6c3N2R0NGZWxfMVA4c0hKR0lqR3ZxWVRvbndQWkFtdzlVbFZtM2IxbTczeEJ1WWZackRJQzhIeGtjejBNOFkzNE9QbE5CX2pkVkRaTURJZDg2OGt3OUthR3BtZU9YLXl6M244cTBPUy1kVGJoaUVVVjhNdFMyZWNjWE05Z2IyaGhucGRELXdKV0JucFZTWA?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-18T21:30:29+00:00",
+     "summary": "Peltola win doesn\u2019t end DOJ scrutiny of Alaska Senate race, officials say&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+     "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T21:24:19+00:00",
+     "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+     "image": ""
+    },
+    {
+     "title": "Bassirou Diomaye Faye excluded from Senegal's ruling party",
+     "url": "https://www.france24.com/en/bassirou-diomaye-faye-excluded-from-senegal-s-ruling-party",
+     "source": "France 24",
+     "published": "2026-11-18T21:21:28+00:00",
+     "summary": "In tonight's edition, the political divorce between Senegal's president and the powerful former prime minister and mentor is official. Also, all of Nigeria's states have shown will",
+     "image": "https://s.france24.com/media/display/99dabb00-e394-11f1-9448-6d75ed565170/w:1024/p:16x9/DL00006190-VOD-00023669-01.jpg"
+    },
+    {
+     "title": "Buda City Council certifies November election results, declares winners",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHVKS2ZCOFJiNzUyemZKa2IwLXlyMUgtYk9NanJ1YTFpQ0Vxb1ZsNmFWeHhwMmRmQlBMY1BCVzIweE1QcnVTSEpmVGFFUjBaY2g0SlAtdFoxLXRaOVAtWXNZT1M1eDYwenRncTJ3WlVnRlFJZ2ljTmZ6aGp2YlhHUkpTd1A0UnkxNVBaMWNlVHBsSGZFdDh1ejVva0RienVuQkNiRTNuMmxNaEdqdjlZdHJmZkQ?oc=5",
+     "source": "Hays Free Press",
+     "published": "2026-11-18T21:20:00+00:00",
+     "summary": "Buda City Council certifies November election results, declares winners&nbsp;&nbsp;Hays Free Press",
+     "image": ""
+    },
+    {
+     "title": "Request for Information: Space Policy Advisory and Research Services (SPARS)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDRSYy0zeDhzNUl1eFFjRHM3NFFYQVlBWjltRWRpUjJYNEs3cnlEa0txbkpYcTRHVERpNU9PTUswdnhsSzRNOGNMN0lPWnR5akV2aVZoemJLX1RpdDVLZFVZZ2xYd3VhOUhqX05sVk1NcGlXV1JNdHFZRGhLR0V4d3JpbExMT0dCd1N4LUhIcm5Pc1kyckl0bFU4cVJwMmh4bkxn?oc=5",
+     "source": "Space Commerce (.gov)",
+     "published": "2026-11-18T21:16:37+00:00",
+     "summary": "Request for Information: Space Policy Advisory and Research Services (SPARS)&nbsp;&nbsp;Space Commerce (.gov)",
+     "image": ""
+    },
+    {
+     "title": "Alaska Shows How Ranked Choice Can Blunt Election Spoilers",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUdJaGhHUmp4SUw5OVJoMFFDaG1VYWpSLVVqSjZ1Y3BCYlVHU2U0eEl6R1pxWVh4MTFubW1Zdm9yZUZZS3k3cXVwLVlyMnhLOWJWaXZMQk1BbGUtcHRhN3llOUp2TGdUU0k2UkNaWGJudDBCSDRabkJMLWNGQ1I0RmFZb3pra21TZVVWWkltX3N2b0ZZRjlMUGNrTmFUTG9PMm5qTHB6WDZrSUk0eEprYzZn?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-18T21:13:52+00:00",
+     "summary": "Alaska Shows How Ranked Choice Can Blunt Election Spoilers&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "Climate Disinformation and AI Policy Platform",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYWppRV90d05QdWs5TGc1QUdKZFEwaTFlMWhZM2IzN1lJOGlIV0JGcVE5UHhXT3RHa2tpRTR5UU9vMUh0UHFMSkptZ2hoTEsyZktIcXJNQXVDaWhvTlowU1c5VWJUaEctQ3hrWllnYnduaU1aRkE?oc=5",
+     "source": "Friends of the Earth",
+     "published": "2026-11-18T21:11:17+00:00",
+     "summary": "Climate Disinformation and AI Policy Platform&nbsp;&nbsp;Friends of the Earth",
+     "image": ""
+    },
     {
      "title": "Democrats seek special election in GOP Indiana Senate leader\u2019s disputed race",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWXR6a2lSYUpaZ0xfTG5BLVRLOG1Pdi15eEMwQ0sxT2ZGYjRFRU00VXUwNk1zV01Zajd6TldOS0wzczRRSFFyVFhqV2wzd1hWY3F6b0ZNcjNBMElyTElDRFJZSkhrM0t3YXFES3A1TTMzcWtPRW9PRHJzcVZqeW9QbGNzZ3RQV2JaSWVlYWRURXEzX2hqQldPT2hQLVc2V0pmOFFUck1WQ1ZDbzhfS3QtWG9FaFZ5S3c3WkhqRl9oVEs?oc=5",
      "source": "Indiana Capital Chronicle",
-     "published": "2026-11-18T21:09:27+00:00",
+     "published": "2026-11-18T21:09:11+00:00",
      "summary": "Democrats seek special election in GOP Indiana Senate leader\u2019s disputed race&nbsp;&nbsp;Indiana Capital Chronicle",
      "image": ""
     },
@@ -264,67 +320,11 @@
      "published": "2026-11-18T21:02:06+00:00",
      "summary": "NewsNation uses clean look with thick map frames for 2026 election coverage&nbsp;&nbsp;NewscastStudio",
      "image": ""
-    },
-    {
-     "title": "U.S. Sanctions Hizballah Front Organization and Iran-Backed Financial Network",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS253NTBHWk90QldjR3QzcXdkbXBNaXljeHB5bU9FVHZfNTcxalZha2lWVmIwSGttMmhfSXljdEt3a2V4dEVfVFlFTGdLTXlqZHZoZmZYNzlSVnF3cHdPa3pPTnVzWWJ2aEktWU5kUFFaY1JaTG41WVlMZFBEUG4zNU5nNU9PNVMzZzJvYzBQUzFSeFNmbjNMVmJRRFpxamVaZjdaZw?oc=5",
-     "source": "U.S. Virtual Embassy Iran (.gov)",
-     "published": "2026-11-18T21:01:59+00:00",
-     "summary": "U.S. Sanctions Hizballah Front Organization and Iran-Backed Financial Network&nbsp;&nbsp;U.S. Virtual Embassy Iran (.gov)",
-     "image": ""
-    },
-    {
-     "title": "North Dakota canvassing board certifies 2026 election results; one House race qualifies for recount",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNazNKMUVwelJkLURzazFhSE42eXVYd1kzdUhiS3h4WTc4LWg3a0Zldk84TWtCOXZPYWwxS0d3aGNaZGpiYWFwMHp2WmFtU0IxRmdsTjF4c25Ca3Nqd1cwUkdGNm9BX19pMDVFQVNpdlpUWjJMTUJUSjNiYlp3SGpVd1ZVUVpxbjVaM0dpNUlBbzJqbG9ZVjBFYlFGaWtvY0dLUTBhZFBXMjBjOE5YSGlCdG5QNVZ5amJPS1RDOEcyYk5ycGlfRVhGOXh2OVdWSS1vUGI4?oc=5",
-     "source": "Valley News Live",
-     "published": "2026-11-18T21:00:00+00:00",
-     "summary": "North Dakota canvassing board certifies 2026 election results; one House race qualifies for recount&nbsp;&nbsp;Valley News Live",
-     "image": ""
-    },
-    {
-     "title": "Telemundo\u2019s offers subtler take on NBCU election look",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHNDUXlBU3hvRW1DVERSdDNLMWlnREFGajFKalpEdWhBSjRnQm1ua0loSmxGSHY4Q3ZpSk9KMXdyQjVoV2ZMX002LW1wQ3E2ekw4OGpVbmlIMXBDek5TeTVXV1c2QkpIeWFBeVlnNW1vMjg1N2pNWVVBanpab2tGNlBFMTc0R0JJZlA4?oc=5",
-     "source": "NewscastStudio",
-     "published": "2026-11-18T20:57:19+00:00",
-     "summary": "Telemundo\u2019s offers subtler take on NBCU election look&nbsp;&nbsp;NewscastStudio",
-     "image": ""
-    },
-    {
-     "title": "Grothman Re-Elected to House Republican Policy Committee",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTbFhzY3NPVmwwbi1NLW8wNW9yT0dLN3NZdU5RenlscHU4eWIzWnNYN2gtNXVlNE03VkVzdE9OcjFUTEctTm5XUk9TMTNWMnZRMEUyMThiZ2I0ZHlBemVuTWdsRWFNTk1Eelg1emJTYUVqbS1mVlE?oc=5",
-     "source": "Glenn Grothman (.gov)",
-     "published": "2026-11-18T20:56:52+00:00",
-     "summary": "Grothman Re-Elected to House Republican Policy Committee&nbsp;&nbsp;Glenn Grothman (.gov)",
-     "image": ""
-    },
-    {
-     "title": "Montana Stockgrowers Launch Water Policy Resource Hub to Support All Water Users",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWZtME9lMG9PdUUzVFFZQ0gxb3ZablU2YzRnbWhud25aYkdpSXJ1WWdsYVBjN0tBdktQLU1GZkZmOHpiRXlKUWVMNWFmeGNuajIydy1NLVd5eGdjODMtODZiQVdpU0RyUl82NUFoeVh6NjZvYzlqdHFDNWFPTXQwUGdPdTZWSUpvRHNNX3E2aXNia1I4YlViWm1teUNEb2JfSEdRNVVZTE5BQzFo?oc=5",
-     "source": "Northern Ag Network",
-     "published": "2026-11-18T20:43:57+00:00",
-     "summary": "Montana Stockgrowers Launch Water Policy Resource Hub to Support All Water Users&nbsp;&nbsp;Northern Ag Network",
-     "image": ""
-    },
-    {
-     "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-18T20:33:13+00:00",
-     "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelledSign up for US breaking News emailLinked to that, the White Hous",
-     "image": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=d55919554ad283a6dea6af077192b393"
-    },
-    {
-     "title": "Reconstruction begins at Limoges City Hall after devastating fire",
-     "url": "https://www.france24.com/en/reconstruction-begins-at-limoges-city-hall-after-devastating-fire",
-     "source": "France 24",
-     "published": "2026-11-18T20:31:40+00:00",
-     "summary": "It's been a month since the nationwide protests that degenerated in violence across France. The dramatic pictures of the historic City Hall in the French city of Limoges set on fir",
-     "image": "https://s.france24.com/media/display/3b54e79a-cbfc-11f1-a1af-2d1c143cdef3/w:1024/p:16x9/000-D3LR764-1.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-18T21:10:19.281686+00:00",
+   "fetched_at": "2026-11-18T21:40:23.022528+00:00",
    "stale": false,
    "items": [
     {
