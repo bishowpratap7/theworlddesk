@@ -1,10 +1,74 @@
 {
- "generated_at": "2026-11-17T23:36:40.378930+00:00",
+ "generated_at": "2026-11-18T00:06:43.540890+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-17T23:36:40.378888+00:00",
+   "fetched_at": "2026-11-18T00:06:43.540861+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Iran war live: Kuwait says intercepting \u2018hostile\u2019 drone attacks",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T00:00:27+00:00",
+     "summary": "Kuwait intercepts &#039;hostile&#039; drone attacks as Bahrain warns of &#039;potential threat&#039;, urges citizens to remain calm.",
+     "image": ""
+    },
+    {
+     "title": "David Jones: what went wrong and what happens next? Five takeaways from first creditors meeting",
+     "url": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:53:58+00:00",
+     "summary": "Upmarket retailer, which recorded a net loss of $228m last financial year, has total debt over $400m including $11m owed to staff Get our breaking news email, free app or daily new",
+     "image": "https://i.guim.co.uk/img/media/0a2db8d77868f5135bedecc8258c52c399a9d09d/240_154_3881_3107/master/3881.jpg?width=140&quality=85&auto=format&fit=max&s=664046d8d658a9148945fec68d4245b7"
+    },
+    {
+     "title": "Trump brushes off NSA internal network outage: \u2018it\u2019s like that when you\u2019re big and powerful\u2019 \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:41:08+00:00",
+     "summary": "President\u2019s words could be seen to run counter to NSA\u2019s claim of \u2018scheduled routine maintenance\u2019 causing temporary issueSign up for US Breaking News emailAbdul El-Sayed, the Democr",
+     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
+    },
+    {
+     "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T23:38:38+00:00",
+     "summary": "Kuwait&#039;s military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+     "image": ""
+    },
+    {
+     "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+     "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:32:16+00:00",
+     "summary": "The company reported doubling revenue in its first earnings report after the ouster of CEO over allegations of affair with suspected Chinese spyNvidia \u201cdoes not intend to reinstate",
+     "image": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=886ec09740a96447a99058c23e7d0c2e"
+    },
+    {
+     "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+     "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T23:28:54+00:00",
+     "summary": "Eisenkot\u2019s bloc has pledged to undo some of Netanyahu\u2019s most contentious domestic policies following Kahana\u2019s election.",
+     "image": ""
+    },
+    {
+     "title": "First responders describe rescue efforts after New Orleans boat crash: \u2018We have to save each other\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-boat-crash-rescue",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:28:22+00:00",
+     "summary": "More than 100 people were pulled from the Mississippi River in mission being hailed as \u2018Mississippi miracle\u2019Mariners and first responders who took part in the so-called \u201cMississipp",
+     "image": "https://i.guim.co.uk/img/media/0320814945102d2dc8c282047d930500f2308966/350_0_2182_1746/master/2182.jpg?width=140&quality=85&auto=format&fit=max&s=81c1c2d27fbd8095584fb2bdbf87ae47"
+    },
+    {
+     "title": "Top spy agency suffers network outage, the latest US technical failure",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T23:19:12+00:00",
+     "summary": "A series of unfortunate events has plagued the US. Al Jazeera\u2019s Emma Withrow breaks down what we know.",
+     "image": ""
+    },
     {
      "title": "California bans Waymo self-driving cars from freeways",
      "url": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways",
@@ -12,14 +76,6 @@
      "published": "2026-11-17T23:14:12+00:00",
      "summary": "State DMV says vehicles pose \u2018imminent hazard\u2019 after cars entered closed zone and tried to bypass highway patrolCalifornia has banned Waymo\u2019s autonomous vehicles from state freeway",
      "image": "https://i.guim.co.uk/img/media/39130814dcd0c6daf0a7e2f8e47f01fa166fc583/462_0_4618_3695/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=9fc6563236e2df4f3c545cf3e5bd69b2"
-    },
-    {
-     "title": "Trump brushes off NSA internal network outage: \u2018it\u2019s like that when you\u2019re big and powerful\u2019 \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T23:09:15+00:00",
-     "summary": "President\u2019s words could be seen to run counter to NSA\u2019s claim of \u2018scheduled routine maintenance\u2019 causing temporary issueSign up for US Breaking News emailAbdul El-Sayed, the Democr",
-     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
     },
     {
      "title": "Haitians protest in support of El Salvador\u2019s anti-gang troop deployment",
@@ -46,83 +102,59 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
     },
     {
+     "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+     "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T23:02:12+00:00",
+     "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg"
+    },
+    {
      "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
      "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
      "source": "The Guardian",
      "published": "2026-11-17T22:55:06+00:00",
      "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six monthsThe new post-Brexit UK-EU youth mobility scheme ",
      "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf"
-    },
-    {
-     "title": "Nvidia board rules that co-founder Jensen Huang will not return as CEO",
-     "url": "https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo",
-     "source": "\u00a9 Mike Blake, Reuters",
-     "published": "2026-11-17T22:50:32+00:00",
-     "summary": "Nvidia's board chairman ruled out bringing back co-founder Jensen Huang as CEO on Tuesday, as the chipmaker forecast stronger-than-expected quarterly sales but faced growing questi",
-     "image": "https://s.france24.com/media/display/e899ca7c-e2b0-11f1-9dea-1ba7ddfab527/w:1024/p:16x9/2026-11-16T182243Z-119858112-RC2O2LA29X51-RTRMADP-3-NVIDIA-CEO.jpg"
-    },
-    {
-     "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
-     "source": "The Guardian",
-     "published": "2026-11-17T22:50:16+00:00",
-     "summary": "Students oppose appearance of self-described \u2018race realist\u2019 who made plagiarism claims against Jason ArdayHundreds of protesters filled the cobbled streets around Oriel College, Ox",
-     "image": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1934_751_4662_3729/master/4662.jpg?width=140&quality=85&auto=format&fit=max&s=09a3b9e2f05443b94624e8cc58dc6b57"
-    },
-    {
-     "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-     "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T22:46:30+00:00",
-     "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png"
-    },
-    {
-     "title": "Thomas Markle charged over child sex abuse material in Philippines",
-     "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T22:44:15+00:00",
-     "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "title": "Xi said China would welcome American students for exchanges. What's the reality?",
-     "url": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
-     "source": "NPR",
-     "published": "2026-11-17T22:41:53+00:00",
-     "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students ",
-     "image": ""
-    },
-    {
-     "title": "Israeli parliament elects new speaker backed by Netanyahu\u2019s opponents",
-     "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-     "source": "The Guardian",
-     "published": "2026-11-17T22:30:17+00:00",
-     "summary": "Knesset\u2019s appointment of Matan Kahana marks step towards reversing policies of outgoing governmentThe Israeli parliament elected a new speaker on Tuesday, a key step toward rolling",
-     "image": "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=140&quality=85&auto=format&fit=max&s=c5feba6fd1c6b1939e460cb6bcf5df69"
-    },
-    {
-     "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-     "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-     "source": "The Guardian",
-     "published": "2026-11-17T22:27:14+00:00",
-     "summary": "The company reported doubling revenue in its first earnings report after the ouster of CEO over allegations of affair with suspected Chinese spyNvidia \u201cdoes not intend to reinstate",
-     "image": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=886ec09740a96447a99058c23e7d0c2e"
-    },
-    {
-     "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
-     "source": "The Guardian",
-     "published": "2026-11-17T22:24:46+00:00",
-     "summary": "Lizbeth Vargas Andrade, 23, was arrested after being pushed to the ground and on to her stomach, her attorney saysUS Immigration and Customs Enforcement (ICE) agents pepper-sprayed",
-     "image": "https://i.guim.co.uk/img/media/693f5c56a0dc27d3af826f3e8b707a4539e149ad/282_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=274400284c0278eb871c3c1bb95cdf1f"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-17T23:36:40.378902+00:00",
+   "fetched_at": "2026-11-18T00:06:43.540875+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Iran war live: Kuwait says intercepting \u2018hostile\u2019 drone attacks",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T00:00:27+00:00",
+     "summary": "Kuwait intercepts &#039;hostile&#039; drone attacks as Bahrain warns of &#039;potential threat&#039;, urges citizens to remain calm.",
+     "image": ""
+    },
+    {
+     "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T23:38:38+00:00",
+     "summary": "Kuwait&#039;s military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine updates: Strike appears to partially destroy part of key Kerch bridge in occupied Crimea",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzI2MnFXVXB1VmNqYTdHWGFWbUE2Y1haeGNTOWlPQjE3ZzRRX1c2OHhPN1prV1AzTE1iTEV2dlRFWXpTTGxJYklHYU9SeFphZXpUc2V0R2lWMXBlQld3enZ2VnRmMTJWMTBaOHJUT2QwTkdqQmZuVF9Tak5LZUtzbmF2NkNKb1RhdEkxYjhhdkRudjlydG5xbG1ldkdQRjBQNERfbU13?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-17T23:37:30+00:00",
+     "summary": "Ukraine updates: Strike appears to partially destroy part of key Kerch bridge in occupied Crimea&nbsp;&nbsp;DW.com",
+     "image": ""
+    },
+    {
+     "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+     "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T23:28:54+00:00",
+     "summary": "Eisenkot\u2019s bloc has pledged to undo some of Netanyahu\u2019s most contentious domestic policies following Kahana\u2019s election.",
+     "image": ""
+    },
     {
      "title": "Haitians protest in support of El Salvador\u2019s anti-gang troop deployment",
      "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
@@ -138,14 +170,6 @@
      "published": "2026-11-17T23:05:43+00:00",
      "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for ",
      "image": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=2014d5315ebf8cbdfd7cd9f306c8d931"
-    },
-    {
-     "title": "Ukraine updates: Strike appears to partially destroy part of key Kerch bridge in occupied Crimea",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzI2MnFXVXB1VmNqYTdHWGFWbUE2Y1haeGNTOWlPQjE3ZzRRX1c2OHhPN1prV1AzTE1iTEV2dlRFWXpTTGxJYklHYU9SeFphZXpUc2V0R2lWMXBlQld3enZ2VnRmMTJWMTBaOHJUT2QwTkdqQmZuVF9Tak5LZUtzbmF2NkNKb1RhdEkxYjhhdkRudjlydG5xbG1ldkdQRjBQNERfbU13?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-17T23:02:39+00:00",
-     "summary": "Ukraine updates: Strike appears to partially destroy part of key Kerch bridge in occupied Crimea&nbsp;&nbsp;DW.com",
-     "image": ""
     },
     {
      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
@@ -194,37 +218,45 @@
      "published": "2026-11-17T22:00:00+00:00",
      "summary": "Russia\u2019s colossal losses in Ukraine will not push Putin toward peace&nbsp;&nbsp;Atlantic Council",
      "image": ""
-    },
-    {
-     "title": "Prince Harry Visits Superhumans Center in Ukraine to Meet Landmark Drone Evacuation Survivor",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlpzOUhucU9DQmg4T2I3ZGhUR2xVSWN6Z09GNU5Lc21UbkZHY3Y3WFlmWmNkdm5sT2FJZWVkZ3Y3NmVScnlrU1hvNFljYWl2aUtjeTNHSC03OWo2NXZiSzFaUzZ5YU1ldHdkaHVxTUMtMXctZzY3VGk5SGEteEduem81VGVfNFNDeFJMLXdFX2Z3N3YxaXJfNUZMTDcyQXg1NGFiRnBTM2VHNVB6Vk9tYlFCSGpZQUhEUUFQMkRhdDRGeV84bHdCb0xCQnBtUXI3REVYR0pmaw?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-17T21:53:30+00:00",
-     "summary": "Prince Harry Visits Superhumans Center in Ukraine to Meet Landmark Drone Evacuation Survivor&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-     "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-     "source": "The Guardian",
-     "published": "2026-11-17T21:49:29+00:00",
-     "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering ",
-     "image": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=dc6fc0dfac1be7b487bda0d86f9b5664"
-    },
-    {
-     "title": "Pentagon Official Says Ukraine War Likely To Last Through Winter, Despite Mediation Efforts",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDV6ZGR5YldWX2pWS0RmNUxCTlh2NTE4d2lDMUJVa05HbkVjYzRqN2J2d2Y5QU9UMWJ6U054bWJpYjU5WVZ6TUtfNDNTTERyN0JldGZmV21CcTZ5OVYtNFBVaDRDWmI0LVpRTjhMUk1kbkRCQkVSejZvQkR0ajZmRXdCVUlja3dfWmtjQzZ6OUZrbDdlN2ZkddIBmwFBVV95cUxQRjhCcTdwMnFSQWtTNHZ1c3JjS3F6MmhxMVpSOWRPUUxaWUVmcGZaWTEybzhYT2V2cTdHNGJNTkdNVW5mZ294enIxYTIxRFZIQTItQ0ZzT0UwTXA4RHpBU2s1OUE4c0dkeG9tcDZEbnFpamVEOFFkUnM5djlmcGRKbzdPSnU3V1UzVjZZN1BQbW5ZWDZUNVhacnZJNA?oc=5",
-     "source": "Radio Free Europe/Radio Liberty",
-     "published": "2026-11-17T21:42:25+00:00",
-     "summary": "Pentagon Official Says Ukraine War Likely To Last Through Winter, Despite Mediation Efforts&nbsp;&nbsp;Radio Free Europe/Radio Liberty",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-17T23:36:40.378906+00:00",
+   "fetched_at": "2026-11-18T00:06:43.540879+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFrYWNBX1NLTHhNc00ycmhVV0dFNlRNX0xOcGFKcUhaYmNSU093YzlyTm9xOVlGRGlxblJhajk5ME5HMy0zeXFHc2FQUGFBd3lvUGtaNENWMTB2YVV6eHJ4NzZ1N3pHcjJqam9sQ2kxRk4wNUU4Z1NLbDA4bWQyUVpMakxVa0Q3S2UxeUE1Nm92RmhKUFVHMVl3UUVETHQxMVk4QlYwS0ZhNXRPSGVsUGRQX0F6OFJiZ1N5WGIyb1l5TkliTkhwT2NB?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-17T23:57:46+00:00",
+     "summary": "Australia sanctions Israeli settlers, organisations over West Bank expansion&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Utah County election results canvassed; voter turnout lower than 2022 midterms",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdThsOFR1UlFUZ1BqUGtFNFF3OFJGWXduOWdHVUJLZnM4YlczM0NNcW5mYjhJQUM5N2Q4ZzdobTg2UGZZUGlhNk5xTE9ndnVaaDJxQWV5WllLYU5nTU9yZExGYmdYZnVKT2prZ3dpaFlCTXRubTdXTHZ5ck9RV0hibGtYMjd6LWdrdUlTWnJJejhJWGp0eW4xS25JUEIwNzk0d2VIQTh0RERoRW5QbWN3Wjg2NHFCNHlteDZJUkliQ0Q?oc=5",
+     "source": "heraldextra.com",
+     "published": "2026-11-17T23:43:00+00:00",
+     "summary": "Utah County election results canvassed; voter turnout lower than 2022 midterms&nbsp;&nbsp;heraldextra.com",
+     "image": ""
+    },
+    {
+     "title": "Ricky Hatch reflects on a busy election cycle in Weber County",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHowNlVKMDVHdVNNdzljS29WbkZ5cmZWV21kcE14Y2NINWo1WWQ2OE5ISVJQMi03X21Ldmc2Vk92X1NPeWtpNElyZjg5TWxSV0VmVDhFdXNOMU5vUVVXenRvSHBmRGU1aVloSS1hM0ZkTkNEZXNVV1BwVlVyelJhWnpaMFk3bDlmd2tfVE9lRlVxdFE0RlV6V1JkaU1sSENraVlYc0Zkcw?oc=5",
+     "source": "Standard-Examiner",
+     "published": "2026-11-17T23:41:24+00:00",
+     "summary": "Ricky Hatch reflects on a busy election cycle in Weber County&nbsp;&nbsp;Standard-Examiner",
+     "image": ""
+    },
+    {
+     "title": "Trump brushes off NSA internal network outage: \u2018it\u2019s like that when you\u2019re big and powerful\u2019 \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:41:08+00:00",
+     "summary": "President\u2019s words could be seen to run counter to NSA\u2019s claim of \u2018scheduled routine maintenance\u2019 causing temporary issueSign up for US Breaking News emailAbdul El-Sayed, the Democr",
+     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
+    },
     {
      "title": "Republican candidate asks Texas Supreme Court to block election of Democrat over eligibility concerns",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWUVUdTNuVUI0eVlweTdqWG1ZLVZIOWtoNXlJU2loQlRkTkxYVm1aR1BVZFFSeXFldHV4Sy00UTdfRXJCTm4tNkJpZjhIcmxjREFtaVpDWFVxMTh4ZnE0Sks1d2FsWThyTFRiSFV5QkR3VV9Vbm1sX2pUYWxQaEhFZDZoZUhxQUJhdThGNnhIMWpNanE5MFg2VGpXZnpZMGZGc1p5TXlLdHhSdnotTTdjSjE4UG5UNmJnSWR4MFBuczg5SFNvemhMNVItQXlid2M?oc=5",
@@ -234,11 +266,35 @@
      "image": ""
     },
     {
+     "title": "Voldemort, Gotham City and the Greens: Victorian election gets a jolt of life as leaders face off in sole debate",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaXBIWkI2R1FJVndRNGNESVJpWlRfbXk1Zm1RMEdkejFVWm5yRVM4eGNKak9NZUNoYnhOTC12YWNxU3ZfV1QxZm1jaFlTZm9MQjZlbmlmWXJpaUxhc05VTTlSV01EcTJrdkRBdXk1OEdOYUpGb3BQUmZqUGZSTHRyeGQ5Qk1uS1pLY2M3OEowY19ic2ZZRmRTMlk2cmtwY0R6czdsWTRITkYyRkhiV3BtZ01KRmVpbXJZbVlubnk3anhrb1VYMGlhdmpVZ0tBN3VGQmVab1dVUTIweHA3MXNYUVdjcw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-17T23:28:00+00:00",
+     "summary": "Voldemort, Gotham City and the Greens: Victorian election gets a jolt of life as leaders face off in sole debate&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
      "title": "ACLU questions presence of Milwaukee DA staff at Election Day polling places",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnVHWEFMNFlvYWxEZTB4NUxmYzJuODZtYnJCdnhzVjZGeEJHQm8tY3p4T3Z4YzgxN0ZuY0l2ZnpEODZjYXBSTi00VHRid29KejZzVDJOcHAtajhINFBHaFVYWlVzRi1jQVNFc3pIY21SdThhWkNpeVctdGl6VjNtVTk5SGRwcGFXaV9zbkU0aVl2dnV4Q0o4MmVnVzEzSDByX3RqZUxUNi1rSXdBWEdVWkplTG9NNWFtbXc?oc=5",
      "source": "Wisconsin Examiner",
      "published": "2026-11-17T23:25:51+00:00",
      "summary": "ACLU questions presence of Milwaukee DA staff at Election Day polling places&nbsp;&nbsp;Wisconsin Examiner",
+     "image": ""
+    },
+    {
+     "title": "Democratic voices at FIU react to 2026 election results",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmtXUFpCSWkxWVFnT2lRTkxTNnRCVXdfUWptN2VpcmhLUFA0RGV4TkVKR0xGNVdMYVRzYl9IdGlrbkkzRUtLanhhWHNWelE5b21aX0NTYy1SUGJzcVBJeGRpTUNkY1NQSXRvV0gycUh3Q1NzTGxITFItTnlqNEhKTzgtZGhVR3VpV05MeUx5S1NibV96?oc=5",
+     "source": "PantherNOW",
+     "published": "2026-11-17T23:23:30+00:00",
+     "summary": "Democratic voices at FIU react to 2026 election results&nbsp;&nbsp;PantherNOW",
+     "image": ""
+    },
+    {
+     "title": "Britain sanctions Israeli aid-blocking group and settlement construction companies",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGxZOW1MUTRoYjFhUklDWkRCcjFfRFJoUnNpLXdicE5DSzNQRVkxalZPM19acDBqZGlSR3FoRE12MVVUSTUzZzlJRDRVVE5IakZCVzRkZGRyZGtUZWd0Z0llR2Z3bkp2b0FKOTlaQmdPd0VFT3RBUUVrdFpYWTBhRVJlaXdvc0YzcDNRVUFfd0ZxRzB6TnE5bnNuczBtWHlwWXFZRDB2dXRVUllaazR0VGltSVlNT255RFBReQ?oc=5",
+     "source": "Jewish Telegraphic Agency",
+     "published": "2026-11-17T23:21:03+00:00",
+     "summary": "Britain sanctions Israeli aid-blocking group and settlement construction companies&nbsp;&nbsp;Jewish Telegraphic Agency",
      "image": ""
     },
     {
@@ -258,73 +314,17 @@
      "image": ""
     },
     {
-     "title": "Trump brushes off NSA internal network outage: \u2018it\u2019s like that when you\u2019re big and powerful\u2019 \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-17T23:09:15+00:00",
-     "summary": "President\u2019s words could be seen to run counter to NSA\u2019s claim of \u2018scheduled routine maintenance\u2019 causing temporary issueSign up for US Breaking News emailAbdul El-Sayed, the Democr",
-     "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
-    },
-    {
      "title": "Where does ranked choice voting leave Peltola and other candidates? We ran the numbers.",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcHZ1YWN3d2VEVUpnNG1Nel9PaWJESEtuamxYSHd2YkhBa1BOT054QlFwUG5XUmpOTDBEb0dkVUtDTWlURklKXzBvZnJ1M3JaZVJhMl9qbXRTMnh4NXNLckFCWjAwbHVjZkpLaFVveno2T0hCRkRXanprOGVsUjAwMDczUktOV2JaSWpnYy1qeFA2aG1WSmdnTXhCbGxmVnh1NG1CMWlSS3BCSEpZQ3hQSUpBZXVuQ0FDOHFSSXpyd01yVDQ3NkNDUmdBMUhEWF9MQ05RMEtncmh3M1BHVlE?oc=5",
      "source": "Alaska Public Media",
      "published": "2026-11-17T23:04:00+00:00",
      "summary": "Where does ranked choice voting leave Peltola and other candidates? We ran the numbers.&nbsp;&nbsp;Alaska Public Media",
      "image": ""
-    },
-    {
-     "title": "San Joaquin County reports no unprocessed ballots as Stockton election results hold",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNazRuRDFCME4teDZLNDJoZmtYSHNuQlE1QngwenZhR2IwZDB0WXctM1A3R2d3ZTd5a0s3Tk5OX3VPYnhlVGI3WnNxNTZkbjVHTm4yWlJEdkdIcGw1Vk1OekNlWWlXMjk0dk9wUE9VeFYwRlR0ZlVLVzlFNEVPLVlfX1FWQk5iVUNWZjZYSTlwR0ZtdEZqZ2Rxb29TSWJkUkxsYTlVcFhpd2t6S0ZEWEU4RGFSdkVXMTFEMHFWdVI3UnBoSVhFdHRkajNhbm4?oc=5",
-     "source": "Stocktonia",
-     "published": "2026-11-17T23:00:00+00:00",
-     "summary": "San Joaquin County reports no unprocessed ballots as Stockton election results hold&nbsp;&nbsp;Stocktonia",
-     "image": ""
-    },
-    {
-     "title": "Washington Can Start Delivering on Affordability by Rejecting Trump\u2019s Tariffs",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzhRRFhsa2d6d0NORXVyMEloRFU4b3J5al83QnNnXzlBYWcxSmZKWGJLZUlqQnVBWDd5ckR2STZ2WVNrN29YWGxKZFRlNVdVUEpraWFfM1RiU2owZTB3TFhlUjNZQXR0OW1PWkR5NTg3R01pZExLQjFQaFZRM0ZpWUQzVGM?oc=5",
-     "source": "Tax Foundation",
-     "published": "2026-11-17T22:59:04+00:00",
-     "summary": "Washington Can Start Delivering on Affordability by Rejecting Trump\u2019s Tariffs&nbsp;&nbsp;Tax Foundation",
-     "image": ""
-    },
-    {
-     "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
-     "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
-     "source": "The Guardian",
-     "published": "2026-11-17T22:55:06+00:00",
-     "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six monthsThe new post-Brexit UK-EU youth mobility scheme ",
-     "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf"
-    },
-    {
-     "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
-     "source": "The Guardian",
-     "published": "2026-11-17T22:50:16+00:00",
-     "summary": "Students oppose appearance of self-described \u2018race realist\u2019 who made plagiarism claims against Jason ArdayHundreds of protesters filled the cobbled streets around Oriel College, Ox",
-     "image": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1934_751_4662_3729/master/4662.jpg?width=140&quality=85&auto=format&fit=max&s=09a3b9e2f05443b94624e8cc58dc6b57"
-    },
-    {
-     "title": "Bexar commissioners certify voting results, praise election chief",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZm9XSy16NnpQaFZYcmctUmR3ZVhoN0dfYWRYSXlrRG1vVThNWDBHR1dJQS1HZVQyVUJLVzJYaGZfWWxJUFF2NWY2MEI3SHVFQnFNQXRkYVZ6RHRodUdldEdZOXl6TXM3NHYxN1NCOUFoYVJWek50UXNST1pCbk9zVmZJbG1hRDdUclFSS2laUGdYWjlEczJ0eC1TOTNsMm5kWHk2SVRmYlNsT0d5eUN0N0FQTjZqdw?oc=5",
-     "source": "Texas Public Radio | TPR",
-     "published": "2026-11-17T22:45:45+00:00",
-     "summary": "Bexar commissioners certify voting results, praise election chief&nbsp;&nbsp;Texas Public Radio | TPR",
-     "image": ""
-    },
-    {
-     "title": "Xi said China would welcome American students for exchanges. What's the reality?",
-     "url": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
-     "source": "NPR",
-     "published": "2026-11-17T22:41:53+00:00",
-     "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students ",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-17T23:36:40.378908+00:00",
+   "fetched_at": "2026-11-18T00:06:43.540882+00:00",
    "stale": false,
    "items": [
     {
