@@ -1,32 +1,72 @@
 {
- "generated_at": "2026-11-18T05:07:35.189569+00:00",
+ "generated_at": "2026-11-18T05:37:39.653023+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-18T05:07:35.189528+00:00",
+   "fetched_at": "2026-11-18T05:37:39.652989+00:00",
    "stale": false,
    "items": [
     {
      "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
      "source": "The Guardian",
-     "published": "2026-11-18T04:46:35+00:00",
+     "published": "2026-11-18T05:17:55+00:00",
      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summ",
      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
+    },
+    {
+     "title": "\u2018Devastating consequences\u2019: One Nation plan to slash Australia\u2019s refugee program denounced",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-18T05:11:31+00:00",
+     "summary": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa programGet our daily political email, free app or daily news p",
+     "image": "https://i.guim.co.uk/img/media/16091bd9c923d35459b46f7f811208abd0842535/424_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=314d54effab3dc3320b3d1700b05efd4"
+    },
+    {
+     "title": "\u2018Human\u2019 wins Cambridge dictionary\u2019s word of the year",
+     "url": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+     "source": "The Guardian",
+     "published": "2026-11-18T05:00:34+00:00",
+     "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionaryIn a world where the line between people and machines is more blurred than ever, Cambridge di",
+     "image": "https://i.guim.co.uk/img/media/d3bff27441734d18c2feb427a057b23c1ce14bdc/1004_0_4725_3780/master/4725.jpg?width=140&quality=85&auto=format&fit=max&s=a34f5c5d68750204b892c4c4d64e18c3"
+    },
+    {
+     "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+     "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+     "source": "The Guardian",
+     "published": "2026-11-18T05:00:32+00:00",
+     "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for \u20ac2.5bn in loansThe European Commission has been accused of sugarcoating figures to enable it ",
+     "image": "https://i.guim.co.uk/img/media/876babd774d84ecb98a5ee0e9eba98b14d862c89/1434_394_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=779e036d6f4f59b8c0421e3491fdb9bb"
+    },
+    {
+     "title": "Drinking beer and spirits raises risk of acute kidney damage, study suggests",
+     "url": "https://www.theguardian.com/society/2026/nov/18/drinking-beer-spirits-raises-risk-acute-kidney-damage-wine-protects-study",
+     "source": "The Guardian",
+     "published": "2026-11-18T05:00:31+00:00",
+     "summary": "Research also shows consuming wine could cut risk, reopening debate on whether beverage has health benefitsDrinking beer and spirits increases the risk of serious kidney damage, wh",
+     "image": "https://i.guim.co.uk/img/media/7eaca3050a2112cba947b3ef249ad497a50730bb/313_0_2974_2380/master/2974.jpg?width=140&quality=85&auto=format&fit=max&s=9742ac6ad2fa74f1f1f5381b61e6166f"
+    },
+    {
+     "title": "Waymo suspends driverless freeway rides across US after California ban",
+     "url": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T04:58:02+00:00",
+     "summary": "California authorities have declared self-driving cars an &#039;imminent hazard to public safety&#039; after traffic incidents.",
+     "image": ""
     },
     {
      "title": "Bikie \u2018not surprised\u2019 if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
      "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-18T04:42:07+00:00",
-     "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says \u2018just make up a quote that hits 20K\u2019 while working on site for CFMEUA Bandidos gang member says it is pos",
+     "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says \u2018just make up a quote that hits 20K\u2019 while working on site for CFMEUGet our breaking news email, free app",
      "image": "https://i.guim.co.uk/img/media/134ce0b70d626daa9094506188ef9d19140795c2/0_0_1936_1549/master/1936.jpg?width=140&quality=85&auto=format&fit=max&s=d7b62503402128f4eaa81257126c2628"
     },
     {
-     "title": "Wages grow at fastest pace since 2023 \u2013 but prices are climbing even more quickly",
+     "title": "Australian wages grow at fastest pace since 2023 \u2013 but prices are climbing even more quickly",
      "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
      "source": "The Guardian",
      "published": "2026-11-18T04:33:40+00:00",
-     "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Wages grew at their fastest pace since late 2023 over the three ",
+     "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate riseGet our daily political email, free app or daily news podcastWage",
      "image": "https://i.guim.co.uk/img/media/7ebf7b78f27fb886cb74a082d7f78b3e80603115/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=52d25424f6954f9e6c6eda6214f58f4b"
     },
     {
@@ -76,53 +116,21 @@
      "published": "2026-11-18T03:28:41+00:00",
      "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
      "image": ""
-    },
-    {
-     "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
-     "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
-     "source": "The Guardian",
-     "published": "2026-11-18T03:25:14+00:00",
-     "summary": "Republican incumbent beaten in race dominated by controversy over second candidate named Dan SullivanDemocrat Mary Peltola will be Alaska\u2019s next senator after beating the Republica",
-     "image": "https://i.guim.co.uk/img/media/26047ac7aaea06d3566acb1692bec5cbc39658e1/96_0_2846_2278/master/2846.jpg?width=140&quality=85&auto=format&fit=max&s=ceb3b8547860466edb76ca4be61e38be"
-    },
-    {
-     "title": "Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
-     "url": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
-     "source": "\u00a9 Maxim Shemetov, AFP",
-     "published": "2026-11-18T03:24:54+00:00",
-     "summary": "Chinese President Xi Jinping called on Wednesday for stronger global cooperation on artificial intelligence and free trade, as he opened the APEC summit in Shenzhen ahead of an exp",
-     "image": "https://s.france24.com/media/display/6c27aea8-e2f8-11f1-acc5-ff16da94d1fe/w:1024/p:16x9/b8a39c56a6822b99f0824e38b60014e799bb99fe.jpg"
-    },
-    {
-     "title": "Nvidia shoots down calls for Jensen Huang\u2019s return amid strong earnings",
-     "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T03:00:22+00:00",
-     "summary": "Nvidia board chair says chip giant &#039;does not intend&#039; to reinstate Huang as it projects revenues of $130bn in Q4.",
-     "image": ""
-    },
-    {
-     "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration \u2013 as it happened",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-18T02:57:58+00:00",
-     "summary": "This live blog is now closed.White House withdraws nomination of Heidi Overton to lead FDASign up for US Breaking News emailAbdul El-Sayed, the Democratic-Senator elect from Michig",
-     "image": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=140&quality=85&auto=format&fit=max&s=56349d3aaa8ebcfab6bf8e6daa8f405b"
-    },
-    {
-     "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
-     "url": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
-     "source": "\u00a9 Patrice Noel, AP",
-     "published": "2026-11-18T02:42:21+00:00",
-     "summary": "Thousands of Haitians took to the streets on Tuesday to urge El Salvador's President Nayib Bukele to keep fighting gangs, as his troops bolster security forces in the Caribbean nat",
-     "image": "https://s.france24.com/media/display/5f68d9ac-e2f4-11f1-88c9-c5c0357b2a0c/w:1024/p:16x9/AP26321814589361.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-18T05:07:35.189551+00:00",
+   "fetched_at": "2026-11-18T05:37:39.653006+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+     "source": "The Guardian",
+     "published": "2026-11-18T05:17:55+00:00",
+     "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summ",
+     "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
+    },
     {
      "title": "These Villagers Wonder if They\u2019re on the Front Line of Russia\u2019s Shadow War",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaWdFUXl4RnJlcGhWUHh3YkFwNmhIa0h1c3dEY1RGZ2g2c3E1YVJ3UnB3ZXh3U3NCTldmdzhIeGdwOHlGZDgzSjIzTzBiMXQzMHZFWjNacXN0RUN3VDlqdWdsSlFuX2tLOG1kc1Q1Qk5qODRoQXNhSE5SYUtNRzVWcVBNSm1aNXpwal9sYWRCRHZTMHExaUVkclZqcktaeU9SQ1E?oc=5",
@@ -132,19 +140,11 @@
      "image": ""
     },
     {
-     "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-     "source": "The Guardian",
-     "published": "2026-11-18T04:46:35+00:00",
-     "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summ",
-     "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
-    },
-    {
-     "title": "Wages grow at fastest pace since 2023 \u2013 but prices are climbing even more quickly",
+     "title": "Australian wages grow at fastest pace since 2023 \u2013 but prices are climbing even more quickly",
      "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
      "source": "The Guardian",
      "published": "2026-11-18T04:33:40+00:00",
-     "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Wages grew at their fastest pace since late 2023 over the three ",
+     "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate riseGet our daily political email, free app or daily news podcastWage",
      "image": "https://i.guim.co.uk/img/media/7ebf7b78f27fb886cb74a082d7f78b3e80603115/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=52d25424f6954f9e6c6eda6214f58f4b"
     },
     {
@@ -196,6 +196,14 @@
      "image": "https://s.france24.com/media/display/5f68d9ac-e2f4-11f1-88c9-c5c0357b2a0c/w:1024/p:16x9/AP26321814589361.jpg"
     },
     {
+     "title": "Russian Offensive Campaign Assessment, November 17, 2026",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHBmWHZqTF9fb3NJN0RkTjd1bWZSSXp0aUNMT0VSRDJuU3UwTXk4aHUxVWNhUEpYQVlTd1NSZXlBdFhINXdKeWJPdjd5NkJKZUZhV25KN2FzN0hKRVB0R0dzMVJVcFRtYmE3NUdOb08zejdBZDdxWlYySWJlVWw2bzZPNzFienVwckdqRTFmMEdXbzlkTWlZbWh6NnFEWE1lZlVsQ2NuT0FsaF95?oc=5",
+     "source": "Institute for the Study of War",
+     "published": "2026-11-18T02:31:50+00:00",
+     "summary": "Russian Offensive Campaign Assessment, November 17, 2026&nbsp;&nbsp;Institute for the Study of War",
+     "image": ""
+    },
+    {
      "title": "Middle East live: Kuwait, Bahrain report drone and missile attacks",
      "url": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks",
      "source": "\u00a9 Asghar Besharati, AP",
@@ -210,27 +218,35 @@
      "published": "2026-11-18T01:33:05+00:00",
      "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
      "image": ""
-    },
-    {
-     "title": "Prosecutors allege man \u2018destroyed\u2019 US military plane at Irish airport",
-     "url": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T01:32:52+00:00",
-     "summary": "Daithi O&#039;Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-18T05:07:35.189555+00:00",
+   "fetched_at": "2026-11-18T05:37:39.653010+00:00",
    "stale": false,
    "items": [
     {
      "title": "2026 U.S. Senate Election Results",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
      "source": "AP News",
-     "published": "2026-11-18T05:07:10+00:00",
+     "published": "2026-11-18T05:36:07+00:00",
      "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "Trailing candidate files grievance over Navajo Nation presidential election",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORGJhLUQwaERCcjBDbXlyWGh0X0tEVVdrNG9qbXZTN3o1Sy1yVUtHOXplaXcxak5GNEJCS0VKbm96M0NrcThpOE5QSVd4NkJfaDVOZ3RNX2Jodk8tUi1pT0xrQ1pGS1pXc0tDc2VkSk9RZllhSlN5MDFsQzduN0FHbzZyLWZpRHYxdEZOWVBkVllOai1rSG1MeTF5aFdwRGtIcVQ4M19DZkxadS1WTk5xMUo4eXZscERZdEI4bEVJQm5MLWFSd0ZtZXExeXNzZnFTYklaYU8tWjJ1aFAycUlaZHJWTTVILWs4RjdMYVIyamU0TGtOemplLUpiUGdjS19vdVhyWUVR?oc=5",
+     "source": "Santa Fe New Mexican",
+     "published": "2026-11-18T05:30:00+00:00",
+     "summary": "Trailing candidate files grievance over Navajo Nation presidential election&nbsp;&nbsp;Santa Fe New Mexican",
+     "image": ""
+    },
+    {
+     "title": "4 ways Texas cannabis policy could change after the election",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTUtrZzBaejZuYlo0b3lSRmVva1E0MU03SEFCaGRyVjBDYVM4U2VELXVSUGJuTEwyUlJiVDVKb1Rza2liU2tlekdaMHowcGFnMDFLOFhuei1icHJDN1RBOFBSNVZ1R0o5cjE2MEd5dTVtZFpLWWwxNURzcXpGa0cxZEo0NWpQMnJYLTQ0QmJKNTNzOWRhMUEwMmlfU0ozenA5ZzZNNGFTREJSUFU3eWF5eDZVRXpHZVFVaTEtUlRIbmk3Y0JIaEdPbnp6cHIweWh0bE51cjBtXzFSZw?oc=5",
+     "source": "Denton Record-Chronicle",
+     "published": "2026-11-18T05:08:13+00:00",
+     "summary": "4 ways Texas cannabis policy could change after the election&nbsp;&nbsp;Denton Record-Chronicle",
      "image": ""
     },
     {
@@ -290,41 +306,25 @@
      "image": ""
     },
     {
+     "title": "McKinney council members facing May recall election say they will not resign",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTkzRjRWZDZDWTh1aEo3cUd0emFoRTBtVEZQQTRTWEQ5LWVLSUZlVTJDSEY3dENFZ3pBaEZicTVlalpGU3R6RFdPTDF3S1prTDY1R3ItMVdEQ08xR255a3VkQXFRbkw4MjhUbUtyNjFMb2JXTVpqRHh3M19PTGZ4a2cwV0tPa09RRERodTBRczZMUzhpS25wS2p4VW15c0MyLVFyb0xiTmg5STVLMTlENw?oc=5",
+     "source": "Dallas News",
+     "published": "2026-11-18T03:48:08+00:00",
+     "summary": "McKinney council members facing May recall election say they will not resign&nbsp;&nbsp;Dallas News",
+     "image": ""
+    },
+    {
      "title": "Mary Peltola Wins Alaska Senate Election in Final Democratic Flip",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHQxbGtSVU1Ec0w0MkdOblczbWNVaWJ2RXJDa2J1Smp3djRJVDBYZU5iN0ZoWDVfcXRYeHo0WTczcE41ek1rSm1ycE8yVDYtTHRBdUpHaFZuaGdlOFlhbGJPdTRSNHFYbVhOazlsbEJGYUhJSV9ubHI4Rmc0bDZWWHp3RDlZM2hrTlIwNV9JeVJDLU9nY05URUVheWlFTmE0?oc=5",
      "source": "Newsweek",
      "published": "2026-11-18T03:42:00+00:00",
      "summary": "Mary Peltola Wins Alaska Senate Election in Final Democratic Flip&nbsp;&nbsp;Newsweek",
      "image": ""
-    },
-    {
-     "title": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDBRWGxXcXA4LWtYcDJFVXU4MjZZV3BDX0JkQWdVTzJuQ0tFZnl6NFhYTjd5MlhBQm9RRjlXMVpOVld0bVBpXzZaR1dmLWNoQVBZLTU3LWNJcDktMGItX2NmLUI5c19JV0lZTHQ3cDVOUXYtUXdJU3l6alF0eWR2WkRKTFItRUNIQTZfLTBMc1B6TzJqd1J4ODd1Tk9JWlZpQ09USFp0MzN0MDNNbGx5OTI0c3ZUMmFTc0hwTU9HWEZvVnA5X0xiRA?oc=5",
-     "source": "ABC7 WWSB",
-     "published": "2026-11-18T03:40:00+00:00",
-     "summary": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan&nbsp;&nbsp;ABC7 WWSB",
-     "image": ""
-    },
-    {
-     "title": "Alaska Senate race 2026 update: Democrat Mary Peltola wins Alaska election, beating incumbent Republican Dan Sullivan",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZk5yanNheWlqVUc2UWlqQXlvZjVRdmpabTZjeTJIaDNlelpUZFp6VHU2cFhvRGNlYXdQWXlUSWxpSTFHQ19rYmhsZVA2cU9vMmlHUXN6TWF4U1JhajRSZFFOZ01aWkppUGFRdVp0bTA0WWhuRFRTUDdmOFBXUzlOcV9PLWFRWHJjb3V2azFoaEJiS2Qtc19fdEN2V0I5eWxuZVJxNjEzOEdmVkpCQVlEeHdBdlkwdUJ6Smk2aG96cWdOM1FfR0dnVldudnhGdUpOREl1bTJjNXRqM013MWhBOdIB5gFBVV95cUxOa2NBUWtUdnJSUjBFSF9EYnhBQ3k0bE9GSVp4WjJ2ODEtdkFwSmxFSXJlaHYxQkF5cFVqanhmdnk3S1NwaC13VXU2OEpzY0lrV2dSXzYtS29CaVdKZjJmVmJUMTUyRTVyRVJWX042UzhGcUZZWnZTT0wyYlRYOGd6Qy11d0xodDB4MlU5eFpCSVBYVjRxcHBFdGZsU2pIYnhsOXBwVzV0UTdibVUyQTc3MmJOSFhaTzdNNXVpcnE1dTBZcXY2VUFoaHpYVkVtdU9NeC1ud01EVUFfREI3bTJENzVfRnZuUQ?oc=5",
-     "source": "ABC7 Chicago",
-     "published": "2026-11-18T03:37:14+00:00",
-     "summary": "Alaska Senate race 2026 update: Democrat Mary Peltola wins Alaska election, beating incumbent Republican Dan Sullivan&nbsp;&nbsp;ABC7 Chicago",
-     "image": ""
-    },
-    {
-     "title": "Mary Peltola wins U.S. Senate seat in Alaska",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2QtdTVWN21JR3gwcnhsRGx0SHVPX2VySEMtdmhPSXlFZnhLcFN0bFJwWG1ZSmZwM19pa2Q1a25DZGJzX0gtazNDeUw2M1N6Ui1lSWFmam52SEMyeU1UclZmM3dYaTB2eDhwdGNMOW53V3Q5NnhjS1d0SzJsUERLeWkzdnVLV182ZXlUclJPa3lKUVB6NmlEWENNbXkycDE5SmNIWWdn?oc=5",
-     "source": "Alaska Public Media",
-     "published": "2026-11-18T03:30:00+00:00",
-     "summary": "Mary Peltola wins U.S. Senate seat in Alaska&nbsp;&nbsp;Alaska Public Media",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-18T05:07:35.189558+00:00",
+   "fetched_at": "2026-11-18T05:37:39.653012+00:00",
    "stale": false,
    "items": [
     {
