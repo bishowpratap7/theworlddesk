@@ -1,17 +1,33 @@
 {
- "generated_at": "2026-11-18T04:07:13.734286+00:00",
+ "generated_at": "2026-11-18T04:37:17.396165+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-18T04:07:13.734258+00:00",
+   "fetched_at": "2026-11-18T04:37:17.396136+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Apec summit live: Xi and Putin speak as world leaders gather in China",
+     "title": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
      "source": "The Guardian",
-     "published": "2026-11-18T03:53:27+00:00",
+     "published": "2026-11-18T04:18:23+00:00",
      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summ",
      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
+    },
+    {
+     "title": "Australia issues sanctions targeting Israeli settlers",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T04:12:03+00:00",
+     "summary": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
+     "image": ""
+    },
+    {
+     "title": "Rubio rules out cyberattacks or links between tech outages",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T04:01:16+00:00",
+     "summary": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
+     "image": ""
     },
     {
      "title": "Peltola defeats Sullivan in Alaska Senate race, expanding Democratic majority",
@@ -100,29 +116,29 @@
      "published": "2026-11-18T02:33:21+00:00",
      "summary": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few daysA pair of waterspouts were recorded recently in the San Francisco Ba",
      "image": "https://i.guim.co.uk/img/media/5850e2c91738ca3380c5e63343b69ea1c8b5c6f2/0_575_1080_864/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=9b4770383ba2e69b1251c207f9c258a2"
-    },
-    {
-     "title": "Hungary on the hunt for a football hero",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T02:32:57+00:00",
-     "summary": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
-     "image": ""
-    },
-    {
-     "title": "The \u2018moon landing\u2019 of gaming: Australians, some of the first to play GTA VI, prepare to descend on Vice City",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/18/gta-6-biggest-gaming-event-australians-prepare-for-global-release",
-     "source": "The Guardian",
-     "published": "2026-11-18T02:24:02+00:00",
-     "summary": "After a 13 year wait for the latest Grand Theft Auto instalment, Thursday\u2019s launch is shaping up to be \u2018the biggest gaming event that\u2019s ever been\u2019Gamers across Australia are prepar",
-     "image": "https://i.guim.co.uk/img/media/e953fe1e6202db7ba215c1d36439c0c0a05b9585/438_0_5273_4219/master/5273.jpg?width=140&quality=85&auto=format&fit=max&s=f2f571d6e44c20c8ae88088b9d21ce84"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-18T04:07:13.734270+00:00",
+   "fetched_at": "2026-11-18T04:37:17.396149+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
+     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+     "source": "The Guardian",
+     "published": "2026-11-18T04:18:23+00:00",
+     "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summ",
+     "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
+    },
+    {
+     "title": "Australia issues sanctions targeting Israeli settlers",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T04:12:03+00:00",
+     "summary": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
+     "image": ""
+    },
     {
      "title": "Germany, UK push back after US criticizes Ukraine's deep strikes into Russia",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTFMSDVVOHBzRUJNOTFZY2FlbF9YajhhZEltUVZJODhZekpMSzg3aDczdmlUR0tXN2tpNmJHZEpUaDZTRE45U0FvOW9RVllzMXR1SXFwakFsbmFYd25oTDROUGZ0d2xQcFU4dndPX1docUloUFlhckxhNld3elBpZkJlVWdiMVo2OTRwSXFmb09Mb2t4cHdaQ3JQOXJxWHVxTVluZjd3?oc=5",
@@ -130,14 +146,6 @@
      "published": "2026-11-18T03:54:30+00:00",
      "summary": "Germany, UK push back after US criticizes Ukraine's deep strikes into Russia&nbsp;&nbsp;The Kyiv Independent",
      "image": ""
-    },
-    {
-     "title": "Apec summit live: Xi and Putin speak as world leaders gather in China",
-     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-     "source": "The Guardian",
-     "published": "2026-11-18T03:53:27+00:00",
-     "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and PutinShenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summ",
-     "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
     },
     {
      "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
@@ -196,35 +204,43 @@
      "image": ""
     },
     {
+     "title": "Ukrainian drones and missiles strike Kerch Bridge that links Russia with Crimea",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1lMdEV1WEtKYTVkZHVmeDh1cEhybHluUVd1eGRuVHdfMkt6ekpEbXFVWHpMN254eURaczMwUVg4RXBmay14U0l4R3l2bUxBQWl3alU4ajNLbGtSdlBha0JPY2ZBelkxMlJUU3RHNVBKNWpwWS0xOGlEbklYNHBhZHZ2T2lzako2TzlkMk9sQmZzMmF2V3pYYUpjdnVqZzU2ZFFORzUyNEpDYi14?oc=5",
+     "source": "AP News",
+     "published": "2026-11-18T01:32:00+00:00",
+     "summary": "Ukrainian drones and missiles strike Kerch Bridge that links Russia with Crimea&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
      "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-18T01:07:01+00:00",
      "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
      "image": ""
-    },
-    {
-     "title": "Trump\u2019s Ukraine-War Realpolitik Isn\u2019t Realistic",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnFteEVlT2VNWWlUWHVGeVBTUkZrRGhoMEdkX2ZSQWpYY3A3MHlnWVc3VUE2SEN6ZWRMbWFtZzJmM2JhNXVVMjQ5ejRNbmR2eXE4TDZhRTZXY3NBN21wNDVUVE5yaFlCN3pROG1XanhVZG15S2NvZm0waHdtcGdqejVSNDNiUHhqeG1FRFNJbw?oc=5",
-     "source": "National Review",
-     "published": "2026-11-18T01:06:11+00:00",
-     "summary": "Trump\u2019s Ukraine-War Realpolitik Isn\u2019t Realistic&nbsp;&nbsp;National Review",
-     "image": ""
-    },
-    {
-     "title": "Ecuadorian fishermen sue Trump administration over drone strike",
-     "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T01:04:43+00:00",
-     "summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of &#039;manifestly unlawful&#039; campaign.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-18T04:07:13.734274+00:00",
+   "fetched_at": "2026-11-18T04:37:17.396153+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "2026 U.S. Senate Election Results",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+     "source": "AP News",
+     "published": "2026-11-18T04:35:58+00:00",
+     "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "Peltola win doesn\u2019t end DOJ scrutiny of Alaska Senate race, officials say",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclRqakVXUkJrNkk2MjRUR3ZWNlpvMmM1c0dFYTI0bE9KX3lpUTlmcnF3VWhRSUhZMTJ6c3N2R0NGZWxfMVA4c0hKR0lqR3ZxWVRvbndQWkFtdzlVbFZtM2IxbTczeEJ1WWZackRJQzhIeGtjejBNOFkzNE9QbE5CX2pkVkRaTURJZDg2OGt3OUthR3BtZU9YLXl6M244cTBPUy1kVGJoaUVVVjhNdFMyZWNjWE05Z2IyaGhucGRELXdKV0JucFZTWA?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-18T04:32:45+00:00",
+     "summary": "Peltola win doesn\u2019t end DOJ scrutiny of Alaska Senate race, officials say&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
     {
      "title": "Experts credit smooth midterms to election workers, Democratic rout",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSG93ZkNPaWw0NFd2Yy1CUGNZaUxDN1VDREo1ZWpBLTYxS3ZPenI0U1pyS3pHMnFfamYxNzdsWldvVGs4SXhrOW5BUzBORmE3cm11eXE2elBpVUVid1dYRWlKdU5lWDhvT0d6VC12MXE2ZkNpWUNjay1IeDd2T0JmQkRhM016bF9wVVpETTA3WXhjVzFvNGlpSzRzd3YxMDZrY0FoSHFZcWtzbUtfbGc?oc=5",
@@ -304,27 +320,11 @@
      "published": "2026-11-18T03:24:54+00:00",
      "summary": "Chinese President Xi Jinping called on Wednesday for stronger global cooperation on artificial intelligence and free trade, as he opened the APEC summit in Shenzhen ahead of an exp",
      "image": "https://s.france24.com/media/display/6c27aea8-e2f8-11f1-acc5-ff16da94d1fe/w:1024/p:16x9/b8a39c56a6822b99f0824e38b60014e799bb99fe.jpg"
-    },
-    {
-     "title": "Mary Peltola will be the first Alaska Native in the U.S. Senate",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MQUpQSWRwd2VwRFF5V3c5TVpiV2FYSnJLbDhoVUZJUC1WYURoMkQ4VEZhRk1KalVTd1FQdkNXOVdDTC1menlNTl9sc3VxY1JWRE5SSThjNGNpN1JsYW1kb2Y0akFxZ1kzNm5keA?oc=5",
-     "source": "The 19th News",
-     "published": "2026-11-18T03:21:51+00:00",
-     "summary": "Mary Peltola will be the first Alaska Native in the U.S. Senate&nbsp;&nbsp;The 19th News",
-     "image": ""
-    },
-    {
-     "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUFXQnhSVW81NVFKVmppNzlvajVabHFkWnVxZmdPQXVVemM3dWpIMkQ2c2ZmSFNiR1JrbXFuRmVVM3psNEdUSE9YcGZmeUJRVFI1MzJLdG1zNHlkRTBzbFBhOVBaQUxSRU1VWUMtY1VmbVRmaElHdjhHYUdJamt4NGJEVnFINEU3TkFSM2NfRGNyeld3ZGFOdDlfOTMtM1FGTmJkWTlORnctUlJVV3I2OENiRFRQZw?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-18T03:19:00+00:00",
-     "summary": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan&nbsp;&nbsp;NBC News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-18T04:07:13.734277+00:00",
+   "fetched_at": "2026-11-18T04:37:17.396156+00:00",
    "stale": false,
    "items": [
     {
