@@ -1,24 +1,80 @@
 {
- "generated_at": "2026-11-19T02:41:15.870696+00:00",
+ "generated_at": "2026-11-19T03:11:19.373484+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T02:41:15.870672+00:00",
+   "fetched_at": "2026-11-19T03:11:19.373456+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018I\u2019ll take the rap for that\u2019: labour hire boss asked for fake invoices for sports club sponsorships, Big Build royal commission hears",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/19/cfmeu-big-build-inquiry-labour-hire-fake-invoices-sports-clubs-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-19T03:01:40+00:00",
+     "summary": "Invoices, including for junior football and netball sponsorships totalling thousands of dollars, were part of \u2018distorted\u2019 payments to CFMEU official, inquiry toldGet our breaking n",
+     "image": "https://i.guim.co.uk/img/media/f7292a5967b684151163c76cd8ca8bc81eb97af3/224_0_2236_1789/master/2236.jpg?width=140&quality=85&auto=format&fit=max&s=a7a542b9f8a836e6d5bd900102b3dd5d"
+    },
+    {
+     "title": "China\u2019s Xi greets Putin and Trump at APEC before historic summit",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T03:01:27+00:00",
+     "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+     "image": ""
+    },
+    {
+     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+     "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T02:59:06+00:00",
+     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
+    },
+    {
+     "title": "Google\u2019s driverless car hits a roadblock",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T02:57:56+00:00",
+     "summary": "Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.",
+     "image": ""
+    },
+    {
+     "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T02:57:19+00:00",
+     "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
+     "image": ""
+    },
     {
      "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-19T02:22:50+00:00",
+     "published": "2026-11-19T02:47:40+00:00",
      "summary": "Asked by Fox News about China\u2019s alleged spying operation, president says: \u2018We spy on them too. I think we spy better than they do\u2019Sign up for US breaking News emailLinked to that, ",
      "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=52b073360cb78c8261904cd31199a12d"
     },
     {
-     "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+     "title": "One Nation\u2019s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-19T02:36:37+00:00",
+     "summary": "Exclusive: Kelvin Morton was hired in February in appointment heralded as turning point for professionalisation of partyGet our daily political email, free app or daily news podcas",
+     "image": "https://i.guim.co.uk/img/media/fc7bad15212bc92a35ac3e130045daf1a4822d57/163_0_1218_974/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=37dbdc51850210108cc31a4e128fc0f8"
+    },
+    {
+     "title": "GTA 6 dazzles gamers in Australia with \u2018fully lived-in, breathable world\u2019",
+     "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+     "source": "The Guardian",
+     "published": "2026-11-19T02:30:12+00:00",
+     "summary": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI\u2019s Miami-inspired Vice CityTell us: are you playing Grand Theft Auto VI?Gamers across",
+     "image": "https://i.guim.co.uk/img/media/e5ce165329932836314e73aaa1608c379bc0f198/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=bc6c883bc7739c7c41e75c2a5cdd55f7"
+    },
+    {
+     "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-19T02:20:15+00:00",
-     "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+     "summary": "Anthropic started just five years ago and is now one of the biggest names in artificial intelligence.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
     },
     {
@@ -38,14 +94,6 @@
      "image": "https://s.france24.com/media/display/e3717e5c-e3bc-11f1-b3ed-6d75ed565170/w:1024/p:16x9/AP26321662340752.jpg"
     },
     {
-     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-     "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T01:56:28+00:00",
-     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
-    },
-    {
      "title": "Hegseth unveils new US-Venezuela military deal",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
      "source": "Al Jazeera",
@@ -56,10 +104,10 @@
     {
      "title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
      "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
-     "source": "\u00a9 Sergey Bobylev, Sputnik via AP",
+     "source": "\u00a9 Iori Sagisawa, Reuters",
      "published": "2026-11-19T01:47:04+00:00",
      "summary": "The leaders of China, the US and Russia are set to hold a first-of-its-kind trilateral meeting on Thursday in the Chinese city of Shenzhen, on the sidelines of an APEC summit. The ",
-     "image": "https://s.france24.com/media/display/adbf2d2c-e358-11f1-ba43-1ba7ddfab527/w:1024/p:16x9/AP26322481866969.jpg"
+     "image": "https://s.france24.com/media/display/ab44d584-e3bb-11f1-b907-c5c0357b2a0c/w:1024/p:16x9/2026-11-18T233755Z-1057744137-RC2BQOAZ47GW-RTRMADP-3-APEC-SUMMIT.jpg"
     },
     {
      "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
@@ -68,61 +116,37 @@
      "published": "2026-11-19T01:46:21+00:00",
      "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika MaineGet our breaking news email, free app or daily news podcastYouth fashion chain ",
      "image": "https://i.guim.co.uk/img/media/7d56f8d844b5cf5df1e5f586bc7ca3b43c5984d0/0_0_2497_1997/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=4eb8e029850f2e5e28dac2de2696cd1d"
-    },
-    {
-     "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-     "url": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T01:17:08+00:00",
-     "summary": "A new report alleges that injuries on Epstein&#039;s body were overlooked by medical examiners during his 2019 autopsy.",
-     "image": ""
-    },
-    {
-     "title": "Settler rams into Palestinians at multiple locations in central Israel",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T01:13:45+00:00",
-     "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
-     "image": ""
-    },
-    {
-     "title": "Australia may have \u2018one foot in recession\u2019 as unemployment surges to five-year high",
-     "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
-     "source": "The Guardian",
-     "published": "2026-11-19T01:12:55+00:00",
-     "summary": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures revealGet our daily political email, free app or daily news podcastAustralia may already have ",
-     "image": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=cdc902f13711b00113b62f2359c282f2"
-    },
-    {
-     "title": "Elon Musk claims \u2018I\u2019m not Maga\u2019 and says he regrets vast sums to back Republicans",
-     "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
-     "source": "The Guardian",
-     "published": "2026-11-19T01:07:51+00:00",
-     "summary": "Musk, who aligned with Trump and was frequent White House guest, says he feels \u2018pretty foolish\u2019 about record midterm spendingElon Musk denied being Maga on Wednesday, despite align",
-     "image": "https://i.guim.co.uk/img/media/0d10d08459c8b09152e92f3ebf55f9712a98d380/2128_149_4811_3852/master/4811.jpg?width=140&quality=85&auto=format&fit=max&s=8839487fb786add260720cdfc034e3e8"
-    },
-    {
-     "title": "Crimean Bridge attacked again, Russian official says",
-     "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T01:05:03+00:00",
-     "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
-    },
-    {
-     "title": "Record-breaking rain lashes California\u2019s Bay area as \u2018atmospheric river\u2019 arrives",
-     "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
-     "source": "The Guardian",
-     "published": "2026-11-19T01:03:34+00:00",
-     "summary": "Storm expected to move into southern California, with LA residents warned of potential evacuation ordersHeavy rain pounded California\u2019s Bay area, with record rainfall in downtown S",
-     "image": "https://i.guim.co.uk/img/media/f9f5212fc0956900ba97c6edec783a649f9bb14b/630_0_6300_5042/master/6300.jpg?width=140&quality=85&auto=format&fit=max&s=a535c6eaf85cf6ca207953a5b7cc1559"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T02:41:15.870684+00:00",
+   "fetched_at": "2026-11-19T03:11:19.373471+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "China\u2019s Xi greets Putin and Trump at APEC before historic summit",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T03:01:27+00:00",
+     "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+     "image": ""
+    },
+    {
+     "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T02:57:19+00:00",
+     "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine's allies to meet in Berlin after Trump-Putin-Xi talks",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkVrcUVDWDdWQy1qUnd1REpWSEtHXzhlWHRwYUJuYzJYaV9JaEVDZWVhME0tblBjeGc5VTg1YnUyM0FkVk9IQ2UtS2tpU2FzUGUxVTd0RER6RVYzWkRSc3BGNW5zRndCRGtMTXJQVFNmd1cxVDUxYUNkZVdDWnUxYlpyT0hMM2RKby1NWGc5cnFUazk2cThvWHFFR0JiRkpjNWRpcHF1ZC1yYmtL?oc=5",
+     "source": "France 24",
+     "published": "2026-11-19T02:55:20+00:00",
+     "summary": "Ukraine's allies to meet in Berlin after Trump-Putin-Xi talks&nbsp;&nbsp;France 24",
+     "image": ""
+    },
     {
      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
      "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
@@ -158,17 +182,17 @@
     {
      "title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
      "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
-     "source": "\u00a9 Sergey Bobylev, Sputnik via AP",
+     "source": "\u00a9 Iori Sagisawa, Reuters",
      "published": "2026-11-19T01:47:04+00:00",
      "summary": "The leaders of China, the US and Russia are set to hold a first-of-its-kind trilateral meeting on Thursday in the Chinese city of Shenzhen, on the sidelines of an APEC summit. The ",
-     "image": "https://s.france24.com/media/display/adbf2d2c-e358-11f1-ba43-1ba7ddfab527/w:1024/p:16x9/AP26322481866969.jpg"
+     "image": "https://s.france24.com/media/display/ab44d584-e3bb-11f1-b907-c5c0357b2a0c/w:1024/p:16x9/2026-11-18T233755Z-1057744137-RC2BQOAZ47GW-RTRMADP-3-APEC-SUMMIT.jpg"
     },
     {
-     "title": "Video Trump, Xi, Putin to meet amid Russia's war in Ukraine, US war with Iran",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWpfdno0bHpnSXdjMC1kT0NjRUU4YWhBUnBEOWpiUUNmb0xWbG1GYkw0V2ZodmlHUHNub2tIY3Y1YjJ6dDF0aEVsTWhfUmZvbEhydWMzQW5XM3F1VlVDaW5uQVJ3UHFwQzZoemoxRWIxQWRCS1lDZFk4ZWw0ZnpWV19Ea0U1ZWJiMWRmQg?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-11-19T01:44:04+00:00",
-     "summary": "Video Trump, Xi, Putin to meet amid Russia's war in Ukraine, US war with Iran&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+     "title": "Trump says he wouldn\u2019t make deals with Putin without Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTFvTFRVTWtmZmJGWjhhZ0FWOHVUb0c3SWRsbXBWRGhFUjhBRDJFekRCRHFBR0UxOXhVVm9wcno4WTQwSjE2MzlPd3FLVURJMWZyWXg2UlJBX21oRDdvZjZtYzFzMmFtRUZKNkEzajlXR1RtWWdqU2hqc0sxVXY5RzBNZ0hqdzZHZjVzRHJtR3lTaXZNZG8tUFhObVMtdHotV0pBa3hhLUlaTTdY?oc=5",
+     "source": "The Business Times",
+     "published": "2026-11-19T01:45:00+00:00",
+     "summary": "Trump says he wouldn\u2019t make deals with Putin without Ukraine&nbsp;&nbsp;The Business Times",
      "image": ""
     },
     {
@@ -194,37 +218,45 @@
      "published": "2026-11-19T01:05:03+00:00",
      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
-    },
-    {
-     "title": "Record-breaking rain lashes California\u2019s Bay area as \u2018atmospheric river\u2019 arrives",
-     "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
-     "source": "The Guardian",
-     "published": "2026-11-19T01:03:34+00:00",
-     "summary": "Storm expected to move into southern California, with LA residents warned of potential evacuation ordersHeavy rain pounded California\u2019s Bay area, with record rainfall in downtown S",
-     "image": "https://i.guim.co.uk/img/media/f9f5212fc0956900ba97c6edec783a649f9bb14b/630_0_6300_5042/master/6300.jpg?width=140&quality=85&auto=format&fit=max&s=a535c6eaf85cf6ca207953a5b7cc1559"
-    },
-    {
-     "title": "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzRmTXhmRm1jLWp1c2JoZGc4Z0VwR1lvMFNNUnVKTmZPbGZ6QVY5bS01Rl96M3Y4WWtQdEtOLUVKMTJ3Z1hLMVlLQllYWW5hbTVQV0hrb2trQ2dYZUZKSVNDUDNKNzgzVUliRDlqWHBaMER2R2VnT05UM2lPS0w5N3haenNObzNYc3VR?oc=5",
-     "source": "CNN",
-     "published": "2026-11-19T00:27:00+00:00",
-     "summary": "Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again&nbsp;&nbsp;CNN",
-     "image": ""
-    },
-    {
-     "title": "Nearly 4 In 10 Americans Say Trump Favors Russia Too Much In Its War Against Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDNSakw5R1VCQWJGdVl0MXdMT3ZNdGZERjVBMlo5aG83YXVRTGs1Mlc5NVV1NERwZTFqLXk0MWlfUkFpWmZxLUpPTl8xZWxhZC1TRTUwZXhBaFk2b3lBNzJabG1idzVJcjdCWkhjTTh3RmpRYnFpdTBPYS1lZzFkTE1JSVRxRkt1bVRIdW5qQUNtYlRCZzUw0gGcAUFVX3lxTE9pN1NEZUozUDZ0Qi1jQVFQV1hXNS00Q2FzNFFMUUhXN0FPcjZGTndRRHlhVU9qV3hmU1UxWG9zT1oxQWpPOGdHV0FHeWlRZVZhRFNlcUhvbndQRHJrSlVSVFBYcXZabEZFVGZTSWxuUFdyWmhMQ1h3Z3pyc3BvWm1OVUhqajJKREpPRVl5SVNCMkM2THpFSEQyZ2dSag?oc=5",
-     "source": "HuffPost",
-     "published": "2026-11-19T00:19:55+00:00",
-     "summary": "Nearly 4 In 10 Americans Say Trump Favors Russia Too Much In Its War Against Ukraine&nbsp;&nbsp;HuffPost",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T02:41:15.870686+00:00",
+   "fetched_at": "2026-11-19T03:11:19.373474+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "When God loses an election",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jZ014UTFneFRQX2xGY0JiMHpsQUttX0dNUU5RcFBqaWFVTjVwZVZWSVdGOXdfMTNJT1ZlOFpUeDE2X2xPbExQZUdwUXR3VTF3bWpxRHlVQ2tQUFZhaVVVWUZRR0JxRjhteTZJ?oc=5",
+     "source": "Baptist News Global",
+     "published": "2026-11-19T03:05:55+00:00",
+     "summary": "When God loses an election&nbsp;&nbsp;Baptist News Global",
+     "image": ""
+    },
+    {
+     "title": "Alaska midterm turnout sets all-time record, beating marijuana-legalization year of 2014",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNG41WHNFUVlYdDNmWVR4bXkxYUdHa2VlZE1kNWNUTlNnczFIQm5YQ1ZJWG9QV0RKaVhjam5xTlRiS1hMV3BSOWtRTHFjSEJjcElIanNfNnRVcDZEWHVlZHF6R0hQMXBYam5YSGREZUN6QlU2YkgzbTlUTlJ4eWNLZC1EVWxDdS1sRW1obVRxdlhfRzF6V0ZFQjFVNE1rWjZldUFEaE1NV2MyTkY2RnE1VUNTci10RWUwaEpLQ3l1Skx1Zw?oc=5",
+     "source": "Alaska Beacon",
+     "published": "2026-11-19T02:49:25+00:00",
+     "summary": "Alaska midterm turnout sets all-time record, beating marijuana-legalization year of 2014&nbsp;&nbsp;Alaska Beacon",
+     "image": ""
+    },
+    {
+     "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T02:47:40+00:00",
+     "summary": "Asked by Fox News about China\u2019s alleged spying operation, president says: \u2018We spy on them too. I think we spy better than they do\u2019Sign up for US breaking News emailLinked to that, ",
+     "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=52b073360cb78c8261904cd31199a12d"
+    },
+    {
+     "title": "Essex County Residents Gather to Reflect on Election Results, Discuss Path Forward",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHdFNG1NMnhMTm1lOUczVERwTi1JTVczbWs2clRRV3lmQ29ZX19pWnVhNlNLc0JYMnJwaVF3REl1cGZfSVA3cGR1UEU2R0EzRFVrTVJXamNlc044WUZsWmZsa0RwRl9yUC1ndHhZam1vMkNYRnhXLS10U3M2b3BoNjA3dTF5ajdKelNoSzQ3QVVfRlhsMm43NkpKVkRXa01NSVNqR1c5UUcxSDB6MGtlemNDUGphLVd1VDZJ?oc=5",
+     "source": "Swampscott Tides",
+     "published": "2026-11-19T02:45:17+00:00",
+     "summary": "Essex County Residents Gather to Reflect on Election Results, Discuss Path Forward&nbsp;&nbsp;Swampscott Tides",
+     "image": ""
+    },
     {
      "title": "Investors build for resilience as policy options narrow",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlViWDY3N1hSMWVUM1h4X2FXdV9FV05SbDNGSTk4TGFQZFd3NEYxU3lKQVdLemluYjVVY2h5SmRKNnRLdUxHY0YtSEpHS0xrN2NrWmVBaGFyRWYtZmVtcG5SOGtVWUw0QnhXdzhHYUNjcHd0WkFHelRfZUVLNDk4Mk4zbk1LZTJGTmh1MEFlTDg4MDBvRUY4bEhOV0h6VXN3SGhEQjBSNzd1MG9jaFk0M0Z3?oc=5",
@@ -248,14 +280,6 @@
      "published": "2026-11-19T02:23:00+00:00",
      "summary": "Five Republicans lose seats in Legislature as election officials finish vote-counting and tabulation&nbsp;&nbsp;Alaska Public Media",
      "image": ""
-    },
-    {
-     "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T02:22:50+00:00",
-     "summary": "Asked by Fox News about China\u2019s alleged spying operation, president says: \u2018We spy on them too. I think we spy better than they do\u2019Sign up for US breaking News emailLinked to that, ",
-     "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=52b073360cb78c8261904cd31199a12d"
     },
     {
      "title": "Policy changes in Canada had little effect on sales of antibiotics for animals, study finds",
@@ -282,49 +306,25 @@
      "image": ""
     },
     {
+     "title": "The 5 House Democrats to watch on foreign policy",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcVlMcmU2OW9BQ3hNTVhoUnZ3N3l6NG9CYWxhemVxdENyS0hYbHJEZUgwLUgwVjRwZlVUOXNiQXVoTnJObmpyblJLd01VNjdoSnBjVDY5S1pVNnJ2dTh4U1hwLXhuMTZmWW4walhBQ1Nvb2s3bFdTZ3FTR3lZTnVGalprRUJjdWVJdklSX2s4QkVoQQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-19T01:51:00+00:00",
+     "summary": "The 5 House Democrats to watch on foreign policy&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
      "title": "Analysis \u2022 They decided the election without recognition. Yet the Arab public is optimistic",
      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNmlKU0ZOMGx0aklqbVRoc0JhcU5PNC1LaFY0SmVmb0tyeURpbWdLZ2JlRzVGaTItY0N3ODFmY3B6UUlhblkzb09QdXRpdlhkbEJzcWl0endfY0lfLVZ3MjZCZGtoVWZJMUtzQ1pBekxGekpWRlR5YU5KZ0lQNjZOR2Zkcm1vVnZlV3o1b0lUVjdLWnRXS2NFMUR1bnBXOW03U2xpbFFyNktvZ01SNndrZ2diUTBaSjVBbXhNRjdQM2hqb1dfLWFNeTBCOFN5WXd3RGs0Qy16TWRFMXpKeTNBWGc3XzQyeWszd2VpQlZDZzJoYXQ4SEoxdE1VYTY2WVVhRlh0aV9wdndGbURRcUVPNHRBbVlmdXRUUDhiZ29ocDhVMHZTU2c?oc=5",
      "source": "Haaretz",
      "published": "2026-11-19T01:51:00+00:00",
      "summary": "Analysis \u2022 They decided the election without recognition. Yet the Arab public is optimistic&nbsp;&nbsp;Haaretz",
      "image": ""
-    },
-    {
-     "title": "Musk says he feels \u2018foolish\u2019 after GOP election spending spree",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVUcXVheVUyMW5NWV8wRkptVklfYlZtOTZVUUNKNmxKdDZEbDdFZlJmVjhTN1UyQXlDUzZWVi00b2RRZlZFRWQzNm9GWnUtYnA3blFsR2FoTHN1b0ozTHlETFA4b2FSV2hFeU9Kems1MzlfSU1kQXF3OWhNek9jWGUxRWg1TmZRMXcwMVlwVG8xWnBlS190OG9CbWlSOWlyUzdWWXMxVzl2cGg5RS1n?oc=5",
-     "source": "Politico",
-     "published": "2026-11-19T01:45:00+00:00",
-     "summary": "Musk says he feels \u2018foolish\u2019 after GOP election spending spree&nbsp;&nbsp;Politico",
-     "image": ""
-    },
-    {
-     "title": "Sec. Adams praises smooth election, weighs Kentucky GOP outlook",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYkN3TFd0MlF3ckFPTWhXdzI2bndlR01GdHh6Z3JvY2NtM3Z5RW43QUFheUVtckJ6MGJqYUdoeXNabzZRQVRfdjJNQkZfSXV5Y1RIR1dqV3laM0VwMXlSQS1VYUtHWTdnbng4QkNqZzg0bHlzS1BSZ2Z0SzdoMmd0cEVsYS1oYzg3bnNMQUMxX1U2U3FJMUhSbUJlcUlXTlNJTy0wVU9UTWtUcDlBaE1ydDl3RTZ6ZHFDUlhEMjNFZFpzNHF1WEtINjRORHJweFVyRk5odUdaemhtY1E?oc=5",
-     "source": "WPSD Local 6",
-     "published": "2026-11-19T01:35:06+00:00",
-     "summary": "Sec. Adams praises smooth election, weighs Kentucky GOP outlook&nbsp;&nbsp;WPSD Local 6",
-     "image": ""
-    },
-    {
-     "title": "County election tension continues through canvass",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPelpBbXdCclEwc20wOFlneHJmSC1IZUw3S3VtOEFVdDZaZk5MckRUNTZFZkJzQ3kwdDdSUkM3SlU5UnNxUmhGVGhLVTI2TmZZYXlHLWN3SmJJTlk1Nzg0bWs2b01fVDhtT1NEM0VsMHJDZ09tOFRzcDVKQmRyZVduR0doamQ4bGw2TG9wUFlnQ1Z4TElxTW9ULWZpLVBtVF9KckdSRUpUbVNpRjd0RUZYVGh2NjM1dTlRcHpsZ0VUSEVzSThrZU15RFlFcGwyQ0FwZ2Vv?oc=5",
-     "source": "12News",
-     "published": "2026-11-19T01:35:00+00:00",
-     "summary": "County election tension continues through canvass&nbsp;&nbsp;12News",
-     "image": ""
-    },
-    {
-     "title": "Maricopa County posts fastest election results in 20 years as Recorder Justin Heap skips canvass",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlFsV1Y0TF8zUUY1YjUxRUxtVk51Zlh6ZGcwOERoMEt4Q3hNdXFaeUpSNnVTMWZEb0NBQVMwNHR0NGw4LTNGX3JNSWgzd2JrdTZpbmhxcEVVdHZQWDZKdGRhZmFBdWRoNmNadHVYektSVkV1eFllTjM1SkNBMHJkbk1idVlfZGRnZ2RXOGtKRGM1a3MwVjhiZ0FIT0hMU3M1aE5hWQ?oc=5",
-     "source": "KTAR News 92.3 FM",
-     "published": "2026-11-19T01:18:35+00:00",
-     "summary": "Maricopa County posts fastest election results in 20 years as Recorder Justin Heap skips canvass&nbsp;&nbsp;KTAR News 92.3 FM",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-19T02:41:15.870689+00:00",
+   "fetched_at": "2026-11-19T03:11:19.373476+00:00",
    "stale": false,
    "items": [
     {
