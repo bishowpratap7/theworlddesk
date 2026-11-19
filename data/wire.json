@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-19T21:14:20.069573+00:00",
+ "generated_at": "2026-11-19T21:44:23.587510+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T21:14:20.069541+00:00",
+   "fetched_at": "2026-11-19T21:44:23.587478+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Haiti police say at least 34 suspected gang members killed in raid",
+     "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T21:39:39+00:00",
+     "summary": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
+     "image": ""
+    },
+    {
+     "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T21:26:10+00:00",
+     "summary": "\"She fought until she couldn\u2019t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg"
+    },
+    {
+     "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T21:21:43+00:00",
+     "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+     "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T21:11:45+00:00",
+     "summary": "The appeals court&#039;s ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
+     "image": ""
+    },
+    {
+     "title": "Ten killed in Pakistan as bus crashes into gas tanker",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T21:09:24+00:00",
+     "summary": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
+     "image": ""
+    },
     {
      "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
      "url": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
@@ -12,6 +52,14 @@
      "published": "2026-11-19T21:06:24+00:00",
      "summary": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no availFiona the hippo, one of America\u2019s most famous zoo animals, has di",
      "image": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8"
+    },
+    {
+     "title": "'We're seeing in real time the effects that AI is going to have on cybersecurity', expert says",
+     "url": "https://www.france24.com/en/we-re-seeing-in-real-time-the-effects-that-ai-is-going-to-have-on-cybersecurity-expert-says",
+     "source": "France 24",
+     "published": "2026-11-19T21:06:12+00:00",
+     "summary": "FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the Brookings Institution, also former Director for Cybersecurity on the National Security Council unde",
+     "image": "https://s.france24.com/media/display/bed7beae-e45b-11f1-9cd8-ebb478925cf0/w:1024/p:16x9/EN-20261119-210356-211312-CS-01.jpg"
     },
     {
      "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
@@ -22,11 +70,11 @@
      "image": "https://i.guim.co.uk/img/media/3bbff637fb02e511e32ade930f414ad77d600ab4/0_0_4235_3388/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=bd44ca33648d7c2025b5d4ba54d2e799"
     },
     {
-     "title": "Suspects charged in brazen train heist ring that netted $22m in cargo from major retailers",
+     "title": "Suspects charged in California train heist ring that netted cargo worth $22m",
      "url": "https://www.theguardian.com/us-news/2026/nov/19/nike-croc-train-heist",
      "source": "The Guardian",
      "published": "2026-11-19T21:02:16+00:00",
-     "summary": "More than a dozen people allegedly targeted trains carrying Nike sneakers, Crocs footwear and other goodsMore than a dozen people were charged Thursday with allegedly orchestrating",
+     "summary": "More than a dozen people allegedly targeted trains carrying Nike sneakers, Crocs footwear and other goodsMore than a dozen people were charged on Thursday with allegedly orchestrat",
      "image": "https://i.guim.co.uk/img/media/8f75e1dbac6c5661a9571098a877f13163d77353/426_0_4263_3411/master/4263.jpg?width=140&quality=85&auto=format&fit=max&s=71d6110da0984013f212267365be9aa1"
     },
     {
@@ -68,61 +116,29 @@
      "published": "2026-11-19T20:52:46+00:00",
      "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadershipSign up for the Breaking News US emailThe National Security Age",
      "image": "https://i.guim.co.uk/img/media/4445bb36efff4a7f4ccc2e4348e4771595c27c27/457_0_4570_3656/master/4570.jpg?width=140&quality=85&auto=format&fit=max&s=599a21a70952fbfef6ddd57bbc979a9a"
-    },
-    {
-     "title": "UK-EU reset talks will go \u2018down to the wire\u2019 as crunch summit approaches",
-     "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-     "source": "The Guardian",
-     "published": "2026-11-19T20:52:05+00:00",
-     "summary": "Britain understood to have made concessions on youth mobility scheme as negotiations on wider deal continueBritish and European negotiators were striving to put the finishing touch",
-     "image": "https://i.guim.co.uk/img/media/78f4d52aa44fb56369bd027db2731ab2539e3e15/426_0_4300_3440/master/4300.jpg?width=140&quality=85&auto=format&fit=max&s=40b967ab32c7307a2b2a90e3326ee460"
-    },
-    {
-     "title": "Will the Shenzhen summit safeguard world peace?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T20:43:51+00:00",
-     "summary": "Xi, Putin and Trump issue &#039;Peace Declaration&#039; after historic summit.",
-     "image": ""
-    },
-    {
-     "title": "How vaccine fears fuelled a major measles comeback in the US",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T20:35:14+00:00",
-     "summary": "Measles is making a comeback in the US as vaccination rates fall.",
-     "image": ""
-    },
-    {
-     "title": "Trump\u2019s case against NYT and Penguin Random House may proceed: Judge",
-     "url": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T20:32:46+00:00",
-     "summary": "The lawsuit cited a book about Trump by two NYT reporters and what it said were &#039;false, malicious, defamatory&#039; articles.",
-     "image": ""
-    },
-    {
-     "title": "Macron urges Ukraine's allies to 'reopen the question' of NATO membership",
-     "url": "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership",
-     "source": "\u00a9 Hannah McKay, Reuters",
-     "published": "2026-11-19T20:32:15+00:00",
-     "summary": "French President Emmanuel Macron on Thursday called for Ukraine's allies to speed up the delivery of urgently needed air defence systems and urged them to \"reopen the question\" of ",
-     "image": "https://s.france24.com/media/display/1caca7f6-e44d-11f1-80ec-e56ab3dc0809/w:1024/p:16x9/2026-11-19T181939Z-2056306323-RC23ROA5DSK2-RTRMADP-3-UKRAINE-CRISIS-GERMANY-BRITAIN.jpg"
-    },
-    {
-     "title": "Senate Republicans in US reject measure to limit Trump\u2019s war powers in Iran",
-     "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T20:30:54+00:00",
-     "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T21:14:20.069557+00:00",
+   "fetched_at": "2026-11-19T21:44:23.587494+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump, Xi, Putin Begin Historic Meeting with Ukraine War on Agenda",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjRSRGZoNE54WDZvaG9JX3RuZnpXRFlJRy1oQkxEVVFXZEhPS1Nnd21HY1pXWWhkZ29YTjlZdlJtR1FHUm5tWm1kbThtTXRUNFB4T08wUHFrQjMtd0lrTFJSQUVnMG5zd1k1RUdLSXNNY3JUaVJ0YVlvSFpEdFI5cDFpMnc4X0pFUGh2Z1dYMXJpVXNsZGV2YmFNSS1RZw?oc=5",
+     "source": "ASHARQ AL-AWSAT English",
+     "published": "2026-11-19T21:33:45+00:00",
+     "summary": "Trump, Xi, Putin Begin Historic Meeting with Ukraine War on Agenda&nbsp;&nbsp;ASHARQ AL-AWSAT English",
+     "image": ""
+    },
+    {
+     "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T21:21:43+00:00",
+     "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
+    },
     {
      "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
      "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
@@ -130,6 +146,14 @@
      "published": "2026-11-19T21:04:01+00:00",
      "summary": "Stories revealing Pauline Hanson\u2019s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognisedGet our breaking news email, free app or daily n",
      "image": "https://i.guim.co.uk/img/media/3bbff637fb02e511e32ade930f414ad77d600ab4/0_0_4235_3388/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=bd44ca33648d7c2025b5d4ba54d2e799"
+    },
+    {
+     "title": "Europe ready for talks with Russia to end Ukraine war, leaders say",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc1ZJNFVXeU1OcVBhNHhfbWRxWFlPMk1NTXFLdjVKS28tQm91NFRENU5qLUZZakN0d28xeWx0cHpSejE3OFlrZGlrQV94NE9PaE5jMmRVamdKUVdiamdBQnczVFVTWllBbFBIcVNYTEdQSDN1YVhSMWU4d19iZnBJUGFTVlFmUWJESzVmOTN6WFA5V3pmbFE?oc=5",
+     "source": "Nacionale",
+     "published": "2026-11-19T21:00:41+00:00",
+     "summary": "Europe ready for talks with Russia to end Ukraine war, leaders say&nbsp;&nbsp;Nacionale",
+     "image": ""
     },
     {
      "title": "Russia says Netherlands is no longer a bystander in Ukraine war; PM Jetten pushes back",
@@ -188,43 +212,51 @@
      "image": ""
     },
     {
-     "title": "Macron urges Ukraine's allies to 'reopen the question' of NATO membership",
-     "url": "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership",
-     "source": "\u00a9 Hannah McKay, Reuters",
-     "published": "2026-11-19T20:32:15+00:00",
-     "summary": "French President Emmanuel Macron on Thursday called for Ukraine's allies to speed up the delivery of urgently needed air defence systems and urged them to \"reopen the question\" of ",
-     "image": "https://s.france24.com/media/display/1caca7f6-e44d-11f1-80ec-e56ab3dc0809/w:1024/p:16x9/2026-11-19T181939Z-2056306323-RC23ROA5DSK2-RTRMADP-3-UKRAINE-CRISIS-GERMANY-BRITAIN.jpg"
-    },
-    {
-     "title": "Senate Republicans in US reject measure to limit Trump\u2019s war powers in Iran",
-     "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T20:30:54+00:00",
-     "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
-     "image": ""
-    },
-    {
-     "title": "What does the Myanmar genocide ruling mean for the Rohingya?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T20:26:09+00:00",
-     "summary": "Rohingya refugees in Bangladesh cheered an International Court of Justice finding that Myanmar committed genocide.",
-     "image": ""
-    },
-    {
-     "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
-     "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
-     "source": "The Guardian",
-     "published": "2026-11-19T20:24:09+00:00",
-     "summary": "Measure fails 48-51 with GOP members again defending war that played a role in costing them midterm electionsThe Senate on Thursday rejected a war powers resolution aimed at forcin",
-     "image": "https://i.guim.co.uk/img/media/e9cf75dcb88b9e08a70020610023fdba0e0a45c4/671_0_6707_5366/master/6707.jpg?width=140&quality=85&auto=format&fit=max&s=b1fd399afc2a4e336a197ce308a55145"
+     "title": "Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine",
+     "url": "https://www.france24.com/en/kushner-says-trump-open-to-extend-nato-mutual-defense-type-clause-to-ukraine",
+     "source": "France 24",
+     "published": "2026-11-19T20:41:06+00:00",
+     "summary": "US envoy Jared Kushner said Thursday that President Donald Trump was open to extending to Ukraine a security guarantee similar to NATO's mutual defense clause, but stressed that Wa",
+     "image": "https://s.france24.com/media/display/25b84e6c-e444-11f1-a13d-ebb478925cf0/w:1024/p:16x9/2026-11-19T175030Z-1149809636-RC24ROAX76LX-RTRMADP-3-UKRAINE-CRISIS-GERMANY-BRITAIN.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T21:14:20.069561+00:00",
+   "fetched_at": "2026-11-19T21:44:23.587498+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Hope Party granted retrial on election fraud complaint",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzVEdVZDbHFZX1V3bG1UdnI0WElucGRMTGdjd0tZMEZNY0pWVjFmUnFQYlpjRGZSQVItMDJTNXkxM1p4QlBDY3VvQUpWLTgtdWJqSF9jSkNsUkNZUDFkckdZQWRJckZNckZvM05WOWxxbFBsY3h1TFI4cTlSU1ZCcDBGeGpZUUdqX1FqX05jNzFhM0t4ZENIZ0phQzc?oc=5",
+     "source": "The Independent Florida Alligator",
+     "published": "2026-11-19T21:41:00+00:00",
+     "summary": "Hope Party granted retrial on election fraud complaint&nbsp;&nbsp;The Independent Florida Alligator",
+     "image": ""
+    },
+    {
+     "title": "Midterm \u2018Wave\u2019 Election Makes a Splash at Public Affairs Conference",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlFPQVZxTEZyUUtweVk1WlFNRGJxa3l6alFRMHNkZk56Nl95TXppZ1JhQ0NSUGxuZ0haYy1LdHA2Zm92M3dDY3BLT2pick01cXBsY2g2LTktb2o4QWp4cEZ3dkJMcUpjRDVBekdHaGd1M0lBaWRWYUg3MDMwOUlLaXBkX29xaXlBaTFPRWtHMlVLZUZuUTF4cnEzWllEMDQ?oc=5",
+     "source": "CalChamber",
+     "published": "2026-11-19T21:35:00+00:00",
+     "summary": "Midterm \u2018Wave\u2019 Election Makes a Splash at Public Affairs Conference&nbsp;&nbsp;CalChamber",
+     "image": ""
+    },
+    {
+     "title": "Colorado's Democratic wave in the 2026 election, in 3 charts",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFQyQTNLWnZLaGh1UTZlS2lXcnV1d3pfVllSaDJLaFRCTkJmbUR2Y0FVcjZMOGJtbl85UUl0MlZhVXNTS2swVDRqeVRKZDIyRnNSUFo0Q2d3RUJFNmE5ZjFlcDc4WXpzUk9FTTZHY0V5VDRkdHhJR2ktVXh3RW9Xakc4WDhRaGRGS3FIZy03N19VX1lab1JLUXhwT2FnR0FjUFBZ?oc=5",
+     "source": "Axios",
+     "published": "2026-11-19T21:31:58+00:00",
+     "summary": "Colorado's Democratic wave in the 2026 election, in 3 charts&nbsp;&nbsp;Axios",
+     "image": ""
+    },
+    {
+     "title": "Colorado Secretary of State completes post-election audit",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2ttdjRERmJSNWxqc2VKTk90Vy1RejVYanBqMmpZZlR4SnJGbkF4ZzhNODViYmJ2MlFfS0xyODFaQjNzQklVZmVVN3FPZTRKWnJXM0lMTG1XVkowUWR1b255YWk5bENhRTFoVEZ2cFVRS3FDMlBwUkdGQ0lSX1N1dkZKWjExV1pycFdvcFNxYkROTzVPSlhxdGR6d0RaY2JrLTliaw?oc=5",
+     "source": "Colorado Politics",
+     "published": "2026-11-19T21:15:16+00:00",
+     "summary": "Colorado Secretary of State completes post-election audit&nbsp;&nbsp;Colorado Politics",
+     "image": ""
+    },
     {
      "title": "The Sanctions Puzzle: 10 Key Areas to Watch in 2027 and Beyond",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbmpZVVY2MEdjVG5pTGJqeHExNHV2LVJLUFdld2huQVhmN1YwTW15d1Q0aXMxT3ZiclRFTWN3VzFrN25WbVBCc1gwREdIeXFBeVVaWm5wNGJvUE5VNHR6SDNpY0FxZnc5QUREU3RxM1M0LUJneUZuMVVFLWJ5Mjh0MTV6VlJNdw?oc=5",
@@ -234,20 +266,12 @@
      "image": ""
     },
     {
-     "title": "Honoring The DiMillo Family: A Legacy of Freedom & Opportunity",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Rb3g1RTJoNXRjQ2Yzd3BDWFVSZThsSXdhRTRESVc2T0w1am9icnR4ajhudWFNQ3NqbWItZEFiVVo4VUhLeHBhN241RjdueHpvcEVETTJQOXVabjhCREYwNXdn?oc=5",
-     "source": "Maine Policy Institute",
-     "published": "2026-11-19T21:11:26+00:00",
-     "summary": "Honoring The DiMillo Family: A Legacy of Freedom & Opportunity&nbsp;&nbsp;Maine Policy Institute",
-     "image": ""
-    },
-    {
-     "title": "Secretary of State - 2026 Statewide General Election Audit LIVE 12/1/2026 at 9:00AM",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWhoYVBBYUowZ0dTWE9KVURiZVRGU0J1UlA3bnh6U1lQWEZTWGhxS083VXV2QlpVWUFoQUV0S3dJTmRSUUNUbEUyUG1lMWdIY09Xd2x2N0R5NnR6VVZOdUtFWjBJMGdkRGdqRkpBZjM0Vm9ITkNjOGJwaUZacHk3OE1CM1gwRVk5SzhYTFdWa0JZeE0?oc=5",
-     "source": "ORCA Media",
-     "published": "2026-11-19T21:07:49+00:00",
-     "summary": "Secretary of State - 2026 Statewide General Election Audit LIVE 12/1/2026 at 9:00AM&nbsp;&nbsp;ORCA Media",
-     "image": ""
+     "title": "'We're seeing in real time the effects that AI is going to have on cybersecurity', expert says",
+     "url": "https://www.france24.com/en/we-re-seeing-in-real-time-the-effects-that-ai-is-going-to-have-on-cybersecurity-expert-says",
+     "source": "France 24",
+     "published": "2026-11-19T21:06:12+00:00",
+     "summary": "FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the Brookings Institution, also former Director for Cybersecurity on the National Security Council unde",
+     "image": "https://s.france24.com/media/display/bed7beae-e45b-11f1-9cd8-ebb478925cf0/w:1024/p:16x9/EN-20261119-210356-211312-CS-01.jpg"
     },
     {
      "title": "Feds seek return of 'knock-and-talk' immigration arrest policy",
@@ -255,14 +279,6 @@
      "source": "Courthouse News",
      "published": "2026-11-19T21:04:20+00:00",
      "summary": "Feds seek return of 'knock-and-talk' immigration arrest policy&nbsp;&nbsp;Courthouse News",
-     "image": ""
-    },
-    {
-     "title": "Vacant Minneola City Council seat set for special election in January",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaklZSVZ5OUdIQU9yMmwtcHdaakJEanZfbnZpQjZCWmZxcUtCMm5MV01HbjFXeTFRX3JLWjFBa2tQNmVXd25zeWVIRFFrVi14MHEzOUdhSFZIekt5NVktUXRXMTZialZtdk9hN1pITDl4M29nQmVIVnU3TEJwaW40V29Qa3RweTZhUnozd0JRbmZFTjRtRGluSFYxcm55Z2EtT3BuN2xuU3Y5OEpOVy1XX2tlNA?oc=5",
-     "source": "Orlando Sentinel",
-     "published": "2026-11-19T21:02:09+00:00",
-     "summary": "Vacant Minneola City Council seat set for special election in January&nbsp;&nbsp;Orlando Sentinel",
      "image": ""
     },
     {
@@ -282,14 +298,6 @@
      "image": ""
     },
     {
-     "title": "Secretary of State - 2026 Statewide General Election Canvass LIVE 12/1/2026 at 9:00AM",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDEyZUdnNFlrOWVybW0zN2tWSDBVRlJ0cGctSTdwRW1DTlpCZnZtdndjZU81TWhxYVM2Z1czZEh1X0o4cWw4SnFVaDR4RDVoanhIUGhzQk9TLU1SMlpaQW1Nd1lpdlBZV0lVY2dPdjYycUltbTkzOTBkRHdzT3RGUHJqdHpqSkhqYllQNG5kdXpLR0hVRnFqcnNqSzF3dHk0QnNaajExUEI?oc=5",
-     "source": "ORCA Media",
-     "published": "2026-11-19T20:52:27+00:00",
-     "summary": "Secretary of State - 2026 Statewide General Election Canvass LIVE 12/1/2026 at 9:00AM&nbsp;&nbsp;ORCA Media",
-     "image": ""
-    },
-    {
      "title": "UK-EU reset talks will go \u2018down to the wire\u2019 as crunch summit approaches",
      "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
      "source": "The Guardian",
@@ -306,25 +314,17 @@
      "image": ""
     },
     {
-     "title": "Researcher Mariana Budjeryn discusses Ukrainian security, future of nuclear policy",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGpFaXpHSUNZTHpVWVhYVGEzeURPdW1lQmpvNjlhN0hlSU9NMzVHUmRHc0l6Q0l2R1E5OUJoZFZoY2hjbGh0OThwdTd4TjVyaVVsMnRBSmtCRmM5SngwS0VoSXFfTjFjdlF5OEJCNER5Nm5kRGI5TllRMUk2TU03bWVQV3BoaTdtZW5aUjJkVmRZZFNiRDRHQnYwUF9GMHVrRGszV2cwSWVvYXJoaGt6WjdBdzl0VUNCNU14dw?oc=5",
-     "source": "The Daily Beacon",
-     "published": "2026-11-19T20:40:11+00:00",
-     "summary": "Researcher Mariana Budjeryn discusses Ukrainian security, future of nuclear policy&nbsp;&nbsp;The Daily Beacon",
-     "image": ""
-    },
-    {
-     "title": "Rams All-Pro WR Puka Nacua reportedly suspended 3 games for violating league's personal conduct policy",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNE5qaUoxMVQyd0pTSzVLZjJKOTJIRjAyRERVQjJjWXQwUXdhMWIyU3JMYk1hdjJyN1JrYXFzZ3I4M3FMTG9Tc1F5LUlfVG1oUThJNGx1Y0FHazc0U3U5dDRUdXlZdkhPQ2FqdTQ1Z0d0ajdydHIzSEhEV1djTE9oVFphUXhBWmpFc2dEa19lbDExbWVJRk1Ydi0tcS10bUk3RDNNVXJVaFlvWmFsdU5RSk9vMjMzYTRlN0NqMkp2QTZMOGFTUjVRS2pvWEZOMFBWUFJSbHlfWi1SdEphbXpWcVk0eTZyc3hDdzc2M2oydHpHczhpRS1sbmJOdw?oc=5",
-     "source": "Yahoo Sports",
-     "published": "2026-11-19T20:37:32+00:00",
-     "summary": "Rams All-Pro WR Puka Nacua reportedly suspended 3 games for violating league's personal conduct policy&nbsp;&nbsp;Yahoo Sports",
+     "title": "Permitting Brings Public Lands Back Into Senate Policy Debates",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVktPWFZ6Z0o3NkVtQWoxcDN4RDNzTTR5dEVqY0wtYV8wWnRsMUhQWHYwcEtaRTlRSnZBTVZ3ODAtbEo0WG8tc0N5STZac3pyVXhqRm15bkUzRGVGWnd3Q3JUc3I3eDhXU1ptTUtaeU4tVU1wQTRWY19YY0pBb0g1UUlqUmFyWmp3dkhId0Vkb01hV0dLaXdJLWxfYXVsUWp3eURyMkU4RVlUZ2NXZ0lr?oc=5",
+     "source": "Bloomberg Government News",
+     "published": "2026-11-19T20:43:00+00:00",
+     "summary": "Permitting Brings Public Lands Back Into Senate Policy Debates&nbsp;&nbsp;Bloomberg Government News",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-19T21:14:20.069563+00:00",
+   "fetched_at": "2026-11-19T21:44:23.587501+00:00",
    "stale": false,
    "items": [
     {
