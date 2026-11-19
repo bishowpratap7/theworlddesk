@@ -1,33 +1,81 @@
 {
- "generated_at": "2026-11-19T14:13:02.471169+00:00",
+ "generated_at": "2026-11-19T14:43:05.188284+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T14:13:02.471142+00:00",
+   "fetched_at": "2026-11-19T14:43:05.188258+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "France: Retirees march against 2027 budget cuts",
+     "url": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
+     "source": "France 24",
+     "published": "2026-11-19T14:32:57+00:00",
+     "summary": "More than a thousand people marched in Paris on Thursday, called by a union alliance joined by student and high-school groups, to protest social and tax measures targeting retirees",
+     "image": "https://s.france24.com/media/display/156a74da-e422-11f1-aa5d-13439ca2fe89/w:1024/p:16x9/EN-20261119-141030-141233-CS.jpg"
+    },
+    {
+     "title": "\u2018Really making history\u2019: five takeaways from the meeting between Trump, Xi and Putin",
+     "url": "https://www.theguardian.com/world/2026/nov/19/five-takeaways-from-putin-trump-xi-apec-shenzhen-summit",
+     "source": "The Guardian",
+     "published": "2026-11-19T14:32:03+00:00",
+     "summary": "Leaders focused on nuclear weapons and international courts at their unprecedented gathering in ShenzhenApec summit live \u2013 latest updatesThe presidents of the US, China and Russia ",
+     "image": "https://i.guim.co.uk/img/media/97b0e9a1d1b538e5752a97e26f6831abd741d580/168_0_1450_1160/master/1450.jpg?width=140&quality=85&auto=format&fit=max&s=c89b4c215f8070234dd7f66c9bff0524"
+    },
+    {
+     "title": "\ud83d\udd34 AI firm Anthropic begins trading on Nasdaq, aiming to raise $81 billion in biggest IPO on record",
+     "url": "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai",
+     "source": "France 24",
+     "published": "2026-11-19T14:31:00+00:00",
+     "summary": "",
+     "image": ""
+    },
     {
      "title": "Ukraine\u2019s allies meet in Berlin with air defence, energy and financial support on the agenda \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-19T14:04:17+00:00",
+     "published": "2026-11-19T14:30:43+00:00",
      "summary": "Meeting comes after Trump declared Putin a \u2018friend\u2019 during trilateral meeting in ChinaFor what it\u2019s worth, the China-US-Russia \u2018peace declaration\u2019 issued after their meeting, and p",
      "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
-    },
-    {
-     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T14:04:10+00:00",
-     "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next yearSign up for the Breanking News US emailFollowing the news that",
-     "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82"
     },
     {
      "title": "Jenrick mocked after criticising Thatcher\u2019s policies, despite naming daughter after her \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-19T14:01:06+00:00",
+     "published": "2026-11-19T14:29:51+00:00",
      "summary": "Reform UK MP says policies left a \u2018deep scar\u2019 on communitiesThese are from my colleague Peter Walker, who was at the Tory event where James Cleverly was named as the party\u2019s candid",
      "image": "https://i.guim.co.uk/img/media/1c435763e1f54d8b07eec454718b99204e42d6e1/485_0_6520_5216/master/6520.jpg?width=140&quality=85&auto=format&fit=max&s=a02dbcd59423b2be032df91314fd2830"
+    },
+    {
+     "title": "Anthropic begins trading as $1.5 trillion company in biggest IPO on record",
+     "url": "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai",
+     "source": "\u00a9 Mike Segar, Reuters",
+     "published": "2026-11-19T14:29:03+00:00",
+     "summary": "Anthropic began trading on the Nasdaq Thursday after pricing its IPO at $83 per share, valuing the artificial intelligence giant at $1.5 trillion and surpassing SpaceX as the large",
+     "image": "https://s.france24.com/media/display/3f3e1f26-e41f-11f1-91f8-1bac47ab2f5d/w:1024/p:16x9/2026-11-19T132245Z-254191681-RC21ROAVBBO1-RTRMADP-3-ANTHROPIC-IPO-DEBUT.jpg"
+    },
+    {
+     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T14:27:26+00:00",
+     "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next yearSign up for the Breaking News US emailOver the coming weeks, C",
+     "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82"
+    },
+    {
+     "title": "Chef Rachel Khoo: 'You don't need fancy kitchen gadgets to cook delicious food'",
+     "url": "https://www.france24.com/en/tv-shows/perspective/20261119-chef-rachel-khoo-you-don-t-need-fancy-kitchen-gadgets-to-cook-delicious-food",
+     "source": "France 24",
+     "published": "2026-11-19T14:24:12+00:00",
+     "summary": "One of the world's best-known chefs has spoken to FRANCE 24 about her new book that proves you certainly don't need fancy kitchen gadgets to cook delicious meals. The book \"The Sma",
+     "image": "https://s.france24.com/media/display/1c7be816-e423-11f1-8aba-1bac47ab2f5d/w:1024/p:16x9/capture-edfa4db0.jpg"
+    },
+    {
+     "title": "China summit ends with little new, Europe backs Ukraine in Berlin",
+     "url": "https://www.france24.com/en/china-summit-ends-with-little-new-europe-backs-ukraine-in-berlin",
+     "source": "France 24",
+     "published": "2026-11-19T14:04:03+00:00",
+     "summary": "The leaders of China, the United States and Russia met in Shenzhen for a historic first, but the summit brought little new: non-binding statements on peace and no plan to meet regu",
+     "image": "https://s.france24.com/media/display/edf9490a-e41f-11f1-8a6b-e56ab3dc0809/w:1024/p:16x9/EN-20261119-140128-140711-CS.jpg"
     },
     {
      "title": "Australian music industry rejects \u2018divide and conquer\u2019 proposal to give musicians exemption from AI scraping",
@@ -54,81 +102,65 @@
      "image": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=140&quality=85&auto=format&fit=max&s=c4f4272c390dc53f69e1f5e940abdde3"
     },
     {
+     "title": "\u2018Gaza Syndrome\u2019: Israel\u2019s Soldiers Haunted by Genocide \u2013 Cost of War",
+     "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T13:54:10+00:00",
+     "summary": "The trauma Israeli soldiers bring home \u2014 and the consequences of Israel\u2019s genocide in Gaza.",
+     "image": ""
+    },
+    {
      "title": "Myanmar committed genocide against Rohingya minority, world\u2019s top court rules",
      "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
      "source": "The Guardian",
      "published": "2026-11-19T13:52:10+00:00",
      "summary": "Judgment finds \u2018intent to destroy a substantial part of the Rohingya population\u2019 after case seen as critical test for dealing with most serious of state crimesMyanmar committed gen",
      "image": "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=dd0fed01b92f1c8ac94e55192bc965d1"
-    },
-    {
-     "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
-     "source": "The Guardian",
-     "published": "2026-11-19T13:43:15+00:00",
-     "summary": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting \u2018extremism\u2019The UN human rights committee has warned against the misuse of",
-     "image": "https://i.guim.co.uk/img/media/9f4d93b1adf994df308ddfcb361659b6251a1fe9/938_0_4671_3739/master/4671.jpg?width=140&quality=85&auto=format&fit=max&s=0ab09b13bd84297995abb4add8135cd4"
-    },
-    {
-     "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T13:31:23+00:00",
-     "summary": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg"
-    },
-    {
-     "title": "Where Roots Lie: Surviving Child Grooming and Exploitation",
-     "url": "https://www.aljazeera.com/video/witness/2026/11/19/where-roots-lie-surviving-child-grooming-and-exploitation?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T13:30:00+00:00",
-     "summary": "Sosa, a survivor of trafficking and gang exploitation in the UK, returns to Nigeria to search for his missing mother.",
-     "image": ""
-    },
-    {
-     "title": "Lawyer calls for urgent review of Letby convictions after expert witness revelations",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations",
-     "source": "The Guardian",
-     "published": "2026-11-19T13:24:54+00:00",
-     "summary": "Failure to disclose Peter Hindmarsh\u2019s exclusion from practice raises \u2018fundamental questions\u2019 over nurse\u2019s caseLucy Letby\u2019s lawyer has said the court of appeal must urgently review ",
-     "image": "https://i.guim.co.uk/img/media/8fec28db27c549906d4acae834ff9bedc38fb853/0_0_2399_1920/master/2399.jpg?width=140&quality=85&auto=format&fit=max&s=cb1fc20b9a81d0a1ec1383815770ba68"
-    },
-    {
-     "title": "Mosque set on fire in Israel, politicians blame Netanyahu\u2019s \u2018incitement\u2019",
-     "url": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T13:24:12+00:00",
-     "summary": "Knesset MPs call the incident &#039;a hate crime&#039; while Hamas blames Israeli &#039;settler gangs&#039;.",
-     "image": ""
-    },
-    {
-     "title": "South Korean court orders retrial for ex-PM Han over martial law attempt",
-     "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T13:22:17+00:00",
-     "summary": "The lower Seoul High Court will now retry the case based on the Supreme Court&#039;s legal interpretation of insurrection.",
-     "image": ""
-    },
-    {
-     "title": "In South Korea, women forced into prostitution on US military bases seek justice",
-     "url": "https://www.france24.com/en/tv-shows/focus/20261119-in-south-korea-women-forced-into-prostitution-on-us-military-bases-seek-justice",
-     "source": "France 24",
-     "published": "2026-11-19T13:21:41+00:00",
-     "summary": "Tens of thousands of women were forced to work in South Korean state-sanctioned brothels used by American soldiers based in the country after the Korean War. They were raped, physi",
-     "image": "https://s.france24.com/media/display/937659ce-e3fb-11f1-b17d-6d75ed565170/w:1024/p:16x9/capture-fae65078.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T14:13:02.471155+00:00",
+   "fetched_at": "2026-11-19T14:43:05.188271+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018Really making history\u2019: five takeaways from the meeting between Trump, Xi and Putin",
+     "url": "https://www.theguardian.com/world/2026/nov/19/five-takeaways-from-putin-trump-xi-apec-shenzhen-summit",
+     "source": "The Guardian",
+     "published": "2026-11-19T14:32:03+00:00",
+     "summary": "Leaders focused on nuclear weapons and international courts at their unprecedented gathering in ShenzhenApec summit live \u2013 latest updatesThe presidents of the US, China and Russia ",
+     "image": "https://i.guim.co.uk/img/media/97b0e9a1d1b538e5752a97e26f6831abd741d580/168_0_1450_1160/master/1450.jpg?width=140&quality=85&auto=format&fit=max&s=c89b4c215f8070234dd7f66c9bff0524"
+    },
+    {
+     "title": "Ukraine\u2019s allies meet in Berlin with air defence, energy and financial support on the agenda \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T14:30:43+00:00",
+     "summary": "Meeting comes after Trump declared Putin a \u2018friend\u2019 during trilateral meeting in ChinaFor what it\u2019s worth, the China-US-Russia \u2018peace declaration\u2019 issued after their meeting, and p",
+     "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
+    },
+    {
+     "title": "APTOPIX Germany Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWdnNVdlRlJTZ2N4SWR3U1Bqd001TkdMVnh5OEpIclVTbUFBaUVNUFBsTHdaeFF2VVBfNzJJNmZiVms3QUpJemw2NTNuRTZIZTJENjByVXp2UUNOWDNGc3loYkNqQTNUQktUYm0ydnRjVTlEMVB5NjF1MkZBUjEzSnZNaTNGMFV2U3FFbFN1azNqdHRWR01sdmR5eE5FYjRLNUdxWm8wT3Z4dGM1aHlqVjZDY21aeFNyd1NaVzU0TWw?oc=5",
+     "source": "Springfield News-Sun",
+     "published": "2026-11-19T14:13:07+00:00",
+     "summary": "APTOPIX Germany Ukraine War&nbsp;&nbsp;Springfield News-Sun",
+     "image": ""
+    },
     {
      "title": "Colombia to Visit Citizens Detained in Ukraine Amid War With Russia",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0RCc1hxRnY3eXRROG5ZbHNXNVlpWVh6RUNscXVXRU5YcUhmWFpKNlFCRC1YOTFLYXZwWmhsa0NNc29zTXE0ZUJEQ3RSVE0wbHU2ZFRHY1lxZ3RTTEZLQzN2cHdqeWZuaE9CWkVvWFJWUUlIMS1DdG9pa1FIVkV2RTcwRWRnMEQ1cEZ6VkJpU0Q?oc=5",
      "source": "ColombiaOne.com",
      "published": "2026-11-19T14:10:00+00:00",
      "summary": "Colombia to Visit Citizens Detained in Ukraine Amid War With Russia&nbsp;&nbsp;ColombiaOne.com",
+     "image": ""
+    },
+    {
+     "title": "Germany Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOUhVWEljaE9sQXlmcUIxTVZoeUh6ZmFyWVdqOGhEYXF5V3p6UDFmVGtxQ1pmdEd4amwxSDR6Z01fd3lsQmRicmd6TGdfX293cVMtVHVwaFBOakRKeFJYSnRqd3BTdHpqczNrR1ZtdlR3RjRMbnBjQTltVkNlLUdxNjU0NTdiVXZmXzUtUURuem5sNmJxencxMmtTaXZrZXdPd0ZYajFVSXNiR3RXYXBTSmlB?oc=5",
+     "source": "Idaho State Journal",
+     "published": "2026-11-19T14:09:33+00:00",
+     "summary": "Germany Ukraine War&nbsp;&nbsp;Idaho State Journal",
      "image": ""
     },
     {
@@ -156,12 +188,12 @@
      "image": ""
     },
     {
-     "title": "Ukraine\u2019s allies meet in Berlin with air defence, energy and financial support on the agenda \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T14:04:17+00:00",
-     "summary": "Meeting comes after Trump declared Putin a \u2018friend\u2019 during trilateral meeting in ChinaFor what it\u2019s worth, the China-US-Russia \u2018peace declaration\u2019 issued after their meeting, and p",
-     "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
+     "title": "China summit ends with little new, Europe backs Ukraine in Berlin",
+     "url": "https://www.france24.com/en/china-summit-ends-with-little-new-europe-backs-ukraine-in-berlin",
+     "source": "France 24",
+     "published": "2026-11-19T14:04:03+00:00",
+     "summary": "The leaders of China, the United States and Russia met in Shenzhen for a historic first, but the summit brought little new: non-binding statements on peace and no plan to meet regu",
+     "image": "https://s.france24.com/media/display/edf9490a-e41f-11f1-8a6b-e56ab3dc0809/w:1024/p:16x9/EN-20261119-140128-140711-CS.jpg"
     },
     {
      "title": "After near death, a leading Russian filmmaker resolves to confront Putin\u2019s war in Ukraine",
@@ -172,73 +204,105 @@
      "image": ""
     },
     {
+     "title": "\u2018Gaza Syndrome\u2019: Israel\u2019s Soldiers Haunted by Genocide \u2013 Cost of War",
+     "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T13:54:10+00:00",
+     "summary": "The trauma Israeli soldiers bring home \u2014 and the consequences of Israel\u2019s genocide in Gaza.",
+     "image": ""
+    },
+    {
      "title": "Myanmar committed genocide against Rohingya minority, world\u2019s top court rules",
      "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
      "source": "The Guardian",
      "published": "2026-11-19T13:52:10+00:00",
      "summary": "Judgment finds \u2018intent to destroy a substantial part of the Rohingya population\u2019 after case seen as critical test for dealing with most serious of state crimesMyanmar committed gen",
      "image": "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=dd0fed01b92f1c8ac94e55192bc965d1"
-    },
-    {
-     "title": "Putin rejects a ceasefire in the war against Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LWmVhSVg1NHdab29pcDZmZlZ2aU1XdmVSQ0xIcXhobXlwaDJrZmFxRHdGdy1INXQ5QTR5aktwa0c3QXJEczd3Tm9XVXFjUlU4Qm4tTy1BSlFtSFl6eGluRENOdk84NzQ2Z0VfUDFCQVpBWElLQkdMYWpLTTVTa1E?oc=5",
-     "source": "Mezha.net",
-     "published": "2026-11-19T13:49:07+00:00",
-     "summary": "Putin rejects a ceasefire in the war against Ukraine&nbsp;&nbsp;Mezha.net",
-     "image": ""
-    },
-    {
-     "title": "Putin invites Europeans to Moscow to discuss them joining Ukraine talks",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdjVOeU52QnZEZTlJdEtOVUJPdE55cXY5VjN5SklYMnFLRTRRS0pIM0tlT2JoX01TU05KWjd5d0lkYjFpb3pYeEkxRXZZLUw0bUJxRTdlSGVEWE9WdVUtS19iTXd6RmlIVW9PbGJLZmhBZ3BIUjZibVltaXhTMFdDSVFZZVpEaUtseUoyNTlQWU52T2ZKR3lob2xkWjd3bzN2VktGRV8yVTVleHdqQml3?oc=5",
-     "source": "Arab News",
-     "published": "2026-11-19T13:47:34+00:00",
-     "summary": "Putin invites Europeans to Moscow to discuss them joining Ukraine talks&nbsp;&nbsp;Arab News",
-     "image": ""
-    },
-    {
-     "title": "Presidents Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms, Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMUZuU0xONE5uN2tOWERzWUlHM29ZWm5xRE1UVm03SWlIeTlkX0wwSF9XZnhGWmo5a3pIVlBtVEhENjFiM0l4THloczdyNEtoeWEtbkNwMnZBSXNRV3lOT0hjQzRON2ltR3lPd2wxZ0ItRXZMeGtTRjc1MWota1BWVk1FNXBMd3VvT3N6LTVMSXdtaE1md1ZqZUJDNGg0SDJMX2pmaUtfcmx4OGlMV05zZVQ3NDhOOS1pVm10ZnpqVFdrNm1IVjNKRjc4U3NNN2xnM1l6U24xelo0OUdTUzFCYi05dGNYT1RoUzUtakI1UFk1M0dWQm03M0dqRmNMeHZLcTJ5OG93MXdtekN4LWZIQkZfMDFyaGF3Qm1aT3BUUmtjSDg?oc=5",
-     "source": "KREM",
-     "published": "2026-11-19T13:45:00+00:00",
-     "summary": "Presidents Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms, Ukraine war&nbsp;&nbsp;KREM",
-     "image": ""
-    },
-    {
-     "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
-     "source": "The Guardian",
-     "published": "2026-11-19T13:43:15+00:00",
-     "summary": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting \u2018extremism\u2019The UN human rights committee has warned against the misuse of",
-     "image": "https://i.guim.co.uk/img/media/9f4d93b1adf994df308ddfcb361659b6251a1fe9/938_0_4671_3739/master/4671.jpg?width=140&quality=85&auto=format&fit=max&s=0ab09b13bd84297995abb4add8135cd4"
-    },
-    {
-     "title": "ARTE Reportage - Ukraine: Forced into War - Watch the full documentary | ARTE in English",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YcnlpN3RXb0RETFBWYzJuZGU3SmxXbzU1cFg0MUhJMkJEeEx3S18wYU1ERFZZSUpZa2ltbG04OEczaDhXcjZ4SHdRM2F6R0hlWmV6cERjdUM4VWRlNjg5dW9pd0hQbUhLMmc?oc=5",
-     "source": "Arte.tv",
-     "published": "2026-11-19T13:31:26+00:00",
-     "summary": "ARTE Reportage - Ukraine: Forced into War - Watch the full documentary | ARTE in English&nbsp;&nbsp;Arte.tv",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T14:13:02.471158+00:00",
+   "fetched_at": "2026-11-19T14:43:05.188274+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Ukh1aWx3djJ5alRaX2dDR2NYV3JyS1hFczNYNGl4UDdjWXJkMnBZMC1Yb2Ria1dRaGFRV1MweXFHalhBNVZ0aDBaRDNlamVUdVY0OG1DQzJZWEdvMk91eElrWDJPVjdoYzRiWHp1Yw?oc=5",
-     "source": "Cloudflare Blog",
-     "published": "2026-11-19T14:07:19+00:00",
-     "summary": "Internet traffic and attacks during the 2026 U.S. midterm elections&nbsp;&nbsp;Cloudflare Blog",
+     "title": "GTA 6 Is Here: The Policy Behind the Entertainment Event of the Year",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONHdmM3pDQW5VQVp1R1Q5ZTFqUnZTTk9VZ0QzQTNDSGpKbnY3TDBaTWduNm9xTHhkUjMyNHB1NzZnS182YWk5VGo3UDdHREx1UUJfRGYzZXUzMEJ3NGVqNTZJbzJEVkk1cHFDZnZPZlBvWDMyMkRIR2VYVzhNbVhQOE5hNEQ5dFp1WEdROFFUeXo?oc=5",
+     "source": "Duane Morris Government Strategies",
+     "published": "2026-11-19T14:40:59+00:00",
+     "summary": "GTA 6 Is Here: The Policy Behind the Entertainment Event of the Year&nbsp;&nbsp;Duane Morris Government Strategies",
+     "image": ""
+    },
+    {
+     "title": "France: Retirees march against 2027 budget cuts",
+     "url": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
+     "source": "France 24",
+     "published": "2026-11-19T14:32:57+00:00",
+     "summary": "More than a thousand people marched in Paris on Thursday, called by a union alliance joined by student and high-school groups, to protest social and tax measures targeting retirees",
+     "image": "https://s.france24.com/media/display/156a74da-e422-11f1-aa5d-13439ca2fe89/w:1024/p:16x9/EN-20261119-141030-141233-CS.jpg"
+    },
+    {
+     "title": "Democrats Call Out USCIS Asylum Policy that Risks More Denials",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLU1qLXo2N3B4ZkxaeW8teVNHWVNjZU9uQW1ZcjJTVWw3R1Y4YVNfenJIcGkxdzhEeGk1SmYzTnpjZjQtZHlWck1WYVVkZm8zVTBjY0RJS0xuT0hjdkVLQ3JJbWFvb3lKZGgwOXk4b3NGNVNJQXFxa1MtZnVucFZJSG1MczJVWEtwdFBqMmJDUzVlazE5eU5Dd1NwdjB1dkZ3Z1NQVVY5ODR2b0ZvVmxaMg?oc=5",
+     "source": "Bloomberg Law News",
+     "published": "2026-11-19T14:30:00+00:00",
+     "summary": "Democrats Call Out USCIS Asylum Policy that Risks More Denials&nbsp;&nbsp;Bloomberg Law News",
+     "image": ""
+    },
+    {
+     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T14:27:26+00:00",
+     "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next yearSign up for the Breaking News US emailOver the coming weeks, C",
+     "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82"
+    },
+    {
+     "title": "Democratic incumbent wins council election",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tQMHJ5N2QzeDMyMnViQmxOLVM5SGNaeW5KZkVOOFlCcFk0VWdGLWVqTDJNMnk2eG80a19yZmdnYUJoNzhrWlpraGx4c25EQ24wMENrSjFGR1B1SW5HMmJ5UGdFZ3V4N2hPUzREeE5FNTk0dTYycjIxTHp1eFRKRkUzc1ZpM0U?oc=5",
+     "source": "Coast Star",
+     "published": "2026-11-19T14:26:15+00:00",
+     "summary": "Democratic incumbent wins council election&nbsp;&nbsp;Coast Star",
+     "image": ""
+    },
+    {
+     "title": "Fiscal court reviews election numbers at monthly meeting",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1dQNTdEeDdpeEhObm8yeEFtcnNUODdQMHZTb0dNdm5mLW1PNURvOFZhU2pBTG1iOTU0ME5NbUZ6aEl5MzM1Zy1iUFoyQXdpeWNhMl84YlRaSFo0Q0FlVFd1MDlPWWZlV2RGX1hHemVKWlM5QWVsdjZEMUY1bGo5ZmVTOGtlRUN0VUlBOHNoN3FlQmZjZEhJYmNrMWZtdw?oc=5",
+     "source": "Harlan Enterprise",
+     "published": "2026-11-19T14:22:41+00:00",
+     "summary": "Fiscal court reviews election numbers at monthly meeting&nbsp;&nbsp;Harlan Enterprise",
+     "image": ""
+    },
+    {
+     "title": "Alaska will certify results of U.S. Senate race, election director confirms",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXdXaUxCMlZTWWJMVENGeVlfQkFqbERqVGNtREd6b040WUhrWXJsSkl1bzBzMEl5T3hVak0yNUJhUy1ZQUE1NUkxX053QlBLRFNVcXFEaVhjWFJUa2VjWVZzSVpSWGVIZUY5MVprOGgtbVB5dmhxd2VYcjIzWUpyYkd4SVY2QWJoSFd4cDc3QWlZT2NEMmJhT1JSSTBsamZSNnNXSG5ZdGtkMnNVNFBZb1dDMUd5dF9rQXc?oc=5",
+     "source": "Democracy Docket",
+     "published": "2026-11-19T14:22:27+00:00",
+     "summary": "Alaska will certify results of U.S. Senate race, election director confirms&nbsp;&nbsp;Democracy Docket",
+     "image": ""
+    },
+    {
+     "title": "MS secretary of state talks about the midterm election. See photos",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTFNsMVV6MEQyYkR2NllJY2tQQlpKaE9XaTBrNEgtZWlsR0JYbUlHS1FjbVVpa2hSMHJ0b0Jrd1I2d05lSzlCMEcxbzdCQ1p6QU5kclFzTUgtdlBrS0dBYy1sZ1h6bDJRQ1FlSnNKUWxzR2V5NVV2NTZfTnJMT0lvUVRuTGR6WDYwb3NROFRjQzg1SWpCc1VueWxTcm9MMkh2MWV0NVdORk9JX05WOWlISURfanIwU2FlMkJEVXR5OVlBLS1yTWFKbi1xbmp6ODBHWjJyZ0JUa0pINXYyaC1qODNIcXdCM19XNnRKY2VhYl9rckFidWc?oc=5",
+     "source": "The Clarion-Ledger",
+     "published": "2026-11-19T14:17:00+00:00",
+     "summary": "MS secretary of state talks about the midterm election. See photos&nbsp;&nbsp;The Clarion-Ledger",
      "image": ""
     },
     {
      "title": "Clark County certifies election results, continues Republican support",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR3p6dE9JQ1ZwLXRmbU5XTS1EMldkOE5JVks5eThKMk9MZ1BKVU1kRy1TZ3R1bDZYN09EYVhscFQzQ2ZDZ0gxM2VFM3BPNTQ1aHh6STJxZ293UnU0N0l6dEdEUjk4SUpGaEJYSUpZRVlXRFI3Q0s1YzhsZzVRYlFhemY3NXhLZUZRbFFsV2RPU01RLVhlNGg1a1dvalA1X3pDOGdTSUZUUDY5c2NaN2w4WkVFOVRpcGNrNDVkeEh0c2tVSUZhYjFsZW1hN0FoYllDenZrbmhXWmIwYm50alVSMHF3VUdNV3ViQ1YzQ1FWVkE?oc=5",
      "source": "Springfield News-Sun",
-     "published": "2026-11-19T14:05:09+00:00",
+     "published": "2026-11-19T14:11:02+00:00",
      "summary": "Clark County certifies election results, continues Republican support&nbsp;&nbsp;Springfield News-Sun",
+     "image": ""
+    },
+    {
+     "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Ukh1aWx3djJ5alRaX2dDR2NYV3JyS1hFczNYNGl4UDdjWXJkMnBZMC1Yb2Ria1dRaGFRV1MweXFHalhBNVZ0aDBaRDNlamVUdVY0OG1DQzJZWEdvMk91eElrWDJPVjdoYzRiWHp1Yw?oc=5",
+     "source": "Cloudflare Blog",
+     "published": "2026-11-19T14:06:12+00:00",
+     "summary": "Internet traffic and attacks during the 2026 U.S. midterm elections&nbsp;&nbsp;Cloudflare Blog",
      "image": ""
     },
     {
@@ -250,81 +314,17 @@
      "image": ""
     },
     {
-     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T14:04:10+00:00",
-     "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next yearSign up for the Breanking News US emailFollowing the news that",
-     "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82"
-    },
-    {
      "title": "Israel claims its \u201cdual-use\u201d policy is a necessary protection",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHloYVVPRDV0ZTB3Sm9MNGVQZ2FVcGhfUERNeFhORG1mMWRMRU5BZ3BPTkRmRGwtQzNpSE9HZVMwVV9uVk91U1RiSVItM2cwSXpFWDJMck1YRUJoWDBhVlY1S0JJVGx3NG5fa1I2a2pNTkRXOC1fQk1rLTdPTzVEYXltd3ZiMWJjQVozUmZFZDBVWHNYVjFvdWw3RjlMdHhkcXpnREtrTDlXR1ROSE1kLVVqQ2J5dV85T1ZB?oc=5",
      "source": "The Economist",
      "published": "2026-11-19T14:01:02+00:00",
      "summary": "Israel claims its \u201cdual-use\u201d policy is a necessary protection&nbsp;&nbsp;The Economist",
      "image": ""
-    },
-    {
-     "title": "Desert voters wanted change in the election. Will politicians respond?",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMkhQal9hZlJmYXZwZk1XY2M4R1JBZmhaUUVKU2JaVUFiZW5HTGJfNXVHLUJQNFU3SkRqeDd5alpONU9sZ29uMF9lSTRiUDE0ODVvU3Vnc2xTcjFWUmF5cGNsaS0zeWxOOGJJa0FKSTlhMVhYb0lScEU2a1RLeE9TRHdJZ0RJTWY0Ylp5cnFnN3FxcGhuOEwxcjF0ODdWb0I3UFdkNFlrTk83RkhWYTU2LTQ0cW91MmxsamY5bGRQcE5KcnE4SDk2YjZGZlFoTzB6bUpJOWZR?oc=5",
-     "source": "The Desert Sun",
-     "published": "2026-11-19T14:01:00+00:00",
-     "summary": "Desert voters wanted change in the election. Will politicians respond?&nbsp;&nbsp;The Desert Sun",
-     "image": ""
-    },
-    {
-     "title": "Pa. legislators must reshape reproductive health policy | Opinion",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVC1DY1gtclMyZ2R1X18wRElmZld6TzZtY19YU1pTRWJwTTh3VVZxZEZDazJZMXh2V25xdGlMajhEVmxjTWhJbkQybENnTktQRTJpM1dQNTRpZ3A3NlQySy0xb1dLOXlZVlFPU254Uk9qcUdNM1FQc0lwYlh3Q3VFeEVlZWdwMVliWWE2TUVacVVfS2cwenJ2N2ROT3RqWHhibzRlTGlab2VLcVpOTnllXw?oc=5",
-     "source": "Inquirer.com",
-     "published": "2026-11-19T14:01:00+00:00",
-     "summary": "Pa. legislators must reshape reproductive health policy | Opinion&nbsp;&nbsp;Inquirer.com",
-     "image": ""
-    },
-    {
-     "title": "\u2018A new day in the Senate\u2019: 56-seat majority gives Democrats fuel to take on Trump",
-     "url": "https://www.theguardian.com/us-news/2026/nov/19/democrats-senate-majority-midterms-trump",
-     "source": "The Guardian",
-     "published": "2026-11-19T14:00:52+00:00",
-     "summary": "Party wins biggest majority since Obama and one unthinkable two years ago \u2013 now the hard work of investigating and lawmaking beginsIt\u2019s official: when Democrats take control of the",
-     "image": "https://i.guim.co.uk/img/media/66d34449fdb1226b80de3ca1d1edac1bb661a80b/348_0_3480_2784/master/3480.jpg?width=140&quality=85&auto=format&fit=max&s=64f72f820767420bd38e177c78e84461"
-    },
-    {
-     "title": "Is the Democratic supermajority bad for us?",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWpsRWFYZTRmcHRzMXRWNkZIZkJmOW1xcGhGZ3IxMDh5STZtLTZHSjRUM2F1VVFuczIxQkQ1TGlCbDhDMkJBeXJEeTJmRVpsQlhCVzc3T2xnZ1FwX0l4MW9qbThIdE1PODVoeUs0eEpXYnNpS0JSSWR4RDZVOXhTTA?oc=5",
-     "source": "CalMatters",
-     "published": "2026-11-19T14:00:00+00:00",
-     "summary": "Is the Democratic supermajority bad for us?&nbsp;&nbsp;CalMatters",
-     "image": ""
-    },
-    {
-     "title": "Polk native focuses on voting rights after leaving Dept. of Justice",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ1c4YzlUWGNjZmptOWVTZ0dMRGxrYU9sQWpGa1NEX3FCNVNreEpsLXVrakF4ckswT1FGeWhBSnFNaE5WU0ZXY0d6VE9YcWVWT3ZlTjRlUWVGM3lUaW8wM1FxQjZVb0IybVNBSldoMDFYV1J0SjlCUjhieVBJRVZ5ZnVvZldkUGJKeHYwX3JkakZiVlVpNVhvOEdES1puNzJiYVFRaWJtWE40d04wMkEydXFXOGE0WWZKd1BVQ2M1LU02TUhIdl9CUUhEYVFFeWNZQVNHUWNyblJRekd0eDBkZUpBeEY1YTdSUUxoTjZFTHdadUdLTGU0Z01B?oc=5",
-     "source": "Lakeland Ledger",
-     "published": "2026-11-19T13:42:00+00:00",
-     "summary": "Polk native focuses on voting rights after leaving Dept. of Justice&nbsp;&nbsp;Lakeland Ledger",
-     "image": ""
-    },
-    {
-     "title": "South Africa central bank maintains policy rate in close call",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWllOU1ZUi1zV3lEQzdpR0c5WDFxWjJ4RFZSX0NrQTRtWHVOdzRDRl9URFpFcFJfMlQ4anRhZnV1VHNZN0o5RjFUdnlQcFhyRHNuQXJnbnJJV0lRd0M3czZhWjIwSTFQTjlDaUE3SzNMVUx0VFJFQmRPOERqWHkyTGtiN1dfRFJCSkF5cmtDdE5FdXdQdWtURnhlSFMyQWI2UU1BVEFmY2Nyam8?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-19T13:35:46+00:00",
-     "summary": "South Africa central bank maintains policy rate in close call&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Commissioner challenges election loss",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ySEU0XzJkdWM5U0VoaW5sbThYSXpYemxKVHBkOHlCNFJWc05fNFlDYTZCSERrb3JtMGEwbWQxTFVtMXdVelltV0Y1MUJQUFBScUxMYW9QdVhOYUNodUFwT01TYmFBVXJhYmNJTDhBaldLSWM?oc=5",
-     "source": "WPDE",
-     "published": "2026-11-19T13:28:11+00:00",
-     "summary": "Commissioner challenges election loss&nbsp;&nbsp;WPDE",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-19T14:13:02.471160+00:00",
+   "fetched_at": "2026-11-19T14:43:05.188276+00:00",
    "stale": false,
    "items": [
     {
