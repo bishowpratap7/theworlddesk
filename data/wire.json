@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T20:44:03.161586+00:00",
+ "generated_at": "2026-11-19T20:44:16.236008+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T20:44:03.161555+00:00",
+   "fetched_at": "2026-11-19T20:44:16.235961+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T20:44:03.161570+00:00",
+   "fetched_at": "2026-11-19T20:44:16.235975+00:00",
    "stale": false,
    "items": [
     {
@@ -222,17 +222,9 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T20:44:03.161574+00:00",
+   "fetched_at": "2026-11-19T20:44:16.235979+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Researcher Mariana Budjeryn discusses Ukrainian security, future of nuclear policy",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGpFaXpHSUNZTHpVWVhYVGEzeURPdW1lQmpvNjlhN0hlSU9NMzVHUmRHc0l6Q0l2R1E5OUJoZFZoY2hjbGh0OThwdTd4TjVyaVVsMnRBSmtCRmM5SngwS0VoSXFfTjFjdlF5OEJCNER5Nm5kRGI5TllRMUk2TU03bWVQV3BoaTdtZW5aUjJkVmRZZFNiRDRHQnYwUF9GMHVrRGszV2cwSWVvYXJoaGt6WjdBdzl0VUNCNU14dw?oc=5",
-     "source": "The Daily Beacon",
-     "published": "2026-11-19T20:40:11+00:00",
-     "summary": "Researcher Mariana Budjeryn discusses Ukrainian security, future of nuclear policy&nbsp;&nbsp;The Daily Beacon",
-     "image": ""
-    },
     {
      "title": "Students organizations react to midterm election results",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVFQUjd5TTdwS21IcXZ2V2ZScGFYLXNDVzk3d0lzT2hibkRjcTdUcjQzOHdBWlc5cHZNQkFoeWNuY1U4QTU5YW55NDY5S3FLOExERERGS3pLM184NVp3YzI4QnlXNTRENnBJVEQ0NW1uNjlXSExFSm1ST1dGcm9KdXNCR2JmaWRVOUlBVFdmd0Ryd3RyaDkzeDJJVQ?oc=5",
@@ -320,11 +312,19 @@
      "published": "2026-11-19T19:52:24+00:00",
      "summary": "Since taking office in August, Colombia's far-right President Abelardo de la Espriella has regularly posted videos that show him walking among body bags supposedly holding the rema",
      "image": "https://s.france24.com/media/display/7aa71908-d878-11f1-b19e-695cb59fade5/w:1024/p:16x9/2-Colombie-pst-sacs-mortuaires-2septembre.png"
+    },
+    {
+     "title": "Senator Patty Murray outlines priorities for Democrats following the 2026 election",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pd1FZQXVkSnFGS1JtQzVjbENSWHUwTEpQUlc0WElseEt0TUowN3Z4c2dsdV9KcjBJOXBNUHp2M3Y5SGVsWjNKVDNpLXREWDF3VmZodTFsZFZieXZLYjZIaU1sUW5QQdIBa0FVX3lxTE1udGtEcmplOXd1RVkwTWRlUVFxbktlS09ZVFZzbzlpOXhiRkp2WTQ1aTFFdWFlSGFGa0RhYXJONWxkaTd2YjZFRTEwam80d19FMlcxTGswNUplVW5kWGw3TFd1NjJDc2JJWlZ3?oc=5",
+     "source": "FOX 13 Seattle",
+     "published": "2026-11-19T19:50:06+00:00",
+     "summary": "Senator Patty Murray outlines priorities for Democrats following the 2026 election&nbsp;&nbsp;FOX 13 Seattle",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-19T20:44:03.161577+00:00",
+   "fetched_at": "2026-11-19T20:44:16.235982+00:00",
    "stale": false,
    "items": [
     {
