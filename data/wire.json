@@ -1,18 +1,10 @@
 {
- "generated_at": "2026-11-19T10:42:26.877332+00:00",
+ "generated_at": "2026-11-19T10:42:43.095544+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T10:42:26.877300+00:00",
+   "fetched_at": "2026-11-19T10:42:43.095518+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Badenoch says using amputee athletes to justify cutting disability benefits was \u2018message of hope\u2019 \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T10:36:53+00:00",
-     "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because \u2018double amputees run marathons\u2019This afternoon I will be answering questions from readers. Pleas",
-     "image": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=140&quality=85&auto=format&fit=max&s=ac4315e50102570681509b0f40f64bec"
-    },
     {
      "title": "Tusk appears to mock Trump\u2019s Putin comment as Ukraine\u2019s allies meet in Berlin \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
@@ -22,20 +14,20 @@
      "image": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=c1721f1dbbf726d5a03787329704a58d"
     },
     {
+     "title": "Badenoch says using amputee athletes to justify cutting disability benefits was \u2018message of hope\u2019 \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T10:26:19+00:00",
+     "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because \u2018double amputees run marathons\u2019The former minister Tulip Siddiq has said she is considering tak",
+     "image": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=140&quality=85&auto=format&fit=max&s=ac4315e50102570681509b0f40f64bec"
+    },
+    {
      "title": "APEC Summit: Trump, Putin, Xi hold 'historic' meeting",
      "url": "https://www.france24.com/en/video/20261119-apec-summit-trump-putin-xi-hold-historic-meeting",
      "source": "France 24",
      "published": "2026-11-19T10:19:42+00:00",
      "summary": "\ud83c\uddfa\ud83c\uddf8 \ud83c\udde8\ud83c\uddf3 \ud83c\uddf7\ud83c\uddfa US President Donald #Trump, Russia's Vladimir #Putin and Chinese leader #Xi Jinping kicked off their first trilateral talks in Shenzhen. Beijing said the meeting is aimed ",
      "image": "https://s.france24.com/media/display/5f96f0b2-e3fd-11f1-9395-ff16da94d1fe/w:1024/p:16x9/mini-apec.png"
-    },
-    {
-     "title": "New law \u2018may be needed\u2019 after Google rejects call to remove Russell Brand\u2019s YouTube prison message",
-     "url": "https://www.theguardian.com/news/2026/nov/19/google-youtube-russell-brand-youtube-prison-message-jess-phillips-new-law",
-     "source": "The Guardian",
-     "published": "2026-11-19T10:12:54+00:00",
-     "summary": "Ex-minister Jess Phillips admits government does not have power to compel platforms to remove distressing contentUK politics live \u2013 latest updatesA new online safety act is likely ",
-     "image": "https://i.guim.co.uk/img/media/d22aed040ea988c178a195f0f52489f33b337771/260_0_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=c7fbb09467e069ed6610b96d562a8048"
     },
     {
      "title": "Anthropic raises $81bn in record-breaking stock market debut",
@@ -116,11 +108,19 @@
      "published": "2026-11-19T09:21:54+00:00",
      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg"
+    },
+    {
+     "title": "BAE to slash 1,000 jobs across head office and air business to streamline orders",
+     "url": "https://www.theguardian.com/business/2026/nov/19/bae-to-slash-1000-jobs-across-head-office-and-air-business-to-streamline-orders",
+     "source": "The Guardian",
+     "published": "2026-11-19T09:19:05+00:00",
+     "summary": "Job cuts to exclude shop floor, aircraft maintenance and trainees but move prompts calls for more orders to support British defence giant BAE Systems has announced plans to cut mor",
+     "image": "https://i.guim.co.uk/img/media/687a21554ca34a6a656bb766648945f6f9e10756/460_0_3891_3115/master/3891.jpg?width=140&quality=85&auto=format&fit=max&s=877d14eb5c0e1041dd884bb85fc8539b"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T10:42:26.877315+00:00",
+   "fetched_at": "2026-11-19T10:42:43.095532+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T10:42:26.877320+00:00",
+   "fetched_at": "2026-11-19T10:42:43.095535+00:00",
    "stale": false,
    "items": [
     {
@@ -232,6 +232,14 @@
      "published": "2026-11-19T10:28:39+00:00",
      "summary": "Diplomacy, humour and avoidance \u2013 what we found when we investigated friendships across class divides&nbsp;&nbsp;The Conversation",
      "image": ""
+    },
+    {
+     "title": "Badenoch says using amputee athletes to justify cutting disability benefits was \u2018message of hope\u2019 \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T10:26:19+00:00",
+     "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because \u2018double amputees run marathons\u2019The former minister Tulip Siddiq has said she is considering tak",
+     "image": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=140&quality=85&auto=format&fit=max&s=ac4315e50102570681509b0f40f64bec"
     },
     {
      "title": "Can the EU close Russia\u2019s sanctions loopholes?",
@@ -266,27 +274,11 @@
      "image": ""
     },
     {
-     "title": "New law \u2018may be needed\u2019 after Google rejects call to remove Russell Brand\u2019s YouTube prison message",
-     "url": "https://www.theguardian.com/news/2026/nov/19/google-youtube-russell-brand-youtube-prison-message-jess-phillips-new-law",
-     "source": "The Guardian",
-     "published": "2026-11-19T10:12:54+00:00",
-     "summary": "Ex-minister Jess Phillips admits government does not have power to compel platforms to remove distressing contentUK politics live \u2013 latest updatesA new online safety act is likely ",
-     "image": "https://i.guim.co.uk/img/media/d22aed040ea988c178a195f0f52489f33b337771/260_0_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=c7fbb09467e069ed6610b96d562a8048"
-    },
-    {
      "title": "Ethanol Policy Gridlock Is a Missed Opportunity for Corn Farmers",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUVISVdYV2pobnZULTdLRkdlWnpHbmRtN2xOakF6VGc1ZnYwTkZfVllMV0c2SXBFemRVNVpfZjB0cjh1MnJ1SW92aGFOeXNVNzNDUkxVcVVfZ01EUDhQYmNYWFo3aVVsYWRYdUlGdGM4dzhvUldfdDZKaDQtdTAzLUZKSExBX1ZCb2h2bHJiN2xZenZXRkE5SHVoWkNCU082WjY1QnJn?oc=5",
      "source": "StoneX",
      "published": "2026-11-19T10:11:53+00:00",
      "summary": "Ethanol Policy Gridlock Is a Missed Opportunity for Corn Farmers&nbsp;&nbsp;StoneX",
-     "image": ""
-    },
-    {
-     "title": "Did Indiana avoid a constitutional crisis in Senate leader election dispute?",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUnRCVjFjYzZ2V3FxNXVwUkdJd3BIckRISEpFYnJESWhYWU15c05nTGJucFZQTlJWT2t1UGdyYl9WYm52WnA5WkxlWUZGanp6cWw4OXJFbGRDWFNmZ1l0bjdTbGNLQlpZY0F4em9Yak9UaGcwUE80UXU0SWl3dmxLRWdWbmt5anZrQm1nTERtV3JrQkZ6YV9LQjh3SEVTZHFpX083SjZXVGdrN1BGOFBOUmxudkE1aURmdnBURnVHeGFVNl9wcVJ2Q3NzVURKcmtXM3hzSF82UHpmTEdj?oc=5",
-     "source": "IndyStar",
-     "published": "2026-11-19T10:11:00+00:00",
-     "summary": "Did Indiana avoid a constitutional crisis in Senate leader election dispute?&nbsp;&nbsp;IndyStar",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-19T10:03:23+00:00",
      "summary": "Europe tightens sanctions on Russia. America loosens them&nbsp;&nbsp;The Economist",
      "image": ""
+    },
+    {
+     "title": "Arizona\u2019s top election official proposes big voting changes ahead of 2028",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWUJaM1AwcEdmU2VlT3NfNTd3UzFmMmlxUURSM21KNldnal9XM0gtYkRYVloxYkx3VE9jMURpV3RrODFtck9FNG1ndzNlSnNIY0NZdnpsMHNBaWZ1YWlRcjBMaDBkX3JvN25FMWNXTUtBbUVQTU9hWW1QXzM3RDlHVlVieXlLV2R5OGhmVDhsNTJCeHo3UFU5WDdMcmlKMFRxSkxGQw?oc=5",
+     "source": "Votebeat",
+     "published": "2026-11-19T10:02:53+00:00",
+     "summary": "Arizona\u2019s top election official proposes big voting changes ahead of 2028&nbsp;&nbsp;Votebeat",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-19T10:42:26.877323+00:00",
+   "fetched_at": "2026-11-19T10:42:43.095537+00:00",
    "stale": false,
    "items": [
     {
