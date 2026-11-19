@@ -1,10 +1,74 @@
 {
- "generated_at": "2026-11-19T23:14:34.283122+00:00",
+ "generated_at": "2026-11-19T23:44:37.969511+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T23:14:34.283092+00:00",
+   "fetched_at": "2026-11-19T23:44:37.969479+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T23:40:29+00:00",
+     "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn\u2019t anymore\", the zoo says.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+     "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T23:33:51+00:00",
+     "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send \u2018practically unblockable\u2019 message",
+     "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
+     "source": "The Guardian",
+     "published": "2026-11-19T23:30:26+00:00",
+     "summary": "Australian physicists chose to transmit the word \u2018gravity\u2019 in binary code through brick wallGet our breaking news email, free app or daily news podcastAustralian scientists have us",
+     "image": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=140&quality=85&auto=format&fit=max&s=c4f4272c390dc53f69e1f5e940abdde3"
+    },
+    {
+     "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+     "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T23:29:00+00:00",
+     "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9306/live/f4b27990-e31d-11f1-baab-4b3b35d174b7.jpg"
+    },
+    {
+     "title": "Trump posthumously pardons US baseball legend Pete Rose",
+     "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T23:18:43+00:00",
+     "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
+    },
+    {
+     "title": "Florida to carry out record-breaking 20th execution of the year",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+     "source": "The Guardian",
+     "published": "2026-11-19T23:15:42+00:00",
+     "summary": "State to execute man convicted of two counts of first-degree murder while Texas also plans to put a man to deathFlorida is set Thursday to carry out a record-breaking 20th executio",
+     "image": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/622_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a5885394d872d2e91993c94d0a68d706"
+    },
+    {
+     "title": "Six killed in suspected gas explosion at Georgia apartment building",
+     "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T23:09:48+00:00",
+     "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+     "image": ""
+    },
+    {
+     "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
+     "source": "The Guardian",
+     "published": "2026-11-19T23:07:02+00:00",
+     "summary": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancerGet our daily political email, free app or daily news podcastFormer Liberal M",
+     "image": "https://i.guim.co.uk/img/media/0597a7b783b29524050eee8b5879eb87b0390a16/0_0_3030_2424/master/3030.jpg?width=140&quality=85&auto=format&fit=max&s=f11bb8942659bcaec4d8bf7aaa0dc5c4"
+    },
     {
      "title": "California probing whether China improperly acquired Nvidia technology",
      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
@@ -19,14 +83,6 @@
      "source": "Al Jazeera",
      "published": "2026-11-19T22:58:48+00:00",
      "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
-     "image": ""
-    },
-    {
-     "title": "Myanmar committed genocide against its Rohingya Muslim minority, court rules",
-     "url": "https://www.npr.org/2026/11/19/nx-s1-6045926/myanmar-committed-genocide-against-its-rohingya-muslim-minority-court-rules",
-     "source": "NPR",
-     "published": "2026-11-19T22:56:08+00:00",
-     "summary": "The International Court of Justice has ruled that Myanmar committed genocide against its Rohingya Muslim minority \u2014 a landmark judgment that marks a turning point in international ",
      "image": ""
     },
     {
@@ -60,75 +116,83 @@
      "published": "2026-11-19T22:31:25+00:00",
      "summary": "Haitian security forces launched a major offensive on Thursday to retake Martissant, a strategic corridor linking Port-au-Prince with the country's western and southern regions tha",
      "image": "https://s.france24.com/media/display/181d54d6-e1f7-11f1-a490-f71d22e7fea9/w:1024/p:16x9/2026-11-12T233346Z-695546907-RC24MOACBCCE-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg"
-    },
-    {
-     "title": "Anthropic goes public after blockbuster IPO but fails to revive AI trade",
-     "url": "https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade",
-     "source": "France 24",
-     "published": "2026-11-19T22:22:01+00:00",
-     "summary": "Anthropic has become the first pure-play AI developer to be publicly traded on the stock market, following a record-setting IPO. The stock opened 34% higher, briefly valuing the co",
-     "image": "https://s.france24.com/media/display/fe47626a-e465-11f1-a3ac-ebb478925cf0/w:1024/p:16x9/4699281-US-Anthropic-IPO-Explainer-0-1080i50ESSENCE-23792.png"
-    },
-    {
-     "title": "Mark Speakman resigns and says Liberals face \u2018existential threat\u2019 as NSW exodus continues",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-     "source": "The Guardian",
-     "published": "2026-11-19T22:17:09+00:00",
-     "summary": "Former NSW opposition leader warns party against becoming \u2018Labor lite\u2019 or \u2018One Nation lite\u2019 in late-night speechGet our breaking news email, free app or daily news podcastFormer Ne",
-     "image": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=140&quality=85&auto=format&fit=max&s=a84940e8f5bd344dbd4ab97d27c0d8f9"
-    },
-    {
-     "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
-     "url": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
-     "source": "The Guardian",
-     "published": "2026-11-19T22:09:55+00:00",
-     "summary": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no availFiona the hippo, one of America\u2019s most famous zoo animals, has di",
-     "image": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8"
-    },
-    {
-     "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-     "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T22:09:04+00:00",
-     "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn\u2019t anymore\", the zoo says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "French far-left candidate M\u00e9lenchon opens door to alliance with rival Greens candidate",
-     "url": "https://www.france24.com/en/france/20261119-melenchon-opens-door-to-alliance-with-french-greens-after-presidential-rival-overture-tondelier",
-     "source": "\u00a9 Geoffroy Van Der Hasselt, AFP",
-     "published": "2026-11-19T22:07:44+00:00",
-     "summary": "French far-left leader Jean-Luc M\u00e9lenchon opened the door to an alliance with France's Greens on Thursday after their presidential candidate Marine Tondelier said she was ready to ",
-     "image": "https://s.france24.com/media/display/2fab2b82-e3a0-11f1-9252-c5c0357b2a0c/w:1024/p:16x9/000-D7ED2CR.jpg"
-    },
-    {
-     "title": "Thomas Markle, Meghan\u2019s father, is competent to face child sex abuse images case",
-     "url": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
-     "source": "The Guardian",
-     "published": "2026-11-19T22:05:18+00:00",
-     "summary": "Judge in Florida says an expert has determined the 82-year-old estranged father of the Duchess of Sussex is mentally competent to face chargesAn expert has determined that Thomas M",
-     "image": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=140&quality=85&auto=format&fit=max&s=b510b9fca776a25502f9105ee07a92c2"
-    },
-    {
-     "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
-     "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T21:58:27+00:00",
-     "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO&#039;s alleged links to a Chinese spy.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T23:14:34.283106+00:00",
+   "fetched_at": "2026-11-19T23:44:37.969495+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "EU to summon Russian envoy over strikes on Ukraine's capital Kyiv",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0JHRnp4RWw5T0xEY0hYcUxuWS1vclNhd3lsZFFfQ2FpTUM5YkZRVk9GOE05TkpaLXM2SUJPTkR1LXc3bjVqOFM4dEhjV2tXQ0pzTGwyR2tsWk1LTmEtREhFNk94cmc5dDdOUGxGSjVwRm05bWlabnhwY1p0aXY2UENmWVpkcnJ5NWVLY0dqLVRxR1pucHN2Sm1nVDl1T0RpWFE?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-19T23:33:19+00:00",
+     "summary": "EU to summon Russian envoy over strikes on Ukraine's capital Kyiv&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-19T23:29:28+00:00",
+     "summary": "Opinion | In Ukraine, the drones are flying faster than the diplomacy&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Friedrich Merz Rejects \u201cYalta-Style\u201d Talks Excluding Ukraine After Trump Meets Putin and Xi: how 16 outlets framed it",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU0NldjZWZjFEbjhQYkNzM0wxZ0drZmdRUURBUmExSDE4eEhlcnRTTk1RSU5KNzBzNlhfSkF0NVA2SWRHcVpIY1l0R0ZkV1V3bjAwN2NoTUpQZzVrSFVidFEyT1RIMVlLUGplMUhxWFVKQkVfaVlJa2d2dkJUNTZSSTlqTHBYcG84Nk9UYjU5cm5OSWQwU2xyNTZEMGUtUFVOZDhjN204eTFkYmdKV1BzQ0N2MTY1dWd3Q0xkeW1Ha1ZPSDQzZmRFajFaLVZPNU1iX0ZPWVo3UU5vOEFleVdJUjlUcURzSDhQU3c?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-19T23:22:41+00:00",
+     "summary": "Friedrich Merz Rejects \u201cYalta-Style\u201d Talks Excluding Ukraine After Trump Meets Putin and Xi: how 16 outlets framed it&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
+    {
+     "title": "Jared Kushner Says Russia Is Comfortable With NATO-Like Security Guarantees for Postwar Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmY5VUlHbUJ2c245TTQ4OUpJVUlKV0JDZWxPODhPZjBuVjVqeUVvTVJEVEhHaW12LVJEcjZkUWtHYkVkTUFqRkI3TWQzRkhiWHlTM2NNWVdpYndLenNURzlmQVlJaDBNMXlaOTN6ajJRcmdIXzZJaHVxUnNtaXFiU1hQUDBoMVpFUFJGYkpVTzlVMzV6bE5aRm9ucER3bjhOaVRIMTRUY1kxNkVwVkpOUk52Y2l2S0hoVWZaY2dPZF9DcnE3WUc4N2ZBV1VLd0ZBemdXMXJlb1BIaWVVOV9XcWwtVFJZNzJL?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-19T23:21:47+00:00",
+     "summary": "Jared Kushner Says Russia Is Comfortable With NATO-Like Security Guarantees for Postwar Ukraine&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
     {
      "title": "Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - video",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUJudDZOZjNNRzdXdnN5cEE4S3k0UkZiNHdQdVItVXp5TXRRRG45SGpoNjFVR25RUFhzNVBKT0tIY0VrcktHQTNwVlFIdjVjWjZvMFAyOEVzUlgwSzFEbkpCUUpLa21aY2Z3cDFLRnNCT0pFWnRoX241ejNSd2dCQTlWemltbjJ0QUxKRkp5X0dEdGRrbHVUeFBwU1ROVG94OGEwR0xzMlVjeVYwc05qQTNIaTdkZGNvSEp6aVRvWVdQUQ?oc=5",
      "source": "The Guardian",
      "published": "2026-11-19T23:13:57+00:00",
      "summary": "Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - video&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Ukraine\u2019s allies warn against Yalta-style carve-up as Trump meets \u2018friend\u2019 Putin",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGltcDE5SlFrbEUwSkx0MEdvSV9WVjF5OENGNzhicTlkS1E1SWllSGtmRE1WY3JzM0gyWGFFaUo3RkJyN096Ymd5d0pEMW1QdTdDSk5RUVF1SjQ2U0UwallGUUlfbWRtLVdqMHA3T2VTZ18weVZaaWh3YWtmZTBvUE5JUWVXU2wtRy1FSGgxLVJZZTRXUHdIc0szSUxMak9SUUhvWDJHR1gtd3M2ZE1mZ280X2JfUkk?oc=5",
+     "source": "Arab News",
+     "published": "2026-11-19T23:10:19+00:00",
+     "summary": "Ukraine\u2019s allies warn against Yalta-style carve-up as Trump meets \u2018friend\u2019 Putin&nbsp;&nbsp;Arab News",
+     "image": ""
+    },
+    {
+     "title": "Putin says Russia won't negotiate limited ceasefire with Ukraine after bridge strike",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yNHJ2ekFIeGFSWktPUmVMSF85amtLLV9kQ1RRSXRBUVNVZDFndHRFcUd1aDByY0VQeG91TzFlMDVJdU85aWJ6V2g5cDBQaGg3Q0JUTjhlMkt3a2c0S1Q3UHZURkZWcHFZZGVGM1NoLURSQQ?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-19T23:08:19+00:00",
+     "summary": "Putin says Russia won't negotiate limited ceasefire with Ukraine after bridge strike&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
+    {
+     "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
+     "source": "The Guardian",
+     "published": "2026-11-19T23:07:02+00:00",
+     "summary": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancerGet our daily political email, free app or daily news podcastFormer Liberal M",
+     "image": "https://i.guim.co.uk/img/media/0597a7b783b29524050eee8b5879eb87b0390a16/0_0_3030_2424/master/3030.jpg?width=140&quality=85&auto=format&fit=max&s=f11bb8942659bcaec4d8bf7aaa0dc5c4"
+    },
+    {
+     "title": "Germany Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHFicWJCcmxqX1RRR2NreDdKMnZKcG9aVkhmZXBERXhjc1BaUkRRdm5IbFB6UkdNeTR2Y3NJVnctMEdSSVNWOEhlOWVocnpRaHRPLUpvcDdRdkZuU3g4MWhyRVhoMU05YnBLYnBHcFVMd2dGaHpHTV80SUx4R1JENEYxN3VSYWotZVFzODhVM2ExR1FzdkNzMQ?oc=5",
+     "source": "TelegraphHerald.com",
+     "published": "2026-11-19T23:05:26+00:00",
+     "summary": "Germany Ukraine War&nbsp;&nbsp;TelegraphHerald.com",
      "image": ""
     },
     {
@@ -154,77 +218,53 @@
      "published": "2026-11-19T22:59:07+00:00",
      "summary": "Thursday, November 19. Russia\u2019s War On Ukraine: News And Information From Ukraine&nbsp;&nbsp;Yahoo",
      "image": ""
-    },
-    {
-     "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T22:58:48+00:00",
-     "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
-     "image": ""
-    },
-    {
-     "title": "Myanmar committed genocide against its Rohingya Muslim minority, court rules",
-     "url": "https://www.npr.org/2026/11/19/nx-s1-6045926/myanmar-committed-genocide-against-its-rohingya-muslim-minority-court-rules",
-     "source": "NPR",
-     "published": "2026-11-19T22:56:08+00:00",
-     "summary": "The International Court of Justice has ruled that Myanmar committed genocide against its Rohingya Muslim minority \u2014 a landmark judgment that marks a turning point in international ",
-     "image": ""
-    },
-    {
-     "title": "Major anti-gang offensive in Haiti kills 34 suspected gang members",
-     "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
-     "source": "\u00a9 Fildor Pq Egeder, Reuters",
-     "published": "2026-11-19T22:31:25+00:00",
-     "summary": "Haitian security forces launched a major offensive on Thursday to retake Martissant, a strategic corridor linking Port-au-Prince with the country's western and southern regions tha",
-     "image": "https://s.france24.com/media/display/181d54d6-e1f7-11f1-a490-f71d22e7fea9/w:1024/p:16x9/2026-11-12T233346Z-695546907-RC24MOACBCCE-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg"
-    },
-    {
-     "title": "Zelensky tells world superpowers how they can end Russia's war against Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHhyNWhSSHptNms5b0VJOUROV25HRzU5UG5wc0tmbDk3RjJVWkMycTdvSXBZdjFoeTQyMVNfbE52YldsMVp1V0IyWE1vd3B6U18tRHJUQjdSakRzQnBOR2xEOEttVTJXeW1nTnhpWHhvMXNqRmx4VXAtaXJFUDllbzFQaW94Z0ZMV1ZZaEVxOElSNFBSS285aHkzcm41SjVIaVVlMU9zWTRaR08t?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-19T22:30:02+00:00",
-     "summary": "Zelensky tells world superpowers how they can end Russia's war against Ukraine&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "Mark Speakman resigns and says Liberals face \u2018existential threat\u2019 as NSW exodus continues",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-     "source": "The Guardian",
-     "published": "2026-11-19T22:17:09+00:00",
-     "summary": "Former NSW opposition leader warns party against becoming \u2018Labor lite\u2019 or \u2018One Nation lite\u2019 in late-night speechGet our breaking news email, free app or daily news podcastFormer Ne",
-     "image": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=140&quality=85&auto=format&fit=max&s=a84940e8f5bd344dbd4ab97d27c0d8f9"
-    },
-    {
-     "title": "Russo-Ukrainian war, day 1730: Ukrainian Neptune missiles hit Kerch Bridge railway link for the third time in a week, halting trains to occupied Crimea",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVSnlHaWdha2FRMzdONXdrSE9mdUZBdUtmNjFiU3BTUWhiNGhPNWI3OW5wejBHcmRhXzB1VG1VZGFrUHcxU2VLT2RSMTFnN2MyRU0xOUNyamRTVEZBMS1taHdZR0ZpTFdMOUxpYmt6aGJ5aUV4ekJF?oc=5",
-     "source": "Euromaidan Press",
-     "published": "2026-11-19T22:12:52+00:00",
-     "summary": "Russo-Ukrainian war, day 1730: Ukrainian Neptune missiles hit Kerch Bridge railway link for the third time in a week, halting trains to occupied Crimea&nbsp;&nbsp;Euromaidan Press",
-     "image": ""
-    },
-    {
-     "title": "Kushner says he believes Russia is \u2018comfortable\u2019 with NATO-like security guarantees for Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
-     "source": "AP News",
-     "published": "2026-11-19T22:11:00+00:00",
-     "summary": "Kushner says he believes Russia is \u2018comfortable\u2019 with NATO-like security guarantees for Ukraine&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GSmpqSW1iSFBrQWZBODhtdjZwZkFZaXo5YUJOZmNyQVlkNm9JWmJEanVhZ3ByR1lQbG9UcWhQNERfU29taEptTDFZcV9HLVF0YmRMVFItaDRob1VYQzhyemVKQ19KTmhYYjhMZmgtV2tDUm1iZlFZ?oc=5",
-     "source": "CBC",
-     "published": "2026-11-19T22:06:46+00:00",
-     "summary": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine&nbsp;&nbsp;CBC",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T23:14:34.283110+00:00",
+   "fetched_at": "2026-11-19T23:44:37.969499+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Healthcare After the Election: What Comes Next?",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVJpS3NyVVJaZ3dlUnNjOXNpNm00cERfNVNyOXlpQlZ2NFptNWVaSGJWTmE2U21vMHZlOEZQMWw3MGh2Qy15NndfOUp1US1GakRISUNBSVBKSG1JQm5KYm9vSmVwRF9JbjRmLXMyMWMzSzBoc3FPV3N5XzRZbk5nUHVvSVY5ZXlyWnVXOEg3UQ?oc=5",
+     "source": "Sheppard, Mullin, Richter & Hampton LLP",
+     "published": "2026-11-19T23:39:54+00:00",
+     "summary": "Healthcare After the Election: What Comes Next?&nbsp;&nbsp;Sheppard, Mullin, Richter & Hampton LLP",
+     "image": ""
+    },
+    {
+     "title": "State canvassing board certifies 2026 election, but recounts still pending",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMXcwLTVKbmN0VDhYNDJnVklFbUlyX0NoSkhjMjRCN2xJYTNLZmZGRk1ab0lQT01wSWtvaVNWUFExT1pSTDQ2dEwzVzMxZ0NHN29nWGlwWDhEb1VxWVltc2RqUHgydjVBWEkwd19ZanVtYk1JYVBJWWhyS0dUT0wzajNlS3cycDJlR21YbVJvOUJKa2xLNVZmc1VUWEV6YnVVX3dMck1KenhmN1VadE9Ybk1ZSE5iLVd3dWRQSVJQRW42anhkZ3FOdmxvY2MwdUJWTGV2VmMxRjlRYVVrOEdocGdMZV85YnZIcXRuTEhnWQ?oc=5",
+     "source": "kare11.com",
+     "published": "2026-11-19T23:38:01+00:00",
+     "summary": "State canvassing board certifies 2026 election, but recounts still pending&nbsp;&nbsp;kare11.com",
+     "image": ""
+    },
+    {
+     "title": "Tucson Council to rubber-stamp election winners, including a wild $300M plan for the zoo",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVHhjUzBvQm0zZmU3MGRUS1pJcmJLbllyZUdCTE9uajFkLV95VkZoS2ZDM0ppUmlHVmYzbDRmNWd2OTcyRkpkVEw5LXp0NE96bl9KR2JNUFZMU3pqaTd2aTVkRkNBakt2MXExNTJ3aFFvX21yVE5pa3hCRXVJNmx4Yks0dlRoQUFZeWw3Y2R0TDhsTXBYdnlQd2w5bFdGNndaVUp2VVlWUFg1LU1WR01IQmctWG10cC02bDRpSks3bXJkdVU2ZW9DTkNBanYzY0xEZlJuMURicw?oc=5",
+     "source": "Tucson Sentinel",
+     "published": "2026-11-19T23:24:00+00:00",
+     "summary": "Tucson Council to rubber-stamp election winners, including a wild $300M plan for the zoo&nbsp;&nbsp;Tucson Sentinel",
+     "image": ""
+    },
+    {
+     "title": "Knox County certifies midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcXVMVWctc0U2U3I5d1BVVkVyZkhYYVROeFItaXZhTWRQcUZIbjJTQ3JvY0pNbWYydzdNNVlXSDhKaGxfNmZ5bEU1UGZPUWZOblRiYzdaRms2UDNaYVF6OWUtSENVRkxSOURsdWhUM3FqYnkweGlLN1IwelVZaTFlM2o1eFBRVmtLNG1Z?oc=5",
+     "source": "WATE 6 On Your Side",
+     "published": "2026-11-19T23:23:28+00:00",
+     "summary": "Knox County certifies midterm election results&nbsp;&nbsp;WATE 6 On Your Side",
+     "image": ""
+    },
+    {
+     "title": "Six killed in suspected gas explosion at Georgia apartment building",
+     "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T23:09:48+00:00",
+     "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+     "image": ""
+    },
     {
      "title": "Trump\u2019s pick for key election security post denies Jan. 6 was \u2018attack\u2019 on U.S. Capitol",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVFNLMjFHdERMNmpKbHFHNDVlUWVZRHBpZ1ZZQVU5Q2dFQnNnanhtR3pBQnlDcW1JV0tmRERUa2pYei01SW1xYWZ5T3pCNGEtRnVvYjJNbnl5cVN1Q2E2azlNZUlaT05Tc3VYYzg1TDlFNEJQbDdNMWVtNWtldFpnUmI1RE9waEduRTRkaHJqX1d4SUo4cXlnY3NCdmx2YkdmTWVsMThIY0phUXVaMkJaLThTQWEyM19xVzRsWTdmZU5iNGlS?oc=5",
@@ -258,6 +298,14 @@
      "image": ""
     },
     {
+     "title": "Indigent defenders: Crumbley attorney sanctions chill advocacy in court",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSy1pVGZoZktwSHZnWDlncnF6eEMyYU93SkRBLUgybVlndlByNnBkUERQWEpiRnozeE8xRXdjQWxDTndrczBrNkdpU1B6Q0xMVmZHN2YtSlUydTYxVTVMTkdHSUFQd2FNR2NkSF9LYWd2NGRQRVgzWkNFVURCdEllUmYyMHZnMmJMdW1iXy1fR3hkUFBlYzJkYnpDNW4xQl9BcnVuN0w4ZUhlaGZzT194aXBxbzNZbFJiVHduVUU4UGdLX3hVUHFVM3NySVg5OHVMYWMyQTlRQW80b0pudmN1LTV1TlJ5eG9kX1E?oc=5",
+     "source": "The Detroit News",
+     "published": "2026-11-19T22:50:00+00:00",
+     "summary": "Indigent defenders: Crumbley attorney sanctions chill advocacy in court&nbsp;&nbsp;The Detroit News",
+     "image": ""
+    },
+    {
      "title": "OSC Issues RFI for Space Policy Advisory & Research Services",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa1JNSUZocDlTR1Z3cHZHM3hUZHk2WW5HcEt6UzVJZnREcEV4SjNxNzFIckh4YUdQcllQU2ptTTJ3QzRDYjFjaHdFV3ZiVDV5b0RJYUU5Vy1zMzRlVlVmYkF4czJnSlM4di1qWHN0dTZ1Q2FFcGxYdFFKb0FPbTBWajBORU5MQnpzTHR1akxsYVNnZ0V6?oc=5",
      "source": "ExecutiveGov",
@@ -272,59 +320,11 @@
      "published": "2026-11-19T22:22:53+00:00",
      "summary": "Policy Leaders Eye Opportunities for LIHTC Market, New Congress&nbsp;&nbsp;Affordable Housing Finance",
      "image": ""
-    },
-    {
-     "title": "Trump\u2019s pick for agency providing election security says Jan. 6 was not an attack",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUG9GMHpwREtNTVlUcDdQV1U2ZE5GN3U5MFNIbGNmWkdZM1FRMU5mcjduOFh3WGF4VjNjYnUySHBLWHhTZHRVV3ZKY1FxS2V1aC1iZjZJbnlna2w5T3RsMkQyenM4S2lISEpyQW9IRlhoTVBOQWRmbk9FX3hHcFR5cmZfVTZhdUFYWlE5Nkx5eFA1YXVMeFY3THVnV0tjNUhPcFJFYUJ5VTBLOWhoQ3ZQVzJaV20tRU1BX09QV0VBeEpFdWczLTI0TUJiNWtycW45?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-19T22:22:43+00:00",
-     "summary": "Trump\u2019s pick for agency providing election security says Jan. 6 was not an attack&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Here\u2019s what Round Rock ISD\u2019s failed tax rate election means for employees",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUJBVkFkd1lLWmF5V3RiaXJVeG9fd0tiaU9vdnVJdVdIcW9FdWZjcHRPYW5EekswTDZPcl9Ja0w4a0NwRmd2d2plMEl6el9YTWtwcHVHU05rTEljcmI5dnVCWWtiOTZ4VmFMcGMyZERzbi00dHNISHUzTllfZkNmOUlxNWJlUDl0QS1sYVE0eTV5TFVMSVRJZzgzd2NXdkc4cU15enFqcnlkS1pFNW4wWnNtdHR4ZnZhQkZDWFk1LUg?oc=5",
-     "source": "Community Impact",
-     "published": "2026-11-19T22:08:02+00:00",
-     "summary": "Here\u2019s what Round Rock ISD\u2019s failed tax rate election means for employees&nbsp;&nbsp;Community Impact",
-     "image": ""
-    },
-    {
-     "title": "French far-left candidate M\u00e9lenchon opens door to alliance with rival Greens candidate",
-     "url": "https://www.france24.com/en/france/20261119-melenchon-opens-door-to-alliance-with-french-greens-after-presidential-rival-overture-tondelier",
-     "source": "\u00a9 Geoffroy Van Der Hasselt, AFP",
-     "published": "2026-11-19T22:07:44+00:00",
-     "summary": "French far-left leader Jean-Luc M\u00e9lenchon opened the door to an alliance with France's Greens on Thursday after their presidential candidate Marine Tondelier said she was ready to ",
-     "image": "https://s.france24.com/media/display/2fab2b82-e3a0-11f1-9252-c5c0357b2a0c/w:1024/p:16x9/000-D7ED2CR.jpg"
-    },
-    {
-     "title": "2026 State Trifecta Election Results by State",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZS1YNlRycDdkS0xXd0dKTDhPUkdmWEFoeFUybHp3UEFndFphVjlpaFcxV1M5blY4M3RSTDNKNk85Ni1NYWwtMGY1SnZoQlJTTkM2ZTZxc3RzTEZVY3Zsa25TQWQ5RlpURGVFMk0wOFgzdVFlNUxnbTNHUFVyZHhGQ1dLTUNZUQ?oc=5",
-     "source": "MultiState",
-     "published": "2026-11-19T22:05:11+00:00",
-     "summary": "2026 State Trifecta Election Results by State&nbsp;&nbsp;MultiState",
-     "image": ""
-    },
-    {
-     "title": "State Attorneys General | 2026 State Election Results",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0JhcW5LTkpfb0lnSDdlWXhRaC1qV1VoLXMzZEdDWXY4aWVUTmdQRl9TS1gwU2hhZ1BUa2drd3dkWDZObUp4Rno4aXRsekRpZnoySDNsZUEtQ2pIZWg1TGN1QVlia3dVS1BuWC1WQllXU3BLVzBIMkpadFJyRk8zOG5CVVBWdVE4YU13Zzk3Nnc?oc=5",
-     "source": "MultiState",
-     "published": "2026-11-19T22:05:11+00:00",
-     "summary": "State Attorneys General | 2026 State Election Results&nbsp;&nbsp;MultiState",
-     "image": ""
-    },
-    {
-     "title": "Appeals court rejects Democrat LaMonica McIver\u2019s bid to toss charges over ICE protest",
-     "url": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
-     "source": "The Guardian",
-     "published": "2026-11-19T21:57:39+00:00",
-     "summary": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incidentAn appeals court decided on Thursday that Democratic New Jersey ",
-     "image": "https://i.guim.co.uk/img/media/1931e15dccc2840631f2099770407cfd0fa619a7/327_0_3346_2675/master/3346.jpg?width=140&quality=85&auto=format&fit=max&s=3458b6e1b48990962846d185491c6522"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-19T23:14:34.283113+00:00",
+   "fetched_at": "2026-11-19T23:44:37.969502+00:00",
    "stale": false,
    "items": [
     {
