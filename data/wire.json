@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-19T04:11:26.831419+00:00",
+ "generated_at": "2026-11-19T04:41:30.294140+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T04:11:26.831387+00:00",
+   "fetched_at": "2026-11-19T04:41:30.294114+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Crimean Bridge attacked again, Russian official says",
+     "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T04:37:17+00:00",
+     "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+    },
+    {
+     "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
+     "url": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+     "source": "The Guardian",
+     "published": "2026-11-19T04:10:10+00:00",
+     "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika MaineGet our breaking news email, free app or daily news podcastThe youth fashion ch",
+     "image": "https://i.guim.co.uk/img/media/7d56f8d844b5cf5df1e5f586bc7ca3b43c5984d0/0_0_2497_1997/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=4eb8e029850f2e5e28dac2de2696cd1d"
+    },
     {
      "title": "\u2018Shame old Aussies\u2019 to \u2018fresh chaos\u2019: what the UK papers say about Bancroft\u2019s explosive ball tampering claims",
      "url": "https://www.theguardian.com/media/2026/nov/19/shame-old-aussies-to-fresh-chaos-what-the-uk-papers-say-about-bancrofts-explosive-ball-tampering-claims-ntwnfb",
@@ -22,6 +38,14 @@
      "image": "https://i.guim.co.uk/img/media/91c39e6279d80734110ea1274bb82ba750178aca/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=e6d08589972906e0a23904745fa60bc8"
     },
     {
+     "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
+     "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T03:58:10+00:00",
+     "summary": "Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise.",
+     "image": ""
+    },
+    {
      "title": "Australia may have \u2018one foot in recession\u2019 as unemployment surges to five-year high",
      "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
      "source": "The Guardian",
@@ -30,7 +54,7 @@
      "image": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=cdc902f13711b00113b62f2359c282f2"
     },
     {
-     "title": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
+     "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-19T03:30:26+00:00",
@@ -92,39 +116,31 @@
      "published": "2026-11-19T02:57:19+00:00",
      "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
      "image": ""
-    },
-    {
-     "title": "One Nation\u2019s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-19T02:36:37+00:00",
-     "summary": "Exclusive: Kelvin Morton was hired in February in appointment heralded as turning point for professionalisation of partyGet our daily political email, free app or daily news podcas",
-     "image": "https://i.guim.co.uk/img/media/fc7bad15212bc92a35ac3e130045daf1a4822d57/163_0_1218_974/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=37dbdc51850210108cc31a4e128fc0f8"
-    },
-    {
-     "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T02:20:15+00:00",
-     "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
-    },
-    {
-     "title": "ICJ to rule on Rohingya genocide case against Myanmar",
-     "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T02:10:43+00:00",
-     "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T04:11:26.831404+00:00",
+   "fetched_at": "2026-11-19T04:41:30.294128+00:00",
    "stale": false,
    "items": [
     {
-     "title": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
+     "title": "Crimean Bridge attacked again, Russian official says",
+     "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T04:37:17+00:00",
+     "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+    },
+    {
+     "title": "Elbridge Colby chides Ukraine\u2019s strikes inside Russia, drawing German rebuke",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEoyb1NuRTZNcnZfQXdFcjhMUmFaRkNPWmtueGZfY0FiVEY0eHNTbWppVlMxTlRBUTBUSkdsYTV5VWtXOG9tdGVfS1pQSnY4MHJrS0N0WXNNR2ZUYlE0eVlacThieVhqajBNbmpTaVlmSVlsTDg3WE9neGk2X2ZJMEdPOEdwSjZQT1NWcnJfdjc5TUpSakRid9IBngFBVV95cUxQVFQwMUxXRlduRWY2WHJKYkVDU2o3ZHFIV2JJY3g1ckZCbnJEcnd4Sll3dW4zM1c1RlRkWnNvT0RpY3lpc3NMS0pDWFNqTVUzdWhNYUQ4ZnV3c3BKSTlSaHRQbzNsNGlwdWhsLWVWemd1ZHdMLTVGcm5pV2doRGwzYlFfeVhvWURNRTJVa2RKak1jYW96RnVMcXRabWJsUQ?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-19T03:59:00+00:00",
+     "summary": "Elbridge Colby chides Ukraine\u2019s strikes inside Russia, drawing German rebuke&nbsp;&nbsp;The Hill",
+     "image": ""
+    },
+    {
+     "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-19T03:30:26+00:00",
@@ -196,35 +212,35 @@
      "image": "https://s.france24.com/media/display/9734827a-e3c9-11f1-8ccd-ff16da94d1fe/w:1024/p:16x9/2026-11-19T030408Z-2074341856-RC2RQOAJQ487-RTRMADP-3-APEC-SUMMIT.jpg"
     },
     {
-     "title": "Trump says he wouldn\u2019t make deals with Putin without Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTFvTFRVTWtmZmJGWjhhZ0FWOHVUb0c3SWRsbXBWRGhFUjhBRDJFekRCRHFBR0UxOXhVVm9wcno4WTQwSjE2MzlPd3FLVURJMWZyWXg2UlJBX21oRDdvZjZtYzFzMmFtRUZKNkEzajlXR1RtWWdqU2hqc0sxVXY5RzBNZ0hqdzZHZjVzRHJtR3lTaXZNZG8tUFhObVMtdHotV0pBa3hhLUlaTTdY?oc=5",
-     "source": "The Business Times",
-     "published": "2026-11-19T01:45:00+00:00",
-     "summary": "Trump says he wouldn\u2019t make deals with Putin without Ukraine&nbsp;&nbsp;The Business Times",
-     "image": ""
-    },
-    {
-     "title": "Settler rams into Palestinians at multiple locations in central Israel",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T01:13:45+00:00",
-     "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
-     "image": ""
-    },
-    {
-     "title": "Putin's Crimean Bridge comes under attack again, Russian official says",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WV1BxNmRrQUFiOTMxd3laUEdOa2I1dzNZZWlqWnFfQW5ic05OSTJuYjhFTkpIMUprN2tyeWlEMGRmdWJEallEUVRjSnpzcXdEbTl5SXdFZEZtVWM?oc=5",
-     "source": "BBC",
-     "published": "2026-11-19T01:05:03+00:00",
-     "summary": "Putin's Crimean Bridge comes under attack again, Russian official says&nbsp;&nbsp;BBC",
+     "title": "Video Trump, Xi, Putin to meet amid Russia's war in Ukraine, US war with Iran",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWpfdno0bHpnSXdjMC1kT0NjRUU4YWhBUnBEOWpiUUNmb0xWbG1GYkw0V2ZodmlHUHNub2tIY3Y1YjJ6dDF0aEVsTWhfUmZvbEhydWMzQW5XM3F1VlVDaW5uQVJ3UHFwQzZoemoxRWIxQWRCS1lDZFk4ZWw0ZnpWV19Ea0U1ZWJiMWRmQg?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-11-19T01:44:04+00:00",
+     "summary": "Video Trump, Xi, Putin to meet amid Russia's war in Ukraine, US war with Iran&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T04:11:26.831407+00:00",
+   "fetched_at": "2026-11-19T04:41:30.294130+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Republican Nick Begich wins re-election to Alaska\u2019s U.S. House seat, a rare bright spot for the GOP",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcjZJTkMzZTVMejZ5QXhmNVlWX3VXdy1XNEV3TTdLWjJKN2FXWWlqQktuRURyMDQ1V2prTHZBQm9YaVpRWnpPZzlkUjd3T0NsZkpvOVBjZF9ON3lrV1VPMVhMNWxqdGtPX1BTTlpYUXlfUE5kZ0FMUHk2NG5BYTZnRVJJTmVMMUNYeUU0WXRsT0VVaUtHcmY5d2o1eTFocVJuSnJLWnExUlU2Nk1QWTllMGxybURMblZnS2lGZ0ZLMThrZmlyb29r?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-19T04:21:00+00:00",
+     "summary": "Republican Nick Begich wins re-election to Alaska\u2019s U.S. House seat, a rare bright spot for the GOP&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "Musk says he feels 'pretty foolish' for failed US election spending",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDZVbUhXam8xTExLVlZyQ2JSNVFjZjd5N2NDanN5T1ZLQUpoTkpCOXFvN25MdVlqSnBxMmp0NXAwejlkS2loTEZKVzZvcjdwTnpId01hcVd4T2FSekRJWVRISFk5dzZRTlZ5Tm91aHBGRzAwcVZFbEVQWEJ4YnlwdGxCbTBXQmE3aGxpWU11aTkzY1AzVUYyTnY4U1YwOHJfR1VvVUcxczNUUjhwZ1FCc0JB?oc=5",
+     "source": "France 24",
+     "published": "2026-11-19T04:15:21+00:00",
+     "summary": "Musk says he feels 'pretty foolish' for failed US election spending&nbsp;&nbsp;France 24",
+     "image": ""
+    },
     {
      "title": "In 2026 PPP Saw It All Coming",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TWHQ0YTRxbENpQkd4QmJkOE0zelBkU05sMWp3cmc2NllFQmRuMlZoeFFmdGJXVjZJSXBDOTVYaW9FTmoxNGtHM0Y1U3FaN3NZZERBWll3VHRJaW1HeVFkV0RiSlZXUDJCWm1vdzIyQUQwdlNLVV9EU3lMd28?oc=5",
@@ -234,11 +250,27 @@
      "image": ""
     },
     {
+     "title": "LA Council Considers Special Election for Vacancy Left by Mayor-Elect Raman",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmludDd0VDNVRU9id25OUFMzZUExSnNHUUs0dE1fS0VHSkxLbjhkR2R0aXdyUWFmRGVMcXBkd0lqazB1MzNJZ1lmN0I4dDBOZzN1a0pVN1IwQ3YwcDk2dl9uU1pOeXFiVnlfUTVWSVZuTlBUQ1ZSZTdVR1Frb29EMk5yMjdFc01aNnN3WTdWLVZlaHJCM01yZzBEMG4yX25FY0RHdndoSHl1V2NfRWRjSFZmb08?oc=5",
+     "source": "The San Fernando Valley Sun",
+     "published": "2026-11-19T04:06:51+00:00",
+     "summary": "LA Council Considers Special Election for Vacancy Left by Mayor-Elect Raman&nbsp;&nbsp;The San Fernando Valley Sun",
+     "image": ""
+    },
+    {
+     "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
+     "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T03:58:10+00:00",
+     "summary": "Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise.",
+     "image": ""
+    },
+    {
      "title": "Election 2026 Alaska-House",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSTJtSVo4YjFFdm5ucXhQbnFOemhuMjd5QU1RbDM3RjhoaUlUX3p3LXQzU1Bsb05wZXN1ZTNoa2YweDNLTW5uVFhaak9nN3Uyc2dkV0Z5ZnFfWFZ1S0dnc0lVMVBFb09YRGJGVGtrSnljOGx3S2d3MVlHQkVVVmZRdFJSZkZMQWZoQWQzU0FhZTdzeHJYcENZa0licFhoUzhNSG16SVdWM2hiLVFEOGdYZFRNSThYZkFJaE44?oc=5",
-     "source": "Teton Valley News",
-     "published": "2026-11-19T03:53:28+00:00",
-     "summary": "Election 2026 Alaska-House&nbsp;&nbsp;Teton Valley News",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjZPbV9PekVORmxGY1d4VnJ6Y2Fpa2RNbW5BM2Vvcjl4N1dCclh3X0h0ZHp5WEFIUDNOTkJOLWlWdTNfZ3U2aUhZTDBLeGJnRm1vUzZiX2VPQ1g2T2NqVzJFUTlnZXUxQWFfeUF6OWZCTXlnSlhaVC1xbXBEdWFrS1lCMEl3T2xyWHlOQ2ZfQm13Rmd6MF9XYjNBa3h6eHZfT2ZGOVR0X29UVG5vVmstWg?oc=5",
+     "source": "The Herald Journal",
+     "published": "2026-11-19T03:46:17+00:00",
+     "summary": "Election 2026 Alaska-House&nbsp;&nbsp;The Herald Journal",
      "image": ""
     },
     {
@@ -255,14 +287,6 @@
      "source": "Baptist News Global",
      "published": "2026-11-19T03:05:55+00:00",
      "summary": "When God loses an election&nbsp;&nbsp;Baptist News Global",
-     "image": ""
-    },
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CNFdpZlR3RnBSbWVpcVp1V2p6Mk9VNnpTem5PSDlGTFBBbk43YWRSNlNoSWRrRUpuOFRNYUdmM1Bkbzhyc2pqbjdiUGVQeUtKVzdoRjRtTU4tenJFZ2U3RnV5Y1ZaLVF1VXpmamFETkQxUlB1RDU2enV2Z181Zw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-19T03:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     },
     {
@@ -296,35 +320,11 @@
      "published": "2026-11-19T02:23:00+00:00",
      "summary": "Five Republicans lose seats in Legislature as election officials finish vote-counting and tabulation&nbsp;&nbsp;Alaska Public Media",
      "image": ""
-    },
-    {
-     "title": "Policy changes in Canada had little effect on sales of antibiotics for animals, study finds",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wS0pCT2wzZGMtVWtxaGNEM09WXzh6MEdHVnduM0M5OUo0UWR4cFBWWkp3ZDZrYy1NZXR1SnJyQ0xSaXBNZ0k2WlZkQWI1dTFKd1hYbGszQXdCWE1aTXdUVWJLVGdJb29YZ2tDckNzZzNVU0x2Sl9lSUZpSHR5dw?oc=5",
-     "source": "Phys.org",
-     "published": "2026-11-19T02:20:01+00:00",
-     "summary": "Policy changes in Canada had little effect on sales of antibiotics for animals, study finds&nbsp;&nbsp;Phys.org",
-     "image": ""
-    },
-    {
-     "title": "SG executive alliance proposes expanded University pass/fail policy",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0NYbWVnckpsUlNzcmQtTXZIOFA0elJ6dnN2Q2FOQ2lwTzk1aWNRSldHWkdsZ09BTXA4QnZERGJWeHFPLWpOYkEtWGdrMDJsNlJXaEM0T1RNSktjMXB0VzB0c19xM0otTnFXQXN6aHFEUFMzMzlxOVpTTW5kX0tLb0huNUs1TEtCOU1lTUJmTFViMUpCRElVMnJtOXZSeXhmd3ZnQ1djemg?oc=5",
-     "source": "The Daily Texan",
-     "published": "2026-11-19T02:14:15+00:00",
-     "summary": "SG executive alliance proposes expanded University pass/fail policy&nbsp;&nbsp;The Daily Texan",
-     "image": ""
-    },
-    {
-     "title": "The 5 House Democrats to watch on foreign policy",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcVlMcmU2OW9BQ3hNTVhoUnZ3N3l6NG9CYWxhemVxdENyS0hYbHJEZUgwLUgwVjRwZlVUOXNiQXVoTnJObmpyblJLd01VNjdoSnBjVDY5S1pVNnJ2dTh4U1hwLXhuMTZmWW4walhBQ1Nvb2s3bFdTZ3FTR3lZTnVGalprRUJjdWVJdklSX2s4QkVoQQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-19T01:51:00+00:00",
-     "summary": "The 5 House Democrats to watch on foreign policy&nbsp;&nbsp;The Washington Post",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-19T04:11:26.831409+00:00",
+   "fetched_at": "2026-11-19T04:41:30.294132+00:00",
    "stale": false,
    "items": [
     {
