@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-19T00:40:44.722353+00:00",
+ "generated_at": "2026-11-19T00:40:57.220414+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T00:40:44.722326+00:00",
+   "fetched_at": "2026-11-19T00:40:57.220386+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+     "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T00:11:40+00:00",
+     "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
+     "image": ""
+    },
     {
      "title": "Trump\u2019s transportation secretary blames contractor for nationwide FAA ground stop \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
@@ -108,19 +116,11 @@
      "published": "2026-11-18T23:04:06+00:00",
      "summary": "No state has ever been found guilty by an international court of committing genocide.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg"
-    },
-    {
-     "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-     "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T22:56:19+00:00",
-     "summary": "The US Treasury has accused Hezbollah of using charitable organisations as &#039;fronts&#039; for fundraising.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T00:40:44.722340+00:00",
+   "fetched_at": "2026-11-19T00:40:57.220400+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T00:40:44.722343+00:00",
+   "fetched_at": "2026-11-19T00:40:57.220403+00:00",
    "stale": false,
    "items": [
     {
@@ -255,6 +255,14 @@
      "source": "Bergeson & Campbell",
      "published": "2026-11-19T00:13:21+00:00",
      "summary": "SPAN White Paper Examines Current Science on TFA, Offers Policy Implications&nbsp;&nbsp;Bergeson & Campbell",
+     "image": ""
+    },
+    {
+     "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+     "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T00:11:40+00:00",
+     "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
      "image": ""
     },
     {
@@ -312,27 +320,19 @@
      "published": "2026-11-18T23:45:00+00:00",
      "summary": "Spring Lake Park mayoral election overturned after ballot challenge and recount, city says&nbsp;&nbsp;CBS News",
      "image": ""
-    },
-    {
-     "title": "Razor-close Pennsylvania state House election may be heading to a recount",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnJCWnJOMVA5anRZS0NTMFIxTk9tUUcxTG5sUkdsMVJTZ3dJZHBqQXY1TGo0RnNhcnpQMVk1eXh4dXBVbmF1OFJxSEgzeW0zNjFsdTgtVzZyVGJybFNDVVo0SFk1UnJyazdYLVlrbnpFcE8xb0tLUGVwcjkxc2lJNkZwS2hDZHFENmoxUlVaX0lpRjUwOHFKeDI2dHhzMl90dmNkaQ?oc=5",
-     "source": "Votebeat",
-     "published": "2026-11-18T23:41:00+00:00",
-     "summary": "Razor-close Pennsylvania state House election may be heading to a recount&nbsp;&nbsp;Votebeat",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-18T23:40:37.868344+00:00",
-   "stale": true,
+   "fetched_at": "2026-11-19T00:40:57.220405+00:00",
+   "stale": false,
    "items": [
     {
-     "title": "World Bank official says Lebanon reconstruction making slow progress",
-     "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+     "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+     "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-18T16:44:59+00:00",
-     "summary": "Beirut blames Israel&#039;s occupation and attacks on southern Lebanon for reconstruction delays.",
+     "published": "2026-11-19T00:11:40+00:00",
+     "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
      "image": ""
     }
    ]
