@@ -1,17 +1,57 @@
 {
- "generated_at": "2026-11-19T22:44:30.581568+00:00",
+ "generated_at": "2026-11-19T23:14:34.283122+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T22:44:30.581540+00:00",
+   "fetched_at": "2026-11-19T23:14:34.283092+00:00",
    "stale": false,
    "items": [
     {
-     "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he\u2019s \u2018considering things\u2019 on 2028 re-election \u2013 live",
+     "title": "California probing whether China improperly acquired Nvidia technology",
+     "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T23:04:30+00:00",
+     "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg"
+    },
+    {
+     "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T22:58:48+00:00",
+     "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
+     "image": ""
+    },
+    {
+     "title": "Myanmar committed genocide against its Rohingya Muslim minority, court rules",
+     "url": "https://www.npr.org/2026/11/19/nx-s1-6045926/myanmar-committed-genocide-against-its-rohingya-muslim-minority-court-rules",
+     "source": "NPR",
+     "published": "2026-11-19T22:56:08+00:00",
+     "summary": "The International Court of Justice has ruled that Myanmar committed genocide against its Rohingya Muslim minority \u2014 a landmark judgment that marks a turning point in international ",
+     "image": ""
+    },
+    {
+     "title": "From premature baby to social media star - Famed hippo Fiona dies",
+     "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T22:54:03+00:00",
+     "summary": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/df1a11d0-e46a-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+     "title": "California\u2019s top lawyer subpoenas Nvidia over Jensen Huang\u2019s affair with suspected Chinese spy \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-19T22:36:25+00:00",
-     "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadershipSign up for the Breaking News US emailThe National Security Age",
-     "image": "https://i.guim.co.uk/img/media/4445bb36efff4a7f4ccc2e4348e4771595c27c27/457_0_4570_3656/master/4570.jpg?width=140&quality=85&auto=format&fit=max&s=599a21a70952fbfef6ddd57bbc979a9a"
+     "published": "2026-11-19T22:50:57+00:00",
+     "summary": "State\u2019s attorney general Rob Bonta says \u2018conduct of Nvidia and its former CEO raises bright red flags\u2019 as he opens investigation Sign up for the Breaking News US emailThe National ",
+     "image": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=140&quality=85&auto=format&fit=max&s=c5876a95b1c70551c14f01e06a36bd87"
+    },
+    {
+     "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+     "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T22:48:22+00:00",
+     "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d77/live/35f78600-e465-11f1-99b6-a35a62fa4264.jpg"
     },
     {
      "title": "Major anti-gang offensive in Haiti kills 34 suspected gang members",
@@ -76,60 +116,60 @@
      "published": "2026-11-19T21:58:27+00:00",
      "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO&#039;s alleged links to a Chinese spy.",
      "image": ""
-    },
-    {
-     "title": "Appeals court rejects Democrat LaMonica McIver\u2019s bid to toss charges over ICE protest",
-     "url": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
-     "source": "The Guardian",
-     "published": "2026-11-19T21:57:39+00:00",
-     "summary": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incidentAn appeals court decided on Thursday that Democratic New Jersey ",
-     "image": "https://i.guim.co.uk/img/media/1931e15dccc2840631f2099770407cfd0fa619a7/327_0_3346_2675/master/3346.jpg?width=140&quality=85&auto=format&fit=max&s=3458b6e1b48990962846d185491c6522"
-    },
-    {
-     "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
-     "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
-     "source": "The Guardian",
-     "published": "2026-11-19T21:52:19+00:00",
-     "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic\u2019s headquarters in San FranciscoAs the artificial intelligence startup Anthropic debuted on the US st",
-     "image": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c67dc9fe30c346a644aea3be3a033af0"
-    },
-    {
-     "title": "Haiti police say at least 34 suspected gang members killed in raid",
-     "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T21:39:39+00:00",
-     "summary": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
-     "image": ""
-    },
-    {
-     "title": "Kenyan marathon champion banned for doping",
-     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261119-kenyan-marathon-champion-banned-for-doping",
-     "source": "France 24",
-     "published": "2026-11-19T21:38:55+00:00",
-     "summary": "In tonight's edition, Kenyan athletics superstar and reigning marathon world champion Peres Jepchirchir is banned for three years for doping. Also, South African judges leave the c",
-     "image": ""
-    },
-    {
-     "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-     "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T21:38:42+00:00",
-     "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T22:44:30.581553+00:00",
+   "fetched_at": "2026-11-19T23:14:34.283106+00:00",
    "stale": false,
    "items": [
     {
-     "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he\u2019s \u2018considering things\u2019 on 2028 re-election \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "title": "Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - video",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUJudDZOZjNNRzdXdnN5cEE4S3k0UkZiNHdQdVItVXp5TXRRRG45SGpoNjFVR25RUFhzNVBKT0tIY0VrcktHQTNwVlFIdjVjWjZvMFAyOEVzUlgwSzFEbkpCUUpLa21aY2Z3cDFLRnNCT0pFWnRoX241ejNSd2dCQTlWemltbjJ0QUxKRkp5X0dEdGRrbHVUeFBwU1ROVG94OGEwR0xzMlVjeVYwc05qQTNIaTdkZGNvSEp6aVRvWVdQUQ?oc=5",
      "source": "The Guardian",
-     "published": "2026-11-19T22:36:25+00:00",
-     "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadershipSign up for the Breaking News US emailThe National Security Age",
-     "image": "https://i.guim.co.uk/img/media/4445bb36efff4a7f4ccc2e4348e4771595c27c27/457_0_4570_3656/master/4570.jpg?width=140&quality=85&auto=format&fit=max&s=599a21a70952fbfef6ddd57bbc979a9a"
+     "published": "2026-11-19T23:13:57+00:00",
+     "summary": "Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - video&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 20, 2026 from Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sSFZtdDNGSldObjRuaXI3ZlgxWW5qdlk4SEEzSVExRWFKVTQ3aFpsMUxDRi1PNjVQcmlwY0ZoNFJnQ20tMVh2QjdSODQ1QQ?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-19T23:02:00+00:00",
+     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 20, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
+    {
+     "title": "At China summit, Trump calls Putin 'my friend' amid Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnNoSzcxZmxzUHozZl9pd0I2ZF84bklmMjJHQVo4Vk1CWENZdWlhaXVYcE5ndXdoUmxwc3FWWGJFM1dLN2QwakE5cHN3NXhIeHVoU0RFT0l3Vk94WHhRTDBFV0ZYVlhRc29TLVpkX1BoV1Q4M0JBQ2VaQzhGTWV5WVB6SXZVNkZET1BDeDlUN0NGYWIzNF9QcVk1R2lRUFJ6bDdtQnpn0gGrAUFVX3lxTE9tUzNoaTJpa0tpSmFlQ09wZk13Qng2SlJXX2d2NldEYVdxdm5kQ09FTWRWWG5ycjdSNmxmU1VfUlA0eUZPb1ptanBxaGc1MEV6S3M5amxqRUlhMG95VE9FQmxLdVhja25lcWtsbFQxQXd1Nzlfdm5DOEhQNkpzdHV2R2JiVmtvbkRFSlJNOE9FSXROdHVuSVo1SUZSeXNfSVhsdFJKYkhjcnhtVQ?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-11-19T23:01:19+00:00",
+     "summary": "At China summit, Trump calls Putin 'my friend' amid Ukraine war&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+     "image": ""
+    },
+    {
+     "title": "Thursday, November 19. Russia\u2019s War On Ukraine: News And Information From Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONTR3c1N5dXplOU1SamZhNnhxVjRDdThMdUI5QllLX1FWR1NBakdHQ3lBWHVmcUVKTXVPOGZMdlJGV1l5WHlHUHJ2Ny1RUGJ3X0hfc3V1NlE4QVZ3MFhOM2RXRGFrR0UzeGtvNVpWNE82QWJhdVVWVHFEMUU2YnBGYkVmc2pycFRiOFBWN3RtbWxQZw?oc=5",
+     "source": "Yahoo",
+     "published": "2026-11-19T22:59:07+00:00",
+     "summary": "Thursday, November 19. Russia\u2019s War On Ukraine: News And Information From Ukraine&nbsp;&nbsp;Yahoo",
+     "image": ""
+    },
+    {
+     "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T22:58:48+00:00",
+     "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
+     "image": ""
+    },
+    {
+     "title": "Myanmar committed genocide against its Rohingya Muslim minority, court rules",
+     "url": "https://www.npr.org/2026/11/19/nx-s1-6045926/myanmar-committed-genocide-against-its-rohingya-muslim-minority-court-rules",
+     "source": "NPR",
+     "published": "2026-11-19T22:56:08+00:00",
+     "summary": "The International Court of Justice has ruled that Myanmar committed genocide against its Rohingya Muslim minority \u2014 a landmark judgment that marks a turning point in international ",
+     "image": ""
     },
     {
      "title": "Major anti-gang offensive in Haiti kills 34 suspected gang members",
@@ -178,53 +218,45 @@
      "published": "2026-11-19T22:06:46+00:00",
      "summary": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine&nbsp;&nbsp;CBC",
      "image": ""
-    },
-    {
-     "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-19T21:59:25+00:00",
-     "summary": "Opinion | In Ukraine, the drones are flying faster than the diplomacy&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Trump, Xi, Putin Begin Historic Meeting with Ukraine War on Agenda",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjRSRGZoNE54WDZvaG9JX3RuZnpXRFlJRy1oQkxEVVFXZEhPS1Nnd21HY1pXWWhkZ29YTjlZdlJtR1FHUm5tWm1kbThtTXRUNFB4T08wUHFrQjMtd0lrTFJSQUVnMG5zd1k1RUdLSXNNY3JUaVJ0YVlvSFpEdFI5cDFpMnc4X0pFUGh2Z1dYMXJpVXNsZGV2YmFNSS1RZw?oc=5",
-     "source": "ASHARQ AL-AWSAT English",
-     "published": "2026-11-19T21:33:45+00:00",
-     "summary": "Trump, Xi, Putin Begin Historic Meeting with Ukraine War on Agenda&nbsp;&nbsp;ASHARQ AL-AWSAT English",
-     "image": ""
-    },
-    {
-     "title": "Russian strikes on Kyiv kill one, damage Dutch and Austrian embassies",
-     "url": "https://www.france24.com/en/russian-strikes-on-kyiv-kill-one-damage-dutch-and-austrian-embassies",
-     "source": "France 24",
-     "published": "2026-11-19T21:25:27+00:00",
-     "summary": "A wave of daytime Russian strikes on Kyiv on Thursday killed one person and damaged a historic cathedral as well as the embassies of Austria and the Netherlands. Loud explosions er",
-     "image": "https://s.france24.com/media/display/58fdce58-e45f-11f1-99b5-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-203931-204127-CS.jpg"
-    },
-    {
-     "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T21:21:43+00:00",
-     "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
-     "source": "The Guardian",
-     "published": "2026-11-19T21:04:01+00:00",
-     "summary": "Stories revealing Pauline Hanson\u2019s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognisedGet our breaking news email, free app or daily n",
-     "image": "https://i.guim.co.uk/img/media/3bbff637fb02e511e32ade930f414ad77d600ab4/0_0_4235_3388/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=bd44ca33648d7c2025b5d4ba54d2e799"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T22:44:30.581557+00:00",
+   "fetched_at": "2026-11-19T23:14:34.283110+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump\u2019s pick for key election security post denies Jan. 6 was \u2018attack\u2019 on U.S. Capitol",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVFNLMjFHdERMNmpKbHFHNDVlUWVZRHBpZ1ZZQVU5Q2dFQnNnanhtR3pBQnlDcW1JV0tmRERUa2pYei01SW1xYWZ5T3pCNGEtRnVvYjJNbnl5cVN1Q2E2azlNZUlaT05Tc3VYYzg1TDlFNEJQbDdNMWVtNWtldFpnUmI1RE9waEduRTRkaHJqX1d4SUo4cXlnY3NCdmx2YkdmTWVsMThIY0phUXVaMkJaLThTQWEyM19xVzRsWTdmZU5iNGlS?oc=5",
+     "source": "Democracy Docket",
+     "published": "2026-11-19T23:02:41+00:00",
+     "summary": "Trump\u2019s pick for key election security post denies Jan. 6 was \u2018attack\u2019 on U.S. Capitol&nbsp;&nbsp;Democracy Docket",
+     "image": ""
+    },
+    {
+     "title": "Apple rejects Epic\u2019s \u201ccoercive\u201d sanctions demands",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzBuMi1Gdnp6NHgxTXo4SlNsX1JvRnVzNFMzRTduUWg3bU8ydDhWeUV2RHNmWHdLekhESzRUOW5peVdKVW5VdkJTTElrOEJUdGVlcHVPRC1LaENKb2V1OHdZZDgxOXdPWUp3RGRmcnVuYjNxMnhJaG45VUlscmFXWTdYRjVLTGdVMkJLVUVjM0NKNnF0M2huS3paOWtxcGM?oc=5",
+     "source": "Global Competition Review",
+     "published": "2026-11-19T22:57:35+00:00",
+     "summary": "Apple rejects Epic\u2019s \u201ccoercive\u201d sanctions demands&nbsp;&nbsp;Global Competition Review",
+     "image": ""
+    },
+    {
+     "title": "Election results: Dailey, Varela, Nguyen win Santa Clara Valley Water District races",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUEN4S280dU5acEtQQ3A5R0Nwb2VoLVdzRDVKbnBBUUlfakRWUlJncV81UGh5LTZ3YkJpYnZoUEg3M3hreHFmcmRmT2FzcDBIbXRUR0dNTGoydUNHMnYyYVV3enNVUEs1Um1ZaGg1SzdXNl9nMDVhc0QtV2E4QVJ3aDloeXBaTVJwb2pycUNvOHVHX21pX25DSnNhcDVvcERSODVUMXRBMmJGcDZKZ19FSmRPOFNsTklmc0pfSDBR?oc=5",
+     "source": "The Mercury News",
+     "published": "2026-11-19T22:55:20+00:00",
+     "summary": "Election results: Dailey, Varela, Nguyen win Santa Clara Valley Water District races&nbsp;&nbsp;The Mercury News",
+     "image": ""
+    },
+    {
+     "title": "Georgia Secretary of State-elect Penny Brown Reynolds announces policy priorities",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHdWUUhYbnZWVEhDNDdmRkVYR3owZV9FWGlpZjB1cVVQSUxnWXlCNUpXTE1Udmc5STkxWEpkcWFBZE9fS1pBQnRUaDJyUjhHcGtRa0NzR004Q3RGZlRDWVl1VDlVNHgxODBxMHhKMmdNdmIyN1Q0Z2RZZWNPWmZNMGFiT0ZqdE1MamRoYm1Gd2JEREZuZnJ0cjNhN3J5OVljeko0ZDFaYTRUcFRQbTlJeGFNd2Q4Wmll?oc=5",
+     "source": "Georgia Public Broadcasting",
+     "published": "2026-11-19T22:50:01+00:00",
+     "summary": "Georgia Secretary of State-elect Penny Brown Reynolds announces policy priorities&nbsp;&nbsp;Georgia Public Broadcasting",
+     "image": ""
+    },
     {
      "title": "OSC Issues RFI for Space Policy Advisory & Research Services",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa1JNSUZocDlTR1Z3cHZHM3hUZHk2WW5HcEt6UzVJZnREcEV4SjNxNzFIckh4YUdQcllQU2ptTTJ3QzRDYjFjaHdFV3ZiVDV5b0RJYUU5Vy1zMzRlVlVmYkF4czJnSlM4di1qWHN0dTZ1Q2FFcGxYdFFKb0FPbTBWajBORU5MQnpzTHR1akxsYVNnZ0V6?oc=5",
@@ -247,6 +279,14 @@
      "source": "NBC News",
      "published": "2026-11-19T22:22:43+00:00",
      "summary": "Trump\u2019s pick for agency providing election security says Jan. 6 was not an attack&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "Here\u2019s what Round Rock ISD\u2019s failed tax rate election means for employees",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUJBVkFkd1lLWmF5V3RiaXJVeG9fd0tiaU9vdnVJdVdIcW9FdWZjcHRPYW5EekswTDZPcl9Ja0w4a0NwRmd2d2plMEl6el9YTWtwcHVHU05rTEljcmI5dnVCWWtiOTZ4VmFMcGMyZERzbi00dHNISHUzTllfZkNmOUlxNWJlUDl0QS1sYVE0eTV5TFVMSVRJZzgzd2NXdkc4cU15enFqcnlkS1pFNW4wWnNtdHR4ZnZhQkZDWFk1LUg?oc=5",
+     "source": "Community Impact",
+     "published": "2026-11-19T22:08:02+00:00",
+     "summary": "Here\u2019s what Round Rock ISD\u2019s failed tax rate election means for employees&nbsp;&nbsp;Community Impact",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-19T21:57:39+00:00",
      "summary": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incidentAn appeals court decided on Thursday that Democratic New Jersey ",
      "image": "https://i.guim.co.uk/img/media/1931e15dccc2840631f2099770407cfd0fa619a7/327_0_3346_2675/master/3346.jpg?width=140&quality=85&auto=format&fit=max&s=3458b6e1b48990962846d185491c6522"
-    },
-    {
-     "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
-     "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
-     "source": "The Guardian",
-     "published": "2026-11-19T21:52:19+00:00",
-     "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic\u2019s headquarters in San FranciscoAs the artificial intelligence startup Anthropic debuted on the US st",
-     "image": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c67dc9fe30c346a644aea3be3a033af0"
-    },
-    {
-     "title": "Retrospective Voting and the 2026 Election",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUF91M05MZzZWQjJzZ2VIVElIX2ZEUjZOeE0wNkZmUW1PNWJQVmRnNGFIcGZMeXFOdld1ZWZTUGVJSjlnTVNTTXRFS0FVdjVJbWpoQ1NaZHc5eTZ0LXU0ZjhZS3Q4Mjcwa0g1TVU4ZzA5TmRnRk1CY3FPS3RHcDlpM1N1dHlxcXM?oc=5",
-     "source": "Reason Magazine",
-     "published": "2026-11-19T21:50:12+00:00",
-     "summary": "Retrospective Voting and the 2026 Election&nbsp;&nbsp;Reason Magazine",
-     "image": ""
-    },
-    {
-     "title": "City of Lynchburg \u2013 November 3, 2026, General and Special Election",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44ZXprUEdVclcxVUNLSXVSTTBWckdmU3BKNEFGamk5WXZqSW15WEJJQm9hV183MmNNTXZyd05zRThURThvQVM1M2tkekdBTmpvN0JSbzMwdlZ1LWFTSlZlYm41dw?oc=5",
-     "source": "City of Lynchburg, VA (.gov)",
-     "published": "2026-11-19T21:46:54+00:00",
-     "summary": "City of Lynchburg \u2013 November 3, 2026, General and Special Election&nbsp;&nbsp;City of Lynchburg, VA (.gov)",
-     "image": ""
-    },
-    {
-     "title": "Nacua handed three-game suspension for violating league personal conduct policy",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXZxMEpkaGJDcjVXUklfbUVZRG91cnJUMkJaZVozZVQ4SS05aVd5bzRLQmZ0VDRnLVhmNXpXdl9FZVU1eXJBV291ZWhON3c5VmdnelFHLWtiUjQtRnR3WDlseGVFS0ZsR3J6dy1RRFFRd18tM2hNSFk4YWg5SmExem1nckpacEkyNkF6X0JpVGFpa1IwYk5rUVpxZElNQkRUQVZ4NGd3RnJtLU9tOEZkLUdSM0o5aFFqRmc?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-19T21:43:43+00:00",
-     "summary": "Nacua handed three-game suspension for violating league personal conduct policy&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Hope Party granted retrial on election fraud complaint",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzVEdVZDbHFZX1V3bG1UdnI0WElucGRMTGdjd0tZMEZNY0pWVjFmUnFQYlpjRGZSQVItMDJTNXkxM1p4QlBDY3VvQUpWLTgtdWJqSF9jSkNsUkNZUDFkckdZQWRJckZNckZvM05WOWxxbFBsY3h1TFI4cTlSU1ZCcDBGeGpZUUdqX1FqX05jNzFhM0t4ZENIZ0phQzc?oc=5",
-     "source": "The Independent Florida Alligator",
-     "published": "2026-11-19T21:41:00+00:00",
-     "summary": "Hope Party granted retrial on election fraud complaint&nbsp;&nbsp;The Independent Florida Alligator",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-19T22:44:30.581559+00:00",
+   "fetched_at": "2026-11-19T23:14:34.283113+00:00",
    "stale": false,
    "items": [
     {
