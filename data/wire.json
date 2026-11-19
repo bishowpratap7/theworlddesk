@@ -1,17 +1,81 @@
 {
- "generated_at": "2026-11-19T16:13:27.354125+00:00",
+ "generated_at": "2026-11-19T16:43:31.627560+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T16:13:27.354093+00:00",
+   "fetched_at": "2026-11-19T16:43:31.627518+00:00",
    "stale": false,
    "items": [
     {
      "title": "Ukraine\u2019s allies meet in Berlin with air defence, energy and financial support on the agenda \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-19T16:04:14+00:00",
+     "published": "2026-11-19T16:40:13+00:00",
      "summary": "Meeting comes after Trump declared Putin a \u2018friend\u2019 during trilateral meeting in ChinaFor what it\u2019s worth, the China-US-Russia \u2018peace declaration\u2019 issued after their meeting, and p",
      "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
+    },
+    {
+     "title": "Election date? Brexit reset outcome? Farage\u2019s survival chances? Andrew Sparrow answers your questions",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:28:32+00:00",
+     "summary": "The Guardian\u2019s UK politics blogger is conducting a live Q&amp;AThese are from my colleague Peter Walker, who was at the Tory event where James Cleverly was named as the party\u2019s can",
+     "image": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e2ef721e3ca50b92112f6e95ee6dd11f"
+    },
+    {
+     "title": "\u2018Take temperature down\u2019 over guidance on single-sex spaces, head of UK equalities body urges",
+     "url": "https://www.theguardian.com/society/2026/nov/19/ehrc-guidance-single-sex-spaces-transgender-supreme-court",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:27:10+00:00",
+     "summary": "EHRC chair says \u2018misinformation\u2019 about guidance issued after supreme court ruling has created \u2018more anxiety\u2019The head of the UK\u2019s equalities watchdog has urged people to \u201ctake the t",
+     "image": "https://i.guim.co.uk/img/media/481faa480b9827e373eef230007072e3dc9bdf46/322_0_4921_3940/master/4921.jpg?width=140&quality=85&auto=format&fit=max&s=54599bc4cd15d8a22e55bdd3249c5050"
+    },
+    {
+     "title": "Southern California braced for fierce storm after record rain in San Francisco",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:21:07+00:00",
+     "summary": "Planes temporarily grounded, roads flooded and tens of thousands lose power, with evacuations in south of stateSouthern California braced for the arrival of a fierce winter storm t",
+     "image": "https://i.guim.co.uk/img/media/ca97dfe3a023b223313b98dd745a7a946b57ade7/0_900_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=4d5272d163374039500fd13462163b3c"
+    },
+    {
+     "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T16:19:23+00:00",
+     "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:16:50+00:00",
+     "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next yearSign up for the Breaking News US emailThe National Security Ag",
+     "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82"
+    },
+    {
+     "title": "\u2018Everyone struggled for this justice\u2019: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+     "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:15:52+00:00",
+     "summary": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the worldThere were tears in the halls of The Hague in the Nethe",
+     "image": "https://i.guim.co.uk/img/media/4e0b4c5c18a104b80eb856eb0e127b220dae2103/219_0_3448_2758/master/3448.jpg?width=140&quality=85&auto=format&fit=max&s=5ed800299799e0f85c0522c5daefd9d0"
+    },
+    {
+     "title": "Prosecutors allege British woman \u2018trying to find someone who would kill her\u2019 lured to US and murdered",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/british-woman-florida-murder-case-sonia-exelby",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:08:17+00:00",
+     "summary": "Sonia Exelby\u2019s disappearance sparked an international search. The accused man, Dwain Hall, denies murdering herProsecutors in Ocala, Florida, have been laying out an extraordinary ",
+     "image": "https://i.guim.co.uk/img/media/68822b4af6e85f21c7ca85d279e5ad43ec97d7f0/0_739_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=92f25a5d55d0fad5b5507d63e8834c52"
+    },
+    {
+     "title": "Four UK men convicted of sexual assault and rape of drugged woman at invitation of husband",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:08:06+00:00",
+     "summary": "Former Tory councillor advertised ex-wife on swinging websites and drugged and bound her for sexFour men have been convicted of sexually assaulting and raping a woman at the invita",
+     "image": "https://i.guim.co.uk/img/media/edd007ef250e5a313f69749cd145e584cf626ff9/75_0_3657_2926/master/3657.jpg?width=140&quality=85&auto=format&fit=max&s=b672070fc85a9488d181c30126950558"
     },
     {
      "title": "Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years",
@@ -30,12 +94,12 @@
      "image": "https://i.guim.co.uk/img/media/78ffd9fbefd88522a4d14b971cbab660472cd374/302_0_4389_3511/master/4389.jpg?width=140&quality=85&auto=format&fit=max&s=1daa5b2cc6df3f3884530d904d6cf018"
     },
     {
-     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:58:13+00:00",
-     "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next yearSign up for the Breaking News US emailThe National Security Ag",
-     "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82"
+     "title": "Susan Smith seeks parole again 32 years after drowning her two sons",
+     "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T15:59:30+00:00",
+     "summary": "This is the second time Smith has requested to be released from prison for killing the two boys, who were both under the age of four at the time.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg"
     },
     {
      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
@@ -46,83 +110,75 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg"
     },
     {
-     "title": "Election date? Brexit reset outcome? Farage\u2019s survival chances? Andrew Sparrow answers your questions",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:52:13+00:00",
-     "summary": "The Guardian\u2019s UK politics blogger is conducting a live Q&amp;AThese are from my colleague Peter Walker, who was at the Tory event where James Cleverly was named as the party\u2019s can",
-     "image": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e2ef721e3ca50b92112f6e95ee6dd11f"
-    },
-    {
      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
      "source": "The Guardian",
      "published": "2026-11-19T15:50:03+00:00",
-     "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and \u2018protection of diplomatic immunity\u2019Apec summit \u2013 latest updatesChina, Russia and the US hav",
+     "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and \u2018protection of diplomatic immunity\u2019China, Russia and the US say they have agreed a peace st",
      "image": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/337_0_3599_2880/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=f585f4052bb91d864c7d4c81c0dc260e"
-    },
-    {
-     "title": "\u2018Pot luck service\u2019: Royal Mail on course to miss delivery targets for fourth year in a row",
-     "url": "https://www.theguardian.com/business/2026/nov/19/royal-mail-to-miss-delivery-targets-fourth-year-in-row",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:42:33+00:00",
-     "summary": "Citizens Advice criticises company for failing to meet Ofcom requirements while reporting increased revenueRoyal Mail has been accused of offering a \u201cpot luck service\u201d to consumers",
-     "image": "https://i.guim.co.uk/img/media/71e3996b12da1b62a35a9d604451b8a7566a6a64/1092_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=318e4c0d4b8293f6c73bdfeb75903684"
-    },
-    {
-     "title": "\u2018New page in history?\u2019 Xi, Trump and Putin summit was more of a footnote",
-     "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:35:01+00:00",
-     "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agendaApec summit \u2013 latest updatesIt is arguably true, given it was the first s",
-     "image": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=140&quality=85&auto=format&fit=max&s=ff26b505997ed52268622211444bed41"
-    },
-    {
-     "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-     "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T15:24:51+00:00",
-     "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
-     "image": ""
-    },
-    {
-     "title": "Gender pay gap: French women work \"for free\u201d from today",
-     "url": "https://www.france24.com/en/gender-pay-gap-french-women-work-for-free-from-today",
-     "source": "France 24",
-     "published": "2026-11-19T15:24:32+00:00",
-     "summary": "Women in Europe are still paid less than men, with the gap falling from 15.1% in 2016 to 11.1% in 2024, according to Eurostat. In France, women symbolically start working for free ",
-     "image": "https://s.france24.com/media/display/c258a9ba-e42b-11f1-a355-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-153611-153735-CS.jpg"
-    },
-    {
-     "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-     "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T15:23:34+00:00",
-     "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "'GTA VI': A masterpiece? Fans react to gaming's biggest release",
-     "url": "https://www.france24.com/en/tv-shows/arts24/20261119-gta-vi-a-masterpiece-fans-react-to-gaming-s-biggest-release",
-     "source": "France 24",
-     "published": "2026-11-19T15:23:21+00:00",
-     "summary": "Critics are calling the new \"Grand Theft Auto VI\" a masterpiece. In this edition of arts24, we hear what fans make of one of the biggest video game releases in history. We also loo",
-     "image": "https://s.france24.com/media/display/1f6b4ef4-e41e-11f1-aff2-e56ab3dc0809/w:1024/p:16x9/capture-ab6ebe3c.jpg"
-    },
-    {
-     "title": "San Francisco breaks rain record as atmospheric river buffets California",
-     "url": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:21:54+00:00",
-     "summary": "Planes temporarily grounded, roads flooded and tens of thousands lose power, with evacuations in south of stateHeavy rain and high winds battered the US west coast, temporarily gro",
-     "image": "https://i.guim.co.uk/img/media/ca97dfe3a023b223313b98dd745a7a946b57ade7/0_900_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=4d5272d163374039500fd13462163b3c"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T16:13:27.354108+00:00",
+   "fetched_at": "2026-11-19T16:43:31.627543+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine\u2019s European allies meet in Berlin in show of support",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM2ZzQnQzYUM1cXNMdG42RjBqWVJtZEFIMDEwb0UwMXp6SGRtTGFiTXNZZnBpTHB1WU10dEJNR3l4b05fUm1Od0RlMVVhdDZFMFByS0hhNHNoWkpIZ290S1Y2QnRFaXl1ZUYxTG82Xzh4N2hLYlRSVS1LRzNvcVJMdDVBVVdnWElMazJOcXA5M21HeGw4eXptWGExSzBtZw?oc=5",
+     "source": "Arab News",
+     "published": "2026-11-19T16:40:24+00:00",
+     "summary": "Ukraine\u2019s European allies meet in Berlin in show of support&nbsp;&nbsp;Arab News",
+     "image": ""
+    },
+    {
+     "title": "Ukraine\u2019s allies meet in Berlin with air defence, energy and financial support on the agenda \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:40:13+00:00",
+     "summary": "Meeting comes after Trump declared Putin a \u2018friend\u2019 during trilateral meeting in ChinaFor what it\u2019s worth, the China-US-Russia \u2018peace declaration\u2019 issued after their meeting, and p",
+     "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
+    },
+    {
+     "title": "Russian agent charged in US with surveilling Palantir staff over Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3VVNkelRXZ09mdF9WanlmQUwxNVZtSm9leWkwcXRxcTcyZXBWeWdzZnEwazZlS0FMVE14TTRBcjhfNHVqVXpEU2hzenVpNnBKVXhtMWUxWWxDOHhRT0JB?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-19T16:38:27+00:00",
+     "summary": "Russian agent charged in US with surveilling Palantir staff over Ukraine war&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "Putin vows \u2018painful\u2019 response to Ukraine\u2019s bombing of Kerch bridge",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemI5QkZDNUlldjVMZHNwb3hVZFp0bXI1RHRRMHhwUmhac1JtRzlPZURvUkNZdng3d3FlTGJjWWJYc05YbGx3eDUxQ2dweGtkdVhMaTJicDRKS1UycDlZTm1ONTBrUTlRV2xzTWhTNnZYOWNvSFVhNFgyT0NLYnVPR3R5OEd3dl85OGlqUkg3WmFNN184aWloN084R0pPRFp4N28yY1BYU2kxMHVX?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:31:00+00:00",
+     "summary": "Putin vows \u2018painful\u2019 response to Ukraine\u2019s bombing of Kerch bridge&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHNobHVhRFB3TnlwNG8tUXBNSjkwNnUwSU9meDRlVk5mU0NScndhbUh0TGhndzVESFFiYllWcUp0OUtxVndNLWNsZEg1QnVMZ1BNam1PX1FlVXZhelFlUWdNNXIwTVFEN2pmaWdrdnU0QzF0QlduUnQ0U2hpSGo0M0swVlI2eEhFTHRjMmNFWUNOTWVNQlBBdHlpOHU?oc=5",
+     "source": "Time Magazine",
+     "published": "2026-11-19T16:29:45+00:00",
+     "summary": "Trump Draws Ire Over Calling Putin His 'Friend' as Europe-U.S. Rift Widens&nbsp;&nbsp;Time Magazine",
+     "image": ""
+    },
+    {
+     "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T16:19:23+00:00",
+     "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "\u2018Everyone struggled for this justice\u2019: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+     "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:15:52+00:00",
+     "summary": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the worldThere were tears in the halls of The Hague in the Nethe",
+     "image": "https://i.guim.co.uk/img/media/4e0b4c5c18a104b80eb856eb0e127b220dae2103/219_0_3448_2758/master/3448.jpg?width=140&quality=85&auto=format&fit=max&s=5ed800299799e0f85c0522c5daefd9d0"
+    },
     {
      "title": "People left disgusted by Trump's 'monstrous' boast about Ukraine war: 'Soulless man'",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43UjM0emZKSmdvcDYzdHpHVlpfYkVabVdNSEZRaTFNa1dseG04bEdnRTMzMXhNekE2Uk10OVZlVnUwOFRnb3g3TER1TWtnQTVERW01Qm9VMlRoZXdaQldYY3FLSnpmU3dVTVNYbkZ2R3Nud3lqVWR2cA?oc=5",
@@ -148,89 +204,97 @@
      "image": ""
     },
     {
-     "title": "Ukraine\u2019s allies meet in Berlin with air defence, energy and financial support on the agenda \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+     "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUtORUpMeGRRZUFPdjY2UlJ2cmpsd0ZNZmNwdjctRW8tbmtlaXp1Vk5UVkRqREZHY1BMcVRxMDFYOVo3VnJ2dHREWHRYdzhnbEFDOWlkNkl4RklnTk1xMFdHUjFyanpySk1QYVB1QVZmemRvRFBYYmJzT0x4Y3E2a3hpcjF5LS13TTRNRmtJcV84bU9fdl9fNDdRNm9ScjhER0VvWkZnS0tDS0ItUmlmbEFB?oc=5",
      "source": "The Guardian",
-     "published": "2026-11-19T16:04:14+00:00",
-     "summary": "Meeting comes after Trump declared Putin a \u2018friend\u2019 during trilateral meeting in ChinaFor what it\u2019s worth, the China-US-Russia \u2018peace declaration\u2019 issued after their meeting, and p",
-     "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
-    },
-    {
-     "title": "Will Trump-Xi-Putin meeting have any impact on war in Ukraine?",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKSXNka1Z0bGZ0RlB5Mk1oaXNsWFhIUjVPbU9zV3lJUkNCTmtNZ3ozcXZEN3JMa1AxeDZhZndtYnJCeDV3U2htaGJBMGZJWkcxNEJYUzRmY3QyRzdUdUdF0gFcQVVfeXFMTVpUMTlaSVlZaFpYYVg0TU5CU3V5UE1ZLVg0TFdnU3JHbWZETXAwM3pnNWNXdDFBVDhGYldLb0RiMzktNmZscmNRUGdHZEJ5eWhNZXMxZGJGVC1yUmQ?oc=5",
-     "source": "Modern Ghana",
-     "published": "2026-11-19T16:00:00+00:00",
-     "summary": "Will Trump-Xi-Putin meeting have any impact on war in Ukraine?&nbsp;&nbsp;Modern Ghana",
+     "published": "2026-11-19T15:45:00+00:00",
+     "summary": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
-     "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-     "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:50:03+00:00",
-     "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and \u2018protection of diplomatic immunity\u2019Apec summit \u2013 latest updatesChina, Russia and the US hav",
-     "image": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/337_0_3599_2880/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=f585f4052bb91d864c7d4c81c0dc260e"
-    },
-    {
-     "title": "\u2018New page in history?\u2019 Xi, Trump and Putin summit was more of a footnote",
+     "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
      "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
      "source": "The Guardian",
      "published": "2026-11-19T15:35:01+00:00",
-     "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agendaApec summit \u2013 latest updatesIt is arguably true, given it was the first s",
+     "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agendaIt is arguably true, given it was the first such meeting of the leaders o",
      "image": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=140&quality=85&auto=format&fit=max&s=ff26b505997ed52268622211444bed41"
-    },
-    {
-     "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-     "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T15:24:51+00:00",
-     "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
-     "image": ""
-    },
-    {
-     "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BblY0ODJpaUlrOGdtV1g4YjAyQzhZLS1TaFIxTDRRSUQ1X0lpcGgyZ18tMDVrZG0zNHJhSmMwampkaG1YNmh2dlRQN3kwM3lzbGtNMEtRYWVYZk0?oc=5",
-     "source": "BBC",
-     "published": "2026-11-19T15:23:34+00:00",
-     "summary": "Trump, Putin and Xi release 'peace declaration' after historic meeting&nbsp;&nbsp;BBC",
-     "image": ""
-    },
-    {
-     "title": "Putin pitches Arctic route, calls for investment: Will it work?",
-     "url": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T15:16:43+00:00",
-     "summary": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
-     "image": ""
-    },
-    {
-     "title": "AI demand will push up interest rates around the world, IMF head warns",
-     "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:15:14+00:00",
-     "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: \u2018You snooze, you lose\u2019Business live \u2013 latest updatesBooming demand for artificial intelligence will",
-     "image": "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=140&quality=85&auto=format&fit=max&s=920ffff20187c6090b440fd5098e1f09"
-    },
-    {
-     "title": "Trump, Xi, Putin summit: What was it all about?",
-     "url": "https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about",
-     "source": "France 24",
-     "published": "2026-11-19T15:12:10+00:00",
-     "summary": "Donald Trump has left China after a historic first meeting with Xi Jinping and Vladimir Putin on the sidelines of the APEC summit. Ukraine was discussed without Kyiv or European le",
-     "image": "https://s.france24.com/media/display/97e2df72-e429-11f1-807c-13439ca2fe89/w:1024/p:16x9/EN-20261119-151641-151854-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T16:13:27.354112+00:00",
+   "fetched_at": "2026-11-19T16:43:31.627547+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Henry Co. Election Commission Moving To Temporary Location",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmZCMUxJd2NXc2hlT0hzU29sR3RTUG5ZNGJ0OU9fV2VkZmdiakxVMzE3ZldpckxpMk50WW9YTTlpSmdfSUxvbDNEM0preG80V2JJMmxveFdpOTRqWnRyR3hfVnhrVXdPRGtvSnFlYWMwV29Sa2c4S2ZyUmFqMG83UG1CR2dmWkVwZ1pfWl9pWkstTUZpczBpNUtlMA?oc=5",
-     "source": "Radio NWTN",
-     "published": "2026-11-19T16:05:34+00:00",
-     "summary": "Henry Co. Election Commission Moving To Temporary Location&nbsp;&nbsp;Radio NWTN",
+     "title": "Policy, Industry Trends, and Customer Support Shape CE Sector Board Discussions",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEdfaHhoc1ZaeGtEc3poZGJ6VGlMSG5GTmR0UTJKcVlKd0pTQmpUY2o2MG43T2R5Q2FiZ2F0XzhDaEZjRnl2M25FblIzSUJsTjVPWDdXTEJ6cFJ2RVlRTjNSVHE4Q1V4SjlWTWdGcENuSnlQeS1xV3JJZmpabjczaVBEU3JILVZJNWxtN0NCNEJFSUc5cGJacXlTYmVjYnltY1dIMg?oc=5",
+     "source": "AEM | Association of Equipment Manufacturers",
+     "published": "2026-11-19T16:30:47+00:00",
+     "summary": "Policy, Industry Trends, and Customer Support Shape CE Sector Board Discussions&nbsp;&nbsp;AEM | Association of Equipment Manufacturers",
+     "image": ""
+    },
+    {
+     "title": "Policy, Industry Collaboration, and 2027 Priorities Drive Ag Sector Board Discussion",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUQ3TVZubDk1RnYzU0lQaDZ0Mmkya3VPcVY4M3lNNGRnNld6eHVIcWlTdXcyTnh5MVRfSDNPNUN1Z1NrV0lHQm1TWm9teE81NUtIUnBzUHVCWkRWcFdhOWhLRmJ6MVRHODhHOTVVQ0c4T1h2ZnNHMjg1a0hpbE5uWEd1czByVDJKZS1VOFAzODhmYm1sTDdYU3ktZG9jOWR5eWtDVk1TaFF5czQ?oc=5",
+     "source": "AEM | Association of Equipment Manufacturers",
+     "published": "2026-11-19T16:30:24+00:00",
+     "summary": "Policy, Industry Collaboration, and 2027 Priorities Drive Ag Sector Board Discussion&nbsp;&nbsp;AEM | Association of Equipment Manufacturers",
+     "image": ""
+    },
+    {
+     "title": "Election date? Brexit reset outcome? Farage\u2019s survival chances? Andrew Sparrow answers your questions",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:28:32+00:00",
+     "summary": "The Guardian\u2019s UK politics blogger is conducting a live Q&amp;AThese are from my colleague Peter Walker, who was at the Tory event where James Cleverly was named as the party\u2019s can",
+     "image": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e2ef721e3ca50b92112f6e95ee6dd11f"
+    },
+    {
+     "title": "\u2018Take temperature down\u2019 over guidance on single-sex spaces, head of UK equalities body urges",
+     "url": "https://www.theguardian.com/society/2026/nov/19/ehrc-guidance-single-sex-spaces-transgender-supreme-court",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:27:10+00:00",
+     "summary": "EHRC chair says \u2018misinformation\u2019 about guidance issued after supreme court ruling has created \u2018more anxiety\u2019The head of the UK\u2019s equalities watchdog has urged people to \u201ctake the t",
+     "image": "https://i.guim.co.uk/img/media/481faa480b9827e373eef230007072e3dc9bdf46/322_0_4921_3940/master/4921.jpg?width=140&quality=85&auto=format&fit=max&s=54599bc4cd15d8a22e55bdd3249c5050"
+    },
+    {
+     "title": "Voters hit a few snags in the 2026 election. Let\u2019s find some solutions.",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUczV19yOG43ZmxHdXkyaG9MU2FrdmRwamF3SHdrcFNiM2xoSFNxQjQ1aVFlbUx4ZmUyMjE5ZGVGSnVBRE9rRGdiYVRDc042WklYZGRiT2ltSTZmZ0tkUE9zandEV1pVZzBfZXl0ekJENGNCb3dlVzZOQTRzX2hfMkZnOFlSTlFVdlpnVmFTU19DbnRqcG1kLS12aW9odw?oc=5",
+     "source": "ACLU of South Carolina",
+     "published": "2026-11-19T16:23:25+00:00",
+     "summary": "Voters hit a few snags in the 2026 election. Let\u2019s find some solutions.&nbsp;&nbsp;ACLU of South Carolina",
+     "image": ""
+    },
+    {
+     "title": "Experts credit smooth midterms to election workers, Democratic rout",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbGhyUi15eldCWWdPOEdLa181SzE2ejBJVG1DbDlnN0FpWXotc1ExTTRBMVh3Nk8tQ3Fnd0tBZElpZDZMWTh0UkFpeGRVSFVTTHVReFZUUWFRa1hGU2ItN0REVGdDT3VISzlJbG5haGhJVEJkRUc5N1NjNlduWDY0b1hwWUFjUnIyMmE2aFVzYlpjanZrVHAybUZQR2RyQnV4VUdVRnV6ZGNneDFTWmF1V0NqcTFOMHVvMk9vc0VzclRHMldENkxOSDdPRGhiTHBkVXNpa3ZKaUt4TjZDSm5nN0Z0akFVZGVhT25jM2xHaVpKSDJMTnZiQnVuMnFid9IBgwJBVV95cUxORVhoV0dnby1yZnd4Zl9MeGpiVFUybkcteXJJVHJDaUM3a3otckdWa2lWY01YRTFFajRYdFlVeWFOaWtubGxXWTloYnB0Vzd2TWlLRFpZSEcwNktERUJjWk54aWFGNzdTa1FwVEs1RV9TNzNzUmpzcnREYmkwVWxrTE80MENLdjZ3ZXJrdTFDMmZHTUdCVnpWYWUzaS1IekpLMU1KQmZwcFNuZHhSSG5LTUlrZTBpRVBlUzlyR201ZUtNT1Q2akYwU0ZvNzFLSm55TEFpY2hKbDNhbGM3TkpBUThpcElDWXlmQTNRYXpnSlVHWjRkV244TjBYNFBVODBVTzVR?oc=5",
+     "source": "The Miami Times",
+     "published": "2026-11-19T16:18:00+00:00",
+     "summary": "Experts credit smooth midterms to election workers, Democratic rout&nbsp;&nbsp;The Miami Times",
+     "image": ""
+    },
+    {
+     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T16:16:50+00:00",
+     "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next yearSign up for the Breaking News US emailThe National Security Ag",
+     "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82"
+    },
+    {
+     "title": "Republican Rep. Nick Begich wins reelection for Alaska House seat",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3FURTRJOUg0SEJxNXFoSU4yZmU2T0hCdHhHbTlIZGhYYkdiR01oWXhabEVZTE5RSll2dzFfNkd2NkgzVFVHRlpEYUVBNTlqb0psalpFeVY3MEItbWJXOGpEUjRrOVhEWVo2UlFEd08xTmY2WTA5VVNzWHlUUmtqSTQ2LWdzdmxNZkpQS2pHRm9NWlB3NnZfMmphaS1fUXZmZ2t1YdIBqgFBVV95cUxPM0hZSTNhdzdaOVlFWDBJWUFXcG5oUmtDSlZmNjM0NXFfZFd1WFRMMHBNcUFrUFJkQ0VWU0FfX2I0SmtIYzFxR1ZnbS03aVhpcUdrYnkwdTB5R0pkRHJPOTlfUVRwZWlvTWc3TDhKdDQ5cGlHMkdiS29PaXRUUzZsMXJPVG4zOUlldmFocURsSzZ0Y3JfWWd6blVpUUxLOWFuM21RUTBwR3FPQQ?oc=5",
+     "source": "PBS",
+     "published": "2026-11-19T16:16:28+00:00",
+     "summary": "Republican Rep. Nick Begich wins reelection for Alaska House seat&nbsp;&nbsp;PBS",
+     "image": ""
+    },
+    {
+     "title": "Climate Change And El Ni\u00f1o Intensify Fires In Southeast Asia, Affect Health Across Nations",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUhueThHN3Q4TnQ4alFZU0U2cVFSQ0RHTldUbEl1d29EU1pVNHpSemZHWTljZkw4OHZKR0ZFVkt2ZDhhWjIxdXJyNFhkNjJaZjJzcndTTVVVRnQ4bjEyc0tFNUNvLWwyMEctdzVlbU9SRlZGejdheU5uZWtsdThKN3VtY0FRVW5wQzUydDZTZUQxbGdNZ1UtcXQwZ2c5WXpJeFZzXzc0RXdaLXhma1Z6bWRoU25kSWVPemJqSEpvcw?oc=5",
+     "source": "Health Policy Watch",
+     "published": "2026-11-19T16:12:16+00:00",
+     "summary": "Climate Change And El Ni\u00f1o Intensify Fires In Southeast Asia, Affect Health Across Nations&nbsp;&nbsp;Health Policy Watch",
      "image": ""
     },
     {
@@ -256,76 +320,12 @@
      "published": "2026-11-19T16:01:54+00:00",
      "summary": "Enlargement: EU and Montenegro close accession negotiations on taxation and regional policy&nbsp;&nbsp;Council, European Union",
      "image": ""
-    },
-    {
-     "title": "Policy Insights for Climate-Related Financial Risk",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGpxTU0zWWlGNktPU1hjRkVKZ3Z0QjNRNzB2UGtwcTBiTEpkSHZQNTc1TU9YSWRzTl91LWRKMjZXZUxRVGt0clgtMTU5U3JtMldiLWZzeENHcnVLaHcyamlLcjJQYnU2cVJhQXJvZlk5dzEwWlBpODl5c2pZYnpKQzg4eEhpNGV6SGpJdVhfVERrN2xGaE5oYnNR?oc=5",
-     "source": "Resources Magazine",
-     "published": "2026-11-19T16:01:19+00:00",
-     "summary": "Policy Insights for Climate-Related Financial Risk&nbsp;&nbsp;Resources Magazine",
-     "image": ""
-    },
-    {
-     "title": "\u2018It stings to come close\u2019: Louisiana Democrat\u2019s narrow failure to make it 57 Senate seats",
-     "url": "https://www.theguardian.com/us-news/2026/nov/19/louisiana-senate-seat-democrats-jamie-davis",
-     "source": "The Guardian",
-     "published": "2026-11-19T16:00:06+00:00",
-     "summary": "Jamie Davis falls just short as Democrats across south wonder whether blue wave could have been even biggerDemocrats are celebrating after, with Mary Peltola\u2019s victory in Alaska, t",
-     "image": "https://i.guim.co.uk/img/media/78ffd9fbefd88522a4d14b971cbab660472cd374/302_0_4389_3511/master/4389.jpg?width=140&quality=85&auto=format&fit=max&s=1daa5b2cc6df3f3884530d904d6cf018"
-    },
-    {
-     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:58:13+00:00",
-     "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next yearSign up for the Breaking News US emailThe National Security Ag",
-     "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82"
-    },
-    {
-     "title": "Spain\u2019s 2026 Election: Diverging Tax Agendas and the Push for Full Expensing",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EcWVza2JsZHdSaVo2OF9DXzUxellfcXUwaWg4dmlLSUllc25zam9PM0R1OGtsVGNSYjAtUUZ0bk9RSmZNQWNVa21rUkpubnk2aUV0MmRiZ19QSnhCQlpXOEExZHZ4M1ZGQnhxYVpueVRKVjk0TkE?oc=5",
-     "source": "Tax Foundation",
-     "published": "2026-11-19T15:57:58+00:00",
-     "summary": "Spain\u2019s 2026 Election: Diverging Tax Agendas and the Push for Full Expensing&nbsp;&nbsp;Tax Foundation",
-     "image": ""
-    },
-    {
-     "title": "Election date? Brexit reset outcome? Farage\u2019s survival chances? Andrew Sparrow answers your questions",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:52:13+00:00",
-     "summary": "The Guardian\u2019s UK politics blogger is conducting a live Q&amp;AThese are from my colleague Peter Walker, who was at the Tory event where James Cleverly was named as the party\u2019s can",
-     "image": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e2ef721e3ca50b92112f6e95ee6dd11f"
-    },
-    {
-     "title": "Indiana Senate Seat Contested Following Nov. 3 Election",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZU9wMnZ5bGNhQmZBcGRqQXJjNHJYelI0ZVVWYUxwUkNRLWRKRmtoZ2YxMnFRd21hb1JNamh4UnVqZ1AxelRDRElteFdYVk5rYUJXU0RjVUtaeFBWVjFVUE1kS21CRjhCeEo3al80MFk1WE9CRzJoQTIyM3VsUjFPaHNMYV9rRGtYVFE?oc=5",
-     "source": "State Affairs Pro",
-     "published": "2026-11-19T15:49:53+00:00",
-     "summary": "Indiana Senate Seat Contested Following Nov. 3 Election&nbsp;&nbsp;State Affairs Pro",
-     "image": ""
-    },
-    {
-     "title": "Record audits confirm Georgia midterm election results, officials say",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEwtZjEwTmNSdGFmMDZGcEtZeVItUmNuNUJxekUzNGdaWFd3ekdqYzZWbWZkY0R1VTMtdVFGY2Q2VHA4MXd3eU1kdkpBLXJ5b1lBWlZaNjZrSTA3QWppYWZhV0xjLXFXWWpYa3owelJPQUI2SDhLcVZHTXVaUFBhYmhTdEo4b29HZk9fRzlZQlBJTlk0R2tFN1Q4YkVPNmZwVnBYQVFUUGZCU2tNbTRDNlJjbw?oc=5",
-     "source": "Atlanta News First",
-     "published": "2026-11-19T15:48:00+00:00",
-     "summary": "Record audits confirm Georgia midterm election results, officials say&nbsp;&nbsp;Atlanta News First",
-     "image": ""
-    },
-    {
-     "title": "The midterms were bad for Republicans. The closest races show how it was nearly even worse.",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR1JiUVc3TFVkUnl5ekp6SnlrRDdxQjBXTkZxSlcxSVU4eWlWdkxoc044QjF3a3ItYXVHVk9VbW42Tk40ZGlsTDBKbWVjMlozS1d2UEZyMUdfR2ZEcmQtNk02TXJFVWpUSkNyV1JyWC1vMkhaZkdxZVFaV3E1OWRfajcwNGhJME0zUjd6aGc4eXZDWm5jdUpMTXU2Sm1ySmpZYW1kZnBYYkhTaVhSZkVfeFhiODIzVU82NWdTQjRHYk4?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-19T15:45:47+00:00",
-     "summary": "The midterms were bad for Republicans. The closest races show how it was nearly even worse.&nbsp;&nbsp;NBC News",
-     "image": ""
     }
    ]
   },
   "economy": {
    "fetched_at": "2026-11-19T16:13:27.354115+00:00",
-   "stale": false,
+   "stale": true,
    "items": [
     {
      "title": "AI demand will push up interest rates around the world, IMF head warns",
