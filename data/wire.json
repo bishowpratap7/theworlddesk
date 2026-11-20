@@ -1,17 +1,105 @@
 {
- "generated_at": "2026-11-20T14:47:15.216347+00:00",
+ "generated_at": "2026-11-20T15:17:18.917092+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T14:47:15.216315+00:00",
+   "fetched_at": "2026-11-20T15:17:18.917056+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+     "source": "The Guardian",
+     "published": "2026-11-20T15:09:09+00:00",
+     "summary": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groupsThe Senate approved bipartisan legislation on Thursday aimed at speeding up per",
+     "image": "https://i.guim.co.uk/img/media/8b551cbed6458ddfa1ec5a6a77a5814704c49850/2595_1276_3405_2724/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=c5f2f2319acd248a71ca7fc77e0487f9"
+    },
+    {
+     "title": "Far-right activist Daniel Thomas jailed for slashing dinghy in Channel",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
+     "source": "The Guardian",
+     "published": "2026-11-20T15:07:50+00:00",
+     "summary": "Thomas admitted criminal damage after cutting vessel that had been carrying asylum seekersThe far-right agitator Daniel Thomas has been sentenced to 15 months in jail after slashin",
+     "image": "https://i.guim.co.uk/img/media/36b7498c97dd4002e6b9ba86cd8d340c16f34e88/1515_821_4807_3846/master/4807.jpg?width=140&quality=85&auto=format&fit=max&s=47c35c02712fbc82746433dc1f8eceaa"
+    },
+    {
+     "title": "\u2018Forever our Fiona\u2019: fans of the famous hippo mourn her death at zoo",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/fiona-hippo-death-shrine-tributes-hat-cincinnati-zoo",
+     "source": "The Guardian",
+     "published": "2026-11-20T15:06:46+00:00",
+     "summary": "Flowers and notes appeared next to sculpture of hippos at Cincinatti zoo within hours of Fiona dying, days after swallowing a visitors\u2019 hatTributes are pouring in and an impromptu ",
+     "image": "https://i.guim.co.uk/img/media/1c151b018fdb013113af91f08b14ebd21e106420/613_0_4238_3391/master/4238.jpg?width=140&quality=85&auto=format&fit=max&s=ba6757ff1ef93f7fb760650a62ccf1ef"
+    },
+    {
+     "title": "\u2018You can\u2019t get experience if no one\u2019s employing you\u2019: the vicious circle facing Blackpool\u2019s Neets",
+     "url": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
+     "source": "The Guardian",
+     "published": "2026-11-20T15:00:32+00:00",
+     "summary": "The English seaside town tops the list for 16- to 24-year-olds out of work and education, but not for lack of young jobseekers\u2019 effortsSpeaking random words like \u201ccat\u201d and \u201cbox\u201d in",
+     "image": "https://i.guim.co.uk/img/media/32541bc53a06d8db06066793249be998cb081a33/305_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=eb656eb7b5bde9fdcd8f9b1ab73a4b8b"
+    },
+    {
+     "title": "\u2018A source of inspiration\u2019: series of public events celebrate life of Dolores Huerta",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+     "source": "The Guardian",
+     "published": "2026-11-20T15:00:31+00:00",
+     "summary": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers unionHundreds honored and celebrated the life and legacy of California ",
+     "image": "https://i.guim.co.uk/img/media/c38d1d4928a7d4d6389e2d0eefcea8d638f1c126/233_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=0e947b8bba5a1294a467db9232e89558"
+    },
+    {
+     "title": "Trump to hold press conference after meeting with Xi and Putin",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+     "source": "NPR",
+     "published": "2026-11-20T15:00:00+00:00",
+     "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+     "image": ""
+    },
+    {
+     "title": "\u2018Gloucestershire nouveau\u2019: UK vineyard uncorks its 2026 answer to beaujolais",
+     "url": "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
+     "source": "The Guardian",
+     "published": "2026-11-20T14:59:23+00:00",
+     "summary": "Three Choirs unveils First Release white wine after long, hot summer led to earliest harvest start in 50 yearsForget beaujolais nouveau: a Gloucestershire vineyard has uncorked its",
+     "image": "https://i.guim.co.uk/img/media/9529129a4125cc3dcbb490796d7089a584184ea0/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=5eba6f8427038d32f15faf0ba304fc1c"
+    },
+    {
+     "title": "Jamaica's beaches are increasingly off limits to locals",
+     "url": "https://www.france24.com/en/tv-shows/reporters/20261120-jamaica-beaches-off-limits-to-locals-property-developers-hotels",
+     "source": "France 24",
+     "published": "2026-11-20T14:55:10+00:00",
+     "summary": "Jamaica usually conjures up images of white sandy beaches, Rastafari culture and Bob Marley \u2013 but another reality exists. On this small Caribbean island, less than 1 percent of the",
+     "image": "https://s.france24.com/media/display/1952df8c-e41e-11f1-b8ec-e56ab3dc0809/w:1024/p:16x9/Reporters-3.jpg"
+    },
+    {
+     "title": "Cincinnati Zoo's famed Fiona the hippo dies days after eating a visitor\u2019s hat",
+     "url": "https://www.france24.com/en/video/20261120-cincinnati-zoo-s-famed-fiona-the-hippo-dies-days-after-eating-a-visitor-s-hat",
+     "source": "France 24",
+     "published": "2026-11-20T14:48:52+00:00",
+     "summary": "Fiona, the hippo whose premature birth and fight for survival at the Cincinnati Zoo turned her into a global sensation nearly a decade ago, died Thursday from complications after s",
+     "image": "https://s.france24.com/media/display/f0ea273a-e4ef-11f1-a4bb-6b451f569414/w:1024/p:16x9/EN-20261120-135316-135437-CS.jpg"
+    },
+    {
+     "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
+     "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T14:48:04+00:00",
+     "summary": "Yemen&#039;s Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
+     "image": ""
+    },
+    {
+     "title": "REPLAY: Burnham, Von der Leyen hail 'turning point' in EU-UK relations",
+     "url": "https://www.france24.com/en/video/20261120-replay-burnham-von-der-leyen-hail-turning-point-in-eu-uk-relations",
+     "source": "France 24",
+     "published": "2026-11-20T14:45:20+00:00",
+     "summary": "British Prime Minister Andy Burnham hailed a \"landmark\" deal with the European Union on Friday, as the two sides sealed pacts on food exports, emissions-trading schemes and youth m",
+     "image": "https://s.france24.com/media/display/28039ada-e4f0-11f1-9a52-e56ab3dc0809/w:1024/p:16x9/EN-20261120-140752-144607-CS.jpg"
+    },
     {
      "title": "EU wants \u2018closest possible relationship\u2019 with UK after agreeing Brexit reset deal \u2013 live",
      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-20T14:39:55+00:00",
+     "published": "2026-11-20T14:42:14+00:00",
      "summary": "President of European Council says EU \u2018remains open to have the closest possible relationship\u2019 with the UKSenior correspondent Making today\u2019s reset deal contingent on a further agr",
-     "image": "https://i.guim.co.uk/img/media/3e896c5c72a70960c8e888a3e7e156426838be8d/566_219_3034_2427/master/3034.jpg?width=140&quality=85&auto=format&fit=max&s=b07ac2272da2b37606af339e58f3a11a"
+     "image": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=e9208e429a579acb941382730adfcc93"
     },
     {
      "title": "COP31 wrapping up in Turkey: Climate deal elusive as fossil fuels go unmentioned",
@@ -22,107 +110,51 @@
      "image": "https://s.france24.com/media/display/846de880-e4ef-11f1-8515-1bac47ab2f5d/w:1024/p:16x9/EN-20261120-151225-151557-CS.jpg"
     },
     {
-     "title": "Burnham hails 'landmark' EU-UK deal as 'good day' for Britain, Europe",
-     "url": "https://www.france24.com/en/video/20261120-burnham-hails-landmark-eu-uk-deal-as-good-day-for-britain-europe",
-     "source": "France 24",
-     "published": "2026-11-20T14:37:29+00:00",
-     "summary": "Britain and the European Union agreed deals on trade, carbon emissions and youth movement on Friday, and pledged to rebuild ties with an \u201cambitious and dynamic\u201d post-Brexit relatio",
-     "image": "https://s.france24.com/media/display/fb0ce690-e4ee-11f1-9c3c-ebb478925cf0/w:1024/p:16x9/EN-20261120-150057-150653-CS.jpg"
-    },
-    {
-     "title": "Russia pummels Ukraine with massive strikes, missile hits Poland",
-     "url": "https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland",
-     "source": "France 24",
-     "published": "2026-11-20T14:36:48+00:00",
-     "summary": "Moscow pounded Ukraine with massive strikes Friday, with Kyiv saying at least six people were killed in the capital, and neighbouring Poland reporting two Russian missiles likely l",
-     "image": "https://s.france24.com/media/display/eee66c42-e4ee-11f1-9776-13439ca2fe89/w:1024/p:16x9/EN-20261120-150718-151143-CS.jpg"
-    },
-    {
-     "title": "'GTA VI': When the biggest-ever entertainment release becomes the biggest headline",
-     "url": "https://www.france24.com/en/tv-shows/scoop/20261120-gta-vi-when-the-biggest-ever-entertainment-release-becomes-the-biggest-headline",
-     "source": "France 24",
-     "published": "2026-11-20T14:35:29+00:00",
-     "summary": "This week FRANCE 24's media show \"Scoop\" looks at how the press covered the release of \"Grand Theft Auto VI\". Pre-orders and first-day sales totalled more than $2.3 billion. What d",
-     "image": "https://s.france24.com/media/display/8b187bf8-d9ed-11f1-9fe5-d18c5759e759/w:1024/p:16x9/Jason-and-Lucia-15.jpg"
-    },
-    {
-     "title": "France probes suspected leak of confidential information to Le Pen's party",
-     "url": "https://www.france24.com/en/france/20261120-france-probes-suspected-leak-confidential-information-le-pen-far-right-party",
-     "source": "\u00a9 Pascal Guyot, AFP file photo",
-     "published": "2026-11-20T14:35:27+00:00",
-     "summary": "French authorities are investigating whether a former senior official at the Interior Ministry leaked confidential information about judicial investigations into far-right leader M",
-     "image": "https://s.france24.com/media/display/ed281fb0-e4ec-11f1-b121-6b451f569414/w:1024/p:16x9/000-9QL2XA.jpg"
-    },
-    {
-     "title": "A decade after Brexit, do Britons regret leaving the EU?",
-     "url": "https://www.france24.com/en/video/20261120-a-decade-after-brexit-do-britons-regret-leaving-the-eu",
-     "source": "France 24",
-     "published": "2026-11-20T14:34:35+00:00",
-     "summary": "Britain and the European Union went through a bitter divorce, then slowly began trying to rebuild their relationship. UK Prime Minister Andy Burnham met the EU's top officials in B",
-     "image": "https://s.france24.com/media/display/cb35512e-e4ed-11f1-aa3f-13439ca2fe89/w:1024/p:16x9/EN-20261120-140135-140337-CS.jpg"
-    },
-    {
-     "title": "Does staggered consent actually protect young people?",
-     "url": "https://www.france24.com/en/tv-shows/the-51/20261120-does-staggered-consent-actually-protect-young-people",
-     "source": "France 24",
-     "published": "2026-11-20T14:14:00+00:00",
-     "summary": "Following recent scandals involving two iconic British comedians, the UK government is considering the introduction of staggered age consent. Annette Young talks to Katherine Allen",
-     "image": "https://s.france24.com/media/display/75df6f36-e4e6-11f1-8b81-1bac47ab2f5d/w:1024/p:16x9/51-PERCENT-3.jpg"
-    },
-    {
-     "title": "Pontins owner fined \u00a31m over death of woman at Somerset holiday park",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/20/pontins-owner-fined-death-somerset-brean-sands-holiday-park-wendy-jones",
-     "source": "The Guardian",
-     "published": "2026-11-20T14:07:46+00:00",
-     "summary": "Wendy Jones, 68, was fatally injured when part of a ceiling collapsed during a bingo game at Pontins Brean SandsThe owner of Pontins holiday parks has been fined \u00a31m over the death",
-     "image": "https://i.guim.co.uk/img/media/9ad8c696d258244b72a26475e7676f3fce03fcf7/0_174_1536_1229/master/1536.jpg?width=140&quality=85&auto=format&fit=max&s=a3fe6146e9c54e2377652ee1b926a5c3"
-    },
-    {
-     "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: the teals",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
-     "source": "The Guardian",
-     "published": "2026-11-20T14:00:32+00:00",
-     "summary": "The opposition\u2019s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris MinnsGet our daily political email, free app or",
-     "image": "https://i.guim.co.uk/img/media/7b2bbfbb373117cf1336e7bb3c500d8bc811874d/197_91_3614_2891/master/3614.jpg?width=140&quality=85&auto=format&fit=max&s=52959fa540a2b048c4d9840ecc94db11"
-    },
-    {
-     "title": "\u2018Rebuild bridges\u2019 and reset after Brexit: What we know about EU-UK deal",
-     "url": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far?traffic_source=rss",
+     "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
+     "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-20T13:59:17+00:00",
-     "summary": "Agreements aim to simplify trade checks, link emissions systems and launch a youth mobility programme.",
-     "image": ""
-    },
-    {
-     "title": "Global stock markets slump as Anthropic\u2019s record IPO fails to stem AI sell-off",
-     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-     "source": "The Guardian",
-     "published": "2026-11-20T13:53:13+00:00",
-     "summary": "Asian markets record their worst week since 2020, with European and US stocks also way downBusiness live \u2013 latest updatesGlobal stock markets have slumped as Anthropic\u2019s record-bre",
-     "image": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=140&quality=85&auto=format&fit=max&s=2b419687828b47c2c71fe56585a333c1"
-    },
-    {
-     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T13:52:04+00:00",
-     "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-     "title": "Spain court grants bail to pro-Palestinian activist James \u2018Fergie\u2019 Chambers",
-     "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T13:45:14+00:00",
-     "summary": "This is a breaking news story.",
+     "published": "2026-11-20T14:38:25+00:00",
+     "summary": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
      "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T14:47:15.216330+00:00",
+   "fetched_at": "2026-11-20T15:17:18.917073+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Impact of Ukraine war 'increasingly felt' by neighbours, says Streeting after Poland incident",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2VJRzhTcVdfRVBCTnY3TGVSdGUyTHB4dlNKWldlS190Z01FNjJEaE9DRmNsQngtRVEteFpNVElfbXBmMEhTNVFPTk1KcnJiQ0k5NGJkSklrdVdnNEQ4bkNKNnkzcS0yNXNQVk43RUx3M2w1YkxNaEdzODhhc0RpU21kYXdkTUh0eENDVjlwT1FLbDhEZ092Ykt0YVVBSjlkaDRqOVZzQ0RPZVdkZFRoMnVCQlhtZEZnbXVv?oc=5",
+     "source": "Forces News",
+     "published": "2026-11-20T15:07:15+00:00",
+     "summary": "Impact of Ukraine war 'increasingly felt' by neighbours, says Streeting after Poland incident&nbsp;&nbsp;Forces News",
+     "image": ""
+    },
+    {
+     "title": "Trump to hold press conference after meeting with Xi and Putin",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+     "source": "NPR",
+     "published": "2026-11-20T15:00:00+00:00",
+     "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine\u2019s drone war grew through October. Units log more than 2 million verified hits this year, with the peak month almost 2.5 times January",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeVlLSVVmVUNlVWVqZ0Ywb2NFVURfX3FKUzZJMGdoWEVDR1ZaT3IxTG5pRnBTU0E2TE1OSElQczQ1MEYzNjA2cWZoc2JWaG1oQ0k4bW1ZU0dRU0NkVGs5QTcxdGd1RURNOXUzQVl6dFJSQ3dPOFFORlV6MUJXWF85WWc3Sk5uaVpjSk5rNHBPZU9iSlZRX2FoR0FzcXlVbm4wUHBrd2VGYi1wenZuSjZGdmZLV0lzellsRER6ZG1VLVhKcUpLcHRLZDNNV1NvWXV2QjdHVTdreGVyNFZMV1VSNXhHTUprNVVELU9ENko0VkhjTFczQUVmZWFBR2JRRkVjbGxaX19CS2tYdw?oc=5",
+     "source": "Euromaidan Press",
+     "published": "2026-11-20T14:57:59+00:00",
+     "summary": "Ukraine\u2019s drone war grew through October. Units log more than 2 million verified hits this year, with the peak month almost 2.5 times January&nbsp;&nbsp;Euromaidan Press",
+     "image": ""
+    },
+    {
+     "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
+     "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T14:48:04+00:00",
+     "summary": "Yemen&#039;s Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
+     "image": ""
+    },
     {
      "title": "Trump speaking to press after historic Xi-Putin talks questions over Ukraine War linger",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUFYZGFEbEZUMVVLMmd0YjhxZy1jUEtJNENLVEdvZ1ZEQU51MklmbVZwRWtrcjQtczFGaTY2VklETnlqMl9rTk9FRXhtV2pKTHZ3MFRqaU9YbTdyMGk3VzZwb0tjOTUyRkc2WjduR2ZmRlMwMlo4TmVDNDRuNjNfV0lfaktfQTFncXE2XzBfR2xDdnNUcjlKTlQyOU1ZRnVnMlRvc3MyRFhHMV9jZ3N5ZWlpQ0ZweC1jbTRnUVJlYUhVQQ?oc=5",
@@ -140,27 +172,11 @@
      "image": "https://s.france24.com/media/display/eee66c42-e4ee-11f1-9776-13439ca2fe89/w:1024/p:16x9/EN-20261120-150718-151143-CS.jpg"
     },
     {
-     "title": "Poland says a Russian missile that crashed in its territory was a provocation",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-     "source": "AP News",
-     "published": "2026-11-20T14:29:00+00:00",
-     "summary": "Poland says a Russian missile that crashed in its territory was a provocation&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
      "title": "US Asked Trump-Putin-Xi Summit to Drop Ukraine Clause From \u2018Peace Declaration,\u2019 Stubb Says",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FNGNtUzBYQzF5M0NEZXhUd3ZCb3pHNndqb05HMnBDLWpXSjcteVFSUkdSN1NlalNuWV9rUkZkV2FVSE1xcFR5Zy1QNA?oc=5",
      "source": "Kyiv Post",
      "published": "2026-11-20T14:24:01+00:00",
      "summary": "US Asked Trump-Putin-Xi Summit to Drop Ukraine Clause From \u2018Peace Declaration,\u2019 Stubb Says&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmR5cjVPUWNoWkViU2hTaENtZlBpMmYwV0w0ZTBxV3R5MUVQLXk5RnY1SHlKN1A0LXhucmhxaGR3SEZ1RE00UWJ2ckZHano4ZXVEbTBZWnNTbFk4ODNncjJZdndCT0ZzSVgyczdvU3lIek84dUg3aklPaTRtbjBaaWFCdmpHZTBxcWhsT0tfeXVUNDMtUkdianZ0eFpCX0J6OFdzSGVwa2hxY2gzdkdBdmdQdGFaOU9HUUNoanBwNzQzd2NMTHdMOElWM1MzUQ?oc=5",
-     "source": "KSL",
-     "published": "2026-11-20T13:55:02+00:00",
-     "summary": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission&nbsp;&nbsp;KSL",
      "image": ""
     },
     {
@@ -180,6 +196,14 @@
      "image": ""
     },
     {
+     "title": "Spain court grants bail to pro-Palestinian activist James \u2018Fergie\u2019 Chambers",
+     "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T13:45:14+00:00",
+     "summary": "The philanthropist is accused by US authorities of financially supporting Hamas.",
+     "image": ""
+    },
+    {
      "title": "Mahmood \u2018smells a rat\u2019 over housing provision for vulnerable people in Birmingham",
      "url": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
      "source": "The Guardian",
@@ -194,44 +218,76 @@
      "published": "2026-11-20T13:42:56+00:00",
      "summary": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
      "image": ""
-    },
-    {
-     "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
-     "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T13:41:49+00:00",
-     "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court&#039;s decision was not unanimous.",
-     "image": ""
-    },
-    {
-     "title": "Jared Kushner says Russia appears ready to accept NATO-like security guarantees for Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeEVNUDBndzhiOTRzRHVkODlNZVV1NFlVaGNYUHRSSGFZY2tlSEZfZHRPOGdSNjUwZGY2cFBDOG5zSWFBZjdmdEtnRzJHOHg4LVJ1YUpEU0J6SkZKMl9ZdS05d3lzaVdWLThrRXBPaVdGNnFKNV9QbkdTZ2kzeWhlVzBIT0JpZWIxaWM0YjA3a2hLM2JJTFhMTjBTVVg5bWNvWkNjZ243dy05aFVORGZPc0hCa01GeUJZRnBzVGxUb1BCZUUyWUZJaC1B?oc=5",
-     "source": "New York Post",
-     "published": "2026-11-20T13:38:00+00:00",
-     "summary": "Jared Kushner says Russia appears ready to accept NATO-like security guarantees for Ukraine&nbsp;&nbsp;New York Post",
-     "image": ""
-    },
-    {
-     "title": "Russia\u2019s Pantsir-S2 Was Supposed to Stop Ukrainian Strikes\u2014Now Ukraine Has Hit It Too",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0FIdzBfYUNieTVKZGRYVEZQR2xaeEZkYTdHNU9qcHg2eWZoR0F5NWVVbkVXS2kxd0hyQWQtMldXNUpJZmhOVW0yMlk2M012eEhJSUFLN0hoWFBHOTR1MDBFR0tPVHZPSHdmMDNzX0M2YnFMZzBMUkE3SFVuLTYyYkN1XzcxdjJhUnB0bWttM0lpWlpGVlQ4NkljR2gwQ1JULWNPR3lsSDFob2k0NlZEakItSUFwUl9qYXRCVlNLNmlHOFpqb2dlZ3IyZw?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-20T13:36:28+00:00",
-     "summary": "Russia\u2019s Pantsir-S2 Was Supposed to Stop Ukrainian Strikes\u2014Now Ukraine Has Hit It Too&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T14:47:15.216334+00:00",
+   "fetched_at": "2026-11-20T15:17:18.917078+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Voters Plan to Talk About Grocery Bills, Not Election Results, This Thanksgiving",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1RqbTJaaDFtNERsZUZZalltaUNwLTFJTENCMk1ETkxqQ0RqbXl6OUE1YUhxVmJNR3ZNcDE0YXdlVGE5aFJ1cm45Yld1dDBNVHkwaHFfam9rVmdhOTNaWGRfN1A4VnQwREpYcUFma0V6b0p0WkI5THhlUjdpV1ZrNUFNZU45UGhSV1pvNng0bm5sZnFxYXdHR1IwZ1RTQUVsOVJ5dVZmUVlJNV9JRHJkWXZMWndYOGg0ZjgwOTZaa0ZUdGd6?oc=5",
+     "source": "Data For Progress",
+     "published": "2026-11-20T15:14:05+00:00",
+     "summary": "Voters Plan to Talk About Grocery Bills, Not Election Results, This Thanksgiving&nbsp;&nbsp;Data For Progress",
+     "image": ""
+    },
+    {
+     "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+     "source": "The Guardian",
+     "published": "2026-11-20T15:09:09+00:00",
+     "summary": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groupsThe Senate approved bipartisan legislation on Thursday aimed at speeding up per",
+     "image": "https://i.guim.co.uk/img/media/8b551cbed6458ddfa1ec5a6a77a5814704c49850/2595_1276_3405_2724/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=c5f2f2319acd248a71ca7fc77e0487f9"
+    },
+    {
+     "title": "Citizen Diplomacy in a Fragmenting Order",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IVHZjTkJnaE05V0VRTWl4aFducDJRVmdHalUtT1V5Q1VHRlhpeDlwRUtIeXVCQWtKLWZIUW9DSzdiNjVyYzRqT1RlUXF0d3RPMExTTXNaT2xOdW1taldJOE1zd0tUUEJFdUE?oc=5",
+     "source": "Foreign Policy in Focus",
+     "published": "2026-11-20T14:53:24+00:00",
+     "summary": "Citizen Diplomacy in a Fragmenting Order&nbsp;&nbsp;Foreign Policy in Focus",
+     "image": ""
+    },
+    {
+     "title": "Spain's burgeoning data centres become election issue with new rules",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMU4tN0lkenRDSjFTZ2JzT3pWSTB1aXQyc3JDbTNXUjIzQk1yTFI5ck5GbE82UGw5Wl92NE1rMklMTW9sMnhKYVlYODhTVDVhWHplU0J1R2M3aE13eFE3RlMyNGtBS2hXbVhpVDFDVjlaZThmdjJ2QVF0WG9CRTItZmo5S0Q2bzg4SjEtZ0lRakRPWUxDQWJEdVNBZU5uSXJzVjNsY3h2SHNJQXBHV0tBcDNRRVNrMkhpT29TVldTLUg?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-20T14:48:05+00:00",
+     "summary": "Spain's burgeoning data centres become election issue with new rules&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "DeSantis schedules election for open Miami-Dade Senate seat after legal pressure",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1YzT3YyNFA3UmFtZTRtdFVnOGhsWG9oMG14U3RKc211NTdxSERJY2J4cThFaFFmcDRURUtDVm5NRmh1Q1JGZnhRaXlnai1lbE5xQ0gzRU83ZGtkOXVpYmJIMzhpdFZ1VDlJREE5TFRTbjQtd1NhZEFKdXhxSlF6ZTZ3NlBkcFhxbHlRdFd5eXhVczjSAZMBQVVfeXFMTWZsSXZvTElvbjNLMWRSMzJESFpnTVFMRFpWdlBBSUtoVWVVNk9SdDhwSVFPb1p2M1JQX0FWYkhXUEtsQklwbWxFRVdJTERKZEw5NlI3ZE8xNXE4bG9hMlZQY0NoZnJVMDUxbm81UDZBZlV2RGpvaE5yZHlCZ2puS1NLN19sOUpGWlZsVnl6Zk9NX0NR?oc=5",
+     "source": "Miami Herald",
+     "published": "2026-11-20T14:47:42+00:00",
+     "summary": "DeSantis schedules election for open Miami-Dade Senate seat after legal pressure&nbsp;&nbsp;Miami Herald",
+     "image": ""
+    },
+    {
+     "title": "Judge says ICE \u2018made a mockery of court orders\u2019 with instant re-arrest policy",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWE1qRXRySmZxSG9lcFZ3ajZyWFMxN3pxTzM4LUM2ZllvTjFfU1AtT1pBTnlLR3JFdjJXeUJITFJxTlhER3VmeHJfanZReXZtQTZyOF9Xc2ZKVjd3N2NfUFI0d0lyS3pCUkRWdURBOXpzUFBNcFlZeXRsSUtMUmFHV0NYQ3l0Z09SOEljOVFpUkU?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-20T14:47:00+00:00",
+     "summary": "Judge says ICE \u2018made a mockery of court orders\u2019 with instant re-arrest policy&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "REPLAY: Burnham, Von der Leyen hail 'turning point' in EU-UK relations",
+     "url": "https://www.france24.com/en/video/20261120-replay-burnham-von-der-leyen-hail-turning-point-in-eu-uk-relations",
+     "source": "France 24",
+     "published": "2026-11-20T14:45:20+00:00",
+     "summary": "British Prime Minister Andy Burnham hailed a \"landmark\" deal with the European Union on Friday, as the two sides sealed pacts on food exports, emissions-trading schemes and youth m",
+     "image": "https://s.france24.com/media/display/28039ada-e4f0-11f1-9a52-e56ab3dc0809/w:1024/p:16x9/EN-20261120-140752-144607-CS.jpg"
+    },
     {
      "title": "EU wants \u2018closest possible relationship\u2019 with UK after agreeing Brexit reset deal \u2013 live",
      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-20T14:39:55+00:00",
+     "published": "2026-11-20T14:42:14+00:00",
      "summary": "President of European Council says EU \u2018remains open to have the closest possible relationship\u2019 with the UKSenior correspondent Making today\u2019s reset deal contingent on a further agr",
-     "image": "https://i.guim.co.uk/img/media/3e896c5c72a70960c8e888a3e7e156426838be8d/566_219_3034_2427/master/3034.jpg?width=140&quality=85&auto=format&fit=max&s=b07ac2272da2b37606af339e58f3a11a"
+     "image": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=e9208e429a579acb941382730adfcc93"
     },
     {
      "title": "Burnham hails 'landmark' EU-UK deal as 'good day' for Britain, Europe",
@@ -264,75 +320,35 @@
      "published": "2026-11-20T14:26:48+00:00",
      "summary": "Commentary: What the numbers tell us about Oregon's 2026 election&nbsp;&nbsp;Oregon Capital Chronicle",
      "image": ""
-    },
-    {
-     "title": "Client Alert: Privacy Rules Are Moving from the Policy Page to the Code Base: Three Recent Developments and What They Mean for Your Business",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1VvZDF3TGpwbDY0dG9GZXJXUmg3SGZyTmhGM3pGZFVuVF9JMnNSdy11WWg4UVlOZlVRMWROeFphamd2S2paOXJsQUw5TG5iRmc4RzhHQkVIZXNTaHBkalp6SWZiTUstWmJ3RXBxSnU4WVNUdlNHVG5aaGFDMlRNaXN5QkFGQzA?oc=5",
-     "source": "JD Supra",
-     "published": "2026-11-20T14:25:51+00:00",
-     "summary": "Client Alert: Privacy Rules Are Moving from the Policy Page to the Code Base: Three Recent Developments and What They Mean for Your Business&nbsp;&nbsp;JD Supra",
-     "image": ""
-    },
-    {
-     "title": "Australia Announces New Sanctions on West Bank Settlers and Organizations",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTERBdE8yb3VqRFF6NU53M1FCRFhsbDZDNXB0WHp2bG9ncEZGOUtVcnVNT2g1QTJZVU40NERzMVBvblRZMjdyMXJ2T0FfaWNlZWJwZF9qU2lHSWhud0JrRnhBcldHU0lFUmppQkZLR21zT29RY0dIUDVOZk40XzZBM3ZzUEZva2FUMjMwZkpvMDctQ05oaTVJaXlnNmZKUHc?oc=5",
-     "source": "Baltimore Jewish Times",
-     "published": "2026-11-20T14:24:46+00:00",
-     "summary": "Australia Announces New Sanctions on West Bank Settlers and Organizations&nbsp;&nbsp;Baltimore Jewish Times",
-     "image": ""
-    },
-    {
-     "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGM3Y0VZTkx5Y3lQd2k3d2xkZnJBQmZST2lsem93eUF3Y1VheUp5ZVN4ajRMWlJkZXh2R2JJMjNHZDNjWkg2UDlmRmplWkh4TzJaMkFyMHNIM0VfTkhPaG1kelFOQjd5Qk43b0JtU1VFM1FuLWVwOUg2ZHdXUFg1UkRsOU5HRzNlWGNmOFFDWmgxMHN2SGdFQmxUMEFqUUJ6dU5kdThzQnJjMkFCQ3JJSklvd1Jlei1yT3FVM2FfaFUzTnp4cVQtaWRn0gHPAUFVX3lxTE9odjU4eklwaVhGUEp5Q3hWZUhIck5HTEN3OFB0eGx4OWtYLTBNZ01FeERrcFNueDd2SnVQSWpDWkJOVUR5M0xlRjE3Y2NsZ1FqemlTMVZxS3lTem8yZ1Z6ZWxNRms1aEhybVA2SjJkM1hJZnFJVHM1eUdEU0x1dVFDejBNc3U1SWVYTk9pa2VyUUptOWxwRUg0ZTRWTkhTQkxZY0JqOUotVzRxeUJVOUliQjBvY0JSZ2VHZGFIYWNCZWVmd3hxM1pKWUw3ZUpIcw?oc=5",
-     "source": "PBS",
-     "published": "2026-11-20T14:22:40+00:00",
-     "summary": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race&nbsp;&nbsp;PBS",
-     "image": ""
-    },
-    {
-     "title": "Data centers: At the intersection of economics and policy",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXNwd0VFV3FGdFk4LXZ5MUhWYUpSNUNHdFhsenNjc0NSTjdZLWItVGVrdzZnUXZtRjBTcFRCeFdkdDI0RjQwYktBV1JZUnpaeVQ1cmNLenZsWEVTNy11QmtBeHRUc1VIcC1KUjZBWHJDRERlbEdfdTJIa3Nma1d4dW9wbjNvWFluaFVKZTlqdnY4X1k?oc=5",
-     "source": "Bank of America Institute",
-     "published": "2026-11-20T14:17:23+00:00",
-     "summary": "Data centers: At the intersection of economics and policy&nbsp;&nbsp;Bank of America Institute",
-     "image": ""
-    },
-    {
-     "title": "Strother\u2019s District 4 seat headed to March 16 special election",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmg5Wk1nbzN4OFlzR0Z1dEM0cFVnNURPMl81azZkM3UxUWVqNHkybk1TZ2hTUkJpTGdtZHdxckdaQWFMYnZLZXpnZzhXQWNZUUtRdm9PbDB2R1RIWWc1emZvVzhfcnJzQ0hKRklCQUpYNG1YOWJJRlp2SHF1ZzRyUmhGOGcyZGowR0VjaDlWTzJhY29paUI4?oc=5",
-     "source": "Albany Herald",
-     "published": "2026-11-20T14:15:04+00:00",
-     "summary": "Strother\u2019s District 4 seat headed to March 16 special election&nbsp;&nbsp;Albany Herald",
-     "image": ""
-    },
-    {
-     "title": "Fact Check: Fake Trump Truth Social screenshots on post-election policy are satire",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkF1b0o0YWNHNWo5TFhkNGNfM3d1VF9uWi1iMjRjSE5kMUZpMVpsQWlWd1Zyc2tqblJnV3Rrd29zU184aTYwcVFGTkVfdkxlczktMXpIVTl2RHVrNkZCZ081RHp6QWZ0VlcyejV1dzU5RU04YkhTdEM5Ql84NjByTEtRRzFJUFh0NWh6d3l5WkJMQmp0c1NzNHRzbVJwREpJcjNSaU52MmJtNzg2Sll4MkR1aU0?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-20T14:14:39+00:00",
-     "summary": "Fact Check: Fake Trump Truth Social screenshots on post-election policy are satire&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Minnesota canvassing board certifies 2026 election results",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVlJoUW5fWE5CUzI3elNmc1RQWnFpT09QOU1HUUZta3p4Q0NiSHhYWHl3LWgzRm9tM1BqRFlKWDBFVkNoTVE2RFdmLVZjVTJRYUxtSVNLZXBZeWVyR0NldXZ6VGxhRERDOGFhd001eEo2Z0NFVFVwdUVDVVgtYjc1Wmd4Z0M1d1N1VVVBU0NwX2QtRE1CTFhSQjRYVHQyRlRXQnFv?oc=5",
-     "source": "Valley News Live",
-     "published": "2026-11-20T14:14:00+00:00",
-     "summary": "Minnesota canvassing board certifies 2026 election results&nbsp;&nbsp;Valley News Live",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T14:47:15.216337+00:00",
+   "fetched_at": "2026-11-20T15:17:18.917081+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Global stock markets slump as Anthropic\u2019s record IPO fails to stem AI sell-off",
+     "title": "REPLAY: Burnham, Von der Leyen hail 'turning point' in EU-UK relations",
+     "url": "https://www.france24.com/en/video/20261120-replay-burnham-von-der-leyen-hail-turning-point-in-eu-uk-relations",
+     "source": "France 24",
+     "published": "2026-11-20T14:45:20+00:00",
+     "summary": "British Prime Minister Andy Burnham hailed a \"landmark\" deal with the European Union on Friday, as the two sides sealed pacts on food exports, emissions-trading schemes and youth m",
+     "image": "https://s.france24.com/media/display/28039ada-e4f0-11f1-9a52-e56ab3dc0809/w:1024/p:16x9/EN-20261120-140752-144607-CS.jpg"
+    },
+    {
+     "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
+     "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T14:38:25+00:00",
+     "summary": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
+     "image": ""
+    },
+    {
+     "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
      "source": "The Guardian",
      "published": "2026-11-20T13:53:13+00:00",
-     "summary": "Asian markets record their worst week since 2020, with European and US stocks also way downBusiness live \u2013 latest updatesGlobal stock markets have slumped as Anthropic\u2019s record-bre",
+     "summary": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-outBusiness live \u2013 latest updatesAnthropic\u2019s shares slumped at the start",
      "image": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=140&quality=85&auto=format&fit=max&s=2b419687828b47c2c71fe56585a333c1"
     },
     {
