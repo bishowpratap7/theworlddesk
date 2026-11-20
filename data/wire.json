@@ -1,24 +1,56 @@
 {
- "generated_at": "2026-11-20T17:17:49.412953+00:00",
+ "generated_at": "2026-11-20T17:47:53.384312+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T17:17:49.412924+00:00",
+   "fetched_at": "2026-11-20T17:47:53.384274+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Joanne Young\u2019s faith in the justice system is a sign of real changes, but the courts are still catching up",
+     "title": "Joanne Young\u2019s faith in justice system is sign of real change, but courts are still catching up",
      "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
      "source": "The Guardian",
-     "published": "2026-11-20T17:09:20+00:00",
-     "summary": "Years of reforms by prosecutors and police guided the approach that saw Young\u2019s abusers convicted, though much more remains to be doneHope can be found in the darkest of places. Jo",
+     "published": "2026-11-20T17:39:06+00:00",
+     "summary": "Young\u2019s abusers were convicted through suspect-centric prosecution, though much more needs to be done for victimsHope can be found in the darkest of places. Joanne Young stood outs",
      "image": "https://i.guim.co.uk/img/media/29d9cd1104652204d08aac35e8b9099daebed0d8/0_0_4928_3943/master/4928.jpg?width=140&quality=85&auto=format&fit=max&s=914433ac74a5bfa54a24fa3bcac0fa4a"
     },
     {
-     "title": "Cybersecurity operation thwarts attack on UK supermarket fridges and freezers",
+     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T17:36:29+00:00",
+     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
+    {
+     "title": "Protests held across Europe over wages, services, high living costs",
+     "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T17:32:32+00:00",
+     "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
+     "image": ""
+    },
+    {
+     "title": "\ud83d\udd34Watch live: Trump holds press conference after meeting with Xi, Putin",
+     "url": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
+     "source": "France 24",
+     "published": "2026-11-20T17:26:57+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "EU wants \u2018closest possible relationship\u2019 with UK after agreeing Brexit reset deal \u2013 live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-20T17:16:07+00:00",
+     "summary": "President of European Council says EU \u2018remains open to have the closest possible relationship\u2019 with the UKSenior correspondent Making today\u2019s reset deal contingent on a further agr",
+     "image": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=e9208e429a579acb941382730adfcc93"
+    },
+    {
+     "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
      "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
      "source": "The Guardian",
      "published": "2026-11-20T17:08:14+00:00",
-     "summary": "News of operation comes after supermarkets in at least seven European countries hit by cyber-attacksA secret government cybersecurity operation recently thwarted a cyber-attack on ",
+     "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacksA secret government cybersecurity operation recently warded off the risk of a c",
      "image": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=2e252d83e1e5acf197ba4a3668df8463"
     },
     {
@@ -28,6 +60,22 @@
      "published": "2026-11-20T17:06:59+00:00",
      "summary": "\ud83c\uddec\ud83c\udde7\ud83c\uddea\ud83c\uddfa A fresh start after #Brexit? The #UK and #EU have agreed on a landmark #deal to rebuild ties, following a summit in Brussels this Friday. The agreement covers easier food expo",
      "image": "https://s.france24.com/media/display/9c262fdc-e4ef-11f1-b8c1-6b451f569414/w:1024/p:16x9/burnham-00-00-07-21-Still001.jpg"
+    },
+    {
+     "title": "Top US Democrat warns Trump admin against destroying records",
+     "url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T17:05:42+00:00",
+     "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
+     "image": ""
+    },
+    {
+     "title": "UK far-right activist \u2018Danny Tommo\u2019 jailed for slashing migrant boat",
+     "url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T17:05:32+00:00",
+     "summary": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
+     "image": ""
     },
     {
      "title": "A cultural stroll through Paris with singer-songwriters Mariam Doumbia and Zaho",
@@ -68,76 +116,60 @@
      "published": "2026-11-20T16:50:47+00:00",
      "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys\u2019 school in the 1980sPolice are searching for a missing chemistry teacher convicted of sex",
      "image": "https://i.guim.co.uk/img/media/311ab8da7f054396f1dd576b47069e8b03792e22/304_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=b9430c6c19047b5b3153fa6497e7885e"
-    },
-    {
-     "title": "White supremacist convicted of planning bomb attack on asylum seekers in Hull",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/20/white-supremacist-mikka-anderson-convicted-planning-bomb-attack-asylum-seekers-hull",
-     "source": "The Guardian",
-     "published": "2026-11-20T16:48:31+00:00",
-     "summary": "Mikka Anderson stockpiled weapons and tried to recruit accomplice for attack on Royal HotelA white supremacist has been found guilty of planning a firebomb terror attack on asylum ",
-     "image": "https://i.guim.co.uk/img/media/f750995ccc8e1aed5dd20789983567f90ffb9257/52_240_1704_1363/master/1704.jpg?width=140&quality=85&auto=format&fit=max&s=9719e6ff62c1eb411d2e92d37b7c21c6"
-    },
-    {
-     "title": "Latest botched execution prompts calls for US moratorium on lethal injections",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
-     "source": "The Guardian",
-     "published": "2026-11-20T16:48:08+00:00",
-     "summary": "Reinaldo Dennes screamed in pain and took over an hour to die \u2013 but Texas officials branded the execution a successA botched execution in Texas on Thursday night that lasted more t",
-     "image": "https://i.guim.co.uk/img/media/8c85117104e2840265e0eb69fe3f8c43a03b1629/716_0_3761_3010/master/3761.jpg?width=140&quality=85&auto=format&fit=max&s=58f690195335e90d4788be57ae1e012a"
-    },
-    {
-     "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
-     "source": "The Guardian",
-     "published": "2026-11-20T16:46:05+00:00",
-     "summary": "Zacharia\u2019s spokesperson called allegations she falsely represented herself as an attorney \u2018baseless\u2019US politics live \u2013 latest updatesKatie Zacharia, the former White House press se",
-     "image": "https://i.guim.co.uk/img/media/ae323a28e78350bfb8aa0cc58ada95d577e65d9c/516_0_4393_3514/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=8b5616c0e1895a353e960321042a0dbe"
-    },
-    {
-     "title": "Cost of living protests sweep across Europe",
-     "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T16:45:34+00:00",
-     "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3b8/live/b5cf3660-e501-11f1-a8e4-b1e12a49db15.jpg"
-    },
-    {
-     "title": "EU wants \u2018closest possible relationship\u2019 with UK after agreeing Brexit reset deal \u2013 live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-20T16:41:54+00:00",
-     "summary": "President of European Council says EU \u2018remains open to have the closest possible relationship\u2019 with the UKSenior correspondent Making today\u2019s reset deal contingent on a further agr",
-     "image": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=e9208e429a579acb941382730adfcc93"
-    },
-    {
-     "title": "10 years after divisive Brexit referendum, UK weighs a \u2018Breturn\u2019 to the EU",
-     "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T16:40:35+00:00",
-     "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T17:17:49.412938+00:00",
+   "fetched_at": "2026-11-20T17:47:53.384295+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Cybersecurity operation thwarts attack on UK supermarket fridges and freezers",
+     "title": "\ud83d\udd34Watch live: Trump holds press conference after meeting with Xi, Putin",
+     "url": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
+     "source": "France 24",
+     "published": "2026-11-20T17:26:57+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "Opinion | Ukraine\u2019s Long Russian War",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NHRCSWJFVkp2R21SYk01Qkdrd1g4Ny1kTE5GMWQ2Y25jMnliUG5HcmljQ0JfOHNHSnFGbElnR2pudzRUWGxSN0E4S1BjbFFoRkNWbmRhV1AxenNWUjBUX3d4OUVWaVhKQ2U2NV85bw?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-20T17:14:37+00:00",
+     "summary": "Opinion | Ukraine\u2019s Long Russian War&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
+     "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
      "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
      "source": "The Guardian",
      "published": "2026-11-20T17:08:14+00:00",
-     "summary": "News of operation comes after supermarkets in at least seven European countries hit by cyber-attacksA secret government cybersecurity operation recently thwarted a cyber-attack on ",
+     "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacksA secret government cybersecurity operation recently warded off the risk of a c",
      "image": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=2e252d83e1e5acf197ba4a3668df8463"
     },
     {
-     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T16:54:29+00:00",
-     "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
+     "title": "Top US Democrat warns Trump admin against destroying records",
+     "url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T17:05:42+00:00",
+     "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
+     "image": ""
+    },
+    {
+     "title": "Berlin summit brings 37 countries together to back Ukraine as Trump, Putin and Xi meet separately in Shenzhen",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWYyVE5wUXZfLWVxMzQ2WFlWNUp3cjg1N0xiWlV6c1JyclY1WUxYcHJ4T3lLWkxoQU1CYklHSGVDVzJ0ZUJaZWlvV0pzUGZuR0k2NzVuWDVJeFVvUWpPWlZ5cV9mWWlick9yWlFSaFdwVFFRbTZNYTIxWkliQktfTnZnTm9DUFpER1RoT3pn?oc=5",
+     "source": "Latin Times",
+     "published": "2026-11-20T17:02:46+00:00",
+     "summary": "Berlin summit brings 37 countries together to back Ukraine as Trump, Putin and Xi meet separately in Shenzhen&nbsp;&nbsp;Latin Times",
+     "image": ""
+    },
+    {
+     "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+     "source": "AP News",
+     "published": "2026-11-20T16:52:00+00:00",
+     "summary": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation&nbsp;&nbsp;AP News",
+     "image": ""
     },
     {
      "title": "Melania Trump details Ukraine ceasefire efforts and shares insights on her personal life in exclusive FOX Business interview",
@@ -156,14 +188,6 @@
      "image": ""
     },
     {
-     "title": "Watch live: Trump holds press conference after meeting with Xi, Putin",
-     "url": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
-     "source": "\u00a9 Mark Schiefelbein, AP",
-     "published": "2026-11-20T16:30:04+00:00",
-     "summary": "US President Donald Trump is set to hold a White House press conference Friday, following his return to Washington after a four-day trip to Asia that saw him sit down for a first-e",
-     "image": "https://s.france24.com/media/display/9e68971e-e4ed-11f1-8d13-13439ca2fe89/w:1024/p:16x9/AP26323388860614.jpg"
-    },
-    {
      "title": "Ukraine\u2019s drone war grew through October. Units log more than 2 million verified hits this year, with the peak month so far almost 2.5 times January",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeVlLSVVmVUNlVWVqZ0Ywb2NFVURfX3FKUzZJMGdoWEVDR1ZaT3IxTG5pRnBTU0E2TE1OSElQczQ1MEYzNjA2cWZoc2JWaG1oQ0k4bW1ZU0dRU0NkVGs5QTcxdGd1RURNOXUzQVl6dFJSQ3dPOFFORlV6MUJXWF85WWc3Sk5uaVpjSk5rNHBPZU9iSlZRX2FoR0FzcXlVbm4wUHBrd2VGYi1wenZuSjZGdmZLV0lzellsRER6ZG1VLVhKcUpLcHRLZDNNV1NvWXV2QjdHVTdreGVyNFZMV1VSNXhHTUprNVVELU9ENko0VkhjTFczQUVmZWFBR2JRRkVjbGxaX19CS2tYdw?oc=5",
      "source": "Euromaidan Press",
@@ -177,14 +201,6 @@
      "source": "The New York Times",
      "published": "2026-11-20T16:25:28+00:00",
      "summary": "Video: The War in Ukraine Is Killing Wildlife&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "The War Is Ravaging Ukraine\u2019s Wildlife, Too",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mSGhHcWttY0cxZTVGa3VBcDFzX2NqeVNpaTBLcmxqaEY1MHZGV0lEalNLWFhHYUlUSE5iSWVIaGdFczFHNTBvaGl6WUJvMUFDcGdaZGVuMnlZQWVXdHhmM0NWS2hlWGdteHBQTGRvdm4telhFYUxCYlZNYlNDZw?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-20T16:05:55+00:00",
-     "summary": "The War Is Ravaging Ukraine\u2019s Wildlife, Too&nbsp;&nbsp;The New York Times",
      "image": ""
     },
     {
@@ -202,29 +218,77 @@
      "published": "2026-11-20T15:52:11+00:00",
      "summary": "Lithuanian troops join European drills for possible postwar mission in Ukraine&nbsp;&nbsp;Anadolu Ajans\u0131",
      "image": ""
-    },
-    {
-     "title": "Russia\u2019s Crimean Bridge Problems Turn Into a Logistics Nightmare as Ukraine Targets Supply Convoys",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNnV0UEw3MlVBaXhxUWU5X1RELUpWM0d1Q1dpR2JfQW9jdTF6TkY5YUY4U1pZZnRoVFFFcWhiS1ZvMWdqdWxjMHVxTTBNWHpnNjg3eUVvd3dOTWhSYnFUWVY1S01wQUI3VU8yb182aFhpLUdESnFGOXFpa2VFTlFtV2ItZDBTYzl0NGtJdU1vVzlZMHZqVHl4cTJUSGtWQWlON0lNNldtU1VqWVFfMExuZXMtMEE1NzZaSEpnVEZDc2FNb1FZbjRhUnA3VlVfc3VXWlJOcFVqRGNualZI?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-20T15:49:45+00:00",
-     "summary": "Russia\u2019s Crimean Bridge Problems Turn Into a Logistics Nightmare as Ukraine Targets Supply Convoys&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: Palestinians return home to ruins",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T15:42:04+00:00",
-     "summary": "Palestinians return to find their homes reduced to rubble after Israel\u2019s ground offensive, as attacks on Gaza continue.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T17:17:49.412941+00:00",
+   "fetched_at": "2026-11-20T17:47:53.384299+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Jeremy Hales secures Wasatch County sheriff\u2019s post following election certification",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGs1cXc1S2Mxa050VmhVWTNSTHlBdXV3elBmWU84SkdJTEhadjJDcjJvOVA2Q20yd1pqRVJ1YWFIYjNoZVJ2dmpScC1tZEFCaU42TG5ST1VzeVNxNG82UjNBNDQ0ZXo2MG8yTnJXZUdmSzZueHVKVk4zc19IU1pTa1B5bTRGMDVIcDlRQmRZNGVCYzc1blFocnFPRjFkZ25QZEFnUld2YkNpb0dCX0RPbkpQbVRaQ3lacVlNbnJn?oc=5",
+     "source": "Park Record",
+     "published": "2026-11-20T17:44:01+00:00",
+     "summary": "Jeremy Hales secures Wasatch County sheriff\u2019s post following election certification&nbsp;&nbsp;Park Record",
+     "image": ""
+    },
+    {
+     "title": "Research committee OKs interim policy based on federal \u2018dangerous gain of function\u2019 guidelines",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5bUZCMkhLT3lVVmJZN0hkRU8wSjFVcVl0eU03cjI2RTJrcmpLd2FqZ2M4NWswMGRzNXlRNWw5MDJlVS0xdjZYSnhWMDRtM3N3aTBNYkpCZ1hwSDljZjFZWHNJdDdhZw?oc=5",
+     "source": "University of Pittsburgh",
+     "published": "2026-11-20T17:40:11+00:00",
+     "summary": "Research committee OKs interim policy based on federal \u2018dangerous gain of function\u2019 guidelines&nbsp;&nbsp;University of Pittsburgh",
+     "image": ""
+    },
+    {
+     "title": "Losing Deschutes County sheriff candidate once again sues his election opponent",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb3V1UHV1NFBSNG9yRzB1UjI0ZVI2YU1JVDdXUHE3Vmhaak9JUTBZQ01PQUpobEdpbUZHUmpmX1dKSjVwTWtqRExkdnBEOF9iNEFKOE9HVjlGMGFZeGtjZUV0QjRabWdTX1pVX3NTVU9sNDMtODdXWUk0djY0UkkxN3ptS0V3YXpSQjdrcHVCY0g3Y084Y185Sm1mX0J0dDhnN295bmk0UkxvdGxCRjhfR0hYa2NoR3M?oc=5",
+     "source": "Bend Bulletin",
+     "published": "2026-11-20T17:37:19+00:00",
+     "summary": "Losing Deschutes County sheriff candidate once again sues his election opponent&nbsp;&nbsp;Bend Bulletin",
+     "image": ""
+    },
+    {
+     "title": "Higgins Elected to House Republican Policy Committee",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUzZlV0lISGk0bGhXMndDTjdCNVU5NGtEMk5hV3k3WTRTNW1uOVFBaFFMYk1xeHZaanAyS3JmZjdsbGoyTVpjOXV2NnFZUDZaSUpFa2RsZEVtTTRQYzhfNHpNdHZIaUlkdG1uTXNwTDRFRVoyeDkxamJvTXV4ZzF4NkcyNXZ1TWlkeVVsWmpaNjJQRkswT3pjY1hn?oc=5",
+     "source": "House.gov",
+     "published": "2026-11-20T17:35:09+00:00",
+     "summary": "Higgins Elected to House Republican Policy Committee&nbsp;&nbsp;House.gov",
+     "image": ""
+    },
+    {
+     "title": "Protests held across Europe over wages, services, high living costs",
+     "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T17:32:32+00:00",
+     "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
+     "image": ""
+    },
+    {
+     "title": "Treasury Sanctions Hezbollah\u2019s Charity Network, but More Targets Remain Untouched",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWG1fcjFBZzhBcUUzcjUxVG9qMFdCcGFGLXlHZXlGYm5wTVlwQ01VUGYxSHlpSDd0YUFBWjlnNHFhVTdXcE1LbDd6eFZPbG5PcDZsVzFfZDl3bW92U1ZtM09qRkhfc2ZNaGdvcTZlT2ViMFM0WFhKUWlpVUo0MnlDa2cybHZGdndEWmN6b0libmtENENmLVZFbFd6bHAzUmlxdlEtYUZPamVvZDYyVlE?oc=5",
+     "source": "Foundation for Defense of Democracies",
+     "published": "2026-11-20T17:29:32+00:00",
+     "summary": "Treasury Sanctions Hezbollah\u2019s Charity Network, but More Targets Remain Untouched&nbsp;&nbsp;Foundation for Defense of Democracies",
+     "image": ""
+    },
+    {
+     "title": "Over 50% voter turnout in Massachusetts midterm election",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLV9vNUl3RUV6WkFIN2pzeEZhVm5ScTN0U1A4cmNmbGRfTWpYTzRCb2ZueUNxUFRkQ1JZSHJ1X0VISjV1elk1R2N4UmwwaEpEZFpidkFTQjZ3ZVdIbzZiNXF1bUp1TUhSUVVUMXB3ZE81S2thN280emFYSVZpamFaOG9ycFV5akFtUm1CdHZWSGd2ZTVsV0o2Wi1ZbGPSAaIBQVVfeXFMTnNYMEQ1Vm1lMm5nckZBeXFaQkd1YWkzeE9LRzh5c2RpanRNeUMyaVh2R0w3YlVtdVBweDRJT012aTVxU215ejUtWXRkOEdHSDh2SFpSSXk2TGJibFlRZmpvbU5nakEwU3Vxa3BhOU1CTXhuTkJBMDNibnNrQ1VHcnFmZHRmcnRCcnBMVHlLX0RmdnpyWWxZZjBYT1A3VnUwWndR?oc=5",
+     "source": "WWLP",
+     "published": "2026-11-20T17:27:54+00:00",
+     "summary": "Over 50% voter turnout in Massachusetts midterm election&nbsp;&nbsp;WWLP",
+     "image": ""
+    },
+    {
+     "title": "EU wants \u2018closest possible relationship\u2019 with UK after agreeing Brexit reset deal \u2013 live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-20T17:16:07+00:00",
+     "summary": "President of European Council says EU \u2018remains open to have the closest possible relationship\u2019 with the UKSenior correspondent Making today\u2019s reset deal contingent on a further agr",
+     "image": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=e9208e429a579acb941382730adfcc93"
+    },
     {
      "title": "UK and EU strike \u2018landmark\u2019 deal to rebuild ties after Brexit",
      "url": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
@@ -256,90 +320,18 @@
      "published": "2026-11-20T17:00:00+00:00",
      "summary": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair&nbsp;&nbsp;NPR",
      "image": ""
-    },
-    {
-     "title": "VOSD Podcast: The Ultimate Election Recap LIVE From Soda Bar",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT04wdmk2YVRuSmV5WlN5X0dKWFpXc3FyMnhZcGV3ZmlkNnQxWkJfX2FNMmVKdlFOaTRTY2swSDFjSGdIbUhJZFVnbzYxWG1jLWhXZ1lmbjVCbnNHX0x3bmZLVzJ6TTZBX014bGxmTTFNMlJnc3pUcTFtc2Z4OGxuYWpwVjJoQ3ZBYlc3dHFtbENrWE9CYUx5Q0lmQllINExk?oc=5",
-     "source": "Voice of San Diego",
-     "published": "2026-11-20T17:00:00+00:00",
-     "summary": "VOSD Podcast: The Ultimate Election Recap LIVE From Soda Bar&nbsp;&nbsp;Voice of San Diego",
-     "image": ""
-    },
-    {
-     "title": "Texas Justices Reset December Calendar After Election Defeats",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUEydFZiZGNyTGE3WXF3T0NNbktGUktIV3lyTi14aS1iTkwwZ3I4RldNVDFacU5BdGJBRE04X091WHVKYVBydGdJdlFxY19Pd0liMVZZaUhQSUFsZ0sxa2xGVGhEbEJ2ZENxQWc1Y2VfaFFLYXl2Nm9DamtUZ28xVGhLN3dxUkxNVC1KSzlzcHVJZG1nbmxFak9jQ0pZYnh1SjU5bw?oc=5",
-     "source": "Bloomberg Law News",
-     "published": "2026-11-20T17:00:00+00:00",
-     "summary": "Texas Justices Reset December Calendar After Election Defeats&nbsp;&nbsp;Bloomberg Law News",
-     "image": ""
-    },
-    {
-     "title": "Election results: Backers of California\u2019s Prop. 4 concede defeat, vow to try again",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObVVEcnktQ0w2U1A1cTJXamc5bnB4RndNc0ZxQklONTNpY1lMdDhFWnpveXgxOFM2eXRyZXYxN0xyUFZvQ25wVnh3MTI2UnJJV2tSVkhmZ2h4TGhTeDQ5SlRmUnFzM0JVdWFUdTVyU3RxSEVZYldPLWxpV3JzZFpsLVRScEhhbzdT?oc=5",
-     "source": "The Mercury News",
-     "published": "2026-11-20T16:55:23+00:00",
-     "summary": "Election results: Backers of California\u2019s Prop. 4 concede defeat, vow to try again&nbsp;&nbsp;The Mercury News",
-     "image": ""
-    },
-    {
-     "title": "New policy brief calls for investment in water information systems to support safe water, disaster readiness, and sustainable agriculture",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVXY0UXN3UUM4RUhyM2RTTUc5VzNJaXlRbHlTeFJKeWxzNzZXR2FHTUJGMkZXVGs4RzBkLTh0VmV5QmpaQnNERUF0WGN1aVBLZksyQWJJVWNxVGhYUHFIdU9pYVM0NWRtUTRzSElMR3RsOGM1OTktM1lORjdwa0xkZTZxdDUwbGNIVE9VLTRNTXFUSzctRnNrU1RRQUJlU2VTb3BZaUxtSlREQjh2Zmx1b2FlS0lfVzZ2RGREM0ZRMEFQa1dPdUR5c0YwWXJKMjZZY3FvbTIzdnZnR2NMaGJNc1FQdE1GaHpTYURxNTVjX2Z4VEFkc3Z5cGpiRnRxVXhWQm1QVA?oc=5",
-     "source": "Maven's Notebook",
-     "published": "2026-11-20T16:54:15+00:00",
-     "summary": "New policy brief calls for investment in water information systems to support safe water, disaster readiness, and sustainable agriculture&nbsp;&nbsp;Maven's Notebook",
-     "image": ""
-    },
-    {
-     "title": "Judge dismisses lawsuit against Elon Musk tied to 2025 Wisconsin Supreme Court election",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3UzVkNsNnZfVVF0cEhEREI3QWJESTd2ZzRoLTltNTV3NTJoTnNWZkMzcUFfN21oN0ptNUc0c1lSMW05dVE2Ul9YbkFlOHVZc3Z1UnF5Nm91V3h1UGV2SE1tbUZxQWc1c1VWTGtpdFhuUURoQmJIRVRNbjR6UE5DTzYzSVdXOURmTXNvSUp3QjAyQ1RyRTVhZklFNWZGcWRRR0UwbllpWWtfMS1zcjZEbTRaTDZVWnkw?oc=5",
-     "source": "WBAY",
-     "published": "2026-11-20T16:54:00+00:00",
-     "summary": "Judge dismisses lawsuit against Elon Musk tied to 2025 Wisconsin Supreme Court election&nbsp;&nbsp;WBAY",
-     "image": ""
-    },
-    {
-     "title": "\u2018A more expensive EU is not a better EU\u2019: Austria's Minister for Europe, Claudia Bauer",
-     "url": "https://www.france24.com/en/tv-shows/talking-europe/20261120-a-more-expensive-eu-is-not-a-better-eu-austria-s-minister-for-europe-claudia-bauer",
-     "source": "France 24",
-     "published": "2026-11-20T16:53:27+00:00",
-     "summary": "This week's programme hosted Claudia Bauer, Austria\u2019s Federal Minister for Europe, Integration and Family while she was in Paris for the recent G7 meeting. She offered her thoughts",
-     "image": "https://s.france24.com/media/display/2ec2d102-e355-11f1-9179-1ba7ddfab527/w:1024/p:16x9/PHOTO-CLAUDIA-BAUER-TALKING-EUROPE-1.png"
-    },
-    {
-     "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
-     "source": "The Guardian",
-     "published": "2026-11-20T16:46:05+00:00",
-     "summary": "Zacharia\u2019s spokesperson called allegations she falsely represented herself as an attorney \u2018baseless\u2019US politics live \u2013 latest updatesKatie Zacharia, the former White House press se",
-     "image": "https://i.guim.co.uk/img/media/ae323a28e78350bfb8aa0cc58ada95d577e65d9c/516_0_4393_3514/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=8b5616c0e1895a353e960321042a0dbe"
-    },
-    {
-     "title": "Cost of living protests sweep across Europe",
-     "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T16:45:34+00:00",
-     "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3b8/live/b5cf3660-e501-11f1-a8e4-b1e12a49db15.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T17:17:49.412944+00:00",
+   "fetched_at": "2026-11-20T17:47:53.384301+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Cybersecurity operation thwarts attack on UK supermarket fridges and freezers",
-     "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
-     "source": "The Guardian",
-     "published": "2026-11-20T17:08:14+00:00",
-     "summary": "News of operation comes after supermarkets in at least seven European countries hit by cyber-attacksA secret government cybersecurity operation recently thwarted a cyber-attack on ",
-     "image": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=2e252d83e1e5acf197ba4a3668df8463"
-    },
-    {
-     "title": "Anthropic shares fall a day after blockbuster opening",
+     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T16:27:47+00:00",
+     "published": "2026-11-20T17:36:29+00:00",
      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
     },
