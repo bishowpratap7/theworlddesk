@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-20T01:14:49.465138+00:00",
+ "generated_at": "2026-11-20T01:44:53.026531+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T01:14:49.465103+00:00",
+   "fetched_at": "2026-11-20T01:44:53.026499+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-20T01:38:46+00:00",
+     "summary": "Democrat Nancy Peltola was declared winner earlier this week in highly scrutinized Senate race that featured two Dan Sullivans on the ballotSign up for the Breaking News US emailTh",
+     "image": "https://i.guim.co.uk/img/media/54a728ed2e975155848c4f3d8c0cb7d40a67f7c8/363_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=648414a471444d167dded33dcc654c66"
+    },
+    {
+     "title": "White House fires national cyber director over widespread outages",
+     "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
+     "source": "\u00a9 Evan Vucci, AP",
+     "published": "2026-11-20T01:28:47+00:00",
+     "summary": "The White House fired national cyber director Sean Cairncross on Thursday following a week of technology disruptions affecting US air travel, email services and national security s",
+     "image": "https://s.france24.com/media/display/e56edbae-d878-11f1-8aa8-bf1914cabd52/w:1024/p:16x9/AP26294693498447.jpg"
+    },
+    {
+     "title": "Florida carries out record-breaking 20th execution of the year",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+     "source": "The Guardian",
+     "published": "2026-11-20T01:27:25+00:00",
+     "summary": "State executes a man convicted of two counts of first-degree murder while Texas also put a man to deathFlorida carried out a record-breaking 20th execution of the year on a man con",
+     "image": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/622_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a5885394d872d2e91993c94d0a68d706"
+    },
+    {
+     "title": "White House cyber director ousted after US hit by wave of tech outages",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+     "source": "The Guardian",
+     "published": "2026-11-20T01:25:05+00:00",
+     "summary": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD official Kirsten Davies to take overWhite House national \u2060cyber director Sean \u2060Cairncross \u200bwas ousted fr",
+     "image": "https://i.guim.co.uk/img/media/111ee764d1555c6945ee7d005da2426e8ae483bb/88_0_3244_2597/master/3244.jpg?width=140&quality=85&auto=format&fit=max&s=0ac97b5bf427f29f204b519fac109efd"
+    },
+    {
+     "title": "Democrats say law firm gave $11.8m worth of service to Trump administration",
+     "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T01:10:06+00:00",
+     "summary": "Three top Democrats called Trump&#039;s dealings with law firms a case of &#039;official coercion&#039; and pledged investigations.",
+     "image": ""
+    },
     {
      "title": "\u2018Completely messed up everything\u2019: Malawi\u2019s fuel crisis causes chaos",
      "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
@@ -12,14 +52,6 @@
      "published": "2026-11-20T01:06:15+00:00",
      "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
      "image": ""
-    },
-    {
-     "title": "California\u2019s top lawyer subpoenas Nvidia over Jensen Huang\u2019s affair with suspected Chinese spy \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-20T01:05:29+00:00",
-     "summary": "State\u2019s attorney general Rob Bonta says \u2018conduct of Nvidia and its former CEO raises bright red flags\u2019 as he opens investigation Sign up for the Breaking News US emailThe National ",
-     "image": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=140&quality=85&auto=format&fit=max&s=c5876a95b1c70551c14f01e06a36bd87"
     },
     {
      "title": "More climate money for Africa? Europe says use what's already pledged",
@@ -46,7 +78,7 @@
      "image": "https://s.france24.com/media/display/adb0ecfc-e435-11f1-9ff1-13439ca2fe89/w:1024/p:16x9/bfcd4adc17d0c1b4d4952e5c826ecffd1efc0af3.jpg"
     },
     {
-     "title": "Religious messages agriculture secretary emailed to staff deemed unconstitutional",
+     "title": "Religious messages US agriculture secretary emailed to staff deemed unconstitutional",
      "url": "https://www.theguardian.com/us-news/2026/nov/19/religious-messages-agriculture-secretary-unconstitutional",
      "source": "The Guardian",
      "published": "2026-11-20T00:31:24+00:00",
@@ -84,51 +116,35 @@
      "published": "2026-11-20T00:13:24+00:00",
      "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d8/live/7f60e450-df9a-11f1-a9ad-6774a3284d10.png"
-    },
-    {
-     "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T00:13:21+00:00",
-     "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-     "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
-     "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T00:10:04+00:00",
-     "summary": "Search for survivors continues near Yenne as migrant arrivals in Spain&#039;s Canary Islands surge by nearly two-thirds.",
-     "image": ""
-    },
-    {
-     "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T23:58:40+00:00",
-     "summary": "Houthi missile fire has rocked Riyadh&#039;s financial centre as the Iran war leaves &#039;lasting marks&#039; on global energy.",
-     "image": ""
-    },
-    {
-     "title": "How did Anthropic's stock market debut unfold?",
-     "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T23:52:25+00:00",
-     "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d424/live/6731c740-e478-11f1-a094-5fdc692f3e33.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T01:14:49.465120+00:00",
+   "fetched_at": "2026-11-20T01:44:53.026513+00:00",
    "stale": false,
    "items": [
     {
      "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-20T00:59:28+00:00",
+     "published": "2026-11-20T01:41:35+00:00",
      "summary": "Opinion | In Ukraine, the drones are flying faster than the diplomacy&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Ukraine war briefing: Trump \u2018open\u2019 to Kyiv getting Nato-like mutual defence guarantee, says Kushner",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0NBME5lcEdSYzBycGFKdDhzaHJ2MU5iU1RsYnlxaFRYaHc4SU1YU0s3bTZyd3EwNHItMTBSY2FvOHBjaW9pcjRxNkRBVWRISk1YYUNHcHAwZXJ4MHBxZU5TUzJoTFhMbTZUSzJSckpFS3NqcGhBXzNpb21scGc4Y3hQSjFsTFpkWVllREUwSkJ2TGhmck91dl92aVRtWi1lSjBNUE9wVUQzZHIyREdIZkFSOGVra01RWUVPaGk1SFdRZk1FZkRwaU5tYmJNcE91el81QXduSjg?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-20T01:38:00+00:00",
+     "summary": "Ukraine war briefing: Trump \u2018open\u2019 to Kyiv getting Nato-like mutual defence guarantee, says Kushner&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMUkxbVpvaGRUZmdQb2lzVDhjTm1ScTB3R09DeW0wOWwzeWFVdjV1NENnLTJ2NVFhQ3g3YlVvMG1XQU04Skp3c3JvbWRIaEtPT3hrSEgtTG1ueGVRcktMdlB0ZERjeXo2YXBFMFpYOEFLTU4xaFcw?oc=5",
+     "source": "Axios",
+     "published": "2026-11-20T01:31:20+00:00",
+     "summary": "Trump tells skeptical Europeans: \"Putin wants to end the war\"&nbsp;&nbsp;Axios",
      "image": ""
     },
     {
@@ -202,35 +218,83 @@
      "published": "2026-11-19T23:21:47+00:00",
      "summary": "Jared Kushner Says Russia Is Comfortable With NATO-Like Security Guarantees for Postwar Ukraine&nbsp;&nbsp;NewsCord",
      "image": ""
-    },
-    {
-     "title": "DW News. . Berlin has hosted the largest summit yet of the Coalition of the Willing, a group of around 40 countries that remains steadfast in their support for Ukraine. New European commitments including more military support, air defense systems and fresh sa",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGJBZmNMWDRUWjdVODkzTDhtdTJZdFkxVHc2c0VWRjdYN0pmTkh6M0xIc19BbVV4WEtpUkhyWkRBMWktcU03QjJCZF9ZdEVVNW5KbnNsX0NGRlVaNEtmYUJXTTdjNExfXzZjXzhwbFhQeWQzRzh4TU5sQVYxaGZVeUxrSHYtdDB1b1hNa19iYm9PN2ZJeDVoZVoxR0M?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-19T23:20:08+00:00",
-     "summary": "DW News. . Berlin has hosted the largest summit yet of the Coalition of the Willing, a group of around 40 countries that remains steadfast in their support for Ukraine. New Europea",
-     "image": ""
-    },
-    {
-     "title": "Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - video",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUJudDZOZjNNRzdXdnN5cEE4S3k0UkZiNHdQdVItVXp5TXRRRG45SGpoNjFVR25RUFhzNVBKT0tIY0VrcktHQTNwVlFIdjVjWjZvMFAyOEVzUlgwSzFEbkpCUUpLa21aY2Z3cDFLRnNCT0pFWnRoX241ejNSd2dCQTlWemltbjJ0QUxKRkp5X0dEdGRrbHVUeFBwU1ROVG94OGEwR0xzMlVjeVYwc05qQTNIaTdkZGNvSEp6aVRvWVdQUQ?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-19T23:13:57+00:00",
-     "summary": "Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - video&nbsp;&nbsp;The Guardian",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T01:14:49.465125+00:00",
+   "fetched_at": "2026-11-20T01:44:53.026518+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-20T01:38:46+00:00",
+     "summary": "Democrat Nancy Peltola was declared winner earlier this week in highly scrutinized Senate race that featured two Dan Sullivans on the ballotSign up for the Breaking News US emailTh",
+     "image": "https://i.guim.co.uk/img/media/54a728ed2e975155848c4f3d8c0cb7d40a67f7c8/363_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=648414a471444d167dded33dcc654c66"
+    },
+    {
+     "title": "Fresno County leaders eye new transportation tax proposal for 2028 election",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmxJTHJMVHZEMkVGNFFYWFZ2TE0zNTNqdm9KcEtuR0RNbUZfeHdxMmp5Ykl0OGZaaDh3dWhMQkpCTU00d1NJNVJRUWVkTFZHSS1LYmVEdldTTjVmYWF2QXltT29oYWZ2dVluWnl0LTU0c3RKYnRYNnBIS1d0ZndmMnZEUnljN1N4QWN1UTVpeERZX253Z1pXV2NYUy01cVQwR0Vjd0FWY9IBrAFBVV95cUxQTmphOGJMeXNOTkRVckxqd3gtUnhrNVlScWZvYUhCLUpCMGxSbVJCWkpDakRkVVFQdjhjcFJXSHZ6QWFwR3VxZWFnVjdBRDZpSGE1QkdaM2ppand5N1JJbHk1MWxaV3l3aXlxTjJmTlZ1QmRLWXZGWHNwb2ZybTJaRHZQYXEwQngzY2Y2Ul9td2lheFB5NERUektrQVo4ZkNlVlVqTm9KMDBLdXg0?oc=5",
+     "source": "ABC30 Fresno",
+     "published": "2026-11-20T01:37:41+00:00",
+     "summary": "Fresno County leaders eye new transportation tax proposal for 2028 election&nbsp;&nbsp;ABC30 Fresno",
+     "image": ""
+    },
+    {
+     "title": "DOJ abandons lawsuit that sought to pause certification of Alaska\u2019s US Senate election",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQTM5YkY2YlN5NlJmcE9PeHlzSmlOQXdpMXA5QTBoa1VWbkdnMUpOMkJuX2lSY1YyQlk5eHNld2Z4UTNlbDJqZ1ktVlFSeWFvV3BtQW9sdHZUelBjWTJ0UVVNSVI0MGM4RW1OMC1RUUJPVXIwR21EdHFKbEJLNC1fc01MZnBxQmxRb0FCa2ZQS3VZLUtYWkJPM0szODA3bVZrcWVCSUllMnNyWXktNER4X3lXT1Zfd3ZidU9EeGt0WQ?oc=5",
+     "source": "Alaska Beacon",
+     "published": "2026-11-20T01:32:27+00:00",
+     "summary": "DOJ abandons lawsuit that sought to pause certification of Alaska\u2019s US Senate election&nbsp;&nbsp;Alaska Beacon",
+     "image": ""
+    },
+    {
+     "title": "White House fires national cyber director over widespread outages",
+     "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
+     "source": "\u00a9 Evan Vucci, AP",
+     "published": "2026-11-20T01:28:47+00:00",
+     "summary": "The White House fired national cyber director Sean Cairncross on Thursday following a week of technology disruptions affecting US air travel, email services and national security s",
+     "image": "https://s.france24.com/media/display/e56edbae-d878-11f1-8aa8-bf1914cabd52/w:1024/p:16x9/AP26294693498447.jpg"
+    },
+    {
+     "title": "White House cyber director ousted after US hit by wave of tech outages",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+     "source": "The Guardian",
+     "published": "2026-11-20T01:25:05+00:00",
+     "summary": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD official Kirsten Davies to take overWhite House national \u2060cyber director Sean \u2060Cairncross \u200bwas ousted fr",
+     "image": "https://i.guim.co.uk/img/media/111ee764d1555c6945ee7d005da2426e8ae483bb/88_0_3244_2597/master/3244.jpg?width=140&quality=85&auto=format&fit=max&s=0ac97b5bf427f29f204b519fac109efd"
+    },
+    {
+     "title": "Pima County certifies Nov. 3 general election results",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2RXNU5seFBxVDRjUHowbVVSRy02MVRuY2owUnN4anRrRmhmRms2ZlNMaDZmWkJjXzhvNzBSOS0xakVHYlZ1UkpfTEJhUjRkc1MyVmdIYkFya2ZORmNvb3R4bmNSb2lGRzc1SEJJZXp2UnNXRzY2Tzdvai1pbzJZZnl5QjVYVHpXR05DOVQxS3I4RlBWTHlZbERJMDVZRV9zeHNneFdkY2JURzdrZnFJdF9tYXNQWlRkZzFqelF1czRlajBMWEE?oc=5",
+     "source": "KVOA",
+     "published": "2026-11-20T01:20:00+00:00",
+     "summary": "Pima County certifies Nov. 3 general election results&nbsp;&nbsp;KVOA",
+     "image": ""
+    },
+    {
+     "title": "Trump\u2019s DOJ is backing down on election fraud cases",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ctNVJ2b0xOeTZQRHVoNG8wZVBqcV9BVkI5T2trbHZmSnljRGl3Ym1NVUxxM05qXy1NVGNoT0pwMXF0YkU3TS13SHNuRUVOZWhOaC1kN2ZNVlRXa05XSmhCWDRzOTB4RTVreGZUQVVWRDFhb2xLZGZDMTU0VnZLRWlwV2pGYy1mV1Fsc1N5Yk1JSEJzMklFYjJKX25MVFU3alRURUxRclpESGthTGVDTnlhUFd1dw?oc=5",
+     "source": "The Independent",
+     "published": "2026-11-20T01:15:00+00:00",
+     "summary": "Trump\u2019s DOJ is backing down on election fraud cases&nbsp;&nbsp;The Independent",
+     "image": ""
+    },
     {
      "title": "El Paso County tests election equipment ahead of runoff voting; see early voting locations",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnRwRkhJQ1I1UHhiRFJ3eHgzOUlXNVUtZFN3QzYzaDJaR3pLZXAzaVYxV20wRnN4d24tVnlBX1NOMENmSmUybGQ4ZFpLTWNxYUJMOE1uZll4X1NUSGVNdUItTFoyWHoxTnpHOE1tS083UVhXWFVWRE5OVVNFMTN3dmxyakFlT0g4Y1BFNFFzMUwzeE9GbEJZSTM0ZGRGbTdXR0UwVTM5N2ROdHBTMFMxNlM2bW0wWkdGNEZF?oc=5",
      "source": "KFOX",
      "published": "2026-11-20T01:12:30+00:00",
      "summary": "El Paso County tests election equipment ahead of runoff voting; see early voting locations&nbsp;&nbsp;KFOX",
+     "image": ""
+    },
+    {
+     "title": "Minnesota canvassing board certifies 2026 election results",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcm5nUTBKVlFuTGt6TmJRTkhfb3NiQ2Z3U0wyWERLeUt5dDIzX1BseV9sR1QzTkYtVmVBbXdoRE9YME9TRFRNbUVyYnhtelhrMHE5cGhmLW5fbUpIZjhZSFJBSEhZYlFrbGZYaThoaXI3a19COXo1UVZ2M0ZIMVZQclNOemFWaU1IVTZHV003SXV3NWVVV1HSAaoBQVVfeXFMTkxqUWtKT3NYX1I4OS05NGh2TTMzRkdqZ0xZRFlxalZsZWZkLWNkWF9jR1FUd1FiLV9WWFUyaFE4bTdCaUoybUJWYzdOU0l2MU50bTZsZHdQdENVTFpUY0J4RTVkV1B6NGtwUEtoSENvTDlmUGRyQmlQeEpaYldGVjk0S0VSeG5HZW5SVVdEbTVubUJrSjEtOERUcURReEtQTHREYVpHNnlVamc?oc=5",
+     "source": "KTTC | Rochester, MN",
+     "published": "2026-11-20T01:12:00+00:00",
+     "summary": "Minnesota canvassing board certifies 2026 election results&nbsp;&nbsp;KTTC | Rochester, MN",
      "image": ""
     },
     {
@@ -243,88 +307,24 @@
     },
     {
      "title": "PM S\u00e1nchez admits 'mistakes' in key debate ahead of Spain's election",
-     "url": "https://www.france24.com/en/europe/20261120-pm-s%C3%A1nchez-admits-mistakes-in-key-debate-ahead-of-spain-election",
-     "source": "\u00a9 Jaime Reina, Josep Lago, AFP",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkF3R2dYTmxkQURQVy16aG1vVE54cmVlRWcxNFNXbFd3UldKNUNIQnFMWTNHNmZORkpCS2k3c25ZdjN4OEw0R2ZoeW5pR2Uyb1ROWUhCQ3B3YTdHNjRoX2RyQm1qRFltN0VkREhLYjVweHZna1FDOHNhN3BRS3JFS0pUTl85cWxoeFdpc0xBV3hqTmxTa2wwM1NTcnRmVkVob2dLcFduTURsdmJGZEFXSDRNQQ?oc=5",
+     "source": "France 24",
      "published": "2026-11-20T00:49:44+00:00",
-     "summary": "Spain's Prime Minister Pedro S\u00e1nchez acknowledged shortcomings in his government on Thursday as he faced conservative rival Alberto N\u00fa\u00f1ez Feij\u00f3o in the campaign's only televised de",
-     "image": "https://s.france24.com/media/display/adb0ecfc-e435-11f1-9ff1-13439ca2fe89/w:1024/p:16x9/bfcd4adc17d0c1b4d4952e5c826ecffd1efc0af3.jpg"
-    },
-    {
-     "title": "CHEMEKETA BOARD: Budget status, policy change reports heard",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmlEc3pKY0xlTng3bEZHMVpEMlNsYnRiTk5LZVpRRzkxTUtmMm14Tlk0X3pidWpyUmE3TGpHT3J6WlRxWDEyVXpNYW1FZXNXaEhLRmo4dTYyUkF6bzlLYVlILXJFWG9KdVktVWxVSnprdV9XTTVqRm5nQ3EwWVhKaTc3UHJncVFWWl9vUmhrWGFxX2h0QmtrSHNBWlFWTkJOb3c?oc=5",
-     "source": "Salem Reporter",
-     "published": "2026-11-20T00:46:25+00:00",
-     "summary": "CHEMEKETA BOARD: Budget status, policy change reports heard&nbsp;&nbsp;Salem Reporter",
+     "summary": "PM S\u00e1nchez admits 'mistakes' in key debate ahead of Spain's election&nbsp;&nbsp;France 24",
      "image": ""
     },
     {
-     "title": "El Salvador\u2019s Bukele expected to formalise bid for third presidential term",
-     "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T00:22:02+00:00",
-     "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
-     "image": ""
-    },
-    {
-     "title": "After lawsuit, Gov. DeSantis sets special election to fill vacant state Senate seat",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFFqV2Z5OFlqaElpaElPQ0lvWnU0Z3pLTVNKQ3lOcFBWWGxSaG9XelgtMXJRS25keHlKU083Z2EycENGaEZJdFdzaU04bTRpczdUVHhwUzN3ZnFNNDJhQnVEVllleTFoUzFvU1kxNDlLV09nZHJtMnczcE5wU3gzNVdIXzJ3SkNEdERJLXhud19jNkdDR3BlTllOR1FXcFFYdEZvejVidXB0cEZvbndkNDRiR0ozUkhmY3pUTg?oc=5",
-     "source": "Florida Phoenix",
-     "published": "2026-11-20T00:20:16+00:00",
-     "summary": "After lawsuit, Gov. DeSantis sets special election to fill vacant state Senate seat&nbsp;&nbsp;Florida Phoenix",
-     "image": ""
-    },
-    {
-     "title": "Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly required by state law",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaHk5WGZLM1ZzUHhKMUxJMmlQdmdMOFV3MWlfRWhpdzRTbG52VkxlanRQM3JMVWpWdDBRQjFpSlF1WmhadWV4MUlJTEVVUGVOdUhNc1VwZlE4aVE5YXZ2Ym5qTWNyeEVsODdTcmwzT3d5cnRXZ2MzSVpMdkdKcG1FLUhCeDBnZENFWW9NVU44S1JITWVLUnVERm5pcVNLZVRpdVZVaEQzdTJZWElOM1k3cE8zTFVhSF9hWkdaOVY3ODJSZDR2N1ZxOThUR2J0bUhGc1FWZGdLNnY?oc=5",
-     "source": "KERA News Breakthroughs",
-     "published": "2026-11-20T00:11:46+00:00",
-     "summary": "Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly required by state law&nbsp;&nbsp;KERA News Breakthroughs",
-     "image": ""
-    },
-    {
-     "title": "ELCA Church Council adopts social policy resolution on abortion",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXhLXzZ0M1RPOXhNeHZ3QTVfXzhDZVNEbmlyeFlGU2FoeTRKYzRNdmlxUUFmcS1wQ1J5b3FWR3AySnhOYkFDQ1lVS0hFQkxJdXY4dXVRd2JiSkpqYTJvaVNxTVpGVmVLWWRDQWlmbE52aWRJTEZxcWltQUlGdFNhdTdIaUV1VExwLTVJci1DYkdiZmoxeVVHSmlKQWRzdzhpSGpOSVZ1cXh1Zjk3RS1sOTRR?oc=5",
-     "source": "Living Lutheran",
-     "published": "2026-11-20T00:07:46+00:00",
-     "summary": "ELCA Church Council adopts social policy resolution on abortion&nbsp;&nbsp;Living Lutheran",
-     "image": ""
-    },
-    {
-     "title": "La Crosse County audit confirms no errors in November 2026 election results",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPclY1STk4RkpUZEg0ZXZWcFM1bXhSd2drRGowREpOR3c2dnZRWldhZVhiTmR3bFc1Tjd3YmdIWlpDZWljcEd0MUpzZWRPNm0wZXdyZ1BrMnZ5Um5rQmpxYV8taWFld1BiaUllaGlIU1htXzRkMUxhclVQMlRZN1NIZWx2dmZhZjk2bXFqdGtQdUplM0lPOTBSSmROSmZUTHdCdTM5WHB2a2Jza0VmRXM0ZENpUG9oeWs2RWV3MlFXcHpRbi1NbVdZMG5kbHl6ZTlIQ2VvcFRYcVpselBEV2xoVXRMSmJIdmtnTHFxaHhVdUZLYUVNZ0E?oc=5",
-     "source": "WXOW",
-     "published": "2026-11-20T00:00:00+00:00",
-     "summary": "La Crosse County audit confirms no errors in November 2026 election results&nbsp;&nbsp;WXOW",
-     "image": ""
-    },
-    {
-     "title": "Trump\u2019s pick to lead election security agency says Jan. 6 was not an \u2018attack\u2019",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnRxQUdxVm95OTZLNTVlVk1Bb1R2VVVLMHlUSDlUdUhtTVlkRldKWTlPa1Y4Uk1uRC1PR1FuTEFYLVBiWV9hYlJCVEdubGVHT1c3QkRxRW9UejBseGs1dUhpejZCdmo3b3VyMFBETDVGZFgwa040T3RsV0pXQWJZOUFzV3FzTkxYUHB5azJic3VhanhoTENSdWZKN0JrWHdlbENyMHNDNEZJbFhfUm9HZ3ZWbzYzLWNn?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-19T23:58:35+00:00",
-     "summary": "Trump\u2019s pick to lead election security agency says Jan. 6 was not an \u2018attack\u2019&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Minnesota canvassing board certifies 2026 election results",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdkhKMkg2QTctVjE5c2MzcnJUalBHQ2RBZ0MtRmlhWXh0Q1JyWkxRY3kyWE96SDVhQmxaQ3Q5NTBFOUNiUFZTalBaWWkxN0RWUG8tbjQ5SXQ4V1NybXcwYXpxeEhCenJlSUQ2eU0xd1o1Q0hrRHU1U3lJTkxGLUVlYncyYTJPLXRDeWZkYWZONG5CNWNXVnNXczd2VVdLdw?oc=5",
-     "source": "KTTC | Rochester, MN",
-     "published": "2026-11-19T23:52:00+00:00",
-     "summary": "Minnesota canvassing board certifies 2026 election results&nbsp;&nbsp;KTTC | Rochester, MN",
-     "image": ""
-    },
-    {
-     "title": "Santa Barbara County Midterm Election Surpasses 64% Voter Turnout",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnNDb0dfdUZHOVNrVEJiTjktTExBQno2bGpiYkI0aEVpVTk4WHdqd0JkUjhHd05mamQtbnJpbWFzWG9WYWNoeWpWRjRjMWJGNVVLb3BZSEFOR2hfQnctVTAxa0ZvVDlfRGdnM3JvN3dFOGlCSEtWcXZmWXdIYWhQQ280MGkyUlVmenRxQzU4ZmtuaVlT?oc=5",
-     "source": "Noozhawk",
-     "published": "2026-11-19T23:50:37+00:00",
-     "summary": "Santa Barbara County Midterm Election Surpasses 64% Voter Turnout&nbsp;&nbsp;Noozhawk",
+     "title": "Montana\u2019s midterm election turnout rate held steady, while county results varied widely",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjUxLVNPX00zdWxXSURwMksyZ19tV3dsT19tQ09OeWNqRVVPUE5md0U1R3psdHBYRmRUUEp6WmwyVy1BQlZPVFotZXg5RVlPQkRFajZLcXJUd1RzOUxsX2U5UWx6eXJ1d1RxOGR0SVJuVFlmeFpJSWRfVjFDbFNrRUtSODE2NzVs?oc=5",
+     "source": "Montana Free Press",
+     "published": "2026-11-20T00:39:27+00:00",
+     "summary": "Montana\u2019s midterm election turnout rate held steady, while county results varied widely&nbsp;&nbsp;Montana Free Press",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T01:14:49.465128+00:00",
+   "fetched_at": "2026-11-20T01:44:53.026521+00:00",
    "stale": false,
    "items": [
     {
