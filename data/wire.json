@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T21:48:24.143630+00:00",
+ "generated_at": "2026-11-20T21:48:44.548277+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T21:48:24.143601+00:00",
+   "fetched_at": "2026-11-20T21:48:44.548251+00:00",
    "stale": false,
    "items": [
     {
@@ -19,14 +19,6 @@
      "source": "NPR",
      "published": "2026-11-20T21:32:31+00:00",
      "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible",
-     "image": ""
-    },
-    {
-     "title": "Iraq PM targets militia stronghold in bid to assert state control",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T21:28:25+00:00",
-     "summary": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
      "image": ""
     },
     {
@@ -116,11 +108,19 @@
      "published": "2026-11-20T20:03:11+00:00",
      "summary": "As thousands from Qatar&#039;s Nepali community watch their team play, they hope that the team will rise in global rankings.",
      "image": ""
+    },
+    {
+     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T20:00:53+00:00",
+     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T21:48:24.143616+00:00",
+   "fetched_at": "2026-11-20T21:48:44.548263+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T21:48:24.143619+00:00",
+   "fetched_at": "2026-11-20T21:48:44.548266+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T21:48:24.143621+00:00",
+   "fetched_at": "2026-11-20T21:48:44.548268+00:00",
    "stale": false,
    "items": [
     {
