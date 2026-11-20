@@ -1,17 +1,81 @@
 {
- "generated_at": "2026-11-20T13:17:02.942153+00:00",
+ "generated_at": "2026-11-20T13:47:06.793578+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T13:17:02.942123+00:00",
+   "fetched_at": "2026-11-20T13:47:06.793548+00:00",
    "stale": false,
    "items": [
     {
-     "title": "UK says EU reset deal agreed but talks will continue \u2018in some areas\u2019 \u2013 live",
+     "title": "Myanmar, China object to \u2018unfair\u2019 ICJ genocide ruling",
+     "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T13:41:49+00:00",
+     "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court&#039;s decision was not unanimous.",
+     "image": ""
+    },
+    {
+     "title": "EU wants \u2018closest possible relationship\u2019 with UK after agreeing Brexit reset deal \u2013 live",
      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-20T13:09:36+00:00",
-     "summary": "UK statement comes after EU said deal would not take effect without future agreement over university tuition feesSenior correspondent Making today\u2019s reset deal contingent on a furt",
+     "published": "2026-11-20T13:38:07+00:00",
+     "summary": "President of European Council says EU \u2018remains open to have the closest possible relationship\u2019 with the UKSenior correspondent Making today\u2019s reset deal contingent on a further agr",
      "image": "https://i.guim.co.uk/img/media/b27d3ee34f879e3cdf8410a75595717f4585e5ed/358_0_2972_2378/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=2c2ba4464a31680b4c19d14757b80b84"
+    },
+    {
+     "title": "White House removes cyber-security chief after series of tech outages",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T13:28:32+00:00",
+     "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
+    },
+    {
+     "title": "Judge says ICE \u2018made a mockery of court orders\u2019 with instant re-arrest policy",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-rearrest-judge-mockery-court-orders",
+     "source": "The Guardian",
+     "published": "2026-11-20T13:26:36+00:00",
+     "summary": "Federal judge in Colorado finds immigration officials in contempt but takes no more action after they end practiceA federal judge said that the US Immigration and Customs \u2060Enforcem",
+     "image": "https://i.guim.co.uk/img/media/8f32deb14cc10ae41483895e401b529e65e7973a/161_0_1611_1289/master/1611.jpg?width=140&quality=85&auto=format&fit=max&s=d392795862e579815f1a416a20dd3fe6"
+    },
+    {
+     "title": "Poland hit by at least one Russian missile, says Polish govt",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T13:23:53+00:00",
+     "summary": "Poland hit by at least one Russian missile, says Polish govt",
+     "image": ""
+    },
+    {
+     "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+     "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+     "source": "The Guardian",
+     "published": "2026-11-20T13:23:22+00:00",
+     "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if \u2018still here and fit and healthy\u2019Nigel Farage has said he does not see another person who",
+     "image": "https://i.guim.co.uk/img/media/9eddad5b74dda0775bc48ef94b9d4dc105063b40/194_0_2514_2012/master/2514.jpg?width=140&quality=85&auto=format&fit=max&s=565e3ffdf780f66bc1c5ca28a67dd020"
+    },
+    {
+     "title": "Friday night will be \u2018coldest of the autumn so far\u2019, UK forecasters say",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
+     "source": "The Guardian",
+     "published": "2026-11-20T13:18:00+00:00",
+     "summary": "Lows will be \u2018severe\u2019 in the north, down to -9C, with some sub-zero temperatures farther southFriday night will be the coldest night of the autumn so far, forecasters have said, su",
+     "image": "https://i.guim.co.uk/img/media/29b1e09e54517272ab169da195999ffad809c41d/113_88_2810_2249/master/2810.jpg?width=140&quality=85&auto=format&fit=max&s=3d0f9a7a5bca6ba55d1bd93e27e6ed26"
+    },
+    {
+     "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+     "url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T13:17:00+00:00",
+     "summary": "Iraq&#039;s Federal Police are due to assume control of town&#039;s newly established control headquarters.",
+     "image": ""
+    },
+    {
+     "title": "Mahmood \u2018smells a rat\u2019 over housing provision for vulnerable people in Birmingham",
+     "url": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
+     "source": "The Guardian",
+     "published": "2026-11-20T13:15:27+00:00",
+     "summary": "Warnings over exploitation risks come amid push for investigation into supported exempt accommodation sectorThe home secretary has launched an attack on providers of housing for vu",
+     "image": "https://i.guim.co.uk/img/media/72e9413a40ec3b068d7d3b3df9e86e1187d4f5ab/664_295_4431_3545/master/4431.jpg?width=140&quality=85&auto=format&fit=max&s=73d9b57db02bc2bd5c09ca18744d3093"
     },
     {
      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
@@ -46,89 +110,105 @@
      "image": ""
     },
     {
-     "title": "Fallout over tuition fees may snag Burnham\u2019s EU deal, say insiders",
+     "title": "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
      "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
      "source": "The Guardian",
      "published": "2026-11-20T12:42:08+00:00",
-     "summary": "No 10 pushing back on claims in Brussels that lack of agreement on fees for EU students could sink agreementsThe UK and EU have agreed a reset deal, Downing Street has said, althou",
+     "summary": "Discord between EU and UK on whether arrangements for food and drink, emissions trading and youth mobility scheme depend on settlement for studentsThe UK and EU have agreed a reset",
      "image": "https://i.guim.co.uk/img/media/5c79dc09bc15f94162fd0c0df2043d4a0ba4bec8/324_0_3238_2591/master/3238.jpg?width=140&quality=85&auto=format&fit=max&s=d339d0a657581cbf412fa376c96b8b93"
-    },
-    {
-     "title": "Friday night will be \u2018coldest of the autumn so far\u2019, UK forecasters say",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
-     "source": "The Guardian",
-     "published": "2026-11-20T12:40:05+00:00",
-     "summary": "Temperatures will be \u2018severe\u2019 in the north, as low as minus 9C, with some sub-zero temperatures farther south Friday night will be the coldest night of the autumn so far, forecaste",
-     "image": "https://i.guim.co.uk/img/media/29b1e09e54517272ab169da195999ffad809c41d/113_88_2810_2249/master/2810.jpg?width=140&quality=85&auto=format&fit=max&s=3d0f9a7a5bca6ba55d1bd93e27e6ed26"
-    },
-    {
-     "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
-     "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
-     "source": "The Guardian",
-     "published": "2026-11-20T12:34:30+00:00",
-     "summary": "Polish PM calls strikes, which took place amid western military exercises, \u2018an intentional provocation\u2019 by MoscowTwo Russian cruise missiles and a jet-powered drone are reported to",
-     "image": "https://i.guim.co.uk/img/media/40ddac72b97d30f4ecd468edb3e34acd6a88e9b3/684_0_2044_1636/master/2044.jpg?width=140&quality=85&auto=format&fit=max&s=8ae27ec87b43c20e0e065f4cc925d25e"
-    },
-    {
-     "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-     "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-     "source": "The Guardian",
-     "published": "2026-11-20T12:28:12+00:00",
-     "summary": "Surge fuelled by \u2018preppers\u2019 heeding Be Ready campaign\u2019s call for households to have three days of food and water for emergenciesBusiness live \u2013 latest updatesRetail sales in Great ",
-     "image": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=140&quality=85&auto=format&fit=max&s=8dfcf0e5064769f2391ce1d79f2bf36a"
-    },
-    {
-     "title": "First Thing: Blockbuster Anthropic IPO fails to halt global slide in AI stocks",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
-     "source": "The Guardian",
-     "published": "2026-11-20T12:26:42+00:00",
-     "summary": "Record-breaking IPO for company behind Claude comes amid tumbling prices for other AI stocks. Plus why the humble potato could be vital for future space missionsGood morning. Globa",
-     "image": "https://i.guim.co.uk/img/media/c1bc477780b6c1ea31cf14df5a582eb755bddcaf/936_0_6323_5059/master/6323.jpg?width=140&quality=85&auto=format&fit=max&s=4d14597a45cbf6f010ae536d520c65e0"
-    },
-    {
-     "title": "BaddyDeadpool: The protester blending humour with activism",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T12:26:29+00:00",
-     "summary": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
-     "image": ""
-    },
-    {
-     "title": "What does the ICJ\u2019s Rohingya genocide ruling mean for Gaza?",
-     "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T12:20:29+00:00",
-     "summary": "The case sets a precedent for establishing a state&#039;s intent to commit genocide beyond explicitly written orders.",
-     "image": ""
-    },
-    {
-     "title": "Searching for the next Messi at the Under-17 World Cup",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup-2?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T12:20:09+00:00",
-     "summary": "Nearly 100 football scouts are in Qatar, searching for the next superstar at the FIFA Under-17 World Cup.",
-     "image": ""
-    },
-    {
-     "title": "US targets Iran\u2019s ship-to-ship transfers: Can Tehran break the blockade?",
-     "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T12:19:24+00:00",
-     "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T13:17:02.942137+00:00",
+   "fetched_at": "2026-11-20T13:47:06.793562+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1JuSHNCaFI5b0twb05Od2ZydjBaNDcxUWpyTUdyOGRfMk5PVTJOWUllVzEycmxPeUNMc0x6d0ZZNFJfNHBnemo3NlBuT0dONElYWkZsN0NRS3VWRlV2THNoQmx6a2w1UVJMOXNPdFpIVkVueFB1X3UtVkdmbW5hSWdhZTdqSk5LOGR1LXdzRHlscy12MFpPSzFYeWJORzNQeEZHcENmSXN3SEZ0dHlVWkRmOXppaGZBaVpkNlVQaHlHeXN4ZFloT0FHS0NNUzY5VmZ6X1BBbnNpMDI1dnVj0gHkAUFVX3lxTFBweWdWdG5leEV3bERTb0RUUGJsUTdfQ1VlU01CNXNaWDFNMkJ0dEpWaXI4bHBmTUt5UzhncGtZWmpKYW5vMUVIamhjNkFxMm1FLWIwam1UZjJnS2NMVEwtV3dSc3Q4NFdHemRBMUFycWxiRWh1YURqUG02aHduTGRTRTRFdHBPdy1JMVFyUnY5NFBPZGdFMUl1Y25QNWQ0NlA0NVNRMjV0SVlvOXdpX093NjhIV1RrOGdCd0tDUHVHRmM5bzlPd2pIT09YVk1kU2I5SkwwaFhrc3UwTEJkNkQ1U3lmeQ?oc=5",
-     "source": "myMotherLode.com",
-     "published": "2026-11-20T13:06:58+00:00",
-     "summary": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack&nbsp;&nbsp;myMotherLode.com",
+     "title": "Myanmar, China object to \u2018unfair\u2019 ICJ genocide ruling",
+     "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T13:41:49+00:00",
+     "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court&#039;s decision was not unanimous.",
+     "image": ""
+    },
+    {
+     "title": "Jared Kushner says Russia appears ready to accept NATO-like security guarantees for Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeEVNUDBndzhiOTRzRHVkODlNZVV1NFlVaGNYUHRSSGFZY2tlSEZfZHRPOGdSNjUwZGY2cFBDOG5zSWFBZjdmdEtnRzJHOHg4LVJ1YUpEU0J6SkZKMl9ZdS05d3lzaVdWLThrRXBPaVdGNnFKNV9QbkdTZ2kzeWhlVzBIT0JpZWIxaWM0YjA3a2hLM2JJTFhMTjBTVVg5bWNvWkNjZ243dy05aFVORGZPc0hCa01GeUJZRnBzVGxUb1BCZUUyWUZJaC1B?oc=5",
+     "source": "New York Post",
+     "published": "2026-11-20T13:38:00+00:00",
+     "summary": "Jared Kushner says Russia appears ready to accept NATO-like security guarantees for Ukraine&nbsp;&nbsp;New York Post",
+     "image": ""
+    },
+    {
+     "title": "Russia\u2019s Pantsir-S2 Was Supposed to Stop Ukrainian Strikes\u2014Now Ukraine Has Hit It Too",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0FIdzBfYUNieTVKZGRYVEZQR2xaeEZkYTdHNU9qcHg2eWZoR0F5NWVVbkVXS2kxd0hyQWQtMldXNUpJZmhOVW0yMlk2M012eEhJSUFLN0hoWFBHOTR1MDBFR0tPVHZPSHdmMDNzX0M2YnFMZzBMUkE3SFVuLTYyYkN1XzcxdjJhUnB0bWttM0lpWlpGVlQ4NkljR2gwQ1JULWNPR3lsSDFob2k0NlZEakItSUFwUl9qYXRCVlNLNmlHOFpqb2dlZ3IyZw?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-20T13:36:28+00:00",
+     "summary": "Russia\u2019s Pantsir-S2 Was Supposed to Stop Ukrainian Strikes\u2014Now Ukraine Has Hit It Too&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "The War Is Ravaging Ukraine\u2019s Wildlife, Too",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mSGhHcWttY0cxZTVGa3VBcDFzX2NqeVNpaTBLcmxqaEY1MHZGV0lEalNLWFhHYUlUSE5iSWVIaGdFczFHNTBvaGl6WUJvMUFDcGdaZGVuMnlZQWVXdHhmM0NWS2hlWGdteHBQTGRvdm4telhFYUxCYlZNYlNDZw?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-20T13:36:03+00:00",
+     "summary": "The War Is Ravaging Ukraine\u2019s Wildlife, Too&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "8 killed in Ukraine as Russia hits back after Crimea bridge attacks",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHBEMkFaaHpKSERkN1BoanNTdC1SbDhGbFlQeTY0Nkhab3NfV2NNYWVJSG04NWdmMWtXbW5UbVZtOURESjdKNmpZcWNzVmJCSk9nel9HSmVGZlNpMDg1TS14SFdWdFJabF9wc3ZuTHhaZURPZ0ZWUWFTYVVXUkk3VWs4Q09DdjJabW9WczdCNXdVVnFPUU1XaHVoY21JV2ZON2JHWnlqTnFpTlpTV2h4VV96VTJWTmM?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-20T13:33:05+00:00",
+     "summary": "8 killed in Ukraine as Russia hits back after Crimea bridge attacks&nbsp;&nbsp;South China Morning Post",
+     "image": ""
+    },
+    {
+     "title": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTVJZalNPNXhBXy1LZk5tdHN6SDNMa0hBN1AzV1pTM3RDMC00MWZSVHFfSDFEZ0ZWa2tqTEZ3YkdGMHhVM3dOeWJwNldsNTZSSy1kWWtQT20wYmU5aU1qaEVVeVlZazB5cXEycXFDTE8wQnZVXzNZTWo2bkw3V1oyWkRlU09kTzN6REkzdU5meHlNYTNqSGJpRDI3ZDRybmtSRkxpdEtIdWxHdlRJbjZpVHpxaTYzZkRqQjRLaW02T0FSTkFkWUM1ejVMYUFHMHUyYkdJWWR3M3AyNm5HeEJDU0R3MXZCY3RwdV9EZWVFS0FCMzBVanpJN0x6dVU?oc=5",
+     "source": "KTVN",
+     "published": "2026-11-20T13:33:00+00:00",
+     "summary": "Warsaw says a Russian missile crash in Poland is a provocation as Ukraine allies hold drills&nbsp;&nbsp;KTVN",
+     "image": ""
+    },
+    {
+     "title": "Poland hit by at least one Russian missile, says Polish govt",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T13:23:53+00:00",
+     "summary": "Poland hit by at least one Russian missile, says Polish govt",
+     "image": ""
+    },
+    {
+     "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+     "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+     "source": "The Guardian",
+     "published": "2026-11-20T13:23:22+00:00",
+     "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if \u2018still here and fit and healthy\u2019Nigel Farage has said he does not see another person who",
+     "image": "https://i.guim.co.uk/img/media/9eddad5b74dda0775bc48ef94b9d4dc105063b40/194_0_2514_2012/master/2514.jpg?width=140&quality=85&auto=format&fit=max&s=565e3ffdf780f66bc1c5ca28a67dd020"
+    },
+    {
+     "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+     "url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T13:17:00+00:00",
+     "summary": "Iraq&#039;s Federal Police are due to assume control of town&#039;s newly established control headquarters.",
+     "image": ""
+    },
+    {
+     "title": "Mahmood \u2018smells a rat\u2019 over housing provision for vulnerable people in Birmingham",
+     "url": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
+     "source": "The Guardian",
+     "published": "2026-11-20T13:15:27+00:00",
+     "summary": "Warnings over exploitation risks come amid push for investigation into supported exempt accommodation sectorThe home secretary has launched an attack on providers of housing for vu",
+     "image": "https://i.guim.co.uk/img/media/72e9413a40ec3b068d7d3b3df9e86e1187d4f5ab/664_295_4431_3545/master/4431.jpg?width=140&quality=85&auto=format&fit=max&s=73d9b57db02bc2bd5c09ca18744d3093"
+    },
+    {
+     "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeV9qSzNGLU5BaGd1UHRudmk5NjV5UDFnLVJuX2FYUUZnZmpVZjZkZFVSZzE3SnFzMkZLVVZDMktHTGdUbGJTM3E4S2VZMW9hcWhaR21uSFB5czM3ZDZBNkF2ZmlrUWtmOHF0S3Z4MzhLUzl2ZmxiWXlwUjdSODdHeHlOa29DUmNzTl9oTG5WbjlfbjJheEt3YmRBR2I?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-20T13:14:14+00:00",
+     "summary": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says&nbsp;&nbsp;DW.com",
      "image": ""
     },
     {
@@ -138,93 +218,69 @@
      "published": "2026-11-20T13:05:29+00:00",
      "summary": "At least eight killed in huge Russian missile barrage on Ukraine&nbsp;&nbsp;The Times",
      "image": ""
-    },
-    {
-     "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-     "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T13:01:16+00:00",
-     "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
-    },
-    {
-     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T12:56:48+00:00",
-     "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Ukraine War, Day 1,730: Kushner\u2019s Muddled Statement on Security Guarantees for Kyiv",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN1pVZjVqRktKb21rNDk4T2NzLXk0YlpJTVA3aHNKZnowOWtkcEZERXpZVnczZm1OTnJoWE04Vnc1MnNabmxjZ2JKUVkyaGZMRFlIQnhXVXM0cmdfQ0lybDdqT2FHLTd0VVdaQ201YV9CQzdteEpPc1F6V1dEeEFFM2JnV1ltQXZQMENOeVEtb1ljUmFRUFBwTzRaX3l0Vm9CN2h2Yg?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-20T12:43:53+00:00",
-     "summary": "Ukraine War, Day 1,730: Kushner\u2019s Muddled Statement on Security Guarantees for Kyiv&nbsp;&nbsp;EA WorldView",
-     "image": ""
-    },
-    {
-     "title": "100 Russian Drones by Day, Up to 200 by Night\u2014Ukraine Endures Near-Constant Air Attacks",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN0s3UURZa05lTjJ2WkhhOHI5NDV4OE45RHU3TGVhQ3h4eExETk5EWlhWT3pHd0k5aF90SXVHdTJXRUJ4TS1VZzJiYWc1bVk2Wk54NmF3ckllSXVYUlBEa0NFVEtITklLWGo5YUs1R1pYMm10NzgzNFlEUDZNdWdvbDlPUS01NkpMVmh5OElIU3NSWlhrMG9uNjN5VkV5cmg2SzZ0YmRTYkpZY05ZekVKblo4aDJHelVOSnh3N19IYVZKaFB1X18xRnZHbWxSUQ?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-20T12:41:13+00:00",
-     "summary": "100 Russian Drones by Day, Up to 200 by Night\u2014Ukraine Endures Near-Constant Air Attacks&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "France calls for UN Security Council meeting after Russian strikes kill eight in",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTRMejJrTkM5NURwc2lHYW51LW01akdvd2dnTmZfcWlZb3JLZVdzUkU4WEQ2cXdSV1pUdGx0RWN1NUdfTVVYdE9FSHc0MEVtVnpaM1NTMmRNcFpjZnF0Y05fd2VuNVRwSEVxNXIzaFNQV0xJQnJGbVNOZElESHN1aEpnaGV2QUo1bVE?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-20T12:35:18+00:00",
-     "summary": "France calls for UN Security Council meeting after Russian strikes kill eight in&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "Estonia Dismisses Idea of European Leaders Traveling to Moscow, Urges Putin to Agree to Ceasefire",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yTGJYUkVlbmt6czRYbXF0TXZBSnhiclcxVUo2UC0tenE1V3RFRXJBUXROUjNDVURhZnZxYXJBTHQ1V0hKZWRDSF9kaw?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-20T12:35:16+00:00",
-     "summary": "Estonia Dismisses Idea of European Leaders Traveling to Moscow, Urges Putin to Agree to Ceasefire&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
-     "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
-     "source": "The Guardian",
-     "published": "2026-11-20T12:34:30+00:00",
-     "summary": "Polish PM calls strikes, which took place amid western military exercises, \u2018an intentional provocation\u2019 by MoscowTwo Russian cruise missiles and a jet-powered drone are reported to",
-     "image": "https://i.guim.co.uk/img/media/40ddac72b97d30f4ecd468edb3e34acd6a88e9b3/684_0_2044_1636/master/2044.jpg?width=140&quality=85&auto=format&fit=max&s=8ae27ec87b43c20e0e065f4cc925d25e"
-    },
-    {
-     "title": "What does the ICJ\u2019s Rohingya genocide ruling mean for Gaza?",
-     "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T12:20:29+00:00",
-     "summary": "The case sets a precedent for establishing a state&#039;s intent to commit genocide beyond explicitly written orders.",
-     "image": ""
-    },
-    {
-     "title": "US targets Iran\u2019s ship-to-ship transfers: Can Tehran break the blockade?",
-     "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T12:19:24+00:00",
-     "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
-     "image": ""
-    },
-    {
-     "title": "Rich Lowry: Trump\u2019s Ukraine-war realpolitik isn\u2019t realistic",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1ZYYTZsWjMwMkxWbXRSSWJTeGZjMEdJdy1DV3oxSjdVa2p5cTFYYVJDcHl1QUZBWi1OdjI5cERPbk1kdmlaY2VVaXBIeDFBdVl3MkVVZmpjdTd3Z3FlN2VnMlh5TnVtSVAzZXJnTHRwTmJ4YmcyRjFwMHh0eHU1eTVEa1ZRM3BxMzZIVU5IVnpDcnNlZ1R5SE9vUENMQnpGOVNxX25pMmtFUQ?oc=5",
-     "source": "Maui News",
-     "published": "2026-11-20T12:12:09+00:00",
-     "summary": "Rich Lowry: Trump\u2019s Ukraine-war realpolitik isn\u2019t realistic&nbsp;&nbsp;Maui News",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T13:17:02.942141+00:00",
+   "fetched_at": "2026-11-20T13:47:06.793566+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "My hometown voted Republican for 50 years. Then came an election shaped by economic frustration",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLWJtd3RTdlIwN3FxZGRqNmw3dlNJUS1adjNsMURQSUl0QWY2N1N0T2FwVWUwVWFwUENDeGxTZllHWExJcGFRRHJVYmcxV2RRSi0xWkNISHdfVTdhR0JncHE1STJMZzg2Q0tQZ0Zhc2ZqbFo3cS1BX3ZDVFpidTZRYllsZzh4Y2VuZG9sN3ZyR0dPVTBDUUh4S09VbnFYek9LMUUtWjR4S2hxWDA3Y09HbE5xdG11YjNMT0lfQjJhT0lYSUFMX0tqT194dmRvS2RhNUpZQUh2dDI5TXFJYkRRZHYyNVYzUQ?oc=5",
+     "source": "KESQ",
+     "published": "2026-11-20T13:44:19+00:00",
+     "summary": "My hometown voted Republican for 50 years. Then came an election shaped by economic frustration&nbsp;&nbsp;KESQ",
+     "image": ""
+    },
+    {
+     "title": "EU wants \u2018closest possible relationship\u2019 with UK after agreeing Brexit reset deal \u2013 live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-20T13:38:07+00:00",
+     "summary": "President of European Council says EU \u2018remains open to have the closest possible relationship\u2019 with the UKSenior correspondent Making today\u2019s reset deal contingent on a further agr",
+     "image": "https://i.guim.co.uk/img/media/b27d3ee34f879e3cdf8410a75595717f4585e5ed/358_0_2972_2378/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=2c2ba4464a31680b4c19d14757b80b84"
+    },
+    {
+     "title": "White House removes cyber-security chief after series of tech outages",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T13:28:32+00:00",
+     "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
+    },
+    {
+     "title": "Judge says ICE \u2018made a mockery of court orders\u2019 with instant re-arrest policy",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWE1qRXRySmZxSG9lcFZ3ajZyWFMxN3pxTzM4LUM2ZllvTjFfU1AtT1pBTnlLR3JFdjJXeUJITFJxTlhER3VmeHJfanZReXZtQTZyOF9Xc2ZKVjd3N2NfUFI0d0lyS3pCUkRWdURBOXpzUFBNcFlZeXRsSUtMUmFHV0NYQ3l0Z09SOEljOVFpUkU?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-20T13:28:00+00:00",
+     "summary": "Judge says ICE \u2018made a mockery of court orders\u2019 with instant re-arrest policy&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "RESILIENT: Ukrainian Children Facing Russia\u2019s Systematic Policy of Inhumane Treatment",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaVY4T0Z1Z3NWWG53RnpnVUdXekVQU3J6LUR1MXFKQmVrM1lSQlhGemQzWF9uQWtEeHJ5VTNwVmRlS3FWSExTTTJieXhKb1ZNdHFhRGowUlNmR1VPRWxXaVpIYi1CSDZtVm9vS3hyUkZyelRjTzVSb0ZYVnE0RjFWT3VMT3Fkc19EdEtZUDM1SF9ZSzFYQzZPbkZWYzNXb0Zpb25Vcnh6enhJOUo1UU40OVRZYzBzZXdhc1dN?oc=5",
+     "source": "Global Rights Compliance",
+     "published": "2026-11-20T13:26:28+00:00",
+     "summary": "RESILIENT: Ukrainian Children Facing Russia\u2019s Systematic Policy of Inhumane Treatment&nbsp;&nbsp;Global Rights Compliance",
+     "image": ""
+    },
+    {
+     "title": "U.S. Senator Kevin Cramer Joins KNOX After Republican Midterm Election Losses",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaNExhZHNMYmw0REwtVWZwMnZDYmxYc05yQUE0aUhWaHBVTW5tSHNNTlMxajhSQjdTd3R6TWhUZVZ5eEx5ZXhQYndKUDNYQmh6c0VB?oc=5",
+     "source": "knoxradio",
+     "published": "2026-11-20T13:14:36+00:00",
+     "summary": "U.S. Senator Kevin Cramer Joins KNOX After Republican Midterm Election Losses&nbsp;&nbsp;knoxradio",
+     "image": ""
+    },
+    {
+     "title": "Westfield Mayor Scott Willis announces re-election campaign",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkdtY0d2MS10MUJ2WnlkOE1Oek5pQS1BR1ZCeUNUbkctUk82QnFtVzJ3T3JzbGJ3eFdXc09qWXJjVjJyQnpCV3p6M2ZzYVhib3FmN0V4bzNHYVp1ZWRTeldFRlEybTNYWmpQSV8xaGo1SlU0QnhOUnEyZHdqV2pBQXIwNXJYSGwyNW1iR2ViVkFBZw?oc=5",
+     "source": "The Hamilton County Reporter",
+     "published": "2026-11-20T13:10:28+00:00",
+     "summary": "Westfield Mayor Scott Willis announces re-election campaign&nbsp;&nbsp;The Hamilton County Reporter",
+     "image": ""
+    },
     {
      "title": "2027 French presidential election: Who's running?",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVGJmeXozYm0xZmxsczctVUt0Nlg0ckdzVjhfcWtfOTJXR3RKNENvdDl0LWtGb2tfNy1JNlVqdDJLb1Q3dzRaRzM2XzFMVmZFQnp2WXB2NkdkaUdEX1B6SzFrU0FraHVOaFd0UEtYTTJ2UzZkVE15NngxY1hDUU1VSXRwUVNPMjFLNkRnSDZKWHMxeUhzaHBFUXpLV3FDd2NubnNnLUMxOGp3amdpWnNrYWNuUW9ZMG9LU3FucC1B?oc=5",
@@ -245,16 +301,16 @@
      "title": "FIFA election 2027: Infantino facing two challengers \u2014 could an alliance change everything?",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlNKeldZTHdFTFFMaGUxdHpnbHpieG4xYzNoenZWM05PRmR4R3dhcXZEaTl6Sk96WVl0SjVONGVSSGJGTTNSNmJFNWtiVnl6WGtjQW9UX3A2SjhMQU01OEFiOUxrRGZ1Wlp3a0dCQjBWNjROZkg3Vko0QUtlYkxCMlExaGg4bEt1cEtoRXJCVG9LMWpycjdWTndOUDc4eVBvTFFjS241SGxxSVVxZF8zNjQ3dUFOVF95bXVMdUJyUFBZd3B3UmpKOF90WUkxTTFiWlHSAdIBQVVfeXFMTkNFM2tmdEFnSUxVOHZFbHJXd2JHSnoxdjMyYWtyNUJCaTFpUEszcUpwMml3eW5zQlVKNXFOUTc5SDVfVTRuQS1YeGd2SlFyUVZ2bW00Z1lIMjU2VzFXdC1pWGxGRUVYeGIzaXpCZG1WR3RVeTRwV2ZodFA5anI2OFBYVjAya0ZvclpLc011WEljc3ZmMHNWaG1saHZzT3I0Z0VjMkdJd3dBUW9JcEttVTZsUU94aVRqVW1jTWJpNHdtWmVLaUhweF9FUVF2MkgweVJ3?oc=5",
      "source": "DW.com",
-     "published": "2026-11-20T13:01:07+00:00",
+     "published": "2026-11-20T13:02:07+00:00",
      "summary": "FIFA election 2027: Infantino facing two challengers \u2014 could an alliance change everything?&nbsp;&nbsp;DW.com",
      "image": ""
     },
     {
-     "title": "Post-Election Bartering Trumps Votes for South African Cities",
+     "title": "Post-Election Bartering Trumps South African Votes",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzViLWlLb0FzYXlHYWJ1ZTRNN3ozdVVmZldIc09DNGd5ekl4S2V4MkJnSTd4RTN5cVlhNFIyVXZvcENQa2J0Zk9XNm9adG9wWDU2bmdtS1Y4OEJSYXRzZWNqUHR0WUJRbTFTb19rdnczSmdQaXNGWHJPM3Jhd1JzdW9nbTZSWW0zTU5BYnE4TG5wM2hxLXc1S0FteXZoQ19HekFjNlBVSU15eGJOYkdXUEZKQVg5UQ?oc=5",
      "source": "Bloomberg.com",
      "published": "2026-11-20T13:00:09+00:00",
-     "summary": "Post-Election Bartering Trumps Votes for South African Cities&nbsp;&nbsp;Bloomberg.com",
+     "summary": "Post-Election Bartering Trumps South African Votes&nbsp;&nbsp;Bloomberg.com",
      "image": ""
     },
     {
@@ -264,67 +320,11 @@
      "published": "2026-11-20T13:00:06+00:00",
      "summary": "Do sanctions cloud China-US-Russia pledge to boost global fuel supplies?&nbsp;&nbsp;South China Morning Post",
      "image": ""
-    },
-    {
-     "title": "Opinion | Artificial intelligence flourished in California election advertising \u2014 and divided voters",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2ZIVFhQbmxWX215UDE3NkV4MTFjWDVfZnB0UU5tQnJBdzA1Y2hvRHRhZTNhejFiYmRNbnRSc2dNS2ZDYThBU0g3NHlham5vVHlBTTdKVXU4UmNha2xoSnNEeGtDejNoMXJHSjhocHdTR0V6R0NhU0lQTHJ0SnN5R3Rjd3lJZEdVd1lPYlI0M1pZMXhzZ0ZKbTAtS082c00?oc=5",
-     "source": "CalMatters",
-     "published": "2026-11-20T13:00:00+00:00",
-     "summary": "Opinion | Artificial intelligence flourished in California election advertising \u2014 and divided voters&nbsp;&nbsp;CalMatters",
-     "image": ""
-    },
-    {
-     "title": "Mississippi election results fulfill wish of many | Guest Commentary",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRlBPU3ZTam5Uc2xTamdJdWQ4a3NRbEpIN2hiZzZWZHEtYUgyaTNqd2gzWDVsczJzRnhtOEozUnNPYlBMekRybjRhcWR2NUt3ejZWNFpEbEk4UXN0bXlXbmFCREhlZjhoQlp4bW5DWUh3RHdLeTZXSmxsMjM4NW9hd0pHU0NVM2hYTjltOFJ4QmVoc1Bid2hMeHVxbWxlVWpUWnd3OXlfdm9JMGsyOUQ3V2phcWtMSVZSRUN1MFNFMlZSV3Y5WWlWSm82d0Ezdlg1M1A2dkN6QnJpSjR1MjZuU2wxLURWNHJDTGdEU2hnanNrMUdHRUE?oc=5",
-     "source": "Santa Maria Times",
-     "published": "2026-11-20T13:00:00+00:00",
-     "summary": "Mississippi election results fulfill wish of many | Guest Commentary&nbsp;&nbsp;Santa Maria Times",
-     "image": ""
-    },
-    {
-     "title": "Rent is still due. Following midterm wins, Arizona housing advocates want lawmakers to act",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONTJQZWVRTnVacWZpenNNVVdyM3BZb0xENnpLTi1hMFBvR3VUMnBUTDZpYm5FT0NpeER2Z2o2TG5uNndPenBacno3OXlUdENzSmd0ZXVMbWhMOTd5OEtSTHVReXRsTnBGYjlnTk1uR2JkQTN6cjlqXzUxMkd6bUdMYTYycFkwUWlGMllBY0NNTVhUWVpkUDlmVmJMMU04c3lmYXpWcDc1X2txZmpzS0VJdnFtSHhoM3Nsckl1NGwxc24xcV94RHplUWR1dU5wM1pMLVJJTXZzVkIwaVJtZ0lzUnF4blVzX3pfLTkzMGcxNl9ienUzVzRwNkxNYnBmb3Zn?oc=5",
-     "source": "CaloNews.com",
-     "published": "2026-11-20T13:00:00+00:00",
-     "summary": "Rent is still due. Following midterm wins, Arizona housing advocates want lawmakers to act&nbsp;&nbsp;CaloNews.com",
-     "image": ""
-    },
-    {
-     "title": "Justice Department Gives Up on Alaska Senate Lawsuit",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPODFTam5HSTl5SjdGeGJZQW1zanhmSUtMMnY5NGw1YnFQcDdrNGNnWHgwek5oX2RDS3Rwc2FoLVRERlMxVWtmZXJpZWlmXzhsRWdremdGM0lOZEFyUHFaaVlsdnlFM3k1a2pJeGp4WVdLQjVWaWVJRy1JNzdDTzBnV0kyRHdPRVRpTi1UYnQ0NjNiNnRnNTlUa2pXdEtxaG1HMUl5ZUV1Yw?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-20T12:54:00+00:00",
-     "summary": "Justice Department Gives Up on Alaska Senate Lawsuit&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "'Sodium is a chance for us to lean forward and win': Alsym Energy at RE+ on why US battery policy needs to shift upstream",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNamtwODEwTUZkSks4WWFvUzdxXzUweGZQSkIyb2lzVkhORFpoNjJ2cHJJMWQ1ak9OVnNPVGMwdG5BZ1dqRnhtRXpKX0hTUFJMM2NPb09VZnh0c0FyaFhXNVRHUnVaSXJaUHBfWUcxMG1BN2hJM2JXWjc0VjMwVmo4WHNlbVViQnRreXRISkJkYjFZOENOYUJJeWIwZWxjZmZmZk5ZbV84S2NHdmNaV05TRmdTakxDeTR3ZmpXMFRWalFNZmg5VjY0V2dWTExmRmpZNENYcjh3bkM5b2FSNDlJVE1fY3E?oc=5",
-     "source": "Energy-Storage.News",
-     "published": "2026-11-20T12:53:38+00:00",
-     "summary": "'Sodium is a chance for us to lean forward and win': Alsym Energy at RE+ on why US battery policy needs to shift upstream&nbsp;&nbsp;Energy-Storage.News",
-     "image": ""
-    },
-    {
-     "title": "California Public Defenders Rally Behind Mano Raju as Court Hears Challenge to Contempt Sanctions",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxamtvNklRbmx0TmdtTEhRYXl3ZTJqaTl0blo1YWRNLVhqQ25Yb1paTXQ1clo3VjBIcHR5M3pQbG9zUlZoektFSWFQQU9fTklJYmFQYjJ2VE9jbGZsTTVYRTVIcG1JVDJGaGJSRXZWZ2NMNXFGTjRjejF2Zw?oc=5",
-     "source": "Davis Vanguard",
-     "published": "2026-11-20T12:50:43+00:00",
-     "summary": "California Public Defenders Rally Behind Mano Raju as Court Hears Challenge to Contempt Sanctions&nbsp;&nbsp;Davis Vanguard",
-     "image": ""
-    },
-    {
-     "title": "The Outlook For Data Center Tax Policy In The 120th Congress",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnc0TUtEN1NsdVB0MEJSeHg5OHBmaDExZ200b2Q2RXJacUxidUJ0anN2QXYwUU5sczRsZlNRMWp3c2k5SnJHLW1XUXowM1hfNE5NbnVKZlZmYzZuNklzaU8zRkJOdUtYQWpnNzRwSWx4ZVpJWHM4a3VwUEJhUF84eHQ1a3VQakVTczZMNVNQeW03VlRIQ09QcFltSGtlS2NXbnNCQzFyQmR6UFl4c3lkZmlKLWhPUlk?oc=5",
-     "source": "Legal 500",
-     "published": "2026-11-20T12:49:47+00:00",
-     "summary": "The Outlook For Data Center Tax Policy In The 120th Congress&nbsp;&nbsp;Legal 500",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T13:17:02.942144+00:00",
+   "fetched_at": "2026-11-20T13:47:06.793569+00:00",
    "stale": false,
    "items": [
     {
@@ -336,12 +336,12 @@
      "image": "https://i.guim.co.uk/img/media/c1bc477780b6c1ea31cf14df5a582eb755bddcaf/936_0_6323_5059/master/6323.jpg?width=140&quality=85&auto=format&fit=max&s=4d14597a45cbf6f010ae536d520c65e0"
     },
     {
-     "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+     "title": "Global stock markets slump as Anthropic\u2019s record IPO fails to stem AI sell-off",
      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
      "source": "The Guardian",
      "published": "2026-11-20T10:02:21+00:00",
-     "summary": "Asian markets on track for their worst week since 2020, with European and US stocks also way downBusiness live \u2013 latest updatesGlobal stock markets have slumped as Anthropic\u2019s reco",
-     "image": "https://i.guim.co.uk/img/media/4099c293fe0771f309ff9ec3954f9933d234c1a0/272_0_3245_2596/master/3245.jpg?width=140&quality=85&auto=format&fit=max&s=8054262018f759c5048bb4a149c0afd5"
+     "summary": "Asian markets record their worst week since 2020, with European and US stocks also way downBusiness live \u2013 latest updatesGlobal stock markets have slumped as Anthropic\u2019s record-bre",
+     "image": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=140&quality=85&auto=format&fit=max&s=2b419687828b47c2c71fe56585a333c1"
     },
     {
      "title": "California investigates Nvidia over whether chip exports ended up in China",
