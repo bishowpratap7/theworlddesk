@@ -1,17 +1,33 @@
 {
- "generated_at": "2026-11-20T06:45:59.790468+00:00",
+ "generated_at": "2026-11-20T07:16:03.062760+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T06:45:59.790421+00:00",
+   "fetched_at": "2026-11-20T07:16:03.062730+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Live: Deadly Russian attacks damage two bridges in Kyiv, mayor says",
+     "title": "UK and EU to agree youth mobility scheme, BBC understands",
+     "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T07:14:46+00:00",
+     "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+    },
+    {
+     "title": "Baby born with heart abnormalities \u2018didn\u2019t have a chance\u2019 after non-medical free birth, NSW inquest hears",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-20T06:51:54+00:00",
+     "summary": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their livesFour babies who died in New South Wales \u2013 three after",
+     "image": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a6d63bb74b4836b6135a506b431ed05c"
+    },
+    {
+     "title": "\ud83d\udd34 Live: Deadly Russian attacks damage two bridges in Kyiv, mayor says",
      "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-     "source": "\u00a9 Thomas Peter, Reuters",
-     "published": "2026-11-20T06:32:23+00:00",
-     "summary": "Russian attacks on Kyiv killed three people and damaged two bridges in the Ukrainian capital, city authorities said on Friday. The fresh wave of missile and drone attacks came afte",
-     "image": "https://s.france24.com/media/display/25f85d74-e4ab-11f1-8758-13439ca2fe89/w:1024/p:16x9/2026-11-20T015437Z-618531473-RC2DROAHQAD6-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg"
+     "source": "France 24",
+     "published": "2026-11-20T06:50:49+00:00",
+     "summary": "",
+     "image": ""
     },
     {
      "title": "\u2018We don\u2019t want our future decided by the military\u2019: Young Germans protest",
@@ -100,36 +116,36 @@
      "published": "2026-11-20T05:01:40+00:00",
      "summary": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
      "image": ""
-    },
-    {
-     "title": "Race to be next UN secretary general exposes divisions among world powers",
-     "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-     "source": "The Guardian",
-     "published": "2026-11-20T05:00:24+00:00",
-     "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunnerThe race to become the next UN secretary general could reach a decisive",
-     "image": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=140&quality=85&auto=format&fit=max&s=810844650f584edda94e8970574c9af8"
-    },
-    {
-     "title": "Iraq university\u2019s removal of male professors teaching women sparks weeks of protests",
-     "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
-     "source": "The Guardian",
-     "published": "2026-11-20T05:00:23+00:00",
-     "summary": "Al-Qadisiyah University\u2019s move a sign of the country\u2019s slide into a Taliban-like gender segregation, say activistsThe removal of male professors teaching female students at a unive",
-     "image": "https://i.guim.co.uk/img/media/36dbd5a94532a5af971915dcd8ce0a00c8f9f570/0_334_1309_1047/master/1309.jpg?width=140&quality=85&auto=format&fit=max&s=3023ab7c44c1b7f4b7640efc0c23d35d"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T06:45:59.790434+00:00",
+   "fetched_at": "2026-11-20T07:16:03.062744+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Live: Deadly Russian attacks damage two bridges in Kyiv, mayor says",
+     "title": "Ukraine War, Day 1,730: Kushner\u2019s Muddled Statement on Security Guarantees for Kyiv",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN1pVZjVqRktKb21rNDk4T2NzLXk0YlpJTVA3aHNKZnowOWtkcEZERXpZVnczZm1OTnJoWE04Vnc1MnNabmxjZ2JKUVkyaGZMRFlIQnhXVXM0cmdfQ0lybDdqT2FHLTd0VVdaQ201YV9CQzdteEpPc1F6V1dEeEFFM2JnV1ltQXZQMENOeVEtb1ljUmFRUFBwTzRaX3l0Vm9CN2h2Yg?oc=5",
+     "source": "EA WorldView",
+     "published": "2026-11-20T07:06:35+00:00",
+     "summary": "Ukraine War, Day 1,730: Kushner\u2019s Muddled Statement on Security Guarantees for Kyiv&nbsp;&nbsp;EA WorldView",
+     "image": ""
+    },
+    {
+     "title": "The devastating scale of Russia\u2019s war on Ukraine laid bare as Putin embraces Trump in China",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaFdENWJUVkw2MXJxcGM1NGRTeU9xMjlKa1RhWTAxZFdPRlNSdTV2ZzZONWZqVFRWSHBQTmZ4ai1Gd3N4dDR5RHdBT1RENTl5VjhGVEJlMngyRTZBamZZY0wyZTFqMzYtRXRfc2xyZ1U1MHJRUmlFM29mMUFYWkxIa0ZORFYxTk1kd3Y0VEFQVUdSOTJLNTBaSmpsdkZxSF8tUXlQUzJ4RFFPaVJCNm40?oc=5",
+     "source": "The Independent",
+     "published": "2026-11-20T07:02:00+00:00",
+     "summary": "The devastating scale of Russia\u2019s war on Ukraine laid bare as Putin embraces Trump in China&nbsp;&nbsp;The Independent",
+     "image": ""
+    },
+    {
+     "title": "\ud83d\udd34 Live: Deadly Russian attacks damage two bridges in Kyiv, mayor says",
      "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-     "source": "\u00a9 Thomas Peter, Reuters",
-     "published": "2026-11-20T06:32:23+00:00",
-     "summary": "Russian attacks on Kyiv killed three people and damaged two bridges in the Ukrainian capital, city authorities said on Friday. The fresh wave of missile and drone attacks came afte",
-     "image": "https://s.france24.com/media/display/25f85d74-e4ab-11f1-8758-13439ca2fe89/w:1024/p:16x9/2026-11-20T015437Z-618531473-RC2DROAHQAD6-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg"
+     "source": "France 24",
+     "published": "2026-11-20T06:50:49+00:00",
+     "summary": "",
+     "image": ""
     },
     {
      "title": "\u2018We don\u2019t want our future decided by the military\u2019: Young Germans protest",
@@ -140,11 +156,27 @@
      "image": ""
     },
     {
+     "title": "Ukraine's destruction of Putin's prized bridge a 'major hit to war effort'",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTdMeFotbkRaTHhCeDZSU19qYzdTYUtOUWhTbkIzWEtSNlkyNDFWM3RnWU9kbEZ6OUsyRE1EUFEtNW9jRVBfUTAtQ0QwSWFoOGxGSERGTGVDckxEeEstQ3lweGhrWWJBbGJ6ZzhNMEktYkRJa3NQd2ExLWwzcGQ3OGx2cEZXWFFNd3lTQzBaNlBrZTRpdkU2Q1A3aWR2TmdmMENDUXJLZ1ZYZw?oc=5",
+     "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+     "published": "2026-11-20T06:07:26+00:00",
+     "summary": "Ukraine's destruction of Putin's prized bridge a 'major hit to war effort'&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+     "image": ""
+    },
+    {
      "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
      "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-20T06:03:03+00:00",
      "summary": "US Maritime Administration acknowledged naval blockade&#039;s impact on insurance premiums and cargo capacity, memo shows.",
+     "image": ""
+    },
+    {
+     "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-20T05:54:45+00:00",
+     "summary": "Opinion | In Ukraine, the drones are flying faster than the diplomacy&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
@@ -172,22 +204,6 @@
      "image": ""
     },
     {
-     "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-20T05:29:28+00:00",
-     "summary": "Opinion | In Ukraine, the drones are flying faster than the diplomacy&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Trump, Xi, Putin Release Four-Point \u201cPeace Declaration\u201d in Shenzhen, Omitting Ukraine and Iran: 15 outlets compared",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGRodGttS1NNa1RTS3BYTGozRWwwcHV0NTBfaXNVdllpbUU3cGZyOC1FSW4xMEtWeGNMay1qVUQ5RmVnQ1J5QlZnSUlWOFFLOEw1U2txY3hLRmZQR1hKbnN3TTRGLW9qNl9LRmotUExodEZLcFE2S1NLemgxZmh4V2lKUzhXcm1EaW9hdmF3ZFQwTlV6LTU1NHk0OEVrNnVmdW9udTRzdFdtMVlHTHBGZTQySHlEeGJFMzhoTVRsYmxtSGhaekl0SktWN213S2gtLXJjVUtYTUd4cUM2U2podzVKNVFlMnlSaWc?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-20T05:23:47+00:00",
-     "summary": "Trump, Xi, Putin Release Four-Point \u201cPeace Declaration\u201d in Shenzhen, Omitting Ukraine and Iran: 15 outlets compared&nbsp;&nbsp;NewsCord",
-     "image": ""
-    },
-    {
      "title": "Trump Tells Europe Putin Wants To End Ukraine War After Joint Peace Declaration: how 6 outlets framed it",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2RaRUI3LXFPT3FoWXJVcG9zTl9DZld1cnZheTlfVEZHUW9Sc2NlM3lqc2hCMUpuS3pnNkFNZDRBUWU5a2dGUzBPdmNrLTFDbHcyUW5teGZqZXUtNmNhbW5kN090X0ZtbFBzMTFSN0VzQXBETUVBTW90emF2LVBBZVhKcTVqZTk3TFUteTFBV2NMWEthaDN2RU9kMXJlRlh2U3pUNldqTnRDVmlORm9lRld3MW5TN2Z0QnNCTFExY01naGMyOFBFay1iQjc3NnlaUzJCVVNWVVVJemxXckttTDFZYy1hbTQ3?oc=5",
      "source": "NewsCord",
@@ -202,35 +218,43 @@
      "published": "2026-11-20T05:22:00+00:00",
      "summary": "Rival summit on Ukraine pushes for European role in talks to end war&nbsp;&nbsp;The Independent",
      "image": ""
-    },
-    {
-     "title": "Kellie Sloane says she\u2019s \u2018pretty sure\u2019 NSW Liberals exodus is over after Mark Speakman resigns",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-     "source": "The Guardian",
-     "published": "2026-11-20T05:02:16+00:00",
-     "summary": "Former opposition leader warns party against being \u2018One Nation lite\u2019 as he becomes eighth out of 24 Liberal MPs not to recontest seat in MarchGet our daily political email, free ap",
-     "image": "https://i.guim.co.uk/img/media/e41e022b19cd35c3926af707c79bb2a6a960adcc/1147_132_1834_1467/master/1834.jpg?width=140&quality=85&auto=format&fit=max&s=ac96835efc8331675adc9408ed8090be"
-    },
-    {
-     "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-     "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T05:01:40+00:00",
-     "summary": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T06:45:59.790439+00:00",
+   "fetched_at": "2026-11-20T07:16:03.062749+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "UK and EU to agree youth mobility scheme, BBC understands",
+     "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T07:14:46+00:00",
+     "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+    },
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5namgyRjNvdUtOMXFIUzlzeWh3Y2RjdFlQLTV1RGtaNXpoWF9NblB3STQ2T3M2cm5idVBpaWVfdGN1SGJlYl9LM0JiZ01kY3pQU3I2RmhrbThINjFuYmlJSldzWkVSVGtfSVRuMlZhb1Y5ejhzWmlfdDFHci1ZQQ?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-20T07:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
     {
      "title": "From the Publisher: How \u2018historic\u2019 was the 2026 election?",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0J2TzI3bW9aVGRxRkFqaTlITXlTbDNELTJldk1jMGZ1dGI5ejAwQVE1UUN5MmpDX0gydUtuVTZ1OXlhcWoxQkE5NEV0Um4wT3JjUjdxLWd4ck9UdHhpYTZzaEVYRmllb1BvWklXM0I3aDVNa1I1cHdIdEVVWV9WdTlhZ19LZDl2?oc=5",
      "source": "the indiana citizen",
      "published": "2026-11-20T06:40:40+00:00",
      "summary": "From the Publisher: How \u2018historic\u2019 was the 2026 election?&nbsp;&nbsp;the indiana citizen",
+     "image": ""
+    },
+    {
+     "title": "The EU wants to see a UK election before further Burnham talks",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xN1BENHc0MlVHU1RyWHQ3V2YxS2swRTBSNXY0TkIwMnVPRWtzV05mZU1xbXRhUGdpWUVOb21qbnlZbEhoUlpsaUJfQUtZSVR1eDRlejU2OVBBQWpTcDZ1LUZOWjFxUUgzTUcyTGFYdU8wZmRYN1VZ?oc=5",
+     "source": "Dave Keating | Substack",
+     "published": "2026-11-20T06:24:07+00:00",
+     "summary": "The EU wants to see a UK election before further Burnham talks&nbsp;&nbsp;Dave Keating | Substack",
      "image": ""
     },
     {
@@ -274,11 +298,11 @@
      "image": "https://s.france24.com/media/display/4a816a9a-e4a7-11f1-87a2-13439ca2fe89/w:1024/p:16x9/capture-e133a2a8.jpg"
     },
     {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5namgyRjNvdUtOMXFIUzlzeWh3Y2RjdFlQLTV1RGtaNXpoWF9NblB3STQ2T3M2cm5idVBpaWVfdGN1SGJlYl9LM0JiZ01kY3pQU3I2RmhrbThINjFuYmlJSldzWkVSVGtfSVRuMlZhb1Y5ejhzWmlfdDFHci1ZQQ?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-20T06:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "title": "Only 14% of Americans are fully conservative. Only 10% are fully liberal. So why are we stuck with two parties?",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3ZVY2R3WFdlVm9JdzVjdWFycTFMZk9aaWNFQVotM3FsWi16RnZRelB4UnVJV1pOYTN2UWdMZGk3RkU0VUlqTmkyN2UwZDFKcDBzSmdRWV9BT19DOUhIcjFBM0V3OFVQRWgwUG5RNTlCMW1ZTWFJa0VIbG5NRWMzdVJYOXE?oc=5",
+     "source": "The Fulcrum",
+     "published": "2026-11-20T05:54:06+00:00",
+     "summary": "Only 14% of Americans are fully conservative. Only 10% are fully liberal. So why are we stuck with two parties?&nbsp;&nbsp;The Fulcrum",
      "image": ""
     },
     {
@@ -296,35 +320,11 @@
      "published": "2026-11-20T05:48:35+00:00",
      "summary": "President Trump has removed National Cyber Director Sean Cairncross and named a Defense Department official as interim.",
      "image": ""
-    },
-    {
-     "title": "Ultra processed Food Policy: Why I Support the AJPH Call for Common Ground",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ281c1d2SkUzQ0VlRWY0enhCRXRPMGFIeXQtUDhCZDlLdVp0NWFCdzhCdHVZVGNkUmpTNDRPeWZxWGFRdzZPNVRuWmlRY1JkYlluM1dKLXljMWFHS2diVTF1T0tleVZSTm1jRHBVU2o3RWF2cGw5UGFuemhEZTZTeVZHU3BKMWV2dUhUQm9sdGQzb0ViUVhBYzkxMFAwLUl1eEc2czBKRUtDTFd0OHB1Nw?oc=5",
-     "source": "Marler Blog",
-     "published": "2026-11-20T05:30:08+00:00",
-     "summary": "Ultra processed Food Policy: Why I Support the AJPH Call for Common Ground&nbsp;&nbsp;Marler Blog",
-     "image": ""
-    },
-    {
-     "title": "Somerville City Council special election announced for wards 2, 3",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTN5YVdjdG51ZHI2WWUwWTZYSXAzd2pKT0FvaXpXazFpaWFHYVdqVE5kUDBaMzZWQkxDWEJfSGdyQTNFdEptWW5ZS3QzUklCYng3YW5iaF9FdWEwb1NtVFh1QnBLYXJxWTZHRmtUa0d4U1N6ZjRCMEkwRDZUcWpmTFhSRlcyQkpHakFDRGctVDNGTmhYR0tRN1NNYUZmaGhKRllZbEZ6eG1OaU0?oc=5",
-     "source": "The Tufts Daily",
-     "published": "2026-11-20T05:05:45+00:00",
-     "summary": "Somerville City Council special election announced for wards 2, 3&nbsp;&nbsp;The Tufts Daily",
-     "image": ""
-    },
-    {
-     "title": "More climate money for Africa? Europe says use what's already pledged",
-     "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T05:03:43+00:00",
-     "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T06:45:59.790442+00:00",
+   "fetched_at": "2026-11-20T07:16:03.062752+00:00",
    "stale": false,
    "items": [
     {
