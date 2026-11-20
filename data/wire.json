@@ -1,17 +1,65 @@
 {
- "generated_at": "2026-11-20T20:48:16.051220+00:00",
+ "generated_at": "2026-11-20T21:18:19.718058+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T20:48:16.051191+00:00",
+   "fetched_at": "2026-11-20T21:18:19.718027+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T21:10:53+00:00",
+     "summary": "US President Donald Trump warned US tech companies will face \u201ca tremendous tax\u201d if they build AI data centres abroad.",
+     "image": ""
+    },
+    {
+     "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+     "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T21:05:07+00:00",
+     "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+     "image": ""
+    },
+    {
+     "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+     "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:59:04+00:00",
+     "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+     "image": ""
+    },
     {
      "title": "Trump threatens ban on US firms building AI data centres overseas",
      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T20:35:26+00:00",
+     "published": "2026-11-20T20:54:12+00:00",
      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+     "title": "Can the UK and EU turn the page on Brexit?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:51:19+00:00",
+     "summary": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
+     "image": ""
+    },
+    {
+     "title": "Gaza\u2019s displaced children celebrate World Children\u2019s Day",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:45:09+00:00",
+     "summary": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children\u2019s Day.",
+     "image": ""
+    },
+    {
+     "title": "Sudan\u2019s war leaves disabled children missing out on education",
+     "url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:45:08+00:00",
+     "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
+     "image": ""
     },
     {
      "title": "Russia complains of \u2018new Iron Curtain\u2019 as Estonia shuts its borders",
@@ -62,67 +110,91 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-     "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-     "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T19:40:07+00:00",
-     "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
-     "image": ""
-    },
-    {
-     "title": "JP Morgan boss says he will find ways to offset \u2018unfair\u2019 rise in UK tax on banks",
-     "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-     "source": "The Guardian",
-     "published": "2026-11-20T19:38:59+00:00",
-     "summary": "Jamie Dimon says he is \u2018setting an example\u2019 in seeking to claw back Labour\u2019s increase in surcharge, from 3% to 6%Jamie Dimon, the chief executive of JP Morgan, has said he will fin",
-     "image": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=ac2ad95e3893c94c9fe2d7c13f030ea9"
-    },
-    {
-     "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-     "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T19:27:49+00:00",
-     "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
-    },
-    {
-     "title": "Nepal cricket fans celebrate their team\u2019s global rise",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T19:24:26+00:00",
-     "summary": "Nepal\u2019s cricket fans have witnessed a transformation in their national team\u2019s fortunes in recent years.",
-     "image": ""
-    },
-    {
-     "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
-     "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-     "source": "The Guardian",
-     "published": "2026-11-20T19:18:20+00:00",
-     "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producerA Home Alone sequel is reportedly in development with origina",
-     "image": "https://i.guim.co.uk/img/media/934c182e9fa7feae129f366be38ebe9b1a067b4b/94_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=ef2a63347fd9754baeea3f315a856543"
-    },
-    {
-     "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
-     "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T19:15:18+00:00",
-     "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
-     "image": ""
-    },
-    {
-     "title": "What are the implications of the ICJ Rohingya genocide ruling?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T19:12:14+00:00",
-     "summary": "Verdict against Myanmar may have implications for Israel&#039;s genocide in Gaza.",
-     "image": ""
+     "title": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
+     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu",
+     "source": "France 24",
+     "published": "2026-11-20T19:42:58+00:00",
+     "summary": "Welcome to the World This Week with Gavin Lee. You give us 45 minutes, we'll give you 7 days worth of crystal clear analysis. As ever, alongside a handpicked panel of four distingu",
+     "image": "https://s.france24.com/media/display/cfefa95a-e518-11f1-b6ef-13439ca2fe89/w:1024/p:16x9/2026-11-19T230006Z-1256675834-RC2WQOACA4BG-RTRMADP-3-CYBERSECURITY-DRONES-RISK.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T20:48:16.051206+00:00",
+   "fetched_at": "2026-11-20T21:18:19.718043+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T21:10:53+00:00",
+     "summary": "US President Donald Trump warned US tech companies will face \u201ca tremendous tax\u201d if they build AI data centres abroad.",
+     "image": ""
+    },
+    {
+     "title": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian \u201cprovocation.\u201d The incident came as Poland was hosting a two-week military exercise",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjdpRkpWT3F0b2lESHdXWXY5QlVaRlMxbFYzaWh4ZmVNWnNWdW5Pb2Y4VHQ0a3FXN1E2M1VRcE5QYnRGejVBd3A5eTUxOWc5b2Y5bFpSRklTUURWTmo5VWRyOTFXZkFDZGFHT0doT0tjOWt0LXVsUU1SWk93ZzNXeHlRZDFKM3A2bVlYYldtb3ZXN0xTUGJYeG9XWUlSUDFkckgzdmFUSi1qUnMtVkgwS19tMlRXWTc2amFVLTU0bHhFT1VLLU9JSzA5TDNjWGJNaHF2cA?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-20T21:10:11+00:00",
+     "summary": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian \u201cprovo",
+     "image": ""
+    },
+    {
+     "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+     "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T21:05:07+00:00",
+     "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+     "image": ""
+    },
+    {
+     "title": "How one Ukrainian family gets ready for another winter at war",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDR1NE1xYVJZM0hmRE9xMmxMSnkySWlIMlAwd1VkMDBNUnhyWURTUERKVlhXQnM2Q215bXBGV29zRmJTTk5WV05yVUh2VzdNbDUwaFh3SUZVUFplVFBPaTFiME9CSXlMeDNwenY2QUlWUmtjb2c4Mk96aHBaM1h0LUx6dU9NOHlWamxXd2FaUkV1RG5tTWpQcXA2di1QcENWMnRIa1ZLSy1EQQ?oc=5",
+     "source": "NPR",
+     "published": "2026-11-20T21:01:25+00:00",
+     "summary": "How one Ukrainian family gets ready for another winter at war&nbsp;&nbsp;NPR",
+     "image": ""
+    },
+    {
+     "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+     "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:59:04+00:00",
+     "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+     "image": ""
+    },
+    {
+     "title": "Gaza\u2019s displaced children celebrate World Children\u2019s Day",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:45:09+00:00",
+     "summary": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children\u2019s Day.",
+     "image": ""
+    },
+    {
+     "title": "Sudan\u2019s war leaves disabled children missing out on education",
+     "url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:45:08+00:00",
+     "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
+     "image": ""
+    },
+    {
+     "title": "Trump Says Putin Wants Diplomatic End To Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXB3MHlKcEtVRnluZk1faHVvbXluTnN0S0owa1dCX19GU3pDU3FKbkxZZmx5YWpfWkg0ZXdudUVPOTVzUmh1RDdod3BxY0F4c0lqZE9aYTY5Xy1RdGQ2UTJsaG5QR0VLZnJfVDZ2LUxyaTc5TVJ0OWxZVHdPb2RUZEpVLVl6dEFpT2sybDJ2SW51UzBRT0ZFM1plMVZiRkF1YzI1aFlpS1PSAa4BQVVfeXFMTWxQcF9nOGlPa1UwSUtTcXFUTkFJU2JpRkhjN2F6cDRBQmxSc1Fnc2JQOU9PY2ZSdjRhZm5PNkpNRWx0TVlxME5Qblp5MHBuTmFKMEhTSGZIbmhXcFR3OTN5Qkt2N2gwZE9tSkdVSDcwZEZselQ3bXRWekI0TXMycksyZERFT1ZiNjBHcGk0NnBlRGxXVkpJTTZFc1FiRjk5WDlMTkFZdzdIWHE0SU9R?oc=5",
+     "source": "Al Arabiya English",
+     "published": "2026-11-20T20:43:06+00:00",
+     "summary": "Trump Says Putin Wants Diplomatic End To Ukraine War&nbsp;&nbsp;Al Arabiya English",
+     "image": ""
+    },
+    {
+     "title": "\u2018Russian Objects\u2019 Crashed in Poland, Officials Say. Here\u2019s What We Can See.",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVFIcVZvUUdXNWtFYTZXSXdPQ01HZDdtUUd1U29Ca0VKcUVSelpERlR0S0F0MDZiUjk0MndhdVVjZEFVRk9fM1NpM3EwRHJtQmh3WjBuZjFnaC1OcXpfV1FNVnBfaUluczFwN0dhaVp6eDNFcUFFWmU4NnR0N3JQbjdiWnRWenlELWow?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-20T20:30:59+00:00",
+     "summary": "\u2018Russian Objects\u2019 Crashed in Poland, Officials Say. Here\u2019s What We Can See.&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
     {
      "title": "Russia complains of \u2018new Iron Curtain\u2019 as Estonia shuts its borders",
      "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
@@ -140,98 +212,50 @@
      "image": ""
     },
     {
-     "title": "Scammed Asians, Africans join Ukraine War frontline fighting",
+     "title": "Russian impressment sends scammed Asians to Ukraine War frontline",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcEQwb0FpWDdBejJqQ29zZG9wR2Q2NkoxMlZleXM1Rmc3TTlncFhNd2Q0dkpsR3hBTmU4VDdIa1g3ZDBFSHNOOWVFQ0FXUG5wYUpIMEhwY2JoMmg5MFR1TzdvNEZqMjIzaFFyMDdoR3k1aGpEUzBaM3doVlVSY1YwR004WHJxM1REVXd1VUhTUFYybHdY?oc=5",
      "source": "Asia Times",
      "published": "2026-11-20T20:14:11+00:00",
-     "summary": "Scammed Asians, Africans join Ukraine War frontline fighting&nbsp;&nbsp;Asia Times",
-     "image": ""
-    },
-    {
-     "title": "The Day with Terry Martin: Ukraine's Battle of the Bridges",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1hfbE0yS3E1cjZKOGVJSzcySDFUWGs4b2NpaGxPZWFNYm9nUl9Obm54MnVlbldMY2VuaVBrd0FfUGpuLUVDeFVMMVBDVENFdWxObXY2d093TTllUG5xVWVZR3l5VnJMQWZKRllJLXhfeFBsUXFRdDVHeURkRXdlMDdiOS1vcHFtem5IU1owM0dHakhLdWNoOA?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-20T20:11:47+00:00",
-     "summary": "The Day with Terry Martin: Ukraine's Battle of the Bridges&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "EU condemns Russian strikes on Ukraine as violations of international law",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVZLVl9PQUtSM2d6VXU4SXdCRVc5a3p4bkFLbkY3T1RablRIa3RoQzZvUFN1MlY3TzdCdUl1enF0VHd1dHFIaDJpeUtrWG52SElPZkRRY2ZuSTQxNG1WYlJia01WTWdRY3dYMEU4akxRS2t3ejg3c1NXVWNubXBuZmtIMmhzd19YckVBUFNTbU9iOXlGX29Vck04SEVOVEEwRTNadHktVDVQaVlicUVUekplRlZFc0xLS1BMaUl3?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-20T20:06:45+00:00",
-     "summary": "EU condemns Russian strikes on Ukraine as violations of international law&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-     "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T19:57:05+00:00",
-     "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza\u2019s security",
-     "image": ""
-    },
-    {
-     "title": "War in Ukraine moves underground against Russia",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTQ2NldLYUVHVkdZc0lnYlVCU0xXcThOaU53SHd4Q1Z5dGRjNEhqTUNfUHQtbE44UWZ6aXl6WGsxb3hGWXYxeTk4bkhtQlhDWVBSY1BfR0R4cVFLZUQwemYzQjRicVhXX3pPVnd1c091ZERRV0dRbGJwd0VBbVJkMjg2SGt6LTVheUhDdXFLbE5la0J1S1lERGJzcUZlQXVQdWMzVHNQT0lJem0wZ01rRU1DTUV3N1YxbzJmRHlmZjJfWWVTYjd3aWdn?oc=5",
-     "source": "13WMAZ",
-     "published": "2026-11-20T19:57:00+00:00",
-     "summary": "War in Ukraine moves underground against Russia&nbsp;&nbsp;13WMAZ",
-     "image": ""
-    },
-    {
-     "title": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlTOElmbFJzU0xsLWxIOXZFMnRscy1EV054VXBZWEVvd0UxbUxkcG8xNlpSVW4yYkNwdTZ4OGp1WVczalh6NTVUM1EyUkZza2RBY0pfSmxHZEVXVjFKT1JBSHNfM1pTQmp2cVdSX3U4OVFvQnZzd2ZrdEpMMnJiZlpTX05Cb0o4dmFvbXhKYVZ2aldsOGczWnRrdzRpU05yRWtnRWNQcUJyd1NyckgzZ0RjRXBkTWxINk1iaDZTYThhTXZRZTBhcHdvVXVYVlduLVE?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-20T19:44:17+00:00",
-     "summary": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Trump: Putin \u2018would love to\u2019 end war in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2TFRlXy1hN0VDUWN4Y3FfUnQxSEFlbFdUVkxDMF83T1FvLVhKXzlfLWFqZURuMmE3RldrWVJaVFBzZzhkTGc5TTh0WjhUVW5WWS1PdWExSndkOE5IVzAxeVZLVWgwM3lWQnVUQkhweG9PTURWZjFQeUUzV1Q2MTQ?oc=5",
-     "source": "Channel 4",
-     "published": "2026-11-20T19:37:21+00:00",
-     "summary": "Trump: Putin \u2018would love to\u2019 end war in Ukraine&nbsp;&nbsp;Channel 4",
-     "image": ""
-    },
-    {
-     "title": "Pop Culture Still Can\u2019t Figure Out Drone Warfare",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnlvTTU0ZWtvM09wUHA0SHNHWE1uUG45dXlNOE9jQUs1c0twU3ZJell4dEREZ28wRE1DeDkyOEpDV0ZCOVlFMGliT1FGUzR1eXpmUWUycUJMYTRMLVJfdmNkXzJzR2VHVXc3UFh2QWZYcXBOU3hyU0VxNW5wZzdNem4wQnRHb1FYNDQzMTBFdW1Qc1UwczRQaA?oc=5",
-     "source": "Foreign Policy",
-     "published": "2026-11-20T19:22:25+00:00",
-     "summary": "Pop Culture Still Can\u2019t Figure Out Drone Warfare&nbsp;&nbsp;Foreign Policy",
-     "image": ""
-    },
-    {
-     "title": "What are the implications of the ICJ Rohingya genocide ruling?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T19:12:14+00:00",
-     "summary": "Verdict against Myanmar may have implications for Israel&#039;s genocide in Gaza.",
-     "image": ""
-    },
-    {
-     "title": "Trump says Putin is \"having a hard time because he's in a war that should have lasted one day\"",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45TVpieXpaWjZXdkFnX2ltQjB4c0p5d1BtcGc1d054UmJ3ejV6ZjVIZlo0UjRXWk43V1RGcFU5WDU3akJfakxqX3FidUVYVExVbXA3X2RMbjNJWUxSQVJHYkV1N2fSAXBBVV95cUxOWmp0N25icFJKb1dXQnpjU0dVX1lTNWFjeWROd1hOeDhKeXBTM3dtckVUUGVNV3ltVnpWODdLMFhLbWdOdW1vc0JJdENWNjRXUy1nbm9rZnV3VFhpTVp6ZkJ2Z2FTemRXOFZRRFZ4S0JS?oc=5",
-     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-     "published": "2026-11-20T19:03:00+00:00",
-     "summary": "Trump says Putin is \"having a hard time because he's in a war that should have lasted one day\"&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+     "summary": "Russian impressment sends scammed Asians to Ukraine War frontline&nbsp;&nbsp;Asia Times",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T20:48:16.051209+00:00",
+   "fetched_at": "2026-11-20T21:18:19.718047+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "After the Election, What Changes for Energy?\u2014Daugherty",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXRFbVJpMHBZYlJWbFh3UE85WlNlQXpqRnU4OGJOdDRaeW1GLXk1QnpDOVBEOUFFRnBBNWxENUxGQlVqZmZQYmlTZi02Tk1HbkhlOTZTbGQtYi1LOVF0aC1Cak4zcWRHZ2dtdmhLUGRjRUxpNEJMQWN0NnlIcUdaZVVNM0dhODNnOFJqd0kxUWRrVllic0Fzdk9mamJBOW9SamhCWHMzY2QzYktCOUFn?oc=5",
+     "source": "Hart Energy",
+     "published": "2026-11-20T20:59:52+00:00",
+     "summary": "After the Election, What Changes for Energy?\u2014Daugherty&nbsp;&nbsp;Hart Energy",
+     "image": ""
+    },
     {
      "title": "Trump threatens ban on US firms building AI data centres overseas",
      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T20:35:26+00:00",
+     "published": "2026-11-20T20:54:12+00:00",
      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+     "title": "After license revocation and prison, Iowa attorney faces more sanctions",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnlaZnp2VTZyUnBPbzVZSGhoNXB3TXROeEVDZVZaMzhDMklraVNHMmxOZG9pUGhIRDhEMnU3Y0pNV19lT0dBZjg2VDNpWldMRi1fUENKWVJKU3ZJaDk5X2NwS01LVThtQ291TEhwQy1mU1RnUnZLd0JkcEJFUnNGNmhoN0NXWVBQaE9FODBYRFBONmJJRDFVbDEwd256bDhETFJucmRsdFh6ZVlILWtISmZlSms?oc=5",
+     "source": "Iowa Capital Dispatch",
+     "published": "2026-11-20T20:52:08+00:00",
+     "summary": "After license revocation and prison, Iowa attorney faces more sanctions&nbsp;&nbsp;Iowa Capital Dispatch",
+     "image": ""
+    },
+    {
+     "title": "More than 2.7 million Massachusetts voters cast a ballot in November election, nearly matching state\u2019s midterm record",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdktSNzMtLUtmMlJGV1AzZUgtR0hNQWdENTRnUURybGhfcU5xSU9WdjVUa1QybzdvTk81MWJtNG1XeW5GZEtfQVY4X1NYRS1IUWdSVElwRVhibk5fQXFRczBmSlpQVWN2ODVhQnlBVHgydzNHa1dyMGo4SmZsbFN1a1dudUlBaFBndW16ZmVFZVlSc1BIN21Pdg?oc=5",
+     "source": "The Boston Globe",
+     "published": "2026-11-20T20:46:53+00:00",
+     "summary": "More than 2.7 million Massachusetts voters cast a ballot in November election, nearly matching state\u2019s midterm record&nbsp;&nbsp;The Boston Globe",
+     "image": ""
     },
     {
      "title": "Your Vote Matters \u2014 And That\u2019s Why the Experts Continue Working Together to Check Election Results",
@@ -239,6 +263,14 @@
      "source": "CT.GOV-Connecticut's Official State Website (.gov)",
      "published": "2026-11-20T20:34:23+00:00",
      "summary": "Your Vote Matters \u2014 And That\u2019s Why the Experts Continue Working Together to Check Election Results&nbsp;&nbsp;CT.GOV-Connecticut's Official State Website (.gov)",
+     "image": ""
+    },
+    {
+     "title": "Five CT towns to hold election recounts after programming error affected vote totals",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczIwTUg2ZHV3ZVp1dnljTElHSzhSRjZvOXAwX1VvUGRUOHNjYmdjT0c5eFNXcm9BNjVvS3I2Wl9hM1ZvQ3FrYkNQM1VDM1AyNnYwb1hPTmJEMWN1aGxmVlNWUS1TY0NqSzZwSkJic2RWRXdxYTZHN1RZaElHamtGX1NuclQyY3dFVllHX2xpNG1GS3lwa3JwSGVocVItb1YzbmdCbVh3?oc=5",
+     "source": "Stamford Advocate",
+     "published": "2026-11-20T20:26:04+00:00",
+     "summary": "Five CT towns to hold election recounts after programming error affected vote totals&nbsp;&nbsp;Stamford Advocate",
      "image": ""
     },
     {
@@ -288,43 +320,11 @@
      "published": "2026-11-20T20:18:01+00:00",
      "summary": "The Latest on Paid Leave This National Family Caregivers Month&nbsp;&nbsp;Policy Center for Maternal Mental Health",
      "image": ""
-    },
-    {
-     "title": "Political advocate files election contest over Austin's Prop J",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0otWDE0MzdNdFFPczFBTlV1MjVudHZJNWhJaTBnMDdua0ZVOEpYcXVyQllTM2ZOaXFYel9EMU8za3lFMDdTSVh1QnZYTGNhRTBXdHFnVldwUnBrcGpJRURYYmtqWVVUZTFKTmJXMFJCTVVudmdGQkRpZUYwOGxpcXRSaE0zNlpvb0NncTV1bi1tX0RldmFPbHZ2R0N3Wl9YYjBHUk5majRfeUtLbEFmdlU4OHJheU5qanZWR20yT0UwNm8?oc=5",
-     "source": "KVUE",
-     "published": "2026-11-20T20:13:35+00:00",
-     "summary": "Political advocate files election contest over Austin's Prop J&nbsp;&nbsp;KVUE",
-     "image": ""
-    },
-    {
-     "title": "Treasury Sanctions Hezbollah\u2019s Charity Network, but More Targets Remain Untouched",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWG1fcjFBZzhBcUUzcjUxVG9qMFdCcGFGLXlHZXlGYm5wTVlwQ01VUGYxSHlpSDd0YUFBWjlnNHFhVTdXcE1LbDd6eFZPbG5PcDZsVzFfZDl3bW92U1ZtM09qRkhfc2ZNaGdvcTZlT2ViMFM0WFhKUWlpVUo0MnlDa2cybHZGdndEWmN6b0libmtENENmLVZFbFd6bHAzUmlxdlEtYUZPamVvZDYyVlE?oc=5",
-     "source": "Foundation for Defense of Democracies",
-     "published": "2026-11-20T20:03:45+00:00",
-     "summary": "Treasury Sanctions Hezbollah\u2019s Charity Network, but More Targets Remain Untouched&nbsp;&nbsp;Foundation for Defense of Democracies",
-     "image": ""
-    },
-    {
-     "title": "Circulator - 11/20/2026",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MSmxndXZGbTJibDFvZEZrdVBqLWtkN3pGaUs3Q0QyS1lZV3ZHd1JqXzdoa0pKekZDOWdTemZwRnR6azFPX3o3eC1Kb0JaSGNCVXVMUHZSU3NnczRCZEE?oc=5",
-     "source": "Circulate San Diego",
-     "published": "2026-11-20T20:03:18+00:00",
-     "summary": "Circulator - 11/20/2026&nbsp;&nbsp;Circulate San Diego",
-     "image": ""
-    },
-    {
-     "title": "UC San Diego survey finds election confidence surges after 2026 midterms",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZHJTT28tZVFTWU5kaWpFLUFQRU5PcU1MSmxUWE1wWG9BTDJYcVgweDV4QWM0T2tKQkItNHZkRzBhalpySmlJMTg5WXJ6MlZjWFI3emhWeGVjMDViWWhpUVd4dVE2SnppYWt1ZnZ1V21kdHB3RGVEUDlDZ281NVnSAYQBQVVfeXFMTlQ0ZWg0bUpIRmtHVWVJdFY5Mkt6NHJvX0xiY3NYYWFOOE03Y1dLOWQzaTZqZVdEbmhLcmR3dE5XM0h2bTZEZl96ZmFmV0EzN2VhT0YxMVc1TW0tZ0REbU9OTXhxZERadWZKYUdFY3Jidmd4STU3a3M4LXN2elJOM19XUDlz?oc=5",
-     "source": "FOX 5 San Diego & KUSI News",
-     "published": "2026-11-20T20:01:58+00:00",
-     "summary": "UC San Diego survey finds election confidence surges after 2026 midterms&nbsp;&nbsp;FOX 5 San Diego & KUSI News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T20:48:16.051212+00:00",
+   "fetched_at": "2026-11-20T21:18:19.718049+00:00",
    "stale": false,
    "items": [
     {
