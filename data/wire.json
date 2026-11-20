@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-20T21:18:19.718058+00:00",
+ "generated_at": "2026-11-20T21:48:24.143630+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T21:18:19.718027+00:00",
+   "fetched_at": "2026-11-20T21:48:24.143601+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day of trading",
+     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "source": "The Guardian",
+     "published": "2026-11-20T21:38:17+00:00",
+     "summary": "The Nasdaq lost trillions in value, with the AI startup\u2019s IPO failing to buoy it as investors question huge sums being poured into AI buildoutWho are Anthropic\u2019s seven co-founders,",
+     "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=95af56c4e78299bd447fd1e5bd03b452"
+    },
+    {
+     "title": "Another day of survival for a family in Ukraine",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+     "source": "NPR",
+     "published": "2026-11-20T21:32:31+00:00",
+     "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible",
+     "image": ""
+    },
+    {
+     "title": "Iraq PM targets militia stronghold in bid to assert state control",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T21:28:25+00:00",
+     "summary": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
+     "image": ""
+    },
+    {
+     "title": "'Licence to kill': French parliament adopts police shootings law slammed by activists",
+     "url": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
+     "source": "\u00a9 Geoffroy van der Hasselt, AFP",
+     "published": "2026-11-20T21:17:59+00:00",
+     "summary": "French senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-",
+     "image": "https://s.france24.com/media/display/84d2817a-e524-11f1-9187-1bac47ab2f5d/w:1024/p:16x9/000-C8TV3VK.jpg"
+    },
     {
      "title": "Trump threatens tax on US tech firms building AI data centres abroad",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
@@ -35,7 +67,7 @@
      "source": "BBC News",
      "published": "2026-11-20T20:54:12+00:00",
      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg"
     },
     {
      "title": "Can the UK and EU turn the page on Brexit?",
@@ -84,45 +116,37 @@
      "published": "2026-11-20T20:03:11+00:00",
      "summary": "As thousands from Qatar&#039;s Nepali community watch their team play, they hope that the team will rise in global rankings.",
      "image": ""
-    },
-    {
-     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T20:00:53+00:00",
-     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
-     "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-     "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T19:57:05+00:00",
-     "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza\u2019s security",
-     "image": ""
-    },
-    {
-     "title": "G\u00e9rard Depardieu and French author investigated over sexual allegations",
-     "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T19:45:20+00:00",
-     "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
-     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu",
-     "source": "France 24",
-     "published": "2026-11-20T19:42:58+00:00",
-     "summary": "Welcome to the World This Week with Gavin Lee. You give us 45 minutes, we'll give you 7 days worth of crystal clear analysis. As ever, alongside a handpicked panel of four distingu",
-     "image": "https://s.france24.com/media/display/cfefa95a-e518-11f1-b6ef-13439ca2fe89/w:1024/p:16x9/2026-11-19T230006Z-1256675834-RC2WQOACA4BG-RTRMADP-3-CYBERSECURITY-DRONES-RISK.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T21:18:19.718043+00:00",
+   "fetched_at": "2026-11-20T21:48:24.143616+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Another day of survival for a family in Ukraine",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+     "source": "NPR",
+     "published": "2026-11-20T21:32:31+00:00",
+     "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible",
+     "image": ""
+    },
+    {
+     "title": "'Licence to kill': French parliament adopts police shootings law slammed by activists",
+     "url": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
+     "source": "\u00a9 Geoffroy van der Hasselt, AFP",
+     "published": "2026-11-20T21:17:59+00:00",
+     "summary": "French senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-",
+     "image": "https://s.france24.com/media/display/84d2817a-e524-11f1-9187-1bac47ab2f5d/w:1024/p:16x9/000-C8TV3VK.jpg"
+    },
+    {
+     "title": "Trump: War in Ukraine happened because I lost 2020 election",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLW11OWxnZEprUmRGc0E4cnAyOFBiTVNLUTlMYVNzN3pqTDJwOEdleEFnWTZDUU5kTUhSN2p5YTNVSjBPRkxVR2F5V0RzcVZ1VEhBTnlQX2ItNmhGcWhjdVpUem5FLXlsNE9OOE5nU2F6LUk2aE9MeVk4clBnX21fd2o5bW9mVUU5Tlk0LVVEQTRfZ1JfNjNPVTh30gGfAUFVX3lxTE1uOF9SU19obW5qczJtRWJrTEV0TUg2SEdzVXRCdzFsUlppMW83a24tZGhvT3UyV3d4UWI2X3NQbnE3NnlienAwTTFMb2s2Z3VIby1yajJXalE5cVZZaTFMX2tfWkcyQi1aVUJTek9VdDdKcFk2X3ZKUkEtZXdrakNSYU92T3VfVk1QUTlwSGZGYlA3YkJWbk81SDhwZXNTNA?oc=5",
+     "source": "upi",
+     "published": "2026-11-20T21:17:54+00:00",
+     "summary": "Trump: War in Ukraine happened because I lost 2020 election&nbsp;&nbsp;upi",
+     "image": ""
+    },
     {
      "title": "Trump threatens tax on US tech firms building AI data centres abroad",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
@@ -188,43 +212,43 @@
      "image": ""
     },
     {
-     "title": "\u2018Russian Objects\u2019 Crashed in Poland, Officials Say. Here\u2019s What We Can See.",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVFIcVZvUUdXNWtFYTZXSXdPQ01HZDdtUUd1U29Ca0VKcUVSelpERlR0S0F0MDZiUjk0MndhdVVjZEFVRk9fM1NpM3EwRHJtQmh3WjBuZjFnaC1OcXpfV1FNVnBfaUluczFwN0dhaVp6eDNFcUFFWmU4NnR0N3JQbjdiWnRWenlELWow?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-20T20:30:59+00:00",
-     "summary": "\u2018Russian Objects\u2019 Crashed in Poland, Officials Say. Here\u2019s What We Can See.&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
      "title": "Russia complains of \u2018new Iron Curtain\u2019 as Estonia shuts its borders",
      "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-20T20:30:46+00:00",
      "summary": "Tallinn&#039;s decision to shut road border crossings comes after an attack on a drone manufacturer.",
      "image": ""
-    },
-    {
-     "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-     "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T20:14:56+00:00",
-     "summary": "Drones cause &#039;fear and panic&#039; among Palestinians as Israel continues attacks on the Strip despite &#039;ceasefire&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Russian impressment sends scammed Asians to Ukraine War frontline",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcEQwb0FpWDdBejJqQ29zZG9wR2Q2NkoxMlZleXM1Rmc3TTlncFhNd2Q0dkpsR3hBTmU4VDdIa1g3ZDBFSHNOOWVFQ0FXUG5wYUpIMEhwY2JoMmg5MFR1TzdvNEZqMjIzaFFyMDdoR3k1aGpEUzBaM3doVlVSY1YwR004WHJxM1REVXd1VUhTUFYybHdY?oc=5",
-     "source": "Asia Times",
-     "published": "2026-11-20T20:14:11+00:00",
-     "summary": "Russian impressment sends scammed Asians to Ukraine War frontline&nbsp;&nbsp;Asia Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T21:18:19.718047+00:00",
+   "fetched_at": "2026-11-20T21:48:24.143619+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Wisconsin judge dismisses election bribery lawsuit against Elon Musk",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFotMVV4WEQxSS1TZVpLbXNUTG5tdkpkTmdVZElON2YwV1A3ZDFucXV2Z0RfZ1F1YzZiOHlmVHJHajI0eW9kVUM1YzBENUJRVm43aVpvQkVXSGxERlluOVhrX196UWxkQkpEOGFrZ2ZXWGpMOVlOVWJzeHpCZHU3cTZsTzBLSXo4U0sxaUJ1Zw?oc=5",
+     "source": "WPR",
+     "published": "2026-11-20T21:39:19+00:00",
+     "summary": "Wisconsin judge dismisses election bribery lawsuit against Elon Musk&nbsp;&nbsp;WPR",
+     "image": ""
+    },
+    {
+     "title": "Los Angeles County Sheriff's Department. . From helping safeguard election ballots to supporting operations within our custody facilities, the Los Angeles County Sheriff's Department's K-9 teams play an important role in public safety. CBS Los Angeles highlig",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS3RYUDRFaDNORl9YdVVnbUZqQ3R6UnUyYi1WYnFRUEdJdFNrWEZrNnJOTVFFay1rWEI4SHU3SjhvUFhGUk1SUEw5TklXQ3ZPY2hxMEIxMUF3TnNNOXVRNjNWSDZpMlV1cEFKX2ZxRWMyVDJCMHBNN0VHMl9YWnZXNDhGbDJhUjN0cW1xbndFWUhoUlh5cDY0d0tadkpCcFM2OUtKYTJiODNBd2tMSjA5S1NQSF8tcGtXUlNvUFdpaHVVVWxfQ2lfamtWalc5Z185LUlreE42Ni1fcFVSeUgxUDFaYWhVTjhrbnczMVpIb2llV2Z4QmduOA?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-20T21:25:51+00:00",
+     "summary": "Los Angeles County Sheriff's Department. . From helping safeguard election ballots to supporting operations within our custody facilities, the Los Angeles County Sheriff's Departme",
+     "image": ""
+    },
+    {
+     "title": "Webinar: Advancing College Affordability - Tools and Takeaways for Effective State Policy Advocacy",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jUUZhSVNtY1RVNURFaDNfZ3hId0VSWGxMdWU4WHBJSURZVnRWXzJLZUFFVEF1andNeGg5eWRoczNJdnBQLXZ5alJKWUlKREJoY2tZUlVIZnZZc1lYUWJVMFZB?oc=5",
+     "source": "NCAN",
+     "published": "2026-11-20T21:21:59+00:00",
+     "summary": "Webinar: Advancing College Affordability - Tools and Takeaways for Effective State Policy Advocacy&nbsp;&nbsp;NCAN",
+     "image": ""
+    },
     {
      "title": "After the Election, What Changes for Energy?\u2014Daugherty",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXRFbVJpMHBZYlJWbFh3UE85WlNlQXpqRnU4OGJOdDRaeW1GLXk1QnpDOVBEOUFFRnBBNWxENUxGQlVqZmZQYmlTZi02Tk1HbkhlOTZTbGQtYi1LOVF0aC1Cak4zcWRHZ2dtdmhLUGRjRUxpNEJMQWN0NnlIcUdaZVVNM0dhODNnOFJqd0kxUWRrVllic0Fzdk9mamJBOW9SamhCWHMzY2QzYktCOUFn?oc=5",
@@ -239,7 +263,7 @@
      "source": "BBC News",
      "published": "2026-11-20T20:54:12+00:00",
      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg"
     },
     {
      "title": "After license revocation and prison, Iowa attorney faces more sanctions",
@@ -266,11 +290,11 @@
      "image": ""
     },
     {
-     "title": "Five CT towns to hold election recounts after programming error affected vote totals",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczIwTUg2ZHV3ZVp1dnljTElHSzhSRjZvOXAwX1VvUGRUOHNjYmdjT0c5eFNXcm9BNjVvS3I2Wl9hM1ZvQ3FrYkNQM1VDM1AyNnYwb1hPTmJEMWN1aGxmVlNWUS1TY0NqSzZwSkJic2RWRXdxYTZHN1RZaElHamtGX1NuclQyY3dFVllHX2xpNG1GS3lwa3JwSGVocVItb1YzbmdCbVh3?oc=5",
-     "source": "Stamford Advocate",
-     "published": "2026-11-20T20:26:04+00:00",
-     "summary": "Five CT towns to hold election recounts after programming error affected vote totals&nbsp;&nbsp;Stamford Advocate",
+     "title": "CONMEBOL reiterates support for Infantino's FIFA re-election bid",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVk1OWU9GbkwxT0xQLTJqOUVkZTZ5Y2daMmlzcXluMVY5UVFObWxuT3UwRUNNTkE5Z3M1bE5xTDlpT0JzdmxqOVI4MG9RNjFXMDNTTHdpb2VkQmR2UWpYaTV4VkVJQl91SHZaMGVwU2RCQ0pkMmlrbWFfRmFoWHRBekxzcTQxQU5sVlA5RVhVLU13ZzBpcWZ2Y0VIQjdxV2swTWpnSENzQkFPU21xR1E?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-20T20:31:46+00:00",
+     "summary": "CONMEBOL reiterates support for Infantino's FIFA re-election bid&nbsp;&nbsp;Reuters",
      "image": ""
     },
     {
@@ -296,35 +320,11 @@
      "published": "2026-11-20T20:21:00+00:00",
      "summary": "Georgia election results certified, cementing Democrats' gains&nbsp;&nbsp;The Augusta Chronicle",
      "image": ""
-    },
-    {
-     "title": "Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ta1ZyUTJoeFlCYVB6Y3RLT3pUQVBSMGc5WXh5a3R0eDhCRGFYOGs0WHRBZ0c1NENGT25IR3kwd2xvMXEtZ2pLRENIZ1dBclRxVExqOF92emNPWE5XV2lnZl9iejdON002TlNv?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-20T20:19:02+00:00",
-     "summary": "Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "UT Austin To Offer Paid Parental Leave Benefits Next Year",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTVqOFczc2tzYTE3UW9Oa3dmeEd6cTV3QmhoV0pOUGRsS1Fodm9FdUtFXzQ4S2c5NWRfQjNqT2JCQ2duOVJVTE5ULVVCaTdtZmxibkJUNUVUM2l6S0hWM3JyS2xGS2Ntb0gwLXZndWU2Z2ZWZWZZd1FzWVdSQTBQTkJrbnFlM2o0N2Rwc1pZT2V2eFo3QzFNSA?oc=5",
-     "source": "UT News",
-     "published": "2026-11-20T20:18:32+00:00",
-     "summary": "UT Austin To Offer Paid Parental Leave Benefits Next Year&nbsp;&nbsp;UT News",
-     "image": ""
-    },
-    {
-     "title": "The Latest on Paid Leave This National Family Caregivers Month",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOUV3NUYxRjNIOFhQM1hQLUxONmstZEJEWHFDaUNxQUVLNUdMay1lVWdHWDJ3X2sxUi1xRkFuOFRXYmRTUjE4a0FjbmtJLW1femRhdk42YTZaS0szZjNCc1c4dEJFT1A2cU9QTEdhNzhyR3ROclFoSV9oUXNaenBkbTBDT24zQURzWGRQbTlhRW1UaDhYdXc?oc=5",
-     "source": "Policy Center for Maternal Mental Health",
-     "published": "2026-11-20T20:18:01+00:00",
-     "summary": "The Latest on Paid Leave This National Family Caregivers Month&nbsp;&nbsp;Policy Center for Maternal Mental Health",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T21:18:19.718049+00:00",
+   "fetched_at": "2026-11-20T21:48:24.143621+00:00",
    "stale": false,
    "items": [
     {
@@ -342,14 +342,6 @@
      "published": "2026-11-20T17:49:48+00:00",
      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-     "source": "The Guardian",
-     "published": "2026-11-20T16:26:07+00:00",
-     "summary": "Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI buildoutWho are Anthropic\u2019s seven co-founders, now wort",
-     "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=95af56c4e78299bd447fd1e5bd03b452"
     },
     {
      "title": "REPLAY: Burnham, Von der Leyen hail 'turning point' in EU-UK relations",
