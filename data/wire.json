@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-20T20:18:12.683650+00:00",
+ "generated_at": "2026-11-20T20:48:16.051220+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T20:18:12.683622+00:00",
+   "fetched_at": "2026-11-20T20:48:16.051191+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump threatens ban on US firms building AI data centres overseas",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T20:35:26+00:00",
+     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+     "title": "Russia complains of \u2018new Iron Curtain\u2019 as Estonia shuts its borders",
+     "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:30:46+00:00",
+     "summary": "Tallinn&#039;s decision to shut road border crossings comes after an attack on a drone manufacturer.",
+     "image": ""
+    },
+    {
+     "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:14:56+00:00",
+     "summary": "Drones cause &#039;fear and panic&#039; among Palestinians as Israel continues attacks on the Strip despite &#039;ceasefire&#039;.",
+     "image": ""
+    },
+    {
+     "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
+     "url": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:03:11+00:00",
+     "summary": "As thousands from Qatar&#039;s Nepali community watch their team play, they hope that the team will rise in global rankings.",
+     "image": ""
+    },
     {
      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
@@ -14,12 +46,12 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
     },
     {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T19:51:52+00:00",
-     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+     "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+     "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T19:57:05+00:00",
+     "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza\u2019s security",
+     "image": ""
     },
     {
      "title": "G\u00e9rard Depardieu and French author investigated over sexual allegations",
@@ -84,45 +116,45 @@
      "published": "2026-11-20T19:12:14+00:00",
      "summary": "Verdict against Myanmar may have implications for Israel&#039;s genocide in Gaza.",
      "image": ""
-    },
-    {
-     "title": "White House removes cyber-security chief after series of tech outages",
-     "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T19:03:56+00:00",
-     "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
-    },
-    {
-     "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
-     "source": "The Guardian",
-     "published": "2026-11-20T19:00:11+00:00",
-     "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys\u2019 school in the 1980sA chemistry teacher who had sexual relationships with two pupils at a",
-     "image": "https://i.guim.co.uk/img/media/311ab8da7f054396f1dd576b47069e8b03792e22/304_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=b9430c6c19047b5b3153fa6497e7885e"
-    },
-    {
-     "title": "Former US national security adviser confronted by students on Gaza",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T18:51:26+00:00",
-     "summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
-     "image": ""
-    },
-    {
-     "title": "\u2018Worth fighting for\u2019: senators vow to restore financial watchdog agency after Guardian investigation",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:51:16+00:00",
-     "summary": "Democrats \u2013 including incoming banking chair and both majority leader candidates \u2013 said wealthy interests were prioritized over the needs of working AmericansIn response to a Guard",
-     "image": "https://i.guim.co.uk/img/media/bf91efdbdec6fadcddfce048f1aadcc56d9e79ca/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b2e5e5afe977dcf8bc51bcfbcf5aec3c"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T20:18:12.683635+00:00",
+   "fetched_at": "2026-11-20T20:48:16.051206+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia complains of \u2018new Iron Curtain\u2019 as Estonia shuts its borders",
+     "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:30:46+00:00",
+     "summary": "Tallinn&#039;s decision to shut road border crossings comes after an attack on a drone manufacturer.",
+     "image": ""
+    },
+    {
+     "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T20:14:56+00:00",
+     "summary": "Drones cause &#039;fear and panic&#039; among Palestinians as Israel continues attacks on the Strip despite &#039;ceasefire&#039;.",
+     "image": ""
+    },
+    {
+     "title": "Scammed Asians, Africans join Ukraine War frontline fighting",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcEQwb0FpWDdBejJqQ29zZG9wR2Q2NkoxMlZleXM1Rmc3TTlncFhNd2Q0dkpsR3hBTmU4VDdIa1g3ZDBFSHNOOWVFQ0FXUG5wYUpIMEhwY2JoMmg5MFR1TzdvNEZqMjIzaFFyMDdoR3k1aGpEUzBaM3doVlVSY1YwR004WHJxM1REVXd1VUhTUFYybHdY?oc=5",
+     "source": "Asia Times",
+     "published": "2026-11-20T20:14:11+00:00",
+     "summary": "Scammed Asians, Africans join Ukraine War frontline fighting&nbsp;&nbsp;Asia Times",
+     "image": ""
+    },
+    {
+     "title": "The Day with Terry Martin: Ukraine's Battle of the Bridges",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1hfbE0yS3E1cjZKOGVJSzcySDFUWGs4b2NpaGxPZWFNYm9nUl9Obm54MnVlbldMY2VuaVBrd0FfUGpuLUVDeFVMMVBDVENFdWxObXY2d093TTllUG5xVWVZR3l5VnJMQWZKRllJLXhfeFBsUXFRdDVHeURkRXdlMDdiOS1vcHFtem5IU1owM0dHakhLdWNoOA?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-20T20:11:47+00:00",
+     "summary": "The Day with Terry Martin: Ukraine's Battle of the Bridges&nbsp;&nbsp;DW.com",
+     "image": ""
+    },
     {
      "title": "EU condemns Russian strikes on Ukraine as violations of international law",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVZLVl9PQUtSM2d6VXU4SXdCRVc5a3p4bkFLbkY3T1RablRIa3RoQzZvUFN1MlY3TzdCdUl1enF0VHd1dHFIaDJpeUtrWG52SElPZkRRY2ZuSTQxNG1WYlJia01WTWdRY3dYMEU4akxRS2t3ejg3c1NXVWNubXBuZmtIMmhzd19YckVBUFNTbU9iOXlGX29Vck04SEVOVEEwRTNadHktVDVQaVlicUVUekplRlZFc0xLS1BMaUl3?oc=5",
@@ -132,11 +164,11 @@
      "image": ""
     },
     {
-     "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-     "source": "AP News",
-     "published": "2026-11-20T20:01:00+00:00",
-     "summary": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation&nbsp;&nbsp;AP News",
+     "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+     "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T19:57:05+00:00",
+     "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza\u2019s security",
      "image": ""
     },
     {
@@ -180,57 +212,97 @@
      "image": ""
     },
     {
-     "title": "Ukraine war latest: Russia strikes 3 Kyiv bridges in massive aerial assault on Ukraine, at least 9 dead",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlqYnRIM184cXRFekZMM3o1Q2FyNDVNeGVqbW1fMHpFOWx2TktpdV85LXd0d2hOZU02VWV5LWlsYnAxM3p2VXMzQ3VwOXU3VmE5bV90Yl91XzZXRHdPUFozYmE1TE5kT3Y2TDhUdU5pUlk2V3VNVmE3OFBic3ZDWUdxcXc5M0VSMUFELU9TLXQ5OHpiQ0NSRkVEa0R1Nkg4ZEhJQllVbGZFZnIya3hTMWF4Nk1pdG1HZ3JNbzB1U2JPNUtMek5rd2Fn?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-20T19:01:21+00:00",
-     "summary": "Ukraine war latest: Russia strikes 3 Kyiv bridges in massive aerial assault on Ukraine, at least 9 dead&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "Ukraine child casualties reach four-year high, United Nations says",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTW94X0NFRzV6djFYRkRMWXg3MXdtRkJXVlpDNXNXREdpLU1wbXMtR1p4UFV5WHRzczNxRG1RUDZyY2lmNG4wQnllNE5qWk1sT3NYNTZNY0JDdjZWcTJScW1MdlFLZ0RhNWkwcS1aM3l1ejJGQXJHbzZjUEFQbFNmVWI4elpGdmNuYnZ0eUJ3a2RBbzBqanZ1ZjVxVQ?oc=5",
-     "source": "TVP World",
-     "published": "2026-11-20T18:57:00+00:00",
-     "summary": "Ukraine child casualties reach four-year high, United Nations says&nbsp;&nbsp;TVP World",
-     "image": ""
-    },
-    {
-     "title": "Former US national security adviser confronted by students on Gaza",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T18:51:26+00:00",
-     "summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
-     "image": ""
-    },
-    {
-     "title": "\u2018Worth fighting for\u2019: senators vow to restore financial watchdog agency after Guardian investigation",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:51:16+00:00",
-     "summary": "Democrats \u2013 including incoming banking chair and both majority leader candidates \u2013 said wealthy interests were prioritized over the needs of working AmericansIn response to a Guard",
-     "image": "https://i.guim.co.uk/img/media/bf91efdbdec6fadcddfce048f1aadcc56d9e79ca/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b2e5e5afe977dcf8bc51bcfbcf5aec3c"
-    },
-    {
-     "title": "Putin 'expressed his desire' for end of Ukraine war: Trump",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTFJbGVxSzl2WlVVbmQtNF9qWXI1TkJSU2djbjhKY0g3bEJuQzZiYy1OM1o5a1hYdFVqb3QxTHN5N05TNTA0aEhDb0RvOEhoYlRTNFRPWVEybHBHcHRaODZUc1RyaV9WNGFqOTF4WWV5aEc4cHBLVnZXQlZrdTRRekpCNzF2X0NRcmRUVDBtQzFON2VXWWRwUGx3?oc=5",
-     "source": "Daily Sun",
-     "published": "2026-11-20T18:46:19+00:00",
-     "summary": "Putin 'expressed his desire' for end of Ukraine war: Trump&nbsp;&nbsp;Daily Sun",
+     "title": "Trump says Putin is \"having a hard time because he's in a war that should have lasted one day\"",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45TVpieXpaWjZXdkFnX2ltQjB4c0p5d1BtcGc1d054UmJ3ejV6ZjVIZlo0UjRXWk43V1RGcFU5WDU3akJfakxqX3FidUVYVExVbXA3X2RMbjNJWUxSQVJHYkV1N2fSAXBBVV95cUxOWmp0N25icFJKb1dXQnpjU0dVX1lTNWFjeWROd1hOeDhKeXBTM3dtckVUUGVNV3ltVnpWODdLMFhLbWdOdW1vc0JJdENWNjRXUy1nbm9rZnV3VFhpTVp6ZkJ2Z2FTemRXOFZRRFZ4S0JS?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+     "published": "2026-11-20T19:03:00+00:00",
+     "summary": "Trump says Putin is \"having a hard time because he's in a war that should have lasted one day\"&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T20:18:12.683638+00:00",
+   "fetched_at": "2026-11-20T20:48:16.051209+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump threatens ban on US firms building AI data centres overseas",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T20:35:26+00:00",
+     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+     "title": "Your Vote Matters \u2014 And That\u2019s Why the Experts Continue Working Together to Check Election Results",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZVlibF9oN2RYeENFUEFjTm9VTnU3Zkt6S25rZmt0aE5BTEpjQS00dGNLQkt1cnVGRi1pVkVOUHZFdEppZG9DczFpc3EzMjBuVl9OclhqbFVkUEdubE8xeFd6SklzMTJXeXgzMFNLTDZzNVo4VWYtMlhrcGFyWUEtM21NOTZyMzlEUnNOUE5hanVaS0F1ZHh4M2dVbG9LdHFfdkwzTU1SQjF5RWxVdElfT2VKOEFnMFhGaEE2MjF2bkQ0aHl5SmtoWVFYTXNEOWJuYVBScnl5WlhGSFd5TmFrU3pPOA?oc=5",
+     "source": "CT.GOV-Connecticut's Official State Website (.gov)",
+     "published": "2026-11-20T20:34:23+00:00",
+     "summary": "Your Vote Matters \u2014 And That\u2019s Why the Experts Continue Working Together to Check Election Results&nbsp;&nbsp;CT.GOV-Connecticut's Official State Website (.gov)",
+     "image": ""
+    },
+    {
+     "title": "FULL: Gov. Abbott's 1st post-election interview",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDRjcwcjZLQ3RGVXBZeU1reENLRWN0SGxEMzNhVEtrRWtRejNnaHd5MEFFMnlwRTVyRnFiMC04UTdHU0pUZkViQ19sX1dnLUxLZ0NuNHgzVHFNOHNRaFBYXzczVdIBaEFVX3lxTFBNMHBSTHN4RDhtMl9IbU4wazRpelI3QlZUMmZKdGxOdW5LVzJQNE5JNUtjRVlBQXljMTZuQ000YU5oeGFWN1YwQjFQV0hVbWxMcEdRME1YdFRIeWo5ZEczMDAyNzJEQ01D?oc=5",
+     "source": "FOX 7 Austin",
+     "published": "2026-11-20T20:25:48+00:00",
+     "summary": "FULL: Gov. Abbott's 1st post-election interview&nbsp;&nbsp;FOX 7 Austin",
+     "image": ""
+    },
+    {
+     "title": "In Case You Missed It...",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lYndxemhRLUZZMDVNclpzSk5XcHVnbVlCcTlwVmRXMlQ1WFhxMmc2R0V3MlVhanNFbzBnWU1SQ05XLWpIZzQ1NXpwTUJGT0hRd2NhYkVPSTFsM1JybG15TQ?oc=5",
+     "source": "Center on Budget and Policy Priorities",
+     "published": "2026-11-20T20:25:06+00:00",
+     "summary": "In Case You Missed It...&nbsp;&nbsp;Center on Budget and Policy Priorities",
+     "image": ""
+    },
+    {
+     "title": "Georgia election results certified, cementing Democrats' gains",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMUdMR2xobUk2Z2diOXFrYlhULVgxc3NfNlhQam5MMVpCNnZUMnhCLVdlVXQtRjNhaUR5ZWJ5NG9UYURESkRVMVhuVFhLeFQ0MnBHbEF1TW1nNGQyOGN6Wk9NaDRBb2RwbjFuWnhmWVhYTml3NmhiNm9EbnpWeTdKelA4X3Awd1VoYVozTENhLVI5YUwyZjNGTkJtMlF6WmJvTDZPWlR6R1pQeDRMNkNkYzJWWmxMNFlVVWJUV0pHdy1id2lnRUozTy1tR0pxQmYxZV8xUFBoc3FKSVJRNjREQ3o5aw?oc=5",
+     "source": "The Augusta Chronicle",
+     "published": "2026-11-20T20:21:00+00:00",
+     "summary": "Georgia election results certified, cementing Democrats' gains&nbsp;&nbsp;The Augusta Chronicle",
+     "image": ""
+    },
+    {
+     "title": "Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ta1ZyUTJoeFlCYVB6Y3RLT3pUQVBSMGc5WXh5a3R0eDhCRGFYOGs0WHRBZ0c1NENGT25IR3kwd2xvMXEtZ2pLRENIZ1dBclRxVExqOF92emNPWE5XV2lnZl9iejdON002TlNv?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-20T20:19:02+00:00",
+     "summary": "Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "UT Austin To Offer Paid Parental Leave Benefits Next Year",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTVqOFczc2tzYTE3UW9Oa3dmeEd6cTV3QmhoV0pOUGRsS1Fodm9FdUtFXzQ4S2c5NWRfQjNqT2JCQ2duOVJVTE5ULVVCaTdtZmxibkJUNUVUM2l6S0hWM3JyS2xGS2Ntb0gwLXZndWU2Z2ZWZWZZd1FzWVdSQTBQTkJrbnFlM2o0N2Rwc1pZT2V2eFo3QzFNSA?oc=5",
+     "source": "UT News",
+     "published": "2026-11-20T20:18:32+00:00",
+     "summary": "UT Austin To Offer Paid Parental Leave Benefits Next Year&nbsp;&nbsp;UT News",
+     "image": ""
+    },
+    {
+     "title": "The Latest on Paid Leave This National Family Caregivers Month",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOUV3NUYxRjNIOFhQM1hQLUxONmstZEJEWHFDaUNxQUVLNUdMay1lVWdHWDJ3X2sxUi1xRkFuOFRXYmRTUjE4a0FjbmtJLW1femRhdk42YTZaS0szZjNCc1c4dEJFT1A2cU9QTEdhNzhyR3ROclFoSV9oUXNaenBkbTBDT24zQURzWGRQbTlhRW1UaDhYdXc?oc=5",
+     "source": "Policy Center for Maternal Mental Health",
+     "published": "2026-11-20T20:18:01+00:00",
+     "summary": "The Latest on Paid Leave This National Family Caregivers Month&nbsp;&nbsp;Policy Center for Maternal Mental Health",
+     "image": ""
+    },
     {
      "title": "Political advocate files election contest over Austin's Prop J",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0otWDE0MzdNdFFPczFBTlV1MjVudHZJNWhJaTBnMDdua0ZVOEpYcXVyQllTM2ZOaXFYel9EMU8za3lFMDdTSVh1QnZYTGNhRTBXdHFnVldwUnBrcGpJRURYYmtqWVVUZTFKTmJXMFJCTVVudmdGQkRpZUYwOGxpcXRSaE0zNlpvb0NncTV1bi1tX0RldmFPbHZ2R0N3Wl9YYjBHUk5majRfeUtLbEFmdlU4OHJheU5qanZWR20yT0UwNm8?oc=5",
      "source": "KVUE",
-     "published": "2026-11-20T20:13:21+00:00",
+     "published": "2026-11-20T20:13:35+00:00",
      "summary": "Political advocate files election contest over Austin's Prop J&nbsp;&nbsp;KVUE",
+     "image": ""
+    },
+    {
+     "title": "Treasury Sanctions Hezbollah\u2019s Charity Network, but More Targets Remain Untouched",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWG1fcjFBZzhBcUUzcjUxVG9qMFdCcGFGLXlHZXlGYm5wTVlwQ01VUGYxSHlpSDd0YUFBWjlnNHFhVTdXcE1LbDd6eFZPbG5PcDZsVzFfZDl3bW92U1ZtM09qRkhfc2ZNaGdvcTZlT2ViMFM0WFhKUWlpVUo0MnlDa2cybHZGdndEWmN6b0libmtENENmLVZFbFd6bHAzUmlxdlEtYUZPamVvZDYyVlE?oc=5",
+     "source": "Foundation for Defense of Democracies",
+     "published": "2026-11-20T20:03:45+00:00",
+     "summary": "Treasury Sanctions Hezbollah\u2019s Charity Network, but More Targets Remain Untouched&nbsp;&nbsp;Foundation for Defense of Democracies",
      "image": ""
     },
     {
@@ -242,89 +314,17 @@
      "image": ""
     },
     {
-     "title": "Independent candidate in special election for Senate District 18 questions Republican fundraising",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ2RRVktic0lWZzcyWGVsWEc5c2VIaWRZU0NPY283bGpkaVVMZl9oRUhCRHJwdDVHTk5icXA1STJLWnhkWjZJbHcxRTI3WlpIbkdHcXN1ZW5LMDNDTEF3ZG9MNEpHVVRBVFpBLWdNM2lJOS1TQ0wtejdLcnpUUy1WSmE5YW9XaFR4TnRNMTZLS3p3NmJSN3BsNnRUOU53a1pOMWtzZkRMbW9ISGRCZVlsYkgzOHJhYnI4MlIxdWtLam5SeTkwUFNBY2c2VGRMa2xOSnp1b3FjQ0NrUDg?oc=5",
-     "source": "Arkansas Times",
-     "published": "2026-11-20T20:01:00+00:00",
-     "summary": "Independent candidate in special election for Senate District 18 questions Republican fundraising&nbsp;&nbsp;Arkansas Times",
-     "image": ""
-    },
-    {
-     "title": "Clark County Democrats ask for recount, possible special election, in tight Senate race",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeDF3dTV5NW1FVGtzajdsd1ZJQ3ZXOXJaWUhOZ0ZuOWZta0FIQmNwbEp6c3hldWdsdUU1dWotZEloYlg2U0hUNGxKNWJrS0pFY3JSRzBnRXdWRkJaWWxBbUtoR3E0NEstc19ZNFZaaVFuNVA0LWktd1hvZldleGNubnRUOWZNUl9oX1JVNGNRNWZWZGVUS0dac1o0WG1VYm9yb0JXR1JCUzNscldmRUhkQWdGVERDQjNQMGNQRVpqVG9oSktXblE?oc=5",
-     "source": "WFYI",
-     "published": "2026-11-20T19:54:00+00:00",
-     "summary": "Clark County Democrats ask for recount, possible special election, in tight Senate race&nbsp;&nbsp;WFYI",
-     "image": ""
-    },
-    {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T19:51:52+00:00",
-     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
-    },
-    {
-     "title": "Sartell, St. Stephen election winners announced",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGladHVXVnpBRmhNT2ZCN3dtV2FySkdQb2pGZlpqUHZXOUNwcTU1eE1ocG9USThfeEJkVzhybmpXUVlyT3JrWVdDMExsVHJGVjhDaE9oR3lTMFhJb1lYRGM4b1EwQVp2NlktbnhZbmhVQU9BYzFKdW52NWx3OTE4aw?oc=5",
-     "source": "The Newsleaders",
-     "published": "2026-11-20T19:45:43+00:00",
-     "summary": "Sartell, St. Stephen election winners announced&nbsp;&nbsp;The Newsleaders",
-     "image": ""
-    },
-    {
-     "title": "Election recount, Braun re-election bid and Trump's trip with Putin & Xi | Crossroads Politics",
-     "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPdjA3cFZvR0ZxdjZVMEFrSlRCa0JXTUNhblpqcUZwd1dVOFI1c3Nxc1FVRnNwWU1VcHdzSDg4YkdSNGMtYTVybjlENW1vNnpsN0tqYzNVZG5CYTVWcXNnSDFHdGxZVjUtaENUaEtOd2U0UzdOdEMxc2EyV1NwazRFSDFyR1hVUjVORldqSW1ya1NNS3B2SmdPS2VMVDBFVWtVMWYyNkU4aFV5b0ZLN1hNQ3lWUWJpVXJ0UzkzZVlYYW1UM1UzRjRqZzhaa04yWURKdXMxNDVVQ1QySUhqYXlXREV1Qlphd3I0eVFaWXVLejNHck5JT0NUNGRhZ2c3RGJvMFA2WVJ5LVNwdGNuTmdnTGJFZVM5U1p1RHBWMW1kTzdKV0pnNDNNVlZDZ2dzMVYtR05jNnRXSUd6QWk1T3RvUDNudVRIeTBPM1pINkl0cTZrZGZvY05wRGhWOU9ON1NyM3c?oc=5",
-     "source": "WTHR",
-     "published": "2026-11-20T19:43:00+00:00",
-     "summary": "Election recount, Braun re-election bid and Trump's trip with Putin & Xi | Crossroads Politics&nbsp;&nbsp;WTHR",
-     "image": ""
-    },
-    {
-     "title": "St. Paul Public Schools under federal investigation for gender inclusion policy",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWG1ldUVCWjA2UXh0SWxPc0JVVnpwVDMxdmFBamlqckQ2SHJZREZzTE8wS2V0VUpaNHI3QlpvODh3NU1vbkJiU0p5ZGxLc3RkTk11Qk5qSjlkdUFDZERmZVVJN051VXlEWXgyTGtCTWUybGVqSWM1b0RPVmd5WjEyX2d4cHprQ2tCY1o4aTlnUnQ2clRrQThiTHZjLUlYVFBvbzFFUlFvc2I4aWJl?oc=5",
-     "source": "MPR News",
-     "published": "2026-11-20T19:39:00+00:00",
-     "summary": "St. Paul Public Schools under federal investigation for gender inclusion policy&nbsp;&nbsp;MPR News",
-     "image": ""
-    },
-    {
-     "title": "Auburn University Board of Trustees approves new post-tenure review policy",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmFsTGZNRXZnbkVENHhLN0pCRjJxZjhyY3B1QUhCaHZfSkIxTlprbVEzN2NxajFOODY0WnlOUmpveFZHc0xvMGpNMUFTRXZGaE1MSFdMNFVXeW83UDFBYWoyVTNuUFdKUVljUFc1aVhLX1YxVVRCZ0Uwbjk3OFJabUs1SGl3MzlVd2JXVzBLU2VJblBKSUFsaVFvUFpXTnRyaHh6bG1oejR5MTZhQlNWQUd5Y2lEUQ?oc=5",
-     "source": "Alabama Reflector",
-     "published": "2026-11-20T19:38:21+00:00",
-     "summary": "Auburn University Board of Trustees approves new post-tenure review policy&nbsp;&nbsp;Alabama Reflector",
-     "image": ""
-    },
-    {
-     "title": "Judge says ICE \u2018made a mockery of court orders\u2019 with instant re-arrest policy",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWE1qRXRySmZxSG9lcFZ3ajZyWFMxN3pxTzM4LUM2ZllvTjFfU1AtT1pBTnlLR3JFdjJXeUJITFJxTlhER3VmeHJfanZReXZtQTZyOF9Xc2ZKVjd3N2NfUFI0d0lyS3pCUkRWdURBOXpzUFBNcFlZeXRsSUtMUmFHV0NYQ3l0Z09SOEljOVFpUkU?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-20T19:33:00+00:00",
-     "summary": "Judge says ICE \u2018made a mockery of court orders\u2019 with instant re-arrest policy&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "PUBLIC NOTICE: COUNTY COUNCIL DISTRICT 2 SPECIAL ELECTION",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMU1obkN6QXM1SUhtcUtZdUI2anYyNUhHa3VTYUE0SFZNYktlQlVhaHdvVnN3WGVhSGc1ckh3TkdzendmWFl5Z2tvem5ReVE5dXdKb25mbWdreXJVNVlVenFBODhEeDlMd19QWV9IcjdnQ2VDUlVycXFYM3ROR1RhQnp6dTQtSGYzRkVZb2Fxbw?oc=5",
-     "source": "Berkeley County Government (.gov)",
-     "published": "2026-11-20T19:26:30+00:00",
-     "summary": "PUBLIC NOTICE: COUNTY COUNCIL DISTRICT 2 SPECIAL ELECTION&nbsp;&nbsp;Berkeley County Government (.gov)",
-     "image": ""
-    },
-    {
-     "title": "Decoding Israel\u2019s Election Results - AJC Advocacy Anywhere",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNempSSzFYc1RYaVZ1YTdMbmlESUptdDRFQmV4RFdGWjRScjlFcl9EY3ZyN2VVckdPR3RoQ1dGWUMxQVhrMUJiNHI1cXd4bTdYZDVtVjE1cXJsMFlua3ItVm9XQkZpVllYUnhYdTVsSkVBUVB3WnNGa0ZWVWRtWmhPWXB2aUVMYWM?oc=5",
-     "source": "American Jewish Committee",
-     "published": "2026-11-20T19:21:21+00:00",
-     "summary": "Decoding Israel\u2019s Election Results - AJC Advocacy Anywhere&nbsp;&nbsp;American Jewish Committee",
+     "title": "UC San Diego survey finds election confidence surges after 2026 midterms",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZHJTT28tZVFTWU5kaWpFLUFQRU5PcU1MSmxUWE1wWG9BTDJYcVgweDV4QWM0T2tKQkItNHZkRzBhalpySmlJMTg5WXJ6MlZjWFI3emhWeGVjMDViWWhpUVd4dVE2SnppYWt1ZnZ1V21kdHB3RGVEUDlDZ281NVnSAYQBQVVfeXFMTlQ0ZWg0bUpIRmtHVWVJdFY5Mkt6NHJvX0xiY3NYYWFOOE03Y1dLOWQzaTZqZVdEbmhLcmR3dE5XM0h2bTZEZl96ZmFmV0EzN2VhT0YxMVc1TW0tZ0REbU9OTXhxZERadWZKYUdFY3Jidmd4STU3a3M4LXN2elJOM19XUDlz?oc=5",
+     "source": "FOX 5 San Diego & KUSI News",
+     "published": "2026-11-20T20:01:58+00:00",
+     "summary": "UC San Diego survey finds election confidence surges after 2026 midterms&nbsp;&nbsp;FOX 5 San Diego & KUSI News",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T20:18:12.683640+00:00",
+   "fetched_at": "2026-11-20T20:48:16.051212+00:00",
    "stale": false,
    "items": [
     {
@@ -358,14 +358,6 @@
      "published": "2026-11-20T14:45:20+00:00",
      "summary": "British Prime Minister Andy Burnham hailed a \"landmark\" deal with the European Union on Friday, as the two sides sealed pacts on food exports, emissions-trading schemes and youth m",
      "image": "https://s.france24.com/media/display/28039ada-e4f0-11f1-9a52-e56ab3dc0809/w:1024/p:16x9/EN-20261120-140752-144607-CS.jpg"
-    },
-    {
-     "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
-     "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T14:38:25+00:00",
-     "summary": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
-     "image": ""
     },
     {
      "title": "California investigates Nvidia over whether chip exports ended up in China",
