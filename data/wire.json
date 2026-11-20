@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T03:15:16.537186+00:00",
+ "generated_at": "2026-11-20T03:45:20.288258+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T03:15:16.537158+00:00",
+   "fetched_at": "2026-11-20T03:45:20.288225+00:00",
    "stale": false,
    "items": [
     {
@@ -50,7 +50,7 @@
      "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
      "source": "The Guardian",
      "published": "2026-11-20T02:50:29+00:00",
-     "summary": "Dennes, 70, was convicted of killing a Houston jeweler, and groaned for an hour after pentobarbital was administeredThursday\u2019s execution in Texas of Reinaldo Dennes took over an ho",
+     "summary": "Dennes, 70, was convicted of killing a Houston jeweler, and groaned for an hour after pentobarbital was administeredTexas executed Reinaldo Dennes on Thursday in a procedure that t",
      "image": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/622_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a5885394d872d2e91993c94d0a68d706"
     },
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T03:15:16.537172+00:00",
+   "fetched_at": "2026-11-20T03:45:20.288239+00:00",
    "stale": false,
    "items": [
     {
@@ -204,27 +204,43 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
     },
     {
+     "title": "Trump\u2019s trilateral draws backlash from Republicans and Ukraine allies",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYnhZLVp2Y25hNHlIRGk5TVpEUWlKcmFIN2xyUnZkWHFyTEJRTFhReVFmeENkdTJrMUxia2s5LVdzSnI1UHBmM2h1MVlRYUtCQW53MFdhWlFwb3NKTGpCaFNuV1piUjRSUl9kSWdic19ZaTIyVGdXRUFzS2ZiZXNoN09McmhuNHBoLWVkWlhIaWVKUEdkYVJUcHdrSS1ya1QwQ3RjcA?oc=5",
+     "source": "Politico",
+     "published": "2026-11-20T00:06:00+00:00",
+     "summary": "Trump\u2019s trilateral draws backlash from Republicans and Ukraine allies&nbsp;&nbsp;Politico",
+     "image": ""
+    },
+    {
      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-19T23:58:40+00:00",
      "summary": "Houthi missile fire has rocked Riyadh&#039;s financial centre as the Iran war leaves &#039;lasting marks&#039; on global energy.",
      "image": ""
-    },
-    {
-     "title": "Kushner says Russia \u2018comfortable\u2019 with NATO-like guarantees for Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlJnSGR1SWI4TnZ5UHc4TzlBc215UXN4ZVRvYVZ0OHc2Uk9uTjN6N2hPZ212Z090eXpHWFB1bTgxVDFhSnBhOWFONkJ5NlU4cUNoWXNVYUpHR2VuOWtuT3pXa05QclJoM0kwZ1RmYnZPaHA4cVg3eU9WVjUtTVBKUG8zeGdWVkxVYXV5dUl2dk9raWFhTFFzVXlsWEVKbHZseUFpb01CLVQ5d9IBrwFBVV95cUxNLVN5MWFBRlFfZzZxY3g3amFZUktOcnM0XzItRFkteVl2dEM2c2Utem5kVU9EaXZmLVR5NmE2Y0tSOTM3cjF3VXdySmNMdE13OV9kQ0dQbG9XSWFvSWs4ZDJlYVVhMnRZZHF0c2RsazJwTnlvZkVIU3BacGRpUmtjMnVPeFd1Wlhqay1CMTVYUlBZTHowb2ZtZ3RkSW1FMjdQakFWakJnaUVTdUtCZTNF?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T23:42:52+00:00",
-     "summary": "Kushner says Russia \u2018comfortable\u2019 with NATO-like guarantees for Ukraine&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T03:15:16.537175+00:00",
+   "fetched_at": "2026-11-20T03:45:20.288243+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Iowa\u2019s police chief-elect hopes historic election inspires next generation",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlFqUWdISEltcGJvTU9CeFhIZHN3ajZLYmc1MWRzSWtsbjNCX1lERTJhbXhsMVFQeEJSSHBlX29pdWw5UjU2SDUzTWhvcEVyNmdUYWhjNExXclA0ZkxVTk9CN2VjNVZxejNyM3REVllKcnpqVU1FdXNiRHpORU16SUFQdVZ0Y2RpQjlTakxFZU5RcEhLdTUxc0FmenpUc1dOb1g1VTVGM2FSaEJy0gHAAUFVX3lxTE9idkJjZ2duN25mRkdUV04wd3M5aXdJVWJuQnhGWmM0cmNUdnltSlI5RHRpay1USmpuUmwwaUN6YUhtRnJjTExRa1E2blA0enZhOEtNOTBCRUtxUlRIaURZNjhMZVNScFI3WFhvaVR4Wmp5aFdyWTBTSG55TWZsQXpOLTJuR3Y0QlZkRWotUm9SeUVrX25uM095akNTekZZeEU2TFVvTWFjRnNnWXRPazJOZTlfSEFBOGZLZmVfSk9lRQ?oc=5",
+     "source": "KPLC 7 News",
+     "published": "2026-11-20T03:13:00+00:00",
+     "summary": "Iowa\u2019s police chief-elect hopes historic election inspires next generation&nbsp;&nbsp;KPLC 7 News",
+     "image": ""
+    },
+    {
+     "title": "Here\u2019s what Round Rock ISD\u2019s failed tax rate election means for employees",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUJBVkFkd1lLWmF5V3RiaXJVeG9fd0tiaU9vdnVJdVdIcW9FdWZjcHRPYW5EekswTDZPcl9Ja0w4a0NwRmd2d2plMEl6el9YTWtwcHVHU05rTEljcmI5dnVCWWtiOTZ4VmFMcGMyZERzbi00dHNISHUzTllfZkNmOUlxNWJlUDl0QS1sYVE0eTV5TFVMSVRJZzgzd2NXdkc4cU15enFqcnlkS1pFNW4wWnNtdHR4ZnZhQkZDWFk1LUg?oc=5",
+     "source": "Community Impact",
+     "published": "2026-11-20T03:08:11+00:00",
+     "summary": "Here\u2019s what Round Rock ISD\u2019s failed tax rate election means for employees&nbsp;&nbsp;Community Impact",
+     "image": ""
+    },
     {
      "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska \u2013 as it happened",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
@@ -238,7 +254,7 @@
      "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
      "source": "The Guardian",
      "published": "2026-11-20T02:50:29+00:00",
-     "summary": "Dennes, 70, was convicted of killing a Houston jeweler, and groaned for an hour after pentobarbital was administeredThursday\u2019s execution in Texas of Reinaldo Dennes took over an ho",
+     "summary": "Dennes, 70, was convicted of killing a Houston jeweler, and groaned for an hour after pentobarbital was administeredTexas executed Reinaldo Dennes on Thursday in a procedure that t",
      "image": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/622_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a5885394d872d2e91993c94d0a68d706"
     },
     {
@@ -304,27 +320,11 @@
      "published": "2026-11-20T01:39:29+00:00",
      "summary": "US Committee Urges Sanctions Over China\u2019s Detention of Panama-Flagged Ships&nbsp;&nbsp;The Maritime Executive",
      "image": ""
-    },
-    {
-     "title": "Fresno County leaders eye new transportation tax proposal for 2028 election",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmxJTHJMVHZEMkVGNFFYWFZ2TE0zNTNqdm9KcEtuR0RNbUZfeHdxMmp5Ykl0OGZaaDh3dWhMQkpCTU00d1NJNVJRUWVkTFZHSS1LYmVEdldTTjVmYWF2QXltT29oYWZ2dVluWnl0LTU0c3RKYnRYNnBIS1d0ZndmMnZEUnljN1N4QWN1UTVpeERZX253Z1pXV2NYUy01cVQwR0Vjd0FWY9IBrAFBVV95cUxQTmphOGJMeXNOTkRVckxqd3gtUnhrNVlScWZvYUhCLUpCMGxSbVJCWkpDakRkVVFQdjhjcFJXSHZ6QWFwR3VxZWFnVjdBRDZpSGE1QkdaM2ppand5N1JJbHk1MWxaV3l3aXlxTjJmTlZ1QmRLWXZGWHNwb2ZybTJaRHZQYXEwQngzY2Y2Ul9td2lheFB5NERUektrQVo4ZkNlVlVqTm9KMDBLdXg0?oc=5",
-     "source": "ABC30 Fresno",
-     "published": "2026-11-20T01:38:48+00:00",
-     "summary": "Fresno County leaders eye new transportation tax proposal for 2028 election&nbsp;&nbsp;ABC30 Fresno",
-     "image": ""
-    },
-    {
-     "title": "DOJ abandons lawsuit that sought to pause certification of Alaska\u2019s US Senate election",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQTM5YkY2YlN5NlJmcE9PeHlzSmlOQXdpMXA5QTBoa1VWbkdnMUpOMkJuX2lSY1YyQlk5eHNld2Z4UTNlbDJqZ1ktVlFSeWFvV3BtQW9sdHZUelBjWTJ0UVVNSVI0MGM4RW1OMC1RUUJPVXIwR21EdHFKbEJLNC1fc01MZnBxQmxRb0FCa2ZQS3VZLUtYWkJPM0szODA3bVZrcWVCSUllMnNyWXktNER4X3lXT1Zfd3ZidU9EeGt0WQ?oc=5",
-     "source": "Alaska Beacon",
-     "published": "2026-11-20T01:32:27+00:00",
-     "summary": "DOJ abandons lawsuit that sought to pause certification of Alaska\u2019s US Senate election&nbsp;&nbsp;Alaska Beacon",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T03:15:16.537178+00:00",
+   "fetched_at": "2026-11-20T03:45:20.288245+00:00",
    "stale": false,
    "items": [
     {
