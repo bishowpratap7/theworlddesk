@@ -1,24 +1,48 @@
 {
- "generated_at": "2026-11-20T08:46:13.519087+00:00",
+ "generated_at": "2026-11-20T09:16:16.880214+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T08:46:13.519044+00:00",
+   "fetched_at": "2026-11-20T09:16:16.880184+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Andy Burnham in Brussels as UK and EU close in on Brexit reset deal \u2013 live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-20T09:04:17+00:00",
+     "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme.Peter Walker and Jennifer RankinWith Andy Burnham arriving",
+     "image": "https://i.guim.co.uk/img/media/b1b7e7d5285fba221edebb3cdc8cbf11fe1e0710/632_0_6307_5047/master/6307.jpg?width=140&quality=85&auto=format&fit=max&s=9977a905023af3d944fa6fa413d8964c"
+    },
+    {
+     "title": "California\u2019s coastal communities on alert as biggest waves in years hit state",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+     "source": "The Guardian",
+     "published": "2026-11-20T09:03:20+00:00",
+     "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this week across California as suc",
+     "image": "https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=140&quality=85&auto=format&fit=max&s=cd548202b629035c561b80f699fa5ef7"
+    },
     {
      "title": "Three Kyiv bridges hit during major Russian missile attack",
      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T08:40:45+00:00",
+     "published": "2026-11-20T09:01:06+00:00",
      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg"
     },
     {
-     "title": "Iraqi security forces to deploy in Hezbollah stronghold under compromise deal",
+     "title": "British Library to outsource security and \u2018repurpose\u2019 reading rooms as business spaces",
+     "url": "https://www.theguardian.com/books/2026/nov/20/british-library-outsource-security-reading-rooms-business-spaces",
+     "source": "The Guardian",
+     "published": "2026-11-20T09:00:27+00:00",
+     "summary": "Exclusive: Guards told their jobs will be transferred to a private contractor that has rejected union recognitionThe British Library has sparked outrage over plans to outsource its",
+     "image": "https://i.guim.co.uk/img/media/19552496ade8f26d62d72ca1831693c44383efd3/452_0_4470_3576/master/4470.jpg?width=140&quality=85&auto=format&fit=max&s=50ae13b1c22b8976198419d50cacc568"
+    },
+    {
+     "title": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
      "url": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
      "source": "\u00a9 Anmar Khalil, AP",
      "published": "2026-11-20T08:37:27+00:00",
-     "summary": "Iraqi security forces will deploy \u200bin the Kataib Hezbollah stronghold of Jurf al-Sakhar, officials said on Friday, under a compromise deal brokered by Shi'ite politicians. Iraq's p",
+     "summary": "Iraqi security forces deployed \u200bin the Kataib Hezbollah stronghold of Jurf al-Sakhar, state media said on Friday, under a compromise deal brokered by Shi'ite politicians. Iraq's pr",
      "image": "https://s.france24.com/media/display/8d70c954-e4bb-11f1-9f2f-e56ab3dc0809/w:1024/p:16x9/AP26321593824833.jpg"
     },
     {
@@ -28,14 +52,6 @@
      "published": "2026-11-20T08:36:13+00:00",
      "summary": "Surge fuelled by \u2018preppers\u2019 heeding Be Ready campaign\u2019s call for households to have three days of food and water for emergenciesBusiness live \u2013 latest updatesRetail sales in Great ",
      "image": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=140&quality=85&auto=format&fit=max&s=8dfcf0e5064769f2391ce1d79f2bf36a"
-    },
-    {
-     "title": "Andy Burnham heads to Brussels as UK and EU close in on Brexit reset deal \u2013 live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-20T08:28:08+00:00",
-     "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme.Rajeev Syal and Lisa O\u2019CarrollThe UK and the EU plan to es",
-     "image": "https://i.guim.co.uk/img/media/b1b7e7d5285fba221edebb3cdc8cbf11fe1e0710/632_0_6307_5047/master/6307.jpg?width=140&quality=85&auto=format&fit=max&s=9977a905023af3d944fa6fa413d8964c"
     },
     {
      "title": "Joanne Young praised for bravery in exposing rape by husband and strangers",
@@ -100,43 +116,43 @@
      "published": "2026-11-20T07:37:55+00:00",
      "summary": "Argentinian football legend Messi, who joined Miami in 2023, signed a contract extension through 2028 last year.",
      "image": ""
-    },
-    {
-     "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
-     "url": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-     "source": "The Guardian",
-     "published": "2026-11-20T07:25:31+00:00",
-     "summary": "UK economy defies City predictions and Iran war fallout, with gap between spending and income about \u00a31bn lower than expected in October, at \u00a317bnThe UK government borrowed less tha",
-     "image": "https://i.guim.co.uk/img/media/d6d9c0c84f2abfeb43fbf3cce6e569b8864075f9/425_0_4173_3340/master/4173.jpg?width=140&quality=85&auto=format&fit=max&s=78934bf5dcf025ae46c61334a72cc05b"
-    },
-    {
-     "title": "The Gambia stood up for the Rohingya, now the world must act",
-     "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T07:20:53+00:00",
-     "summary": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T08:46:13.519058+00:00",
+   "fetched_at": "2026-11-20T09:16:16.880198+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "California\u2019s coastal communities on alert as biggest waves in years hit state",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+     "source": "The Guardian",
+     "published": "2026-11-20T09:03:20+00:00",
+     "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recordedMultiple coastal hazard warnings were issued this week across California as suc",
+     "image": "https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=140&quality=85&auto=format&fit=max&s=cd548202b629035c561b80f699fa5ef7"
+    },
     {
      "title": "Three Kyiv bridges hit during major Russian missile attack",
      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T08:40:45+00:00",
+     "published": "2026-11-20T09:01:06+00:00",
      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg"
     },
     {
-     "title": "Iraqi security forces to deploy in Hezbollah stronghold under compromise deal",
+     "title": "Russia targets Europe's largest substation in mass energy attack on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzllUzdEdjB3QWdJTWhQNXdib3ByZTZ5OW9HOXZNQXFleDJib3NWSjhCa0F3dW13YkRKMXV1aFJYdHVKRmlDNkQ4QWE2Rkw1dDZuTC1kS2ZIZ2lveUlocGEwUlhJNGJ5LURxOFhEUWVLWlppOWYxWkUzMlRkckZGcTFPNGNUR2l6Q0NJbVVVLUFhWnZodFdzNGZhLWJKT3FGYTdBSjZR?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-20T08:42:37+00:00",
+     "summary": "Russia targets Europe's largest substation in mass energy attack on Ukraine&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
      "url": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
      "source": "\u00a9 Anmar Khalil, AP",
      "published": "2026-11-20T08:37:27+00:00",
-     "summary": "Iraqi security forces will deploy \u200bin the Kataib Hezbollah stronghold of Jurf al-Sakhar, officials said on Friday, under a compromise deal brokered by Shi'ite politicians. Iraq's p",
+     "summary": "Iraqi security forces deployed \u200bin the Kataib Hezbollah stronghold of Jurf al-Sakhar, state media said on Friday, under a compromise deal brokered by Shi'ite politicians. Iraq's pr",
      "image": "https://s.france24.com/media/display/8d70c954-e4bb-11f1-9f2f-e56ab3dc0809/w:1024/p:16x9/AP26321593824833.jpg"
     },
     {
@@ -172,6 +188,14 @@
      "image": ""
     },
     {
+     "title": "Hours after Trump-Putin talks, Russia hits Ukraine with massive, deadly attack",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5",
+     "source": "CNN",
+     "published": "2026-11-20T07:40:34+00:00",
+     "summary": "Hours after Trump-Putin talks, Russia hits Ukraine with massive, deadly attack&nbsp;&nbsp;CNN",
+     "image": ""
+    },
+    {
      "title": "Europe Signals Readiness To Negotiate With Russia To End Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEhpczZ6TTVUcWpQOGEyRW5FZkJvZWkxVkFnd21fbjF3a3BoVjZlMkRHSDJaYUdHSkdXaFgyVndOZWdGZUw1WGplb282MUVVRVJOSW9PZ2RGeVoyWTlMcjVFcW5nXzBOcU56OVl0cnM5ZURUT3FqVmZHeC1WNExWbGdreTdMMnpuMG1YTmp1T2dKeU9x?oc=5",
      "source": "Arise News",
@@ -194,37 +218,53 @@
      "published": "2026-11-20T07:25:31+00:00",
      "summary": "UK economy defies City predictions and Iran war fallout, with gap between spending and income about \u00a31bn lower than expected in October, at \u00a317bnThe UK government borrowed less tha",
      "image": "https://i.guim.co.uk/img/media/d6d9c0c84f2abfeb43fbf3cce6e569b8864075f9/425_0_4173_3340/master/4173.jpg?width=140&quality=85&auto=format&fit=max&s=78934bf5dcf025ae46c61334a72cc05b"
-    },
-    {
-     "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
-     "source": "The Guardian",
-     "published": "2026-11-20T07:17:01+00:00",
-     "summary": "Testing confirms presence of etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in AustraliaGet our breaking new",
-     "image": "https://i.guim.co.uk/img/media/a8c083df952ff966868d4c06e9dd4da0fa335d1a/481_0_3661_2929/master/3661.jpg?width=140&quality=85&auto=format&fit=max&s=5df6a99a90c9e39471ef25a952defa4a"
-    },
-    {
-     "title": "EU and Britain to agree steps towards relations reset",
-     "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T07:12:43+00:00",
-     "summary": "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine War, Day 1,730: Kushner\u2019s Muddled Statement on Security Guarantees for Kyiv",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN1pVZjVqRktKb21rNDk4T2NzLXk0YlpJTVA3aHNKZnowOWtkcEZERXpZVnczZm1OTnJoWE04Vnc1MnNabmxjZ2JKUVkyaGZMRFlIQnhXVXM0cmdfQ0lybDdqT2FHLTd0VVdaQ201YV9CQzdteEpPc1F6V1dEeEFFM2JnV1ltQXZQMENOeVEtb1ljUmFRUFBwTzRaX3l0Vm9CN2h2Yg?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-20T07:06:35+00:00",
-     "summary": "Ukraine War, Day 1,730: Kushner\u2019s Muddled Statement on Security Guarantees for Kyiv&nbsp;&nbsp;EA WorldView",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T08:46:13.519063+00:00",
+   "fetched_at": "2026-11-20T09:16:16.880202+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Multiple claims of voting twice in election being investigated by Connecticut officials",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUx4blRiR0xyRFhMWDMyRUpxTFRTcTVmN0xNd0JiV25RLWJ6T1d2dGU4SFR0WkRrbFJ6b3hqaUhEZi1zdkt4MW1FLTNsN3lCdlBQdWtQTHlUUGJXaTUtdG9XZ3lXS3dmdUpwRThfMEtPTmVTUlBzVGVBSW1PSzR5QUxrM2M2dmRVRlhWd3ZTc1BaQm5iaUE?oc=5",
+     "source": "CT Insider",
+     "published": "2026-11-20T09:02:47+00:00",
+     "summary": "Multiple claims of voting twice in election being investigated by Connecticut officials&nbsp;&nbsp;CT Insider",
+     "image": ""
+    },
+    {
+     "title": "Westchester's election failure demands accountability | Opinion",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0dkU09pMGxXbUFWTFVvSGk1emM3dU9leFhWLW5aaXJpS19IalBEdTdSYlNWS19Zc0Nya2JRclpnLTgtd1k2Z1U1ekxqOGJINGRZdWVvcmctc2JjY1J2UXJJUk1QWnZTVk1uYU5nOVVSV0xNT2o3SkdSa3ZMWl9JdFlkc0FXcFlWTlNLVlNTYTRyWkU4SnJRX1ZnNG55YUNDaVlseWRn?oc=5",
+     "source": "The Journal News | lohud.com",
+     "published": "2026-11-20T09:02:00+00:00",
+     "summary": "Westchester's election failure demands accountability | Opinion&nbsp;&nbsp;The Journal News | lohud.com",
+     "image": ""
+    },
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5namgyRjNvdUtOMXFIUzlzeWh3Y2RjdFlQLTV1RGtaNXpoWF9NblB3STQ2T3M2cm5idVBpaWVfdGN1SGJlYl9LM0JiZ01kY3pQU3I2RmhrbThINjFuYmlJSldzWkVSVGtfSVRuMlZhb1Y5ejhzWmlfdDFHci1ZQQ?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-20T09:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "After election blowout, Moreno to lead GOP Senate efforts in 2028",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQamo1WmpPYXZ5N1FKLThkOWg0UUF4NjZRWlZrOUw2YTkzV1JqbUlnTUZDcW8xSW1hRnI5Q1llUnhtRFFUWkhDY0tXRnZzLXZVWkQ5QW1PZHJDVGhVRVRPOXppRjJYLXJLVC1EMWl2Vy13LVo5emt6anJNSFIyQmZMclpfRTVTSTF3djZyTXM5dDBaRUEtUVZ5WkFhN2duWVFvMTRjalZUU0gzZzZrMDgyOGFMNzIwS1gzdC1INm43eHJZX0tiX2RVS1kwUDJmbXV6OTFjS2lidFBacUdwLTVjenZ1U3gxZjA?oc=5",
+     "source": "Dayton Daily News",
+     "published": "2026-11-20T09:00:00+00:00",
+     "summary": "After election blowout, Moreno to lead GOP Senate efforts in 2028&nbsp;&nbsp;Dayton Daily News",
+     "image": ""
+    },
+    {
+     "title": "LMWD appoints LaLonde despite election loss",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFVfTThQMkJTcU43Wk54a0ZTTm5od2w5bWxuSURBbjM5ZnBxR2ppNkFjSENXTkp1QnpxalNLaERmaDRSendjSEZIcEgwTVBadWVuMno2c1pZSHl4bWhIdW9qek1XbHMwaVV2OGlDbVhiQUJoOG9xbDBhTHRWT2tUd2RNeDA4XzREQk9GREYyMkctQ0xNNkY0?oc=5",
+     "source": "Port Isabel-South Padre Press",
+     "published": "2026-11-20T08:37:40+00:00",
+     "summary": "LMWD appoints LaLonde despite election loss&nbsp;&nbsp;Port Isabel-South Padre Press",
+     "image": ""
+    },
     {
      "title": "After a Momentous Election, Serbia Gets Busy Cleaning House",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTV9EREdnZkUydkV4ZkF6SWRVNzlydmc3S3k1YVYzd1VrQnlXVEdnd2E2UllRcENTYVZneDNtSVllUEJQb2lBVFFrYjNhTFRvV1J6eVktWFNmQ2Y1S1pneHUyUmlzV2VzdUptSEhJbC1CYWRtRVlKLWlkRkphaFlkWGxYWjNZRklrTzAwb2RMeDhMLWdiODN3Yw?oc=5",
@@ -266,14 +306,6 @@
      "image": "https://i.guim.co.uk/img/media/6651d6665ae5290a9aa6da8c2e030ac90ebdb1bd/144_282_3818_3054/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=36a08271517efe796797c7ebcddbfe09"
     },
     {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5namgyRjNvdUtOMXFIUzlzeWh3Y2RjdFlQLTV1RGtaNXpoWF9NblB3STQ2T3M2cm5idVBpaWVfdGN1SGJlYl9LM0JiZ01kY3pQU3I2RmhrbThINjFuYmlJSldzWkVSVGtfSVRuMlZhb1Y5ejhzWmlfdDFHci1ZQQ?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-20T08:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
      "title": "ASM revisits chair election dispute, council advances new legislation",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzdQYzRFNy02U3hGLV81LWQ4eVFEMTRYR3JOX0txNTJJc0V3dXRabHAwdHdsWHJoV3pwRFZjWlJtUFRubDM0dEppYVJkdDFMNmN0ZGZMejNqdFhxRzNqa0pFOWhSWE5NZDBRS0dQUXZYbVBJZFF5SEp3ejdRZERSdnNQS0w3ZVRMYktNSDU3cW5QWTUtbEhINk16VXpvMWdNSWFRWGVZRUFYZFh5Z0ZtbUZ3emk?oc=5",
      "source": "The Daily Cardinal",
@@ -288,43 +320,11 @@
      "published": "2026-11-20T07:57:53+00:00",
      "summary": "Youth protests are set to take place in more than 25 countries in Europe on Friday and over the weekend, coalition organisers said, as demostrators seek to increase pressure on gov",
      "image": "https://s.france24.com/media/display/c479d6d8-e4b7-11f1-9b6e-e56ab3dc0809/w:1024/p:16x9/AP26321479139816.jpg"
-    },
-    {
-     "title": "Westfield Mayor Scott Willis announces re-election campaign",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkdtY0d2MS10MUJ2WnlkOE1Oek5pQS1BR1ZCeUNUbkctUk82QnFtVzJ3T3JzbGJ3eFdXc09qWXJjVjJyQnpCV3p6M2ZzYVhib3FmN0V4bzNHYVp1ZWRTeldFRlEybTNYWmpQSV8xaGo1SlU0QnhOUnEyZHdqV2pBQXIwNXJYSGwyNW1iR2ViVkFBZw?oc=5",
-     "source": "The Hamilton County Reporter",
-     "published": "2026-11-20T07:31:11+00:00",
-     "summary": "Westfield Mayor Scott Willis announces re-election campaign&nbsp;&nbsp;The Hamilton County Reporter",
-     "image": ""
-    },
-    {
-     "title": "Board of Regents updates faculty conduct guidelines, sexual harassment policy",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaW91SWFySlVyaVQ1TDJ0bnJVOVJCOXZPZGlMMzlpSFRfNzhLYkU4REpnTlZKVDlVZ24xZlJoTjE1ZTJmSC1ZVWRSQjd0MXNhbkUwdTBodlR0aFAtVHBGZ3VnN1E0WTgwZUEzcXVabHFwcGV3ekZ5YkZyZ0FpRFU5SEo0cGtsSFBjTGNDcVRPNlZjdmdQWXhXVjM5eXJiSUpTajJuQkdMN0ZfYUFSU3ZLSjloZXQ?oc=5",
-     "source": "The Daily Texan",
-     "published": "2026-11-20T07:30:57+00:00",
-     "summary": "Board of Regents updates faculty conduct guidelines, sexual harassment policy&nbsp;&nbsp;The Daily Texan",
-     "image": ""
-    },
-    {
-     "title": "The Fight To Save What Polio Eradication Built",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVVIUlktcjJUZWJ2Z2VhbEh0RG1JbFBJaG5zT1YyOTZYR3BWWW4yUll4Vm1vNW0xT2RVR21VR0NUdThfaGR3V29WczRDYncyQjBkY3ZrdDF0dVB2X2F6dVc2TUlfNGtjWE9icERhSGl6dW1yTjB6RTltWlYtUXFJWQ?oc=5",
-     "source": "Health Policy Watch",
-     "published": "2026-11-20T07:30:15+00:00",
-     "summary": "The Fight To Save What Polio Eradication Built&nbsp;&nbsp;Health Policy Watch",
-     "image": ""
-    },
-    {
-     "title": "Massachusetts voters will decide a veto referendum on the 2028 ballot, the first ballot measure concerning abortion policy in the state since 1986",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQdUVCTTRWclhPV3g2cG1sUVl1Ynp0TUtNZ2NzOWYzb2R4MlFvQ05qWFhQQXp5Q0RRaDgyNXR3djduUVV2TlpPMi1WdGZHa050Tm1jVnBHdnlkX05kQnJtT2VQZk81Y0h0MlpwTmFVVDFPU214VFFZVGttelhiMVpPZGl6eUtfWExsb1RDa2FUWEd2cXB4UUV6MHM1Ym5OMExPbVZna1pwNHpnbWxNQ1p5YV82eEY1YmRYYVg5c2tHRkM5T0x0MUFNY2IyQXZWZFVTOVA4RmViTzh5anVpVEVzbWJYQ3Q4NjhaQ0tURkRNVGVQZUNBNkptODA3UHo5QWFWV2hNT1dPNFA4ZFpWUEpEREpfYTY?oc=5",
-     "source": "Ballotpedia News",
-     "published": "2026-11-20T07:26:36+00:00",
-     "summary": "Massachusetts voters will decide a veto referendum on the 2028 ballot, the first ballot measure concerning abortion policy in the state since 1986&nbsp;&nbsp;Ballotpedia News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T08:46:13.519065+00:00",
+   "fetched_at": "2026-11-20T09:16:16.880205+00:00",
    "stale": false,
    "items": [
     {
