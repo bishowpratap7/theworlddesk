@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T06:45:43.568821+00:00",
+ "generated_at": "2026-11-20T06:45:59.790468+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T06:45:43.568793+00:00",
+   "fetched_at": "2026-11-20T06:45:59.790421+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T06:45:43.568807+00:00",
+   "fetched_at": "2026-11-20T06:45:59.790434+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T06:45:43.568810+00:00",
+   "fetched_at": "2026-11-20T06:45:59.790439+00:00",
    "stale": false,
    "items": [
     {
@@ -231,14 +231,6 @@
      "source": "the indiana citizen",
      "published": "2026-11-20T06:40:40+00:00",
      "summary": "From the Publisher: How \u2018historic\u2019 was the 2026 election?&nbsp;&nbsp;the indiana citizen",
-     "image": ""
-    },
-    {
-     "title": "The EU wants to see a UK election before further Burnham talks",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xN1BENHc0MlVHU1RyWHQ3V2YxS2swRTBSNXY0TkIwMnVPRWtzV05mZU1xbXRhUGdpWUVOb21qbnlZbEhoUlpsaUJfQUtZSVR1eDRlejU2OVBBQWpTcDZ1LUZOWjFxUUgzTUcyTGFYdU8wZmRYN1VZ?oc=5",
-     "source": "Dave Keating | Substack",
-     "published": "2026-11-20T06:24:07+00:00",
-     "summary": "The EU wants to see a UK election before further Burnham talks&nbsp;&nbsp;Dave Keating | Substack",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-20T05:05:45+00:00",
      "summary": "Somerville City Council special election announced for wards 2, 3&nbsp;&nbsp;The Tufts Daily",
      "image": ""
+    },
+    {
+     "title": "More climate money for Africa? Europe says use what's already pledged",
+     "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T05:03:43+00:00",
+     "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T06:45:43.568812+00:00",
+   "fetched_at": "2026-11-20T06:45:59.790442+00:00",
    "stale": false,
    "items": [
     {
