@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-20T22:18:47.931897+00:00",
+ "generated_at": "2026-11-20T22:48:51.438641+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T22:18:47.931872+00:00",
+   "fetched_at": "2026-11-20T22:48:51.438614+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T22:42:47+00:00",
+     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
+    {
+     "title": "French police officers sentenced for beating of music producer Michel Zecler",
+     "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T22:37:09+00:00",
+     "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "French police officers found guilty of racist assault on black music producer",
+     "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+     "source": "The Guardian",
+     "published": "2026-11-20T22:23:53+00:00",
+     "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security camerasThree French police officers who beat a black music producer whom they",
+     "image": "https://i.guim.co.uk/img/media/e744f4dacdb4a945886bcb2886956ca9b6a2f39e/797_1_3568_2855/master/3568.jpg?width=140&quality=85&auto=format&fit=max&s=3d8125feb06722ff5542c1d5921cbe88"
+    },
+    {
+     "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+     "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T22:15:07+00:00",
+     "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+     "image": ""
+    },
     {
      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
@@ -84,45 +116,37 @@
      "published": "2026-11-20T21:17:59+00:00",
      "summary": "French senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-",
      "image": "https://s.france24.com/media/display/84d2817a-e524-11f1-9187-1bac47ab2f5d/w:1024/p:16x9/000-C8TV3VK.jpg"
-    },
-    {
-     "title": "Trump threatens tax on US tech firms building AI data centres abroad",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T21:10:53+00:00",
-     "summary": "US President Donald Trump warned US tech companies will face \u201ca tremendous tax\u201d if they build AI data centres abroad.",
-     "image": ""
-    },
-    {
-     "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-     "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T21:05:07+00:00",
-     "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-     "image": ""
-    },
-    {
-     "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-     "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T20:59:04+00:00",
-     "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-     "image": ""
-    },
-    {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T20:54:12+00:00",
-     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T22:18:47.931885+00:00",
+   "fetched_at": "2026-11-20T22:48:51.438626+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Melania Trump Stresses Humanitarian Efforts at Chic Premiere for Two-Episode Series Documentary Follow-Up",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSjQ4QVFKNkxSbzAyYmpCTXlRQm92czZVdUVsYkptbUgtbWtfcFVPbFNtOF9xSF8tTlZVbUVTTGJpZUR1UkZaUHY5UklOWW9FZzRhaTRmRlZGdVZtU0FaamNqVWgzQ3FwWWF6UWw5Nks4cEZkQm1odEFuZlA5S2pNVkNFSnVvQUM1WVlqQzd0S1E3Z21YY3pseUtjNEFsczdMdkxicHhhWWllbFdLWVJwZ1lSak8zQ19lcVlJ?oc=5",
+     "source": "The Hollywood Reporter",
+     "published": "2026-11-20T22:39:11+00:00",
+     "summary": "Melania Trump Stresses Humanitarian Efforts at Chic Premiere for Two-Episode Series Documentary Follow-Up&nbsp;&nbsp;The Hollywood Reporter",
+     "image": ""
+    },
+    {
+     "title": "Nov. 20: Trump\u2019s \u2018Friend\u2019 Putin Bombards Ukraine Hours After Peace Summit",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53dGozeVVmZVFDNVpjdDhUaFBlTVpyRk1DR195X3Y3MmZSUVdZeHQ1N083MmNJWmF5WmFEM0w1bEtBNUY0V0ZRUEdVVlJFZUVhYUFGUm8tSDhBMFNWeEJKTUFOQ1JrMHo0dmdOeXBzN1o5Qk9nUzVPVG9ac0s?oc=5",
+     "source": "Tablet Magazine",
+     "published": "2026-11-20T22:19:04+00:00",
+     "summary": "Nov. 20: Trump\u2019s \u2018Friend\u2019 Putin Bombards Ukraine Hours After Peace Summit&nbsp;&nbsp;Tablet Magazine",
+     "image": ""
+    },
+    {
+     "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+     "source": "AP News",
+     "published": "2026-11-20T22:15:00+00:00",
+     "summary": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation&nbsp;&nbsp;AP News",
+     "image": ""
+    },
     {
      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
@@ -132,20 +156,20 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg"
     },
     {
+     "title": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlTOElmbFJzU0xsLWxIOXZFMnRscy1EV054VXBZWEVvd0UxbUxkcG8xNlpSVW4yYkNwdTZ4OGp1WVczalh6NTVUM1EyUkZza2RBY0pfSmxHZEVXVjFKT1JBSHNfM1pTQmp2cVdSX3U4OVFvQnZzd2ZrdEpMMnJiZlpTX05Cb0o4dmFvbXhKYVZ2aldsOGczWnRrdzRpU05yRWtnRWNQcUJyd1NyckgzZ0RjRXBkTWxINk1iaDZTYThhTXZRZTBhcHdvVXVYVlduLVE?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-20T22:13:28+00:00",
+     "summary": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-20T21:57:07+00:00",
      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attach\u00e9 being expelled.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
-    },
-    {
-     "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-     "source": "AP News",
-     "published": "2026-11-20T21:55:00+00:00",
-     "summary": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation&nbsp;&nbsp;AP News",
-     "image": ""
     },
     {
      "title": "Trump threatens \u2018tremendous penalties\u2019 on US tech firms that build datacenters abroad",
@@ -194,37 +218,53 @@
      "published": "2026-11-20T21:10:11+00:00",
      "summary": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian \u201cprovo",
      "image": ""
-    },
-    {
-     "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-     "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T21:05:07+00:00",
-     "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-     "image": ""
-    },
-    {
-     "title": "How one Ukrainian family gets ready for another winter at war",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDR1NE1xYVJZM0hmRE9xMmxMSnkySWlIMlAwd1VkMDBNUnhyWURTUERKVlhXQnM2Q215bXBGV29zRmJTTk5WV05yVUh2VzdNbDUwaFh3SUZVUFplVFBPaTFiME9CSXlMeDNwenY2QUlWUmtjb2c4Mk96aHBaM1h0LUx6dU9NOHlWamxXd2FaUkV1RG5tTWpQcXA2di1QcENWMnRIa1ZLSy1EQQ?oc=5",
-     "source": "NPR",
-     "published": "2026-11-20T21:01:25+00:00",
-     "summary": "How one Ukrainian family gets ready for another winter at war&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-     "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T20:59:04+00:00",
-     "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T22:18:47.931888+00:00",
+   "fetched_at": "2026-11-20T22:48:51.438629+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Brazil investigates alleged foreign interference in presidential election despite Lula win",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGNGRmpJLU9wNkV1WE1FMlhNXzkwNW1QNERMQmNvSXF3RjdScXZTTDNRWHRvUW1rc0xpb1V3VGdtVkFwUXVIdGlPVEp0eDhPWi1XMVp3TFJmZzRLTHVIeVJia2dnSThpSnJUSkE0VVNmN1JoUUtpemh1RGlEWndWU044TUdRWHBKLU5zOHdzTHAtQVBYWjhxUkE4dEJETm8tXzZkU0V1RW13WjUzUTh3cG1aelZyN0JhNFAwbE1kNA?oc=5",
+     "source": "Brazil Reports",
+     "published": "2026-11-20T22:35:42+00:00",
+     "summary": "Brazil investigates alleged foreign interference in presidential election despite Lula win&nbsp;&nbsp;Brazil Reports",
+     "image": ""
+    },
+    {
+     "title": "Murphy Painter defamation trial ends without ruling as judge weighs 2019 election controversy",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa29ZVk9uQmEtLXhINENaaldLTk5aYldjR0lCUkRDbS1EM19UTnlYdW9TN09fbDlGaGRNb0dPTWU3U1dna1VTeWZIc1Zvb09KeTNpM2ZNam5NdWhoSlVhX191dVlzREFJaDUtblpNX3gxVklzZmJyLWdOSEV1aDhud3RMMUwtVmgxSDZ5UURyNkp2VFUybk40cnpsaE92NTJ0bXlJYnNRVlF0THA1SDZBQm94SzZ4Qm5hVHFDQU5GaFPSAdQBQVVfeXFMT2tDekJQWFNqTW55Rm1pckFBMnQ1NVBDaTJTZEJyOTBob2NIV3dRVUczZjRLSTUzNHlra0hKZHAzYThfYTJCQlRoZXdHbTR0eVVrcFN0S2J4OXVhQmdXQUJXRktWX2NTbmNxWEkwTDNEU29nbUxOWU1kd0haVG93dTNQV2JCeGdKQnlYeWpUYlhZVG94NElRMVRYdHJqcjJiWnhkSFdXLUhDeHdLdDlhcVQ1S3MxYXl2YkJ3OWdXTGdsVC1mb0g4TTRSSTc5YU1YUW02MFQ?oc=5",
+     "source": "WAFB",
+     "published": "2026-11-20T22:30:00+00:00",
+     "summary": "Murphy Painter defamation trial ends without ruling as judge weighs 2019 election controversy&nbsp;&nbsp;WAFB",
+     "image": ""
+    },
+    {
+     "title": "Pennsylvania Governor Josh Shapiro outlines his vision for US leadership in the world",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjZxT0xsUlpwN2Zndzd2U0xVTUxFaF9INmwyaFRZano0WThFVzh1cFNzc1VJd2NybTNuU1RQZGNpM21RRUZTQVIxSHZneUdGUDlaWWUxTjZnWGYyVXZCdHM1MjhmREVvNXBIcmxhcnhJRTcta08yMGdPUm5WRlFsMVpVN1pjT04wOGdqYmxSSGN4Yy03a1AtYnlIZHY3RW5fUFBrNndUWktlSXk3MEMybldfTWpyQXJmY08xWVNSYVJVRGFfUzltbTc4c3VKRnFxbDEzc0JmYXY?oc=5",
+     "source": "Atlantic Council",
+     "published": "2026-11-20T22:27:00+00:00",
+     "summary": "Pennsylvania Governor Josh Shapiro outlines his vision for US leadership in the world&nbsp;&nbsp;Atlantic Council",
+     "image": ""
+    },
+    {
+     "title": "The election is over. Can we talk now?",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGtNbUhUT2MzaldXUWJ2OHJPQzBJblg0OVpoU195R1ktTHFmT05IRVNrOEpjd0VMNFVqYVBqUGRqbU52aTJwTzY2bzI2bEltckJZMnYxcVRFV3ZmTVhZNHRIZ2JCeEdvbHVuZHZpcmg1eWctaEpWMThLS0QzS3VzX0NGSG1UOElqRUxTUHF5T2ItMFFDV0hraW9Bcw?oc=5",
+     "source": "Halston Media Group",
+     "published": "2026-11-20T22:23:42+00:00",
+     "summary": "The election is over. Can we talk now?&nbsp;&nbsp;Halston Media Group",
+     "image": ""
+    },
+    {
+     "title": "Top N.H. Election Official Reiterates Intent to Keep Nation\u2019s First Primary",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0pJdzZGWWFqdFpubWg4dTZTZUZLVEJvazg4S2RlVVZmSXhCUFBWQWE4bTEyd0QwLUY3U25jUEVrcWtyMFlFNDZJQ2dvOElHOXdzMllzWC1xV1p5ZW5DenhacjBUZjdWU2N2dV81RmhBaTdSTmJSZGlWTF9UeTh4QkRaU0pwOU1fd1dDQzFYVzM?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-20T22:19:13+00:00",
+     "summary": "Top N.H. Election Official Reiterates Intent to Keep Nation\u2019s First Primary&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
     {
      "title": "Screwworm border closings have policy, economic implications",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUNYNVl2NXJSSE9IWGxLZWYzalBtdVI0YzZ1eDd3UU1MemZKeUU5a2Q3NXhnVWVlampkN0pqNGNGUUVaSDZpaDFQVG82bDZ3YW85OWhUelRWZ19jNmVEcUltY3Q4Tk1BdklGZUxmaVlFZzZEVGFiUmFGUTlqMGVOZ2ZjeWdXbVVnOUtYZzZTVmxzMU1KYk5BWk4xb096OTdXcWc?oc=5",
@@ -234,11 +274,27 @@
      "image": ""
     },
     {
+     "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+     "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T22:15:07+00:00",
+     "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+     "image": ""
+    },
+    {
      "title": "Final 2026 midterm election results: Democrats clinch 56-seat Senate majority with Peltola's Alaska win. What they can \u2014 and can't \u2014 do next.",
      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQSU9fSnFEZlI2QjgwV3J3UDB6YVcyVkNMMkU0T1NkVEkwWlRYVzJLa0V0T1dkd3F6SmtZZlp0b1NraVZNS19hLWRHcWxjTGRhUkY2and2SG42TXdRckdhVjV5Q1NDLXBwcnhEei11b2dTX3dkRE5rcVdVVTRpcWZoQ2lyOGZJdzRfWU0wUVJrM25VZWpveHVEYXJvRHRiRC1BVzJ0TEVCcjRZZGs4VWpHTWRJaTJuclIyREVBSUhHRWNIbXAydHVKQnE0dnktUEZQYjhLLU40SHEyVXVfaWlQNG1WOFdqcTMxdXRBWUpZcmZGa01MZzl3dFl3SS1oMUJ2SkZrcUstZ0ItVmgtRmF2bHNGVW1mbWNJYVVRakJR?oc=5",
      "source": "Yahoo",
      "published": "2026-11-20T22:11:51+00:00",
      "summary": "Final 2026 midterm election results: Democrats clinch 56-seat Senate majority with Peltola's Alaska win. What they can \u2014 and can't \u2014 do next.&nbsp;&nbsp;Yahoo",
+     "image": ""
+    },
+    {
+     "title": "Trump, Takaichi discuss Indo-Pacific security as Japanese leader reaffirms Taiwan policy",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVjROLWo5YkVLcGVoQ3pWZ2NtMm5GQ2twLTctczg0MG5tOTBjMU00SFRhOGRTalE1aEZla1EzVE04c01qYUY1c2JGN0wtcXdwUXpSU1dyck9HeHAxNHg1N0F1OVF3cHpwMTVMYnIybDJwT1BEdzNXdzRNVUs5d1c3dGpxR2VjbEhweHdEd3pLamFIN0FoUm5fTWF6em4weEhkUjVUMmtWZ2VjREdQODFsTDFyYnZaNUU0M3hyM29jT3ZVYkJWY3hRRXVnY3Q0YnRs0gHTAUFVX3lxTE5LQzE1N19NVi1qNWplV3A5eGtoVXZiTHBHdWZUT0RMd1ZiN1J5ZnBmZmZZNG13Y1I3alFsSTNzX0NQekoxSkJqN3RlZ1BZRXl2ZUFZTzl3Yy1Mc1BZdnpKeG5TLUMyQmYyamoxNndKT05SSFJLVENESVZibFlZWmhSeE90SzR0aTQzaWdMQllFWXBtSFc4V2w2VjRfWUZsU0NScU5YRHJ3MW5wREtWSU5TVEFQcGtmTmRXeE1HRnpfRThTQTNpN2hMT0Z5WHJCenpzd1U?oc=5",
+     "source": "VOA - Voice of America English News",
+     "published": "2026-11-20T22:07:22+00:00",
+     "summary": "Trump, Takaichi discuss Indo-Pacific security as Japanese leader reaffirms Taiwan policy&nbsp;&nbsp;VOA - Voice of America English News",
      "image": ""
     },
     {
@@ -264,75 +320,19 @@
      "published": "2026-11-20T22:02:00+00:00",
      "summary": "Spanish Fort lawyer drops appeal of sanctions over AI-generated fake case citations&nbsp;&nbsp;Fox 10 News",
      "image": ""
-    },
-    {
-     "title": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
-     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions",
-     "source": "France 24",
-     "published": "2026-11-20T21:53:35+00:00",
-     "summary": "Tensions rise between Guinea and Burkina Faso after Conakry bans Burkinabe broadcaster RTB, amid a diplomatic dispute over gold miners and a caricature of President Mamadi Doumbouy",
-     "image": "https://s.france24.com/media/display/8e31d6f6-e52b-11f1-9535-e56ab3dc0809/w:1024/p:16x9/capture-a6bd8a5c.jpg"
-    },
-    {
-     "title": "Wisconsin judge dismisses election bribery lawsuit against Elon Musk",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFotMVV4WEQxSS1TZVpLbXNUTG5tdkpkTmdVZElON2YwV1A3ZDFucXV2Z0RfZ1F1YzZiOHlmVHJHajI0eW9kVUM1YzBENUJRVm43aVpvQkVXSGxERlluOVhrX196UWxkQkpEOGFrZ2ZXWGpMOVlOVWJzeHpCZHU3cTZsTzBLSXo4U0sxaUJ1Zw?oc=5",
-     "source": "WPR",
-     "published": "2026-11-20T21:39:19+00:00",
-     "summary": "Wisconsin judge dismisses election bribery lawsuit against Elon Musk&nbsp;&nbsp;WPR",
-     "image": ""
-    },
-    {
-     "title": "Los Angeles County Sheriff's Department. . From helping safeguard election ballots to supporting operations within our custody facilities, the Los Angeles County Sheriff's Department's K-9 teams play an important role in public safety. CBS Los Angeles highlig",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS3RYUDRFaDNORl9YdVVnbUZqQ3R6UnUyYi1WYnFRUEdJdFNrWEZrNnJOTVFFay1rWEI4SHU3SjhvUFhGUk1SUEw5TklXQ3ZPY2hxMEIxMUF3TnNNOXVRNjNWSDZpMlV1cEFKX2ZxRWMyVDJCMHBNN0VHMl9YWnZXNDhGbDJhUjN0cW1xbndFWUhoUlh5cDY0d0tadkpCcFM2OUtKYTJiODNBd2tMSjA5S1NQSF8tcGtXUlNvUFdpaHVVVWxfQ2lfamtWalc5Z185LUlreE42Ni1fcFVSeUgxUDFaYWhVTjhrbnczMVpIb2llV2Z4QmduOA?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-20T21:25:51+00:00",
-     "summary": "Los Angeles County Sheriff's Department. . From helping safeguard election ballots to supporting operations within our custody facilities, the Los Angeles County Sheriff's Departme",
-     "image": ""
-    },
-    {
-     "title": "Webinar: Advancing College Affordability - Tools and Takeaways for Effective State Policy Advocacy",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jUUZhSVNtY1RVNURFaDNfZ3hId0VSWGxMdWU4WHBJSURZVnRWXzJLZUFFVEF1andNeGg5eWRoczNJdnBQLXZ5alJKWUlKREJoY2tZUlVIZnZZc1lYUWJVMFZB?oc=5",
-     "source": "NCAN",
-     "published": "2026-11-20T21:21:59+00:00",
-     "summary": "Webinar: Advancing College Affordability - Tools and Takeaways for Effective State Policy Advocacy&nbsp;&nbsp;NCAN",
-     "image": ""
-    },
-    {
-     "title": "More than 2.7 million Massachusetts voters cast a ballot in November election, nearly matching state\u2019s midterm record",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdktSNzMtLUtmMlJGV1AzZUgtR0hNQWdENTRnUURybGhfcU5xSU9WdjVUa1QybzdvTk81MWJtNG1XeW5GZEtfQVY4X1NYRS1IUWdSVElwRVhibk5fQXFRczBmSlpQVWN2ODVhQnlBVHgydzNHa1dyMGo4SmZsbFN1a1dudUlBaFBndW16ZmVFZVlSc1BIN21Pdg?oc=5",
-     "source": "The Boston Globe",
-     "published": "2026-11-20T21:16:32+00:00",
-     "summary": "More than 2.7 million Massachusetts voters cast a ballot in November election, nearly matching state\u2019s midterm record&nbsp;&nbsp;The Boston Globe",
-     "image": ""
-    },
-    {
-     "title": "After the Election, What Changes for Energy?\u2014Daugherty",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXRFbVJpMHBZYlJWbFh3UE85WlNlQXpqRnU4OGJOdDRaeW1GLXk1QnpDOVBEOUFFRnBBNWxENUxGQlVqZmZQYmlTZi02Tk1HbkhlOTZTbGQtYi1LOVF0aC1Cak4zcWRHZ2dtdmhLUGRjRUxpNEJMQWN0NnlIcUdaZVVNM0dhODNnOFJqd0kxUWRrVllic0Fzdk9mamJBOW9SamhCWHMzY2QzYktCOUFn?oc=5",
-     "source": "Hart Energy",
-     "published": "2026-11-20T20:59:52+00:00",
-     "summary": "After the Election, What Changes for Energy?\u2014Daugherty&nbsp;&nbsp;Hart Energy",
-     "image": ""
-    },
-    {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T20:54:12+00:00",
-     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T22:18:47.931890+00:00",
+   "fetched_at": "2026-11-20T22:48:51.438631+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T20:00:53+00:00",
-     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+     "published": "2026-11-20T22:42:47+00:00",
+     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
     },
     {
