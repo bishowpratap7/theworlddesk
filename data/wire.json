@@ -1,23 +1,15 @@
 {
- "generated_at": "2026-11-20T12:46:58.898674+00:00",
+ "generated_at": "2026-11-20T13:17:02.942153+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T12:46:58.898645+00:00",
+   "fetched_at": "2026-11-20T13:17:02.942123+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T12:41:52+00:00",
-     "summary": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg"
-    },
     {
      "title": "UK says EU reset deal agreed but talks will continue \u2018in some areas\u2019 \u2013 live",
      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-20T12:35:15+00:00",
+     "published": "2026-11-20T13:09:36+00:00",
      "summary": "UK statement comes after EU said deal would not take effect without future agreement over university tuition feesSenior correspondent Making today\u2019s reset deal contingent on a furt",
      "image": "https://i.guim.co.uk/img/media/b27d3ee34f879e3cdf8410a75595717f4585e5ed/358_0_2972_2378/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=2c2ba4464a31680b4c19d14757b80b84"
     },
@@ -25,9 +17,49 @@
      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T12:34:54+00:00",
+     "published": "2026-11-20T13:01:16+00:00",
      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
+    },
+    {
+     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T12:56:48+00:00",
+     "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "Brexit debate returns as UK PM seeks closer EU ties",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T12:46:15+00:00",
+     "summary": "Brexit debate returns as UK PM seeks closer EU ties",
+     "image": ""
+    },
+    {
+     "title": "Nations League quarterfinal draw: Spain face France, England play Norway",
+     "url": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T12:44:58+00:00",
+     "summary": "World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.",
+     "image": ""
+    },
+    {
+     "title": "Fallout over tuition fees may snag Burnham\u2019s EU deal, say insiders",
+     "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
+     "source": "The Guardian",
+     "published": "2026-11-20T12:42:08+00:00",
+     "summary": "No 10 pushing back on claims in Brussels that lack of agreement on fees for EU students could sink agreementsThe UK and EU have agreed a reset deal, Downing Street has said, althou",
+     "image": "https://i.guim.co.uk/img/media/5c79dc09bc15f94162fd0c0df2043d4a0ba4bec8/324_0_3238_2591/master/3238.jpg?width=140&quality=85&auto=format&fit=max&s=d339d0a657581cbf412fa376c96b8b93"
+    },
+    {
+     "title": "Friday night will be \u2018coldest of the autumn so far\u2019, UK forecasters say",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
+     "source": "The Guardian",
+     "published": "2026-11-20T12:40:05+00:00",
+     "summary": "Temperatures will be \u2018severe\u2019 in the north, as low as minus 9C, with some sub-zero temperatures farther south Friday night will be the coldest night of the autumn so far, forecaste",
+     "image": "https://i.guim.co.uk/img/media/29b1e09e54517272ab169da195999ffad809c41d/113_88_2810_2249/master/2810.jpg?width=140&quality=85&auto=format&fit=max&s=3d0f9a7a5bca6ba55d1bd93e27e6ed26"
     },
     {
      "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
@@ -84,52 +116,68 @@
      "published": "2026-11-20T12:19:24+00:00",
      "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
      "image": ""
-    },
-    {
-     "title": "El Salvador: Nayib Bukele, self-proclaimed \u201ccoolest dictator on earth\u201d, is seeking a third term",
-     "url": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
-     "source": "France 24",
-     "published": "2026-11-20T12:07:14+00:00",
-     "summary": "\ud83c\uddf8\ud83c\uddfb El Salvador\u2019s President Nayib Bukele, who calls himself the \u201ccoolest dictator on earth\u201d, is seeking a third term after changing the Constitution to scrap presidential term limit",
-     "image": "https://s.france24.com/media/display/86fc3e64-e4d9-11f1-a0c6-ebb478925cf0/w:1024/p:16x9/Salvador-00-01-50-03-Still001.jpg"
-    },
-    {
-     "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-     "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-     "source": "NPR",
-     "published": "2026-11-20T12:04:57+00:00",
-     "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could be",
-     "image": ""
-    },
-    {
-     "title": "\ud83d\udd34 France seeks UN Security Council meeting after Russian strikes hit European embassies in Kyiv",
-     "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-     "source": "France 24",
-     "published": "2026-11-20T12:04:16+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "Majority of people who have been in US prisons were also victims of violent crime, study finds",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/us-prison-violence-victims-study",
-     "source": "The Guardian",
-     "published": "2026-11-20T12:00:20+00:00",
-     "summary": "Report based on survey of 20,000 Americans says 84% of people who are incarcerated were assaulted, shot or stabbedThe majority of people who have spent time in a US prison or jail ",
-     "image": "https://i.guim.co.uk/img/media/574f224398e8d5ee831b5bcc172350d418a7d522/92_0_3654_2924/master/3654.jpg?width=140&quality=85&auto=format&fit=max&s=a57b8b80634a770f0dfa0147c87e18a4"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T12:46:58.898659+00:00",
+   "fetched_at": "2026-11-20T13:17:02.942137+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1JuSHNCaFI5b0twb05Od2ZydjBaNDcxUWpyTUdyOGRfMk5PVTJOWUllVzEycmxPeUNMc0x6d0ZZNFJfNHBnemo3NlBuT0dONElYWkZsN0NRS3VWRlV2THNoQmx6a2w1UVJMOXNPdFpIVkVueFB1X3UtVkdmbW5hSWdhZTdqSk5LOGR1LXdzRHlscy12MFpPSzFYeWJORzNQeEZHcENmSXN3SEZ0dHlVWkRmOXppaGZBaVpkNlVQaHlHeXN4ZFloT0FHS0NNUzY5VmZ6X1BBbnNpMDI1dnVj0gHkAUFVX3lxTFBweWdWdG5leEV3bERTb0RUUGJsUTdfQ1VlU01CNXNaWDFNMkJ0dEpWaXI4bHBmTUt5UzhncGtZWmpKYW5vMUVIamhjNkFxMm1FLWIwam1UZjJnS2NMVEwtV3dSc3Q4NFdHemRBMUFycWxiRWh1YURqUG02aHduTGRTRTRFdHBPdy1JMVFyUnY5NFBPZGdFMUl1Y25QNWQ0NlA0NVNRMjV0SVlvOXdpX093NjhIV1RrOGdCd0tDUHVHRmM5bzlPd2pIT09YVk1kU2I5SkwwaFhrc3UwTEJkNkQ1U3lmeQ?oc=5",
+     "source": "myMotherLode.com",
+     "published": "2026-11-20T13:06:58+00:00",
+     "summary": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack&nbsp;&nbsp;myMotherLode.com",
+     "image": ""
+    },
+    {
+     "title": "At least eight killed in huge Russian missile barrage on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZkl3UzNVdXlyemI0QVJYNUswY1RTQVdZNGVaajJjRE0xcEg4TTdDaFpIcGJIbU1IYmFLb1VMazczczlSc0dtSmtIRDlyVElibG9mZWxRcGlqdjlCaF9ISGhDNDdGVmFOY2dmSEItbl9MZ2RCQ1BBT1Z4aWZzOGRxSENtOHNiYlZGSklHU1lqR3J1b0FRR2NtUm96dGg?oc=5",
+     "source": "The Times",
+     "published": "2026-11-20T13:05:29+00:00",
+     "summary": "At least eight killed in huge Russian missile barrage on Ukraine&nbsp;&nbsp;The Times",
+     "image": ""
+    },
+    {
+     "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+     "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T13:01:16+00:00",
+     "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
+    },
     {
      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T12:41:52+00:00",
-     "summary": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg"
+     "published": "2026-11-20T12:56:48+00:00",
+     "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "Ukraine War, Day 1,730: Kushner\u2019s Muddled Statement on Security Guarantees for Kyiv",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN1pVZjVqRktKb21rNDk4T2NzLXk0YlpJTVA3aHNKZnowOWtkcEZERXpZVnczZm1OTnJoWE04Vnc1MnNabmxjZ2JKUVkyaGZMRFlIQnhXVXM0cmdfQ0lybDdqT2FHLTd0VVdaQ201YV9CQzdteEpPc1F6V1dEeEFFM2JnV1ltQXZQMENOeVEtb1ljUmFRUFBwTzRaX3l0Vm9CN2h2Yg?oc=5",
+     "source": "EA WorldView",
+     "published": "2026-11-20T12:43:53+00:00",
+     "summary": "Ukraine War, Day 1,730: Kushner\u2019s Muddled Statement on Security Guarantees for Kyiv&nbsp;&nbsp;EA WorldView",
+     "image": ""
+    },
+    {
+     "title": "100 Russian Drones by Day, Up to 200 by Night\u2014Ukraine Endures Near-Constant Air Attacks",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN0s3UURZa05lTjJ2WkhhOHI5NDV4OE45RHU3TGVhQ3h4eExETk5EWlhWT3pHd0k5aF90SXVHdTJXRUJ4TS1VZzJiYWc1bVk2Wk54NmF3ckllSXVYUlBEa0NFVEtITklLWGo5YUs1R1pYMm10NzgzNFlEUDZNdWdvbDlPUS01NkpMVmh5OElIU3NSWlhrMG9uNjN5VkV5cmg2SzZ0YmRTYkpZY05ZekVKblo4aDJHelVOSnh3N19IYVZKaFB1X18xRnZHbWxSUQ?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-20T12:41:13+00:00",
+     "summary": "100 Russian Drones by Day, Up to 200 by Night\u2014Ukraine Endures Near-Constant Air Attacks&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "France calls for UN Security Council meeting after Russian strikes kill eight in",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTRMejJrTkM5NURwc2lHYW51LW01akdvd2dnTmZfcWlZb3JLZVdzUkU4WEQ2cXdSV1pUdGx0RWN1NUdfTVVYdE9FSHc0MEVtVnpaM1NTMmRNcFpjZnF0Y05fd2VuNVRwSEVxNXIzaFNQV0xJQnJGbVNOZElESHN1aEpnaGV2QUo1bVE?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-20T12:35:18+00:00",
+     "summary": "France calls for UN Security Council meeting after Russian strikes kill eight in&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
     },
     {
      "title": "Estonia Dismisses Idea of European Leaders Traveling to Moscow, Urges Putin to Agree to Ceasefire",
@@ -138,14 +186,6 @@
      "published": "2026-11-20T12:35:16+00:00",
      "summary": "Estonia Dismisses Idea of European Leaders Traveling to Moscow, Urges Putin to Agree to Ceasefire&nbsp;&nbsp;Kyiv Post",
      "image": ""
-    },
-    {
-     "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-     "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T12:34:54+00:00",
-     "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
     },
     {
      "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
@@ -178,153 +218,113 @@
      "published": "2026-11-20T12:12:09+00:00",
      "summary": "Rich Lowry: Trump\u2019s Ukraine-war realpolitik isn\u2019t realistic&nbsp;&nbsp;Maui News",
      "image": ""
-    },
-    {
-     "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-     "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-     "source": "NPR",
-     "published": "2026-11-20T12:04:57+00:00",
-     "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could be",
-     "image": ""
-    },
-    {
-     "title": "APTOPIX Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2ZWd0wwMExPTjlmaU94cjdZZnItVGZxWnU4LTk4U0RSeGxIUEtWRE1vS25qb05NSVNvNk4wRFlzV096SlNuVGE3V2tuMWY3bE5kemdhb2pXc1BQZFR5cUo0WDRRMW1IYk9xd0VXMXMwMEZZNzNKWmpFMHNvTGhTSHBaZlh4STdtNkJoSFVtOVViODUzcGNWdU9XM1NMdWREVEl3WnFIc1hwUzdYVUpEZ0Vid0FhZ3RLVzlQUg?oc=5",
-     "source": "Goshen News",
-     "published": "2026-11-20T12:04:22+00:00",
-     "summary": "APTOPIX Russia Ukraine War&nbsp;&nbsp;Goshen News",
-     "image": ""
-    },
-    {
-     "title": "\ud83d\udd34 France seeks UN Security Council meeting after Russian strikes hit European embassies in Kyiv",
-     "url": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-     "source": "France 24",
-     "published": "2026-11-20T12:04:16+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "The Russia That Never Was: What If Putin Hadn\u2019t Invaded Ukraine?",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObW52TUw0WkhXTlEyS1piblEtMmVnOXpJTW5QcEx3VmZQZV9rMVgtWFNUSDA2am83alpvcF9PR19EZXJaWWVVOE00eHo0TlF2VUlsd0dkcmJ5dHItLXZOdXd4clg4Qi1IcXd6bFNMbm1lMXZlMWF5dGVvcVVvdlJaNDFwMEo?oc=5",
-     "source": "Newsweek",
-     "published": "2026-11-20T12:00:00+00:00",
-     "summary": "The Russia That Never Was: What If Putin Hadn\u2019t Invaded Ukraine?&nbsp;&nbsp;Newsweek",
-     "image": ""
-    },
-    {
-     "title": "Ukraine\u2019s underground war",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTFrRUh3XzVmYVE3Q0dWUG81eDhwX3ZNLXhPSXR3ckJsYU9OQlgycDQ4QzU0azA4ZFQ1dUxSaW9weFdfam5OZm8wSzBWUG41UTBSaHdFTDVpLThtd3J6S3FuQ1pxeC1FY1JOVFhMaGpWY25pZlNDRzA2cnJZT1R2RG1HZjdIWnNDUmtOcnp6REtBUGhPWFJxSzdwTDlxeEotRURwWU5n?oc=5",
-     "source": "CNN",
-     "published": "2026-11-20T11:59:00+00:00",
-     "summary": "Ukraine\u2019s underground war&nbsp;&nbsp;CNN",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T12:46:58.898663+00:00",
+   "fetched_at": "2026-11-20T13:17:02.942141+00:00",
    "stale": false,
    "items": [
     {
-     "title": "BaddyDeadpool: The protester blending humour with activism",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T12:26:29+00:00",
-     "summary": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
+     "title": "2027 French presidential election: Who's running?",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVGJmeXozYm0xZmxsczctVUt0Nlg0ckdzVjhfcWtfOTJXR3RKNENvdDl0LWtGb2tfNy1JNlVqdDJLb1Q3dzRaRzM2XzFMVmZFQnp2WXB2NkdkaUdEX1B6SzFrU0FraHVOaFd0UEtYTTJ2UzZkVE15NngxY1hDUU1VSXRwUVNPMjFLNkRnSDZKWHMxeUhzaHBFUXpLV3FDd2NubnNnLUMxOGp3amdpWnNrYWNuUW9ZMG9LU3FucC1B?oc=5",
+     "source": "Le Monde.fr",
+     "published": "2026-11-20T13:09:09+00:00",
+     "summary": "2027 French presidential election: Who's running?&nbsp;&nbsp;Le Monde.fr",
      "image": ""
     },
     {
-     "title": "Trump DOJ Lawyers Fight Sanctions Bid Over Alaska Senate Lawsuit",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1dEWEhFaUFVel9ZVDA5ajhNOVpFTWVLRFhiUUhMZ1A3dkltRklYTlQwd0FCVy05SmRPd3FFWGwzeWJ4bEhpRUhhZUtkZVJRcUFlZENMYTRWVlg0THZtbTZ2emt0OENFOERRSUhETDFnVjctRmdqQVhLZGQ3V2FVdzRVN3hQMUV0aHcyZUtZYUhGUmxNM1NFUnpUZGk?oc=5",
-     "source": "Newsweek",
-     "published": "2026-11-20T12:18:00+00:00",
-     "summary": "Trump DOJ Lawyers Fight Sanctions Bid Over Alaska Senate Lawsuit&nbsp;&nbsp;Newsweek",
+     "title": "Plymouth Select Board Approves Warrant Article Policy",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoM25TS3NoV0puX2N0NnRWNTZqc3pPNTdEVS1Va3lsRVdTell4OEZJcHB0SHZfZms3MmFSbFJldFJhN3RYTDJCRWdVR0FlbG1qdlVtU1lWU1U4MjNaN1QtX3ZnUFdlWkZvdEpnd2FiczRmM1BXMEJ3?oc=5",
+     "source": "South Shore News",
+     "published": "2026-11-20T13:03:32+00:00",
+     "summary": "Plymouth Select Board Approves Warrant Article Policy&nbsp;&nbsp;South Shore News",
      "image": ""
     },
     {
-     "title": "El Salvador: Nayib Bukele, self-proclaimed \u201ccoolest dictator on earth\u201d, is seeking a third term",
-     "url": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
-     "source": "France 24",
-     "published": "2026-11-20T12:07:14+00:00",
-     "summary": "\ud83c\uddf8\ud83c\uddfb El Salvador\u2019s President Nayib Bukele, who calls himself the \u201ccoolest dictator on earth\u201d, is seeking a third term after changing the Constitution to scrap presidential term limit",
-     "image": "https://s.france24.com/media/display/86fc3e64-e4d9-11f1-a0c6-ebb478925cf0/w:1024/p:16x9/Salvador-00-01-50-03-Still001.jpg"
-    },
-    {
-     "title": "JaShawn Conyers: From one election season to the next",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcDZwcTJ0T1N5My15WWcyaDJEU2JOYXozZFFSRUNNVkl0dzlMVjFlQTZUN0hWUnNXbnJoZUVXYXlZQjlEVzFncjR1RjBEdHpWeHdUYU9EUzFaY3p4SkZSTlU2eFlwT0NFdWhNMTlOWEJ2RDhySHVWam9CR29nQVBNcjlDLUtaWnYzTmpDZA?oc=5",
-     "source": "Commercial Dispatch",
-     "published": "2026-11-20T12:00:16+00:00",
-     "summary": "JaShawn Conyers: From one election season to the next&nbsp;&nbsp;Commercial Dispatch",
+     "title": "FIFA election 2027: Infantino facing two challengers \u2014 could an alliance change everything?",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlNKeldZTHdFTFFMaGUxdHpnbHpieG4xYzNoenZWM05PRmR4R3dhcXZEaTl6Sk96WVl0SjVONGVSSGJGTTNSNmJFNWtiVnl6WGtjQW9UX3A2SjhMQU01OEFiOUxrRGZ1Wlp3a0dCQjBWNjROZkg3Vko0QUtlYkxCMlExaGg4bEt1cEtoRXJCVG9LMWpycjdWTndOUDc4eVBvTFFjS241SGxxSVVxZF8zNjQ3dUFOVF95bXVMdUJyUFBZd3B3UmpKOF90WUkxTTFiWlHSAdIBQVVfeXFMTkNFM2tmdEFnSUxVOHZFbHJXd2JHSnoxdjMyYWtyNUJCaTFpUEszcUpwMml3eW5zQlVKNXFOUTc5SDVfVTRuQS1YeGd2SlFyUVZ2bW00Z1lIMjU2VzFXdC1pWGxGRUVYeGIzaXpCZG1WR3RVeTRwV2ZodFA5anI2OFBYVjAya0ZvclpLc011WEljc3ZmMHNWaG1saHZzT3I0Z0VjMkdJd3dBUW9JcEttVTZsUU94aVRqVW1jTWJpNHdtWmVLaUhweF9FUVF2MkgweVJ3?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-20T13:01:07+00:00",
+     "summary": "FIFA election 2027: Infantino facing two challengers \u2014 could an alliance change everything?&nbsp;&nbsp;DW.com",
      "image": ""
     },
     {
-     "title": "No, Transplants Didn\u2019t Turn Texas Blue",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVk1YLTJ6NkkyZ19idkZiUVpiQUNodVdSWEJ2T05pcUxLZEpvQWNZb0hzVHV1OGxHWmpqSWUyTW9sWWtELUJfeFBsd2hiT2ZqV3pEaUhXSmZ3aURmNVRpVnNGRFVqQXZackQ3SlA0ZVlFam1pNzJDcE0wU1IwVXB2U3Z3R0tEQQ?oc=5",
-     "source": "Texas Monthly",
-     "published": "2026-11-20T11:52:01+00:00",
-     "summary": "No, Transplants Didn\u2019t Turn Texas Blue&nbsp;&nbsp;Texas Monthly",
+     "title": "Post-Election Bartering Trumps Votes for South African Cities",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzViLWlLb0FzYXlHYWJ1ZTRNN3ozdVVmZldIc09DNGd5ekl4S2V4MkJnSTd4RTN5cVlhNFIyVXZvcENQa2J0Zk9XNm9adG9wWDU2bmdtS1Y4OEJSYXRzZWNqUHR0WUJRbTFTb19rdnczSmdQaXNGWHJPM3Jhd1JzdW9nbTZSWW0zTU5BYnE4TG5wM2hxLXc1S0FteXZoQ19HekFjNlBVSU15eGJOYkdXUEZKQVg5UQ?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-20T13:00:09+00:00",
+     "summary": "Post-Election Bartering Trumps Votes for South African Cities&nbsp;&nbsp;Bloomberg.com",
      "image": ""
     },
     {
-     "title": "Italy strike draws workers, students into nationwide protests over wages and living costs",
-     "url": "https://www.france24.com/en/video/20261120-italy-strike-draws-workers-students-into-nationwide-protests-over-wages-and-living-costs",
-     "source": "France 24",
-     "published": "2026-11-20T11:25:32+00:00",
-     "summary": "A nationwide strike was expected to disrupt schools, hospitals and local transport across Italy on Friday as workers and students began marching in dozens of cities to demand highe",
-     "image": "https://s.france24.com/media/display/6abc8560-e4d4-11f1-87e1-e56ab3dc0809/w:1024/p:16x9/EN-20261120-120355-120805-CS.jpg"
-    },
-    {
-     "title": "Ghana's $60 million presidential jet purchase sparks controversy",
-     "url": "https://www.france24.com/en/video/20261120-ghana-s-60-million-presidential-jet-purchase-sparks-controversy",
-     "source": "France 24",
-     "published": "2026-11-20T11:18:49+00:00",
-     "summary": "Ghanaian President John Mahama is facing growing criticism over his government's recent purchase of a $60 million presidential jet. While in opposition, Mahama had criticised simil",
-     "image": "https://s.france24.com/media/display/6fe1eab4-e4d2-11f1-8600-e56ab3dc0809/w:1024/p:16x9/EN-20261119-215100-215228-CS.jpg"
-    },
-    {
-     "title": "Auburn University Board of Trustees to vote on new post-tenure review policy",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUlyb3M5cjc1ODRZWXpzV3FtMmY3ZzhQX1J5cTJIVkZaOGFIZlp1QnA3WG9HRGU1eXlBNHMzMnRTMTV6dzNRZDlCVkdqaUlsdFp1Uy1zZ2daT3ZacE9kQktxUE52OVdoMkhPQkJ4eWdlUzc3Qnh2SUFFR3VVZ1RQR19nSG1SZEExeXJtUU0weHZDczEzRmM5ZmY2VTc1cUJZNlkwcmVGZ2JRaVJTd2o1VndLVmNXY24x?oc=5",
-     "source": "Alabama Reflector",
-     "published": "2026-11-20T11:16:01+00:00",
-     "summary": "Auburn University Board of Trustees to vote on new post-tenure review policy&nbsp;&nbsp;Alabama Reflector",
+     "title": "Do sanctions cloud China-US-Russia pledge to boost global fuel supplies?",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUFJLTJBM0pEZUkxRTFybENEdzBTdG5zbTVHQmt5c0VNNFJXS2lJVXlEOXRldXZpZElJRlhvNzEwRDMwRmI0RXNjMzNsdUN3dlhSNkU3RG4tNUpsY2V6U0xzcC1zNHZ2UEN1SDRLaG5UMm1XbW11M0l0WjdybnBfMTZOM1dIN2RZeWVVS1BmdWNVSjFwYXlNeGhUSTJOUGRsUWpTTG5RdGgxd01ZcFNvWEt1djl5WGY1Z2pvN0pLU0p0MXhsNGRWZGQzMW5oVVHSAc8BQVVfeXFMTW5NUFBxTDc1QVcxOVhaYUJTT0pIOU9BaXIycmlUVUtXUE9mOTVvUzFFWnlYdzR1QmZJQy1DanJMb2pQWFBsVkRRQmEzY0F2U2F6MkVodWJIUDUwRWU4LVo2VEdVSE54RmYxM1YyRHNPYWVpaktyblg3bnVjTTZOVGxwRDhGU3pCTVVFMVktSjk3dTRBbVp5dWR3YUpSYjYxME1IMVluUlFSZk1zWkV2LVA3NGo1UThJd2JScFhZdkVKU0lWNkJVbTNOSUV3Z1JV?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-20T13:00:06+00:00",
+     "summary": "Do sanctions cloud China-US-Russia pledge to boost global fuel supplies?&nbsp;&nbsp;South China Morning Post",
      "image": ""
     },
     {
-     "title": "Warren County Board of Supervisors Vote for Special Election for Sheriff Appointment",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHpNd0tZUHR1NEFzOElGVW41UnF6WHg0TXRDcHFhOUVRZF9VdndTMmh1REVhamJtenJDYVl4THRtNE9kd3VBY1hqb1F0dzJTTHBpLXRieUlpYmUtV2lZQlJhMlRmc29qeTQ5UW1tVHM3LTVkRFphcGJVaWZvUV9CVnRXTnpUNmdGTVpISzl0R1BULVpyWDVkMURPa2lnUkZBVUxVMVJRSmtGWG9vRlRz?oc=5",
-     "source": "KNIA - KRLS",
-     "published": "2026-11-20T11:03:59+00:00",
-     "summary": "Warren County Board of Supervisors Vote for Special Election for Sheriff Appointment&nbsp;&nbsp;KNIA - KRLS",
+     "title": "Opinion | Artificial intelligence flourished in California election advertising \u2014 and divided voters",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2ZIVFhQbmxWX215UDE3NkV4MTFjWDVfZnB0UU5tQnJBdzA1Y2hvRHRhZTNhejFiYmRNbnRSc2dNS2ZDYThBU0g3NHlham5vVHlBTTdKVXU4UmNha2xoSnNEeGtDejNoMXJHSjhocHdTR0V6R0NhU0lQTHJ0SnN5R3Rjd3lJZEdVd1lPYlI0M1pZMXhzZ0ZKbTAtS082c00?oc=5",
+     "source": "CalMatters",
+     "published": "2026-11-20T13:00:00+00:00",
+     "summary": "Opinion | Artificial intelligence flourished in California election advertising \u2014 and divided voters&nbsp;&nbsp;CalMatters",
      "image": ""
     },
     {
-     "title": "Emails reveal how Trump allies pushed pardons for election deniers",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/allies-email-trump-pardon-election-deniers",
-     "source": "The Guardian",
-     "published": "2026-11-20T11:00:31+00:00",
-     "summary": "Former Trump lawyer urged justice department officials to seek pardons for those falsely claiming he won the 2020 presidential election in their statesIn the fall of 2025, Cleta Mi",
-     "image": "https://i.guim.co.uk/img/media/3e289bd0c4dae807be31fa1f1a33fb5b5f7fa3c9/390_0_3881_3106/master/3881.jpg?width=140&quality=85&auto=format&fit=max&s=414393b1ec3e3dd332055f6fd9322800"
-    },
-    {
-     "title": "Florida Democrats lament near-miss election results",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXlHYkp5VmROMWJBRGk5V0tIbEozeTY0R3ZVYnZ2S05TcEx1M1pBUFI4RkFZdk9oanlrbTRzeWIyX0l3V0NnWkpTR1R4Vm5MaUx4VlV2VEZqZmdKNUU3amdBMk1Yelk1aFRLd3ExS0c1SFc2VUNQQ1lraW1ySTE3U3VFWkFoV3kzeXoxRFpyTU1sY1p0bVcwWjltYjR2cVpqb0FZYkM3cw?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-20T11:00:00+00:00",
-     "summary": "Florida Democrats lament near-miss election results&nbsp;&nbsp;NBC News",
+     "title": "Mississippi election results fulfill wish of many | Guest Commentary",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRlBPU3ZTam5Uc2xTamdJdWQ4a3NRbEpIN2hiZzZWZHEtYUgyaTNqd2gzWDVsczJzRnhtOEozUnNPYlBMekRybjRhcWR2NUt3ejZWNFpEbEk4UXN0bXlXbmFCREhlZjhoQlp4bW5DWUh3RHdLeTZXSmxsMjM4NW9hd0pHU0NVM2hYTjltOFJ4QmVoc1Bid2hMeHVxbWxlVWpUWnd3OXlfdm9JMGsyOUQ3V2phcWtMSVZSRUN1MFNFMlZSV3Y5WWlWSm82d0Ezdlg1M1A2dkN6QnJpSjR1MjZuU2wxLURWNHJDTGdEU2hnanNrMUdHRUE?oc=5",
+     "source": "Santa Maria Times",
+     "published": "2026-11-20T13:00:00+00:00",
+     "summary": "Mississippi election results fulfill wish of many | Guest Commentary&nbsp;&nbsp;Santa Maria Times",
      "image": ""
     },
     {
-     "title": "Deputy prosecutor: Ketchum ad did not violate election law",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRGoxeHkwa2xSdHluWENheVRzeHRrbjNKcEcwcFk1TzZWRmVudGtaUE1PNExrWU9VYjhUMG9neUhkdEdVdjQtNTlZNkZnYVhiWGV6ODNzdjh5NUVBNUFqNUpnTkVORlAxSDZxMnVYY2QyYUtDelI1OVEyS2NNVjJ0Q3QxNkFhak0wb2c4ZmttSzEyZ294N1JoN0NaeE94Mm5DNXplWGxobW5FN3Z5cmRUc05EQUxSSmVkUTBtZlBpT3NrcEN3aFdYalZpYmd6RE9aemFNbVYya0RoeWgtd1NEclFB?oc=5",
-     "source": "Idaho Mountain Express Newspaper",
-     "published": "2026-11-20T11:00:00+00:00",
-     "summary": "Deputy prosecutor: Ketchum ad did not violate election law&nbsp;&nbsp;Idaho Mountain Express Newspaper",
+     "title": "Rent is still due. Following midterm wins, Arizona housing advocates want lawmakers to act",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONTJQZWVRTnVacWZpenNNVVdyM3BZb0xENnpLTi1hMFBvR3VUMnBUTDZpYm5FT0NpeER2Z2o2TG5uNndPenBacno3OXlUdENzSmd0ZXVMbWhMOTd5OEtSTHVReXRsTnBGYjlnTk1uR2JkQTN6cjlqXzUxMkd6bUdMYTYycFkwUWlGMllBY0NNTVhUWVpkUDlmVmJMMU04c3lmYXpWcDc1X2txZmpzS0VJdnFtSHhoM3Nsckl1NGwxc24xcV94RHplUWR1dU5wM1pMLVJJTXZzVkIwaVJtZ0lzUnF4blVzX3pfLTkzMGcxNl9ienUzVzRwNkxNYnBmb3Zn?oc=5",
+     "source": "CaloNews.com",
+     "published": "2026-11-20T13:00:00+00:00",
+     "summary": "Rent is still due. Following midterm wins, Arizona housing advocates want lawmakers to act&nbsp;&nbsp;CaloNews.com",
+     "image": ""
+    },
+    {
+     "title": "Justice Department Gives Up on Alaska Senate Lawsuit",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPODFTam5HSTl5SjdGeGJZQW1zanhmSUtMMnY5NGw1YnFQcDdrNGNnWHgwek5oX2RDS3Rwc2FoLVRERlMxVWtmZXJpZWlmXzhsRWdremdGM0lOZEFyUHFaaVlsdnlFM3k1a2pJeGp4WVdLQjVWaWVJRy1JNzdDTzBnV0kyRHdPRVRpTi1UYnQ0NjNiNnRnNTlUa2pXdEtxaG1HMUl5ZUV1Yw?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-20T12:54:00+00:00",
+     "summary": "Justice Department Gives Up on Alaska Senate Lawsuit&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "'Sodium is a chance for us to lean forward and win': Alsym Energy at RE+ on why US battery policy needs to shift upstream",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNamtwODEwTUZkSks4WWFvUzdxXzUweGZQSkIyb2lzVkhORFpoNjJ2cHJJMWQ1ak9OVnNPVGMwdG5BZ1dqRnhtRXpKX0hTUFJMM2NPb09VZnh0c0FyaFhXNVRHUnVaSXJaUHBfWUcxMG1BN2hJM2JXWjc0VjMwVmo4WHNlbVViQnRreXRISkJkYjFZOENOYUJJeWIwZWxjZmZmZk5ZbV84S2NHdmNaV05TRmdTakxDeTR3ZmpXMFRWalFNZmg5VjY0V2dWTExmRmpZNENYcjh3bkM5b2FSNDlJVE1fY3E?oc=5",
+     "source": "Energy-Storage.News",
+     "published": "2026-11-20T12:53:38+00:00",
+     "summary": "'Sodium is a chance for us to lean forward and win': Alsym Energy at RE+ on why US battery policy needs to shift upstream&nbsp;&nbsp;Energy-Storage.News",
+     "image": ""
+    },
+    {
+     "title": "California Public Defenders Rally Behind Mano Raju as Court Hears Challenge to Contempt Sanctions",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxamtvNklRbmx0TmdtTEhRYXl3ZTJqaTl0blo1YWRNLVhqQ25Yb1paTXQ1clo3VjBIcHR5M3pQbG9zUlZoektFSWFQQU9fTklJYmFQYjJ2VE9jbGZsTTVYRTVIcG1JVDJGaGJSRXZWZ2NMNXFGTjRjejF2Zw?oc=5",
+     "source": "Davis Vanguard",
+     "published": "2026-11-20T12:50:43+00:00",
+     "summary": "California Public Defenders Rally Behind Mano Raju as Court Hears Challenge to Contempt Sanctions&nbsp;&nbsp;Davis Vanguard",
+     "image": ""
+    },
+    {
+     "title": "The Outlook For Data Center Tax Policy In The 120th Congress",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnc0TUtEN1NsdVB0MEJSeHg5OHBmaDExZ200b2Q2RXJacUxidUJ0anN2QXYwUU5sczRsZlNRMWp3c2k5SnJHLW1XUXowM1hfNE5NbnVKZlZmYzZuNklzaU8zRkJOdUtYQWpnNzRwSWx4ZVpJWHM4a3VwUEJhUF84eHQ1a3VQakVTczZMNVNQeW03VlRIQ09QcFltSGtlS2NXbnNCQzFyQmR6UFl4c3lkZmlKLWhPUlk?oc=5",
+     "source": "Legal 500",
+     "published": "2026-11-20T12:49:47+00:00",
+     "summary": "The Outlook For Data Center Tax Policy In The 120th Congress&nbsp;&nbsp;Legal 500",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T12:46:58.898665+00:00",
+   "fetched_at": "2026-11-20T13:17:02.942144+00:00",
    "stale": false,
    "items": [
     {
