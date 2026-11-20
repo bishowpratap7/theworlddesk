@@ -1,17 +1,89 @@
 {
- "generated_at": "2026-11-20T12:16:55.173766+00:00",
+ "generated_at": "2026-11-20T12:46:58.898674+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T12:16:55.173737+00:00",
+   "fetched_at": "2026-11-20T12:46:58.898645+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Three Kyiv bridges hit during major Russian missile attack",
+     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T12:41:52+00:00",
+     "summary": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg"
+    },
+    {
+     "title": "UK says EU reset deal agreed but talks will continue \u2018in some areas\u2019 \u2013 live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-20T12:35:15+00:00",
+     "summary": "UK statement comes after EU said deal would not take effect without future agreement over university tuition feesSenior correspondent Making today\u2019s reset deal contingent on a furt",
+     "image": "https://i.guim.co.uk/img/media/b27d3ee34f879e3cdf8410a75595717f4585e5ed/358_0_2972_2378/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=2c2ba4464a31680b4c19d14757b80b84"
+    },
+    {
+     "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T12:09:55+00:00",
+     "published": "2026-11-20T12:34:54+00:00",
      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
+    },
+    {
+     "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+     "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+     "source": "The Guardian",
+     "published": "2026-11-20T12:34:30+00:00",
+     "summary": "Polish PM calls strikes, which took place amid western military exercises, \u2018an intentional provocation\u2019 by MoscowTwo Russian cruise missiles and a jet-powered drone are reported to",
+     "image": "https://i.guim.co.uk/img/media/40ddac72b97d30f4ecd468edb3e34acd6a88e9b3/684_0_2044_1636/master/2044.jpg?width=140&quality=85&auto=format&fit=max&s=8ae27ec87b43c20e0e065f4cc925d25e"
+    },
+    {
+     "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
+     "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
+     "source": "The Guardian",
+     "published": "2026-11-20T12:28:12+00:00",
+     "summary": "Surge fuelled by \u2018preppers\u2019 heeding Be Ready campaign\u2019s call for households to have three days of food and water for emergenciesBusiness live \u2013 latest updatesRetail sales in Great ",
+     "image": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=140&quality=85&auto=format&fit=max&s=8dfcf0e5064769f2391ce1d79f2bf36a"
+    },
+    {
+     "title": "First Thing: Blockbuster Anthropic IPO fails to halt global slide in AI stocks",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
+     "source": "The Guardian",
+     "published": "2026-11-20T12:26:42+00:00",
+     "summary": "Record-breaking IPO for company behind Claude comes amid tumbling prices for other AI stocks. Plus why the humble potato could be vital for future space missionsGood morning. Globa",
+     "image": "https://i.guim.co.uk/img/media/c1bc477780b6c1ea31cf14df5a582eb755bddcaf/936_0_6323_5059/master/6323.jpg?width=140&quality=85&auto=format&fit=max&s=4d14597a45cbf6f010ae536d520c65e0"
+    },
+    {
+     "title": "BaddyDeadpool: The protester blending humour with activism",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T12:26:29+00:00",
+     "summary": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
+     "image": ""
+    },
+    {
+     "title": "What does the ICJ\u2019s Rohingya genocide ruling mean for Gaza?",
+     "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T12:20:29+00:00",
+     "summary": "The case sets a precedent for establishing a state&#039;s intent to commit genocide beyond explicitly written orders.",
+     "image": ""
+    },
+    {
+     "title": "Searching for the next Messi at the Under-17 World Cup",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup-2?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T12:20:09+00:00",
+     "summary": "Nearly 100 football scouts are in Qatar, searching for the next superstar at the FIFA Under-17 World Cup.",
+     "image": ""
+    },
+    {
+     "title": "US targets Iran\u2019s ship-to-ship transfers: Can Tehran break the blockade?",
+     "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T12:19:24+00:00",
+     "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
+     "image": ""
     },
     {
      "title": "El Salvador: Nayib Bukele, self-proclaimed \u201ccoolest dictator on earth\u201d, is seeking a third term",
@@ -44,85 +116,61 @@
      "published": "2026-11-20T12:00:20+00:00",
      "summary": "Report based on survey of 20,000 Americans says 84% of people who are incarcerated were assaulted, shot or stabbedThe majority of people who have spent time in a US prison or jail ",
      "image": "https://i.guim.co.uk/img/media/574f224398e8d5ee831b5bcc172350d418a7d522/92_0_3654_2924/master/3654.jpg?width=140&quality=85&auto=format&fit=max&s=a57b8b80634a770f0dfa0147c87e18a4"
-    },
-    {
-     "title": "US reacts cautiously to Myanmar genocide ruling as EU praises \u2018critical\u2019 role of UN\u2019s top court",
-     "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
-     "source": "The Guardian",
-     "published": "2026-11-20T11:57:43+00:00",
-     "summary": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreachThe US has greeted with caution the world\u2019s highest court\u2019s ruling",
-     "image": "https://i.guim.co.uk/img/media/5988d82b73797347e49b6c59007fbef9ae747fbb/264_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3d3d5da12d382fb35136edd4ce049ed7"
-    },
-    {
-     "title": "\u2018We didn\u2019t come here to beg\u2019: Africa\u2019s message at COP31",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T11:55:16+00:00",
-     "summary": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
-     "image": ""
-    },
-    {
-     "title": "UK says EU reset deal agreed but talks will continue \u2018in some areas\u2019 \u2013 live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-20T11:55:14+00:00",
-     "summary": "UK statement comes after EU said deal would not take effect without future agreement over university tuition feesSenior correspondent Making today\u2019s reset deal contingent on a furt",
-     "image": "https://i.guim.co.uk/img/media/b27d3ee34f879e3cdf8410a75595717f4585e5ed/358_0_2972_2378/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=2c2ba4464a31680b4c19d14757b80b84"
-    },
-    {
-     "title": "Malaysia's unwanted refugees: The plight of the Rohingya",
-     "url": "https://www.france24.com/en/tv-shows/focus/20261120-malaysia-s-unwanted-refugees-the-plight-of-the-rohingya",
-     "source": "France 24",
-     "published": "2026-11-20T11:28:30+00:00",
-     "summary": "On November 19, the International Court of Justice delivered a historic ruling: finding Myanmar guilty of committing genocide against the Rohingya in 2017. Malaysia has long been a",
-     "image": "https://s.france24.com/media/display/a4133a2c-e441-11f1-beda-e56ab3dc0809/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-MALAYSIA-ROHIGNYA-RACISM-BAIN-Lauren.jpg"
-    },
-    {
-     "title": "US appoints new cybersecurity chief after series of tech failures",
-     "url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T11:26:28+00:00",
-     "summary": "Appointee Kirsten Davies says US has the chance to &#039;dominate the cyber landscape for generations to come&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Italy strike draws workers, students into nationwide protests over wages and living costs",
-     "url": "https://www.france24.com/en/video/20261120-italy-strike-draws-workers-students-into-nationwide-protests-over-wages-and-living-costs",
-     "source": "France 24",
-     "published": "2026-11-20T11:25:32+00:00",
-     "summary": "A nationwide strike was expected to disrupt schools, hospitals and local transport across Italy on Friday as workers and students began marching in dozens of cities to demand highe",
-     "image": "https://s.france24.com/media/display/6abc8560-e4d4-11f1-87e1-e56ab3dc0809/w:1024/p:16x9/EN-20261120-120355-120805-CS.jpg"
-    },
-    {
-     "title": "South Africa: High Court examines asylum seekers' detention at Lindela centre",
-     "url": "https://www.france24.com/en/video/20261120-south-africa-high-court-examines-asylum-seekers-detention-at-lindela-centre",
-     "source": "France 24",
-     "published": "2026-11-20T11:23:35+00:00",
-     "summary": "South Africa's High Court judges visited the Lindela Repatriation Centre in Krugersdorp this week, ahead of delivering a ruling on 33 urgent applications concerning the detention o",
-     "image": "https://s.france24.com/media/display/97aba57c-e4d1-11f1-be4a-ebb478925cf0/w:1024/p:16x9/EN-20261119-214548-215033-CS.jpg"
-    },
-    {
-     "title": "\u2018You\u2019ve got me for life\u2019: first ceremonies in England cement care leavers\u2019 relationships",
-     "url": "https://www.theguardian.com/society/2026/nov/20/lifelong-guardianship-ceremonies-england-care-leavers-relationships",
-     "source": "The Guardian",
-     "published": "2026-11-20T11:23:17+00:00",
-     "summary": "Lifelong guardianship ceremonies were announced in July as way to publicly affirm chosen connectionsAllan was 14 years old and had been through eight foster families and a stint in",
-     "image": "https://i.guim.co.uk/img/media/7878dea6e1cf06cc7463280dfdd0c8160a25696e/255_0_5783_4626/master/5783.jpg?width=140&quality=85&auto=format&fit=max&s=1206e3b5e60a79e1460b04d65653f7fb"
-    },
-    {
-     "title": "Home Office tells woman born and raised in London she is not British",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/20/home-office-tells-woman-born-london-she-is-not-british",
-     "source": "The Guardian",
-     "published": "2026-11-20T11:22:17+00:00",
-     "summary": "Woman, 24, says she cannot work and faces destitution after it was found her mother had no right to UK passportA 24-year-old woman who was born and raised in London believing she w",
-     "image": "https://i.guim.co.uk/img/media/53839eb12d1e1f492999e1dfee14890cceb0c889/706_0_5888_4711/master/5888.jpg?width=140&quality=85&auto=format&fit=max&s=188331565cf3c116ed9ef7fd50ca40ba"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T12:16:55.173751+00:00",
+   "fetched_at": "2026-11-20T12:46:58.898659+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T12:41:52+00:00",
+     "summary": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg"
+    },
+    {
+     "title": "Estonia Dismisses Idea of European Leaders Traveling to Moscow, Urges Putin to Agree to Ceasefire",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yTGJYUkVlbmt6czRYbXF0TXZBSnhiclcxVUo2UC0tenE1V3RFRXJBUXROUjNDVURhZnZxYXJBTHQ1V0hKZWRDSF9kaw?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-20T12:35:16+00:00",
+     "summary": "Estonia Dismisses Idea of European Leaders Traveling to Moscow, Urges Putin to Agree to Ceasefire&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
+    {
+     "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+     "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T12:34:54+00:00",
+     "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
+    },
+    {
+     "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+     "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+     "source": "The Guardian",
+     "published": "2026-11-20T12:34:30+00:00",
+     "summary": "Polish PM calls strikes, which took place amid western military exercises, \u2018an intentional provocation\u2019 by MoscowTwo Russian cruise missiles and a jet-powered drone are reported to",
+     "image": "https://i.guim.co.uk/img/media/40ddac72b97d30f4ecd468edb3e34acd6a88e9b3/684_0_2044_1636/master/2044.jpg?width=140&quality=85&auto=format&fit=max&s=8ae27ec87b43c20e0e065f4cc925d25e"
+    },
+    {
+     "title": "What does the ICJ\u2019s Rohingya genocide ruling mean for Gaza?",
+     "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T12:20:29+00:00",
+     "summary": "The case sets a precedent for establishing a state&#039;s intent to commit genocide beyond explicitly written orders.",
+     "image": ""
+    },
+    {
+     "title": "US targets Iran\u2019s ship-to-ship transfers: Can Tehran break the blockade?",
+     "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T12:19:24+00:00",
+     "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
+     "image": ""
+    },
     {
      "title": "Rich Lowry: Trump\u2019s Ukraine-war realpolitik isn\u2019t realistic",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1ZYYTZsWjMwMkxWbXRSSWJTeGZjMEdJdy1DV3oxSjdVa2p5cTFYYVJDcHl1QUZBWi1OdjI5cERPbk1kdmlaY2VVaXBIeDFBdVl3MkVVZmpjdTd3Z3FlN2VnMlh5TnVtSVAzZXJnTHRwTmJ4YmcyRjFwMHh0eHU1eTVEa1ZRM3BxMzZIVU5IVnpDcnNlZ1R5SE9vUENMQnpGOVNxX25pMmtFUQ?oc=5",
@@ -132,19 +180,19 @@
      "image": ""
     },
     {
-     "title": "Three Kyiv bridges hit during major Russian missile attack",
-     "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T12:09:55+00:00",
-     "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
-    },
-    {
      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
      "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
      "source": "NPR",
      "published": "2026-11-20T12:04:57+00:00",
      "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could be",
+     "image": ""
+    },
+    {
+     "title": "APTOPIX Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2ZWd0wwMExPTjlmaU94cjdZZnItVGZxWnU4LTk4U0RSeGxIUEtWRE1vS25qb05NSVNvNk4wRFlzV096SlNuVGE3V2tuMWY3bE5kemdhb2pXc1BQZFR5cUo0WDRRMW1IYk9xd0VXMXMwMEZZNzNKWmpFMHNvTGhTSHBaZlh4STdtNkJoSFVtOVViODUzcGNWdU9XM1NMdWREVEl3WnFIc1hwUzdYVUpEZ0Vid0FhZ3RLVzlQUg?oc=5",
+     "source": "Goshen News",
+     "published": "2026-11-20T12:04:22+00:00",
+     "summary": "APTOPIX Russia Ukraine War&nbsp;&nbsp;Goshen News",
      "image": ""
     },
     {
@@ -170,61 +218,29 @@
      "published": "2026-11-20T11:59:00+00:00",
      "summary": "Ukraine\u2019s underground war&nbsp;&nbsp;CNN",
      "image": ""
-    },
-    {
-     "title": "US reacts cautiously to Myanmar genocide ruling as EU praises \u2018critical\u2019 role of UN\u2019s top court",
-     "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
-     "source": "The Guardian",
-     "published": "2026-11-20T11:57:43+00:00",
-     "summary": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreachThe US has greeted with caution the world\u2019s highest court\u2019s ruling",
-     "image": "https://i.guim.co.uk/img/media/5988d82b73797347e49b6c59007fbef9ae747fbb/264_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3d3d5da12d382fb35136edd4ce049ed7"
-    },
-    {
-     "title": "\u2018We didn\u2019t come here to beg\u2019: Africa\u2019s message at COP31",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T11:55:16+00:00",
-     "summary": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
-     "image": ""
-    },
-    {
-     "title": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcEZlYU1FUnRJUHhFTF93UzVBOTNBTWx3dmMwd3h0bXZPTmUwRlBIdXo2cDAxQVJBbWswQ2xTRXN6VThpa2FXLUpmQ2NQZTMtWmczYk5JZEFaLWozU2c4QWRoU3BFN0ExM2J2UWpEcFZIM0RHMFJFRnM1cllNZkVoMlM1VHowVXFFd2cxWjB4N0lmRUFtbjdnRmI2U3o1NUk4dUc4MjRQb29CTXF6NXV0Z3hEM0hnMjdEb0xEbnpUdDRnU015d3MxOVFOWGdXTlYtVk1Rd3dSQlBUTWZlWEprQ25wMDFDRXkzN3ZTUWFvZjNmb09HVTVxM1hyUnM1N2hvaVpaT2pnOG5DdTQ?oc=5",
-     "source": "KTVN",
-     "published": "2026-11-20T11:54:20+00:00",
-     "summary": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack&nbsp;&nbsp;KTVN",
-     "image": ""
-    },
-    {
-     "title": "Ukraine faces harshest winter since war began, German chancellor says",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0x6WnFKaTg2MS1CU3hrQzZiYW45dzQtLThTYkpRd2dCNlF3bU15d0RrS21uVnd6dURBZWUxeHhiNzdFRWVkajdaTnNHTm1sN2NSR3Vub09QNzg5ZlA5OHhjWnh0UkQ4c0dNT042dDYwMElOQVY0RGt1djE2Mzg1VFZCR0I3OVFWeUZsdVZhLThMRF9VS09XaGpHNVIxZW5kcFNUX0R4Z3dyaGRn?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-20T11:44:55+00:00",
-     "summary": "Ukraine faces harshest winter since war began, German chancellor says&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "European Leaders Back Multinational Force and Binding Security Guarantees for Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREREOFpLQzJ4LVZ6ZEh0Q2ZYckxuVG9JaFROZXMyV3BLd1NYMXRxeGQ2ZEJ6WjIzTldka2FiMkZ2MDJLdXB3VEdaaVpmS082WXhpSXpubVByS2FMSmpUaEE0UTc5Q0ZJZXl6b2l6WEdfMTRDT0JydVg2aE9tUWlqQUxSNjRZOFpONk1EWGZ0QVpuTlhkNUU1aG5kWlZGSVIzSVZPajdNMkllai02OEtaOEh5Z0Rxd1c0RENCM2piZkwxV05UallNd3Zrd2c?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-20T11:36:57+00:00",
-     "summary": "European Leaders Back Multinational Force and Binding Security Guarantees for Ukraine&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Malaysia's unwanted refugees: The plight of the Rohingya",
-     "url": "https://www.france24.com/en/tv-shows/focus/20261120-malaysia-s-unwanted-refugees-the-plight-of-the-rohingya",
-     "source": "France 24",
-     "published": "2026-11-20T11:28:30+00:00",
-     "summary": "On November 19, the International Court of Justice delivered a historic ruling: finding Myanmar guilty of committing genocide against the Rohingya in 2017. Malaysia has long been a",
-     "image": "https://s.france24.com/media/display/a4133a2c-e441-11f1-beda-e56ab3dc0809/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-MALAYSIA-ROHIGNYA-RACISM-BAIN-Lauren.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T12:16:55.173755+00:00",
+   "fetched_at": "2026-11-20T12:46:58.898663+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "BaddyDeadpool: The protester blending humour with activism",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T12:26:29+00:00",
+     "summary": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
+     "image": ""
+    },
+    {
+     "title": "Trump DOJ Lawyers Fight Sanctions Bid Over Alaska Senate Lawsuit",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1dEWEhFaUFVel9ZVDA5ajhNOVpFTWVLRFhiUUhMZ1A3dkltRklYTlQwd0FCVy05SmRPd3FFWGwzeWJ4bEhpRUhhZUtkZVJRcUFlZENMYTRWVlg0THZtbTZ2emt0OENFOERRSUhETDFnVjctRmdqQVhLZGQ3V2FVdzRVN3hQMUV0aHcyZUtZYUhGUmxNM1NFUnpUZGk?oc=5",
+     "source": "Newsweek",
+     "published": "2026-11-20T12:18:00+00:00",
+     "summary": "Trump DOJ Lawyers Fight Sanctions Bid Over Alaska Senate Lawsuit&nbsp;&nbsp;Newsweek",
+     "image": ""
+    },
     {
      "title": "El Salvador: Nayib Bukele, self-proclaimed \u201ccoolest dictator on earth\u201d, is seeking a third term",
      "url": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
@@ -304,29 +320,21 @@
      "published": "2026-11-20T11:00:00+00:00",
      "summary": "Deputy prosecutor: Ketchum ad did not violate election law&nbsp;&nbsp;Idaho Mountain Express Newspaper",
      "image": ""
-    },
-    {
-     "title": "Reform holds on to majority in by-election win",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUx2c1pSTHBPeWlLT2taNUtQQTBEb19GNmhmTWEyNHVqZUtQUjkwUjlpcHE5MlNrM0dOc0tIUjA0TUFEVVBMQ3VYa0l2T1hxYnAzd3h5WlN1S3FzY2dmd0Q4RWpvX1U1MUJCejBZM05VY1ctbWQzNC10ZU5kbTMtV19rbHNxUDFGbzBaTll1clFVSWdpUkFkMTl3?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-20T10:58:58+00:00",
-     "summary": "Reform holds on to majority in by-election win&nbsp;&nbsp;Yahoo",
-     "image": ""
-    },
-    {
-     "title": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQazNVcFduX0dkSEo5V2JTb21HUmNteWlGSGJ6cEZubTFFVko2ZEJNWEQxVmtCd0FZb01aZlV1WExWVWl0ekE4MmhBRzFKSkJnRk1uek5mVk9wb1BKckRma1ZXMVg2T3ZrNzg4SzYwa1hxR083WjJ1bDJQQXdqYURUMDNQeVZ3UkRiZkZndTl0ODU3QXViUFlXSUlVUVAyNUhadEp2LUZiNXlXX0xFYkNQTDZzdkhzZDZxSVlVRlNlTzBYcjBpVVhXWk9vN0NVQ0JfTVVmUjBMWnFlNXc2REtKc2xfYVRLWXZjMDd0bQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-20T10:58:40+00:00",
-     "summary": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya&nbsp;&nbsp;The Washington Post",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T12:16:55.173757+00:00",
+   "fetched_at": "2026-11-20T12:46:58.898665+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "First Thing: Blockbuster Anthropic IPO fails to halt global slide in AI stocks",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
+     "source": "The Guardian",
+     "published": "2026-11-20T12:26:42+00:00",
+     "summary": "Record-breaking IPO for company behind Claude comes amid tumbling prices for other AI stocks. Plus why the humble potato could be vital for future space missionsGood morning. Globa",
+     "image": "https://i.guim.co.uk/img/media/c1bc477780b6c1ea31cf14df5a582eb755bddcaf/936_0_6323_5059/master/6323.jpg?width=140&quality=85&auto=format&fit=max&s=4d14597a45cbf6f010ae536d520c65e0"
+    },
     {
      "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
