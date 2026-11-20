@@ -1,10 +1,74 @@
 {
- "generated_at": "2026-11-20T19:18:04.674301+00:00",
+ "generated_at": "2026-11-20T19:48:08.923441+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T19:18:04.674269+00:00",
+   "fetched_at": "2026-11-20T19:48:08.923410+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+     "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T19:40:07+00:00",
+     "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+     "image": ""
+    },
+    {
+     "title": "JP Morgan boss says he will set \u2018example\u2019 in offsetting UK tax hike on banks",
+     "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+     "source": "The Guardian",
+     "published": "2026-11-20T19:38:59+00:00",
+     "summary": "Jamie Dimon said he would seek to claw back added costs of \u2018unfair penalties\u2019 as bank surcharge rises in JanuaryJamie Dimon, the chief executive of JP Morgan, has said he will find",
+     "image": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=ac2ad95e3893c94c9fe2d7c13f030ea9"
+    },
+    {
+     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T19:38:46+00:00",
+     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
+    {
+     "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+     "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T19:27:49+00:00",
+     "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+     "title": "Nepal cricket fans celebrate their team\u2019s global rise",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T19:24:26+00:00",
+     "summary": "Nepal\u2019s cricket fans have witnessed a transformation in their national team\u2019s fortunes in recent years.",
+     "image": ""
+    },
+    {
+     "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+     "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+     "source": "The Guardian",
+     "published": "2026-11-20T19:18:20+00:00",
+     "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producerA Home Alone sequel is reportedly in development with origina",
+     "image": "https://i.guim.co.uk/img/media/934c182e9fa7feae129f366be38ebe9b1a067b4b/94_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=ef2a63347fd9754baeea3f315a856543"
+    },
+    {
+     "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+     "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T19:15:18+00:00",
+     "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+     "image": ""
+    },
+    {
+     "title": "What are the implications of the ICJ Rohingya genocide ruling?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T19:12:14+00:00",
+     "summary": "Verdict against Myanmar may have implications for Israel&#039;s genocide in Gaza.",
+     "image": ""
+    },
     {
      "title": "White House removes cyber-security chief after series of tech outages",
      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
@@ -52,77 +116,37 @@
      "published": "2026-11-20T18:43:37+00:00",
      "summary": "Palestinian children gathered along Gaza\u2019s coast for swimming lessons, finding relief from the psychological toll of war",
      "image": ""
-    },
-    {
-     "title": "Ukraine strikes Kerch Bridge as Putin ally declares \u2018no one needs Europe\u2019",
-     "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T18:37:35+00:00",
-     "summary": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
-     "image": ""
-    },
-    {
-     "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:36:30+00:00",
-     "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illnessA Florida mechanic has been found guilty of stabbing to death a B",
-     "image": "https://i.guim.co.uk/img/media/68822b4af6e85f21c7ca85d279e5ad43ec97d7f0/0_739_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=92f25a5d55d0fad5b5507d63e8834c52"
-    },
-    {
-     "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
-     "url": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:34:13+00:00",
-     "summary": "Pro-Palestinian donor James \u2018Fergie\u2019 Chambers released as court considers extradition requestIn a blur of events surrounding the Trump administration\u2019s effort to extradite James \u201cF",
-     "image": "https://i.guim.co.uk/img/media/74547b1071ce9ebdb86931120adc604b11828149/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=71dbb87ded0ef40e5be44df05d5646f2"
-    },
-    {
-     "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:33:17+00:00",
-     "summary": "Eva Yi Xie was taken into custody at Washington DC airport after presenting research at neuroscience conferenceA Princeton University doctoral student has reportedly been taken int",
-     "image": "https://i.guim.co.uk/img/media/a2b6e6d017d543b1b4713dc52b5d59d514b1068a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a31f1b45ae7c89839b5952679be4e52"
-    },
-    {
-     "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:24:12+00:00",
-     "summary": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizenAn Indian \u2060man was sentenced to more \u2060than 19 \u200byears in US prison",
-     "image": "https://i.guim.co.uk/img/media/9685e16f610038a3820904f81eb1dba749b72664/117_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=2cc6f42b367b6b3ca3cc23ff3443d4ff"
-    },
-    {
-     "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
-     "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:22:50+00:00",
-     "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hopeSeveral sentences into a slightly convoluted answer about where UK-EU",
-     "image": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/507_0_4299_3440/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=3ae557580f5a65931c10fbaded2c7434"
-    },
-    {
-     "title": "Two men killed after glider crashes into Loch Leven in Scotland",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:20:09+00:00",
-     "summary": "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a training flightTwo men have been killed after their glider crashed into Loch Leven, a large body of ",
-     "image": "https://i.guim.co.uk/img/media/91c77301e443dd89b1325be4f66e27579f7324be/188_27_3719_2975/master/3719.jpg?width=140&quality=85&auto=format&fit=max&s=f7df03cf743c59650951c56622df1dd2"
-    },
-    {
-     "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-     "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:16:12+00:00",
-     "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in DenmarkDenmark\u2019s foreign minister has said Russia\u2019s defence attache in Cop",
-     "image": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1409e3209b705fa5f723d3e840a5bdf6"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T19:18:04.674285+00:00",
+   "fetched_at": "2026-11-20T19:48:08.923426+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump: Putin \u2018would love to\u2019 end war in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2TFRlXy1hN0VDUWN4Y3FfUnQxSEFlbFdUVkxDMF83T1FvLVhKXzlfLWFqZURuMmE3RldrWVJaVFBzZzhkTGc5TTh0WjhUVW5WWS1PdWExSndkOE5IVzAxeVZLVWgwM3lWQnVUQkhweG9PTURWZjFQeUUzV1Q2MTQ?oc=5",
+     "source": "Channel 4",
+     "published": "2026-11-20T19:37:21+00:00",
+     "summary": "Trump: Putin \u2018would love to\u2019 end war in Ukraine&nbsp;&nbsp;Channel 4",
+     "image": ""
+    },
+    {
+     "title": "Pop Culture Still Can\u2019t Figure Out Drone Warfare",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnlvTTU0ZWtvM09wUHA0SHNHWE1uUG45dXlNOE9jQUs1c0twU3ZJell4dEREZ28wRE1DeDkyOEpDV0ZCOVlFMGliT1FGUzR1eXpmUWUycUJMYTRMLVJfdmNkXzJzR2VHVXc3UFh2QWZYcXBOU3hyU0VxNW5wZzdNem4wQnRHb1FYNDQzMTBFdW1Qc1UwczRQaA?oc=5",
+     "source": "Foreign Policy",
+     "published": "2026-11-20T19:22:25+00:00",
+     "summary": "Pop Culture Still Can\u2019t Figure Out Drone Warfare&nbsp;&nbsp;Foreign Policy",
+     "image": ""
+    },
+    {
+     "title": "What are the implications of the ICJ Rohingya genocide ruling?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T19:12:14+00:00",
+     "summary": "Verdict against Myanmar may have implications for Israel&#039;s genocide in Gaza.",
+     "image": ""
+    },
     {
      "title": "Ukraine war latest: Russia strikes 3 Kyiv bridges in massive aerial assault on Ukraine, at least 9 dead",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlqYnRIM184cXRFekZMM3o1Q2FyNDVNeGVqbW1fMHpFOWx2TktpdV85LXd0d2hOZU02VWV5LWlsYnAxM3p2VXMzQ3VwOXU3VmE5bV90Yl91XzZXRHdPUFozYmE1TE5kT3Y2TDhUdU5pUlk2V3VNVmE3OFBic3ZDWUdxcXc5M0VSMUFELU9TLXQ5OHpiQ0NSRkVEa0R1Nkg4ZEhJQllVbGZFZnIya3hTMWF4Nk1pdG1HZ3JNbzB1U2JPNUtMek5rd2Fn?oc=5",
@@ -188,43 +212,51 @@
      "image": ""
     },
     {
-     "title": "Putin expressed a desire to end the war in Ukraine \u2014 Trump on the meeting in China",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFJsdEhQYmJ5WWo3MjQ2OHZUTWdDY1FNWlk1LWIwWE5pRVp3ZHFRTEpxY1pNUURPOGZPN29DTWMxODB0OEJQNHA2M0F3WEIxemtJNVRDOEEzTllKdnR3bS1XZEFrVGFUZDFsT0pOVGpyY2RFOER4SDdGU2VyVDJUbldLTVVpTFMwV3FoeVR2eHFrWW51dUlVMDRwaU5PY2g4ZnBob2tn0gGkAUFVX3lxTE1GdkdSVzExSzdpU1M5MXVRRkRVM0xkX1VyeWdySjVha3A4Zk5PcnlVNExCTmNDQm1vMkY4cnE3RWEtTE83UExrMzhOWm0xQnR3S1dFZFR1LUR2RzdhU1lLU3E0YzhDZDM2QXNvSXNBY3Y5M3JZaTNUOFRrekNYLVVIYzZCM3l0RE9xY1lnQXFMNUJiVnRobmFjX2NuSFk0RlRvOUVo?oc=5",
-     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-     "published": "2026-11-20T18:34:43+00:00",
-     "summary": "Putin expressed a desire to end the war in Ukraine \u2014 Trump on the meeting in China&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-     "image": ""
-    },
-    {
      "title": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlTOElmbFJzU0xsLWxIOXZFMnRscy1EV054VXBZWEVvd0UxbUxkcG8xNlpSVW4yYkNwdTZ4OGp1WVczalh6NTVUM1EyUkZza2RBY0pfSmxHZEVXVjFKT1JBSHNfM1pTQmp2cVdSX3U4OVFvQnZzd2ZrdEpMMnJiZlpTX05Cb0o4dmFvbXhKYVZ2aldsOGczWnRrdzRpU05yRWtnRWNQcUJyd1NyckgzZ0RjRXBkTWxINk1iaDZTYThhTXZRZTBhcHdvVXVYVlduLVE?oc=5",
      "source": "NBC News",
      "published": "2026-11-20T18:26:03+00:00",
      "summary": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means&nbsp;&nbsp;NBC News",
      "image": ""
-    },
-    {
-     "title": "Trump says Putin expressed desire to end war with Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzlnanpEaTRMMEM5Q2UyR3R1LWNQRTN6SVFfb0ZfV1JGZFlxNzN6aXB0NXQtc25BLUZoeEF1ZHc4SWdZV205UlNBWUwtYnFmOW1yRS1pQ1JvRW9TRE9pMGdILXMtbG0xZlZWNTdScC13clVaaDhrVUxzMmZpSHZYSks4OFRLQ0dEMVdzR0RjMk5ILUNrNlFaR3RDZnZtblhCOXVWcm5EcWRmZ1E?oc=5",
-     "source": "NBC News",
-     "published": "2026-11-20T18:25:10+00:00",
-     "summary": "Trump says Putin expressed desire to end war with Ukraine&nbsp;&nbsp;NBC News",
-     "image": ""
-    },
-    {
-     "title": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFSTWdxSVdBMEtrN1RpU2F0eTZuOTVQV0lSQ1hsWERjY25VLWV2d1hlZHluaWZOeklXRWhaN3NrSmMtWjhFY2VKU0lWbU9FWndENldZU0owa1BaQ3N2eWN4WE9xOXhkNjlLMmxxb3AycE5sRHZqVnpXLTFnN1daRGh3MDh2cFR1RVBYLTNoMXdMbTZWSURtQQ?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-20T18:21:50+00:00",
-     "summary": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine&nbsp;&nbsp;CBS News",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T19:18:04.674288+00:00",
+   "fetched_at": "2026-11-20T19:48:08.923430+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "St. Paul Public Schools under federal investigation for gender inclusion policy",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWG1ldUVCWjA2UXh0SWxPc0JVVnpwVDMxdmFBamlqckQ2SHJZREZzTE8wS2V0VUpaNHI3QlpvODh3NU1vbkJiU0p5ZGxLc3RkTk11Qk5qSjlkdUFDZERmZVVJN051VXlEWXgyTGtCTWUybGVqSWM1b0RPVmd5WjEyX2d4cHprQ2tCY1o4aTlnUnQ2clRrQThiTHZjLUlYVFBvbzFFUlFvc2I4aWJl?oc=5",
+     "source": "MPR News",
+     "published": "2026-11-20T19:39:00+00:00",
+     "summary": "St. Paul Public Schools under federal investigation for gender inclusion policy&nbsp;&nbsp;MPR News",
+     "image": ""
+    },
+    {
+     "title": "Auburn University Board of Trustees approves new post-tenure review policy",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmFsTGZNRXZnbkVENHhLN0pCRjJxZjhyY3B1QUhCaHZfSkIxTlprbVEzN2NxajFOODY0WnlOUmpveFZHc0xvMGpNMUFTRXZGaE1MSFdMNFVXeW83UDFBYWoyVTNuUFdKUVljUFc1aVhLX1YxVVRCZ0Uwbjk3OFJabUs1SGl3MzlVd2JXVzBLU2VJblBKSUFsaVFvUFpXTnRyaHh6bG1oejR5MTZhQlNWQUd5Y2lEUQ?oc=5",
+     "source": "Alabama Reflector",
+     "published": "2026-11-20T19:38:21+00:00",
+     "summary": "Auburn University Board of Trustees approves new post-tenure review policy&nbsp;&nbsp;Alabama Reflector",
+     "image": ""
+    },
+    {
+     "title": "PUBLIC NOTICE: COUNTY COUNCIL DISTRICT 2 SPECIAL ELECTION",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMU1obkN6QXM1SUhtcUtZdUI2anYyNUhHa3VTYUE0SFZNYktlQlVhaHdvVnN3WGVhSGc1ckh3TkdzendmWFl5Z2tvem5ReVE5dXdKb25mbWdreXJVNVlVenFBODhEeDlMd19QWV9IcjdnQ2VDUlVycXFYM3ROR1RhQnp6dTQtSGYzRkVZb2Fxbw?oc=5",
+     "source": "Berkeley County Government (.gov)",
+     "published": "2026-11-20T19:26:30+00:00",
+     "summary": "PUBLIC NOTICE: COUNTY COUNCIL DISTRICT 2 SPECIAL ELECTION&nbsp;&nbsp;Berkeley County Government (.gov)",
+     "image": ""
+    },
+    {
+     "title": "What in the World?",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUDctYkxtaTFCdVdEcnNfWUVfU3FDLUEwMFN2Z1dJZnhMVnpKYktORnFNckdqN2tHR1huQU9HRHNxUWppNFdMYk5MQjVMdjBXUmo1NUU1RHhmTzA2UTNMYnd1Rl96T1B1eG90amQ5VnpGTm5yV0JkOVJiek5SQlRXeGM4Szd4TVBZb1NBRGg4RVNsdkJXcEtoOWNubWpQUHRvZWNiZkplazFzRW1MZGRySWlWU2V1NmlBUlJ0REVLYllISGRnRXpkeVdFclpCT2JP?oc=5",
+     "source": "Foreign Policy",
+     "published": "2026-11-20T19:12:23+00:00",
+     "summary": "What in the World?&nbsp;&nbsp;Foreign Policy",
+     "image": ""
+    },
     {
      "title": "[Speaking Engagement] Cannabis Policy Institute Symposium 2026",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjhzbHY4N3JuTmdLbTdyOE5TWXFTTU1lUXVramRYMFdKai1MVkcyY0pHSk8xdXBGMWNqTDl5NE8tVXZ1NjYxREJsYkt0Q0h1NXQ1WFJCaElMNWxVWDEyWUF3ZE1yTG9jdlZKS1hhQ3V3UzdiSFdwWE0yNld2a2ZMbkswblF1a1dRa1NYaENoeHdFVXdVRmc?oc=5",
@@ -247,14 +279,6 @@
      "source": "Political Science Now",
      "published": "2026-11-20T19:03:06+00:00",
      "summary": "When Do Prediction Markets Improve Election Forecasts? Evidence from Matched U.S. Races&nbsp;&nbsp;Political Science Now",
-     "image": ""
-    },
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xSDloaEZNX18tTHAzYWdfVldWYVVRT1hiSnJoSW8xS0FpRS1kMlEyeEl1MU5IQmdZa3lXXzZNZ0hBRUFaS3VjaEtqLUx6VUYtZno1SkNoVlVQTkZfXzlRMURWNVJEOWlNb0JLYWhsUDRsZw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-20T19:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     },
     {
@@ -296,37 +320,21 @@
      "published": "2026-11-20T18:46:50+00:00",
      "summary": "2026 Election Analysis&nbsp;&nbsp;NH Business Review",
      "image": ""
-    },
-    {
-     "title": "Bristol 5th grader wins Connecticut Kid Governor election",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFE1UWNnV29lTkg2S3RlRFFoWjdIQUViRFFCN01ZMTd5NnhCRThhRjhQU1NqczlCdWhsaWZsS0xZb1lzbHU0YTU5TE5HR3ptYUxDakZLd21xRThIZE9KMzIyalVFaHMxZTFpaHlYV3pSc05SLXZDWFNBZE1FajFKRFMyUkRPVkhWYzZQVFItMnUyR3Vj0gGoAUFVX3lxTE1WTVBEZ1lCcDJPZlZBZkhDZ0M0V3VCMTlLTzZHd2d1cXJjZkJUel8wc0NPUmQ1M0dWUVZ4cmk5eU43UkNxS0oyS2h2enFEMzcyczVDWkJMWElROE5LOFZqWmdPb2VqLWVSMTkzSXp4dkVpV04xWE9zd0NXZlZCc0FjTU9GNVR1UmREbXltd2haNldwc1lLdnBpeUNQY3hYTlQtdlhoZzZZWg?oc=5",
-     "source": "WFSB",
-     "published": "2026-11-20T18:26:00+00:00",
-     "summary": "Bristol 5th grader wins Connecticut Kid Governor election&nbsp;&nbsp;WFSB",
-     "image": ""
-    },
-    {
-     "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
-     "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-     "source": "The Guardian",
-     "published": "2026-11-20T18:24:12+00:00",
-     "summary": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizenAn Indian \u2060man was sentenced to more \u2060than 19 \u200byears in US prison",
-     "image": "https://i.guim.co.uk/img/media/9685e16f610038a3820904f81eb1dba749b72664/117_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=2cc6f42b367b6b3ca3cc23ff3443d4ff"
-    },
-    {
-     "title": "COP31 delivers deals for host Turkey as climate diplomacy stalls",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVhLeDVRNGJfN2d5RGs2bG5MN1J3aFFTZ2hMU2FyRjRYX1A0YWI2NmhKdnhNbXdXU21xZVE2QkQ1dlVOVExyMjhOaEVsZHJOR25xaElwTWdxODZFcnlJQmFoeE9kaHZZTHk3Mm5wYVJXY1YteV9pRlFmakh6WURLWHBURjNrSGVLZmU2cDJwZnF4UVN0cFZSblhJdlhZLV9zNnRjUlhLRjFkRFhNc0VmR0FR?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-20T18:24:08+00:00",
-     "summary": "COP31 delivers deals for host Turkey as climate diplomacy stalls&nbsp;&nbsp;Reuters",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T19:18:04.674291+00:00",
+   "fetched_at": "2026-11-20T19:48:08.923432+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T19:38:46+00:00",
+     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
     {
      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
@@ -334,14 +342,6 @@
      "published": "2026-11-20T17:49:48+00:00",
      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T17:36:29+00:00",
-     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
     },
     {
      "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
