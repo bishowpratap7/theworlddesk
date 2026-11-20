@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-19T23:44:37.969511+00:00",
+ "generated_at": "2026-11-20T00:14:42.011857+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-19T23:44:37.969479+00:00",
+   "fetched_at": "2026-11-20T00:14:42.011827+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+     "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T00:10:04+00:00",
+     "summary": "Search for survivors continues near Yenne as migrant arrivals in Spain&#039;s Canary Islands surge by nearly two-thirds.",
+     "image": ""
+    },
+    {
+     "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T23:58:40+00:00",
+     "summary": "Houthi missile fire has rocked Riyadh&#039;s financial centre as the Iran war leaves &#039;lasting marks&#039; on global energy.",
+     "image": ""
+    },
+    {
+     "title": "California\u2019s top lawyer subpoenas Nvidia over Jensen Huang\u2019s affair with suspected Chinese spy \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T23:54:58+00:00",
+     "summary": "State\u2019s attorney general Rob Bonta says \u2018conduct of Nvidia and its former CEO raises bright red flags\u2019 as he opens investigation Sign up for the Breaking News US emailThe National ",
+     "image": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=140&quality=85&auto=format&fit=max&s=c5876a95b1c70551c14f01e06a36bd87"
+    },
+    {
+     "title": "How did Anthropic's stock market debut unfold?",
+     "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T23:52:25+00:00",
+     "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f6/live/c6d10db0-e472-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "Trump posthumously pardons US baseball legend Pete Rose",
+     "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T23:51:50+00:00",
+     "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
+    },
     {
      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
@@ -38,14 +78,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9306/live/f4b27990-e31d-11f1-baab-4b3b35d174b7.jpg"
     },
     {
-     "title": "Trump posthumously pardons US baseball legend Pete Rose",
-     "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T23:18:43+00:00",
-     "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
-    },
-    {
      "title": "Florida to carry out record-breaking 20th execution of the year",
      "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
      "source": "The Guardian",
@@ -70,7 +102,7 @@
      "image": "https://i.guim.co.uk/img/media/0597a7b783b29524050eee8b5879eb87b0390a16/0_0_3030_2424/master/3030.jpg?width=140&quality=85&auto=format&fit=max&s=f11bb8942659bcaec4d8bf7aaa0dc5c4"
     },
     {
-     "title": "California probing whether China improperly acquired Nvidia technology",
+     "title": "California targets Nvidia in China AI chip probe",
      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-19T23:04:30+00:00",
@@ -84,51 +116,35 @@
      "published": "2026-11-19T22:58:48+00:00",
      "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
      "image": ""
-    },
-    {
-     "title": "From premature baby to social media star - Famed hippo Fiona dies",
-     "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T22:54:03+00:00",
-     "summary": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/df1a11d0-e46a-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "California\u2019s top lawyer subpoenas Nvidia over Jensen Huang\u2019s affair with suspected Chinese spy \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-19T22:50:57+00:00",
-     "summary": "State\u2019s attorney general Rob Bonta says \u2018conduct of Nvidia and its former CEO raises bright red flags\u2019 as he opens investigation Sign up for the Breaking News US emailThe National ",
-     "image": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=140&quality=85&auto=format&fit=max&s=c5876a95b1c70551c14f01e06a36bd87"
-    },
-    {
-     "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-     "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T22:48:22+00:00",
-     "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d77/live/35f78600-e465-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-     "title": "Major anti-gang offensive in Haiti kills 34 suspected gang members",
-     "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
-     "source": "\u00a9 Fildor Pq Egeder, Reuters",
-     "published": "2026-11-19T22:31:25+00:00",
-     "summary": "Haitian security forces launched a major offensive on Thursday to retake Martissant, a strategic corridor linking Port-au-Prince with the country's western and southern regions tha",
-     "image": "https://s.france24.com/media/display/181d54d6-e1f7-11f1-a490-f71d22e7fea9/w:1024/p:16x9/2026-11-12T233346Z-695546907-RC24MOACBCCE-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-19T23:44:37.969495+00:00",
+   "fetched_at": "2026-11-20T00:14:42.011841+00:00",
    "stale": false,
    "items": [
     {
-     "title": "EU to summon Russian envoy over strikes on Ukraine's capital Kyiv",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0JHRnp4RWw5T0xEY0hYcUxuWS1vclNhd3lsZFFfQ2FpTUM5YkZRVk9GOE05TkpaLXM2SUJPTkR1LXc3bjVqOFM4dEhjV2tXQ0pzTGwyR2tsWk1LTmEtREhFNk94cmc5dDdOUGxGSjVwRm05bWlabnhwY1p0aXY2UENmWVpkcnJ5NWVLY0dqLVRxR1pucHN2Sm1nVDl1T0RpWFE?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-19T23:33:19+00:00",
-     "summary": "EU to summon Russian envoy over strikes on Ukraine's capital Kyiv&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T23:58:40+00:00",
+     "summary": "Houthi missile fire has rocked Riyadh&#039;s financial centre as the Iran war leaves &#039;lasting marks&#039; on global energy.",
+     "image": ""
+    },
+    {
+     "title": "Kushner says Russia \u2018comfortable\u2019 with NATO-like guarantees for Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlJnSGR1SWI4TnZ5UHc4TzlBc215UXN4ZVRvYVZ0OHc2Uk9uTjN6N2hPZ212Z090eXpHWFB1bTgxVDFhSnBhOWFONkJ5NlU4cUNoWXNVYUpHR2VuOWtuT3pXa05QclJoM0kwZ1RmYnZPaHA4cVg3eU9WVjUtTVBKUG8zeGdWVkxVYXV5dUl2dk9raWFhTFFzVXlsWEVKbHZseUFpb01CLVQ5d9IBrwFBVV95cUxNLVN5MWFBRlFfZzZxY3g3amFZUktOcnM0XzItRFkteVl2dEM2c2Utem5kVU9EaXZmLVR5NmE2Y0tSOTM3cjF3VXdySmNMdE13OV9kQ0dQbG9XSWFvSWs4ZDJlYVVhMnRZZHF0c2RsazJwTnlvZkVIU3BacGRpUmtjMnVPeFd1Wlhqay1CMTVYUlBZTHowb2ZtZ3RkSW1FMjdQakFWakJnaUVTdUtCZTNF?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T23:42:52+00:00",
+     "summary": "Kushner says Russia \u2018comfortable\u2019 with NATO-like guarantees for Ukraine&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "FEATURE: Japanese cherry tree breeder plans final peace gift to Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TRmVuMEJXYTQxQ1d3R2pwdHFwREhVdnJKdHoyNnpwRjFzbXlwVGpHbkVVRUx6bXZ5cHpWckFOZEZYdzZ2S0NkZjdqOE5ENUVaRE5tbFNzSDFJdw?oc=5",
+     "source": "Japan Wire by Kyodo News",
+     "published": "2026-11-19T23:40:00+00:00",
+     "summary": "FEATURE: Japanese cherry tree breeder plans final peace gift to Ukraine&nbsp;&nbsp;Japan Wire by Kyodo News",
      "image": ""
     },
     {
@@ -202,43 +218,67 @@
      "published": "2026-11-19T23:02:00+00:00",
      "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 20, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
      "image": ""
-    },
-    {
-     "title": "At China summit, Trump calls Putin 'my friend' amid Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnNoSzcxZmxzUHozZl9pd0I2ZF84bklmMjJHQVo4Vk1CWENZdWlhaXVYcE5ndXdoUmxwc3FWWGJFM1dLN2QwakE5cHN3NXhIeHVoU0RFT0l3Vk94WHhRTDBFV0ZYVlhRc29TLVpkX1BoV1Q4M0JBQ2VaQzhGTWV5WVB6SXZVNkZET1BDeDlUN0NGYWIzNF9QcVk1R2lRUFJ6bDdtQnpn0gGrAUFVX3lxTE9tUzNoaTJpa0tpSmFlQ09wZk13Qng2SlJXX2d2NldEYVdxdm5kQ09FTWRWWG5ycjdSNmxmU1VfUlA0eUZPb1ptanBxaGc1MEV6S3M5amxqRUlhMG95VE9FQmxLdVhja25lcWtsbFQxQXd1Nzlfdm5DOEhQNkpzdHV2R2JiVmtvbkRFSlJNOE9FSXROdHVuSVo1SUZSeXNfSVhsdFJKYkhjcnhtVQ?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "published": "2026-11-19T23:01:19+00:00",
-     "summary": "At China summit, Trump calls Putin 'my friend' amid Ukraine war&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-     "image": ""
-    },
-    {
-     "title": "Thursday, November 19. Russia\u2019s War On Ukraine: News And Information From Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONTR3c1N5dXplOU1SamZhNnhxVjRDdThMdUI5QllLX1FWR1NBakdHQ3lBWHVmcUVKTXVPOGZMdlJGV1l5WHlHUHJ2Ny1RUGJ3X0hfc3V1NlE4QVZ3MFhOM2RXRGFrR0UzeGtvNVpWNE82QWJhdVVWVHFEMUU2YnBGYkVmc2pycFRiOFBWN3RtbWxQZw?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-19T22:59:07+00:00",
-     "summary": "Thursday, November 19. Russia\u2019s War On Ukraine: News And Information From Ukraine&nbsp;&nbsp;Yahoo",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-19T23:44:37.969499+00:00",
+   "fetched_at": "2026-11-20T00:14:42.011845+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Healthcare After the Election: What Comes Next?",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVJpS3NyVVJaZ3dlUnNjOXNpNm00cERfNVNyOXlpQlZ2NFptNWVaSGJWTmE2U21vMHZlOEZQMWw3MGh2Qy15NndfOUp1US1GakRISUNBSVBKSG1JQm5KYm9vSmVwRF9JbjRmLXMyMWMzSzBoc3FPV3N5XzRZbk5nUHVvSVY5ZXlyWnVXOEg3UQ?oc=5",
-     "source": "Sheppard, Mullin, Richter & Hampton LLP",
-     "published": "2026-11-19T23:39:54+00:00",
-     "summary": "Healthcare After the Election: What Comes Next?&nbsp;&nbsp;Sheppard, Mullin, Richter & Hampton LLP",
+     "title": "La Crosse County audit confirms no errors in November 2026 election results",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPclY1STk4RkpUZEg0ZXZWcFM1bXhSd2drRGowREpOR3c2dnZRWldhZVhiTmR3bFc1Tjd3YmdIWlpDZWljcEd0MUpzZWRPNm0wZXdyZ1BrMnZ5Um5rQmpxYV8taWFld1BiaUllaGlIU1htXzRkMUxhclVQMlRZN1NIZWx2dmZhZjk2bXFqdGtQdUplM0lPOTBSSmROSmZUTHdCdTM5WHB2a2Jza0VmRXM0ZENpUG9oeWs2RWV3MlFXcHpRbi1NbVdZMG5kbHl6ZTlIQ2VvcFRYcVpselBEV2xoVXRMSmJIdmtnTHFxaHhVdUZLYUVNZ0E?oc=5",
+     "source": "WXOW",
+     "published": "2026-11-20T00:00:00+00:00",
+     "summary": "La Crosse County audit confirms no errors in November 2026 election results&nbsp;&nbsp;WXOW",
+     "image": ""
+    },
+    {
+     "title": "Trump\u2019s pick to lead election security agency says Jan. 6 was not an \u2018attack\u2019",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnRxQUdxVm95OTZLNTVlVk1Bb1R2VVVLMHlUSDlUdUhtTVlkRldKWTlPa1Y4Uk1uRC1PR1FuTEFYLVBiWV9hYlJCVEdubGVHT1c3QkRxRW9UejBseGs1dUhpejZCdmo3b3VyMFBETDVGZFgwa040T3RsV0pXQWJZOUFzV3FzTkxYUHB5azJic3VhanhoTENSdWZKN0JrWHdlbENyMHNDNEZJbFhfUm9HZ3ZWbzYzLWNn?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-19T23:58:35+00:00",
+     "summary": "Trump\u2019s pick to lead election security agency says Jan. 6 was not an \u2018attack\u2019&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "Minnesota canvassing board certifies 2026 election results",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdkhKMkg2QTctVjE5c2MzcnJUalBHQ2RBZ0MtRmlhWXh0Q1JyWkxRY3kyWE96SDVhQmxaQ3Q5NTBFOUNiUFZTalBaWWkxN0RWUG8tbjQ5SXQ4V1NybXcwYXpxeEhCenJlSUQ2eU0xd1o1Q0hrRHU1U3lJTkxGLUVlYncyYTJPLXRDeWZkYWZONG5CNWNXVnNXczd2VVdLdw?oc=5",
+     "source": "KTTC | Rochester, MN",
+     "published": "2026-11-19T23:52:00+00:00",
+     "summary": "Minnesota canvassing board certifies 2026 election results&nbsp;&nbsp;KTTC | Rochester, MN",
+     "image": ""
+    },
+    {
+     "title": "Santa Barbara County Midterm Election Surpasses 64% Voter Turnout",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnNDb0dfdUZHOVNrVEJiTjktTExBQno2bGpiYkI0aEVpVTk4WHdqd0JkUjhHd05mamQtbnJpbWFzWG9WYWNoeWpWRjRjMWJGNVVLb3BZSEFOR2hfQnctVTAxa0ZvVDlfRGdnM3JvN3dFOGlCSEtWcXZmWXdIYWhQQ280MGkyUlVmenRxQzU4ZmtuaVlT?oc=5",
+     "source": "Noozhawk",
+     "published": "2026-11-19T23:50:37+00:00",
+     "summary": "Santa Barbara County Midterm Election Surpasses 64% Voter Turnout&nbsp;&nbsp;Noozhawk",
+     "image": ""
+    },
+    {
+     "title": "Election 2026 Alaska Senate",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUms4akpfODY2dE5ZT2JBd0d3VW1ZZmlvMDhSa2c1V0Z2S0tWdE14X25ma0hGa2JDZDB3VlBNd29kNHFEeUVRa3g5TEY4SFdPTG9uTGt4YWh1eUhlUTN5eU1vOVozMC1CQUVRdW9LYWdYYjh4OUVYazhyRXJ6QUt2NG5hSEhzVDNsMGRjd2tfUzMybDdtaThyMW5HTzFLTVRJcTk1V0J2eEZrUnprVmE4N1JfeGNhN1pvM2lHaVM5dV9PS25Ca1FR?oc=5",
+     "source": "Columbia Missourian",
+     "published": "2026-11-19T23:45:45+00:00",
+     "summary": "Election 2026 Alaska Senate&nbsp;&nbsp;Columbia Missourian",
      "image": ""
     },
     {
      "title": "State canvassing board certifies 2026 election, but recounts still pending",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMXcwLTVKbmN0VDhYNDJnVklFbUlyX0NoSkhjMjRCN2xJYTNLZmZGRk1ab0lQT01wSWtvaVNWUFExT1pSTDQ2dEwzVzMxZ0NHN29nWGlwWDhEb1VxWVltc2RqUHgydjVBWEkwd19ZanVtYk1JYVBJWWhyS0dUT0wzajNlS3cycDJlR21YbVJvOUJKa2xLNVZmc1VUWEV6YnVVX3dMck1KenhmN1VadE9Ybk1ZSE5iLVd3dWRQSVJQRW42anhkZ3FOdmxvY2MwdUJWTGV2VmMxRjlRYVVrOEdocGdMZV85YnZIcXRuTEhnWQ?oc=5",
      "source": "kare11.com",
-     "published": "2026-11-19T23:38:01+00:00",
+     "published": "2026-11-19T23:43:28+00:00",
      "summary": "State canvassing board certifies 2026 election, but recounts still pending&nbsp;&nbsp;kare11.com",
+     "image": ""
+    },
+    {
+     "title": "Healthcare After the Election: What Comes Next?",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVJpS3NyVVJaZ3dlUnNjOXNpNm00cERfNVNyOXlpQlZ2NFptNWVaSGJWTmE2U21vMHZlOEZQMWw3MGh2Qy15NndfOUp1US1GakRISUNBSVBKSG1JQm5KYm9vSmVwRF9JbjRmLXMyMWMzSzBoc3FPV3N5XzRZbk5nUHVvSVY5ZXlyWnVXOEg3UQ?oc=5",
+     "source": "Sheppard, Mullin, Richter & Hampton LLP",
+     "published": "2026-11-19T23:39:54+00:00",
+     "summary": "Healthcare After the Election: What Comes Next?&nbsp;&nbsp;Sheppard, Mullin, Richter & Hampton LLP",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-19T22:57:35+00:00",
      "summary": "Apple rejects Epic\u2019s \u201ccoercive\u201d sanctions demands&nbsp;&nbsp;Global Competition Review",
      "image": ""
-    },
-    {
-     "title": "Election results: Dailey, Varela, Nguyen win Santa Clara Valley Water District races",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUEN4S280dU5acEtQQ3A5R0Nwb2VoLVdzRDVKbnBBUUlfakRWUlJncV81UGh5LTZ3YkJpYnZoUEg3M3hreHFmcmRmT2FzcDBIbXRUR0dNTGoydUNHMnYyYVV3enNVUEs1Um1ZaGg1SzdXNl9nMDVhc0QtV2E4QVJ3aDloeXBaTVJwb2pycUNvOHVHX21pX25DSnNhcDVvcERSODVUMXRBMmJGcDZKZ19FSmRPOFNsTklmc0pfSDBR?oc=5",
-     "source": "The Mercury News",
-     "published": "2026-11-19T22:55:20+00:00",
-     "summary": "Election results: Dailey, Varela, Nguyen win Santa Clara Valley Water District races&nbsp;&nbsp;The Mercury News",
-     "image": ""
-    },
-    {
-     "title": "Georgia Secretary of State-elect Penny Brown Reynolds announces policy priorities",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHdWUUhYbnZWVEhDNDdmRkVYR3owZV9FWGlpZjB1cVVQSUxnWXlCNUpXTE1Udmc5STkxWEpkcWFBZE9fS1pBQnRUaDJyUjhHcGtRa0NzR004Q3RGZlRDWVl1VDlVNHgxODBxMHhKMmdNdmIyN1Q0Z2RZZWNPWmZNMGFiT0ZqdE1MamRoYm1Gd2JEREZuZnJ0cjNhN3J5OVljeko0ZDFaYTRUcFRQbTlJeGFNd2Q4Wmll?oc=5",
-     "source": "Georgia Public Broadcasting",
-     "published": "2026-11-19T22:50:01+00:00",
-     "summary": "Georgia Secretary of State-elect Penny Brown Reynolds announces policy priorities&nbsp;&nbsp;Georgia Public Broadcasting",
-     "image": ""
-    },
-    {
-     "title": "Indigent defenders: Crumbley attorney sanctions chill advocacy in court",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSy1pVGZoZktwSHZnWDlncnF6eEMyYU93SkRBLUgybVlndlByNnBkUERQWEpiRnozeE8xRXdjQWxDTndrczBrNkdpU1B6Q0xMVmZHN2YtSlUydTYxVTVMTkdHSUFQd2FNR2NkSF9LYWd2NGRQRVgzWkNFVURCdEllUmYyMHZnMmJMdW1iXy1fR3hkUFBlYzJkYnpDNW4xQl9BcnVuN0w4ZUhlaGZzT194aXBxbzNZbFJiVHduVUU4UGdLX3hVUHFVM3NySVg5OHVMYWMyQTlRQW80b0pudmN1LTV1TlJ5eG9kX1E?oc=5",
-     "source": "The Detroit News",
-     "published": "2026-11-19T22:50:00+00:00",
-     "summary": "Indigent defenders: Crumbley attorney sanctions chill advocacy in court&nbsp;&nbsp;The Detroit News",
-     "image": ""
-    },
-    {
-     "title": "OSC Issues RFI for Space Policy Advisory & Research Services",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa1JNSUZocDlTR1Z3cHZHM3hUZHk2WW5HcEt6UzVJZnREcEV4SjNxNzFIckh4YUdQcllQU2ptTTJ3QzRDYjFjaHdFV3ZiVDV5b0RJYUU5Vy1zMzRlVlVmYkF4czJnSlM4di1qWHN0dTZ1Q2FFcGxYdFFKb0FPbTBWajBORU5MQnpzTHR1akxsYVNnZ0V6?oc=5",
-     "source": "ExecutiveGov",
-     "published": "2026-11-19T22:34:29+00:00",
-     "summary": "OSC Issues RFI for Space Policy Advisory & Research Services&nbsp;&nbsp;ExecutiveGov",
-     "image": ""
-    },
-    {
-     "title": "Policy Leaders Eye Opportunities for LIHTC Market, New Congress",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQzZZaHRFeUE1NFp3bEV6YzZNN0VENkUzMUNIdzdxOTRGempmUFdHVmhwYVhHY0lIeFl1TGw1SmhfLW4zVnFTU1d4S3RGelc1T1FSOUxPTWwzTEw1WlF5b254RjhTME9SajZzQW03RzVpWXdfNUJiSHZUWEhOdjdoYkJLM1F3WjJPS1JfWFdzWXFVczR4cFktSU5lVjhnN0Z3bTVKWjlWUUI5clhNTHJYNG5OQ1pFTDVfQjM5emVGbw?oc=5",
-     "source": "Affordable Housing Finance",
-     "published": "2026-11-19T22:22:53+00:00",
-     "summary": "Policy Leaders Eye Opportunities for LIHTC Market, New Congress&nbsp;&nbsp;Affordable Housing Finance",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-19T23:44:37.969502+00:00",
+   "fetched_at": "2026-11-20T00:14:42.011848+00:00",
    "stale": false,
    "items": [
     {
