@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T11:46:35.880287+00:00",
+ "generated_at": "2026-11-20T11:46:50.702638+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T11:46:35.880253+00:00",
+   "fetched_at": "2026-11-20T11:46:50.702589+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T11:46:35.880269+00:00",
+   "fetched_at": "2026-11-20T11:46:50.702604+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T11:46:35.880274+00:00",
+   "fetched_at": "2026-11-20T11:46:50.702608+00:00",
    "stale": false,
    "items": [
     {
@@ -247,14 +247,6 @@
      "source": "Alabama Reflector",
      "published": "2026-11-20T11:16:01+00:00",
      "summary": "Auburn University Board of Trustees to vote on new post-tenure review policy&nbsp;&nbsp;Alabama Reflector",
-     "image": ""
-    },
-    {
-     "title": "Warren County Board of Supervisors Vote for Special Election for Sheriff Appointment",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHpNd0tZUHR1NEFzOElGVW41UnF6WHg0TXRDcHFhOUVRZF9VdndTMmh1REVhamJtenJDYVl4THRtNE9kd3VBY1hqb1F0dzJTTHBpLXRieUlpYmUtV2lZQlJhMlRmc29qeTQ5UW1tVHM3LTVkRFphcGJVaWZvUV9CVnRXTnpUNmdGTVpISzl0R1BULVpyWDVkMURPa2lnUkZBVUxVMVJRSmtGWG9vRlRz?oc=5",
-     "source": "KNIA - KRLS",
-     "published": "2026-11-20T11:03:59+00:00",
-     "summary": "Warren County Board of Supervisors Vote for Special Election for Sheriff Appointment&nbsp;&nbsp;KNIA - KRLS",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-20T10:45:00+00:00",
      "summary": "Butler County Republicans debate what went wrong during midterms as election margins shrink&nbsp;&nbsp;Journal-News.com",
      "image": ""
+    },
+    {
+     "title": "Spanish premier, opposition leader clash over corruption, housing ahead of election",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWlyWlRZZnpJc2tRbko0Z0hwSndiSVVpUjVyYXBZTVlmSjlySVpIVXJlYTNURXVpQmhyZHJwM1dyakZENE5KQzZ3b241OUpZRHZfdzhheExUWjdjSlRlVGY5MFMxTFY4U29ld1B0QUVwYmEtLW9JX3U5MDdjaXdHdWE5ems0VVMwSFNxdkM5STVRX0RkeEtGbXBVdlN5MkEtRlJoNWpkV1pWRFR0S3FwRjJHSzhWU1BNQkY2NHVR?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-20T10:43:04+00:00",
+     "summary": "Spanish premier, opposition leader clash over corruption, housing ahead of election&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T11:46:35.880277+00:00",
+   "fetched_at": "2026-11-20T11:46:50.702611+00:00",
    "stale": false,
    "items": [
     {
