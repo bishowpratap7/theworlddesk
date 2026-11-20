@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T16:47:32.416175+00:00",
+ "generated_at": "2026-11-20T16:47:45.717550+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T16:47:32.416144+00:00",
+   "fetched_at": "2026-11-20T16:47:45.717507+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T16:47:32.416159+00:00",
+   "fetched_at": "2026-11-20T16:47:45.717521+00:00",
    "stale": false,
    "items": [
     {
@@ -161,6 +161,14 @@
      "source": "The New York Times",
      "published": "2026-11-20T16:05:55+00:00",
      "summary": "The War Is Ravaging Ukraine\u2019s Wildlife, Too&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "U.S. President Donald Trump Urges Europe to Halt Ukraine Funding",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkJfbzFVWWF6Q2FncFRlcXBMMS1EX0ZjaUpldmFTYXRrNFZOemUyeUh5SXp6MERhZUVIeDQ0ekhaLVJlNWJIcllyY21zVnRVelBjdHhuWTE1NzNveWRHT3dmLUc3RnlsN3dLMUthSWZnRFhjcVNWMkRObHVfSU5uTlJxRlI?oc=5",
+     "source": "\uc870\uc120\uc77c\ubcf4",
+     "published": "2026-11-20T15:56:15+00:00",
+     "summary": "U.S. President Donald Trump Urges Europe to Halt Ukraine Funding&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
      "image": ""
     },
     {
@@ -210,19 +218,11 @@
      "published": "2026-11-20T15:37:05+00:00",
      "summary": "Xi Jinping positioned himself as a great statesman when he met with the US president and Russia's Vladimir Putin for trilateral talks in Shenzhen this week. But while the Chinese p",
      "image": "https://s.france24.com/media/display/2bb9420a-e4f1-11f1-aeb6-13439ca2fe89/w:1024/p:16x9/TRUMP-JINPING-POUTINE-000-D7XR8CA.jpg"
-    },
-    {
-     "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZVRXJNQ1h2Z3Q2VzhYNjRCSF9TRUQ1dlA5cnJHcGNVZVFtOExfS2tXSF91UGE0U3V3djRERGdPc1dSZXUxSmxoZEpvckxDVGFYQ2RmODJYd1BRcXBhNGV1QlllSGgtREFmTjg3VzVOTEpZRWlHQWFCTFlMU2RwZVpFaXVfV2lINlg1NjJfTDdNZU1GOEE?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-20T15:37:00+00:00",
-     "summary": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine&nbsp;&nbsp;The Guardian",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T16:47:32.416163+00:00",
+   "fetched_at": "2026-11-20T16:47:45.717525+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T16:47:32.416165+00:00",
+   "fetched_at": "2026-11-20T16:47:45.717528+00:00",
    "stale": false,
    "items": [
     {
