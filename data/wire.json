@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-20T22:48:51.438641+00:00",
+ "generated_at": "2026-11-20T23:18:56.014881+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T22:48:51.438614+00:00",
+   "fetched_at": "2026-11-20T23:18:56.014854+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-20T23:09:57+00:00",
+     "summary": "Labor says allowing mine to increase production reflects \u2018gravity of situation facing hundreds of workers\u2019 \u2013 but critics call it \u2018unprecedented and dangerous\u2019Get our breaking news ",
+     "image": "https://i.guim.co.uk/img/media/b24b376c3c4ded825f413fd2ac48655f5fcb5e3c/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=0bf10c399ce4d8386b40e0e8eef67063"
+    },
+    {
+     "title": "US police departments warn GTA VI users to \u2018keep it in the game\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
+     "source": "The Guardian",
+     "published": "2026-11-20T23:02:30+00:00",
+     "summary": "Although there is no definitive link between violent video games and behavior, departments take to social mediaWhile critics have been raving after the recent and long-awaited arri",
+     "image": "https://i.guim.co.uk/img/media/589ef3157396f2a51452956b4b33336ffae07539/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=6d06ed40a662fe8d7f67a83204af9ba6"
+    },
     {
      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
@@ -26,7 +42,7 @@
      "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
      "source": "The Guardian",
      "published": "2026-11-20T22:23:53+00:00",
-     "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security camerasThree French police officers who beat a black music producer whom they",
+     "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security camerasThree French police officers who beat a black music producer they said",
      "image": "https://i.guim.co.uk/img/media/e744f4dacdb4a945886bcb2886956ca9b6a2f39e/797_1_3568_2855/master/3568.jpg?width=140&quality=85&auto=format&fit=max&s=3d8125feb06722ff5542c1d5921cbe88"
     },
     {
@@ -100,29 +116,29 @@
      "published": "2026-11-20T21:32:31+00:00",
      "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible",
      "image": ""
-    },
-    {
-     "title": "Iraq PM targets militia stronghold in bid to assert state control",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T21:28:25+00:00",
-     "summary": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
-     "image": ""
-    },
-    {
-     "title": "'Licence to kill': French parliament adopts police shootings law slammed by activists",
-     "url": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
-     "source": "\u00a9 Geoffroy van der Hasselt, AFP",
-     "published": "2026-11-20T21:17:59+00:00",
-     "summary": "French senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-",
-     "image": "https://s.france24.com/media/display/84d2817a-e524-11f1-9187-1bac47ab2f5d/w:1024/p:16x9/000-C8TV3VK.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T22:48:51.438626+00:00",
+   "fetched_at": "2026-11-20T23:18:56.014869+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US police departments warn GTA VI users to \u2018keep it in the game\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
+     "source": "The Guardian",
+     "published": "2026-11-20T23:02:30+00:00",
+     "summary": "Although there is no definitive link between violent video games and behavior, departments take to social mediaWhile critics have been raving after the recent and long-awaited arri",
+     "image": "https://i.guim.co.uk/img/media/589ef3157396f2a51452956b4b33336ffae07539/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=6d06ed40a662fe8d7f67a83204af9ba6"
+    },
+    {
+     "title": "Russia open to \u2018NATO-like\u2019 status for Ukraine \u2014 but only if Putin can keep captured territory: US official",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRm5kc29DenpEN2FPQTdZUkxkYWhMUkMyMVNuRE9KOHoycmk3UmNITHF5cE9aZHRjanZUMzFieTdqNTZYdEdiaTlVbThmUkhNLThCa1kwRDFzeXE2dHVtQlItMDZ0azV4elpZakJ3eTFRRktwNHQ1Yl9kelBSM3RIcl90QjAyQ3ViQk9kdlJhQXUwWjdmeWtzQlJVX1J6S3FZbXBsZzVfb1VtX0FtN2NHUlQyWldVVmxYUnVibzhKeEQ4NkwtWjRtTHdUbW1XXzFFX09jSUNHZ0hFQQ?oc=5",
+     "source": "New York Post",
+     "published": "2026-11-20T22:50:00+00:00",
+     "summary": "Russia open to \u2018NATO-like\u2019 status for Ukraine \u2014 but only if Putin can keep captured territory: US official&nbsp;&nbsp;New York Post",
+     "image": ""
+    },
     {
      "title": "Melania Trump Stresses Humanitarian Efforts at Chic Premiere for Two-Episode Series Documentary Follow-Up",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSjQ4QVFKNkxSbzAyYmpCTXlRQm92czZVdUVsYkptbUgtbWtfcFVPbFNtOF9xSF8tTlZVbUVTTGJpZUR1UkZaUHY5UklOWW9FZzRhaTRmRlZGdVZtU0FaamNqVWgzQ3FwWWF6UWw5Nks4cEZkQm1odEFuZlA5S2pNVkNFSnVvQUM1WVlqQzd0S1E3Z21YY3pseUtjNEFsczdMdkxicHhhWWllbFdLWVJwZ1lSak8zQ19lcVlJ?oc=5",
@@ -202,29 +218,29 @@
      "published": "2026-11-20T21:17:59+00:00",
      "summary": "French senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-",
      "image": "https://s.france24.com/media/display/84d2817a-e524-11f1-9187-1bac47ab2f5d/w:1024/p:16x9/000-C8TV3VK.jpg"
-    },
-    {
-     "title": "Trump threatens tax on US tech firms building AI data centres abroad",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T21:10:53+00:00",
-     "summary": "US President Donald Trump warned US tech companies will face \u201ca tremendous tax\u201d if they build AI data centres abroad.",
-     "image": ""
-    },
-    {
-     "title": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian \u201cprovocation.\u201d The incident came as Poland was hosting a two-week military exercise",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjdpRkpWT3F0b2lESHdXWXY5QlVaRlMxbFYzaWh4ZmVNWnNWdW5Pb2Y4VHQ0a3FXN1E2M1VRcE5QYnRGejVBd3A5eTUxOWc5b2Y5bFpSRklTUURWTmo5VWRyOTFXZkFDZGFHT0doT0tjOWt0LXVsUU1SWk93ZzNXeHlRZDFKM3A2bVlYYldtb3ZXN0xTUGJYeG9XWUlSUDFkckgzdmFUSi1qUnMtVkgwS19tMlRXWTc2amFVLTU0bHhFT1VLLU9JSzA5TDNjWGJNaHF2cA?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-20T21:10:11+00:00",
-     "summary": "The New York Times. . Poland on Friday said three Russian objects, including at least one missile, crashed onto Polish territory, denouncing the episodes as a likely Russian \u201cprovo",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T22:48:51.438629+00:00",
+   "fetched_at": "2026-11-20T23:18:56.014872+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Mail ballots need a \u2018cure\u2019 to decide Turlock council race. Candidates knock on doors",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlREOXpaWUtZWlBTV1lSQndMc3J4dXh3NGU1d2FpWjIxQ3JBSjVaQTd5VXNIT05TRE8yQ3NibU80NzBXQVoycnVfdDltSUFJMHlZWTVIM1VReEMwbkdhNnRkbFM4WFloa0pMM2xWM2llNk54VE8tMHFwSTMzbzJES2NSanrSAYQBQVVfeXFMUHJDZ3A4T0VwTmpUMlVySUFwSlB2bHZrMFRPQng2cmNTY0JBUzNRTGpRNC0tXzNzakhTLVIxV2p0a3FRUk9JcjFGTFlvbVF6MzJEZWdmM3pmOUExWExXb0JudFVsR095b3lrSlBPNC1pcHdnVUxnSEtvV1h5VFJIdG9XT3pp?oc=5",
+     "source": "Modesto Bee",
+     "published": "2026-11-20T23:09:51+00:00",
+     "summary": "Mail ballots need a \u2018cure\u2019 to decide Turlock council race. Candidates knock on doors&nbsp;&nbsp;Modesto Bee",
+     "image": ""
+    },
+    {
+     "title": "President Trump discusses China AI race & diplomacy in lengthy press conference",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2pQcU15OGtRN1I2cGxWNHJHZUJjSi1KdmQxdUZKZGZFOGZMNkl0LTZ4SU9LRXd4anV4U0pnRHgxVllVQTlCX0FOdHl2Z2o4NWhmVlY1NW1XREpSbnhSNGI4QV9ENzA5WkZMcEQxbHRPcE1EdDljaXZSQTJQWFotRExCUmswcnBsazMzR1AtYUdTdXl5Vk4tZmx1SmwwV2tTd0dWQmI1QTEydHMyTlN1TEdTRHZjWFctOTNEeko1aw?oc=5",
+     "source": "NPR",
+     "published": "2026-11-20T22:59:08+00:00",
+     "summary": "President Trump discusses China AI race & diplomacy in lengthy press conference&nbsp;&nbsp;NPR",
+     "image": ""
+    },
     {
      "title": "Brazil investigates alleged foreign interference in presidential election despite Lula win",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGNGRmpJLU9wNkV1WE1FMlhNXzkwNW1QNERMQmNvSXF3RjdScXZTTDNRWHRvUW1rc0xpb1V3VGdtVkFwUXVIdGlPVEp0eDhPWi1XMVp3TFJmZzRLTHVIeVJia2dnSThpSnJUSkE0VVNmN1JoUUtpemh1RGlEWndWU044TUdRWHBKLU5zOHdzTHAtQVBYWjhxUkE4dEJETm8tXzZkU0V1RW13WjUzUTh3cG1aelZyN0JhNFAwbE1kNA?oc=5",
@@ -269,7 +285,7 @@
      "title": "Screwworm border closings have policy, economic implications",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUNYNVl2NXJSSE9IWGxLZWYzalBtdVI0YzZ1eDd3UU1MemZKeUU5a2Q3NXhnVWVlampkN0pqNGNGUUVaSDZpaDFQVG82bDZ3YW85OWhUelRWZ19jNmVEcUltY3Q4Tk1BdklGZUxmaVlFZzZEVGFiUmFGUTlqMGVOZ2ZjeWdXbVVnOUtYZzZTVmxzMU1KYk5BWk4xb096OTdXcWc?oc=5",
      "source": "Beef Magazine",
-     "published": "2026-11-20T22:16:56+00:00",
+     "published": "2026-11-20T22:17:36+00:00",
      "summary": "Screwworm border closings have policy, economic implications&nbsp;&nbsp;Beef Magazine",
      "image": ""
     },
@@ -304,27 +320,11 @@
      "published": "2026-11-20T22:05:57+00:00",
      "summary": "Weekly Wonk: For the seven generations before us and the seven yet to come | OK Policy and Together OK\u2019s 2026 Listening Session Report | Tribal sovereignty exists beyond Native Ame",
      "image": ""
-    },
-    {
-     "title": "Center on Budget and Policy spokesperson explains potential harm of proposed SNAP cuts",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYy02bnc0Vml1aUp2cWtNa1Fpd2JFUmhEemx3aFFKMWhQYnZCeGZoWThaWnVHNkRDUmxQNU9PVW9LUy1GTDI5bUhMTkxINFJEdWpUZGQxQ3JJR29wRUJFeUM3UENnWVoyNV96SENWcnZVcFJJelJkSVJtanVGby01aFU3X0ZnVFFBRmJYdElfX0RfOUhiUVNhX0F6aE0yN3N1VFVha1Z6Nkc1NXZo?oc=5",
-     "source": "WABE",
-     "published": "2026-11-20T22:03:12+00:00",
-     "summary": "Center on Budget and Policy spokesperson explains potential harm of proposed SNAP cuts&nbsp;&nbsp;WABE",
-     "image": ""
-    },
-    {
-     "title": "Spanish Fort lawyer drops appeal of sanctions over AI-generated fake case citations",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3hCT1o5Qm8xQXl2QUxMWjRURVBobFdJSUk1QkMxMXowYng3Z3dvelJTTVlOWHNFUmd1X1BUUFBsa3h3SUhTZnVHbnd0LWRIV1RQckR0TkszQjNlMEx5dFRpanNqQW4tWjRfZ0xsaFFHcWVJNlEwUHhTQlFPQkJybWowZWtzRjJqLUR5WmNKVXY4QVNzWnZtVlhSSnFwbzZPLUdLaGhwcU9jWFJvSmRVZ195RERtSVnSAcsBQVVfeXFMTlkxMnBGekVqR25HdWxZenRwVkxPRTdsREdaRzE0RF81RlZSZ2VtaGpmYmZmQUl4TXR5U3V6T1cwaGlmVWFFQ3RHOHNUOVhEZmpkMzFEUFNzd1RST2w3SDFHY0xJd2xsX0FSRWZMNVRaVXBaYnVEZFpYLS1WR216TlV3THZLYUhoUDg0amZYZkswb2Myd0FabEt3d09MTWc2cHkzZ0Y0UlZwbXpJckxYQlpucjB4bkVJMjJkdGZGZUZoOVk2QXFxUzk3ckk?oc=5",
-     "source": "Fox 10 News",
-     "published": "2026-11-20T22:02:00+00:00",
-     "summary": "Spanish Fort lawyer drops appeal of sanctions over AI-generated fake case citations&nbsp;&nbsp;Fox 10 News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T22:48:51.438631+00:00",
+   "fetched_at": "2026-11-20T23:18:56.014874+00:00",
    "stale": false,
    "items": [
     {
