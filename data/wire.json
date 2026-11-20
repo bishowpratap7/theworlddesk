@@ -1,17 +1,25 @@
 {
- "generated_at": "2026-11-20T01:45:05.529806+00:00",
+ "generated_at": "2026-11-20T02:15:09.195013+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T01:45:05.529774+00:00",
+   "fetched_at": "2026-11-20T02:15:09.194984+00:00",
    "stale": false,
    "items": [
     {
      "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-20T01:38:46+00:00",
-     "summary": "Democrat Nancy Peltola was declared winner earlier this week in highly scrutinized Senate race that featured two Dan Sullivans on the ballotSign up for the Breaking News US emailTh",
+     "published": "2026-11-20T02:01:54+00:00",
+     "summary": "Democrat Mary Peltola was declared winner earlier this week in highly scrutinized Senate race that featured two Dan Sullivans on the ballotSign up for the Breaking News US emailThe",
      "image": "https://i.guim.co.uk/img/media/54a728ed2e975155848c4f3d8c0cb7d40a67f7c8/363_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=648414a471444d167dded33dcc654c66"
+    },
+    {
+     "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+     "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T01:29:28+00:00",
+     "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+     "image": ""
     },
     {
      "title": "White House fires national cyber director over widespread outages",
@@ -108,21 +116,21 @@
      "published": "2026-11-20T00:19:57+00:00",
      "summary": "Independent National Security Legislation Monitor says reference to religion has \u2018contributed to discrimination and violence against religious minorities\u2019Get our breaking news emai",
      "image": "https://i.guim.co.uk/img/media/0e521678d13ec104d5165d17b3b36354293bb89d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=092af5190291bf6042a438104a374dad"
-    },
-    {
-     "title": "Why Canada is embracing AI data centres while the US pushes back",
-     "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T00:13:24+00:00",
-     "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d8/live/7f60e450-df9a-11f1-a9ad-6774a3284d10.png"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T01:45:05.529787+00:00",
+   "fetched_at": "2026-11-20T02:15:09.194998+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump says Putin wants to end Ukraine war as Europe weighs role in talks",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zNEVMamNwdzh0aUJwTzhhUVlxc3V6dzl4YlNZemViRGNlOGRldXlEOHFEaTJzVHZjNDlVTkNKR2t5eEZBN2ZLazVURm1NcW9OblIxcGNXM3piNERKZFlTNTBJaElzT0tCZXpF?oc=5",
+     "source": "Mezha.net",
+     "published": "2026-11-20T01:44:25+00:00",
+     "summary": "Trump says Putin wants to end Ukraine war as Europe weighs role in talks&nbsp;&nbsp;Mezha.net",
+     "image": ""
+    },
     {
      "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
@@ -143,7 +151,7 @@
      "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMUkxbVpvaGRUZmdQb2lzVDhjTm1ScTB3R09DeW0wOWwzeWFVdjV1NENnLTJ2NVFhQ3g3YlVvMG1XQU04Skp3c3JvbWRIaEtPT3hrSEgtTG1ueGVRcktMdlB0ZERjeXo2YXBFMFpYOEFLTU4xaFcw?oc=5",
      "source": "Axios",
-     "published": "2026-11-20T01:31:20+00:00",
+     "published": "2026-11-20T01:33:47+00:00",
      "summary": "Trump tells skeptical Europeans: \"Putin wants to end the war\"&nbsp;&nbsp;Axios",
      "image": ""
     },
@@ -204,40 +212,56 @@
      "image": ""
     },
     {
-     "title": "Friedrich Merz Rejects \u201cYalta-Style\u201d Talks Excluding Ukraine After Trump Meets Putin and Xi: how 16 outlets framed it",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU0NldjZWZjFEbjhQYkNzM0wxZ0drZmdRUURBUmExSDE4eEhlcnRTTk1RSU5KNzBzNlhfSkF0NVA2SWRHcVpIY1l0R0ZkV1V3bjAwN2NoTUpQZzVrSFVidFEyT1RIMVlLUGplMUhxWFVKQkVfaVlJa2d2dkJUNTZSSTlqTHBYcG84Nk9UYjU5cm5OSWQwU2xyNTZEMGUtUFVOZDhjN204eTFkYmdKV1BzQ0N2MTY1dWd3Q0xkeW1Ha1ZPSDQzZmRFajFaLVZPNU1iX0ZPWVo3UU5vOEFleVdJUjlUcURzSDhQU3c?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-19T23:22:41+00:00",
-     "summary": "Friedrich Merz Rejects \u201cYalta-Style\u201d Talks Excluding Ukraine After Trump Meets Putin and Xi: how 16 outlets framed it&nbsp;&nbsp;NewsCord",
-     "image": ""
-    },
-    {
-     "title": "Jared Kushner Says Russia Is Comfortable With NATO-Like Security Guarantees for Postwar Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmY5VUlHbUJ2c245TTQ4OUpJVUlKV0JDZWxPODhPZjBuVjVqeUVvTVJEVEhHaW12LVJEcjZkUWtHYkVkTUFqRkI3TWQzRkhiWHlTM2NNWVdpYndLenNURzlmQVlJaDBNMXlaOTN6ajJRcmdIXzZJaHVxUnNtaXFiU1hQUDBoMVpFUFJGYkpVTzlVMzV6bE5aRm9ucER3bjhOaVRIMTRUY1kxNkVwVkpOUk52Y2l2S0hoVWZaY2dPZF9DcnE3WUc4N2ZBV1VLd0ZBemdXMXJlb1BIaWVVOV9XcWwtVFJZNzJL?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-19T23:21:47+00:00",
-     "summary": "Jared Kushner Says Russia Is Comfortable With NATO-Like Security Guarantees for Postwar Ukraine&nbsp;&nbsp;NewsCord",
+     "title": "DW News. . Berlin has hosted the largest summit yet of the Coalition of the Willing, a group of around 40 countries that remains steadfast in their support for Ukraine. New European commitments including more military support, air defense systems and fresh sa",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGJBZmNMWDRUWjdVODkzTDhtdTJZdFkxVHc2c0VWRjdYN0pmTkh6M0xIc19BbVV4WEtpUkhyWkRBMWktcU03QjJCZF9ZdEVVNW5KbnNsX0NGRlVaNEtmYUJXTTdjNExfXzZjXzhwbFhQeWQzRzh4TU5sQVYxaGZVeUxrSHYtdDB1b1hNa19iYm9PN2ZJeDVoZVoxR0M?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-19T23:20:08+00:00",
+     "summary": "DW News. . Berlin has hosted the largest summit yet of the Coalition of the Willing, a group of around 40 countries that remains steadfast in their support for Ukraine. New Europea",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T01:45:05.529791+00:00",
+   "fetched_at": "2026-11-20T02:15:09.195002+00:00",
    "stale": false,
    "items": [
     {
      "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-20T01:38:46+00:00",
-     "summary": "Democrat Nancy Peltola was declared winner earlier this week in highly scrutinized Senate race that featured two Dan Sullivans on the ballotSign up for the Breaking News US emailTh",
+     "published": "2026-11-20T02:01:54+00:00",
+     "summary": "Democrat Mary Peltola was declared winner earlier this week in highly scrutinized Senate race that featured two Dan Sullivans on the ballotSign up for the Breaking News US emailThe",
      "image": "https://i.guim.co.uk/img/media/54a728ed2e975155848c4f3d8c0cb7d40a67f7c8/363_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=648414a471444d167dded33dcc654c66"
+    },
+    {
+     "title": "Justice Department seeks dismissal of its lawsuit in the Alaska Senate race",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmJMTTBzSmdyaWRqdHl2V1pjUnpsRklOVm5iUHhjWGpEbDhCSVBpbDFSUENJWDFKOFpXTTNSMGwtU2ZQZnY4cnVCMFAyOE10S1IxZmkyLWlVVllnOFRTZXhET1dSZllKSEZWeW1zbGxmemlReEJaVGF1MkdoNWx6Y1BXT0lZOXNJRTNSNFZ6dUh2RG1QRkZOMzBkSzhYc2FIQi1IUXVpVl81X2xHVmhPZUxkdUxMdExQTDZzaFZRLWlvN28?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-20T01:59:00+00:00",
+     "summary": "Justice Department seeks dismissal of its lawsuit in the Alaska Senate race&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "Recount underway in tight N.C. District 5 election race, officials await final vote totals",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZld0bXJ0TElxV1pRZFdteXJmZUZ3UWRyYktlc1Rrenl1ck50M1JqbGJ6U1ZZanl3ZC1DUDBrWi1SRHVnS20tMUJoUVkxOE1KVEFWRlhRbTktMUU5R3NKam1CRmtvRzFYaDdmOFV1LXRFMXR5YTZNWFRINnhMOEVVVkdXa0RENEstUG5BbWlvWEpoS3pvNWZvR0l2VUVyQTFSR0dwYjNsZTdocUpteDRUQnBQbzh5QW8?oc=5",
+     "source": "WXLV",
+     "published": "2026-11-20T01:57:12+00:00",
+     "summary": "Recount underway in tight N.C. District 5 election race, officials await final vote totals&nbsp;&nbsp;WXLV",
+     "image": ""
+    },
+    {
+     "title": "US Committee Urges Sanctions Over China\u2019s Detention of Panama-Flagged Ships",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHBQVllrWHAxNTVSQ0FZdlp6N1BkZ01sWEZUVmFvTjdSei0zcnhMR3N1bUx2ZjhXRU4xYmw1V0k4YUZIMDg5ak05bXlzUGR4WWpqNHFXOEZ5cHN0b3doME1XNVNCY2N4MFJKLUh1VTRJaFNNenRuRmVGa2ZGam5CdDRLT0hnc0ttdlN1Q2dUYWRRcHhTZmJBeExFbUlHUDIzZlkxM3JVWG1UT0x2cnI2a2NMLVE?oc=5",
+     "source": "The Maritime Executive",
+     "published": "2026-11-20T01:39:29+00:00",
+     "summary": "US Committee Urges Sanctions Over China\u2019s Detention of Panama-Flagged Ships&nbsp;&nbsp;The Maritime Executive",
+     "image": ""
     },
     {
      "title": "Fresno County leaders eye new transportation tax proposal for 2028 election",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmxJTHJMVHZEMkVGNFFYWFZ2TE0zNTNqdm9KcEtuR0RNbUZfeHdxMmp5Ykl0OGZaaDh3dWhMQkpCTU00d1NJNVJRUWVkTFZHSS1LYmVEdldTTjVmYWF2QXltT29oYWZ2dVluWnl0LTU0c3RKYnRYNnBIS1d0ZndmMnZEUnljN1N4QWN1UTVpeERZX253Z1pXV2NYUy01cVQwR0Vjd0FWY9IBrAFBVV95cUxQTmphOGJMeXNOTkRVckxqd3gtUnhrNVlScWZvYUhCLUpCMGxSbVJCWkpDakRkVVFQdjhjcFJXSHZ6QWFwR3VxZWFnVjdBRDZpSGE1QkdaM2ppand5N1JJbHk1MWxaV3l3aXlxTjJmTlZ1QmRLWXZGWHNwb2ZybTJaRHZQYXEwQngzY2Y2Ul9td2lheFB5NERUektrQVo4ZkNlVlVqTm9KMDBLdXg0?oc=5",
      "source": "ABC30 Fresno",
-     "published": "2026-11-20T01:37:41+00:00",
+     "published": "2026-11-20T01:38:48+00:00",
      "summary": "Fresno County leaders eye new transportation tax proposal for 2028 election&nbsp;&nbsp;ABC30 Fresno",
      "image": ""
     },
@@ -266,19 +290,19 @@
      "image": "https://i.guim.co.uk/img/media/111ee764d1555c6945ee7d005da2426e8ae483bb/88_0_3244_2597/master/3244.jpg?width=140&quality=85&auto=format&fit=max&s=0ac97b5bf427f29f204b519fac109efd"
     },
     {
+     "title": "On the Record: Post-election West Virginia polling gives 2028 glimpse",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlp1d2dId205WkhSTVBTTGRVQ1R1X01pX1g4anhLNE41MHk3dnd5WEJxNVZyX2lOSDdfNGVWQ3gtSjlPc1M5X013aHAxU0dudGhUMWFQNjFYTk9nVnU2VERDU21GdEVQVW4ySWVPZG9WblVxVDRYb2xYZmxZc0RyQWNzQ2lGUVFVSXpmcmE0azg2VW5ReFJVb0g0VjFWd9IBowFBVV95cUxOLWFDZDlsRExtWVhQV0NvQXFaVnhyS0pwanUtekdrTGFlRFlXNGVQWTUwS1lqQjZlaXJ6cklReDk1ODdmdk5NTkFvU2VpWTItUGRaa2dEZVdJSDZsbXBZQm8zV0U5WlNyV19RRVI5dWJTY295M1BtYlZjbWRtNHc2WWtaa3RLZWU5WmlOSEZoOVl2YkxXT3lCQXJvcjZNa1RRZndB?oc=5",
+     "source": "WOWK 13 News",
+     "published": "2026-11-20T01:24:54+00:00",
+     "summary": "On the Record: Post-election West Virginia polling gives 2028 glimpse&nbsp;&nbsp;WOWK 13 News",
+     "image": ""
+    },
+    {
      "title": "Trump\u2019s DOJ is backing down on election fraud cases",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ctNVJ2b0xOeTZQRHVoNG8wZVBqcV9BVkI5T2trbHZmSnljRGl3Ym1NVUxxM05qXy1NVGNoT0pwMXF0YkU3TS13SHNuRUVOZWhOaC1kN2ZNVlRXa05XSmhCWDRzOTB4RTVreGZUQVVWRDFhb2xLZGZDMTU0VnZLRWlwV2pGYy1mV1Fsc1N5Yk1JSEJzMklFYjJKX25MVFU3alRURUxRclpESGthTGVDTnlhUFd1dw?oc=5",
      "source": "The Independent",
      "published": "2026-11-20T01:15:00+00:00",
      "summary": "Trump\u2019s DOJ is backing down on election fraud cases&nbsp;&nbsp;The Independent",
-     "image": ""
-    },
-    {
-     "title": "El Paso County tests election equipment ahead of runoff voting; see early voting locations",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnRwRkhJQ1I1UHhiRFJ3eHgzOUlXNVUtZFN3QzYzaDJaR3pLZXAzaVYxV20wRnN4d24tVnlBX1NOMENmSmUybGQ4ZFpLTWNxYUJMOE1uZll4X1NUSGVNdUItTFoyWHoxTnpHOE1tS083UVhXWFVWRE5OVVNFMTN3dmxyakFlT0g4Y1BFNFFzMUwzeE9GbEJZSTM0ZGRGbTdXR0UwVTM5N2ROdHBTMFMxNlM2bW0wWkdGNEZF?oc=5",
-     "source": "KFOX",
-     "published": "2026-11-20T01:12:30+00:00",
-     "summary": "El Paso County tests election equipment ahead of runoff voting; see early voting locations&nbsp;&nbsp;KFOX",
      "image": ""
     },
     {
@@ -296,35 +320,11 @@
      "published": "2026-11-20T00:54:50+00:00",
      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "PM S\u00e1nchez admits 'mistakes' in key debate ahead of Spain's election",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkF3R2dYTmxkQURQVy16aG1vVE54cmVlRWcxNFNXbFd3UldKNUNIQnFMWTNHNmZORkpCS2k3c25ZdjN4OEw0R2ZoeW5pR2Uyb1ROWUhCQ3B3YTdHNjRoX2RyQm1qRFltN0VkREhLYjVweHZna1FDOHNhN3BRS3JFS0pUTl85cWxoeFdpc0xBV3hqTmxTa2wwM1NTcnRmVkVob2dLcFduTURsdmJGZEFXSDRNQQ?oc=5",
-     "source": "France 24",
-     "published": "2026-11-20T00:49:44+00:00",
-     "summary": "PM S\u00e1nchez admits 'mistakes' in key debate ahead of Spain's election&nbsp;&nbsp;France 24",
-     "image": ""
-    },
-    {
-     "title": "CHEMEKETA BOARD: Budget status, policy change reports heard",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmlEc3pKY0xlTng3bEZHMVpEMlNsYnRiTk5LZVpRRzkxTUtmMm14Tlk0X3pidWpyUmE3TGpHT3J6WlRxWDEyVXpNYW1FZXNXaEhLRmo4dTYyUkF6bzlLYVlILXJFWG9KdVktVWxVSnprdV9XTTVqRm5nQ3EwWVhKaTc3UHJncVFWWl9vUmhrWGFxX2h0QmtrSHNBWlFWTkJOb3c?oc=5",
-     "source": "Salem Reporter",
-     "published": "2026-11-20T00:46:25+00:00",
-     "summary": "CHEMEKETA BOARD: Budget status, policy change reports heard&nbsp;&nbsp;Salem Reporter",
-     "image": ""
-    },
-    {
-     "title": "Montana\u2019s midterm election turnout rate held steady, while county results varied widely",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjUxLVNPX00zdWxXSURwMksyZ19tV3dsT19tQ09OeWNqRVVPUE5md0U1R3psdHBYRmRUUEp6WmwyVy1BQlZPVFotZXg5RVlPQkRFajZLcXJUd1RzOUxsX2U5UWx6eXJ1d1RxOGR0SVJuVFlmeFpJSWRfVjFDbFNrRUtSODE2NzVs?oc=5",
-     "source": "Montana Free Press",
-     "published": "2026-11-20T00:39:27+00:00",
-     "summary": "Montana\u2019s midterm election turnout rate held steady, while county results varied widely&nbsp;&nbsp;Montana Free Press",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T01:45:05.529793+00:00",
+   "fetched_at": "2026-11-20T02:15:09.195004+00:00",
    "stale": false,
    "items": [
     {
