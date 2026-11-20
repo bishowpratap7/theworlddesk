@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T05:15:31.524552+00:00",
+ "generated_at": "2026-11-20T05:45:35.703828+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-20T05:15:31.524525+00:00",
+   "fetched_at": "2026-11-20T05:45:35.703799+00:00",
    "stale": false,
    "items": [
     {
@@ -11,14 +11,14 @@
      "source": "BBC News",
      "published": "2026-11-20T05:03:43+00:00",
      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
     },
     {
      "title": "Kellie Sloane says she\u2019s \u2018pretty sure\u2019 NSW Liberals exodus is over after Mark Speakman resigns",
      "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
      "source": "The Guardian",
      "published": "2026-11-20T05:02:16+00:00",
-     "summary": "Former NSW opposition leader warns party against being \u2018One Nation lite\u2019 as he became eighth out of 24 Liberal MPs not to recontest seat in MarchGet our breaking news email, free a",
+     "summary": "Former opposition leader warns party against being \u2018One Nation lite\u2019 as he becomes eighth out of 24 Liberal MPs not to recontest seat in MarchGet our daily political email, free ap",
      "image": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=140&quality=85&auto=format&fit=max&s=a84940e8f5bd344dbd4ab97d27c0d8f9"
     },
     {
@@ -120,15 +120,39 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-20T05:15:31.524538+00:00",
+   "fetched_at": "2026-11-20T05:45:35.703813+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-20T05:29:28+00:00",
+     "summary": "Opinion | In Ukraine, the drones are flying faster than the diplomacy&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Trump, Xi, Putin Release Four-Point \u201cPeace Declaration\u201d in Shenzhen, Omitting Ukraine and Iran: 15 outlets compared",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGRodGttS1NNa1RTS3BYTGozRWwwcHV0NTBfaXNVdllpbUU3cGZyOC1FSW4xMEtWeGNMay1qVUQ5RmVnQ1J5QlZnSUlWOFFLOEw1U2txY3hLRmZQR1hKbnN3TTRGLW9qNl9LRmotUExodEZLcFE2S1NLemgxZmh4V2lKUzhXcm1EaW9hdmF3ZFQwTlV6LTU1NHk0OEVrNnVmdW9udTRzdFdtMVlHTHBGZTQySHlEeGJFMzhoTVRsYmxtSGhaekl0SktWN213S2gtLXJjVUtYTUd4cUM2U2podzVKNVFlMnlSaWc?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-20T05:23:47+00:00",
+     "summary": "Trump, Xi, Putin Release Four-Point \u201cPeace Declaration\u201d in Shenzhen, Omitting Ukraine and Iran: 15 outlets compared&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
+    {
+     "title": "Trump Tells Europe Putin Wants To End Ukraine War After Joint Peace Declaration: how 6 outlets framed it",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2RaRUI3LXFPT3FoWXJVcG9zTl9DZld1cnZheTlfVEZHUW9Sc2NlM3lqc2hCMUpuS3pnNkFNZDRBUWU5a2dGUzBPdmNrLTFDbHcyUW5teGZqZXUtNmNhbW5kN090X0ZtbFBzMTFSN0VzQXBETUVBTW90emF2LVBBZVhKcTVqZTk3TFUteTFBV2NMWEthaDN2RU9kMXJlRlh2U3pUNldqTnRDVmlORm9lRld3MW5TN2Z0QnNCTFExY01naGMyOFBFay1iQjc3NnlaUzJCVVNWVVVJemxXckttTDFZYy1hbTQ3?oc=5",
+     "source": "NewsCord",
+     "published": "2026-11-20T05:22:38+00:00",
+     "summary": "Trump Tells Europe Putin Wants To End Ukraine War After Joint Peace Declaration: how 6 outlets framed it&nbsp;&nbsp;NewsCord",
+     "image": ""
+    },
     {
      "title": "Kellie Sloane says she\u2019s \u2018pretty sure\u2019 NSW Liberals exodus is over after Mark Speakman resigns",
      "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
      "source": "The Guardian",
      "published": "2026-11-20T05:02:16+00:00",
-     "summary": "Former NSW opposition leader warns party against being \u2018One Nation lite\u2019 as he became eighth out of 24 Liberal MPs not to recontest seat in MarchGet our breaking news email, free a",
+     "summary": "Former opposition leader warns party against being \u2018One Nation lite\u2019 as he becomes eighth out of 24 Liberal MPs not to recontest seat in MarchGet our daily political email, free ap",
      "image": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=140&quality=85&auto=format&fit=max&s=a84940e8f5bd344dbd4ab97d27c0d8f9"
     },
     {
@@ -156,19 +180,19 @@
      "image": ""
     },
     {
-     "title": "Opinion | In Ukraine, the drones are flying faster than the diplomacy",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1hmUnNEMHY4aFR5OTJRSEhvT1JTbGszenRQSE10ZFpSWF9RdG9jaC1NcVZPMzRjWGIzRks5ZXlxTTF4eDJJSzIxQWs0MmFMNmJFd2YyU3FScGJjelpwbXIzSU9qT2pCeTlLRXdiZkFTV0VKYmVpV1dLTVM5Uko0bmVWSWVreEkxTmNDZ2hIV0t0NmJHV3E1SE1LSTBSeEdGWWZqY3ByMy1hWG9VejdhMVV1aw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-20T04:39:27+00:00",
-     "summary": "Opinion | In Ukraine, the drones are flying faster than the diplomacy&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
      "title": "European leaders ready to negotiate with Russia to end Ukraine war",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0VWNlRvdmdRem93dkROTklWWFZ4S0V0dGdUcVBLbnZncGphOU9mSk1qSGFXTzJXZlZER3pWeFY5NERzSWNmeHVzMVlsMkdsbTExNFZjdXU3Uk5pRDdsWDQzaExLR3BWWlprdHVmdUN4RnJNOVdFZm1mdGZxc09qcE5kUGdMNzE0NmVkOXZvR25Qd29mUVNzTg?oc=5",
      "source": "The Business Standard",
      "published": "2026-11-20T04:37:31+00:00",
      "summary": "European leaders ready to negotiate with Russia to end Ukraine war&nbsp;&nbsp;The Business Standard",
+     "image": ""
+    },
+    {
+     "title": "Ukraine war briefing: Trump \u2018open\u2019 to Kyiv getting Nato-like mutual defence guarantee, says Kushner",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0NBME5lcEdSYzBycGFKdDhzaHJ2MU5iU1RsYnlxaFRYaHc4SU1YU0s3bTZyd3EwNHItMTBSY2FvOHBjaW9pcjRxNkRBVWRISk1YYUNHcHAwZXJ4MHBxZU5TUzJoTFhMbTZUSzJSckpFS3NqcGhBXzNpb21scGc4Y3hQSjFsTFpkWVllREUwSkJ2TGhmck91dl92aVRtWi1lSjBNUE9wVUQzZHIyREdIZkFSOGVra01RWUVPaGk1SFdRZk1FZkRwaU5tYmJNcE91el81QXduSjg?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-20T04:28:00+00:00",
+     "summary": "Ukraine war briefing: Trump \u2018open\u2019 to Kyiv getting Nato-like mutual defence guarantee, says Kushner&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
@@ -180,51 +204,35 @@
      "image": ""
     },
     {
+     "title": "Russian Offensive Campaign Assessment, November 19, 2026",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1A5b21Xcy1Ib3NhZHdma1FIeXhUNmhINllQbUFOMHhhY0k0X1JNb1J0Y3pNRmtacWdXWFBneXR0VXdPaFBPVUJlVWQ1TjB6REtHNGRWYWtuNUNLdXNuUjh3ejBraHdLMk5GMFNlVzhvaHhIYTE0Q29aaFprTlI2UzczRTlrTEZYeEFndGlUWjNaZGtjZUxBM0J2QjFyMEMxNDZMRmh1Uk9fbFZN?oc=5",
+     "source": "Institute for the Study of War",
+     "published": "2026-11-20T04:19:06+00:00",
+     "summary": "Russian Offensive Campaign Assessment, November 19, 2026&nbsp;&nbsp;Institute for the Study of War",
+     "image": ""
+    },
+    {
      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
      "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-20T04:13:22+00:00",
      "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg"
-    },
-    {
-     "title": "Canada\u2019s beloved Tim Hortons brews ire over \u2018excessive\u2019 Israeli data deal",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T04:05:17+00:00",
-     "summary": "Advocates raised concerns about the Tim Horton\u2019s app and consumer privacy and data-sharing.",
-     "image": ""
-    },
-    {
-     "title": "Thousands protest Colombia\u2019s tax plans amid row over US military role",
-     "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T03:26:23+00:00",
-     "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
-     "image": ""
-    },
-    {
-     "title": "Ukrainian drones reportedly strike Russian chemical plant",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUVCVTUtSDEzMmpQajdVYjNNSkszSWxoSFFtVUVRTkRadUI0RDNxZ0NNbC1EMmdaY2Y3RnNtb3BNczEzbEJFT09YS29vR0xydU82Z2RwczhXWV9idFhYMVRmUWJ1ckZKTWtRWlY5YlpZOGladHdzblBteEd2VEFXdUxFbkowemhwcTBzaDJsVQ?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-20T02:59:39+00:00",
-     "summary": "Ukrainian drones reportedly strike Russian chemical plant&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "Kushner says he believes Russia is \u2018comfortable\u2019 with NATO-like security guarantees for Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
-     "source": "AP News",
-     "published": "2026-11-20T02:49:00+00:00",
-     "summary": "Kushner says he believes Russia is \u2018comfortable\u2019 with NATO-like security guarantees for Ukraine&nbsp;&nbsp;AP News",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-20T05:15:31.524541+00:00",
+   "fetched_at": "2026-11-20T05:45:35.703816+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ultra processed Food Policy: Why I Support the AJPH Call for Common Ground",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ281c1d2SkUzQ0VlRWY0enhCRXRPMGFIeXQtUDhCZDlLdVp0NWFCdzhCdHVZVGNkUmpTNDRPeWZxWGFRdzZPNVRuWmlRY1JkYlluM1dKLXljMWFHS2diVTF1T0tleVZSTm1jRHBVU2o3RWF2cGw5UGFuemhEZTZTeVZHU3BKMWV2dUhUQm9sdGQzb0ViUVhBYzkxMFAwLUl1eEc2czBKRUtDTFd0OHB1Nw?oc=5",
+     "source": "Marler Blog",
+     "published": "2026-11-20T05:30:08+00:00",
+     "summary": "Ultra processed Food Policy: Why I Support the AJPH Call for Common Ground&nbsp;&nbsp;Marler Blog",
+     "image": ""
+    },
     {
      "title": "Somerville City Council special election announced for wards 2, 3",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTN5YVdjdG51ZHI2WWUwWTZYSXAzd2pKT0FvaXpXazFpaWFHYVdqVE5kUDBaMzZWQkxDWEJfSGdyQTNFdEptWW5ZS3QzUklCYng3YW5iaF9FdWEwb1NtVFh1QnBLYXJxWTZHRmtUa0d4U1N6ZjRCMEkwRDZUcWpmTFhSRlcyQkpHakFDRGctVDNGTmhYR0tRN1NNYUZmaGhKRllZbEZ6eG1OaU0?oc=5",
@@ -239,7 +247,7 @@
      "source": "BBC News",
      "published": "2026-11-20T05:03:43+00:00",
      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
     },
     {
      "title": "Acknowledging Democratic victory, Trump administration seeks dismissal of its own suit over Alaska election race",
@@ -312,19 +320,11 @@
      "published": "2026-11-20T03:55:00+00:00",
      "summary": "Mandatory audit of general election completed&nbsp;&nbsp;KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
      "image": ""
-    },
-    {
-     "title": "Apple rejects Epic\u2019s \u201ccoercive\u201d sanctions demands",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzBuMi1Gdnp6NHgxTXo4SlNsX1JvRnVzNFMzRTduUWg3bU8ydDhWeUV2RHNmWHdLekhESzRUOW5peVdKVW5VdkJTTElrOEJUdGVlcHVPRC1LaENKb2V1OHdZZDgxOXdPWUp3RGRmcnVuYjNxMnhJaG45VUlscmFXWTdYRjVLTGdVMkJLVUVjM0NKNnF0M2huS3paOWtxcGM?oc=5",
-     "source": "Global Competition Review",
-     "published": "2026-11-20T03:33:42+00:00",
-     "summary": "Apple rejects Epic\u2019s \u201ccoercive\u201d sanctions demands&nbsp;&nbsp;Global Competition Review",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-20T05:15:31.524544+00:00",
+   "fetched_at": "2026-11-20T05:45:35.703818+00:00",
    "stale": false,
    "items": [
     {
