@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-21T14:21:28.836436+00:00",
+ "generated_at": "2026-11-21T14:51:31.650033+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T14:21:28.836405+00:00",
+   "fetched_at": "2026-11-21T14:51:31.650004+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018Hell dorm\u2019: Florida prisoners testify about 119F heat indexes and walls that sweat",
+     "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:38:58+00:00",
+     "summary": "Temperatures in a concrete facility contributed to one man\u2019s death after he struggled to breathe, prisoners allegeOn Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed i",
+     "image": "https://i.guim.co.uk/img/media/927934c914d0ee17837ad17f16babd0941cd47e9/193_0_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c95999168f3905f4c0ff69be6d003f81"
+    },
+    {
+     "title": "British man recalls \u2018despair\u2019 over son\u2019s death after fall from Cyprus window",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:35:20+00:00",
+     "summary": "Joshua Foster tells of moment he \u2018lost control\u2019 of two-year-old when he fell from fourth storey of hotelA British father who was fined by the courts after his two-year-old son fell",
+     "image": "https://i.guim.co.uk/img/media/448b8cda06ae22c1900e5ff11f009b62f3b449f9/231_146_2907_2326/master/2907.jpg?width=140&quality=85&auto=format&fit=max&s=3d6c28c8cb97f9ee223f182855c56ec4"
+    },
+    {
+     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+     "source": "NPR",
+     "published": "2026-11-21T14:18:17+00:00",
+     "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+     "image": ""
+    },
     {
      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
      "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
@@ -92,37 +116,29 @@
      "published": "2026-11-21T12:48:46+00:00",
      "summary": "France is bracing for a sixth consecutive Saturday of protests, with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social",
      "image": "https://s.france24.com/media/display/c489cff2-e5a7-11f1-bb16-ebb478925cf0/w:1024/p:16x9/EN-20261121-131728-132120-CS.jpg"
-    },
-    {
-     "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
-     "source": "The Guardian",
-     "published": "2026-11-21T12:47:57+00:00",
-     "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on SundayCold snaps are to make way for heavy rain in some parts of the country as the",
-     "image": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4"
-    },
-    {
-     "title": "Rescue efforts under way as drones hit Russian ship off Finland coast",
-     "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T12:45:24+00:00",
-     "summary": "Two drones attack a cargo ship that Finnish authorities say has links to Russia&#039;s armed forces.",
-     "image": ""
-    },
-    {
-     "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-     "source": "NPR",
-     "published": "2026-11-21T12:40:18+00:00",
-     "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andre",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T14:21:28.836420+00:00",
+   "fetched_at": "2026-11-21T14:51:31.650017+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2hzYVBKZkFkNjBMOHpiVlZMLUhGNmw1WWN0QU5ROVpTQ0M0YzV0Yk44Tm9kcUc3OGxIWlBQRzJzVF9hVWVNS3U1d0hYU2FJcEJsOFd0dDVlYVo0cXowTmdiOFBKdmZacjJONHNSeVg1ZndWTzNEWGhCd3d2RktEWEphVTNkem5i0gGcAUFVX3lxTFBURy1iemJpZzQxdXdLMTdVUzVVeEhCbmwtekFIWkRMdWdSaHlwZ1djUDAwaFNOdjBJeDAzZHNLRFRIeWxJVWZ3ZWJGOTVzLWJmUEU2aXNZQTN5MnJGeklRbW44Ym5TRnlReFdUY0lKY3B1MzVMVnJ0ZTF2ZjRiR1pia1lKTmZ6cEpubThCazQ2VklyOXR3ZlFXWVJvaw?oc=5",
+     "source": "95.5 WSB",
+     "published": "2026-11-21T14:18:25+00:00",
+     "summary": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores&nbsp;&nbsp;95.5 WSB",
+     "image": ""
+    },
+    {
+     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+     "source": "NPR",
+     "published": "2026-11-21T14:18:17+00:00",
+     "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+     "image": ""
+    },
     {
      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
      "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
@@ -202,29 +218,37 @@
      "published": "2026-11-21T12:50:35+00:00",
      "summary": "Two Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an \"intentional provocation\" timed to coincide with Euro",
      "image": "https://s.france24.com/media/display/3cf13c10-e5a7-11f1-ab89-ebb478925cf0/w:1024/p:16x9/EN-20261121-130402-131505-CS.jpg"
-    },
-    {
-     "title": "Thousands protest overs prices, education, military spending in France and Europe",
-     "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
-     "source": "France 24",
-     "published": "2026-11-21T12:48:46+00:00",
-     "summary": "France is bracing for a sixth consecutive Saturday of protests, with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social",
-     "image": "https://s.france24.com/media/display/c489cff2-e5a7-11f1-bb16-ebb478925cf0/w:1024/p:16x9/EN-20261121-131728-132120-CS.jpg"
-    },
-    {
-     "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
-     "source": "The Guardian",
-     "published": "2026-11-21T12:47:57+00:00",
-     "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on SundayCold snaps are to make way for heavy rain in some parts of the country as the",
-     "image": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T14:21:28.836424+00:00",
+   "fetched_at": "2026-11-21T14:51:31.650022+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-21T14:31:38+00:00",
+     "summary": "GOP set to block Trump Pentagon picks as other military moves face headwinds&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Democrats won big in the midterms. So now what?",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnE0d0FZemxNMWZJX21aTjIxTVZwc3ZQaHlac3pnUFBKS010UEc2bXluckswdTJwa2hlY3N1Qzc4aGVGejB1NVJMOFFKQnVYYWppY2NiLUpkdG9reWJEdU50V2t5eWxKVmpjMzI4SWFxbi1rSDhPRG9UUmNqM3JGczBlTlZnSW1ORnZDYXI1dTdVOXg0c3c?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-21T14:22:41+00:00",
+     "summary": "Democrats won big in the midterms. So now what?&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Election board secretary addresses media access, results delay in Comanche County",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGZGQkU1OERtNksyMDViLWcydDVPcHRHQWFCSVNSSGRuZmg5Qk1HUmlWRDVPaC1iN0ZvZmpUQ2FVSEtwZ29CU3J0dS1Ua01MUlBVNDVqLUtBQUlwb1NnRVhEM0RybHlERGI0d1R5cDQ3RHRTWlQwNU1ZTkNMYTc1TXFEOF83YjJucTViVVU3ZS1oX0Ywb0p0Q0F6TF9TVTE0OEMyc2JVUWpUX0RSMmQ40gHDAUFVX3lxTFBhUXlOMEl6Vkx6T2RvLUFCWlJOZ0dOb0dOLUNOTHkxOFBfcktEdC1ibFRndGU5Z25WRWFWbGVtVGNqRkFoTElOZ05qZzB3b3FLX0pRMWQ0T1ZaX2xQRDd5eEQ3MEZSbFRuZUdoTDc1LWFSM1hicVh0Y2FNT25pU0Rha0tyZm5rMVpUQjQ3dG8ydXFyT2ZYemhBTUZ3UXhsektKNFVON2trMzJOdWVXUFlRUXZoWlZlLXpTSGFGSkV0ZHc4WQ?oc=5",
+     "source": "KSWO 7News",
+     "published": "2026-11-21T14:21:00+00:00",
+     "summary": "Election board secretary addresses media access, results delay in Comanche County&nbsp;&nbsp;KSWO 7News",
+     "image": ""
+    },
     {
      "title": "Most new Black Democrats in decades to join US Congress, set to sway policy, party",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2xUZFEwY1RDY09Mc1lXQTdCMFk5ZWlCb0ZSakJuQmppYzI2Y0loc3BRdEp4MXhtMkNhY0Vsdk9fYUpEUTNUTTh0SFl3akZqUUdKWGdJTnpCVVFwZm1LOE5SNTcwV0VOSXc3S1k4SHM2R0UzV1liTm84SkZRZVNUZlYwZi1xLWpnVVBQaUVuaFFPM3NockMtcnhrYms0YmNJNXJzRXRVZ1hNNWFWYjNLU09JRzVDVXc?oc=5",
@@ -247,14 +271,6 @@
      "source": "Radio Free Europe/Radio Liberty",
      "published": "2026-11-21T14:06:54+00:00",
      "summary": "Visas, Sanctions, Money: How The EU Plans To Prolong Bans On Russian Athletes&nbsp;&nbsp;Radio Free Europe/Radio Liberty",
-     "image": ""
-    },
-    {
-     "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-21T14:03:24+00:00",
-     "summary": "GOP set to block Trump Pentagon picks as other military moves face headwinds&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
@@ -282,6 +298,14 @@
      "image": ""
     },
     {
+     "title": "Consumer sentiment rises after midterm election",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjYyakUzRVR5SWVOM01qY2UxZGZfbm94ZGl4SGk0VUY2dTdBRkNXbXZ2U2dZN3Y3bWdScmlDbFhpTnRPZmxLdUdxMXNjUVhSRF9fNUYzUUhVYjFERzVoWFZQX19sc1RYam9CWVNWQnFoMXVDNFFxbXlCeHpMektNT3RpWG9QalotbldGWDRSY3QzaUVlZjBwbnc3djlJcWJEZXExMkw2TVVENlplSGlmcll1RUYwOGtpY1h0aW1ZaGM1NlA2enpvb3BmV042VURW?oc=5",
+     "source": "ABC Columbia",
+     "published": "2026-11-21T13:41:10+00:00",
+     "summary": "Consumer sentiment rises after midterm election&nbsp;&nbsp;ABC Columbia",
+     "image": ""
+    },
+    {
      "title": "Voter fraud cases surged before the midterms. What happened after Election Day?",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjRCUHlZZTJScTgzeG9FS3g5SnYyT25HQnE4aTFXTl9jT25VUnE3TktBR0ZKaHJoSWx5b0p3M0U1SEl0YjJYNEhfSmNWQXBpZEpTX1E2eWJSTkJvdXduSUhmTFFsTVdUSzZsX2JVOEh2aWFWdkVtYkx5d3BFRHVNRkJkcU1IdjlCSDZuZDh2MTRDeXlWQVZRRndMbl9ELTlwQUtDeFVjeUN6cE45UUVRZW81Z0x6OFRMeExyQTV30gHSAUFVX3lxTE55ZzFMYllZbmhHQ09nd0NyemZ2U2hKTG1FNUl3S0dWanROZFZMQkRRdEF4ejlESFpEM1c4UWtUX3FFSko5SE4yRU0zZ0xDMmFhZURFeU02bzltOE1kWmhrTF8wZW9sUGlvYWVxV3doQzdsZzRBRlpDZ0NYSnFKZk45amdaQjJVLXVvbDRKWTFjZzdRbXhDRE5aa19Wc1JOcjVMQmF3anJjRklBWkpOU1l1cHJjTWhOa1BkZVNFZ1N2R2FhR21uR0RYdmdhdG9GeWdqQQ?oc=5",
      "source": "Cleveland.com",
@@ -290,41 +314,17 @@
      "image": ""
     },
     {
-     "title": "How a Liberal Fox News Host Braced for a Game-Changing Election Day",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTg5U2h0eFZsekpRR1BMWDRqeWxxdmxQdEU1cVV4QW5HNTZQTzlha3dmbnpaa0djSHF4MWJQbnU2blZNVlNGMlo1WjEzWVUwcGdocVhvNVNoTDBqM2dhWDFNTlhnb2ZfZS13UHA0VnBic1g1dU93dEFkY2FHemRtNU9aR240bTFrdWo4?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-21T13:33:48+00:00",
-     "summary": "How a Liberal Fox News Host Braced for a Game-Changing Election Day&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "After the Blue Wave, climate policy flows to the statehouses",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkQ4eHdzQ2RiSlhjX0NXeWdvazQxN2dQM2tfcThKcVk2RGRvdFVSYWVTMk93VGdoZm0ydnFYeFoxVkVmajRYaHd2T1pVYjVkaFREX1FTLUVFc1ljYVBEWHUzb3ctRGlLVHlJeElib1pqN0N2ZkdHYlZKaW92TjNiTU56WlZHcXRsS2N4akh2a2hVenk2SXNHQlBMU0NmTkVj?oc=5",
-     "source": "Michigan Advance",
-     "published": "2026-11-21T13:07:30+00:00",
-     "summary": "After the Blue Wave, climate policy flows to the statehouses&nbsp;&nbsp;Michigan Advance",
-     "image": ""
-    },
-    {
-     "title": "Losing camp in close Davis County race says the winner broke election law and should be disqualified",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3BLZmZQVFFGZ1V2LWhIWGNtLW9aNWRGXy1vcDFBM1B5bS0tLTZiYjVDUzdmUmN5LUJMQVZ4MUxmZm9BSUNMZnNQeHhId285NUI2cFZoVHM1Q0k2LUdPalZlVURSZ2lZUWtKSEV6NnlZUXZOZGEyVFFGM0M0OEV3SG94Y2NyRWs?oc=5",
-     "source": "The Salt Lake Tribune",
-     "published": "2026-11-21T13:02:45+00:00",
-     "summary": "Losing camp in close Davis County race says the winner broke election law and should be disqualified&nbsp;&nbsp;The Salt Lake Tribune",
-     "image": ""
-    },
-    {
-     "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-21T12:59:16+00:00",
-     "summary": "Russia's Wildberries CEO steps down days after EU sanctions, media report&nbsp;&nbsp;Reuters",
+     "title": "EU Proposes Cuts to Long-Term Budget to Bridge Policy Divide",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnpRZXFtaHRoamdjS3JQVVRsVGNPSmxXamJtejBoRlZ0bGpWVVI3WE9XQjRyYXVNVm9LQ0FhZ2R3bWQ4Yk10VGpBLW5Vc2tnOW1uN2Q1TzlmY2J5eThWcjhvdE14dkltUUxKNWRMNHJmTG1TSUlvSUx1RGFUT2loWHFkVndoUi1KUi1yUGxBMjBoNlVQOGZPZlc1OC1PN2VfTkw2d09obXRvTmdLRmowMTJOOXVVdw?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-21T13:27:07+00:00",
+     "summary": "EU Proposes Cuts to Long-Term Budget to Bridge Policy Divide&nbsp;&nbsp;Bloomberg.com",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T14:21:28.836427+00:00",
+   "fetched_at": "2026-11-21T14:51:31.650024+00:00",
    "stale": false,
    "items": [
     {
