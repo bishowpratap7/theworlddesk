@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-21T21:22:24.625907+00:00",
+ "generated_at": "2026-11-21T21:52:27.990894+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T21:22:24.625877+00:00",
+   "fetched_at": "2026-11-21T21:52:27.990863+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Bahrain says Iranian attack causes fire at industrial facility",
+     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T21:31:03+00:00",
+     "summary": "Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+     "image": ""
+    },
     {
      "title": "Impunity fuels surge in settler violence across occupied West Bank",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
@@ -74,7 +82,7 @@
      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
      "source": "The Guardian",
      "published": "2026-11-21T20:15:57+00:00",
-     "summary": "Anthropic\u2019s Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesisA mathematician at Anthropic has convincingly said that the San F",
+     "summary": "Anthropic\u2019s Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesisA mathematician at Anthropic has said that the San Francisco-base",
      "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f"
     },
     {
@@ -108,21 +116,21 @@
      "published": "2026-11-21T19:55:07+00:00",
      "summary": "A Russian ballistic missile attack on President Volodymyr Zelensky\u2019s hometown in central Ukraine on Saturday killed two people and wounded dozens. Hours later, Zelensky reiterated ",
      "image": "https://s.france24.com/media/display/a1864982-e5d3-11f1-8806-1bac47ab2f5d/w:1024/p:16x9/EN-20261121-180653-181143-CS-01.jpg"
-    },
-    {
-     "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
-     "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T19:53:00+00:00",
-     "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T21:22:24.625891+00:00",
+   "fetched_at": "2026-11-21T21:52:27.990878+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Bahrain says Iranian attack causes fire at industrial facility",
+     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T21:31:03+00:00",
+     "summary": "Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+     "image": ""
+    },
     {
      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
@@ -210,19 +218,11 @@
      "published": "2026-11-21T18:54:35+00:00",
      "summary": "Russian crew evacuating ship hit by drones off coast of Finland&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Trump signals push for wider Russia-Ukraine ceasefire",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10U3pQYk5wSUpqNVhKd04xemxZS1I5eEhHc2wySDA1dlBneVJiVEUxOVk1V01pbGhKdHFtVGVpTjRlSU1kVFRHN2tyNmJlcnJVMHZQeA?oc=5",
-     "source": "AzerNews",
-     "published": "2026-11-21T18:53:00+00:00",
-     "summary": "Trump signals push for wider Russia-Ukraine ceasefire&nbsp;&nbsp;AzerNews",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T21:22:24.625895+00:00",
+   "fetched_at": "2026-11-21T21:52:27.990882+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T21:22:24.625898+00:00",
+   "fetched_at": "2026-11-21T21:52:27.990885+00:00",
    "stale": false,
    "items": [
     {
