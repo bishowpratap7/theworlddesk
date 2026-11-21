@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-21T08:20:35.463785+00:00",
+ "generated_at": "2026-11-21T08:50:38.416996+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T08:20:35.463759+00:00",
+   "fetched_at": "2026-11-21T08:50:38.416968+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Spain court grants bail to pro-Palestinian activist James \u2018Fergie\u2019 Chambers",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T08:26:22+00:00",
+     "summary": "Spain\u2019s High Court granted conditional bail to James \u2018Fergie\u2019 Chambers, a pro-Palestinian philanthropist.",
+     "image": ""
+    },
     {
      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
@@ -108,27 +116,43 @@
      "published": "2026-11-21T06:00:53+00:00",
      "summary": "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a",
      "image": "https://i.guim.co.uk/img/media/b210f835d3402c106de262ff8f2b7ff286b6533c/35_0_4917_3933/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=4c73efff30b6f821b2bfb7045c9833b5"
-    },
-    {
-     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-     "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T06:00:09+00:00",
-     "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T08:20:35.463773+00:00",
+   "fetched_at": "2026-11-21T08:50:38.416984+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukrainian bishop: Finding joy and hope amid war",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0FsZXRvWUJpS1NXbVU2RHlrU04xVTFmc1ptWXI1bVZCMjk1U21QSGpTcko1aUpOM3oyS3Y5Y3NIQ2MxR1I5T0lDV2FhOUpKN2xVR0d4NUZWUFRDRTNzYjkyUEtIUGFiZUxwZGwtYnRaOWVSVkVoWXY1a0pEUFFYSmowdmQ?oc=5",
+     "source": "aleteia.org",
+     "published": "2026-11-21T08:44:27+00:00",
+     "summary": "Ukrainian bishop: Finding joy and hope amid war&nbsp;&nbsp;aleteia.org",
+     "image": ""
+    },
+    {
+     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDLWthSTJrLTBqRmhiM2p2b1lXYlpwUHFYbEladmozZnZYZ0dfMnphQjJSUFdFYUxsdFhackxnTVlpXzVWLUZwWUo3Y0YwY29la3A0SjRhVVBXb1k?oc=5",
+     "source": "BBC",
+     "published": "2026-11-21T08:10:25+00:00",
+     "summary": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend&nbsp;&nbsp;BBC",
+     "image": ""
+    },
     {
      "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
      "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
      "source": "NPR",
      "published": "2026-11-21T08:08:01+00:00",
      "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more",
+     "image": ""
+    },
+    {
+     "title": "Russian Offensive Campaign Assessment, November 20, 2026",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlM4aDBCQjFpWWp6NFp3aU1wUVI2LXJLeFlFSmo3c2RiZ1hhbDgxOFJaWWtHc1JiYzBXd29mVXlsbzl3ZHF2a3RzQlZ1SFAtWVFWWXdITXpJMXU0a1RfZFVfQ1E5aHRGYjJtMFo3Y2p0dlpFZU1qbFd3S0dNYVVZZVM3cm1Lc3hkcDd0MGJBQkVRaHE4V21VVlc1cjdVaDZkTGlCQXFrdTByQXVj?oc=5",
+     "source": "Institute for the Study of War",
+     "published": "2026-11-21T07:41:15+00:00",
+     "summary": "Russian Offensive Campaign Assessment, November 20, 2026&nbsp;&nbsp;Institute for the Study of War",
      "image": ""
     },
     {
@@ -153,14 +177,6 @@
      "source": "Kyiv Post",
      "published": "2026-11-21T07:25:18+00:00",
      "summary": "Melania Trump Expresses Hope for Ukraine-Russia Ceasefire by Christmas&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDLWthSTJrLTBqRmhiM2p2b1lXYlpwUHFYbEladmozZnZYZ0dfMnphQjJSUFdFYUxsdFhackxnTVlpXzVWLUZwWUo3Y0YwY29la3A0SjRhVVBXb1k?oc=5",
-     "source": "BBC",
-     "published": "2026-11-21T07:24:45+00:00",
-     "summary": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend&nbsp;&nbsp;BBC",
      "image": ""
     },
     {
@@ -202,29 +218,21 @@
      "published": "2026-11-21T06:17:00+00:00",
      "summary": "Russian army loses another 1,730 personnel, two air defense systems in war against Ukraine&nbsp;&nbsp;Ukrinform",
      "image": ""
-    },
-    {
-     "title": "US pushing Ukraine to reach peace deal with Russia before Democrats take Congress - report",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbVp4dk1SR3RxcE1IekxQbW9DVVFpWUxmbHhmRjU2WGR1T21DZ3Fob1JuaXk5YTQwQldKa3BXNHJtejByODg1S1BoYlUxSVpzcnNTemtQRlFVRFVIVGZ3Rl9CSUdTM0lJakdFNXBZNDhDVFR6cUUzZ0tjRUhvZ0FzYmU0ZnBSRzhfaVE?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-21T06:12:50+00:00",
-     "summary": "US pushing Ukraine to reach peace deal with Russia before Democrats take Congress - report&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "Can Israel\u2019s opposition bloc stay united against Netanyahu?",
-     "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T05:46:29+00:00",
-     "summary": "Eisenkot&#039;s fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T08:20:35.463776+00:00",
+   "fetched_at": "2026-11-21T08:50:38.416987+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Gianni Infantino\u2019s FIFA re-election backed by South America\u2019s CONMEBOL",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmE5TnVaRjQzMXRRaFhXa1dlZVgxTENGM2RhWmR6cFR2d25YUXdQdF9KZWZTRUtiX1JLVVZESDNaY0Y5YmNVLU0xSzJkNWl3bTdzVmRFUGEtQUZ1WWpJcklPTnZZMDhDLTBQOFF1VEV0VFdhd0lrTnJ3YlIzNlFEWjVkY2F5TXJxc2NGZjAxdGFBZ05laDM1WmxENlJLdUlGME5pMGFTOERTcGh4dGZ1b05R0gG3AUFVX3lxTE5pSUxzNFExTXh3QkJQRGFFcDl6Yy1VNjVsNS1zQnVtM3FuWjFEbEpyc2hBZE5rMDhjRERlNkMtQW1wV0hHRWJXaUExa1VXTmVodVdPaHl5bHIyR3hlTW5TTlNjUjNpWHp4dkFRRGhLcWM0U1k2d3ZBQVBfOUtCcE5tN2NuY1lMeDhULVN2NGNCeDRPMG1MaklwN19mWC1Zc2RPTGlSOTRfRmNTd2M2MDFvcmZzdDFyOA?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T08:36:25+00:00",
+     "summary": "Gianni Infantino\u2019s FIFA re-election backed by South America\u2019s CONMEBOL&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
     {
      "title": "Report from Joint Taxation & Economic Development Policy Committee Meeting",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRTBqMVFrd2ZLYnN2VGNLeVBvb0FNU0Q3dDB1VkFQZ1BDUXg3Mjl2eGJuZnVoM1FfdkwtT1VEbDNRQzFNYjlkMTZpWjlSQmRBYlItNmNJSUpPdno4OXF2YkxzQk9jbjdtXzdvd21lMW5VNUQ2TXY0Q3hwRVVUc2hZdmN4am9DTFp2YlFoVWJuaUJOYUIxY0x3SQ?oc=5",
@@ -242,27 +250,11 @@
      "image": ""
     },
     {
-     "title": "'Felt like it was really silencing': Wake students weigh in on draft memorial policy",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEdTRXphaWxjeUtWcW9SRHJ1LW1BcGQ3RlE3UGNOZkszTUlxRkpBS0hvVEFjSHRSX19PYm8yRkd5X1dVRnlYY25aZFFDU0ZfWXNWMjJiM1l1T2pOcnhIcHhrZGlxOGdMNjA1WWFlUUxqcEw4Rm1xQlZZQVgyeFNiUWVQaVREV05vRm9pTHdrS1ZIQlk?oc=5",
-     "source": "WRAL",
-     "published": "2026-11-21T05:35:26+00:00",
-     "summary": "'Felt like it was really silencing': Wake students weigh in on draft memorial policy&nbsp;&nbsp;WRAL",
-     "image": ""
-    },
-    {
      "title": "On the Trail With Spain\u2019s Prime Minister, as He Tries to Pull Out a Win",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFlIaUhMUTNKNWVFNHhBaDdlWGFMYzc0dURscGhPLUV0VEdqSDZDdEZaX3B4dnJ5ckVIRFVUcDFEYlZMZERWSzllRUN2c0Z5dllDTnItcG5wVmNlZWR2MlVsU0VMNV94SEJVbjdhTm5kU3VLZlJtenM0WjAxa0hNV3RnU3h2aHd5LVBHRUJWbU9NcjVIVWhIczJzS2k?oc=5",
      "source": "The New York Times",
      "published": "2026-11-21T05:01:09+00:00",
      "summary": "On the Trail With Spain\u2019s Prime Minister, as He Tries to Pull Out a Win&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Austin ISD adopts first AI policy, sets 18-month timeline for rules",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeksxRGttdnV6ZS1XX0xTTEpraURteDJLU0pJNHdQcXlOM1FBS2sxWWtaVmNNOGF6Z3I1YjV1ZmZhQm1aV3BmTHhqWi13MFkyU21lUkQ2Z0pkaUpOWEVoY0xnQWE5NURwN2I2THpOQUZudlp6cjBSZ0dHN29hVFc0dVUzOUh5WFpuZHI1OVB5SUNoMTFsT0F2cGxHcHd4c0c3eVVrS09LSTRCR2QzNEl6YXVQSDQtLUEyMFl1ZA?oc=5",
-     "source": "Community Impact",
-     "published": "2026-11-21T04:30:28+00:00",
-     "summary": "Austin ISD adopts first AI policy, sets 18-month timeline for rules&nbsp;&nbsp;Community Impact",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-21T02:14:08+00:00",
      "summary": "Newport Beach council reluctantly schedules March special election for 3 resident-initiated measures&nbsp;&nbsp;Orange County Register",
      "image": ""
+    },
+    {
+     "title": "Trump calls for Nvidia to reinstate \u2018brilliant\u2019 Jensen Huang",
+     "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T01:49:07+00:00",
+     "summary": "US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T08:20:35.463778+00:00",
+   "fetched_at": "2026-11-21T08:50:38.416988+00:00",
    "stale": false,
    "items": [
     {
