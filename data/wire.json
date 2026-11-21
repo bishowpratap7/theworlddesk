@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-21T20:22:17.321447+00:00",
+ "generated_at": "2026-11-21T20:52:20.976148+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T20:22:17.321416+00:00",
+   "fetched_at": "2026-11-21T20:52:20.976118+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Eisenkot invites Netanyahu\u2019s party for \u2018marathon\u2019 Israeli coalition talks",
+     "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+     "source": "\u00a9 Ilia Yefimovich, AFP",
+     "published": "2026-11-21T20:49:04+00:00",
+     "summary": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturda",
+     "image": "https://s.france24.com/media/display/70936d94-e5e9-11f1-943b-13439ca2fe89/w:1024/p:16x9/000-D6U96RP.jpg"
+    },
     {
      "title": "France\u2019s sixth consecutive Saturday of protests draw lower turnout",
      "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
@@ -12,6 +20,14 @@
      "published": "2026-11-21T20:20:37+00:00",
      "summary": "Turnout \u2060was down \u200bat largely peaceful demonstrations across France on the sixth consecutive Saturday of protests \u200bover the cost of living, with the interior ministry putting the f",
      "image": "https://s.france24.com/media/display/c7c4cc2e-e5e5-11f1-a66f-6b451f569414/w:1024/p:16x9/000-D88T7BJ.jpg"
+    },
+    {
+     "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "source": "The Guardian",
+     "published": "2026-11-21T20:15:57+00:00",
+     "summary": "Anthropic\u2019s Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesisA mathematician at Anthropic has convincingly said that the San F",
+     "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f"
     },
     {
      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
@@ -100,35 +116,35 @@
      "published": "2026-11-21T19:00:06+00:00",
      "summary": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not \u2018condone racism, discrimination, hate speech, or violence of any kind\u2019Get ",
      "image": "https://i.guim.co.uk/img/media/f407e25401074b0d9b8e2c21e82c592c40e9f9f0/512_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b957a7fcf2ffb37f8d972e65ce799d6e"
-    },
-    {
-     "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
-     "source": "The Guardian",
-     "published": "2026-11-21T18:50:00+00:00",
-     "summary": "Jared Schurr arrested in Mississippi after Lizeht Rodriguez and Woodrow Scott died in otherwise unrelated killingsA man recently strangled a woman to death whom he did not know alo",
-     "image": "https://i.guim.co.uk/img/media/f4c6abe204a85016df59a803d74bfc353e054666/430_0_4250_3400/master/4250.jpg?width=140&quality=85&auto=format&fit=max&s=7eaeafaffdf4267ef1ced9659ed1e84c"
-    },
-    {
-     "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T18:42:38+00:00",
-     "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T20:22:17.321431+00:00",
+   "fetched_at": "2026-11-21T20:52:20.976132+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Eisenkot invites Netanyahu\u2019s party for \u2018marathon\u2019 Israeli coalition talks",
+     "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+     "source": "\u00a9 Ilia Yefimovich, AFP",
+     "published": "2026-11-21T20:49:04+00:00",
+     "summary": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturda",
+     "image": "https://s.france24.com/media/display/70936d94-e5e9-11f1-943b-13439ca2fe89/w:1024/p:16x9/000-D6U96RP.jpg"
+    },
     {
      "title": "Former Ukrainian Prime Minister Discusses U.S. Diplomacy Amid Russia-Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVNValEzV2UzV2prRDR3bE9odmpiY0VHaEwyLUJQUDhIY0JlS3VpYUhkUGZIT0FURmtMTER4LXlLa0JXd1E4MVBXUUpoQTNuV2RoVVc3dzBua0daeWNrY0pWR2VLbEp3QklseW1JdS15aUNaSkxhZkxOSE9NZ2xlc0FUZzE4YXVVb1VxQ3hHbEFyZ2lJdXdLMnQ2SU0wNjhMV1hlS1FPcU5XbG9OamVQQUdGb3BXMXlvMW42SWZaS212eUV4ck8xcnlrT2pYeWt0?oc=5",
      "source": "C-SPAN",
      "published": "2026-11-21T20:16:32+00:00",
      "summary": "Former Ukrainian Prime Minister Discusses U.S. Diplomacy Amid Russia-Ukraine War&nbsp;&nbsp;C-SPAN",
+     "image": ""
+    },
+    {
+     "title": "The European mission in Ukraine depends on the skies over Poland",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUJLdUtVMFdoaTg4WHlhTmVGc2NReHozWEtMQWs4Y1pLd1NwMFZCcWFvVWhQNGRuSXJsY0lYNHFkUUVMYlllMENwbFhGT01oUlpkMHR3ZGJKNUU5SFI1R2llRFN0MHdVTlJxcEEyWENsMExYazlLTC0zTFd1d0s0azNkYW56Sk1xTlFMUV8tTWM5NFRjdG5leQ?oc=5",
+     "source": "Tomorrow's Affairs",
+     "published": "2026-11-21T20:14:40+00:00",
+     "summary": "The European mission in Ukraine depends on the skies over Poland&nbsp;&nbsp;Tomorrow's Affairs",
      "image": ""
     },
     {
@@ -202,27 +218,11 @@
      "published": "2026-11-21T18:28:00+00:00",
      "summary": "Readers Write: Data centers, Russia-Ukraine war, Amy Klobuchar, books&nbsp;&nbsp;Star Tribune",
      "image": ""
-    },
-    {
-     "title": "Ukraine says Russia's latest barrage used cluster warheads and timed missile waves to endanger repair crews",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVpMZm0tWXJaTGotM3FGS2FRaFV0ZFNYTjVNUXptV2dELTFXWTJnNlRFUW1GX1VSSGhtSHNGYjgwdmtTMU5CWW9XTHl2TXlhdjM2LU4wNFpRRHRjRjhpU04zX0d6RGtRYmpRWWh0WUVIU1E2R2szTDRfY2lhbXNmU0pnTE12dw?oc=5",
-     "source": "Latin Times",
-     "published": "2026-11-21T18:22:19+00:00",
-     "summary": "Ukraine says Russia's latest barrage used cluster warheads and timed missile waves to endanger repair crews&nbsp;&nbsp;Latin Times",
-     "image": ""
-    },
-    {
-     "title": "Russia-bound ship attacked in Gulf of Finland",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
-     "source": "BBC",
-     "published": "2026-11-21T18:22:09+00:00",
-     "summary": "Russia-bound ship attacked in Gulf of Finland&nbsp;&nbsp;BBC",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T20:22:17.321435+00:00",
+   "fetched_at": "2026-11-21T20:52:20.976136+00:00",
    "stale": false,
    "items": [
     {
@@ -232,6 +232,22 @@
      "published": "2026-11-21T20:20:37+00:00",
      "summary": "Turnout \u2060was down \u200bat largely peaceful demonstrations across France on the sixth consecutive Saturday of protests \u200bover the cost of living, with the interior ministry putting the f",
      "image": "https://s.france24.com/media/display/c7c4cc2e-e5e5-11f1-a66f-6b451f569414/w:1024/p:16x9/000-D88T7BJ.jpg"
+    },
+    {
+     "title": "Mississippi HBCU students question rejected ballots after historic Senate election",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10NDVKcDA4VlV1cDZzNVowbXQyWEZma2RZTS1wZ2ZiWjQ3cmh1T0VPdEpVWERDSzhLQ2FlX3VuSlFKLWs0b0puazdLTXkwZ3Vpal9ZYWRhb0dIWnFETWxpUFpQSzItakVSY3hVNXR4MFRBM2pOLUpmOHdXaWN5Tm8?oc=5",
+     "source": "TheGrio",
+     "published": "2026-11-21T20:13:42+00:00",
+     "summary": "Mississippi HBCU students question rejected ballots after historic Senate election&nbsp;&nbsp;TheGrio",
+     "image": ""
+    },
+    {
+     "title": "Republicans\u2019 midterm defeat corners Vance as 2028 field widens",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMW9pcWNiSU9TWmdyMWpjejdPSlVheTRDTnpybUtDTHZ1M21JRmZfTFBNaFRiZTBFdjhxZ21JU3h4V3Q2YldKYjBzTEhIRDVaRTlkb1laZnJOVGR0R0xjOW5KdE56aTNPZXM4cGtYdjBsTTI4WlBJLU92YUdKUDBfQWFQM3lOU0RQMHMwR0JaMzdZOTExQ0RYZ0pBRl9mS1BpS3dyUUZMTzJZTEs3SjNQektRdmp0VjJuSV9DN3ZhNjlBNWV3cjVoeA?oc=5",
+     "source": "The Detroit News",
+     "published": "2026-11-21T20:11:00+00:00",
+     "summary": "Republicans\u2019 midterm defeat corners Vance as 2028 field widens&nbsp;&nbsp;The Detroit News",
+     "image": ""
     },
     {
      "title": "'Worst Ever' COP Summit?",
@@ -253,7 +269,7 @@
      "title": "Orr analyzes shift in statehouse support for gambling post-election cycle; Says special session correct path for reform",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWFpNLXF2QTkxS0ZhdG9HVlI3SFhrekk3UDBJaUt4MkM5dFAzbDlUVzJMYVNWQnBHLUhicjlHYkh1OWlHUGdhTTBhd3NMM0dwekFHQVZhVURUS2xKaDBrZ05tbFJ4dXBTUHlJSmFGYlp4clNqSGx2SzhRZjdyWFFIUlhkNW9oTFh0dGtBajhjZ0Z1YmVKbDJQQWRWcURKZk52STdtLWtaYnlvLTdNR1V5RWlQRWxDWllsWFJvd0JFaUM5b1Fxem9fNkdhQUZjbHROZ3luVTVVU19TX2lid0V6VWRvSQ?oc=5",
      "source": "1819 News",
-     "published": "2026-11-21T20:06:04+00:00",
+     "published": "2026-11-21T20:05:29+00:00",
      "summary": "Orr analyzes shift in statehouse support for gambling post-election cycle; Says special session correct path for reform&nbsp;&nbsp;1819 News",
      "image": ""
     },
@@ -304,27 +320,11 @@
      "published": "2026-11-21T18:18:11+00:00",
      "summary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
      "image": ""
-    },
-    {
-     "title": "LaPlace native Penny Brown Reynolds reflects on historic Georgia election win, Louisiana roots",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYi1DQmJwc1dPR0VvbzhIbTU5TzBkWkdnOHFuZk13VWpvWnJuaXpCTExyOTdPbUs5WEdwWnhKeExGa3V2UThVd19yd20zS3E0bW5ENUdBS0FaSGtaSVREcXdRNjdZSlotRkg5b0pWcU5xLVpfekk0SUxXN2dlUk05SmhGblpLX3E2RHV3RktGOHZnOVBaS2ZaZ19CMzYzbWRPX3hSektzNS0zNnVoQUNNN2Vscnh4NEltQXM5ckhIR2c2QzROdEd4Ni0zc2pycVc0ODJwNG4zcDBZb3VnQUhrTEJXZUIwbkluTU9HY0ZKMGZDbzRYbXlpU0w2VktJYXJ6M0JCNDZ4M1VLUQ?oc=5",
-     "source": "WWLTV.com",
-     "published": "2026-11-21T18:13:57+00:00",
-     "summary": "LaPlace native Penny Brown Reynolds reflects on historic Georgia election win, Louisiana roots&nbsp;&nbsp;WWLTV.com",
-     "image": ""
-    },
-    {
-     "title": "Trump orders contractors to check with White House over any congressional inquiries",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
-     "source": "The Guardian",
-     "published": "2026-11-21T18:08:30+00:00",
-     "summary": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight effortsDonald Trump is directing federal contractors and subcontractor",
-     "image": "https://i.guim.co.uk/img/media/f021398e23c64249dd270de109b550a94bbd26fb/332_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ac681459ea7485f2b61ae3c5952d9496"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T20:22:17.321437+00:00",
+   "fetched_at": "2026-11-21T20:52:20.976139+00:00",
    "stale": false,
    "items": [
     {
