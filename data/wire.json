@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-21T23:22:48.171674+00:00",
+ "generated_at": "2026-11-21T23:52:52.196286+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T23:22:48.171643+00:00",
+   "fetched_at": "2026-11-21T23:52:52.196261+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T23:31:17+00:00",
+     "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+     "title": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T23:18:14+00:00",
+     "summary": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
+     "image": ""
+    },
     {
      "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
      "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
@@ -86,14 +102,6 @@
      "image": ""
     },
     {
-     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-     "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T21:05:29+00:00",
-     "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
      "title": "Brazil\u2019s Jair Bolsonaro in intensive care with bowel obstruction",
      "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
      "source": "Al Jazeera",
@@ -108,21 +116,21 @@
      "published": "2026-11-21T20:56:35+00:00",
      "summary": "Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.",
      "image": ""
-    },
-    {
-     "title": "Eisenkot invites Netanyahu\u2019s party for \u2018marathon\u2019 Israeli coalition talks",
-     "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
-     "source": "\u00a9 Ilia Yefimovich, AFP",
-     "published": "2026-11-21T20:49:04+00:00",
-     "summary": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturda",
-     "image": "https://s.france24.com/media/display/70936d94-e5e9-11f1-943b-13439ca2fe89/w:1024/p:16x9/000-D6U96RP.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T23:22:48.171660+00:00",
+   "fetched_at": "2026-11-21T23:52:52.196274+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T23:18:14+00:00",
+     "summary": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
+     "image": ""
+    },
     {
      "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 22, 2026 from Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHcjBRN2dnbHU0VEJET2dUT1BhbHVjTndDLTZLaVl1WDZrSWExYWhLYW1tUWdOZk5yUkRxUTcyazhvdEdZWmw2Z3R5QzAtQQ?oc=5",
@@ -210,21 +218,45 @@
      "published": "2026-11-21T20:09:35+00:00",
      "summary": "Crew evacuated amid battle to put out fire on Russian ship hit by drones&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Moscow Rejects Even a 'Creative' NATO Workaround for Ukraine as Peace Talks Stall",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRDcyR2xwUzRjV3N2ZURWYWlPc0VOSm91cTcwZUw2cVNCMGg2b1BPTDA2ZTh3MU5pTXA2b1VtXzJnSTBwaFF2VGJlVnl4TFBHa1BVSmNTRUlBSVA1TEtmLW04VFNyYzM0aWQyRlh5SWs2RnVuMzY0NHpGV0dNcUo3SWtfbmpBQU5icWc?oc=5",
-     "source": "Latin Times",
-     "published": "2026-11-21T20:05:28+00:00",
-     "summary": "Moscow Rejects Even a 'Creative' NATO Workaround for Ukraine as Peace Talks Stall&nbsp;&nbsp;Latin Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T23:22:48.171663+00:00",
+   "fetched_at": "2026-11-21T23:52:52.196277+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "It\u2019s official: Raffensperger certifies Nov. 3 election results",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjVtR1R5RFA5c1NPaEpTVFNRX0lBbzdSOWdkblBGSDRlWTlNWFNSd0ZpS3NzRTVvU3dleGdPRHZCVjdHRmdmVE9BUTlWaW9nMkN1akkzYzZfOVkxYmdLbXdrbTBjQXYwZHpWSlVzSkVmOU5OemVfalZ3Ry1ya3ZQcmlNbmh2R0FfVWJybzZ6Vi1aZGVT?oc=5",
+     "source": "Reporter Newspapers",
+     "published": "2026-11-21T23:28:13+00:00",
+     "summary": "It\u2019s official: Raffensperger certifies Nov. 3 election results&nbsp;&nbsp;Reporter Newspapers",
+     "image": ""
+    },
+    {
+     "title": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlp6ZzNwN2FPdDZRdl80ZWtkcGZtQUhsNkoxRHdCMDFPdXdNTzAyVVNDT2NIUjRaQWlXdnptMElwVGVqVFlEVFR4eFg4aXZzUC1RN2FIV2FDd0RrSHl3WVRBcndfaWhqSy13a3Y0cGhzMURNc2lzeFdRRzlNVlJ1NWdQZjJIdU5kcjJjS3pPSi1QVUlYbzQydnBDb0lxcDNaZHYzWE1GVVBZa0NSWlE?oc=5",
+     "source": "JNS.org",
+     "published": "2026-11-21T23:26:35+00:00",
+     "summary": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves&nbsp;&nbsp;JNS.org",
+     "image": ""
+    },
+    {
+     "title": "Lawsuit challenges Nicole Mitchell\u2019s election to Woodbury City Council over felony conviction",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGZWU3Aza1hjTnF1MlB5TS11dVdHU3RkWWR6OXFyclA2aFJwTlhxLVZ5TUFUNmctMGdZMTU0U3FmZ0dnY2t3TWxmbTk2Tk14Z0RHS09yZ3lSMzJLVVp5UFlFc1g5SFdhalNKVXFoOGFPY2hIWUgxMzZsN2JuU1hKNElxUWY2dUFLYWxTeTBBbmJYWEhqaG1xelpqd1NTWDNybFh6LVFJajhIZWg0VEZzb0haRWUySHpaTTlvUkZ4ODFEMGN5eU5DWHprazE?oc=5",
+     "source": "Valley News Live",
+     "published": "2026-11-21T23:20:00+00:00",
+     "summary": "Lawsuit challenges Nicole Mitchell\u2019s election to Woodbury City Council over felony conviction&nbsp;&nbsp;Valley News Live",
+     "image": ""
+    },
+    {
+     "title": "Hubbard leads Foxx by 330 votes after recount",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQSkx2b3RuelJFeWNtM0R2d09wX0FBWFRlS0kwdFAwQVNVSU5MM3hZSXBISDlhMlJVRFkyc25oYVlFeGtwODdXWTdseTBzYUY1MmdTRFhmaEJSSzRIMWdWRWxjV3lSSjNtLXZUTU1LR0RCaGRfZFhocjJzRmpnd9IBgwFBVV95cUxQU3JpMzJoYWNIRDhxSTZnaGROdV91T3R3cDJkamJOM1FhME94Ty1yTW5tbnZfak8xczZrb3F0S0JJYUlIaHFtWVZnUDBqaTZ6R1VKRXBpVk5uem1kVFRXSmJlYW1DdjlMbU5vbzJHVGlvNmx0RzJiU2k1dUZnZmhEUmZ3SQ?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-21T22:23:00+00:00",
+     "summary": "Hubbard leads Foxx by 330 votes after recount&nbsp;&nbsp;The Hill",
+     "image": ""
+    },
     {
      "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
      "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
@@ -283,48 +315,16 @@
     },
     {
      "title": "Annual Virginia Beach Christmas Market will use new cashless policy",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMm0zcUlrbmZsOG5xZGtjeTU0aTVBVXc3ZjFobFhhemxkN1VGYkFob1I3aW5iUm9Lck5maVF5eTZpZE9KaXVCcjZwYXlqeF90ekpDR3QxVlFsNk1fMWd1djAydzVUaXVyVmotZE5SRzlrXzBGbDlDT3FZX3RaTjlPeEhhemRtZw?oc=5",
-     "source": "Daily Press",
-     "published": "2026-11-21T20:51:48+00:00",
-     "summary": "Annual Virginia Beach Christmas Market will use new cashless policy&nbsp;&nbsp;Daily Press",
-     "image": ""
-    },
-    {
-     "title": "Thousands protest across Europe over living costs and housing",
-     "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T20:47:50+00:00",
-     "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
-     "image": ""
-    },
-    {
-     "title": "France\u2019s sixth consecutive Saturday of protests draw lower turnout",
-     "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
-     "source": "\u00a9 Romain Perrocheau, AFP",
-     "published": "2026-11-21T20:20:37+00:00",
-     "summary": "Turnout \u2060was down \u200bat largely peaceful demonstrations across France on the sixth consecutive Saturday of protests \u200bover the cost of living, with the interior ministry putting the f",
-     "image": "https://s.france24.com/media/display/c7c4cc2e-e5e5-11f1-a66f-6b451f569414/w:1024/p:16x9/000-D88T7BJ.jpg"
-    },
-    {
-     "title": "Mississippi HBCU students question rejected ballots after historic Senate election",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10NDVKcDA4VlV1cDZzNVowbXQyWEZma2RZTS1wZ2ZiWjQ3cmh1T0VPdEpVWERDSzhLQ2FlX3VuSlFKLWs0b0puazdLTXkwZ3Vpal9ZYWRhb0dIWnFETWxpUFpQSzItakVSY3hVNXR4MFRBM2pOLUpmOHdXaWN5Tm8?oc=5",
-     "source": "TheGrio",
-     "published": "2026-11-21T20:13:42+00:00",
-     "summary": "Mississippi HBCU students question rejected ballots after historic Senate election&nbsp;&nbsp;TheGrio",
-     "image": ""
-    },
-    {
-     "title": "Republicans\u2019 midterm defeat corners Vance as 2028 field widens",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMW9pcWNiSU9TWmdyMWpjejdPSlVheTRDTnpybUtDTHZ1M21JRmZfTFBNaFRiZTBFdjhxZ21JU3h4V3Q2YldKYjBzTEhIRDVaRTlkb1laZnJOVGR0R0xjOW5KdE56aTNPZXM4cGtYdjBsTTI4WlBJLU92YUdKUDBfQWFQM3lOU0RQMHMwR0JaMzdZOTExQ0RYZ0pBRl9mS1BpS3dyUUZMTzJZTEs3SjNQektRdmp0VjJuSV9DN3ZhNjlBNWV3cjVoeA?oc=5",
-     "source": "The Detroit News",
-     "published": "2026-11-21T20:11:00+00:00",
-     "summary": "Republicans\u2019 midterm defeat corners Vance as 2028 field widens&nbsp;&nbsp;The Detroit News",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnJzNzYySlplUWY1XzBFaUlvaHp4ZWl6RVJEd3VlVERLcTFSU1JWRnBjckhON1ZoZF9TbDBweGIySFJhU2NzcDl3NktJcjRPVVdmcWFGM0xWUkp4MU5mZjlEckV2RkROYlFueVdXNFZlM1pxTG1faEp2NFR0OTFual93TTFFQzQ?oc=5",
+     "source": "The Virginian-Pilot",
+     "published": "2026-11-21T20:51:40+00:00",
+     "summary": "Annual Virginia Beach Christmas Market will use new cashless policy&nbsp;&nbsp;The Virginian-Pilot",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T23:22:48.171665+00:00",
+   "fetched_at": "2026-11-21T23:52:52.196278+00:00",
    "stale": false,
    "items": [
     {
