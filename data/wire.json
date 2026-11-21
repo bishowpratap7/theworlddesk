@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-21T10:20:47.715352+00:00",
+ "generated_at": "2026-11-21T10:50:50.987512+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T10:20:47.715325+00:00",
+   "fetched_at": "2026-11-21T10:50:50.987486+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T10:26:36+00:00",
+     "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attach\u00e9 being expelled.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
+    },
+    {
+     "title": "Nations agree to \u2018elaborate\u2019 on rules for AI-run \u2018killer robots\u2019 by 2028",
+     "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T10:25:29+00:00",
+     "summary": "Members of the UN&#039;s Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
+     "image": ""
+    },
+    {
+     "title": "Was Vladimir Putin 'snubbed' by Xi Jinping? Viral handshake video is AI fake",
+     "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
+     "source": "France 24",
+     "published": "2026-11-21T10:16:44+00:00",
+     "summary": "A viral video appearing to show China's Xi Jinping \"snubbing\" Vladimir Putin at the APEC summit has racked up millions of views, fuelling speculation about tensions between Beijing",
+     "image": "https://s.france24.com/media/display/1b200bec-e594-11f1-aa9a-6b451f569414/w:1024/p:16x9/capture-7ab1fae9.jpg"
+    },
     {
      "title": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
      "url": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
@@ -92,37 +116,29 @@
      "published": "2026-11-21T09:40:55+00:00",
      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
-    },
-    {
-     "title": "Sandpapergate: Cummins has Australia\u2019s \u2018unanimous support\u2019 as Test captain",
-     "url": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T09:38:29+00:00",
-     "summary": "Pat Cummins to remain Test captain after Cricket Australia back cricketer following cheating scandal in South Africa.",
-     "image": ""
-    },
-    {
-     "title": "FBI reportedly investigating apparent hack of its criminal database",
-     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T09:34:20+00:00",
-     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "Iran\u2019s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
-     "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T09:30:24+00:00",
-     "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as &#039;oil trustees&#039;.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T10:20:47.715340+00:00",
+   "fetched_at": "2026-11-21T10:50:50.987499+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T10:26:36+00:00",
+     "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attach\u00e9 being expelled.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
+    },
+    {
+     "title": "Was Vladimir Putin 'snubbed' by Xi Jinping? Viral handshake video is AI fake",
+     "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
+     "source": "France 24",
+     "published": "2026-11-21T10:16:44+00:00",
+     "summary": "A viral video appearing to show China's Xi Jinping \"snubbing\" Vladimir Putin at the APEC summit has racked up millions of views, fuelling speculation about tensions between Beijing",
+     "image": "https://s.france24.com/media/display/1b200bec-e594-11f1-aa9a-6b451f569414/w:1024/p:16x9/capture-7ab1fae9.jpg"
+    },
     {
      "title": "From Crimea to Kyiv, Bridges Become Targets in Russia\u2019s War on Ukraine",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcy1hSTk2VWUyYi1VczJ5N2k2S2FtbTBIU01qcE9NeHozUjlvcVhZblg0RlZ6Sy1XTkdZcktpZFR6SXNHY2pxRGVYR1hJemUxWWtweEVLZktVeC11QWlqaTc3alQ3ODRiMGhqUUQyV2ctbTViSFpkYmRKMG9FWUJCUHFfUzh5MWRIR2g2Q2RNckFtUjJFZExsUEVSWTlORHNiUmZlY3Y0OFloRFdVdXVvcklTWXk4WlZo?oc=5",
@@ -202,34 +218,18 @@
      "published": "2026-11-21T08:10:03+00:00",
      "summary": "The 21m tree is Oslo\u2019s annual thank you for Britain\u2019s support during World War Two.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg"
-    },
-    {
-     "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-     "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-     "source": "NPR",
-     "published": "2026-11-21T08:08:01+00:00",
-     "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more",
-     "image": ""
-    },
-    {
-     "title": "Russian Offensive Campaign Assessment, November 20, 2026",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlM4aDBCQjFpWWp6NFp3aU1wUVI2LXJLeFlFSmo3c2RiZ1hhbDgxOFJaWWtHc1JiYzBXd29mVXlsbzl3ZHF2a3RzQlZ1SFAtWVFWWXdITXpJMXU0a1RfZFVfQ1E5aHRGYjJtMFo3Y2p0dlpFZU1qbFd3S0dNYVVZZVM3cm1Lc3hkcDd0MGJBQkVRaHE4V21VVlc1cjdVaDZkTGlCQXFrdTByQXVj?oc=5",
-     "source": "Institute for the Study of War",
-     "published": "2026-11-21T07:41:15+00:00",
-     "summary": "Russian Offensive Campaign Assessment, November 20, 2026&nbsp;&nbsp;Institute for the Study of War",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T10:20:47.715343+00:00",
+   "fetched_at": "2026-11-21T10:50:50.987502+00:00",
    "stale": false,
    "items": [
     {
      "title": "Young Pa. voters shifted left. Will Democrats deliver the results they want?",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PWXhYVXZoaVJpYUJhMzhJSTNsU1dTajRaZzdkUDBRZ2hIcy1xMzhUS0JIWHVBcHVCUTFGQlB4bGFBLWk0a3k0eXZWTDBDNnhELTRUUlZ6QnVCVm92azg1cThDNlNiVEFFZEtHYlhfWFRMM3hkbGVB?oc=5",
      "source": "WHYY",
-     "published": "2026-11-21T10:07:30+00:00",
+     "published": "2026-11-21T10:07:37+00:00",
      "summary": "Young Pa. voters shifted left. Will Democrats deliver the results they want?&nbsp;&nbsp;WHYY",
      "image": ""
     },
@@ -239,14 +239,6 @@
      "source": "KFF Health News",
      "published": "2026-11-21T10:02:04+00:00",
      "summary": "Reporters Talk Measles, Pediatric Care, and Democrats\u2019 Post-Election Healthcare Agenda&nbsp;&nbsp;KFF Health News",
-     "image": ""
-    },
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xSDloaEZNX18tTHAzYWdfVldWYVVRT1hiSnJoSW8xS0FpRS1kMlEyeEl1MU5IQmdZa3lXXzZNZ0hBRUFaS3VjaEtqLUx6VUYtZno1SkNoVlVQTkZfXzlRMURWNVJEOWlNb0JLYWhsUDRsZw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-21T10:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-21T08:29:53+00:00",
      "summary": "France is bracing for a sixth consecutive Saturday of protests, with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social",
      "image": "https://s.france24.com/media/display/d32f2854-e584-11f1-99ca-13439ca2fe89/w:1024/p:16x9/2026-11-20T132656Z-204991454-RC2PROA8887Z-RTRMADP-3-EUROPE-PROTEST-FRANCE.jpg"
+    },
+    {
+     "title": "How a Liberal Fox News Host Braced for a Game-Changing Election Day",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTg5U2h0eFZsekpRR1BMWDRqeWxxdmxQdEU1cVV4QW5HNTZQTzlha3dmbnpaa0djSHF4MWJQbnU2blZNVlNGMlo1WjEzWVUwcGdocVhvNVNoTDBqM2dhWDFNTlhnb2ZfZS13UHA0VnBic1g1dU93dEFkY2FHemRtNU9aR240bTFrdWo4?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-21T08:00:00+00:00",
+     "summary": "How a Liberal Fox News Host Braced for a Game-Changing Election Day&nbsp;&nbsp;The New York Times",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T10:20:47.715345+00:00",
+   "fetched_at": "2026-11-21T10:50:50.987504+00:00",
    "stale": false,
    "items": [
     {
