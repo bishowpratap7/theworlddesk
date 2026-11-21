@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-21T06:20:05.295178+00:00",
+ "generated_at": "2026-11-21T06:50:08.564601+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T06:20:05.295151+00:00",
+   "fetched_at": "2026-11-21T06:50:08.564575+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Netanyahu is playing with the fire that killed Rabin",
+     "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T06:21:03+00:00",
+     "summary": "His attacks on Arab lawmakers echo the incitement that preceded Rabin\u2019s assassination and risk unleashing new violence.",
+     "image": ""
+    },
     {
      "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
      "url": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
@@ -12,6 +20,14 @@
      "published": "2026-11-21T06:00:53+00:00",
      "summary": "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a",
      "image": "https://i.guim.co.uk/img/media/b210f835d3402c106de262ff8f2b7ff286b6533c/35_0_4917_3933/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=4c73efff30b6f821b2bfb7045c9833b5"
+    },
+    {
+     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+     "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T06:00:09+00:00",
+     "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
     },
     {
      "title": "Can Israel\u2019s opposition bloc stay united against Netanyahu?",
@@ -34,7 +50,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-21T05:15:41+00:00",
-     "summary": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
+     "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
     },
     {
@@ -100,29 +116,21 @@
      "published": "2026-11-21T03:01:24+00:00",
      "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
      "image": ""
-    },
-    {
-     "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T02:49:16+00:00",
-     "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
-     "image": ""
-    },
-    {
-     "title": "Trump calls for Nvidia to reinstate \u2018brilliant\u2019 Jensen Huang",
-     "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T01:49:07+00:00",
-     "summary": "US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T06:20:05.295165+00:00",
+   "fetched_at": "2026-11-21T06:50:08.564589+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump Seeks Ukraine War Resolution Before Democratic Congress Majority",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcV9TYUQtTHhiLXRHdUdwdHNvWi1VU1Z4V01UTWJ1eGNSYWtoTC0yWGExdUNxT0MyS1NSNjRGa0RWaXlGbUV4U1VYR0pRZ01IS2tlSnY3YUdVeDFWeVY3NHRBRmJNSXZvSm56RGozZnNRUkZxNWJVaVlzY0ZCR0Y1blNqTEI?oc=5",
+     "source": "\uc870\uc120\uc77c\ubcf4",
+     "published": "2026-11-21T06:46:10+00:00",
+     "summary": "Trump Seeks Ukraine War Resolution Before Democratic Congress Majority&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
+     "image": ""
+    },
     {
      "title": "Donald Trump pushes Ukraine-Russia peace deal by January before Democrats take Congress",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbVp4dk1SR3RxcE1IekxQbW9DVVFpWUxmbHhmRjU2WGR1T21DZ3Fob1JuaXk5YTQwQldKa3BXNHJtejByODg1S1BoYlUxSVpzcnNTemtQRlFVRFVIVGZ3Rl9CSUdTM0lJakdFNXBZNDhDVFR6cUUzZ0tjRUhvZ0FzYmU0ZnBSRzhfaVE?oc=5",
@@ -144,7 +152,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-21T05:15:41+00:00",
-     "summary": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
+     "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
     },
     {
@@ -210,21 +218,29 @@
      "published": "2026-11-21T02:41:00+00:00",
      "summary": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland&nbsp;&nbsp;The Guardian",
      "image": ""
-    },
-    {
-     "title": "Australia, Canada, and New Zealand condemn Russia's war on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWFxTU1JUmdwWWVIMWREbllzVV91V0gyeU9rOHlQd2tWYlB5MDV6SmtyWUVSY003Zkh2QWptZW56UmNmVnVGSjh3alBKcXcxVlVoOU9XRVZHMjRZc3AxdHlXNjdRVlRDWmJFOTEwNmxRM2FkYVFIZmh5YXR2RUxfT1VfSDFpSnFONUZyTVJteVlKemNaT2FnMHRsZXhWS2pxcnRrMzJzejJ5ZGJaN0NPbg?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-21T02:19:54+00:00",
-     "summary": "Australia, Canada, and New Zealand condemn Russia's war on Ukraine&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T06:20:05.295168+00:00",
+   "fetched_at": "2026-11-21T06:50:08.564592+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Netanyahu is playing with the fire that killed Rabin",
+     "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T06:21:03+00:00",
+     "summary": "His attacks on Arab lawmakers echo the incitement that preceded Rabin\u2019s assassination and risk unleashing new violence.",
+     "image": ""
+    },
+    {
+     "title": "'Felt like it was really silencing': Wake students weigh in on draft memorial policy",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEdTRXphaWxjeUtWcW9SRHJ1LW1BcGQ3RlE3UGNOZkszTUlxRkpBS0hvVEFjSHRSX19PYm8yRkd5X1dVRnlYY25aZFFDU0ZfWXNWMjJiM1l1T2pOcnhIcHhrZGlxOGdMNjA1WWFlUUxqcEw4Rm1xQlZZQVgyeFNiUWVQaVREV05vRm9pTHdrS1ZIQlk?oc=5",
+     "source": "WRAL",
+     "published": "2026-11-21T05:35:26+00:00",
+     "summary": "'Felt like it was really silencing': Wake students weigh in on draft memorial policy&nbsp;&nbsp;WRAL",
+     "image": ""
+    },
     {
      "title": "Austin ISD adopts first AI policy, sets 18-month timeline for rules",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeksxRGttdnV6ZS1XX0xTTEpraURteDJLU0pJNHdQcXlOM1FBS2sxWWtaVmNNOGF6Z3I1YjV1ZmZhQm1aV3BmTHhqWi13MFkyU21lUkQ2Z0pkaUpOWEVoY0xnQWE5NURwN2I2THpOQUZudlp6cjBSZ0dHN29hVFc0dVUzOUh5WFpuZHI1OVB5SUNoMTFsT0F2cGxHcHd4c0c3eVVrS09LSTRCR2QzNEl6YXVQSDQtLUEyMFl1ZA?oc=5",
@@ -239,14 +255,6 @@
      "source": "WTOL",
      "published": "2026-11-21T04:27:00+00:00",
      "summary": "Lucas County election officials say they counted ballots before a court ordered to keep some sealed&nbsp;&nbsp;WTOL",
-     "image": ""
-    },
-    {
-     "title": "'Felt like it was really silencing': Wake students weigh in on draft memorial policy",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEdTRXphaWxjeUtWcW9SRHJ1LW1BcGQ3RlE3UGNOZkszTUlxRkpBS0hvVEFjSHRSX19PYm8yRkd5X1dVRnlYY25aZFFDU0ZfWXNWMjJiM1l1T2pOcnhIcHhrZGlxOGdMNjA1WWFlUUxqcEw4Rm1xQlZZQVgyeFNiUWVQaVREV05vRm9pTHdrS1ZIQlk?oc=5",
-     "source": "WRAL",
-     "published": "2026-11-21T04:21:13+00:00",
-     "summary": "'Felt like it was really silencing': Wake students weigh in on draft memorial policy&nbsp;&nbsp;WRAL",
      "image": ""
     },
     {
@@ -312,19 +320,11 @@
      "published": "2026-11-21T01:49:07+00:00",
      "summary": "US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.",
      "image": ""
-    },
-    {
-     "title": "Healthcare After the Election: What Comes Next?",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DS1dQVnJ4RzRuYzZ4U1B5OUNDZ0VMekk4TzFya2dFTXhON3FudElXRVF5X09xNm9LWFA4SlpiZmUxd3lLZ0FtWjRYZC1WUnl3RTcxYXZDSGpLSWxKeUhHZHZLM1JlbmkwUW1fQndpWGdqNjN2TlM0TG5CcXp3WlHSAYQBQVVfeXFMTjBJRFZ4OWtENUdfVjBZUEZJQ1pTT2hrZ2NmYmdrNFItTHJDdHBWWkJyWm1QS3Nra2EyVVdKRl9jMGwyVDZkWDBOOU0xTlc2RDZYcU11eGgyUmJlSkVaZ3E1eXhraVVFSGpTZVBuUm5hLVNXSXJCR2pUS3BHRlFTR2UyZ0hI?oc=5",
-     "source": "The National Law Review",
-     "published": "2026-11-21T01:37:12+00:00",
-     "summary": "Healthcare After the Election: What Comes Next?&nbsp;&nbsp;The National Law Review",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T06:20:05.295170+00:00",
+   "fetched_at": "2026-11-21T06:50:08.564594+00:00",
    "stale": false,
    "items": [
     {
@@ -334,14 +334,6 @@
      "published": "2026-11-20T22:42:47+00:00",
      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
-     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-     "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T17:49:48+00:00",
-     "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
     },
     {
      "title": "REPLAY: Burnham, Von der Leyen hail 'turning point' in EU-UK relations",
