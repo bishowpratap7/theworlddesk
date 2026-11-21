@@ -1,17 +1,33 @@
 {
- "generated_at": "2026-11-21T05:19:58.419445+00:00",
+ "generated_at": "2026-11-21T05:50:01.708428+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T05:19:58.419419+00:00",
+   "fetched_at": "2026-11-21T05:50:01.708402+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Funeral held for New York teen shot while walking to school",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T05:16:15+00:00",
+     "summary": "Funeral held for New York teen shot while walking to school",
+     "image": ""
+    },
     {
      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-21T05:15:41+00:00",
-     "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f48/live/f2f4d6c0-e55c-11f1-99a1-253766e7ad8b.jpg"
+     "summary": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
+    },
+    {
+     "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T05:08:40+00:00",
+     "summary": "Al Jazeera\u2019s Matthew Torres unpacks the latest from the world of artificial intelligence.",
+     "image": ""
     },
     {
      "title": "\u2018So what if there\u2019s a hole? It hasn\u2019t collapsed\u2019: Kyiv residents unbothered by Russian attacks on city\u2019s bridges",
@@ -100,36 +116,28 @@
      "published": "2026-11-21T01:43:15+00:00",
      "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung juryThe 30-year-old accused of sparking the deadly Palisades fire in Los An",
      "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7"
-    },
-    {
-     "title": "Can Africa\u2019s new credit rating agency change how the continent is assessed?",
-     "url": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T01:36:10+00:00",
-     "summary": "The new African agency aims to bring greater transparency to credit ratings.",
-     "image": ""
-    },
-    {
-     "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-     "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T01:12:48+00:00",
-     "summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T05:19:58.419432+00:00",
+   "fetched_at": "2026-11-21T05:50:01.708416+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ2swWkg0Y1BNeFgtZHZnQ3ZVV2JRUHd6QVZLQ3lUZTU2eWxiTFotMl9xT1paeDBqeXBCb2xWRklsWnZwanNvWnptaEZZekpTdTdERXY2emtYNDBUZ0EzMzU1akp3Wm45RTVqbzFBTWdVWVI5REo2VjFYUV8zTEJySGpsY0Z1ZmpmU1VHQ1dkTkNoYmxzVnJ6R1lCNklhclAyUFM1cnM5OEdPcGx3V2lidnoxS09IUzBheHowRE9mRHFDcTFva3I0QmhkZ2I4NWt5Y0xyb2FWUndjZjBDSnc?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-21T05:31:07+00:00",
+     "summary": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
     {
      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-21T05:15:41+00:00",
-     "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f48/live/f2f4d6c0-e55c-11f1-99a1-253766e7ad8b.jpg"
+     "summary": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
     },
     {
      "title": "\u2018So what if there\u2019s a hole? It hasn\u2019t collapsed\u2019: Kyiv residents unbothered by Russian attacks on city\u2019s bridges",
@@ -210,35 +218,35 @@
      "published": "2026-11-21T01:51:55+00:00",
      "summary": "Russia unleashes barrage of missiles on Ukraine, killing at least 8&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm5jdWw5MVdVbjdpWnZ2b0cyNnlpdnNqU0owNThlVDY0S1hSbkpOMGpZdm5TVU5QZ2lpSndBQnA2Q050RjA4M3VUYU02YVduem1ZUDI0NUlVeHE4OTVQSXVfRHZPZThocERscE1IUlpCWS1TbEJoaXk0NDN5RkQxQVRfLWF0Y2d6U1ZUTGRZWVZkX0k0dnd0aVZ0OXRxRGFJS3lkcmJlTHBUZ1VSVlBFYldac0VVckXSAbwBQVVfeXFMUGpWZzN4UHkyVDNNOVAtS0F4N1phV2ZzOWZxRXFnTWRKLXlKYUJURlJUQS1xanYzTEpBLWQ1TDNVaVBmLTFxZ0cya25VWER6SVhQX29RZ2tzYXNlV2VEYWV6RGdEVkFnVW56eS1JSkQ4VUMtUWx4M2lySTItQTFseTZMMFNZLUdvZy1COWh4d1M4dUp4Wk5yZWhpRVZVZkU2TnRlVFBRQ3p1MVNNdmdFeVBSX0o5ZUc2QU14ZVM?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T01:20:53+00:00",
-     "summary": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T05:19:58.419435+00:00",
+   "fetched_at": "2026-11-21T05:50:01.708419+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Austin ISD adopts first AI policy, sets 18-month timeline for rules",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeksxRGttdnV6ZS1XX0xTTEpraURteDJLU0pJNHdQcXlOM1FBS2sxWWtaVmNNOGF6Z3I1YjV1ZmZhQm1aV3BmTHhqWi13MFkyU21lUkQ2Z0pkaUpOWEVoY0xnQWE5NURwN2I2THpOQUZudlp6cjBSZ0dHN29hVFc0dVUzOUh5WFpuZHI1OVB5SUNoMTFsT0F2cGxHcHd4c0c3eVVrS09LSTRCR2QzNEl6YXVQSDQtLUEyMFl1ZA?oc=5",
+     "source": "Community Impact",
+     "published": "2026-11-21T04:30:28+00:00",
+     "summary": "Austin ISD adopts first AI policy, sets 18-month timeline for rules&nbsp;&nbsp;Community Impact",
+     "image": ""
+    },
+    {
+     "title": "Lucas County election officials say they counted ballots before a court ordered to keep some sealed",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWWJ1Q2dWNkt6eXhFZE9JQXNmejZTZy1nNjR5LU94RGYwQ0M2WUpiMWc5b1VCUTQtdmFKQWtocUV1UzRzQzA3VnZNNUJTa3p4Wm9RWTAxbUQ5RG8xbm9aVzF6U0hiNlB0ZmhadVJudUpfNUI1UHRQY1M1LTNkbXNTckE2MDFvVFV5V290Q1dDZFMwYTlkTWVWTjFpX1VkcHo0X2pMaG8xMVJ1MW52c2NFWHhRaVVPNEtwNC1SMzlBRHVLMFFJTkVlUkVZX3p0LWVCZnhqcnZ5WE96UTFYRDlHbHp5Qlh3ZmhIazVoYmg0MG1CQ09zczFvNHpGZ0FXZktWbUttOXhnelg3UQ?oc=5",
+     "source": "wtol.com",
+     "published": "2026-11-21T04:27:00+00:00",
+     "summary": "Lucas County election officials say they counted ballots before a court ordered to keep some sealed&nbsp;&nbsp;wtol.com",
+     "image": ""
+    },
     {
      "title": "Brazil investigates alleged foreign interference in presidential election despite Lula win",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGNGRmpJLU9wNkV1WE1FMlhNXzkwNW1QNERMQmNvSXF3RjdScXZTTDNRWHRvUW1rc0xpb1V3VGdtVkFwUXVIdGlPVEp0eDhPWi1XMVp3TFJmZzRLTHVIeVJia2dnSThpSnJUSkE0VVNmN1JoUUtpemh1RGlEWndWU044TUdRWHBKLU5zOHdzTHAtQVBYWjhxUkE4dEJETm8tXzZkU0V1RW13WjUzUTh3cG1aelZyN0JhNFAwbE1kNA?oc=5",
      "source": "Brazil Reports",
      "published": "2026-11-21T04:03:36+00:00",
      "summary": "Brazil investigates alleged foreign interference in presidential election despite Lula win&nbsp;&nbsp;Brazil Reports",
-     "image": ""
-    },
-    {
-     "title": "Student panelists discuss MAHA, national health policy at CDI event",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnNOLVA4RG5YU20yc0FaZGl1c2xuYVFhWUlBbWFJdzQ2dDFmWlhCWFREaE5FbmF3U1NLa01RRUt2endoVExWeFhXZmhJRERtc3R3WWM3b1NyNjdnVWlzWE1Nam9wd1VSajROZHhtRWJOVEthbmFIZXFuM1ViaEdFMlRUbE5jZFBWeFdwT2NEUzZxNkVJY2R0OFhjbUVYX2lhUmxQQ3h6WERoYkl0YVRxWlB3?oc=5",
-     "source": "The Cavalier Daily",
-     "published": "2026-11-21T03:29:16+00:00",
-     "summary": "Student panelists discuss MAHA, national health policy at CDI event&nbsp;&nbsp;The Cavalier Daily",
      "image": ""
     },
     {
@@ -282,14 +290,6 @@
      "image": ""
     },
     {
-     "title": "AU BOT approves universal post-tenure review policy",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVUw4OENESmxmS1VDUmdFb0c1QTE4NlNpVlowNHNnNGlHOVl3aWlCR0pBd2RKRXNtYXBldmdHNGt3d0xEb21LU2I2c1U2OXlXZTdxLU5nNkRwNDhWbFh4U2xQY3R3d0ppeVV5TWtDWnNWc1o5UmQ5U2F0Z1pOeVFFRGNUSlh1U1NsVnhOVUtOV25ZZTRWZ2prSVRKenFfZw?oc=5",
-     "source": "The Auburn Plainsman",
-     "published": "2026-11-21T02:21:46+00:00",
-     "summary": "AU BOT approves universal post-tenure review policy&nbsp;&nbsp;The Auburn Plainsman",
-     "image": ""
-    },
-    {
      "title": "Election Results Update Nov. 20",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XSVlLNXlmTG12WGxDZzhaUjNKVmhyZXU2bXpJVnZRZHZSSUh0Y0lqV0xPSXRKMFZ3WWhVUjR0eDdfMGwzOUtUTEtTbEtkZ09reTFaalZSa0FGMGxMLVZRYWdzMGpEdXJPUHNyMQ?oc=5",
      "source": "YubaNet",
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T05:19:58.419437+00:00",
+   "fetched_at": "2026-11-21T05:50:01.708421+00:00",
    "stale": false,
    "items": [
     {
