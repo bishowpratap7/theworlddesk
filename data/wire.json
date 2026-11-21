@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T22:22:31.313516+00:00",
+ "generated_at": "2026-11-21T22:52:34.566349+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T22:22:31.313481+00:00",
+   "fetched_at": "2026-11-21T22:52:34.566309+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T22:22:31.313499+00:00",
+   "fetched_at": "2026-11-21T22:52:34.566324+00:00",
    "stale": false,
    "items": [
     {
@@ -137,14 +137,6 @@
      "source": "NPR",
      "published": "2026-11-21T22:01:32+00:00",
      "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
-     "image": ""
-    },
-    {
-     "title": "Baltiysk air raid alert: explosions reported in Kaliningrad region",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUJjNk1sb3FmOFZtblpsdjJUaXJPaVNVTWg5aWpwRE81SVR6U3JOdjFJOXdrcEVpTm1TdjF6dkRiOHduTHhpMlhTYlhTU1BrYnMxc1JuamFUeU0xYVVHdXZ1NkNuN2I3RnBoLVJuTDV3LU45czhBY0xtZHZjbzlrS2pDeWs4MjJ4WXNtdTkwZGxIVWZVSGN3ZTZrckY3TXpiYmRULVFiZjNYdHgtT2N2UWdB?oc=5",
-     "source": "Around Prague",
-     "published": "2026-11-21T21:50:57+00:00",
-     "summary": "Baltiysk air raid alert: explosions reported in Kaliningrad region&nbsp;&nbsp;Around Prague",
      "image": ""
     },
     {
@@ -218,11 +210,19 @@
      "published": "2026-11-21T19:56:39+00:00",
      "summary": "A Russian ballistic missile attack on President Volodymyr Zelensky\u2019s hometown in central Ukraine on Saturday killed two people and wounded dozens. Hours later, Zelensky reiterated ",
      "image": "https://s.france24.com/media/display/700b9322-e5d7-11f1-9865-13439ca2fe89/w:1024/p:16x9/AP26325430245749.jpg"
+    },
+    {
+     "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
+     "url": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
+     "source": "France 24",
+     "published": "2026-11-21T19:55:07+00:00",
+     "summary": "A Russian ballistic missile attack on President Volodymyr Zelensky\u2019s hometown in central Ukraine on Saturday killed two people and wounded dozens. Hours later, Zelensky reiterated ",
+     "image": "https://s.france24.com/media/display/a1864982-e5d3-11f1-8806-1bac47ab2f5d/w:1024/p:16x9/EN-20261121-180653-181143-CS-01.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T22:22:31.313503+00:00",
+   "fetched_at": "2026-11-21T22:52:34.566328+00:00",
    "stale": false,
    "items": [
     {
@@ -314,19 +314,27 @@
      "image": ""
     },
     {
-     "title": "Republicans\u2019 midterm defeat corners Vance as 2028 field widens",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMW9pcWNiSU9TWmdyMWpjejdPSlVheTRDTnpybUtDTHZ1M21JRmZfTFBNaFRiZTBFdjhxZ21JU3h4V3Q2YldKYjBzTEhIRDVaRTlkb1laZnJOVGR0R0xjOW5KdE56aTNPZXM4cGtYdjBsTTI4WlBJLU92YUdKUDBfQWFQM3lOU0RQMHMwR0JaMzdZOTExQ0RYZ0pBRl9mS1BpS3dyUUZMTzJZTEs3SjNQektRdmp0VjJuSV9DN3ZhNjlBNWV3cjVoeA?oc=5",
-     "source": "The Detroit News",
-     "published": "2026-11-21T20:11:00+00:00",
-     "summary": "Republicans\u2019 midterm defeat corners Vance as 2028 field widens&nbsp;&nbsp;The Detroit News",
-     "image": ""
+     "title": "'Worst Ever' COP Summit?",
+     "url": "https://www.france24.com/en/tv-shows/spotlight/20261121-worst-ever-cop-summit",
+     "source": "France 24",
+     "published": "2026-11-21T20:08:48+00:00",
+     "summary": "Is this the worst COP summit on record? With limited political leadership, no official US delegation and mounting frustration over bureaucratic delays, questions are being raised a",
+     "image": "https://s.france24.com/media/display/755b0a80-e5e4-11f1-b9dd-ebb478925cf0/w:1024/p:16x9/d69ebdaa-0cf1-490b-a08a-17f4fcb9b566.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T22:22:31.313506+00:00",
+   "fetched_at": "2026-11-21T22:52:34.566331+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T22:42:47+00:00",
+     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
     {
      "title": "California investigates Nvidia over whether chip exports ended up in China",
      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
