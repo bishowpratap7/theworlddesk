@@ -1,10 +1,74 @@
 {
- "generated_at": "2026-11-21T17:51:51.565661+00:00",
+ "generated_at": "2026-11-21T18:22:03.729714+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T17:51:51.565632+00:00",
+   "fetched_at": "2026-11-21T18:22:03.729681+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Could Brexit be reversed?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T18:18:11+00:00",
+     "summary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+     "image": ""
+    },
+    {
+     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+     "source": "NPR",
+     "published": "2026-11-21T18:08:55+00:00",
+     "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the reg",
+     "image": ""
+    },
+    {
+     "title": "Trump orders contractors to check with White House over any congressional inquiries",
+     "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+     "source": "The Guardian",
+     "published": "2026-11-21T18:08:30+00:00",
+     "summary": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight effortsDonald Trump is directing federal contractors and subcontractor",
+     "image": "https://i.guim.co.uk/img/media/f021398e23c64249dd270de109b550a94bbd26fb/332_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ac681459ea7485f2b61ae3c5952d9496"
+    },
+    {
+     "title": "Trump says he wants \u2018permanent\u2019 deal to stop Iran getting nuclear weapons",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T18:05:51+00:00",
+     "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+     "image": ""
+    },
+    {
+     "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+     "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+     "source": "France 24",
+     "published": "2026-11-21T18:02:23+00:00",
+     "summary": "A Russian cargo ship caught fire after \u200bbeing hit by drones in the Baltic Sea on Saturday and drifted into Finnish waters. Reporting from Kyiv, FRANCE 24's Gulliver Cragg notes tha",
+     "image": "https://s.france24.com/media/display/8752a08e-e5d2-11f1-bad2-e56ab3dc0809/w:1024/p:16x9/EN-20261121-180424-180619-CS.jpg"
+    },
+    {
+     "title": "UK police drag man from protest over \u2018Pallet Sign Acton\u2019 shirt",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T17:57:27+00:00",
+     "summary": "UK police drag man from protest over \u2018Pallet Sign Acton\u2019 shirt",
+     "image": ""
+    },
+    {
+     "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T17:54:19+00:00",
+     "summary": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+     "image": ""
+    },
+    {
+     "title": "Alleged Mexican drug cartel boss \u2018El Chapo Isidro\u2019 arrested in special forces raid",
+     "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+     "source": "The Guardian",
+     "published": "2026-11-21T17:46:55+00:00",
+     "summary": "Fausto Isidro Meza Flores was one of FBI\u2019s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI\u2019s top 10 most wanted fugitive",
+     "image": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=140&quality=85&auto=format&fit=max&s=8e424ac24ad3eb43602b54fde7ef7bfb"
+    },
     {
      "title": "COP31: Deep divisions persist over energy, finance and science",
      "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
@@ -52,77 +116,53 @@
      "published": "2026-11-21T16:41:49+00:00",
      "summary": "A French court on Friday sentenced three policemen to serve time over the beating of a black music producer in 2020. It also recognized the assault on Michelle Zecler was racially ",
      "image": "https://s.france24.com/media/display/fe6b9b0e-e5c7-11f1-b6ae-13439ca2fe89/w:1024/p:16x9/capture-a27dd4a1.jpg"
-    },
-    {
-     "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-     "source": "The Guardian",
-     "published": "2026-11-21T16:39:49+00:00",
-     "summary": "Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve the math problem involving prime numbersA mathematician at Anthropic is contending that the San Francisco-ba",
-     "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f"
-    },
-    {
-     "title": "International UN talks on controlling use of autonomous weapons collapse",
-     "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-     "source": "The Guardian",
-     "published": "2026-11-21T16:36:11+00:00",
-     "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian \u2018filibustering\u2019Week-long efforts to agree a negotiating mandate for a legally binding internatio",
-     "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=19283afd22dbc9bfead542bffab860d5"
-    },
-    {
-     "title": "FBI reportedly investigating apparent hack of its criminal database",
-     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T16:35:15+00:00",
-     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "India\u2019s opposition stages protests against Meta over account removals",
-     "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T16:14:01+00:00",
-     "summary": "Indian Youth Congress issues a seven-day &#039;ultimatum&#039; to the US technology giant, urging it to lift all restrictions.",
-     "image": ""
-    },
-    {
-     "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-     "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T16:03:16+00:00",
-     "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI\u2019s most wanted list and faces US drug charges.",
-     "image": ""
-    },
-    {
-     "title": "Endurance athlete swims in Hormuz Strait",
-     "url": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
-     "source": "France 24",
-     "published": "2026-11-21T16:02:59+00:00",
-     "summary": "The Strait of Hormuz remains largely blocked, with Iran attacking vessels attempting to cross it. As concerns grow over the environmental impact of the war, with toxic chemicals sp",
-     "image": "https://s.france24.com/media/display/00399db4-e5c3-11f1-8eee-1bac47ab2f5d/w:1024/p:16x9/EN-20261121-141231-141431-CS.jpg"
-    },
-    {
-     "title": "France: Demonstrations losing steam as movement enters sixth week",
-     "url": "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
-     "source": "France 24",
-     "published": "2026-11-21T16:00:03+00:00",
-     "summary": "Around 2,200 people took part in protests across France by 2pm local time, according to the Interior Ministry, which recorded 44 demonstrations nationwide and seven arrests, with t",
-     "image": "https://s.france24.com/media/display/8f763168-e5c3-11f1-9c03-6b451f569414/w:1024/p:16x9/EN-20261121-150218-150512-CS.jpg"
-    },
-    {
-     "title": "Countries race to secure Cop31 deal",
-     "url": "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
-     "source": "France 24",
-     "published": "2026-11-21T15:52:00+00:00",
-     "summary": "COP31 climate talks have overrun their schedule as countries race to agree on a new global climate deal, following criticism of an earlier draft that made no mention of fossil fuel",
-     "image": "https://s.france24.com/media/display/6d4f505c-e5c2-11f1-a7da-1bac47ab2f5d/w:1024/p:16x9/EN-20261121-140732-141202-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T17:51:51.565646+00:00",
+   "fetched_at": "2026-11-21T18:22:03.729697+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump says he wants \u2018permanent\u2019 deal to stop Iran getting nuclear weapons",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T18:05:51+00:00",
+     "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+     "image": ""
+    },
+    {
+     "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+     "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+     "source": "France 24",
+     "published": "2026-11-21T18:02:23+00:00",
+     "summary": "A Russian cargo ship caught fire after \u200bbeing hit by drones in the Baltic Sea on Saturday and drifted into Finnish waters. Reporting from Kyiv, FRANCE 24's Gulliver Cragg notes tha",
+     "image": "https://s.france24.com/media/display/8752a08e-e5d2-11f1-bad2-e56ab3dc0809/w:1024/p:16x9/EN-20261121-180424-180619-CS.jpg"
+    },
+    {
+     "title": "Have the Polish people turned against Ukraine?",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2Z2bzltcXQwNjBvWk5QRkduZ3h5bmhyZ1N4d3VKQkd4dTZlcFppT2YtT1JicVVtOWtQaW1vak9BU3hGUWxSOWE2MmFWdl91N1hrR0I4b1UwaGw2Z0lxanM0ZlZzZDFYdS1vd2cwTWRtS0ZXT0puLXpzSlVCUVNTSnI5LV9JSU1VaVVCTjJ0SWZBSkE0V0ZSTDVLcjRHY19GQUpkSWY3QS1mWTJybTM4WWV0MA?oc=5",
+     "source": "The Times",
+     "published": "2026-11-21T17:55:00+00:00",
+     "summary": "Have the Polish people turned against Ukraine?&nbsp;&nbsp;The Times",
+     "image": ""
+    },
+    {
+     "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T17:54:19+00:00",
+     "summary": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+     "image": ""
+    },
+    {
+     "title": "Alleged Mexican drug cartel boss \u2018El Chapo Isidro\u2019 arrested in special forces raid",
+     "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+     "source": "The Guardian",
+     "published": "2026-11-21T17:46:55+00:00",
+     "summary": "Fausto Isidro Meza Flores was one of FBI\u2019s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI\u2019s top 10 most wanted fugitive",
+     "image": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=140&quality=85&auto=format&fit=max&s=8e424ac24ad3eb43602b54fde7ef7bfb"
+    },
     {
      "title": "COP31: Deep divisions persist over energy, finance and science",
      "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
@@ -178,53 +218,61 @@
      "published": "2026-11-21T15:35:10+00:00",
      "summary": "NATO Secretary General pledges solidarity with Poland after missile incursion&nbsp;&nbsp;Vatican News",
      "image": ""
-    },
-    {
-     "title": "Ukraine War, Day 1,731: Russia Murders Child and Paramedic, Injures 52 in Kryvyi Rih",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3hUazcyZ0J0a2Y0c1hodFBWc09tSkg5RHdINE1FalBCbV8zSzNPalpzc2plN2xBVGlsZzd6OHZyMGJxWi12dzZyR3VCcWJTWVVNSWtuSjZOVTMzZUtLUXRsUzJ4dVBDWkJTbXZLLWhER01INFJ2aXZmZHUtQkhCOWk2aU5GT1NZM0d1NjhyQQ?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-21T15:13:13+00:00",
-     "summary": "Ukraine War, Day 1,731: Russia Murders Child and Paramedic, Injures 52 in Kryvyi Rih&nbsp;&nbsp;EA WorldView",
-     "image": ""
-    },
-    {
-     "title": "Russian drones strike central Kyiv, damaging four embassies and killing one civilian",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGNpemZFUTFMTlZ2ZzAtT3FiRkptcHZPZ2thTVQ5WGdRNkJWajJiME9CSVNSZEZFQzg5NEwwblpITHVqdXp4dTdaWGtXMzVoMU81SzFkUGdaU0w3c1UzcXgyWVNQcEVTc191VFVjV1k3dGY2YXhkUWpCNEpnbF9LX2RTWmR5Zw?oc=5",
-     "source": "Latin Times",
-     "published": "2026-11-21T15:04:05+00:00",
-     "summary": "Russian drones strike central Kyiv, damaging four embassies and killing one civilian&nbsp;&nbsp;Latin Times",
-     "image": ""
-    },
-    {
-     "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-     "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T15:01:18+00:00",
-     "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-     "image": ""
-    },
-    {
-     "title": "Zelenskyy Says Trump-Putin-Ukraine Peace Talks Could Take Place at G20 Summit in December",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREl3Z2t4aWs2eFBzOEVJRXZXazlEZ0pGencxNVNiU251eU5PazhzVXAxWW11YVpYa1pKSzZKcEJiR2ROazVnVjBQbXIzT2g1Z2hES0lEb1YySXhEMm95eWxab21ZZld2SkZ4dEJDOGJwVER5UjYyVjRyT1ptWUVjdTdMbzNIV1dsSnRoTkZwMEM3c1l2aTc5aEJ2ZnQtX3ZRS25oQzBFVmhlZmYxY2dRMzV3XzJqd0JNQWs1OHVFSEdTV2hnaFliYVc0Vlk?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-21T14:58:01+00:00",
-     "summary": "Zelenskyy Says Trump-Putin-Ukraine Peace Talks Could Take Place at G20 Summit in December&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
-     "source": "The Guardian",
-     "published": "2026-11-21T14:51:37+00:00",
-     "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on SundayCold snaps are to make way for heavy rain in some parts of the country as the",
-     "image": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T17:51:51.565650+00:00",
+   "fetched_at": "2026-11-21T18:22:03.729701+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Could Brexit be reversed?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T18:18:11+00:00",
+     "summary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+     "image": ""
+    },
+    {
+     "title": "LaPlace native Penny Brown Reynolds reflects on historic Georgia election win, Louisiana roots",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYi1DQmJwc1dPR0VvbzhIbTU5TzBkWkdnOHFuZk13VWpvWnJuaXpCTExyOTdPbUs5WEdwWnhKeExGa3V2UThVd19yd20zS3E0bW5ENUdBS0FaSGtaSVREcXdRNjdZSlotRkg5b0pWcU5xLVpfekk0SUxXN2dlUk05SmhGblpLX3E2RHV3RktGOHZnOVBaS2ZaZ19CMzYzbWRPX3hSektzNS0zNnVoQUNNN2Vscnh4NEltQXM5ckhIR2c2QzROdEd4Ni0zc2pycVc0ODJwNG4zcDBZb3VnQUhrTEJXZUIwbkluTU9HY0ZKMGZDbzRYbXlpU0w2VktJYXJ6M0JCNDZ4M1VLUQ?oc=5",
+     "source": "WWLTV.com",
+     "published": "2026-11-21T18:13:19+00:00",
+     "summary": "LaPlace native Penny Brown Reynolds reflects on historic Georgia election win, Louisiana roots&nbsp;&nbsp;WWLTV.com",
+     "image": ""
+    },
+    {
+     "title": "Trump orders contractors to check with White House over any congressional inquiries",
+     "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+     "source": "The Guardian",
+     "published": "2026-11-21T18:08:30+00:00",
+     "summary": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight effortsDonald Trump is directing federal contractors and subcontractor",
+     "image": "https://i.guim.co.uk/img/media/f021398e23c64249dd270de109b550a94bbd26fb/332_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ac681459ea7485f2b61ae3c5952d9496"
+    },
+    {
+     "title": "UK police drag man from protest over \u2018Pallet Sign Acton\u2019 shirt",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T17:57:27+00:00",
+     "summary": "UK police drag man from protest over \u2018Pallet Sign Acton\u2019 shirt",
+     "image": ""
+    },
+    {
+     "title": "Commentary: Campaigns spent millions on AI in election advertising \u2013 but was it effective?",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHNUZkh2UWRrZC1tNlNXV3djQ0t5QWQtNzFkVndTdHVXZHBTVnB1WlZNTjZya3VQTVBTWGI5RS1OeTk0RlB0aXM0b0FBSm5vWjFWNWdZSFN4N2ZsTElQQ0NNU043YXFsZ1h3Qmp5am16YVJqYmVLRzR5T1F5dTM5dGVXMGI4X1pzYXpvOUxlQmtiM1ZT?oc=5",
+     "source": "Times of San Diego",
+     "published": "2026-11-21T17:50:00+00:00",
+     "summary": "Commentary: Campaigns spent millions on AI in election advertising \u2013 but was it effective?&nbsp;&nbsp;Times of San Diego",
+     "image": ""
+    },
+    {
+     "title": "\u2018Prioritizing ideology\u2019: Alaska Republicans face a reckoning after election losses",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekcwMGx5QlF6OC13Nm1UeUk2dEw3WG9YZy1OQnVkRllvVjh3RGRTc3VDdE1fQkxuX0tOOXl2ZzBPMDhOamJYcFdlSV9ZbERhVjVTX3JaM3hxTlUyTDlzTktIRHBmMEMyUkZ6ZllWaTlRN05ka2YtdnRLTWhEVkJTM3F1OEMwbHdSNDRkbjhISW5kTzJTendiY2F4RGc0bFZKd294ZDBiQkk1Q3JKN0VzTA?oc=5",
+     "source": "Anchorage Daily News",
+     "published": "2026-11-21T17:03:45+00:00",
+     "summary": "\u2018Prioritizing ideology\u2019: Alaska Republicans face a reckoning after election losses&nbsp;&nbsp;Anchorage Daily News",
+     "image": ""
+    },
     {
      "title": "California school board defies state by passing policy banning trans athletes from girls sports | OutKick",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDM1RGJaYlBXM2N3aDg0dmxENVhvb3JsRWJSYjYzSThIR3VqX18xeENESlNVbGoyMUpyQk1Yc2hFdVlabXpVdXpiS3NKQk1pWlNNTkdMU01xV1pBWFN5NHprbWJ3cjVJSXlFN0V5TXQxNlNoX3lNWXM3U2RYaTk1V29LWTJXWlJrYWZoYWF3cFNYRmdSekRkX3RPY0ViLWhGd012UXp1T2owVzFVaXk4cEF5dVE1YVUxeTFHSmlwNWpBLXZh?oc=5",
@@ -239,14 +287,6 @@
      "source": "Oncodaily",
      "published": "2026-11-21T16:56:04+00:00",
      "summary": "Exploring How National Cancer Control Plans Can Maintain Cancer Policy Commitments - ECO&nbsp;&nbsp;Oncodaily",
-     "image": ""
-    },
-    {
-     "title": "\u2018Prioritizing ideology\u2019: Alaska Republicans face a reckoning after election losses",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekcwMGx5QlF6OC13Nm1UeUk2dEw3WG9YZy1OQnVkRllvVjh3RGRTc3VDdE1fQkxuX0tOOXl2ZzBPMDhOamJYcFdlSV9ZbERhVjVTX3JaM3hxTlUyTDlzTktIRHBmMEMyUkZ6ZllWaTlRN05ka2YtdnRLTWhEVkJTM3F1OEMwbHdSNDRkbjhISW5kTzJTendiY2F4RGc0bFZKd294ZDBiQkk1Q3JKN0VzTA?oc=5",
-     "source": "Anchorage Daily News",
-     "published": "2026-11-21T16:54:22+00:00",
-     "summary": "\u2018Prioritizing ideology\u2019: Alaska Republicans face a reckoning after election losses&nbsp;&nbsp;Anchorage Daily News",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-21T16:00:00+00:00",
      "summary": "Cal Thomas: The consequences of the recent election&nbsp;&nbsp;Shaw Local",
      "image": ""
-    },
-    {
-     "title": "New day of protests across France",
-     "url": "https://www.france24.com/en/new-day-of-protests-across-france",
-     "source": "France 24",
-     "published": "2026-11-21T15:50:52+00:00",
-     "summary": "France faces a sixth consecutive Saturday of protests, with demonstrators taking to the streets to rally over the rising cost of living and the government's handling of weeks of so",
-     "image": "https://s.france24.com/media/display/0a541938-e5c2-11f1-8713-13439ca2fe89/w:1024/p:16x9/EN-20261121-140232-140627-CS.jpg"
-    },
-    {
-     "title": "US midterms 2026: What happens before the new Congress takes office?",
-     "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T15:49:32+00:00",
-     "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
-     "image": ""
-    },
-    {
-     "title": "French presidential candidate blames media for racist attack",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T15:46:18+00:00",
-     "summary": "French presidential candidate blames media for racist attack",
-     "image": ""
-    },
-    {
-     "title": "2026 Midterm Election: Guide To The 120th Congress",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNEltMEo1QnJ4dlc2NUhxb3BjV3NQbHpLRlcwcXB4SnBuaVJTc0hLTWtvSmlSVzFvVlFZVGxXZXZyb1o1ZWxESV9YQVlGOFlybTJNdjloUHoyM2pobWZrWXJQRFdOUENnYzdrU0Job2ZXVGRNcDB1VzFodVdMNzZidkhwaTNiSTRTNUNIMEpsYzJLVWZvZnVqVXhWUjRHbV9nRkVSNWtaU0FPSklnOFh1WmlBQm0yVDhOYk9EeXFXeU44TDdr?oc=5",
-     "source": "Legal 500",
-     "published": "2026-11-21T15:23:19+00:00",
-     "summary": "2026 Midterm Election: Guide To The 120th Congress&nbsp;&nbsp;Legal 500",
-     "image": ""
-    },
-    {
-     "title": "Diallo present as Africa\u2019s Motsepe reiterates support for FIFA\u2019s Infantino",
-     "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T15:20:43+00:00",
-     "summary": "Africa&#039;s CAF join South America&#039;s CONMEBOL in giving unanimous support of FIFA President Gianni Infantino&#039;s re-election.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T17:51:51.565652+00:00",
+   "fetched_at": "2026-11-21T18:22:03.729704+00:00",
    "stale": false,
    "items": [
     {
