@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-21T07:20:11.634930+00:00",
+ "generated_at": "2026-11-21T07:50:14.809814+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T07:20:11.634905+00:00",
+   "fetched_at": "2026-11-21T07:50:14.809788+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T07:31:05+00:00",
+     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
+    },
+    {
+     "title": "At least two killed, 28 injured in fire at power station in Iraq\u2019s Basra",
+     "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T07:25:29+00:00",
+     "summary": "The blaze at the Hartha power station that spread to nearby houses injures dozens of others.",
+     "image": ""
+    },
+    {
+     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+     "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T07:24:45+00:00",
+     "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
+    },
+    {
+     "title": "Emergency crews in Ukraine hit by a double-tap strike",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T07:12:03+00:00",
+     "summary": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+     "image": ""
+    },
+    {
+     "title": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
+     "url": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T07:07:59+00:00",
+     "summary": "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.",
+     "image": ""
+    },
     {
      "title": "US Agriculture Department and FBI hit by cyberattacks, media report",
      "url": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
@@ -12,6 +52,14 @@
      "published": "2026-11-21T07:01:04+00:00",
      "summary": "Hackers breached systerms at the US Agriculture Department and the FBI, US media reported, amid a recent wave of major technology disruptions across the country.",
      "image": "https://s.france24.com/media/display/c8b6415c-e578-11f1-81f3-6b451f569414/w:1024/p:16x9/AP24318480363864.jpg"
+    },
+    {
+     "title": "Train collides with minibus in Indonesia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T06:55:02+00:00",
+     "summary": "Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it.",
+     "image": ""
     },
     {
      "title": "Sudan\u2019s war will end, but will it be too late?",
@@ -62,67 +110,59 @@
      "image": ""
     },
     {
-     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-     "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T05:15:41+00:00",
-     "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
-    },
-    {
      "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-21T05:08:40+00:00",
      "summary": "Al Jazeera\u2019s Matthew Torres unpacks the latest from the world of artificial intelligence.",
      "image": ""
-    },
-    {
-     "title": "\u2018So what if there\u2019s a hole? It hasn\u2019t collapsed\u2019: Kyiv residents unbothered by Russian attacks on city\u2019s bridges",
-     "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-     "source": "The Guardian",
-     "published": "2026-11-21T05:00:50+00:00",
-     "summary": "Despite dodging tears in the tarmac, people are confident in city\u2019s infrastructure \u2013 and will not worry about what has not happened yetMykola expects to drive his battered beige pa",
-     "image": "https://i.guim.co.uk/img/media/6d132cb3da5f06c121f49b617e424621050b17ce/188_0_5624_4500/master/5624.jpg?width=140&quality=85&auto=format&fit=max&s=b518285330ac63c934be7240c7e3a2f5"
-    },
-    {
-     "title": "Tourists are throwing fewer coins into Rome\u2019s Trevi fountain \u2013 is \u20ac2 entry fee to blame?",
-     "url": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
-     "source": "The Guardian",
-     "published": "2026-11-21T05:00:49+00:00",
-     "summary": "Charity that collects the coins says donations are down by \u00a3200,000 after a barrier was put in place to restrict accessWhen Jeff Clinton, an American visiting Rome with his wife fo",
-     "image": "https://i.guim.co.uk/img/media/995e47462557fa57e3a198604992fb49faee6fc8/536_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c688aa15830c56e6c0a2bedeefdcb500"
-    },
-    {
-     "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-21T04:44:00+00:00",
-     "summary": "Victoria police say boy, 17, communicated with offenders under username \u2018Onepercent\u2019Get our breaking news email, free app or daily news podcastVictorian police allege a 17-year-old",
-     "image": "https://i.guim.co.uk/img/media/99136bef967ae4aba72dfc6e04e06a4ec0dc1eab/0_1497_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=cb1363336ef34583a49d6bf4a024f358"
-    },
-    {
-     "title": "Man convicted of starting Palisades fire in Los Angeles",
-     "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T04:34:00+00:00",
-     "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg"
-    },
-    {
-     "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-     "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T04:32:07+00:00",
-     "summary": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T07:20:11.634918+00:00",
+   "fetched_at": "2026-11-21T07:50:14.809802+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm5jdWw5MVdVbjdpWnZ2b0cyNnlpdnNqU0owNThlVDY0S1hSbkpOMGpZdm5TVU5QZ2lpSndBQnA2Q050RjA4M3VUYU02YVduem1ZUDI0NUlVeHE4OTVQSXVfRHZPZThocERscE1IUlpCWS1TbEJoaXk0NDN5RkQxQVRfLWF0Y2d6U1ZUTGRZWVZkX0k0dnd0aVZ0OXRxRGFJS3lkcmJlTHBUZ1VSVlBFYldac0VVckXSAbwBQVVfeXFMUGpWZzN4UHkyVDNNOVAtS0F4N1phV2ZzOWZxRXFnTWRKLXlKYUJURlJUQS1xanYzTEpBLWQ1TDNVaVBmLTFxZ0cya25VWER6SVhQX29RZ2tzYXNlV2VEYWV6RGdEVkFnVW56eS1JSkQ4VUMtUWx4M2lySTItQTFseTZMMFNZLUdvZy1COWh4d1M4dUp4Wk5yZWhpRVZVZkU2TnRlVFBRQ3p1MVNNdmdFeVBSX0o5ZUc2QU14ZVM?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T07:41:15+00:00",
+     "summary": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "General Staff: Russia has lost 1,634,860 troops in Ukraine since Feb. 24, 2022",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkFxTGk2VHBtYlBTcXlYQVV4MzRrX3ppM0ZEeGRiRk5LcXJtRG1iVHZVcnc0SzIyM1VYdlJQQkxqaWpYZ3l5eTE4R1kxZGNYM1k2bERRMm9HbW5yMW1iZ05BSHE5akdUOUFOZlNFYm1BNm45ZWlKcFpYUTZVQ0kyWnBPV3hBYUF6NFhISnJJc090dUNLNjNMRjM1dW0yY0N3YWdPR293bw?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-21T07:29:44+00:00",
+     "summary": "General Staff: Russia has lost 1,634,860 troops in Ukraine since Feb. 24, 2022&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "Melania Trump Expresses Hope for Ukraine-Russia Ceasefire by Christmas",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDaWhRcnEwZTRPRlR5aUtKdWlaVnZucjZlaWpTZDRWQ0FqZVc4VHpfVlhwMW5qU2FJWlNZX0RTTnpTU2dBYzh3Q01GWQ?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-21T07:25:18+00:00",
+     "summary": "Melania Trump Expresses Hope for Ukraine-Russia Ceasefire by Christmas&nbsp;&nbsp;Kyiv Post",
+     "image": ""
+    },
+    {
+     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+     "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T07:24:45+00:00",
+     "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
+    },
+    {
+     "title": "Emergency crews in Ukraine hit by a double-tap strike",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM01ZSXctd2xlMUMteFN1NXBicjNLLUVHam52YkZUSDU2TjFpN3UwTDZ5Mmh6ZXl6RE9iRjR5eDI4TVJtR0FDWUhNdVluYndiaEJjaDZxekIweFhMNjVuNnItWU4wWm5QbHRpdzZKTngtTkZYWkxxZGQ0cjZ1enBvaFQ5OUp6aHJ5RzRsQ29FVkRWa1Y3bFJwZDN6b19zRXItN1VNUlNRMHLSAa4BQVVfeXFMTVRuM3ZFUG12LWpOX1hBS05IZEpKQmdQbFEzd3pwOHk3dENZNU5DTFFDdktDTDl3dE9NRE4xdFZ5RnQ2cVJGcVFUQlNxUnpYdGZlaUpIMG1wYmJ6alI5aVNZVmRBTTNVaUViVEMwckZlTm51eDhhQTFBYlA5cmN6S3VmeDFaYmJONnB4ZG9lNWdRbU9TNWgtM1NJdXJWU3MyYU44ZlRBS0hkU2c1V2JB?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T07:14:29+00:00",
+     "summary": "Emergency crews in Ukraine hit by a double-tap strike&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
     {
      "title": "Ukraine War, Day 1,731: Russia Murders Child and Paramedic, Injures 52 in Kryvyi Rih",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3hUazcyZ0J0a2Y0c1hodFBWc09tSkg5RHdINE1FalBCbV8zSzNPalpzc2plN2xBVGlsZzd6OHZyMGJxWi12dzZyR3VCcWJTWVVNSWtuSjZOVTMzZUtLUXRsUzJ4dVBDWkJTbXZLLWhER01INFJ2aXZmZHUtQkhCOWk2aU5GT1NZM0d1NjhyQQ?oc=5",
@@ -172,67 +212,19 @@
      "image": ""
     },
     {
-     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-     "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T05:15:41+00:00",
-     "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
-    },
-    {
-     "title": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPbnVNNnNjREtjOXViazhKY1c0dHhGWDMwRVBfMWNjYTg4NThfd3VKUTlEREREWHp5dHJBR2RrMkw0VzUzVU9FVTJsZHN2X3FkZVV4TEU4aGV1THN5WkpackhuRlZkSjdWX093aUtPWEY2UEdUdWZva0paWEd4STNVTVdZWDZwQXowQTc3SVlVbzRBOXZZWU5xTXdEeG5td1NrQUtkYVRNdE9DZnR3eGNScnB4RnVhdk81Z2plY3k0b3RlSnB2MFF5ZG1haDhINUZYbjZUT3BjaHBRU3dNeXZ0S2Q3OTZCNGhtcVpad2NISHBOR0lhU0dkb2VGUzVKd1duekE5OXB5WGZsa0VDUjNrLWZfWi1pQQ?oc=5",
-     "source": "Union-Bulletin",
-     "published": "2026-11-21T05:01:07+00:00",
-     "summary": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks&nbsp;&nbsp;Union-Bulletin",
-     "image": ""
-    },
-    {
-     "title": "\u2018So what if there\u2019s a hole? It hasn\u2019t collapsed\u2019: Kyiv residents unbothered by Russian attacks on city\u2019s bridges",
-     "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-     "source": "The Guardian",
-     "published": "2026-11-21T05:00:50+00:00",
-     "summary": "Despite dodging tears in the tarmac, people are confident in city\u2019s infrastructure \u2013 and will not worry about what has not happened yetMykola expects to drive his battered beige pa",
-     "image": "https://i.guim.co.uk/img/media/6d132cb3da5f06c121f49b617e424621050b17ce/188_0_5624_4500/master/5624.jpg?width=140&quality=85&auto=format&fit=max&s=b518285330ac63c934be7240c7e3a2f5"
-    },
-    {
-     "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-21T04:44:00+00:00",
-     "summary": "Victoria police say boy, 17, communicated with offenders under username \u2018Onepercent\u2019Get our breaking news email, free app or daily news podcastVictorian police allege a 17-year-old",
-     "image": "https://i.guim.co.uk/img/media/99136bef967ae4aba72dfc6e04e06a4ec0dc1eab/0_1497_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=cb1363336ef34583a49d6bf4a024f358"
-    },
-    {
-     "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDLWthSTJrLTBqRmhiM2p2b1lXYlpwUHFYbEladmozZnZYZ0dfMnphQjJSUFdFYUxsdFhackxnTVlpXzVWLUZwWUo3Y0YwY29la3A0SjRhVVBXb1k?oc=5",
-     "source": "BBC",
-     "published": "2026-11-21T04:32:50+00:00",
-     "summary": "'He's a killer': Zelensky reacts to Trump calling Putin a friend&nbsp;&nbsp;BBC",
-     "image": ""
-    },
-    {
-     "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-     "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T04:32:07+00:00",
-     "summary": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+     "title": "Total russian combat losses in Ukraine as of November 21, 2026",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdxUks2MU1YNmxWaFpHQUQzOTZBWGVJN0x4bkNEcHVMSmRLTkpVcGtYaGRMZTNMVzNBaHJCTFlVdnJZZFdwU3M1cmtHcXE2eGFmX0VhS0YzR0VqWnRyYThBeEZPYnkzX0JRZUdYZXJRSmQzRmt3aGVrdEpaLVNJSlduUG5fNi1vczVOWVNrVS1pUQ?oc=5",
+     "source": "\u041c\u0456\u043d\u0456\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u043e\u0431\u043e\u0440\u043e\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+     "published": "2026-11-21T05:20:00+00:00",
+     "summary": "Total russian combat losses in Ukraine as of November 21, 2026&nbsp;&nbsp;\u041c\u0456\u043d\u0456\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u043e\u0431\u043e\u0440\u043e\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T07:20:11.634921+00:00",
+   "fetched_at": "2026-11-21T07:50:14.809804+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xSDloaEZNX18tTHAzYWdfVldWYVVRT1hiSnJoSW8xS0FpRS1kMlEyeEl1MU5IQmdZa3lXXzZNZ0hBRUFaS3VjaEtqLUx6VUYtZno1SkNoVlVQTkZfXzlRMURWNVJEOWlNb0JLYWhsUDRsZw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-21T07:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
     {
      "title": "Report from Joint Taxation & Economic Development Policy Committee Meeting",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRTBqMVFrd2ZLYnN2VGNLeVBvb0FNU0Q3dDB1VkFQZ1BDUXg3Mjl2eGJuZnVoM1FfdkwtT1VEbDNRQzFNYjlkMTZpWjlSQmRBYlItNmNJSUpPdno4OXF2YkxzQk9jbjdtXzdvd21lMW5VNUQ2TXY0Q3hwRVVUc2hZdmN4am9DTFp2YlFoVWJuaUJOYUIxY0x3SQ?oc=5",
@@ -274,14 +266,6 @@
      "image": ""
     },
     {
-     "title": "Lucas County election officials say they counted ballots before a court ordered to keep some sealed",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWWJ1Q2dWNkt6eXhFZE9JQXNmejZTZy1nNjR5LU94RGYwQ0M2WUpiMWc5b1VCUTQtdmFKQWtocUV1UzRzQzA3VnZNNUJTa3p4Wm9RWTAxbUQ5RG8xbm9aVzF6U0hiNlB0ZmhadVJudUpfNUI1UHRQY1M1LTNkbXNTckE2MDFvVFV5V290Q1dDZFMwYTlkTWVWTjFpX1VkcHo0X2pMaG8xMVJ1MW52c2NFWHhRaVVPNEtwNC1SMzlBRHVLMFFJTkVlUkVZX3p0LWVCZnhqcnZ5WE96UTFYRDlHbHp5Qlh3ZmhIazVoYmg0MG1CQ09zczFvNHpGZ0FXZktWbUttOXhnelg3UQ?oc=5",
-     "source": "WTOL",
-     "published": "2026-11-21T04:27:00+00:00",
-     "summary": "Lucas County election officials say they counted ballots before a court ordered to keep some sealed&nbsp;&nbsp;WTOL",
-     "image": ""
-    },
-    {
      "title": "Spanish Fort lawyer drops appeal of sanctions over AI-generated fake case citations",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdExWWWtGcG9jMWxJOU0wQ0loMVF5ank5R0QtUDFfR2JjMk8zMUFFUmxjbVFRcHJhd09pWmFiNEdoSExBVTJ0Nk1YRjNWNGV2SFJQU0ExU19udlpBanRHVkRzaEh6d3h2TmtqSUFOMkU2TElIdWFrRS1RTi1rdGF6eVlPbDBEcGxZVERIdkFEUWJpOGlmQndCeHF1R2pHZnhxR2pxLUdQZWhPRmRHbGEyNWRvX00zS1VxNm84bFM2QQ?oc=5",
      "source": "fox10tv.com",
@@ -320,11 +304,27 @@
      "published": "2026-11-21T02:34:00+00:00",
      "summary": "Regents hear report on outcomes of UC\u2019s sexual violence and harassment policy&nbsp;&nbsp;Daily Bruin",
      "image": ""
+    },
+    {
+     "title": "Election Results Update Nov. 20",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XSVlLNXlmTG12WGxDZzhaUjNKVmhyZXU2bXpJVnZRZHZSSUh0Y0lqV0xPSXRKMFZ3WWhVUjR0eDdfMGwzOUtUTEtTbEtkZ09reTFaalZSa0FGMGxMLVZRYWdzMGpEdXJPUHNyMQ?oc=5",
+     "source": "YubaNet",
+     "published": "2026-11-21T02:20:08+00:00",
+     "summary": "Election Results Update Nov. 20&nbsp;&nbsp;YubaNet",
+     "image": ""
+    },
+    {
+     "title": "Newport Beach council reluctantly schedules March special election for 3 resident-initiated measures",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORWZLYXk3eWlYVHNzLVNYZFN5ZnpIdUVqRkUtMTBEMGtZQ2J4WVdIdWN4cktranFfVkdJWXBZSjY0NV9PeVlMTzZ5NTY5ZnN5QUhhdElFZ2xMUFU3RkFxQldhVUUwOVJMNWNXOEd3R0VlbXFESmp2clZzMTgyam5Lam9xSnl0b0J2cjNPT1VybkVnQlVCS3JLcy1GSFJGNnNIYXktUWJ5aFFDeWFBV2w5RnFyeGZxM2E0b0xFQ2dHZGtaSzFNOG50elNIRlpMXzZDZURiTW5B?oc=5",
+     "source": "Orange County Register",
+     "published": "2026-11-21T02:14:08+00:00",
+     "summary": "Newport Beach council reluctantly schedules March special election for 3 resident-initiated measures&nbsp;&nbsp;Orange County Register",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T07:20:11.634923+00:00",
+   "fetched_at": "2026-11-21T07:50:14.809806+00:00",
    "stale": false,
    "items": [
     {
