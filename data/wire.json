@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T07:50:14.809814+00:00",
+ "generated_at": "2026-11-21T07:50:32.482525+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T07:50:14.809788+00:00",
+   "fetched_at": "2026-11-21T07:50:32.482487+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T07:50:14.809802+00:00",
+   "fetched_at": "2026-11-21T07:50:32.482501+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T07:50:14.809804+00:00",
+   "fetched_at": "2026-11-21T07:50:32.482503+00:00",
    "stale": false,
    "items": [
     {
@@ -231,14 +231,6 @@
      "source": "New Jersey Business & Industry Association",
      "published": "2026-11-21T06:43:28+00:00",
      "summary": "Report from Joint Taxation & Economic Development Policy Committee Meeting&nbsp;&nbsp;New Jersey Business & Industry Association",
-     "image": ""
-    },
-    {
-     "title": "Recap: Middletown School Committee Advances Kindergarten Toilet-Training Policy, Approves Budget Calendar",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVldTalZrenprQXBxLS1jRTBSQ1dBQTdFVEVaaE1LYlVySWNDTEd3MEZ0VzgtU21RVFBGZzFYcmRReE05RmctSFN2ZUVxRFI3cWRIYWtSY2xBMjdudmxuV1hob2lETzd0N3dFZ0F6UHM3Wmd1MnduVGdXT2ZaRm8wd0loN19zN21ObTUwOGU0eGdkVnlvT0JVaVJ3dVJYazBqMDB2U3ltOG44N1JNbWloVGRmV0RpM1lkR202VEU0TDZVdTdtZ2MwNHMtNW1hdw?oc=5",
-     "source": "Uprise RI",
-     "published": "2026-11-21T06:30:57+00:00",
-     "summary": "Recap: Middletown School Committee Advances Kindergarten Toilet-Training Policy, Approves Budget Calendar&nbsp;&nbsp;Uprise RI",
      "image": ""
     },
     {
@@ -320,11 +312,19 @@
      "published": "2026-11-21T02:14:08+00:00",
      "summary": "Newport Beach council reluctantly schedules March special election for 3 resident-initiated measures&nbsp;&nbsp;Orange County Register",
      "image": ""
+    },
+    {
+     "title": "Trump calls for Nvidia to reinstate \u2018brilliant\u2019 Jensen Huang",
+     "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T01:49:07+00:00",
+     "summary": "US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T07:50:14.809806+00:00",
+   "fetched_at": "2026-11-21T07:50:32.482505+00:00",
    "stale": false,
    "items": [
     {
