@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-21T13:51:25.082854+00:00",
+ "generated_at": "2026-11-21T14:21:28.836436+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T13:51:25.082813+00:00",
+   "fetched_at": "2026-11-21T14:21:28.836405+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+     "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T14:15:36+00:00",
+     "summary": "Iran&#039;s FM Araghchi says there is &#039;major strategic debate&#039; about the future of Iran&#039;s nuclear doctrine.",
+     "image": ""
+    },
+    {
+     "title": "USDA, FBI breached by hackers amid spate of tech outages \u2013 reports",
+     "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:09:02+00:00",
+     "summary": "Latest intrusions targeted farmer-payment system at the USDA and the FBI\u2019s National Crime Information CenterHackers breached the US Department of Agriculture (USDA) and the FBI, na",
+     "image": "https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dafbe2e6e35771a70bb5deec81cfabd2"
+    },
+    {
+     "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T14:06:06+00:00",
+     "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+     "image": ""
+    },
+    {
+     "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
+     "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:03:50+00:00",
+     "summary": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in DenmarkDenmark\u2019s foreign minister has said Russia\u2019s defence attache in Copenhagen would ",
+     "image": "https://i.guim.co.uk/img/media/5a7dd431910379766554a57f1bae363afdb4ad03/516_0_4178_3342/master/4178.jpg?width=140&quality=85&auto=format&fit=max&s=d1fbfde89ec546b8b49bea9f8d347ad5"
+    },
     {
      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
@@ -54,14 +86,6 @@
      "image": ""
     },
     {
-     "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-     "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-     "source": "The Guardian",
-     "published": "2026-11-21T12:49:05+00:00",
-     "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in DenmarkDenmark\u2019s foreign minister has said Russia\u2019s defence attache in Cop",
-     "image": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1409e3209b705fa5f723d3e840a5bdf6"
-    },
-    {
      "title": "Thousands protest overs prices, education, military spending in France and Europe",
      "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
      "source": "France 24",
@@ -78,11 +102,11 @@
      "image": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4"
     },
     {
-     "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+     "title": "Rescue efforts under way as drones hit Russian ship off Finland coast",
      "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-21T12:45:24+00:00",
-     "summary": "Two drones attack a cargo ship close to Russia&#039;s maritime border, causing damage and crew evacuation.",
+     "summary": "Two drones attack a cargo ship that Finnish authorities say has links to Russia&#039;s armed forces.",
      "image": ""
     },
     {
@@ -92,43 +116,59 @@
      "published": "2026-11-21T12:40:18+00:00",
      "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andre",
      "image": ""
-    },
-    {
-     "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
-     "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
-     "source": "\u00a9 Finnish police handout photo via AFP",
-     "published": "2026-11-21T12:35:54+00:00",
-     "summary": "A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday, Finnish authorities said. Helsinki alerted NATO and imposed tempor",
-     "image": "https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg"
-    },
-    {
-     "title": "Sudan\u2019s elderly face hardship and heartbreak in a life of displacement",
-     "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T12:30:49+00:00",
-     "summary": "Sudan&#039;s displaced elderly often have to support grandchildren or fend for themselves.",
-     "image": ""
-    },
-    {
-     "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-     "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-     "source": "NPR",
-     "published": "2026-11-21T12:30:16+00:00",
-     "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T13:51:25.082828+00:00",
+   "fetched_at": "2026-11-21T14:21:28.836420+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+     "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T14:15:36+00:00",
+     "summary": "Iran&#039;s FM Araghchi says there is &#039;major strategic debate&#039; about the future of Iran&#039;s nuclear doctrine.",
+     "image": ""
+    },
+    {
+     "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T14:06:06+00:00",
+     "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+     "image": ""
+    },
+    {
+     "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
+     "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:03:50+00:00",
+     "summary": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in DenmarkDenmark\u2019s foreign minister has said Russia\u2019s defence attache in Copenhagen would ",
+     "image": "https://i.guim.co.uk/img/media/5a7dd431910379766554a57f1bae363afdb4ad03/516_0_4178_3342/master/4178.jpg?width=140&quality=85&auto=format&fit=max&s=d1fbfde89ec546b8b49bea9f8d347ad5"
+    },
+    {
+     "title": "Nuclear Escalation and the Russia\u2013Ukraine War: The Global Security Balance Between Moscow - Washington - Beijing - New Delhi - Europe",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQVlZYlFBbUpZQm93NHNwWnp5UEJCdFZydmFTN2lwZXlUaEVZaHgwSUxvMFFRQXVRWmVvUThXaTRrV29IMlRfNGZmMVRPMDJmMkt1aDlOc0JXOXJ2eXpZV2wxZVE5SUhZQnNOQklwT011dVhxWlJfY0diRGxwM0dlZXgzYlo3bzV0WFJpSXJmZjA3SVRuZ2dvRXc2Y2g2d1VodmN1ajBFQXhHeXNyZUdrb1NWZVo5c0d5QTRXenRfaHN2Vkx5dG5VWW1PaHRqQm1zRW5MRXRnT0R4bDE3MjZKaUptblQtREdoS0lIZVFWTQ?oc=5",
+     "source": "https://debuglies.com",
+     "published": "2026-11-21T13:50:23+00:00",
+     "summary": "Nuclear Escalation and the Russia\u2013Ukraine War: The Global Security Balance Between Moscow - Washington - Beijing - New Delhi - Europe&nbsp;&nbsp;https://debuglies.com",
+     "image": ""
+    },
     {
      "title": "Russia Struck Ukrainian Bridges 109 Times Before Ukraine Hit Crimean Bridge, Zelenskyy Says",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNelJtQndCTmRzbmlNNEpiV2lHdlg0VXE4VUZVS2dzNVFhZVVxMEFLNWJkNTVERUZMeGNOWVI0NVFFUVRkb2U2NzEtUWpLNWprMjh2MFREWlRsSU1EcHZPMGpnQ0h5enA2eUZvbE1oS25GZDB5dm1KUFRab1BsYi1lc2U5OFRVZVJnVmxIeDUxZEhBbm1wcUprS0RoU3d4aG84ejlzY0dpY0ZUM1pVbEh0ZzVlZFZBSWl0aUMxckc4WEFIZkJKLUVkenowWUViQi1rMWgw?oc=5",
      "source": "UNITED24 Media",
      "published": "2026-11-21T13:39:09+00:00",
      "summary": "Russia Struck Ukrainian Bridges 109 Times Before Ukraine Hit Crimean Bridge, Zelenskyy Says&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Trump calling Putin \u2018my friend\u2019 at APEC summit sparks backlash",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTVkaW82MGx1SWNybXFWVUtWWUZQM2hGcmVMVkNqNW5LOG1EUk5ENUpNVTNGcUJvVUJxTVRkREVhbkQwcVZLMDNmZ1J4VUI1UkliMDZELTZkTWU4TTRta195dTFvbW1FRFhzVVdfRlhPSDdaTWNMQlJkZE9IQ3oxd1RVM2JhUnFTOUlEZEstYjRZeUxTa3pHZHBhOVVPTjh1Y2VEZjBR?oc=5",
+     "source": "NBC News",
+     "published": "2026-11-21T13:34:00+00:00",
+     "summary": "Trump calling Putin \u2018my friend\u2019 at APEC summit sparks backlash&nbsp;&nbsp;NBC News",
      "image": ""
     },
     {
@@ -164,14 +204,6 @@
      "image": "https://s.france24.com/media/display/3cf13c10-e5a7-11f1-ab89-ebb478925cf0/w:1024/p:16x9/EN-20261121-130402-131505-CS.jpg"
     },
     {
-     "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-     "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-     "source": "The Guardian",
-     "published": "2026-11-21T12:49:05+00:00",
-     "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in DenmarkDenmark\u2019s foreign minister has said Russia\u2019s defence attache in Cop",
-     "image": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1409e3209b705fa5f723d3e840a5bdf6"
-    },
-    {
      "title": "Thousands protest overs prices, education, military spending in France and Europe",
      "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
      "source": "France 24",
@@ -186,45 +218,69 @@
      "published": "2026-11-21T12:47:57+00:00",
      "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on SundayCold snaps are to make way for heavy rain in some parts of the country as the",
      "image": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4"
-    },
-    {
-     "title": "Ukraine War, Day 1,731: Russia Murders Child and Paramedic, Injures 52 in Kryvyi Rih",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3hUazcyZ0J0a2Y0c1hodFBWc09tSkg5RHdINE1FalBCbV8zSzNPalpzc2plN2xBVGlsZzd6OHZyMGJxWi12dzZyR3VCcWJTWVVNSWtuSjZOVTMzZUtLUXRsUzJ4dVBDWkJTbXZLLWhER01INFJ2aXZmZHUtQkhCOWk2aU5GT1NZM0d1NjhyQQ?oc=5",
-     "source": "EA WorldView",
-     "published": "2026-11-21T12:40:37+00:00",
-     "summary": "Ukraine War, Day 1,731: Russia Murders Child and Paramedic, Injures 52 in Kryvyi Rih&nbsp;&nbsp;EA WorldView",
-     "image": ""
-    },
-    {
-     "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-     "source": "NPR",
-     "published": "2026-11-21T12:40:18+00:00",
-     "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andre",
-     "image": ""
-    },
-    {
-     "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
-     "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
-     "source": "\u00a9 Finnish police handout photo via AFP",
-     "published": "2026-11-21T12:35:54+00:00",
-     "summary": "A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday, Finnish authorities said. Helsinki alerted NATO and imposed tempor",
-     "image": "https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg"
-    },
-    {
-     "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbUN2RTVJbmc2Y2JHTTJyRVlzNXFJeDFpTHBHRWdhaFpuR2RSYnlqY0RUWXNWS3I3QWNybW94RDk3Z2NuMXo5ZnR1ODBVZ2hTUzZYOXVqYWJUWk1BUjVyNkc3cFdDUHlma0l5bEhSN1NENGdpNm1TVkd4cVY5RVh6SE80LVVwNFVpVWxHTjBtcURuQ0dtOFlNb1NsSFR3VEJrOWRlTUVXU3NEWnlNc1hRbi11bk1BYnFrNWVRblhkX0JjOU1DOGJ6SGQ2WGlOTU0tZmRiUA?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-21T12:35:06+00:00",
-     "summary": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores&nbsp;&nbsp;The Washington Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T13:51:25.082832+00:00",
+   "fetched_at": "2026-11-21T14:21:28.836424+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Most new Black Democrats in decades to join US Congress, set to sway policy, party",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2xUZFEwY1RDY09Mc1lXQTdCMFk5ZWlCb0ZSakJuQmppYzI2Y0loc3BRdEp4MXhtMkNhY0Vsdk9fYUpEUTNUTTh0SFl3akZqUUdKWGdJTnpCVVFwZm1LOE5SNTcwV0VOSXc3S1k4SHM2R0UzV1liTm84SkZRZVNUZlYwZi1xLWpnVVBQaUVuaFFPM3NockMtcnhrYms0YmNJNXJzRXRVZ1hNNWFWYjNLU09JRzVDVXc?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-21T14:13:06+00:00",
+     "summary": "Most new Black Democrats in decades to join US Congress, set to sway policy, party&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "SMALL BUSINESS INSIDER: Winning with AI, Small Business Saturday Prep, Policy Update & More",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGdKVnNRejNqc3pOVHFPMkc2OXV2NHJodk05bTVXV3pldEJsZU5vR0ltaXhfN2FPZFp1bi1kME9QcVlscktBU2VIYUVjSGUzYVdaMzhPS3NRRjdBZWFUbjVCNmhFdVRETWtPZlVodVpQS2lGSDkxSW04NnI5cTBYUDNzV0lxUEhsSVRIYms3SHVHOEV4Yl9VTEVyM29PWldsUGhpSTZ5Yy1aeUFheUhTWkVKSjJQNHpZX2JVbGZB?oc=5",
+     "source": "Small Business & Entrepreneurship Council",
+     "published": "2026-11-21T14:11:12+00:00",
+     "summary": "SMALL BUSINESS INSIDER: Winning with AI, Small Business Saturday Prep, Policy Update & More&nbsp;&nbsp;Small Business & Entrepreneurship Council",
+     "image": ""
+    },
+    {
+     "title": "Visas, Sanctions, Money: How The EU Plans To Prolong Bans On Russian Athletes",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWxXamZaTmRkTWlEXy02RC10NFBvV0VZdmtwN2puVHlPOTc0WVdnTHZ3dkVXQnFrNldiVzdfM21nSjBZSm43UFlUNVpyQk5ZalNVcXRWakZ4YU1DMDJoV3FpS1B2bVVTdHFCZ2ZONE1xSGV5TG9haEU4WVE5TXR0UEozR0VXMjJHSzdQMGtNYmFjMFN0Z1RHS2NDbjJyLXJpeGlBXzFxQW94d3prQzduUjJR0gG0AUFVX3lxTFBfQWxhWjJkOVVwUDVhV3lMajd0Nk1LU0t2NTZtOUQ2WUtXenF3SmRCNjQ2SUtXZWVMYm1DSEZ1ZTRLQXpPQUk4d1pYVDlrb2gweTBiZDRzRW1KZDVoX09rUGpFcGlYTi1vUlJZTy1WS3htZXRfNUJ3cjRmZVNnSEgwamRzV3Zsc2huS0dzcDkwZ21UT1VZNVVNZDE4aUduQVh2dkZvMGJRUnc0UUxUZGp2dVFjcg?oc=5",
+     "source": "Radio Free Europe/Radio Liberty",
+     "published": "2026-11-21T14:06:54+00:00",
+     "summary": "Visas, Sanctions, Money: How The EU Plans To Prolong Bans On Russian Athletes&nbsp;&nbsp;Radio Free Europe/Radio Liberty",
+     "image": ""
+    },
+    {
+     "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-21T14:03:24+00:00",
+     "summary": "GOP set to block Trump Pentagon picks as other military moves face headwinds&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Hillsborough election delivered a win for Rays\u2019 Tampa stadium pursuit",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlV0WmNQZVFOWGVBMDl0enJIXzJhWVdoZTRUQlRRd3FxUnJURTdBYlVRSTg3YmpTa1l3NEhWRGxnWXU3MDVsUFNhX1djRDU5YW82SXo3WWF0emR4eENqbThVVEloYk1JamNEWlZjQUFBbVctTV82ZlhVdmVfOUFBOXlzMGgyQk42eDlnTzViajJFWFJTa3ZTQw?oc=5",
+     "source": "Tampa Bay Times",
+     "published": "2026-11-21T14:02:09+00:00",
+     "summary": "Hillsborough election delivered a win for Rays\u2019 Tampa stadium pursuit&nbsp;&nbsp;Tampa Bay Times",
+     "image": ""
+    },
+    {
+     "title": "What does a post-Netanyahu government in Israel mean for U.S. policy?",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUpyQm1iSnJqNmhxUlZYZ0VRU180XzI3eGhwVndKYzZHY0tqUGFxRTB2eG5BaFlPSXZaemhRNGFJYUtIcTl1bHU5eDhhTFZFeWlRYjFiUERkT1JSLUVISHhYY3I3SjNOWUJrTXRjTFlGV3VuQ3J2T0hMbjJuaUpUeUtfelhiUjJQSDIyVzF3S3NpU0dIVFd0SkdSZl9INVdxbXc?oc=5",
+     "source": "Mondoweiss",
+     "published": "2026-11-21T14:00:00+00:00",
+     "summary": "What does a post-Netanyahu government in Israel mean for U.S. policy?&nbsp;&nbsp;Mondoweiss",
+     "image": ""
+    },
+    {
+     "title": "DOJ abandons Alaska Senate lawsuit two days after Democrat Mary Peltola is projected to defeat Dan Sullivan",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVYxX21RV01rLVVMQ0xXWU9EMk9tSTQ1OEJYZ0FocnBnR1BOVlJpdlV6M3dYajJMRm9DY0xDX0FPR29BeGRQY2szZUs3NHZXODJUT1hQRXc1UXNvc2pCaUJRR2tZc1ZJaU96X0FhaC1aYWNpSVdTX0hKUEsyZ2lkUF9pNA?oc=5",
+     "source": "Latin Times",
+     "published": "2026-11-21T13:41:57+00:00",
+     "summary": "DOJ abandons Alaska Senate lawsuit two days after Democrat Mary Peltola is projected to defeat Dan Sullivan&nbsp;&nbsp;Latin Times",
+     "image": ""
+    },
     {
      "title": "Voter fraud cases surged before the midterms. What happened after Election Day?",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjRCUHlZZTJScTgzeG9FS3g5SnYyT25HQnE4aTFXTl9jT25VUnE3TktBR0ZKaHJoSWx5b0p3M0U1SEl0YjJYNEhfSmNWQXBpZEpTX1E2eWJSTkJvdXduSUhmTFFsTVdUSzZsX2JVOEh2aWFWdkVtYkx5d3BFRHVNRkJkcU1IdjlCSDZuZDh2MTRDeXlWQVZRRndMbl9ELTlwQUtDeFVjeUN6cE45UUVRZW81Z0x6OFRMeExyQTV30gHSAUFVX3lxTE55ZzFMYllZbmhHQ09nd0NyemZ2U2hKTG1FNUl3S0dWanROZFZMQkRRdEF4ejlESFpEM1c4UWtUX3FFSko5SE4yRU0zZ0xDMmFhZURFeU02bzltOE1kWmhrTF8wZW9sUGlvYWVxV3doQzdsZzRBRlpDZ0NYSnFKZk45amdaQjJVLXVvbDRKWTFjZzdRbXhDRE5aa19Wc1JOcjVMQmF3anJjRklBWkpOU1l1cHJjTWhOa1BkZVNFZ1N2R2FhR21uR0RYdmdhdG9GeWdqQQ?oc=5",
@@ -234,11 +290,11 @@
      "image": ""
     },
     {
-     "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-21T13:09:00+00:00",
-     "summary": "GOP set to block Trump Pentagon picks as other military moves face headwinds&nbsp;&nbsp;The Washington Post",
+     "title": "How a Liberal Fox News Host Braced for a Game-Changing Election Day",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTg5U2h0eFZsekpRR1BMWDRqeWxxdmxQdEU1cVV4QW5HNTZQTzlha3dmbnpaa0djSHF4MWJQbnU2blZNVlNGMlo1WjEzWVUwcGdocVhvNVNoTDBqM2dhWDFNTlhnb2ZfZS13UHA0VnBic1g1dU93dEFkY2FHemRtNU9aR240bTFrdWo4?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-21T13:33:48+00:00",
+     "summary": "How a Liberal Fox News Host Braced for a Game-Changing Election Day&nbsp;&nbsp;The New York Times",
      "image": ""
     },
     {
@@ -258,73 +314,17 @@
      "image": ""
     },
     {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xSDloaEZNX18tTHAzYWdfVldWYVVRT1hiSnJoSW8xS0FpRS1kMlEyeEl1MU5IQmdZa3lXXzZNZ0hBRUFaS3VjaEtqLUx6VUYtZno1SkNoVlVQTkZfXzlRMURWNVJEOWlNb0JLYWhsUDRsZw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-21T13:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "Ten Parents, a Lot of Coffee, and a School Board Election: How We Built a Movement",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZm9jNFBnU3ZWQzdOWl9MVXVXVXdIRW11dFlicUI4R2Y3OVJuc2ZlTlpGZHJEdzBqRVdqNUR2WlpaYjR2Q29KM0NURjJNUVdkZnBwVm9xeFhmNWFSVWVaVkF6Y2lHWkpDYkdQUmhUZVA3LWlSTDdoTmIyNUJOeU1pakdPRVZfWTJlRUVGdzBmdU1TaWlfWTVadWJmX1pQUDFsUFJzYg?oc=5",
-     "source": "Ms. Magazine",
-     "published": "2026-11-21T12:34:12+00:00",
-     "summary": "Ten Parents, a Lot of Coffee, and a School Board Election: How We Built a Movement&nbsp;&nbsp;Ms. Magazine",
-     "image": ""
-    },
-    {
-     "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
-     "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-     "source": "The Guardian",
-     "published": "2026-11-21T12:22:54+00:00",
-     "summary": "Thursday\u2019s byelection in Castle Bromwich will be latest test for Nigel Farage\u2019s party as rival eats into supportVoters go to the polls in the village of Castle Bromwich in the West",
-     "image": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=140&quality=85&auto=format&fit=max&s=5597b4adf0622dba743b5691a82d09af"
-    },
-    {
-     "title": "Etsy AI Policy Seller Backlash Before Dec. 16",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmNtYWxYVkJBOGJzT0FTaXJLWHQzUXlNSGVIcTNLblN3R0hUSzdCQ3k2WC1ZSHF6WmxOV2VQT3hNRXdSSnFKZGFLOExPbFNTd0tiRldwY1M3eWllbEwzTDU5enktYjlkcGtWTzlMamRzSU9RMkhwejVYRDRWRWJkT0JVRF9FRmpKQnh3eGRlYXY5UlNjTWMtOGpzQnBfUmdLU3F3Ym5PMFlsa2FaWS1zRQ?oc=5",
-     "source": "Bitcoin Foundation",
-     "published": "2026-11-21T12:22:30+00:00",
-     "summary": "Etsy AI Policy Seller Backlash Before Dec. 16&nbsp;&nbsp;Bitcoin Foundation",
-     "image": ""
-    },
-    {
-     "title": "BPInsights: November 21, 2026",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92YU1lOFQyd2lXNUNUdnZhallQNUpVRG1uYmFWcXJNbDZvR05yOWV3ZUFYelhGcndocVR0eEV3MEFrdVJJMXRKTXhCNTJrR1pQcVN1UEgxaw?oc=5",
-     "source": "Bank Policy Institute",
-     "published": "2026-11-21T12:00:00+00:00",
-     "summary": "BPInsights: November 21, 2026&nbsp;&nbsp;Bank Policy Institute",
-     "image": ""
-    },
-    {
-     "title": "CAF endorses Infantino for re-election as FIFA president",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUdrNUFkSHlfeDdiM2RGUlNJOG9pRkw1WGRZOVhVRWpSVy16TGtmSEFMbURuYWxXTC1YOEpEWm5ZTHBfbmk1T3plMDl5Rktla241bUQ4d0doQUVONFFTNElNTXFDM3d3YklwMktfQ1AyTWRlZTN6d2NjY3VvX2hmNTQ3Vl82YkJzZ0dMSWZEUVROUHNudHlaUVdhSUFSUEgy?oc=5",
+     "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
      "source": "Reuters",
-     "published": "2026-11-21T11:35:20+00:00",
-     "summary": "CAF endorses Infantino for re-election as FIFA president&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "ICE Defies Alameda County Policy, Continues Arrests on County Property",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1U3liZVpjZGZFYU1Ga0tFd0hCN1l4RTVVbHZ0NU1uYVMyYTB0c0lWZGJJcWl2b1RuVXVlYThYdVdCdm4xLXFFcXNvXzJPTW53eXlLRnBwd3lXT0VWVHcyV0toNktyV19VZW1zcHI0UXlVQ1M4cmc4ZVB2MjhYeE0?oc=5",
-     "source": "Davis Vanguard",
-     "published": "2026-11-21T11:35:00+00:00",
-     "summary": "ICE Defies Alameda County Policy, Continues Arrests on County Property&nbsp;&nbsp;Davis Vanguard",
-     "image": ""
-    },
-    {
-     "title": "2028 Election, Rubio Overtakes Vance, Ossoff Leads Democrats in New Poll",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFczSmVRVk1oT0FQRUg3bUhXVVkyYzBRNnFkNGRPeG93RHVrSFRTUklfZXVPLUptRzJkQ0hfaHlRc3oxcmtiOFV6ejRZbVZaOEM1cnNuWG52V21TWE04dE5sVFROWF9TaGtFa0V3UUphRFRpZ2g2R0JQTDZIcWJENy1IVUZobnhfYW4yRzlydmJLcFNBclI4dUkzTE5sRGNuLVM0TDc5aWVBZWNVY2MtWTJxRUotZkR2SHc?oc=5",
-     "source": "La Voce di New York",
-     "published": "2026-11-21T11:34:50+00:00",
-     "summary": "2028 Election, Rubio Overtakes Vance, Ossoff Leads Democrats in New Poll&nbsp;&nbsp;La Voce di New York",
+     "published": "2026-11-21T12:59:16+00:00",
+     "summary": "Russia's Wildberries CEO steps down days after EU sanctions, media report&nbsp;&nbsp;Reuters",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T13:51:25.082834+00:00",
+   "fetched_at": "2026-11-21T14:21:28.836427+00:00",
    "stale": false,
    "items": [
     {
