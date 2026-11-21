@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T16:51:44.937309+00:00",
+ "generated_at": "2026-11-21T17:21:48.327943+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T16:51:44.937280+00:00",
+   "fetched_at": "2026-11-21T17:21:48.327898+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T16:51:44.937293+00:00",
+   "fetched_at": "2026-11-21T17:21:48.327912+00:00",
    "stale": false,
    "items": [
     {
@@ -222,9 +222,25 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T16:51:44.937298+00:00",
+   "fetched_at": "2026-11-21T17:21:48.327917+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018Prioritizing ideology\u2019: Alaska Republicans face a reckoning after election losses",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekcwMGx5QlF6OC13Nm1UeUk2dEw3WG9YZy1OQnVkRllvVjh3RGRTc3VDdE1fQkxuX0tOOXl2ZzBPMDhOamJYcFdlSV9ZbERhVjVTX3JaM3hxTlUyTDlzTktIRHBmMEMyUkZ6ZllWaTlRN05ka2YtdnRLTWhEVkJTM3F1OEMwbHdSNDRkbjhISW5kTzJTendiY2F4RGc0bFZKd294ZDBiQkk1Q3JKN0VzTA?oc=5",
+     "source": "Anchorage Daily News",
+     "published": "2026-11-21T17:03:45+00:00",
+     "summary": "\u2018Prioritizing ideology\u2019: Alaska Republicans face a reckoning after election losses&nbsp;&nbsp;Anchorage Daily News",
+     "image": ""
+    },
+    {
+     "title": "Exploring How National Cancer Control Plans Can Maintain Cancer Policy Commitments - ECO",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55M0tQTEozTkVPUkg4aHhyYkxJekxFeTV3bDA4ZHVKaW5fNzVoNVpwRERXd0lkNVdtbk5JYzFIdjR1TzBnQXpNLTg4TDBZWkQz?oc=5",
+     "source": "Oncodaily",
+     "published": "2026-11-21T16:56:04+00:00",
+     "summary": "Exploring How National Cancer Control Plans Can Maintain Cancer Policy Commitments - ECO&nbsp;&nbsp;Oncodaily",
+     "image": ""
+    },
     {
      "title": "Election 2028 Democrats Debates",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeHZNXzV1dWJlOWtuaWl3RFZpcDJrc2dPNTRyekZKQWFieW5BLVFXRzh5UlJTOUhLa01UcXNVWTdzb2MwOVQ5RWstVHVMVzFyRl8tWjNZY0YxTVdhZTE5LXZYaGpBbjhHcThPbUVjai1tcEVnNTFpNGRvSnJYX09GVXVmQWtkTHVPRkl3OGhZTTFwbnByYlJTWGFaOEYtYWFjbmhNZmVQSThhT294bTR5VDlMTkI3cUJpR3BEdWNMSjEtaXpHOTNkNg?oc=5",
@@ -304,27 +320,11 @@
      "published": "2026-11-21T15:17:31+00:00",
      "summary": "Lawsuit challenges Nicole Mitchell\u2019s election to Woodbury City Council over felony conviction&nbsp;&nbsp;WDAY Radio",
      "image": ""
-    },
-    {
-     "title": "Vance, El-Sayed move toward meeting after contentious midterm election",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkxwbHBQWmhkMjBxNGNxb281dlRmbVdWYzlodFVfazh0SWFIcjFnc1NtSVI1UlFTQlhWNlh3UEY0UUltSEZYWlBJNlhMMjN3eWVuVDJvUUxfZWNTY0tEVXdKZVR2VFdHUHNfYXB1bUZybmlKR3ZTdGg5dDJoalJ0T3YwWnFVcFg1Snd2eEstVW9CMlRQbkx6aTRUOEZacTRtT0tmdXBmMmRwWGdFZDBVeW5lMm5RMEpTYmJRdA?oc=5",
-     "source": "Scripps News",
-     "published": "2026-11-21T15:03:44+00:00",
-     "summary": "Vance, El-Sayed move toward meeting after contentious midterm election&nbsp;&nbsp;Scripps News",
-     "image": ""
-    },
-    {
-     "title": "Federal judge denies request to release man shot by immigration agents in New York",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
-     "source": "The Guardian",
-     "published": "2026-11-21T14:52:30+00:00",
-     "summary": "Oscar Belgal, a Dominican national, was shot by ICE agents as he drove his five-year-old son home from schoolA federal judge on Friday declined to release from custody a man who wa",
-     "image": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=ab0135e0bab9ea79f8515516a63f32ca"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T16:51:44.937300+00:00",
+   "fetched_at": "2026-11-21T17:21:48.327919+00:00",
    "stale": false,
    "items": [
     {
