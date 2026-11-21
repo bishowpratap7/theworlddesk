@@ -1,10 +1,58 @@
 {
- "generated_at": "2026-11-21T14:51:31.650033+00:00",
+ "generated_at": "2026-11-21T15:21:34.721882+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T14:51:31.650004+00:00",
+   "fetched_at": "2026-11-21T15:21:34.721853+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+     "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T15:01:18+00:00",
+     "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+     "image": ""
+    },
+    {
+     "title": "SNL\u2019s skit Sister captures the quiet agony of caregiving for women: \u2018I\u2019ve never felt seen like that\u2019",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+     "source": "The Guardian",
+     "published": "2026-11-21T15:00:01+00:00",
+     "summary": "The viral satirization of the caregiving burden left to women and daughters hit home for many viewersThe Saturday Night Live sketch, titled Sister quickly went viral this week for ",
+     "image": "https://i.guim.co.uk/img/media/7bfc72a64cf39369ce4dc05177044fe3f366251c/244_0_2511_2010/master/2511.jpg?width=140&quality=85&auto=format&fit=max&s=19c99eb7a70e07f624849ef48297753d"
+    },
+    {
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T14:54:24+00:00",
+     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
+    },
+    {
+     "title": "Federal judge denies request to release man shot by immigration agents in New York",
+     "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:52:30+00:00",
+     "summary": "Oscar Belgal, a Dominican national, was shot by ICE agents as he drove his five-year-old son home from schoolA federal judge on Friday declined to release from custody a man who wa",
+     "image": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=ab0135e0bab9ea79f8515516a63f32ca"
+    },
+    {
+     "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:51:37+00:00",
+     "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on SundayCold snaps are to make way for heavy rain in some parts of the country as the",
+     "image": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4"
+    },
+    {
+     "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:42:56+00:00",
+     "summary": "Documentary records Catherine taking on Three Peaks challenge and finding \u2018sense of hope alongside uncertainty\u2019The Princess of Wales has spoken candidly about the impact of her can",
+     "image": "https://i.guim.co.uk/img/media/fd810cd935a14aa8ada325f3b3bdf72e59b7c84f/726_0_3234_2588/master/3234.jpg?width=140&quality=85&auto=format&fit=max&s=ded2b02305fcd1f7c92e952042674919"
+    },
     {
      "title": "\u2018Hell dorm\u2019: Florida prisoners testify about 119F heat indexes and walls that sweat",
      "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
@@ -68,61 +116,45 @@
      "published": "2026-11-21T13:17:38+00:00",
      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-     "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-     "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T13:08:59+00:00",
-     "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary&#039;s 66 leads charge in Melbourne.",
-     "image": ""
-    },
-    {
-     "title": "US pursuit of \u2018Trump-class\u2019 warships has blown cost of new fleet by billions, report warns",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
-     "source": "The Guardian",
-     "published": "2026-11-21T13:00:00+00:00",
-     "summary": "Iran war stretching fleet\u2019s capacity, navy chief admits, as CBO finds estimated cost of new ships \u2018unrealistically low\u2019The US navy\u2019s commitment to the new Trump-class battleships h",
-     "image": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=5251357948436a2696afae318db5ebea"
-    },
-    {
-     "title": "Cargo ship runs aground off French coast",
-     "url": "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
-     "source": "France 24",
-     "published": "2026-11-21T12:52:27+00:00",
-     "summary": "A Maltese-flagged cargo ship remains stranded off the coast of south-western France after running aground. French authorities are preparing an operation to prevent the vessel from ",
-     "image": "https://s.france24.com/media/display/1aac89e8-e5a7-11f1-b43d-e56ab3dc0809/w:1024/p:16x9/EN-20261121-121013-121127-CS-01.jpg"
-    },
-    {
-     "title": "Russia tests NATO\u2019s eastern defences",
-     "url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
-     "source": "France 24",
-     "published": "2026-11-21T12:50:35+00:00",
-     "summary": "Two Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an \"intentional provocation\" timed to coincide with Euro",
-     "image": "https://s.france24.com/media/display/3cf13c10-e5a7-11f1-ab89-ebb478925cf0/w:1024/p:16x9/EN-20261121-130402-131505-CS.jpg"
-    },
-    {
-     "title": "Riemann hypothesis: Has the world\u2019s most famous maths problem been cracked?",
-     "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T12:49:20+00:00",
-     "summary": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
-     "image": ""
-    },
-    {
-     "title": "Thousands protest overs prices, education, military spending in France and Europe",
-     "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
-     "source": "France 24",
-     "published": "2026-11-21T12:48:46+00:00",
-     "summary": "France is bracing for a sixth consecutive Saturday of protests, with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social",
-     "image": "https://s.france24.com/media/display/c489cff2-e5a7-11f1-bb16-ebb478925cf0/w:1024/p:16x9/EN-20261121-131728-132120-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T14:51:31.650017+00:00",
+   "fetched_at": "2026-11-21T15:21:34.721866+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russian drones strike central Kyiv, damaging four embassies and killing one civilian",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGNpemZFUTFMTlZ2ZzAtT3FiRkptcHZPZ2thTVQ5WGdRNkJWajJiME9CSVNSZEZFQzg5NEwwblpITHVqdXp4dTdaWGtXMzVoMU81SzFkUGdaU0w3c1UzcXgyWVNQcEVTc191VFVjV1k3dGY2YXhkUWpCNEpnbF9LX2RTWmR5Zw?oc=5",
+     "source": "Latin Times",
+     "published": "2026-11-21T15:04:05+00:00",
+     "summary": "Russian drones strike central Kyiv, damaging four embassies and killing one civilian&nbsp;&nbsp;Latin Times",
+     "image": ""
+    },
+    {
+     "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+     "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T15:01:18+00:00",
+     "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+     "image": ""
+    },
+    {
+     "title": "Zelenskyy Says Trump-Putin-Ukraine Peace Talks Could Take Place at G20 Summit in December",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREl3Z2t4aWs2eFBzOEVJRXZXazlEZ0pGencxNVNiU251eU5PazhzVXAxWW11YVpYa1pKSzZKcEJiR2ROazVnVjBQbXIzT2g1Z2hES0lEb1YySXhEMm95eWxab21ZZld2SkZ4dEJDOGJwVER5UjYyVjRyT1ptWUVjdTdMbzNIV1dsSnRoTkZwMEM3c1l2aTc5aEJ2ZnQtX3ZRS25oQzBFVmhlZmYxY2dRMzV3XzJqd0JNQWs1OHVFSEdTV2hnaFliYVc0Vlk?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-21T14:58:01+00:00",
+     "summary": "Zelenskyy Says Trump-Putin-Ukraine Peace Talks Could Take Place at G20 Summit in December&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:51:37+00:00",
+     "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on SundayCold snaps are to make way for heavy rain in some parts of the country as the",
+     "image": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4"
+    },
     {
      "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2hzYVBKZkFkNjBMOHpiVlZMLUhGNmw1WWN0QU5ROVpTQ0M0YzV0Yk44Tm9kcUc3OGxIWlBQRzJzVF9hVWVNS3U1d0hYU2FJcEJsOFd0dDVlYVo0cXowTmdiOFBKdmZacjJONHNSeVg1ZndWTzNEWGhCd3d2RktEWEphVTNkem5i0gGcAUFVX3lxTFBURy1iemJpZzQxdXdLMTdVUzVVeEhCbmwtekFIWkRMdWdSaHlwZ1djUDAwaFNOdjBJeDAzZHNLRFRIeWxJVWZ3ZWJGOTVzLWJmUEU2aXNZQTN5MnJGeklRbW44Ym5TRnlReFdUY0lKY3B1MzVMVnJ0ZTF2ZjRiR1pia1lKTmZ6cEpubThCazQ2VklyOXR3ZlFXWVJvaw?oc=5",
@@ -186,58 +218,50 @@
      "published": "2026-11-21T13:34:00+00:00",
      "summary": "Trump calling Putin \u2018my friend\u2019 at APEC summit sparks backlash&nbsp;&nbsp;NBC News",
      "image": ""
-    },
-    {
-     "title": "US pursuit of \u2018Trump-class\u2019 warships has blown cost of new fleet by billions, report warns",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
-     "source": "The Guardian",
-     "published": "2026-11-21T13:00:00+00:00",
-     "summary": "Iran war stretching fleet\u2019s capacity, navy chief admits, as CBO finds estimated cost of new ships \u2018unrealistically low\u2019The US navy\u2019s commitment to the new Trump-class battleships h",
-     "image": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=5251357948436a2696afae318db5ebea"
-    },
-    {
-     "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T12:54:00+00:00",
-     "summary": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cXdVVUc1b3ZQMTdhdXdRUWF4RFVlNTNMYlJDeWxoR0NZX3hxd3BBOEJwTzhYdDJMQnZNRkZ4TDc3c0pTN3hyX0xBbkVUanpHejhWQUJKMzR2VEE?oc=5",
-     "source": "BBC",
-     "published": "2026-11-21T12:52:00+00:00",
-     "summary": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting&nbsp;&nbsp;BBC",
-     "image": ""
-    },
-    {
-     "title": "Russia tests NATO\u2019s eastern defences",
-     "url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
-     "source": "France 24",
-     "published": "2026-11-21T12:50:35+00:00",
-     "summary": "Two Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an \"intentional provocation\" timed to coincide with Euro",
-     "image": "https://s.france24.com/media/display/3cf13c10-e5a7-11f1-ab89-ebb478925cf0/w:1024/p:16x9/EN-20261121-130402-131505-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T14:51:31.650022+00:00",
+   "fetched_at": "2026-11-21T15:21:34.721870+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Lawsuit challenges Nicole Mitchell\u2019s election to Woodbury City Council over felony conviction",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ0RIQ2t4dlNfZmw3RjRWVU1MdDZUV0k5SFlqcFFQQVpFWXRJRWxvTUprMDFuc3M1dDhTMEtKUW10anctcmdPTlBKX0JHWGl0eGgtOEQyUjdOS3lLbURnZ1hTakk5dGhjQnV0cG9JRjNRQUJxN3lKR19IODQ4X3VCTEVDOG9hUUhIS3RZbWN2bDltekRST1J4YWlKSXN4NDBmbi1YZWpLaXNEYjRTR21DRllrNWFWOGhHa2tUTkY5YkwzV0Q0Z2hiekcyQjFMQTVPWkFVQThhNHE?oc=5",
+     "source": "WDAY Radio",
+     "published": "2026-11-21T15:17:31+00:00",
+     "summary": "Lawsuit challenges Nicole Mitchell\u2019s election to Woodbury City Council over felony conviction&nbsp;&nbsp;WDAY Radio",
+     "image": ""
+    },
     {
      "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-21T14:31:38+00:00",
+     "published": "2026-11-21T15:06:24+00:00",
      "summary": "GOP set to block Trump Pentagon picks as other military moves face headwinds&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Federal judge denies request to release man shot by immigration agents in New York",
+     "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
+     "source": "The Guardian",
+     "published": "2026-11-21T14:52:30+00:00",
+     "summary": "Oscar Belgal, a Dominican national, was shot by ICE agents as he drove his five-year-old son home from schoolA federal judge on Friday declined to release from custody a man who wa",
+     "image": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=ab0135e0bab9ea79f8515516a63f32ca"
+    },
+    {
+     "title": "2027 French presidential election: See what the polls say with our aggregator",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaDBoZVhTZHRMX1R0ZnVudUlDQ1hCekJ2eV9sUE9vaFhKX1dNOU1WNEppNV9VdHBqWFVtYnlPR1BsUHlRemtINGtWbXBoNF8zMS1iZlpZOXNQLUFnUnY0ZnRMSUNzbU9sRF9UZ2tERmJJd0tMNE1LLTk0Y2dCQlFwUDUwS3h1d3lfT3BPaE8wQUFsNHVOTlZKSWstd3dBei1mMzFvUnJBdGdSblh2ZTFoMjdLZTUyc19OYjdNZlVsRER3Y05lQjlaR2M3YjRqbUsxMXZHSjJ3eVJWSEM5cW5HXzZZbXg?oc=5",
+     "source": "Le Monde.fr",
+     "published": "2026-11-21T14:48:38+00:00",
+     "summary": "2027 French presidential election: See what the polls say with our aggregator&nbsp;&nbsp;Le Monde.fr",
      "image": ""
     },
     {
      "title": "Democrats won big in the midterms. So now what?",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnE0d0FZemxNMWZJX21aTjIxTVZwc3ZQaHlac3pnUFBKS010UEc2bXluckswdTJwa2hlY3N1Qzc4aGVGejB1NVJMOFFKQnVYYWppY2NiLUpkdG9reWJEdU50V2t5eWxKVmpjMzI4SWFxbi1rSDhPRG9UUmNqM3JGczBlTlZnSW1ORnZDYXI1dTdVOXg0c3c?oc=5",
      "source": "Reuters",
-     "published": "2026-11-21T14:22:41+00:00",
+     "published": "2026-11-21T14:23:43+00:00",
      "summary": "Democrats won big in the midterms. So now what?&nbsp;&nbsp;Reuters",
      "image": ""
     },
@@ -296,35 +320,11 @@
      "published": "2026-11-21T13:41:57+00:00",
      "summary": "DOJ abandons Alaska Senate lawsuit two days after Democrat Mary Peltola is projected to defeat Dan Sullivan&nbsp;&nbsp;Latin Times",
      "image": ""
-    },
-    {
-     "title": "Consumer sentiment rises after midterm election",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjYyakUzRVR5SWVOM01qY2UxZGZfbm94ZGl4SGk0VUY2dTdBRkNXbXZ2U2dZN3Y3bWdScmlDbFhpTnRPZmxLdUdxMXNjUVhSRF9fNUYzUUhVYjFERzVoWFZQX19sc1RYam9CWVNWQnFoMXVDNFFxbXlCeHpMektNT3RpWG9QalotbldGWDRSY3QzaUVlZjBwbnc3djlJcWJEZXExMkw2TVVENlplSGlmcll1RUYwOGtpY1h0aW1ZaGM1NlA2enpvb3BmV042VURW?oc=5",
-     "source": "ABC Columbia",
-     "published": "2026-11-21T13:41:10+00:00",
-     "summary": "Consumer sentiment rises after midterm election&nbsp;&nbsp;ABC Columbia",
-     "image": ""
-    },
-    {
-     "title": "Voter fraud cases surged before the midterms. What happened after Election Day?",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjRCUHlZZTJScTgzeG9FS3g5SnYyT25HQnE4aTFXTl9jT25VUnE3TktBR0ZKaHJoSWx5b0p3M0U1SEl0YjJYNEhfSmNWQXBpZEpTX1E2eWJSTkJvdXduSUhmTFFsTVdUSzZsX2JVOEh2aWFWdkVtYkx5d3BFRHVNRkJkcU1IdjlCSDZuZDh2MTRDeXlWQVZRRndMbl9ELTlwQUtDeFVjeUN6cE45UUVRZW81Z0x6OFRMeExyQTV30gHSAUFVX3lxTE55ZzFMYllZbmhHQ09nd0NyemZ2U2hKTG1FNUl3S0dWanROZFZMQkRRdEF4ejlESFpEM1c4UWtUX3FFSko5SE4yRU0zZ0xDMmFhZURFeU02bzltOE1kWmhrTF8wZW9sUGlvYWVxV3doQzdsZzRBRlpDZ0NYSnFKZk45amdaQjJVLXVvbDRKWTFjZzdRbXhDRE5aa19Wc1JOcjVMQmF3anJjRklBWkpOU1l1cHJjTWhOa1BkZVNFZ1N2R2FhR21uR0RYdmdhdG9GeWdqQQ?oc=5",
-     "source": "Cleveland.com",
-     "published": "2026-11-21T13:38:00+00:00",
-     "summary": "Voter fraud cases surged before the midterms. What happened after Election Day?&nbsp;&nbsp;Cleveland.com",
-     "image": ""
-    },
-    {
-     "title": "EU Proposes Cuts to Long-Term Budget to Bridge Policy Divide",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnpRZXFtaHRoamdjS3JQVVRsVGNPSmxXamJtejBoRlZ0bGpWVVI3WE9XQjRyYXVNVm9LQ0FhZ2R3bWQ4Yk10VGpBLW5Vc2tnOW1uN2Q1TzlmY2J5eThWcjhvdE14dkltUUxKNWRMNHJmTG1TSUlvSUx1RGFUT2loWHFkVndoUi1KUi1yUGxBMjBoNlVQOGZPZlc1OC1PN2VfTkw2d09obXRvTmdLRmowMTJOOXVVdw?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-21T13:27:07+00:00",
-     "summary": "EU Proposes Cuts to Long-Term Budget to Bridge Policy Divide&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T14:51:31.650024+00:00",
+   "fetched_at": "2026-11-21T15:21:34.721873+00:00",
    "stale": false,
    "items": [
     {
