@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-22T02:53:16.226595+00:00",
+ "generated_at": "2026-11-22T03:23:19.970838+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T02:53:16.226570+00:00",
+   "fetched_at": "2026-11-22T03:23:19.970816+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+     "source": "The Guardian",
+     "published": "2026-11-22T02:44:01+00:00",
+     "summary": "The sergeant, who was shot, fired his weapon a number of times after alleged \u2018targeted\u2019 attack outside island\u2019s police stationGet our breaking news email, free app or daily news po",
+     "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837"
+    },
     {
      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
@@ -14,11 +22,11 @@
      "image": ""
     },
     {
-     "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party\u2019s branding but preferencing it last",
+     "title": "Victorian Greens win injunction over how-to-vote cards mimicking party\u2019s branding but preferencing it last",
      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-22T02:08:49+00:00",
-     "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan\u2019s cards instruct people to vote in a way that would benefit Liberal partyGet our daily political email, free app or daily news p",
+     "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan\u2019s cards instructed people to vote in a way that would benefit Liberal partyGet our daily political email, free app or daily news",
      "image": "https://i.guim.co.uk/img/media/96ab340872e588ad309196b07390be6b1c05c064/0_0_935_748/master/935.jpg?width=140&quality=85&auto=format&fit=max&s=cb157e8ba631ea73ff9af551de474e32"
     },
     {
@@ -108,19 +116,11 @@
      "published": "2026-11-21T23:44:00+00:00",
      "summary": "Joseph Aoun says &#039;two fundamental obstacles, inseparably linked&#039; mean Lebanon cannot fully celebrate its independence.",
      "image": ""
-    },
-    {
-     "title": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T23:18:14+00:00",
-     "summary": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T02:53:16.226583+00:00",
+   "fetched_at": "2026-11-22T03:23:19.970826+00:00",
    "stale": false,
    "items": [
     {
@@ -222,9 +222,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T02:53:16.226586+00:00",
+   "fetched_at": "2026-11-22T03:23:19.970829+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Hawaii businesses push USPS to reverse shipping policy",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEJYSFRzRnhYblhNTklicUhmSGxic3J5Z0FHOUExSzB6Skl3ZzBsSTBpRzhxNnVkUklLQkhFQkdGbGRpSTA3by1TS3NWc1RRSVFvTUdvVTU0Z3UyTXNTYnlJWkR3Zkl4d0Q2bFJicWFvb3AxSGlhWmJpLW9MNWdXcVZVbGRZMlhyN1Rzc1hMLWhGajRwd3FJX9IBrAFBVV95cUxQZUtuZTh0a1o1aDN5QnYzVUxveUVnRUJsSHFoMW9ZU3BPRXVqVDVxbXFpZG1CTktUZ0xvRHdBR3E0QmpLcmFFdkpJaDVRbDJDOXk0T2lXLWlZb0JveDFzY1YtdHlxU3NSbHI4OTBjakJyLXlkdW9UQ0hVMGxRTTRaM0c4bmpDeDBrTmVtbVkyQWlNNW1ncmdhN21jTm5NOUF2cnM2N0NIQ3oxXzR0?oc=5",
+     "source": "Hawaii News Now",
+     "published": "2026-11-22T03:03:00+00:00",
+     "summary": "Hawaii businesses push USPS to reverse shipping policy&nbsp;&nbsp;Hawaii News Now",
+     "image": ""
+    },
     {
      "title": "Jefferson City Ward 4 Council member Julie Allen seeks re-election in 2027",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNy0tcHlCTXA2TFlLdk5OWXNNQlZ1TVJNZ01DMS1OODVHWEhTSzdMUUljVEJ4RU5BODVua1dsbnpoUmJVc1BpNzRnclhuc185aVRrYV9rWkw5NFRrdXdvX0NlSDJQUl9ULXJfQzdsSlBCUGROcm9maWJ0enVxWTJkSXZHbzdadDlKd0xTcWFwNWppb2puUl9WTG1rOUpJUkpSWlVpNDZfRmpVeDM3YVlYYk11QQ?oc=5",
@@ -243,7 +251,7 @@
     },
     {
      "title": "Hong Kong Election Committee race: long lines at polling stations as voting begins",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9JRXZVcVUtM1JqeWpiRHNSYXMycmxiQV82SFhJY09xbGkzdERXbVZoQ1ZrSFVXYTV5bkVUWHh3M2FpX2w0Wlh6ajNKSkNkaFJSZDNZUm5rYlhpckp5eHJ4T2tCbjV1Z0VpX3ZhVzJSRFFWN2p5aXdyelZCTzdRVnkwRTdsZzRBNkpEQUJ3ZXVSTEo4bTZMTjhqZFlGSmVYak44THZCLV9SRERyZkRxNVZnejM5QVZPWmNtTUxOLWdnOW1jNWxScFVmWGxYdFEtQ3c?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9JRXZVcVUtM1JqeWpiRHNSYXMycmxiQV82SFhJY09xbGkzdERXbVZoQ1ZrSFVXYTV5bkVUWHh3M2FpX2w0Wlh6ajNKSkNkaFJSZDNZUm5rYlhpckp5eHJ4T2tCbjV1Z0VpX3ZhVzJSRFFWN2p5aXdyelZCTzdRVnkwRTdsZzRBNkpEQUJ3ZXVSTEo4bTZMTjhqZFlGSmVYak44THZCLV9SRERyZkRxNVZnejM5QVZPWmNtTUxOLWdnOW1jNWxScFVmWGxYdFEtQ3fSAdIBQVVfeXFMUGtVdTFkRTVEU1doaGZhdzVMM2JQUmZ3aXJhcGVNMFhON21DbmRlMXNuQWpBT1dkMDRJLWY4d1ppODNTMGZpVDJzZzhiNGtLWk9ZNE5MbkpWZ3NMSmlQTld0bXQxb2NuWk84ZDhGQ1pHMmc1SVpZV1MxOWx2QkZQSUNfTUIyX3ZnSU9mR2hlc1lRYVZpTGh6aU00V1FnY08yZmtvQWtjRUR4aW04LVNSenpMZXVwb3RybUVpdGRsdEVqbm1kRUR0d1lxMDA4ZWhGWmhR?oc=5",
      "source": "South China Morning Post",
      "published": "2026-11-22T02:26:45+00:00",
      "summary": "Hong Kong Election Committee race: long lines at polling stations as voting begins&nbsp;&nbsp;South China Morning Post",
@@ -312,19 +320,11 @@
      "published": "2026-11-22T00:10:37+00:00",
      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "Judge Blocks Trump Administration\u2019s Effort to Transform Homelessness Policy",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1dXMXFQTmZSd0pZUy1xMkZxSkFWVERpR1NlUHgzcDhJSEEzdi0wTFJpblZjeHpvS2YwZFh6T2IzekpWZzJTUmtOSjlLaWRtbVdBYkJhNVpyNll2UGpyc1RzcmNxWHJMYzBETTlLVXVxdFNfN2xKN2k0Z2ZPZlJQNzQ3c0Zib0poZjBxdDJzWElMS3pEam15YUs1WE4?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-22T00:03:40+00:00",
-     "summary": "Judge Blocks Trump Administration\u2019s Effort to Transform Homelessness Policy&nbsp;&nbsp;The New York Times",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T02:53:16.226588+00:00",
+   "fetched_at": "2026-11-22T03:23:19.970831+00:00",
    "stale": false,
    "items": [
     {
