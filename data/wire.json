@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T03:53:24.700586+00:00",
+ "generated_at": "2026-11-22T03:53:38.435464+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T03:53:24.700568+00:00",
+   "fetched_at": "2026-11-22T03:53:38.435418+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T03:53:24.700577+00:00",
+   "fetched_at": "2026-11-22T03:53:38.435432+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T03:53:24.700579+00:00",
+   "fetched_at": "2026-11-22T03:53:38.435435+00:00",
    "stale": false,
    "items": [
     {
@@ -255,6 +255,14 @@
      "source": "ABC17NEWS",
      "published": "2026-11-22T02:45:23+00:00",
      "summary": "Jefferson City Ward 4 Council member Julie Allen seeks re-election in 2027&nbsp;&nbsp;ABC17NEWS",
+     "image": ""
+    },
+    {
+     "title": "Netanyahu's post-election panic: what is he so afraid of?",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yTEs3WVZjS0dvN3AxSVVpVS1Kd0hNa3ZrdWxpU256RnFnUDBGUlJTdG8wTGxXeTJZT0JXcnVHRnh3MlZ3bzJCS3AwTEE3WWNKcXFQRTNHM2RyTW5Wc0NvRzZRWVZaZWp5R0pxRWRB?oc=5",
+     "source": "Ynetnews",
+     "published": "2026-11-22T02:30:14+00:00",
+     "summary": "Netanyahu's post-election panic: what is he so afraid of?&nbsp;&nbsp;Ynetnews",
      "image": ""
     },
     {
@@ -312,19 +320,11 @@
      "published": "2026-11-22T00:15:22+00:00",
      "summary": "Treece vs Nafisa Fai Election: Weekend Warriors Unite&nbsp;&nbsp;The Hillsboro Herald",
      "image": ""
-    },
-    {
-     "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-     "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-22T00:10:37+00:00",
-     "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T03:53:24.700581+00:00",
+   "fetched_at": "2026-11-22T03:53:38.435438+00:00",
    "stale": false,
    "items": [
     {
