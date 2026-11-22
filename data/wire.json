@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-22T01:23:04.773968+00:00",
+ "generated_at": "2026-11-22T01:53:08.714204+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T01:23:04.773948+00:00",
+   "fetched_at": "2026-11-22T01:53:08.714181+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T01:25:03+00:00",
+     "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+     "title": "Moviegoers head for the exits as quake strikes Peru",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T01:07:19+00:00",
+     "summary": "Moviegoers head for the exits as quake strikes Peru",
+     "image": ""
+    },
     {
      "title": "\u2018No time for a culture war\u2019: Victoria\u2019s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
      "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
@@ -70,14 +86,6 @@
      "image": ""
     },
     {
-     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-     "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T23:31:17+00:00",
-     "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
      "title": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
      "source": "Al Jazeera",
@@ -108,21 +116,21 @@
      "published": "2026-11-21T22:19:43+00:00",
      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
-    },
-    {
-     "title": "Bahrain says Iranian attack hits industrial facility",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T22:02:03+00:00",
-     "summary": "Bahrain says Iranian attack hits industrial facility",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T01:23:04.773957+00:00",
+   "fetched_at": "2026-11-22T01:53:08.714192+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Missile attack hits Zelenskyy's hometown in central Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOW1HQktYbEk2OXRKWHYzNEQ4eFlJNzgtZGRRak9sQUJ3RzJWcEJjbzBRS2NCcnQ0dGx4ZUNZaVhMdUlBSm0zUDRISUhwN0VhT21QT2xxRkRoWHIxSW9qdDNFOU9qY3VVUy12dF8zYmg1UDJaR1N0TGNnYnd5WnQ0SThWcFA5OHpFb2g0b3FZNmJaZTljOGhYYzlod3VsbG8?oc=5",
+     "source": "TelegraphHerald.com",
+     "published": "2026-11-22T01:30:00+00:00",
+     "summary": "Missile attack hits Zelenskyy's hometown in central Ukraine&nbsp;&nbsp;TelegraphHerald.com",
+     "image": ""
+    },
     {
      "title": "Russia Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFlUUWdIMzk1Skx3bndMVTZORzI4MklDejg1cWEzU01OVzRfeTczQ29UVWRCLUJQUUY2MkdsM0tWRnMyYjloandVOWc0Rk5JZUpGejF6UEFzc2E2Ykk2WWZPYW5NdWtOeldSZk1ncG0yS3hVV0hXMnU2M2tRcjFhZkxUa3dOdHI3Mk5OeThPbjBHNnBmbnRMQQ?oc=5",
@@ -210,21 +218,21 @@
      "published": "2026-11-21T21:23:25+00:00",
      "summary": "Finland warns Ukraine war \u2018spilling over\u2019 after Baltic Sea drone strike on Russian cargo ship&nbsp;&nbsp;CNN",
      "image": ""
-    },
-    {
-     "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-     "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T20:56:35+00:00",
-     "summary": "Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T01:23:04.773960+00:00",
+   "fetched_at": "2026-11-22T01:53:08.714195+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "This Week in Texas: Data center policy, tech disruptions, HPD and ICE",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzFQVVE5UUFHQ0lqbUdRRWF1ZnpveWZVWmJtb0F1UVUtMEZYOFBzYUVwa3ZobUhtSnVSd1NqWExNUjhTTjlNVWh6MzF5djRtWEY3RUVwd1JTOTY1Wk9qWFdNUjA5Q1JxNExvN2RIeVd2MjRBZjlmNjB0Z2x6bHB6ZnZtRkpENmNrT2dUcVFfM2bSAZYBQVVfeXFMUF8zUG1PZUd6SGlzY3VIVkhLNktjTDNWYVgyYkxMeGdHYi1ZSmFyWUlwSmc5RGoxWE1vWTZ6U2dIOFFNYUhyZEFLWldyTEVLcWNDQ3Q5VmRjdTZFN3IxaHBmT2lwbjRSeXYtSDcwd3h5U2hXMTNLek1wZ2V6UTZNZmVXMkowWC1fMXVfM0F6enNBd3MxYzlB?oc=5",
+     "source": "ABC13 Houston",
+     "published": "2026-11-22T01:35:22+00:00",
+     "summary": "This Week in Texas: Data center policy, tech disruptions, HPD and ICE&nbsp;&nbsp;ABC13 Houston",
+     "image": ""
+    },
     {
      "title": "2026 Global Tax Policy Survey",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHB1b3hCODQ4LU42ckVuQjFxY0pET0dESFdzLVN6VWpxODVfN253RmdPaHJuRFAzY2hMeE5ETTJ5aTh5UTRLY1NqRzRkTzZCU3FaXzZNdFRoZnJvM0owQ3IzWWNNN3BzR04wbk5fU0hVbWZlWEVBOFRmTVU4Ri1SRXdGQVVvTzBNWWc?oc=5",
@@ -234,11 +242,11 @@
      "image": ""
     },
     {
-     "title": "Election Committee Subsector Ordinary Elections polls open",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vLWRzaGdfN1o1RDdlWVZOM2g4cnJQb3ZjSGtLUEdjUUtZX1lmckFhemRrOTN3eEk1RXBCU3d3czdBeS1ReTFjS3lVTDVmdW14ZmlIejMteTI?oc=5",
-     "source": "chinadailyhk",
-     "published": "2026-11-22T01:09:05+00:00",
-     "summary": "Election Committee Subsector Ordinary Elections polls open&nbsp;&nbsp;chinadailyhk",
+     "title": "NY: STUDENTS WALKOUT OVER GENDER IDENTITY POLICY",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVowTm5Uc2g1NWcyMURWRUc1MVhWMEdaTThiTFc3WDBUeGtoRXV6MmJiNXM4R3RsSklwUXhXOXpuOVdxNjFZY1hTWmxzMWhPc1V6NHFON0NZTHdERnlKR0ZmbTRRMU12X1owQmVzU2hLLXZVeGlKenJoZDdWSjNMWWZVbmg3TEFoRlU4OWd6OV9Iek1SalFkSVBEV0ZES0ZJVVRJdVA0MjdwOFBsd1Z6MjdZaHp1M3dUZnlOMmdlajM0eGRZRmVrWHhQZlZLczF6SjBiVE9Kbw?oc=5",
+     "source": "Local 3 News",
+     "published": "2026-11-22T01:09:11+00:00",
+     "summary": "NY: STUDENTS WALKOUT OVER GENDER IDENTITY POLICY&nbsp;&nbsp;Local 3 News",
      "image": ""
     },
     {
@@ -274,14 +282,6 @@
      "image": ""
     },
     {
-     "title": "Nigeria election 2027: Why are its politicians so old in a young country?",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjUGxyVkt4OE1QNmNFYUJkM1hTQ19sMzZMazBfR0gzbThqRXVGRjAyVG1VQVkzaFpVZ29WV1A1Y3JrT0VSdjRTamJvcFZQaGppS0pJYnBMV3lnZU0?oc=5",
-     "source": "BBC",
-     "published": "2026-11-22T00:10:37+00:00",
-     "summary": "Nigeria election 2027: Why are its politicians so old in a young country?&nbsp;&nbsp;BBC",
-     "image": ""
-    },
-    {
      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -306,25 +306,25 @@
      "image": ""
     },
     {
+     "title": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlp6ZzNwN2FPdDZRdl80ZWtkcGZtQUhsNkoxRHdCMDFPdXdNTzAyVVNDT2NIUjRaQWlXdnptMElwVGVqVFlEVFR4eFg4aXZzUC1RN2FIV2FDd0RrSHl3WVRBcndfaWhqSy13a3Y0cGhzMURNc2lzeFdRRzlNVlJ1NWdQZjJIdU5kcjJjS3pPSi1QVUlYbzQydnBDb0lxcDNaZHYzWE1GVVBZa0NSWlE?oc=5",
+     "source": "JNS.org",
+     "published": "2026-11-21T23:32:46+00:00",
+     "summary": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves&nbsp;&nbsp;JNS.org",
+     "image": ""
+    },
+    {
      "title": "It\u2019s official: Raffensperger certifies Nov. 3 election results",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjVtR1R5RFA5c1NPaEpTVFNRX0lBbzdSOWdkblBGSDRlWTlNWFNSd0ZpS3NzRTVvU3dleGdPRHZCVjdHRmdmVE9BUTlWaW9nMkN1akkzYzZfOVkxYmdLbXdrbTBjQXYwZHpWSlVzSkVmOU5OemVfalZ3Ry1ya3ZQcmlNbmh2R0FfVWJybzZ6Vi1aZGVT?oc=5",
      "source": "Reporter Newspapers",
      "published": "2026-11-21T23:28:13+00:00",
      "summary": "It\u2019s official: Raffensperger certifies Nov. 3 election results&nbsp;&nbsp;Reporter Newspapers",
      "image": ""
-    },
-    {
-     "title": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlp6ZzNwN2FPdDZRdl80ZWtkcGZtQUhsNkoxRHdCMDFPdXdNTzAyVVNDT2NIUjRaQWlXdnptMElwVGVqVFlEVFR4eFg4aXZzUC1RN2FIV2FDd0RrSHl3WVRBcndfaWhqSy13a3Y0cGhzMURNc2lzeFdRRzlNVlJ1NWdQZjJIdU5kcjJjS3pPSi1QVUlYbzQydnBDb0lxcDNaZHYzWE1GVVBZa0NSWlE?oc=5",
-     "source": "JNS.org",
-     "published": "2026-11-21T23:26:35+00:00",
-     "summary": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves&nbsp;&nbsp;JNS.org",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T01:23:04.773961+00:00",
+   "fetched_at": "2026-11-22T01:53:08.714197+00:00",
    "stale": false,
    "items": [
     {
