@@ -1,17 +1,33 @@
 {
- "generated_at": "2026-11-22T20:56:12.742062+00:00",
+ "generated_at": "2026-11-22T21:26:16.689070+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T20:56:12.742032+00:00",
+   "fetched_at": "2026-11-22T21:26:16.689039+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
+     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+     "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T21:22:40+00:00",
+     "summary": "The couple have been together for four years and were engaged in 2025.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg"
+    },
+    {
+     "title": "Australian politics live: Chris Bowen \u2018frustrated\u2019 by climate summit; countdown to pass key legislation begins",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-22T20:33:01+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcast\u2018It\u2019s frustrating we didn\u2019t get further\u2019: PlibersekThe social services minister, Tanya Plibersek, has conceded it is \u201cfru",
-     "image": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=140&quality=85&auto=format&fit=max&s=a37f156545838fb29e4d3d40be6c9875"
+     "published": "2026-11-22T21:11:47+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
+     "image": "https://i.guim.co.uk/img/media/c5a3bffdba2ed8e8cb3f5d37fd5bdeea4c2d3bb4/307_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=4205697338087fb1f75c358a0c620d0b"
+    },
+    {
+     "title": "US intelligence chief says he trusts Trump\u2019s description of Putin as \u2018my friend\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+     "source": "The Guardian",
+     "published": "2026-11-22T20:55:33+00:00",
+     "summary": "Jay Clayton was pressed on Trump\u2019s characterization of Putin during media appearances on SundayJay Clayton, the US director of national intelligence, said he trusts Donald Trump \u201cc",
+     "image": "https://i.guim.co.uk/img/media/c6e084993e7554d08fa979d5cced63cab321f6b7/445_0_4447_3559/master/4447.jpg?width=140&quality=85&auto=format&fit=max&s=5f8c5943cb1a1dd87295533886c00412"
     },
     {
      "title": "Fire breaks out at popular tourist hotspot in Zanzibar",
@@ -100,29 +116,21 @@
      "published": "2026-11-22T19:30:00+00:00",
      "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
      "image": ""
-    },
-    {
-     "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-     "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T19:18:29+00:00",
-     "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
-     "image": ""
-    },
-    {
-     "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-     "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-     "source": "The Guardian",
-     "published": "2026-11-22T19:17:56+00:00",
-     "summary": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North CarolinaHouse Democrats have secured their best general election result in decades",
-     "image": "https://i.guim.co.uk/img/media/5f402191919a3838c9536ca633ae08dfe18991da/530_0_4817_3854/master/4817.jpg?width=140&quality=85&auto=format&fit=max&s=0dd4f5e8250545a497550708fd2cadb3"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T20:56:12.742046+00:00",
+   "fetched_at": "2026-11-22T21:26:16.689054+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US intelligence chief says he trusts Trump\u2019s description of Putin as \u2018my friend\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+     "source": "The Guardian",
+     "published": "2026-11-22T20:55:33+00:00",
+     "summary": "Jay Clayton was pressed on Trump\u2019s characterization of Putin during media appearances on SundayJay Clayton, the US director of national intelligence, said he trusts Donald Trump \u201cc",
+     "image": "https://i.guim.co.uk/img/media/c6e084993e7554d08fa979d5cced63cab321f6b7/445_0_4447_3559/master/4447.jpg?width=140&quality=85&auto=format&fit=max&s=5f8c5943cb1a1dd87295533886c00412"
+    },
     {
      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
@@ -164,6 +172,14 @@
      "image": ""
     },
     {
+     "title": "A $438,000 bet on Kyiv \u2014 Why open a restaurant ahead of a winter of blackouts?",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTFPSnJjbWpQbGNldE5aN3NzTGxqMUZGZnhSVGVFQnJzd1NzSVZUajRmYTdHQ2paZmx3RjlGTElfSjRoUFJnYWVoZmRtSnZZMDhXR0hRRGhoa2pKQkZtUUFMbEo5N3A2Yk50WVBsMVBRLVZhR29JUTVRd2NXLWZ6TGdTblRFeTZvOTBZLWNlR3JZNHpwYXJtdTJOQ0I0M2lETkt1bGFB?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-22T19:56:22+00:00",
+     "summary": "A $438,000 bet on Kyiv \u2014 Why open a restaurant ahead of a winter of blackouts?&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
      "title": "Russian cargo ship leaves Finland\u2019s territorial waters after drone attack",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
      "source": "Al Jazeera",
@@ -202,44 +218,68 @@
      "published": "2026-11-22T18:45:30+00:00",
      "summary": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normallyDozens of hospitals are so short of money they may not be able",
      "image": "https://i.guim.co.uk/img/media/5633df9594626ebd63708d53648d420366e97d6b/97_132_2807_2244/master/2807.jpg?width=140&quality=85&auto=format&fit=max&s=f5b4c8c7147bdcacc7cb25e6ba09e00d"
-    },
-    {
-     "title": "Russian Corvette Merkury: Can Ukraine Strike a Warship in Libyan Waters?",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hZUhieC1HcXN2dUlDMk4wUDdqZUw1SmRaeWtzLWUxazBvYTNHLVhCTjE3SkFNV3dmTDVtME50cm9ub3Rxb0NqTmdUT2NYYTNvaTd3SVB5MUh5LW41VmFDSWtFUEx3WWtsYmZOcTNR?oc=5",
-     "source": "Diplomacy and Law",
-     "published": "2026-11-22T18:34:18+00:00",
-     "summary": "Russian Corvette Merkury: Can Ukraine Strike a Warship in Libyan Waters?&nbsp;&nbsp;Diplomacy and Law",
-     "image": ""
-    },
-    {
-     "title": "Russian strikes kill 6 in Kyiv region, Ukraine says",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUNOMnljaHRpcGxWS2pENUxkclFRSFktMFFOMkk3SkNOdDg1YjRFQ2w4MjNZRXVEczZWQnRuWDFfNmQ4VEw5Y1l3M3hva0JDWUlnQ3JMcy1NZ1FzRURtcDBHRW8wTVBlY3hKTGN1OVJkc1NTT0s2VDFTWW9CYkVyT2hnZWRrUkxKUzl1bTFOQ3NEU2V4Z3lKT3ItT1BucUVoQjMyeNIBpAFBVV95cUxNVHRSVV84dC1qSUI0OGxSMTB0NC1jRWVwR2k3WTdESFVTVkg1dWJDeHI2cFd6d3pEX0NKOXJ0UG84ZDVvSGx5S3A4T0tjeHAzclB1aFlWajYwcmlqcUZ6NkJDcUpua3AxTklOaS1ZWXNIRmVUamhKakhPVnhfLVBaRm5wQU0tMEYtZTk1bjZFdTVnclFYY2p6YlkxT05kaXRYTjVYdg?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-11-22T18:32:59+00:00",
-     "summary": "Russian strikes kill 6 in Kyiv region, Ukraine says&nbsp;&nbsp;South China Morning Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T20:56:12.742051+00:00",
+   "fetched_at": "2026-11-22T21:26:16.689058+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Fate expects election decision prior to Thanksgiving for runoff vote",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObmxqQ0xKTFQwOVRPNEdzb1RrOG1BQ0Ftc2NwYUtQLS1yb09GbUcwNlRMWWpjQUpXRk42QVJhaHVlUkktTVZrOGJsSzZfbWh5RExNcjNTNDBweUt4cmFUVUU2VnN3OEl0X2dBUk1PWElHcmZ4QVZtLWJJbl9KcGZublhQTWlqWm5PRE1yN28tM1FqeXRZRWdVMG1mYkkzQVd6Mzd0N3kxQmRGRUhkaDRqVUktYUIxY2ZOZEJkUkNfMGtCbjg1SHJFdzFsY2M2d3F2Y1otZjFRZW9idzdUdGVVM2hCQXUwM2RZeEY3WGFvWC0wUTlRQTE5WlhxQkR5Z1Zf?oc=5",
-     "source": "Rockwall County Herald-Banner",
-     "published": "2026-11-22T20:40:00+00:00",
-     "summary": "Fate expects election decision prior to Thanksgiving for runoff vote&nbsp;&nbsp;Rockwall County Herald-Banner",
+     "title": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHJEVkpMY1lCY0t4amFNXzZkM2VlbzA2YU05NjlNdFBILVdFSUJESmhKcnRlUFdXMUxLLWxGMFJJQ1RGamhzNjBkOFd4cTNuamQxLW5ZZ2JWb2hnS2Q2VmVEMWVoTUw0SEtxUG1GRGV5TUlWaXVOM01OenVtNVF3dFJiT2s4UWZlTHkzZlJzYjBPTXota1FZakkzQWxwNXFUNS13UXBBNmtUSHRidTdwbHJKbllRZUdiMXpSa0VscE95Q2k4VTNj?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-22T21:16:10+00:00",
+     "summary": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
-     "title": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
+     "title": "Can climate diplomacy build on the collapse of COP31?",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1RyOVZKTlV6bndHdTJhb3ZfZkI5R081UGttS1pZMDB4T0s0ekRPNGRQLW5FUERHRGVFLUxLQTFEcnFKSHpwVDBOQThBRGVaZkJfVTlMUzZPOFc3b3dZZllkVUVuRF9Lbnc3d3pzd01KQTE5WFpzR1h4alU4dUF1ZW0yYkpFeHF1RjRvbklfbWJqdDNXV1lkVkFCQnlRZw?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-22T21:15:43+00:00",
+     "summary": "Can climate diplomacy build on the collapse of COP31?&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Opinion: \u2018You aren\u2019t welcome\u2019: Reckoning with raw bigotry and hate post-election",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkV1SXdIaGJKdWpsNXNxbkk0RXU4a1QyN1JUMGJsSkFVaWZ3SkthZXFBR25kMDNzSlczaHNrX1p6LUcxbmdJWFcxSXZZWVNKZ2ZrSXJiYUo5aE9uaWkzS3BDT0ptamtxVWg1RjJUOFlkci1iU1FJVnBGOFdSbVB4VUg1ZU1wb3FGM2JBWng1U2MzWngwRlNTc2NUbFhRLVVrTzdDTTU1ZnVfcTM1LUllUFVR?oc=5",
+     "source": "Milwaukee Neighborhood News Service",
+     "published": "2026-11-22T21:15:00+00:00",
+     "summary": "Opinion: \u2018You aren\u2019t welcome\u2019: Reckoning with raw bigotry and hate post-election&nbsp;&nbsp;Milwaukee Neighborhood News Service",
+     "image": ""
+    },
+    {
+     "title": "Australian politics live: Chris Bowen \u2018frustrated\u2019 by climate summit; countdown to pass key legislation begins",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-22T20:33:01+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcast\u2018It\u2019s frustrating we didn\u2019t get further\u2019: PlibersekThe social services minister, Tanya Plibersek, has conceded it is \u201cfru",
-     "image": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=140&quality=85&auto=format&fit=max&s=a37f156545838fb29e4d3d40be6c9875"
+     "published": "2026-11-22T21:11:47+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
+     "image": "https://i.guim.co.uk/img/media/c5a3bffdba2ed8e8cb3f5d37fd5bdeea4c2d3bb4/307_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=4205697338087fb1f75c358a0c620d0b"
+    },
+    {
+     "title": "Republican legislative leaders get a vote of confidence despite election losses",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFdjSmRmRXRjMy10czRKYUxTRndpTXdoUmRpQXBmZHJqM1YzNjNSWXU3aFlaSUdINXlSSTBVd3RSRnNOcW43Y24tOF9iSlI3cXlzbEpZQUI5QjYxLVBqMy1HWlA5Y0pQOXFBd0s1eTZhbWU4MHpreDNCOTdCZ2dDdTFDSzhCbThmb0dkdGt5ekcwT29nc1pOVDNTRXBuUjBoWnZvQVZSWUQ3T3BoOVB5aHFPZ2d1b0NVdDFRRWdB?oc=5",
+     "source": "WSJD 100.5",
+     "published": "2026-11-22T21:02:41+00:00",
+     "summary": "Republican legislative leaders get a vote of confidence despite election losses&nbsp;&nbsp;WSJD 100.5",
+     "image": ""
+    },
+    {
+     "title": "Fate expects election decision prior to Thanksgiving for runoff vote",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUzhzdkdCYUkwXzdwMkRic09KZW1mMEZzVFUwZnJpM0dZaFpjQmxPRzM3YmVsa2I4cHFvVlZnNXlxWk1WVEtJS1lRSmxPQXItLXRxSXdWZ1ZLM0ZhMnNhNUxGbUlydzRWU0c1YzZpX0JSejE1cDNSUFp0TldmU0hPZzd6djMwcVVhcGZTSDFrUktuZDlBZFhXaFBYajBVYzdjdHNvV29XVWtZTGtXbVFvZ0pEMFpCQzBhajh1QlNBOTRoUkJ4V1ZsaFZHeF9ydlpVUUx5S0tuMlFDTzVSbmRoQ09QMUF4NXZCYUdVWE5uaXBmMk5VNHU2UXFIYV9VVDlUYVE?oc=5",
+     "source": "Royse City Herald-Banner",
+     "published": "2026-11-22T20:40:00+00:00",
+     "summary": "Fate expects election decision prior to Thanksgiving for runoff vote&nbsp;&nbsp;Royse City Herald-Banner",
+     "image": ""
+    },
+    {
+     "title": "Victoria faced devastating bushfires and an \u2018extinction emergency\u2019 this year. So why is nature missing from the election?",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEMzSVFGemFka3F5UVg0NXdOU0pLSGwyQy1EUVF0SDZkbU9aTDIwWS1BRmc4eDgyeHhrUnlrcFhkOGZsX0lEcmVTbUhnbXJsdEZCRzl6aFg2dzNYVkRCN3NFcy10cjJVcVp0Y1RBYXQ1VGM2MS15bDc5NUFDUDFfMWdYaUptUjFwZ0M4dWpYcHItVWN0b2tHYjFIb1gzMWJrUm00cldnMjFVbWRlZURJV240YjYzSHY5aEUzN2ZXSQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-22T20:38:00+00:00",
+     "summary": "Victoria faced devastating bushfires and an \u2018extinction emergency\u2019 this year. So why is nature missing from the election?&nbsp;&nbsp;The Guardian",
+     "image": ""
     },
     {
      "title": "Hakeem Jeffries, incoming House speaker, endorses sanctions against violent settlers",
@@ -280,51 +320,11 @@
      "published": "2026-11-22T20:01:26+00:00",
      "summary": "NewsConference: LA Councilmember Rodriguez on Raman's election, Olympics policing costs&nbsp;&nbsp;NBC Los Angeles",
      "image": ""
-    },
-    {
-     "title": "Why has the COP31 climate summit failed to reach agreement?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T20:00:00+00:00",
-     "summary": "Fossil fuels are at the centre of deep division.",
-     "image": ""
-    },
-    {
-     "title": "Large Latino turnout for Texas midterm election | What's Your Point?",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd0xZU1VZdjE4cW1KZFJ2dTEzTGx4Y29WMGp6SGtCMU1KZFVKOXRsSHYzMkEybTFiRC1kQUR1QnNGVDlBeHd0RnNsZlBKbmVlNUVKQzZwYkhfVHdRcEczWkhRVXpuS0hnYzhwbU5TYUVhT05tb1FyZkw2ZVg3QXZEeGNjVHhWdmdOemtN?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-22T19:53:29+00:00",
-     "summary": "Large Latino turnout for Texas midterm election | What's Your Point?&nbsp;&nbsp;Yahoo",
-     "image": ""
-    },
-    {
-     "title": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHJEVkpMY1lCY0t4amFNXzZkM2VlbzA2YU05NjlNdFBILVdFSUJESmhKcnRlUFdXMUxLLWxGMFJJQ1RGamhzNjBkOFd4cTNuamQxLW5ZZ2JWb2hnS2Q2VmVEMWVoTUw0SEtxUG1GRGV5TUlWaXVOM01OenVtNVF3dFJiT2s4UWZlTHkzZlJzYjBPTXota1FZakkzQWxwNXFUNS13UXBBNmtUSHRidTdwbHJKbllRZUdiMXpSa0VscE95Q2k4VTNj?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-22T19:46:10+00:00",
-     "summary": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Antigay Republican Virginia Foxx lost to a father who had his gay daughter in mind when he decided to run",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQl9KUlgxanJwX0FZUVY2NnRtUVNPM0NacGtaRUNPZC1nRDhUZTh0U1V5Z2RpV042NGwtMmdPMWxmazdBMVUyZzJpa094RUd2SjliNWFWSnZpYnpkbmZON0ZEQlVyQlZJcTFhbjVZWEI3N3JCRFM3Y1hLR2tabzVVcC0yWWw?oc=5",
-     "source": "Advocate.com",
-     "published": "2026-11-22T19:38:11+00:00",
-     "summary": "Antigay Republican Virginia Foxx lost to a father who had his gay daughter in mind when he decided to run&nbsp;&nbsp;Advocate.com",
-     "image": ""
-    },
-    {
-     "title": "Burnham, 'Brejoin' & the Ghosts of Brexit",
-     "url": "https://www.france24.com/en/tv-shows/spotlight/20261122-burnham-brejoin-the-ghosts-of-brexit",
-     "source": "France 24",
-     "published": "2026-11-22T19:37:13+00:00",
-     "summary": "\u201cThe people of Britain have spoken, and the answer is: we are out.\u201d The words of David Dimbleby at 4.40am on 24 June 2016, as the Brexit referendum result became clear. But nearly ",
-     "image": "https://s.france24.com/media/display/0a41a232-e6ab-11f1-8e45-e56ab3dc0809/w:1024/p:16x9/andy-burham.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T20:56:12.742053+00:00",
+   "fetched_at": "2026-11-22T21:26:16.689061+00:00",
    "stale": false,
    "items": [
     {
