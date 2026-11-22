@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-22T02:23:12.569075+00:00",
+ "generated_at": "2026-11-22T02:53:16.226595+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T02:23:12.569058+00:00",
+   "fetched_at": "2026-11-22T02:53:16.226570+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T02:14:18+00:00",
+     "summary": "Israeli forces continue to destroy residential buildings as part of a &#039;gradual displacement&#039; policy, a Gaza mayor says.",
+     "image": ""
+    },
     {
      "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party\u2019s branding but preferencing it last",
      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
@@ -12,6 +20,14 @@
      "published": "2026-11-22T02:08:49+00:00",
      "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan\u2019s cards instruct people to vote in a way that would benefit Liberal partyGet our daily political email, free app or daily news p",
      "image": "https://i.guim.co.uk/img/media/96ab340872e588ad309196b07390be6b1c05c064/0_0_935_748/master/935.jpg?width=140&quality=85&auto=format&fit=max&s=cb157e8ba631ea73ff9af551de474e32"
+    },
+    {
+     "title": "Bessent confirms he\u2019s living on US military base over Iran fears",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T02:05:50+00:00",
+     "summary": "US Treasury Secretary Scott Bessent says he\u2019s still living at a US military base, two weeks after an Israeli warning.",
+     "image": ""
     },
     {
      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
@@ -100,27 +116,11 @@
      "published": "2026-11-21T23:18:14+00:00",
      "summary": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
      "image": ""
-    },
-    {
-     "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
-     "source": "The Guardian",
-     "published": "2026-11-21T22:41:36+00:00",
-     "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable conditionGet our breaking news email, free app",
-     "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837"
-    },
-    {
-     "title": "EU-Indonesia agreement sees the light after ten years of negotiations",
-     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
-     "source": "France 24",
-     "published": "2026-11-21T22:23:03+00:00",
-     "summary": "The European Union and Indonesia have signed a major trade deal, ten years after talks began.The agreement removes almost all tariffs between the EU and Southeast Asia's biggest ec",
-     "image": "https://s.france24.com/media/display/ea9d9328-e5f6-11f1-b921-1bac47ab2f5d/w:1024/p:16x9/capture-a5f225a1.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T02:23:12.569066+00:00",
+   "fetched_at": "2026-11-22T02:53:16.226583+00:00",
    "stale": false,
    "items": [
     {
@@ -129,6 +129,30 @@
      "source": "C-SPAN",
      "published": "2026-11-22T02:16:32+00:00",
      "summary": "Former Ukrainian Prime Minister Discusses U.S. Diplomacy Amid Russia-Ukraine War&nbsp;&nbsp;C-SPAN",
+     "image": ""
+    },
+    {
+     "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T02:14:18+00:00",
+     "summary": "Israeli forces continue to destroy residential buildings as part of a &#039;gradual displacement&#039; policy, a Gaza mayor says.",
+     "image": ""
+    },
+    {
+     "title": "Bessent confirms he\u2019s living on US military base over Iran fears",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T02:05:50+00:00",
+     "summary": "US Treasury Secretary Scott Bessent says he\u2019s still living at a US military base, two weeks after an Israeli warning.",
+     "image": ""
+    },
+    {
+     "title": "Melania Trump hopes for new ceasefire between Ukraine and Russia by Christmas",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWhwZW1Da1VOSnRocjdNcm1ZRlNzTGI5Z0ItbTE3NEV2bmZtRnM0MWdqbE5BdE15S3ZsdUVzdlVJMjZYOHItNGhoSXFTZXJvZWQ3XzJYMFBGeEllcFZRZjRBSE53NFBDZEFLTFVzSHZkRVZEYUVqWEE3aENTMjVFTFhHeUhIajZkTlotRWVIY2VINUR4d3J1UFNtdm9LdWVodVNYb1N5QmpmUnluaTM0My1nNjRHN1VqNUw1UFh3dm16a05KbXh1TUpHY9IB0AFBVV95cUxNUGFBbWtDVFoyNmdPMURNZnBJbVVnZ0NyYU83NlFxZTNadHRfZEJWSUNfcmxhUkh2MFhnWmQ0SHBPTUd0R3hTWnF5c2FwUlN0dW5PVk4ybTJOMUdXc1pFeUZFUGxkel84d3NHMDBRWk5yRXlNY08wOFZjSDJ0Y0pnZXptZHF5c0JCRmQ1R3QyWGxMd2xselVxdF9EanpELU5yaVpXY0dHVHlITnBxQjRQclprZUlTZ04xM2NHSUp2OUMwaE5FWW0xRTZjLVhEUzZH?oc=5",
+     "source": "Ukrinform",
+     "published": "2026-11-22T01:54:00+00:00",
+     "summary": "Melania Trump hopes for new ceasefire between Ukraine and Russia by Christmas&nbsp;&nbsp;Ukrinform",
      "image": ""
     },
     {
@@ -194,37 +218,37 @@
      "published": "2026-11-21T23:05:43+00:00",
      "summary": "How the Shenzhen Photo-Op Exposed Trump\u2019s Untenable Position on Ukraine&nbsp;&nbsp;Policy Magazine",
      "image": ""
-    },
-    {
-     "title": "Bahrain says Iranian attack hits industrial facility",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T22:02:03+00:00",
-     "summary": "Bahrain says Iranian attack hits industrial facility",
-     "image": ""
-    },
-    {
-     "title": "A grieving family in Lebanon returns to their village",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
-     "source": "NPR",
-     "published": "2026-11-21T22:01:32+00:00",
-     "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
-     "image": ""
-    },
-    {
-     "title": "Bahrain says Iranian attack causes fire at industrial facility",
-     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T21:31:03+00:00",
-     "summary": "Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T02:23:12.569068+00:00",
+   "fetched_at": "2026-11-22T02:53:16.226586+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Jefferson City Ward 4 Council member Julie Allen seeks re-election in 2027",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNy0tcHlCTXA2TFlLdk5OWXNNQlZ1TVJNZ01DMS1OODVHWEhTSzdMUUljVEJ4RU5BODVua1dsbnpoUmJVc1BpNzRnclhuc185aVRrYV9rWkw5NFRrdXdvX0NlSDJQUl9ULXJfQzdsSlBCUGROcm9maWJ0enVxWTJkSXZHbzdadDlKd0xTcWFwNWppb2puUl9WTG1rOUpJUkpSWlVpNDZfRmpVeDM3YVlYYk11QQ?oc=5",
+     "source": "ABC17NEWS",
+     "published": "2026-11-22T02:45:23+00:00",
+     "summary": "Jefferson City Ward 4 Council member Julie Allen seeks re-election in 2027&nbsp;&nbsp;ABC17NEWS",
+     "image": ""
+    },
+    {
+     "title": "Netanyahu's post-election panic: what is he so afraid of?",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yTEs3WVZjS0dvN3AxSVVpVS1Kd0hNa3ZrdWxpU256RnFnUDBGUlJTdG8wTGxXeTJZT0JXcnVHRnh3MlZ3bzJCS3AwTEE3WWNKcXFQRTNHM2RyTW5Wc0NvRzZRWVZaZWp5R0pxRWRB?oc=5",
+     "source": "Ynetnews",
+     "published": "2026-11-22T02:30:14+00:00",
+     "summary": "Netanyahu's post-election panic: what is he so afraid of?&nbsp;&nbsp;Ynetnews",
+     "image": ""
+    },
+    {
+     "title": "Hong Kong Election Committee race: long lines at polling stations as voting begins",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9JRXZVcVUtM1JqeWpiRHNSYXMycmxiQV82SFhJY09xbGkzdERXbVZoQ1ZrSFVXYTV5bkVUWHh3M2FpX2w0Wlh6ajNKSkNkaFJSZDNZUm5rYlhpckp5eHJ4T2tCbjV1Z0VpX3ZhVzJSRFFWN2p5aXdyelZCTzdRVnkwRTdsZzRBNkpEQUJ3ZXVSTEo4bTZMTjhqZFlGSmVYak44THZCLV9SRERyZkRxNVZnejM5QVZPWmNtTUxOLWdnOW1jNWxScFVmWGxYdFEtQ3c?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-22T02:26:45+00:00",
+     "summary": "Hong Kong Election Committee race: long lines at polling stations as voting begins&nbsp;&nbsp;South China Morning Post",
+     "image": ""
+    },
     {
      "title": "This Week in Texas: Data center policy, tech disruptions, HPD and ICE",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzFQVVE5UUFHQ0lqbUdRRWF1ZnpveWZVWmJtb0F1UVUtMEZYOFBzYUVwa3ZobUhtSnVSd1NqWExNUjhTTjlNVWh6MzF5djRtWEY3RUVwd1JTOTY1Wk9qWFdNUjA5Q1JxNExvN2RIeVd2MjRBZjlmNjB0Z2x6bHB6ZnZtRkpENmNrT2dUcVFfM2bSAZYBQVVfeXFMUF8zUG1PZUd6SGlzY3VIVkhLNktjTDNWYVgyYkxMeGdHYi1ZSmFyWUlwSmc5RGoxWE1vWTZ6U2dIOFFNYUhyZEFLWldyTEVLcWNDQ3Q5VmRjdTZFN3IxaHBmT2lwbjRSeXYtSDcwd3h5U2hXMTNLek1wZ2V6UTZNZmVXMkowWC1fMXVfM0F6enNBd3MxYzlB?oc=5",
@@ -296,35 +320,11 @@
      "published": "2026-11-22T00:03:40+00:00",
      "summary": "Judge Blocks Trump Administration\u2019s Effort to Transform Homelessness Policy&nbsp;&nbsp;The New York Times",
      "image": ""
-    },
-    {
-     "title": "Hong Kong\u2019s Election Committee race: how voting works and new candidates to watch",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXVMY3pJVWEwbko0WUJzOGhySEQxS01zUlJjcF9DcWZ2X0NpV3E1bzBWVG1EX2x4blJvNFByUlBaMlFFTXNiV3d3OXgwcTZoNVhYOUoyV3h6Z2hCQWc1ZXlrTHRVaEFtSm1yZjduT2hVYUx0VV9YTlVhbElaUEhRYTFycUVZZVhHUTQtWDZlaDAtcWxVekVnZUl2UmVBamkxR3hUR1M2Nk54WGdRWGdKVjJBZHlJdnp2amlIUWJITlRyRkpkTUZDbUlyOXQxTE93VVh5bENBSnNkZmFPeFp2YWl0NA?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-11-22T00:00:23+00:00",
-     "summary": "Hong Kong\u2019s Election Committee race: how voting works and new candidates to watch&nbsp;&nbsp;South China Morning Post",
-     "image": ""
-    },
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SREMyaXVNUTJkcWFyTzlXM3g2eE1BQlFIM2VWSEk2VGlCV25yYlVPUHQzeDkzdE95X3BxV0Y0M3FxQ1Q4OU90WGRDNjFhM2h0LW00N191R3BFS0t5WlFVTjdHY2ZPRzQwZG5QbzBhdXVCQQ?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-22T00:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlp6ZzNwN2FPdDZRdl80ZWtkcGZtQUhsNkoxRHdCMDFPdXdNTzAyVVNDT2NIUjRaQWlXdnptMElwVGVqVFlEVFR4eFg4aXZzUC1RN2FIV2FDd0RrSHl3WVRBcndfaWhqSy13a3Y0cGhzMURNc2lzeFdRRzlNVlJ1NWdQZjJIdU5kcjJjS3pPSi1QVUlYbzQydnBDb0lxcDNaZHYzWE1GVVBZa0NSWlE?oc=5",
-     "source": "JNS.org",
-     "published": "2026-11-21T23:32:46+00:00",
-     "summary": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves&nbsp;&nbsp;JNS.org",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T02:23:12.569070+00:00",
+   "fetched_at": "2026-11-22T02:53:16.226588+00:00",
    "stale": false,
    "items": [
     {
