@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-22T00:22:56.137879+00:00",
+ "generated_at": "2026-11-22T00:53:00.441267+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T00:22:56.137858+00:00",
+   "fetched_at": "2026-11-22T00:53:00.441246+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Clashes erupt across France in another night of protest",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T00:37:32+00:00",
+     "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+     "image": ""
+    },
     {
      "title": "FBI reportedly investigating apparent hack of its criminal database",
      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
@@ -30,11 +38,11 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg"
     },
     {
-     "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
+     "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-21T23:59:03+00:00",
-     "summary": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
+     "summary": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
      "image": ""
     },
     {
@@ -70,6 +78,14 @@
      "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837"
     },
     {
+     "title": "EU-Indonesia agreement sees the light after ten years of negotiations",
+     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
+     "source": "France 24",
+     "published": "2026-11-21T22:23:03+00:00",
+     "summary": "The European Union and Indonesia have signed a major trade deal, ten years after talks began.The agreement removes almost all tariffs between the EU and Southeast Asia's biggest ec",
+     "image": "https://s.france24.com/media/display/ea9d9328-e5f6-11f1-b921-1bac47ab2f5d/w:1024/p:16x9/capture-a5f225a1.jpg"
+    },
+    {
      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -100,35 +116,19 @@
      "published": "2026-11-21T22:01:35+00:00",
      "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
      "image": ""
-    },
-    {
-     "title": "A grieving family in Lebanon returns to their village",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
-     "source": "NPR",
-     "published": "2026-11-21T22:01:32+00:00",
-     "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
-     "image": ""
-    },
-    {
-     "title": "Lock of former US President George Washington's hair sells for $4,000",
-     "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T22:01:19+00:00",
-     "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T00:22:56.137868+00:00",
+   "fetched_at": "2026-11-22T00:53:00.441256+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
+     "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-21T23:59:03+00:00",
-     "summary": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
+     "summary": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
      "image": ""
     },
     {
@@ -188,6 +188,14 @@
      "image": ""
     },
     {
+     "title": "Finland warns Ukraine war \u2018spilling over\u2019 after Baltic Sea drone strike on Russian cargo ship",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03c0w4dmN2aEdLWTBCeTR6eEFtZ1BkSi1SQlV5NS1WVExuUnZJTjFxZDlCRU13U1dmc1lkdjNwM3pVUjJjTktDOU81Qy0yaEVHS2JlVFlnUVRVRWlQbnM1WEQtX0pqYWI0VmJaV2UySkxaTFZuS09XV094R1huQQ?oc=5",
+     "source": "CNN",
+     "published": "2026-11-21T21:23:25+00:00",
+     "summary": "Finland warns Ukraine war \u2018spilling over\u2019 after Baltic Sea drone strike on Russian cargo ship&nbsp;&nbsp;CNN",
+     "image": ""
+    },
+    {
      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
      "source": "Al Jazeera",
@@ -210,21 +218,29 @@
      "published": "2026-11-21T20:38:28+00:00",
      "summary": "Mike Waltz Warns Russia Faces 'Unsustainable' Losses as Trump Seeks Ukraine Deal: how 6 outlets framed it&nbsp;&nbsp;NewsCord",
      "image": ""
-    },
-    {
-     "title": "Former Ukrainian Prime Minister Discusses U.S. Diplomacy Amid Russia-Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVNValEzV2UzV2prRDR3bE9odmpiY0VHaEwyLUJQUDhIY0JlS3VpYUhkUGZIT0FURmtMTER4LXlLa0JXd1E4MVBXUUpoQTNuV2RoVVc3dzBua0daeWNrY0pWR2VLbEp3QklseW1JdS15aUNaSkxhZkxOSE9NZ2xlc0FUZzE4YXVVb1VxQ3hHbEFyZ2lJdXdLMnQ2SU0wNjhMV1hlS1FPcU5XbG9OamVQQUdGb3BXMXlvMW42SWZaS212eUV4ck8xcnlrT2pYeWt0?oc=5",
-     "source": "C-SPAN",
-     "published": "2026-11-21T20:16:32+00:00",
-     "summary": "Former Ukrainian Prime Minister Discusses U.S. Diplomacy Amid Russia-Ukraine War&nbsp;&nbsp;C-SPAN",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T00:22:56.137871+00:00",
+   "fetched_at": "2026-11-22T00:53:00.441259+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Clashes erupt across France in another night of protest",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T00:37:32+00:00",
+     "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+     "image": ""
+    },
+    {
+     "title": "blog_icon",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tSVdXSjJWc0J2UUlRcVZJem1pVVZQT3FydmJGQ0tQOUhmZHdfSzBjQUVuV1pOeTZpOUNaQWdBcFJ6RE9HdFJNcjBhY0wzc25GRUthM3duUzVMNHFtd1pyMEl4RDVkcV9wUXFaR1dGdDdHRjVQZzBvVEJiVHdnZw?oc=5",
+     "source": "ICRC",
+     "published": "2026-11-22T00:31:40+00:00",
+     "summary": "blog_icon&nbsp;&nbsp;ICRC",
+     "image": ""
+    },
     {
      "title": "Treece vs Nafisa Fai Election: Weekend Warriors Unite",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXVjdVVXMkQ5c0cxeUdCMUpnaUljM0RQMzJhYlM3NG9nQmR1b2x1aTJpWnctQ19LbmFOZkZPcTZyWUV1amdUckRHTkdkbmc2OEpianYtd3ZDcXFJNDhhaklBLWxxcUltbDJHc3ZrQ1Nkbzc2SnJOazdHWGFEUG5LWGw1Snh3YXZn?oc=5",
@@ -258,6 +274,14 @@
      "image": ""
     },
     {
+     "title": "Hong Kong\u2019s Election Committee race: how voting works and new candidates to watch",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcXVMY3pJVWEwbko0WUJzOGhySEQxS01zUlJjcF9DcWZ2X0NpV3E1bzBWVG1EX2x4blJvNFByUlBaMlFFTXNiV3d3OXgwcTZoNVhYOUoyV3h6Z2hCQWc1ZXlrTHRVaEFtSm1yZjduT2hVYUx0VV9YTlVhbElaUEhRYTFycUVZZVhHUTQtWDZlaDAtcWxVekVnZUl2UmVBamkxR3hUR1M2Nk54WGdRWGdKVjJBZHlJdnp2amlIUWJITlRyRkpkTUZDbUlyOXQxTE93VVh5bENBSnNkZmFPeFp2YWl0NA?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-22T00:00:23+00:00",
+     "summary": "Hong Kong\u2019s Election Committee race: how voting works and new candidates to watch&nbsp;&nbsp;South China Morning Post",
+     "image": ""
+    },
+    {
      "title": "It\u2019s official: Raffensperger certifies Nov. 3 election results",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjVtR1R5RFA5c1NPaEpTVFNRX0lBbzdSOWdkblBGSDRlWTlNWFNSd0ZpS3NzRTVvU3dleGdPRHZCVjdHRmdmVE9BUTlWaW9nMkN1akkzYzZfOVkxYmdLbXdrbTBjQXYwZHpWSlVzSkVmOU5OemVfalZ3Ry1ya3ZQcmlNbmh2R0FfVWJybzZ6Vi1aZGVT?oc=5",
      "source": "Reporter Newspapers",
@@ -282,51 +306,35 @@
      "image": ""
     },
     {
+     "title": "EU-Indonesia agreement sees the light after ten years of negotiations",
+     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
+     "source": "France 24",
+     "published": "2026-11-21T22:23:03+00:00",
+     "summary": "The European Union and Indonesia have signed a major trade deal, ten years after talks began.The agreement removes almost all tariffs between the EU and Southeast Asia's biggest ec",
+     "image": "https://s.france24.com/media/display/ea9d9328-e5f6-11f1-b921-1bac47ab2f5d/w:1024/p:16x9/capture-a5f225a1.jpg"
+    },
+    {
      "title": "Hubbard leads Foxx by 330 votes after recount",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQSkx2b3RuelJFeWNtM0R2d09wX0FBWFRlS0kwdFAwQVNVSU5MM3hZSXBISDlhMlJVRFkyc25oYVlFeGtwODdXWTdseTBzYUY1MmdTRFhmaEJSSzRIMWdWRWxjV3lSSjNtLXZUTU1LR0RCaGRfZFhocjJzRmpnd9IBgwFBVV95cUxQU3JpMzJoYWNIRDhxSTZnaGROdV91T3R3cDJkamJOM1FhME94Ty1yTW5tbnZfak8xczZrb3F0S0JJYUlIaHFtWVZnUDBqaTZ6R1VKRXBpVk5uem1kVFRXSmJlYW1DdjlMbU5vbzJHVGlvNmx0RzJiU2k1dUZnZmhEUmZ3SQ?oc=5",
      "source": "The Hill",
      "published": "2026-11-21T22:23:00+00:00",
      "summary": "Hubbard leads Foxx by 330 votes after recount&nbsp;&nbsp;The Hill",
      "image": ""
-    },
-    {
-     "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
-     "source": "NPR",
-     "published": "2026-11-21T22:01:42+00:00",
-     "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China ",
-     "image": ""
-    },
-    {
-     "title": "Google employees protest AI in schools policy",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGtQWTJuRnF5bjhxcVFiQzJVaE9fSGtFTktHYzVDOTQ4Rkljem5XYklPdlR6cHdOeXMxd1BPNUhBXzlrWm1BcFBJdVFiMl9vYkRIVTNlTjVnTWhQOUwwTWI0X2pUSVRxenpYZUhkV1dobVhwRHJLVGFtVUdISURFNTNycFd0MmZnZllWcXZQNlpQeGlv?oc=5",
-     "source": "NPR",
-     "published": "2026-11-21T22:01:40+00:00",
-     "summary": "Google employees protest AI in schools policy&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "Highlights and challenges from covering an historic month in South America",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-     "source": "NPR",
-     "published": "2026-11-21T22:01:35+00:00",
-     "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-     "image": ""
-    },
-    {
-     "title": "Lock of former US President George Washington's hair sells for $4,000",
-     "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T22:01:19+00:00",
-     "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T00:22:56.137872+00:00",
+   "fetched_at": "2026-11-22T00:53:00.441261+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "EU-Indonesia agreement sees the light after ten years of negotiations",
+     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
+     "source": "France 24",
+     "published": "2026-11-21T22:23:03+00:00",
+     "summary": "The European Union and Indonesia have signed a major trade deal, ten years after talks began.The agreement removes almost all tariffs between the EU and Southeast Asia's biggest ec",
+     "image": "https://s.france24.com/media/display/ea9d9328-e5f6-11f1-b921-1bac47ab2f5d/w:1024/p:16x9/capture-a5f225a1.jpg"
+    },
     {
      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
