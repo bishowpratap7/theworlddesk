@@ -1,26 +1,10 @@
 {
- "generated_at": "2026-11-22T13:54:57.956186+00:00",
+ "generated_at": "2026-11-22T13:55:09.961017+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T13:54:57.956159+00:00",
+   "fetched_at": "2026-11-22T13:55:09.960984+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Life, work of Kuwait\u2019s first female composer featured at Doha Film Festival",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T13:35:09+00:00",
-     "summary": "Laila Abdulaziz fought society to become a pioneering Kuwaiti female musician.",
-     "image": ""
-    },
-    {
-     "title": "Croatia outraged after psychiatric patient dies from alleged hospital abuse",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/croatia-outraged-after-psychiatric-patient-dies-from-alleged-hospital-abuse?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T13:31:40+00:00",
-     "summary": "Eight psychiatric workers have been arrested in Croatia on murder charges after images emerged of a patient being abused",
-     "image": ""
-    },
     {
      "title": "Major fire erupts at a fuel station in Lagos",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
@@ -116,11 +100,27 @@
      "published": "2026-11-22T12:19:42+00:00",
      "summary": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes.",
      "image": ""
+    },
+    {
+     "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+     "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+     "source": "The Guardian",
+     "published": "2026-11-22T12:12:08+00:00",
+     "summary": "Choi Kyo-jin says he \u2018failed to prepare adequately\u2019 for entrance exams following last-minute scramble to tighten measuresSouth Korea\u2019s education minister has resigned after an AI-a",
+     "image": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=140&quality=85&auto=format&fit=max&s=b27cbf562e91080e6b506b93ff0b44c3"
+    },
+    {
+     "title": "Indonesia factory hit by deadly blaze: Three killed and 36 missing",
+     "url": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
+     "source": "France 24",
+     "published": "2026-11-22T12:11:00+00:00",
+     "summary": "At least three people have been killed and dozens are missing after a fire broke out at a factory in Indonesia producing sweets and snack products. Fifteen people were rescued aliv",
+     "image": "https://s.france24.com/media/display/f94de65e-e66c-11f1-93f4-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-120836-121007-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T13:54:57.956174+00:00",
+   "fetched_at": "2026-11-22T13:55:09.960999+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T13:54:57.956177+00:00",
+   "fetched_at": "2026-11-22T13:55:09.961004+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T13:54:57.956178+00:00",
+   "fetched_at": "2026-11-22T13:55:09.961007+00:00",
    "stale": false,
    "items": [
     {
