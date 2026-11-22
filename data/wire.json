@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-21T23:52:52.196286+00:00",
+ "generated_at": "2026-11-22T00:22:56.137879+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-21T23:52:52.196261+00:00",
+   "fetched_at": "2026-11-22T00:22:56.137858+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T00:10:44+00:00",
+     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+     "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+     "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T00:10:37+00:00",
+     "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+     "title": "How a teen gamer and his mother helped rescue a missing girl",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T00:09:58+00:00",
+     "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg"
+    },
+    {
+     "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T23:59:03+00:00",
+     "summary": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
+     "image": ""
+    },
+    {
+     "title": "Lebanese president demands Israel withdrawal, decries Iran\u2019s interference",
+     "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T23:44:00+00:00",
+     "summary": "Joseph Aoun says &#039;two fundamental obstacles, inseparably linked&#039; mean Lebanon cannot fully celebrate its independence.",
+     "image": ""
+    },
     {
      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
@@ -76,53 +116,29 @@
      "published": "2026-11-21T22:01:19+00:00",
      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg"
-    },
-    {
-     "title": "Bahrain says Iranian attack causes fire at industrial facility",
-     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T21:31:03+00:00",
-     "summary": "Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
-     "image": ""
-    },
-    {
-     "title": "Impunity fuels surge in settler violence across occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T21:11:54+00:00",
-     "summary": "Impunity fuels surge in settler violence across occupied West Bank",
-     "image": ""
-    },
-    {
-     "title": "Indian man jailed over plot to kill Sikh separatist in US",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T21:09:18+00:00",
-     "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
-     "image": ""
-    },
-    {
-     "title": "Brazil\u2019s Jair Bolsonaro in intensive care with bowel obstruction",
-     "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T21:02:18+00:00",
-     "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
-     "image": ""
-    },
-    {
-     "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-     "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T20:56:35+00:00",
-     "summary": "Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-21T23:52:52.196274+00:00",
+   "fetched_at": "2026-11-22T00:22:56.137868+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T23:59:03+00:00",
+     "summary": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
+     "image": ""
+    },
+    {
+     "title": "Lebanese president demands Israel withdrawal, decries Iran\u2019s interference",
+     "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-21T23:44:00+00:00",
+     "summary": "Joseph Aoun says &#039;two fundamental obstacles, inseparably linked&#039; mean Lebanon cannot fully celebrate its independence.",
+     "image": ""
+    },
     {
      "title": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
@@ -202,29 +218,45 @@
      "published": "2026-11-21T20:16:32+00:00",
      "summary": "Former Ukrainian Prime Minister Discusses U.S. Diplomacy Amid Russia-Ukraine War&nbsp;&nbsp;C-SPAN",
      "image": ""
-    },
-    {
-     "title": "The European mission in Ukraine depends on the skies over Poland",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUJLdUtVMFdoaTg4WHlhTmVGc2NReHozWEtMQWs4Y1pLd1NwMFZCcWFvVWhQNGRuSXJsY0lYNHFkUUVMYlllMENwbFhGT01oUlpkMHR3ZGJKNUU5SFI1R2llRFN0MHdVTlJxcEEyWENsMExYazlLTC0zTFd1d0s0azNkYW56Sk1xTlFMUV8tTWM5NFRjdG5leQ?oc=5",
-     "source": "Tomorrow's Affairs",
-     "published": "2026-11-21T20:14:40+00:00",
-     "summary": "The European mission in Ukraine depends on the skies over Poland&nbsp;&nbsp;Tomorrow's Affairs",
-     "image": ""
-    },
-    {
-     "title": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T20:09:35+00:00",
-     "summary": "Crew evacuated amid battle to put out fire on Russian ship hit by drones&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-21T23:52:52.196277+00:00",
+   "fetched_at": "2026-11-22T00:22:56.137871+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Treece vs Nafisa Fai Election: Weekend Warriors Unite",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXVjdVVXMkQ5c0cxeUdCMUpnaUljM0RQMzJhYlM3NG9nQmR1b2x1aTJpWnctQ19LbmFOZkZPcTZyWUV1amdUckRHTkdkbmc2OEpianYtd3ZDcXFJNDhhaklBLWxxcUltbDJHc3ZrQ1Nkbzc2SnJOazdHWGFEUG5LWGw1Snh3YXZn?oc=5",
+     "source": "The Hillsboro Herald",
+     "published": "2026-11-22T00:15:22+00:00",
+     "summary": "Treece vs Nafisa Fai Election: Weekend Warriors Unite&nbsp;&nbsp;The Hillsboro Herald",
+     "image": ""
+    },
+    {
+     "title": "Nigeria election 2027: Why are its politicians so old in a young country?",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjUGxyVkt4OE1QNmNFYUJkM1hTQ19sMzZMazBfR0gzbThqRXVGRjAyVG1VQVkzaFpVZ29WV1A1Y3JrT0VSdjRTamJvcFZQaGppS0pJYnBMV3lnZU0?oc=5",
+     "source": "BBC",
+     "published": "2026-11-22T00:10:37+00:00",
+     "summary": "Nigeria election 2027: Why are its politicians so old in a young country?&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+     "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T00:10:37+00:00",
+     "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+     "title": "Judge Blocks Trump Administration\u2019s Effort to Transform Homelessness Policy",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1dXMXFQTmZSd0pZUy1xMkZxSkFWVERpR1NlUHgzcDhJSEEzdi0wTFJpblZjeHpvS2YwZFh6T2IzekpWZzJTUmtOSjlLaWRtbVdBYkJhNVpyNll2UGpyc1RzcmNxWHJMYzBETTlLVXVxdFNfN2xKN2k0Z2ZPZlJQNzQ3c0Zib0poZjBxdDJzWElMS3pEam15YUs1WE4?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-22T00:03:40+00:00",
+     "summary": "Judge Blocks Trump Administration\u2019s Effort to Transform Homelessness Policy&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
     {
      "title": "It\u2019s official: Raffensperger certifies Nov. 3 election results",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjVtR1R5RFA5c1NPaEpTVFNRX0lBbzdSOWdkblBGSDRlWTlNWFNSd0ZpS3NzRTVvU3dleGdPRHZCVjdHRmdmVE9BUTlWaW9nMkN1akkzYzZfOVkxYmdLbXdrbTBjQXYwZHpWSlVzSkVmOU5OemVfalZ3Ry1ya3ZQcmlNbmh2R0FfVWJybzZ6Vi1aZGVT?oc=5",
@@ -288,43 +320,11 @@
      "published": "2026-11-21T22:01:19+00:00",
      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg"
-    },
-    {
-     "title": "Liverpool School Board member reacts to no confidentiality policy",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE5najhHdWF3OEhhSnYtWHF1Rm56bVQ2Q0oxOVd3YUxwdmZvRDFVNHFXQ2plMEdRTW5HVmdOZWdnZGR1VWtXRlZyVHZFM1ZTZUlrUHZQM3dPTTdnOUtHcmplTE16WmhRb0FTa09Hd3A0bHBHNFcwaGF6ZWNpZ3V3aHFhX19ZRHM4VEVCa21oU2dyY2hwSVR1ZFNzQk5QTnNa?oc=5",
-     "source": "WSTM",
-     "published": "2026-11-21T21:15:13+00:00",
-     "summary": "Liverpool School Board member reacts to no confidentiality policy&nbsp;&nbsp;WSTM",
-     "image": ""
-    },
-    {
-     "title": "Democrats Take Control of Congress, Setting Up Major Policy Battles With Trump",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRzc5WkFqSDJfdHpFYUROZWFtR1pvZWRwV21CX2JrUnVzdG9EUGxTSDlONzgxbUJUUXhSUFc2Qkdvb25rQ1kxSGVHOTZGMW1WeHNXN0ROcEM2M3VOSUdBOF9JWFVLV0w3a3RObU5DTDZZUVRQWUIwQzgwdzlMcnk4Wklxa2ZfWlNQRElIUWY2eXlvSUp0aGxZam1RQkxBSEZGZkYwcFZ0aC1PaVdkMXRUN1JGMA?oc=5",
-     "source": "AgroLatam",
-     "published": "2026-11-21T21:04:01+00:00",
-     "summary": "Democrats Take Control of Congress, Setting Up Major Policy Battles With Trump&nbsp;&nbsp;AgroLatam",
-     "image": ""
-    },
-    {
-     "title": "Brazil\u2019s Jair Bolsonaro in intensive care with bowel obstruction",
-     "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T21:02:18+00:00",
-     "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
-     "image": ""
-    },
-    {
-     "title": "Annual Virginia Beach Christmas Market will use new cashless policy",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnJzNzYySlplUWY1XzBFaUlvaHp4ZWl6RVJEd3VlVERLcTFSU1JWRnBjckhON1ZoZF9TbDBweGIySFJhU2NzcDl3NktJcjRPVVdmcWFGM0xWUkp4MU5mZjlEckV2RkROYlFueVdXNFZlM1pxTG1faEp2NFR0OTFual93TTFFQzQ?oc=5",
-     "source": "The Virginian-Pilot",
-     "published": "2026-11-21T20:51:40+00:00",
-     "summary": "Annual Virginia Beach Christmas Market will use new cashless policy&nbsp;&nbsp;The Virginian-Pilot",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-21T23:52:52.196278+00:00",
+   "fetched_at": "2026-11-22T00:22:56.137872+00:00",
    "stale": false,
    "items": [
     {
