@@ -1,17 +1,81 @@
 {
- "generated_at": "2026-11-22T11:54:47.667680+00:00",
+ "generated_at": "2026-11-22T12:24:50.299257+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T11:54:47.667656+00:00",
+   "fetched_at": "2026-11-22T12:24:50.299232+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\ud83d\udd34 COP31 ends without deal as EU rejects text for omitting mention of fossil fuels",
+     "url": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
+     "source": "France 24",
+     "published": "2026-11-22T12:22:33+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "Indonesia factory hit by deadly blaze: Three killed and 36 missing",
+     "url": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
+     "source": "France 24",
+     "published": "2026-11-22T12:11:00+00:00",
+     "summary": "At least three people have been killed and dozens are missing after a fire broke out at a factory in Indonesia producing sweets and snack products. Fifteen people were rescued aliv",
+     "image": "https://s.france24.com/media/display/f94de65e-e66c-11f1-93f4-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-120836-121007-CS.jpg"
+    },
+    {
+     "title": "Burnham should \u2018move on\u2019 from Brexit, says Theresa May, as critics hit out over closer EU ties \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-22T12:09:54+00:00",
+     "summary": "Issue dominates Sunday broadcast round following Friday\u2019s deals on trade and youth mobilityTheresa May \u2018aghast\u2019 at Andy Burnham\u2019s talk about rejoining EUEuropean Relations Minister",
+     "image": "https://i.guim.co.uk/img/media/fe3c1f101f487524f1490010fbd18d991551cffe/198_0_1961_1569/master/1961.jpg?width=140&quality=85&auto=format&fit=max&s=b9444122e4b177b023f8d84196ad4615"
+    },
+    {
+     "title": "CEO of funding agency for UK science and research criticised by union over cuts",
+     "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+     "source": "The Guardian",
+     "published": "2026-11-22T12:00:28+00:00",
+     "summary": "Exclusive: Prospect\u2019s Mike Clancy tells Ian Chapman at UKRI that union has \u2018lost confidence\u2019 in his leadershipA trade union that counts scientists and engineers among its members s",
+     "image": "https://i.guim.co.uk/img/media/9350c277cd73ad7cf6c87f3b2d28a0d673278d82/1297_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=c8366ae3c1a6cdb0ed17451e19d541ff"
+    },
+    {
+     "title": "They went out to celebrate at a Memphis bar. Then, ICE descended",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
+     "source": "The Guardian",
+     "published": "2026-11-22T12:00:28+00:00",
+     "summary": "More than 120 people in the Tennessee city were detained in one of the largest single-day ICE raids in the US in 2026The date 1 September, or 9/01 Day, is a festive day for Memphia",
+     "image": "https://i.guim.co.uk/img/media/dacccbf1f986b8a314fc4da410c60b258b7c29c8/220_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=63c64d78b04786e6b0859b640cb1722e"
+    },
+    {
+     "title": "Cloned number plate victims in England and Wales to get new reporting tool",
+     "url": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
+     "source": "The Guardian",
+     "published": "2026-11-22T11:59:28+00:00",
+     "summary": "Police launch initiative after steep rise in criminals using method to evade detection and avoid paying penaltiesSandra Yarwood has a file \u201cabout 2in thick\u201d of paperwork relating t",
+     "image": "https://i.guim.co.uk/img/media/01f2a7c8812c3e7155003a8cba98fa1d1d276816/618_0_4150_3321/master/4150.jpg?width=140&quality=85&auto=format&fit=max&s=19d203bae8233718e53f1c260e17238a"
+    },
+    {
+     "title": "What\u2019s behind Iran\u2019s escalation of attacks in the Gulf?",
+     "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T11:46:42+00:00",
+     "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
+     "image": ""
+    },
+    {
+     "title": "Why have UN efforts to regulate \u2018killer robots\u2019 stalled?",
+     "url": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T11:44:50+00:00",
+     "summary": "CWC countries agree to &#039;elaborate&#039; on potential accord regulating autonomous weapons in two years, prompting criticism.",
+     "image": ""
+    },
     {
      "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
      "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
      "source": "The Guardian",
      "published": "2026-11-22T11:41:49+00:00",
      "summary": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoiningUK politics live \u2013 latest updatesCloser links with the ",
-     "image": "https://i.guim.co.uk/img/media/d52885f93bc4024b6c560d78a474ee70d290dc03/673_164_4900_3920/master/4900.jpg?width=140&quality=85&auto=format&fit=max&s=0c3a2065df2ea8c78fdd117ee6b08f0e"
+     "image": "https://i.guim.co.uk/img/media/d52885f93bc4024b6c560d78a474ee70d290dc03/636_299_4870_3896/master/4870.jpg?width=140&quality=85&auto=format&fit=max&s=1d9fae8e00f7d454d4e7e3828daeceaa"
     },
     {
      "title": "Theresa May \u2018aghast\u2019 at Andy Burnham\u2019s talk about rejoining EU",
@@ -22,20 +86,12 @@
      "image": "https://i.guim.co.uk/img/media/aa0bf12f49eeebd485fd9555186b69c332c0ab1d/558_45_4628_3703/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=564152c8c984da58b57ffa077033d1b3"
     },
     {
-     "title": "Burnham should \u2018move on\u2019 from Brexit, says Theresa May, as critics hit out over closer EU ties \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-22T11:36:07+00:00",
-     "summary": "Issue dominates Sunday broadcast round following Friday\u2019s deals on trade and youth mobilityTheresa May \u2018aghast\u2019 at Andy Burnham\u2019s talk about rejoining EUEuropean Relations Minister",
-     "image": "https://i.guim.co.uk/img/media/fe3c1f101f487524f1490010fbd18d991551cffe/198_0_1961_1569/master/1961.jpg?width=140&quality=85&auto=format&fit=max&s=b9444122e4b177b023f8d84196ad4615"
-    },
-    {
      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-22T11:25:14+00:00",
      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf94/live/3bc66860-e665-11f1-8ebd-1d2173202734.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
     },
     {
      "title": "Russian ship attacked by drone in Baltic Sea off Finland",
@@ -60,75 +116,35 @@
      "published": "2026-11-22T11:00:26+00:00",
      "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on MagaAs a so-called \u201cblue wa",
      "image": "https://i.guim.co.uk/img/media/8c42154ecfc0d97946047de44f3951732b270f97/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=fd376300e09a033582e60c8950224c71"
-    },
-    {
-     "title": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
-     "url": "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
-     "source": "The Guardian",
-     "published": "2026-11-22T11:00:25+00:00",
-     "summary": "Jay Stewart joined search party after two-year-old Vella Campillo wandered off into desert from front yard of homeAn Arizona granddad has been formally recognized as a hero after r",
-     "image": "https://i.guim.co.uk/img/media/344fad327814a7c4d3e23c11fa485edd4b67ea78/615_392_1933_1546/master/1933.jpg?width=140&quality=85&auto=format&fit=max&s=0d46bab0eec8ca4ef2912c0da6e5f264"
-    },
-    {
-     "title": "UK-EU food deal hailed by British firms: \u2018We\u2019re pretty aligned anyway\u2019",
-     "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
-     "source": "The Guardian",
-     "published": "2026-11-22T11:00:24+00:00",
-     "summary": "Exporters welcome end in sight for Brexit checks \u2013 but are frustrated that implementation will take so longBritish producers have broadly welcomed the UK\u2019s deal with the EU, design",
-     "image": "https://i.guim.co.uk/img/media/33a5b500a62308f3c01515a3a29b8ff23a030773/0_365_4284_3426/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=a713af5cb808fbcdeef7fda59b9420dc"
-    },
-    {
-     "title": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
-     "url": "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
-     "source": "The Guardian",
-     "published": "2026-11-22T10:59:28+00:00",
-     "summary": "Working-class man who covered mansions with William Morris\u2019s patterns spent his nights filling his Cambridge terrace house with his own designsAs a Victorian working-class labourer",
-     "image": "https://i.guim.co.uk/img/media/d1fea1032667cb90a3d9f98ac52733569f92b2cc/0_84_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=5e37779bc5d993e7c70de598196a913b"
-    },
-    {
-     "title": "Russian cargo ship still on fire off Finland after drone attack",
-     "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T10:39:50+00:00",
-     "summary": "The ship, bound for Russia&#039;s Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
-     "image": ""
-    },
-    {
-     "title": "Former Italian police chief found dead",
-     "url": "https://www.france24.com/en/former-italian-police-chief-found-dead",
-     "source": "France 24",
-     "published": "2026-11-22T10:25:52+00:00",
-     "summary": "Italian Prime Minister Giorgia Meloni has expressed shock following the death of a former national police chief, whose body was found on Saturday. He had been under investigation o",
-     "image": "https://s.france24.com/media/display/a9d7f9c0-e658-11f1-9bb1-ebb478925cf0/w:1024/p:16x9/EN-20261122-101007-101157-CS.jpg"
-    },
-    {
-     "title": "Princess of Wales opens up about cancer",
-     "url": "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
-     "source": "France 24",
-     "published": "2026-11-22T10:07:02+00:00",
-     "summary": "A new documentary titled Heal follows Britain\u2019s Princess Catherine as she navigates life since her cancer diagnosis in 2024. The film tracks the 44-year-old as she attempts to clim",
-     "image": "https://s.france24.com/media/display/d175ec58-e658-11f1-a378-ebb478925cf0/w:1024/p:16x9/EN-20261122-101222-101410-CS.jpg"
-    },
-    {
-     "title": "South Korea: AI cheating sparks exam security chaos",
-     "url": "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
-     "source": "France 24",
-     "published": "2026-11-22T10:05:28+00:00",
-     "summary": "South Korea\u2019s education minister resigned on Sunday following a major cheating scandal that erupted just ahead of the country\u2019s university entrance exams. The controversy centred o",
-     "image": "https://s.france24.com/media/display/a42888e6-e658-11f1-af0b-e56ab3dc0809/w:1024/p:16x9/EN-20261122-100808-100945-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T11:54:47.667669+00:00",
+   "fetched_at": "2026-11-22T12:24:50.299244+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Air alert sounds in Kaliningrad as Finland tries to extinguish fire aboard Russian cargo ship",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDY2SjR2SXRoVk02U19QWlNvTk5WUXozZDJQUUZZNjlnVVJjSjI4ZzRUclRYQ2toUjZkZ0pqVEdZQjlxQ0dHdW5HMk1mclJXcndjbndaV05NNlk3QVhfTTFHaVNTcGV0NmwtTUxJempGZWcyYzIxLU5ZcFF6dld4MHFQMF9iSjNjTTlSTVQxbDA2ZkstTFZxbExJbmpVTUktVFJzaFo0NE9Rbi1IcmpkOFhvVVNIMXFUdEU1bVlaVmF1UG8?oc=5",
+     "source": "Audacy",
+     "published": "2026-11-22T12:14:00+00:00",
+     "summary": "Air alert sounds in Kaliningrad as Finland tries to extinguish fire aboard Russian cargo ship&nbsp;&nbsp;Audacy",
+     "image": ""
+    },
     {
      "title": "Ukraine-Russia war sees five injured in Krasnodar strikes, 14 feared trapped in Kiev region",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pTkFnWk5mVENELVVXMndYNE1nbG5rQmE4bkI3emtLYWZfNjF6QTA0bUxLX0draGxvdDBqb1FaOWtFdTF5OUo4VWRVZjJ5NFhnX20xWTFvQWs?oc=5",
      "source": "TRT World",
      "published": "2026-11-22T11:50:18+00:00",
      "summary": "Ukraine-Russia war sees five injured in Krasnodar strikes, 14 feared trapped in Kiev region&nbsp;&nbsp;TRT World",
+     "image": ""
+    },
+    {
+     "title": "What\u2019s behind Iran\u2019s escalation of attacks in the Gulf?",
+     "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T11:46:42+00:00",
+     "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
      "image": ""
     },
     {
@@ -161,7 +177,7 @@
      "source": "BBC News",
      "published": "2026-11-22T11:25:14+00:00",
      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf94/live/3bc66860-e665-11f1-8ebd-1d2173202734.jpg"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
     },
     {
      "title": "Russian ship attacked by drone in Baltic Sea off Finland",
@@ -177,14 +193,6 @@
      "source": "Kyiv Post",
      "published": "2026-11-22T11:02:17+00:00",
      "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 22, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "In Kyiv, restaurants are closing as Ukraine war pressures mount",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkdfMzNRaGFXM3ZuZG1NYWZUc0FhdFBaTTBqZjFMMHlFMmVqQkdtbGtlYkVtcGRWVzBieHY5LWZHQUFSaVp0QXFJRERydG85MGpuNzVFeWtMZmtiUDlxbXRrRExDZnU0WDRyX19sREY1RmJOTHh2UnhGcHhEMXh4QmVuYw?oc=5",
-     "source": "Yahoo News Singapore",
-     "published": "2026-11-22T11:00:34+00:00",
-     "summary": "In Kyiv, restaurants are closing as Ukraine war pressures mount&nbsp;&nbsp;Yahoo News Singapore",
      "image": ""
     },
     {
@@ -210,21 +218,53 @@
      "published": "2026-11-22T10:45:26+00:00",
      "summary": "Russian cargo ship still on fire off Finland after drone attack&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Over a dozen people missing after Russian drone hit building in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0w4YTdwSUhTa1lXRTQxV014Q1BNTEFuNXJoV3NRWjB1UWFfS3NFWEVQZXJnclhHS2RlbEpFTkdaNFN3M0JVUWhjZ3ktbFBBTEV6RFZ4M3RWckczSTJpLUJnU25BMDVZRGIyN3RfYVZ1a0NkaThpbDlJdGVjS0FudTd4RzZtNExUT1E?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-22T10:11:41+00:00",
-     "summary": "Over a dozen people missing after Russian drone hit building in Ukraine&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T11:54:47.667672+00:00",
+   "fetched_at": "2026-11-22T12:24:50.299247+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Burnham should \u2018move on\u2019 from Brexit, says Theresa May, as critics hit out over closer EU ties \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-22T12:09:54+00:00",
+     "summary": "Issue dominates Sunday broadcast round following Friday\u2019s deals on trade and youth mobilityTheresa May \u2018aghast\u2019 at Andy Burnham\u2019s talk about rejoining EUEuropean Relations Minister",
+     "image": "https://i.guim.co.uk/img/media/fe3c1f101f487524f1490010fbd18d991551cffe/198_0_1961_1569/master/1961.jpg?width=140&quality=85&auto=format&fit=max&s=b9444122e4b177b023f8d84196ad4615"
+    },
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS05oTUMwU1VpcjJPazFsUTJXU1BDS2hjVTBwQVg0ak1qSFNtVkNrZHNUcllQcy1Id05rVk44RnZKWlFoM2xUbjZlMTZBQkFwMWU3YWJQWTlPMlJYZERrQkw4T2dsNHhvSXBHdHdwUFJKWGV6NU5YamJHQ0tWSlJ1Q0xvWTVPdkxKWVYwaGNTWTc?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-22T12:08:36+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "Lawsuit seeks election for vacant Miami-Dade Senate seat",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX1hlNU4ySWkyMl9BTHVSOGw2ZW1hN3JSdV82c0JrYmU3d2lVRGhNR2hMeVhEM1d3cjdMTF80VndlYzMyZVM3X3o4bjd4cE4wc2c2VU82UVFRSjhOUDY1SHk0bGo5dDZDV2VSUEREbm5ld1pfMVZydGlhWkZUelNFT3JySUFmTmhDcHYyQk1Wb2hCSi1ZanNYVm5KRXRfc2VVNGNKZzFzbUxPa3JheGxUTmV6Nnh1SkxtRkNQaC1LLXMtajRfakNPdEprckZOMDZ4ajlKRjN3ZS1vdDdPUlpn?oc=5",
+     "source": "IslanderNews.com",
+     "published": "2026-11-22T12:00:00+00:00",
+     "summary": "Lawsuit seeks election for vacant Miami-Dade Senate seat&nbsp;&nbsp;IslanderNews.com",
+     "image": ""
+    },
+    {
+     "title": "Spain to Extend Windfall Tax on Banks Ahead of Nov. 29 Election",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVjRzODNqMGFZR2pJb2VpdV9BWFFtRHozalBXMEJqSFg0ZnNPeUxKa0VjTHlXREpLMjFENENNbEhjbkY2QXRwZW54Mi1hckJESzM0TG1qd3dSR2Vja2JLb3ppZXc0LWhxamY0VmZRX0lXdTlnNW0wWXhEelJObmFRZllDRjdXMHNmQzhMV2EyeUVNTF9TMUUzOVg5cEFCYkdBQjFYOURmS1hlbFhWSndpb0V0NA?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-22T11:54:18+00:00",
+     "summary": "Spain to Extend Windfall Tax on Banks Ahead of Nov. 29 Election&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "With Dane County Election Center underway, Madison mulls buying its own facility",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTd4VzR0UXh2UmpCcEozU2hCcURvTlJ3bTNndGQ1NHRveWlMWS1Ma3ozOVhXQWNLSnV1c0VEZzVzWHQ5MUktU2wzQTdPNFBIeUJseHVLTk5DVDJnZEJmN1E0bFh1VEZJNG1ycGp1WU90Szh4WEZZODVUYlpiU21hNV9yUjRId0lseEZRNnN4M0hIdkNYb01JakpOeTZTb3pqUUE?oc=5",
+     "source": "Wisconsin State Journal",
+     "published": "2026-11-22T11:50:00+00:00",
+     "summary": "With Dane County Election Center underway, Madison mulls buying its own facility&nbsp;&nbsp;Wisconsin State Journal",
+     "image": ""
+    },
     {
      "title": "A lifelong brawler faces a choice in Congress: Policy or performance",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWm9yOUxiOVlQOXIxeUllLXpUOUJMOUJUOHViazFmYVVIR2hBeWpiSVJnTW5FNFpDMmQzUlRheDRqYkVidXhpWEpJc2lrR0laWjlXRWlnTVhmdXdPaEltQXN0bzl0ZndTTm5OcEhkc1dELXc5MktoZWp0c21QMl9HRWdvUnJmNmkxRHpTdENFV0dkWEZweHJmazhKTTdtTExYWjJXdnFjbGxjZ3F1NHprUGlR?oc=5",
@@ -234,12 +274,12 @@
      "image": ""
     },
     {
-     "title": "Burnham should \u2018move on\u2019 from Brexit, says Theresa May, as critics hit out over closer EU ties \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-22T11:36:07+00:00",
-     "summary": "Issue dominates Sunday broadcast round following Friday\u2019s deals on trade and youth mobilityTheresa May \u2018aghast\u2019 at Andy Burnham\u2019s talk about rejoining EUEuropean Relations Minister",
-     "image": "https://i.guim.co.uk/img/media/fe3c1f101f487524f1490010fbd18d991551cffe/198_0_1961_1569/master/1961.jpg?width=140&quality=85&auto=format&fit=max&s=b9444122e4b177b023f8d84196ad4615"
+     "title": "Beyond the ballot box: How Philly residents are making a difference",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUkNsNDgxOFd3UFhVWTF5S0JDRDVSVFBXcWNHUWhNek1fbG9fRkdobldKYlZVSEJqdWxYX3hpMGVnYWRxaF9mZWEzZHhNdF9ZT0d2emlEQnJXQXVsdnotSUpza1VGTWw3TFNVSkdsRGtuSGkwWGtSYjAzRjBSdWM?oc=5",
+     "source": "WHYY",
+     "published": "2026-11-22T11:07:53+00:00",
+     "summary": "Beyond the ballot box: How Philly residents are making a difference&nbsp;&nbsp;WHYY",
+     "image": ""
     },
     {
      "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader",
@@ -247,14 +287,6 @@
      "source": "Reuters",
      "published": "2026-11-22T11:06:05+00:00",
      "summary": "Schumer led Democrats to big Senate win. Now, some say they need a new leader&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Beyond the ballot box: How Philly residents are making a difference",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUkNsNDgxOFd3UFhVWTF5S0JDRDVSVFBXcWNHUWhNek1fbG9fRkdobldKYlZVSEJqdWxYX3hpMGVnYWRxaF9mZWEzZHhNdF9ZT0d2emlEQnJXQXVsdnotSUpza1VGTWw3TFNVSkdsRGtuSGkwWGtSYjAzRjBSdWM?oc=5",
-     "source": "WHYY",
-     "published": "2026-11-22T11:03:09+00:00",
-     "summary": "Beyond the ballot box: How Philly residents are making a difference&nbsp;&nbsp;WHYY",
      "image": ""
     },
     {
@@ -283,48 +315,16 @@
     },
     {
      "title": "A California billionaire tax proposal faced a major setback despite big wins for progressives",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoWkxkY1BrMHVhVTJEZ2hSb01FZTJtdjVMVUU0YlZsRng0UGZPckJaNURxWm1RSFhqZ20xd0NNVE5sSnhId1lDZ3kxVU5LYTM1Rm5NSC1scUl5NU1YeFNUVmQ2UXJQYW50VDBSb0pCQ09XeVnSAYcBQVVfeXFMT1hHSk40dmoxZmZCVGU5VGc1bS1aNnAxb3NqTlc0TG5Bb2RoWjlTblRoN0pwM0huV2k4Tld3T2VJVnJOUHZMbUxFWkY2TVM0REQ0dllBRGhsd2lQTjZTTFhuRWZubENKQm4zd1AxUGFCcjZ4a0tocG5mVVF0ZmZldWR6c1NGcXFR?oc=5",
-     "source": "KIRO 7 News Seattle",
-     "published": "2026-11-22T11:00:08+00:00",
-     "summary": "A California billionaire tax proposal faced a major setback despite big wins for progressives&nbsp;&nbsp;KIRO 7 News Seattle",
-     "image": ""
-    },
-    {
-     "title": "The week in sanctions: Jepchirchir handed lifetime Majors ban after positive test",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeWhuOWxEUkNqUmJsT1NoSEhHNHVWSmd6cXQtaXNYbDdXM0NrN3dITnkxNDg4VHo3MHVkTWNQVTJ4b1l4dVRtcEh2d2hucVQ0enREX1gzaXRPdU4zeE85c0JpT0VuT1AyMlJGcVVrZlRDMWlTRUxjZGxDQS14bTM4Y3Z3cGpxZzZvTUhpSjl4VHhjQ0xSWFpOTy13aXNUUXZZeWs2VFExbzJacUVOY09TbW1IMzZWQ1Q3aFpjRQ?oc=5",
-     "source": "Inside The Games",
-     "published": "2026-11-22T10:52:30+00:00",
-     "summary": "The week in sanctions: Jepchirchir handed lifetime Majors ban after positive test&nbsp;&nbsp;Inside The Games",
-     "image": ""
-    },
-    {
-     "title": "Tibor Nagy forecasts Trump's foreign policy after the election tsunami",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWEF4bmt4enlSem80VTJ0aTJSMGhIelc5cmZIc2pfMzJyYm9sMUxqdHVoemUzM2VwUTBFdWtkemhzMDVOUjMwNU9fM0I3Y1NUU3hITXlXUVJSbmpBa2VneGFtcVJkTnhQM2JyUGV0SmEtQUJEeXdxQk1zYXp1ZTdQVm05Mm9ISV9aNlZ3cnVlVnJMZUhrVzg3VmFkLWh2THdVUVRudEdFT0lkVnhSQ0NtZlhUdThzcnVxRFVMWlZTWFVpQmpzSlE3alFTQTNyTExFNFZfOGVmRTg?oc=5",
-     "source": "Lubbock Avalanche-Journal",
-     "published": "2026-11-22T10:45:00+00:00",
-     "summary": "Tibor Nagy forecasts Trump's foreign policy after the election tsunami&nbsp;&nbsp;Lubbock Avalanche-Journal",
-     "image": ""
-    },
-    {
-     "title": "Former Italian police chief found dead",
-     "url": "https://www.france24.com/en/former-italian-police-chief-found-dead",
-     "source": "France 24",
-     "published": "2026-11-22T10:25:52+00:00",
-     "summary": "Italian Prime Minister Giorgia Meloni has expressed shock following the death of a former national police chief, whose body was found on Saturday. He had been under investigation o",
-     "image": "https://s.france24.com/media/display/a9d7f9c0-e658-11f1-9bb1-ebb478925cf0/w:1024/p:16x9/EN-20261122-101007-101157-CS.jpg"
-    },
-    {
-     "title": "Hybrid Attacks, Visa Sanctions and the Future of Russia-Europe Relations",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjhsbkx6WjBhOWszVG0ySTNmYXhfZUd1dENWTzRfaFJvRHc3dXRxM2pWUWU0b0JpMnpJMzRJUGF4aDBmVHRUeUJqQWNqRHZFajMycDlzZFliQm9ZNTZkQ2tMRUZOYVAwMFZIek9oU2VvNng0VUdqSmg2TjE4NnFoZWFDbmU3MU13bm52d3FjU1BSQQ?oc=5",
-     "source": "Riddle Russia",
-     "published": "2026-11-22T10:22:00+00:00",
-     "summary": "Hybrid Attacks, Visa Sanctions and the Future of Russia-Europe Relations&nbsp;&nbsp;Riddle Russia",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVGlFRWthUlJhcXR4eVdkV0dDeGFWNmo1YmNsaU9tQkRFNE9GbEliNXVoRlpnTklJdlBkeGYtbHRxNzZfbjNFRlZMNUZhM2NtNmYzdmRJOWtvM1BFQ2xyMEJ6clIzM09QOTYtS1lQMVJvbXhnN09DYlVsNGFRa0RvaUlvaDVCNE5kSkQ1OXlyd3pvaHJ1V0dYVlZhcWNieURLX1c0?oc=5",
+     "source": "AP News",
+     "published": "2026-11-22T11:00:00+00:00",
+     "summary": "A California billionaire tax proposal faced a major setback despite big wins for progressives&nbsp;&nbsp;AP News",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T11:54:47.667673+00:00",
+   "fetched_at": "2026-11-22T12:24:50.299249+00:00",
    "stale": false,
    "items": [
     {
