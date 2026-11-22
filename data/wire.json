@@ -1,10 +1,74 @@
 {
- "generated_at": "2026-11-22T17:55:42.038916+00:00",
+ "generated_at": "2026-11-22T18:25:46.300632+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T17:55:42.038882+00:00",
+   "fetched_at": "2026-11-22T18:25:46.300599+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Civilians killed in RSF drone strikes in Sudan",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T18:12:07+00:00",
+     "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan\u2019s Rapid Support Forces.",
+     "image": ""
+    },
+    {
+     "title": "Suspected drone attack causes explosion on Russian ship in Libya",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T18:11:30+00:00",
+     "summary": "A Russian ship has been struck in a suspected drone attack while docked at Libya\u2019s Benghazi naval base.",
+     "image": ""
+    },
+    {
+     "title": "UN climate talks collapse without a deal",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T18:04:25+00:00",
+     "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+     "image": ""
+    },
+    {
+     "title": "Cox\u2019s Bazar: Rohingya Life in Exile",
+     "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T18:02:06+00:00",
+     "summary": "Rohingya families face hunger, loss and an uncertain future during Ramadan.",
+     "image": ""
+    },
+    {
+     "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+     "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T18:00:00+00:00",
+     "summary": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+     "image": ""
+    },
+    {
+     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T17:57:43+00:00",
+     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
+    },
+    {
+     "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "source": "The Guardian",
+     "published": "2026-11-22T17:55:27+00:00",
+     "summary": "Anthropic\u2019s Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesisA mathematician at Anthropic has said that the San Francisco-base",
+     "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f"
+    },
+    {
+     "title": "Russell Brand\u2019s wife vows to abide by prison rules after video controversy",
+     "url": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
+     "source": "The Guardian",
+     "published": "2026-11-22T17:49:12+00:00",
+     "summary": "Laura Gallacher says in new video on YouTube she will continue Sunday Service series she started with BrandLaura Gallacher, Russell Brand\u2019s wife, has promised to \u201cabsolutely honour",
+     "image": "https://i.guim.co.uk/img/media/0639e8495988bcc521ebc204567a9a8327b5337d/477_75_3635_2907/master/3635.jpg?width=140&quality=85&auto=format&fit=max&s=d23b0f6819ec2955d5a178cc88585ed5"
+    },
     {
      "title": "Le Pen denies receiving leaked information from French interior ministry official",
      "url": "https://www.france24.com/en/france/20261122-le-pen-denies-receiving-leaked-information-from-french-interior-ministry-official",
@@ -52,99 +116,59 @@
      "published": "2026-11-22T17:16:47+00:00",
      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
-    },
-    {
-     "title": "Russian vessel hit by suspected sea drone at Libya\u2019s Benghazi naval base",
-     "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T17:12:48+00:00",
-     "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-     "image": ""
-    },
-    {
-     "title": "Ligue 1: PSG extend winning run at Nice (3-2) but lose D\u00e9sir\u00e9 Dou\u00e9 to injury",
-     "url": "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
-     "source": "France 24",
-     "published": "2026-11-22T16:55:55+00:00",
-     "summary": "A bittersweet victory for PSG at Nice on Saturday evening. The Parisians strengthened their grip on top spot in Ligue 1, but lost D\u00e9sir\u00e9 Dou\u00e9 for several months after the forward s",
-     "image": "https://s.france24.com/media/display/84817312-e613-11f1-8f47-13439ca2fe89/w:1024/p:16x9/000-D8969H7.jpg"
-    },
-    {
-     "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
-     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-     "source": "The Guardian",
-     "published": "2026-11-22T16:55:49+00:00",
-     "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaAn explosion on a Russian ship docked at the naval base in the Libyan port",
-     "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c"
-    },
-    {
-     "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T16:50:48+00:00",
-     "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
-     "image": ""
-    },
-    {
-     "title": "\u2018Disappointing\u2019: Delegates react after COP31 climate talks end without deal",
-     "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T16:33:26+00:00",
-     "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Climate change talks fall apart in final hours over fossil fuels",
-     "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-     "source": "NPR",
-     "published": "2026-11-22T16:33:22+00:00",
-     "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global ",
-     "image": ""
-    },
-    {
-     "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
-     "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
-     "source": "France 24",
-     "published": "2026-11-22T16:25:09+00:00",
-     "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank. Israeli soldiers were deplo",
-     "image": "https://s.france24.com/media/display/800f91a6-e690-11f1-94e1-e56ab3dc0809/w:1024/p:16x9/EN-20261122-160919-161053-CS.jpg"
-    },
-    {
-     "title": "Russian strike kills 2 in Kyiv",
-     "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
-     "source": "France 24",
-     "published": "2026-11-22T16:23:23+00:00",
-     "summary": "A Russian attack struck an apartment building in the village of Dymer, just north of Kyiv, on Sunday, killing at least two people and wounding four others. The morning strike destr",
-     "image": "https://s.france24.com/media/display/64f540a0-e690-11f1-92e8-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-160646-160820-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T17:55:42.038900+00:00",
+   "fetched_at": "2026-11-22T18:25:46.300615+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUlFiT2FkTDRqQjBEYU5FczdQVmFfTmNLeWR3NWtfSzk0S2tXOTIyTlNCZEpjMEd3WHM4cHpLRnVOYWEzZ3VzY3phOV8yMVI5bE1VbXVUUlRCTWQyWTZJcnlzM05YQ3JFSVh6UE96RGVTQVRpc0Q1NnVrVnRWeDBpemIyTEhIS09FbTZN?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-22T18:12:18+00:00",
+     "summary": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Civilians killed in RSF drone strikes in Sudan",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T18:12:07+00:00",
+     "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan\u2019s Rapid Support Forces.",
+     "image": ""
+    },
+    {
+     "title": "Suspected drone attack causes explosion on Russian ship in Libya",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T18:11:30+00:00",
+     "summary": "A Russian ship has been struck in a suspected drone attack while docked at Libya\u2019s Benghazi naval base.",
+     "image": ""
+    },
+    {
+     "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDROSjJ4ZmFrSWp4VDNoeS1aRVlHb25QQXJvV0JhQWtrNjdJekNQWHEyQ0VhZUIyNHBpd3l2eEJSYmc4Zk45V2lhcWxwMzJBT09XYk1hRzZwa0FkT2ltdUl2STFtb1lBVHRtVFpDTGtYc2FVZWJqQXYyYlFSVzBhNzhpbE83NlByTGJHQjloNEZvZ9IBlwFBVV95cUxORzQwam00SzMzbWFrZHNQMlAxQU1sTmJ3ZEFQRU51V1B4MGxUb1FFeUo3R05ya0hQMFRVRjRGOTlVZDliV25wbGdnZzI1YlI5N2lpTnltOE5ZYUItZDViTlJvNkRCaGR0M2NxQ19zeEJrSmhVTGVKVGpoRFBNTlFlMFpxUzNKblhkYjlBek91OUJxbmZNdkRr?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T18:10:27+00:00",
+     "summary": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T17:57:43+00:00",
+     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
+    },
     {
      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
      "source": "NPR",
      "published": "2026-11-22T17:44:52+00:00",
      "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
-     "image": ""
-    },
-    {
-     "title": "Appreciate PM Modi\u2019s appeal to Russia to stop Ukraine war, return to talks: Netherlands FM",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEdaSUtmd0hPT1JSNzB2UlJuWVFqaXVNYnp5djRwY1VQZG1xc1RHa2toSDlOd2FFNGRTM3NvQVliVWZjM20wOFNFZGhmNFg2Q0pxUlk2ZFRmQW9MUUZ0Uko1X3hHRlo0d0JxNmhzT2U4b2ZnR3dob00xNkc0bHVJV2t6RnR3a3JxeHZJUnlNODd5eFdBOHYyNFpHUXBZUmVVTDlhYXBKQnRzY1JucEZXdnRidUNPV1VZM2tCcThvZGFIMC1rTXB3NHlXcDNmb3lBT01RUkF5UFJ4bS1z?oc=5",
-     "source": "ANI News",
-     "published": "2026-11-22T17:35:00+00:00",
-     "summary": "Appreciate PM Modi\u2019s appeal to Russia to stop Ukraine war, return to talks: Netherlands FM&nbsp;&nbsp;ANI News",
-     "image": ""
-    },
-    {
-     "title": "'He's not America's friend in Ukraine': US intelligence chief on Putin days after Trump's praise",
-     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQZHdmSVZiNjZQOUNfZ0t5bFVFTlE0SjVoSGozZnNlZDNCRzMySXFFS191ZkVaTzRsQy1UbUhKQzVQWndReFhXLU9lc3hOOGliZDM3QmtFM2VrSW9IT2dPalNmdkFaYlBaUC00c0xrc0Z5dW51aHM3SzRKbjBMb0JoMk5GUHhVZ1A3anotc2FFa0x4SXd5Q2ZpZjl1Tm50ZmRPejdaT2kybm1GMHQzblhNVS1UckNReHFlRTZuUVpiMG1HMmJrbzJEMVlVbFpfVFR0UTJLdDNTekkwYmhLWEpkRmFITEdldEU0dHEzRFZ4Ulp5Zi1PalU2ZmhOQkRxWG5YZXdOWHQydGFoT0dwWFV3QWwxQzRGY1RRck5yeEg2Skg3YkJnZlROUmJFTFJXUXRqd1loaHQxQS1BNVBhRWZiaHJRRdIB-AFBVV95cUxPRk1UdEc0N1Z5TDZCZU9uWWp6elpiMVEzb2w2cVk5dmhTOFVBTzk2cVlvb2dPMDdldzZBeWljTWJMVDNNcWxta2Zmd0xlbkVGX0s1U19VN2FScEJiazZXQXV4UV8zaEhDMkc1c2k2UEhfcTgwR3Vubm5WdGYySXlNdDVKUFNWcFlCNm1PUVBQS2ZUUk9QeUJsNjd3eUlQdERmb3B6U2tNWF92Q3FfMU5odUlEZ0c3UEtmeGY4RjRkWHh1MVlFaFozbjRHSFVyQVM0Q3NUSEVzQU5jdE5kQ0NEcUw3R2duWi1RelR3aERNVzAzUVdNYXNwNQ?oc=5",
-     "source": "The Times of India",
-     "published": "2026-11-22T17:30:00+00:00",
-     "summary": "'He's not America's friend in Ukraine': US intelligence chief on Putin days after Trump's praise&nbsp;&nbsp;The Times of India",
      "image": ""
     },
     {
@@ -157,11 +181,19 @@
     },
     {
      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
+     "source": "BBC",
      "published": "2026-11-22T17:18:26+00:00",
-     "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
+     "summary": "Russia-bound ship towed away after it was attacked in Gulf of Finland&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T17:16:47+00:00",
+     "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
     },
     {
      "title": "Russian vessel hit by suspected sea drone at Libya\u2019s Benghazi naval base",
@@ -186,51 +218,83 @@
      "published": "2026-11-22T16:55:49+00:00",
      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaAn explosion on a Russian ship docked at the naval base in the Libyan port",
      "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c"
-    },
-    {
-     "title": "Ukrainian Security Service conduct a long-range strike on a Russian warship in Libya - report",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOU9nWjhrdjYzMWgxNVN0NmFoSjNMN2o0T0JLeEFiTlVJUm9OdXFWMl81U2hMOVRGTXQtbDRWODJCanViM0x4dW5QZGctUThLQmoyRlRLeDZXU2VuclBzT3lMS21Pd0M4elI5T2hrUDFtY3dYSkZUYXZmbTVpWVZvQTctOWdIeTRsNGZjMVI5cGFDUU5qUmZfNC0waFIzb0pXeWxfZ0ozYUF0eXlEY2VOR1ItOURzV0J4V3Y3b3hsTGZhLWd0LWZEaHg2eGhqZWQzMVRwR0U5N2RqRGNBVk03bHVfZjhVYTF0U3VBUUZsTW4zcHJD?oc=5",
-     "source": "i24NEWS",
-     "published": "2026-11-22T16:55:29+00:00",
-     "summary": "Ukrainian Security Service conduct a long-range strike on a Russian warship in Libya - report&nbsp;&nbsp;i24NEWS",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war latest: US delays on Patriot missiles 'difficult to understand' as Russia fires 165 missiles in single week, Zelensky says",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb1hDeGZPSTNtQmhNb3d2VlNZQkNoSUdKY002Z0YybHhTd3JiX2VmWk1nSDZJMHk3RjF3Y25veHZaOEh3eGV0dGllbm5mMFhnZ20ybzZXZ1ExTHZMZllDeDlfZlBOOElMLXR1Zzk5SXYtWjRoUGtnOS1ucW5FMUpRMGNNRlFRcmJkT25KWGpHb2FXZzZqcmJiVFAwZ2RjUzA0LTFEUGs1Y0FvLVROWjlMTXdUQVNCOEctUThCblprdVNQVVhvbDg4anVBRTFJak1jVnBudmhTQVZKdGdoY0RWYjR3SURIamozUzhaRWxZNXE?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-22T16:53:12+00:00",
-     "summary": "Ukraine war latest: US delays on Patriot missiles 'difficult to understand' as Russia fires 165 missiles in single week, Zelensky says&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T16:50:48+00:00",
-     "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
-     "image": ""
-    },
-    {
-     "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
-     "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
-     "source": "France 24",
-     "published": "2026-11-22T16:25:09+00:00",
-     "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank. Israeli soldiers were deplo",
-     "image": "https://s.france24.com/media/display/800f91a6-e690-11f1-94e1-e56ab3dc0809/w:1024/p:16x9/EN-20261122-160919-161053-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T17:55:42.038904+00:00",
+   "fetched_at": "2026-11-22T18:25:46.300619+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHJEVkpMY1lCY0t4amFNXzZkM2VlbzA2YU05NjlNdFBILVdFSUJESmhKcnRlUFdXMUxLLWxGMFJJQ1RGamhzNjBkOFd4cTNuamQxLW5ZZ2JWb2hnS2Q2VmVEMWVoTUw0SEtxUG1GRGV5TUlWaXVOM01OenVtNVF3dFJiT2s4UWZlTHkzZlJzYjBPTXota1FZakkzQWxwNXFUNS13UXBBNmtUSHRidTdwbHJKbllRZUdiMXpSa0VscE95Q2k4VTNj?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-22T18:16:10+00:00",
+     "summary": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTlhVl9TdFB4TzZPMHExRjJKdGJvQmZJcDRTcWl5TzRlMUpoalpDRmpJdjdpZWlQQTZrSWhfU2lXRGdSZVJCWVpMUFVubjNzRGpfUHEwUEptdHJJODZ1dlNoVk83dlN6aFgyRkk3RlRwUGJ2VXdNNFZSTThfOWxnclFjVzV5RS1iZ0R5QTZVcVU1YWRvamc?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-22T18:08:38+00:00",
+     "summary": "Democrats Clinch 258 House Seats, an Election-Year Record This Century&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS05oTUMwU1VpcjJPazFsUTJXU1BDS2hjVTBwQVg0ak1qSFNtVkNrZHNUcllQcy1Id05rVk44RnZKWlFoM2xUbjZlMTZBQkFwMWU3YWJQWTlPMlJYZERrQkw4T2dsNHhvSXBHdHdwUFJKWGV6NU5YamJHQ0tWSlJ1Q0xvWTVPdkxKWVYwaGNTWTc?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-22T18:07:45+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "Major California school district gives state officials the middle finger with bans on trans students",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWI0V05OSHJYdXQ1Nld3dlBOVEZSMDl2bU4xNzV1dzU4MFlTc1JIY2IyT1cydW1iZm05ckVsbDdGSGVwWnJNb0dDcnFsemFqTkUwaW4wX1o3cHJNc180VzlUZVpKOC1wcWdSS21aN3hXamF6QnBYajREbGFKNFZJMWkxemxYTzlzSWxBX3JHc2ZiU3lKX3hwb1I4bW1TVXE2VGg2cg?oc=5",
+     "source": "New York Post",
+     "published": "2026-11-22T18:07:00+00:00",
+     "summary": "Major California school district gives state officials the middle finger with bans on trans students&nbsp;&nbsp;New York Post",
+     "image": ""
+    },
+    {
+     "title": "UN climate talks collapse without a deal",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T18:04:25+00:00",
+     "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+     "image": ""
+    },
+    {
+     "title": "Gianni Infantino gets CAF boost as election challenge intensifies",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckxZeFRubHllSUJody1MdGFXSUdQUlMtb1BxcnlnaVo5M1VHanI4SFREcFViSTJIc0FZYTNTeGQtX2pnSjVVTlFLbjBjeXRuWUl4eXhkZ25Ic1VzMEM1czJSSUJnR21zb2tCbUpEZVFSb3dmTF9FMDVyQnhuakY1OWpuWi0wREtLam9LUGVDdUoyaGZQNlVPNzBrMFFlNWNBWDlENEp5U0kzdFk2MWR0cncwRmhDejhq?oc=5",
+     "source": "Sports Business Journal",
+     "published": "2026-11-22T18:03:01+00:00",
+     "summary": "Gianni Infantino gets CAF boost as election challenge intensifies&nbsp;&nbsp;Sports Business Journal",
+     "image": ""
+    },
+    {
+     "title": "KRVN 880 \u2013 KRVN 93.1 \u2013 KAMI - Lexington City Council to consider election certification, zoning changes",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0piRjVpZzA2eVFPZlVJVzNJMER5Q2ROSlZZRm9EczNqU2NBbDhHbGh4N29WTGF6V3laUkFqSWw3R05vS0pRWTV5WG5ZNmhnRDZXeml5SUVHbWlKUTIwS3Q1SWpOZVdtOGZwT3ZCVXlZblRNVWVHcDI4Mjg5dURGUXRnMFVxcHhFdWxFS2xicFgwRlpOY1NPT3kyUlVvdWxnUzlLX2g2Qy1ydw?oc=5",
+     "source": "Rural Radio Network",
+     "published": "2026-11-22T18:02:10+00:00",
+     "summary": "KRVN 880 \u2013 KRVN 93.1 \u2013 KAMI - Lexington City Council to consider election certification, zoning changes&nbsp;&nbsp;Rural Radio Network",
+     "image": ""
+    },
     {
      "title": "Election 2026 House",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbllVZjFWVzhLT1BJTTU3WWdzMmQ4S0VySk5hRUVPcmd4OEh4bDJkVGNwaVFfWDMyN2xaM0JfcEtSNzA3YWZ6QTRVNUJwVHBlcEZrbkgtejdLSGdyMWUzTFV2dVFBQVBjSHJOTmFUT05XS09kMU03c1h5ZW1BOTlSS2NQS19LaWlaZ2xxcDB4QjgxdFd6bzZBU3RndkNzaGtUYkotcQ?oc=5",
      "source": "WV News",
      "published": "2026-11-22T17:46:50+00:00",
      "summary": "Election 2026 House&nbsp;&nbsp;WV News",
+     "image": ""
+    },
+    {
+     "title": "Democrat Chuck Hubbard wins election to U.S. House in North Carolina's 5th Congressional District",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNbDN6ek5kMXcwUHk4MWdCZjcybGl5TjNpWS1LLUVidHBTa2IwWE56RUl5Q0Y4Y2ZNZmQ1NzVLN3lUYlpyb3F5Q2dUdjB3N2o5dGtZZENXVU5tWHQtcHg2N3duM1pnZTBtZFJXdHVtNmJ1bldSMGg4ZU05YUNFUW9QMHJLYTJwMllGTFlleXF6SmVHemNfOUpPTnBZQ0lLYWRjam1nX1AxRklaOG5jNEE3SG1PMS13bVVwUkgxWDd3QjdNcEUtbnIwWnBiRXRQcU9XOFcwbFg1RFZlZzRlQk9pMzBnV0dBZ0FXU1ZmTXZmdTNmVU0xMUlaVUhvdU01emJSUTF4eUljeHh5dTNlRktVZEI0VEZ3clFqYXlrclZ3?oc=5",
+     "source": "NewsChannel20",
+     "published": "2026-11-22T17:44:14+00:00",
+     "summary": "Democrat Chuck Hubbard wins election to U.S. House in North Carolina's 5th Congressional District&nbsp;&nbsp;NewsChannel20",
      "image": ""
     },
     {
@@ -250,81 +314,17 @@
      "image": ""
     },
     {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS05oTUMwU1VpcjJPazFsUTJXU1BDS2hjVTBwQVg0ak1qSFNtVkNrZHNUcllQcy1Id05rVk44RnZKWlFoM2xUbjZlMTZBQkFwMWU3YWJQWTlPMlJYZERrQkw4T2dsNHhvSXBHdHdwUFJKWGV6NU5YamJHQ0tWSlJ1Q0xvWTVPdkxKWVYwaGNTWTc?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-22T17:19:19+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
      "title": "Election Committee poll demonstrates healthy competition, positive democratic development",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YTl93MXNzaFlZQVJtSjRDeWQ5cGVja29BWFh1NFhtR2htdDBCeUVJZ2d6MmhWTE5MWHNvOE5vWWpzS01PTEhmVzhRUnUwdFBmLWdoTFY5N0I?oc=5",
      "source": "chinadailyhk",
      "published": "2026-11-22T17:18:04+00:00",
      "summary": "Election Committee poll demonstrates healthy competition, positive democratic development&nbsp;&nbsp;chinadailyhk",
      "image": ""
-    },
-    {
-     "title": "ong Kong Election Committee race: \u2018healthy\u2019 contest with surprise upsets",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSGtiU3dnU3A2aXI0YTctZndmUXRDSU5tRDJPbGttTmoyUEFmVzNkWWhvN2lVSHNSRHFfa1RiZFJrVEE1U2pTU1pJZm9DUFlweERReUNyM1BaYUQ4VHRsZTV0a0pBVG8wUy1TY0hxNVNQc0RyQk9QWXNzM3BhWG9HaWVReDlJRFFjVXRGY0pqSzJLalJwbXhDZkRsQTl6OVhXV0t0MThlV0RvcjBqcEdhY1lkdkNONkY3d2lid1BTYTZkR05O0gHEAUFVX3lxTE9zY2tXekhsRlB5WGcxbmZBOTRaR0tYbmZ2YTlqSGhmNkpkLU1IZEpPVWpHVEN1cTYtMjVGNnFmaGpoSXZ4NXJpaWJaelJNeDBnOGFGRkpGY2YtaUdHNXVjSmxjRUZRUWRKY01YYi1ISFZzUTVMYU9NclFHRXpDdmdKUlpaYnJXTkdBNGg1a19JSTBZYngwSDVYQU1fR3duX3BJT1lPaGVHNnExallKN2FHMl92Vm9EU01TUXZLT1VmR0dHa3c?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-11-22T17:08:22+00:00",
-     "summary": "ong Kong Election Committee race: \u2018healthy\u2019 contest with surprise upsets&nbsp;&nbsp;South China Morning Post",
-     "image": ""
-    },
-    {
-     "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-22T17:05:41+00:00",
-     "summary": "Schumer led Democrats to big Senate win. Now, some say they need a new leader&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Looking Back at Phillipsburg in 1961: Election Upsets, Tax Debates, and Youth Center Fun",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkNCYjNfQWdJY2NzMFR5OENqUkIwOGRBNXl6MGhUV19CTU94N1lMMkJwdkJSbkVMa3pzTEs4X0RnTDg2SFR0eE5md3lmTDdmeW83OHhfLW5kLVZkcTdQMWcyMU8zOHRucXRkOHZPMWJRaGZCYWotUnV4SVA3NEdBY2RPdHV5ODVQZHBCTW1iSHBWc3lSY1AwTnNJNjVhNVk5TEVMYVAwOHVsdUhOMUtNUTc5X29MYjhTT3Q4Q3lwR2U1VXNWcS1iU1d3WkRGUUNvd2RN?oc=5",
-     "source": "TAPinto",
-     "published": "2026-11-22T17:00:00+00:00",
-     "summary": "Looking Back at Phillipsburg in 1961: Election Upsets, Tax Debates, and Youth Center Fun&nbsp;&nbsp;TAPinto",
-     "image": ""
-    },
-    {
-     "title": "Donald Trump Discusses Contenders for 2028 Election: \u2018I Was a Little Surprised to See Kamala Harris Is Doing Pretty Well",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWp0ZjlaUlg4d0dKVVYzaUJyRmZsd3pqV2ZvbXdibDNZTWxUSTh0LUtKVm5HeFZ5cDhxQS1YVVN1RWFUdnNmWE4tVkNRd2pmcHNLcHdhMWxpbG8tQlByS2txdThuNFdaOHllLVdLMXhMcE9OQnpKbUZmczU3M2h2WkhzRHFnNkk?oc=5",
-     "source": "Yahoo Lifestyle Canada",
-     "published": "2026-11-22T16:33:00+00:00",
-     "summary": "Donald Trump Discusses Contenders for 2028 Election: \u2018I Was a Little Surprised to See Kamala Harris Is Doing Pretty Well&nbsp;&nbsp;Yahoo Lifestyle Canada",
-     "image": ""
-    },
-    {
-     "title": "California Republican Party Chair blames division for historic election losses | CA Politics 360",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGNxMi1kUG1rdzhfRkxNLTM4bHpmNFduNmdFOWFxTjZ0VlNxQzY4bEwydWU5WEV2ZWhfeXEzYkVhbWEtdi05SkNMZ3JRM09sLUZVdEMzUE8wUlNnUjB1S1pkUGd1VjBtd1dNMURobVdjWXUyNThpVGwyX3pPeVZIc0EtZEw2djBiVWlrbDlNWXZWNmJ5NXVFMThJWTI?oc=5",
-     "source": "KCRA",
-     "published": "2026-11-22T16:25:00+00:00",
-     "summary": "California Republican Party Chair blames division for historic election losses | CA Politics 360&nbsp;&nbsp;KCRA",
-     "image": ""
-    },
-    {
-     "title": "California Politics 360 full episode | CA Republican Party chair reacts to election losses",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTBhSnBNYUd2SVNuY3VuUnNlaDlYNDQ2OWU5TlRGZlhlYW01MDA5YzY0UzAyM0JmNXBmTGdpZ3F0RmxPQUNZNlpWb09URjlPZXNseEtUM3lTcHo3bzRka1JGaXpSLUdRYlVUYzJRaUwxUjVjeVI2eXdReWRVZ2p3NzhIa2ZGOGhsUThkdTlaVQ?oc=5",
-     "source": "KCRA",
-     "published": "2026-11-22T16:25:00+00:00",
-     "summary": "California Politics 360 full episode | CA Republican Party chair reacts to election losses&nbsp;&nbsp;KCRA",
-     "image": ""
-    },
-    {
-     "title": "Parsing out 2026 election results",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjRqMXRWcmFHbkJoNUp6YW1RMldNSTVHYzZhcU5INjZkSlRaU3ZZM25TM0RKb0FnY01ldHBHc0tadmNkRDFRMzVTeUNKaGx5NEQxb09WdlRLUUFVajNnUTRDT3ZqRFZCRkJOTGZlTjlOWWJ0OElweW5UeDJWcXhRM21lbmUwRDl1MWlWS1dkVFlnQmk3TGpLVjMtUnlwTll4ZzlvZ3p0OGlxQlV3c0hUNHdJUE96ZS0xVTZ6SGVvcnlUYXJSUXB3dG81c1BjZw?oc=5",
-     "source": "Post and Courier",
-     "published": "2026-11-22T16:00:00+00:00",
-     "summary": "Parsing out 2026 election results&nbsp;&nbsp;Post and Courier",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T17:55:42.038907+00:00",
+   "fetched_at": "2026-11-22T18:25:46.300622+00:00",
    "stale": false,
    "items": [
     {
