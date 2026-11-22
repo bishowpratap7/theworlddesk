@@ -1,17 +1,33 @@
 {
- "generated_at": "2026-11-22T15:55:24.660592+00:00",
+ "generated_at": "2026-11-22T16:25:28.405801+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T15:55:24.660562+00:00",
+   "fetched_at": "2026-11-22T16:25:28.405769+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+     "title": "Canada\u2019s PM appears next to Trump impersonator at press dinner",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T16:06:46+00:00",
+     "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada\u2019s annual Parliamentary Press Gallery.",
+     "image": ""
+    },
+    {
+     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-22T15:50:13+00:00",
+     "published": "2026-11-22T16:05:25+00:00",
      "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+     "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
+     "source": "The Guardian",
+     "published": "2026-11-22T15:53:24+00:00",
+     "summary": "Forest Service releases files months after residents in rural Ontario reported encounters with massive figures Bigfoot has quietly appeared again.Well, not Sasquatch directly, but ",
+     "image": "https://i.guim.co.uk/img/media/8b089c6c50a5bd459eb3e00ff7509ac98e0e251c/720_0_4965_3972/master/4965.jpg?width=140&quality=85&auto=format&fit=max&s=a639039bf10af21ac55dd634c94f1db1"
     },
     {
      "title": "UK taxpayer funds held in offshore tax havens top \u00a31tn, latest HMRC data shows",
@@ -100,34 +116,42 @@
      "published": "2026-11-22T14:30:27+00:00",
      "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
      "image": ""
-    },
-    {
-     "title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
-     "url": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
-     "source": "\u00a9 Kaan Soyturk, Reuters",
-     "published": "2026-11-22T14:22:56+00:00",
-     "summary": "From the unprecedented Shenzhen summit in China that saw President Xi Jinping host his US and Russian counterparts, Donald Trump and Vladimir Putin, to tough talks at COP31 in Anta",
-     "image": "https://s.france24.com/media/display/4d97c630-e4c9-11f1-8b5e-13439ca2fe89/w:1024/p:16x9/2026-11-20T080754Z-1839523102-RC2IROA511RL-RTRMADP-3-CLIMATE-COP31.jpg"
-    },
-    {
-     "title": "Iran unveils dual-missile launcher, new \u2018missile city\u2019: What to know",
-     "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:20:41+00:00",
-     "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T15:55:24.660576+00:00",
+   "fetched_at": "2026-11-22T16:25:28.405785+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+     "title": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcTFDT2xUcF9aU1ZYQ00yUE1Zek5RX1FlTVpGQ3dZQnN0ZEQzRGNVNjNMclBsSkRWd2pPc2pKZWM0QThwZ1RQRDNzRUZ1ckpsNGh3QXdiVTk2c1JuRXBORTNyb2pRMHVKSmx3cUJIZGZUWW5SQ2JwWU9QeTZ0LWlMcU5lTVp6RmFUZFFWazRSQkd6QmhtVkxXdVNvOVJWTjU3ejVKRDUxYkVaaWhQV0xEaVZicXh0ZTUwZENjS1ozTWNYZVdwUTdXMFBhWVhEY2F0ZVVubmFEMGZuRHN0MzdDeWF1X0FfN2M1RWw0V1Q4cFFlTGtJVzRDdkJKVkRrMFoy?oc=5",
+     "source": "KTVN",
+     "published": "2026-11-22T16:18:25+00:00",
+     "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4&nbsp;&nbsp;KTVN",
+     "image": ""
+    },
+    {
+     "title": "At Least 4 Killed in Russian Drone Attacks on Kyiv Region, Officials Say",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNME16NzUyUE1JYWxSdVBMMkV0R0NaTk5lTWoxbHVQZmJlenRlUVF3Wms3T1BEZ3NFNkgyVVgyUVBBNTZ0eDJrY0JDLU5RV2ZJU2xXejNHOEJSOGozQmF3YnFLeUw1S2Z4OVFJV04ySTdHOGZ1QVR2SUdZTVhLdlZ2bFFsNDFsbGdEcFl3MGMzdGhhSjVtUVpuUHNVZEpvaXFjZ2E1aEQxcVNZb2ZwYklkcE4taGZqc2xQdjQtTw?oc=5",
+     "source": "The Moscow Times",
+     "published": "2026-11-22T16:07:14+00:00",
+     "summary": "At Least 4 Killed in Russian Drone Attacks on Kyiv Region, Officials Say&nbsp;&nbsp;The Moscow Times",
+     "image": ""
+    },
+    {
+     "title": "Canada\u2019s PM appears next to Trump impersonator at press dinner",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T16:06:46+00:00",
+     "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada\u2019s annual Parliamentary Press Gallery.",
+     "image": ""
+    },
+    {
+     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-22T15:50:13+00:00",
+     "published": "2026-11-22T16:05:25+00:00",
      "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg"
     },
@@ -135,8 +159,16 @@
      "title": "Trump Prioritizes Ukraine Peace, Postpones Iran Deal Amid Political Pressures",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGctYTFBTWk1d3FOUGpJbUlOMHpreThQWThJRmZ5Sm1qMEF0cTFVcWxyeHFXQ0ZMT2tuQnQ0SURBZ1BIa3dWeDlNWjYxcHlDS3c0c01FRXY5dXR4bWtWX3hQMHNiQTQwUW55TV85ZFVLU21KNGdMX00xeGdSaWhaVWtVN0g?oc=5",
      "source": "\uc870\uc120\uc77c\ubcf4",
-     "published": "2026-11-22T15:47:54+00:00",
+     "published": "2026-11-22T15:51:13+00:00",
      "summary": "Trump Prioritizes Ukraine Peace, Postpones Iran Deal Amid Political Pressures&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
+     "image": ""
+    },
+    {
+     "title": "Libya\u2019s Eastern Government Suspects Drone Attack Caused Explosion on Russian Ship",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRjNvckRDSFBPYzJxdnBDTHhlMWNpQWdGbXBydjlra1lzRnR4RjJZcVNnMzd5UElxRXVsek5yckZLaVB4V091QTRORW9jbXpPdjQyVmtOenFuY0FhNjRCUm1ja1pIdkdYckFTR2xpWk5IYnZ5REFUR29WbWZ2NERhT2JSUE1GbVFFc2RVR0NOUWFoOGNKMEI3M1pTZUt1eDREWEtDZjA4S0JJeDUyNEN3bVpmemNjanh6ZjE3UFlQQkd6enRzQjVQdlcwc2ZmRHBSclBvMC1Uc3U2eFp0TDBR?oc=5",
+     "source": "The Moscow Times",
+     "published": "2026-11-22T15:23:00+00:00",
+     "summary": "Libya\u2019s Eastern Government Suspects Drone Attack Caused Explosion on Russian Ship&nbsp;&nbsp;The Moscow Times",
      "image": ""
     },
     {
@@ -148,18 +180,10 @@
      "image": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e"
     },
     {
-     "title": "The Russian POW Camp Where Sex Abuse Became Part of the System",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUFIWDN5aGMwZVlveC05RHRTc2ZkTExGTHZ6eXpGVWJDeGJXUmR5VlV6d1l4MzE5VGdrVERWUmZzVUU1dWRqaklFRUxvd2xOSHY4SVJydGtsbzJVbVdWNm52d3kzcmMwQ1p0UTNrYnhXSi1uREtNeEZoSndwZWNHUHdGMVdIMmVKaUVxbVliRGNDTl8wT2Z0OGVnR0RlQ29BVGJCVVduQQ?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-22T15:22:17+00:00",
-     "summary": "The Russian POW Camp Where Sex Abuse Became Part of the System&nbsp;&nbsp;WSJ",
-     "image": ""
-    },
-    {
      "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
      "source": "WSJ",
-     "published": "2026-11-22T15:19:59+00:00",
+     "published": "2026-11-22T15:18:44+00:00",
      "summary": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling&nbsp;&nbsp;WSJ",
      "image": ""
     },
@@ -194,42 +218,34 @@
      "published": "2026-11-22T14:54:58+00:00",
      "summary": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:30:27+00:00",
-     "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-     "image": ""
-    },
-    {
-     "title": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
-     "url": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
-     "source": "\u00a9 Kaan Soyturk, Reuters",
-     "published": "2026-11-22T14:22:56+00:00",
-     "summary": "From the unprecedented Shenzhen summit in China that saw President Xi Jinping host his US and Russian counterparts, Donald Trump and Vladimir Putin, to tough talks at COP31 in Anta",
-     "image": "https://s.france24.com/media/display/4d97c630-e4c9-11f1-8b5e-13439ca2fe89/w:1024/p:16x9/2026-11-20T080754Z-1839523102-RC2IROA511RL-RTRMADP-3-CLIMATE-COP31.jpg"
-    },
-    {
-     "title": "Iran unveils dual-missile launcher, new \u2018missile city\u2019: What to know",
-     "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:20:41+00:00",
-     "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T15:55:24.660580+00:00",
+   "fetched_at": "2026-11-22T16:25:28.405790+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Parsing out 2026 election results",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjRqMXRWcmFHbkJoNUp6YW1RMldNSTVHYzZhcU5INjZkSlRaU3ZZM25TM0RKb0FnY01ldHBHc0tadmNkRDFRMzVTeUNKaGx5NEQxb09WdlRLUUFVajNnUTRDT3ZqRFZCRkJOTGZlTjlOWWJ0OElweW5UeDJWcXhRM21lbmUwRDl1MWlWS1dkVFlnQmk3TGpLVjMtUnlwTll4ZzlvZ3p0OGlxQlV3c0hUNHdJUE96ZS0xVTZ6SGVvcnlUYXJSUXB3dG81c1BjZw?oc=5",
+     "source": "Post and Courier",
+     "published": "2026-11-22T16:00:00+00:00",
+     "summary": "Parsing out 2026 election results&nbsp;&nbsp;Post and Courier",
+     "image": ""
+    },
+    {
+     "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFlibEZ1MlFVU2N6MEFael81TEJGWFM4UWk4Yk1Ndi1GTVpKdDB3czRDQzVWYWlVWTF3MFZIMVdycTBzaUNoYndualJBeWxIN2lWWklVZGhCTUpzLU9CejR3ZDd1M1F2M1J1NjJHSDNwamZFQzhjQk1fYXdhSlFWN19VVWs1YzBGTldySl9WTVlVUmp1c1JXQkxoRnhHSlFvamh2WU4yX0k5T3prUGhDSEx3VFhNd1g5RUVlUHdLYl90LThZ0gHKAUFVX3lxTE9iYzgzbXpYWWN1cllvMUJJdTBaaTR6NU82ZFl2YURsYmpXWTFkOEZ3Tm1SX3FNQkFDcG96a0w2ZWNrVnltSy1LbTdoYnEzUE1MR2c3Qy1kTDMwbWdraWxZY3doNkNHWVhzT0ctYWc0eEItUGhBM3lzRV9yUG41OTU1R254YTluU0tNcmlhNHVyXzI3X1BGZmNnVmw4TFozdlVDc0pDeWItNWtsU1FMc3BTenA1dzNIMFA1cnNEa25sRElFcFFDY3VxRmc?oc=5",
+     "source": "Fox News",
+     "published": "2026-11-22T15:54:36+00:00",
+     "summary": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss&nbsp;&nbsp;Fox News",
+     "image": ""
+    },
     {
      "title": "Commentary: Fixing WA's housing crisis won't be easy, but predictable policy would help",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTFFtVTNrMURITmVTZU9CNmdiZlN6cjVycUZkSm5hSVRnSXVBNjZqMHhxcnFDeVV6b0Zoc29GSG1lODVNWENZTDJuOW1Ea0JueWxzTVJQcFNwVDhmU19IVmZFdl9ZWjB0N0d4V1JoRGR5V3BMdVdTTkc5ZG9va1Bxc05KMUFOSmo1Y1NDQkxhZUJ6WVpLNFdRUFd6RUJQcjhhNTd1UWhyeUNxR3RzNWotM0gzaWZjaFlFcWpMUg?oc=5",
      "source": "Washington State Standard",
-     "published": "2026-11-22T15:52:36+00:00",
+     "published": "2026-11-22T15:52:28+00:00",
      "summary": "Commentary: Fixing WA's housing crisis won't be easy, but predictable policy would help&nbsp;&nbsp;Washington State Standard",
      "image": ""
     },
@@ -242,19 +258,19 @@
      "image": ""
     },
     {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS05oTUMwU1VpcjJPazFsUTJXU1BDS2hjVTBwQVg0ak1qSFNtVkNrZHNUcllQcy1Id05rVk44RnZKWlFoM2xUbjZlMTZBQkFwMWU3YWJQWTlPMlJYZERrQkw4T2dsNHhvSXBHdHdwUFJKWGV6NU5YamJHQ0tWSlJ1Q0xvWTVPdkxKWVYwaGNTWTc?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-22T15:49:19+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
      "title": "Flash Point: Former Gov. candidate Cyndi Munson talks about election outcomes",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3hzajV0RnRBNzNPM3FTV3Rna3AzYUxsWGFRa2FhVFkzdWlLZHI1M25RVW9NNE43N1RMSmtQNTNkRkxUcDZSTzlYcGlTcU9VYThoRkJsQUJCclBqRVhTdnhRNDlaUXphN0Q4bUVMdHlLM0JuWmNuR1UxMW1fQkpVbTlYUDNZR01GUEFnZGR4d0hvU3E4LWZj?oc=5",
      "source": "Yahoo",
      "published": "2026-11-22T15:15:00+00:00",
      "summary": "Flash Point: Former Gov. candidate Cyndi Munson talks about election outcomes&nbsp;&nbsp;Yahoo",
-     "image": ""
-    },
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS05oTUMwU1VpcjJPazFsUTJXU1BDS2hjVTBwQVg0ak1qSFNtVkNrZHNUcllQcy1Id05rVk44RnZKWlFoM2xUbjZlMTZBQkFwMWU3YWJQWTlPMlJYZERrQkw4T2dsNHhvSXBHdHdwUFJKWGV6NU5YamJHQ0tWSlJ1Q0xvWTVPdkxKWVYwaGNTWTc?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-22T15:07:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     },
     {
@@ -304,27 +320,11 @@
      "published": "2026-11-22T14:35:55+00:00",
      "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
      "image": ""
-    },
-    {
-     "title": "A lifelong brawler faces a choice in Congress: Policy or performance",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWm9yOUxiOVlQOXIxeUllLXpUOUJMOUJUOHViazFmYVVIR2hBeWpiSVJnTW5FNFpDMmQzUlRheDRqYkVidXhpWEpJc2lrR0laWjlXRWlnTVhmdXdPaEltQXN0bzl0ZndTTm5OcEhkc1dELXc5MktoZWp0c21QMl9HRWdvUnJmNmkxRHpTdENFV0dkWEZweHJmazhKTTdtTExYWjJXdnFjbGxjZ3F1NHprUGlR?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-22T14:32:57+00:00",
-     "summary": "A lifelong brawler faces a choice in Congress: Policy or performance&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Behind the scenes of Maura Healey's successful re-election bid for Massachusetts governor",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdThLQXNLQl9fWGVYU2JYbWtvRjdSWWZuTGlhZzQxNTVmSXllMDRzUmt1Z1QxQS04bVk0N2NUT1ZKTXFGcFAtaVZCbl9FZ2VORC1kOG9ib1FjeVpGTzUtQjlKOHJzMElyZVp6bG1kcUd1c0hwTE45ZnRtWnkxYUVySzU2UjRCTzhpRlctUXhmcy1YV0s5UTNyLXpIYmFfU3E3b1R4bnNYT0Y0cjBxMEJoWWdtWHZLT21YZzE2b2F2UFpjWThj?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-22T14:10:00+00:00",
-     "summary": "Behind the scenes of Maura Healey's successful re-election bid for Massachusetts governor&nbsp;&nbsp;CBS News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T15:55:24.660583+00:00",
+   "fetched_at": "2026-11-22T16:25:28.405792+00:00",
    "stale": false,
    "items": [
     {
