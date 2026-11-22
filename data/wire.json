@@ -1,10 +1,58 @@
 {
- "generated_at": "2026-11-22T16:55:31.711594+00:00",
+ "generated_at": "2026-11-22T17:25:38.273536+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T16:55:31.711562+00:00",
+   "fetched_at": "2026-11-22T17:25:38.273502+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T17:18:26+00:00",
+     "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
+    },
+    {
+     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T17:16:47+00:00",
+     "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+     "title": "Russian vessel hit by suspected sea drone at Libya\u2019s Benghazi naval base",
+     "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T17:12:48+00:00",
+     "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
+     "image": ""
+    },
+    {
+     "title": "Ligue 1: PSG extend winning run at Nice (3-2) but lose D\u00e9sir\u00e9 Dou\u00e9 to injury",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
+     "source": "France 24",
+     "published": "2026-11-22T16:55:55+00:00",
+     "summary": "A bittersweet victory for PSG at Nice on Saturday evening. The Parisians strengthened their grip on top spot in Ligue 1, but lost D\u00e9sir\u00e9 Dou\u00e9 for several months after the forward s",
+     "image": "https://s.france24.com/media/display/84817312-e613-11f1-8f47-13439ca2fe89/w:1024/p:16x9/000-D8969H7.jpg"
+    },
+    {
+     "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+     "source": "The Guardian",
+     "published": "2026-11-22T16:55:49+00:00",
+     "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaAn explosion on a Russian ship docked at the naval base in the Libyan port",
+     "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c"
+    },
+    {
+     "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T16:50:48+00:00",
+     "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+     "image": ""
+    },
     {
      "title": "\u2018Disappointing\u2019: Delegates react after COP31 climate talks end without deal",
      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
@@ -14,11 +62,27 @@
      "image": ""
     },
     {
+     "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
+     "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
+     "source": "France 24",
+     "published": "2026-11-22T16:25:09+00:00",
+     "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank. Israeli soldiers were deplo",
+     "image": "https://s.france24.com/media/display/800f91a6-e690-11f1-94e1-e56ab3dc0809/w:1024/p:16x9/EN-20261122-160919-161053-CS.jpg"
+    },
+    {
+     "title": "Russian strike kills 2 in Kyiv",
+     "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
+     "source": "France 24",
+     "published": "2026-11-22T16:23:23+00:00",
+     "summary": "A Russian attack struck an apartment building in the village of Dymer, just north of Kyiv, on Sunday, killing at least two people and wounding four others. The morning strike destr",
+     "image": "https://s.france24.com/media/display/64f540a0-e690-11f1-92e8-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-160646-160820-CS.jpg"
+    },
+    {
      "title": "Cop31 climate talks break down as key deal rejected",
      "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
      "source": "The Guardian",
      "published": "2026-11-22T16:14:46+00:00",
-     "summary": "EU, UK and some of developing world object to main text that \u2018failed to meet the moment\u2019 and did not mention fossil fuels\u2022 Cop31 live blog: longest climate summit ever faces collap",
+     "summary": "EU, UK and some of developing world object to main text that \u2018failed to meet the moment\u2019 and did not mention fossil fuelsThe EU, the UK and allies in the developing world rejected ",
      "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=1d4e5cb91f44ed77668a8862b38fa660"
     },
     {
@@ -38,14 +102,6 @@
      "image": ""
     },
     {
-     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-22T16:05:25+00:00",
-     "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
      "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
      "url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
      "source": "The Guardian",
@@ -54,183 +110,175 @@
      "image": "https://i.guim.co.uk/img/media/8b089c6c50a5bd459eb3e00ff7509ac98e0e251c/720_0_4965_3972/master/4965.jpg?width=140&quality=85&auto=format&fit=max&s=a639039bf10af21ac55dd634c94f1db1"
     },
     {
-     "title": "UK taxpayer funds held in offshore tax havens top \u00a31tn, latest HMRC data shows",
+     "title": "UK taxpayers held more that \u00a31tn in offshore tax havens, latest HMRC data shows",
      "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
      "source": "The Guardian",
      "published": "2026-11-22T15:43:01+00:00",
-     "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama raising fears over cost to public purseThe amount of money UK taxpayers hold in offshore a",
+     "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purseThe amount of money UK taxpayers hold in offshore ",
      "image": "https://i.guim.co.uk/img/media/800ce1d542712fe94a187f06f577b17799e2d1b6/15_0_1992_1594/master/1992.jpg?width=140&quality=85&auto=format&fit=max&s=42d9878af737cf615138f416d95f283b"
-    },
-    {
-     "title": "Can we build a more ethical AI future?",
-     "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T15:30:09+00:00",
-     "summary": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI&#039;s risks and the fight for ethical technology.",
-     "image": ""
-    },
-    {
-     "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T15:24:20+00:00",
-     "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
-     "image": ""
-    },
-    {
-     "title": "Netanyahu rival condemns \u2018Jewish terrorism\u2019 after settler attacks on Palestinian villages",
-     "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
-     "source": "The Guardian",
-     "published": "2026-11-22T15:22:38+00:00",
-     "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villa",
-     "image": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e"
-    },
-    {
-     "title": "Rivals author Jilly Cooper accused of \u2018extensive and deliberate plagiarism\u2019",
-     "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
-     "source": "The Guardian",
-     "published": "2026-11-22T15:07:42+00:00",
-     "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author\u2019s novel, Prudence, and two of her contemporariesJilly Cooper has been accuse",
-     "image": "https://i.guim.co.uk/img/media/f5ed62cd4fe49f2727a2c4dd715669add71e2484/0_76_1639_1311/master/1639.jpg?width=140&quality=85&auto=format&fit=max&s=0832a3ae7db6194db42d825cf0511065"
-    },
-    {
-     "title": "Drone attacks kill four near Sudan\u2019s capital, damage UN building",
-     "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T15:03:38+00:00",
-     "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum&#039;s airport.",
-     "image": ""
-    },
-    {
-     "title": "The Drugs Don\u2019t Work",
-     "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:51:39+00:00",
-     "summary": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
-     "image": ""
-    },
-    {
-     "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 5 in Ukraine",
-     "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:48:50+00:00",
-     "summary": "Two Russian attacks kill at least four people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T16:55:31.711578+00:00",
+   "fetched_at": "2026-11-22T17:25:38.273519+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Russian attack near Ukraine's capital strikes apartment building, killing 3 and burying others",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZDFweXZqbjNvOVNfT3RzUWt5N2ZOcDZ3cE9oUE1iWEpZTUo2YncyRm1SQkZ2MXcwNk9WY29FdHRIbmo5cnNqR0QxMFFMdEZiQVE5U2RibmlCTVdXMm1XRVF6X2g5aEVrX241d29Bel91V0M1YXgxR19ibGpLM2k1ck5qckRQMzQ2S3R1d3l3TGwyaUdRcHZmb2dRNDVvWVRxYjl6bi0xdXUyblpZMXVJNU1zajQxOThnelF3WXFfeUNpaVYxMW8yTjJhWF9kLTdyMVFDeEJha3hSbXBLanU2b1FzWTg5OExBNExzQWJHV3FodlB3Z0tPVUMwQU5idEdmeWk4WXNn?oc=5",
-     "source": "KTVN",
-     "published": "2026-11-22T16:42:03+00:00",
-     "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 3 and burying others&nbsp;&nbsp;KTVN",
-     "image": ""
-    },
-    {
-     "title": "At Least 4 Killed in Russian Drone Attacks on Kyiv Region, Officials Say",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNME16NzUyUE1JYWxSdVBMMkV0R0NaTk5lTWoxbHVQZmJlenRlUVF3Wms3T1BEZ3NFNkgyVVgyUVBBNTZ0eDJrY0JDLU5RV2ZJU2xXejNHOEJSOGozQmF3YnFLeUw1S2Z4OVFJV04ySTdHOGZ1QVR2SUdZTVhLdlZ2bFFsNDFsbGdEcFl3MGMzdGhhSjVtUVpuUHNVZEpvaXFjZ2E1aEQxcVNZb2ZwYklkcE4taGZqc2xQdjQtTw?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-22T16:07:14+00:00",
-     "summary": "At Least 4 Killed in Russian Drone Attacks on Kyiv Region, Officials Say&nbsp;&nbsp;The Moscow Times",
-     "image": ""
-    },
-    {
-     "title": "Canada\u2019s PM appears next to Trump impersonator at press dinner",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T16:06:46+00:00",
-     "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada\u2019s annual Parliamentary Press Gallery.",
-     "image": ""
+     "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T17:18:26+00:00",
+     "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
     },
     {
      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-22T16:05:25+00:00",
-     "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg"
+     "published": "2026-11-22T17:16:47+00:00",
+     "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
     },
     {
-     "title": "Trump Prioritizes Ukraine Peace, Postpones Iran Deal Amid Political Pressures",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGctYTFBTWk1d3FOUGpJbUlOMHpreThQWThJRmZ5Sm1qMEF0cTFVcWxyeHFXQ0ZMT2tuQnQ0SURBZ1BIa3dWeDlNWjYxcHlDS3c0c01FRXY5dXR4bWtWX3hQMHNiQTQwUW55TV85ZFVLU21KNGdMX00xeGdSaWhaVWtVN0g?oc=5",
-     "source": "\uc870\uc120\uc77c\ubcf4",
-     "published": "2026-11-22T15:51:13+00:00",
-     "summary": "Trump Prioritizes Ukraine Peace, Postpones Iran Deal Amid Political Pressures&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
+     "title": "Russian vessel hit by suspected sea drone at Libya\u2019s Benghazi naval base",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T17:15:00+00:00",
+     "summary": "Russian vessel hit by suspected sea drone at Libya\u2019s Benghazi naval base&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
     {
-     "title": "Libya\u2019s Eastern Government Suspects Drone Attack Caused Explosion on Russian Ship",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRjNvckRDSFBPYzJxdnBDTHhlMWNpQWdGbXBydjlra1lzRnR4RjJZcVNnMzd5UElxRXVsek5yckZLaVB4V091QTRORW9jbXpPdjQyVmtOenFuY0FhNjRCUm1ja1pIdkdYckFTR2xpWk5IYnZ5REFUR29WbWZ2NERhT2JSUE1GbVFFc2RVR0NOUWFoOGNKMEI3M1pTZUt1eDREWEtDZjA4S0JJeDUyNEN3bVpmemNjanh6ZjE3UFlQQkd6enRzQjVQdlcwc2ZmRHBSclBvMC1Uc3U2eFp0TDBR?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-22T15:23:00+00:00",
-     "summary": "Libya\u2019s Eastern Government Suspects Drone Attack Caused Explosion on Russian Ship&nbsp;&nbsp;The Moscow Times",
+     "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXNfZ3lvT3UwdDU4aGluVmJaWEhEZ0RQek5zVG10djhxczZLNndtaEtIa2JPaTlIengzMzRWWElCd1RMLTZCLW1mYWxDaDBUNTZsdnRaQ0Jpc0prSHUtM1FHNXA2OXh4bG9EbnNnTmhwYUtBMThacFVMMlJJRV9hZEdsQTU3UGIzRHZBcVhaeURHWXEtX0ZTN19vdkp2azc4alJGbERpTEdvbDg?oc=5",
+     "source": "Laredo Morning Times",
+     "published": "2026-11-22T17:07:18+00:00",
+     "summary": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say&nbsp;&nbsp;Laredo Morning Times",
      "image": ""
     },
     {
-     "title": "Netanyahu rival condemns \u2018Jewish terrorism\u2019 after settler attacks on Palestinian villages",
-     "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+     "title": "Ligue 1: PSG extend winning run at Nice (3-2) but lose D\u00e9sir\u00e9 Dou\u00e9 to injury",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
+     "source": "France 24",
+     "published": "2026-11-22T16:55:55+00:00",
+     "summary": "A bittersweet victory for PSG at Nice on Saturday evening. The Parisians strengthened their grip on top spot in Ligue 1, but lost D\u00e9sir\u00e9 Dou\u00e9 for several months after the forward s",
+     "image": "https://s.france24.com/media/display/84817312-e613-11f1-8f47-13439ca2fe89/w:1024/p:16x9/000-D8969H7.jpg"
+    },
+    {
+     "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
      "source": "The Guardian",
-     "published": "2026-11-22T15:22:38+00:00",
-     "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villa",
-     "image": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e"
+     "published": "2026-11-22T16:55:49+00:00",
+     "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaAn explosion on a Russian ship docked at the naval base in the Libyan port",
+     "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c"
     },
     {
-     "title": "APTOPIX Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2ZFLVE1Zm1XOXZVWGhwX0wzMGp1NmhzR0hYUEQ5dkF2LWpjMko4TlJST2hxeXpDdmU3R0dYcU1Uc1pLb1FsWnhxX1pTdVp4NzFaenhnTDhoTHFnLUtkdmg1cXpJNGRmM0Y4WEtHRThSYUIxeWRhSEhKaV9KdTczQWkwRHpzdlZmNXRLbjgycUZvS1FXaTJXd0lwSHoxN0hOek1yMWlseHI3Si1zQ0pvb0ltYUpCNEtrSnE5WG9hRkVkUzdTUHlMYzVQYw?oc=5",
-     "source": "Daily News-Record",
-     "published": "2026-11-22T15:17:58+00:00",
-     "summary": "APTOPIX Russia Ukraine War&nbsp;&nbsp;Daily News-Record",
+     "title": "Ukrainian Security Service conduct a long-range strike on a Russian warship in Libya - report",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOU9nWjhrdjYzMWgxNVN0NmFoSjNMN2o0T0JLeEFiTlVJUm9OdXFWMl81U2hMOVRGTXQtbDRWODJCanViM0x4dW5QZGctUThLQmoyRlRLeDZXU2VuclBzT3lMS21Pd0M4elI5T2hrUDFtY3dYSkZUYXZmbTVpWVZvQTctOWdIeTRsNGZjMVI5cGFDUU5qUmZfNC0waFIzb0pXeWxfZ0ozYUF0eXlEY2VOR1ItOURzV0J4V3Y3b3hsTGZhLWd0LWZEaHg2eGhqZWQzMVRwR0U5N2RqRGNBVk03bHVfZjhVYTF0U3VBUUZsTW4zcHJD?oc=5",
+     "source": "i24NEWS",
+     "published": "2026-11-22T16:55:29+00:00",
+     "summary": "Ukrainian Security Service conduct a long-range strike on a Russian warship in Libya - report&nbsp;&nbsp;i24NEWS",
      "image": ""
     },
     {
-     "title": "Kyiv's restaurant owners brace for tough winter as war pressures mount",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk9Cek1qUUR2b1hOU1JxOHRoQ09ZQ2YzX2RMTkRlNTZmWGluXzZCb2l5SzAyQV8yUm5icGxHVmhCajBESWdpc1pDdTBiVHhObEdfaFpZSzNTWUdVRnJHRTNFZ2MzYVlHNnNRSDFWX1BnZ2RJbUczY2MwZG1IN05xZVRXelJoNkVGWlRkTTAtbDNGcFFDcTdORkZNZXFFcW50NjdCaGlPcw?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-22T15:14:44+00:00",
-     "summary": "Kyiv's restaurant owners brace for tough winter as war pressures mount&nbsp;&nbsp;Reuters",
+     "title": "Russian attack near Ukraine's capital strikes apartment building, killing 3 and burying others",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZDFweXZqbjNvOVNfT3RzUWt5N2ZOcDZ3cE9oUE1iWEpZTUo2YncyRm1SQkZ2MXcwNk9WY29FdHRIbmo5cnNqR0QxMFFMdEZiQVE5U2RibmlCTVdXMm1XRVF6X2g5aEVrX241d29Bel91V0M1YXgxR19ibGpLM2k1ck5qckRQMzQ2S3R1d3l3TGwyaUdRcHZmb2dRNDVvWVRxYjl6bi0xdXUyblpZMXVJNU1zajQxOThnelF3WXFfeUNpaVYxMW8yTjJhWF9kLTdyMVFDeEJha3hSbXBLanU2b1FzWTg5OExBNExzQWJHV3FodlB3Z0tPVUMwQU5idEdmeWk4WXNn?oc=5",
+     "source": "KTVN",
+     "published": "2026-11-22T16:53:32+00:00",
+     "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 3 and burying others&nbsp;&nbsp;KTVN",
      "image": ""
     },
     {
-     "title": "Drone attacks kill four near Sudan\u2019s capital, damage UN building",
-     "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+     "title": "Ukraine war latest: US delays on Patriot missiles 'difficult to understand' as Russia fires 165 missiles in single week, Zelensky says",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb1hDeGZPSTNtQmhNb3d2VlNZQkNoSUdKY002Z0YybHhTd3JiX2VmWk1nSDZJMHk3RjF3Y25veHZaOEh3eGV0dGllbm5mMFhnZ20ybzZXZ1ExTHZMZllDeDlfZlBOOElMLXR1Zzk5SXYtWjRoUGtnOS1ucW5FMUpRMGNNRlFRcmJkT25KWGpHb2FXZzZqcmJiVFAwZ2RjUzA0LTFEUGs1Y0FvLVROWjlMTXdUQVNCOEctUThCblprdVNQVVhvbDg4anVBRTFJak1jVnBudmhTQVZKdGdoY0RWYjR3SURIamozUzhaRWxZNXE?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-22T16:53:12+00:00",
+     "summary": "Ukraine war latest: US delays on Patriot missiles 'difficult to understand' as Russia fires 165 missiles in single week, Zelensky says&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-22T15:03:38+00:00",
-     "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum&#039;s airport.",
+     "published": "2026-11-22T16:50:48+00:00",
+     "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
      "image": ""
     },
     {
-     "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDROSjJ4ZmFrSWp4VDNoeS1aRVlHb25QQXJvV0JhQWtrNjdJekNQWHEyQ0VhZUIyNHBpd3l2eEJSYmc4Zk45V2lhcWxwMzJBT09XYk1hRzZwa0FkT2ltdUl2STFtb1lBVHRtVFpDTGtYc2FVZWJqQXYyYlFSVzBhNzhpbE83NlByTGJHQjloNEZvZ9IBlwFBVV95cUxORzQwam00SzMzbWFrZHNQMlAxQU1sTmJ3ZEFQRU51V1B4MGxUb1FFeUo3R05ya0hQMFRVRjRGOTlVZDliV25wbGdnZzI1YlI5N2lpTnltOE5ZYUItZDViTlJvNkRCaGR0M2NxQ19zeEJrSmhVTGVKVGpoRFBNTlFlMFpxUzNKblhkYjlBek91OUJxbmZNdkRr?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:54:58+00:00",
-     "summary": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine&nbsp;&nbsp;Al Jazeera",
-     "image": ""
+     "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
+     "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
+     "source": "France 24",
+     "published": "2026-11-22T16:25:09+00:00",
+     "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank. Israeli soldiers were deplo",
+     "image": "https://s.france24.com/media/display/800f91a6-e690-11f1-94e1-e56ab3dc0809/w:1024/p:16x9/EN-20261122-160919-161053-CS.jpg"
     },
     {
-     "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:30:27+00:00",
-     "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-     "image": ""
+     "title": "Russian strike kills 2 in Kyiv",
+     "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
+     "source": "France 24",
+     "published": "2026-11-22T16:23:23+00:00",
+     "summary": "A Russian attack struck an apartment building in the village of Dymer, just north of Kyiv, on Sunday, killing at least two people and wounding four others. The morning strike destr",
+     "image": "https://s.france24.com/media/display/64f540a0-e690-11f1-92e8-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-160646-160820-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T16:55:31.711582+00:00",
+   "fetched_at": "2026-11-22T17:25:38.273524+00:00",
    "stale": false,
    "items": [
     {
-     "title": "California Republican Party Chair blames division for historic election losses",
+     "title": "Election Committee poll demonstrates healthy competition, positive democratic development",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YTl93MXNzaFlZQVJtSjRDeWQ5cGVja29BWFh1NFhtR2htdDBCeUVJZ2d6MmhWTE5MWHNvOE5vWWpzS01PTEhmVzhRUnUwdFBmLWdoTFY5N0I?oc=5",
+     "source": "chinadailyhk",
+     "published": "2026-11-22T17:18:04+00:00",
+     "summary": "Election Committee poll demonstrates healthy competition, positive democratic development&nbsp;&nbsp;chinadailyhk",
+     "image": ""
+    },
+    {
+     "title": "ong Kong Election Committee race: \u2018healthy\u2019 contest with surprise upsets",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSGtiU3dnU3A2aXI0YTctZndmUXRDSU5tRDJPbGttTmoyUEFmVzNkWWhvN2lVSHNSRHFfa1RiZFJrVEE1U2pTU1pJZm9DUFlweERReUNyM1BaYUQ4VHRsZTV0a0pBVG8wUy1TY0hxNVNQc0RyQk9QWXNzM3BhWG9HaWVReDlJRFFjVXRGY0pqSzJLalJwbXhDZkRsQTl6OVhXV0t0MThlV0RvcjBqcEdhY1lkdkNONkY3d2lid1BTYTZkR05O0gHEAUFVX3lxTE9zY2tXekhsRlB5WGcxbmZBOTRaR0tYbmZ2YTlqSGhmNkpkLU1IZEpPVWpHVEN1cTYtMjVGNnFmaGpoSXZ4NXJpaWJaelJNeDBnOGFGRkpGY2YtaUdHNXVjSmxjRUZRUWRKY01YYi1ISFZzUTVMYU9NclFHRXpDdmdKUlpaYnJXTkdBNGg1a19JSTBZYngwSDVYQU1fR3duX3BJT1lPaGVHNnExallKN2FHMl92Vm9EU01TUXZLT1VmR0dHa3c?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-22T17:08:22+00:00",
+     "summary": "ong Kong Election Committee race: \u2018healthy\u2019 contest with surprise upsets&nbsp;&nbsp;South China Morning Post",
+     "image": ""
+    },
+    {
+     "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-22T17:05:41+00:00",
+     "summary": "Schumer led Democrats to big Senate win. Now, some say they need a new leader&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Looking Back at Phillipsburg in 1961: Election Upsets, Tax Debates, and Youth Center Fun",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkNCYjNfQWdJY2NzMFR5OENqUkIwOGRBNXl6MGhUV19CTU94N1lMMkJwdkJSbkVMa3pzTEs4X0RnTDg2SFR0eE5md3lmTDdmeW83OHhfLW5kLVZkcTdQMWcyMU8zOHRucXRkOHZPMWJRaGZCYWotUnV4SVA3NEdBY2RPdHV5ODVQZHBCTW1iSHBWc3lSY1AwTnNJNjVhNVk5TEVMYVAwOHVsdUhOMUtNUTc5X29MYjhTT3Q4Q3lwR2U1VXNWcS1iU1d3WkRGUUNvd2RN?oc=5",
+     "source": "TAPinto",
+     "published": "2026-11-22T17:00:00+00:00",
+     "summary": "Looking Back at Phillipsburg in 1961: Election Upsets, Tax Debates, and Youth Center Fun&nbsp;&nbsp;TAPinto",
+     "image": ""
+    },
+    {
+     "title": "Regional jail implements new inmate mail policy",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHB0QlBVX0x6SFFpSWxIMGk3WGhKSkdNcWJJaHp5TEcxWTRvQ3lSTlM4TUh3alVlNkd2N3F4SVNFYnlqMExHbjNURXRMd0lVemRVNnBuaFNGbl9XcmsyOEV6UzNkVWZ0LXFLUHV2RFhkYkpuUjRJSkJnbkJzcnE4TUE3aFRGQnhjS2dpQURoaFVocDROQkltYks3RGdZWnF4MVc0NU45dDVkN25FM3RmZDd1VE5IcmxTT3h6UUVxRGwyVTBYYjhnUTRyMXV0emZnSVE?oc=5",
+     "source": "The Paintsville Herald",
+     "published": "2026-11-22T17:00:00+00:00",
+     "summary": "Regional jail implements new inmate mail policy&nbsp;&nbsp;The Paintsville Herald",
+     "image": ""
+    },
+    {
+     "title": "Donald Trump Discusses Contenders for 2028 Election: \u2018I Was a Little Surprised to See Kamala Harris Is Doing Pretty Well",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWp0ZjlaUlg4d0dKVVYzaUJyRmZsd3pqV2ZvbXdibDNZTWxUSTh0LUtKVm5HeFZ5cDhxQS1YVVN1RWFUdnNmWE4tVkNRd2pmcHNLcHdhMWxpbG8tQlByS2txdThuNFdaOHllLVdLMXhMcE9OQnpKbUZmczU3M2h2WkhzRHFnNkk?oc=5",
+     "source": "Yahoo Lifestyle Canada",
+     "published": "2026-11-22T16:33:00+00:00",
+     "summary": "Donald Trump Discusses Contenders for 2028 Election: \u2018I Was a Little Surprised to See Kamala Harris Is Doing Pretty Well&nbsp;&nbsp;Yahoo Lifestyle Canada",
+     "image": ""
+    },
+    {
+     "title": "California Republican Party Chair blames division for historic election losses | CA Politics 360",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGNxMi1kUG1rdzhfRkxNLTM4bHpmNFduNmdFOWFxTjZ0VlNxQzY4bEwydWU5WEV2ZWhfeXEzYkVhbWEtdi05SkNMZ3JRM09sLUZVdEMzUE8wUlNnUjB1S1pkUGd1VjBtd1dNMURobVdjWXUyNThpVGwyX3pPeVZIc0EtZEw2djBiVWlrbDlNWXZWNmJ5NXVFMThJWTI?oc=5",
      "source": "KCRA",
      "published": "2026-11-22T16:25:00+00:00",
-     "summary": "California Republican Party Chair blames division for historic election losses&nbsp;&nbsp;KCRA",
+     "summary": "California Republican Party Chair blames division for historic election losses | CA Politics 360&nbsp;&nbsp;KCRA",
      "image": ""
     },
     {
@@ -240,14 +288,6 @@
      "published": "2026-11-22T16:25:00+00:00",
      "summary": "California Politics 360 full episode | CA Republican Party chair reacts to election losses&nbsp;&nbsp;KCRA",
      "image": ""
-    },
-    {
-     "title": "Cop31 climate talks break down as key deal rejected",
-     "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-     "source": "The Guardian",
-     "published": "2026-11-22T16:14:46+00:00",
-     "summary": "EU, UK and some of developing world object to main text that \u2018failed to meet the moment\u2019 and did not mention fossil fuels\u2022 Cop31 live blog: longest climate summit ever faces collap",
-     "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=1d4e5cb91f44ed77668a8862b38fa660"
     },
     {
      "title": "Latvia\u2019s largest pro-Russian party has decided to dissolve itself after an election defeat",
@@ -266,65 +306,25 @@
      "image": ""
     },
     {
+     "title": "2026 Elections: KMT to step up nuclear referendum campaign efforts",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9naV9Hc2x2Qi1wa2J3Q1I1eWZiazVSbnV5UmJYa0ZMYjE1bV91YURHMDgzakl6cHpvTWZYdXc1anJIQWR4Q1FOM01tVUdMQkF6RVhPUEljLXJhUFZDdFBkbFRWekZ0SGt0czQ4YjdrLUdfS3RlNlotNXJ3?oc=5",
+     "source": "Taipei Times",
+     "published": "2026-11-22T16:00:00+00:00",
+     "summary": "2026 Elections: KMT to step up nuclear referendum campaign efforts&nbsp;&nbsp;Taipei Times",
+     "image": ""
+    },
+    {
      "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFlibEZ1MlFVU2N6MEFael81TEJGWFM4UWk4Yk1Ndi1GTVpKdDB3czRDQzVWYWlVWTF3MFZIMVdycTBzaUNoYndualJBeWxIN2lWWklVZGhCTUpzLU9CejR3ZDd1M1F2M1J1NjJHSDNwamZFQzhjQk1fYXdhSlFWN19VVWs1YzBGTldySl9WTVlVUmp1c1JXQkxoRnhHSlFvamh2WU4yX0k5T3prUGhDSEx3VFhNd1g5RUVlUHdLYl90LThZ0gHKAUFVX3lxTE9iYzgzbXpYWWN1cllvMUJJdTBaaTR6NU82ZFl2YURsYmpXWTFkOEZ3Tm1SX3FNQkFDcG96a0w2ZWNrVnltSy1LbTdoYnEzUE1MR2c3Qy1kTDMwbWdraWxZY3doNkNHWVhzT0ctYWc0eEItUGhBM3lzRV9yUG41OTU1R254YTluU0tNcmlhNHVyXzI3X1BGZmNnVmw4TFozdlVDc0pDeWItNWtsU1FMc3BTenA1dzNIMFA1cnNEa25sRElFcFFDY3VxRmc?oc=5",
      "source": "Fox News",
      "published": "2026-11-22T15:54:36+00:00",
      "summary": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss&nbsp;&nbsp;Fox News",
      "image": ""
-    },
-    {
-     "title": "Commentary: Fixing WA's housing crisis won't be easy, but predictable policy would help",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTFFtVTNrMURITmVTZU9CNmdiZlN6cjVycUZkSm5hSVRnSXVBNjZqMHhxcnFDeVV6b0Zoc29GSG1lODVNWENZTDJuOW1Ea0JueWxzTVJQcFNwVDhmU19IVmZFdl9ZWjB0N0d4V1JoRGR5V3BMdVdTTkc5ZG9va1Bxc05KMUFOSmo1Y1NDQkxhZUJ6WVpLNFdRUFd6RUJQcjhhNTd1UWhyeUNxR3RzNWotM0gzaWZjaFlFcWpMUg?oc=5",
-     "source": "Washington State Standard",
-     "published": "2026-11-22T15:52:28+00:00",
-     "summary": "Commentary: Fixing WA's housing crisis won't be easy, but predictable policy would help&nbsp;&nbsp;Washington State Standard",
-     "image": ""
-    },
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS05oTUMwU1VpcjJPazFsUTJXU1BDS2hjVTBwQVg0ak1qSFNtVkNrZHNUcllQcy1Id05rVk44RnZKWlFoM2xUbjZlMTZBQkFwMWU3YWJQWTlPMlJYZERrQkw4T2dsNHhvSXBHdHdwUFJKWGV6NU5YamJHQ0tWSlJ1Q0xvWTVPdkxKWVYwaGNTWTc?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-22T15:49:19+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "Flash Point: Former Gov. candidate Cyndi Munson talks about election outcomes",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3hzajV0RnRBNzNPM3FTV3Rna3AzYUxsWGFRa2FhVFkzdWlLZHI1M25RVW9NNE43N1RMSmtQNTNkRkxUcDZSTzlYcGlTcU9VYThoRkJsQUJCclBqRVhTdnhRNDlaUXphN0Q4bUVMdHlLM0JuWmNuR1UxMW1fQkpVbTlYUDNZR01GUEFnZGR4d0hvU3E4LWZj?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-22T15:15:00+00:00",
-     "summary": "Flash Point: Former Gov. candidate Cyndi Munson talks about election outcomes&nbsp;&nbsp;Yahoo",
-     "image": ""
-    },
-    {
-     "title": "Column: Election results shouldn\u2019t rewrite your financial plan",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1M2TmJsSUlIMTVDSTE5a04yN3Q0VHpkUTdtR0l2MkNsOW5DYTBhMVE5czRobHp0NGtwZ0Fwb2lwNzZDUW9ZTFYzelhleGZvYlpqY2N5NHU2cFZVMXhZQlk3dFNib3lpZkh5al9xblhxek5CN1dkTk44aktYUGdsVy1kT2duOW1IdmVYMUlIVWE1MXVtX1Jpenh6dmoxUQ?oc=5",
-     "source": "Bend Bulletin",
-     "published": "2026-11-22T15:00:18+00:00",
-     "summary": "Column: Election results shouldn\u2019t rewrite your financial plan&nbsp;&nbsp;Bend Bulletin",
-     "image": ""
-    },
-    {
-     "title": "Editorial: Housing policy by data or dart board?",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUpUNjFaNHZuRVY4V3RQdEJsT0pRRkM4Tk0zbHlrTjRITkhpS2wwNGtnNGZaaXZQdnUtOHJOTVRyeUMxUXNfOGNTVVNXc3VsSlZfZk4tN1hOMHhnTnJzQU1vZGpHQlE1NWFFSG12Rk1wNng2MnRnWjVSbHB1U1M1YldUMXV6QlJRdVhVQ2xMSEdrZ215Y2tYWkF3?oc=5",
-     "source": "OregonLive.com",
-     "published": "2026-11-22T15:00:00+00:00",
-     "summary": "Editorial: Housing policy by data or dart board?&nbsp;&nbsp;OregonLive.com",
-     "image": ""
-    },
-    {
-     "title": "An election wake-up call for people of faith",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1FsSlZPVVg5WVB4ZG5La0hkczlzSExMcVotUVpmRmNReWFFb0Z2MmZrcTFzU3V1aXAtU0lIcUxvdGNwcmkzVnFQUEo2ZDJYZ3J1c0wzSlczcVhqVGdOQkIzdk1OcXZ5aUNmUHJ3aDVlYzl5a0tXX3NvV0hkeXpVVkJJMWY3QlhiNmJXbVhxWFczUE0?oc=5",
-     "source": "Washington Examiner",
-     "published": "2026-11-22T15:00:00+00:00",
-     "summary": "An election wake-up call for people of faith&nbsp;&nbsp;Washington Examiner",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T16:55:31.711585+00:00",
+   "fetched_at": "2026-11-22T17:25:38.273527+00:00",
    "stale": false,
    "items": [
     {
