@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-22T00:53:00.441267+00:00",
+ "generated_at": "2026-11-22T01:23:04.773968+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T00:53:00.441246+00:00",
+   "fetched_at": "2026-11-22T01:23:04.773948+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018No time for a culture war\u2019: Victoria\u2019s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+     "source": "The Guardian",
+     "published": "2026-11-22T01:00:13+00:00",
+     "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plansSign up for climate and e",
+     "image": "https://i.guim.co.uk/img/media/2ba7cd3a290bb4876a32e7f44df6d629f62996df/0_0_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=22179d96566a2b070ce58d80039fc533"
+    },
     {
      "title": "Clashes erupt across France in another night of protest",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
@@ -12,6 +20,14 @@
      "published": "2026-11-22T00:37:32+00:00",
      "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
      "image": ""
+    },
+    {
+     "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+     "source": "The Guardian",
+     "published": "2026-11-22T00:26:35+00:00",
+     "summary": "Controversial figure frequently took positions against drug use, abortion and homosexuality, but in later years supported legislation expunging homosexual convictionsGet our daily ",
+     "image": "https://i.guim.co.uk/img/media/4d437bc81d1032afb812de5027b40b3c646fa358/288_0_3708_2967/master/3708.jpg?width=140&quality=85&auto=format&fit=max&s=9c46201395663fd3ff07fa9733816220"
     },
     {
      "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -100,29 +116,29 @@
      "published": "2026-11-21T22:02:03+00:00",
      "summary": "Bahrain says Iranian attack hits industrial facility",
      "image": ""
-    },
-    {
-     "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
-     "source": "NPR",
-     "published": "2026-11-21T22:01:42+00:00",
-     "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China ",
-     "image": ""
-    },
-    {
-     "title": "Highlights and challenges from covering an historic month in South America",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-     "source": "NPR",
-     "published": "2026-11-21T22:01:35+00:00",
-     "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T00:53:00.441256+00:00",
+   "fetched_at": "2026-11-22T01:23:04.773957+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFlUUWdIMzk1Skx3bndMVTZORzI4MklDejg1cWEzU01OVzRfeTczQ29UVWRCLUJQUUY2MkdsM0tWRnMyYjloandVOWc0Rk5JZUpGejF6UEFzc2E2Ykk2WWZPYW5NdWtOeldSZk1ncG0yS3hVV0hXMnU2M2tRcjFhZkxUa3dOdHI3Mk5OeThPbjBHNnBmbnRMQQ?oc=5",
+     "source": "TelegraphHerald.com",
+     "published": "2026-11-22T01:05:22+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;TelegraphHerald.com",
+     "image": ""
+    },
+    {
+     "title": "\u2018No time for a culture war\u2019: Victoria\u2019s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+     "source": "The Guardian",
+     "published": "2026-11-22T01:00:13+00:00",
+     "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plansSign up for climate and e",
+     "image": "https://i.guim.co.uk/img/media/2ba7cd3a290bb4876a32e7f44df6d629f62996df/0_0_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=22179d96566a2b070ce58d80039fc533"
+    },
     {
      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
@@ -202,29 +218,37 @@
      "published": "2026-11-21T20:56:35+00:00",
      "summary": "Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.",
      "image": ""
-    },
-    {
-     "title": "Eisenkot invites Netanyahu\u2019s party for \u2018marathon\u2019 Israeli coalition talks",
-     "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
-     "source": "\u00a9 Ilia Yefimovich, AFP",
-     "published": "2026-11-21T20:49:04+00:00",
-     "summary": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturda",
-     "image": "https://s.france24.com/media/display/70936d94-e5e9-11f1-943b-13439ca2fe89/w:1024/p:16x9/000-D6U96RP.jpg"
-    },
-    {
-     "title": "Mike Waltz Warns Russia Faces 'Unsustainable' Losses as Trump Seeks Ukraine Deal: how 6 outlets framed it",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc2c5bHp3NHlpbEhzNUNOdGo1T3pYWG9yT3NDM0J2c0JaX21RM2I2NXRJTUkxY0NuSW4xSGRoMUU1c0hmWWZKLVoycnFpZG1YOXhvVkR5WC05Zk85MWI1X0NBOHZlRE9YRU5KOVlFSDloa3BKQjRfbUhFV1Z0QXVQRjJ2eTdiNld2andvSWhpMUhsMGZuWmVROWtCcUh4X2hPRlo0NDNLeTRFdmQ0ZGNjTWZZU3c4R09NRDdoSkhMQ182c1F3TFdoVnkzR0xiMUNxR1B4bE00UWs5YTVXeVZzVjFyeUNjaHc?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-21T20:38:28+00:00",
-     "summary": "Mike Waltz Warns Russia Faces 'Unsustainable' Losses as Trump Seeks Ukraine Deal: how 6 outlets framed it&nbsp;&nbsp;NewsCord",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T00:53:00.441259+00:00",
+   "fetched_at": "2026-11-22T01:23:04.773960+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "2026 Global Tax Policy Survey",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHB1b3hCODQ4LU42ckVuQjFxY0pET0dESFdzLVN6VWpxODVfN253RmdPaHJuRFAzY2hMeE5ETTJ5aTh5UTRLY1NqRzRkTzZCU3FaXzZNdFRoZnJvM0owQ3IzWWNNN3BzR04wbk5fU0hVbWZlWEVBOFRmTVU4Ri1SRXdGQVVvTzBNWWc?oc=5",
+     "source": "Deloitte",
+     "published": "2026-11-22T01:15:58+00:00",
+     "summary": "2026 Global Tax Policy Survey&nbsp;&nbsp;Deloitte",
+     "image": ""
+    },
+    {
+     "title": "Election Committee Subsector Ordinary Elections polls open",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vLWRzaGdfN1o1RDdlWVZOM2g4cnJQb3ZjSGtLUEdjUUtZX1lmckFhemRrOTN3eEk1RXBCU3d3czdBeS1ReTFjS3lVTDVmdW14ZmlIejMteTI?oc=5",
+     "source": "chinadailyhk",
+     "published": "2026-11-22T01:09:05+00:00",
+     "summary": "Election Committee Subsector Ordinary Elections polls open&nbsp;&nbsp;chinadailyhk",
+     "image": ""
+    },
+    {
+     "title": "2026 Midterm election brings diversity to U.S. Senate",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlJOSXk2SF9XeVZJT0FYR0pwZUZlSndHb0hkMUNsdEZaOEtlZW5KY2NOb1JBUWVZTWd2a2lYUTM0c2x6ODd5bmFWR21hYk9vVk1yOHJmQXVIVWpEVzBVeEM0T1lvOUFSbGR4VWR4UHI0Y2NqQVpmNEI2NEJNSkZMSHpFaERBSlF6NjFxUWFVTWMzclVTc0l5LW9tWQ?oc=5",
+     "source": "The Eastern Echo",
+     "published": "2026-11-22T01:05:21+00:00",
+     "summary": "2026 Midterm election brings diversity to U.S. Senate&nbsp;&nbsp;The Eastern Echo",
+     "image": ""
+    },
     {
      "title": "Clashes erupt across France in another night of protest",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
@@ -296,35 +320,11 @@
      "published": "2026-11-21T23:26:35+00:00",
      "summary": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves&nbsp;&nbsp;JNS.org",
      "image": ""
-    },
-    {
-     "title": "Lawsuit challenges Nicole Mitchell\u2019s election to Woodbury City Council over felony conviction",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGZWU3Aza1hjTnF1MlB5TS11dVdHU3RkWWR6OXFyclA2aFJwTlhxLVZ5TUFUNmctMGdZMTU0U3FmZ0dnY2t3TWxmbTk2Tk14Z0RHS09yZ3lSMzJLVVp5UFlFc1g5SFdhalNKVXFoOGFPY2hIWUgxMzZsN2JuU1hKNElxUWY2dUFLYWxTeTBBbmJYWEhqaG1xelpqd1NTWDNybFh6LVFJajhIZWg0VEZzb0haRWUySHpaTTlvUkZ4ODFEMGN5eU5DWHprazE?oc=5",
-     "source": "Valley News Live",
-     "published": "2026-11-21T23:20:00+00:00",
-     "summary": "Lawsuit challenges Nicole Mitchell\u2019s election to Woodbury City Council over felony conviction&nbsp;&nbsp;Valley News Live",
-     "image": ""
-    },
-    {
-     "title": "EU-Indonesia agreement sees the light after ten years of negotiations",
-     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
-     "source": "France 24",
-     "published": "2026-11-21T22:23:03+00:00",
-     "summary": "The European Union and Indonesia have signed a major trade deal, ten years after talks began.The agreement removes almost all tariffs between the EU and Southeast Asia's biggest ec",
-     "image": "https://s.france24.com/media/display/ea9d9328-e5f6-11f1-b921-1bac47ab2f5d/w:1024/p:16x9/capture-a5f225a1.jpg"
-    },
-    {
-     "title": "Hubbard leads Foxx by 330 votes after recount",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQSkx2b3RuelJFeWNtM0R2d09wX0FBWFRlS0kwdFAwQVNVSU5MM3hZSXBISDlhMlJVRFkyc25oYVlFeGtwODdXWTdseTBzYUY1MmdTRFhmaEJSSzRIMWdWRWxjV3lSSjNtLXZUTU1LR0RCaGRfZFhocjJzRmpnd9IBgwFBVV95cUxQU3JpMzJoYWNIRDhxSTZnaGROdV91T3R3cDJkamJOM1FhME94Ty1yTW5tbnZfak8xczZrb3F0S0JJYUlIaHFtWVZnUDBqaTZ6R1VKRXBpVk5uem1kVFRXSmJlYW1DdjlMbU5vbzJHVGlvNmx0RzJiU2k1dUZnZmhEUmZ3SQ?oc=5",
-     "source": "The Hill",
-     "published": "2026-11-21T22:23:00+00:00",
-     "summary": "Hubbard leads Foxx by 330 votes after recount&nbsp;&nbsp;The Hill",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T00:53:00.441261+00:00",
+   "fetched_at": "2026-11-22T01:23:04.773961+00:00",
    "stale": false,
    "items": [
     {
