@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-22T15:25:21.250122+00:00",
+ "generated_at": "2026-11-22T15:55:24.660592+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T15:25:21.250091+00:00",
+   "fetched_at": "2026-11-22T15:55:24.660562+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T15:50:13+00:00",
+     "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+     "title": "UK taxpayer funds held in offshore tax havens top \u00a31tn, latest HMRC data shows",
+     "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+     "source": "The Guardian",
+     "published": "2026-11-22T15:43:01+00:00",
+     "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama raising fears over cost to public purseThe amount of money UK taxpayers hold in offshore a",
+     "image": "https://i.guim.co.uk/img/media/800ce1d542712fe94a187f06f577b17799e2d1b6/15_0_1992_1594/master/1992.jpg?width=140&quality=85&auto=format&fit=max&s=42d9878af737cf615138f416d95f283b"
+    },
+    {
+     "title": "Can we build a more ethical AI future?",
+     "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T15:30:09+00:00",
+     "summary": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI&#039;s risks and the fight for ethical technology.",
+     "image": ""
+    },
+    {
+     "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T15:24:20+00:00",
+     "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
+     "image": ""
+    },
+    {
+     "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+     "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+     "source": "The Guardian",
+     "published": "2026-11-22T15:22:38+00:00",
+     "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villa",
+     "image": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e"
+    },
     {
      "title": "Rivals author Jilly Cooper accused of \u2018extensive and deliberate plagiarism\u2019",
      "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
@@ -76,53 +116,69 @@
      "published": "2026-11-22T14:20:41+00:00",
      "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
      "image": ""
-    },
-    {
-     "title": "\"It can take years\": Why the AI Riemann proof is far from settled",
-     "url": "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
-     "source": "France 24",
-     "published": "2026-11-22T14:18:55+00:00",
-     "summary": "AI claimed another major scalp in maths on Friday, as Anthropic mathematician Levent Alp\u00f6ge published what he says is a proof of the Riemann hypothesis, a Millennium Prize Problem,",
-     "image": "https://s.france24.com/media/display/fbac99c6-e67c-11f1-91ce-1bac47ab2f5d/w:1024/p:16x9/EN-TECH24-22-11-26-2027-ep-17-PAD.png"
-    },
-    {
-     "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
-     "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:08:28+00:00",
-     "summary": "A global manhunt for one of the internet&#039;s earliest paedophile rings. How did police finally bring it down?",
-     "image": ""
-    },
-    {
-     "title": "Three killed and dozens missing after fire at Indonesian factory",
-     "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-22T14:05:20+00:00",
-     "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"
-    },
-    {
-     "title": "Experts say \u2018trusted messengers\u2019 critical as Amish grapple with measles outbreak",
-     "url": "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
-     "source": "The Guardian",
-     "published": "2026-11-22T14:00:33+00:00",
-     "summary": "Unfolding crisis shows importance of \u2018human connections\u2019 over the long term \u2013 especially in under-vaccinated areasTristan Sharratt, a family nurse practitioner and public health re",
-     "image": "https://i.guim.co.uk/img/media/75572d989e49430c572626c68c8e4da3241921a3/148_0_3062_2449/master/3062.jpg?width=140&quality=85&auto=format&fit=max&s=2f6e3b6b8fbac726388705e11e4a10d0"
-    },
-    {
-     "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
-     "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
-     "source": "The Guardian",
-     "published": "2026-11-22T14:00:32+00:00",
-     "summary": "One serial sweary offender, Jacqui Lambie, says it wouldn\u2019t be an Australian parliament \u2018without a few swear words thrown in\u2019Want to get more charts in your inbox every fortnight? ",
-     "image": "https://i.guim.co.uk/img/media/860035954a0b9c0b36cc1940847a636d22b7ddc6/469_23_2608_2087/master/2608.jpg?width=140&quality=85&auto=format&fit=max&s=779f48ff3600bb392de8a2ce3c64b481"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T15:25:21.250105+00:00",
+   "fetched_at": "2026-11-22T15:55:24.660576+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T15:50:13+00:00",
+     "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+     "title": "Trump Prioritizes Ukraine Peace, Postpones Iran Deal Amid Political Pressures",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGctYTFBTWk1d3FOUGpJbUlOMHpreThQWThJRmZ5Sm1qMEF0cTFVcWxyeHFXQ0ZMT2tuQnQ0SURBZ1BIa3dWeDlNWjYxcHlDS3c0c01FRXY5dXR4bWtWX3hQMHNiQTQwUW55TV85ZFVLU21KNGdMX00xeGdSaWhaVWtVN0g?oc=5",
+     "source": "\uc870\uc120\uc77c\ubcf4",
+     "published": "2026-11-22T15:47:54+00:00",
+     "summary": "Trump Prioritizes Ukraine Peace, Postpones Iran Deal Amid Political Pressures&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
+     "image": ""
+    },
+    {
+     "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+     "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+     "source": "The Guardian",
+     "published": "2026-11-22T15:22:38+00:00",
+     "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villa",
+     "image": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e"
+    },
+    {
+     "title": "The Russian POW Camp Where Sex Abuse Became Part of the System",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUFIWDN5aGMwZVlveC05RHRTc2ZkTExGTHZ6eXpGVWJDeGJXUmR5VlV6d1l4MzE5VGdrVERWUmZzVUU1dWRqaklFRUxvd2xOSHY4SVJydGtsbzJVbVdWNm52d3kzcmMwQ1p0UTNrYnhXSi1uREtNeEZoSndwZWNHUHdGMVdIMmVKaUVxbVliRGNDTl8wT2Z0OGVnR0RlQ29BVGJCVVduQQ?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-22T15:22:17+00:00",
+     "summary": "The Russian POW Camp Where Sex Abuse Became Part of the System&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
+     "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-22T15:19:59+00:00",
+     "summary": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
+     "title": "APTOPIX Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2ZFLVE1Zm1XOXZVWGhwX0wzMGp1NmhzR0hYUEQ5dkF2LWpjMko4TlJST2hxeXpDdmU3R0dYcU1Uc1pLb1FsWnhxX1pTdVp4NzFaenhnTDhoTHFnLUtkdmg1cXpJNGRmM0Y4WEtHRThSYUIxeWRhSEhKaV9KdTczQWkwRHpzdlZmNXRLbjgycUZvS1FXaTJXd0lwSHoxN0hOek1yMWlseHI3Si1zQ0pvb0ltYUpCNEtrSnE5WG9hRkVkUzdTUHlMYzVQYw?oc=5",
+     "source": "Daily News-Record",
+     "published": "2026-11-22T15:17:58+00:00",
+     "summary": "APTOPIX Russia Ukraine War&nbsp;&nbsp;Daily News-Record",
+     "image": ""
+    },
+    {
+     "title": "Kyiv's restaurant owners brace for tough winter as war pressures mount",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk9Cek1qUUR2b1hOU1JxOHRoQ09ZQ2YzX2RMTkRlNTZmWGluXzZCb2l5SzAyQV8yUm5icGxHVmhCajBESWdpc1pDdTBiVHhObEdfaFpZSzNTWUdVRnJHRTNFZ2MzYVlHNnNRSDFWX1BnZ2RJbUczY2MwZG1IN05xZVRXelJoNkVGWlRkTTAtbDNGcFFDcTdORkZNZXFFcW50NjdCaGlPcw?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-22T15:14:44+00:00",
+     "summary": "Kyiv's restaurant owners brace for tough winter as war pressures mount&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "Drone attacks kill four near Sudan\u2019s capital, damage UN building",
      "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
@@ -162,69 +218,37 @@
      "published": "2026-11-22T14:20:41+00:00",
      "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
      "image": ""
-    },
-    {
-     "title": "As the Kerch Bridge goes down, the Ukraine War clock is ticking",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0F4UEIxTlFNaUh4Qi1DaVRXQklPWkxKTVNLY1ZMaDdWQWFaWFlDSGMxWERUV2E5UktCMHVLTFVNSndoMFk5eGdlQnpfMmZDdHcwVExJYmEtZ2RjSFZsM1lKRVA5V29Bamo0NjlVUXpsWHBOOHZSczFJOVRZX3NRVVJ5ZDBSRTBNTmRZc2JnOUR1bHJ3MThtLQ?oc=5",
-     "source": "Asia Times",
-     "published": "2026-11-22T14:18:01+00:00",
-     "summary": "As the Kerch Bridge goes down, the Ukraine War clock is ticking&nbsp;&nbsp;Asia Times",
-     "image": ""
-    },
-    {
-     "title": "Ukrainian Mirage 2000 Fighter Shoots Down Russian Jet-Powered Drone With 30mm Cannon",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmNfeF82M2VWb0ExeVRVRm00UWhtd0JFOHRneG5qam5PTExGQ3NpZ1JodFJPQ1VzYUw1Mno3X0pDd1M5YThqaXpzU29JS3E0dnJpVzBrTUozeVQ3Y05NWmRhLXBvR2lHOXJFcGszN2oxQnBZcnUzX3NOUl9YTlM0cHAwMmhYTlNERFcyWTdfVUtKSXd3azdDYjVqV0NqNS1wT21ZTEtXazd6X3ZxbGd6N0RKc0FmOW02bU9ET2xfMWFqanZiRTQxellvdw?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-22T13:47:45+00:00",
-     "summary": "Ukrainian Mirage 2000 Fighter Shoots Down Russian Jet-Powered Drone With 30mm Cannon&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Israel investigates West Bank fires",
-     "url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
-     "source": "France 24",
-     "published": "2026-11-22T13:47:04+00:00",
-     "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks lo",
-     "image": "https://s.france24.com/media/display/f8b8c1ac-e679-11f1-8017-1bac47ab2f5d/w:1024/p:16x9/EN-20261122-140613-140959-CS.jpg"
-    },
-    {
-     "title": "Estonia links drone strike on Russian cargo ship to Moscow\u2019s war in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjFXc3ZXbE1wLWlrZi1jU09Mc1FLZXZBLWxrSUZ0cVE0SzVyWHVweTdQdGEtd2NkOFJ0TThjaFZiQ2ZLeGh1U3VBX19saUUwak9Ga25aV3dyeHVUcGJzazRRTVUxQ0U2SWFMVVoyNmNKSEhzUlJHRlZpbFBXYjM5a21xcl8xc2lwLTRIVEFIYTdhczVXQzBfajktenlGTG5aeGRrOWJubllVLWdERHVvT0ZJNGM5dw?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-22T13:32:45+00:00",
-     "summary": "Estonia links drone strike on Russian cargo ship to Moscow\u2019s war in Ukraine&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 8",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdGhWLTZTampDaVNWUGNpVC1tTzF5Q3cxdWo1ZWhOYzJxc1Zfc1U3WTA0bmNCZGlnMVdHRkRITVRvVDNyZldQQUlJaUpfcnNFMUxkY1doOUNqTkxMcll0YzAxUGVMVXRYMjc5OVpxbjQ3amloakRVWjM0akl6WlFpNGx0Ul9aSC1zQVNxMmx0dlpGaEM5ZDJ4dno2SWFjd0RnUV9SS011MVdEWm1iclY1NUgyTW02cGNub2xnZXBNaWxfM1QzdGd5X29Sdy1KSnNYQWhMa01nNlpGeTBIM3N1Nk1lNWI5S1lNLVFJTWo0SmdlY25GMjRGTmZHbUEybVVP?oc=5",
-     "source": "KTVN",
-     "published": "2026-11-22T13:21:24+00:00",
-     "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 8&nbsp;&nbsp;KTVN",
-     "image": ""
-    },
-    {
-     "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-     "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T13:16:45+00:00",
-     "summary": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
-     "image": ""
-    },
-    {
-     "title": "Russia-Ukraine war spills into Baltic Sea as stricken Russian cargo ship drifts into Finnish waters",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXRwWTBnUTFxbElPTjF0UV9JLWhIUTFfZmlhdC1MRERXbDZXMDRGaUlwc2dESThVcG8tYmtpcjlOSE95UmJOWjJUaGFhVzA2VlNvaVBDUDVBLXhfOVNtZlV0RVZENVlHWVU2a0lfNU5YNTNDc1hsaHRWb1RKMmlPbkhjdUZ1N2xYVlFISFFDZzFLN3MtQml4cjhOTkJ5SWtvZTBVRXNpWFpGWnl4VEpYTlNiMHlJdDZBSmRtWTB5N3RwT1N1?oc=5",
-     "source": "\u8054\u5408\u65e9\u62a5",
-     "published": "2026-11-22T13:15:56+00:00",
-     "summary": "Russia-Ukraine war spills into Baltic Sea as stricken Russian cargo ship drifts into Finnish waters&nbsp;&nbsp;\u8054\u5408\u65e9\u62a5",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T15:25:21.250109+00:00",
+   "fetched_at": "2026-11-22T15:55:24.660580+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Commentary: Fixing WA's housing crisis won't be easy, but predictable policy would help",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTFFtVTNrMURITmVTZU9CNmdiZlN6cjVycUZkSm5hSVRnSXVBNjZqMHhxcnFDeVV6b0Zoc29GSG1lODVNWENZTDJuOW1Ea0JueWxzTVJQcFNwVDhmU19IVmZFdl9ZWjB0N0d4V1JoRGR5V3BMdVdTTkc5ZG9va1Bxc05KMUFOSmo1Y1NDQkxhZUJ6WVpLNFdRUFd6RUJQcjhhNTd1UWhyeUNxR3RzNWotM0gzaWZjaFlFcWpMUg?oc=5",
+     "source": "Washington State Standard",
+     "published": "2026-11-22T15:52:36+00:00",
+     "summary": "Commentary: Fixing WA's housing crisis won't be easy, but predictable policy would help&nbsp;&nbsp;Washington State Standard",
+     "image": ""
+    },
+    {
+     "title": "Israeli politics: Eisenkot's Yashar, Netanyahu's Likud hold 'marathon of talks'",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83Ymd1c0t2dzh0NEZ0d3FaQTBBSTVBVlk1cWRJc0dlOE1nWndsSGVVNEdLOVkyTHFSa0lja05DaTljaUtnQWZPWmN1MTYzUXBZNGtnYmdlSjYyWXp3WVpZd0IwMDRIZFR1RXZ5Mmd4bUUtSnhHSHloSWhfdw?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-22T15:50:12+00:00",
+     "summary": "Israeli politics: Eisenkot's Yashar, Netanyahu's Likud hold 'marathon of talks'&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "Flash Point: Former Gov. candidate Cyndi Munson talks about election outcomes",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3hzajV0RnRBNzNPM3FTV3Rna3AzYUxsWGFRa2FhVFkzdWlLZHI1M25RVW9NNE43N1RMSmtQNTNkRkxUcDZSTzlYcGlTcU9VYThoRkJsQUJCclBqRVhTdnhRNDlaUXphN0Q4bUVMdHlLM0JuWmNuR1UxMW1fQkpVbTlYUDNZR01GUEFnZGR4d0hvU3E4LWZj?oc=5",
+     "source": "Yahoo",
+     "published": "2026-11-22T15:15:00+00:00",
+     "summary": "Flash Point: Former Gov. candidate Cyndi Munson talks about election outcomes&nbsp;&nbsp;Yahoo",
+     "image": ""
+    },
     {
      "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS05oTUMwU1VpcjJPazFsUTJXU1BDS2hjVTBwQVg0ak1qSFNtVkNrZHNUcllQcy1Id05rVk44RnZKWlFoM2xUbjZlMTZBQkFwMWU3YWJQWTlPMlJYZERrQkw4T2dsNHhvSXBHdHdwUFJKWGV6NU5YamJHQ0tWSlJ1Q0xvWTVPdkxKWVYwaGNTWTc?oc=5",
@@ -296,35 +320,11 @@
      "published": "2026-11-22T14:10:00+00:00",
      "summary": "Behind the scenes of Maura Healey's successful re-election bid for Massachusetts governor&nbsp;&nbsp;CBS News",
      "image": ""
-    },
-    {
-     "title": "Victoria faced devastating bushfires and an \u2018extinction emergency\u2019 this year. So why is nature missing from the election?",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEMzSVFGemFka3F5UVg0NXdOU0pLSGwyQy1EUVF0SDZkbU9aTDIwWS1BRmc4eDgyeHhrUnlrcFhkOGZsX0lEcmVTbUhnbXJsdEZCRzl6aFg2dzNYVkRCN3NFcy10cjJVcVp0Y1RBYXQ1VGM2MS15bDc5NUFDUDFfMWdYaUptUjFwZ0M4dWpYcHItVWN0b2tHYjFIb1gzMWJrUm00cldnMjFVbWRlZURJV240YjYzSHY5aEUzN2ZXSQ?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-22T14:02:00+00:00",
-     "summary": "Victoria faced devastating bushfires and an \u2018extinction emergency\u2019 this year. So why is nature missing from the election?&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Spain\u2019s snap election was a huge political gamble. Has Pedro Sanchez opened the door for the far-right?",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkY4d3k0ZzIwb1lBS3lEdThsQVIzNzFkeTRmV3ZZbE5CdUVtS3ZMOU5TTE1aaklmYTBGeFhkMkVLcUFSMTFzelRNSGw5NTN5YnFFMlNYS190a2lwZmJ4TnMxb0c0ak5QeTlzREw1azNvNEtEd3p1NGxKMmdpQU9iT0RUV0NueHpJRU50WmlSeC00MjBsMFU2bG5BRl95Vl95dHpBd3BZZw?oc=5",
-     "source": "The Independent",
-     "published": "2026-11-22T14:01:00+00:00",
-     "summary": "Spain\u2019s snap election was a huge political gamble. Has Pedro Sanchez opened the door for the far-right?&nbsp;&nbsp;The Independent",
-     "image": ""
-    },
-    {
-     "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
-     "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
-     "source": "The Guardian",
-     "published": "2026-11-22T14:00:32+00:00",
-     "summary": "One serial sweary offender, Jacqui Lambie, says it wouldn\u2019t be an Australian parliament \u2018without a few swear words thrown in\u2019Want to get more charts in your inbox every fortnight? ",
-     "image": "https://i.guim.co.uk/img/media/860035954a0b9c0b36cc1940847a636d22b7ddc6/469_23_2608_2087/master/2608.jpg?width=140&quality=85&auto=format&fit=max&s=779f48ff3600bb392de8a2ce3c64b481"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T15:25:21.250112+00:00",
+   "fetched_at": "2026-11-22T15:55:24.660583+00:00",
    "stale": false,
    "items": [
     {
