@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-22T16:25:28.405801+00:00",
+ "generated_at": "2026-11-22T16:55:31.711594+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T16:25:28.405769+00:00",
+   "fetched_at": "2026-11-22T16:55:31.711562+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018Disappointing\u2019: Delegates react after COP31 climate talks end without deal",
+     "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T16:33:26+00:00",
+     "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
+     "image": ""
+    },
+    {
+     "title": "Cop31 climate talks break down as key deal rejected",
+     "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+     "source": "The Guardian",
+     "published": "2026-11-22T16:14:46+00:00",
+     "summary": "EU, UK and some of developing world object to main text that \u2018failed to meet the moment\u2019 and did not mention fossil fuels\u2022 Cop31 live blog: longest climate summit ever faces collap",
+     "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=1d4e5cb91f44ed77668a8862b38fa660"
+    },
+    {
+     "title": "Theresa May\u2019s blast from the past calls Tories back to their unhappy place | Peter Walker",
+     "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+     "source": "The Guardian",
+     "published": "2026-11-22T16:12:54+00:00",
+     "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am o",
+     "image": "https://i.guim.co.uk/img/media/323290cab4a059e743deb4e7ae0928f6d847b2af/681_32_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=0a1ed77ba3ac8b171cc11d740c1db702"
+    },
     {
      "title": "Canada\u2019s PM appears next to Trump impersonator at press dinner",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
@@ -18,8 +42,8 @@
      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-22T16:05:25+00:00",
-     "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg"
+     "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg"
     },
     {
      "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
@@ -54,7 +78,7 @@
      "image": ""
     },
     {
-     "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+     "title": "Netanyahu rival condemns \u2018Jewish terrorism\u2019 after settler attacks on Palestinian villages",
      "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
      "source": "The Guardian",
      "published": "2026-11-22T15:22:38+00:00",
@@ -86,49 +110,25 @@
      "image": ""
     },
     {
-     "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+     "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 5 in Ukraine",
      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-22T14:48:50+00:00",
-     "summary": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
-     "image": ""
-    },
-    {
-     "title": "Why Bangladesh descended into violence ahead of Hasina\u2019s planned return",
-     "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:35:55+00:00",
-     "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
-     "image": ""
-    },
-    {
-     "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
-     "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:33:26+00:00",
-     "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
-     "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:30:27+00:00",
-     "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+     "summary": "Two Russian attacks kill at least four people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
      "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T16:25:28.405785+00:00",
+   "fetched_at": "2026-11-22T16:55:31.711578+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcTFDT2xUcF9aU1ZYQ00yUE1Zek5RX1FlTVpGQ3dZQnN0ZEQzRGNVNjNMclBsSkRWd2pPc2pKZWM0QThwZ1RQRDNzRUZ1ckpsNGh3QXdiVTk2c1JuRXBORTNyb2pRMHVKSmx3cUJIZGZUWW5SQ2JwWU9QeTZ0LWlMcU5lTVp6RmFUZFFWazRSQkd6QmhtVkxXdVNvOVJWTjU3ejVKRDUxYkVaaWhQV0xEaVZicXh0ZTUwZENjS1ozTWNYZVdwUTdXMFBhWVhEY2F0ZVVubmFEMGZuRHN0MzdDeWF1X0FfN2M1RWw0V1Q4cFFlTGtJVzRDdkJKVkRrMFoy?oc=5",
+     "title": "Russian attack near Ukraine's capital strikes apartment building, killing 3 and burying others",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZDFweXZqbjNvOVNfT3RzUWt5N2ZOcDZ3cE9oUE1iWEpZTUo2YncyRm1SQkZ2MXcwNk9WY29FdHRIbmo5cnNqR0QxMFFMdEZiQVE5U2RibmlCTVdXMm1XRVF6X2g5aEVrX241d29Bel91V0M1YXgxR19ibGpLM2k1ck5qckRQMzQ2S3R1d3l3TGwyaUdRcHZmb2dRNDVvWVRxYjl6bi0xdXUyblpZMXVJNU1zajQxOThnelF3WXFfeUNpaVYxMW8yTjJhWF9kLTdyMVFDeEJha3hSbXBLanU2b1FzWTg5OExBNExzQWJHV3FodlB3Z0tPVUMwQU5idEdmeWk4WXNn?oc=5",
      "source": "KTVN",
-     "published": "2026-11-22T16:18:25+00:00",
-     "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4&nbsp;&nbsp;KTVN",
+     "published": "2026-11-22T16:42:03+00:00",
+     "summary": "Russian attack near Ukraine's capital strikes apartment building, killing 3 and burying others&nbsp;&nbsp;KTVN",
      "image": ""
     },
     {
@@ -152,8 +152,8 @@
      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-22T16:05:25+00:00",
-     "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg"
+     "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg"
     },
     {
      "title": "Trump Prioritizes Ukraine Peace, Postpones Iran Deal Amid Political Pressures",
@@ -172,20 +172,12 @@
      "image": ""
     },
     {
-     "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+     "title": "Netanyahu rival condemns \u2018Jewish terrorism\u2019 after settler attacks on Palestinian villages",
      "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
      "source": "The Guardian",
      "published": "2026-11-22T15:22:38+00:00",
      "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villa",
      "image": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e"
-    },
-    {
-     "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-22T15:18:44+00:00",
-     "summary": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling&nbsp;&nbsp;WSJ",
-     "image": ""
     },
     {
      "title": "APTOPIX Russia Ukraine War",
@@ -218,13 +210,53 @@
      "published": "2026-11-22T14:54:58+00:00",
      "summary": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine&nbsp;&nbsp;Al Jazeera",
      "image": ""
+    },
+    {
+     "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T14:30:27+00:00",
+     "summary": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T16:25:28.405790+00:00",
+   "fetched_at": "2026-11-22T16:55:31.711582+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "California Republican Party Chair blames division for historic election losses",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGNxMi1kUG1rdzhfRkxNLTM4bHpmNFduNmdFOWFxTjZ0VlNxQzY4bEwydWU5WEV2ZWhfeXEzYkVhbWEtdi05SkNMZ3JRM09sLUZVdEMzUE8wUlNnUjB1S1pkUGd1VjBtd1dNMURobVdjWXUyNThpVGwyX3pPeVZIc0EtZEw2djBiVWlrbDlNWXZWNmJ5NXVFMThJWTI?oc=5",
+     "source": "KCRA",
+     "published": "2026-11-22T16:25:00+00:00",
+     "summary": "California Republican Party Chair blames division for historic election losses&nbsp;&nbsp;KCRA",
+     "image": ""
+    },
+    {
+     "title": "California Politics 360 full episode | CA Republican Party chair reacts to election losses",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTBhSnBNYUd2SVNuY3VuUnNlaDlYNDQ2OWU5TlRGZlhlYW01MDA5YzY0UzAyM0JmNXBmTGdpZ3F0RmxPQUNZNlpWb09URjlPZXNseEtUM3lTcHo3bzRka1JGaXpSLUdRYlVUYzJRaUwxUjVjeVI2eXdReWRVZ2p3NzhIa2ZGOGhsUThkdTlaVQ?oc=5",
+     "source": "KCRA",
+     "published": "2026-11-22T16:25:00+00:00",
+     "summary": "California Politics 360 full episode | CA Republican Party chair reacts to election losses&nbsp;&nbsp;KCRA",
+     "image": ""
+    },
+    {
+     "title": "Cop31 climate talks break down as key deal rejected",
+     "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+     "source": "The Guardian",
+     "published": "2026-11-22T16:14:46+00:00",
+     "summary": "EU, UK and some of developing world object to main text that \u2018failed to meet the moment\u2019 and did not mention fossil fuels\u2022 Cop31 live blog: longest climate summit ever faces collap",
+     "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=1d4e5cb91f44ed77668a8862b38fa660"
+    },
+    {
+     "title": "Latvia\u2019s largest pro-Russian party has decided to dissolve itself after an election defeat",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLS1mbV8yM2VxU182NW9naTdLZkRjR0pZdnUxZmN6eVJsdXNTTHpwRWVmRWxvdnRWd3UxbnBvOXR0VUR3M1lSZ1B2c19vUjJ6M3paVTJ1X0FqdjFFSG80MWtvVXgxakpRc0tfbkw4RUViZmVxN08zU1dMdUNQU21nNWR4cjZvWlByYWIxa1VRdGpINGs2aHo1cWJzSEVWb0lYcFZuM1ZkT1ctcV9ubFhnYVRB0gGwAUFVX3lxTFAyTFJmMDF3Q1J0SlVGY29jUngxbkdxWHE0TFEta1ZZVWluUm5yLVFjbVN1Y1dIVWlYUXlxOEtwemhvWnotMEJEMDFGWk1lbF94UnJldmthM2RvMlVOWUZ0eG9tNF94MlA0UkpEMUh5UFBfNThUVHhnQi1xeWpWZ1Z3c3QtcThlUmxjR2NndF9oeURsMmo5V3gyNUF4YjlqbmNYeExwX04tN0pzck8yeUNu?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "published": "2026-11-22T16:10:45+00:00",
+     "summary": "Latvia\u2019s largest pro-Russian party has decided to dissolve itself after an election defeat&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "image": ""
+    },
     {
      "title": "Parsing out 2026 election results",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjRqMXRWcmFHbkJoNUp6YW1RMldNSTVHYzZhcU5INjZkSlRaU3ZZM25TM0RKb0FnY01ldHBHc0tadmNkRDFRMzVTeUNKaGx5NEQxb09WdlRLUUFVajNnUTRDT3ZqRFZCRkJOTGZlTjlOWWJ0OElweW5UeDJWcXhRM21lbmUwRDl1MWlWS1dkVFlnQmk3TGpLVjMtUnlwTll4ZzlvZ3p0OGlxQlV3c0hUNHdJUE96ZS0xVTZ6SGVvcnlUYXJSUXB3dG81c1BjZw?oc=5",
@@ -247,14 +279,6 @@
      "source": "Washington State Standard",
      "published": "2026-11-22T15:52:28+00:00",
      "summary": "Commentary: Fixing WA's housing crisis won't be easy, but predictable policy would help&nbsp;&nbsp;Washington State Standard",
-     "image": ""
-    },
-    {
-     "title": "Israeli politics: Eisenkot's Yashar, Netanyahu's Likud hold 'marathon of talks'",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83Ymd1c0t2dzh0NEZ0d3FaQTBBSTVBVlk1cWRJc0dlOE1nWndsSGVVNEdLOVkyTHFSa0lja05DaTljaUtnQWZPWmN1MTYzUXBZNGtnYmdlSjYyWXp3WVpZd0IwMDRIZFR1RXZ5Mmd4bUUtSnhHSHloSWhfdw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-22T15:50:12+00:00",
-     "summary": "Israeli politics: Eisenkot's Yashar, Netanyahu's Likud hold 'marathon of talks'&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     },
     {
@@ -296,35 +320,11 @@
      "published": "2026-11-22T15:00:00+00:00",
      "summary": "An election wake-up call for people of faith&nbsp;&nbsp;Washington Examiner",
      "image": ""
-    },
-    {
-     "title": "Hancock Co. sheriff candidate Tommy Bethea outlines priorities ahead of runoff election",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY01uRzBLX1l6eUJscDdIZGwtcG1yR3VkalJsREVSeDQyWjFnQ01STEVFdDNuYmdzWWw4WmpJTXkyR19KbjFJTUUwRlpqdS1RWTFfMndtdWlGVm41UDJTTGxrS0ZHaUh5ajZYWHEwem5JeF9SMUtGQzgwRFo5Umc2UFRmR0JYZS1iZnBxQk00UVJYNkxkZ29jUkd0Mnh5d05DVjg3R3d5alZ0aE1oWWhITTRaYUV6M2pvRkV0RFFXRQ?oc=5",
-     "source": "KBTX News 3",
-     "published": "2026-11-22T14:51:00+00:00",
-     "summary": "Hancock Co. sheriff candidate Tommy Bethea outlines priorities ahead of runoff election&nbsp;&nbsp;KBTX News 3",
-     "image": ""
-    },
-    {
-     "title": "Will Sen. John Fetterman run for re-election in 2028 \u2014 or call it quits?",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFVnczBsODc3YUxYZ09HUEpMUlZnRHI5Rm5fdDlFOVdSZGFxck9tN09wRUh1R1hHckx0TkRTMnYxREltbU1MY1E1MURyTkN3UkVXZzA4WHdhZGJURlZNcW5SSzRFRkVpUW9keWdPZV9HYmFwLXdNQjFxSzQwaXV3MmZESU1mLUxkTDhBMFBYMG9WWjZacFlTeHpFdERuN09mUFUzZUhVVzNSUmthTWhLSHN0ank?oc=5",
-     "source": "CNN",
-     "published": "2026-11-22T14:40:41+00:00",
-     "summary": "Will Sen. John Fetterman run for re-election in 2028 \u2014 or call it quits?&nbsp;&nbsp;CNN",
-     "image": ""
-    },
-    {
-     "title": "Why Bangladesh descended into violence ahead of Hasina\u2019s planned return",
-     "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T14:35:55+00:00",
-     "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T16:25:28.405792+00:00",
+   "fetched_at": "2026-11-22T16:55:31.711585+00:00",
    "stale": false,
    "items": [
     {
