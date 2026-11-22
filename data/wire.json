@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-22T03:53:38.435464+00:00",
+ "generated_at": "2026-11-22T04:23:41.900588+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T03:53:38.435418+00:00",
+   "fetched_at": "2026-11-22T04:23:41.900558+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Eleven killed in burst of violence during Mexican cartel leader\u2019s capture",
+     "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T03:34:02+00:00",
+     "summary": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
+     "image": ""
+    },
     {
      "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
      "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
@@ -108,19 +116,11 @@
      "published": "2026-11-22T00:09:58+00:00",
      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg"
-    },
-    {
-     "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-21T23:59:03+00:00",
-     "summary": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T03:53:38.435432+00:00",
+   "fetched_at": "2026-11-22T04:23:41.900573+00:00",
    "stale": false,
    "items": [
     {
@@ -222,9 +222,33 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T03:53:38.435435+00:00",
+   "fetched_at": "2026-11-22T04:23:41.900577+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "The Georgia Vote | Post-election fallout continues (11/22/26)",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkxGejhHaW0teFFHQmRXTXdGZGF3cjVnbkdRclJrdDNxbUNsejN0MGotOFVTc0Z5Z2hYNGxOUHRXZ1prTkF4QW02ZmJYU1hFV0dSeV9XMWdlMmJkQWwwVTdaMWQtTURQOTNxT1cyaE95M2FHaXp3ajFpNVNkUkI0S1d2XzhRMlhybVlHOWhxZE9XWElDNWFoWTVBaE16SldXLVRCT2NPb0FfaDdVQU54a2xMZG5jWFpnaGRYaTJaeE1TUQ?oc=5",
+     "source": "11Alive.com",
+     "published": "2026-11-22T04:10:00+00:00",
+     "summary": "The Georgia Vote | Post-election fallout continues (11/22/26)&nbsp;&nbsp;11Alive.com",
+     "image": ""
+    },
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SREMyaXVNUTJkcWFyTzlXM3g2eE1BQlFIM2VWSEk2VGlCV25yYlVPUHQzeDkzdE95X3BxV0Y0M3FxQ1Q4OU90WGRDNjFhM2h0LW00N191R3BFS0t5WlFVTjdHY2ZPRzQwZG5QbzBhdXVCQQ?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-22T04:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "Jeffries says he\u2019ll push sanctions on violent settlers, discuss restricting arms sales",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd19SZFZQUUJSR2VBZHlSSVkzWG9WaGJrVUZxYjhBUTRtM2Z1NEEyZ1JrQ2FmOF9fQXA3RGRrdzdQZ0RPVVBqQVdJdjU4cjFndk5USkh4QmJKNE1iSUdCX0VvR3dSR1FEVFdqb0JlWWhHXzllUnBORHNURGtjSjl4ZlpKbXZPOGhlTlJlemltT0pjTkhxcnJaZlZoTFBlaFBseG83RWNZaDN4LVZlTENON1JNUUNCUdIBuwFBVV95cUxOUUU2MktWaUpXalFhaUVOU1FxQnRJLU9OU2QxRUh2Q1NOVVBTX3hLRUprZTVlMWpiNGpwUGN1R3RPTWt6WTc3Y05WeDlSbmRxRVFaU0pSWUN0T1JESjlyUjRXNXFtb2RfTWlNaFFnU2tlRW93YU9UbzZNWWZqRkN3R3B5U0tpTTdUWFZ2QUg0V3ZTS1JXenpFbU14QWUzM3dMSk95c0hVbEYxMGNOb1JvcEdtNkNtTThVblow?oc=5",
+     "source": "The Times of Israel",
+     "published": "2026-11-22T03:48:49+00:00",
+     "summary": "Jeffries says he\u2019ll push sanctions on violent settlers, discuss restricting arms sales&nbsp;&nbsp;The Times of Israel",
+     "image": ""
+    },
     {
      "title": "Election Committee polls: Voter turnout 44.74% at 10 am",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kMEd0aU9CNm9CVHVlWGFpN1RKVUxVaDZxbC01bXJUNzh3SXlDNUZ1bVZiTDRWOEZJMWtQTDJ6VlU4ZDcxQlVicU9SeFVCcWc3NlBkSHlnVkM?oc=5",
@@ -277,7 +301,7 @@
      "title": "This Week in Texas: Data center policy, tech disruptions, HPD and ICE",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzFQVVE5UUFHQ0lqbUdRRWF1ZnpveWZVWmJtb0F1UVUtMEZYOFBzYUVwa3ZobUhtSnVSd1NqWExNUjhTTjlNVWh6MzF5djRtWEY3RUVwd1JTOTY1Wk9qWFdNUjA5Q1JxNExvN2RIeVd2MjRBZjlmNjB0Z2x6bHB6ZnZtRkpENmNrT2dUcVFfM2bSAZYBQVVfeXFMUF8zUG1PZUd6SGlzY3VIVkhLNktjTDNWYVgyYkxMeGdHYi1ZSmFyWUlwSmc5RGoxWE1vWTZ6U2dIOFFNYUhyZEFLWldyTEVLcWNDQ3Q5VmRjdTZFN3IxaHBmT2lwbjRSeXYtSDcwd3h5U2hXMTNLek1wZ2V6UTZNZmVXMkowWC1fMXVfM0F6enNBd3MxYzlB?oc=5",
      "source": "ABC13 Houston",
-     "published": "2026-11-22T01:35:22+00:00",
+     "published": "2026-11-22T01:37:54+00:00",
      "summary": "This Week in Texas: Data center policy, tech disruptions, HPD and ICE&nbsp;&nbsp;ABC13 Houston",
      "image": ""
     },
@@ -290,41 +314,17 @@
      "image": ""
     },
     {
-     "title": "2026 Midterm election brings diversity to U.S. Senate",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlJOSXk2SF9XeVZJT0FYR0pwZUZlSndHb0hkMUNsdEZaOEtlZW5KY2NOb1JBUWVZTWd2a2lYUTM0c2x6ODd5bmFWR21hYk9vVk1yOHJmQXVIVWpEVzBVeEM0T1lvOUFSbGR4VWR4UHI0Y2NqQVpmNEI2NEJNSkZMSHpFaERBSlF6NjFxUWFVTWMzclVTc0l5LW9tWQ?oc=5",
-     "source": "The Eastern Echo",
-     "published": "2026-11-22T01:05:21+00:00",
-     "summary": "2026 Midterm election brings diversity to U.S. Senate&nbsp;&nbsp;The Eastern Echo",
-     "image": ""
-    },
-    {
-     "title": "Clashes erupt across France in another night of protest",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T00:37:32+00:00",
-     "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
-     "image": ""
-    },
-    {
-     "title": "blog_icon",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tSVdXSjJWc0J2UUlRcVZJem1pVVZQT3FydmJGQ0tQOUhmZHdfSzBjQUVuV1pOeTZpOUNaQWdBcFJ6RE9HdFJNcjBhY0wzc25GRUthM3duUzVMNHFtd1pyMEl4RDVkcV9wUXFaR1dGdDdHRjVQZzBvVEJiVHdnZw?oc=5",
-     "source": "ICRC",
-     "published": "2026-11-22T00:31:40+00:00",
-     "summary": "blog_icon&nbsp;&nbsp;ICRC",
-     "image": ""
-    },
-    {
-     "title": "Treece vs Nafisa Fai Election: Weekend Warriors Unite",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXVjdVVXMkQ5c0cxeUdCMUpnaUljM0RQMzJhYlM3NG9nQmR1b2x1aTJpWnctQ19LbmFOZkZPcTZyWUV1amdUckRHTkdkbmc2OEpianYtd3ZDcXFJNDhhaklBLWxxcUltbDJHc3ZrQ1Nkbzc2SnJOazdHWGFEUG5LWGw1Snh3YXZn?oc=5",
-     "source": "The Hillsboro Herald",
-     "published": "2026-11-22T00:15:22+00:00",
-     "summary": "Treece vs Nafisa Fai Election: Weekend Warriors Unite&nbsp;&nbsp;The Hillsboro Herald",
+     "title": "NY: STUDENTS WALKOUT OVER GENDER IDENTITY POLICY",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVowTm5Uc2g1NWcyMURWRUc1MVhWMEdaTThiTFc3WDBUeGtoRXV6MmJiNXM4R3RsSklwUXhXOXpuOVdxNjFZY1hTWmxzMWhPc1V6NHFON0NZTHdERnlKR0ZmbTRRMU12X1owQmVzU2hLLXZVeGlKenJoZDdWSjNMWWZVbmg3TEFoRlU4OWd6OV9Iek1SalFkSVBEV0ZES0ZJVVRJdVA0MjdwOFBsd1Z6MjdZaHp1M3dUZnlOMmdlajM0eGRZRmVrWHhQZlZLczF6SjBiVE9Kbw?oc=5",
+     "source": "Local 3 News",
+     "published": "2026-11-22T01:09:11+00:00",
+     "summary": "NY: STUDENTS WALKOUT OVER GENDER IDENTITY POLICY&nbsp;&nbsp;Local 3 News",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T03:53:38.435438+00:00",
+   "fetched_at": "2026-11-22T04:23:41.900580+00:00",
    "stale": false,
    "items": [
     {
