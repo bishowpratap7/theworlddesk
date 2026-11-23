@@ -1,47 +1,63 @@
 {
- "generated_at": "2026-11-23T22:30:27.893696+00:00",
+ "generated_at": "2026-11-23T23:00:31.986946+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T22:30:27.893665+00:00",
+   "fetched_at": "2026-11-23T23:00:31.986918+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australian politics live: Chalmers to \u2018save more than we spend\u2019 in budget update: King Charles \u2018deeply saddened\u2019 by Meldrum\u2019s death",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-23T22:49:18+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
+     "image": "https://i.guim.co.uk/img/media/86612b7e576ef8d8fefee996ef99ce1a4d96d978/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3cfc00a623bc89dcb46c85bdf6218a75"
+    },
     {
      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-23T22:15:26+00:00",
+     "published": "2026-11-23T22:45:51+00:00",
      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
+     "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+     "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+     "source": "The Guardian",
+     "published": "2026-11-23T22:41:48+00:00",
+     "summary": "Carney watches on as comedian lampoons US leader and his interest in men\u2019s backsides at correspondents\u2019 event OttawaCanada\u2019s prime minister, Mark Carney, was joined on stage in Ott",
+     "image": "https://i.guim.co.uk/img/media/fd2a6955fac805e0a3ba873c88fcd4cd86fea573/448_0_3149_2519/master/3149.jpg?width=140&quality=85&auto=format&fit=max&s=0c0ba3332a8a70d5b715b83efe23e0cd"
     },
     {
      "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang\u2019s Nvidia reinstatement \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-23T22:12:54+00:00",
+     "published": "2026-11-23T22:37:08+00:00",
      "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal ",
      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
-    },
-    {
-     "title": "Australian politics live: Labor to \u2018save more than we spend\u2019 in budget update, Chalmers says; rental affordability plummets to 14-year low",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-23T22:12:31+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/86612b7e576ef8d8fefee996ef99ce1a4d96d978/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3cfc00a623bc89dcb46c85bdf6218a75"
     },
     {
      "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
      "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
      "source": "The Guardian",
-     "published": "2026-11-23T22:05:49+00:00",
+     "published": "2026-11-23T22:23:40+00:00",
      "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president \u2018convinced\u2019 its boardComment: Nvidia\u2019s humiliated board should resign out of embarras",
      "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=140&quality=85&auto=format&fit=max&s=9777f3efbe0433b8488aa88bcecef998"
+    },
+    {
+     "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+     "source": "The Guardian",
+     "published": "2026-11-23T22:22:12+00:00",
+     "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns Donald Trump on Monday halted the planned detonation of several t",
+     "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55"
     },
     {
      "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
      "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
      "source": "The Guardian",
-     "published": "2026-11-23T21:53:33+00:00",
+     "published": "2026-11-23T22:21:45+00:00",
      "summary": "Democrat, who lost re-election bid, found to have made \u2018unwelcome sexual advances\u2019 towards House stafferJimmy Gomez will resign from Congress after a House ethics report released o",
      "image": "https://i.guim.co.uk/img/media/252be7a860305c0f22379fdacb9169a8eeb7f607/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=2db9518f55284510b61dece681f01dcd"
     },
@@ -78,14 +94,6 @@
      "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125"
     },
     {
-     "title": "Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",
-     "url": "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
-     "source": "The Guardian",
-     "published": "2026-11-23T21:04:31+00:00",
-     "summary": "High costs during Chad Bianco\u2019s failed run for governor, including a $665 steak dinner, have raised concernsA southern California county spent more than $3m in a year on a security",
-     "image": "https://i.guim.co.uk/img/media/541ccbc5478002d99bff5bf7321c5626fd35920c/531_227_3036_2429/master/3036.jpg?width=140&quality=85&auto=format&fit=max&s=7b93ceddc0c96b1faf043b780f0b3944"
-    },
-    {
      "title": "US drug prices leave patients facing impossible choices",
      "url": "https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss",
      "source": "Al Jazeera",
@@ -108,21 +116,37 @@
      "published": "2026-11-23T20:48:35+00:00",
      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
-     "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T20:41:56+00:00",
-     "summary": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T22:30:27.893681+00:00",
+   "fetched_at": "2026-11-23T23:00:31.986932+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "The Ukraine War Spreads",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VdGxKN0RGUlhrZmRJRlg4MGFKcDF4a05PTjRhZjVfUEtRdl82bmdjT0h2eDNBMm0xZnlJTkxGSmt2anFYZm9nSE9CUWRzdmtPNC1qbFVqd1ZWT3ZtTEFzeWZVS094c2M?oc=5",
+     "source": "Mark Urban | Substack",
+     "published": "2026-11-23T22:49:53+00:00",
+     "summary": "The Ukraine War Spreads&nbsp;&nbsp;Mark Urban | Substack",
+     "image": ""
+    },
+    {
+     "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+     "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+     "source": "The Guardian",
+     "published": "2026-11-23T22:41:48+00:00",
+     "summary": "Carney watches on as comedian lampoons US leader and his interest in men\u2019s backsides at correspondents\u2019 event OttawaCanada\u2019s prime minister, Mark Carney, was joined on stage in Ott",
+     "image": "https://i.guim.co.uk/img/media/fd2a6955fac805e0a3ba873c88fcd4cd86fea573/448_0_3149_2519/master/3149.jpg?width=140&quality=85&auto=format&fit=max&s=0c0ba3332a8a70d5b715b83efe23e0cd"
+    },
+    {
+     "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+     "source": "The Guardian",
+     "published": "2026-11-23T22:21:45+00:00",
+     "summary": "Democrat, who lost re-election bid, found to have made \u2018unwelcome sexual advances\u2019 towards House stafferJimmy Gomez will resign from Congress after a House ethics report released o",
+     "image": "https://i.guim.co.uk/img/media/252be7a860305c0f22379fdacb9169a8eeb7f607/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=2db9518f55284510b61dece681f01dcd"
+    },
     {
      "title": "Could divided Libya become a new front in the Russia-Ukraine war?",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzZIUTJVWnZ1QW5GSnlOd0tfX0x1ZDE5UDhvdkhUWlNVYjZtRFhXdjRkTjV6dGlsOFlCVGR4YTJxaXkxVFBESlBZVVBaZDhxcTY2STNQU0NfLXFKZ3dsa1RWVkNhYzNtY0R2UXVrdkNQTU5jZDVhNV85eVhIeWNTdkNiQ0JMRW1wUHNwU1VOX3pxbGk5cEdyM3lfNEJxUEE4dXlrUEFYWFVfal9CaEE?oc=5",
@@ -130,14 +154,6 @@
      "published": "2026-11-23T22:16:25+00:00",
      "summary": "Could divided Libya become a new front in the Russia-Ukraine war?&nbsp;&nbsp;Arab News",
      "image": ""
-    },
-    {
-     "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
-     "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
-     "source": "The Guardian",
-     "published": "2026-11-23T21:53:33+00:00",
-     "summary": "Democrat, who lost re-election bid, found to have made \u2018unwelcome sexual advances\u2019 towards House stafferJimmy Gomez will resign from Congress after a House ethics report released o",
-     "image": "https://i.guim.co.uk/img/media/252be7a860305c0f22379fdacb9169a8eeb7f607/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=2db9518f55284510b61dece681f01dcd"
     },
     {
      "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
@@ -151,7 +167,7 @@
      "title": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDhrMTltOFVXcFo3ZXhzNjZLeThPT3ZreFlXYjN1cmN3S3VNa01iOE5DMlNVM2IwQk00dEdaaDk2V01SRmJJZTA5RHlYUVBva3R3NkRfMXpid2JveDg1SFRjVlpTaklIVXA3OFVxd2ktZVJSMHQ0cUpGV2FwRmlwWGp6SXNwS0hQNjY2S2xFaHVGR0FlNTlPbFY2RDMxVVNBeHVPZ0t3?oc=5",
      "source": "DW.com",
-     "published": "2026-11-23T21:33:45+00:00",
+     "published": "2026-11-23T21:37:19+00:00",
      "summary": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya&nbsp;&nbsp;DW.com",
      "image": ""
     },
@@ -202,29 +218,61 @@
      "published": "2026-11-23T21:09:10+00:00",
      "summary": "Outcry builds over Trump-backed move to bring back CEO as lawmakers call for Huang\u2019s testimony before CongressUS politics \u2013 live updatesRepublican lawmakers roundly criticized the ",
      "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125"
-    },
-    {
-     "title": "Putin Presses Ukraine War Despite 700,000 Russian Deaths",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmdTNjVhWVNOSHhrS1Rjc3Z2ajFURjRhaTBoNFN1S2hYNy05bXdfUnR5U3FuSEdDMVRjbnZqN2hMRkZfZGZLTlY5b3ZqQ1ZkYnRpcUxWNG5KbExlb05WaE9QeDcwQUNKR1NlVmFjSnRIV1Vjc0lyYVJBY1NUc2RWTnVpeTZKWW85d2praDVKbVhUeEo4?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-23T21:01:36+00:00",
-     "summary": "Putin Presses Ukraine War Despite 700,000 Russian Deaths&nbsp;&nbsp;Yahoo",
-     "image": ""
-    },
-    {
-     "title": "DW News. . Ukraine's president has asked for clarity regarding what security guarantees his country would be offered in return for peace. Volodymyr Zelenskyy addressed a meeting of the NATO parliamentary alliance in Berlin. His remarks come after US envo",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZUlUWFZxWlpYOEFyMWhQVjl2NVE3dV93WVItYjBIMWhpcktXSWkwQ0loZDdTMWJ4WGFSbDdtZXJZd1M1MHhKN3IycDFXV2ZBc0dZVXJWWXFkYi1IeG1wQnRwcTR1eXZSaFpMQjRKVkNRWmpLQnRZQjZfSXl3LU1meTBjX29vR0tPVG03X00tUkFyVllKNE8zU211cGpob3lCaDVNNFoxUE4tZHFkWTB2MEtoUmZ2ZjU2c2MxaE5uU2Qyb0NvV0pPR1NySGtua3IwSEpvQ3pWV1NsMTcyNGtJYXNB?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-23T21:00:21+00:00",
-     "summary": "DW News. . Ukraine's president has asked for clarity regarding what security guarantees his country would be offered in return for peace. Volodymyr Zelenskyy addressed a meeting of",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T22:30:27.893685+00:00",
+   "fetched_at": "2026-11-23T23:00:31.986935+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Federal judge says he can't stop Trump's ICC judge sanctions",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcG5jV2tqUW1SbUc0VTRiZzR0QW0yZjhUMzN5QV9RZlpZa0Q0N2JHX2lzb25RekNYUms2LWFJclh0VV9vWU1jbmpPUUlST0czZEdpTUhSZFdETHFTZFpMLTVJSy1udGZTRE9WVk1NOW5IQlRRN2N6MlhLMnNlVWtVSE1FaVRzWWprMjFRLWp4S1ZEem1rSkNET3J0Z3FIc1U?oc=5",
+     "source": "Courthouse News",
+     "published": "2026-11-23T22:59:47+00:00",
+     "summary": "Federal judge says he can't stop Trump's ICC judge sanctions&nbsp;&nbsp;Courthouse News",
+     "image": ""
+    },
+    {
+     "title": "Julian Jones reflects on historic election and priorities as next Baltimore County executive",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmIwTVFNdE5JaFdCbUlDd2VzZWNRZkdKNk5PTlpXczE0UEkxOThnMk9LN0gxb04zRkdnMnA3MnNYdUhHbDA5Qkc2QnNIWFI3Yks3WGFhZGd6ZlhHNXNZSlJoRjZYNzdrSjNRRlRObHgwZUkyeU5YaWdQOFcxTVA2U2d4Zi1DYUsyaUVKRUtqa21iaHdUa1NqZjA4R1lJZVhQRVRMMWJsOUhXdDFra3JPZHlFdzg4ZmFuenVmUy1zd3FhQ3VVd3d0aVFXVVY?oc=5",
+     "source": "AFRO News",
+     "published": "2026-11-23T22:52:22+00:00",
+     "summary": "Julian Jones reflects on historic election and priorities as next Baltimore County executive&nbsp;&nbsp;AFRO News",
+     "image": ""
+    },
+    {
+     "title": "Australian politics live: Chalmers to \u2018save more than we spend\u2019 in budget update: King Charles \u2018deeply saddened\u2019 by Meldrum\u2019s death",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-23T22:49:18+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
+     "image": "https://i.guim.co.uk/img/media/86612b7e576ef8d8fefee996ef99ce1a4d96d978/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3cfc00a623bc89dcb46c85bdf6218a75"
+    },
+    {
+     "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang\u2019s Nvidia reinstatement \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T22:37:08+00:00",
+     "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal ",
+     "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
+    },
+    {
+     "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+     "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+     "source": "The Guardian",
+     "published": "2026-11-23T22:23:40+00:00",
+     "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president \u2018convinced\u2019 its boardComment: Nvidia\u2019s humiliated board should resign out of embarras",
+     "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=140&quality=85&auto=format&fit=max&s=9777f3efbe0433b8488aa88bcecef998"
+    },
+    {
+     "title": "Election results certified; county voters favored electronic voting this cycle",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYW5jYktGTFNZcW9hdEZncmxZVHZOTG9XTGFsWHpJR1NVR2kycmR3dkRRYnNlTUUzRHN3ODd1X3RFMGVrb1VVOGNscWl5QWRHdENydGt0b0U1SC1USm5OZHhLTzFVTUNtMGh2TkEteEpQcGY1T21JakxMV0R0Rk03Q1lKYU1McE9YZVZWcnFob2FtT3NoWnRIaXRSaXFEeHBEbHR6WnVRNHFKX3Z1ZmZNY2JueUhRd29ncmVYMk9yd2U3cE84bm11NDd0YXkyNWV2UGNHaUl5bUt4S1UydVM1eEVXUWx6RWNiaEJIaE5tb09WekZySms0Q3BONGM?oc=5",
+     "source": "The Latrobe Bulletin",
+     "published": "2026-11-23T22:22:00+00:00",
+     "summary": "Election results certified; county voters favored electronic voting this cycle&nbsp;&nbsp;The Latrobe Bulletin",
+     "image": ""
+    },
     {
      "title": "Alaska certifies election, no immediate word from Sullivan on conceding, recount requests due Nov. 28",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1FmQ2V5Zi12MHRSXy0zRUFyYzVTdVI4eGNsajc4djM2ZEs0dGJUZXMzRkpIa1lrUG00QVpZQVFDOVJtaTBCX3lWVm9NYkRMWXlHSGl2ZDhlT2czMURxdG14Mzh1WnNoQ1pJcU9zNXhCSVFSc2FiUlM0SU9uS3FObW4tOWJRZmlERHhrc1hZOHNmekh2S3Z4VmppN3FKdS11eVBrejlvcU1FQ3JuYjV1ZGh6eDc1WXVjTmcyTzh1NVVGSW5xWDJQTHhtYTNPOEJBUEE?oc=5",
@@ -242,28 +290,12 @@
      "image": ""
     },
     {
-     "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang\u2019s Nvidia reinstatement \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T22:12:54+00:00",
-     "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal ",
-     "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
-    },
-    {
      "title": "Grand County certifies election, resolves ballot-total discrepancy",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU2VCWUVBYVM0WUwxQXBhN3NxVzNkZWdpWEVMbUNtUFpFUGkyM3ZfY0wxVWcyV2VQRUJaTjlmeVRKUGZnS0JmMFZXZ05CYTZabml4dFNUMFZRUW56RWVGMUx5dm9DQ1FNRzItekxCdS1KcEg5YmJjMGJWaW9WNDFESWdYYWJRcmgxWE9WWGRKc1A1NDdyV3FNYWxlc2hjUQ?oc=5",
      "source": "SkyHiNews.com",
      "published": "2026-11-23T22:12:51+00:00",
      "summary": "Grand County certifies election, resolves ballot-total discrepancy&nbsp;&nbsp;SkyHiNews.com",
      "image": ""
-    },
-    {
-     "title": "Australian politics live: Labor to \u2018save more than we spend\u2019 in budget update, Chalmers says; rental affordability plummets to 14-year low",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-23T22:12:31+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/86612b7e576ef8d8fefee996ef99ce1a4d96d978/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3cfc00a623bc89dcb46c85bdf6218a75"
     },
     {
      "title": "California Environmental Law & Policy Update 11.20.26",
@@ -274,51 +306,19 @@
      "image": ""
     },
     {
-     "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-     "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-     "source": "The Guardian",
-     "published": "2026-11-23T22:05:49+00:00",
-     "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president \u2018convinced\u2019 its boardComment: Nvidia\u2019s humiliated board should resign out of embarras",
-     "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=140&quality=85&auto=format&fit=max&s=9777f3efbe0433b8488aa88bcecef998"
-    },
-    {
-     "title": "Darwin\u2019s renews challenge to FDA salmonella policy for raw pet food",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREwxTFJhQzJpVHJPa1hHRGZScFB5RDF2Zlg1WjV4WVJNck5XakgtQm1VTDVza2cteC1vaGFzVTNzSEdpU3FfckpOak16RmlSMmdkeEk3OTNnRzZTYWR3NXNjbXdGLTctaVV4Zm9mS3JIRWlYWndRQkxqRWYzSVp4WkhLWVRCQnkyMDJJWXJCSzRWbk1MblNpNDk1YkZSUzNXd25EVkVpZk95emxxZlRnOUdn?oc=5",
-     "source": "Feedstuffs",
-     "published": "2026-11-23T22:04:43+00:00",
-     "summary": "Darwin\u2019s renews challenge to FDA salmonella policy for raw pet food&nbsp;&nbsp;Feedstuffs",
+     "title": "CalChamber Advocacy in Action 2026: Strong Returns for Member Businesses",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHZtdWM2SkNzZEpkUnM5ZzJLekg4SmJQdmhaMmEtajdGdzJ0UWZ2dEd1SDQxQmFYNE9MR3NObDZRZjVvbFFnTnJwXzhJMzhoZENBSG1MU1dCZHNwbEZBVXo3d04wT1RNNzU2a2ROQVdfcG5KNG5yR2JRZVVmd0pSV3ZhZUtEYW4tUWtTS1dRRENIWlFwNmRIX0xkblozcGp3RVpRNHZBOGVRczhyQ0x5OEFR?oc=5",
+     "source": "CalChamber",
+     "published": "2026-11-23T22:08:57+00:00",
+     "summary": "CalChamber Advocacy in Action 2026: Strong Returns for Member Businesses&nbsp;&nbsp;CalChamber",
      "image": ""
     },
     {
-     "title": "Pa. party chairs reflect on Election Day and what comes next",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3V2R3VyVW04bmdEMm9YbG5GNExVcGJTRHByenZsYm1QM3dhbE9vTzNHUk91a0FRUkhEUk5YNjJEeGRMZVdza3BsbDFpM3VCeGFweFlRNjJXMmxNLUZrb0ktUnlMcHoxZkMxdWpUbjl1bXpfUE9LdTlPYno3NUFpNTRReXBtQzI1UGsxQ2hpYy1QcWRlbmpNaWtiRkNVZFd1TEgzMURrWWdhdDRrSmc?oc=5",
-     "source": "Pennsylvania Capital-Star",
-     "published": "2026-11-23T22:02:53+00:00",
-     "summary": "Pa. party chairs reflect on Election Day and what comes next&nbsp;&nbsp;Pennsylvania Capital-Star",
-     "image": ""
-    },
-    {
-     "title": "Certified election results affirm record turnout, expanded Democratic majorities in Legislature",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWV9OZHdtZzZWdElCamx6Ry1OVEl4T0x3bGlvVndHTjAwRDNYOUJjVWs1a3ZoaDVGTlZrdWtfa3o1NDRaUXptOVZuSzdJRTczZDJJcTBvTGR2V19lT1Fqa2FlY3RldVN0RG9JV3RYQjJ2Y3NtMUtqc2hELWpLcUZEUVpudmZVY1dKcmJmRjdQVG9SNm8wNTdJM09tcVFIcm1KdkpkaGlsc2RDODI2MGVNRGJPa09FTG1HMmp6RkVBUWZXVUVNdWZMUkJwV19LbnMy?oc=5",
-     "source": "Maine Morning Star",
-     "published": "2026-11-23T22:02:17+00:00",
-     "summary": "Certified election results affirm record turnout, expanded Democratic majorities in Legislature&nbsp;&nbsp;Maine Morning Star",
-     "image": ""
-    },
-    {
-     "title": "Education advocates and leaders share their policy hopes under Democrat-led Legislature",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWs2NUpUWDFCN2kxQ1NKeWk4MkNpeEhNTzJkeWJpd2xLaFNYTGNZUzk5ZE1hQklDamhNQzB2VG1WeWptNndVazNhMFdHVm5jRnlpZlgxcTRCMlZ6dW9mOEhrM2lMOEZaZXV6Z1cwYXJGWjFzRXB2RDIxZlo2bW9Pb0pNRWFkWVlJcGphN2dfZUxidlZvU1d0X1RmWkthOFB6NDBHWDBjdDdpcFhYVXZsRWpVYl9lWE85UU1leGpZUEtqdw?oc=5",
-     "source": "Milwaukee Neighborhood News Service",
-     "published": "2026-11-23T22:00:00+00:00",
-     "summary": "Education advocates and leaders share their policy hopes under Democrat-led Legislature&nbsp;&nbsp;Milwaukee Neighborhood News Service",
-     "image": ""
-    },
-    {
-     "title": "Alaska certifies election, locking in wins for Peltola, JKT and Begich",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONTk4VmR6aEkzWkdzRlpucWpadzk3MUt2cTRiYTZuZDVTTDJxRmgtUm8wTVZiM2Jkbk9DbU9UajktREU2cElIWW1UNnREMlFUZzhLcWVWZVE1WjBkZVA4Z0FtMHAtNU1oNTFGUXdDQTBFeXNzN01kYVNjNVc2QTlaOGNuVHZZMnoxdWRYTTlVNk80cEpzWlkyVURTZjc0YjBFS09GU2dR0gG6AUFVX3lxTE93bnhYdmxsUnpRSW0yRUw4YkpMWEp2M0RuMXZEWlJfTE42anpULVVIVlBNU21MS1BGMWpqa2dwQjBMNnRhYTlhUEJoMWNVbFZZS2Z6YmkzVm9ObjRLX0lhQ2c4Zl9VTWhRZlhpTkNfV3BjRkF1TVVLTmhaQU54WERYZ1pSdmhfQ2RMM1lOM3BpbTE4VEtLQU9pQ3M0VGpnOXdieUZCRXFCT3NXWVQtZ0p1M3l3QUZOQXVkUQ?oc=5",
-     "source": "Alaska's News Source",
-     "published": "2026-11-23T21:59:00+00:00",
-     "summary": "Alaska certifies election, locking in wins for Peltola, JKT and Begich&nbsp;&nbsp;Alaska's News Source",
+     "title": "Accelerate Medicaid applications and stress-test finances ahead of coming policy shifts, LTC expert urges",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVNLUWhoeExLbjZYSGVsQVV4LUtKYjZIbWthN2JiT2J1WktVMk1SUVItZlBIRFRXcGI4NXpfWm1nUHFNb0s5WUNyX1F3VDlKUFBfRDZ0SjdvRDJPVE10WHU3enZ0Q2N5SDdvbHFWOGdPNVFtSDExbk04V2swck1vNkZjbllmZnJFMzY1aVJNNVlIWGhxMVFPM2dIQkRwc3Q3anREQ2FhSE9OalpDM0dtcWNURGhuNFZQbTlNZzB0SXZPSGZQOUNCY1poUFQzZXotZUE?oc=5",
+     "source": "McKnight's Long-Term Care News",
+     "published": "2026-11-23T22:07:10+00:00",
+     "summary": "Accelerate Medicaid applications and stress-test finances ahead of coming policy shifts, LTC expert urges&nbsp;&nbsp;McKnight's Long-Term Care News",
      "image": ""
     }
    ]
