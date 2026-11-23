@@ -1,49 +1,81 @@
 {
- "generated_at": "2026-11-23T09:58:15.627405+00:00",
+ "generated_at": "2026-11-23T10:28:19.539392+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T09:58:15.627371+00:00",
+   "fetched_at": "2026-11-23T10:28:19.539365+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Network of informants help Palestinian radio station broadcast Israeli checkpoints",
-     "url": "https://www.npr.org/2026/11/23/nx-s1-6044224/network-of-informants-help-palestinian-radio-station-broadcast-israeli-checkpoints",
+     "title": "Ukraine-Russia peace talks: Row over who will represent the EU",
+     "url": "https://www.france24.com/en/video/20261123-ukraine-russia-peace-talks-row-over-who-will-represent-the-eu",
+     "source": "France 24",
+     "published": "2026-11-23T10:20:05+00:00",
+     "summary": "As Russia and Ukraine continue to trade strikes a row is erupting over who Europe should send to any future peace talks with the two countries along with the US. The EU's High Repr",
+     "image": "https://s.france24.com/media/display/bdb7e6ba-e722-11f1-8285-13439ca2fe89/w:1024/p:16x9/EN-20261123-100548-100818-CS.jpg"
+    },
+    {
+     "title": "Zelenskyy says Ukrainian drone attack hit Russian warship at naval base in Libya",
+     "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
      "source": "NPR",
-     "published": "2026-11-23T09:44:54+00:00",
-     "summary": "In the occupied West Bank, a Palestinian DJ has swapped music for traffic updates, with thousands of informants -- bus drivers & commuters -- feeding realtime info on Israeli road ",
+     "published": "2026-11-23T10:16:33+00:00",
+     "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assaul",
      "image": ""
     },
     {
-     "title": "NATO to meet\u00a0after Russia-Ukraine war once again inches onto European territory",
-     "url": "https://www.npr.org/2026/11/23/nx-s1-6050245/nato-to-meet-after-russia-ukraine-war-once-again-inches-onto-european-territory",
-     "source": "NPR",
-     "published": "2026-11-23T09:44:26+00:00",
-     "summary": "The Russia-Ukraine war once again creeps onto European territory \u2013 with attacks on Russian ships over the weekend, allegations of a Russian assassination plot in Denmark, and NATO ",
-     "image": ""
-    },
-    {
-     "title": "Former ambassador on the effects of the Ukraine war spilling into other countries",
-     "url": "https://www.npr.org/2026/11/23/nx-s1-6050251/former-ambassador-on-the-effects-of-the-ukraine-war-spilling-into-other-countries",
-     "source": "NPR",
-     "published": "2026-11-23T09:44:13+00:00",
-     "summary": "NPR's Michel Martin speaks with Kurt Volker, former U.S. ambassador to NATO, about recent incidents in which the war in Ukraine spilled over into other European countries.",
-     "image": ""
-    },
-    {
-     "title": "El Chapo Isidro, one of Mexico's most notorious drug lords, captured in raid",
-     "url": "https://www.npr.org/2026/11/23/nx-s1-6050221/el-chapo-isidro-one-of-mexicos-most-notorious-drug-lords-captured-in-raid",
-     "source": "NPR",
-     "published": "2026-11-23T09:42:54+00:00",
-     "summary": "A high-stakes military raid, weeks of U.S. intelligence cooperation and a deadly cartel gun battle culminate in the capture of one of Mexico's most wanted drug lords.",
-     "image": ""
-    },
-    {
-     "title": "Andy Burnham to give update to MPs after \u2018landmark\u2019 UK-EU summit \u2013 UK politics live",
+     "title": "Tories welcome Louise Haigh\u2019s hint government could adopt their plan to scrap Natural England \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-23T09:38:08+00:00",
-     "summary": "PM expected to tell Commons that Friday\u2019s deal will be \u2018the single biggest growth measure to be delivered in this parliament\u2019Louise Haigh, the first secretary of state, has decline",
-     "image": "https://i.guim.co.uk/img/media/fe35515f5ca59e0f87bf7503bb1dc9120a924044/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=761a8f1406c54426a7e50042c3da73e2"
+     "published": "2026-11-23T10:09:20+00:00",
+     "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangosNatural England could be abolished as part of qu",
+     "image": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=140&quality=85&auto=format&fit=max&s=9927c1766e5457c1b1d4643f5bd597b5"
+    },
+    {
+     "title": "Capita boss exits and shares crash after civil service pensions failures",
+     "url": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
+     "source": "The Guardian",
+     "published": "2026-11-23T10:01:00+00:00",
+     "summary": "Price plunges 67% as Adolfo Hernandez leaves with \u2018immediate effect\u2019 amid continued fallout from pension payment problemsThe boss of troubled outsourcing group Capita has abruptly ",
+     "image": "https://i.guim.co.uk/img/media/b665a567fce3e847dd805496601879a285e1ac4c/144_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=3cc156be32019ddfbaf914dc5b86441b"
+    },
+    {
+     "title": "Fears for school crossing patrols as councils struggle to recruit lollipop people",
+     "url": "https://www.theguardian.com/education/2026/nov/23/school-crossing-patrols-councils-struggle-recruit-lollipop-people",
+     "source": "The Guardian",
+     "published": "2026-11-23T10:00:53+00:00",
+     "summary": "Future of familiar school-run figures uncertain as vacancies surge and town halls consider alternativesThey have been a feature of British schooldays for decades, instantly recogni",
+     "image": "https://i.guim.co.uk/img/media/26e42e2b032201733f6e24514f9e867fef813cfe/155_0_6300_5043/master/6300.jpg?width=140&quality=85&auto=format&fit=max&s=a43e926d1ec246b3408067d4ec635b59"
+    },
+    {
+     "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T09:59:14+00:00",
+     "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspected U",
+     "image": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=da3fea44607549cbbdc4de25ec543522"
+    },
+    {
+     "title": "Odesa pupils switch to remote learning as Russia pounds Ukraine\u2019s energy grid",
+     "url": "https://www.france24.com/en/video/20261123-odesa-pupils-switch-to-remote-learning-as-russia-pounds-ukraine-s-energy-grid",
+     "source": "France 24",
+     "published": "2026-11-23T09:51:02+00:00",
+     "summary": "Schools in Odesa will switch to remote teaching after Russian strikes gravely damaged the energy grid in the major Ukrainian Black Sea port city. Russia has carried out a wide-rang",
+     "image": "https://s.france24.com/media/display/a913cdec-e721-11f1-89af-6b451f569414/w:1024/p:16x9/EN-20261123-100348-100526-CS.jpg"
+    },
+    {
+     "title": "Thousands displaced after deadly storm hits Brazil town",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T09:45:25+00:00",
+     "summary": "A powerful supercell storm devastated the Brazilian town of Tupancireta.",
+     "image": ""
+    },
+    {
+     "title": "Zelensky says Ukraine sank Russian warship off Libya",
+     "url": "https://www.france24.com/en/video/20261123-zelensky-says-ukraine-sank-russian-warship-off-libya",
+     "source": "France 24",
+     "published": "2026-11-23T09:44:44+00:00",
+     "summary": "President Volodymyr Zelensky has confirmed that Ukraine was behind the sinking of a \u2060Russian naval corvette in a Libyan port on Sunday in an attack involving seven naval drones. Ze",
+     "image": "https://s.france24.com/media/display/0ff70778-e721-11f1-81df-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-100127-100309-CS.jpg"
     },
     {
      "title": "'Let down on all sides': Pacific island nations express despair over COP31 failure",
@@ -54,11 +86,11 @@
      "image": "https://s.france24.com/media/display/a9647e72-e71c-11f1-bc7a-1bac47ab2f5d/w:1024/p:16x9/AP26325805482465.jpg"
     },
     {
-     "title": "Death toll rises after deadly Russian attacks on Ukraine",
+     "title": "At least 15 killed in Ukraine\u2019s Kyiv region as Russia intensifies attacks",
      "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-23T09:34:25+00:00",
-     "summary": "At least 15 people are killed in multiple attacks, days after Putin promises a \u2018painful\u2019 response to Ukrainian attacks.",
+     "summary": "Mulitple strikes unleashed days after Putin promises a \u2018painful\u2019 response to Ukrainian attacks.",
      "image": ""
     },
     {
@@ -84,45 +116,85 @@
      "published": "2026-11-23T09:30:16+00:00",
      "summary": "A new report by UK-based charity Oxfam shows how Israel\u2019s destruction of Gaza has created a \u2018toxic wasteland&#039;.",
      "image": ""
+    }
+   ]
+  },
+  "wars": {
+   "fetched_at": "2026-11-23T10:28:19.539379+00:00",
+   "stale": false,
+   "items": [
+    {
+     "title": "Ukraine-Russia peace talks: Row over who will represent the EU",
+     "url": "https://www.france24.com/en/video/20261123-ukraine-russia-peace-talks-row-over-who-will-represent-the-eu",
+     "source": "France 24",
+     "published": "2026-11-23T10:20:05+00:00",
+     "summary": "As Russia and Ukraine continue to trade strikes a row is erupting over who Europe should send to any future peace talks with the two countries along with the US. The EU's High Repr",
+     "image": "https://s.france24.com/media/display/bdb7e6ba-e722-11f1-8285-13439ca2fe89/w:1024/p:16x9/EN-20261123-100548-100818-CS.jpg"
+    },
+    {
+     "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNelpZVXpnenVPeDBEMmJrb2RXNlBoQ2hZb28yMWgyZFVUYnJfWDR4ZEJ5UzN1b1dVeWJSZk1CVkR1Ny1qQ3BPdmNzekxnZHo0cWFydmZMRjU4ZHJTNFU0dDhLdzhXQUstWGU0ODRCcE9KR1d2Q2RBOWxZbmhta18yMVY3Ry1MRGtGOGRMNWlqUmUxU0FsaHhnT2dUcjg5WmF5RUdJU3dmQUhlemhsc3ZuWWJWY2hvWDRwRk1IZHNIUjhoeW9Ba2lNZEVld0JIcVBibU9UX2FnQ1FVZWoyMXN0Mi1ZUkFvNlVxcFFTeDljRFVTWVU?oc=5",
+     "source": "KTVN",
+     "published": "2026-11-23T10:18:06+00:00",
+     "summary": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says&nbsp;&nbsp;KTVN",
+     "image": ""
+    },
+    {
+     "title": "Zelenskyy says Ukrainian drone attack hit Russian warship at naval base in Libya",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2RQU25hVGVUaGQ1cEM3WmFqLVphcjhqTHBMcUllODNJcFBzNy1oRWZUZXdsSXQ5aWZpQjY2UEw1ODJXRnRXSjlPT1RtVlZKRVJBUG5JOV9LOXZ4UG8xdWNSTVFDb2pSdVh0QnZLQWhIdUV0ZF9qN1dOYWFhTlpxcENJY1VFdw?oc=5",
+     "source": "NPR",
+     "published": "2026-11-23T10:16:33+00:00",
+     "summary": "Zelenskyy says Ukrainian drone attack hit Russian warship at naval base in Libya&nbsp;&nbsp;NPR",
+     "image": ""
+    },
+    {
+     "title": "Ukrainian Drones Kill 1, Strike Oil Refinery in Perm Region",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGM0NkJUMm5jNUp0dUdWNWhGa3p3Qm9uSmsyamM5OHZRNjh5M2Q4YlVtZE05MmRmMjFRMjdPS1A2amFhMUVlNDFIbDg3MmdieTdhTl9DLUtZeU1ZU3lYbTlZS2RtR09tcXNwSVRmUFFvVDdUZUZaUUlzM3EzWlhkRkNhUzFuNkh6Tjd2T2NCSU11dFZ6Z21BUW5HaWdZY2R6NFRPS25jMjdFZFk?oc=5",
+     "source": "The Moscow Times",
+     "published": "2026-11-23T10:06:21+00:00",
+     "summary": "Ukrainian Drones Kill 1, Strike Oil Refinery in Perm Region&nbsp;&nbsp;The Moscow Times",
+     "image": ""
+    },
+    {
+     "title": "Russian vessel hit by suspected Ukrainian drone at Libya\u2019s Benghazi port",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T10:01:03+00:00",
+     "summary": "Russian vessel hit by suspected Ukrainian drone at Libya\u2019s Benghazi port&nbsp;&nbsp;Al Jazeera",
+     "image": ""
     },
     {
      "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-23T09:23:27+00:00",
+     "published": "2026-11-23T09:59:14+00:00",
      "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspected U",
      "image": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=da3fea44607549cbbdc4de25ec543522"
     },
     {
-     "title": "Natural England could be abolished as part of quango cull, says Louise Haigh",
-     "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
-     "source": "The Guardian",
-     "published": "2026-11-23T09:19:34+00:00",
-     "summary": "First secretary of state says proliferation of arms-length government bodies is hampering decision-makingThe nature watchdog Natural England could be abolished as part of a cull of",
-     "image": "https://i.guim.co.uk/img/media/41a071ca7559fc90de14b0b516948c4cf9335122/374_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=f309cb43216d242b067f49ed8071a5e9"
-    },
-    {
-     "title": "AI superintelligence \u2018arriving\u2019, warns top Meta executive",
-     "url": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T09:08:07+00:00",
-     "summary": "Meta Chief AI Officer Alexandr Wang says humankind&#039;s actions over next year will have &#039;great consequence&#039; for the world.",
+     "title": "Ukraine Claims Strikes on Russian Ships Near Libya",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHEzbzJfUE1ETm0takZFX3J0VjJoUWJhRURCZ2Z6OEtGMTNQc3BSUlowblMwZ1NsWEdPdTBBbHVZSVFIcjlsR2RTUExGbHRZb2hoQ3dHbG91OTRfZlZ3Q3dJTkhlM2NFRjJtb2ZSZ3NodHJJbGhxekVGV2pGd0Nab21EbVJ0X0E?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-23T09:59:08+00:00",
+     "summary": "Ukraine Claims Strikes on Russian Ships Near Libya&nbsp;&nbsp;The New York Times",
      "image": ""
     },
     {
-     "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
-     "url": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T08:53:10+00:00",
-     "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
+     "title": "Ukrainian naval drones strike new Russian warship in Libya, and other Mideast news",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLXRPNEFsX0hzWmhTYUJuaXdrMDJfUkZoQk1USm5lYjdORmowSGktLXB3T1hqMDBBb3RGel9yck5UMW4yWTkycTlPdnpTeklrRExnNmpGQnpJMjQ4MXRLWXVzdmZUcTIzRW9CMy05XzRkTVJpZkxoTEhrdXkyX1dGZ0ZqbFNkX3ByZi1qeVlVdGxKd0ZtSTVYcUtscTFCVEVOanp5cldmbFRxb3NqNDJkdVNHVmtYdVVqXy1PWW4tQ3ljZzNTQWc?oc=5",
+     "source": "Audacy",
+     "published": "2026-11-23T09:56:00+00:00",
+     "summary": "Ukrainian naval drones strike new Russian warship in Libya, and other Mideast news&nbsp;&nbsp;Audacy",
      "image": ""
-    }
-   ]
-  },
-  "wars": {
-   "fetched_at": "2026-11-23T09:58:15.627386+00:00",
-   "stale": false,
-   "items": [
+    },
+    {
+     "title": "Odesa pupils switch to remote learning as Russia pounds Ukraine\u2019s energy grid",
+     "url": "https://www.france24.com/en/video/20261123-odesa-pupils-switch-to-remote-learning-as-russia-pounds-ukraine-s-energy-grid",
+     "source": "France 24",
+     "published": "2026-11-23T09:51:02+00:00",
+     "summary": "Schools in Odesa will switch to remote teaching after Russian strikes gravely damaged the energy grid in the major Ukrainian Black Sea port city. Russia has carried out a wide-rang",
+     "image": "https://s.france24.com/media/display/a913cdec-e721-11f1-89af-6b451f569414/w:1024/p:16x9/EN-20261123-100348-100526-CS.jpg"
+    },
     {
      "title": "Russia Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlZJOEI1ZEpKX1NoMEY2ck5ZWHF1RTlaVVVDRG1GU0s0MXAzMndtSmN6Y2tNMDROdS1uSE1ycThTX0dmSzBQOXU5bVZFSzYtQ3UwS1VrM1QxZ0I2R1ZwTVNSdDB0WXpUemlOUjJINlVtMk54cDlUTXhHeDdfWjBLOWFraW9jNEhFTDNVRGZTTUxuTnN4NVBrZGpJTUpaM1o0MHZ6YmZkdTI4QncyM21DYWpUSFU?oc=5",
@@ -132,199 +204,127 @@
      "image": ""
     },
     {
-     "title": "Network of informants help Palestinian radio station broadcast Israeli checkpoints",
-     "url": "https://www.npr.org/2026/11/23/nx-s1-6044224/network-of-informants-help-palestinian-radio-station-broadcast-israeli-checkpoints",
-     "source": "NPR",
-     "published": "2026-11-23T09:44:54+00:00",
-     "summary": "In the occupied West Bank, a Palestinian DJ has swapped music for traffic updates, with thousands of informants -- bus drivers & commuters -- feeding realtime info on Israeli road ",
-     "image": ""
-    },
-    {
-     "title": "NATO to meet\u00a0after Russia-Ukraine war once again inches onto European territory",
-     "url": "https://www.npr.org/2026/11/23/nx-s1-6050245/nato-to-meet-after-russia-ukraine-war-once-again-inches-onto-european-territory",
-     "source": "NPR",
-     "published": "2026-11-23T09:44:26+00:00",
-     "summary": "The Russia-Ukraine war once again creeps onto European territory \u2013 with attacks on Russian ships over the weekend, allegations of a Russian assassination plot in Denmark, and NATO ",
-     "image": ""
-    },
-    {
-     "title": "Former ambassador on the effects of the Ukraine war spilling into other countries",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVWhqeVI4VVNIZGVVY0lvckJpQ1FIXzQyTzZZd0FndUptcDdTSEw0dkxvUzBXSloyRGVxU0VlNjRHaExWc3NlYnI2c1V1UEM1cXBySDJMTjJmeU42dkhXRzFyRlJMR0pyY3VHSDl0ZDdWaDliSUpsRlN1UG5oMjNLeDlCeTljaDY3dEVqQXZtN08wZDlhTjROZllSSElRT0h0Z3k1QmxIajF2SzlJcmtWVjFiQTVUUlczN0h3QU9IUTBWaTdI?oc=5",
-     "source": "NPR",
-     "published": "2026-11-23T09:44:13+00:00",
-     "summary": "Former ambassador on the effects of the Ukraine war spilling into other countries&nbsp;&nbsp;NPR",
-     "image": ""
-    },
-    {
-     "title": "El Chapo Isidro, one of Mexico's most notorious drug lords, captured in raid",
-     "url": "https://www.npr.org/2026/11/23/nx-s1-6050221/el-chapo-isidro-one-of-mexicos-most-notorious-drug-lords-captured-in-raid",
-     "source": "NPR",
-     "published": "2026-11-23T09:42:54+00:00",
-     "summary": "A high-stakes military raid, weeks of U.S. intelligence cooperation and a deadly cartel gun battle culminate in the capture of one of Mexico's most wanted drug lords.",
-     "image": ""
-    },
-    {
-     "title": "Zelensky Confirms Attack Against Russian Warship in Libya",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTNxM3ZibUpmNnl3YjN5VTh2YWZ4UkpIV0E4Q2d3eURUVWxCUUNsUkl3MVUzcDgwY2xxbVhWZ3BYY1NGN0NNZU5zc1kwUGhzMnZDbWRPeENYQ21QMWU2LUxMbnpPTXUtaXdHODkwSnh1RzNERTVMdXZlVWYzcjA2Z3c5TzVRYTFRTWQtb3pIZzJQTEdVX0E0YlNzTDREODVyQ1A2X0MyS041Zw?oc=5",
-     "source": "The Moscow Times",
-     "published": "2026-11-23T09:39:00+00:00",
-     "summary": "Zelensky Confirms Attack Against Russian Warship in Libya&nbsp;&nbsp;The Moscow Times",
-     "image": ""
-    },
-    {
-     "title": "Death toll rises after deadly Russian attacks on Ukraine",
-     "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T09:34:25+00:00",
-     "summary": "At least 15 people are killed in multiple attacks, days after Putin promises a \u2018painful\u2019 response to Ukrainian attacks.",
+     "title": "SEE THE VIDEO: Ukraine deals huge blow to Putin\u2019s fleet",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdnY1b3pHcVpWVC1ObU5iWGd0SG5kdlN2NHpJLTVxRDh6MmJCVmxBT25vMUc4OE1Ibl82NDNsR3d4TGRVcWo0RDFLM2I0Qkl6cmZzdWo5ZU5BcVFzQ2Z4RlZtMWtHb1pjNzBRQWFDV2N2YjlBTFNoNzNvOE5hYjZXc2gyZkpsY085U0NrdzlzNHp1RFctY0xnWHZDbkVubXVpaUJsNVBKejZaeUk3WVRxTnZjN3YxX1o5cGVieWRKd3ExYU5PV0NYeXhZNnM0dWlqWnZIMHBOZk5FSmRCMHdWc1dwWjJCdw?oc=5",
+     "source": "The Nightly",
+     "published": "2026-11-23T09:46:42+00:00",
+     "summary": "SEE THE VIDEO: Ukraine deals huge blow to Putin\u2019s fleet&nbsp;&nbsp;The Nightly",
      "image": ""
     },
     {
      "title": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3VvbkVaT2lpTFVnTUcxaHBGdHRma1Z0ZFZtU1RUS1lqZFRTMHRqbXVacXNaRld3NW16dmtxdkI2cHZWbmZNSTJialQwRi1ETnE1OWowY29vQkhjelFCQ29hb2ludEMtcThQMkE5MDBtTnpxSzdaWW16Zk1XMDBSRnN2Wkx0ZFRfR0RXOWtaSFBYNTlsSklORERqNUVScmNLb0cyT2E3S1ZWclA3UXlrZS1UUDRxb3Z50gG-AUFVX3lxTFBhRG1GRldGZmVLUFJQclVUbXZLRHFjbFZRSVh4ZTMxakNvYzBBbkdQOHQ4T0lsUV8xMlNsVXI5eVVCWjlIcURxeF9mcFpxV2ozYkc4dGFicWZEVnJ5RHdvNkVwLXpDeTBhazh0WWY1Zk43NzVPODlDc01MeWItcW5fMnZZaWctbEdPN3MtaU96ZlI5cU1ETWFOeTRTTjhNT1BJOGZISkRtWExOOUpDSEtaZkVjaDdYb3ZkTnVJb1E?oc=5",
      "source": "Al Jazeera",
-     "published": "2026-11-23T09:34:09+00:00",
+     "published": "2026-11-23T09:45:15+00:00",
      "summary": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 23, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44V0hBWUwxTXlyMzBGYWNmOTJqRWhsVURkQVJlaEU5TWx1eFk4SnYzZGtIQ0pnOHJ4TmlOSTlpOE1lbE9zMWMzLXc1NTl1UQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-23T09:34:04+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 23, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Gaza turned into \u2018toxic wasteland\u2019 by Israel\u2019s war, says new report",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T09:33:59+00:00",
-     "summary": "Gaza turned into \u2018toxic wasteland\u2019 by Israel\u2019s war, says new report",
-     "image": ""
-    },
-    {
-     "title": "In Kyiv, restaurants are closing as Ukraine war pressures mount",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tVVdmZ25idkI1cHg1M2pkdzBjRm04RXhnaE9HRkl3WklMMGRiNWs5QW1xM2xtM3U2WHcwTFlhdE0zeWQ2NHBmTlM4QnNiTGZVWnpBel9vTDFJRjE4?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-23T09:33:55+00:00",
-     "summary": "In Kyiv, restaurants are closing as Ukraine war pressures mount&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "\u2018Environmental crimes\u2019: Israel blamed for toxic pollution in 99% of Gaza",
-     "url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T09:30:16+00:00",
-     "summary": "A new report by UK-based charity Oxfam shows how Israel\u2019s destruction of Gaza has created a \u2018toxic wasteland&#039;.",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T09:58:15.627388+00:00",
+   "fetched_at": "2026-11-23T10:28:19.539381+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Women make political history in Michigan and beyond | Opinion",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT2VhenpJclhtTUJaUUExLVhpYUZQSlZOUzRxRVpKVTM5TWpZMzVOdDQ4WEN3RGdyWHhzUl9OVkVQb0RuZmJvcjYxY3I2N29TVVpveW5vRzZ2aElSLWMxNUtlZk01MVlqdW5oa1hFMm5RNDJmY3MwR1JPZHFUZDAtaHlwckFNTE5aWllPSGJoMWxWdXZpNGtlV21sWW43NlZDWFA0LXZ5SThPa3pkYVVwbXFiSnNpUWpiTExXMThBVUM0ZnhzblZwdzdZd0wwYmdtSmc?oc=5",
-     "source": "The Holland Sentinel",
-     "published": "2026-11-23T09:51:02+00:00",
-     "summary": "Women make political history in Michigan and beyond | Opinion&nbsp;&nbsp;The Holland Sentinel",
+     "title": "Iran vows to use all capabilities to defy US naval blockade, sanctions",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVFmTk52Ty0td0JmZzdJNV9iTTVNS3ROTkVxMWhEaTI0cjM3M2FTanhrenZnSS1jSF9GVDFXU1BqMHFocVVnQlNjb3NDYkRVa0UyQ2h1M042dGVJQUFqTmRNRFg0b0JBNFYzY0NMT3pqSVBmaW5FZDI3Q3ZtMkZ4SVN0bm5tNHR1UUwwcENucmdrNmtFTXlpZnlVdHI0V04wMXpsaG5zTUttVlNmYlE4?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-23T10:19:36+00:00",
+     "summary": "Iran vows to use all capabilities to defy US naval blockade, sanctions&nbsp;&nbsp;Anadolu Ajans\u0131",
      "image": ""
     },
     {
-     "title": "Responding to the Most-Favored-Nation policy: a follow-up review",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcU1DS3N0a2RuWEJ5SUNwdGJGcTZaV0pfeFVfRTJWR1ZraWNMcEEtamo4WW9zQXJGbE1rQzBtSGZpQms3bW1vRVNxZWdfRzZKbWtUckpEYW1hdk5zc0tfLWNHbDVWM19FY1E4OWNGTzY4eDB5SVFvdjQ0VTI2djU5VnZUeXBKV212YklOaXhHb1BYOEhuWlNlcHMyV2pobnFURkpHSQ?oc=5",
-     "source": "Pharmaceutical Technology",
-     "published": "2026-11-23T09:43:15+00:00",
-     "summary": "Responding to the Most-Favored-Nation policy: a follow-up review&nbsp;&nbsp;Pharmaceutical Technology",
+     "title": "After the midterm bloodbath, what's next for the Indiana GOP?",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdENIS2I2WDBtSUdyd1VNRVJ3cEw0VS1jazlTSFNlQnVSWWZBbm1pVm43cEtDZ2kza2trdkJCUFRvZWs4UXpTMEctMTBFSHY5OFJXQXBNUEFibFo5VjRfd2RlYldZZXFRbU9kN3UxODNqbnJMNy1PV0xYY2dVajdTY2NqNm83NnBVVFdna2Jja2thbnhUTkVwUE54LWlZNFVMLURUdmRnTGpNNnJRUUNMWjRmUGJjX0x2XzFQbTR1UUZSbGowVjRrRnllNnYwdw?oc=5",
+     "source": "IndyStar",
+     "published": "2026-11-23T10:12:00+00:00",
+     "summary": "After the midterm bloodbath, what's next for the Indiana GOP?&nbsp;&nbsp;IndyStar",
      "image": ""
     },
     {
-     "title": "Climate policy analyst on the failed negotiations at COP31",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTFRoUG1jYXJWZnJfb25mejFKRWxtNmhXc1FjMEN5bDZFNDJuZHVFVW1iQ1pzaEdWcjhFZmQ3S3I0aU95LVpRZ1pTSUwxWm1RSGlscy1ELU1adm54b2I4dTJKeDBfaC1TUzVaYy1YLVR6YWV6OC1kTGtJZXFZTkJFeEhGSVUxcGZ5RmlLOWdFRjhpRGZiSE5LNVBfQS1JZ0w4YzRpQ1Nn?oc=5",
-     "source": "NPR",
-     "published": "2026-11-23T09:42:19+00:00",
-     "summary": "Climate policy analyst on the failed negotiations at COP31&nbsp;&nbsp;NPR",
+     "title": "Rejected by Texas voters, Dan Patrick shows he has learned nothing from midterm",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNG8yUF9yNld4S3JydmdaY084TXViNDBqSExIMjAyU3ZyOTN4azUyWXV5ci1jcGtHZGZfTFAyV1dsaTU5T0xWcExfeTBSV2pZbTBmSmtiXzJtelVrTGZkcWZDVS1QSENYOEh1N0Uzck51enUxNEdUUlIzb3ludFVjZnVaUV9mZHlWUl9id0s0NkZ6Z19NUXJycDNLRjc5Z1hXRHk5dkJUMGQtTmtqem5zdkRHUF8zUQ?oc=5",
+     "source": "San Antonio Express-News",
+     "published": "2026-11-23T10:11:49+00:00",
+     "summary": "Rejected by Texas voters, Dan Patrick shows he has learned nothing from midterm&nbsp;&nbsp;San Antonio Express-News",
      "image": ""
     },
     {
-     "title": "Andy Burnham to give update to MPs after \u2018landmark\u2019 UK-EU summit \u2013 UK politics live",
+     "title": "Kansas secretary of state-elect wants to prosecute election crimes",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZDl4OXB0c3NIQ2U4REhoTHQ5ZVJnS0EyTWQzRno2NDdNMk1Rcm9VSFIxVlBwT0dnZG1UUkE1a2cxcjlEeldYYzh6U0ZYLUxEcXh6bWxDbl80TGJBOHh0MDNXNnlGVTJoaWJKMmFkNkNwZXYzb3pfVmtzZXdRdU9GV0JIY0djUWVLcktYQThWaTh6RHQxbHlLRktJY3hnME9tTGY5czd4bE9nX3NxTzctc2NzZXh2TXU3MzNncWd4cm9BZkV6MlE?oc=5",
+     "source": "The Topeka Capital-Journal",
+     "published": "2026-11-23T10:10:54+00:00",
+     "summary": "Kansas secretary of state-elect wants to prosecute election crimes&nbsp;&nbsp;The Topeka Capital-Journal",
+     "image": ""
+    },
+    {
+     "title": "Tories welcome Louise Haigh\u2019s hint government could adopt their plan to scrap Natural England \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-23T09:38:08+00:00",
-     "summary": "PM expected to tell Commons that Friday\u2019s deal will be \u2018the single biggest growth measure to be delivered in this parliament\u2019Louise Haigh, the first secretary of state, has decline",
-     "image": "https://i.guim.co.uk/img/media/fe35515f5ca59e0f87bf7503bb1dc9120a924044/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=761a8f1406c54426a7e50042c3da73e2"
+     "published": "2026-11-23T10:09:20+00:00",
+     "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangosNatural England could be abolished as part of qu",
+     "image": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=140&quality=85&auto=format&fit=max&s=9927c1766e5457c1b1d4643f5bd597b5"
     },
     {
-     "title": "Put American democracy on the road to Oz following Kansas\u2019 landmark midterm election",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlJKZE1uZUxXWG9FcFBBZzdFOThsdFdJRHFmcmhlRWJabVd0NkhiUTdYZm85NUFHdEJfQl85V09TYUcwdE9iVG9BY0RLVnpfREpzZ2dWVHlrS2FMbGQ2b0ZsU2didW1jbDUyM2J5ZERORTYyMUFuaUhUMkw2S0g0dVhYTDdlSDlKT0d4RUg1WkpvcEpWc25BWVdLZktpeFRaV0x4X3N4eURGNDlFU2Z4cXBSa2M0QQ?oc=5",
-     "source": "News From The States",
-     "published": "2026-11-23T09:33:52+00:00",
-     "summary": "Put American democracy on the road to Oz following Kansas\u2019 landmark midterm election&nbsp;&nbsp;News From The States",
+     "title": "Police advocate fears overreach in Montgomery NDA policy",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeEpIZjFCb1F6eUpUM0JsQkxGbWM1dGtUQVA1blRSYm5ZdDZSZWRwaU43WFR2amRGaFExV1N1UTFtX0hxVzBJU2I3anpWaWdzbHEycmRHREt5WFlIOXlYTTNVOHgwOE1BNzZPNm5YQTJkLVUxUnN6aERhZ2NZX2pkblI4bGZHeFRWd3llSzFvVXBxUFE4SG02Z00xNVB0V1RHR0JLWVI3eFR1RmVRSzVBbmU4a3dMd1JBSEtwM2FSTmR5anQ0a0V0TFlDOVZRWTNmOEE?oc=5",
+     "source": "Montgomery Advertiser",
+     "published": "2026-11-23T10:08:00+00:00",
+     "summary": "Police advocate fears overreach in Montgomery NDA policy&nbsp;&nbsp;Montgomery Advertiser",
      "image": ""
     },
     {
-     "title": "Sanctions and double standards in Judea and Samaria",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSjJGcXp5OGlzOW1oQURGRFhndVNkdXowajUyeXVFaVRnemd3NVdzYjU5OF9SY0R6Tm1xelNzaWNLV0xuMFVPYjhIaTFQSlcwRm1ObkJKaEhPTFVsX0NHY1BUQXJ5RXdRcGdZXzI2WU0yTE9KTGloQjZqQjBha19ON3FvSzFJQTZaTE9mRFJTc0h5eWJL?oc=5",
-     "source": "JNS",
-     "published": "2026-11-23T09:23:12+00:00",
-     "summary": "Sanctions and double standards in Judea and Samaria&nbsp;&nbsp;JNS",
+     "title": "Why did Springfield charter changes fail? Distrust, timing were key",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTk03RjRtNG4zZFBSR2RMSGM5anZJallPeE5hSlRFTk1vQzhaOFc1TFYwaW9VSzlvWFRlc0RieTVWLXJ0dkNzNmVFcy1nUmxpS1VVd1NTQmYya0Z6Sk5EbExTLXd0X1NtYUdtTTNRWGlDRmkzOElEWnBsbkpKNk54OU5oRkhyUDFmam0wSnJCbEctUnN3NGlFOXhyXzVTbWVkUENZRHZSemtKQ2xtMzRMVFhxMXZTWlFyRmZYZTZ2Vzk5M1Bla25PN3EtUU9CNWlWT2FUbDd6b1AxOFFCekE?oc=5",
+     "source": "Springfield News-Leader",
+     "published": "2026-11-23T10:07:00+00:00",
+     "summary": "Why did Springfield charter changes fail? Distrust, timing were key&nbsp;&nbsp;Springfield News-Leader",
      "image": ""
     },
     {
-     "title": "Natural England could be abolished as part of quango cull, says Louise Haigh",
-     "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
-     "source": "The Guardian",
-     "published": "2026-11-23T09:19:34+00:00",
-     "summary": "First secretary of state says proliferation of arms-length government bodies is hampering decision-makingThe nature watchdog Natural England could be abolished as part of a cull of",
-     "image": "https://i.guim.co.uk/img/media/41a071ca7559fc90de14b0b516948c4cf9335122/374_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=f309cb43216d242b067f49ed8071a5e9"
-    },
-    {
-     "title": "The Election Was a Success. But What About the Patient?",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTBWWXVONTgxZlV2MVMwVjBKVzYyQzlxMmgwamVqRUlLOVdUaWxoS2NMUUZrZ3VTM1dLejhDWnNqMGZzUGUyRDZPWHRHbEY2MUtHS2phY1ZzSGJGaEdVVVY3U05tT1R5VUNoYnVnYjJNT19TQ2NQWDdaSm00RkM1OENUa2U1b0ZmX1ljcGNrVQ?oc=5",
-     "source": "The Times of Israel",
-     "published": "2026-11-23T09:19:00+00:00",
-     "summary": "The Election Was a Success. But What About the Patient?&nbsp;&nbsp;The Times of Israel",
+     "title": "OPINION: 2026 election exposed the limits of money and political ads",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR09rb21ZNkF1d2dsenVWQ2VVaGdUWkxJOGJPbXljU2dtYzFKbW10Z0RFZlNmNWNtZVhUYngwaTNsUGZzeVE0X2doSWF4blphSWdZajhhY3VJNW14NlplSnZQWDVZRjd1amhMbFp5SllwNDI3UU9nT01nMjYzWG1RWF9mLXdvMnJxdjZSNXVNNWFKUHpuZjJGNnVrd3FCaDJ1MGVpWmlkTFVPaDkteHhUNDYybU5BSG92LVNEam44ZUg2NTBDdlUzSmhZT19jNlF0WG9UNHUzaEtaZklMbDROeDNGenFFeHhPLWRN?oc=5",
+     "source": "Dayton Daily News",
+     "published": "2026-11-23T10:05:00+00:00",
+     "summary": "OPINION: 2026 election exposed the limits of money and political ads&nbsp;&nbsp;Dayton Daily News",
      "image": ""
     },
     {
-     "title": "Wildberries owner steps down after EU sanctions target Russian oligarchs",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUFiNl9ST3NCbm4tZ290cU11TzQ3dHJkVjNXWkhrZmdZYVExUHNYdVgxb0hFVTBwdW9yUFZZMVdqMGlVeVNDWm50NzlIZk9CZXhIQ1p3MlloLVBHOEpLbTg0cWh6VkdNbVF4NHp1ODBfalFOSXBfcjJpTVRURTJ6aDlsMEFaLXlhNE1EdzNENm1fQWp3OU5oaDlXX2R1UzBSeXo2MnFR?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-23T09:17:38+00:00",
-     "summary": "Wildberries owner steps down after EU sanctions target Russian oligarchs&nbsp;&nbsp;The Kyiv Independent",
+     "title": "Nebraska has a unique way of filling election poll worker jobs \u2014 it drafts them",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2VqczFJVzdCeVpuVXRkMVNzMUlNZEx1ckkxQXYybFUyd3I2czdJRHFoY2VReTIteG9ubFlma3JJSksxeU81U2dOTUlPMUluSGo0SEVOLTR3dW9KbXI2UmktOWRadXBJaGJYeElQak8tV2lHOFphYlg4SllrNWZmd0NXYnJGa0U1MnAtR3dEUVMtMHBnZ0FHTVVtdDdkMEpuNzE3dDVzTkx4ZEo4Z1E?oc=5",
+     "source": "Flatwater Free Press",
+     "published": "2026-11-23T10:04:14+00:00",
+     "summary": "Nebraska has a unique way of filling election poll worker jobs \u2014 it drafts them&nbsp;&nbsp;Flatwater Free Press",
      "image": ""
     },
     {
-     "title": "East Asian diplomacy on the sidelines of APEC",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXJIVVl3RTJaWkh1WE9ycGhTSGtYbTZsS21YNEVfN0kyMXFUaXJ1TVdJalVMTF8zb0Jsc181cXp6RFdoU1JpV3FHSjhjZGZEWkNKdm5TMzNIc1VBd1hJcTNZeUJhQjJmWjI0UXZKRm96T0NzZWRFMXI0NnltWHRlblJFSkRiUQ?oc=5",
-     "source": "Defence24.com",
-     "published": "2026-11-23T09:10:03+00:00",
-     "summary": "East Asian diplomacy on the sidelines of APEC&nbsp;&nbsp;Defence24.com",
+     "title": "Proctor wants secretary of state's office to prosecute election crimes",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVG9tTFRFZlhSdlRQczBwdFpPcHItU2h6cXRtR21hRGtuVDNzVkNsaDRxUVZ0b0FreGNRblU5VnJKUHdrQ2dVT1o4cjBZYUtvYkpTMl91Yl9LSmZXTFNQTmQ5NkwyaXZDX2hiM3Bsbzg5RVBySmwwblpjeEQwblhRZ29WeTZuVXBpZzBvUkdXOUFya2lNNXlJMWVrWmFJVWhHaDlDdjVNMG1IeGVkLVVaR3BzZjYxcFZFX2ZMTExZUVpmQXJrcWQ5c2UtdmlLbVp6R0ZKRzlqTmtndEp3a3VfNmdfOA?oc=5",
+     "source": "The Topeka Capital-Journal",
+     "published": "2026-11-23T10:01:00+00:00",
+     "summary": "Proctor wants secretary of state's office to prosecute election crimes&nbsp;&nbsp;The Topeka Capital-Journal",
      "image": ""
     },
     {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YOGxOMTBEVDc4d3VVZDBoZlhlbVVnR24zVldGQTBTdFI2MXpuT0hhODdZdS1rcFFJNFRPbTUtUWhZZ0oxVDZoNUltTHlrN0p4QWI5UmsxWXJiUE8xMmRsaWVmZ2swbnVSOVA5bllKVGFMTkdmUzFhSmlMdTk4UQ?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-23T09:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "title": "Shielding Spain's election from hybrid threats and disinformation",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ3pRLWI3UmNVNXpsVHBXZFhJSHJ3UVlfM2dDQXlUQWo4SU9VZEZsOEVKSk1pQkhreFdKMXNfU2NPZXRIbUVBUUNIRlBfeDQtOWppYXNBakxaRzF1c0NqSFNXbnpaRzVONXFTREZhdXJIczNLb0xPbHlRMTRNVk5tWWMtY2NtY2NXVlNCdXRRTnFLa1NzNktoZEtiZFJGWHBkWFZoWXFESGFYYk5DTTBlZE1Md0M2eS05Z3pxdkpn?oc=5",
+     "source": "Euronews.com",
+     "published": "2026-11-23T10:00:05+00:00",
+     "summary": "Shielding Spain's election from hybrid threats and disinformation&nbsp;&nbsp;Euronews.com",
      "image": ""
     },
     {
-     "title": "Swedish Voters Warm to Prospect of Snap Vote as Talks Logjammed",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSlk5MlVhN3hrU01pQVZBYlJJVHNoc05hMzdBa0JPcGlodWhBUENyXy04Sk1SMFZ0OVI3VTJIWUhkR1NoeE9JU21XVFpvWTRUdjM5LVJES0NOVlJsVl9COEVoZlVQVER0dUFDUFZVMmIwVk9UdHlOQ0lNOFJPT0h2YVNOdWw5UDZwb0JuTF9ESy1BcWUyaUNUQUJIaVNsSkozYnl6RHdCNlpLcXlYY1JuczFGRktoX282?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-23T09:00:02+00:00",
-     "summary": "Swedish Voters Warm to Prospect of Snap Vote as Talks Logjammed&nbsp;&nbsp;Bloomberg.com",
+     "title": "With Klobuchar heading to the governor\u2019s office, another election is right around the corner",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHBLeVNNcHV5VExPQnhEWEV2MzdiSTY0LUNLTFhZTWlnN0RoTHJFMmIxUTlvcmJ3cVpBUXVVaVBSUGoxWFFxNUpmZU1faGhUOEd4LWVTQXdBNTRZWUlDVkY4VFNSYk5lbHpGdHJoZmkySEszeXFrQldZM3o2YmZndGw5aURyRXNESFhpazR2VWFiZ2tSZjEyS0tSYmdEYWVLOVcyNV81NWF2cWxybi1uR21Vdw?oc=5",
+     "source": "MPR News",
+     "published": "2026-11-23T10:00:00+00:00",
+     "summary": "With Klobuchar heading to the governor\u2019s office, another election is right around the corner&nbsp;&nbsp;MPR News",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T09:58:15.627390+00:00",
+   "fetched_at": "2026-11-23T10:28:19.539383+00:00",
    "stale": false,
    "items": [
     {
