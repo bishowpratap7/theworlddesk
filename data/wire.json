@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-23T19:59:54.355562+00:00",
+ "generated_at": "2026-11-23T20:00:08.466283+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T19:59:54.355536+00:00",
+   "fetched_at": "2026-11-23T20:00:08.466252+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australian politics live: Penny Wong to defend US alliance; Coalition condemns Vanuatu deal",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-23T19:51:55+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcastThe Coalition has come out against a security agreement with Vanuatu because of objections to \u201cbinding conditions relatin",
+     "image": "https://i.guim.co.uk/img/media/4167a1e7f11df6dfeace154f41bc766312ebf83a/1339_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=7e733a0f88378fec7eb61aaeb89fc21a"
+    },
+    {
+     "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
+     "url": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
+     "source": "The Guardian",
+     "published": "2026-11-23T19:48:58+00:00",
+     "summary": "Mahdi Tounsi appeared with visible bruising after being interrogated by police on his association with Israeli-Palestinian organisationsIsraeli professors, students and rights acti",
+     "image": "https://i.guim.co.uk/img/media/3b697e211fd94382a4c76bc1361873d607c3ea2d/0_41_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=d82e5b330b3e4638c7d2252a0f1c7b13"
+    },
     {
      "title": "Republicans voice concerns over Jensen Huang\u2019s Nvidia reinstatement after Trump urged board to rehire CEO \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
@@ -100,27 +116,11 @@
      "published": "2026-11-23T18:20:03+00:00",
      "summary": "Nebahat Isbilen claims her former adviser paid bribe in return for help with passport, but money was returnedAndrew Mountbatten-Windsor was paid a \u00a3750,000 \u201cbribe\u201d in the hope of h",
      "image": "https://i.guim.co.uk/img/media/8f609c2604e213127517731264667726db059c98/0_56_3410_2729/master/3410.jpg?width=140&quality=85&auto=format&fit=max&s=82ebfaa7768da45018fb5b92747a91ee"
-    },
-    {
-     "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
-     "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T18:12:55+00:00",
-     "summary": "Nepal&#039;s Prime Minister Balendra Shah is in New Delhi for a two-day visit \u2014 his first since coming to power in March.",
-     "image": ""
-    },
-    {
-     "title": "Gis\u00e8le Pelicot \u2018deeply shocked\u2019 after nude images used to promote book",
-     "url": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
-     "source": "The Guardian",
-     "published": "2026-11-23T18:12:48+00:00",
-     "summary": "French woman says she will pursue legal action against publisher and author over use of photos taken by convicted husbandGis\u00e8le Pelicot has said she is \u201cdeeply shocked\u201d that nude p",
-     "image": "https://i.guim.co.uk/img/media/e37fab5a02fab6041eac944574360d00dabfca4c/820_500_3296_2637/master/3296.jpg?width=140&quality=85&auto=format&fit=max&s=bbfce3c5d5370336696903b8b572a2af"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T19:59:54.355549+00:00",
+   "fetched_at": "2026-11-23T20:00:08.466268+00:00",
    "stale": false,
    "items": [
     {
@@ -130,6 +130,14 @@
      "published": "2026-11-23T19:55:53+00:00",
      "summary": "Every 17th Death in Russia Since 2022 Linked to War, Leaked Rosstat Records Show&nbsp;&nbsp;UNITED24 Media",
      "image": ""
+    },
+    {
+     "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
+     "url": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
+     "source": "The Guardian",
+     "published": "2026-11-23T19:48:58+00:00",
+     "summary": "Mahdi Tounsi appeared with visible bruising after being interrogated by police on his association with Israeli-Palestinian organisationsIsraeli professors, students and rights acti",
+     "image": "https://i.guim.co.uk/img/media/3b697e211fd94382a4c76bc1361873d607c3ea2d/0_41_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=d82e5b330b3e4638c7d2252a0f1c7b13"
     },
     {
      "title": "The Debate - How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
@@ -210,19 +218,11 @@
      "published": "2026-11-23T18:52:01+00:00",
      "summary": "President Volodymyr Zelensky of Ukraine said on Monday that Ukrainian forces had been responsible for strikes on two Russian ships off the coast of Libya the previous day. https://",
      "image": ""
-    },
-    {
-     "title": "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGd1Y1l5djlZbGRDaTdGOGgxMHdfRUdXZGd1bW5FVlJHZ2FhZ0RNMW4wQm1rZG8xSXA4Nm5pY0FUOEZyMjBOTGtaLUJTTzZLckFGRnc2ZjBVdFFtX2U3UFh4MmJVSGNOREM2UXdJQUgtcEpBbjdzYktTdEFpTDJHNmxDcjBmLWFoX0ZQcmRuSGVNM1lXSWZtMEZ2bUROcHVfV0oycg?oc=5",
-     "source": "Time Magazine",
-     "published": "2026-11-23T18:51:14+00:00",
-     "summary": "Zelensky Says Ukraine Sank Russian Warship at Naval Base in Libya&nbsp;&nbsp;Time Magazine",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T19:59:54.355552+00:00",
+   "fetched_at": "2026-11-23T20:00:08.466271+00:00",
    "stale": false,
    "items": [
     {
