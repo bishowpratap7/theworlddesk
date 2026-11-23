@@ -1,10 +1,42 @@
 {
- "generated_at": "2026-11-23T00:56:50.067777+00:00",
+ "generated_at": "2026-11-23T01:26:53.697233+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T00:56:50.067747+00:00",
+   "fetched_at": "2026-11-23T01:26:53.697202+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+     "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-23T01:23:43+00:00",
+     "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg"
+    },
+    {
+     "title": "Australian politics live: Hanson calls Coalition and Labor a \u2018uni\u2019 party; Minns ends presser after heckling from Greens candidate",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-23T01:06:51+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
+     "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbc12c2c80182dc2c76d78173051e481"
+    },
+    {
+     "title": "Beau Lamarre-Condon \u2018executed\u2019 Jesse Baird and Luke Davies then lied about it, prosecution argues",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-23T00:54:02+00:00",
+     "summary": "Crown urges jury to reject accused\u2019s claim of self-defence and find him guilty of murdering Sydney coupleFollow our Australia politics live blog for latest updatesGet our breaking ",
+     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/224_167_2452_1962/master/2452.jpg?width=140&quality=85&auto=format&fit=max&s=2cd65c7c634a6466972155b4ad17b92e"
+    },
+    {
+     "title": "US army to blow up bomb-making chemicals despite safety concerns",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+     "source": "The Guardian",
+     "published": "2026-11-23T00:50:39+00:00",
+     "summary": "Army invokes emergency provisions in Iowa to avoid court order despite worries about health and environment risksThe US army plans to invoke emergency provisions to avoid a court o",
+     "image": "https://i.guim.co.uk/img/media/bfed09b7de050098100a09bd0b59db30af9459f6/371_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=cc029734716f40dfb0db43ac7a89db01"
+    },
     {
      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
@@ -12,6 +44,38 @@
      "published": "2026-11-23T00:50:35+00:00",
      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+     "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+     "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+     "source": "The Guardian",
+     "published": "2026-11-23T00:48:37+00:00",
+     "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of \u2018a truly unique character\u2019 and \u2018the fan all artists wish to have\u2019Molly Meldrum, Countdown host and promoter of Aust",
+     "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=2770d0dabf1c002e491fde550f4a4b48"
+    },
+    {
+     "title": "Christmas market returns to Paris' Champs Elys\u00e9es",
+     "url": "https://www.france24.com/en/video/20261123-christmas-market-returns-to-paris-champs-elys%C3%A9es",
+     "source": "France 24",
+     "published": "2026-11-23T00:46:47+00:00",
+     "summary": "France 24's Jamie Smith-Maillet reports from the opening of the Paris Christmas market on the Champs Elys\u00e9es.",
+     "image": "https://s.france24.com/media/display/8c01efd6-e6d6-11f1-a5d3-6b451f569414/w:1024/p:16x9/EN-20261123-001051-001257-CS.jpg"
+    },
+    {
+     "title": "France's  far-right leader Le Pen denies receiving secrets from civil servant",
+     "url": "https://www.france24.com/en/video/20261123-france-s-far-right-leader-le-pen-denies-receiving-secrets-from-civil-servant",
+     "source": "France 24",
+     "published": "2026-11-23T00:46:03+00:00",
+     "summary": "French far-right leader Marine Le Pen Sunday denied receiving confidential information from a civil servant suspected of leaking details of investigations to her National Rally (RN",
+     "image": "https://s.france24.com/media/display/e8bc3946-e6d3-11f1-8282-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-000824-000950-CS.jpg"
+    },
+    {
+     "title": "COP31 climate talks in Turkey collapse",
+     "url": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
+     "source": "France 24",
+     "published": "2026-11-23T00:44:47+00:00",
+     "summary": "EU member states on Sunday objected to adopting an 11th-hour deal that omitted explicit references to fossil fuels, the bloc's presidency said. The issue remains a major point of c",
+     "image": "https://s.france24.com/media/display/758bc72a-e6d3-11f1-a018-13439ca2fe89/w:1024/p:16x9/EN-20261123-000618-000759-CS.jpg"
     },
     {
      "title": "Drone strikes hit homes, United Nations building in Sudan's capital",
@@ -30,28 +94,12 @@
      "image": ""
     },
     {
-     "title": "Australian politics live: Hanson calls Coalition and Labor a \u2018uni\u2019 party; Liberals demand Bowen resign over Cop \u2018disaster\u2019",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-23T00:35:39+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
-     "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbc12c2c80182dc2c76d78173051e481"
-    },
-    {
      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-23T00:33:36+00:00",
      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
-    },
-    {
-     "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
-     "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
-     "source": "The Guardian",
-     "published": "2026-11-23T00:28:03+00:00",
-     "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of \u2018a truly unique character\u2019 and \u2018the fan all artists wish to have\u2019Molly Meldrum, Countdown host and promoter of Aust",
-     "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=2770d0dabf1c002e491fde550f4a4b48"
     },
     {
      "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
@@ -68,61 +116,29 @@
      "published": "2026-11-23T00:18:03+00:00",
      "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
      "image": ""
-    },
-    {
-     "title": "Cameroon\u2019s ex-rebels caught between hiding and broken promises",
-     "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T00:03:30+00:00",
-     "summary": "Cameroon\u2019s former rebels face arrest fears and failed reintegration.",
-     "image": ""
-    },
-    {
-     "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T23:59:22+00:00",
-     "summary": "Iran&#039;s navy claims tankers contravening its rules were set ablaze, while the IRGC said &#039;enemies&#039; sought to stoke unrest.",
-     "image": ""
-    },
-    {
-     "title": "Mystery of the red stream in Turkiye",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T23:57:58+00:00",
-     "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
-     "image": ""
-    },
-    {
-     "title": "Lion on the loose in Turkiye sparks fear among residents",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T23:40:48+00:00",
-     "summary": "Lion on the loose in Turkiye sparks fear among residents",
-     "image": ""
-    },
-    {
-     "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-     "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T23:22:59+00:00",
-     "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war spilling into NATO territory",
-     "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
-     "source": "NPR",
-     "published": "2026-11-22T22:40:22+00:00",
-     "summary": "The war between Russia and Ukraine once again creeps onto European territory \u2013 from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmar",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T00:56:50.067761+00:00",
+   "fetched_at": "2026-11-23T01:26:53.697217+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine says Russian strikes kill 11 in Kyiv region",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTjRzRXRNV0pNN1lvdF8zdTR1OThGRFp0Q1FhNzRZSHdIY0hWR0ZIVV9YSjVKVVFoZU55THpQbkl1bWhSbGR4VHFlQUZNRnF6bzl5MjdhcXhPTTd1a2t2Mk5XaVJaQVJvbFRVLWtFbVpnWWtoUGo1WkQ0NV9kQjVGSUJZTTZtVHJpb2w0SmNsNFhiZFM2?oc=5",
+     "source": "Arab News",
+     "published": "2026-11-23T01:17:27+00:00",
+     "summary": "Ukraine says Russian strikes kill 11 in Kyiv region&nbsp;&nbsp;Arab News",
+     "image": ""
+    },
+    {
+     "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-23T01:11:13+00:00",
+     "summary": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
     {
      "title": "Drone strikes hit homes, United Nations building in Sudan's capital",
      "url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
@@ -145,6 +161,14 @@
      "source": "Al Jazeera",
      "published": "2026-11-23T00:39:51+00:00",
      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at &#039;grave risk&#039;, WHO warns.",
+     "image": ""
+    },
+    {
+     "title": "Trump Pushes Swift Ukraine Settlement, Delays Iran Nuclear Decision",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGctYTFBTWk1d3FOUGpJbUlOMHpreThQWThJRmZ5Sm1qMEF0cTFVcWxyeHFXQ0ZMT2tuQnQ0SURBZ1BIa3dWeDlNWjYxcHlDS3c0c01FRXY5dXR4bWtWX3hQMHNiQTQwUW55TV85ZFVLU21KNGdMX00xeGdSaWhaVWtVN0g?oc=5",
+     "source": "\uc870\uc120\uc77c\ubcf4",
+     "published": "2026-11-23T00:11:37+00:00",
+     "summary": "Trump Pushes Swift Ukraine Settlement, Delays Iran Nuclear Decision&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
      "image": ""
     },
     {
@@ -194,42 +218,26 @@
      "published": "2026-11-22T22:40:22+00:00",
      "summary": "Ukraine war spilling into NATO territory&nbsp;&nbsp;NPR",
      "image": ""
-    },
-    {
-     "title": "Russian ship attacked near Benghazi in suspected drone attack",
-     "url": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
-     "source": "France 24",
-     "published": "2026-11-22T22:37:45+00:00",
-     "summary": "Authorities in divided Libya's east said a Russian ship docked at the Benghazi port was hit on Sunday in a suspected drone attack, causing a blast but no casualties. There was no i",
-     "image": "https://s.france24.com/media/display/00042f96-e6c5-11f1-aeb3-ebb478925cf0/w:1024/p:16x9/EN-20261122-230127-230255-CS.jpg"
-    },
-    {
-     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-     "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-22T22:37:43+00:00",
-     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
-    },
-    {
-     "title": "Ukraine war gets harder to contain amid escalating hybrid attacks",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzhLM29ud3RLeG5vMGdZcVFTNFNWa3oxeDRSM0xIaWdmUG9nWU1waWxPUzItQzFxdmU3WW5OR1RMRVhWNTZyV3NiMUc0T3EzaE5DdTRrVTFMT0hrbE1VMFFxWmlwYnB3NXo5Vm1YeEY2aldzR2g0Qy1UMHJLVWxJbjJsc0psZUthNzJGR0hENWdQR3pIVEduQWZSSlZZTUJyQUVPOUJZRW1xTjhY?oc=5",
-     "source": "Semafor",
-     "published": "2026-11-22T22:24:00+00:00",
-     "summary": "Ukraine war gets harder to contain amid escalating hybrid attacks&nbsp;&nbsp;Semafor",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T00:56:50.067765+00:00",
+   "fetched_at": "2026-11-23T01:26:53.697221+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australian politics live: Hanson calls Coalition and Labor a \u2018uni\u2019 party; Minns ends presser after heckling from Greens candidate",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-23T01:06:51+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
+     "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbc12c2c80182dc2c76d78173051e481"
+    },
     {
      "title": "House Democrats will start next Congress with largest majority of 21st century",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDFwYnhlcGdodzRLNmNMQXB4MFJkUXF0TUZMUk1Pa24yamNRUGNRWmxrc3MxRXN6bFdNWFRrR0JONnVxbVpJX0RhYzZBandZa3hIcXlNN0plN3lGYWM3NThPSEZhLXdfVUJ6VFVDS0EzQmFjRDhJVW9PVkl0NTFYRlhmTncxUktiMVl3WTJCQmhZMDNMTG0zaVJ2Rmw4ZU5jSVdvVkkzMllYU3BtZVNsbTg0UlcwWTVvZWMtaGI1cDlyT1ZtOFdZRTJ3?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-23T00:44:42+00:00",
+     "published": "2026-11-23T01:01:45+00:00",
      "summary": "House Democrats will start next Congress with largest majority of 21st century&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
@@ -242,12 +250,12 @@
      "image": ""
     },
     {
-     "title": "Australian politics live: Hanson calls Coalition and Labor a \u2018uni\u2019 party; Liberals demand Bowen resign over Cop \u2018disaster\u2019",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-23T00:35:39+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
-     "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbc12c2c80182dc2c76d78173051e481"
+     "title": "Trump's top intelligence official is also taking charge of cyber policy",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0RRd3NmeHVWMUg2Rjd5UVlYcE1rbEREUVlzcWRqQ01JZFNibGRkUkdacm5Ea1lPNDhzUXZWRUdSWkxIZzU2QjVQV2tab3VkSTNIV2YzLXVwYV9oQWFDN25DYV9aTEI0YmpfV3VYRFVXZVNWOVFGNXVwb1JoRDRCNQ?oc=5",
+     "source": "Axios",
+     "published": "2026-11-23T00:35:30+00:00",
+     "summary": "Trump's top intelligence official is also taking charge of cyber policy&nbsp;&nbsp;Axios",
+     "image": ""
     },
     {
      "title": "Inside fiscal policy: A new dataset on government actions",
@@ -312,19 +320,11 @@
      "published": "2026-11-22T23:30:07+00:00",
      "summary": "Democrats Clinch 258 House Seats, an Election-Year Record This Century&nbsp;&nbsp;The New York Times",
      "image": ""
-    },
-    {
-     "title": "Exclusive | Hochul already kicking off fundraising for potential third term in 2030, days after re-election: \u2018Ridiculous\u2019",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVB3dFVjYkt3RElYQTZUa1BiU3pwVDBmWk1NWlBXOFc0aDVHckNuY2lxSTdLQ1J6OXhrdU84YnoyMUpOX3dlc0ZLOE1yRjJ4czhja1I4cmR4Xy1kV0czb2tQT3NVaXNxR24wX241bGZDczJTRS1Ga2NJUDItbVlHOThSbW5TRmpzcENUdGVfdDh4Rm9GWjlMMmVJYllYUUhUQ1R1UFZsY2w1bEtkZ2dR?oc=5",
-     "source": "New York Post",
-     "published": "2026-11-22T23:28:00+00:00",
-     "summary": "Exclusive | Hochul already kicking off fundraising for potential third term in 2030, days after re-election: \u2018Ridiculous\u2019&nbsp;&nbsp;New York Post",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T00:56:50.067768+00:00",
+   "fetched_at": "2026-11-23T01:26:53.697224+00:00",
    "stale": false,
    "items": [
     {
