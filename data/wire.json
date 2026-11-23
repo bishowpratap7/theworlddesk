@@ -1,10 +1,66 @@
 {
- "generated_at": "2026-11-23T12:58:39.042873+00:00",
+ "generated_at": "2026-11-23T13:28:43.302274+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T12:58:39.042845+00:00",
+   "fetched_at": "2026-11-23T13:28:43.302248+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Kremlin warns of \u2018escalation\u2019 as Albania denies Ukrainian drones that sank Russian ships launched from its territory \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T13:12:27+00:00",
+     "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspecte",
+     "image": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=140&quality=85&auto=format&fit=max&s=aee9973d6aea17ae72e1b662b0dd513f"
+    },
+    {
+     "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T13:11:16+00:00",
+     "summary": "Former prime minister says issue is \u2018huge distraction\u2019 for government as Burham prepares to update MPs on his dealIn her speech, Louise Haigh announced that Juergen Maier, chair of",
+     "image": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=23f6053ed749ca16d0f6944641f7a021"
+    },
+    {
+     "title": "Iran says it will use \u2018all available means\u2019 to counter US blockade",
+     "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T13:04:11+00:00",
+     "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+     "image": ""
+    },
+    {
+     "title": "Environment Agency and Natural England face axe in Labour quango cull",
+     "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+     "source": "The Guardian",
+     "published": "2026-11-23T13:03:42+00:00",
+     "summary": "Louise Haigh says the two environmental regulators are being reviewed as part of shake-up of arm\u2019s length bodiesMinisters are considering abolishing two of England\u2019s biggest enviro",
+     "image": "https://i.guim.co.uk/img/media/b46f01566289f841fb7954222888ae0175122aad/1324_870_4795_3835/master/4795.jpg?width=140&quality=85&auto=format&fit=max&s=4a40a542fc4fecab084e3c1fd15755b6"
+    },
+    {
+     "title": "Students from Gaza win visa battle to study in Ireland",
+     "url": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
+     "source": "The Guardian",
+     "published": "2026-11-23T13:03:14+00:00",
+     "summary": "Decision to deny visas to more than 60 students overturned after high court orders justice department to reconsiderTwenty students from Gaza are to travel to Ireland to take up sch",
+     "image": "https://i.guim.co.uk/img/media/2cd7a8a0d8da2334980fddc1373a18d21e480cf7/913_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=809d691db58c1b3d50f03aceeaccca5a"
+    },
+    {
+     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+     "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-23T13:02:05+00:00",
+     "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4632/live/52e19140-e715-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "Nine people shot at central California concert with one in critical condition",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
+     "source": "The Guardian",
+     "published": "2026-11-23T13:00:05+00:00",
+     "summary": "Authorities say they believe the Saturday night shooting at a concert in Strathmore \u2018may be gang-related\u2019Nine people were shot at a concert in central California, leaving one perso",
+     "image": "https://i.guim.co.uk/img/media/ac8d5f2e719a3dee971a5cb44a960b8fa97ca236/209_0_2088_1671/master/2088.jpg?width=140&quality=85&auto=format&fit=max&s=ef19254570c5750ae4fb62e27bf46d17"
+    },
     {
      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
      "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
@@ -14,12 +70,20 @@
      "image": ""
     },
     {
-     "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T12:39:19+00:00",
-     "summary": "Former prime minister says issue is \u2018huge distraction\u2019 for government as Burham prepares to update MPs on his dealIn her speech, Louise Haigh announced that Juergen Maier, chair of",
-     "image": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=23f6053ed749ca16d0f6944641f7a021"
+     "title": "Argentina footballer Paredes collapses during post-match interview",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T12:40:21+00:00",
+     "summary": "Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.",
+     "image": ""
+    },
+    {
+     "title": "How the US, China and Russia are competing for Africa\u2019s mineral wealth",
+     "url": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T12:34:54+00:00",
+     "summary": "The US, China and Russia are vying for Africa\u2019s mineral wealth, raising questions about who stands to benefit.",
+     "image": ""
     },
     {
      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
@@ -28,14 +92,6 @@
      "published": "2026-11-23T12:33:44+00:00",
      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg"
-    },
-    {
-     "title": "Kremlin warns of \u2018escalation\u2019 as Albania denies Ukrainian drones that sank Russian ships launched from its territory \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T12:31:09+00:00",
-     "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspecte",
-     "image": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=140&quality=85&auto=format&fit=max&s=aee9973d6aea17ae72e1b662b0dd513f"
     },
     {
      "title": "Flights and train services cancelled in Belgium due to strike",
@@ -60,75 +116,67 @@
      "published": "2026-11-23T12:25:24+00:00",
      "summary": "Iran threatens response to any attack amid naval blockade",
      "image": ""
-    },
-    {
-     "title": "Search continues for dozens missing after Indonesia candy factory fire",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/search-continues-for-dozens-missing-after-indonesia-candy-factory-fire?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T12:23:19+00:00",
-     "summary": "Rescuers are searching for around 30 missing workers after a candy factory fire killed at least 24 people in Banten.",
-     "image": ""
-    },
-    {
-     "title": "Asylum seekers removed from UK subjected to \u2018unnecessary and intimidating\u2019 force",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/23/asylum-seekers-removed-from-uk-unnecessary-and-intimidating-force",
-     "source": "The Guardian",
-     "published": "2026-11-23T12:23:06+00:00",
-     "summary": "Incidents include suicidal man being carried on to plane in waist, leg and ankle restraints, freedom of information data shows\u201cUnnecessary and intimidating\u201d behaviour was used agai",
-     "image": "https://i.guim.co.uk/img/media/63339bfefcf476890ac93a72c6dfa887e91037a5/779_0_4223_3379/master/4223.jpg?width=140&quality=85&auto=format&fit=max&s=af03f2919214f8dcd26ae40f4a33fe28"
-    },
-    {
-     "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
-     "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
-     "source": "The Guardian",
-     "published": "2026-11-23T12:21:23+00:00",
-     "summary": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the ne",
-     "image": "https://i.guim.co.uk/img/media/9f3afbe1e7378450a625c5b7e95926fb65e79fa7/1064_0_6136_4911/master/6136.jpg?width=140&quality=85&auto=format&fit=max&s=a5b0f7ea6b86198a677555477b682837"
-    },
-    {
-     "title": "Photographer Federico Veronesi: 'I've been in love with African wildlife since I was three'",
-     "url": "https://www.france24.com/en/tv-shows/perspective/20261123-photographer-federico-veronesi-i-ve-been-in-love-with-african-wildlife-since-i-was-three",
-     "source": "France 24",
-     "published": "2026-11-23T12:18:13+00:00",
-     "summary": "The winner of this year's Wildlife Photographer of the Year award has told FRANCE 24 that his winning picture reveals a lot about the complexity of an elephant's soul and feelings.",
-     "image": "https://s.france24.com/media/display/b43bbd64-e736-11f1-ab72-ebb478925cf0/w:1024/p:16x9/capture-9abe55f6.jpg"
-    },
-    {
-     "title": "Democrats reveal details for 2028 presidential primary after midterm victories \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T12:15:52+00:00",
-     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefulsSign up to the Breaking News US emailThe US Federal Aviation Adminis",
-     "image": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1f1c12635d4a971f1cecda13811e7e3c"
-    },
-    {
-     "title": "'Out of control': ICE agents make arrests at Seattle airport in 'horrific' scene",
-     "url": "https://www.france24.com/en/video/20261123-out-of-control-ice-agents-make-arrests-at-seattle-airport-in-horrific-scene",
-     "source": "France 24",
-     "published": "2026-11-23T12:11:43+00:00",
-     "summary": "The governor of Washington state called US federal immigration agents \"out of control\" after they arrested two people at Seattle's main airport on Saturday. ICE officers have condu",
-     "image": "https://s.france24.com/media/display/c806d7ae-e734-11f1-a6ea-e56ab3dc0809/w:1024/p:16x9/miniice.jpg"
-    },
-    {
-     "title": "Arctic air brings colder temperatures to Europe this week",
-     "url": "https://www.theguardian.com/environment/2026/nov/23/arctic-air-colder-temperatures-europe-this-week",
-     "source": "The Guardian",
-     "published": "2026-11-23T11:59:03+00:00",
-     "summary": "After a warmer-than-average November so far globally, a cold snap is on the horizon in parts of EuropeWhile average global temperatures continue to set records through one of the s",
-     "image": "https://i.guim.co.uk/img/media/7b9c8b751f351893e94db7839c1c383ddc2ba856/0_0_6267_5013/master/6267.jpg?width=140&quality=85&auto=format&fit=max&s=59232a711ef773ec0e29b4054c5f8fb9"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T12:58:39.042859+00:00",
+   "fetched_at": "2026-11-23T13:28:43.302261+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine war taking place on increasing number of fronts",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xOEVHaElZclJNQmNnbHpSd2VQWldKLUZVWV9aaDBUUVkxb1U1RjZTNE9mRkxFeUFBb3NuQ05WMlpnZTEwWHlZdFJlU0NFekdBNVFHUHkxU245OFVjUEllczJlUWRnQnNvSGg4LUZ6RUtzWTJiS1Zz?oc=5",
+     "source": "CNN",
+     "published": "2026-11-23T13:21:39+00:00",
+     "summary": "Ukraine war taking place on increasing number of fronts&nbsp;&nbsp;CNN",
+     "image": ""
+    },
+    {
+     "title": "Kremlin warns of \u2018escalation\u2019 as Albania denies Ukrainian drones that sank Russian ships launched from its territory \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T13:12:27+00:00",
+     "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspecte",
+     "image": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=140&quality=85&auto=format&fit=max&s=aee9973d6aea17ae72e1b662b0dd513f"
+    },
+    {
+     "title": "Iran says it will use \u2018all available means\u2019 to counter US blockade",
+     "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T13:04:11+00:00",
+     "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+     "image": ""
+    },
+    {
+     "title": "Students from Gaza win visa battle to study in Ireland",
+     "url": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
+     "source": "The Guardian",
+     "published": "2026-11-23T13:03:14+00:00",
+     "summary": "Decision to deny visas to more than 60 students overturned after high court orders justice department to reconsiderTwenty students from Gaza are to travel to Ireland to take up sch",
+     "image": "https://i.guim.co.uk/img/media/2cd7a8a0d8da2334980fddc1373a18d21e480cf7/913_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=809d691db58c1b3d50f03aceeaccca5a"
+    },
     {
      "title": "Russia-Ukraine war spreads to Africa as ships attacked",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3VzajNJNGJfSHRLZVBrTmtYRGpfWE45ekxOZDltU3RMY29rTC13TnVmdFUwVkt2MjZPdkhUYXdrcXh6Q0lQYlpLb3BzYm1GTFFYYThJa083QXdDbnEwRWJCOHcwWjlTWWxPc2FISzFPbWtENExKZDRUbGNPQWhfalpKZlFxQkprZW9lclBoelZETlFKQTIzSk03Q09WYzgyUTRGbk1YbDZyaDkwblhfTGw4eEZXc1VSN0Zn?oc=5",
      "source": "Premium Times Nigeria",
      "published": "2026-11-23T12:50:52+00:00",
      "summary": "Russia-Ukraine war spreads to Africa as ships attacked&nbsp;&nbsp;Premium Times Nigeria",
+     "image": ""
+    },
+    {
+     "title": "Ukraine Unleashes Heavy Drones From Uncrewed Boats to Hit Russian Rear Positions",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ29UYWdXRkJqeXNJUkhCNWFCVXp5eGVhcnNITGZZdV9UcEpsdWNXd0xzM1h2ZFdROXRMYUQ0Y0xsUnEtMWJKQ0paTGdMTWt1bnBSZ3lzdnljR25wZERDX2Y3WDQyaThvbmladXl6YWg1a1p5SGpyTVZHODRId19BV0M3SV9UU01BbERWRTJfNmg0Y3ktNzYxX1daQ1RyOTA5UWhRb2RzcERJYTRYTS1vVHBFZ0pncXk4cW1mR3hoNFBnOFNXLWc?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-23T12:49:49+00:00",
+     "summary": "Ukraine Unleashes Heavy Drones From Uncrewed Boats to Hit Russian Rear Positions&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "How the US, China and Russia are competing for Africa\u2019s mineral wealth",
+     "url": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T12:34:54+00:00",
+     "summary": "The US, China and Russia are vying for Africa\u2019s mineral wealth, raising questions about who stands to benefit.",
      "image": ""
     },
     {
@@ -156,14 +204,6 @@
      "image": ""
     },
     {
-     "title": "Kremlin warns of \u2018escalation\u2019 as Albania denies Ukrainian drones that sank Russian ships launched from its territory \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T12:31:09+00:00",
-     "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspecte",
-     "image": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=140&quality=85&auto=format&fit=max&s=aee9973d6aea17ae72e1b662b0dd513f"
-    },
-    {
      "title": "Russia, Ukraine report civilian casualties following overnight air raids",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXpRT01OR21PNXFBelU4dHhNay1GVG0tUHBaTUpkc1VfSjhxd29UUjQ2M3BHUUJUSHJUb3g1M0d2UE1oenNtdlVGTkh5bVg0MlRpQzV3Qy1OMVFQRVRUYk9kTG9lZ0tHY0RBNWk0MUNQREhCMl9wZlBwLWZzdTE3blBrdElYNzhZOVZVUkJfMklyQWlmWWNlbi10LWhrNmpnaGhhTUp5RURqYmRyUTZZaS1lQWlmOG1KZGtyTTRwZ08?oc=5",
      "source": "Anadolu Ajans\u0131",
@@ -178,163 +218,115 @@
      "published": "2026-11-23T12:25:24+00:00",
      "summary": "Iran threatens response to any attack amid naval blockade",
      "image": ""
-    },
-    {
-     "title": "Photographer Federico Veronesi: 'I've been in love with African wildlife since I was three'",
-     "url": "https://www.france24.com/en/tv-shows/perspective/20261123-photographer-federico-veronesi-i-ve-been-in-love-with-african-wildlife-since-i-was-three",
-     "source": "France 24",
-     "published": "2026-11-23T12:18:13+00:00",
-     "summary": "The winner of this year's Wildlife Photographer of the Year award has told FRANCE 24 that his winning picture reveals a lot about the complexity of an elephant's soul and feelings.",
-     "image": "https://s.france24.com/media/display/b43bbd64-e736-11f1-ab72-ebb478925cf0/w:1024/p:16x9/capture-9abe55f6.jpg"
-    },
-    {
-     "title": "Zelensky hails \u2018exemplary mission\u2019 as Russian warships sunk in Libya",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEpWSGxCaFBCMGt3aEZPNXJWdTJNazRHU0g2UzNUcHlBZTJhcXNnZDZFM0taZmJvT2xMUVlSbXlkQldlY2kxR0FRX2ZucnV1S3VCZktPNDNBY0hsdl9ldE1YUVB4X0MwaFRWcVo4OVRTcWgzVjRvdC01T1RWbFFSTU1aQ2lIT3p5QVdHYkFDLTUwNlJaSXFCU2RDNG9GV0hMVk41dk5paFhYRHFR?oc=5",
-     "source": "The Times",
-     "published": "2026-11-23T12:15:00+00:00",
-     "summary": "Zelensky hails \u2018exemplary mission\u2019 as Russian warships sunk in Libya&nbsp;&nbsp;The Times",
-     "image": ""
-    },
-    {
-     "title": "Ukraine claims Libya strikes as attacks on Russian shipping spread",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazQydkx5S3cwazI0Y3o2NUExbEk3LUxkalFEY1hnc2xoRUt1djVFNVdqQ21GdDVyTUQyY1NDX3hHVEpoT1VpS041Z3l0ekVZOGU3OGQyWDREMk05SVZ4d0JvYjl5aVE0aUZoQXZweERJS2x1dzk2NDM1MzI2VmdkaE9vcnRWRlJWLU43SXZ1SUhIQVpjSzRFejJhR01ET3VpMkFBQW5R?oc=5",
-     "source": "Lloyd's List",
-     "published": "2026-11-23T12:07:19+00:00",
-     "summary": "Ukraine claims Libya strikes as attacks on Russian shipping spread&nbsp;&nbsp;Lloyd's List",
-     "image": ""
-    },
-    {
-     "title": "Russia\u2019s War in Ukraine Is Exposing the Limits of International Law",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVFNQjR1TGpoRk83ZENSWjNtNGtEV1RlcGZvajNKY0QxTnBHbkdDN0w1eWNOUkNHcTNjbDExbUY3a3VUa1Nld3RPNThHV0JRZ1RPcnJINlE1U1BsaWkwSWpwcGNmUTMxcGo4d3lPX3h0REtqWS14WDN0SnhZSTNiN2pYMVI1V2t0azhTVmxkS3RGZF9Uekl3ZkU3QnY?oc=5",
-     "source": "International Policy Digest",
-     "published": "2026-11-23T12:03:10+00:00",
-     "summary": "Russia\u2019s War in Ukraine Is Exposing the Limits of International Law&nbsp;&nbsp;International Policy Digest",
-     "image": ""
-    },
-    {
-     "title": "'Expansion' of Ukraine war after drone attacks in Mediterranean",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1lkR09iZjktWk0zZGlnMzR0c0ZTZW5Ial80eFdoSDJUSHBsMlJFZVd6dWtHREZwTHRjQU9zQmVsV3V3VmtmMC1zeVJXSXB2TTByWFVHV0sxUVEyTVZEdHNoMDZUOFhwYVdCSUxUUFBUS2ZRMHA0ajVqTUNYaXVQUVZ3OXhhcGZUcTdiMHpRUVdLV3hXX3NiRk1XdGZCZw?oc=5",
-     "source": "Sky News",
-     "published": "2026-11-23T11:59:48+00:00",
-     "summary": "'Expansion' of Ukraine war after drone attacks in Mediterranean&nbsp;&nbsp;Sky News",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T12:58:39.042862+00:00",
+   "fetched_at": "2026-11-23T13:28:43.302264+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Harris addresses federal threats to higher education and Iowa election results in legislative update",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaW1yWExxaXZSN2NmVDVSdTRLX1JWak9CSU44VG9JRmwyZ1p0MmFOWGVHcllCa3Z2QTN1YlRGRW91MUd1b0VQcFA0a2RDYXFhZWdDUkNnZUtYV2VETW9Sa1hZaGNjQ01ONXRONFRiOVE0SWlRS25WMk10MXE4US0zY0g0UXBTS0VObENheHk0dGtwajNZVjBLYXkzd2N6aXZtZmFTeE5taTh0MmlGZDZlMDd1WWNQRGNFMU4zR2RiUXd1eTJrUDNRa3UwZjhRUQ?oc=5",
+     "source": "Scarlet and Black",
+     "published": "2026-11-23T13:19:28+00:00",
+     "summary": "Harris addresses federal threats to higher education and Iowa election results in legislative update&nbsp;&nbsp;Scarlet and Black",
+     "image": ""
+    },
+    {
+     "title": "Ex-Russian Politician Appeals UK Sanctions After Conviction",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHhlanlodDVsVVVsM1FHYzhfcUYxOGRmZ0RId29MMGVpYmMxUkF3XzRhcmZNZW5RU2szQm9zM3JiZnM2ZkQ3dG9paGJKU3Y0TkVXdHVKUXl3WjhTVkx2ZkY0UkdydXU0MlFaTFpQMTlMMC1zSThhYk5jMHNHTi1qS0cwVnJPZklDM0p1THFoTS13YWVERHVwRTFKb1U1a2FT0gFWQVVfeXFMTUFNR1VqN095MkVnWTJuUmZiVnhQcEg3ZGpPMXhySk15V0ZoUi1LTTZ5NVlVUWNTbjJfbnNfOFpGVDZkSmxrb2pzU3VZMFh3dm5QTFJyZFE?oc=5",
+     "source": "Law360",
+     "published": "2026-11-23T13:15:44+00:00",
+     "summary": "Ex-Russian Politician Appeals UK Sanctions After Conviction&nbsp;&nbsp;Law360",
+     "image": ""
+    },
     {
      "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-23T12:39:19+00:00",
+     "published": "2026-11-23T13:11:16+00:00",
      "summary": "Former prime minister says issue is \u2018huge distraction\u2019 for government as Burham prepares to update MPs on his dealIn her speech, Louise Haigh announced that Juergen Maier, chair of",
      "image": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=23f6053ed749ca16d0f6944641f7a021"
     },
     {
-     "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
-     "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-23T12:33:44+00:00",
-     "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg"
-    },
-    {
-     "title": "Ted Cruz's Excuse for Election Wipeout Backfires Horribly in Texas",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk4zWlpqRFU2WnVtSC1JSTd1RXF2RklwUEVmclNjVzlyaGRJUEJsUE8zd0dtNzQ5VjMtcXc0NE9rdk9xX194TkFOeU9vd3ljdFZMRGVtSUxpNWtWaVVPY005MGRPU3Q1d0c5NU8wc3QweWxDUWdzcWlob3J4UE1HYlhqdkVOZnJMUFFZR0VwWENnUWJrM1dGa2xCOA?oc=5",
-     "source": "The Daily Beast",
-     "published": "2026-11-23T12:32:40+00:00",
-     "summary": "Ted Cruz's Excuse for Election Wipeout Backfires Horribly in Texas&nbsp;&nbsp;The Daily Beast",
+     "title": "Brazil\u2019s Real Weakens Past 6 Per Dollar as Lula Selloff Extends",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTNBWkU4bUcyVXBJREpxeTctZXpZNUthRUtjWXc5bTA1S0ZSOE1HQzh1YkctUUNSTTZJQWNzVHllMjBkLWY3WmFNSlZJVjBxM0lzMUNkekEwaVhHZGJxbUU0VWdoYU5DaDJZSGNIdTFJd1VkaFRoZzRjS0dnVDVWVGVZWThCb2ZicklkRFdxS1M1cVZUbnUzUmlBMWV2cUN2dkdBMF9KSXdvcDFyRGtPS0Rudkg?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-23T13:11:14+00:00",
+     "summary": "Brazil\u2019s Real Weakens Past 6 Per Dollar as Lula Selloff Extends&nbsp;&nbsp;Bloomberg.com",
      "image": ""
     },
     {
-     "title": "Zambia opposition leader charged with attempting to overthrow government",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDlnSFdBT2F0akJNanljN0haNnJMd3Z2Q1JGcTZ3NnhjZjRfWkJkaG9OSE9sV0Jpbl85eDNsZHI5U2EwdGxaY1d6NGlEZno1TkEzRVJjLVZLSkJnXzEzMUJHb2x1eVJOSkVRR2dzbUlpaTZyVmxRSVpKNWktOUZBRWtHaUNndEk2SEZuVFQ5SFVERTVmYjdPeHZnV1RjMXdCczhsT0s1S1RGYkZBU2xUMUFWWURpZ1k2SXc?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-23T12:28:09+00:00",
-     "summary": "Zambia opposition leader charged with attempting to overthrow government&nbsp;&nbsp;Reuters",
+     "title": "What's next after failed climate negotiations at COP31 in Turkey?",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wek9xUXhCMVctSDBZdW4zQWNYR3NGYVotZHJUblBYakM3a2lFdktuRUJhbDRYam1BRUpGcC0ybmhuNEhOeERaMjUzUExFVVNueWxKWEs3U0xRbkN2NUJHMlIzQVpLak05SXpkSjRNZ9IBb0FVX3lxTE1XSDJxY3cyM3Z6VEFmSnJyN0xjZzRCQlpzVnZ3Ni1NVWF6QjhxRjcwX1d0c3V4R2RUY0tnaUc2MkZvNTdOdXQyOHZsV0lJbDFoeHB0NmVrOUxRRFoxRWVjQmhsQlB2ZGVPTTdBV1BOYw?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-23T13:10:04+00:00",
+     "summary": "What's next after failed climate negotiations at COP31 in Turkey?&nbsp;&nbsp;DW.com",
      "image": ""
     },
     {
-     "title": "Flights and train services cancelled in Belgium due to strike",
-     "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-23T12:27:34+00:00",
-     "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg"
-    },
-    {
-     "title": "Claim of Deceased Voters on Rolls Mars NAACP Milwaukee Election",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3o2WUtiQWFFRklvQ05aY19CMlFMSWhqakdXSUNyVUhQZTkyTzNUd0NOMjQ5V3h2bW82UVhLYUZIUFFCbUtTbmVfN3J3SnpHbkdkdFRYWVJqVVVRendTSk5kVHFLd3ZuVXpUMkdlemtHU05KZlVwbER0NnJaLVRqVnhyRTc?oc=5",
-     "source": "The Heartland Post",
-     "published": "2026-11-23T12:23:35+00:00",
-     "summary": "Claim of Deceased Voters on Rolls Mars NAACP Milwaukee Election&nbsp;&nbsp;The Heartland Post",
+     "title": "A Pile of Problems Has Landed on Wall Street Since Election Day",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFNRTDFVWnlBVjBYVVJ3NjNsTC16dGtNRjBCQzU3VXVILVdobUZ4aWt3Ym4tbXJQamt6dVRfTlFwZk9fLThXZG5iUnpUSDJtMktfYkpGN3BNWWNfSENHZUprZkh2djhyMTF3VUZMX00ySHBveXVNekllcHBGdmNOdGJlLWt5N2NnRDJUS1Yzck1JN1NkQm4tb1lZaUdCVHBUTW1rcHo0OHMtWkMzbEJYOTBrTQ?oc=5",
+     "source": "The South Shore Press",
+     "published": "2026-11-23T13:08:25+00:00",
+     "summary": "A Pile of Problems Has Landed on Wall Street Since Election Day&nbsp;&nbsp;The South Shore Press",
      "image": ""
     },
     {
-     "title": "Spanish PM Sanchez proposes wealth tax ahead of election",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZlR1RDhUMTRDaS02d3pzMWdWM241dk1TNF9ObEx6Sm5hczdfaEpLQkNVNHZIX1J0U2RLOWpQS1RQOGt1c0ZtTS0xM0pjczVCOEtXcmxYTUZFTEREY1I3bC1TWDY3NHdodEtWWlZFTEM5bmlURlZnTUdILXBGcWlTRUZTRDRsRk14TWxxd1B4M3U4R0hhd3h6QkpuejRUTzhydlNXU3RQcFNnUXR2d2JkZDRscXAtUmFYams5bFdIaTc3WHExcDdFOEd3?oc=5",
-     "source": "Le Monde.fr",
-     "published": "2026-11-23T12:21:50+00:00",
-     "summary": "Spanish PM Sanchez proposes wealth tax ahead of election&nbsp;&nbsp;Le Monde.fr",
+     "title": "Minnesota election recounts begin Monday as 3 races stay too close to call",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWhIMUprR2I2S3FGd0trNERTcTRBTmVFR3RtcXprZ2xSR243MmJrcDFEdGQzY1RKYXMtRWxWZm1zaGhlQzNVTktIWEZaOXB5RjBWZWxjYUVRNnAwTE42WlRocGlhVThZTHcwWjg5R1hxNDBadzEtSTBTbDYtclpKR3JLUGF2TGhrWGFab1JPcm1Hd2s2?oc=5",
+     "source": "FOX 9 Minneapolis-St. Paul",
+     "published": "2026-11-23T13:05:28+00:00",
+     "summary": "Minnesota election recounts begin Monday as 3 races stay too close to call&nbsp;&nbsp;FOX 9 Minneapolis-St. Paul",
      "image": ""
     },
     {
-     "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
-     "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
+     "title": "Grinnell must develop a comprehensive parental leave policy",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1FhZDFKSDZNSVllUl9hM2NXT1NGRjJtOWlQV2dpcTBrMC11NU92WFBoS1lFVktncjFzbC14UnNxQXprb0lXbjY5VkxqczFMaWY5LXllY09VNTFkQVYtT2hMenc5ZEZaVmZJV3NOWl9zU1FSWUhfYWxxaF9uVVRZeFlXWVR5ZWFLdWlEcUhwUzhWMmFuZlJTbFBmSUw?oc=5",
+     "source": "thesandb.com",
+     "published": "2026-11-23T13:04:45+00:00",
+     "summary": "Grinnell must develop a comprehensive parental leave policy&nbsp;&nbsp;thesandb.com",
+     "image": ""
+    },
+    {
+     "title": "Environment Agency and Natural England face axe in Labour quango cull",
+     "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
      "source": "The Guardian",
-     "published": "2026-11-23T12:21:23+00:00",
-     "summary": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the ne",
-     "image": "https://i.guim.co.uk/img/media/9f3afbe1e7378450a625c5b7e95926fb65e79fa7/1064_0_6136_4911/master/6136.jpg?width=140&quality=85&auto=format&fit=max&s=a5b0f7ea6b86198a677555477b682837"
+     "published": "2026-11-23T13:03:42+00:00",
+     "summary": "Louise Haigh says the two environmental regulators are being reviewed as part of shake-up of arm\u2019s length bodiesMinisters are considering abolishing two of England\u2019s biggest enviro",
+     "image": "https://i.guim.co.uk/img/media/b46f01566289f841fb7954222888ae0175122aad/1324_870_4795_3835/master/4795.jpg?width=140&quality=85&auto=format&fit=max&s=4a40a542fc4fecab084e3c1fd15755b6"
     },
     {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YOGxOMTBEVDc4d3VVZDBoZlhlbVVnR24zVldGQTBTdFI2MXpuT0hhODdZdS1rcFFJNFRPbTUtUWhZZ0oxVDZoNUltTHlrN0p4QWI5UmsxWXJiUE8xMmRsaWVmZ2swbnVSOVA5bllKVGFMTkdmUzFhSmlMdTk4UQ?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-23T12:20:58+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "title": "Now, we want to know what you want to stay up to date on after the 2026 election.",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjNHYkpKdFg0ZFJrUGRXZjlHUGRRSWdkcWt0ZzlodjJwUDh3QXhxLUxaVUxJVDRjbnFHZDl4MDNSRzIyRl9qSTVyTlp2eElYZTV5cERuOVU2dFAzR0ZjY2ZlNlQ1Wkg5TkFMV0FUNnhaYlRmOXNNV1hNajdqbUd2VGhqb0Vrd2NzMGNfOGU3WXdybEh1SjRiTDF3YTAzem8tcjVWOXktZkw4MWswLUE?oc=5",
+     "source": "LAist",
+     "published": "2026-11-23T13:00:00+00:00",
+     "summary": "Now, we want to know what you want to stay up to date on after the 2026 election.&nbsp;&nbsp;LAist",
      "image": ""
     },
     {
-     "title": "Democrats reveal details for 2028 presidential primary after midterm victories \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T12:15:52+00:00",
-     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefulsSign up to the Breaking News US emailThe US Federal Aviation Adminis",
-     "image": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1f1c12635d4a971f1cecda13811e7e3c"
+     "title": "11/23/2026: Election Timing, Appropriate Unit, Position Statements After Deadline",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qbWpLNnNlRGpyaWQtNk1VYnhVYl90V1k4RzZ3U2tMaWVyeV84VGZ6elp4SUhHUklOSjMxMi1ad0w0WFY0N21ETk1QNlU4Mml0Q0w2VUZXOTZya05uc3BzRmZuX1MwNlJrREUtZE85U0U?oc=5",
+     "source": "NLRB Edge",
+     "published": "2026-11-23T12:58:25+00:00",
+     "summary": "11/23/2026: Election Timing, Appropriate Unit, Position Statements After Deadline&nbsp;&nbsp;NLRB Edge",
+     "image": ""
     },
     {
-     "title": "'Out of control': ICE agents make arrests at Seattle airport in 'horrific' scene",
-     "url": "https://www.france24.com/en/video/20261123-out-of-control-ice-agents-make-arrests-at-seattle-airport-in-horrific-scene",
-     "source": "France 24",
-     "published": "2026-11-23T12:11:43+00:00",
-     "summary": "The governor of Washington state called US federal immigration agents \"out of control\" after they arrested two people at Seattle's main airport on Saturday. ICE officers have condu",
-     "image": "https://s.france24.com/media/display/c806d7ae-e734-11f1-a6ea-e56ab3dc0809/w:1024/p:16x9/miniice.jpg"
-    },
-    {
-     "title": "Last day to file for Spring Election",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTJ5Q2NLODFZTE9va0d3ckJ1aFJwcXZwRzNSZUxGaERMTlBqcE5VVV9oMmgyTm85WUhKTmVPZHpZRUxjTkxjYmJMOFdlSFRJWTdtN01vSlRManBlaXFWNUI4QnV6QnNaaVYxWm95c2lXSWZ5WEx5c3NLeFBONTR1bWYwYUlIYlh2ZWFEamQxMXE5bDlseS05YVJyd0VjV092SVpuSDMyUmdVeHZ1TGxCQW0xblU2NU1sOUJ0ZXhhMzJWSlZfM0E?oc=5",
-     "source": "AdVantageNews.com",
-     "published": "2026-11-23T12:00:00+00:00",
-     "summary": "Last day to file for Spring Election&nbsp;&nbsp;AdVantageNews.com",
+     "title": "Global Health Architecture: Cautious Steps and Aid Collapse Spark Pushback From the Frontline",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CWktCVGhkeGExNHlMYjJTaGhiNlhXbTZNQU9DWDBoUUpIbnpqV2h4ZElCcDc4NktHUERpQks4WEdXT2ZLbmNoT2dGR2NaVTJwVlMzT05zLUFRa3YwYlQzVUh5UW1rTEpWd3R3OVFLaEE4ZzIt?oc=5",
+     "source": "Health Policy Watch",
+     "published": "2026-11-23T12:56:03+00:00",
+     "summary": "Global Health Architecture: Cautious Steps and Aid Collapse Spark Pushback From the Frontline&nbsp;&nbsp;Health Policy Watch",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T12:58:39.042864+00:00",
+   "fetched_at": "2026-11-23T13:28:43.302266+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
-     "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
-     "source": "The Guardian",
-     "published": "2026-11-23T08:45:13+00:00",
-     "summary": "Jump in price follows slowdown in Qatar supplies and depleted summer stocks due to heatwavesBusiness live \u2013 latest updatesEuropean gas prices surged on Monday as a forecast cold sn",
-     "image": "https://i.guim.co.uk/img/media/596fc4064aaba881cdfb43c17488ceec612369a6/809_389_3588_2872/master/3588.jpg?width=140&quality=85&auto=format&fit=max&s=552d72399ddcd69d987bcc9eddb97c9c"
-    },
     {
      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
