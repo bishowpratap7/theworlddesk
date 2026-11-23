@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T09:58:03.351522+00:00",
+ "generated_at": "2026-11-23T09:58:15.627405+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T09:58:03.351493+00:00",
+   "fetched_at": "2026-11-23T09:58:15.627371+00:00",
    "stale": false,
    "items": [
     {
@@ -54,6 +54,14 @@
      "image": "https://s.france24.com/media/display/a9647e72-e71c-11f1-bc7a-1bac47ab2f5d/w:1024/p:16x9/AP26325805482465.jpg"
     },
     {
+     "title": "Death toll rises after deadly Russian attacks on Ukraine",
+     "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T09:34:25+00:00",
+     "summary": "At least 15 people are killed in multiple attacks, days after Putin promises a \u2018painful\u2019 response to Ukrainian attacks.",
+     "image": ""
+    },
+    {
      "title": "Gaza turned into \u2018toxic wasteland\u2019 by Israel\u2019s war, says new report",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
      "source": "Al Jazeera",
@@ -94,7 +102,7 @@
      "image": "https://i.guim.co.uk/img/media/41a071ca7559fc90de14b0b516948c4cf9335122/374_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=f309cb43216d242b067f49ed8071a5e9"
     },
     {
-     "title": "AI superintelligence \u2018arriving\u2019 warns top Meta executive",
+     "title": "AI superintelligence \u2018arriving\u2019, warns top Meta executive",
      "url": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-23T09:08:07+00:00",
@@ -108,19 +116,11 @@
      "published": "2026-11-23T08:53:10+00:00",
      "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
      "image": ""
-    },
-    {
-     "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
-     "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
-     "source": "The Guardian",
-     "published": "2026-11-23T08:45:13+00:00",
-     "summary": "Jump in price follows slowdown in Qatar supplies and depleted summer stocks due to heatwavesBusiness live \u2013 latest updatesEuropean gas prices surged on Monday as a forecast cold sn",
-     "image": "https://i.guim.co.uk/img/media/7b5bb0d2c3b48dfdbcdd7ecb7881b1b008a94717/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=042604edbf9212227adc293094946db2"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T09:58:03.351507+00:00",
+   "fetched_at": "2026-11-23T09:58:15.627386+00:00",
    "stale": false,
    "items": [
     {
@@ -137,14 +137,6 @@
      "source": "NPR",
      "published": "2026-11-23T09:44:54+00:00",
      "summary": "In the occupied West Bank, a Palestinian DJ has swapped music for traffic updates, with thousands of informants -- bus drivers & commuters -- feeding realtime info on Israeli road ",
-     "image": ""
-    },
-    {
-     "title": "NATO to meet after Russia-Ukraine war once again inches onto European territory",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR05nOTY4VjA4TXR0SF9VSVphYkR3RmF2Qmxoajd6SW1JY2xtSUZURVhmZGRrSk4xYnFmZVN3Z2xMZFltUmY2OHZZUzBSVW5JZHZDak1nMXJ1S09Ha21nQzJFUVMtalo1NXU2Tlc3YXhqVDNOcFJYMk5pNEIzbE02X1hfTXlER2JVMDJMYjBEQUVZdVVWei01ZE94Y3h0Tzd5Zk9faUtuUkRhWHRaY01NYUJ3MGpMMU56Z2JLWDN6bFdGZw?oc=5",
-     "source": "NPR",
-     "published": "2026-11-23T09:44:26+00:00",
-     "summary": "NATO to meet after Russia-Ukraine war once again inches onto European territory&nbsp;&nbsp;NPR",
      "image": ""
     },
     {
@@ -175,8 +167,16 @@
      "title": "Zelensky Confirms Attack Against Russian Warship in Libya",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTNxM3ZibUpmNnl3YjN5VTh2YWZ4UkpIV0E4Q2d3eURUVWxCUUNsUkl3MVUzcDgwY2xxbVhWZ3BYY1NGN0NNZU5zc1kwUGhzMnZDbWRPeENYQ21QMWU2LUxMbnpPTXUtaXdHODkwSnh1RzNERTVMdXZlVWYzcjA2Z3c5TzVRYTFRTWQtb3pIZzJQTEdVX0E0YlNzTDREODVyQ1A2X0MyS041Zw?oc=5",
      "source": "The Moscow Times",
-     "published": "2026-11-23T09:39:54+00:00",
+     "published": "2026-11-23T09:39:00+00:00",
      "summary": "Zelensky Confirms Attack Against Russian Warship in Libya&nbsp;&nbsp;The Moscow Times",
+     "image": ""
+    },
+    {
+     "title": "Death toll rises after deadly Russian attacks on Ukraine",
+     "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T09:34:25+00:00",
+     "summary": "At least 15 people are killed in multiple attacks, days after Putin promises a \u2018painful\u2019 response to Ukrainian attacks.",
      "image": ""
     },
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T09:58:03.351510+00:00",
+   "fetched_at": "2026-11-23T09:58:15.627388+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T09:58:03.351513+00:00",
+   "fetched_at": "2026-11-23T09:58:15.627390+00:00",
    "stale": false,
    "items": [
     {
