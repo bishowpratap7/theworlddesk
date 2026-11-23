@@ -1,10 +1,66 @@
 {
- "generated_at": "2026-11-23T14:28:52.660593+00:00",
+ "generated_at": "2026-11-23T14:58:56.814533+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T14:28:52.660562+00:00",
+   "fetched_at": "2026-11-23T14:58:56.814498+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+     "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-23T14:54:03+00:00",
+     "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg"
+    },
+    {
+     "title": "Moscow accuses Estonia of acting \u2018on verge of unleashing open war with Russia\u2019 \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:41:12+00:00",
+     "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the KremlinTurning to Ukraine, Nato\u2019s Rutte",
+     "image": "https://i.guim.co.uk/img/media/ecdd39c673437b312d3f50d55e6ea129410a5ab0/287_0_4531_3627/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=62b66af0684101060f49ad8f073101e0"
+    },
+    {
+     "title": "Trump insists US government has \u2018no reason to believe\u2019 Huang\u2019s return to Nvidia poses a national security risk \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:40:38+00:00",
+     "summary": "US president praises Nvidia\u2019s reinstatement of Jensen Huang as CEO, calling it \u2018the correct and proper decision\u2019Sign up to the Breaking News US emailNvidia\u2019s shares have surged by ",
+     "image": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=e633ec1bbe2c14257a07187d55bac276"
+    },
+    {
+     "title": "Dhaka bursting at the seams: Bangladeshi capital faces public health, housing crisis",
+     "url": "https://www.france24.com/en/tv-shows/focus/20261123-dhaka-bursting-at-the-seams-bangladeshi-capital-faces-public-health-housing-crisis",
+     "source": "France 24",
+     "published": "2026-11-23T14:39:25+00:00",
+     "summary": "The Bangladeshi capital Dhaka is one of the most densely populated places on Earth, with over 35,000 people per square kilometre, compared with 20,000 in Paris. Every year, 400,000",
+     "image": "https://s.france24.com/media/display/cbfbc936-e73f-11f1-9fd5-1bac47ab2f5d/w:1024/p:16x9/capture-5026a01d.jpg"
+    },
+    {
+     "title": "Ukraine claims strikes on Russian ships off Libyan coast",
+     "url": "https://www.france24.com/en/video/20261123-ukraine-claims-strikes-on-russian-ships-off-libyan-coast",
+     "source": "France 24",
+     "published": "2026-11-23T14:36:26+00:00",
+     "summary": "Ukraine claimed responsibility on Monday for attacks on two Russian vessels off the coast of Libya the previous day. Here is what we know about the operation, claimed by President ",
+     "image": "https://s.france24.com/media/display/b333898c-e746-11f1-aae4-6b451f569414/w:1024/p:16x9/miniukraine-1.jpg"
+    },
+    {
+     "title": "Nine people shot at central California concert with one in critical condition",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:34:40+00:00",
+     "summary": "Authorities say they believe the Saturday night shooting at a concert in Strathmore \u2018may be gang-related\u2019Nine people were shot at a concert in central California, leaving one perso",
+     "image": "https://i.guim.co.uk/img/media/ac8d5f2e719a3dee971a5cb44a960b8fa97ca236/209_0_2088_1671/master/2088.jpg?width=140&quality=85&auto=format&fit=max&s=ef19254570c5750ae4fb62e27bf46d17"
+    },
+    {
+     "title": "Amtrak train derails after colliding with tractor-trailer in Louisiana",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/amtrak-derailment-louisiana",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:32:40+00:00",
+     "summary": "Five passengers were reported to have non-life-threatening injuries after crash at railroad crossing near LafayetteAn Amtrak train collided with a tractor-trailer at a railroad cro",
+     "image": "https://i.guim.co.uk/img/media/1087d91a2299463a2187036d05af742504229e66/300_276_1155_924/master/1155.jpg?width=140&quality=85&auto=format&fit=max&s=9e48b30df288eae4c2f3c76be04a7f59"
+    },
     {
      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
@@ -12,6 +68,30 @@
      "published": "2026-11-23T14:26:33+00:00",
      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg"
+    },
+    {
+     "title": "Nvidia board Reinstates Jensen Huang as CEO",
+     "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T14:24:38+00:00",
+     "summary": "Jensen Huang\u2019s swift return to Nvidia coincides with a sharp 31 percent premarket spike in the tech giant\u2019s stock.",
+     "image": ""
+    },
+    {
+     "title": "Ian Huntley killed by inmate in \u2018cold-blooded murder\u2019 planned weeks in advance, court told",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:19:44+00:00",
+     "summary": "Jurors hear Anthony Russell killed Soham murderer by hitting him repeatedly over head with metal barA prisoner killed the Soham murderer Ian Huntley with a heavy metal bar in a \u201cco",
+     "image": "https://i.guim.co.uk/img/media/066d49301bbbb46ab73a98865546253b13defbda/0_87_1080_864/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=7eee59c9e29c3c51ebad691c6b6b0106"
+    },
+    {
+     "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
+     "url": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:18:33+00:00",
+     "summary": "Move would be breach of Outer Space treaty and Partial Nuclear Test Ban treaty, which prohibit placing of nuclear weapons in orbitThe German government has said it is taking very s",
+     "image": "https://i.guim.co.uk/img/media/da8ac93a647a5b8021eb40012dcaa4d54584db73/670_0_1798_1440/master/1798.jpg?width=140&quality=85&auto=format&fit=max&s=50d16a7684b42e6f94beb55b6263053e"
     },
     {
      "title": "PAMELA bring a little light to darker times with 'Dancing on the Edge'",
@@ -22,107 +102,83 @@
      "image": "https://s.france24.com/media/display/2ff0a5ae-e742-11f1-8d4c-13439ca2fe89/w:1024/p:16x9/PHOTO-EN.jpeg"
     },
     {
-     "title": "\ud83d\udd34 Nvidia board reinstates Jensen Huang as CEO",
-     "url": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
-     "source": "France 24",
-     "published": "2026-11-23T14:11:16+00:00",
-     "summary": "",
-     "image": ""
-    },
-    {
-     "title": "Nvidia board reinstates Huang as CEO, Trump hails 'correct' decision",
-     "url": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
-     "source": "\u00a9 Mark Schiefelbein, AP",
-     "published": "2026-11-23T14:06:17+00:00",
-     "summary": "Nvidia on \u2060Monday said it \u200bwas reinstating Jensen Huang as chief executive, effective immediately, an extraordinary reversal \u200bunder pressure from US President Donald Trump followin",
-     "image": "https://s.france24.com/media/display/a13d6d38-debd-11f1-a5c4-3f371022a770/w:1024/p:16x9/AP26316465276155.jpg"
-    },
-    {
-     "title": "Ukraine sending the message that 'we can attack you where we want'",
-     "url": "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
-     "source": "France 24",
-     "published": "2026-11-23T14:04:23+00:00",
-     "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelensky said Monday, claiming that maritime drones sank the navy vessel in a surp",
-     "image": "https://s.france24.com/media/display/f7598696-e743-11f1-8e21-13439ca2fe89/w:1024/p:16x9/EN-20261123-140926-141328-CS.jpg"
-    },
-    {
-     "title": "\u2018Worst possible choice\u2019: Should date of French election be changed?",
-     "url": "https://www.france24.com/en/video/20261123-worst-possible-choice-should-date-of-french-election-be-changed",
-     "source": "France 24",
-     "published": "2026-11-23T14:02:09+00:00",
-     "summary": "France is set to head to the polls in 2027 for a two-round presidential election, but the choice of the dates of the vote is causing controversy. The ballot is currently set for th",
-     "image": "https://s.france24.com/media/display/88dcafb8-e743-11f1-87cb-6b451f569414/w:1024/p:16x9/EN-20261123-134025-134212-CS.jpg"
-    },
-    {
-     "title": "Plant-based lunches could cut Australia\u2019s emissions by 15m tonnes, new research shows",
-     "url": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
+     "title": "Jensen Huang reinstated as Nvidia CEO",
+     "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
      "source": "The Guardian",
-     "published": "2026-11-23T13:58:01+00:00",
-     "summary": "Nationwide change in lunch habits could cut more climate pollution than grounding every domestic flightGet our breaking news email, free app or daily news podcastAustralians could ",
-     "image": "https://i.guim.co.uk/img/media/e50b5a6eff849b3a981e6a6c376ecefbca08a976/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=27e549713bf8802b112762a29a163166"
+     "published": "2026-11-23T14:15:27+00:00",
+     "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spyBusiness live \u2013 latest updatesNvidia has said it is reinsta",
+     "image": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=140&quality=85&auto=format&fit=max&s=9777f3efbe0433b8488aa88bcecef998"
     },
     {
-     "title": "Domestic violence perpetrators are misusing smart car features to abuse, researchers warn",
-     "url": "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
+     "title": "Former Tory PMs \u2018can\u2019t face up to their bad Brexit deal\u2019, says Burnham \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-23T13:57:45+00:00",
-     "summary": "Exclusive: Alarming report reveals how tracking and monitoring functions and digital key access have been used to facilitate abuseGet our breaking news email, free app or daily new",
-     "image": "https://i.guim.co.uk/img/media/8c241696f80fee0162024cf4ce50e049a40039be/894_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36ccf87b754aaece8f8acbdb19385b5d"
-    },
-    {
-     "title": "Over 100 writers from PEN America to form splinter group over Gaza tensions",
-     "url": "https://www.theguardian.com/books/2026/nov/23/pen-america-gaza-splinter-group",
-     "source": "The Guardian",
-     "published": "2026-11-23T13:56:26+00:00",
-     "summary": "Members of the free-expression literary and human rights group are forming a new chapter called PEN Writes US More than 100 well-known writers and members of the literary world are",
-     "image": "https://i.guim.co.uk/img/media/d96e8d58fffcdc5739b8a2ad4eaf7b69ef919284/500_0_5000_4002/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4989c59c4c221848dd507fd82bd794c6"
-    },
-    {
-     "title": "Democrats reveal details for 2028 presidential primary after midterm victories \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T13:56:20+00:00",
-     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefulsSign up to the Breaking News US emailLast night, Donald Trump reward",
-     "image": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1f1c12635d4a971f1cecda13811e7e3c"
-    },
-    {
-     "title": "\u2018Pervert glasses\u2019 named word of the year by Macquarie dictionary, ahead of \u2018nudify\u2019 and \u2018AI;DR\u2019",
-     "url": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
-     "source": "The Guardian",
-     "published": "2026-11-23T13:55:40+00:00",
-     "summary": "Australian dictionary\u2019s committee of word experts says winning term is \u2018a succinct reflection of the state of the world in 2026\u2019Get our breaking news email, free app or daily news ",
-     "image": "https://i.guim.co.uk/img/media/157cb03ca11449508590bbb8b23daca70b5a59ce/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=3e842895d6ccaf9e9f6342fb5695c9ff"
-    },
-    {
-     "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T13:54:48+00:00",
-     "summary": "Israeli restrictions have left Gaza facing a severe shortage of hearing aid batteries.",
-     "image": ""
-    },
-    {
-     "title": "Kremlin warns of \u2018escalation\u2019 as Albania denies Ukrainian drones that sank Russian ships launched from its territory \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T13:48:25+00:00",
-     "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspecte",
-     "image": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=140&quality=85&auto=format&fit=max&s=aee9973d6aea17ae72e1b662b0dd513f"
-    },
-    {
-     "title": "Anti-austerity strike spurs transport chaos across Belgium",
-     "url": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T13:45:16+00:00",
-     "summary": "National strike against planned austerity causes widespread disruption, with government&#039;s fate hanging in the balance.",
-     "image": ""
+     "published": "2026-11-23T14:14:44+00:00",
+     "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the debate on BrexitIn her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy,",
+     "image": "https://i.guim.co.uk/img/media/c1db663bc7667222692d12878f5578031da69604/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=02b596279ec0f6f7602a8d253e5d6d4d"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T14:28:52.660578+00:00",
+   "fetched_at": "2026-11-23T14:58:56.814516+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "CORRECTION Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmRpQV9PWS1STTNKYjRuWWhITGx2YkFnUDFrNjNnSWpJMW82M0pXV21wWnYtQTdjX1cyRG9LTHRocUJBLUlNaHhQcHN2Wl9DOVg0YjdJVXoyakJPUFJzRDVFazFqbGhxWkNnQmtnSG1DSlNfV2Z5cXV0NlQ3aTZRblllWGVtZ0ZmUE5pRXpVY1RIRTE3WTl4YXlaX1dvMnFrbDJDQS1JeWw5aUNCaUFFQXdOVWFNVzZUenI3eVM0eVY?oc=5",
+     "source": "Goshen News",
+     "published": "2026-11-23T14:52:20+00:00",
+     "summary": "CORRECTION Russia Ukraine War&nbsp;&nbsp;Goshen News",
+     "image": ""
+    },
+    {
+     "title": "Ukraine attacks Russian ships in Benghazi",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iektUa3RkckZ2TjVvdjNsWHJOU0M3MVlyUHYtdGVsblpNbHZURUxXSWdVYUs2WjNBaUQyR19wb0dZUy1IV2I4OENOTlVHRzBBZ2RNdkg2UGdubF9odm81SUFyb3RULXNpZFJkdzl2WmtrbmhEakNzSDlR?oc=5",
+     "source": "commonspace.eu",
+     "published": "2026-11-23T14:51:31+00:00",
+     "summary": "Ukraine attacks Russian ships in Benghazi&nbsp;&nbsp;commonspace.eu",
+     "image": ""
+    },
+    {
+     "title": "Moscow accuses Estonia of acting \u2018on verge of unleashing open war with Russia\u2019 \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:41:12+00:00",
+     "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the KremlinTurning to Ukraine, Nato\u2019s Rutte",
+     "image": "https://i.guim.co.uk/img/media/ecdd39c673437b312d3f50d55e6ea129410a5ab0/287_0_4531_3627/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=62b66af0684101060f49ad8f073101e0"
+    },
+    {
+     "title": "Ukraine claims strikes on Russian ships off Libyan coast",
+     "url": "https://www.france24.com/en/video/20261123-ukraine-claims-strikes-on-russian-ships-off-libyan-coast",
+     "source": "France 24",
+     "published": "2026-11-23T14:36:26+00:00",
+     "summary": "Ukraine claimed responsibility on Monday for attacks on two Russian vessels off the coast of Libya the previous day. Here is what we know about the operation, claimed by President ",
+     "image": "https://s.france24.com/media/display/b333898c-e746-11f1-aae4-6b451f569414/w:1024/p:16x9/miniukraine-1.jpg"
+    },
+    {
+     "title": "Russia Produces a New Ballistic Missile Every Five Hours\u2014and Is Still Accelerating, Ukraine Warns",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLWhJYlBFb1V6bkt6cFRTTTkwcGEtTHFVaEJFa1Bsa1Y2RVZicWJFN0JrSTUyWll2ZEY0Z2ZOU25Kb0ZoZllteW5Tb3hObHlXWDNndW5lblptT1A2MmZlWDFTMWpUWTdOSm5ZcEZ2UEpSd21TQTU3TVZMbWxNOHRMUnZCOG1Lbm9wRnc4TzRzQmREOEdqN1dLa1ctc3l2X3IzUmZMQlNDRGR6ZTktZ2pxejdmUXR1eml5WXB2TG1GQ0ozTUpyWkRnR1BFWGJoY0Q0aE5Uc1Rkbk1nT3M?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-23T14:20:30+00:00",
+     "summary": "Russia Produces a New Ballistic Missile Every Five Hours\u2014and Is Still Accelerating, Ukraine Warns&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
+     "url": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:18:33+00:00",
+     "summary": "Move would be breach of Outer Space treaty and Partial Nuclear Test Ban treaty, which prohibit placing of nuclear weapons in orbitThe German government has said it is taking very s",
+     "image": "https://i.guim.co.uk/img/media/da8ac93a647a5b8021eb40012dcaa4d54584db73/670_0_1798_1440/master/1798.jpg?width=140&quality=85&auto=format&fit=max&s=50d16a7684b42e6f94beb55b6263053e"
+    },
+    {
+     "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMS1zbEVxVndMWUJmN2VrSWp3TmwyR2FLMUx2X05BQUxQNUdHWUdnTlo2MU92TWhMZmdEVXhJWEpJdDc5SW1TeVB5blNzMWMxRWJjVUcwVjh6V1NaZll2UmF4NENUaVBnUGxkRzJrc042QUZ4QUtVN0hfWHRrTUlhMGFjVUdZb1YzYjNwWHc0ZkxIVldKaV9Bejh5VkVKUXhYTXRvcHZvZWk3QnNkSFEzemExUFd5VVJPRXQ40gHAAUFVX3lxTFBMS0w3VWJpXzJ5dGEzM0IzaGdTQWlTZEtHenM5aVh4Nm44UjFOakNGTXdOWU56czRJYTlNc0hmYnltS3hQRTh1OXA0VFduNEtPaEEzcVFYTElTbW9HX2gzODRuUXpuTzFWQm1icXFxWVNLeWhBd2x0M2tBVUZVOE9qQlg0dFNMUGVfVGU2QUNicmtEckNTSzJXS2xwVWNMc0xURjVYVW1aQzByczRIbTRJV3piRkdfdHZIS29nRWVtZQ?oc=5",
+     "source": "PBS",
+     "published": "2026-11-23T14:13:51+00:00",
+     "summary": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya&nbsp;&nbsp;PBS",
+     "image": ""
+    },
     {
      "title": "The Oleshky Test: When Humanitarian Action Meets Geopolitics",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakFOT0tYajEzUk94YWk0Q1ctV3JPSFU1RTF3Qk9YaVVQWWF1QmdOZG9ITmU5VzItRmsyUTQxVXJDYjlwVVNUMUZINTRobG1fLTB4VXpSN0Y4RWFHbnhzSVd6RlBKTlJ3VHlocW14UldWaDFXY2owMUlwNThiMGJKVg?oc=5",
@@ -156,75 +212,75 @@
      "image": "https://i.guim.co.uk/img/media/8c241696f80fee0162024cf4ce50e049a40039be/894_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36ccf87b754aaece8f8acbdb19385b5d"
     },
     {
-     "title": "Over 100 writers from PEN America to form splinter group over Gaza tensions",
-     "url": "https://www.theguardian.com/books/2026/nov/23/pen-america-gaza-splinter-group",
-     "source": "The Guardian",
-     "published": "2026-11-23T13:56:26+00:00",
-     "summary": "Members of the free-expression literary and human rights group are forming a new chapter called PEN Writes US More than 100 well-known writers and members of the literary world are",
-     "image": "https://i.guim.co.uk/img/media/d96e8d58fffcdc5739b8a2ad4eaf7b69ef919284/500_0_5000_4002/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4989c59c4c221848dd507fd82bd794c6"
-    },
-    {
-     "title": "Democrats reveal details for 2028 presidential primary after midterm victories \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T13:56:20+00:00",
-     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefulsSign up to the Breaking News US emailLast night, Donald Trump reward",
-     "image": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1f1c12635d4a971f1cecda13811e7e3c"
-    },
-    {
      "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-23T13:54:48+00:00",
      "summary": "Israeli restrictions have left Gaza facing a severe shortage of hearing aid batteries.",
      "image": ""
-    },
-    {
-     "title": "Ukrainian Combat Veteran Is Helping Train Future British Army Officers",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOG0xcmswNjZjcldzSzh4RHZzVVg0QmlUOWx6dndIVnhJbGNnNTdJRmpxRFh0YUxHQTYzN3RFVnRVenhyaEp2NHpxQ2M3QUtDMjBPdGRWSlQ1TDd4LV9qSzZlNkh6ZnRVc1pZWkdaZDlBLWhZM2ZjVGRPWllHY05LNkt0NE5Wek9Ibmc0MWs3X2tqTVZUTE9GSW4xVnRyeVdXYzkxVmJn?oc=5",
-     "source": "Business Insider",
-     "published": "2026-11-23T13:53:00+00:00",
-     "summary": "Ukrainian Combat Veteran Is Helping Train Future British Army Officers&nbsp;&nbsp;Business Insider",
-     "image": ""
-    },
-    {
-     "title": "Ukraine claims strike on Russian warship and cargo tanker in Libyan port",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR1h1b2huQ0JWN1ZmUlNBeWNJbkxncWdJV1haWkRrVVdWazhwQlpxUnB5RVZONzJ1cGhjVFk0YmdfaEFxRms4OFYzcXpKYTM5cm5xSnVDNlBGS1JsSFVGVWItQkkyYW5HQk5aVzFRZ0xIdXFrQU82SnBZcW5hbVBUMk1aSHRSMFpTQWtreDB6NDR1bnpwM0ZWaUhZeHBaRVk?oc=5",
-     "source": "Washington Examiner",
-     "published": "2026-11-23T13:51:16+00:00",
-     "summary": "Ukraine claims strike on Russian warship and cargo tanker in Libyan port&nbsp;&nbsp;Washington Examiner",
-     "image": ""
-    },
-    {
-     "title": "Kremlin warns of \u2018escalation\u2019 as Albania denies Ukrainian drones that sank Russian ships launched from its territory \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T13:48:25+00:00",
-     "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspecte",
-     "image": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=140&quality=85&auto=format&fit=max&s=aee9973d6aea17ae72e1b662b0dd513f"
-    },
-    {
-     "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMVFwYTlSUC1RaWF0U2NSRmE3aklxUGxVZ3VrN0dLendXRG0xVWV4VEZLTExjZkJnblJHLUZiNUUwbENrUVVMallDdXpEanNYMWM4VUtSbG9iek5JaVYwdGxBOENHXzBpcUhWWmFfTERfcTdHRXJHMTR5MzNXR1AtN0FuNFJwdDRIcG5GdHlkWm9CbzJQaGhOalNkNzN2MHhYcFBfb0J5SjNfUnBFNjV1WHlUUzZweTZJUWwtTzZqaTNsb1laaHJ6dnFva2k0V3hmMERQUGNpMGpMVzE4ZTlnVFhJOS1aS09IeEoyTmV3OVJaSmgybWZUQnAydWV4S0VBSUJPdkhhREFUN2s?oc=5",
-     "source": "News-Press NOW",
-     "published": "2026-11-23T13:34:03+00:00",
-     "summary": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya&nbsp;&nbsp;News-Press NOW",
-     "image": ""
-    },
-    {
-     "title": "Ukraine sinking Russian warship off Libya raises risk of wider war | Daily Sabah",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmhyemk3NS1PT3hvUmNsWkR4bDloZkNBN0RjaXBTR2JBb1VQcFRjdi1saHJmMmtGV09mdEhHR00xQmhsNDV2bTZfc1o4eGJhekZ6WUNaRW01NjFOMzYzeWlaZTRuR21FdjRuOHBxRHZKSXFLODFnTkhxTnpudUhpR192MlVfSEdyM1Y2NE56d1NWSE1iUk1PQ3lUYXg4VjN4ZmdJV21YZVJDZ9IBrwFBVV95cUxPQlgwN3V3RXlDcVdPeXhMMVo1bjdTX3U2Vkx4V0ZxbEs3YmdoS3pWM3o2S1M4Uk1OaktEVEZEQUhKbnFoU0JPV2o3aVdqTnhPMmN5V2hJcnBNUGttY2g4QktQWTRjTERmMTZyb2RmUFJzMWl6a1RoU1V5bFFKcmZZVnRBc3ExV19TcXF0XzVOQmREdl9MUnpLMloxV29ZT1Y4LWdSdWdFb1N4c2x3X1RN?oc=5",
-     "source": "Daily Sabah",
-     "published": "2026-11-23T13:31:15+00:00",
-     "summary": "Ukraine sinking Russian warship off Libya raises risk of wider war | Daily Sabah&nbsp;&nbsp;Daily Sabah",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T14:28:52.660581+00:00",
+   "fetched_at": "2026-11-23T14:58:56.814520+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "DeSantis Sets Dates for District 39 Special Election",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHl1eG4yNWk4NkJybWpTN1Rxb0xUQ25JaG11OWg0TnA0NzNUZTlWQ21jT280bl93SW5FMUdSYVUxVjR2NzJHelJCT1dpNzZMRDY1X0NscVdncF8wX0pfY3M5dkoxZTBhZ1BpWF91Q3c5emI4RHVfWTY4Qlo0dlp3Zlo5UFZhV0N5R3VLNnBUcGFPdjVsMzQtaHlsdG94UdIBpgFBVV95cUxNbG1LbnhJUGl2QXpFcThOLTY5OHRZREZkUXl1RzdQcFB4Q3NidEdoeU9nV0dTRmJjMlZaWGFRQ0dVNXJ4Q1VpNTJsZDdWVnBWYlpvSENfSlJxcVFHVkFJZjQxbXllQjV5QWNPN0pJVkg0QWd1VEhBcjJ0YTU2WWhyZkx0SEFMS0YyQXZ1OU1CR3VMbkVNOGlLRmVENlcyOFVKbWM4a3pn?oc=5",
+     "source": "NBC 6 South Florida",
+     "published": "2026-11-23T14:50:45+00:00",
+     "summary": "DeSantis Sets Dates for District 39 Special Election&nbsp;&nbsp;NBC 6 South Florida",
+     "image": ""
+    },
+    {
+     "title": "Consumer sentiment lifts after election",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXE4d0lCNmo5RFNmTlk3UWJLNUFvbUFXaWt6UXBockM4MDlyZndReDl1ZUFZZHpTRE9QZVVfZWUwUTZhQXJ5a0FjcGRYazhWNnFCd1ZEamt6S0RjM1o3bWwwT3JyVlo2Zm95RFdHcE9RZlFqZEZ2Q2ZoeDRnaHgtSnNFZjk?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-23T14:50:00+00:00",
+     "summary": "Consumer sentiment lifts after election&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
+    {
+     "title": "EU expands its sanctions framework: New enforcement structures and Russia-related designations",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVZVc043NUJ3X1BRRk9aLXBEY1FXRVN1Z09pMm9RZUdYUU85NkZBaGxraGJ5STdTM0VNZ1hZQVpuYjNGSnRDUThVYTBrMzIwWTlxcnJYS1pkYWc2WmpVWlpHMm80WElDbEtiNzVSaHlGX3NYeXdIV3U5cFo1X0VWLVp5V3p4STUwbEo4QUNodTl3LWNFbDdTeTdLRXdWRG0wcURBN04zRkpsUHNfUll0S0c5aklUX3VKMnJvanJhazFJblcxeWpPVm5aWTFjTEE?oc=5",
+     "source": "Global Sanctions and Export Controls Blog",
+     "published": "2026-11-23T14:45:31+00:00",
+     "summary": "EU expands its sanctions framework: New enforcement structures and Russia-related designations&nbsp;&nbsp;Global Sanctions and Export Controls Blog",
+     "image": ""
+    },
+    {
+     "title": "Nicole Mitchell refused papers in Woodbury election challenge, process server says",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVp0ZUV5N19GVGhvOVBUdzVkMjBwQ0wyRWlPWjRzdnM0Q3hyLUpxdVRqRVotTDk2MlB0MEVjRktMajBLN0F4TkNNV2NGOTRCV2FlYlgzYXkzaDhGMWF3QVVvc2dPQW9QVHBzQ21aVGRwd0dieGRLYW5Ib1BVQldod3hTT1JjTEVOY2xqa29ocXhWWF8wanJaZHpfaWh6b2JHbWdxTlNaVGhFTlMyZW00VXRGa0J4aWZCWHFPLURB?oc=5",
+     "source": "Valley News Live",
+     "published": "2026-11-23T14:41:00+00:00",
+     "summary": "Nicole Mitchell refused papers in Woodbury election challenge, process server says&nbsp;&nbsp;Valley News Live",
+     "image": ""
+    },
+    {
+     "title": "Trump insists US government has \u2018no reason to believe\u2019 Huang\u2019s return to Nvidia poses a national security risk \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:40:38+00:00",
+     "summary": "US president praises Nvidia\u2019s reinstatement of Jensen Huang as CEO, calling it \u2018the correct and proper decision\u2019Sign up to the Breaking News US emailNvidia\u2019s shares have surged by ",
+     "image": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=e633ec1bbe2c14257a07187d55bac276"
+    },
+    {
+     "title": "Edmiston says jail admitting complaint is with the policy not the staff",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYW5ILU1UcndyY0JNRlZvWGtFOXVtUkNTcF9rYU5pV3V5NHBINnliTlh6ajlSU1FkQXhYMTNBekhSSVIyMXRUMEZoWXFUWFo0OWh2Wm1mRnU3dGpsOHdDWldEbDg3NlZZUU5SRDFPNUV1bEgyZUJUQ0tCN3RWNkNSVjZDenBQZmhUVDhmYnFUY1lfQ1UwbzZRUjI1T3F4OHBwWEE3cA?oc=5",
+     "source": "Elkhorn Media Group",
+     "published": "2026-11-23T14:33:40+00:00",
+     "summary": "Edmiston says jail admitting complaint is with the policy not the staff&nbsp;&nbsp;Elkhorn Media Group",
+     "image": ""
+    },
+    {
+     "title": "LIST: Early voting sites for Fort Smith mayoral runoff election",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOWpjMnB0X2JKcFNBWGR6YzVheXFnS1RnX3h3TFRnenhGblJhWGdsMTRkeUdZX0N0eTRBZnJjRTJlX3dEc0pnNkZvcmZ3MXNpTWwweENpbDFrYnlKNEtoT1RPTmprQVZlUW5TWW5fdTRrU3Zna2VpN2ZBdl9VaDd4U3Mtb05zWXdxWFI2dzFHM0t0dlFoX1lreWctaFhMdXdodzhhSEJPQ1ZnX1Vnc3QyVXpmdk5VMHBMaFVtSUFZcHZuM0dZcG4yWXUwM05QcW1pUFRhdnVFU3ZaTXZDR1g2UTZwUEtYb2lKS3c?oc=5",
+     "source": "5newsonline.com",
+     "published": "2026-11-23T14:30:14+00:00",
+     "summary": "LIST: Early voting sites for Fort Smith mayoral runoff election&nbsp;&nbsp;5newsonline.com",
+     "image": ""
+    },
     {
      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
@@ -237,8 +293,16 @@
      "title": "Spain\u2019s election could see Europe\u2019s far-right \u2018firewall\u2019 begin to fall apart",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT2dlX0FzV3phZWVRclQyRE53UG5wUmwzOWVIYUVDZHNPTUNTdVZKc2pnNmhFWFNtWExrZXpyV2JjWlhFTlM0N0pBTXJNMG45Um1pQXN5WEpGTzJZbW52VHhWazJaNHZ5dGllUjFQcmFXZU10SFFNNk9yU2xYNzVOM3FyYl9pbDdPNE1oQUlubmIxRFdPNzNqN00xU09POG5IMjM3cGxIb3VBQQ?oc=5",
      "source": "Chatham House",
-     "published": "2026-11-23T14:24:04+00:00",
+     "published": "2026-11-23T14:26:15+00:00",
      "summary": "Spain\u2019s election could see Europe\u2019s far-right \u2018firewall\u2019 begin to fall apart&nbsp;&nbsp;Chatham House",
+     "image": ""
+    },
+    {
+     "title": "Trump Has a \u2018Strange\u2019 New Election Conspiracy Theory",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVcyVFQ4b3lsRDc0NjRuTjJaRkw3bVdheTFkaEdKMnlVdHRQczkzVHBWQXdoUlA2TFlCeVFPVTNrZG40Y2JUMU9fN25lUTN0VUpTbXhiV1ZUXzdlOGZqSU1ublhQVWhNMW9fMjJuc08xdHFYb01XWFZfWjNHaXpzNFNJd3Q1NExERi1HQUZB?oc=5",
+     "source": "Talking Points Memo",
+     "published": "2026-11-23T14:22:00+00:00",
+     "summary": "Trump Has a \u2018Strange\u2019 New Election Conspiracy Theory&nbsp;&nbsp;Talking Points Memo",
      "image": ""
     },
     {
@@ -250,81 +314,17 @@
      "image": ""
     },
     {
-     "title": "Treasury Proposes Expanded Outbound Investment Regulations Under the COINS Act",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFllRTZVZXVHblR0dmQ3RzRoclNDc0hteDNEWlhxRDFGbWtUZ2JHOWFILTM5Tk56cVFLZko3VDc0VTQ3NzJ3bzA1TkVMRTBqVVVURTAxOGwwYldwLWFoTG16bWRCZHZhakF3aXZMejJlUGxVUW5MaVVvaWZ4T0RPRWVHb3VKNEw1YXMzY1ZiOTBIZk80N21ud0w0X0ZhNnNKQkc1WUo1RE1DdnVIa1Z4TXFFcUlabTB3OGFj?oc=5",
-     "source": "Global Sanctions and Export Controls Blog",
-     "published": "2026-11-23T14:18:34+00:00",
-     "summary": "Treasury Proposes Expanded Outbound Investment Regulations Under the COINS Act&nbsp;&nbsp;Global Sanctions and Export Controls Blog",
-     "image": ""
-    },
-    {
-     "title": "The Paradox of Takaichi\u2019s Popularity",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TX0lsRHJRS09pbTJ5RVBWU1VaN0VPSnNZaWw2TjQ1bDVqb3c3ZFN1RUotVk5Ld2NlcWl0WW5rZFpLMnpJQ1V4djAxTGRHY0RlLU03LURNdGlfbV91RFM4UVA2NmpTRUwyYW5nbDFPREFjLTlkbFpz?oc=5",
-     "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-     "published": "2026-11-23T14:15:00+00:00",
-     "summary": "The Paradox of Takaichi\u2019s Popularity&nbsp;&nbsp;The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-     "image": ""
-    },
-    {
-     "title": "Nvidia board reinstates Huang as CEO, Trump hails 'correct' decision",
-     "url": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
-     "source": "\u00a9 Mark Schiefelbein, AP",
-     "published": "2026-11-23T14:06:17+00:00",
-     "summary": "Nvidia on \u2060Monday said it \u200bwas reinstating Jensen Huang as chief executive, effective immediately, an extraordinary reversal \u200bunder pressure from US President Donald Trump followin",
-     "image": "https://s.france24.com/media/display/a13d6d38-debd-11f1-a5c4-3f371022a770/w:1024/p:16x9/AP26316465276155.jpg"
-    },
-    {
-     "title": "After the Blue Wave: How Patent Policy Could Change",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHU3QV94N25UdHNaUVRRalNWRGlGSEZtYUFSbklRcVlMTkpTbzQ2bmszUVo0eWtScWVwdHRaNGlTVFpNQWZxdm93bmQ4c1lsNGU0QzBQRjBVYkdBRnJOd1A2Wm11V0thOWtUYVdBcmJmc0VCNk56NUdlRnc4YjVzSFYwM2NOU0otcTI5YjZhczF4ZG94eC00MVRqLU9FeGhWSWhlQ3VOdHg?oc=5",
-     "source": "Holland & Knight",
-     "published": "2026-11-23T14:02:08+00:00",
-     "summary": "After the Blue Wave: How Patent Policy Could Change&nbsp;&nbsp;Holland & Knight",
-     "image": ""
-    },
-    {
-     "title": "Brazil\u2019s Real Weakens Past 6 Per Dollar as Lula Selloff Extends",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTNBWkU4bUcyVXBJREpxeTctZXpZNUthRUtjWXc5bTA1S0ZSOE1HQzh1YkctUUNSTTZJQWNzVHllMjBkLWY3WmFNSlZJVjBxM0lzMUNkekEwaVhHZGJxbUU0VWdoYU5DaDJZSGNIdTFJd1VkaFRoZzRjS0dnVDVWVGVZWThCb2ZicklkRFdxS1M1cVZUbnUzUmlBMWV2cUN2dkdBMF9KSXdvcDFyRGtPS0Rudkg?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-23T14:00:17+00:00",
-     "summary": "Brazil\u2019s Real Weakens Past 6 Per Dollar as Lula Selloff Extends&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
-    },
-    {
-     "title": "China-US ties tipped to hold steady in 2027 despite \u2018confrontational dynamics\u2019",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdno5aG5QNDZLU1hkdkF6M1U3WTI5UE8waHRkSjRFbjh6YkZ6R18zRUpfV2kycGdsNVZhTE1OQ25oUnE5Y1JIaWRtUmw3MHFEVlJqcjBaX3dZNWJreGlSeGhjX3lETXh6UktYN2xlYmdRTk1POGZkVC16RkwxckNLVzhVQjJnYVY0dWcwS0dFYVlPdDFXN194VzdDX182dTR3MnQyZngzV2FEVThUcEJjZkl0dTEyeDdFU1Z6VVZXWXV1OVl5N0ZMRTZB0gHKAUFVX3lxTE85bjRVUVVsTzk5cVdzY284ZGowS1NnQlpXQVJIM0R6ZHJkcnM3WVdKSDc3eFR3Y19ycXRRaHFMb1ZGU3ZZNlpqRVIwRUh5TW1yZEpWeGRtRzBSdWRIZkJHRUxhNFJxVWFObGh4RERiZWc5TzR5VmhORXJCaWQwekVSN1VhM0VjQWpYWWJvWUpic0h1dnFWem5oQVBoTjA4WU43cGp0cFVsUEhwWFdIdGtrUjlLTmliQXVfR01kWFBPNTM4WDYybHJDTkE?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-11-23T14:00:13+00:00",
-     "summary": "China-US ties tipped to hold steady in 2027 despite \u2018confrontational dynamics\u2019&nbsp;&nbsp;South China Morning Post",
-     "image": ""
-    },
-    {
-     "title": "What the Election Results Mean for Your Wallet",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRDVLa3FQM2R1TUxtU2M2M2dBWEVuWWhzQ0RrZnlvbGJDbVpvcXVuRFoxUVR0QzU1TllsZEd2dXRtdnEtLXQycVQwZXdrbFVsWUFiWGRXNldEX2RyOUFFUXhwV25iaDRqWXAwMU9zMWNob0g0VnJFdGZhcFpWTkplZTdTRm4?oc=5",
-     "source": "KALW",
-     "published": "2026-11-23T14:00:00+00:00",
-     "summary": "What the Election Results Mean for Your Wallet&nbsp;&nbsp;KALW",
-     "image": ""
-    },
-    {
-     "title": "Minnesota State Senate District 4 Election Recount Starts Today",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzlVbTRNNzFGRk1MNDZSck9CSGstbElIWjhKNmZoSFgzSmZKa1Y0U0JaVnlMTUxpUUlMS2piYVlTNTRxd2FHcUJaeklKTUVDeHZid1VwNDd6UU4ycUc1Q3JCZjRxN0Z5bmZpWDJuV3BibzA3X001aWtmNW53WF9ONVNXSmNGcXI4YS1YendCd3pEOUVZR2ltb01wRGpQZw?oc=5",
-     "source": "knoxradio",
-     "published": "2026-11-23T13:59:15+00:00",
-     "summary": "Minnesota State Senate District 4 Election Recount Starts Today&nbsp;&nbsp;knoxradio",
-     "image": ""
-    },
-    {
-     "title": "After COP31, our chance to save climate diplomacy lies in global shipping",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQam16WnRqMGtxUHQ2bzhfSTQwQnFZSk1rV2txQ1RqRWZodUxTMnBjUEc3U1U4MG5tQl9mSVVseHZDSHZSNUxfUnJZaDBVeWRYa2Vjbmc2Qm5oZWM3X2pOZ3NLLTVpZWNYX29LTGhnelVzeHg3NmdVNUxIYkNBY3J2MVVVSFNTNXVqU2Y1ZUI0Qi1iaTUtVEpMdEotaENENTBMMmZQTEllYVo3VG1tRWNjbE82VWxlRWtVdlE?oc=5",
-     "source": "Climate Home News",
-     "published": "2026-11-23T13:59:11+00:00",
-     "summary": "After COP31, our chance to save climate diplomacy lies in global shipping&nbsp;&nbsp;Climate Home News",
+     "title": "Israeli report raises concerns over proposed US sanctions on West Bank settlers and businesses",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNk5jNFIzTENiek9oZ2dUM1pqR3YycEtfM3duOGNablJsTTFJU09DaEhPRFZqdC1taFJoNEtQRC1ULUwzbTBCWHdjeHhJZkl2Q0NtQi1hdWRKakVuT3MtT1l4LTFHTUNqQ2VON2pYVmhRQUVCRFMwUkxHcktJV1NYX3BIdXd0eHFzM0U0RWZRSjhPZU5Oam5CRGtsYlpYbmE2S3ZoWWptUzdNdEVtQl93c0duRHdNbThWd2lnbkljeV9fckNKTDhLMFRKUzdUbkx4UVZLedIB2gFBVV95cUxQREFKcjZNRzl2TjhoYVkyZHdCbVdzRXU4Sy15cHJib1o2THJibHNSUnhxMTlmODNOREs1TlhITkhTamV3THhhZ0x5U0k0Z3hnV0tvNjc5dDh0UElqU092enhxMGM4MHp4TkxBMHBFZjFzS0VWUE5OeDZnbU9ReS1kM01hejIxcUtjWXRvWHdrYWNqWFZJRk5yQ3V0YklWZGkzNVA3eHFGbWFsdmUxNXV0aXZid2ppX21xMXNLaEJnQTZVcnd4QkVSVmhUSGtncVhWX2ZpTmV3b2NxUQ?oc=5",
+     "source": "Middle East Monitor",
+     "published": "2026-11-23T14:19:00+00:00",
+     "summary": "Israeli report raises concerns over proposed US sanctions on West Bank settlers and businesses&nbsp;&nbsp;Middle East Monitor",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T14:28:52.660583+00:00",
+   "fetched_at": "2026-11-23T14:58:56.814522+00:00",
    "stale": false,
    "items": [
     {
