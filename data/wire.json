@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T14:58:56.814533+00:00",
+ "generated_at": "2026-11-23T14:59:09.995970+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T14:58:56.814498+00:00",
+   "fetched_at": "2026-11-23T14:59:09.995944+00:00",
    "stale": false,
    "items": [
     {
@@ -14,22 +14,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg"
     },
     {
-     "title": "Moscow accuses Estonia of acting \u2018on verge of unleashing open war with Russia\u2019 \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T14:41:12+00:00",
-     "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the KremlinTurning to Ukraine, Nato\u2019s Rutte",
-     "image": "https://i.guim.co.uk/img/media/ecdd39c673437b312d3f50d55e6ea129410a5ab0/287_0_4531_3627/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=62b66af0684101060f49ad8f073101e0"
-    },
-    {
-     "title": "Trump insists US government has \u2018no reason to believe\u2019 Huang\u2019s return to Nvidia poses a national security risk \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T14:40:38+00:00",
-     "summary": "US president praises Nvidia\u2019s reinstatement of Jensen Huang as CEO, calling it \u2018the correct and proper decision\u2019Sign up to the Breaking News US emailNvidia\u2019s shares have surged by ",
-     "image": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=e633ec1bbe2c14257a07187d55bac276"
-    },
-    {
      "title": "Dhaka bursting at the seams: Bangladeshi capital faces public health, housing crisis",
      "url": "https://www.france24.com/en/tv-shows/focus/20261123-dhaka-bursting-at-the-seams-bangladeshi-capital-faces-public-health-housing-crisis",
      "source": "France 24",
@@ -38,12 +22,28 @@
      "image": "https://s.france24.com/media/display/cbfbc936-e73f-11f1-9fd5-1bac47ab2f5d/w:1024/p:16x9/capture-5026a01d.jpg"
     },
     {
+     "title": "Democrats reveal details for 2028 presidential primary after midterm victories \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:38:52+00:00",
+     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefulsSign up to the Breaking News US emailHere\u2019s Trump\u2019s full social medi",
+     "image": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1f1c12635d4a971f1cecda13811e7e3c"
+    },
+    {
      "title": "Ukraine claims strikes on Russian ships off Libyan coast",
      "url": "https://www.france24.com/en/video/20261123-ukraine-claims-strikes-on-russian-ships-off-libyan-coast",
      "source": "France 24",
      "published": "2026-11-23T14:36:26+00:00",
      "summary": "Ukraine claimed responsibility on Monday for attacks on two Russian vessels off the coast of Libya the previous day. Here is what we know about the operation, claimed by President ",
      "image": "https://s.france24.com/media/display/b333898c-e746-11f1-aae4-6b451f569414/w:1024/p:16x9/miniukraine-1.jpg"
+    },
+    {
+     "title": "Moscow accuses Estonia of acting \u2018on verge of unleashing open war with Russia\u2019 \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:35:49+00:00",
+     "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the KremlinTurning to Ukraine, Nato\u2019s Rutte",
+     "image": "https://i.guim.co.uk/img/media/ecdd39c673437b312d3f50d55e6ea129410a5ab0/287_0_4531_3627/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=62b66af0684101060f49ad8f073101e0"
     },
     {
      "title": "Nine people shot at central California concert with one in critical condition",
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T14:58:56.814516+00:00",
+   "fetched_at": "2026-11-23T14:59:09.995956+00:00",
    "stale": false,
    "items": [
     {
@@ -140,20 +140,20 @@
      "image": ""
     },
     {
-     "title": "Moscow accuses Estonia of acting \u2018on verge of unleashing open war with Russia\u2019 \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T14:41:12+00:00",
-     "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the KremlinTurning to Ukraine, Nato\u2019s Rutte",
-     "image": "https://i.guim.co.uk/img/media/ecdd39c673437b312d3f50d55e6ea129410a5ab0/287_0_4531_3627/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=62b66af0684101060f49ad8f073101e0"
-    },
-    {
      "title": "Ukraine claims strikes on Russian ships off Libyan coast",
      "url": "https://www.france24.com/en/video/20261123-ukraine-claims-strikes-on-russian-ships-off-libyan-coast",
      "source": "France 24",
      "published": "2026-11-23T14:36:26+00:00",
      "summary": "Ukraine claimed responsibility on Monday for attacks on two Russian vessels off the coast of Libya the previous day. Here is what we know about the operation, claimed by President ",
      "image": "https://s.france24.com/media/display/b333898c-e746-11f1-aae4-6b451f569414/w:1024/p:16x9/miniukraine-1.jpg"
+    },
+    {
+     "title": "Moscow accuses Estonia of acting \u2018on verge of unleashing open war with Russia\u2019 \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T14:35:49+00:00",
+     "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the KremlinTurning to Ukraine, Nato\u2019s Rutte",
+     "image": "https://i.guim.co.uk/img/media/ecdd39c673437b312d3f50d55e6ea129410a5ab0/287_0_4531_3627/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=62b66af0684101060f49ad8f073101e0"
     },
     {
      "title": "Russia Produces a New Ballistic Missile Every Five Hours\u2014and Is Still Accelerating, Ukraine Warns",
@@ -170,6 +170,14 @@
      "published": "2026-11-23T14:18:33+00:00",
      "summary": "Move would be breach of Outer Space treaty and Partial Nuclear Test Ban treaty, which prohibit placing of nuclear weapons in orbitThe German government has said it is taking very s",
      "image": "https://i.guim.co.uk/img/media/da8ac93a647a5b8021eb40012dcaa4d54584db73/670_0_1798_1440/master/1798.jpg?width=140&quality=85&auto=format&fit=max&s=50d16a7684b42e6f94beb55b6263053e"
+    },
+    {
+     "title": "How Ukraine drone attacks on Russian ships unfolded",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MSjFVVjBlN3JULUsxaFRzdXprQU1VVmU3d1VZNUxkVWJtRW10cHNveDMzT3JNQklyTzZiV29OQXk5MC1fcmxkZWNuaTZBQ1I3VTVuMzY2NEZfR0k?oc=5",
+     "source": "BBC",
+     "published": "2026-11-23T14:16:36+00:00",
+     "summary": "How Ukraine drone attacks on Russian ships unfolded&nbsp;&nbsp;BBC",
+     "image": ""
     },
     {
      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
@@ -210,19 +218,11 @@
      "published": "2026-11-23T13:57:45+00:00",
      "summary": "Exclusive: Alarming report reveals how tracking and monitoring functions and digital key access have been used to facilitate abuseGet our breaking news email, free app or daily new",
      "image": "https://i.guim.co.uk/img/media/8c241696f80fee0162024cf4ce50e049a40039be/894_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=36ccf87b754aaece8f8acbdb19385b5d"
-    },
-    {
-     "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T13:54:48+00:00",
-     "summary": "Israeli restrictions have left Gaza facing a severe shortage of hearing aid batteries.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T14:58:56.814520+00:00",
+   "fetched_at": "2026-11-23T14:59:09.995959+00:00",
    "stale": false,
    "items": [
     {
@@ -258,12 +258,12 @@
      "image": ""
     },
     {
-     "title": "Trump insists US government has \u2018no reason to believe\u2019 Huang\u2019s return to Nvidia poses a national security risk \u2013 live",
+     "title": "Democrats reveal details for 2028 presidential primary after midterm victories \u2013 US politics live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-23T14:40:38+00:00",
-     "summary": "US president praises Nvidia\u2019s reinstatement of Jensen Huang as CEO, calling it \u2018the correct and proper decision\u2019Sign up to the Breaking News US emailNvidia\u2019s shares have surged by ",
-     "image": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=e633ec1bbe2c14257a07187d55bac276"
+     "published": "2026-11-23T14:38:52+00:00",
+     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefulsSign up to the Breaking News US emailHere\u2019s Trump\u2019s full social medi",
+     "image": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1f1c12635d4a971f1cecda13811e7e3c"
     },
     {
      "title": "Edmiston says jail admitting complaint is with the policy not the staff",
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T14:58:56.814522+00:00",
+   "fetched_at": "2026-11-23T14:59:09.995961+00:00",
    "stale": false,
    "items": [
     {
