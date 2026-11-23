@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-23T06:27:39.766380+00:00",
+ "generated_at": "2026-11-23T06:57:42.979607+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T06:27:39.766353+00:00",
+   "fetched_at": "2026-11-23T06:57:42.979580+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "How Ireland resisted British rule through sport",
+     "url": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T06:47:10+00:00",
+     "summary": "Game Theory explores how traditional Irish sport became part of a much bigger struggle to protect its heritage",
+     "image": ""
+    },
+    {
+     "title": "Is the global far right really in retreat?",
+     "url": "https://www.aljazeera.com/opinions/2026/11/23/is-the-global-far-right-really-in-retreat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T06:44:00+00:00",
+     "summary": "Electoral defeats alone will not dismantle the political forces that brought the far right to power.",
+     "image": ""
+    },
+    {
+     "title": "Ligue 1: Marseille lose to Le Mans after being up 2 goals at home",
+     "url": "https://www.france24.com/en/tv-shows/sports/20261123-ligue-1-marseille-lose-to-le-mans-after-being-up-2-goals-at-home",
+     "source": "France 24",
+     "published": "2026-11-23T06:41:41+00:00",
+     "summary": "Olympique de Marseille suffered a home defeat against Le Mans (3\u20132). Having led 2-0 after 40 minutes thanks to goals from Gouiri (33\u2019) and Paix\u00e3o (40\u2019), OM collapsed.",
+     "image": "https://s.france24.com/media/display/659a3e8c-e6e2-11f1-a088-ebb478925cf0/w:1024/p:16x9/om-1-2.jpg"
+    },
     {
      "title": "Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
      "url": "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis?traffic_source=rss",
@@ -12,6 +36,14 @@
      "published": "2026-11-23T06:15:40+00:00",
      "summary": "Alcaraz joins an exclusive list, becoming one of only four men to have won all four majors and the ATP Finals.",
      "image": ""
+    },
+    {
+     "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community \u2013 as it happened",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-23T06:13:21+00:00",
+     "summary": "This blog is now closed\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridge the divide between nations on clim",
+     "image": "https://i.guim.co.uk/img/media/a8e4b43c304ba0c667d2b3d232ba1b4acfdb683f/378_0_3201_2562/master/3201.jpg?width=140&quality=85&auto=format&fit=max&s=e08e916f69bca5f5e2519ab10fd7e2ba"
     },
     {
      "title": "Live: Russian strikes kill at least 15 people in Kyiv region, Ukraine says",
@@ -62,14 +94,6 @@
      "image": ""
     },
     {
-     "title": "Australian politics live: NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-23T05:50:10+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
-     "image": "https://i.guim.co.uk/img/media/a8e4b43c304ba0c667d2b3d232ba1b4acfdb683f/378_0_3201_2562/master/3201.jpg?width=140&quality=85&auto=format&fit=max&s=e08e916f69bca5f5e2519ab10fd7e2ba"
-    },
-    {
      "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
      "source": "The Guardian",
@@ -92,37 +116,37 @@
      "published": "2026-11-23T05:34:39+00:00",
      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg"
-    },
-    {
-     "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-     "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-23T05:33:17+00:00",
-     "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg"
-    },
-    {
-     "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-23T05:15:06+00:00",
-     "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb0/live/d31e6e50-e6fc-11f1-9d32-695d6c00481f.jpg"
-    },
-    {
-     "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
-     "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-     "source": "The Guardian",
-     "published": "2026-11-23T05:00:48+00:00",
-     "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in \u2018spiral of decline\u2019Fewer than half of households in Britain will pay the BBC\u2019s lice",
-     "image": "https://i.guim.co.uk/img/media/8c4db6fd4ae5ad0a7eba3fd774dbdd650047180d/326_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=b1a3e93fd4cd95e247e33b25c6e31fcc"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T06:27:39.766366+00:00",
+   "fetched_at": "2026-11-23T06:57:42.979593+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Shafaq News..Ukraine presses US over delayed Patriot air defense deliveries",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaVJhOVNMbDZCa2JYU05rRDh5WXBTN2hWSy1PYUVSZUM1ZVBnZWJwZkg5akVJQy1uNS11TTBxZVh3T1RJYmQxUkRIbTh1dTdoaGpJcnBIWEMzcE44VDhsdmRqUHhwekJ5eGFhU01QYVNMZ3lkeUROS1hWbWhiRVlibGlNNUp3TmJLSlNzRi1YWk8yTVdt?oc=5",
+     "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+     "published": "2026-11-23T06:44:30+00:00",
+     "summary": "Shafaq News..Ukraine presses US over delayed Patriot air defense deliveries&nbsp;&nbsp;\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+     "image": ""
+    },
+    {
+     "title": "Ukraine War, Day 1,733: 14+ Murdered Near Kyiv by Russia\u2019s Attack",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNl9ybzhPRDgyT1NzeC1jLUJGTDJWNE5Ud21KTzhDS2FhOGxkRElQREdtUF9mQXdBNnUyLVRESGU1UzdxVVhxbnVma1dhRVhQc1pWNWctSm5vN2lnWFp2R3dSSWE3SWZlNWJpRHl3S3VLaHhaRVFmaXkyUEd3TENGZ3Z0SURjZDhJVl9sMGNvdXI?oc=5",
+     "source": "EA WorldView",
+     "published": "2026-11-23T06:42:47+00:00",
+     "summary": "Ukraine War, Day 1,733: 14+ Murdered Near Kyiv by Russia\u2019s Attack&nbsp;&nbsp;EA WorldView",
+     "image": ""
+    },
+    {
+     "title": "UN warns Libya must not become stage for Russia-Ukraine war after drone strikes",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeW9GM0pzT0UtRkJLVGZTXzhaeEtIa2V0bGF5NFFPUTRGSm1WQW5fS05kMnpaYUVOYzctRjV6RGJzLW1CcE5zcFNzRGEtblFfUmVOX1ktSVlyX2UtYUpreXhBU3RhekRmTWxpcVlIWHRyZEFHYVJ5SUhfdF9sdHhSb3Bpa0dqQ2k4SzF3dEw2TGEyZFdIdWllcEFONFNOS2ZpaW9qaFJpdzNrQ3ZwN1VvR3B1NjFyclA2Rllia3M1Zms2dw?oc=5",
+     "source": "RFI",
+     "published": "2026-11-23T06:33:00+00:00",
+     "summary": "UN warns Libya must not become stage for Russia-Ukraine war after drone strikes&nbsp;&nbsp;RFI",
+     "image": ""
+    },
     {
      "title": "Russia loses 2,471 troops, three multiple rocket launchers in Ukraine war over past day",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYk4yNXZOLWU2V0FYNW1fS0I4dW00dU1oeDg4VHpqTFNzZENRSnl4TjhiamhzZUxxcC11VU5zQXpPMXM5RER2LXNqemRzUnJPbjg2Sk5kT1laVkRzWkg1TU9NWW5ZYWhibUFEeDR6aDduZ1pvakY5b2ZfM1h2UkZjUERFM3FfQlAxV0hLb2JlSTZKaEtIQm1WaXZDaGJCaXU2ZGpuUjYyTGN2d3ZwQ3RRZWRqd1c3d2M1d3NoWEdnNlJjVjc5enFhTS1mUXJlSzdq0gHWAUFVX3lxTFBCVjNMQkNkam9ZNWJtMlpyVTRvY2FrZ3VxdmQtODlaVS1sM3poTzZkTEcxWWZGV2N6U2E3NU1EaXM0NFdvb0Fqai1QdEVnaDc4ZXlGVWgzWHdrdU9jcFpMNDBZQXBuOHJpcnhEc2h0SGg0Rlg2bk11TTREdkJ1UUNPTDREVGZtWmpjV2ZHdDE2ZXFHWm9RTEh4dWdVUFpTVlhpUHlfLWFHU1Znd19kVnN1eTNvNjFqa0EwNVN6d2hhb055MXhtUzFFNno4amNJN2R2WktHRGc?oc=5",
@@ -148,19 +172,11 @@
      "image": ""
     },
     {
-     "title": "Is Libya emerging as a new front in the Russia-Ukraine war?",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlE3anJFVXdMMWF3TWdIcmxpVzhSQVhYY3NNVndtU1RIajVqR2dSMzE5SnhtdE9RNVpHYkI3MktQbThVSzJuQVB4Q3ZLbktKc0ZraUxWVUktc0FuQnF0U0Z4N3pRVUtaTF83eXIzeEtzM2ZwdlVBUjNxVk4ySm5BWVlFQ2NOYl9NZ3VKM09uVmRVVkkzVWtN?oc=5",
-     "source": "The Business Standard",
-     "published": "2026-11-23T05:55:00+00:00",
-     "summary": "Is Libya emerging as a new front in the Russia-Ukraine war?&nbsp;&nbsp;The Business Standard",
-     "image": ""
-    },
-    {
-     "title": "Defence, semiconductors, Ukraine war dominate India-Netherlands talks as Dutch FM meets Jaishankar",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlg4SFhhY0hFUlpVMFZaWHczYTVGbTFCZWlKV1hnb1V0M0dzMWYzOC0xS3owQmpzTjRQVTFsMDR6X0l6dXhWWm9BVEdiS2N0VWhDdUxmRmtrSFE0YTNHb1JkN2JRV1NnQk5lWXhoTjBCTEdZR2x6TXlMM0ptRlFLZW9saExNNmlEZllVY0QteFljdGx2T2YxUmRlRzFjTlp0Mi1uTkkwa0xUQTdBUXNNZVNERkF5TW5Yb0d5VGp3SktaeDBLaG1CUTktdWJTN2400gHWAUFVX3lxTE9ZenhFRW1IUzd2SU5mZk5XSU5DWnBVS1JIWnh5TmFJM0ZHWTJmc1ZvRmhsWkdkWVRZUkxlZ2JGdDE0akZ3VkE2X2FwbW5ZTF94bVRRcm4wVVRVR2tIcXRzZExhZi1fZ0FvakVHVm9JSjJfQVZqbWpsdWliOGMzX2VEWGFkekFlWWk1UDZMV2pseWtKVlFPd0NHX1Bfby1zODVxZXRiX1A2WTd5aXZ4NDlUOFRHUHVrY21Zdkpkckotb2ZiREprUVd6SU9tUWJuQTg0d0I4RlE?oc=5",
-     "source": "ThePrint",
-     "published": "2026-11-23T05:38:39+00:00",
-     "summary": "Defence, semiconductors, Ukraine war dominate India-Netherlands talks as Dutch FM meets Jaishankar&nbsp;&nbsp;ThePrint",
+     "title": "Trump Prioritizes Ukraine Peace, Delays Iran Deal Amid Political Deadlines",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGctYTFBTWk1d3FOUGpJbUlOMHpreThQWThJRmZ5Sm1qMEF0cTFVcWxyeHFXQ0ZMT2tuQnQ0SURBZ1BIa3dWeDlNWjYxcHlDS3c0c01FRXY5dXR4bWtWX3hQMHNiQTQwUW55TV85ZFVLU21KNGdMX00xeGdSaWhaVWtVN0g?oc=5",
+     "source": "\uc870\uc120\uc77c\ubcf4",
+     "published": "2026-11-23T05:57:15+00:00",
+     "summary": "Trump Prioritizes Ukraine Peace, Delays Iran Deal Amid Political Deadlines&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
      "image": ""
     },
     {
@@ -196,35 +212,35 @@
      "image": ""
     },
     {
-     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 23, 2026 from Kyiv Post",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44V0hBWUwxTXlyMzBGYWNmOTJqRWhsVURkQVJlaEU5TWx1eFk4SnYzZGtIQ0pnOHJ4TmlOSTlpOE1lbE9zMWMzLXc1NTl1UQ?oc=5",
-     "source": "Kyiv Post",
-     "published": "2026-11-23T05:02:50+00:00",
-     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 23, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
-     "image": ""
-    },
-    {
-     "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
-     "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-     "source": "The Guardian",
-     "published": "2026-11-23T05:00:48+00:00",
-     "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in \u2018spiral of decline\u2019Fewer than half of households in Britain will pay the BBC\u2019s lice",
-     "image": "https://i.guim.co.uk/img/media/8c4db6fd4ae5ad0a7eba3fd774dbdd650047180d/326_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=b1a3e93fd4cd95e247e33b25c6e31fcc"
-    },
-    {
-     "title": "Child rescued in Ukraine after Russian drone attack kills 10",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWE2WjNzLUJMRy0yRDhTMGVvakRTUjZiQ0xjMVlqZ1ZMb0lqRlFyVDVtcUFsY240eGZlQnZVRzJoakdvSTQxTTE3Vzhhd3dIS1V2aFZyQTJLMXRncjVNYzk3U283UTl2VjdUcmx6bEs3M0dnSEVobGdNZk1Xc3VOYk9WN015MVY5MUdzOWxVc0w2ZmJkR0xZNGNNdHZLUlJVelpUMTBQSXRpM2IzaF9xMTFR0gG3AUFVX3lxTE8zMTdOSDhiMWhiMlBmek5HemxBU1RmMUdOajNYWVNmUk55NzdrRG95QkRTZkJMRzNaMWo4Q0VERmlaRXpubEZkQnNLVDdiaVhXS19mRnozN0xsYW9PV29iRmp1ZkFrbkJVaWFfRU5fUjF5X0cyN0diazNFb0U5UWJMWXpqQTllUlRWUUU5MEV2cGJzUlBvVUpOZ3JnOE1jbjVRLXE2c044WHhtRjJQaFZCbDhVUEhnRQ?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T04:45:08+00:00",
-     "summary": "Child rescued in Ukraine after Russian drone attack kills 10&nbsp;&nbsp;Al Jazeera",
+     "title": "Finnish Lawmakers Back Idea of Tank Traps Along Russian Border",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOF9DM0F5ZFBJRUttdnNVN0dVbXFFb1JSMVgyZW5jX2V4SFQ1NEpHRlJVQldSOXlPdEVCZXpaLUlvQmp0WUxFNWxHc0NHOS1PaS1SNXVkcTB1NGs3QlNGMk9nRnV1TGxFa052clFpcUNKem9EREVnUXlmM29ycExrT0VZUzR5SHEtZHNIVzVJYTJuSlYyWWxXREYzSldoS3I4N2JzS2pLWEdyQTNZVExpQV91OXF0Tk1EMUl1RnNsWldfeFNTNEF1WjQxUG9hN05LbFpaanFR?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-23T05:15:00+00:00",
+     "summary": "Finnish Lawmakers Back Idea of Tank Traps Along Russian Border&nbsp;&nbsp;Bloomberg.com",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T06:27:39.766370+00:00",
+   "fetched_at": "2026-11-23T06:57:42.979597+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "WATCH: Socialist Equality Party holds final public meeting ahead of Victorian election",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jcWF6Y25DRGh4NGNfVUpLejJQS1BEcWhOdkZQTGxDc19UTENhQWlGRUNiNEc0dm94UnNmbE5IcnVnLVVZTzAwM0dRYXRpNFktancyT1lCeDJHUDhsUVM5SWZTTlpaYTRq?oc=5",
+     "source": "World Socialist Web Site",
+     "published": "2026-11-23T06:30:33+00:00",
+     "summary": "WATCH: Socialist Equality Party holds final public meeting ahead of Victorian election&nbsp;&nbsp;World Socialist Web Site",
+     "image": ""
+    },
+    {
+     "title": "Court holds arrest warrant hearings for 8 election officials",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TTTFGVFQwSXNtcm14bkdHU0hTUHdCemNlVEpQdWNiWDVncEI3SFV0MFhYZGtFWFU4VVlTMW8xR2FUQUJSYkNHSVFBTDRJS3Nva05VWEs5dDZ5UQ?oc=5",
+     "source": "Yonhap News Agency",
+     "published": "2026-11-23T06:22:02+00:00",
+     "summary": "Court holds arrest warrant hearings for 8 election officials&nbsp;&nbsp;Yonhap News Agency",
+     "image": ""
+    },
     {
      "title": "Can Seoul avoid being sidelined in Trump's great-power diplomacy?",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SY0IycW1XWkUyNXVfRHotQWZxeS16YkZ5LV9USjc2TFRjMUFJbEIyR055TE9Jc2dqaVRVdzNkVkNQQUNaeG1iRlJPU1Utd0VvUnAwOTZzMA?oc=5",
@@ -232,6 +248,14 @@
      "published": "2026-11-23T06:16:27+00:00",
      "summary": "Can Seoul avoid being sidelined in Trump's great-power diplomacy?&nbsp;&nbsp;The Korea Herald",
      "image": ""
+    },
+    {
+     "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community \u2013 as it happened",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-23T06:13:21+00:00",
+     "summary": "This blog is now closed\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridge the divide between nations on clim",
+     "image": "https://i.guim.co.uk/img/media/a8e4b43c304ba0c667d2b3d232ba1b4acfdb683f/378_0_3201_2562/master/3201.jpg?width=140&quality=85&auto=format&fit=max&s=e08e916f69bca5f5e2519ab10fd7e2ba"
     },
     {
      "title": "Election Committee race heralds a new generation of talent",
@@ -250,10 +274,18 @@
      "image": ""
     },
     {
+     "title": "Beijing praises \u2018healthy competition\u2019 after thousands vote in Hong Kong Election Committee race",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQkpZTGhRT19qZGN0QU12bUg1d2xpdW51WGhsalhFVDgtYWJoVHJjWDJMZHNNNERRd1RqWlhodk5tclZlR291T25kZ3FjOWhaUnBQR0xoNWJSTzRNUnZETVVZbGdkY0l2d2RoYmJ1S1c4QTdJU1JKTE9xUmNoY3ZoQmV0UVBZZ1plZXV3MXhHYUtCUEJKM29fMXBJS1hfSlZCLW5XQXZxRnVWVmV0RHJydEdtQTN5bVVjS0hFaE9qX0MzT1U?oc=5",
+     "source": "Hong Kong Free Press HKFP",
+     "published": "2026-11-23T06:12:15+00:00",
+     "summary": "Beijing praises \u2018healthy competition\u2019 after thousands vote in Hong Kong Election Committee race&nbsp;&nbsp;Hong Kong Free Press HKFP",
+     "image": ""
+    },
+    {
      "title": "America\u2019s Slide Into an Amoral Foreign Policy",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4bTB1WGdvV1JKb2VQZGJpZHRYMUpjU2J0SHNXYlM2NDBzZTFwM2dTTk10LVNEZXhBeDBUQWdVU3g5TFJGWXJoVFE2ekhaSmZIRXNleWJKM0djOHZaWF9PaFAyZDhTQ29qWGRyQVRmbmg3QXdZc1BSQw?oc=5",
      "source": "The Dispatch",
-     "published": "2026-11-23T06:05:02+00:00",
+     "published": "2026-11-23T06:05:23+00:00",
      "summary": "America\u2019s Slide Into an Amoral Foreign Policy&nbsp;&nbsp;The Dispatch",
      "image": ""
     },
@@ -288,43 +320,11 @@
      "published": "2026-11-23T05:51:00+00:00",
      "summary": "The former career civil servant hopes to lead his Popular Party to victory in November 29 elections.",
      "image": ""
-    },
-    {
-     "title": "Australian politics live: NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-23T05:50:10+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
-     "image": "https://i.guim.co.uk/img/media/a8e4b43c304ba0c667d2b3d232ba1b4acfdb683f/378_0_3201_2562/master/3201.jpg?width=140&quality=85&auto=format&fit=max&s=e08e916f69bca5f5e2519ab10fd7e2ba"
-    },
-    {
-     "title": "REAL Montana program trains agriculture and natural-resource leaders who could one day shape state policy",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY3phSThrUmIydHFiWXQ1UGVEMnhCMjI0M2ZKVllhRVNsUmE4S1U5REJhbTFXVjlIV21IelJDZ3pLZ3VPZ3JiaVZ6UXNYUm5zbHBqRkFPREI3Y3hDYVZoN3NaWjBPN1dsUVZSSU9wWnFoN3E3VDNTcGZtdjllSHRwd0hzdlZYSG1KckZPUFh1dGlCaEhxSHF6QnRNb2RWYlBrS24wUzJUMmt0X182bHFnR0JhNC0zdkxvQ2lyM3R6VDhrZkNxU0hzcVZ2NA?oc=5",
-     "source": "KTVQ",
-     "published": "2026-11-23T05:49:52+00:00",
-     "summary": "REAL Montana program trains agriculture and natural-resource leaders who could one day shape state policy&nbsp;&nbsp;KTVQ",
-     "image": ""
-    },
-    {
-     "title": "Early voting kicks off Tuesday for General Election runoffs",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ2VvVVlHQ3JsYWVabVFGZ2NlOUlxUV9TUV8xRTEwUElpOXVUY1A0c2I5WDJBUU5rYno1NW12Mng4M2N0LTdwNDZEWHhRRUljWXpEZlMzbHZvdHdGUmZRdGFyYWt0MnFuX0lDYnUtUmVmamdsbENPNi1td1U0dEJRRjJUVldKZEFEZ2trcHlOc0NpVVdxdUJldzk3YXpSMk5va20zeFFJTDN2eThaekNPbHJOWTkxb2xJSXZwZDZVZWJaZkV6c0Y0QWV2Y3NzTHRjVlFMbkdHS0pNUmxIQkJkUE5wRXhtVmhkN0E?oc=5",
-     "source": "5newsonline.com",
-     "published": "2026-11-23T05:48:29+00:00",
-     "summary": "Early voting kicks off Tuesday for General Election runoffs&nbsp;&nbsp;5newsonline.com",
-     "image": ""
-    },
-    {
-     "title": "Central government spokesperson hails Hong Kong's 2026 Election Committee subsector elections",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLWduWEI2eEFNNE5hdXdfc2lrN3otQjdCTS1EMzQyejF0SW1DNGFtTE03YlQ5ZnA4T3NxcEp1alNjX05TQnNma3Q1RERBRzl5NkJXMUJzdGxicXhUaU9HOGFPUUNIcTI1UGFpNmR6VHRCTUxtdXg0S2ZfRDJiQkctSXJ3?oc=5",
-     "source": "China Daily Global Edition",
-     "published": "2026-11-23T05:37:00+00:00",
-     "summary": "Central government spokesperson hails Hong Kong's 2026 Election Committee subsector elections&nbsp;&nbsp;China Daily Global Edition",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T06:27:39.766372+00:00",
+   "fetched_at": "2026-11-23T06:57:42.979599+00:00",
    "stale": false,
    "items": [
     {
