@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-23T04:57:17.049274+00:00",
+ "generated_at": "2026-11-23T04:57:29.153522+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T04:57:17.049245+00:00",
+   "fetched_at": "2026-11-23T04:57:29.153492+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australian politics live: Opposition hammers Labor over $150m \u2018Cop flop\u2019; Tehan kicked out of parliament for \u2018taking mickey\u2019 with Molly Meldrum catchphrase",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-23T04:44:18+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
+     "image": "https://i.guim.co.uk/img/media/35a374f84bc824555da32cc7289f03d9c9d3d129/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c7d1043873f73ba11f75bf1b80226fe6"
+    },
     {
      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
@@ -14,12 +22,12 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg"
     },
     {
-     "title": "Australian politics live: Opposition hammers Labor over $150m \u2018Cop flop\u2019; Tehan kicked out of parliament for \u2018taking mickey\u2019 with Molly Meldrum catchphrase",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-23T04:38:29+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
-     "image": "https://i.guim.co.uk/img/media/35a374f84bc824555da32cc7289f03d9c9d3d129/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c7d1043873f73ba11f75bf1b80226fe6"
+     "title": "Child rescued in Ukraine after Russian drone attack kills 10",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T04:38:14+00:00",
+     "summary": "A seven-year-old boy called David was rescued after spending 14 hours trapped in the rubble of a Russian drone attack.",
+     "image": ""
     },
     {
      "title": "Love made a fool of Beau Lamarre-Condon but did not make him a murderer, defence argues",
@@ -108,19 +116,11 @@
      "published": "2026-11-23T02:38:16+00:00",
      "summary": "Footage of Saturday incident, filmed by fellow passengers, quickly went viral on social media as mayor calls tactics \u2018un-American\u2019Protesters marched through the Seattle-Tacoma inte",
      "image": "https://i.guim.co.uk/img/media/97c8d10c9aa99e4620ecf17b447bec64df7ce184/58_0_909_727/master/909.jpg?width=140&quality=85&auto=format&fit=max&s=806434213ba2ab7613357a08b098174a"
-    },
-    {
-     "title": "Indonesian police remove 24 body bags from factory fire site",
-     "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T02:35:42+00:00",
-     "summary": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T04:57:17.049259+00:00",
+   "fetched_at": "2026-11-23T04:57:29.153507+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T04:57:17.049263+00:00",
+   "fetched_at": "2026-11-23T04:57:29.153511+00:00",
    "stale": false,
    "items": [
     {
@@ -237,7 +237,7 @@
      "title": "Australian politics live: Opposition hammers Labor over $150m \u2018Cop flop\u2019; Tehan kicked out of parliament for \u2018taking mickey\u2019 with Molly Meldrum catchphrase",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-23T04:38:29+00:00",
+     "published": "2026-11-23T04:44:18+00:00",
      "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
      "image": "https://i.guim.co.uk/img/media/35a374f84bc824555da32cc7289f03d9c9d3d129/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c7d1043873f73ba11f75bf1b80226fe6"
     },
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T04:57:17.049266+00:00",
+   "fetched_at": "2026-11-23T04:57:29.153513+00:00",
    "stale": false,
    "items": [
     {
@@ -340,7 +340,7 @@
      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-23T00:18:03+00:00",
-     "summary": "Stocks fall in South Korea, Taiwan, mainland China and Hong Kong as tech sell-off deepens.",
+     "summary": "Stocks fall in South Korea, mainland China and Hong Kong as tech sell-off deepens.",
      "image": ""
     },
     {
