@@ -1,10 +1,82 @@
 {
- "generated_at": "2026-11-23T10:58:23.523523+00:00",
+ "generated_at": "2026-11-23T11:28:27.104992+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T10:58:23.523493+00:00",
+   "fetched_at": "2026-11-23T11:28:27.104964+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-23T11:25:16+00:00",
+     "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "COP31: What next after UN climate talks collapse",
+     "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T11:19:08+00:00",
+     "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
+     "image": ""
+    },
+    {
+     "title": "Tories welcome Louise Haigh\u2019s hint government could adopt their plan to scrap Natural England \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T11:14:43+00:00",
+     "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangosNatural England could be abolished as part of qu",
+     "image": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=140&quality=85&auto=format&fit=max&s=9927c1766e5457c1b1d4643f5bd597b5"
+    },
+    {
+     "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+     "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T11:10:12+00:00",
+     "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war&#039;s spread.",
+     "image": ""
+    },
+    {
+     "title": "Democrats reveal details for 2028 presidential primary following midterm victories \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T11:08:04+00:00",
+     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1",
+     "image": "https://i.guim.co.uk/img/media/b3d3ed0bfe60670723ffcba5553102b4f0199076/161_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=f7a59ed0ff3530e9031cd2e55244bbe8"
+    },
+    {
+     "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T11:06:53+00:00",
+     "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspected U",
+     "image": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=140&quality=85&auto=format&fit=max&s=aee9973d6aea17ae72e1b662b0dd513f"
+    },
+    {
+     "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+     "source": "The Guardian",
+     "published": "2026-11-23T11:00:56+00:00",
+     "summary": "Brian Morales Garc\u00eda of Texas seeks damages after he was wrongly identified as undocumented in case White House wants droppedThe Trump administration recently admitted in federal c",
+     "image": "https://i.guim.co.uk/img/media/2ebec9cf556286a8031011ce464de8efbbfb1bfa/761_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=34419736e528fcd2e4fcd9c86588c478"
+    },
+    {
+     "title": "Lebanese families return to ruins after Israeli attacks in south",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T10:57:20+00:00",
+     "summary": "In southern Lebanon\u2019s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
+     "image": ""
+    },
+    {
+     "title": "CAS decision on Senegal\u2019s AFCON 2025 title appeal to announced on Tuesday",
+     "url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T10:55:05+00:00",
+     "summary": "Senegal are contesting CAF&#039;s decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
+     "image": ""
+    },
     {
      "title": "Papers discuss James Bond's soft power and the next Bond girl",
      "url": "https://www.france24.com/en/tv-shows/press-review/20261123-papers-discuss-james-bond-s-soft-power-and-the-next-bond-girl",
@@ -20,6 +92,22 @@
      "published": "2026-11-23T10:53:00+00:00",
      "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelensky said Monday, claiming that sea drones sank the navy vessel in a surprise ",
      "image": "https://s.france24.com/media/display/668ee080-e729-11f1-ad82-ebb478925cf0/w:1024/p:16x9/EN-20261123-103149-103331-CS.jpg"
+    },
+    {
+     "title": "Chamonix mayor plans tourist limits for Alpine beauty spot",
+     "url": "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc",
+     "source": "The Guardian",
+     "published": "2026-11-23T10:52:53+00:00",
+     "summary": "Rising numbers around Lac Blanc are having big impact on environment and on visitors\u2019 enjoyment, mayor saysIn the Alpine town of Chamonix, most tourist paths lead to the national p",
+     "image": "https://i.guim.co.uk/img/media/a63093932f37c4332a8a079dc26007340f120f5d/317_0_2439_1952/master/2439.jpg?width=140&quality=85&auto=format&fit=max&s=b35b1b5d5fa85763fd86f5e14aeffac4"
+    },
+    {
+     "title": "NHS caterer Compass \u2018plans stock market switch\u2019 in blow to London",
+     "url": "https://www.theguardian.com/business/2026/nov/23/nhs-caterer-compass-plans-stock-market-switch-in-blow-to-london",
+     "source": "The Guardian",
+     "published": "2026-11-23T10:51:40+00:00",
+     "summary": "Surrey-based firm\u2019s decision to move primary listing to New York would mark latest loss for FTSE 100Business live \u2013 latest updatesCompass, one of the biggest companies in the FTSE ",
+     "image": "https://i.guim.co.uk/img/media/ad3c396a2d1ada6690788f266c65586ce40fe809/79_0_2819_2255/master/2819.jpg?width=140&quality=85&auto=format&fit=max&s=89a1f9624a0540c631040f5315f87118"
     },
     {
      "title": "Cate Blanchett lights up Champs-\u00c9lys\u00e9es as Christmas market returns",
@@ -28,101 +116,61 @@
      "published": "2026-11-23T10:40:24+00:00",
      "summary": "Australian actress Cate Blanchett joined Paris's mayor for the official switch on of the Christmas lights along the Champs-\u00c9lys\u00e9es on Sunday. This year also sees the return of a Ch",
      "image": "https://s.france24.com/media/display/66f828d4-e728-11f1-b8ee-ebb478925cf0/w:1024/p:16x9/EN-20261123-102517-102647-CS.jpg"
+    }
+   ]
+  },
+  "wars": {
+   "fetched_at": "2026-11-23T11:28:27.104979+00:00",
+   "stale": false,
+   "items": [
+    {
+     "title": "COP31: What next after UN climate talks collapse",
+     "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T11:19:08+00:00",
+     "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
+     "image": ""
     },
     {
-     "title": "From mocked to mainstream: how Spain\u2019s far-right Vox transformed its fortunes",
-     "url": "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
-     "source": "The Guardian",
-     "published": "2026-11-23T10:37:48+00:00",
-     "summary": "Party that won just 0.2% of the vote in 2016 is on course for almost 20% this time and could be part of next governmentAlmost exactly eight years ago, a video clip of a stocky, bea",
-     "image": "https://i.guim.co.uk/img/media/eb627f0f70fb5448b47a8bf9a3d936a632278cfb/593_0_5949_4760/master/5949.jpg?width=140&quality=85&auto=format&fit=max&s=62ca004fd6159d19870d8c945fffc644"
+     "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+     "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T11:10:12+00:00",
+     "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war&#039;s spread.",
+     "image": ""
     },
     {
      "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-23T10:36:26+00:00",
+     "published": "2026-11-23T11:06:53+00:00",
      "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspected U",
      "image": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=140&quality=85&auto=format&fit=max&s=aee9973d6aea17ae72e1b662b0dd513f"
     },
     {
-     "title": "'Out of control': ICE arrests at Seattle airport spark outcry",
-     "url": "https://www.france24.com/en/video/20261123-out-of-control-ice-arrests-at-seattle-airport-spark-outcry",
-     "source": "France 24",
-     "published": "2026-11-23T10:34:43+00:00",
-     "summary": "A father and daughter detained by masked ICE officers on an airport jet bridge in Seattle has sparked a renewed outcry over the Trump administration\u2019s immigration policies, with th",
-     "image": "https://s.france24.com/media/display/ba1e9d0a-e727-11f1-bc39-e56ab3dc0809/w:1024/p:16x9/EN-20261123-102228-102416-CS.jpg"
-    },
-    {
-     "title": "Tories welcome Louise Haigh\u2019s hint government could adopt their plan to scrap Natural England \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T10:30:56+00:00",
-     "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangosNatural England could be abolished as part of qu",
-     "image": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=140&quality=85&auto=format&fit=max&s=9927c1766e5457c1b1d4643f5bd597b5"
-    },
-    {
-     "title": "The worst COP ever? Climate talks collapse in chaos",
-     "url": "https://www.france24.com/en/video/20261123-the-worst-cop-ever-climate-talks-collapse-in-chaos",
-     "source": "France 24",
-     "published": "2026-11-23T10:24:34+00:00",
-     "summary": "The COP31 climate talks ended in failure Sunday as a contentious deal collapsed over fossil fuels and the summit in Turkey stretched into record overtime. The final agreement was r",
-     "image": "https://s.france24.com/media/display/32480144-e724-11f1-8872-13439ca2fe89/w:1024/p:16x9/EN-20261123-100821-101453-CS.jpg"
-    },
-    {
-     "title": "Why is Bangladesh\u2019s Grameen Bank under attack?",
-     "url": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T10:22:34+00:00",
-     "summary": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
+     "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 23, 2026 from Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44V0hBWUwxTXlyMzBGYWNmOTJqRWhsVURkQVJlaEU5TWx1eFk4SnYzZGtIQ0pnOHJ4TmlOSTlpOE1lbE9zMWMzLXc1NTl1UQ?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-23T11:02:50+00:00",
+     "summary": "Ukraine News Today: Breaking Updates & Live Coverage - November 23, 2026 from Kyiv Post&nbsp;&nbsp;Kyiv Post",
      "image": ""
     },
     {
-     "title": "Occupied West Bank \u2018military zones\u2019 become de facto Israeli settler land",
-     "url": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T10:20:58+00:00",
-     "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine-Russia peace talks: Row over who will represent the EU",
-     "url": "https://www.france24.com/en/video/20261123-ukraine-russia-peace-talks-row-over-who-will-represent-the-eu",
-     "source": "France 24",
-     "published": "2026-11-23T10:20:05+00:00",
-     "summary": "As Russia and Ukraine continue to trade strikes a row is erupting over who Europe should send to any future peace talks with the two countries along with the US. The EU's High Repr",
-     "image": "https://s.france24.com/media/display/bdb7e6ba-e722-11f1-8285-13439ca2fe89/w:1024/p:16x9/EN-20261123-100548-100818-CS.jpg"
-    },
-    {
-     "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
-     "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+     "title": "AI Impact On Economy, Russia-Ukraine War Spills Into Poland, No Deal At COP31",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlRMMEZhcHc4YllraUVYZUNRLXUxSkVncl9UUkNNTTFmM2dPblJKc0hQaFNRVnEtV056dVk4VklMQVdISzY5dnJyb29YaWxrVFRtaUxqMTVJczVqRDZpZm42UnRRazhwUkFpUENVRmltekNabGZ1UmRNLXA0ejNwS01UcUhRU2RmUEx3QUVBVUtQUS03MGl0NEtyaV9SMmNpQXpjdUlHcWJnRjF5N2tDdThVYU14MHNCRENpVA?oc=5",
      "source": "NPR",
-     "published": "2026-11-23T10:16:33+00:00",
-     "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assaul",
+     "published": "2026-11-23T11:01:52+00:00",
+     "summary": "AI Impact On Economy, Russia-Ukraine War Spills Into Poland, No Deal At COP31&nbsp;&nbsp;NPR",
      "image": ""
     },
     {
-     "title": "Natural England could be abolished as part of quango cull, says Louise Haigh",
-     "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
-     "source": "The Guardian",
-     "published": "2026-11-23T10:16:09+00:00",
-     "summary": "First secretary of state says proliferation of arm\u2019s length government bodies is hampering decision-makingThe nature watchdog Natural England could be abolished as part of a cull o",
-     "image": "https://i.guim.co.uk/img/media/b46f01566289f841fb7954222888ae0175122aad/1324_870_4795_3835/master/4795.jpg?width=140&quality=85&auto=format&fit=max&s=4a40a542fc4fecab084e3c1fd15755b6"
+     "title": "Lebanese families return to ruins after Israeli attacks in south",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T10:57:20+00:00",
+     "summary": "In southern Lebanon\u2019s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
+     "image": ""
     },
-    {
-     "title": "Capita boss exits and shares crash after civil service pensions failures",
-     "url": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
-     "source": "The Guardian",
-     "published": "2026-11-23T10:01:00+00:00",
-     "summary": "Price plunges 67% as Adolfo Hernandez leaves with \u2018immediate effect\u2019 amid continued fallout from pension payment problemsThe boss of troubled outsourcing group Capita has abruptly ",
-     "image": "https://i.guim.co.uk/img/media/b665a567fce3e847dd805496601879a285e1ac4c/144_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=3cc156be32019ddfbaf914dc5b86441b"
-    }
-   ]
-  },
-  "wars": {
-   "fetched_at": "2026-11-23T10:58:23.523509+00:00",
-   "stale": false,
-   "items": [
     {
      "title": "Papers discuss James Bond's soft power and the next Bond girl",
      "url": "https://www.france24.com/en/tv-shows/press-review/20261123-papers-discuss-james-bond-s-soft-power-and-the-next-bond-girl",
@@ -140,19 +188,19 @@
      "image": "https://s.france24.com/media/display/668ee080-e729-11f1-ad82-ebb478925cf0/w:1024/p:16x9/EN-20261123-103149-103331-CS.jpg"
     },
     {
-     "title": "Exclusive: Russian experts in Libya to probe Ukrainian strikes",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWh3TG9DZEpmUmNoSTViTEx6cllRdVlIZWxXaW1ZVy1lbmtJSDZzM2FjQjBxamlocG1QU1IwSm1pX3BJUU1QZkJEZXV4QW5MQzM2ekl4ZXowN3pBMDhGLVFMcXdSYVE3R1k5Y3NrZHpaNWNmNkpaRjBzTXR3VGFKdGFRVVBrWkh1RElkSg?oc=5",
-     "source": "The New Arab",
-     "published": "2026-11-23T10:46:45+00:00",
-     "summary": "Exclusive: Russian experts in Libya to probe Ukrainian strikes&nbsp;&nbsp;The New Arab",
-     "image": ""
-    },
-    {
      "title": "Ukraine sinks Russian warship off Libya in latest expansion of the war",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm9XWW42TmhzTXZKWXdLUzRLd1VHZEdmUi1GRlFKUHg4MzMxN09VSGEtSzNJREY1MXVva2dKQXQ3X2ZxLUFGVEJqNHhkZlJrZTRIUnRnSmVJR25CbzJKUTBaNllyd1FSbFhveWY2RVJxOHNNZUJOYnJNVF9BMkdDMEFaTVEtVnVaeFJHZHZMOWQydkRjOElUalZsZlA2S3N2MG5yOHVQOGJ6cWdjMWc?oc=5",
      "source": "NBC News",
-     "published": "2026-11-23T10:45:54+00:00",
+     "published": "2026-11-23T10:50:38+00:00",
      "summary": "Ukraine sinks Russian warship off Libya in latest expansion of the war&nbsp;&nbsp;NBC News",
+     "image": ""
+    },
+    {
+     "title": "Exclusive: Russian experts in Libya to probe Ukrainian strikes",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWh3TG9DZEpmUmNoSTViTEx6cllRdVlIZWxXaW1ZVy1lbmtJSDZzM2FjQjBxamlocG1QU1IwSm1pX3BJUU1QZkJEZXV4QW5MQzM2ekl4ZXowN3pBMDhGLVFMcXdSYVE3R1k5Y3NrZHpaNWNmNkpaRjBzTXR3VGFKdGFRVVBrWkh1RElkStIBkgFBVV95cUxPX2VtY1FfaktIVC1KVUFyYXlqVFYzcWVvbUwzUlV4dGk0eWJRLTBmMlNQQlA0TkZrNmlidVJvcElvbDF1cmJPTlM1VkhFVnJqYnZRc3NwY19BNDJLX0ZXRmg5b1VnZGFsaEk4MF9vUGR5MGV1dUtaQ09mSnRicEpMcThEVlBCZzhUaE5hTGREZllhdw?oc=5",
+     "source": "The New Arab",
+     "published": "2026-11-23T10:46:45+00:00",
+     "summary": "Exclusive: Russian experts in Libya to probe Ukrainian strikes&nbsp;&nbsp;The New Arab",
      "image": ""
     },
     {
@@ -170,161 +218,113 @@
      "published": "2026-11-23T10:38:40+00:00",
      "summary": "Russia Claims It Destroyed 674 Ukrainian Warplanes\u2014Five Times More Than Ukraine Had&nbsp;&nbsp;UNITED24 Media",
      "image": ""
-    },
-    {
-     "title": "Ukraine Destroys 1,000 Russian Tanks in 2026\u2014Enough Metal to Build Six Eiffel Towers",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeUZWajVxSnF1SzZJTFZoUENQZVVaUnVHdlo0TVJ4U09TQ2JSZFd5SnZmc1g5ZnJ1eG5VMllpZWFUSHczQ3NPelhvNGk0R1hFdDdYSWFQYXJxSUZ5QjlCY3pBMkVDRjhCZTk1NkdSbWxRQmFHZExZYnNOekRoNk5XeUdrTVhjRFE1S0JBQWlNWWNFMUJJRl84Z2pJME5kblUyM1pCQkJTaWhUcnVQdktBSVNQWXdDZWJaYl9kdGN6OGEyWnliMlcyLTVn?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-23T10:37:19+00:00",
-     "summary": "Ukraine Destroys 1,000 Russian Tanks in 2026\u2014Enough Metal to Build Six Eiffel Towers&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Ukraine\u2019s Drone Forces Hit 2,552 Russian Targets in One Day, Including 808 Troops",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVN0c1MwUkM3bGJVLW1GM2lWSU5WZHpPUDgyY21fcFE1SWJKX0c0ODZmZmhSTTJjWU9EajBNUDItOWw3cGt6UzRhTEVrREoxLXFOc09NUmt6TEZjc3dZdkFrdFNmUkJiaWpkVzZoQ0ZqMldHMnphNTM0UmluUzlDTHVhV0MxaDFiY1JLWDBKejdEeVZaT1NKV1AzZVprRWxDNnQ2M0U0eTNmcmpuXzYyNVI2TGdFQzYyUU1xMGF5NnN4amc?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-23T10:36:31+00:00",
-     "summary": "Ukraine\u2019s Drone Forces Hit 2,552 Russian Targets in One Day, Including 808 Troops&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
-    },
-    {
-     "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-23T10:36:26+00:00",
-     "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspected U",
-     "image": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=140&quality=85&auto=format&fit=max&s=aee9973d6aea17ae72e1b662b0dd513f"
-    },
-    {
-     "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUm9wNkZqQnhLaVB4b3pfd0QyR202a2FDWFM2eTN6MnYteVQ1dTZvbURpYmNlNDBZMVhxUE5DUW0xX0xGcnNneS1HVnMwQ0ExR3ZDZTBDZnQySTdNRW5ta0d3RnZfanJYVUs3czFSQVlGbWkzYmdqTEFxeVNvQ1BHMA?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-23T10:26:17+00:00",
-     "summary": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Occupied West Bank \u2018military zones\u2019 become de facto Israeli settler land",
-     "url": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T10:20:58+00:00",
-     "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine-Russia peace talks: Row over who will represent the EU",
-     "url": "https://www.france24.com/en/video/20261123-ukraine-russia-peace-talks-row-over-who-will-represent-the-eu",
-     "source": "France 24",
-     "published": "2026-11-23T10:20:05+00:00",
-     "summary": "As Russia and Ukraine continue to trade strikes a row is erupting over who Europe should send to any future peace talks with the two countries along with the US. The EU's High Repr",
-     "image": "https://s.france24.com/media/display/bdb7e6ba-e722-11f1-8285-13439ca2fe89/w:1024/p:16x9/EN-20261123-100548-100818-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T10:58:23.523512+00:00",
+   "fetched_at": "2026-11-23T11:28:27.104982+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Five policy planks to prepare U.S. workers for dislocation caused by artificial intelligence",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2lNZ00ybkduSU5oYTBpa1FmajVOMjZ3bHVQNFNpcjdxczFiNDdHd2p2VHFUYkQ1OEkyWGVFcnJUR1NISi13Z3dUVUNHVzZtOXM3TVI4anRiMGRqM1dRbDRpSGtCOFUyeHZLdXVZblNXN0F1Y2xrTGN4eWhjUGkzZ211cVpwdjFvUHgyOXN0S05yOG1xS2pYQmU2bkFTd0FEbUQxNVZ6bGdGY3NubERnZTVya1ZqTHJZUTU0cEhjUUEydUdVb1kyd3pqR1Z1TS04?oc=5",
-     "source": "Equitable Growth",
-     "published": "2026-11-23T10:47:37+00:00",
-     "summary": "Five policy planks to prepare U.S. workers for dislocation caused by artificial intelligence&nbsp;&nbsp;Equitable Growth",
+     "title": "BREAKING: Africa CDC Board Unable To Agree On Reappointment Of Director-General",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYm1hNklBSms2VE9QbGZuVlRjQWhQeDlwNnY1OFFrODFYUF95eW80WEo1SXZCLU1lcEF5SlZoLWVVQmEycGVIaGdXU3RITDB1bTRlQmJOQW90R2lqTFVhdFRSbG5KQndjTmNVMG54RFFUN2xVV3VVTVg5YU1CVV90b2lfZ19lUHRTS01IeHczSEpWOFA5bDFTZS1OaDQzMmhESXVZQi1UNk9KOTc1UVpJSQ?oc=5",
+     "source": "Health Policy Watch",
+     "published": "2026-11-23T11:20:13+00:00",
+     "summary": "BREAKING: Africa CDC Board Unable To Agree On Reappointment Of Director-General&nbsp;&nbsp;Health Policy Watch",
      "image": ""
     },
     {
-     "title": "Election 2028 Democrats Debates",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2ZZUUdwVzdvTFBYQldlU0lIQ0tpQXc2OWNwXy1JZWtybmRIMWZKbHlFMWozX2dXcWloNFllN3RUVEczQzVMT1RHbk9BZXVLM3c4MFZ2M21VRlRibVZibW5EN0FPaHlmTkE5aVBCaVpJSjdCWm15SmYzN3ZzTmJmclJLdXRRbE0wMzkwVWtSTXR4MDQwNHA0NjFqcENTaXRFZU9fUTI5U04wcWNCb1Z2YzF5Qk9Cb1RZUGZ1b1l4SzZCQ0c3TVE?oc=5",
-     "source": "Springfield News-Sun",
-     "published": "2026-11-23T10:47:37+00:00",
-     "summary": "Election 2028 Democrats Debates&nbsp;&nbsp;Springfield News-Sun",
-     "image": ""
-    },
-    {
-     "title": "Meet district candidates who want your vote in City Council runoff",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd2ZnSmlpcElOUnRXVUlVeVktSzBneXUxMFZvT09BVkJweDNlSXFUTDdpbkJ5dm9vNkFvTEZUa2lGaDh4aEJGTFJqSjRVTVFFZlFJUEdTMEx5RFliU2R5dnM4dU9ZdXFBSnR6T01FRkNFNVRNWnE4THAyN19SUEl6NDJlUE1XdDl5eEJXN3ZhWUh6cHR1RFBKRFN2SGdsT0VDZVVhOEJicHNSUDM3R3g3WDVqX25PUFIyS1dsZEJUdjBZcEhtNmlNcGdNQXMtVVFpVkFpTU1PZw?oc=5",
-     "source": "Corpus Christi Caller-Times",
-     "published": "2026-11-23T10:47:00+00:00",
-     "summary": "Meet district candidates who want your vote in City Council runoff&nbsp;&nbsp;Corpus Christi Caller-Times",
-     "image": ""
-    },
-    {
-     "title": "Meet three candidates who want your vote for City Council 'at large'",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORFBFaXNIR1I1ZEgxRHZoZ2JqMUN0ZVhFYkpHeUk3YWtrdWwzWmg3eVI4cnF6bVdLZ2tUeERna0VqR1JSYmxmcm9ZeVlHN0VNWGpmaGxEMWxxTkNkQ3oxSXA4cDdZVC1JcnBLOWFWTWFSaHZqZzZKMHFXZUhudWRQRHdla3h2dVFtU3VhcW93bWdaQUZTeGFzUlkwOWMyOTgtZHlFdHJVUzNkeHliTy1fYzhQbXNXTkhzR2FkMXZkaVBzRUs2aDkxOG1ndmtGVW1jRXJwakJraw?oc=5",
-     "source": "Corpus Christi Caller-Times",
-     "published": "2026-11-23T10:47:00+00:00",
-     "summary": "Meet three candidates who want your vote for City Council 'at large'&nbsp;&nbsp;Corpus Christi Caller-Times",
-     "image": ""
-    },
-    {
-     "title": "Inner Harbor desalination drives $700K in PACs' election spending",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX2s0dExoeUpmUTg1TUdRcFNxNXRlcFIweTJTSXdGREk1WnRQUWoyZVUycVYtWm5mcVhxZ05yT2FlaTYyeDYxNzE4WUhsY1NYTVJUM29PRWhDeTRnSDM5SUVTSmJfRjdtYUMzTjlsUWtmNGxXbC12aS1GbGJzUTE3MWRCU1I2YUlCTXYweFZaWDk2UWRycnFJaEtBY2w2dGk2QWw3ZVFPTFFZNkt2RlpYZkVEQnlTWU00Q3BhUFVmbzd0VlhKVGJBRGcybXY0QUxMSTEzTW1wN0NNakhoTDI0OXVKMnF0Zw?oc=5",
-     "source": "Corpus Christi Caller-Times",
-     "published": "2026-11-23T10:46:00+00:00",
-     "summary": "Inner Harbor desalination drives $700K in PACs' election spending&nbsp;&nbsp;Corpus Christi Caller-Times",
-     "image": ""
-    },
-    {
-     "title": "Africa Union-European Union science diplomacy, research partnerships and financing dialogue",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QWko1YUdOTEt5dkxEMW0xZmI2Qmtnemw1aEgyZFhSbWhidXU5UGh1NDFvUXMtaTZhaVBpQUw4THRKVXhMd0VNZFFlVWl6RGhXNHB2dFJzT0c3VzJBbEllV3dKVFVkMmE4bnRsZA?oc=5",
-     "source": "Stockholm Environment Institute",
-     "published": "2026-11-23T10:38:15+00:00",
-     "summary": "Africa Union-European Union science diplomacy, research partnerships and financing dialogue&nbsp;&nbsp;Stockholm Environment Institute",
-     "image": ""
-    },
-    {
-     "title": "From mocked to mainstream: how Spain\u2019s far-right Vox transformed its fortunes",
-     "url": "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
-     "source": "The Guardian",
-     "published": "2026-11-23T10:37:48+00:00",
-     "summary": "Party that won just 0.2% of the vote in 2016 is on course for almost 20% this time and could be part of next governmentAlmost exactly eight years ago, a video clip of a stocky, bea",
-     "image": "https://i.guim.co.uk/img/media/eb627f0f70fb5448b47a8bf9a3d936a632278cfb/593_0_5949_4760/master/5949.jpg?width=140&quality=85&auto=format&fit=max&s=62ca004fd6159d19870d8c945fffc644"
-    },
-    {
-     "title": "'Out of control': ICE arrests at Seattle airport spark outcry",
-     "url": "https://www.france24.com/en/video/20261123-out-of-control-ice-arrests-at-seattle-airport-spark-outcry",
-     "source": "France 24",
-     "published": "2026-11-23T10:34:43+00:00",
-     "summary": "A father and daughter detained by masked ICE officers on an airport jet bridge in Seattle has sparked a renewed outcry over the Trump administration\u2019s immigration policies, with th",
-     "image": "https://s.france24.com/media/display/ba1e9d0a-e727-11f1-bc39-e56ab3dc0809/w:1024/p:16x9/EN-20261123-102228-102416-CS.jpg"
-    },
-    {
-     "title": "Artificial intelligence flourished in California election advertising \u2014 and divided voters",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2FYd1Yzd3FOdWRPU0hXNVpLRjV6TGxtNXl1Ylk5ZXJWRVcxUkoyV0Q3WmpEUTV6UEJfTE9CT0dFM1pvMHlCZUdNSXRVTHFnci1scl9kZkw0YnFMbElkTjQ0R0pXcTZsUlNsaU1qZE4tQ2J2R1YyM3N1QktYTVpaaU5mMDZfMmVGYlJ2OXdtZFh3QUU3UWZJNGRLZkFwVUx0aTV4eTFWckF0aEtoTFpDYVBRdTR4clJpd1pqc2pVTFJtZw?oc=5",
-     "source": "Lake County News,California",
-     "published": "2026-11-23T10:31:02+00:00",
-     "summary": "Artificial intelligence flourished in California election advertising \u2014 and divided voters&nbsp;&nbsp;Lake County News,California",
-     "image": ""
-    },
-    {
-     "title": "Q&A: Could the election have gone worse for Indiana GOP? Jim Banks thinks so",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmF3dUFWMjJxU1Q4RmQ1M1FVLVNVWTV6Y29ocFJLMlJFRENQZXBqWEhuWk9xd2VRYUZoOWJmdUxfRG5uSXBuX2RlMHp3enh1TnoyOFR6YU92UWdvZmFEWlgwNTZueVdwM2hzRUc2dVpXR0wwYU9BWjF0c1FfRGo3QUFoNWF6U1FPMUFmMVNoVU1KcUxvQkxPckVMVEhwczMzd2ppUzIwX093aXZoU1pVajRwemRCcG1WMGdVM2RxbFlmcHpnckJGZk9DOFZmYU0?oc=5",
-     "source": "IndyStar",
-     "published": "2026-11-23T10:31:00+00:00",
-     "summary": "Q&A: Could the election have gone worse for Indiana GOP? Jim Banks thinks so&nbsp;&nbsp;IndyStar",
+     "title": "Indiana Recount Commission to meet today over disputed election results in Clark County",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbzBJSm1kLXJJbGZkYVprY2RWRWtiMXYzcU0zRWNDbkVEaDVQNnZqX0l5UDJUYzVmeDM0bFk5T25aRmEweklreDl4MkJpWGptbS0zS0toa0J1dWFNLTdqSkh4RDlTQmgyeUp6WmFDaXh1emNzZFRZb05RZ3VBMFV3bXl6UV8ydzJSVUxNUWlGcFZ6RWJnSjU5NmpaTmtYTGVnb01XSkx0dWptWVJ0OThVaWpIQ3IyTmdQOWVpbWI5UDJ3TW05WUdXeWx2OF90Z3J2YmtOVTdKVk5aU2pqcHFyTzROajduY090NWFzOUQ4bHNBSllFU3BNYWJrclZRZ3YzeFJ3UG42WUNLVTA?oc=5",
+     "source": "WTHR",
+     "published": "2026-11-23T11:19:00+00:00",
+     "summary": "Indiana Recount Commission to meet today over disputed election results in Clark County&nbsp;&nbsp;WTHR",
      "image": ""
     },
     {
      "title": "Tories welcome Louise Haigh\u2019s hint government could adopt their plan to scrap Natural England \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-23T10:30:56+00:00",
+     "published": "2026-11-23T11:14:43+00:00",
      "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangosNatural England could be abolished as part of qu",
      "image": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=140&quality=85&auto=format&fit=max&s=9927c1766e5457c1b1d4643f5bd597b5"
     },
     {
-     "title": "Citizens CEO Tim Cerio to exit as policy count hits record low",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2VBcHlLTFdua1E3TXBVUEZBekw0WWF2Ulo4UzF2YVdhWUs3TURsSnNRRm5Nc3NBalQ3YzhyUzhkT3UzbTNfOGJyS0dOZmRhdWdmSXFPVy1ZUGdzVVlzTjY4V1hzQmtZQ25JYktWbjA4OFdUbEt1T2trZDlKMDkybEMwcmdmLXloWXR3VDR4UXdyUTF1LUxwbHN1bzNxM2hqLWR4cnF0Rjh0bG10ZTRtbV9pM3VQZWxsaEFSN1lza1NGanlmc1hv?oc=5",
-     "source": "Insurance Business",
-     "published": "2026-11-23T10:28:11+00:00",
-     "summary": "Citizens CEO Tim Cerio to exit as policy count hits record low&nbsp;&nbsp;Insurance Business",
+     "title": "MAC sends warning about China election interference",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlVHNwbGZwUlVld1ZLNWZVVHJOZ2paLXJ2bFloblRqTFJheUpPbnBrNFozZUh1U2ZBV1hQSE9KWkhnZzRfamkteG5LSlRxeG1Gb3VBRVN1Zw?oc=5",
+     "source": "Focus Taiwan",
+     "published": "2026-11-23T11:11:00+00:00",
+     "summary": "MAC sends warning about China election interference&nbsp;&nbsp;Focus Taiwan",
+     "image": ""
+    },
+    {
+     "title": "Picking apart Springfield, state election results",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2ZMVnEwNHh1WkFlTHBqZkxNbTlJampONEZBTElqZmRQNEdOZ01aaW90Ul85UjRXbmxoS3RoM2VxR1E0ZE5KRW42RGY4ejdGcFdRVDd4bGlWMHVRbWtOcnROS1pWV1JrVnhOYUlQZ3hMcUIybDZldlJPdmFiRWxfQnN1OG1XcDBObVhYRGFvNWVfZw?oc=5",
+     "source": "Capitol City Now",
+     "published": "2026-11-23T11:09:54+00:00",
+     "summary": "Picking apart Springfield, state election results&nbsp;&nbsp;Capitol City Now",
+     "image": ""
+    },
+    {
+     "title": "Democrats reveal details for 2028 presidential primary following midterm victories \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T11:08:04+00:00",
+     "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1",
+     "image": "https://i.guim.co.uk/img/media/b3d3ed0bfe60670723ffcba5553102b4f0199076/161_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=f7a59ed0ff3530e9031cd2e55244bbe8"
+    },
+    {
+     "title": "City of Martensdale to Hold Special Election to Fill City Council Vacancy",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanh2ZV9XZEg3dDNXbFZUb0NjMjVkd2prVENDUXVOMWNla2NiOU5SYXB1eXNxa0hMTzh1UnZqT2lCUWVkc0pOTFNSV0lOa1ZLV2NVQzRCUG1fRVNOb1NPQmV2MmRvblMza3A1Y1FHSEx3WDFuUnJ5cWkxcFRGQzU1LWx4Zkp3aVpZSWp1X3IwbWk5RFRZWWlmN1htU0lNdUtQ?oc=5",
+     "source": "KNIA - KRLS",
+     "published": "2026-11-23T11:08:01+00:00",
+     "summary": "City of Martensdale to Hold Special Election to Fill City Council Vacancy&nbsp;&nbsp;KNIA - KRLS",
+     "image": ""
+    },
+    {
+     "title": "Damm: In Frisco, the next election is coming fast",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmhVUW5FLXFZU2VLLWdJSGJpenZ1NzdXd0EwSGd5dXBvX292d2ZQM0xyRFRPYWstd2YyX3N2LVpPT1ZNS1p4MU5JOFE0eFhXV2xjYjdtQVl6X05BWFdla2JJbTFuNE53dUhJT1dzdE11S0p3X3Jad1ZTQ3hiekEwbGFiYnNodEZKNTJzdkNxSzRFTGxrbzczY0ZsbUJJVTN3Wnc?oc=5",
+     "source": "Dallas News",
+     "published": "2026-11-23T11:03:56+00:00",
+     "summary": "Damm: In Frisco, the next election is coming fast&nbsp;&nbsp;Dallas News",
+     "image": ""
+    },
+    {
+     "title": "NC immigrants challenge ICE policy allowing re-detention after release",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0R2Wk9BaEVlaU1peFJlX0dQMlVoekwzTDJjM09LU1M0T0tuMHpGejZtaHM5bjJZYkRZVzNsY2JhMnZDWmQ1OUtjV1FlVzBMb2xib296bUp0U1dhdkxIU0FwOXY2LVFJNXhYZTNQTEJ3NEpjZmljV3k0YzU2aVBRelBodUl0QWo0WHdrUERBZm9GYTd6OVdJRzNUVlBwNHlVVGJLTldobTI?oc=5",
+     "source": "NC Newsline",
+     "published": "2026-11-23T11:02:11+00:00",
+     "summary": "NC immigrants challenge ICE policy allowing re-detention after release&nbsp;&nbsp;NC Newsline",
+     "image": ""
+    },
+    {
+     "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+     "source": "The Guardian",
+     "published": "2026-11-23T11:00:56+00:00",
+     "summary": "Brian Morales Garc\u00eda of Texas seeks damages after he was wrongly identified as undocumented in case White House wants droppedThe Trump administration recently admitted in federal c",
+     "image": "https://i.guim.co.uk/img/media/2ebec9cf556286a8031011ce464de8efbbfb1bfa/761_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=34419736e528fcd2e4fcd9c86588c478"
+    },
+    {
+     "title": "Eboo Patel: Our \u2018E pluribus unum\u2019 election makes me grateful",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPazNuM2hnellmNmpBakF6VjRXN0VJUDNkeG5DUzlXMmh5bXRHclNpdnI5ZHJOQTlaRk16cmwwX2Z6amk5b095WGZUQThFVktwazMwa1hFRUhVLW82c0FtaFFQXzNvZDdFcXZlSkJGU3dLMlQwRjB6eVp2M09Fbk0xb3h2R08?oc=5",
+     "source": "Chicago Tribune",
+     "published": "2026-11-23T11:00:10+00:00",
+     "summary": "Eboo Patel: Our \u2018E pluribus unum\u2019 election makes me grateful&nbsp;&nbsp;Chicago Tribune",
+     "image": ""
+    },
+    {
+     "title": "How Realistic Are Foreign-Policy Realists?",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFhrWEpjSmpidTRCNV9Xc1VJenNOMVJLYW9scDlVNTBNSUtEUWF6dVJJdzNyNWtXRFNyMkJzcUx0WWxBN0ZkZjdlbG9YR3FxQi0zckFENDdMVTR6UWxxTXMxZU4zSGZ2ckRhYkNfVFlCNHlfUWZaaGJkM3dOZTFhVElxajJIZUxEOXFV?oc=5",
+     "source": "The New Yorker",
+     "published": "2026-11-23T11:00:00+00:00",
+     "summary": "How Realistic Are Foreign-Policy Realists?&nbsp;&nbsp;The New Yorker",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T10:58:23.523514+00:00",
+   "fetched_at": "2026-11-23T11:28:27.104984+00:00",
    "stale": false,
    "items": [
     {
