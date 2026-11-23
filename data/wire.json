@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-23T08:57:56.286408+00:00",
+ "generated_at": "2026-11-23T09:28:00.235602+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-23T08:57:56.286376+00:00",
+   "fetched_at": "2026-11-23T09:28:00.235573+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T08:56:15+00:00",
+     "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspected U",
+     "image": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=da3fea44607549cbbdc4de25ec543522"
+    },
+    {
+     "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+     "url": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T08:53:10+00:00",
+     "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
+     "image": ""
+    },
+    {
+     "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
+     "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
+     "source": "The Guardian",
+     "published": "2026-11-23T08:45:13+00:00",
+     "summary": "Jump in price follows slowdown in Qatar supplies and depleted summer stocks due to heatwavesBusiness live \u2013 latest updatesEuropean gas prices surged on Monday as a forecast cold sn",
+     "image": "https://i.guim.co.uk/img/media/7b5bb0d2c3b48dfdbcdd7ecb7881b1b008a94717/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=042604edbf9212227adc293094946db2"
+    },
     {
      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
@@ -34,7 +58,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
      "source": "The Guardian",
      "published": "2026-11-23T08:23:55+00:00",
-     "summary": "Anne Twomey says lack of proper debate around bill is \u2018flabbergasting\u2019 amid concerns over extension of ministerial powersLabor\u2019s new defence bill is \u201clazy and irresponsible\u201d lawmak",
+     "summary": "Anne Twomey says lack of proper debate around bill is \u2018flabbergasting\u2019 amid concerns over extension of ministerial powersGet our daily political email, free app or daily news podca",
      "image": "https://i.guim.co.uk/img/media/365d2e6449a8aa487abccf8060963566f52cd4dc/135_0_3175_2541/master/3175.jpg?width=140&quality=85&auto=format&fit=max&s=94c1f2ccbeb132b7e7bbad90892fb75d"
     },
     {
@@ -92,37 +116,69 @@
      "published": "2026-11-23T07:07:33+00:00",
      "summary": "Cricket&#039;s die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
      "image": ""
-    },
-    {
-     "title": "Grieving families getting into debt and doing without memorials due to benefit freezes",
-     "url": "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
-     "source": "The Guardian",
-     "published": "2026-11-23T07:00:50+00:00",
-     "summary": "MPs to discuss bereavement support as financial help for funeral expenses and bereaved families fails to keep pace with costsBereaved families are borrowing money or forgoing a ser",
-     "image": "https://i.guim.co.uk/img/media/85e74b0a2b1adee24b50ae167f6979eebf993d2f/283_0_4259_3407/master/4259.jpg?width=140&quality=85&auto=format&fit=max&s=7015ccd9fdcaac05a7e45fcaf7c4ce8f"
-    },
-    {
-     "title": "How Ireland resisted British rule through sport",
-     "url": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T06:47:10+00:00",
-     "summary": "Game Theory explores how traditional Irish sport became part of a much bigger struggle to protect its heritage",
-     "image": ""
-    },
-    {
-     "title": "Monday briefing: What could Andy Burnham\u2019s reset mean for the UK?",
-     "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
-     "source": "The Guardian",
-     "published": "2026-11-23T06:46:49+00:00",
-     "summary": "In today\u2019s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU \u2013 as the bloc faces the rise of the far right, a protectionist econom",
-     "image": "https://i.guim.co.uk/img/media/23982dd7bf21c4a556aaef5d8e716b31dde60ae4/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=0f2735f6234fd080c6d6379e04f34315"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-23T08:57:56.286393+00:00",
+   "fetched_at": "2026-11-23T09:28:00.235588+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukrainian drones strike Russian warship in Libya, raising war risk scope",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcjRneEZDaGlibU0tYmdOU0FPN1NqNE92MUZScUhxZVMyU1JMTEY2M0gya0xSS0VtRzRTeFE5Wmg0Y1dYTjFKVHFSMTFpUVpESk9GRVNLUjRHNkFkM2lRTGxzRzZxanJuYWtoaDJEWHB3bGNCUE5QbnMwT2ZUQ3VGVlJPNHlHZTBuQmVINmYxQjF4RzZsN0RvQ0FIeTk4aFF4S05PSFRMdnFWemc5UmVyWlRBYWJqN3F0bldEYWhPaXlhSDBsdFFMRzdkSmwxcXE4eFlqaEtQX2JJZw?oc=5",
+     "source": "Insurance Business",
+     "published": "2026-11-23T09:22:54+00:00",
+     "summary": "Ukrainian drones strike Russian warship in Libya, raising war risk scope&nbsp;&nbsp;Insurance Business",
+     "image": ""
+    },
+    {
+     "title": "Ukraine takes its naval war against Russia into the Mediterranean",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUE5bHJRQ3BkVnJPQ0VYalpscjlTNTBPVVJRM0JVUEJUWTM4V0dQWVlVSjAxNmcyNlZMWTVUaF9ZRVV0bUw2ZFZ4dUxSVXBOSGUtekF3cDg4eFJ5NEk5Q1p1RTg5dVJHMXBBTGN2bHNQQks1Y3VfVlZ3bmFjSHVBaUVxWk13SUltWlE?oc=5",
+     "source": "The Arab Weekly",
+     "published": "2026-11-23T09:22:17+00:00",
+     "summary": "Ukraine takes its naval war against Russia into the Mediterranean&nbsp;&nbsp;The Arab Weekly",
+     "image": ""
+    },
+    {
+     "title": "Zelenskyy Says Ukraine Sank Russian Warship, Cargo Vessel off Libya",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNjUxVnpzV2luY2JFWW1mdVVQVzE2cXl3RjRwNFV6dExFdHdRbDVLU0FoaEYtcVdpZUxnd2hlODFwSDAwaEd5VXJWb2xEY3VROWlNUEJ0OWI1VlYzVFV1bnZVTjNPbF9NaHk3UUFWWlJqV1NoQm8xWXJfUzZPTVVNWlZoUFlpek55cDByblRVTHN3Z0Y3UGNTMHFhb3NOT1EtNHFBUVJvMVhpRGJoTktj?oc=5",
+     "source": "Kurdistan24",
+     "published": "2026-11-23T09:10:00+00:00",
+     "summary": "Zelenskyy Says Ukraine Sank Russian Warship, Cargo Vessel off Libya&nbsp;&nbsp;Kurdistan24",
+     "image": ""
+    },
+    {
+     "title": "Zelenskyy says Ukraine hit 2 Russian ships off Libya, and 1 sank",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxeHBZeVU0VUJqbTZMY3JYZlVwcFVqak05aURsLTZOYU5uUEMzc2VvX2djLUhhWFJ5YlBUQ1pHX1laYzViNFRreFd2VEdiX1B2TnZrcEFaenhCdl90RWkyb0JobUtoUm5BLThhclo1YXptenlrWTVhaw?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-23T09:00:49+00:00",
+     "summary": "Zelenskyy says Ukraine hit 2 Russian ships off Libya, and 1 sank&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
+    {
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDBkLTNubjhfS1ZUc3lJQXNzaklIa3VGNXM5bFh4X3RDOUNyZXBaYjRHaHlkOEdmVEF0V2JVNVZoTE5kcXdQSFBoOFpoWTYtc3ppNGhVd0NLbXZjcXdHN0hNeldCTndjRzlpMFl0NTNnOW4waVBfZW1wclNraXFqYTJvTTliRkZNRTlDWFk2dndPSjVERHppZW9qbjYyb2lIUUFOaGJhMA?oc=5",
+     "source": "WV News",
+     "published": "2026-11-23T08:57:35+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;WV News",
+     "image": ""
+    },
+    {
+     "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-23T08:56:15+00:00",
+     "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV AngaraRussian warship sinks in Benghazi after suspected U",
+     "image": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=da3fea44607549cbbdc4de25ec543522"
+    },
+    {
+     "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+     "url": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T08:53:10+00:00",
+     "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
+     "image": ""
+    },
     {
      "title": "Ukraine sank Russian warship off Libya, Zelenskyy says",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTEYtVTdPeGgxOXdQTl9uazlOZmhKQ3B0OE5fY0hxRUdlZUR6bE1GLXpxcjNfZFJkX3F1a19WZ1l4MnpZUWg5WUEyLWc4MkFhU0VMZGV1UmdnbUstSGxtWjVSYzRORlpaWFRZbEVpeWtmSEVfaWxfdlcyYmRsOE95QmRHWTliQWc2cWlWd0V1cDNQcHowWUlNWjJMcHdnV0JNRGJBdA?oc=5",
@@ -148,27 +204,11 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-     "title": "Ukraine claims strikes on two Russian ships off Libya",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGF2ZkJUQWJpNnU3UVFrR015RWl0UTcyNGxrWWxUOXAtOXJSdlA0UzVhYWFjQVE0Ni1qd2tZa2dST1hqWVN4UmV6bFZGVnlFTmJRRHZub0lhUG5FOFN3RUl6WXVQQTJidG5sdmtLbU1MaHBvdGtMTUhnZnBTS1JMSHdXS0d3eDJjeDRkVjhGRXVxMG5iTVE?oc=5",
-     "source": "The Japan Times",
-     "published": "2026-11-23T08:36:00+00:00",
-     "summary": "Ukraine claims strikes on two Russian ships off Libya&nbsp;&nbsp;The Japan Times",
-     "image": ""
-    },
-    {
      "title": "Zelensky hails \u2018exemplary mission\u2019 as Russian warships sunk in Libya",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEpWSGxCaFBCMGt3aEZPNXJWdTJNazRHU0g2UzNUcHlBZTJhcXNnZDZFM0taZmJvT2xMUVlSbXlkQldlY2kxR0FRX2ZucnV1S3VCZktPNDNBY0hsdl9ldE1YUVB4X0MwaFRWcVo4OVRTcWgzVjRvdC01T1RWbFFSTU1aQ2lIT3p5QVdHYkFDLTUwNlJaSXFCU2RDNG9GV0hMVk41dk5paFhYRHFR?oc=5",
      "source": "The Times",
      "published": "2026-11-23T08:36:00+00:00",
      "summary": "Zelensky hails \u2018exemplary mission\u2019 as Russian warships sunk in Libya&nbsp;&nbsp;The Times",
-     "image": ""
-    },
-    {
-     "title": "Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTlIX1dGbVlxZjUzVGQ3eUwwUXY5T3VfM3lqYktpTGY0SGlUSDAyMnBKdmRkczY2OUV5ZGlMWlZONzN3TEdTdWo1SnJEWnhvSDBlU3pzY1AxN0lXZnJLa0tseVBjbTR6WS1lNmV2cjRGN1lfMlRWR0J0dldpNVA3WlRnSHh1WS10OEdCdjVqRl9UdmhEM2JJZkNORDN5b2ZIV0Z1Qk5TMA?oc=5",
-     "source": "WV News",
-     "published": "2026-11-23T08:25:16+00:00",
-     "summary": "Russia Ukraine War&nbsp;&nbsp;WV News",
      "image": ""
     },
     {
@@ -178,59 +218,75 @@
      "published": "2026-11-23T08:15:00+00:00",
      "summary": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "US senator warns North Korea growing \u2018more lethal\u2019 due to Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnBzQ2kybk5kYTQzWjlqQzRfdWU1Z1hWLWZfbVlVVlNyUUg3NWJoUk1VWGZSNEFjY2hUS3dhMklTZTFKajFqMnJDUXM4dkxnQXE0UVNRT1hmQ3h0WjQ4TmRmQVRCdmNoelN5TkZUOXB2b051aGhrS2k1OHdKOHhLcnROczZQS1JScW5SMEpsV0ZBaTQxQldVa19rajYyOU1m?oc=5",
-     "source": "NK News",
-     "published": "2026-11-23T08:09:43+00:00",
-     "summary": "US senator warns North Korea growing \u2018more lethal\u2019 due to Ukraine war&nbsp;&nbsp;NK News",
-     "image": ""
-    },
-    {
-     "title": "Ukraine says it sank Russian warship in naval drone attack off Libya",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHBEbnBOTldtai03VUJ5TEdnMVZpd2RNZi10UzRGMy1oY0dzbDRNakYwTjFIaTA0a1R5UTBNak5RTGpxQWRnNERSQTJnWDVYclktUFBoQWRHNjI3UllJNHZkZTNmRTRGT0NPay1CMVZJUkg5VE1ZM2dxb0NnRzN1T0pnc2JQUHZFY3IzanBUbzJXYzRMamFUbTJwOHFuRzViM3B0SGR3RnRlRUd3UmxJbG1NOU90RGF1YjlLOQ?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-23T07:57:16+00:00",
-     "summary": "Ukraine says it sank Russian warship in naval drone attack off Libya&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Ukrainian President Zelenskyy confirms Ukraine was behind attack that sank Russian warship off Libya",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPcERldTl2YjhjcFE2eUJIc1JxUE1uWWd3Tm9NUm9YclktdnM2VGQ0TkpxZzlybFdJaElPdVdMelJfZGU3bDVGbHBLbHgwRS1VS0Q1M3ByNWN1clNlMVVZWFJ1Ri1pWUczX0tadXdoZXNqWHk2bmNnaWRpMlBfaEFWMHBFSFNqT280eHZ5ZnRvdURKZEhjaFRoZzFBSmx3VXlBVnRlX2dVdS1lTmF4Sm5WZTE1a1hQRTRScDRpdHpqNVBCTThfakJWRTFkVUVCbFJqZ0dTMlVwQlFDeDY5eURYczdjSkIzM3dRX3RwSlFic3VvQjUtMkJQV1NDR1NaMVczenlnR2FBV0dVc1JTQnZFNHZCVHU1X1RacnZld3FpYw?oc=5",
-     "source": "WINK News - Southwest Florida",
-     "published": "2026-11-23T07:55:15+00:00",
-     "summary": "Ukrainian President Zelenskyy confirms Ukraine was behind attack that sank Russian warship off Libya&nbsp;&nbsp;WINK News - Southwest Florida",
-     "image": ""
-    },
-    {
-     "title": "Finland warns that Ukraine war 'spilling over' after Russian cargo ship struck by drone",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrNDlVSEs5ZlBldWxtMnFmQ21nVXZMYTRUV2VPdUNfMzFIMEhPQUVhR3VXb2NuLXBtQ3VYWEhSODlPR01mY2p0Vk5oaExyenBuRGc?oc=5",
-     "source": "CBC",
-     "published": "2026-11-23T07:45:02+00:00",
-     "summary": "Finland warns that Ukraine war 'spilling over' after Russian cargo ship struck by drone&nbsp;&nbsp;CBC",
-     "image": ""
-    },
-    {
-     "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
-     "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T07:37:09+00:00",
-     "summary": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an &quot;exemplary&quot; sea drone operation.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-23T08:57:56.286397+00:00",
+   "fetched_at": "2026-11-23T09:28:00.235591+00:00",
    "stale": false,
    "items": [
     {
-     "title": "India\u2019s New Data Series to Improve RBI Forecasts, Gupta Says",
+     "title": "The Election Was a Success. But What About the Patient?",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTBWWXVONTgxZlV2MVMwVjBKVzYyQzlxMmgwamVqRUlLOVdUaWxoS2NMUUZrZ3VTM1dLejhDWnNqMGZzUGUyRDZPWHRHbEY2MUtHS2phY1ZzSGJGaEdVVVY3U05tT1R5VUNoYnVnYjJNT19TQ2NQWDdaSm00RkM1OENUa2U1b0ZmX1ljcGNrVQ?oc=5",
+     "source": "The Times of Israel",
+     "published": "2026-11-23T09:19:00+00:00",
+     "summary": "The Election Was a Success. But What About the Patient?&nbsp;&nbsp;The Times of Israel",
+     "image": ""
+    },
+    {
+     "title": "Wildberries owner steps down after EU sanctions target Russian oligarchs",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUFiNl9ST3NCbm4tZ290cU11TzQ3dHJkVjNXWkhrZmdZYVExUHNYdVgxb0hFVTBwdW9yUFZZMVdqMGlVeVNDWm50NzlIZk9CZXhIQ1p3MlloLVBHOEpLbTg0cWh6VkdNbVF4NHp1ODBfalFOSXBfcjJpTVRURTJ6aDlsMEFaLXlhNE1EdzNENm1fQWp3OU5oaDlXX2R1UzBSeXo2MnFR?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-23T09:17:38+00:00",
+     "summary": "Wildberries owner steps down after EU sanctions target Russian oligarchs&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "East Asian diplomacy on the sidelines of APEC",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXJIVVl3RTJaWkh1WE9ycGhTSGtYbTZsS21YNEVfN0kyMXFUaXJ1TVdJalVMTF8zb0Jsc181cXp6RFdoU1JpV3FHSjhjZGZEWkNKdm5TMzNIc1VBd1hJcTNZeUJhQjJmWjI0UXZKRm96T0NzZWRFMXI0NnltWHRlblJFSkRiUQ?oc=5",
+     "source": "Defence24.com",
+     "published": "2026-11-23T09:10:03+00:00",
+     "summary": "East Asian diplomacy on the sidelines of APEC&nbsp;&nbsp;Defence24.com",
+     "image": ""
+    },
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YOGxOMTBEVDc4d3VVZDBoZlhlbVVnR24zVldGQTBTdFI2MXpuT0hhODdZdS1rcFFJNFRPbTUtUWhZZ0oxVDZoNUltTHlrN0p4QWI5UmsxWXJiUE8xMmRsaWVmZ2swbnVSOVA5bllKVGFMTkdmUzFhSmlMdTk4UQ?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-23T09:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "Swedish Voters Warm to Prospect of Snap Vote as Talks Logjammed",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSlk5MlVhN3hrU01pQVZBYlJJVHNoc05hMzdBa0JPcGlodWhBUENyXy04Sk1SMFZ0OVI3VTJIWUhkR1NoeE9JU21XVFpvWTRUdjM5LVJES0NOVlJsVl9COEVoZlVQVER0dUFDUFZVMmIwVk9UdHlOQ0lNOFJPT0h2YVNOdWw5UDZwb0JuTF9ESy1BcWUyaUNUQUJIaVNsSkozYnl6RHdCNlpLcXlYY1JuczFGRktoX282?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-23T09:00:02+00:00",
+     "summary": "Swedish Voters Warm to Prospect of Snap Vote as Talks Logjammed&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "Preparing the U.S. economy for the age of AI",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5taUVDNC1TaGpzRVQwbGxZX1hqVVk5VDFxVDBuNjBmUHBZZXJ2Q2dZZFQwNF9mTkItTDdjWVdDRS1CR25seUw4VG5VbjVqRk9PZFhVMXl2d3duYXM5cklmLVJCMno1dnFoT1RoX252TnpOSFh5?oc=5",
+     "source": "Stanford Institute for Economic Policy Research (SIEPR)",
+     "published": "2026-11-23T08:59:48+00:00",
+     "summary": "Preparing the U.S. economy for the age of AI&nbsp;&nbsp;Stanford Institute for Economic Policy Research (SIEPR)",
+     "image": ""
+    },
+    {
+     "title": "Trump threatens fresh strikes on Iran if diplomacy fails",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFN3aHFhMEtwUHhCU0dzUFM1WkJkeHk3X3BSbXgtMFBJeTgzUFRyWExuclEzcnZidFBuTGlwTGVTNm00RjY0QlQ2WmRXbUd2UXpPem10NF9GSlZjNWFrZnZuclFGMEpsV0hNWXpQTWloS1B0X2pPSlRxQW94ZHdZWlYwYU9Ndw?oc=5",
+     "source": "The Arab Weekly",
+     "published": "2026-11-23T08:52:17+00:00",
+     "summary": "Trump threatens fresh strikes on Iran if diplomacy fails&nbsp;&nbsp;The Arab Weekly",
+     "image": ""
+    },
+    {
+     "title": "India\u2019s New Data Series to Aid RBI Policy, Gupta Says",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEEyRHQ2bXNKZk40OGQ5N3ZhUVRqWU5UTTN4SlpYVmJDQV9BZ0dtRF96amFrZDBkemlsZzlvMXVZQ3V1ZGFILWF4ODNrTDdJN1k3Nk8taV9LZlY1ODVyemNreURzTERVUncyM1U0WFVZMFdfRHVHYXViSlNSb251OUZwZ0hSZ1VKSnByd0JzUzM3OUFaYTc5Wk9KSEdPaGoxdS03N3RudGxBamwxb1JR?oc=5",
      "source": "Bloomberg.com",
      "published": "2026-11-23T08:43:55+00:00",
-     "summary": "India\u2019s New Data Series to Improve RBI Forecasts, Gupta Says&nbsp;&nbsp;Bloomberg.com",
+     "summary": "India\u2019s New Data Series to Aid RBI Policy, Gupta Says&nbsp;&nbsp;Bloomberg.com",
      "image": ""
     },
     {
@@ -264,75 +320,27 @@
      "published": "2026-11-23T08:24:00+00:00",
      "summary": "2026 Midterm Election Preview: Pre-Election Guide & Legislative Outlook&nbsp;&nbsp;Legal 500",
      "image": ""
-    },
-    {
-     "title": "Constitutional law expert brands defence bill allowing secret security rules \u2018lazy and irresponsible\u2019",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
-     "source": "The Guardian",
-     "published": "2026-11-23T08:23:55+00:00",
-     "summary": "Anne Twomey says lack of proper debate around bill is \u2018flabbergasting\u2019 amid concerns over extension of ministerial powersLabor\u2019s new defence bill is \u201clazy and irresponsible\u201d lawmak",
-     "image": "https://i.guim.co.uk/img/media/365d2e6449a8aa487abccf8060963566f52cd4dc/135_0_3175_2541/master/3175.jpg?width=140&quality=85&auto=format&fit=max&s=94c1f2ccbeb132b7e7bbad90892fb75d"
-    },
-    {
-     "title": "France\u2019s Private Sector Weakens on Election, Budget Concerns",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZXVHY3RmdTFza0ZTeHZJdGkxMWswRDJ0ZElKdkdaZmhCZzU1M2hiaVYtcVp5VmJCYl90RWRVWHQySGczeE9CU04zamdtSkdLemZ6QldwRUUwU0ljQWZaeVlxbXFuakpfSjNVOV9aUV9LdGRNMFdLYnFka181NTBPcUdLaXZ2ZFU1R3lxaklCRXM0R3RoTWhCZ3dEMXhVLUFOejgxQ3pvbk9jQWxRbnYw?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-23T08:20:27+00:00",
-     "summary": "France\u2019s Private Sector Weakens on Election, Budget Concerns&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
-    },
-    {
-     "title": "Europe\u2019s hot autumn of protests is a symptom of economic breakdown",
-     "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T08:08:00+00:00",
-     "summary": "European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.",
-     "image": ""
-    },
-    {
-     "title": "CQ/Roll Call Hires Alex Rifaat as Health Care Policy Reporter",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHJhbFlERVJvMkhONFZwSURGRTBXd2ZtX1poeE1HS25RS0ttSk5ZTXBFX1lOMU9JWVNBakF4bWlnRWZKV2ZJRTI5STNzV01MYUxKYUhGRXBmZklZdTR4a0hXXzJSY3hwN0x5WEhqcmpaLVpxblVJV01UelRFRjBWUG5kbXg5eXhzNURna1pQeHdxS2ZYYy1zZC1aeUlZOFNFbVE?oc=5",
-     "source": "citybiz",
-     "published": "2026-11-23T07:52:06+00:00",
-     "summary": "CQ/Roll Call Hires Alex Rifaat as Health Care Policy Reporter&nbsp;&nbsp;citybiz",
-     "image": ""
-    },
-    {
-     "title": "Spanish PM Sanchez seeks against-the-odds comeback in Nov. 29 election",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1hQT2pVa3AxLTBWdU5xX083cm1wVzNnTk5YQzh6Y0ZRcnBRVGZScGg0MVhCWnRHZ0piWDhKNlhsOU03QjdnVm5WOWtVNWlUeXl5c1NGWWRxV1BJMVQzUXpUVk1YX1pkdlRjZklsUWRyWWpxbzFsZHdGZHVTSVp6OG85R1A2V1Z0aXlrMzhRdEhLVVkyaVJBejgyQWFscHgtU0HSAacBQVVfeXFMTXJzT1JObGdRMkFUMGIyNV9tcmpJV1FHb3JZSkhCd0tKeDdCMnJpMGd1UFl5bnMxYXp5d1l5ZFFnVG9iblNzdjJFVnpPbU9sYTdkVFNQZHFrS0ZiRGZ4a3BVaWJ3dmIyM1Q0dWdxWTI4NEQzY3pqRGg5MHVHZUNJeFRwOWprVWozMmtaQ0pxc3pkMG85cUthNFd5N1BPbEtDa254S2d1U1U?oc=5",
-     "source": "The Times of Israel",
-     "published": "2026-11-23T07:40:50+00:00",
-     "summary": "Spanish PM Sanchez seeks against-the-odds comeback in Nov. 29 election&nbsp;&nbsp;The Times of Israel",
-     "image": ""
-    },
-    {
-     "title": "The next big election coming soon",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVE9ZUTNvSE01YVFEdS1aNWctX0pVbHpfTnpnaW9xLTFPNFU3anduV0tVQzZiUVdUYkoyQWZTUnVOc3Y0V2RSYTNWamJjbE5FTjlyRHBZdkM0YU5laEM2eDVqRW9RMDRtWTRXTXlOTHItNnoxRVJFSy1idTJMeklUb09LVldEY1J2ZldiSDJLWGFCQQ?oc=5",
-     "source": "Williamsport Sun-Gazette",
-     "published": "2026-11-23T07:31:48+00:00",
-     "summary": "The next big election coming soon&nbsp;&nbsp;Williamsport Sun-Gazette",
-     "image": ""
-    },
-    {
-     "title": "COP31 Collapse Shows Widening Fault Lines in Climate Diplomacy",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON21HdDk1MHE2TUpvMmJnWUxCNGY0NVk4cmV5YUMxQ0QtdlpESl9KSjRnc25WRkU3NjNkUUpxYnREOENFN1JaSFFlRnliMWtuT3cyRE9GOFJEanBmNnEzZUtOTDVvWHZBZEduNzFjbUlGYWtSTTF3TXFrV29Db2hvbmtIdEtjdEV3b3dpNl94cTlEVXU0dmJFNmJiQVhwYUgwbGN1Z1ZPQTU5VUNEbjQxR0gzUlY?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-23T06:54:00+00:00",
-     "summary": "COP31 Collapse Shows Widening Fault Lines in Climate Diplomacy&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-23T08:57:56.286399+00:00",
+   "fetched_at": "2026-11-23T09:28:00.235593+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
+     "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
+     "source": "The Guardian",
+     "published": "2026-11-23T08:45:13+00:00",
+     "summary": "Jump in price follows slowdown in Qatar supplies and depleted summer stocks due to heatwavesBusiness live \u2013 latest updatesEuropean gas prices surged on Monday as a forecast cold sn",
+     "image": "https://i.guim.co.uk/img/media/7b5bb0d2c3b48dfdbcdd7ecb7881b1b008a94717/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=042604edbf9212227adc293094946db2"
+    },
     {
      "title": "Asian stock markets tumble as AI bubble fears mount",
      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-23T00:18:03+00:00",
-     "summary": "Stocks fall in South Korea and Hong Kong, as Wall Street set to rebound on Monday.",
+     "summary": "Stocks fall in South Korea and Hong Kong as Wall Street set to rebound on Monday.",
      "image": ""
     },
     {
