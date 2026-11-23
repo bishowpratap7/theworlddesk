@@ -1,17 +1,57 @@
 {
- "generated_at": "2026-11-22T23:56:34.239489+00:00",
+ "generated_at": "2026-11-23T00:26:47.227560+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-22T23:56:34.239456+00:00",
+   "fetched_at": "2026-11-23T00:26:47.227530+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Tehan says Bowen should resign over Cop; Taylor pays tribute to \u2018kind, gentle\u2019 Meldrum",
+     "title": "Australian politics live: Hanson calls Coalition and Labor a \u2018uni\u2019 party; Liberals demand Bowen resign over Cop \u2018disaster\u2019",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-22T23:37:21+00:00",
+     "published": "2026-11-23T00:09:46+00:00",
      "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
-     "image": "https://i.guim.co.uk/img/media/a1733c8d20d91e90b3db6172e139927f1099faab/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=322bf329669796bed6d6ce8bd6349a4a"
+     "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbc12c2c80182dc2c76d78173051e481"
+    },
+    {
+     "title": "Cameroon\u2019s ex-rebels caught between hiding and broken promises",
+     "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-23T00:03:30+00:00",
+     "summary": "Cameroon\u2019s former rebels face arrest fears and failed reintegration.",
+     "image": ""
+    },
+    {
+     "title": "Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great",
+     "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+     "source": "The Guardian",
+     "published": "2026-11-23T00:03:15+00:00",
+     "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of \u2018a truly unique character\u2019 and \u2018the fan all artists wish to have\u2019Molly Meldrum, Countdown host and promoter of Aust",
+     "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=2770d0dabf1c002e491fde550f4a4b48"
+    },
+    {
+     "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T23:59:22+00:00",
+     "summary": "Iran&#039;s navy claims tankers contravening its rules were set ablaze, while the IRGC said &#039;enemies&#039; sought to stoke unrest.",
+     "image": ""
+    },
+    {
+     "title": "Mystery of the red stream in Turkiye",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T23:57:58+00:00",
+     "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+     "image": ""
+    },
+    {
+     "title": "Lion on the loose in Turkiye sparks fear among residents",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T23:40:48+00:00",
+     "summary": "Lion on the loose in Turkiye sparks fear among residents",
+     "image": ""
     },
     {
      "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
@@ -20,14 +60,6 @@
      "published": "2026-11-22T23:22:59+00:00",
      "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
      "image": ""
-    },
-    {
-     "title": "Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and more remember music industry great",
-     "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
-     "source": "The Guardian",
-     "published": "2026-11-22T23:17:16+00:00",
-     "summary": "Friends and fans share memories of a man Donovan described as \u2018a truly unique character\u2019 and \u2018a great Australian\u2019Molly Meldrum, Countdown host and promoter of Australian music, die",
-     "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=2770d0dabf1c002e491fde550f4a4b48"
     },
     {
      "title": "Ukraine war spilling into NATO territory",
@@ -74,7 +106,7 @@
      "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
      "source": "The Guardian",
      "published": "2026-11-22T22:24:56+00:00",
-     "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music \u2013 and vice versaTributes flow for Molly Meldrum: Human Nature, Jason Donovan and mor",
+     "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music \u2013 and vice versaTributes flow for Molly Meldrum: Human Nature, Jason Donovan and oth",
      "image": "https://i.guim.co.uk/img/media/df88b141409fe9863f25f07d5c8fd7707d6c5e27/0_128_3000_1800/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=463b4248042469d487fbddbbf134e3b5"
     },
     {
@@ -84,45 +116,29 @@
      "published": "2026-11-22T22:19:47+00:00",
      "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
      "image": ""
-    },
-    {
-     "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T22:01:48+00:00",
-     "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
-     "image": ""
-    },
-    {
-     "title": "Abdul El-Sayed doubles down on \u2018TrumpCare\u2019 health plan, urging president to \u2018get it done\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
-     "source": "The Guardian",
-     "published": "2026-11-22T22:01:17+00:00",
-     "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to passMichigan US senator-elect Abdul El-Sayed on Sunday doubled dow",
-     "image": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=140&quality=85&auto=format&fit=max&s=8250f823555ef1ca549d6dc77d97a486"
-    },
-    {
-     "title": "Theresa May\u2019s blast from the past calls Tories back to their unhappy place | Peter Walker",
-     "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-     "source": "The Guardian",
-     "published": "2026-11-22T22:00:58+00:00",
-     "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am o",
-     "image": "https://i.guim.co.uk/img/media/323290cab4a059e743deb4e7ae0928f6d847b2af/681_32_4857_3885/master/4857.jpg?width=140&quality=85&auto=format&fit=max&s=0a1ed77ba3ac8b171cc11d740c1db702"
-    },
-    {
-     "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
-     "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
-     "source": "The Guardian",
-     "published": "2026-11-22T21:46:40+00:00",
-     "summary": "Australia\u2019s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking pointAfter delivering a major",
-     "image": "https://i.guim.co.uk/img/media/92374d04a6b87ec2995da31768a8015be7e26a0b/313_0_2620_2096/master/2620.jpg?width=140&quality=85&auto=format&fit=max&s=a2cfebe06cc01943cc44eac3f7da72ac"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-22T23:56:34.239472+00:00",
+   "fetched_at": "2026-11-23T00:26:47.227544+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Rescuers Search for Up to 15 Missing Residents After Russian Drone Strike Hits Ukrainian Apartment Block",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYi1wTEVQZVpJQVRkYS1VbU9UaE5CdmxaTlhZQ0lhX2xMSTMyeE1Fc1d5THlpbzFPNTM4MDh6bnZlcl9id2VwYTVGVFpnQkFqM3B4U19Fa2VjMDlzZHR6YU1SUURBd0V5cjBZa3dTYkNYWWVkU1FwZ3hMUnd5cFA0dmZDZEFZdw?oc=5",
+     "source": "Latin Times",
+     "published": "2026-11-23T00:00:28+00:00",
+     "summary": "Rescuers Search for Up to 15 Missing Residents After Russian Drone Strike Hits Ukrainian Apartment Block&nbsp;&nbsp;Latin Times",
+     "image": ""
+    },
+    {
+     "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T23:59:22+00:00",
+     "summary": "Iran&#039;s navy claims tankers contravening its rules were set ablaze, while the IRGC said &#039;enemies&#039; sought to stoke unrest.",
+     "image": ""
+    },
     {
      "title": "Ukraine News Today: Breaking Updates & Live Coverage - November 23, 2026 from Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44V0hBWUwxTXlyMzBGYWNmOTJqRWhsVURkQVJlaEU5TWx1eFk4SnYzZGtIQ0pnOHJ4TmlOSTlpOE1lbE9zMWMzLXc1NTl1UQ?oc=5",
@@ -202,36 +218,68 @@
      "published": "2026-11-22T22:01:48+00:00",
      "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
      "image": ""
-    },
-    {
-     "title": "Abdul El-Sayed doubles down on \u2018TrumpCare\u2019 health plan, urging president to \u2018get it done\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
-     "source": "The Guardian",
-     "published": "2026-11-22T22:01:17+00:00",
-     "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to passMichigan US senator-elect Abdul El-Sayed on Sunday doubled dow",
-     "image": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=140&quality=85&auto=format&fit=max&s=8250f823555ef1ca549d6dc77d97a486"
-    },
-    {
-     "title": "Trump Pushes Ukraine Peace Before 2027, Delays Iran Decision Amid Pressure",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGctYTFBTWk1d3FOUGpJbUlOMHpreThQWThJRmZ5Sm1qMEF0cTFVcWxyeHFXQ0ZMT2tuQnQ0SURBZ1BIa3dWeDlNWjYxcHlDS3c0c01FRXY5dXR4bWtWX3hQMHNiQTQwUW55TV85ZFVLU21KNGdMX00xeGdSaWhaVWtVN0g?oc=5",
-     "source": "\uc870\uc120\uc77c\ubcf4",
-     "published": "2026-11-22T21:58:53+00:00",
-     "summary": "Trump Pushes Ukraine Peace Before 2027, Delays Iran Decision Amid Pressure&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-22T23:56:34.239476+00:00",
+   "fetched_at": "2026-11-23T00:26:47.227548+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Tehan says Bowen should resign over Cop; Taylor pays tribute to \u2018kind, gentle\u2019 Meldrum",
+     "title": "Inside fiscal policy: A new dataset on government actions",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObzktU2ZpMkN4R3ZmNldiUHd1WHpzNWJESjBLRnplTEZJaWlVMGJTazBNNUVZblBXWmdoS19rODZoTGhVQnVCd19HeWZucDZhVzNoMjFhWXlnOTRuR0xadHY3T29xYzJuN2lfS2w5N1lLUTcxZS1RcEI0U3lhU1hWZnFwSzJGRm5OYlE?oc=5",
+     "source": "CEPR",
+     "published": "2026-11-23T00:24:36+00:00",
+     "summary": "Inside fiscal policy: A new dataset on government actions&nbsp;&nbsp;CEPR",
+     "image": ""
+    },
+    {
+     "title": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHJEVkpMY1lCY0t4amFNXzZkM2VlbzA2YU05NjlNdFBILVdFSUJESmhKcnRlUFdXMUxLLWxGMFJJQ1RGamhzNjBkOFd4cTNuamQxLW5ZZ2JWb2hnS2Q2VmVEMWVoTUw0SEtxUG1GRGV5TUlWaXVOM01OenVtNVF3dFJiT2s4UWZlTHkzZlJzYjBPTXota1FZakkzQWxwNXFUNS13UXBBNmtUSHRidTdwbHJKbllRZUdiMXpSa0VscE95Q2k4VTNj?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-23T00:23:12+00:00",
+     "summary": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Victoria faced devastating bushfires and an \u2018extinction emergency\u2019 this year. So why is nature missing from the election?",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEMzSVFGemFka3F5UVg0NXdOU0pLSGwyQy1EUVF0SDZkbU9aTDIwWS1BRmc4eDgyeHhrUnlrcFhkOGZsX0lEcmVTbUhnbXJsdEZCRzl6aFg2dzNYVkRCN3NFcy10cjJVcVp0Y1RBYXQ1VGM2MS15bDc5NUFDUDFfMWdYaUptUjFwZ0M4dWpYcHItVWN0b2tHYjFIb1gzMWJrUm00cldnMjFVbWRlZURJV240YjYzSHY5aEUzN2ZXSQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-23T00:20:18+00:00",
+     "summary": "Victoria faced devastating bushfires and an \u2018extinction emergency\u2019 this year. So why is nature missing from the election?&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "[Yoo Choon-sik] IMF's advice on fiscal policy",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtQUt2NndBV3J3T0hfVWtEbDlDcHpOMElMYi0tSXh1dUpKVFlhNWd5REdKMnpfOGh3NW9JMk5UVDlIMTdxRVpBMTZGX2V1T0psY19jbHVjMA?oc=5",
+     "source": "The Korea Herald",
+     "published": "2026-11-23T00:12:44+00:00",
+     "summary": "[Yoo Choon-sik] IMF's advice on fiscal policy&nbsp;&nbsp;The Korea Herald",
+     "image": ""
+    },
+    {
+     "title": "Australian politics live: Hanson calls Coalition and Labor a \u2018uni\u2019 party; Liberals demand Bowen resign over Cop \u2018disaster\u2019",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-22T23:37:21+00:00",
+     "published": "2026-11-23T00:09:46+00:00",
      "summary": "Get our breaking news email, free app or daily news podcast\u2018Very difficult to bridge that divide\u2019: Murray WattCabinet minister Murray Watt says it\u2019s increasingly difficult to bridg",
-     "image": "https://i.guim.co.uk/img/media/a1733c8d20d91e90b3db6172e139927f1099faab/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=322bf329669796bed6d6ce8bd6349a4a"
+     "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbc12c2c80182dc2c76d78173051e481"
+    },
+    {
+     "title": "Wall Street Journal: Top U.S. Sanctions Chief to Leave Trump Administration for Private Sector",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlRFWXdIcTU2Mm11TGx6VkNraXBBQWJSRm1LMjBMRUFuMkxuSEMyVjh6Tm1vUXB2eFNJa1lfdDc0N3JxNk5NYld6bVpiM1ZFSk9SQzZQa0hWQldzNDl4MG80ZjVsRllWNlNiRTE4YlhXaS1udDNBSzdVcFNTdzlKNXA4V0loMXpJa0NPMHZXMWhGMHhBMTByUFNqV2dtUTZaeENtVTdPQTJtMFJkeUtLalo5MA?oc=5",
+     "source": "https://thesentry.org/",
+     "published": "2026-11-23T00:04:46+00:00",
+     "summary": "Wall Street Journal: Top U.S. Sanctions Chief to Leave Trump Administration for Private Sector&nbsp;&nbsp;https://thesentry.org/",
+     "image": ""
+    },
+    {
+     "title": "Texas congressman-elect Chris Gober prepares to take on a changed Washington",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVnV2c1c5T21TTklMQ2pTVFJsM083SkY3QlFqTWw2Z09fSW5MdEJ4cXpRdmc1ZC15dXNIUUU3eVpENDdmdG9zS0Z4NEdrbTNGZnZMWkFXVEVaTk52aWxhMVF3MVBNMVBPeUpwMjJNSnRpaU9DMTJOR2dUWW5CR3ZyOUM4dV94M3V1LW9EWEowNUM2YkNIMlJxWjN2SjJWMVpDUjlN0gG3AUFVX3lxTE9ZLVpzcTFBcWlwNFl6c2pqUEhMM2JQT0R4LXRnTXJ5d1FSaFdIajNrWkkybTM4dC0tU19OU2FnWjNibzNsMTZhN1I1V0dXQlpKMmdidDhzSmxTd2NkNmFxaXpmeTllODBjaWdjcENLeXRnNENvX1hhUGpLWE8wcldIcXFOMzcxemFHS0o3Ni1zd2VlRWVYNmxYaktvY1ViWGx4X3B2MGVTNzV3UVhOZUNsV3JubTF0Yw?oc=5",
+     "source": "KBTX News 3",
+     "published": "2026-11-23T00:02:00+00:00",
+     "summary": "Texas congressman-elect Chris Gober prepares to take on a changed Washington&nbsp;&nbsp;KBTX News 3",
+     "image": ""
     },
     {
      "title": "Early voting begins Monday in District 8 special election",
@@ -239,6 +287,22 @@
      "source": "KGNS",
      "published": "2026-11-22T23:34:00+00:00",
      "summary": "Early voting begins Monday in District 8 special election&nbsp;&nbsp;KGNS",
+     "image": ""
+    },
+    {
+     "title": "Election tampering: Taiwan reports thousands of suspicious accounts",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzhuNm9PeVVPbEV4Y2tpRzl2TlQyQzVKa1lBVjJtdUN4UDUxTVUyOEJoZHJnNVpYMm1mNVNPWGVsQk9lQ2xvWk5PSHFXdFZkWWxMQ0h6eXdIWlp2REpkR1pMcmRuTzZMRUhWX1puVzlldjh2OVlSTkFaOWo5ckpZQmhzUHFKaWxVYUQybTBaWXlSTU9WbGtwcndHUjVBWlhnaUE?oc=5",
+     "source": "Table.Briefings",
+     "published": "2026-11-22T23:32:14+00:00",
+     "summary": "Election tampering: Taiwan reports thousands of suspicious accounts&nbsp;&nbsp;Table.Briefings",
+     "image": ""
+    },
+    {
+     "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTlhVl9TdFB4TzZPMHExRjJKdGJvQmZJcDRTcWl5TzRlMUpoalpDRmpJdjdpZWlQQTZrSWhfU2lXRGdSZVJCWVpMUFVubjNzRGpfUHEwUEptdHJJODZ1dlNoVk83dlN6aFgyRkk3RlRwUGJ2VXdNNFZSTThfOWxnclFjVzV5RS1iZ0R5QTZVcVU1YWRvamc?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-22T23:30:07+00:00",
+     "summary": "Democrats Clinch 258 House Seats, an Election-Year Record This Century&nbsp;&nbsp;The New York Times",
      "image": ""
     },
     {
@@ -256,75 +320,11 @@
      "published": "2026-11-22T23:22:59+00:00",
      "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
      "image": ""
-    },
-    {
-     "title": "House Democrats will start next Congress with largest majority of 21st century",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDFwYnhlcGdodzRLNmNMQXB4MFJkUXF0TUZMUk1Pa24yamNRUGNRWmxrc3MxRXN6bFdNWFRrR0JONnVxbVpJX0RhYzZBandZa3hIcXlNN0plN3lGYWM3NThPSEZhLXdfVUJ6VFVDS0EzQmFjRDhJVW9PVkl0NTFYRlhmTncxUktiMVl3WTJCQmhZMDNMTG0zaVJ2Rmw4ZU5jSVdvVkkzMllYU3BtZVNsbTg0UlcwWTVvZWMtaGI1cDlyT1ZtOFdZRTJ3?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-22T23:14:42+00:00",
-     "summary": "House Democrats will start next Congress with largest majority of 21st century&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "South Korea's central bank weighs another rate increase",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0FReWhES0gxbDRYOC1sY3hWeDlzNndRX255M1VUMS1BcUg3aEY5cU0zNDdXRXBwclNNM2hzT0t2Z09qZ2FLOXhmNzdob1ozTEtMd2xPOUpjMzE1M0hjU0pQa0xLd3NtN1lTT0Y1TnV5T2x1QW1MSnBxR2tLOWxpSDVOZDlBSVZqSkhNcTZ5NjlhNzNQUW9IZTNHTdIBoAFBVV95cUxPdTdFMDN1akhOX0FVMENmcHl0dHZIdUpram9OMGkwNUx3azhKUG9jMDM1UTQyYjA5SkdjM3Z6YTJvT0R3LTd0aU5wRThTcXA5am1qNm5UaDB5RUttNDRGa0N2ekZzekxRMW5ONWJuTVJNWXF2VTV3aDk5VGtVS01XNW1PSDZWSV91V2FZTnBGYVREa1hKbGVWeWtYQ1FsRVpT?oc=5",
-     "source": "upi",
-     "published": "2026-11-22T23:08:41+00:00",
-     "summary": "South Korea's central bank weighs another rate increase&nbsp;&nbsp;upi",
-     "image": ""
-    },
-    {
-     "title": "Harris County Sheriff's Office adopts new guidelines for use of Flock cameras",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlZIUkF5ZXA4X2lvMnAxTTdOTV85dFdTS2laeXQ5OXZtS3lfZndya1puazBCN20tZ2ZEN3FObVMxUi1qbkRReVdRSjQwUHNqTUFzaG15WkVRaVBxR3djZmVpSVVKM3pFQ1QyUUNDSm1lNXNZNFZ1S3hpSVk2aHJMZV9obXpleHVqNkticjlVQmRGU1NtNlRNbWFocUZUSnlhMEd3bNIBqgFBVV95cUxQcFZzRG1nbWgzT1FVN2h4OE5oU3ZHOGdCd01lOHNjVWNoNVdiRUp3UlZWZEpGbkNYY2VfMVpiQmFZT3ZBbTdmTTJTUkJNWlNyc1FtQm9VR3l5eU1MVlVzNmdRZ0FaRlNNZUlkYTVMOTA3eFcwQnZvZmpRaHBuNC1sY1JDUC16bEcyYUEwYmgxU1VlSW1aYnJYMW43NXNQUDdzTkRZWnpHZ05EUQ?oc=5",
-     "source": "ABC13 Houston",
-     "published": "2026-11-22T23:02:41+00:00",
-     "summary": "Harris County Sheriff's Office adopts new guidelines for use of Flock cameras&nbsp;&nbsp;ABC13 Houston",
-     "image": ""
-    },
-    {
-     "title": "Liverpool High School alum fears new gender identity policy could erode student trust",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTzI3THhBbmVPWmJTLU5FazNPTzlSVlhhTXNKNGk1N1QzdnEyeGk1TnhCdnJqSHU0RDl1UHRxWlNfR0FKVGVtcGE0YlN4VVVOYzY1VGFPQlBYTVFsNm1xeFZLeTN5dld1ck1kMG40S09MMFBYVUpMdVlTSkdxUW5SOXhCeWtCNkNIV05Wc3BMYjZaTjd4ZVVMQ3VuMnNFTV8wOXh6YXpScmVMeG1vUkVZT3hvYmZZLUgyUG5N?oc=5",
-     "source": "WSTM",
-     "published": "2026-11-22T23:01:33+00:00",
-     "summary": "Liverpool High School alum fears new gender identity policy could erode student trust&nbsp;&nbsp;WSTM",
-     "image": ""
-    },
-    {
-     "title": "\ud835\udfd3 \ud835\udc1d\ud835\udc1a\ud835\udc32\ud835\udc2c \ud835\udc2d\ud835\udc28 \ud835\udc20\ud835\udc28 \ud835\udc1b\ud835\udc1e\ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc0d\ud835\udc28\ud835\udc2f\ud835\udc1e\ud835\udc26\ud835\udc1b\ud835\udc1e\ud835\udc2b \ud835\udfd0\ud835\udfd6, \ud835\udfd0\ud835\udfce\ud835\udfd0\ud835\udfd4 \ud835\udc01\ud835\udc1a\ud835\udc2d\ud835\udc1a\ud835\udc27\ud835\udc1e\ud835\udc2c \ud835\udc12\ud835\udc29\ud835\udc1e\ud835\udc1c\ud835\udc22\ud835\udc1a\ud835\udc25 \ud835\udc04\ud835\udc25\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 Election Day: November 28, 2026 (Saturday) Early Voting Hours (for Senior Citizens, Persons with Disability, Pregnant voters): 5 AM - 7 AM Regular Voting Hours",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjd1UHl2VWNpU3Rlc19jb2cweDFGREQtdHhNLUpia0djQ2d1WUwwRloxODRJcXdyLVJfR1RNS1MydGtoRWZoRGRVM1JsXzR4UUFZUHZabG5VM1RUQVhsWjJHSU81UzFYdXNhaWZhM1NxS1JHVHdRNDVuRnpyNXh0MXZ6c0t0REFrV3M4cldkMmJ3ZEtBYzBfUUlZdTl5YUpXR0hrcFpSMVk5dm4xNURMQlZkUTVZUEcwZ1d3Q0xISi1nbzZqSDBRVzRiMDFNWGZZNWV3ZDN3T1Q?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-22T23:00:23+00:00",
-     "summary": "\ud835\udfd3 \ud835\udc1d\ud835\udc1a\ud835\udc32\ud835\udc2c \ud835\udc2d\ud835\udc28 \ud835\udc20\ud835\udc28 \ud835\udc1b\ud835\udc1e\ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc0d\ud835\udc28\ud835\udc2f\ud835\udc1e\ud835\udc26\ud835\udc1b\ud835\udc1e\ud835\udc2b \ud835\udfd0\ud835\udfd6, \ud835\udfd0\ud835\udfce\ud835\udfd0\ud835\udfd4 \ud835\udc01\ud835\udc1a\ud835\udc2d\ud835\udc1a\ud835\udc27\ud835\udc1e\ud835\udc2c \ud835\udc12\ud835\udc29\ud835\udc1e\ud835\udc1c\ud835\udc22\ud835\udc1a\ud835\udc25 \ud835\udc04\ud835\udc25\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 Election Day: November 28, 2026 (Saturday) Early Voting Hours (for Senior Citizens, Persons with Disability, Preg",
-     "image": ""
-    },
-    {
-     "title": "Australia\u2019s Sanctions on West Bank Settlers Increase Pressure",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOck01SmhWdVVnRTFFWE5hNU9zUjFKTjh6anRUblpNZDE5dnE0VGlFcVoybVFRU2xLRWdrT0xuc3F5STgtV3RRMmt5aVZtenhYYW9VQ1BEOHUxc3dPQk1qTVZSa1A2Q0xPS2FSNzVOaXhaeFBuY1p0NmVqTFlMcDBOc0Jsa09Uc2VDaHRjVndybXRVVDhoRDQtYlZ6Tlo?oc=5",
-     "source": "Human Rights Watch",
-     "published": "2026-11-22T23:00:00+00:00",
-     "summary": "Australia\u2019s Sanctions on West Bank Settlers Increase Pressure&nbsp;&nbsp;Human Rights Watch",
-     "image": ""
-    },
-    {
-     "title": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHJEVkpMY1lCY0t4amFNXzZkM2VlbzA2YU05NjlNdFBILVdFSUJESmhKcnRlUFdXMUxLLWxGMFJJQ1RGamhzNjBkOFd4cTNuamQxLW5ZZ2JWb2hnS2Q2VmVEMWVoTUw0SEtxUG1GRGV5TUlWaXVOM01OenVtNVF3dFJiT2s4UWZlTHkzZlJzYjBPTXota1FZakkzQWxwNXFUNS13UXBBNmtUSHRidTdwbHJKbllRZUdiMXpSa0VscE95Q2k4VTNj?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-22T22:46:10+00:00",
-     "summary": "Democrat Chuck Hubbard defeats GOP incumbent in North Carolina House race&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Editorial | Israel must end its racist policy of detaining Arabs without trial",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNmkzTkNZWTZ4Nmt4V21ZUGVSTUJaT1ZseTFSWkIwa1ptRkozc1FnaG80VFRjeFRLSWE5QmQ2Smxqek8yZEx2d2VMRnJYQVl6MTAxdGF2VFc5VkZoTkgwd2dVUG9mLWMwQ1NCM0ZmRnM0Xy1GeWp6VmI0QkdXSEpuMmtTM3lZRDc4Mm9EXzBMbmMyVjhGajBVZ1hRWTFuNDlrVU5od3JZMVVyajVDNGlPREdwZ19Rb2lWZWpMUTFCZC1QaF9qcXBpX19ibk5ETHVoa3R6WGhIZmFNQkItTHAxZUxMMk5qaFFrazlkMm9FdFRuS0g2ejFwLXNpSHBJMXhrbHZJMFZR?oc=5",
-     "source": "Haaretz",
-     "published": "2026-11-22T22:40:00+00:00",
-     "summary": "Editorial | Israel must end its racist policy of detaining Arabs without trial&nbsp;&nbsp;Haaretz",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-22T23:56:34.239479+00:00",
+   "fetched_at": "2026-11-23T00:26:47.227551+00:00",
    "stale": false,
    "items": [
     {
