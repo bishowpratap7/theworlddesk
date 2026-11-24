@@ -1,128 +1,192 @@
 {
- "generated_at": "2026-11-24T14:02:55.923527+00:00",
+ "generated_at": "2026-11-24T14:32:59.862523+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T14:02:55.923497+00:00",
+   "fetched_at": "2026-11-24T14:32:59.862493+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Trump's role in Huang's Nvidia return under scrutiny",
-     "url": "https://www.france24.com/en/video/20261124-trump-s-role-in-huang-s-nvidia-return-under-scrutiny",
-     "source": "France 24",
-     "published": "2026-11-24T13:48:17+00:00",
-     "summary": "Jensen Huang's return as CEO of Nvidia was greeted with triumph by US President Donald Trump, and the AI chipmaker's stock price was sent soaring. But the national security implica",
-     "image": "https://s.france24.com/media/display/623826b4-e809-11f1-9725-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-123155-123352-CS.jpg"
-    },
-    {
-     "title": "In South Africa, parents' homemade sensory room helps children with ADHD",
-     "url": "https://www.france24.com/en/video/20261124-in-south-africa-parents-homemade-sensory-room-helps-children-with-adhd",
-     "source": "France 24",
-     "published": "2026-11-24T13:44:18+00:00",
-     "summary": "Determined to help their children, parents in a South African township have transformed a discarded shipping container into an underwater-themed sensory room using recycled plastic",
-     "image": "https://s.france24.com/media/display/ab4dfb7c-e808-11f1-ac53-29d00e23de9a/w:1024/p:16x9/EN-20261123-225416-225547-CS.jpg"
-    },
-    {
-     "title": "Nvidia shares fall in premarket trading as Jensen Huang\u2019s return sparks US political backlash \u2013 business live",
-     "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T13:44:03+00:00",
-     "summary": "Republicans and Democrats object over Trump\u2019s role in Jensen Huang\u2019s return as Nvidia CEO, following an affair with an alleged Chinese spyDemocrats hit out at Nvidia and Trump over",
-     "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
-    },
-    {
-     "title": "Jensen Huang\u2019s Nvidia return: Who are the big winners and losers?",
-     "url": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-who-are-the-big-winners-and-losers?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T13:39:22+00:00",
-     "summary": "Jensen Huang returns to lead the most consequential company powering the AI revolution. But who wins, who loses?",
-     "image": ""
-    },
     {
      "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov \u2013 live",
      "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T13:38:45+00:00",
+     "published": "2026-11-24T14:28:35+00:00",
      "summary": "Youngest title match in chess history starts TuesdayFirst move at 3pm local (2pm GMT, 9am EST, 7.30pm IST)Explainer: all your pre-match questions, answeredPreview: Gukesh vows to w",
-     "image": "https://i.guim.co.uk/img/media/1402001ee84ede078095fac17b4c17fbf5f37aa6/415_0_3875_3100/master/3875.jpg?width=140&quality=85&auto=format&fit=max&s=9307260482c0b6e84cf272b0e62f873c"
+     "image": "https://i.guim.co.uk/img/media/f116b468e59d9dfb9afc9d08c11237fb3c5d4ef5/410_0_3070_2457/master/3070.jpg?width=140&quality=85&auto=format&fit=max&s=0cd369c1754660fce1454347aeb484c5"
     },
     {
-     "title": "Democrats hit out at Nvidia and Trump over Huang\u2019s return \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+     "title": "Pip assessments are \u2018not fit for purpose\u2019, Timms tells MPs as he unveils his review \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T13:37:57+00:00",
-     "summary": "Possible presidential hopeful Ruben Gallego warns of a \u2018bad lesson for corporate America\u2019 while Ro Khanna says \u2018rules should apply to everyone\u2019Congress to grill Huang over ties wit",
-     "image": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=140&quality=85&auto=format&fit=max&s=dc03fcb6a611db2dc215da5aa4a5b90f"
-    },
-    {
-     "title": "Hormuz oil traffic is down 40 percent: Are Iran\u2019s tanker attacks working?",
-     "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T13:32:24+00:00",
-     "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
-     "image": ""
-    },
-    {
-     "title": "Once \u2018capital of the Confederacy\u2019, Virginia enshrines rights to voting, abortion and gay marriage",
-     "url": "https://www.theguardian.com/us-news/2026/nov/24/virginia-voting-rights-abortion-gay-marriage",
-     "source": "The Guardian",
-     "published": "2026-11-24T13:30:47+00:00",
-     "summary": "Organizers won key civil liberties protections on election day \u2013 and women and Black advocates were at the forefrontProgressives made historic gains in the south during the midterm",
-     "image": "https://i.guim.co.uk/img/media/4c5604354e661646eaf934e2fd471b9aff7a99cf/93_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=49fc0cf6cc0fee20e24bd0ae7eee44ab"
-    },
-    {
-     "title": "Ministers approve fast-track disability payments in England and Wales",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/24/ministers-approve-fast-track-disability-payments-in-england-and-wales",
-     "source": "The Guardian",
-     "published": "2026-11-24T13:30:46+00:00",
-     "summary": "Benefit claims made easier in first stage of shake-up of welfare systemUK politics live \u2013 latest updatesDisabled people with severe and lifelong conditions will be able to claim di",
-     "image": "https://i.guim.co.uk/img/media/b2d8da8eae8ec8b601728701635dda4253a9df2b/615_0_6163_4929/master/6163.jpg?width=140&quality=85&auto=format&fit=max&s=e0febc4ff1a276aa76a68eb908e29182"
-    },
-    {
-     "title": "NHS caterer Compass confirms plan to ditch main London listing for New York",
-     "url": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
-     "source": "The Guardian",
-     "published": "2026-11-24T13:30:22+00:00",
-     "summary": "World\u2019s largest catering group supplies big tech firms such as Microsoft, Google and Amazon in the USBusiness live \u2013 latest updatesLondon\u2019s stock market has been dealt a further bl",
-     "image": "https://i.guim.co.uk/img/media/25e2bebd6e8942458f741f1256b5896eacac7f86/701_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=8404b8deddcc46c9b1d1cded22551254"
-    },
-    {
-     "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T13:30:00+00:00",
-     "summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.",
-     "image": ""
-    },
-    {
-     "title": "Senegalese families wait for news of missing migrant boat",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senegalese-families-wait-for-news-of-missing-migrant-boat?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T13:28:50+00:00",
-     "summary": "Senegalese families wait for news of missing migrant boat",
-     "image": ""
+     "published": "2026-11-24T14:28:14+00:00",
+     "summary": "Social security minister has been overseeing review designed to \u2018humanise\u2019 the system but Tories say it will lead to higher spending and fewer checksQ: [From Ali Fortescue from Sky",
+     "image": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=25594e3d1d0106ddee0d88dad4e782f0"
     },
     {
      "title": "Italy expresses concern to Ukraine over Libya ship attacks \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T13:28:22+00:00",
+     "published": "2026-11-24T14:27:00+00:00",
      "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of LibyaThe leader of Spain\u2019s leftwing Broad Front coalition has called for a dr",
      "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=140&quality=85&auto=format&fit=max&s=d88826adb738c68863aa986eaa3d6734"
     },
     {
-     "title": "Farage suggests he wouldn\u2019t work with Tories on campaign against rejoining EU and \u2018will never trust them again\u2019 \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+     "title": "\ud83d\udd34Senegal regain AFCON title after successful appeal at sport arbitration court",
+     "url": "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
+     "source": "France 24",
+     "published": "2026-11-24T14:25:06+00:00",
+     "summary": "",
+     "image": ""
+    },
+    {
+     "title": "Democrats hit out at Nvidia and Trump over Huang\u2019s return \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T13:13:35+00:00",
-     "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn\u2019t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview wi",
-     "image": "https://i.guim.co.uk/img/media/6fe99610ea3d772a960225ef129dcddcb04367eb/646_0_4531_3627/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=70446b332edf5f831126dffc64efa609"
+     "published": "2026-11-24T14:24:51+00:00",
+     "summary": "Possible presidential hopeful Ruben Gallego warns of a \u2018bad lesson for corporate America\u2019 while Ro Khanna says \u2018rules should apply to everyone\u2019Congress to grill Huang over ties wit",
+     "image": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=140&quality=85&auto=format&fit=max&s=dc03fcb6a611db2dc215da5aa4a5b90f"
+    },
+    {
+     "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
+     "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+     "source": "NPR",
+     "published": "2026-11-24T14:24:04+00:00",
+     "summary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titl",
+     "image": ""
+    },
+    {
+     "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
+     "url": "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:22:17+00:00",
+     "summary": "New York City mayor notes \u2018massive impact\u2019 on working Americans\u2019 lives when Jensen Huang stepped down as CEOZohran Mamdani, New York City\u2019s mayor, on Monday weighed in on the corpo",
+     "image": "https://i.guim.co.uk/img/media/2af8dc339680254d727ae111d98215911e512776/312_0_2916_2333/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=32f228532d7a6e19b342c594d9be44fd"
+    },
+    {
+     "title": "Could Russia-Ukraine war threaten Libya\u2019s fragile reunification process?",
+     "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T14:16:33+00:00",
+     "summary": "Ukraine&#039;s involvement in Libya raises concerns as Zelenskyy admits targeting Russian vessels in a key port city.",
+     "image": ""
+    },
+    {
+     "title": "Nvidia shares fall in premarket trading as Jensen Huang\u2019s return sparks US political backlash \u2013 business live",
+     "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:15:49+00:00",
+     "summary": "Republicans and Democrats object over Trump\u2019s role in Jensen Huang\u2019s return as Nvidia CEO, following an affair with an alleged Chinese spyDemocrats hit out at Nvidia and Trump over",
+     "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
+    },
+    {
+     "title": "Nigel Farage rules out deal with Restore Britain unless it disavows controversial backers",
+     "url": "https://www.theguardian.com/politics/2026/nov/24/nigel-farage-rules-out-reform-uk-deal-restore-britain",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:13:38+00:00",
+     "summary": "Reform UK leader says he is \u2018very worried\u2019 about ethnonationalism and he does not trust Tories over BrexitUK politics live \u2013 latest updatesNigel Farage has said he might have a \u201cci",
+     "image": "https://i.guim.co.uk/img/media/3769e14a903e044475527e8c4cd9f3d54219bedc/940_99_4035_3228/master/4035.jpg?width=140&quality=85&auto=format&fit=max&s=5ea130c919c58d890fceab25fc9db219"
+    },
+    {
+     "title": "Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryPanda rider",
+     "url": "https://www.theguardian.com/business/2026/nov/25/chinese-police-wechat-group-hungrypanda-delivery-rider-alleged-murder-melbourne-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:00:50+00:00",
+     "summary": "Several members of the group chat set up after the alleged murder of Feng Jianming say they or their parents were called by police from their home towns in ChinaGet our breaking ne",
+     "image": "https://i.guim.co.uk/img/media/3588cbd60251b25da3b952a348d3ea005d6f8aaf/89_0_4342_3472/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=46eedf0fe80e0e5101db61f643157b79"
+    },
+    {
+     "title": "Prisoner given second whole-life term for murdering Soham killer Ian Huntley",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/24/man-admits-murdering-soham-killer-ian-huntley-jail",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:00:50+00:00",
+     "summary": "Anthony Russell attacked Huntley with a metal bar while they were in a recycling workshop at HMP FranklandA prisoner who bludgeoned the Soham killer Ian Huntley to death with a 4kg",
+     "image": "https://i.guim.co.uk/img/media/b6bf03a4887ba59892425c17e5cc0a09311df87a/0_19_1278_1021/master/1278.jpg?width=140&quality=85&auto=format&fit=max&s=649d7ffca5b929a84cbebe24da869608"
+    },
+    {
+     "title": "Guardian Essential poll: Albanese\u2019s disapproval rating hits highest level as problems mount for Labor",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/25/guardian-essential-poll-anthony-albaneses-ai-datacentres-labor-one-nation-coalition",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:00:49+00:00",
+     "summary": "Australians also turn against AI datacentres, with nearly half saying they don\u2019t want one near their homeGet our daily political email, free app or daily news podcastAnthony Albane",
+     "image": "https://i.guim.co.uk/img/media/04a2d63ae262fd5fde5dacc710a31435854b852e/912_0_4856_3885/master/4856.jpg?width=140&quality=85&auto=format&fit=max&s=5cc85d604de0bcb26c64dcfa68eca680"
+    },
+    {
+     "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:00:48+00:00",
+     "summary": "Trump\u2019s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with IranDonald Trump\u2019s unwillingness to heed warnings of suspected Chinese",
+     "image": "https://i.guim.co.uk/img/media/515210e29bb0c7d2077263b355c6ce39f3b006d5/243_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=ea01d85bb0c9da02666f01ad83b856b5"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T14:02:55.923510+00:00",
+   "fetched_at": "2026-11-24T14:32:59.862507+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Italy expresses concern to Ukraine over Libya ship attacks \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:27:00+00:00",
+     "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of LibyaThe leader of Spain\u2019s leftwing Broad Front coalition has called for a dr",
+     "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=140&quality=85&auto=format&fit=max&s=d88826adb738c68863aa986eaa3d6734"
+    },
+    {
+     "title": "Democrats hit out at Nvidia and Trump over Huang\u2019s return \u2013 US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:24:51+00:00",
+     "summary": "Possible presidential hopeful Ruben Gallego warns of a \u2018bad lesson for corporate America\u2019 while Ro Khanna says \u2018rules should apply to everyone\u2019Congress to grill Huang over ties wit",
+     "image": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=140&quality=85&auto=format&fit=max&s=dc03fcb6a611db2dc215da5aa4a5b90f"
+    },
+    {
+     "title": "US Marines Bring Lessons From Ukraine\u2019s Drone War to Australia",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzdXQk9sZmVCUUI2eTM3QVVPMEs2RC0wUEg2dk5RTXhIaDAxVzlpdnhVQU5XaEZKTnhTZy1sR0dEaGtXcUROQ0hfUHh1Zzc5bnl6UWc3TUcwc1YwSkF3anlnV2JrbjVLZXpQMkxzRVkxZmk4OUY3VWR2azMtam1YYWFHLUhmcWhNOEhOazN0Y3ZaTE5zUEdaOHZFSUFTQUFUZ3JxQ0UxZUlSWE9P?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-24T14:22:11+00:00",
+     "summary": "US Marines Bring Lessons From Ukraine\u2019s Drone War to Australia&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Could Russia-Ukraine war threaten Libya\u2019s fragile reunification process?",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3VCbzA2cllMdlZvQU1ZclBLd0ZOV2xCVElUZi1ZaGdPemZYZFhBeW4xYUE4dkhzaW1VOGFxSjhRQ0Y3Q196TmtYeEpWejEyaEtZUUJLODRNMWNsREkxR1Bibmc1eFJibUdEWHJyTmh2NkJwQXBpd0VFZG1xREROTjJhYTdkUHVQSFAxcFpmQUZLWUFmLS1CUWNLM1lFbTZUN19Ga0Y4T0FLVElKSnM4ZGRLVkItWGMyMFJIMEd30gHDAUFVX3lxTFBDM21DMlk1Mnp6MWwyT2plZVlDdWJXQlVuSHdxd01ZNmJPOGs2ZGYxRGVtRmctRFRtbm1rY01Pc0RvWlVKeXFUSlAzeW5fVEVMblQ1TmFkRy01amkwZWlYbGFSbGlEZzVYRko3anNmcDFySkl0Y1FtdWMxOFVzTFdYbTZYZGdKSkoxT1FzbEZsamttX1dtdU9Ia2JIX0pPRlV0cVh5M3JLU0daLTZUeVkyNF9VdmRQb0tLREFZQ3kxZ3YxVQ?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T14:16:49+00:00",
+     "summary": "Could Russia-Ukraine war threaten Libya\u2019s fragile reunification process?&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "UK warns companies supplying Ukraine of increased Russian sabotage threat",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HckVWQlY1N3VTQnNkTHU2OHNmSnViTEdIVFB6X2VYWHVZWGpEM1BMcmhSZURkc3VsbU9jNGFUMW1vVEEyMF93UmxnX1VNY3B1cl9uNk1UMkE?oc=5",
+     "source": "TRT World",
+     "published": "2026-11-24T14:15:20+00:00",
+     "summary": "UK warns companies supplying Ukraine of increased Russian sabotage threat&nbsp;&nbsp;TRT World",
+     "image": ""
+    },
+    {
+     "title": "UK intelligence alert warns companies supporting Ukraine of Russian sabotage threat",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlJPblNNTmtqNEYteHpuVE94a0UxNnJnZlFZZUFYM2lCNjdBOWZ3Zko2MzlIeUVQejI1V2NEWDA2VzROSm9pa1RzeEdTT2RYY0cyZnVQMXFlNUVCQ1hUdXhPaW52TWk5M2ROTzE3M0Z4Qjh0SzRXQnA5WTQ0TEMwV2dtRUF5MkpXS0s0bW44cGI0Z1dYbzExaVBqeVRqQ010d1lCOF9tZVBsNUJxWTNpbExIcjJVWHlLX2Zv?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-24T14:09:54+00:00",
+     "summary": "UK intelligence alert warns companies supporting Ukraine of Russian sabotage threat&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Q+A: Does strike on Russian ship in Libya herald next stage for Ukraine war?",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQWcwZF8tNWl5d0hjNUw4N1gzdzNRV0hpUGtrWlhGTGZabVNsSXdOR090RzB0cUNCeGFJalhZV2VjUTRFOHU2Y3ZqLXZPT1otc29GU1J1MVFLSHJlNnF2RFVfOF9ZWGtPSU9KZktHOUxoRHBzMGUwYjRyUnVsNVpFZFoxV21JZnA5OFhUYVNPNGREamFWYlNGR3I3WUxIT3NQMUlvcE5BRHMzY003SWtaSWVyeHdPdlFSTWRvblRfeFA?oc=5",
+     "source": "The Parliament Magazine",
+     "published": "2026-11-24T14:07:54+00:00",
+     "summary": "Q+A: Does strike on Russian ship in Libya herald next stage for Ukraine war?&nbsp;&nbsp;The Parliament Magazine",
+     "image": ""
+    },
+    {
+     "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:00:48+00:00",
+     "summary": "Trump\u2019s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with IranDonald Trump\u2019s unwillingness to heed warnings of suspected Chinese",
+     "image": "https://i.guim.co.uk/img/media/515210e29bb0c7d2077263b355c6ce39f3b006d5/243_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=ea01d85bb0c9da02666f01ad83b856b5"
+    },
     {
      "title": "Ukraine war becomes daily more dangerous",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLW5UR0FidDVzeTZiTTh5cTBCU0pTU0h4RVk3SGJUOC1xNlNnMWNFb1JoY0FuUmxmbE1UTU4zSjhuN1F5SnJtcU1KeTR2a0NVUFFIVjdET2taUVZRT0hhT0dpamVkRnEwTU11ZFJhT1dTUTBQb2t0ekVEZXRKNHhMWHNpTkp1MWM?oc=5",
@@ -132,99 +196,115 @@
      "image": ""
     },
     {
+     "title": "Israeli air strike kills senior Hamas military official in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T13:55:11+00:00",
+     "summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine insists attack on Russian ships in Libya was self-defense",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHExQm55VEY4eTEyNS0yQjNRVVFoLWRzdzZsdGRBLU5VbHAxbU4xZ3V6YWJ5dnA4elhRUEFBZWlXam9MSUVCX1hRM2VCOXFoTzVwMG5LMzEyR2lFM0h6V0x0dmJRbFRXcVQ1X0RZMTRFdnJ4VExUQXNzTF9IaXBJRGNmWGZabWdQaE5WYTZ3X3RiUVp1WDBUaG5XSEg4T2UyOE9DX2hlQnlVMWtmSDNoVUdyQmotTUnSAbwBQVVfeXFMTzhqVE1qdTRUVE5oWndUdXBWcWtOVm9YWXBHUEN6ZExJa1A4U1BhQjhSS3ZLOGYycXdNOTFpTkdodHZ5RDFJUlVtZ2tjRUVTUkhGbzFUeGNIeVU1Z2ZSWHJJQVliOHdXd0VtdEc5M2xDWGo0NTVXaW1aR3RLQ1J2ZzRoN0NxTjYxcHlaNXRnSTZORE8wWF96VWlocklfc1B3c05QOUZTUjNKZTYxbUxYZ1NvNXlhTWI4WTRUdDI?oc=5",
+     "source": "Al Arabiya English",
+     "published": "2026-11-24T13:55:00+00:00",
+     "summary": "Ukraine insists attack on Russian ships in Libya was self-defense&nbsp;&nbsp;Al Arabiya English",
+     "image": ""
+    },
+    {
      "title": "The Big Disconnect in Kushner\u2019s \u201cArticle 5-Like\u201d Security Offer for Ukraine in Russia Talks",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nblRNUDIwNkhUZmtBV19JSUktTEdrTjFURlBHSkZHdE1ZYTdSeW8yWm51UVJkUWZpZzljeS1WTUoxTUJ0Q0hvc2JqZ3hOLTZZQWdrekJBU21qLW5nZXJRUVFBQjRBLW9yUFdBTWc2aThQU2hBdElHMnZnTU9ORzQ?oc=5",
      "source": "Just Security",
      "published": "2026-11-24T13:50:48+00:00",
      "summary": "The Big Disconnect in Kushner\u2019s \u201cArticle 5-Like\u201d Security Offer for Ukraine in Russia Talks&nbsp;&nbsp;Just Security",
      "image": ""
-    },
-    {
-     "title": "NATO holds meeting on escalating Russia-Ukraine war after missiles fall in Poland",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZWhYM3JqU1dGakRSZzVYQ0ExNmpucFVCT3JnOW5NUGpFTkVFVFhYYmNmRW85QUlQbnUtQkh4bllGbVg5LXJqTzhILUh0azUyMXA2SHZ4X2IyVkxNZkRfZWdKTXg4b3NVcTVzckM4eF9jci10TVo5Y1J2ZEZLdUl1Vk5MaWFEN1BzNkFJQ0VYUE1IZDhDQXZ5b0hYbTRZa241bUNiNEM0dVdVNV8zbnI4Qk1JVS1WSXEzTWc?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-24T13:46:00+00:00",
-     "summary": "NATO holds meeting on escalating Russia-Ukraine war after missiles fall in Poland&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc0xpTjVDMS0yX1MwS3lSWFl0SV9CR1hWQ2pGeHhKME9GMnlNQkJhSm5kVzIxM2ROUFZDM25Zd0xORGZsOGMtOGtfNU93dFdqTG9kUGJiZTRKSkcydk1RaURXNTcxMG8tSnNfMkJENkUzQXVRcEZMajBUd1BrRGhKdERSQlZBaUVZMDAtM0pWN09GOHc0UFE0M2xNUDlrbnRNZzM0UVFtb3U4akswZ2doZVl1V1h1NjI4cGMtVjFPUEZJVU1CdjF1aDdjUzM4c0tHbDliUGdoOHBIMm5rQTlEdU1HZmQxVlhpb3VSanZzSUNMX1lZd3c?oc=5",
-     "source": "KTVN",
-     "published": "2026-11-24T13:45:04+00:00",
-     "summary": "A Russian strike on Ukraine kills 2 and wounds 48 as Kyiv explains its attack in Libya&nbsp;&nbsp;KTVN",
-     "image": ""
-    },
-    {
-     "title": "Democrats hit out at Nvidia and Trump over Huang\u2019s return \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T13:37:57+00:00",
-     "summary": "Possible presidential hopeful Ruben Gallego warns of a \u2018bad lesson for corporate America\u2019 while Ro Khanna says \u2018rules should apply to everyone\u2019Congress to grill Huang over ties wit",
-     "image": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=140&quality=85&auto=format&fit=max&s=dc03fcb6a611db2dc215da5aa4a5b90f"
-    },
-    {
-     "title": "The Ukraine-Russia war is escalating \u2013 and it will go global unless Europe speaks with one voice | Simon Tisdall",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR04wVEpvVktIXzloaDJpTndrT2N4ZndnSVlheldaWUx6VUhtbnQzSVRSM2pWZV8tOHUyV2o5Mm56VDBQNG8xS25JTV80OWh6UFNNdFNHODd3NFBfZG8wTi1PcUQtOHp0SGJJZVU3RUhtSkI0YlhkLUIyLXotaU1rakhLMl93YWxsT1E1eS1QUkNWUzhNOXFtRm1wWGdMN2duX3RpanNn?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-24T13:34:00+00:00",
-     "summary": "The Ukraine-Russia war is escalating \u2013 and it will go global unless Europe speaks with one voice | Simon Tisdall&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Ukraine insists attack on Russian ships in Libya was self-defense",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXhqaHNBcUxhTDV0cmxlejBQUnRvTF9vRFRvYjZ3QUtnZXRtOWpCNUpOMVJGRU9NTTJfLWR1ejA5VWRHN1FnSkRHSVBhc1JNLTBPdWxhY3JnSmgwQVVTSG9DOTQ0bjVHcWh2MG1TYWtwaHBWdDZ0eEhLSlA1a184NFdKWjZIajRQRXYzTWR1TUV4R0VlXzRQRUZpVXFiOFZFMzlidUJvZVFDV1gtcm9N?oc=5",
-     "source": "Arab News",
-     "published": "2026-11-24T13:33:31+00:00",
-     "summary": "Ukraine insists attack on Russian ships in Libya was self-defense&nbsp;&nbsp;Arab News",
-     "image": ""
-    },
-    {
-     "title": "Hormuz oil traffic is down 40 percent: Are Iran\u2019s tanker attacks working?",
-     "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T13:32:24+00:00",
-     "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
-     "image": ""
-    },
-    {
-     "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T13:30:00+00:00",
-     "summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.",
-     "image": ""
-    },
-    {
-     "title": "Italy expresses concern to Ukraine over Libya ship attacks \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T13:28:22+00:00",
-     "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of LibyaThe leader of Spain\u2019s leftwing Broad Front coalition has called for a dr",
-     "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=140&quality=85&auto=format&fit=max&s=d88826adb738c68863aa986eaa3d6734"
-    },
-    {
-     "title": "Israeli strikes on Gaza kill senior Hamas security official and six other people, medics say",
-     "url": "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say",
-     "source": "\u00a9 Bashar Taleb, AFP",
-     "published": "2026-11-24T13:07:03+00:00",
-     "summary": "Israeli air strikes on the devastated Gaza Strip killed Brigadier General Naeem Abu Nahel, director-general of the Palestinian territory's Internal Security Service on Tuesday, the",
-     "image": "https://s.france24.com/media/display/627512ce-e802-11f1-ad6d-1991d4929b54/w:1024/p:16x9/000-D7J44LE.jpg"
-    },
-    {
-     "title": "Iran files lawsuits in US, EU courts: Will it get justice for \u2018war crimes\u2019?",
-     "url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T12:56:29+00:00",
-     "summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T14:02:55.923514+00:00",
+   "fetched_at": "2026-11-24T14:32:59.862511+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Pip assessments are \u2018not fit for purpose\u2019, Timms tells MPs as he unveils his review \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:28:14+00:00",
+     "summary": "Social security minister has been overseeing review designed to \u2018humanise\u2019 the system but Tories say it will lead to higher spending and fewer checksQ: [From Ali Fortescue from Sky",
+     "image": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=25594e3d1d0106ddee0d88dad4e782f0"
+    },
+    {
+     "title": "Rewiring Policy: What the Election Means for AI and Technology",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzJ0dHMyQi1lLWZjRXdWVjhGTzlMUGZoQWM2QUZoTmpjNnlWdk1zM0JhbW5DZF9HcS1WYU9HUHBtdXJjRmQ1NE9waUhfSzNrZm1Ya0x6dzlxaThPVk1tdnFoOEU4Q0RhakFZS0ZuV0gxMU5DUHRNZXJOOWZTWkRsT25hOUh6UFY3Z2QweTVyWGo0NGpZMmx0SDRxUEduU3o3bGRwZUVVUlRfNGtUcG14aA?oc=5",
+     "source": "Law.com",
+     "published": "2026-11-24T14:27:00+00:00",
+     "summary": "Rewiring Policy: What the Election Means for AI and Technology&nbsp;&nbsp;Law.com",
+     "image": ""
+    },
+    {
+     "title": "Boost university alliances\u2019 diplomacy roles, policymakers urged",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdm1UcTZyYWlfQzRfMWY5YnJTdlFnbktndUIxa2drNUJhRWdXVTRJenQzOU5HRFJMRXI1dFpRZ1F2Q0l1bkwyMHI3R0FudHUtbjZjaTYyVWxXa3pMdUxJM212bW1qLVFiU3Fad2Naa05LUHZ3OGpkVVJac3VZeUl0NVRZQ1ctanVQSGpnQTZUblc0UkJQMnZPdERaRDF5MWFjazhwWnJkTjlnbGFzVHd0OWZJbUNaajJkUzhpV1hyc0VkQXdqVEFOMm9FWlhDT2k3Sm9lbUNR?oc=5",
+     "source": "Research Professional News",
+     "published": "2026-11-24T14:25:57+00:00",
+     "summary": "Boost university alliances\u2019 diplomacy roles, policymakers urged&nbsp;&nbsp;Research Professional News",
+     "image": ""
+    },
+    {
+     "title": "Colom taking his message to Itawamba County",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVFTREs4TWpiMl9UZWJhUVBZZXBwUmFFWnVud0E1XzdaRmZaWjRER3ZWRGpBdGFnY3RKSjJWVm9kMEdtc0tEVEU5TlFhdTAwMHdoelpQaFJsQzJzcDJiSFd1cFdDdkNzTDAwanA3OWNWeW95QTRfSUJBQlNNOFNjSDlYN3lXZUt0NXlr?oc=5",
+     "source": "Magnolia Tribune",
+     "published": "2026-11-24T14:25:05+00:00",
+     "summary": "Colom taking his message to Itawamba County&nbsp;&nbsp;Magnolia Tribune",
+     "image": ""
+    },
+    {
+     "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
+     "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+     "source": "NPR",
+     "published": "2026-11-24T14:24:04+00:00",
+     "summary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titl",
+     "image": ""
+    },
+    {
+     "title": "Michigan Board of State Canvassers certifies record-breaking 2026 General Election",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnpmTG9SaVVYY1lEeHhNS0Y4d1otOGc2TUhEOWlDUE1oRG5rNEJHZWJpZDRHVkZiT0J2R1FBeEZmdF9jQk5uZXNmOG9QQ0FrVDRyaTRKWE04dFdiQWtpdFdCY0dPRE9HdDAxb0FqWnA3czQyUXhVTHlQSF9sME9aSU1vVDlZSXZyaVA1bllLMEtEM2p1cVhmS1RnVm1UcUJGcVA1LWZZSTZieHByaVZVOGVjcFpQZw?oc=5",
+     "source": "EUP News",
+     "published": "2026-11-24T14:16:35+00:00",
+     "summary": "Michigan Board of State Canvassers certifies record-breaking 2026 General Election&nbsp;&nbsp;EUP News",
+     "image": ""
+    },
+    {
+     "title": "Spain extends bank tax, sets tougher lending rules before election",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWk4NUtYdVpPQnRKWjdRdU8xcEFiT3FFN05UdEpIcXlHTnFzRHFZbkdIVkJsbjJqeHlHWDFKWmstSnZTR0tNdWdrM0dCVW0zZ0RKRzJnZ2ZtTktxSkdRMzgzZThVSGU4SEpWNUNGOWRXcV9nY2ZlQkl0aTl6NmVwa3RVbDJVWjdPYXdDOGRKZV91THhRempWLXd1WTRZckZYaHp6TEIzSzJiV0JCX0Z3U1hseWJwTEJDekE?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-24T14:07:43+00:00",
+     "summary": "Spain extends bank tax, sets tougher lending rules before election&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Records: Government, judge debated constitutional implications of searching Rep. Ilhan Omar\u2019s home",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kWU00cV9nS2t1VG1QaHQ5ZnNjZzVoczY1YUt6X3dycmp1VFlrUmlIYndsMWpTcUpIcjNONm1pVHBxQTNQSGg2dnlmWHllYkxvSzA4NmVJS1ROYW5mRFY1bk56UzNuSTZiQUh6TmtwRlI3SEU?oc=5",
+     "source": "The Mercury News",
+     "published": "2026-11-24T14:04:48+00:00",
+     "summary": "Records: Government, judge debated constitutional implications of searching Rep. Ilhan Omar\u2019s home&nbsp;&nbsp;The Mercury News",
+     "image": ""
+    },
+    {
+     "title": "Days out from the Victorian election, nine datacentre projects await approval. What will their fate be?",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
+     "source": "The Guardian",
+     "published": "2026-11-24T14:00:48+00:00",
+     "summary": "While parties have come out with policies on where datacentres can be built, not all are clear on whether they apply retrospectivelyGet our breaking news email, free app or daily n",
+     "image": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/498_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=3b89e28e5ba5e8144ba48afc19a8cdcb"
+    },
+    {
+     "title": "Policy driven trade imbalances: The case of sovereign wealth funds",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3c4eWdzdkxGZk9DRlRFNFoxWUJIb3Z2RmlKZEFiYzFwZmJQV3Z6bE01bDh1N1pYSFhyUG1sX3NFVlQ5dzJMODVHMmhnQ1R0aF9PbTN5VGVKUk04LUdHQWs5RFh0c0t5eHFfVVRTWlhEYklZTUtkcDBuQlNPZ2ZMeUhJcjR4VFhXeFRtRmZsRTkwZXM0RFNRblBqekVwcmdkUEFwZk84VjhMZ1dpaEE?oc=5",
+     "source": "Peterson Institute for International Economics",
+     "published": "2026-11-24T14:00:00+00:00",
+     "summary": "Policy driven trade imbalances: The case of sovereign wealth funds&nbsp;&nbsp;Peterson Institute for International Economics",
+     "image": ""
+    },
     {
      "title": "IFT to Address How U.S. Midterm Election Results Could Impact Food Policy",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQel9YaDk0c0JnSTZaaFZzN1VxNm42SzhxbHpoYWdSQVE4NF9zb1BQNUhNdjQzbTM4UEpqYVVFUmpoVTZWbC1ZdWt0Y3g1RGlNT1NiY1FTeGl6VUlmRDNhdW12VDhhMWpQT0w3VG5jQmp3NU43UFF0bWJDcThHZkZ3WEt4c3RiVVhGYkNiM2k4QmRzQXdsN2N2YmwyQzgtdU9IQjRjeDRkUnZYbjR0dkp3U2x4ZmMxb3hNX2lWbUtzaEZOZw?oc=5",
@@ -234,97 +314,17 @@
      "image": ""
     },
     {
-     "title": "BNP Paribas Miami Policy & Markets 2026 Conference: Key Takeaways",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaENvbEhSYlpHUXBXOWNFSzZhMC1NNXJQSHBqa2tvUnNWaE9CSG8zU3cxTHY1TW42ejVOYzRxU203dl9pU3ZvdkxzeHpMakZ5SlpLLUhWUWlSQWxxMVlNdW1Gbl9HYVRaQVoyNWR3ZlJMZ24tb09PRVE0MElLbURRbw?oc=5",
-     "source": "BNP Paribas CIB",
-     "published": "2026-11-24T13:49:38+00:00",
-     "summary": "BNP Paribas Miami Policy & Markets 2026 Conference: Key Takeaways&nbsp;&nbsp;BNP Paribas CIB",
-     "image": ""
-    },
-    {
-     "title": "Trump's role in Huang's Nvidia return under scrutiny",
-     "url": "https://www.france24.com/en/video/20261124-trump-s-role-in-huang-s-nvidia-return-under-scrutiny",
-     "source": "France 24",
-     "published": "2026-11-24T13:48:17+00:00",
-     "summary": "Jensen Huang's return as CEO of Nvidia was greeted with triumph by US President Donald Trump, and the AI chipmaker's stock price was sent soaring. But the national security implica",
-     "image": "https://s.france24.com/media/display/623826b4-e809-11f1-9725-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-123155-123352-CS.jpg"
-    },
-    {
-     "title": "Policy driven trade imbalances: The case of sovereign wealth funds",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3c4eWdzdkxGZk9DRlRFNFoxWUJIb3Z2RmlKZEFiYzFwZmJQV3Z6bE01bDh1N1pYSFhyUG1sX3NFVlQ5dzJMODVHMmhnQ1R0aF9PbTN5VGVKUk04LUdHQWs5RFh0c0t5eHFfVVRTWlhEYklZTUtkcDBuQlNPZ2ZMeUhJcjR4VFhXeFRtRmZsRTkwZXM0RFNRblBqekVwcmdkUEFwZk84VjhMZ1dpaEE?oc=5",
-     "source": "Peterson Institute for International Economics",
-     "published": "2026-11-24T13:44:17+00:00",
-     "summary": "Policy driven trade imbalances: The case of sovereign wealth funds&nbsp;&nbsp;Peterson Institute for International Economics",
-     "image": ""
-    },
-    {
-     "title": "Iranian rial hits record low after fresh US sanctions target financial network",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3VkTGZXa3p1ZnlkbUVuQVVmM1ZqOGJSWkhBR0pJQ0lER2o2TURrQTg0NFFRR0NmbFZrbnlUM2xZM002a2xoaTNuNnA5aDNObzE2V0pCVHMtcXVrZHliM3dISmpaNEozcl9vOU5SZTdEWi1BWWlKclV4bFVza3RTbnFJQmY1YUN4cTJKSGNpY3pUMjF0UFduNzNIeVZ1REhoYTk4RlBLeWFrdnQ0ZFE1UlZqdFZtc08xZXdz?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-24T13:43:10+00:00",
-     "summary": "Iranian rial hits record low after fresh US sanctions target financial network&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Special election, appointment or empty seat: Wausau alders to choose how to fill District 9",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObHJ3U2sxZWktazJacTdrd0JyTjZ4QmZQOVF4bDhVR2VDdG9lLXpnR3ZUT05MSEFJSWYwS0JSeThGcVJ5TEItMV9UMFNGUk5YZjFDQmltXzFxTV8zWXN3RmdaVFdVVGhOdF9jY2tpNjRVMjl1TmJOOGctSVUtUDJxbVNPUFE1LVFoUnRGZ2dQN2VJOVUtVXQtQUZFWDVqTlZlZkxTYjRzdGZHb0tVX0FMb3Vva28ya0pzaWprOGJPeEVZMjcwS0pLSkMxcDVlZHc?oc=5",
-     "source": "Wausau Pilot & Review",
-     "published": "2026-11-24T13:43:00+00:00",
-     "summary": "Special election, appointment or empty seat: Wausau alders to choose how to fill District 9&nbsp;&nbsp;Wausau Pilot & Review",
-     "image": ""
-    },
-    {
-     "title": "The real winners and losers in Fresno County\u2019s 2026 midterm elections, explained",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTVGdkpoS1hkdFJhcjFRWU1LY2JzNWQ3RDlUY1VPYXdrSXB5Yl9Ra3RiTkZzVzIweFE5Wl9fNi1WQTFNdzE4b2ZNMkdyQXZxZTRHNXhWVkNuSURYeVhuZnZsNHNjd3BwRVlxOXlLM1prUHBSRFFhcHc5NTM0cG9KaU1hejY4ak15QTRyT2pNWUFua21qWVpsaFFuYnlmOTBfOHMzWkVnaDY5NFdMbWxrcVRGVQ?oc=5",
-     "source": "Fresnoland",
-     "published": "2026-11-24T13:42:03+00:00",
-     "summary": "The real winners and losers in Fresno County\u2019s 2026 midterm elections, explained&nbsp;&nbsp;Fresnoland",
-     "image": ""
-    },
-    {
-     "title": "Germany Eyes EU Sanctions to Bar Russia From Hockey Championship",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ZFdlhYd2h1RFFxTHFXTnp2T3dnbDFSU19ib1hMVFVRaEVfXzBTT1RudWFSbFN0ZDdnMTAycjFqQmhrVkplN1MzMVcyaXdhNTREeURXZFVhdmpfNWM3dUFRTmxlZnkybXZIdkdIdjBxRGtoSGl1Ujl3MUdfSXBPbG5uZmlTOUwzWHRRNUhIYWpaMEM5QUhsdWhSM3dTZW5PU2dibFlJNV90bDVXclRUY1lra0dqdw?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-24T13:41:48+00:00",
-     "summary": "Germany Eyes EU Sanctions to Bar Russia From Hockey Championship&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
-    },
-    {
-     "title": "Nigeria's central bank keeps key rate on hold at last meeting before election",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdExfVUpxeTN1S202cWY3bGJqVGZPUHVUM2NiNVphc3pLWGhIeGxMVjdmaHZQejEtdjNid0FuWGZTRy1aZHA4dDlRcWlUbVB6UkRUN1FBdFBTMnFPRUEzV3dvemF2MV9aaWtZeVpWNTBGSkV1SXBqbXZUT0ZkLUlYTWw2Q19jZ0dtVmpwQWc1dllIc18yMGE2NktLWTczQzZtd19zRGNlT0ExaF9JMWF5WHdHanVKU2dHbkFv?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-24T13:36:50+00:00",
-     "summary": "Nigeria's central bank keeps key rate on hold at last meeting before election&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Once \u2018capital of the Confederacy\u2019, Virginia enshrines rights to voting, abortion and gay marriage",
-     "url": "https://www.theguardian.com/us-news/2026/nov/24/virginia-voting-rights-abortion-gay-marriage",
-     "source": "The Guardian",
-     "published": "2026-11-24T13:30:47+00:00",
-     "summary": "Organizers won key civil liberties protections on election day \u2013 and women and Black advocates were at the forefrontProgressives made historic gains in the south during the midterm",
-     "image": "https://i.guim.co.uk/img/media/4c5604354e661646eaf934e2fd471b9aff7a99cf/93_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=49fc0cf6cc0fee20e24bd0ae7eee44ab"
-    },
-    {
-     "title": "Ministers approve fast-track disability payments in England and Wales",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/24/ministers-approve-fast-track-disability-payments-in-england-and-wales",
-     "source": "The Guardian",
-     "published": "2026-11-24T13:30:46+00:00",
-     "summary": "Benefit claims made easier in first stage of shake-up of welfare systemUK politics live \u2013 latest updatesDisabled people with severe and lifelong conditions will be able to claim di",
-     "image": "https://i.guim.co.uk/img/media/b2d8da8eae8ec8b601728701635dda4253a9df2b/615_0_6163_4929/master/6163.jpg?width=140&quality=85&auto=format&fit=max&s=e0febc4ff1a276aa76a68eb908e29182"
-    },
-    {
-     "title": "Fontes calls for major changes in Arizona election laws",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdERyS0QxX3pWZkk4ZjBkNXFPVjZBV0hDd2M1ajFtdjkwcDdWd1pNbVc0cVF5Nl9LbmFWWXdPa211al85aThkS1JKcDVEd0JramtlQUV3S1JzODBITFMtWnBsSEtnTzJfbTc1M21IZGdQclJZYzJjVHU4NDA3THNHU0tCMmVSNU96d19jYlJPVG53UnRaRUV5NEJYWWRJRVJEQnR6QW40WVlXb1UyX0VNWjhoUDcyWVU?oc=5",
-     "source": "Arizona Daily Star",
-     "published": "2026-11-24T13:30:00+00:00",
-     "summary": "Fontes calls for major changes in Arizona election laws&nbsp;&nbsp;Arizona Daily Star",
+     "title": "What the blue wave means for California\u2019s economy",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44ajdaSkR4TkVVdlh3b1BJMjFkWFV2Rnp2TGVoTC1SaGpvZTAzTE1FejJhS1ZhaWg1Q2dUX29BRXc2NXpDUTBsa3dBbHhjd2VQZzFWckVFSW1wZWxSbklEYWdoMHNwM2hQaGNTQ0VFR0xXQVZMejZ3QXU2Uy0?oc=5",
+     "source": "CalMatters",
+     "published": "2026-11-24T14:00:00+00:00",
+     "summary": "What the blue wave means for California\u2019s economy&nbsp;&nbsp;CalMatters",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T14:02:55.923517+00:00",
+   "fetched_at": "2026-11-24T14:32:59.862513+00:00",
    "stale": false,
    "items": [
     {
@@ -334,14 +334,6 @@
      "published": "2026-11-24T10:59:40+00:00",
      "summary": "Temporary quotas on vehicles entering the bloc tariff-free will also apply to cars from the UK, Japan and TurkeyBusiness live \u2013 latest updatesThe EU will next month impose its thre",
      "image": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=140&quality=85&auto=format&fit=max&s=978e8c7203cec588db4189a9dc62e019"
-    },
-    {
-     "title": "Jensen Huang\u2019s return has calmed markets but fears of an AI bubble still run deep",
-     "url": "https://www.france24.com/en/americas/20261124-jensen-huang-s-return-has-calmed-markets-but-fears-of-an-ai-bubble-still-run-deep",
-     "source": "\u00a9 Nvidia handout via AFP",
-     "published": "2026-11-24T07:15:21+00:00",
-     "summary": "Nvidia's decision to bring back Jensen Huang as CEO pushed the AI computing company's stocks up more than 30 percent Monday. But the model of circular financing increasingly underw",
-     "image": "https://s.france24.com/media/display/ae357ab6-e7dd-11f1-8d5c-e56ab3dc0809/w:1024/p:16x9/000-D8EZ8T4.jpg"
     }
    ]
   }
