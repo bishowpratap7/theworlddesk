@@ -1,17 +1,41 @@
 {
- "generated_at": "2026-11-24T22:04:35.569323+00:00",
+ "generated_at": "2026-11-24T22:34:39.072685+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T22:04:35.569298+00:00",
+   "fetched_at": "2026-11-24T22:34:39.072662+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: US ambassador criticises digital duty of care bill; Chalmers downplays recession fears",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+     "title": "Trump\u2019s DoJ \u2018looked into\u2019 concerns about Huang after affair with suspected Chinese spy but says no security risk found \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T21:58:10+00:00",
-     "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
-     "image": "https://i.guim.co.uk/img/media/628366eecd1d1d957f7ceaef509d646a38fa8433/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=264e3435b10c70e37b1d4b9d200c3d43"
+     "published": "2026-11-24T22:26:30+00:00",
+     "summary": "Justice department and other agencies reached \u2018collective consensus\u2019 that Jensen Huang is not a national security risk, attorney general Todd Blanche saysSign up for the Breaking N",
+     "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ee454ea4cdb9ea123a51cfd99553766d"
+    },
+    {
+     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T22:24:23+00:00",
+     "summary": "The verdict follows a months-long trial in New York.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+     "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
+     "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+     "source": "The Guardian",
+     "published": "2026-11-24T22:09:57+00:00",
+     "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harmA group of more than 120 climate scientists have urged US lawm",
+     "image": "https://i.guim.co.uk/img/media/725b11778789cc1aefe2d9ba334c2392099bb1ea/687_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=3c0e522eaedec77080dfbb6a18aaf155"
+    },
+    {
+     "title": "Todd Blanche declines to confirm if Nvidia\u2019s Jensen Huang was investigated",
+     "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T22:01:26+00:00",
+     "summary": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a &#039;thorough&#039; probe.",
+     "image": ""
     },
     {
      "title": "As US gears up for Thanksgiving, Iowa braces for controlled bomb blast",
@@ -30,28 +54,12 @@
      "image": ""
     },
     {
-     "title": "Chinese tech giant Huawei found guilty of conspiracy to steal trade secrets",
+     "title": "China\u2019s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
      "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-24T21:43:34+00:00",
      "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
      "image": ""
-    },
-    {
-     "title": "Trump\u2019s DoJ \u2018looked into\u2019 concerns about Huang after affair with suspected Chinese spy but says no security risk found \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T21:42:48+00:00",
-     "summary": "Justice department and other agencies reached \u2018collective consensus\u2019 that Jensen Huang is not a national security risk, attorney general Todd Blanche saysSign up for the Breaking N",
-     "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ee454ea4cdb9ea123a51cfd99553766d"
-    },
-    {
-     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-24T21:32:34+00:00",
-     "summary": "The verdict follows a months-long trial in New York.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     },
     {
      "title": "Jensen Huang's Nvidia comeback sends AI videos into overdrive",
@@ -108,21 +116,37 @@
      "published": "2026-11-24T21:04:46+00:00",
      "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
      "image": ""
-    },
-    {
-     "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T20:58:41+00:00",
-     "summary": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T22:04:35.569311+00:00",
+   "fetched_at": "2026-11-24T22:34:39.072673+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
+     "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+     "source": "The Guardian",
+     "published": "2026-11-24T22:09:57+00:00",
+     "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harmA group of more than 120 climate scientists have urged US lawm",
+     "image": "https://i.guim.co.uk/img/media/725b11778789cc1aefe2d9ba334c2392099bb1ea/687_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=3c0e522eaedec77080dfbb6a18aaf155"
+    },
+    {
+     "title": "Russo-Ukrainian war, day 1735: Ukrainian sources say Pentagon chief has not signed off on 60 Patriot missiles that allies paid for",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MTk9YbW4zTGNwdElYejJMZ3F4TFJ1SFh4ZWtIOUFXY3FObUluZ09yUm1GeUpjMFlGcFM3TGZvNjFGUTFMSlRjeXJJZUxSS0xBUWRGY1U1WTJ1elo1Z29JMF9HaEJ1aklncFpVZGJxZTF0bmktTFNR?oc=5",
+     "source": "Euromaidan Press",
+     "published": "2026-11-24T22:02:37+00:00",
+     "summary": "Russo-Ukrainian war, day 1735: Ukrainian sources say Pentagon chief has not signed off on 60 Patriot missiles that allies paid for&nbsp;&nbsp;Euromaidan Press",
+     "image": ""
+    },
+    {
+     "title": "UK warns of Russian sabotage threat to companies that supply Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWthWEU2V2VxbjBhWTVtNE5wdC1LWFBYM24tVF92ekgyb25wMDRablR5eUJCQXFNUFVXU2NMYnkwWUlkWmpmNnhNaUhXZGdOSjUxeVItUzdING0xbDZZRENTTmFHdzJyWXZHM0NCbl91QU1DR3ZpMlpWNGYyVmVVV3dXM2RJSWMxUk1qckdVR18tSjJfbml3enVHUFpZcDBEaG5lSVlDQQ?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-24T21:32:51+00:00",
+     "summary": "UK warns of Russian sabotage threat to companies that supply Ukraine&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "Study estimates Russian troop deaths in Ukraine war at more than 700,000",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hMUhseWtCTm8ySzZqa2hxUmg0U0MxTUtXTEZjRE81OTYyMmJveW9hbVBGSS1ycWRJV2tyd2prMFlfX2J2Vlg0OXdCek0tSFBVaUdKWmFB?oc=5",
@@ -194,43 +218,51 @@
      "published": "2026-11-24T20:23:00+00:00",
      "summary": "South Africa convicts Zimbabwean who tried to travel to Russia to fight against Ukraine&nbsp;&nbsp;AP News",
      "image": ""
-    },
-    {
-     "title": "Turkish military helicopter crash kills five in western Turkiye",
-     "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T19:52:21+00:00",
-     "summary": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
-     "image": ""
-    },
-    {
-     "title": "Over 700,000 Russian soldiers have died fighting in Ukraine, new research says",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1N6UEVpRVR1eGlDd0RNcGZpVGpidXJ0c2NzTC01b1E0NXI5X2lCWkRtdUVTWElNbVlCQUFTdHQtRE02cFhFbzdHQnVBVHUxbEVyX05wRVpiNnlGU3I0cVBvNUR4TEYxdDlUUzdxZDZfUDJ0RUdkOXh2Ymt0X1l5d0tROXJlRk11YV9mYll0MDlTc0V3ckd3MWwyYktEUE5COEtHOFNpeFAtanktLUIzQUZEYw?oc=5",
-     "source": "Washington Times",
-     "published": "2026-11-24T19:48:36+00:00",
-     "summary": "Over 700,000 Russian soldiers have died fighting in Ukraine, new research says&nbsp;&nbsp;Washington Times",
-     "image": ""
-    },
-    {
-     "title": "Putin says retaliation \u2018inevitable\u2019 after Ukraine hit Russian oil plants",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVlLVzNGdDA4X0FlQVJiZDFvR2RncEpnbThvT3ZhSTVrUzlwaXh6aWtreGRaaV82T1B3WjA5dmpkNldEUHUzRFZaUndnMXQyeF9jTnI3LVZ3NTRSWTBaNkpBT05IVEJDMlFyWVN5eTlHTjRPYmZlWm1JS2VNMGNjb09Da1BieC1WdldIQW5IZzFFUkE1MzRRdFFqWjB5STNFdC1zT1k2ZVRvMFlmRDJYZDhjNC0tZlHSAbwBQVVfeXFMTzlnSnlkOTlWUC1oeEdrU3MybWZuN2g2bmlVcFcwY29mZzRtb3IwamlBMEdjSlp3aEpJaTBiUzB0NXA1NElrWmtwMnZSZWdJWWE4dW9Wb3IyNnFqRU5KODh0eVpyLUZxQXBZSUQzTTQ5RWd5Tlp3UXowMnNBQmxRRW9UVkVad3RFZjRiTDVKYWJ1cGwyM1lubHlBNXI3OG9WaWM2SjhEZHlsNWxEdTF2LURHejZlWE52d3F6dlY?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T19:31:29+00:00",
-     "summary": "Putin says retaliation \u2018inevitable\u2019 after Ukraine hit Russian oil plants&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T22:04:35.569313+00:00",
+   "fetched_at": "2026-11-24T22:34:39.072676+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01LXp0WlNhaXBlRTA1RnJ2T2NTcXFraFJNUk1RcWRtcUtvblRHYlM3UHhHdXo1MnZOb0N1QWQ5SU8wVDVEem9nTXBDS1ZNQlFyT1BDelZWSWxyU3V3dGZSUndocFBIZWRWdGlqTGJEdk5aZlAxbDllX2lsb190QQ?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-24T22:25:53+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "NC election results are official, as state officials certify 2026 vote counts",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUhORUo5STNrSkZUQk9kQ3FUVkZvQUZkWmdUZTAxdTBtZzJtdXdYbWhTNVBJcnRaZGNRMHljWkdkY3AxRlA1QzRTLVVyY2NiaDlDUDFUcFJTOTVMdjZOZzlyMlRGQTJoRzQ3NlBqQ2hxakhqS1NnRV84OF9ZekZVNGo3VUhsUWFrQ3J3QlRJTW8xWG8?oc=5",
+     "source": "WRAL",
+     "published": "2026-11-24T22:12:52+00:00",
+     "summary": "NC election results are official, as state officials certify 2026 vote counts&nbsp;&nbsp;WRAL",
+     "image": ""
+    },
+    {
+     "title": "Iowa s 2026 election results certified, early voting numbers climb",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFRjYll4UmFJOWZ1ZUt6MWh4SHlUQ3ZUZXdHVTFneVNRLU1MQXpQWWlpWE83SjVxMlhNWkpYVDRVZ1ZuNjMzdnQxdlBFODV0bEltMkE5eFlqclZjNmN2NnVUdTNnN09VMzEtdk9Tc0p0TG9DNHI1RUhyTUZEa0VReDktWDlrMXVaUWZfOXA1VGxxNHBGdDBJZlh6U2FHYTA5?oc=5",
+     "source": "KGAN",
+     "published": "2026-11-24T22:03:50+00:00",
+     "summary": "Iowa s 2026 election results certified, early voting numbers climb&nbsp;&nbsp;KGAN",
+     "image": ""
+    },
     {
      "title": "New election data: Ohio is nation\u2019s third-largest ideological shift from red to blue",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjVrUzZONWNjS0dFZXZ4dUlYVmxCMjV1UVJBc2x0bjNMUW5XTUVuaWpYWkFZbFRHMTRGczNCR1l0X0tYTUFxS3RzdzZEVnA4azFxUHgyUmFabm1DM0Y5cjNTSUVpT0dma09VeW85eW5QdVkxUm11c1pzMTYzMllMeG9MNGc2QjdtZ1laNmc1TUJVakczNXhfN21ta0Q2enplR2oyT3FaZGtVMXpEOXVPdW44QQ?oc=5",
      "source": "The Highland County Press",
      "published": "2026-11-24T21:57:26+00:00",
      "summary": "New election data: Ohio is nation\u2019s third-largest ideological shift from red to blue&nbsp;&nbsp;The Highland County Press",
+     "image": ""
+    },
+    {
+     "title": "2026 Election certification",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDVnSHBWT2N6RlFubnd4WjBVVmlpTWZheGM5SmxjOXc2aWlsXzJVRHR4NFBoYlByNk80Wk9lanVVV1ZIeEU1SGgyQlgtUS1JQTl5RWtKamh1M2ZaTFdEbEY3YWRZUzdpdV9yeGFmUjF5UlVpbENNdzZiX0lNTUZDWjRjZU5pSzlQWG94SXdHelZoSVpSSzFLeW4wT3ZfanlveUtZMWc3cw?oc=5",
+     "source": "Yakima Herald-Republic",
+     "published": "2026-11-24T21:56:09+00:00",
+     "summary": "2026 Election certification&nbsp;&nbsp;Yakima Herald-Republic",
      "image": ""
     },
     {
@@ -258,6 +290,14 @@
      "image": ""
     },
     {
+     "title": "Marco Rubio Is Hostage to a Failing Foreign Policy",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlFyLWdUV2NmSXN0Rm5BeG41c3NlVGt3bWZ0MENRSVdkUzBUdG96M29HVzhYVzVnbW04S2JlT0NGUjlNcDBIbDR5TGpSVHhqMHVDcFJqZXVlZUVFZ3VTUVltSkdpNVR6MkV4MzZ1bEw5RTl5bVpaUzBsSGRDVldiWTZDcy1idXVuRW5QNUktRnNzZVBXblZ3cmpmbkJoQ29MZFRkNjQ4MjNFaHpnRXFoLUtENTVoSjVpN3hacGlWMHhfTTg?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-24T21:32:11+00:00",
+     "summary": "Marco Rubio Is Hostage to a Failing Foreign Policy&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
      "title": "Michigan Board of State Canvassers certifies midterm election results",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEdKWDZidm1sR3diQW9FdHl3RlVsUE94Ukg1UURGd3ZkWmNkWG9pVU5VVzJjNU02LUpJY05EbU1pbEFTdV9KcGF4bFF6d0MwYmd4REEyMndKRkVkdlVaWFdvT3lWc0RNWFRVSF9VekVEeTI0MWxHREtRcWhLNUhuQ0N3ZkRSOXRmLWtnLVFQaENvYU9CYWZKT1hfeGoyd2hVeVhrZHE4cjNwZ21L?oc=5",
      "source": "CBS News",
@@ -280,61 +320,13 @@
      "published": "2026-11-24T21:19:42+00:00",
      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-     "title": "Canvassers certify Washtenaw County election results",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2dpSmIxc3B5dnVGQ3VRWWstY1ZJenMxa1MydlQzSWMyTF9TQ1ZCNUZqWnUxbVhOWThjTGdueVBTVDBlMHl1XzJqWEhzbkszVnVFMU5laGFLLW1YNXNsbFpHWUtncTdEWWpBZnNoUXZVSFU4aTZxTTgtM1poYU9lZGNBNUgxZlhhMlV0VW41b29MTHVuNENTV2JB?oc=5",
-     "source": "WEMU",
-     "published": "2026-11-24T21:06:00+00:00",
-     "summary": "Canvassers certify Washtenaw County election results&nbsp;&nbsp;WEMU",
-     "image": ""
-    },
-    {
-     "title": "More than 160 countries register for IBA Election Congress in Istanbul",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUhVYU8zVHVhcnA0ZWtZb1VycmtQbFFzSFJfZWprQThiSVdyWExHejlrbXYwMHBqS0lpRWpjcmRRY0ZHRHptT3ZibG5qOG04UkY4aVNLNDNFc2NGeGZjRTFYQXpicTd0WjZ3cVNSRENmMFlpRHNMdDg5V3llNE91VXYxcjlrNjVnbHJNNmFHdDFoRDZyZW9TOGFjeF83dw?oc=5",
-     "source": "IBA - International Boxing Association",
-     "published": "2026-11-24T20:56:58+00:00",
-     "summary": "More than 160 countries register for IBA Election Congress in Istanbul&nbsp;&nbsp;IBA - International Boxing Association",
-     "image": ""
-    },
-    {
-     "title": "Florida Amendment 3 property tax fight lingers post-election",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl85QVhwcWxlYWZSWUhKSW82SDY3N0wyb0NzOXVFd2xDcENMcmxSNzBKbmRuR1g4NVM2T3VjcEQtRmNGVjZ6aW9aTnViVjdUSjNBVEpxS1ctYm1vUkw4ZzlGLUtkX0l2TVRaOEowX0lXWUo4TWFEWktISTl2RUN3NnlqS1dfWExhUGFqcVA2Z3pIR2JYQzYxQWJ6R3hOb2dOT1RmVFlzOU1SSzRZbExqT1NR?oc=5",
-     "source": "WGCU",
-     "published": "2026-11-24T20:47:00+00:00",
-     "summary": "Florida Amendment 3 property tax fight lingers post-election&nbsp;&nbsp;WGCU",
-     "image": ""
-    },
-    {
-     "title": "Early voting underway for County Commission runoff election",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUx0eVVqSzBlRWpUbWhuaDRjZXFnbUJwQ0YwNE9pXzBnSXhEYW5oSUE5Y3B2OXhucmI4b2xjU244SFRadnl6SzJwQ0VDQlRJTGZGOGk4ZmtKeDlhRmlManEwOUZxclhsLWhxbzIzeHFFOEs5RmdDT1BZRkpNRTVqVWJFdkU3QV80UUZXOG9JNFhVT3Q4ZnFxXzIxUXg5UQ?oc=5",
-     "source": "Bryan County News",
-     "published": "2026-11-24T20:46:14+00:00",
-     "summary": "Early voting underway for County Commission runoff election&nbsp;&nbsp;Bryan County News",
-     "image": ""
-    },
-    {
-     "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1J2X3AweENxV1VOaTQ2bEFTblFqaDBDWFFnUV8xWFFUbjN5d3N4ajk4LTh6VlVwMkNSSF9YMzlXU0VZYVZzYXlicjZQYnFuR2k1QW9WNVEwQjVIM1dPeEh5VDJCZHczaUJoQ2JYdDh4MlVacGFEMl9mSmJqNF95dmRNY0Y?oc=5",
-     "source": "Financial Times",
-     "published": "2026-11-24T20:43:06+00:00",
-     "summary": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion&nbsp;&nbsp;Financial Times",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T22:04:35.569315+00:00",
+   "fetched_at": "2026-11-24T22:34:39.072678+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Australian politics live: US ambassador criticises digital duty of care bill; Chalmers downplays recession fears",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-24T21:58:10+00:00",
-     "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
-     "image": "https://i.guim.co.uk/img/media/628366eecd1d1d957f7ceaef509d646a38fa8433/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=264e3435b10c70e37b1d4b9d200c3d43"
-    },
     {
      "title": "Irish plan offers Burnham breakthrough on Made in Europe",
      "url": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
