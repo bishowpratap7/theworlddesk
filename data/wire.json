@@ -1,17 +1,65 @@
 {
- "generated_at": "2026-11-24T01:31:03.900739+00:00",
+ "generated_at": "2026-11-24T02:01:07.694369+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T01:31:03.900697+00:00",
+   "fetched_at": "2026-11-24T02:01:07.694337+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Labor and Greens nearing deal on digital duty of care; Albanese welcomes Singapore PM",
+     "title": "Australian politics live: Australia and Singapore sign carbon capture treaty; ANZ predicts RBA could cut rates in June",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-24T01:13:49+00:00",
+     "published": "2026-11-24T01:52:48+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/dad87a81b46de52e23849eaa005c89599a6f7d6c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=cd30f2d9bf885f797b33db3729922449"
+     "image": "https://i.guim.co.uk/img/media/4582e3b6ff747315010e630a6331495bd6195f2c/417_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=265dc46605b0941d0a9dc6a3f5001195"
+    },
+    {
+     "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T01:50:27+00:00",
+     "summary": "\u2018Congress has much to investigate\u2019, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang Sign up to the Breaki",
+     "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
+    },
+    {
+     "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+     "source": "The Guardian",
+     "published": "2026-11-24T01:47:15+00:00",
+     "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang\u2019s affair with Jensen HuangThe US commerce department published an official notice on Monday adding the Sin",
+     "image": "https://i.guim.co.uk/img/media/c0617e3a04f0554259687e37ed2a80796ad3a623/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=5008e11d41bb54401d680d8bcbf82767"
+    },
+    {
+     "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T01:32:12+00:00",
+     "summary": "Qatar\u2019s Prime Minister says he\u2019s working towards deescalating tensions between Iran and the US.",
+     "image": ""
+    },
+    {
+     "title": "Beau Lamarre-Condon chose \u2018long walk\u2019 to witness box rather than silence, his barrister tells court",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-24T01:25:20+00:00",
+     "summary": "Former police officer has pleaded not guilty to murders of Jesse Baird and Luke Davies in Baird\u2019s Paddington home in February 2024Get our breaking news email, free app or daily new",
+     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/195_219_2439_1952/master/2439.jpg?width=140&quality=85&auto=format&fit=max&s=9b9bab7eb46eaec2cfbe9a58a146111f"
+    },
+    {
+     "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+     "url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T01:17:48+00:00",
+     "summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
+     "image": ""
+    },
+    {
+     "title": "Israeli minister approves return of Flydubai flights",
+     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T01:09:51+00:00",
+     "summary": "Final resumption of carrier&#039;s route between Dubai and Tel Aviv depends on Israeli security authorities&#039; approval.",
+     "image": ""
     },
     {
      "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
@@ -28,14 +76,6 @@
      "published": "2026-11-24T00:52:47+00:00",
      "summary": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
      "image": ""
-    },
-    {
-     "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T00:43:01+00:00",
-     "summary": "\u2018Congress has much to investigate\u2019, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang Sign up to the Breaki",
-     "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
     },
     {
      "title": "What could Democrats do with their expanding congressional majority?",
@@ -76,53 +116,45 @@
      "published": "2026-11-24T00:01:01+00:00",
      "summary": "Position contrasts with Green party\u2019s policies before 2024 election, as polls show just 17% of voters trust them on defenceZack Polanski has given his backing to a paper that endor",
      "image": "https://i.guim.co.uk/img/media/631070f63a2fb9a39634bf065f768197aa90271b/519_0_4025_3220/master/4025.jpg?width=140&quality=85&auto=format&fit=max&s=50ed534edfaacb4ac477f90f09916225"
-    },
-    {
-     "title": "Robert Macfarlane says trust in Cop to deliver change on climate is \u2018misplaced\u2019",
-     "url": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
-     "source": "The Guardian",
-     "published": "2026-11-24T00:01:00+00:00",
-     "summary": "Nature writer reveals in his first Reith lecture that he finds \u2018much more hope\u2019 in emerging alliancesWe are \u201cmisplacing our trust\u201d in the Cop climate summits and their \u201ccapacity to",
-     "image": "https://i.guim.co.uk/img/media/a233b56422ea340a45cd4a18cb15567bce41dfd2/0_378_1344_1075/master/1344.jpg?width=140&quality=85&auto=format&fit=max&s=035e234b732d909f580cf280d5859509"
-    },
-    {
-     "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T00:00:00+00:00",
-     "summary": "Iran&#039;s Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
-     "image": ""
-    },
-    {
-     "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
-     "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-     "source": "The Guardian",
-     "published": "2026-11-23T23:57:33+00:00",
-     "summary": "Decision comes after Trump urged court to first sign off on what he called the safest way to resolve the situationA federal appeals court cleared way for the US army to detonate se",
-     "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55"
-    },
-    {
-     "title": "Mamdani blasts AI-reliant stock market after Jensen Huang\u2019s return",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T23:54:27+00:00",
-     "summary": "New York City Mayor Zohran Mamdani has criticised the volatility of artificial intelligence linked stocks in the US.",
-     "image": ""
-    },
-    {
-     "title": "Drone attack on Colombia police base injures civilians, including infant",
-     "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T23:49:37+00:00",
-     "summary": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T01:31:03.900714+00:00",
+   "fetched_at": "2026-11-24T02:01:07.694353+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T01:50:27+00:00",
+     "summary": "\u2018Congress has much to investigate\u2019, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang Sign up to the Breaki",
+     "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
+    },
+    {
+     "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T01:32:12+00:00",
+     "summary": "Qatar\u2019s Prime Minister says he\u2019s working towards deescalating tensions between Iran and the US.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine sinks Russian warship Merkury off Libya, damages sanctioned Russian cargo ship",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxeHBZeVU0VUJqbTZMY3JYZlVwcFVqak05aURsLTZOYU5uUEMzc2VvX2djLUhhWFJ5YlBUQ1pHX1laYzViNFRreFd2VEdiX1B2TnZrcEFaenhCdl90RWkyb0JobUtoUm5BLThhclo1YXptenlrWTVhaw?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-24T01:20:55+00:00",
+     "summary": "Ukraine sinks Russian warship Merkury off Libya, damages sanctioned Russian cargo ship&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
+    {
+     "title": "Israeli minister approves return of Flydubai flights",
+     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T01:09:51+00:00",
+     "summary": "Final resumption of carrier&#039;s route between Dubai and Tel Aviv depends on Israeli security authorities&#039; approval.",
+     "image": ""
+    },
     {
      "title": "Ukraine war briefing: Kyiv\u2019s strike on Russian ships in Benghazi condemned by Libya\u2019s UN-backed government",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWHdha3RzX1VGNFF5Y0pKOHBlaTM1eGJ5ZHpGQUdDMGJXSmgzcjAzcGlzMEJQOEZ3MXo2RjBWRmJrWG01MUY0NGVOaFNsVWdpdVF1OFpkMHNvNmY3QVRwZ3pQMGFtdHFkLTRBM3FLOEhTaE8xdXpEdENkM21DSDNmU1BJdFZCY1hxbDZKMVNnbi1Vblo2QnM0RGJKbnhpQmNfSkxXYWJVdEg3a3AzWW9sNWdYVzd3LW1FdnZYQjdRNXJPMW1LRkRFOEZ2dS1UX0U1NEc0aEhINGtXZ1ZNdDI4cg?oc=5",
@@ -156,14 +188,6 @@
      "image": ""
     },
     {
-     "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T00:43:01+00:00",
-     "summary": "\u2018Congress has much to investigate\u2019, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang Sign up to the Breaki",
-     "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
-    },
-    {
      "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
      "source": "The Washington Post",
@@ -194,44 +218,36 @@
      "published": "2026-11-24T00:01:01+00:00",
      "summary": "Position contrasts with Green party\u2019s policies before 2024 election, as polls show just 17% of voters trust them on defenceZack Polanski has given his backing to a paper that endor",
      "image": "https://i.guim.co.uk/img/media/631070f63a2fb9a39634bf065f768197aa90271b/519_0_4025_3220/master/4025.jpg?width=140&quality=85&auto=format&fit=max&s=50ed534edfaacb4ac477f90f09916225"
-    },
-    {
-     "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T00:00:00+00:00",
-     "summary": "Iran&#039;s Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
-     "image": ""
-    },
-    {
-     "title": "Zelensky calls for NATO to admit Ukraine at alliance assembly",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUNsc1B6a05fQkNBT3hhR2d3aEpaVTNPM0hKV1ltdk5xUTJ5OUNQU3hmOUZpbkdKVDdUUElidFFDYTloUmxJenlLYnBuY3d0aVg5OWJaTFpQWGhackNlVFFOTFpSY18yeGw5T3BDR2ZvNDN0RnBKRENSVDFMQXNDUjFqQ2F4dlRhNmwxNkhja1ptWWFQ?oc=5",
-     "source": "The Kyiv Independent",
-     "published": "2026-11-23T23:50:31+00:00",
-     "summary": "Zelensky calls for NATO to admit Ukraine at alliance assembly&nbsp;&nbsp;The Kyiv Independent",
-     "image": ""
-    },
-    {
-     "title": "Drone attack on Colombia police base injures civilians, including infant",
-     "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-23T23:49:37+00:00",
-     "summary": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T01:31:03.900718+00:00",
+   "fetched_at": "2026-11-24T02:01:07.694357+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Labor and Greens nearing deal on digital duty of care; Albanese welcomes Singapore PM",
+     "title": "Australian politics live: Australia and Singapore sign carbon capture treaty; ANZ predicts RBA could cut rates in June",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-24T01:13:49+00:00",
+     "published": "2026-11-24T01:52:48+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/dad87a81b46de52e23849eaa005c89599a6f7d6c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=cd30f2d9bf885f797b33db3729922449"
+     "image": "https://i.guim.co.uk/img/media/4582e3b6ff747315010e630a6331495bd6195f2c/417_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=265dc46605b0941d0a9dc6a3f5001195"
+    },
+    {
+     "title": "Alaska certifies midterm election, starting the clock for challenges and recounts",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTdGTGRjV0RwRlI3LS1vblBBUW1EQ2FGSzB2dDZjbnNySENKSExnYTZJaWNjWGVMazFncjRUdUhjbEJ1eEMyZ3FnZUZOdHhRRG1IUEdfdmtvTXdpRDdBZFhLU3JWU3VSYWdCYTBra3VUY0hpUEU2X1JTakZwU01VOG51ZG53b3paZXlDdkp2LXEzTnliWUhlcFVIVlFaRWxvbmZJNVFxWnFnNnFrRS01Skt2Z3pxTTloUkluTDdqT1VpbGVuSzVtUjN5aC0wUlV6MUdaSVQ3aw?oc=5",
+     "source": "Alaska Public Media",
+     "published": "2026-11-24T01:39:00+00:00",
+     "summary": "Alaska certifies midterm election, starting the clock for challenges and recounts&nbsp;&nbsp;Alaska Public Media",
+     "image": ""
+    },
+    {
+     "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+     "url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T01:17:48+00:00",
+     "summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
+     "image": ""
     },
     {
      "title": "Election Regulators investigate complaints people tried to vote twice in Connecticut",
@@ -304,27 +320,11 @@
      "published": "2026-11-24T00:26:10+00:00",
      "summary": "How AI is reshaping California election advertising \u2014 and more UCLA media&nbsp;&nbsp;Newsroom | UCLA",
      "image": ""
-    },
-    {
-     "title": "Governors Call for Increased, Aligned AI Policy Regulation",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmNSZUs4RVBfajI0RWIzSXJyUFZiSUF2N0RnbGNmcE1rU2hEMGs5eWNtazB2VDhJcHc5YXlfa3pJZkxBNlpwNXZMQ3hXRDNaeXc3cTdzX1dBZ0tEX3lXRFhoQmZONkZVVFRNUWlvU05qZWNXWXR2STNLZm5oSzB0blJrZmFjYjY1bWwwekFuSUZTZ3M4dDRneFB0Z3laYWdfNFU1eTQ2blM?oc=5",
-     "source": "GovTech",
-     "published": "2026-11-24T00:13:32+00:00",
-     "summary": "Governors Call for Increased, Aligned AI Policy Regulation&nbsp;&nbsp;GovTech",
-     "image": ""
-    },
-    {
-     "title": "Ohio Democrats sue to count ballots at risk of being tossed in razor-thin election",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTld6V2dLNkNJcGNVdWlMTTB0bzZVUnprUVRJT1dtaFVQeThmRk5LQ0dndW9VaWU1cG91bUxMTllPR09rb1l0MnZuQVVnNS0wUmkzdFFGWjJhbkVMTmIzMlh5eWN5emNaY0RhYmh5SHdYMWVDYnVIdEE5Ykd0ZjFGVjVUNkV2a1A3WlRQZ1IwWGJEcWYyVVBkWC0zS2dHNG9aMFpuWWVCZk5SNGdndjlQbV9OeW5EdVlTbnpMNXJRNHB1dkZoRGc?oc=5",
-     "source": "Democracy Docket",
-     "published": "2026-11-24T00:08:14+00:00",
-     "summary": "Ohio Democrats sue to count ballots at risk of being tossed in razor-thin election&nbsp;&nbsp;Democracy Docket",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T01:31:03.900721+00:00",
+   "fetched_at": "2026-11-24T02:01:07.694359+00:00",
    "stale": false,
    "items": [
     {
