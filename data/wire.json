@@ -1,17 +1,73 @@
 {
- "generated_at": "2026-11-24T21:04:07.245711+00:00",
+ "generated_at": "2026-11-24T21:34:31.341550+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T21:04:07.245680+00:00",
+   "fetched_at": "2026-11-24T21:34:31.341526+00:00",
    "stale": false,
    "items": [
     {
      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-24T20:59:21+00:00",
+     "published": "2026-11-24T21:32:34+00:00",
      "summary": "The verdict follows a months-long trial in New York.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+     "title": "Australian politics live: US ambassador criticises digital duty of care bill; Chalmers downplays recession fears",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-24T21:23:33+00:00",
+     "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
+     "image": "https://i.guim.co.uk/img/media/628366eecd1d1d957f7ceaef509d646a38fa8433/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=264e3435b10c70e37b1d4b9d200c3d43"
+    },
+    {
+     "title": "US attorney general dodges questions about Nvidia investigation",
+     "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T21:19:42+00:00",
+     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+     "title": "Russian jets spark air raid alert in South Korea",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T21:14:57+00:00",
+     "summary": "South Korea\u2019s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+     "image": ""
+    },
+    {
+     "title": "Senegal reinstated as AFCON 2025 winners",
+     "url": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
+     "source": "France 24",
+     "published": "2026-11-24T21:14:42+00:00",
+     "summary": "In tonight's edition, Senegal were reinstated as 2025 Africa Cup of Nations winners after the sport's highest court upheld their appeal against being stripped of the title.",
+     "image": "https://s.france24.com/media/display/d8a120d4-e84b-11f1-8842-29d00e23de9a/w:1024/p:16x9/capture-3a2ff429.jpg"
+    },
+    {
+     "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+     "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+     "source": "The Guardian",
+     "published": "2026-11-24T21:06:37+00:00",
+     "summary": "President says 15 people released and Cartagena incident stems from botched robbery by \u2018common criminals\u2019Armed and masked men have been holding people hostage in a supermarket sinc",
+     "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=dda521c7fce25858e4b1ae7552a3546b"
+    },
+    {
+     "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+     "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T21:04:46+00:00",
+     "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+     "image": ""
+    },
+    {
+     "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T20:58:41+00:00",
+     "summary": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
+     "image": ""
     },
     {
      "title": "UN slams Iran after it flogs singer for performing without veil",
@@ -60,69 +116,37 @@
      "published": "2026-11-24T20:28:40+00:00",
      "summary": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
      "image": ""
-    },
-    {
-     "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
-     "url": "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
-     "source": "The Guardian",
-     "published": "2026-11-24T20:20:24+00:00",
-     "summary": "Victory expands Democrats\u2019 House majority, its largest advantage in three decadesDemocrat Victoria Broderick has won Tennessee\u2019s fourth congressional district, unseating eight-term",
-     "image": "https://i.guim.co.uk/img/media/89a89b4a4f0ae3936a0b33144ef2f04e67febfa5/323_0_4808_3847/master/4808.jpg?width=140&quality=85&auto=format&fit=max&s=1dbecaf4176aab20651c57a59b86c1cb"
-    },
-    {
-     "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T20:18:19+00:00",
-     "summary": "Iraq&#039;s Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
-     "image": ""
-    },
-    {
-     "title": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China",
-     "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
-     "source": "The Guardian",
-     "published": "2026-11-24T20:05:09+00:00",
-     "summary": "Senate minority leader joins lawmakers from both parties outraged over Nvidia CEO\u2019s reinstatementChuck Schumer, the current Senate minority leader vying to lead the Democratic majo",
-     "image": "https://i.guim.co.uk/img/media/26aadfab7bd77a25ea9f14c21ef752a9d34cd341/142_0_5506_4407/master/5506.jpg?width=140&quality=85&auto=format&fit=max&s=f28eeff9cc351a8e485cee267c103168"
-    },
-    {
-     "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw \u2013 as it happened",
-     "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T20:04:50+00:00",
-     "summary": "Sindarov and Gukesh play to 38-move draw in Game 1Explainer: all your pre-match questions, answeredSindarov interview: \u2018I can\u2019t play games just for fun\u2019Play through 22 famous world",
-     "image": "https://i.guim.co.uk/img/media/ff74655d2b2693af717a530bd7a81126acee9c9d/514_0_6633_5307/master/6633.jpg?width=140&quality=85&auto=format&fit=max&s=7f4b9a09b4ff8b14dd673ecb2af4a689"
-    },
-    {
-     "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
-     "url": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments",
-     "source": "The Guardian",
-     "published": "2026-11-24T20:00:31+00:00",
-     "summary": "Minister\u2019s review says Pip system no longer fit for purpose and recommends new test for who is allowed to claimHundreds of thousands of people face losing their disability benefits",
-     "image": "https://i.guim.co.uk/img/media/4a534d49e611d919c2775a5c187f0160f71f08e3/75_0_1760_1408/master/1760.jpg?width=140&quality=85&auto=format&fit=max&s=86bbd019682327bf0913a17dd4ca0c56"
-    },
-    {
-     "title": "The Bukele method: will Salvadoran leader's strong-arm tactics work for Haiti?",
-     "url": "https://www.france24.com/en/tv-shows/the-debate/20261124-the-bukele-method-will-salvadoran-leader-s-strong-arm-tactics-work-for-haiti",
-     "source": "France 24",
-     "published": "2026-11-24T19:59:35+00:00",
-     "summary": "Haitians are hailing the Bukele method. Citizens of the Americas\u2019 poorest nation cheering the Salvadoran president\u2019s \u2019shoot first, ask questions later\u2019 method of dealing with the g",
-     "image": "https://s.france24.com/media/display/efcdc226-e837-11f1-8734-81da3ab2acbb/w:1024/p:16x9/2026-11-22T004619Z-487606393-RC26SOA1S5RQ-RTRMADP-3-HAITI-EL-SALVADOR.jpg"
-    },
-    {
-     "title": "Senegal AFCON ruling 'good in the books of sports law', expert says",
-     "url": "https://www.france24.com/en/senegal-afcon-ruling-good-in-the-books-of-sports-law-expert-says",
-     "source": "France 24",
-     "published": "2026-11-24T19:54:12+00:00",
-     "summary": "Speaking with FRANCE 24's Jennie Shin, sports presenter and journalist Thando Sibiya explains that the decision by the Court of Arbitration for Sport to reinstate Senegal as \u2060winne",
-     "image": "https://s.france24.com/media/display/2c587954-e840-11f1-a6fd-29d00e23de9a/w:1024/p:16x9/EN-20261124-203334-203830-CS.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T21:04:07.245695+00:00",
+   "fetched_at": "2026-11-24T21:34:31.341538+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russian jets spark air raid alert in South Korea",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnROc3N1eUh2cVZ2eHJYb3hHLUZGT2V5S2lOMUlrbDAzZG5VVkxEclNLODlBNGNXamhIcXRoZ3BBVEl1R0t2UW56dW5iZndXdzlRTHd1U0RnRHYxRlg4cVZLVmxFeTlIVzFoM09MZ0ZGWDUwVmpJWW1uOGpmUk8yTlRJZUxLZDVLVXFCOEFUZ3NJOXpDSVlvUEtRcExwUXJTRUZWbUFBQXl3dlhHX1lLWmxhaEFXcGc1YnfSAb8BQVVfeXFMTmMya2xPQVhrNk5MMk5lNGluM3FDMWRsalNvbDdxQTA4eGJBYjY5QmFQSTU4TUVLZmIybTN2NE9pZTY0MDZoYlFhNTJadC1aSDJWREY2aFRtQkMzNlBUSmdtRWhoRUZuYzN6V2tFQ2dxRnhtTGJnSjVCaEZUQUVpand3bF9wZEl4Ylk3alUwbTBTa0ZhaWx6MGJGYmY4R19ZTndlME51T3pHZkVFQ3BGbk8yMWdxTk1TcTlFU0NNQ2c?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T21:18:50+00:00",
+     "summary": "Russian jets spark air raid alert in South Korea&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+     "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+     "source": "The Guardian",
+     "published": "2026-11-24T21:06:37+00:00",
+     "summary": "President says 15 people released and Cartagena incident stems from botched robbery by \u2018common criminals\u2019Armed and masked men have been holding people hostage in a supermarket sinc",
+     "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=dda521c7fce25858e4b1ae7552a3546b"
+    },
+    {
+     "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+     "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T21:04:46+00:00",
+     "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+     "image": ""
+    },
     {
      "title": "UN slams Iran after it flogs singer for performing without veil",
      "url": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
@@ -194,37 +218,37 @@
      "published": "2026-11-24T19:31:29+00:00",
      "summary": "Putin says retaliation \u2018inevitable\u2019 after Ukraine hit Russian oil plants&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Alia Syed wins \u00a310,000 Jarman award for \u2018depth and maturity\u2019 of her experimental films",
-     "url": "https://www.theguardian.com/artanddesign/2026/nov/24/alia-syed-wins-10000-jarman-award-for-depth-and-maturity-of-her-experimental-films",
-     "source": "The Guardian",
-     "published": "2026-11-24T19:30:54+00:00",
-     "summary": "The Welsh-Indian artist takes this year\u2019s award, an established bellwether for future stars, for work focused on memory, migration and hidden historiesAlia Syed has won this year\u2019s",
-     "image": "https://i.guim.co.uk/img/media/2d1ce22b2b334580c3ac3c06bc2d49be140a69fa/387_0_2226_1781/master/2226.jpg?width=140&quality=85&auto=format&fit=max&s=6609e92f1504a09e27aa93fcb2cd1dc7"
-    },
-    {
-     "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-     "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-24T19:27:23+00:00",
-     "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
-    },
-    {
-     "title": "Russian losses on Ukrainian front top 700,000 including missing",
-     "url": "https://www.france24.com/en/russian-losses-on-ukrainian-front-top-700-000-including-missing",
-     "source": "France 24",
-     "published": "2026-11-24T19:22:31+00:00",
-     "summary": "New analysis of leaked Russian government data suggests more than 700,000 Russian soldiers have died in the war against Ukraine. Independent Russian media outlets have updated thei",
-     "image": "https://s.france24.com/media/display/f196246a-e83a-11f1-93dd-81da3ab2acbb/w:1024/p:16x9/EN-20261124-200144-200306-CS.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T21:04:07.245699+00:00",
+   "fetched_at": "2026-11-24T21:34:31.341540+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Judge rejects lawsuit to stop deal extending Dallas Cowboys lease of AT&T Stadium without election",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYU5xUlFKQnpCYXp6bVlmLXhydGhHODZpakxOdW1xOUVUaGRKb0UxZndTdS02SzhidEQ1RUFjWi1kZUxPaGJsQzBIVlpvbXJ4YUJGOGtGQmVIYm8xRWdHZjJNemJFRk1JUlhKemdkQUhvWll2WFdicWZBQU0zSFozUW9zV1JvenVjUjZjamlvWXF1SmdYemJCcWZldmcwRjRSNzhuMWZ5Q1pVYzY2dC13ZkU2QjR4Wng5eXFiTG5NZFNQU19yNDdEVG53?oc=5",
+     "source": "www.kera.org",
+     "published": "2026-11-24T21:23:16+00:00",
+     "summary": "Judge rejects lawsuit to stop deal extending Dallas Cowboys lease of AT&T Stadium without election&nbsp;&nbsp;www.kera.org",
+     "image": ""
+    },
+    {
+     "title": "US attorney general dodges questions about Nvidia investigation",
+     "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T21:19:42+00:00",
+     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+     "title": "Canvassers certify Washtenaw County election results",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2dpSmIxc3B5dnVGQ3VRWWstY1ZJenMxa1MydlQzSWMyTF9TQ1ZCNUZqWnUxbVhOWThjTGdueVBTVDBlMHl1XzJqWEhzbkszVnVFMU5laGFLLW1YNXNsbFpHWUtncTdEWWpBZnNoUXZVSFU4aTZxTTgtM1poYU9lZGNBNUgxZlhhMlV0VW41b29MTHVuNENTV2JB?oc=5",
+     "source": "WEMU",
+     "published": "2026-11-24T21:06:00+00:00",
+     "summary": "Canvassers certify Washtenaw County election results&nbsp;&nbsp;WEMU",
+     "image": ""
+    },
     {
      "title": "Florida Amendment 3 property tax fight lingers post-election",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcl85QVhwcWxlYWZSWUhKSW82SDY3N0wyb0NzOXVFd2xDcENMcmxSNzBKbmRuR1g4NVM2T3VjcEQtRmNGVjZ6aW9aTnViVjdUSjNBVEpxS1ctYm1vUkw4ZzlGLUtkX0l2TVRaOEowX0lXWUo4TWFEWktISTl2RUN3NnlqS1dfWExhUGFqcVA2Z3pIR2JYQzYxQWJ6R3hOb2dOT1RmVFlzOU1SSzRZbExqT1NR?oc=5",
@@ -239,6 +263,14 @@
      "source": "Bryan County News",
      "published": "2026-11-24T20:46:14+00:00",
      "summary": "Early voting underway for County Commission runoff election&nbsp;&nbsp;Bryan County News",
+     "image": ""
+    },
+    {
+     "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1J2X3AweENxV1VOaTQ2bEFTblFqaDBDWFFnUV8xWFFUbjN5d3N4ajk4LTh6VlVwMkNSSF9YMzlXU0VZYVZzYXlicjZQYnFuR2k1QW9WNVEwQjVIM1dPeEh5VDJCZHczaUJoQ2JYdDh4MlVacGFEMl9mSmJqNF95dmRNY0Y?oc=5",
+     "source": "Financial Times",
+     "published": "2026-11-24T20:43:06+00:00",
+     "summary": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion&nbsp;&nbsp;Financial Times",
      "image": ""
     },
     {
@@ -282,51 +314,27 @@
      "image": ""
     },
     {
-     "title": "December 5th, 2026 Election Results",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55VGdUSjQ1aDhfRHkxVnQzNVpXc2luRzIyMUQwV0gyOVNXVUlOdkRsbFh6eU9XSXk1eXVNRk51eTlOTURpcVByOFFGS2xIbERpWXMzeTNXM1AzUkdsajM4bXdvYw?oc=5",
-     "source": "Decision Desk HQ",
-     "published": "2026-11-24T20:21:52+00:00",
-     "summary": "December 5th, 2026 Election Results&nbsp;&nbsp;Decision Desk HQ",
-     "image": ""
-    },
-    {
      "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVRPM3Znb3dubnRhMHBpTWQyZmRyTjN2amxHVXdZNUFYNjVRVkhGbVdTbFNJMlpocDhPSVNLek9naW1CaGl4MDZxRXFpdEFjbXJGellIT3FOc2N2U1hkdEZxaXNKVTdjbFRKRGN2dE9JRlNvVjF5cVlCQVBXOGVSSERXdXdkeEFHRVF3Zm9oaXlHLWU3ZFVDYmdhUlJDZVhRZE5wREhqMHk4UQ?oc=5",
      "source": "The Guardian",
      "published": "2026-11-24T20:21:00+00:00",
      "summary": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election&nbsp;&nbsp;The Guardian",
      "image": ""
-    },
-    {
-     "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T20:18:19+00:00",
-     "summary": "Iraq&#039;s Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
-     "image": ""
-    },
-    {
-     "title": "Colom just won his bid to be Mississippi's next U.S. Senator. He has already filed to seek re-election in 2032",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORWdUNXl5RE9JYUpoVUczWTlXR0lJV3Bqc1EwcHI3bE1XRnl6cENsU19pTy1YajZpVW5tM2dCLU1rcEc2U2ZQeE41QjI2NmN4cGRSS2ZZWjg0N2NvNjBQdlY4QUFSUjg0Y1plQlh0dDBLcjJtcFZBd212Nk1VQkxfYWJzalYtZWtLdnZXM1ktVy1NUkFUT1N2M2tNQkUxY0tLNThOcDJBUjhXTTZYZlhQNGN1ZDRNWFdyRGRZNmdtcnI2RWMtdkhOZUVYRDVuTWFaUzlJMmlhdGhIS3dJNGE0Rg?oc=5",
-     "source": "Magnolia Tribune",
-     "published": "2026-11-24T20:15:15+00:00",
-     "summary": "Colom just won his bid to be Mississippi's next U.S. Senator. He has already filed to seek re-election in 2032&nbsp;&nbsp;Magnolia Tribune",
-     "image": ""
-    },
-    {
-     "title": "Moscow Considers Deploying Nuclear Weapons in Space",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVpaZ0p6ckxPOWxTY054dnp4R2FxbF9JelJpTGZ2TWxST193WV9ZX2ZfNXRGRGF1cXNFSjd1aE9DcFlwMXFBQm5BYkh4OGJ5dHlGWklCLXpNLTZaSlVfWkFQUWc0eDA0MzV5ZXRTdlNRelMyU2lzY09CdkdZcVFOUXdvR0pSeWU2cllnazJYaC0xRms?oc=5",
-     "source": "Foreign Policy Research Institute",
-     "published": "2026-11-24T20:11:24+00:00",
-     "summary": "Moscow Considers Deploying Nuclear Weapons in Space&nbsp;&nbsp;Foreign Policy Research Institute",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T21:04:07.245702+00:00",
+   "fetched_at": "2026-11-24T21:34:31.341542+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australian politics live: US ambassador criticises digital duty of care bill; Chalmers downplays recession fears",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-24T21:23:33+00:00",
+     "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
+     "image": "https://i.guim.co.uk/img/media/628366eecd1d1d957f7ceaef509d646a38fa8433/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=264e3435b10c70e37b1d4b9d200c3d43"
+    },
     {
      "title": "Irish plan offers Burnham breakthrough on Made in Europe",
      "url": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
