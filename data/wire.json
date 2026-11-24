@@ -1,25 +1,41 @@
 {
- "generated_at": "2026-11-24T02:01:07.694369+00:00",
+ "generated_at": "2026-11-24T02:31:11.526663+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T02:01:07.694337+00:00",
+   "fetched_at": "2026-11-24T02:31:11.526632+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Australia and Singapore sign carbon capture treaty; ANZ predicts RBA could cut rates in June",
+     "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+     "source": "The Guardian",
+     "published": "2026-11-24T02:24:48+00:00",
+     "summary": "Decision comes after Trump urged court to first sign off on what he called the safest way to resolve the situationThe US army can proceed with detonating several tons of degraded b",
+     "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55"
+    },
+    {
+     "title": "Australian politics live: Greens secure \u2018multibillion dollar fines\u2019 for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-24T01:52:48+00:00",
+     "published": "2026-11-24T02:23:01+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/4582e3b6ff747315010e630a6331495bd6195f2c/417_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=265dc46605b0941d0a9dc6a3f5001195"
+     "image": "https://i.guim.co.uk/img/media/f1b786643ad09636c2dfa840f53c6136f650bd13/462_0_4598_3681/master/4598.jpg?width=140&quality=85&auto=format&fit=max&s=57410fc0c34a8a8569f210b013e270e7"
     },
     {
      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T01:50:27+00:00",
+     "published": "2026-11-24T02:13:02+00:00",
      "summary": "\u2018Congress has much to investigate\u2019, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang Sign up to the Breaki",
      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
+    },
+    {
+     "title": "US flew surveillance drone over Mexico to help capture top drug lord",
+     "url": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
+     "source": "\u00a9 Mario Vasquez, AFP",
+     "published": "2026-11-24T02:09:11+00:00",
+     "summary": "Mexican officials say the United States flew a surveillance drone over Mexican territory to help locate and capture one of the country's most wanted drug traffickers. The operation",
+     "image": "https://s.france24.com/media/display/98daf830-e7ab-11f1-b377-ebb478925cf0/w:1024/p:16x9/000-D8EP9T6.jpg"
     },
     {
      "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
@@ -100,36 +116,52 @@
      "published": "2026-11-24T00:30:11+00:00",
      "summary": "Ukrainian President Volodymyr Zelensky is calling for a new round of negotiations involving Ukraine, Russia, the United States and European leaders, saying Kyiv is ready to meet as",
      "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg"
-    },
-    {
-     "title": "Trump calls to \u2018expedite\u2019 US federal executions, blasts Gavin Newsom",
-     "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T00:04:15+00:00",
-     "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
-     "image": ""
-    },
-    {
-     "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
-     "url": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
-     "source": "The Guardian",
-     "published": "2026-11-24T00:01:01+00:00",
-     "summary": "Position contrasts with Green party\u2019s policies before 2024 election, as polls show just 17% of voters trust them on defenceZack Polanski has given his backing to a paper that endor",
-     "image": "https://i.guim.co.uk/img/media/631070f63a2fb9a39634bf065f768197aa90271b/519_0_4025_3220/master/4025.jpg?width=140&quality=85&auto=format&fit=max&s=50ed534edfaacb4ac477f90f09916225"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T02:01:07.694353+00:00",
+   "fetched_at": "2026-11-24T02:31:11.526647+00:00",
    "stale": false,
    "items": [
     {
      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T01:50:27+00:00",
+     "published": "2026-11-24T02:13:02+00:00",
      "summary": "\u2018Congress has much to investigate\u2019, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang Sign up to the Breaki",
      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
+    },
+    {
+     "title": "US flew surveillance drone over Mexico to help capture top drug lord",
+     "url": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
+     "source": "\u00a9 Mario Vasquez, AFP",
+     "published": "2026-11-24T02:09:11+00:00",
+     "summary": "Mexican officials say the United States flew a surveillance drone over Mexican territory to help locate and capture one of the country's most wanted drug traffickers. The operation",
+     "image": "https://s.france24.com/media/display/98daf830-e7ab-11f1-b377-ebb478925cf0/w:1024/p:16x9/000-D8EP9T6.jpg"
+    },
+    {
+     "title": "Libyan prime minister warns military groups against dragging Libya into Russia-Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2dzaUZtaHBkdFVpT1pYa2RpN2lCOWtWYmpsdWZyU2R2VU40a0FRd05MZ1c1NDdYSDkwZlFfVTJoMlRXdDVJNjlKV1V4dm93NV90dVpBbmNZd0Z3bENoNmx4VXN3WUNyZlhpRDVHSFItVk8zaWhyLTVWUXBBanlNRFZ4MmdzaTFZSldKbUJ4Z29vdVVjWDdXQXZOVTgyYjFidGJOTFVVV2JENWl0ZEZBSVpjN1VRaVZncXVuQXItZEZjSERwY0lnaXJwdWpxelVGbTFtNQ?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-24T02:04:06+00:00",
+     "summary": "Libyan prime minister warns military groups against dragging Libya into Russia-Ukraine war&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-24T02:02:48+00:00",
+     "summary": "NATO calls urgent meeting as string of incidents escalates Russia tensions&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "\u2018What Is Produced by Hospitals?\u2019 \u2013 Ukraine Calls Out Russia at UN Security Council",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sSXRHdkpIaldzeTlLOHRuNDZWakJYMVAzZ2IxVks0bmcwQTdoWFFYSFdybzBFX0ZPbEtmVEhsVmF0WVBpclNBamdzUQ?oc=5",
+     "source": "Kyiv Post",
+     "published": "2026-11-24T02:00:13+00:00",
+     "summary": "\u2018What Is Produced by Hospitals?\u2019 \u2013 Ukraine Calls Out Russia at UN Security Council&nbsp;&nbsp;Kyiv Post",
+     "image": ""
     },
     {
      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
@@ -186,52 +218,52 @@
      "published": "2026-11-24T00:52:00+00:00",
      "summary": "Ukraine sinks Russian warship off Libyan coast as war widens&nbsp;&nbsp;The Japan Times",
      "image": ""
-    },
-    {
-     "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-24T00:32:48+00:00",
-     "summary": "NATO calls urgent meeting as string of incidents escalates Russia tensions&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS2dnOTZmT2o4SkpXREpMVEJja1RpM0J3NTVFUDFhM2x4TmlsQWVTU3pyX1pqdXkyZGJQQy1wdzhpaW04SmxKV3B1R1BNbHNpVk80bmYtQ2RWQ0JLbXhULU5ZNThSeGNNZjJnVDFDWWNFNnRibmg2V05OWGlJTWJ5M0lnQk9iRmJJLU12SmxxdTdZNmR1VFJPQw?oc=5",
-     "source": "TelegraphHerald.com",
-     "published": "2026-11-24T00:30:54+00:00",
-     "summary": "Russia Ukraine War&nbsp;&nbsp;TelegraphHerald.com",
-     "image": ""
-    },
-    {
-     "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
-     "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
-     "source": "\u00a9 Peter Morrison, AP",
-     "published": "2026-11-24T00:30:11+00:00",
-     "summary": "Ukrainian President Volodymyr Zelensky is calling for a new round of negotiations involving Ukraine, Russia, the United States and European leaders, saying Kyiv is ready to meet as",
-     "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg"
-    },
-    {
-     "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
-     "url": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
-     "source": "The Guardian",
-     "published": "2026-11-24T00:01:01+00:00",
-     "summary": "Position contrasts with Green party\u2019s policies before 2024 election, as polls show just 17% of voters trust them on defenceZack Polanski has given his backing to a paper that endor",
-     "image": "https://i.guim.co.uk/img/media/631070f63a2fb9a39634bf065f768197aa90271b/519_0_4025_3220/master/4025.jpg?width=140&quality=85&auto=format&fit=max&s=50ed534edfaacb4ac477f90f09916225"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T02:01:07.694357+00:00",
+   "fetched_at": "2026-11-24T02:31:11.526652+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Australia and Singapore sign carbon capture treaty; ANZ predicts RBA could cut rates in June",
+     "title": "Who won North Carolina's congressional races",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2JfSEFmZ19TVlBxYlF0bUx5VUgwZG5UVkhfVDVvT0t3R191NkZfQzNPaTZIUWNhdGFEX1hTLVc1Qmp1SDZ4Q2JQNktYbmhfTXQwVUQyandvVGxBZVBFRkJ5dUxWWFM0angxNGtyOUdPUXd1VXFQUkgxallfdXItUmU3c2t6V244SUE1OUtGdXVabmd1V0xETEc5alpleHJPODd3?oc=5",
+     "source": "Axios",
+     "published": "2026-11-24T02:26:57+00:00",
+     "summary": "Who won North Carolina's congressional races&nbsp;&nbsp;Axios",
+     "image": ""
+    },
+    {
+     "title": "Australian politics live: Greens secure \u2018multibillion dollar fines\u2019 for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-24T01:52:48+00:00",
+     "published": "2026-11-24T02:23:01+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/4582e3b6ff747315010e630a6331495bd6195f2c/417_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=265dc46605b0941d0a9dc6a3f5001195"
+     "image": "https://i.guim.co.uk/img/media/f1b786643ad09636c2dfa840f53c6136f650bd13/462_0_4598_3681/master/4598.jpg?width=140&quality=85&auto=format&fit=max&s=57410fc0c34a8a8569f210b013e270e7"
+    },
+    {
+     "title": "Soldotna lawmaker chosen to lead Republican minority in Alaska House after election losses",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZFRReGlWRm5sbnp5ZThVV0tBYzZ2eHVBNnNTbWkwWGV1OU9MbzZrSTZidHpGMjRxVnhWdThaMFJSR1l0TlBRdUlRaUdBa2tFblZ5ajV0amtwSDhUbWtleVFXOXhCN2NqYnl5VHkyMUNSTWk1X3RpRDJTR1c1NmdxNUk1eXhoZHBQMzJEU09QNkZQZG5wd2tXSTZucmJzWlFpdnZ2WEYwLWdwajI2dXlLanR2ek8zMWxoQlNwc1MxNXBYWGt2VnBIRE1wVHhxal9tZTU0RkJtbC1nS1dvbTZmSEhjUlM?oc=5",
+     "source": "Anchorage Daily News",
+     "published": "2026-11-24T02:02:18+00:00",
+     "summary": "Soldotna lawmaker chosen to lead Republican minority in Alaska House after election losses&nbsp;&nbsp;Anchorage Daily News",
+     "image": ""
+    },
+    {
+     "title": "New York City\u2019s mayor welcomes proposed sanctions on Israeli settlements",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmYxUjVUOF9fWmNEWWRXSXNBOUpGQVB3WXdkVzJ2aUNlOU1YN1ByZTJwWlhyanB6dlZBRkpPY28zNFVnS3NzT1FYZW1RNnlLaFBqdXBramtoVXZzS1Z2SUxBZGVKYWZfaWJLNV9fU3Z2aWVZeHFPb1ZFOTNRLWdQWXppWnpIQy1MMjVhb2s0cVNfU0w4N0ZyeUZ3TldObmxqSnJ6YkJaYnpiSlUxdkFZ?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-24T01:49:40+00:00",
+     "summary": "New York City\u2019s mayor welcomes proposed sanctions on Israeli settlements&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "Hopkinsville Committee Rejects Nonpartisan Election Proposal, 6-3",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2ZwblVPaldjVDJZN1N2LUo4eDhvMGhfWjNLVGs1S0Nkaldxd0s4eldfWFMwbTYwdjBrZjZrX2pFTVZaLWkxSU9TSDlqN1JCY2tSWG9DcHVLVDdvTFExZXItVTYzN1RiRFRSMVdvUERXUnE4MGl2RVZLWlRVSWRBaVcwNGhDY0lieTQwTW9RWmthNDhiU0xFZVFZMDNhemhKUXRlTFpGTXNfUXJkQXdtVWtn?oc=5",
+     "source": "WKDZ",
+     "published": "2026-11-24T01:47:13+00:00",
+     "summary": "Hopkinsville Committee Rejects Nonpartisan Election Proposal, 6-3&nbsp;&nbsp;WKDZ",
+     "image": ""
     },
     {
      "title": "Alaska certifies midterm election, starting the clock for challenges and recounts",
@@ -274,57 +306,25 @@
      "image": ""
     },
     {
+     "title": "Utah board votes unanimously to certify the midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORG1Xdk5HeHBPS3FoM0IzaU95QmNTX19JLWNFeEJrbEtOYXA5YXNLaFROMEw4TUFJUkhNaW51Wl85MThlR0szY0k0alpvVWJTTWlzVy1rb3ZwSUlzRUV1WFY5T2UydUxWX28zNUdzeVVQYXEyNTV0bWhPdzlxd0VuRWJOZjA1bVlaVU1LUXphOTFlcmltZlJoTTBFaV84R0xtd1BMODVVQ1c?oc=5",
+     "source": "KSL",
+     "published": "2026-11-24T01:03:00+00:00",
+     "summary": "Utah board votes unanimously to certify the midterm election results&nbsp;&nbsp;KSL",
+     "image": ""
+    },
+    {
      "title": "Michigan certifies November election results after record-breaking turnout",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRWs2NXVDQ0t6UTJLOVg2dFdvUWtackk5cy1aRktGRjhid3BfOUx4S0hPMWRnVVM0N2xOVW1wNi05ZTQycjdYZFYzSUhBb1pmNUUyOTJrR04zVnhEc1RXMC1YNjZMUWVWYkk2QUdmd2JwYjVDdk93NWFjLV9nQi14VUxPQ1pzRnB1VXRkTnMxa0J2U3hDRkRfa1dJREhyYjJVM0tyS0ZnTkZxYVh0TEszQlI2eEtydVdiRWtJSFRTS3ZtcFlleTZkYVVjNTBmaGJ3OWc?oc=5",
      "source": "Michigan Public",
      "published": "2026-11-24T00:58:00+00:00",
      "summary": "Michigan certifies November election results after record-breaking turnout&nbsp;&nbsp;Michigan Public",
      "image": ""
-    },
-    {
-     "title": "Utah\u2019s 2026 election results are certified, solidifying Democrats\u2019 gains in the Legislature",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZEVELUl2WVlxb3ZXaEdLWGlhSXRLTGM3YnN4WGdrbURoTkZmYXZ1UFBGdHgxb0lERlE5X3oxMU9mQm5QaUVsM0QyMlF4X2Y1ZFVyOUhSRWFFVWhKM0l2UG00SmlzUk1JLXVOcklvcWg0QWRkbTQ4czJRYlpldDBvNTRjdEVTNDE3VlFTcFFhUjVFakZUdlhPdEh0ZFZSQUtndEN4ZkxvRElzRFdOZ1E4OUNKaGZ4Y0hnNVhkQ0piWHloa2lIcHZ2ZA?oc=5",
-     "source": "Utah News Dispatch",
-     "published": "2026-11-24T00:52:55+00:00",
-     "summary": "Utah\u2019s 2026 election results are certified, solidifying Democrats\u2019 gains in the Legislature&nbsp;&nbsp;Utah News Dispatch",
-     "image": ""
-    },
-    {
-     "title": "Shawnee Co. approves election recount results in U.S. Senate race",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTlMtRnpseUNxenpVaGNVeDdoeEI3UjZQSy1paHpWZXdwN280UHFyWndrb3BfdHJRT0I0ZklIOWhENGVuSEVmYi1JZ3AxRGY5NjYxdlM1Yy1FQjNEeGEwTkViWGpGM2xrRG4zblJFcHdmVTI0c3MwaUFmNzlVX01laEJxQlRPbDQyN0Y5YTBGeE9QaG9pdklz0gGrAUFVX3lxTE1zelBFeEpEVWc1a3oycXVqZ2dtZm1HQ3Y0aF9LanVSbnU4MlVqYnBkeTNEdHJzSnlLYm5XVlp1QU1FMi16WmF5QVFfdDhXaWVmMXlYUWtGRllHd3pYbTZNakRLbkYzMWhUZE82UzFiMlRSMlVoWU5nTmlBSElnb19mUVVibVpGbzRLcTVYUzBpRDBvM0pvcXY4b3V0Vm5pRm8td1VUclZQQjlfYw?oc=5",
-     "source": "WIBW",
-     "published": "2026-11-24T00:48:00+00:00",
-     "summary": "Shawnee Co. approves election recount results in U.S. Senate race&nbsp;&nbsp;WIBW",
-     "image": ""
-    },
-    {
-     "title": "What could Democrats do with their expanding congressional majority?",
-     "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T00:39:22+00:00",
-     "summary": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
-     "image": ""
-    },
-    {
-     "title": "Panelists discuss post-election \u2018collapse\u2019 of American support for Israel at SIPA event",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWDRWaTNMNHowQVlOeVRzSTZGbE5hOFRkNDllVklQSUZWZnYtYnRnNzlsZnpTZXZvN2pMZlVIWlVRSjI2TW1NY0RidkFmajRrbWhfMFU0R21TbHNKbkthODltRUJacHBCQXBZTnhhSFVxQ1RjZ1pOTXFQSWJTNVFEcFUzdDVNejJELUFzdTJoSmI2Vy1IMFBLU2VFTUpLUk1wMkpSZTNVbk5OR3J2Y1pEOUlqZzRSbUJNT21KWmFpM1VlMmpUbk5pS192VExTMHZSblE?oc=5",
-     "source": "Columbia Daily Spectator",
-     "published": "2026-11-24T00:38:49+00:00",
-     "summary": "Panelists discuss post-election \u2018collapse\u2019 of American support for Israel at SIPA event&nbsp;&nbsp;Columbia Daily Spectator",
-     "image": ""
-    },
-    {
-     "title": "How AI is reshaping California election advertising \u2014 and more UCLA media",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnFXTE05LUloYW5NdVVFTkhhVTZMSlc3SG9kQkxjTHdPcEQ4c3Zna19JVWhScTVKY1pnRWhXZnA4RUZkV2FETlVNWklJekFfTFRzdnFKdFVudmtaS3M0TDdtSWhoLUp4MGFjMEhsUUtCLXJUNU1FeXZxWUZDemJ1NFNuaWtBV05sbXlyeTBRUkRKNm9yNk5Wd0Z3ODZwbG1ZYzhNeFJpVWgyZEU2TkE?oc=5",
-     "source": "Newsroom | UCLA",
-     "published": "2026-11-24T00:26:10+00:00",
-     "summary": "How AI is reshaping California election advertising \u2014 and more UCLA media&nbsp;&nbsp;Newsroom | UCLA",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T02:01:07.694359+00:00",
+   "fetched_at": "2026-11-24T02:31:11.526654+00:00",
    "stale": false,
    "items": [
     {
