@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-24T03:31:19.802641+00:00",
+ "generated_at": "2026-11-24T04:01:23.130046+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T03:31:19.802607+00:00",
+   "fetched_at": "2026-11-24T04:01:23.130015+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Greens secure \u2018multibillion dollar fines\u2019 for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
+     "title": "Australian politics live: Hanson-Young says digital duty of care bill will hit tech companies \u2018where it hurts\u2019; question time tribute to late MP Neil Andrew",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-24T03:22:17+00:00",
+     "published": "2026-11-24T03:43:48+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/26c546868c0173df88587f5617600127e1463d30/295_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=9d83b187175f7a29dbb9dbbb221ae6a3"
+     "image": "https://i.guim.co.uk/img/media/cf99794a8a5f8989a92e0e64dfde972055492a8d/232_15_2441_1953/master/2441.jpg?width=140&quality=85&auto=format&fit=max&s=130f6d9aa9940eb55a570ba957e1fd79"
     },
     {
      "title": "Mexico to try \u2018El Chapo Isidro\u2019 despite US extradition request",
@@ -120,9 +120,33 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T03:31:19.802625+00:00",
+   "fetched_at": "2026-11-24T04:01:23.130030+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIZkdHeXZuYnItR0s1UGs2dVRRM1I0ZUdqNFZJMk51dnlkZXNCUkxlYXRnZ1F6SFQ5MHpKSkV4ZDAxUG45TFdvajBINDVPay1qcldUOFhRMHN3XzA0cVNGZUtYblZ1WkRQUWVV?oc=5",
+     "source": "Mediazona",
+     "published": "2026-11-24T03:53:02+00:00",
+     "summary": "Russian losses in the war with Ukraine. Mediazona count, updated&nbsp;&nbsp;Mediazona",
+     "image": ""
+    },
+    {
+     "title": "NT social media figure Mango Inquirer fights in Ukraine war against Russia",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2NOOGdpczdVcFpVSWM3S29nZ1JlX1A3cFo2a0lZVklDUHFqRVduOXBhS0NRNTBjMnFqdy1DbUVNQVpZV0RjU1UwY1R1OEpjOWREZ095UjdQOVc1dDJFOWVrTTMzRUVDMTRhcmZadklXbTlVMkpNdkRETzhFbmw3ZEtHZ1o2QURxb3lsU3RTM0pmMnQtdFp5enFhMXUzNXlzOVZaTXBCRQ?oc=5",
+     "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+     "published": "2026-11-24T03:37:33+00:00",
+     "summary": "NT social media figure Mango Inquirer fights in Ukraine war against Russia&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+     "image": ""
+    },
+    {
+     "title": "German-Ukrainian firm says interceptor downed Russian Geran-5 drone in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1Y1TGF6RU1sczNsNmFYdS1OU3RBVWlsa3p0aXNoUFpFcWdpOWZWbGNRR3FtUjVFZktidkMweWdldjY0a0tqa2F2VUc1NDMwN1hQODIyZmtkVzRFUm5oQlRxblIxcHVIdXFDbG1ZaU9fVGNCcHdCR3A2TmRuT3BYY1F0ZFNwc3lIN05MUWFIMlBRbWxnVmZZYXJCbTNFQ1kzMXVZd1R1V2c5aHJEQ183bHBac29aUGpiUTctM1VFcC1KaUVWZW96SlRn?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-24T03:30:39+00:00",
+     "summary": "German-Ukrainian firm says interceptor downed Russian Geran-5 drone in Ukraine&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
     {
      "title": "Myanmar has been found guilty of genocide. Should Israel be worried? \u2013 podcast",
      "url": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
@@ -132,19 +156,19 @@
      "image": "https://i.guim.co.uk/img/media/a82d0ec0cbb51aadb63a0edd4721abfa0ba5d96b/606_0_6493_5195/master/6493.jpg?width=140&quality=85&auto=format&fit=max&s=c6d741a01e601c9874e9726750e9053f"
     },
     {
+     "title": "Peace in Ukraine won\u2019t end Russian sabotage in Europe, Poland warns",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1l2eGZ3cXdqclpuUFBNVXYtbTlfMFRUY29RS2FZVm5WQUNaNkRoQlJ1WXg3Mm5kVmZKVGY1bUxBUk5ZNFQ5cTRvamlCYml5RDJsMUdqbVFpazhSdG9fMF9DVWFUSk5PSlJmUTk2NEllUjdBRnNhcmR6U0t0cFdxYjVPZTRsSklraUI1UDFnYkxBSGVhcjU2SHNObw?oc=5",
+     "source": "POLITICO.eu",
+     "published": "2026-11-24T03:00:00+00:00",
+     "summary": "Peace in Ukraine won\u2019t end Russian sabotage in Europe, Poland warns&nbsp;&nbsp;POLITICO.eu",
+     "image": ""
+    },
+    {
      "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
      "source": "The Washington Post",
      "published": "2026-11-24T02:58:51+00:00",
      "summary": "NATO calls urgent meeting as string of incidents escalates Russia tensions&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIZkdHeXZuYnItR0s1UGs2dVRRM1I0ZUdqNFZJMk51dnlkZXNCUkxlYXRnZ1F6SFQ5MHpKSkV4ZDAxUG45TFdvajBINDVPay1qcldUOFhRMHN3XzA0cVNGZUtYblZ1WkRQUWVV?oc=5",
-     "source": "Mediazona",
-     "published": "2026-11-24T02:48:28+00:00",
-     "summary": "Russian losses in the war with Ukraine. Mediazona count, updated&nbsp;&nbsp;Mediazona",
      "image": ""
     },
     {
@@ -194,44 +218,28 @@
      "published": "2026-11-24T01:09:51+00:00",
      "summary": "Final resumption of carrier&#039;s route between Dubai and Tel Aviv depends on Israeli security authorities&#039; approval.",
      "image": ""
-    },
-    {
-     "title": "Ukraine war briefing: Kyiv\u2019s strike on Russian ships in Benghazi condemned by Libya\u2019s UN-backed government",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWHdha3RzX1VGNFF5Y0pKOHBlaTM1eGJ5ZHpGQUdDMGJXSmgzcjAzcGlzMEJQOEZ3MXo2RjBWRmJrWG01MUY0NGVOaFNsVWdpdVF1OFpkMHNvNmY3QVRwZ3pQMGFtdHFkLTRBM3FLOEhTaE8xdXpEdENkM21DSDNmU1BJdFZCY1hxbDZKMVNnbi1Vblo2QnM0RGJKbnhpQmNfSkxXYWJVdEg3a3AzWW9sNWdYVzd3LW1FdnZYQjdRNXJPMW1LRkRFOEZ2dS1UX0U1NEc0aEhINGtXZ1ZNdDI4cg?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-24T01:08:00+00:00",
-     "summary": "Ukraine war briefing: Kyiv\u2019s strike on Russian ships in Benghazi condemned by Libya\u2019s UN-backed government&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
-     "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T01:06:00+00:00",
-     "summary": "Bukele&#039;s military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine sinks Russian warship off Libyan coast as war widens",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzd6dmhjT0lhNWRNMzNYdmZSSm5qeWxiV09jZ3BwTldXeVpLcVhHall3MzQ1b0hvUGtYbU5QRVdyUkgtUmlDN3NVLVhKOXZvSWxGbGRsLTBWUWhRcmE5aUJjanIwZUYtU3J1ekFFTkFHZVBLSTBlNndLMGszMGlKUlBuWUphU1dSd3gyc1ZBc242dw?oc=5",
-     "source": "The Japan Times",
-     "published": "2026-11-24T00:52:00+00:00",
-     "summary": "Ukraine sinks Russian warship off Libyan coast as war widens&nbsp;&nbsp;The Japan Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T03:31:19.802629+00:00",
+   "fetched_at": "2026-11-24T04:01:23.130035+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Greens secure \u2018multibillion dollar fines\u2019 for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
+     "title": "Australian politics live: Hanson-Young says digital duty of care bill will hit tech companies \u2018where it hurts\u2019; question time tribute to late MP Neil Andrew",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-24T03:22:17+00:00",
+     "published": "2026-11-24T03:43:48+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/26c546868c0173df88587f5617600127e1463d30/295_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=9d83b187175f7a29dbb9dbbb221ae6a3"
+     "image": "https://i.guim.co.uk/img/media/cf99794a8a5f8989a92e0e64dfde972055492a8d/232_15_2441_1953/master/2441.jpg?width=140&quality=85&auto=format&fit=max&s=130f6d9aa9940eb55a570ba957e1fd79"
+    },
+    {
+     "title": "Division of Elections certifies Alaska election results",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR3A3TTNxRHh2Y3RqTEdSSHRvX3ZFbWFSSmVqdlBhOGlFc2NLQll4eno3RWFwYTlmeVU4LTllWnBLZ2l6eTRieFM2M01tMmp0Mk1pX18xYVAtbWlZXzNHMGxwUTJvU3oxc0hoNU9EZ04yTkRBRzhTeVg2TEZlLVozeGxJdVVJODVKTmFRMlVRQTdGdThMelpRN3JyYUM?oc=5",
+     "source": "Anchorage Daily News",
+     "published": "2026-11-24T03:30:23+00:00",
+     "summary": "Division of Elections certifies Alaska election results&nbsp;&nbsp;Anchorage Daily News",
+     "image": ""
     },
     {
      "title": "Jensen Huang's surprise return to Nvidia sparks mixed reactions in Washington",
@@ -248,14 +256,6 @@
      "published": "2026-11-24T03:04:41+00:00",
      "summary": "This live blog is now closed.Jensen Huang reinstated as Nvidia CEO after Trump intervenesSign up to the Breaking News US emailNvidia\u2019s shares have surged by 31% at the start of tra",
      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
-    },
-    {
-     "title": "It\u2019s official: Raffensperger certifies Nov. 3 election results",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUhKY0Y0WlVhVzYtSVl4UHJLazF4bW1WM0tmNUR1UDRQM1RiaGIwektBTVE1dV9ZNlNDbXBQdV9pSjA0Qy11b1F4TU1zcXVxUEVhOGdBNjh3amNVT0pTNWdhOURNcnBUYkNCeGZDMmhIR0RUYlhyeHRuMDhxXzZIT1RVendrZUJycUZkbjRwa3U0aEVSb0xuNFJENWxjR0pp?oc=5",
-     "source": "Statesboro Herald",
-     "published": "2026-11-24T02:46:46+00:00",
-     "summary": "It\u2019s official: Raffensperger certifies Nov. 3 election results&nbsp;&nbsp;Statesboro Herald",
-     "image": ""
     },
     {
      "title": "Lucas County Board of Elections certifies election, with 2 recounts planned",
@@ -298,6 +298,14 @@
      "image": ""
     },
     {
+     "title": "Venezuela Inches Toward Vote as Key Electoral Reform Lags",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWi1pOEdjRHRLejlObW1KUV9Lc3RNbkNXaU53aGJ6eGowRVNkVzJ5TVdKd1BsYm8yZkEtNVlHaEJGNXh6RnJwVTR3SnFRdWp2d3J3VkxUS1U2NkRJa0Mzci1aWUxJckZya3RjZkJkOFViS2ZpMTUxZzBMbG10UDZJUW9PUkd3SnZzSjd4VEk1VmtIeS1IUzNzTjRXTnY0RmppNkRjNTd6VXRUbzVwLUVqenFaRVg3OWlCcWtZZUln?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-24T01:51:00+00:00",
+     "summary": "Venezuela Inches Toward Vote as Key Electoral Reform Lags&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
      "title": "New York City\u2019s mayor welcomes proposed sanctions on Israeli settlements",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmYxUjVUOF9fWmNEWWRXSXNBOUpGQVB3WXdkVzJ2aUNlOU1YN1ByZTJwWlhyanB6dlZBRkpPY28zNFVnS3NzT1FYZW1RNnlLaFBqdXBramtoVXZzS1Z2SUxBZGVKYWZfaWJLNV9fU3Z2aWVZeHFPb1ZFOTNRLWdQWXppWnpIQy1MMjVhb2s0cVNfU0w4N0ZyeUZ3TldObmxqSnJ6YkJaYnpiSlUxdkFZ?oc=5",
      "source": "Anadolu Ajans\u0131",
@@ -312,19 +320,11 @@
      "published": "2026-11-24T01:39:00+00:00",
      "summary": "Alaska certifies midterm election, starting the clock for challenges and recounts&nbsp;&nbsp;Alaska Public Media",
      "image": ""
-    },
-    {
-     "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
-     "url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T01:17:48+00:00",
-     "summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T03:31:19.802631+00:00",
+   "fetched_at": "2026-11-24T04:01:23.130037+00:00",
    "stale": false,
    "items": [
     {
