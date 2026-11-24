@@ -1,33 +1,57 @@
 {
- "generated_at": "2026-11-24T02:31:11.526663+00:00",
+ "generated_at": "2026-11-24T03:01:15.905485+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T02:31:11.526632+00:00",
+   "fetched_at": "2026-11-24T03:01:15.905454+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
-     "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-     "source": "The Guardian",
-     "published": "2026-11-24T02:24:48+00:00",
-     "summary": "Decision comes after Trump urged court to first sign off on what he called the safest way to resolve the situationThe US army can proceed with detonating several tons of degraded b",
-     "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55"
-    },
     {
      "title": "Australian politics live: Greens secure \u2018multibillion dollar fines\u2019 for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-24T02:23:01+00:00",
+     "published": "2026-11-24T02:52:52+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/f1b786643ad09636c2dfa840f53c6136f650bd13/462_0_4598_3681/master/4598.jpg?width=140&quality=85&auto=format&fit=max&s=57410fc0c34a8a8569f210b013e270e7"
+     "image": "https://i.guim.co.uk/img/media/26c546868c0173df88587f5617600127e1463d30/295_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=9d83b187175f7a29dbb9dbbb221ae6a3"
     },
     {
      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T02:13:02+00:00",
+     "published": "2026-11-24T02:48:26+00:00",
      "summary": "\u2018Congress has much to investigate\u2019, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang Sign up to the Breaki",
      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
+    },
+    {
+     "title": "China sentences official to death for spying for foreign country",
+     "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+     "source": "The Guardian",
+     "published": "2026-11-24T02:37:36+00:00",
+     "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher saysA Chinese official has been sentenced to death for",
+     "image": "https://i.guim.co.uk/img/media/5d7028c1f7418b6df67a8b82c97cfc5563385eba/154_0_2536_2029/master/2536.jpg?width=140&quality=85&auto=format&fit=max&s=44cb141ed2c5bf5b241d085672ec0b9e"
+    },
+    {
+     "title": "Excavator threatens sacred alpine lake in the Himalayas",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T02:35:27+00:00",
+     "summary": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
+     "image": ""
+    },
+    {
+     "title": "UN chief calls for world to agree on AI oversight within a year",
+     "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T02:27:19+00:00",
+     "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+     "image": ""
+    },
+    {
+     "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+     "source": "The Guardian",
+     "published": "2026-11-24T02:25:49+00:00",
+     "summary": "Trump, on social media, tried to push responsibility of \u2018any and all death or destruction\u2019 on Democratic governor-elect The US army can proceed with detonating several tons of degr",
+     "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55"
     },
     {
      "title": "US flew surveillance drone over Mexico to help capture top drug lord",
@@ -62,6 +86,14 @@
      "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/195_219_2439_1952/master/2439.jpg?width=140&quality=85&auto=format&fit=max&s=9b9bab7eb46eaec2cfbe9a58a146111f"
     },
     {
+     "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+     "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T01:21:41+00:00",
+     "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3b/live/388100e0-e7a3-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
      "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
      "url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
      "source": "Al Jazeera",
@@ -70,66 +102,50 @@
      "image": ""
     },
     {
-     "title": "Israeli minister approves return of Flydubai flights",
+     "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T01:11:54+00:00",
+     "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
+     "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-24T01:09:51+00:00",
      "summary": "Final resumption of carrier&#039;s route between Dubai and Tel Aviv depends on Israeli security authorities&#039; approval.",
      "image": ""
-    },
-    {
-     "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
-     "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T01:06:00+00:00",
-     "summary": "Bukele&#039;s military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
-     "image": ""
-    },
-    {
-     "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
-     "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T00:52:47+00:00",
-     "summary": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
-     "image": ""
-    },
-    {
-     "title": "What could Democrats do with their expanding congressional majority?",
-     "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T00:39:22+00:00",
-     "summary": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
-     "image": ""
-    },
-    {
-     "title": "Turns out it wasn\u2019t a lion afterall",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T00:35:58+00:00",
-     "summary": "The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall.",
-     "image": ""
-    },
-    {
-     "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
-     "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
-     "source": "\u00a9 Peter Morrison, AP",
-     "published": "2026-11-24T00:30:11+00:00",
-     "summary": "Ukrainian President Volodymyr Zelensky is calling for a new round of negotiations involving Ukraine, Russia, the United States and European leaders, saying Kyiv is ready to meet as",
-     "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T02:31:11.526647+00:00",
+   "fetched_at": "2026-11-24T03:01:15.905469+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIZkdHeXZuYnItR0s1UGs2dVRRM1I0ZUdqNFZJMk51dnlkZXNCUkxlYXRnZ1F6SFQ5MHpKSkV4ZDAxUG45TFdvajBINDVPay1qcldUOFhRMHN3XzA0cVNGZUtYblZ1WkRQUWVV?oc=5",
+     "source": "Mediazona",
+     "published": "2026-11-24T02:48:28+00:00",
+     "summary": "Russian losses in the war with Ukraine. Mediazona count, updated&nbsp;&nbsp;Mediazona",
+     "image": ""
+    },
     {
      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T02:13:02+00:00",
+     "published": "2026-11-24T02:48:26+00:00",
      "summary": "\u2018Congress has much to investigate\u2019, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang Sign up to the Breaki",
      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
+    },
+    {
+     "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-24T02:30:00+00:00",
+     "summary": "Ukraine confirms it used naval drones to strike two Russian ships off Libya&nbsp;&nbsp;The Guardian",
+     "image": ""
     },
     {
      "title": "US flew surveillance drone over Mexico to help capture top drug lord",
@@ -180,7 +196,7 @@
      "image": ""
     },
     {
-     "title": "Israeli minister approves return of Flydubai flights",
+     "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-24T01:09:51+00:00",
@@ -202,29 +218,29 @@
      "published": "2026-11-24T01:06:00+00:00",
      "summary": "Bukele&#039;s military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
      "image": ""
-    },
-    {
-     "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIZkdHeXZuYnItR0s1UGs2dVRRM1I0ZUdqNFZJMk51dnlkZXNCUkxlYXRnZ1F6SFQ5MHpKSkV4ZDAxUG45TFdvajBINDVPay1qcldUOFhRMHN3XzA0cVNGZUtYblZ1WkRQUWVV?oc=5",
-     "source": "Mediazona",
-     "published": "2026-11-24T00:52:10+00:00",
-     "summary": "Russian losses in the war with Ukraine. Mediazona count, updated&nbsp;&nbsp;Mediazona",
-     "image": ""
-    },
-    {
-     "title": "Ukraine sinks Russian warship off Libyan coast as war widens",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzd6dmhjT0lhNWRNMzNYdmZSSm5qeWxiV09jZ3BwTldXeVpLcVhHall3MzQ1b0hvUGtYbU5QRVdyUkgtUmlDN3NVLVhKOXZvSWxGbGRsLTBWUWhRcmE5aUJjanIwZUYtU3J1ekFFTkFHZVBLSTBlNndLMGszMGlKUlBuWUphU1dSd3gyc1ZBc242dw?oc=5",
-     "source": "The Japan Times",
-     "published": "2026-11-24T00:52:00+00:00",
-     "summary": "Ukraine sinks Russian warship off Libyan coast as war widens&nbsp;&nbsp;The Japan Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T02:31:11.526652+00:00",
+   "fetched_at": "2026-11-24T03:01:15.905474+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australian politics live: Greens secure \u2018multibillion dollar fines\u2019 for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-24T02:52:52+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
+     "image": "https://i.guim.co.uk/img/media/26c546868c0173df88587f5617600127e1463d30/295_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=9d83b187175f7a29dbb9dbbb221ae6a3"
+    },
+    {
+     "title": "Excavator threatens sacred alpine lake in the Himalayas",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T02:35:27+00:00",
+     "summary": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
+     "image": ""
+    },
     {
      "title": "Who won North Carolina's congressional races",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2JfSEFmZ19TVlBxYlF0bUx5VUgwZG5UVkhfVDVvT0t3R191NkZfQzNPaTZIUWNhdGFEX1hTLVc1Qmp1SDZ4Q2JQNktYbmhfTXQwVUQyandvVGxBZVBFRkJ5dUxWWFM0angxNGtyOUdPUXd1VXFQUkgxallfdXItUmU3c2t6V244SUE1OUtGdXVabmd1V0xETEc5alpleHJPODd3?oc=5",
@@ -234,19 +250,19 @@
      "image": ""
     },
     {
-     "title": "Australian politics live: Greens secure \u2018multibillion dollar fines\u2019 for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-24T02:23:01+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/f1b786643ad09636c2dfa840f53c6136f650bd13/462_0_4598_3681/master/4598.jpg?width=140&quality=85&auto=format&fit=max&s=57410fc0c34a8a8569f210b013e270e7"
-    },
-    {
      "title": "Soldotna lawmaker chosen to lead Republican minority in Alaska House after election losses",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZFRReGlWRm5sbnp5ZThVV0tBYzZ2eHVBNnNTbWkwWGV1OU9MbzZrSTZidHpGMjRxVnhWdThaMFJSR1l0TlBRdUlRaUdBa2tFblZ5ajV0amtwSDhUbWtleVFXOXhCN2NqYnl5VHkyMUNSTWk1X3RpRDJTR1c1NmdxNUk1eXhoZHBQMzJEU09QNkZQZG5wd2tXSTZucmJzWlFpdnZ2WEYwLWdwajI2dXlLanR2ek8zMWxoQlNwc1MxNXBYWGt2VnBIRE1wVHhxal9tZTU0RkJtbC1nS1dvbTZmSEhjUlM?oc=5",
      "source": "Anchorage Daily News",
      "published": "2026-11-24T02:02:18+00:00",
      "summary": "Soldotna lawmaker chosen to lead Republican minority in Alaska House after election losses&nbsp;&nbsp;Anchorage Daily News",
+     "image": ""
+    },
+    {
+     "title": "EU proposes banning Russian flags at sports events under new sanctions",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVJBNGRCSlpNczVYbU05TWtWRkl5TnRqYTZBU0FlWkRoLXZvUFJrcTBaYVRKMVdqVHhvaGs4WjZCME80b053VEZjX3RvY0dsQWlyT2Y3U29xREtUbDROQVJWX0xZZUNuVXBKTkxEX3RrSklUdEZIQ3NvWWxiMnpWYzNZT016VFlBWVBKcG9ucnBOLWRpRGxkbS13RTIxU0EtYTdZeXZVakJ1Wk54Z2ZDQmJLQms5d9IBtgFBVV95cUxPdUdaOWJieWtpZFBVYmJ0X2VPcVZFN0hfS2huLVhCN0dnTmEzeUtiVEdyX09pTER0YTB3QWFNVTR6Unk1bFc1bDFyYVpsUjdUNnVJRlN1d2cyMUdIOWIwRmZLZmJrS1VGUS1zaWJJekZnczdvbmw2X0lFcWlpbzBUckFIV1ZlOEQ4OHFxcVFwc2NNc05FMEcwbE9CWmF0emQwYlJOQ19VR1I0NmJ2SWxLQWJhclBBdw?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-24T01:52:51+00:00",
+     "summary": "EU proposes banning Russian flags at sports events under new sanctions&nbsp;&nbsp;South China Morning Post",
      "image": ""
     },
     {
@@ -282,49 +298,33 @@
      "image": ""
     },
     {
+     "title": "Huang\u2019s Return Is the Biggest National Security Scandal in U.S. History",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFVrX3NkaS1yT0U0WFh0bDZQTjNKTUdBSFBXMElyeEgzQzN3eFVHUXJ5S1VUQ0g4NTZHdm5KMnZxVV9HbnhjYWdPeUF2VjR6aHVmVUc2MnhPdXhyaE13TlFuR1owZk5aRzV0elNKa3p2NDBOZzVSbk51OTZ0WjRhNF9KQmJVSWFDaDhIbkI0MHNpLUxFYTVFWFh3?oc=5",
+     "source": "Foreign Policy",
+     "published": "2026-11-24T01:15:18+00:00",
+     "summary": "Huang\u2019s Return Is the Biggest National Security Scandal in U.S. History&nbsp;&nbsp;Foreign Policy",
+     "image": ""
+    },
+    {
+     "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T01:11:54+00:00",
+     "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
      "title": "Election Regulators investigate complaints people tried to vote twice in Connecticut",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWExxU1NEcUN4YjJMeHdONENKaWxZbk5jXzNpaUxrRWwyOXNPNWxnMHdmQ0RBS2o4OXd6Z0tCMDN3OWlSTk03VmJ2RlMyQ0Z2cFlEczAtb1ZFcmgtQzdtV2Q5dUZGbDRBZm4yU2VKVWNqWUM5aTBlaWlJOURsTy1MZ2dmN2lGQVliQlFvQXlzcVNBbUhtMmwtZHV1Wm5FRjFLRVlMbnZOdDlrZkNvd2hDSGlQaUhoRjQwajFhSFFuT1pGOGxxNjFTdVRHaFNqUGt30gHYAUFVX3lxTE5ZblhNTHBiRnVUMlZKb0M0OW5nUUVnMGJ4cExPODl4NjBLTUYxTmpUejFyeFFIbGlJQmxhU3cxbWhaOW9jUkNNOTYyeUUxNTJ5Q1dWN241ZFNpNWhHN1NuMXU2LWpyVGM4QnhHYTlZMlA2eXg1cHNSbDVZeHMwckxjYmZGM3VUYVdIeVI4cFdHQThtbk5idFRYTjlQYnFZdGZXMkMyOFJvQThHcXhWSEg1cWVqQ2otWVlEaEJFbDF4Y09Hd29VN1Q1eFlXZjZWeFRBUVVtMEhNRQ?oc=5",
      "source": "NBC Connecticut",
      "published": "2026-11-24T01:09:18+00:00",
      "summary": "Election Regulators investigate complaints people tried to vote twice in Connecticut&nbsp;&nbsp;NBC Connecticut",
      "image": ""
-    },
-    {
-     "title": "Huang\u2019s Return Is the Biggest National Security Scandal in U.S. History",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFVrX3NkaS1yT0U0WFh0bDZQTjNKTUdBSFBXMElyeEgzQzN3eFVHUXJ5S1VUQ0g4NTZHdm5KMnZxVV9HbnhjYWdPeUF2VjR6aHVmVUc2MnhPdXhyaE13TlFuR1owZk5aRzV0elNKa3p2NDBOZzVSbk51OTZ0WjRhNF9KQmJVSWFDaDhIbkI0MHNpLUxFYTVFWFh3?oc=5",
-     "source": "Foreign Policy",
-     "published": "2026-11-24T01:07:30+00:00",
-     "summary": "Huang\u2019s Return Is the Biggest National Security Scandal in U.S. History&nbsp;&nbsp;Foreign Policy",
-     "image": ""
-    },
-    {
-     "title": "Wausau credit card policy up for final vote drops yearly report to alders, still sets no spending caps",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZzh3SXlfNWtjQ0szRDdqNHpzV3RsSlM0Z1Uzb1pSQ25VMGlnX1JJN1hVSUw5dlJsUkFod1NzeTlyamtjUDZWcU5JQ3dVcW9Cb3dQRHE4SElWV2FybDN5SnJXSlowSUdsb1Y2QjZzRmJaQi1rY0w3YjRLdk9Qam9pUFJKWXNKOFQ4SWI3ZDVJZDZSY2JsVktnN3k4ZEh6VHRGUVlfU0tkc2VTc01aY2hPcFNjV3VNeERmczZHTE9paHBzWDJiZHFuWU1LRElOd1BXdlQ1TTVkYW04ZlNzQ1A0?oc=5",
-     "source": "Wausau Pilot & Review",
-     "published": "2026-11-24T01:03:00+00:00",
-     "summary": "Wausau credit card policy up for final vote drops yearly report to alders, still sets no spending caps&nbsp;&nbsp;Wausau Pilot & Review",
-     "image": ""
-    },
-    {
-     "title": "Utah board votes unanimously to certify the midterm election results",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORG1Xdk5HeHBPS3FoM0IzaU95QmNTX19JLWNFeEJrbEtOYXA5YXNLaFROMEw4TUFJUkhNaW51Wl85MThlR0szY0k0alpvVWJTTWlzVy1rb3ZwSUlzRUV1WFY5T2UydUxWX28zNUdzeVVQYXEyNTV0bWhPdzlxd0VuRWJOZjA1bVlaVU1LUXphOTFlcmltZlJoTTBFaV84R0xtd1BMODVVQ1c?oc=5",
-     "source": "KSL",
-     "published": "2026-11-24T01:03:00+00:00",
-     "summary": "Utah board votes unanimously to certify the midterm election results&nbsp;&nbsp;KSL",
-     "image": ""
-    },
-    {
-     "title": "Michigan certifies November election results after record-breaking turnout",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRWs2NXVDQ0t6UTJLOVg2dFdvUWtackk5cy1aRktGRjhid3BfOUx4S0hPMWRnVVM0N2xOVW1wNi05ZTQycjdYZFYzSUhBb1pmNUUyOTJrR04zVnhEc1RXMC1YNjZMUWVWYkk2QUdmd2JwYjVDdk93NWFjLV9nQi14VUxPQ1pzRnB1VXRkTnMxa0J2U3hDRkRfa1dJREhyYjJVM0tyS0ZnTkZxYVh0TEszQlI2eEtydVdiRWtJSFRTS3ZtcFlleTZkYVVjNTBmaGJ3OWc?oc=5",
-     "source": "Michigan Public",
-     "published": "2026-11-24T00:58:00+00:00",
-     "summary": "Michigan certifies November election results after record-breaking turnout&nbsp;&nbsp;Michigan Public",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T02:31:11.526654+00:00",
+   "fetched_at": "2026-11-24T03:01:15.905476+00:00",
    "stale": false,
    "items": [
     {
