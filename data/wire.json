@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T11:02:20.386946+00:00",
+ "generated_at": "2026-11-24T11:02:32.429957+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T11:02:20.386921+00:00",
+   "fetched_at": "2026-11-24T11:02:32.429921+00:00",
    "stale": false,
    "items": [
     {
@@ -30,12 +30,28 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
     },
     {
+     "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+     "url": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T10:48:38+00:00",
+     "summary": "Nvidia chief&#039;s &#039;mistakes&#039; had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
+     "image": ""
+    },
+    {
      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-24T10:48:27+00:00",
      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
+    },
+    {
+     "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T10:47:41+00:00",
+     "summary": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
+     "image": ""
     },
     {
      "title": "Spain set to head to polls in snap election that could boost far right",
@@ -100,27 +116,11 @@
      "published": "2026-11-24T10:22:13+00:00",
      "summary": "Republicans and Democrats object over Trump\u2019s role in Jensen Huang\u2019s return as Nvidia CEO, following an affair with an alleged Chinese spyRepublican senators criticize Nvidia\u2019s dec",
      "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
-    },
-    {
-     "title": "Under-16s social media ban could disrupt sites that pose no risk, says UK tech industry",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/24/under-16s-social-media-ban-disrupt-sites-no-risk-uk-tech-industry",
-     "source": "The Guardian",
-     "published": "2026-11-24T10:18:39+00:00",
-     "summary": "Trade body techUK says regulations are causing frustration with chaotic process of \u2018chasing children around the internet\u2019A large expansion of the social media ban for teenagers has",
-     "image": "https://i.guim.co.uk/img/media/760f918512039ba340234c40e1b7a40899e320ba/533_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=8ced310abcd98a8ea214e62900616875"
-    },
-    {
-     "title": "Congress to grill Jensen Huang over ties with China and Trump\u2019s intervention",
-     "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
-     "source": "The Guardian",
-     "published": "2026-11-24T10:00:14+00:00",
-     "summary": "Lawmakers from both parties are demanding answers about the Nvidia CEO\u2019s reinstatement and the administration\u2019s handling of national security risksJensen Huang\u2019s reinstatement as N",
-     "image": "https://i.guim.co.uk/img/media/26aadfab7bd77a25ea9f14c21ef752a9d34cd341/142_0_5506_4407/master/5506.jpg?width=140&quality=85&auto=format&fit=max&s=f28eeff9cc351a8e485cee267c103168"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T11:02:20.386934+00:00",
+   "fetched_at": "2026-11-24T11:02:32.429936+00:00",
    "stale": false,
    "items": [
     {
@@ -138,6 +138,14 @@
      "published": "2026-11-24T10:48:27+00:00",
      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
+    },
+    {
+     "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T10:47:41+00:00",
+     "summary": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
+     "image": ""
     },
     {
      "title": "Spain set to head to polls in snap election that could boost far right",
@@ -210,19 +218,11 @@
      "published": "2026-11-24T09:52:03+00:00",
      "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
      "image": ""
-    },
-    {
-     "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
-     "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T09:51:26+00:00",
-     "summary": "Russian attack on Zaporizhzhia destroyed a house and damaged a five-storey apartment building, Ukrainian officials said.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T11:02:20.386937+00:00",
+   "fetched_at": "2026-11-24T11:02:32.429940+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T11:02:20.386939+00:00",
+   "fetched_at": "2026-11-24T11:02:32.429943+00:00",
    "stale": false,
    "items": [
     {
