@@ -1,17 +1,25 @@
 {
- "generated_at": "2026-11-24T04:01:23.130046+00:00",
+ "generated_at": "2026-11-24T04:31:27.194271+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T04:01:23.130015+00:00",
+   "fetched_at": "2026-11-24T04:31:27.194238+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Hanson-Young says digital duty of care bill will hit tech companies \u2018where it hurts\u2019; question time tribute to late MP Neil Andrew",
+     "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+     "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+     "source": "The Guardian",
+     "published": "2026-11-24T04:14:43+00:00",
+     "summary": "The order was issued after aircraft entered the country\u2019s air defence identification zone over the island of UlleungdoResidents of a remote South Korean island were ordered to take",
+     "image": "https://i.guim.co.uk/img/media/a64555d05e60fde8290f1489232b209ec8ba900c/996_199_4012_3210/master/4012.jpg?width=140&quality=85&auto=format&fit=max&s=3029f9b2443baacb8f134a3006fb300b"
+    },
+    {
+     "title": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; Labor MP kicked out of question time",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-24T03:43:48+00:00",
+     "published": "2026-11-24T04:12:07+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/cf99794a8a5f8989a92e0e64dfde972055492a8d/232_15_2441_1953/master/2441.jpg?width=140&quality=85&auto=format&fit=max&s=130f6d9aa9940eb55a570ba957e1fd79"
+     "image": "https://i.guim.co.uk/img/media/d9986cfb67bf7d66b96cd3b14d5e4bdb388902ba/558_0_5575_4460/master/5575.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3d6c247e3a8c6043a10c696f48094"
     },
     {
      "title": "Mexico to try \u2018El Chapo Isidro\u2019 despite US extradition request",
@@ -78,6 +86,14 @@
      "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55"
     },
     {
+     "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+     "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T02:15:59+00:00",
+     "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg"
+    },
+    {
      "title": "US flew surveillance drone over Mexico to help capture top drug lord",
      "url": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
      "source": "\u00a9 Mario Vasquez, AFP",
@@ -100,29 +116,21 @@
      "published": "2026-11-24T01:32:12+00:00",
      "summary": "Qatar\u2019s Prime Minister says he\u2019s working towards deescalating tensions between Iran and the US.",
      "image": ""
-    },
-    {
-     "title": "Beau Lamarre-Condon chose \u2018long walk\u2019 to witness box rather than silence, his barrister tells court",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-24T01:25:20+00:00",
-     "summary": "Former police officer has pleaded not guilty to murders of Jesse Baird and Luke Davies in Baird\u2019s Paddington home in February 2024Get our breaking news email, free app or daily new",
-     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/195_219_2439_1952/master/2439.jpg?width=140&quality=85&auto=format&fit=max&s=9b9bab7eb46eaec2cfbe9a58a146111f"
-    },
-    {
-     "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
-     "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-24T01:21:41+00:00",
-     "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3b/live/388100e0-e7a3-11f1-99a1-253766e7ad8b.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T04:01:23.130030+00:00",
+   "fetched_at": "2026-11-24T04:31:27.194254+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+     "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+     "source": "The Guardian",
+     "published": "2026-11-24T04:14:43+00:00",
+     "summary": "The order was issued after aircraft entered the country\u2019s air defence identification zone over the island of UlleungdoResidents of a remote South Korean island were ordered to take",
+     "image": "https://i.guim.co.uk/img/media/a64555d05e60fde8290f1489232b209ec8ba900c/996_199_4012_3210/master/4012.jpg?width=140&quality=85&auto=format&fit=max&s=3029f9b2443baacb8f134a3006fb300b"
+    },
     {
      "title": "Russian losses in the war with Ukraine. Mediazona count, updated",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIZkdHeXZuYnItR0s1UGs2dVRRM1I0ZUdqNFZJMk51dnlkZXNCUkxlYXRnZ1F6SFQ5MHpKSkV4ZDAxUG45TFdvajBINDVPay1qcldUOFhRMHN3XzA0cVNGZUtYblZ1WkRQUWVV?oc=5",
@@ -132,10 +140,18 @@
      "image": ""
     },
     {
+     "title": "Hacked Russian data suggests nearly 500,000 soldiers dead, reports say",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDRkMlZPenk3Tl9vUGhkOHFna2dnbGdUcVlpVkJYSnhuX2FUR3dKb25LaGdZeXlqUGVjeTNNUi1vam1hYWJDWTVaSUVsbHRvemgzUFB4NzJUNFAyMDZXVUMtam9tSnFIempWamp1SV9udUo2SXFFYVhvUElBX0xCNG13WHV0c1pKdjA0OFk3Z3o3OERTSGw0WWNibXFQa2FlRlBqMGlkUTNhZTZwMWlBNGh6SDRiT3FZOEVrcUFVVkhYT1RLdVVDcF95Q3JyTmhhaGfSAdIBQVVfeXFMT1pnc0RKaEI3ektnUFlseEozLXpBUHl4M2x5VHVqcnZlNURzYTRXaFpGenJzMkZqRjhVU3RlN2h6dXVTNEswVVBpbmd0R2g0VFNaaDZ2U3R5WVRwNlBhc3Q1cFZDVlptb3pVNktuY0EtWlVuSU0wcHQyd0ZaXzVnNEFka3FEM2tKNnRqcXBWN09Qcjg1SERwYlhxUGQ0VFFUTGQwbU43S29mQjJrWEM1MmRobFVWZ25fYVBrVVdjZXV2TmI3Q05xWWs0dkVVcmEyVjNB?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-24T03:50:26+00:00",
+     "summary": "Hacked Russian data suggests nearly 500,000 soldiers dead, reports say&nbsp;&nbsp;South China Morning Post",
+     "image": ""
+    },
+    {
      "title": "NT social media figure Mango Inquirer fights in Ukraine war against Russia",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2NOOGdpczdVcFpVSWM3S29nZ1JlX1A3cFo2a0lZVklDUHFqRVduOXBhS0NRNTBjMnFqdy1DbUVNQVpZV0RjU1UwY1R1OEpjOWREZ095UjdQOVc1dDJFOWVrTTMzRUVDMTRhcmZadklXbTlVMkpNdkRETzhFbmw3ZEtHZ1o2QURxb3lsU3RTM0pmMnQtdFp5enFhMXUzNXlzOVZaTXBCRQ?oc=5",
      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-     "published": "2026-11-24T03:37:33+00:00",
+     "published": "2026-11-24T03:42:42+00:00",
      "summary": "NT social media figure Mango Inquirer fights in Ukraine war against Russia&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
      "image": ""
     },
@@ -156,14 +172,6 @@
      "image": "https://i.guim.co.uk/img/media/a82d0ec0cbb51aadb63a0edd4721abfa0ba5d96b/606_0_6493_5195/master/6493.jpg?width=140&quality=85&auto=format&fit=max&s=c6d741a01e601c9874e9726750e9053f"
     },
     {
-     "title": "Peace in Ukraine won\u2019t end Russian sabotage in Europe, Poland warns",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1l2eGZ3cXdqclpuUFBNVXYtbTlfMFRUY29RS2FZVm5WQUNaNkRoQlJ1WXg3Mm5kVmZKVGY1bUxBUk5ZNFQ5cTRvamlCYml5RDJsMUdqbVFpazhSdG9fMF9DVWFUSk5PSlJmUTk2NEllUjdBRnNhcmR6U0t0cFdxYjVPZTRsSklraUI1UDFnYkxBSGVhcjU2SHNObw?oc=5",
-     "source": "POLITICO.eu",
-     "published": "2026-11-24T03:00:00+00:00",
-     "summary": "Peace in Ukraine won\u2019t end Russian sabotage in Europe, Poland warns&nbsp;&nbsp;POLITICO.eu",
-     "image": ""
-    },
-    {
      "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
      "source": "The Washington Post",
@@ -172,12 +180,20 @@
      "image": ""
     },
     {
-     "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+     "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclIybFN1cjJ1XzJuTEdkdjhqZzU2U2RWSlpocVp2VzVOaG9SVDE1Uk9PS2FSNU1UakliWmhyQ1ozVENPUXRGQndOekFQdnVjMktSek9DeHZybG1QYTllU0EzanNTZ1YwOGxIZTNnZHBjd0RmU1VXM0lMdGZmWFd2ajNHOUR2Ni1PRDFCc3ExODJseHdOeUx5NmJuWUtkZ2otOHB3Z2lXTjlydDNCdGpGeDNDNklDWktYN1lBRGFnNW4?oc=5",
      "source": "The Guardian",
      "published": "2026-11-24T02:30:00+00:00",
-     "summary": "Ukraine confirms it used naval drones to strike two Russian ships off Libya&nbsp;&nbsp;The Guardian",
+     "summary": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war&nbsp;&nbsp;The Guardian",
      "image": ""
+    },
+    {
+     "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+     "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T02:15:59+00:00",
+     "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg"
     },
     {
      "title": "US flew surveillance drone over Mexico to help capture top drug lord",
@@ -202,36 +218,44 @@
      "published": "2026-11-24T02:00:13+00:00",
      "summary": "\u2018What Is Produced by Hospitals?\u2019 \u2013 Ukraine Calls Out Russia at UN Security Council&nbsp;&nbsp;Kyiv Post",
      "image": ""
-    },
-    {
-     "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T01:32:12+00:00",
-     "summary": "Qatar\u2019s Prime Minister says he\u2019s working towards deescalating tensions between Iran and the US.",
-     "image": ""
-    },
-    {
-     "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
-     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T01:09:51+00:00",
-     "summary": "Final resumption of carrier&#039;s route between Dubai and Tel Aviv depends on Israeli security authorities&#039; approval.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T04:01:23.130035+00:00",
+   "fetched_at": "2026-11-24T04:31:27.194259+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Hanson-Young says digital duty of care bill will hit tech companies \u2018where it hurts\u2019; question time tribute to late MP Neil Andrew",
+     "title": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; Labor MP kicked out of question time",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-24T03:43:48+00:00",
+     "published": "2026-11-24T04:12:07+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/cf99794a8a5f8989a92e0e64dfde972055492a8d/232_15_2441_1953/master/2441.jpg?width=140&quality=85&auto=format&fit=max&s=130f6d9aa9940eb55a570ba957e1fd79"
+     "image": "https://i.guim.co.uk/img/media/d9986cfb67bf7d66b96cd3b14d5e4bdb388902ba/558_0_5575_4460/master/5575.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3d6c247e3a8c6043a10c696f48094"
+    },
+    {
+     "title": "93-year-old election worker honored for decades of service",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX05DQmVtUllVZ211d05nODg2VnB5N0RoWk1OUExsMjlVSkNla2ZRRkFtemg0ZUc3M0U4dzBMNU9SN0JQcV9BeHdkMGVVSmdhNEpKVHVtWklETE04S2t2eEx0MjJsbHMyMFNpM3Voc2RuM0ZaaW9UOTgzRTg2S0NYdlhXc2twZ19mUndYSdIBoAFBVV95cUxOMTJiUUhOR3dzZGwtOG5Ea05fRm84aFMtOXFXcl8tZnFraXNUX00zV2lOVzNPRFljaHdyNkdQcmJpUlhJSjhYSVV2Q2VORms3YjN1TEdiYWVwTFhTVFVyQUROS2J2TS1mQUxkVmZQemRsc3RHRzZ2WHJuSEFucGR3UE9Hc2NMQlNyOXVWODNhdjVCM25pQ2x2R2lzcFhFRjQ0?oc=5",
+     "source": "WSAZ",
+     "published": "2026-11-24T04:04:00+00:00",
+     "summary": "93-year-old election worker honored for decades of service&nbsp;&nbsp;WSAZ",
+     "image": ""
+    },
+    {
+     "title": "Taiwan's elections not about China, but Beijing has a lot to say",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXc2SkZYZGtLT242LWZweUpSekkzc1RPc3dpTENTSEVRMmhOTVl6MzlJYUVNekNINlZHNDVSMVRpbm5WM3ZnZFdvUnJlN1k4cWRGUlZkYXZpT0dETVpieGRoSlAwb1JsTUZoWHY4SUY0ZEtmb3V2dExicXJaVGhKTWNUem8zY1dTWWhFd3FQdWZtYmZYVjB1ZHdLQ3NXaUVaZ05N?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-24T03:57:00+00:00",
+     "summary": "Taiwan's elections not about China, but Beijing has a lot to say&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Election worker honored",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SM1NNN19FWHctc2hCaWxpQ0U4RUM1QXNNRUhEcl9KNHZVQXliTDVJdVZNNkpHWFRRUTZYTVFNcEtIN0RDcUpCbXV0dlFGUWR6bU5lakdWX21EcFprdVhYeDBkWE5xOUNpbVBCcU93Zw?oc=5",
+     "source": "WSAZ",
+     "published": "2026-11-24T03:55:00+00:00",
+     "summary": "Election worker honored&nbsp;&nbsp;WSAZ",
+     "image": ""
     },
     {
      "title": "Division of Elections certifies Alaska election results",
@@ -248,6 +272,14 @@
      "published": "2026-11-24T03:16:47+00:00",
      "summary": "US President Donald Trump praised Nvidia's decision Monday to reinstate Jensen Huang as chief executive, as Democratic leaders vowed investigations and prominent Republicans questi",
      "image": "https://s.france24.com/media/display/f7e5a9ba-dea0-11f1-b255-29048b396e03/w:1024/p:16x9/2026-11-12T115845Z-1141769569-RC2I6KAPBYZ3-RTRMADP-3-NVIDIA-CEO.jpg"
+    },
+    {
+     "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-24T03:12:26+00:00",
+     "summary": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal&nbsp;&nbsp;The New York Times",
+     "image": ""
     },
     {
      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 as it happened",
@@ -288,43 +320,11 @@
      "published": "2026-11-24T02:02:18+00:00",
      "summary": "Soldotna lawmaker chosen to lead Republican minority in Alaska House after election losses&nbsp;&nbsp;Anchorage Daily News",
      "image": ""
-    },
-    {
-     "title": "EU proposes banning Russian flags at sports events under new sanctions",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVJBNGRCSlpNczVYbU05TWtWRkl5TnRqYTZBU0FlWkRoLXZvUFJrcTBaYVRKMVdqVHhvaGs4WjZCME80b053VEZjX3RvY0dsQWlyT2Y3U29xREtUbDROQVJWX0xZZUNuVXBKTkxEX3RrSklUdEZIQ3NvWWxiMnpWYzNZT016VFlBWVBKcG9ucnBOLWRpRGxkbS13RTIxU0EtYTdZeXZVakJ1Wk54Z2ZDQmJLQms5d9IBtgFBVV95cUxPdUdaOWJieWtpZFBVYmJ0X2VPcVZFN0hfS2huLVhCN0dnTmEzeUtiVEdyX09pTER0YTB3QWFNVTR6Unk1bFc1bDFyYVpsUjdUNnVJRlN1d2cyMUdIOWIwRmZLZmJrS1VGUS1zaWJJekZnczdvbmw2X0lFcWlpbzBUckFIV1ZlOEQ4OHFxcVFwc2NNc05FMEcwbE9CWmF0emQwYlJOQ19VR1I0NmJ2SWxLQWJhclBBdw?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-11-24T01:52:51+00:00",
-     "summary": "EU proposes banning Russian flags at sports events under new sanctions&nbsp;&nbsp;South China Morning Post",
-     "image": ""
-    },
-    {
-     "title": "Venezuela Inches Toward Vote as Key Electoral Reform Lags",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWi1pOEdjRHRLejlObW1KUV9Lc3RNbkNXaU53aGJ6eGowRVNkVzJ5TVdKd1BsYm8yZkEtNVlHaEJGNXh6RnJwVTR3SnFRdWp2d3J3VkxUS1U2NkRJa0Mzci1aWUxJckZya3RjZkJkOFViS2ZpMTUxZzBMbG10UDZJUW9PUkd3SnZzSjd4VEk1VmtIeS1IUzNzTjRXTnY0RmppNkRjNTd6VXRUbzVwLUVqenFaRVg3OWlCcWtZZUln?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-24T01:51:00+00:00",
-     "summary": "Venezuela Inches Toward Vote as Key Electoral Reform Lags&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
-    },
-    {
-     "title": "New York City\u2019s mayor welcomes proposed sanctions on Israeli settlements",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmYxUjVUOF9fWmNEWWRXSXNBOUpGQVB3WXdkVzJ2aUNlOU1YN1ByZTJwWlhyanB6dlZBRkpPY28zNFVnS3NzT1FYZW1RNnlLaFBqdXBramtoVXZzS1Z2SUxBZGVKYWZfaWJLNV9fU3Z2aWVZeHFPb1ZFOTNRLWdQWXppWnpIQy1MMjVhb2s0cVNfU0w4N0ZyeUZ3TldObmxqSnJ6YkJaYnpiSlUxdkFZ?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-24T01:49:40+00:00",
-     "summary": "New York City\u2019s mayor welcomes proposed sanctions on Israeli settlements&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Alaska certifies midterm election, starting the clock for challenges and recounts",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTdGTGRjV0RwRlI3LS1vblBBUW1EQ2FGSzB2dDZjbnNySENKSExnYTZJaWNjWGVMazFncjRUdUhjbEJ1eEMyZ3FnZUZOdHhRRG1IUEdfdmtvTXdpRDdBZFhLU3JWU3VSYWdCYTBra3VUY0hpUEU2X1JTakZwU01VOG51ZG53b3paZXlDdkp2LXEzTnliWUhlcFVIVlFaRWxvbmZJNVFxWnFnNnFrRS01Skt2Z3pxTTloUkluTDdqT1VpbGVuSzVtUjN5aC0wUlV6MUdaSVQ3aw?oc=5",
-     "source": "Alaska Public Media",
-     "published": "2026-11-24T01:39:00+00:00",
-     "summary": "Alaska certifies midterm election, starting the clock for challenges and recounts&nbsp;&nbsp;Alaska Public Media",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T04:01:23.130037+00:00",
+   "fetched_at": "2026-11-24T04:31:27.194261+00:00",
    "stale": false,
    "items": [
     {
