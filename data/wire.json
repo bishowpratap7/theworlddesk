@@ -1,33 +1,97 @@
 {
- "generated_at": "2026-11-24T09:32:13.036794+00:00",
+ "generated_at": "2026-11-24T10:02:15.297656+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T09:32:13.036768+00:00",
+   "fetched_at": "2026-11-24T10:02:15.297630+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Timms says Pip review being published today will \u2018rehumanise\u2019 benefit \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T09:29:10+00:00",
-     "summary": "Some recommendations expected to clash with those of Milburn\u2019s recent report into NeetsUK disability benefit cuts \u2018risk worsening youth destitution\u2019Andy Burnham has announced an am",
-     "image": "https://i.guim.co.uk/img/media/c34b9b11284987598b8659d9195929937166bd23/456_0_4690_3751/master/4690.jpg?width=140&quality=85&auto=format&fit=max&s=c37ff96b3b2dc5433b3eec4f1cd161ce"
+     "title": "Death of Nahel: French police officer who shot dead a teenage boy to stand trial for murder",
+     "url": "https://www.france24.com/en/france/20261124-death-of-nahel-french-police-officer-who-shot-dead-a-teenage-boy-to-stand-trial-for-murder",
+     "source": "\u00a9 Zakaria Abdelkalfi, AFP",
+     "published": "2026-11-24T09:54:58+00:00",
+     "summary": "A French police officer who shot and killed 17-year-old Nahel Merzouk during a traffic stop in June 2023 will stand trial for murder following a ruling by the Versailles appeals co",
+     "image": "https://s.france24.com/media/display/401d335e-e7e0-11f1-b649-13439ca2fe89/w:1024/p:16x9/000-D84V2NQ.jpg"
     },
     {
-     "title": "Nvidia shares fall in premarket trading as Jensen Huang\u2019s return sparks US political backlash \u2013 business live",
-     "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T09:24:12+00:00",
-     "summary": "Republicans and Democrats object over Trump\u2019s role in Jensen Huang\u2019s return as Nvidia CEO, following an affair with an alleged Chinese spyRepublican senators criticize Nvidia\u2019s dec",
-     "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
+     "title": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
+     "url": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T09:53:55+00:00",
+     "summary": "South Korean authorities issue air raid warnings after several Russian jets were on verge of entering its airspace.",
+     "image": ""
+    },
+    {
+     "title": "Oil slicks in the Strait of Hormuz are harming the environment",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6051361/oil-slicks-in-the-strait-of-hormuz-are-harming-the-environment",
+     "source": "NPR",
+     "published": "2026-11-24T09:52:43+00:00",
+     "summary": "More than 600 oil slicks threaten marine life in the Strait of Hormuz as war and tanker attacks turn vital waters into an environmental disaster.",
+     "image": ""
+    },
+    {
+     "title": "Meet Colombia's fuzzy 'water guardians'",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6038806/meet-colombias-fuzzy-water-guardians",
+     "source": "NPR",
+     "published": "2026-11-24T09:52:39+00:00",
+     "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions \u2014 one tiny seedling at a time.",
+     "image": ""
+    },
+    {
+     "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
+     "source": "NPR",
+     "published": "2026-11-24T09:52:03+00:00",
+     "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
+     "image": ""
+    },
+    {
+     "title": "Venezuela's power cuts threaten economic recovery and leave residents sleepless",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6046499/venezuelas-power-cuts-threaten-economic-recovery-and-leave-residents-sleepless",
+     "source": "NPR",
+     "published": "2026-11-24T09:51:59+00:00",
+     "summary": "Despite sitting on some of the world's largest oil reserves, Venezuela can't keep the lights on. While Washington talks up major oil deals, millions of Venezuelans face daily black",
+     "image": ""
+    },
+    {
+     "title": "Russian attack kills two people in Ukraine\u2019s Zaporizhzhia",
+     "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T09:51:26+00:00",
+     "summary": "Attack on city in southeastern Ukraine destroyed a house and damaged a five-storey apartment building, officials said.",
+     "image": ""
     },
     {
      "title": "Russian drone violates Polish airspace days after cruise missiles fell on country \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T09:22:10+00:00",
-     "summary": "Authorities investigating \u2018intentional activity\u2019 amid growing tensions between Moscow and countries on Nato\u2019s eastern flankMeanwhile, Hungary\u2019s prime minister P\u00e9ter Magyar announce",
+     "published": "2026-11-24T09:43:03+00:00",
+     "summary": "Authorities investigating \u2018intentional activity\u2019 amid growing tensions between Moscow and countries on Nato\u2019s eastern flankOver in Sweden, election winner Magdalena Andersson has r",
      "image": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=140&quality=85&auto=format&fit=max&s=6bbf46ffd050ed7fc5ee1aefc86aa377"
+    },
+    {
+     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T09:42:54+00:00",
+     "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
+     "title": "Nvidia shares fall in premarket trading as Jensen Huang\u2019s return sparks US political backlash \u2013 business live",
+     "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T09:39:35+00:00",
+     "summary": "Republicans and Democrats object over Trump\u2019s role in Jensen Huang\u2019s return as Nvidia CEO, following an affair with an alleged Chinese spyRepublican senators criticize Nvidia\u2019s dec",
+     "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
+    },
+    {
+     "title": "Timms says Pip review being published today will \u2018rehumanise\u2019 benefit \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T09:36:51+00:00",
+     "summary": "Some recommendations expected to clash with those of Milburn\u2019s recent report into NeetsUK disability benefit cuts \u2018risk worsening youth destitution\u2019Libby Brooks has a good explaine",
+     "image": "https://i.guim.co.uk/img/media/c34b9b11284987598b8659d9195929937166bd23/456_0_4690_3751/master/4690.jpg?width=140&quality=85&auto=format&fit=max&s=c37ff96b3b2dc5433b3eec4f1cd161ce"
     },
     {
      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
@@ -52,92 +116,84 @@
      "published": "2026-11-24T08:47:59+00:00",
      "summary": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal Follow our Australia politics live blog for latest updatesGet our daily pol",
      "image": "https://i.guim.co.uk/img/media/d9d3d16ddafbbb2d6d25e61b14faa15c1b8edeb6/238_0_6238_4991/master/6238.jpg?width=140&quality=85&auto=format&fit=max&s=b2476a5aef811b2128cada4739be7a15"
-    },
-    {
-     "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
-     "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-24T08:35:41+00:00",
-     "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
-    },
-    {
-     "title": "Trump made up to $15m on Nvidia stock after Huang\u2019s return",
-     "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
-     "source": "The Guardian",
-     "published": "2026-11-24T08:28:00+00:00",
-     "summary": "Asia-Pacific stock markets rise after US president says he \u2018convinced\u2019 chipmaker\u2019s board to reinstate CEOComment: Nvidia\u2019s humiliated board should resign out of embarrassmentBusine",
-     "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c"
-    },
-    {
-     "title": "Leader of India\u2019s Cockroach movement says he was stopped from boarding flight to UK",
-     "url": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
-     "source": "The Guardian",
-     "published": "2026-11-24T08:24:26+00:00",
-     "summary": "Saurav Das was due to give talks at UK universities on protest movement but says \u2018coward government\u2019 prevented him flyingA leader of India\u2019s youth-led Cockroach movement has said h",
-     "image": "https://i.guim.co.uk/img/media/9f22a19d170e05a9273e32830ab1c24735bb14bb/424_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=5ec4c8cf92a7c58f636e6b61d6ef1f41"
-    },
-    {
-     "title": "US army says detonation of lead explosives in Iowa will proceed",
-     "url": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T08:24:08+00:00",
-     "summary": "Public outcry led to a legal battle when details of the plans to conduct two controlled detonations surfaced.",
-     "image": ""
-    },
-    {
-     "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
-     "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T08:21:41+00:00",
-     "summary": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.",
-     "image": ""
-    },
-    {
-     "title": "Moment Mexican troops captured cartel leader \u2018El Chapo Isidro\u2019",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/moment-mexican-troops-captured-cartel-leader-el-chapo?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T08:17:26+00:00",
-     "summary": "Moment Mexican troops captured cartel leader \u2018El Chapo Isidro\u2019",
-     "image": ""
-    },
-    {
-     "title": "Proposed Beatles attraction on Savile Row faces rooftop gigs ban",
-     "url": "https://www.theguardian.com/music/2026/nov/24/beatles-attraction-savile-row-live-music-ban-westminster-council",
-     "source": "The Guardian",
-     "published": "2026-11-24T08:00:11+00:00",
-     "summary": "Westminster council to vote on restrictions at planned tourist venue and site of band\u2019s final public concertThe Beatles stunned onlookers when they pitched up on the rooftop of 3 S",
-     "image": "https://i.guim.co.uk/img/media/4a18877293afdaf5a165edfd4e26384248d1cf11/0_455_4318_3453/master/4318.jpg?width=140&quality=85&auto=format&fit=max&s=0a9d7dd3d3cb3dd96f8b127bd93502e7"
-    },
-    {
-     "title": "Trump, Nvidia and power: could we be nearing the end of tech\u2019s Gilded Age?",
-     "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
-     "source": "The Guardian",
-     "published": "2026-11-24T08:00:11+00:00",
-     "summary": "Oligarchs believe they\u2019re untouchable \u2013 the blue wave offers hope that the rampant corruption of the Trump era may soon be overOne can imagine high-fives all around Nvidia\u2019s boardr",
-     "image": "https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=867721205df12e4dff5d79250316677f"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T09:32:13.036782+00:00",
+   "fetched_at": "2026-11-24T10:02:15.297644+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Nvidia shares fall in premarket trading as Jensen Huang\u2019s return sparks US political backlash \u2013 business live",
-     "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-24T09:24:12+00:00",
-     "summary": "Republicans and Democrats object over Trump\u2019s role in Jensen Huang\u2019s return as Nvidia CEO, following an affair with an alleged Chinese spyRepublican senators criticize Nvidia\u2019s dec",
-     "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
+     "title": "Russian attack kills two people in Ukraine\u2019s Zaporizhzhia",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhQTzZUNTFmWlZvRU9kMmJPRXUyYjVlM3V1Y0Q5SU1DbGRMdWJWdS1ZazhfQnNlanI2T3dDbDJhNkltZmNSUF9nSkFHX3JBOXdIYnFhMjdvM2NjTDhZQTVMUktTTVh6ODE1SDJ1b0xGTG1EU0huWnhSYWwwWEhLWnJwMER3ZGhsalE5ajk3WVBCTHhvcERySGFPazhnd0nSAaQBQVVfeXFMTjAyLVJYTzNEWkVPLTctVnk2Znl5TEJQaF9WSUhmNjVvSXg4UUdKS1JZc05RZE1JVlVIVkl4aVJxT0NuY1pFOUIyQ05YVG9zMHNISzd6NWRqeGZmLVg3VkxFNGlBWThZM2hlYmxuTmxTaW1MZGZsNFVZQl9tOTRjLXMwcERzTDBDd2JIdlViRlM5TWpZU1pmUGVJa1RpN25KYVhVQ3k?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T09:56:15+00:00",
+     "summary": "Russian attack kills two people in Ukraine\u2019s Zaporizhzhia&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
+     "url": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T09:53:55+00:00",
+     "summary": "South Korean authorities issue air raid warnings after several Russian jets were on verge of entering its airspace.",
+     "image": ""
+    },
+    {
+     "title": "Oil slicks in the Strait of Hormuz are harming the environment",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6051361/oil-slicks-in-the-strait-of-hormuz-are-harming-the-environment",
+     "source": "NPR",
+     "published": "2026-11-24T09:52:43+00:00",
+     "summary": "More than 600 oil slicks threaten marine life in the Strait of Hormuz as war and tanker attacks turn vital waters into an environmental disaster.",
+     "image": ""
+    },
+    {
+     "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
+     "source": "NPR",
+     "published": "2026-11-24T09:52:03+00:00",
+     "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
+     "image": ""
     },
     {
      "title": "Russian drone violates Polish airspace days after cruise missiles fell on country \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-24T09:22:10+00:00",
-     "summary": "Authorities investigating \u2018intentional activity\u2019 amid growing tensions between Moscow and countries on Nato\u2019s eastern flankMeanwhile, Hungary\u2019s prime minister P\u00e9ter Magyar announce",
+     "published": "2026-11-24T09:43:03+00:00",
+     "summary": "Authorities investigating \u2018intentional activity\u2019 amid growing tensions between Moscow and countries on Nato\u2019s eastern flankOver in Sweden, election winner Magdalena Andersson has r",
      "image": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=140&quality=85&auto=format&fit=max&s=6bbf46ffd050ed7fc5ee1aefc86aa377"
+    },
+    {
+     "title": "Nvidia shares fall in premarket trading as Jensen Huang\u2019s return sparks US political backlash \u2013 business live",
+     "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T09:39:35+00:00",
+     "summary": "Republicans and Democrats object over Trump\u2019s role in Jensen Huang\u2019s return as Nvidia CEO, following an affair with an alleged Chinese spyRepublican senators criticize Nvidia\u2019s dec",
+     "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
+    },
+    {
+     "title": "A peacemaker with a billion-dollar business: how Trump\u2019s son-in-law Kushner became one of the key negotiators on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTDVJSWNpaWF3T0xLbjZ2dkJUQWN4QkxoTzU1bGhQNDVSMkNwS0xKZ2p2Q2ZHcld0c1pCMlhNU2pHWGlyM1pCS3d6ak9RUXhScncxVkZpOFVHZWs0WGhleC1TdUM3dEs1aWxRamxDYkhid0VQajRmeXBhbmdiRmtWRkRacXFiSHlaOUk2ZXJ0NENMZ2x0aUZrU3lFTExBWUFOanExc29tcnhtSEVXVk5pVmRWUUNNanZMbGtLdFFERHBidmVseHp6NTZlbHVHUXlsRy03cHNYZDTSAdcBQVVfeXFMTzlEMU9TMTg2aU5rX3FHNHBienFJNHp4dmV2bGhLWmtQX3gxMDg3M3NoMlduVExmRWRWOHVyZkVSZzBFVTA0Q2xWeVVzVl9HMk5oRGdrWDQ1ak81UXhYZldyczdQMjZ0YlFPSE9URjR4RDd3Z01KS3hSN0RKNk9LSGIzODUwWVFPRWdYU21aVDl6MTd5RE45MlZpOHkzTzY3Rm5OSmZ3c0RSRTlZVGFOV2ZXdUlORkpQMG9sVG42ZTM3cnRyVTlLWkFGa28tSU9lV2dVdnFVYk0?oc=5",
+     "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "published": "2026-11-24T09:37:16+00:00",
+     "summary": "A peacemaker with a billion-dollar business: how Trump\u2019s son-in-law Kushner became one of the key negotiators on Ukraine&nbsp;&nbsp;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+     "image": ""
+    },
+    {
+     "title": "Ukraine says 2 killed, more than 40 injured in overnight Russian strike in city of Zaporizhzhia",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWdKNUxtSUlKOEFsS2NMazlWUG1GWmRMc0RuM2xMMFowZjlFelZwZVoxak5aaVhiRUhCRmJfcnhobU9HZlFoNHlOVDVuUF9nR3RtOVp2OUF3U05aczI2Q2lSOXhvTGFVVl9YU1ZkbkRkbEEyd2dPZjdTVnRubTBDTEtuQVZQZEM3UzZ3LUFuMEJfRUtKbzhRQ0VBN3dSM3gtYUdhcnNsU2ltcHF4Z09NNWRkOFNISkY2cXQ3bUtXeXY0bzZPNlNEa1FJTHpwMUtIVTVRU2hra2dFQQ?oc=5",
+     "source": "Anadolu Ajans\u0131",
+     "published": "2026-11-24T09:34:26+00:00",
+     "summary": "Ukraine says 2 killed, more than 40 injured in overnight Russian strike in city of Zaporizhzhia&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "'Big prize\u2019 is not a ceasefire, but \u2018resetting relations\u2019 between Russia and Europe \u2013 Kushner",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2xkakREWHJMYzhBQ1QyNGxsbmplQjM2ekl0UFRGYUlVNzB3dnJFR0xheE5SYy1BVTVTNnU2YVh4eWhybTNjUzRxYWF5WjNIRFJxdEN5WWpYQzZnTGZMYlFvNmpCa1dtLVFweE9XejVrUTZLbHVFSWpwVE93R3c3UGItQzJuVUF5MlVEMGViT2dwbWNSYkRyUWpKME5BU2k4SzV4azlpTldKb1R5N1NqSmp1RVJQTDZRZXJXOWZXZ9IBuwFBVV95cUxORWNzekZjVzAxQzJhQUwxR1ZSR2c2ajRFbGJfc29fQl9zc3RzcGFRRzBNcGh3N2JJTVQ4VXFJd05FbURqbUV2endQNU9WNXF4aVByaDdqMmZ1aUpmWm1FOTBucTdPcy10YnN5NU8xWHg2cUthX2VwM3dLeHlGbmJaWTBQZzNWQkNneUhxRzhseGctRjhwUTJ4NHNhcFZyYV96NllkTG9UMHQ5NmYzT3k2S2hjU1lNb1c1N2ZJ?oc=5",
+     "source": "The New Voice of Ukraine",
+     "published": "2026-11-24T09:15:00+00:00",
+     "summary": "'Big prize\u2019 is not a ceasefire, but \u2018resetting relations\u2019 between Russia and Europe \u2013 Kushner&nbsp;&nbsp;The New Voice of Ukraine",
+     "image": ""
     },
     {
      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
@@ -162,69 +218,37 @@
      "published": "2026-11-24T08:24:26+00:00",
      "summary": "Saurav Das was due to give talks at UK universities on protest movement but says \u2018coward government\u2019 prevented him flyingA leader of India\u2019s youth-led Cockroach movement has said h",
      "image": "https://i.guim.co.uk/img/media/9f22a19d170e05a9273e32830ab1c24735bb14bb/424_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=5ec4c8cf92a7c58f636e6b61d6ef1f41"
-    },
-    {
-     "title": "Russia lodges formal request over Destinus staff in Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYjNQVVYxUWtDZHhKZF90ZWFJbEdKRWswU0RLM0ZpMkNCZjVIa2M3UWM0UkhBUTRGNWRaVGZXTXRCRjNqTXlQV2dob3VqdWdyQ2N6YS1jMzhuMjlFSDh0WWR1Rk93Mng1NG12aTk3d2MwNmtCSGN0ZmlVQ19vUHlPZHIzcXJGeU9iUjA0d1RTbXAxTmRhTllnZWFlSW1kQQ?oc=5",
-     "source": "DutchNews.nl",
-     "published": "2026-11-24T08:24:22+00:00",
-     "summary": "Russia lodges formal request over Destinus staff in Ukraine war&nbsp;&nbsp;DutchNews.nl",
-     "image": ""
-    },
-    {
-     "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
-     "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T08:21:41+00:00",
-     "summary": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.",
-     "image": ""
-    },
-    {
-     "title": "Moment Mexican troops captured cartel leader \u2018El Chapo Isidro\u2019",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/moment-mexican-troops-captured-cartel-leader-el-chapo?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T08:17:26+00:00",
-     "summary": "Moment Mexican troops captured cartel leader \u2018El Chapo Isidro\u2019",
-     "image": ""
-    },
-    {
-     "title": "The Ukraine-Russia war is escalating \u2013 and it will go global unless Europe speaks with one voice | Simon Tisdall",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR04wVEpvVktIXzloaDJpTndrT2N4ZndnSVlheldaWUx6VUhtbnQzSVRSM2pWZV8tOHUyV2o5Mm56VDBQNG8xS25JTV80OWh6UFNNdFNHODd3NFBfZG8wTi1PcUQtOHp0SGJJZVU3RUhtSkI0YlhkLUIyLXotaU1rakhLMl93YWxsT1E1eS1QUkNWUzhNOXFtRm1wWGdMN2duX3RpanNn?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-24T08:02:00+00:00",
-     "summary": "The Ukraine-Russia war is escalating \u2013 and it will go global unless Europe speaks with one voice | Simon Tisdall&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
-     "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T07:52:44+00:00",
-     "summary": "WFP Executive Director Luke Lindberg decries \u2018political problem\u2019 as grain is &#039;not reaching the people who need it&#039;.",
-     "image": ""
-    },
-    {
-     "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcV9YNTNidTEzdmVOUVBFS2d2QXBsZHZsYVpWR3JCdUxjOTBiNWwwT3JIV3E2cWdEX2JTN1dSb2lPeVQ4eGtuX1o5MnVQQXNkbGpYd2NxaFEtXzFLWDlIVHFYeHhNZlJPSEsxaGJiWGpBRjhVbHdwNExJY3EwWmNTUGlGUjRPYVUwQ1dSVDdaSlJSaUVHbFdPOEZiQzQ0Njl3MF8zbE56U185UzU0cUE?oc=5",
-     "source": "Big Rapids Pioneer",
-     "published": "2026-11-24T07:51:51+00:00",
-     "summary": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war&nbsp;&nbsp;Big Rapids Pioneer",
-     "image": ""
-    },
-    {
-     "title": "UN Warns Ukraine War, El Ni\u00f1o Risk Global Food Crises",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMjFvU3p0V19MeFlNdUZoNkRnd0dwSTJCVHZaQkxteXpzaWlfaU5pX2cyQjBRZmQySm1faDBTbkxsdUxxSV9iWFhqc2dpN2VoY255djlMZDQ0Qk0wOFEwZUdQdEd1b3lhRHNrVlJSd2l0TjFjUGRlMEtJVDhIUVBYTFJqSG0?oc=5",
-     "source": "\uc870\uc120\uc77c\ubcf4",
-     "published": "2026-11-24T07:51:20+00:00",
-     "summary": "UN Warns Ukraine War, El Ni\u00f1o Risk Global Food Crises&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T09:32:13.036785+00:00",
+   "fetched_at": "2026-11-24T10:02:15.297647+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-24T09:42:54+00:00",
+     "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
+     "title": "Watch Spanish Election: Pedro Sanchez Is Asking Voters to Back Him Again",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjVMMTdISG9tRFlRTmFFSkpSTG1Fb2FUY3VQeVRyZXNIU2dFT0h1UWpBVEJyMGZGY21sMHd5RkJCa2hXTV9obDIxaDNrelVSR2xUTUl3MGJCWkNSQWdRbGFzM2VuSllzQVZhS0JCRS01N0phanJpcExyRE9EaDZnVC1BeTNJb2FicEtwWExQNlVYYWxBc3ZkUS1lWHJoZHdrdWtuNm5PSmE?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-24T09:40:21+00:00",
+     "summary": "Watch Spanish Election: Pedro Sanchez Is Asking Voters to Back Him Again&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "Taxing the Wealthy Has Become an Election Rallying Cry in Europe",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSlBsOUM3cGhsVy1EOUEtaU1XNmxCVUFFRks0c2h2TFdpSWRzWmxpY1o5ZU5lYkh6WV9oeElHSkpYSEUtbjd2bjQ2V3BFRGpVUnN3MElBanh0QzZYWEVoMHdWX3JCaXBzaVFOc1JiUmd6UmhjN0pXMExLdmJmMTByekpfSmIyN09jTjdRcUhneFJZZVRRLUhnb2pYSkh3akZiYWVvQzF6R0dzWUhQYXpVMXRDMFZZZw?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-24T09:30:56+00:00",
+     "summary": "Taxing the Wealthy Has Become an Election Rallying Cry in Europe&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
     {
      "title": "Commentary: This was a healthcare election \u2014 and the polling proves it",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVJob0pEdEJFcWdtNUNRdkVRRXNuNmpJLWIyOXpWS2NLdzlwV2FjVzd3c1R1RDF1VmJWSnVpeXYzTk1pYndzc29BTlRqRjh0cjg0Z2wyUHZqYmNiLXg4WnB0RW94Sll4OW11ZWhLZGp1aUdQSGQ1ZEx3Qm95bDliNkNfQ0RVN3gyUi13dWZVT0U0ckd3SEFpQmZtY01LUUE?oc=5",
@@ -247,6 +271,22 @@
      "source": "The Arkansas Democrat-Gazette",
      "published": "2026-11-24T08:58:00+00:00",
      "summary": "Memo to Democrats: Don\u2019t overplay election wins too soon&nbsp;&nbsp;The Arkansas Democrat-Gazette",
+     "image": ""
+    },
+    {
+     "title": "ICJ Ruling: UK formally recognises Rohingya genocide and imposes new sanctions on Myanmar military",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ253OElMT0EwYWNLakZiU2pvaE5Db1ZycXp2NWZtOUNLV0x5YWtJN0k5WTJRR3VJV0UzYjctdHAtSXBocVJvQVhhRVZsQnZyVTlIV0h0QnJzSjhZU0l1bUNxbExuQ2NTMWNGT0xXVjNUZ2t4anhXbUNyQUZocnBWTDR3SXgzNGZMSzRqOElaSXVzc2t6MXpsSU01U1g2MURERU1uZ212ckJvdjJnenA5dmRvamdxZXFyR0REbFExcnVXVVY5VWFrZ1NYX0dsZW93VVZuQ21xOGI2QQ?oc=5",
+     "source": "Open Access Government",
+     "published": "2026-11-24T08:53:01+00:00",
+     "summary": "ICJ Ruling: UK formally recognises Rohingya genocide and imposes new sanctions on Myanmar military&nbsp;&nbsp;Open Access Government",
+     "image": ""
+    },
+    {
+     "title": "Housing, immigration and polarisation are key Spanish election issues",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGdvZEdIZkZVY09CQVk4amVLbXBIZWswZXVzX2RKVDlWaHhTVV9rSWMtanBRaXV0dU5GMVlmR3J2Z1VpRGU2MjFiX0pwbkxzV1FmMUtaZ1g3R3M0T2x3S01pb2plZTRpRExQUU5aR1VOUUdGRzNxRW1GZWoyRVZJc1lTVjZmSTlpa3lDMmQzZXdiRm05TXRQZXYzMy1NakkxTjFhdS1Qa2VCWkRaTVFKeEU4aVdvUkE1MEE?oc=5",
+     "source": "Euronews.com",
+     "published": "2026-11-24T08:48:15+00:00",
+     "summary": "Housing, immigration and polarisation are key Spanish election issues&nbsp;&nbsp;Euronews.com",
      "image": ""
     },
     {
@@ -274,57 +314,17 @@
      "image": ""
     },
     {
-     "title": "US policy on Taiwan unchanged despite Xinhua\u2019s Trump claim: MOFA",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CUThXbk5SMm9QOVc1U1duQ2k0MVk1a04zaF9QMnRieHNNaWdxYjRMRTFHTHgwcnlIOWpXcm4yeHZkTnMtdlgzX0pfM01EYjNNbklQVzQ3VUV6OThFTUZ2R3IxZ0h2MGx1cHFRVlBrNjBQYlZ3Z0Nzdm9n?oc=5",
-     "source": "Taipei Times",
-     "published": "2026-11-24T07:46:38+00:00",
-     "summary": "US policy on Taiwan unchanged despite Xinhua\u2019s Trump claim: MOFA&nbsp;&nbsp;Taipei Times",
-     "image": ""
-    },
-    {
-     "title": "Campaigners urge Albanese government to reject \u2018climate bomb\u2019 coalmine expansion after Cop31",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
-     "source": "The Guardian",
-     "published": "2026-11-24T07:42:57+00:00",
-     "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burnedSign up for climate and environment editor Adam Morton\u2019s ",
-     "image": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=6c0b36383d375b7eaee48869bbc47198"
-    },
-    {
-     "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
-     "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T07:35:02+00:00",
-     "summary": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
-     "image": ""
-    },
-    {
-     "title": "\u2018State-sanctioned theft\u2019: Australian news outlets demand content is protected from AI scraping \u2013 as it happened",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-24T07:21:53+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/c73ffa324954c1636a97c18c28f0e4a6d1b1dbdd/787_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=25def7de46c964ccef14452559b97d05"
-    },
-    {
-     "title": "Spain\u2019s election promises collide with a shrinking fiscal margin",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0dLajdMeWhubFBFNU9QMF81X1BSRnpnNWJ5VDFFbFRPUF9ReXlEX3ZqcmRrWnlnNUJhOGQ2SWJSSkIySm91cXNiaFAwM0U5bklhTzdMYVRuNDJhdDhSMGZMT0pYVVRlSEJYa0FnaEh5M3hzRXd2RlRjSzk2Q2xBdE5FWkxiV08xOXdWMmU4NFFfRDMwX2UwcWU5LW04TEpkRUMwM240bFI?oc=5",
-     "source": "ing think",
-     "published": "2026-11-24T07:17:51+00:00",
-     "summary": "Spain\u2019s election promises collide with a shrinking fiscal margin&nbsp;&nbsp;ing think",
-     "image": ""
-    },
-    {
-     "title": "Great-Power Diplomacy: US-China Tensions and Their Implications for the Indo-Pacific",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1JwbGsweE5iVGhUUmZPQWp5YWZ1ZXpTdk8zdjV6M2R0QURKejh4MGRBRlpST01TUHdpQWRIaXowbzdNVTdRWnpEbGUyOEo3ZlVJU2pTV2lGMVlqSEJwajB6VG5JQWhHNVVDaUlubDRUczhrUWZia2xkMlBWOFp1ZnIxcXZVNkF2cWpNT3R1VmkyZ0dEd3pF?oc=5",
-     "source": "JAPAN Forward",
-     "published": "2026-11-24T07:14:09+00:00",
-     "summary": "Great-Power Diplomacy: US-China Tensions and Their Implications for the Indo-Pacific&nbsp;&nbsp;JAPAN Forward",
+     "title": "US Sanctions 29 individuals and Entities Linked to the Islamic Republic",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlJpX1h1Y2M4NkNnYkZ5eHcwUFhDWTdROEJ2NExtZjZFOGhlRlBtUzVvWWphRU5pN3otZ3VtQ0JDbGxSaTRWNDhfVk8tZ19LeUl1X2pZUTZzSGkzN1RXM1pFUkFiU1F1cGp2R2EyM09iZjNhNnFiZlZsZDhLVnJ3R296b2pGMjZJN1prOTlKM3ZLS2Z6RFFEcGZldUxkSUJHUkZWM0lIMExmRGZ1?oc=5",
+     "source": "IranWire",
+     "published": "2026-11-24T07:52:25+00:00",
+     "summary": "US Sanctions 29 individuals and Entities Linked to the Islamic Republic&nbsp;&nbsp;IranWire",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T09:32:13.036787+00:00",
+   "fetched_at": "2026-11-24T10:02:15.297649+00:00",
    "stale": false,
    "items": [
     {
