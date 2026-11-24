@@ -1,42 +1,10 @@
 {
- "generated_at": "2026-11-24T06:01:39.581149+00:00",
+ "generated_at": "2026-11-24T06:01:54.552727+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-24T06:01:39.581117+00:00",
+   "fetched_at": "2026-11-24T06:01:54.552696+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI \u2018theft\u2019",
-     "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
-     "source": "The Guardian",
-     "published": "2026-11-24T05:58:15+00:00",
-     "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companiesKate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 art",
-     "image": "https://i.guim.co.uk/img/media/21e4f2131883854613075e2b5a9adea78afe7c72/444_29_1810_1449/master/1810.jpg?width=140&quality=85&auto=format&fit=max&s=baf8b4657b84add34bc31d8596e73b73"
-    },
-    {
-     "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta\u2019s \u2018atrocities\u2019",
-     "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
-     "source": "The Guardian",
-     "published": "2026-11-24T05:54:14+00:00",
-     "summary": "Prime minister Anwar Ibrahim\u2019s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migr",
-     "image": "https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=140&quality=85&auto=format&fit=max&s=2449c5f8eaadceba9e89b9521d583232"
-    },
-    {
-     "title": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-24T05:51:48+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/d9986cfb67bf7d66b96cd3b14d5e4bdb388902ba/558_0_5575_4460/master/5575.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3d6c247e3a8c6043a10c696f48094"
-    },
-    {
-     "title": "Beau Lamarre-Condon could have told crown \u2018do your worst\u2019 and not given evidence, defence says",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-24T05:49:34+00:00",
-     "summary": "Former police officer has pleaded not guilty to murders of Jesse Baird and Luke Davies in Baird\u2019s Paddington home in February 2024Get our breaking news email, free app or daily new",
-     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/195_219_2439_1952/master/2439.jpg?width=140&quality=85&auto=format&fit=max&s=9b9bab7eb46eaec2cfbe9a58a146111f"
-    },
     {
      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
@@ -44,6 +12,14 @@
      "published": "2026-11-24T05:33:07+00:00",
      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg"
+    },
+    {
+     "title": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-24T05:22:20+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
+     "image": "https://i.guim.co.uk/img/media/d9986cfb67bf7d66b96cd3b14d5e4bdb388902ba/558_0_5575_4460/master/5575.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3d6c247e3a8c6043a10c696f48094"
     },
     {
      "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
@@ -116,21 +92,37 @@
      "published": "2026-11-24T04:03:16+00:00",
      "summary": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal Follow our Australia politics live blog for latest updatesGet our daily pol",
      "image": "https://i.guim.co.uk/img/media/d9d3d16ddafbbb2d6d25e61b14faa15c1b8edeb6/238_0_6238_4991/master/6238.jpg?width=140&quality=85&auto=format&fit=max&s=b2476a5aef811b2128cada4739be7a15"
+    },
+    {
+     "title": "Mexico to try \u2018El Chapo Isidro\u2019 despite US extradition request",
+     "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T03:20:55+00:00",
+     "summary": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
+     "image": ""
+    },
+    {
+     "title": "Jensen Huang's surprise return to Nvidia sparks mixed reactions in Washington",
+     "url": "https://www.france24.com/en/video/20261124-jensen-huang-s-surprise-return-to-nvidia-sparks-mixed-reactions-in-washington",
+     "source": "France 24",
+     "published": "2026-11-24T03:16:47+00:00",
+     "summary": "US President Donald Trump praised Nvidia's decision Monday to reinstate Jensen Huang as chief executive, as Democratic leaders vowed investigations and prominent Republicans questi",
+     "image": "https://s.france24.com/media/display/f7e5a9ba-dea0-11f1-b255-29048b396e03/w:1024/p:16x9/2026-11-12T115845Z-1141769569-RC2I6KAPBYZ3-RTRMADP-3-NVIDIA-CEO.jpg"
+    },
+    {
+     "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang\u2019s reinstatement \u2013 as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-24T03:04:41+00:00",
+     "summary": "This live blog is now closed.Jensen Huang reinstated as Nvidia CEO after Trump intervenesSign up to the Breaking News US emailNvidia\u2019s shares have surged by 31% at the start of tra",
+     "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-24T06:01:39.581133+00:00",
+   "fetched_at": "2026-11-24T06:01:54.552712+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta\u2019s \u2018atrocities\u2019",
-     "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
-     "source": "The Guardian",
-     "published": "2026-11-24T05:54:14+00:00",
-     "summary": "Prime minister Anwar Ibrahim\u2019s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migr",
-     "image": "https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=140&quality=85&auto=format&fit=max&s=2449c5f8eaadceba9e89b9521d583232"
-    },
     {
      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia \u2014 and Pleas to Surrender",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFhSMWNKOHQyYm5UamVCemJkVFRTN18zam5HOHEwVmdoUkF1elBZLTNqWElfMVJxdVl3cHZmeC1XZmRxeEFfb3h2bzBOOTdKQ3lrcjExTlJBYnZodnlaM3pUQnRsYWZxaDN5Zm1NcVd0UHU0VlpsbjV3UXpCdGJ3NWRzM0RMbkV5TEQ4UGFSYw?oc=5",
@@ -218,29 +210,21 @@
      "published": "2026-11-24T03:00:00+00:00",
      "summary": "Peace in Ukraine won\u2019t end Russian sabotage in Europe, Poland warns&nbsp;&nbsp;POLITICO.eu",
      "image": ""
+    },
+    {
+     "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-24T02:58:51+00:00",
+     "summary": "NATO calls urgent meeting as string of incidents escalates Russia tensions&nbsp;&nbsp;The Washington Post",
+     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-24T06:01:39.581137+00:00",
+   "fetched_at": "2026-11-24T06:01:54.552715+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI \u2018theft\u2019",
-     "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
-     "source": "The Guardian",
-     "published": "2026-11-24T05:58:15+00:00",
-     "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companiesKate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 art",
-     "image": "https://i.guim.co.uk/img/media/21e4f2131883854613075e2b5a9adea78afe7c72/444_29_1810_1449/master/1810.jpg?width=140&quality=85&auto=format&fit=max&s=baf8b4657b84add34bc31d8596e73b73"
-    },
-    {
-     "title": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-24T05:51:48+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
-     "image": "https://i.guim.co.uk/img/media/d9986cfb67bf7d66b96cd3b14d5e4bdb388902ba/558_0_5575_4460/master/5575.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3d6c247e3a8c6043a10c696f48094"
-    },
     {
      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
@@ -272,6 +256,14 @@
      "published": "2026-11-24T05:32:38+00:00",
      "summary": "Meet the major players in Spain's general election&nbsp;&nbsp;The Washington Post",
      "image": ""
+    },
+    {
+     "title": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-24T05:22:20+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won\u2019t be a \u201cslash and burn\u201d budget update.Unlike ",
+     "image": "https://i.guim.co.uk/img/media/d9986cfb67bf7d66b96cd3b14d5e4bdb388902ba/558_0_5575_4460/master/5575.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3d6c247e3a8c6043a10c696f48094"
     },
     {
      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
@@ -320,11 +312,19 @@
      "published": "2026-11-24T04:35:37+00:00",
      "summary": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
      "image": ""
+    },
+    {
+     "title": "93-year-old election worker honored for decades of service",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX05DQmVtUllVZ211d05nODg2VnB5N0RoWk1OUExsMjlVSkNla2ZRRkFtemg0ZUc3M0U4dzBMNU9SN0JQcV9BeHdkMGVVSmdhNEpKVHVtWklETE04S2t2eEx0MjJsbHMyMFNpM3Voc2RuM0ZaaW9UOTgzRTg2S0NYdlhXc2twZ19mUndYSdIBoAFBVV95cUxOMTJiUUhOR3dzZGwtOG5Ea05fRm84aFMtOXFXcl8tZnFraXNUX00zV2lOVzNPRFljaHdyNkdQcmJpUlhJSjhYSVV2Q2VORms3YjN1TEdiYWVwTFhTVFVyQUROS2J2TS1mQUxkVmZQemRsc3RHRzZ2WHJuSEFucGR3UE9Hc2NMQlNyOXVWODNhdjVCM25pQ2x2R2lzcFhFRjQ0?oc=5",
+     "source": "WSAZ",
+     "published": "2026-11-24T04:04:00+00:00",
+     "summary": "93-year-old election worker honored for decades of service&nbsp;&nbsp;WSAZ",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-24T06:01:39.581140+00:00",
+   "fetched_at": "2026-11-24T06:01:54.552717+00:00",
    "stale": false,
    "items": [
     {
