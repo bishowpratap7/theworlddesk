@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T12:06:51.975284+00:00",
+ "generated_at": "2026-11-25T12:07:03.177492+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-25T12:06:51.975255+00:00",
+   "fetched_at": "2026-11-25T12:07:03.177463+00:00",
    "stale": false,
    "items": [
     {
@@ -44,6 +44,14 @@
      "published": "2026-11-25T11:50:50+00:00",
      "summary": "Flames seen engulfing a house in Sudan\u2019s Blue Nile state, following a large-scale drone strike carried out by the RSF.",
      "image": ""
+    },
+    {
+     "title": "\u2018A symbol of hope\u2019: Pakistan celebrates as astronaut enters orbit",
+     "url": "https://www.france24.com/en/video/20261125-a-symbol-of-hope-pakistan-celebrates-as-astronaut-enters-orbit",
+     "source": "France 24",
+     "published": "2026-11-25T11:48:37+00:00",
+     "summary": "Muhammad Zeeshan Ali has become the first Pakistani to reach orbit after blasting off on board a Chinese mission to the country\u2019s Tiangong space station on Tuesday. The Pakistan Ai",
+     "image": "https://s.france24.com/media/display/77194542-e8c5-11f1-ac34-29d00e23de9a/w:1024/p:16x9/Pakistan-astronaut-thumbnail.jpg"
     },
     {
      "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
@@ -108,19 +116,11 @@
      "published": "2026-11-25T11:29:40+00:00",
      "summary": "\u00c1brego Garc\u00eda's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
-    },
-    {
-     "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
-     "url": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T11:29:38+00:00",
-     "summary": "Jude Bellingham admits he had &#039;no idea&#039; what he&#039;d done after scoring a goal that drew comparisons with Zinedine Zidane.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-25T12:06:51.975268+00:00",
+   "fetched_at": "2026-11-25T12:07:03.177476+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-25T12:06:51.975272+00:00",
+   "fetched_at": "2026-11-25T12:07:03.177478+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-25T12:06:51.975275+00:00",
+   "fetched_at": "2026-11-25T12:07:03.177480+00:00",
    "stale": false,
    "items": [
     {
