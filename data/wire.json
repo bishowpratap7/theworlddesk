@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T02:05:05.218014+00:00",
+ "generated_at": "2026-11-25T02:05:19.868770+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-25T02:05:05.217988+00:00",
+   "fetched_at": "2026-11-25T02:05:19.868736+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-25T02:05:05.218002+00:00",
+   "fetched_at": "2026-11-25T02:05:19.868746+00:00",
    "stale": false,
    "items": [
     {
@@ -161,6 +161,14 @@
      "source": "Al Jazeera",
      "published": "2026-11-25T01:14:22+00:00",
      "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+     "image": ""
+    },
+    {
+     "title": "Ukrainian drones reportedly strike 2 Russian oil refineries in massive attack",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUxOaThiVDlHRFdTUnBOQU1yUHBiMFdodnVwbWVHdEJpSV9iRV9iZHpZa29tOWR3RHZaSy1uSG11b0p6SG1lMmxtaHFuMm40YzgxTGRCQm5McmVnZ1V6cUpfUWRzZUJBSVd3M3AyMEtVWGE0RXBJTUxtcGFLYmZ2RkhXYm1CakMzcUx4RVJuZjdfQkZ6NDNIcnpIZ0licGVvN2tZNlA1QQ?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-25T01:08:12+00:00",
+     "summary": "Ukrainian drones reportedly strike 2 Russian oil refineries in massive attack&nbsp;&nbsp;The Kyiv Independent",
      "image": ""
     },
     {
@@ -210,19 +218,11 @@
      "published": "2026-11-25T00:00:00+00:00",
      "summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
      "image": ""
-    },
-    {
-     "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-     "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T23:39:13+00:00",
-     "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-25T02:05:05.218005+00:00",
+   "fetched_at": "2026-11-25T02:05:19.868749+00:00",
    "stale": false,
    "items": [
     {
@@ -324,7 +324,7 @@
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-25T02:05:05.218006+00:00",
+   "fetched_at": "2026-11-25T02:05:19.868751+00:00",
    "stale": false,
    "items": [
     {
