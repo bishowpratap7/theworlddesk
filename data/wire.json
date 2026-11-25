@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-25T02:35:24.931706+00:00",
+ "generated_at": "2026-11-25T03:05:28.865766+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-25T02:35:24.931686+00:00",
+   "fetched_at": "2026-11-25T03:05:28.865743+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "The Russian army\u2019s secret death toll \u2013 podcast",
+     "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
+     "source": "The Guardian",
+     "published": "2026-11-25T03:00:03+00:00",
+     "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions",
+     "image": "https://i.guim.co.uk/img/media/73eb1f79e1f589dbc01f5457078faa6090ee6ee2/17_0_3549_2838/master/3549.jpg?width=140&quality=85&auto=format&fit=max&s=8f2b91771886bc5fe0b2dd8f2686ebf1"
+    },
+    {
+     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-25T02:59:27+00:00",
+     "summary": "The verdict follows a months-long trial in New York.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+     "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO\u2019s planned Senate committee testimony \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-25T02:58:18+00:00",
+     "summary": "President took credit for convincing Nvidia\u2019s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soaredSign up for t",
+     "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c"
+    },
+    {
+     "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
+     "url": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
+     "source": "The Guardian",
+     "published": "2026-11-25T02:31:42+00:00",
+     "summary": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith countyAl Gore, who started his career as a journalist, is returning to the indust",
+     "image": "https://i.guim.co.uk/img/media/30ecca1d12e53cfba0fd2b8581ff75f87fd7181f/0_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=3f7416ca4ddb3732e20fe357a7173ea5"
+    },
+    {
+     "title": "WHO chief urges end to US fuel blockade on Cuba",
+     "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T02:23:19+00:00",
+     "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+     "image": ""
+    },
     {
      "title": "Rescue crews search for six people after plane crash off Mississippi coast",
      "url": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
@@ -12,14 +52,6 @@
      "published": "2026-11-25T02:17:25+00:00",
      "summary": "US Coast Guard said crews had so far found the cabin of the plane, a life raft and three life jackets Rescue crews were searching for six people on board a small plane that crashed",
      "image": "https://i.guim.co.uk/img/media/4168c1a30a412a3c40e93cfe346d72c32639ff30/44_0_2516_2013/master/2516.jpg?width=140&quality=85&auto=format&fit=max&s=2e13ec0289ebadde820aa83a6b0674b0"
-    },
-    {
-     "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO\u2019s planned Senate committee testimony \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-25T02:14:21+00:00",
-     "summary": "President took credit for convincing Nvidia\u2019s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soaredSign up for t",
-     "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c"
     },
     {
      "title": "Senegal fans celebrate AFCON legal victory over Morocco",
@@ -78,51 +110,27 @@
      "image": ""
     },
     {
-     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-25T01:11:57+00:00",
-     "summary": "The verdict follows a months-long trial in New York.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
-    },
-    {
      "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
      "url": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
      "source": "The Guardian",
      "published": "2026-11-25T01:00:01+00:00",
      "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give upMiddle-aged women in England are the least likely to successfully give up smoking, accord",
      "image": "https://i.guim.co.uk/img/media/ba552a1b57408ce45632af7702e5886772f0e0fb/354_0_2504_2004/master/2504.jpg?width=140&quality=85&auto=format&fit=max&s=610676c92f7ab90919ef3d20aab6b8c2"
-    },
-    {
-     "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
-     "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
-     "source": "The Guardian",
-     "published": "2026-11-25T00:56:48+00:00",
-     "summary": "Levity was in short supply as president, reeling from midterms rout, talked up his achievements \u2013 and fixated on White House vanity projectFor some, it was his pardoning of the Jan",
-     "image": "https://i.guim.co.uk/img/media/21c1fb3fad0eb8774dc514e74b1af43de6914a3f/307_0_3817_3053/master/3817.jpg?width=140&quality=85&auto=format&fit=max&s=9b445b32e3b82532d6b817a5b3e0abd7"
-    },
-    {
-     "title": "Gunmen hold dozens hostage in Colombia supermarket",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T00:49:35+00:00",
-     "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
-     "image": ""
-    },
-    {
-     "title": "What will Victoria\u2019s election result mean for nine datacentre projects awaiting approval?",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
-     "source": "The Guardian",
-     "published": "2026-11-25T00:42:17+00:00",
-     "summary": "Despite community backlash, some firms are confident they will get the green light as Coalition says datacentres \u2018will be an important part of Victoria\u2019s future\u2019Follow our Australi",
-     "image": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/498_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=3b89e28e5ba5e8144ba48afc19a8cdcb"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-25T02:35:24.931696+00:00",
+   "fetched_at": "2026-11-25T03:05:28.865754+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "The Russian army\u2019s secret death toll \u2013 podcast",
+     "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
+     "source": "The Guardian",
+     "published": "2026-11-25T03:00:03+00:00",
+     "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions",
+     "image": "https://i.guim.co.uk/img/media/73eb1f79e1f589dbc01f5457078faa6090ee6ee2/17_0_3549_2838/master/3549.jpg?width=140&quality=85&auto=format&fit=max&s=8f2b91771886bc5fe0b2dd8f2686ebf1"
+    },
     {
      "title": "Ukraine war briefing: Zelenskyy and Hungary PM hail new era of cooperation after Orb\u00e1n",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0NGbmNYUlhldnlJSjJhb3pNbGdNSWswaDFERVZWanhxa2FLYmhxbGUtbHZVc1VWS2RCQnZQT2FmVjlUS3ZPY3ozbjYyOVFHNEdXalh2bXZBR1diNUNEbUZCV1E4bUpRaER0MVpWRXlRdjlERmdjUXNmbEk4MV9yeFhMVi12NUFCM2FFR0RDdWp3a0Z4d195VXpoN0JveVV1VExFMWxBT0RWZjBacjNRNXVXMzJpb2xXVkw2QWUycnd1TElCOUVMbFVpcw?oc=5",
@@ -210,28 +218,52 @@
      "published": "2026-11-25T00:52:58+00:00",
      "summary": "South Africa Court Hands Suspended Sentence to Zimbabwean Over Ukraine War Plan&nbsp;&nbsp;Around Prague",
      "image": ""
-    },
-    {
-     "title": "Gunmen hold dozens hostage in Colombia supermarket",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T00:49:35+00:00",
-     "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-25T02:35:24.931698+00:00",
+   "fetched_at": "2026-11-25T03:05:28.865757+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "2026 midterm election results certified by North Carolina State Board of Elections",
+     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOeHVRaVE5cHl1Z0ZqRzZTazFSTlYtNUFOQjFHZWlnLVYzaVotN3YzbnRuRXpWdkZrYUtIdnNocUpHLWpIR0FvdkxpWnppSTNHRzVkbUtoakJucFktZU0zTWZBUkJSWHFMM1duWW1hanJuemxXUkZTTHdHdHdOSXhVNVZmVVgtYXQ3VVcwZWxkRDF6ZE50UXZyQ2M5NU5HUWVNcERKVjV5aFFjcDllbTNMaUJJRy1WbWdRSTVYUU9zUTlvdVVTUnlqVXg1MGdXaE93UkZ6LUhmSkZjUWpjaXhhVmpROGttMlVYUEVfTUtQSGs2ckFXQmJyazNhc0pHdGQzTWx4ZndsbXk4bWlFZXN0ZENGYW1MM2dmV0xLUTE0c29zVFlO?oc=5",
+     "source": "WLOS",
+     "published": "2026-11-25T03:01:50+00:00",
+     "summary": "2026 midterm election results certified by North Carolina State Board of Elections&nbsp;&nbsp;WLOS",
+     "image": ""
+    },
     {
      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO\u2019s planned Senate committee testimony \u2013 live",
      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-25T02:14:21+00:00",
+     "published": "2026-11-25T02:58:18+00:00",
      "summary": "President took credit for convincing Nvidia\u2019s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soaredSign up for t",
      "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c"
+    },
+    {
+     "title": "Judge orders Fulton County to turn over seized 2020 election records to state board",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0RFaGhCYXZmS0NwVGt0bE5wSmFISUlZSDU4SHJCQ05kU3hGSXFRMkZKTjlTSHpuUFliMXRyTlhabDdra0c4NEJGNXplSmJnV05GZVFleHVkdUwyMjlfM3J3MWVjQU1qRC1oRGtNcHJUSzhSZ09Yd2s2eHEtOFdZTnk1aGRNT0Z0VUkxWk5iZXJubXIwamRYM2dIcHFLXzdFZVpiZ2RBV1o4VjJGdzk0?oc=5",
+     "source": "WRDW",
+     "published": "2026-11-25T02:58:00+00:00",
+     "summary": "Judge orders Fulton County to turn over seized 2020 election records to state board&nbsp;&nbsp;WRDW",
+     "image": ""
+    },
+    {
+     "title": "North Dakota Republican Party announces federal lawsuit challenging state primary election laws",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0I3ZFo1Xy1VRVBCb19ZUXVDU0VkUnBjRi01X2RqN1Q2SDNRVnA1dkdqcTBtQUVTSkVzc0lRUWZWZ2t6WHBJdTdoOTY0UjkyUEd3dE9qdjhkTEJobjFfeGdJcnpFQjNiYTk3dk1mS0k5MW00SDVqWWdsRExRN2c1anN1SDZEMUtGOEE0UjEySDdlYXpFMF9vWDRyU2JUcmo3VlExSGxiZXVtRUFCd3VxMW96amFmdzU4WERDaFZVNXlxVVAx?oc=5",
+     "source": "The Dakotan",
+     "published": "2026-11-25T02:57:02+00:00",
+     "summary": "North Dakota Republican Party announces federal lawsuit challenging state primary election laws&nbsp;&nbsp;The Dakotan",
+     "image": ""
+    },
+    {
+     "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
+     "url": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
+     "source": "The Guardian",
+     "published": "2026-11-25T02:31:42+00:00",
+     "summary": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith countyAl Gore, who started his career as a journalist, is returning to the indust",
+     "image": "https://i.guim.co.uk/img/media/30ecca1d12e53cfba0fd2b8581ff75f87fd7181f/0_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=3f7416ca4ddb3732e20fe357a7173ea5"
     },
     {
      "title": "Alaska Division of Elections certifies 2026 election results",
@@ -239,6 +271,14 @@
      "source": "Alaska Beacon",
      "published": "2026-11-25T02:08:14+00:00",
      "summary": "Alaska Division of Elections certifies 2026 election results&nbsp;&nbsp;Alaska Beacon",
+     "image": ""
+    },
+    {
+     "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWl3dDhwR3FZYjRkcm9rUzN5RG1Qek9NdHNjNW9FQTRyN25zQ21teXpJMGJoc3ExVEU0N3lGN0dFaHdhbXRpLVZQc1pBVnlQaWNueDRaOGdQNGZqSnY1QXdqbHl5Z3BlWjVUZHhFSW1wenJxTGcxUS1LU0VfU3hIZWJxQmM5Wm5fR01OZ200c1B4ZDlnLXhUVNIBmAFBVV95cUxOLVlhdUpLRW1wWGpDN2xXTnVSUktITEVJZHJ0ZDBkUXRuWGV3S0drQUkyTHpaVkJEaEtYWlZUMmxmbE5DcUtxMWpxaU9ZZ09ySEZnSEtFaFk0U1h6eGlRSF9FLUJMVzlfV0FoYXVlSVVFbGhHMGFzTmxIR0ozRUVxdi1LMktyLWszOVBhQU1VWUhZYm9DVlh6MA?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-25T02:02:51+00:00",
+     "summary": "US jury convicts Huawei of violating sanctions, stealing trade secrets&nbsp;&nbsp;DW.com",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-25T01:38:36+00:00",
      "summary": "Rep. Emmer on election results, Iran war: \u2018We did not listen to the American people\u2019&nbsp;&nbsp;FOX 9 Minneapolis-St. Paul",
      "image": ""
-    },
-    {
-     "title": "US imposes sanctions on Iran's networks",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUpCM0dfMU5EQmxKYmcwRW5TTkllMFd0VUw0QkZmdTk5XzFFbGxJVGZjVTRLM2xwVVFHTkdVNXB3Z0V5WlBpcnhDcXB5WVdQNHpuNlE5ZUM0RUM0U0c5dlZBV1J2MDlJWkhhTTJxZjdYS0FGeWV3cXNQVHEwdHpGSjRB?oc=5",
-     "source": "China Daily Global Edition",
-     "published": "2026-11-25T01:38:33+00:00",
-     "summary": "US imposes sanctions on Iran's networks&nbsp;&nbsp;China Daily Global Edition",
-     "image": ""
-    },
-    {
-     "title": "Judge dismisses Potter County election lawsuit",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGtMSTdOSWp4cVZwMFp2bVNXRnpOUDN4X0FDTDNLeldaelBFMm91U2QyX3h0ZDM1NHhPU2N0QXhLQUh4MlpkSmk0cWtrN25tclRCRlZPVEtPT1N6NU4tTUl0WFFYSDkzWVo2b2tjRDkzbHMxeU5SZ1VNZ3pNWEpac1VDLW5PUmtubUtKY1FSTTFIVVQzR1p3?oc=5",
-     "source": "MyHighPlains.com",
-     "published": "2026-11-25T01:29:22+00:00",
-     "summary": "Judge dismisses Potter County election lawsuit&nbsp;&nbsp;MyHighPlains.com",
-     "image": ""
-    },
-    {
-     "title": "Fulton County must turn over 2020 digital election records seized by FBI to Georgia State Election Board, doc says",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQS0lGMnQyclRZSU9fLU9GRzExVENQdEZZeW5oendlNUZmaEVzeHZPNWIwRE1QVFBhRVZwTEowWjIzUVlGMFhBeGllVlhXbzFpdk01QzBWc0N4ZTV5bXJiamJCQWY4T0lLbTFFZ0ZiaFNkYXE5QktxdGxuSmhoQTBlOTRoaENVQ0RwQjhzSFU1ZEJ6MEZTSi1xZU9RalpmQXZqUEd0OWFaNjl3dWk3RjV4Y3R3QlBfWHp4a2x1V2JPWi1HcTN0TTZsME9ZQkJEMzFkRGNPem9DUTc2Z1hSWHlkQlF2Ynhod2laRnFJUTcwVjhoU09YRkh6Tm9SakNzeDYzQmR2UnJ0OTJ0MWh6T0RJ?oc=5",
-     "source": "11Alive.com",
-     "published": "2026-11-25T01:28:00+00:00",
-     "summary": "Fulton County must turn over 2020 digital election records seized by FBI to Georgia State Election Board, doc says&nbsp;&nbsp;11Alive.com",
-     "image": ""
-    },
-    {
-     "title": "Judge orders Fulton County to give 2020 records to State Election Board",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFZMZzdpNkVVV1VicnBoSG5KdUN4ejJxWGdzOU1ibG1makNMc004WXFxVUEybTlycXN5bk1oVzM5eFdkcGROUFNiZFprNUU2WE1YNlc0V2Z0NDFjdF82Tk5tQmNtNEpiZWE3SE54R1dsQlpyRG1kRy1XRkoxLVFEeS13QkJ4Yzg?oc=5",
-     "source": "The Atlanta Journal-Constitution",
-     "published": "2026-11-25T01:18:40+00:00",
-     "summary": "Judge orders Fulton County to give 2020 records to State Election Board&nbsp;&nbsp;The Atlanta Journal-Constitution",
-     "image": ""
-    },
-    {
-     "title": "Judge rules Feb. 2 special election must proceed for Independence City Council vacancy",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONk1GQk5QREFPeE9fclBiNXlZS0I2UGdtamxBdFVVaktkRVgtZEZyVnlsWlVaYk9UVEJjOW5yWUpEem1FdV9IQmVEZVpOTHh6OXRhNno0bU1lNVZ5enNZQzYydGJranpSaVdnZ2lqUFlTYmNwaUdnY0dlLXN4ZDBDRFlWY254Nkk3bXZLemNtTmdYMVdGblhkc2h2eHVXR3BiMVdESVI2LUtWeW5acDVB0gG0AUFVX3lxTE41MkFDUUl2RTFWc1dBZ2lOQWFDbFVfNG94dkJEaGM1V3QzX3l6NWFBRVdUdDRmdjRINFpLa2x5X001bVk3ZTA0SkJ1eXNTaHZxekVvdXQ4VUZLc3B2ZU9aNjBhZ1VldkZZSDBRRkR4Y0VfU3FmWHNyZG9xM1psMWt6X0NtVTM3YkhZWmJkYWR4ckszZDlXTmRXZlIyQ3Nrbk11UnhJSHJlMm42OEFLS2dLRU9OXw?oc=5",
-     "source": "FOX4KC.com",
-     "published": "2026-11-25T01:15:04+00:00",
-     "summary": "Judge rules Feb. 2 special election must proceed for Independence City Council vacancy&nbsp;&nbsp;FOX4KC.com",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-25T02:35:24.931700+00:00",
+   "fetched_at": "2026-11-25T03:05:28.865759+00:00",
    "stale": false,
    "items": [
     {
