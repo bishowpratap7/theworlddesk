@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T07:06:00.996099+00:00",
+ "generated_at": "2026-11-25T07:06:15.057414+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-25T07:06:00.996083+00:00",
+   "fetched_at": "2026-11-25T07:06:15.057370+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-25T07:06:00.996091+00:00",
+   "fetched_at": "2026-11-25T07:06:15.057385+00:00",
    "stale": false,
    "items": [
     {
@@ -145,6 +145,14 @@
      "source": "The Economist",
      "published": "2026-11-25T06:41:13+00:00",
      "summary": "America\u2019s rush to settle the war in Ukraine&nbsp;&nbsp;The Economist",
+     "image": ""
+    },
+    {
+     "title": "Spies, saboteurs and assassins: Inside Russia\u2019s covert war for Ukrainian recruits",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMFJ3YzBZTVFEeEQzcWRhbExUcmtvZkwzVEVnVWRaTHNNTnBRbjZhLVZ2Z0J6VGdmZ3dLaktvaG0wX3I3ODVRWmd3UEhXdm9ya0xhRDZHcTVDVDdsQ1JjRXIyUEdOSTd3Z2xacFI0TlEyVUpWTkxvWUVfT0I3eDJ4TVZZU0d4ZEhvSWFWR3RDVVRsRTFSZWo5SVRmOG4tb1Y3TndnSTU5eW84SGdGWHJkb3dMWGVOZFM2WV9yVHFncEJ4T3pYVzN0OVhnZWZFd2UtbW1iOXZwckNfRFlhT25OWE5kMGt3c1dick1iTGhQWnM?oc=5",
+     "source": "The Irish Times",
+     "published": "2026-11-25T06:05:40+00:00",
+     "summary": "Spies, saboteurs and assassins: Inside Russia\u2019s covert war for Ukrainian recruits&nbsp;&nbsp;The Irish Times",
      "image": ""
     },
     {
@@ -210,29 +218,13 @@
      "published": "2026-11-25T05:16:00+00:00",
      "summary": "US shelves plans for business deals with Russia to end Ukraine war, FT says&nbsp;&nbsp;Reuters",
      "image": ""
-    },
-    {
-     "title": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzZzdTA0a3ZGMDNfeTI0SEN2cnp0MXJTeFByS2pNQ3ZuNzU0NlJUYVFhRzdRbnNLOEFDNUd3TWpLbUFlQnZlMWI4R3BMYmdRd1Q4YzJKaXVIS0VYdnpoNzUtdnp6eTlzbWRTTHNmOFZrVDU2QndjWnVVUUtBY0lkMlkzYk1OZXYzdE9uMC1rS3VKSldQLTBuRlFGZ1hMWnNEdG5WdXdnQkE2RnN6RW5nSjVibGNldUlq?oc=5",
-     "source": "Euronext Markets: Real-time Stock Market Data | live",
-     "published": "2026-11-25T05:15:52+00:00",
-     "summary": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports&nbsp;&nbsp;Euronext Markets: Real-time Stock Market Data | live",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-25T07:06:00.996093+00:00",
+   "fetched_at": "2026-11-25T07:06:15.057388+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "Columbiana County election results certified with no changes",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ29HcGVzbHlRRTg4bWYzUW1ZTnpXNmNaM3JEc0pnZzlqNmZlTjZCMFAza2x2U0FGQnpGcWJoX2FTM3JUMzcxem1VbjM3QjVsUzBzMzB4RWo3ZXJmV3JMNXhkSE1KMlZTZ3VGTWNybjhESTd2S05BMlpCV2s2RWxhOFV3ck5zSVBsdEJSWUx6VWFPemM5clU5d01pNE5YWnFYVFNIU0g4dTFKc0FoTVhueFpNUjBLUzUyTGc0Ug?oc=5",
-     "source": "Morning Journal - News",
-     "published": "2026-11-25T06:46:43+00:00",
-     "summary": "Columbiana County election results certified with no changes&nbsp;&nbsp;Morning Journal - News",
-     "image": ""
-    },
     {
      "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
      "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
@@ -320,11 +312,19 @@
      "published": "2026-11-25T04:14:00+00:00",
      "summary": "Deadline: Fulton County ordered to give copy of 2020 election records seized by FBI to state board&nbsp;&nbsp;11Alive.com",
      "image": ""
+    },
+    {
+     "title": "Dillon Amphitheater eyes bag and chair policy changes, new screens for movies and more in 2027",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOE03NDVWdHZMLURsWURuVnpKeEpES3ZMbEVRSnpvSWJqWTgtc2FtSW13RFhXczd5T21yZW1Sbk9naVVEZ1FsbU5UT0gyLVMyYklsQk1jZzVtY3NvSnBVdWJOTk4xZWY2RHE5UEV6a1dOTS15M1NNMXpSWmdPZnNybGtrX19qS3NlZkVVenNweVltRnloWExraE9PdkNrVU9zTzZNR0JFYm5oUU52Njg2YTc0LUpVWVdPQTRHSUNZMVhlZEE5c2c?oc=5",
+     "source": "SummitDaily.com",
+     "published": "2026-11-25T04:12:18+00:00",
+     "summary": "Dillon Amphitheater eyes bag and chair policy changes, new screens for movies and more in 2027&nbsp;&nbsp;SummitDaily.com",
+     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-25T07:06:00.996095+00:00",
+   "fetched_at": "2026-11-25T07:06:15.057391+00:00",
    "stale": false,
    "items": [
     {
