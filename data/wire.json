@@ -1,17 +1,33 @@
 {
- "generated_at": "2026-11-25T07:36:18.586838+00:00",
+ "generated_at": "2026-11-25T08:06:21.994034+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-25T07:36:18.586807+00:00",
+   "fetched_at": "2026-11-25T08:06:21.994003+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: \u2018You\u2019re protecting Trump\u2019: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes both houses",
+     "title": "\u2018You\u2019re protecting Trump\u2019: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes \u2013 as it happened",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-25T07:20:21+00:00",
+     "published": "2026-11-25T07:34:44+00:00",
      "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
      "image": "https://i.guim.co.uk/img/media/b1c138581dfdb0d3ad5c3e6a9f769bebe5972389/623_0_6230_4984/master/6230.jpg?width=140&quality=85&auto=format&fit=max&s=ddfd1ece9479566612f5edac3d3148d1"
+    },
+    {
+     "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+     "url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T07:31:44+00:00",
+     "summary": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
+     "image": ""
+    },
+    {
+     "title": "\ud83d\udd34 Colombia president says all hostages freed, one assailant killed after supermarket hostage siege",
+     "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
+     "source": "France 24",
+     "published": "2026-11-25T07:20:50+00:00",
+     "summary": "",
+     "image": ""
     },
     {
      "title": "Labor wins Greens support for trust changes in exchange for scrapping jet fuel subsidies for the wealthy",
@@ -20,6 +36,14 @@
      "published": "2026-11-25T07:16:33+00:00",
      "summary": "Government also agrees to carve out pensioners from cuts to private health insurance rebates in return for minor party\u2019s support in SenateFollow our Australia politics live blog fo",
      "image": "https://i.guim.co.uk/img/media/959c4b15a9beeb3c9d69e745fc424540b5cd1e6f/500_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ebf7a122d4f4a3d084f902cfc390aa18"
+    },
+    {
+     "title": "Pakistan rejoices as country\u2019s first astronaut enters orbit",
+     "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T07:05:59+00:00",
+     "summary": "Zeeshan Ali makes history as the first foreign national to board China&#039;s space station",
+     "image": ""
     },
     {
      "title": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over \u00a32,000",
@@ -83,7 +107,7 @@
      "source": "BBC News",
      "published": "2026-11-25T06:00:36+00:00",
      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png"
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg"
     },
     {
      "title": "China-linked battery projects could receive UK funding despite security warnings",
@@ -92,44 +116,68 @@
      "published": "2026-11-25T06:00:07+00:00",
      "summary": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlistA string of battery projects linked to China are expected to be granted UK state su",
      "image": "https://i.guim.co.uk/img/media/d6d3b60ad460057409bbc390fe470277522fd6bd/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=d9cb9bf4f0ea3728283cdb9bb52d7759"
-    },
-    {
-     "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
-     "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T05:27:32+00:00",
-     "summary": "The opposition Congress party calls Israel\u2019s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
-     "image": ""
-    },
-    {
-     "title": "The Gambia election: Can the next president deliver on a decade of promise",
-     "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T05:03:04+00:00",
-     "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
-     "image": ""
-    },
-    {
-     "title": "In charts: how power could shift in Europe\u2019s big year of elections",
-     "url": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
-     "source": "The Guardian",
-     "published": "2026-11-25T05:00:06+00:00",
-     "summary": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trendsOver the coming",
-     "image": "https://i.guim.co.uk/img/media/3fb443520d5ae15fd4e46dca873678b8da5e63ea/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6c8d875c651e2501485fc0d31e2f52d2"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-25T07:36:18.586822+00:00",
+   "fetched_at": "2026-11-25T08:06:21.994018+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: \u2018You\u2019re protecting Trump\u2019: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes both houses",
+     "title": "Libyan naval officers die following Ukrainian drone attack, and other Mideast news",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHhwUnN2Qy12UjBudGlhZ0dlb2Q2UzMxLWVOWkZFNkZwMnN6aFJWWDNFRldCeFNKbHNxdnNQYnBUZi04YXR6S3RyZnF4V0lkbkxlZHo3MkJycGFJcEs0alZ1RmtPRzRSRFB3WG42eDVzMGtsSzF4V2t4UTQ2blZFTVZqb2VORGwwcU9yekd0eU5uMHdOZHY4bDJYWi1VcUt2YXRTSFJ3cVlFMGcxQ3J5cGY1UGljMjA?oc=5",
+     "source": "WTOP News",
+     "published": "2026-11-25T07:58:35+00:00",
+     "summary": "Libyan naval officers die following Ukrainian drone attack, and other Mideast news&nbsp;&nbsp;WTOP News",
+     "image": ""
+    },
+    {
+     "title": "Exclusive: US rules out troops, military bases in Ukraine under post-war security guarantees, falling short of Kyiv's expectations",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMmppQkdmSmFmZ2RxRWtObU9VckRRalhsM2lLYXVtNXZqblBBczdLNzBUOFRROUFnU25JaDhXOHIzLUh2aHJYWmlpV3lWdG5QN09EZFpDTVQ4Y01rTldCRkkwMktUYmttc3hKU3ZiUkJkckhIdGJ1YUtfczg1S1F0UFJ1ZFYzOG5FalR4Vm1GM2hwdkpsN3NTUUNOWVF1SDFwN21weWlDN2g5MWlxbHpLcnlocU1UZDRydURyOFZ5Yy13SFR5ZVJXaGh4TVRMY2xnbldueEVqS3lSQWgtUW1XZ3JJckFqNjhNUEFR?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-25T07:57:52+00:00",
+     "summary": "Exclusive: US rules out troops, military bases in Ukraine under post-war security guarantees, falling short of Kyiv's expectations&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "2 Libyan naval officers die of wounds from Ukrainian drone attack on Russian warship in Benghazi",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaElXaHlIdHFSZFhXYkd2M21qRndHRl9XZEc4ZkZFSW5ranVvbXdJZ1djT1VkdEJQX3VnYUhCa0VqMmlxY1c2OVNpdjJUVEIzMHkyMWdlS2VENlpDdVNGUWdpVmw2amVmTkJLUlFXa1RkOFBPWDVLT3NYZHhYc3RPOWFZNzBNNGtRY09VUWxSN29WS09TUWpZam5obVRWV01aUVgzNU1NenJRMjJXUElMNXM2cV9BVGYtNTZtSUhZWl9SNDVqZWtIN3RTdF9HcmptQ0lxSTcxOFNJZHQ0STlNMm8yUlQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-25T07:52:28+00:00",
+     "summary": "2 Libyan naval officers die of wounds from Ukrainian drone attack on Russian warship in Benghazi&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "General Staff: Russia has lost 1,643,580 troops in Ukraine since Feb. 24, 2022",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3p1OHBRVlhjYWxHNG5EcHhubnA1d1JOV3RRdUxqc1Z1QTVXMEhTWEhEYm1CTXluQ3lfa2k0bDdkMjV4eHVGQWpsNW1adWtVMk9URHQ0bElVdk9CY2lNQUlLbUh5QVVnd2N4bFpnalQxWXRaVjFsS0c0Qk0zTEJJV0RYS2lYbjNobnpHOVVLVmR4bVFWX0RlaDMxWmxLSEZCdkVqUENRUQ?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-25T07:44:44+00:00",
+     "summary": "General Staff: Russia has lost 1,643,580 troops in Ukraine since Feb. 24, 2022&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "\u2018You\u2019re protecting Trump\u2019: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes \u2013 as it happened",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-25T07:20:21+00:00",
+     "published": "2026-11-25T07:34:44+00:00",
      "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
      "image": "https://i.guim.co.uk/img/media/b1c138581dfdb0d3ad5c3e6a9f769bebe5972389/623_0_6230_4984/master/6230.jpg?width=140&quality=85&auto=format&fit=max&s=ddfd1ece9479566612f5edac3d3148d1"
+    },
+    {
+     "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+     "url": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T07:31:44+00:00",
+     "summary": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
+     "image": ""
+    },
+    {
+     "title": "\ud83d\udd34 Colombia president says all hostages freed, one assailant killed after supermarket hostage siege",
+     "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
+     "source": "France 24",
+     "published": "2026-11-25T07:20:50+00:00",
+     "summary": "",
+     "image": ""
     },
     {
      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
@@ -164,67 +212,27 @@
      "image": ""
     },
     {
-     "title": "America\u2019s rush to settle the war in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2phZVB3bmZMdGU3UXRocXU4YkV4LURzcFNyREszV0ZmSWFucVNPdDRlNGdyb2lNcTlmSjI0Sk01cmJxekRtRzdLX1VsNi1DbGVoTXFzYjVBQVhtY2lqazRLaEtCYkhaZ3gycVN1dlF2LWlPVm9GVkM4TXUweUtKVkZaRjFDc1padHFNcXoxd3Z4ZzV6U1Vr?oc=5",
-     "source": "The Economist",
-     "published": "2026-11-25T06:41:13+00:00",
-     "summary": "America\u2019s rush to settle the war in Ukraine&nbsp;&nbsp;The Economist",
-     "image": ""
-    },
-    {
-     "title": "Spies, saboteurs and assassins: Inside Russia\u2019s covert war for Ukrainian recruits",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMFJ3YzBZTVFEeEQzcWRhbExUcmtvZkwzVEVnVWRaTHNNTnBRbjZhLVZ2Z0J6VGdmZ3dLaktvaG0wX3I3ODVRWmd3UEhXdm9ya0xhRDZHcTVDVDdsQ1JjRXIyUEdOSTd3Z2xacFI0TlEyVUpWTkxvWUVfT0I3eDJ4TVZZU0d4ZEhvSWFWR3RDVVRsRTFSZWo5SVRmOG4tb1Y3TndnSTU5eW84SGdGWHJkb3dMWGVOZFM2WV9yVHFncEJ4T3pYVzN0OVhnZWZFd2UtbW1iOXZwckNfRFlhT25OWE5kMGt3c1dick1iTGhQWnM?oc=5",
-     "source": "The Irish Times",
-     "published": "2026-11-25T06:05:40+00:00",
-     "summary": "Spies, saboteurs and assassins: Inside Russia\u2019s covert war for Ukrainian recruits&nbsp;&nbsp;The Irish Times",
-     "image": ""
-    },
-    {
-     "title": "Russia's war casualty toll in Ukraine up by 2,091 over past day",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGwwMC1wX1hqUmlZV3RTRHVlTXMzeERfWjNOcXFqMGZ3QlZlTDlYdzdRQnZRM2xkOEc0Qm1QTm8zR1llZTRNZ1hVZ3JJczhITHRpZE54WGRHNTUzNll3bWZvR3VFVGMtYjduNjkyX3dSUEJIZHI2R3BRdzhWVFhvc2dOLTRNcHVrMUV4SllkZ0xyUEhWaVFvUENLNEV3UHEzMjdicGYyZk44NEV2dlU3OdIBtgFBVV95cUxQeGNJaHc5U2NuUllBeFNjZ0RUbUg5RkpOU3hfRTdsNDRUWExnTDZQWlFRVW1rVjk3dTFmYjI3dGE2bDVZcVV0bGpWWnYycGpvMThmYVYzeWl6NS1Ic09HeGNST1pWbXpXN2ZPX2RpN2wxQllxQllfTmhSWVlIVnV5TUZNR1k2aUtTeUEyak9Zc25JbGdfZ29zVnh5MlJKS3ZRTHRBVHk2d0RtbFFXSm5FbFV0NGduQQ?oc=5",
-     "source": "Ukrinform",
-     "published": "2026-11-25T06:05:00+00:00",
-     "summary": "Russia's war casualty toll in Ukraine up by 2,091 over past day&nbsp;&nbsp;Ukrinform",
-     "image": ""
-    },
-    {
-     "title": "EU budget blackmail: fund Ukraine or else",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xVWdrU2NtVV90VFhJYkxRTThIWUJ2OHJoWUR3RC1NcWJGSnQ5cFVLaThYSkdINDVtand6QzlCYVM5bE5sdjI5aDFid0FQQXhXdG1ZV1ZTOGhCUlRIV2FOS0tR?oc=5",
-     "source": "Responsible Statecraft",
-     "published": "2026-11-25T06:04:26+00:00",
-     "summary": "EU budget blackmail: fund Ukraine or else&nbsp;&nbsp;Responsible Statecraft",
-     "image": ""
-    },
-    {
-     "title": "Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXB3bGlacUYtM05jNEZEaVhfM1BHc3BYYXFFcnI2eFA5UHNJOXJjWlhBNllaMDBGNVd0dmZUaWVYQnZraXpCOVhwLTgxX3pRMDVlSFU3cGlSU2I0VTVscDhvbUhWWFF1QjhLTnZnOGNmMnRsOE00c2tmNHlVLTIyN2ZEdXpIZDRwVFdkVGw5Q2Rvdw?oc=5",
-     "source": "The Messenger",
-     "published": "2026-11-25T06:04:04+00:00",
-     "summary": "Russia Ukraine War&nbsp;&nbsp;The Messenger",
-     "image": ""
-    },
-    {
-     "title": "China-linked battery projects could receive UK funding despite security warnings",
-     "url": "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
-     "source": "The Guardian",
-     "published": "2026-11-25T06:00:07+00:00",
-     "summary": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlistA string of battery projects linked to China are expected to be granted UK state su",
-     "image": "https://i.guim.co.uk/img/media/d6d3b60ad460057409bbc390fe470277522fd6bd/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=d9cb9bf4f0ea3728283cdb9bb52d7759"
-    },
-    {
-     "title": "African insurgents take war to the skies with off-the-shelf drones",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0RjeHRWcGl1ZElENEhBX0x2blI3b2w1OC1vZ1U3SklwRTV5ajRTWVRXczVBTlBrN0JkQldfZEozLTU1b3AxUDJTM3dnX3FoTldYTmZVZWF3dW4xSFM0c2gtWS1yTWRvSmlsRDhMa1ZncXIybHVKaXlhZE9FSHNaanRCckd2RHA0cHVOVldWUmVKMGhUV1JUZG95amFmQ3oyWjBYNmZVSl80ZzhT?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-25T06:00:00+00:00",
-     "summary": "African insurgents take war to the skies with off-the-shelf drones&nbsp;&nbsp;Reuters",
+     "title": "Media: Over 490,000 Russian soldiers killed in Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wdy1VemQ4bjNOeE9xSHdqZzRZOWNnRlpZTjA3blk1b2UyN0lfTkZYU2F1blJaQ3VqTUlkUHRNWHVMOTZyM2JxaFBZQnotNXh6VjZxaDNfXzVPOHpUSWZVdFNJOA?oc=5",
+     "source": "NHK\u30cb\u30e5\u30fc\u30b9",
+     "published": "2026-11-25T06:48:25+00:00",
+     "summary": "Media: Over 490,000 Russian soldiers killed in Ukraine war&nbsp;&nbsp;NHK\u30cb\u30e5\u30fc\u30b9",
      "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-25T07:36:18.586826+00:00",
+   "fetched_at": "2026-11-25T08:06:21.994022+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Arkansas Explained: What to know about the Dec. 1 runoff election",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMl9mZVFza2puU1hSMU1WRGNWYzJIYlFFYkdQak9scDRfUHd3eFplb2dMOVAwNlh6VUtrSUxxTnFBUzJMNXdlOWp4N0pJZXRuMHo0SlZ0VmVXMlQtMEJRdElINVQ5TTFlMDhScFItZ0lxZ3c5dGctUUc3ZTl2MndodUxpMHpxMmlHQnpfc1V3c24?oc=5",
+     "source": "Mountain Home Observer",
+     "published": "2026-11-25T07:47:55+00:00",
+     "summary": "Arkansas Explained: What to know about the Dec. 1 runoff election&nbsp;&nbsp;Mountain Home Observer",
+     "image": ""
+    },
     {
      "title": "Labor wins Greens support for trust changes in exchange for scrapping jet fuel subsidies for the wealthy",
      "url": "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
@@ -234,11 +242,11 @@
      "image": "https://i.guim.co.uk/img/media/959c4b15a9beeb3c9d69e745fc424540b5cd1e6f/500_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ebf7a122d4f4a3d084f902cfc390aa18"
     },
     {
-     "title": "Spain's election pits Madrid's building push against Catalonia's rent caps",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2FxN2VZSnZleEhPUlU4QTN0aDJSTEszWjRqTmlhYmVqLWtUeWR5OC0xckdQT1hFUXhtWkxlVUlzSGxheFdzTUlGRDJEQ3Fnenh3b0hUODRGdnlLa3RDeXY3TEd6X3RvaU5fc0tPMldfLU1jTEFwaVlOQ3JmMXBQS2x0UWpGUDVIbU1OY2kteUt5dC1lamdNNTVuZEhMZHJ3blF3YjdITkxyMHVEZmVlbnNULW9KYmExRU1NMA?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-25T07:03:00+00:00",
-     "summary": "Spain's election pits Madrid's building push against Catalonia's rent caps&nbsp;&nbsp;Reuters",
+     "title": "Columbiana County election results certified with no changes",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9nY1o2UVFKcDc1bF9DZGpsUGlXeFh0ZnZ6bU5hZWJKZ24tTl9Sd3JPTjA1TTBwOFlKbnExLVF2VDA1ajlkVHVXUTFVN2JyLUhCNURPM2psVVpxYzVWa05CRXZzcjltQ0JxTE1lX3o2eTd0Y1A0MC1NV2xPMU5fa2Y2dzdYcS1JVHhHbVI0eFVNYXRaM0VIVVptRkZZMWt3TE5KVzJ3Qm1oODQ2ZWJyUg?oc=5",
+     "source": "SalemNews.net",
+     "published": "2026-11-25T07:05:28+00:00",
+     "summary": "Columbiana County election results certified with no changes&nbsp;&nbsp;SalemNews.net",
      "image": ""
     },
     {
@@ -258,14 +266,6 @@
      "image": ""
     },
     {
-     "title": "Columbiana County election results certified with no changes",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ29HcGVzbHlRRTg4bWYzUW1ZTnpXNmNaM3JEc0pnZzlqNmZlTjZCMFAza2x2U0FGQnpGcWJoX2FTM3JUMzcxem1VbjM3QjVsUzBzMzB4RWo3ZXJmV3JMNXhkSE1KMlZTZ3VGTWNybjhESTd2S05BMlpCV2s2RWxhOFV3ck5zSVBsdEJSWUx6VWFPemM5clU5d01pNE5YWnFYVFNIU0g4dTFKc0FoTVhueFpNUjBLUzUyTGc0Ug?oc=5",
-     "source": "Morning Journal - News",
-     "published": "2026-11-25T06:46:43+00:00",
-     "summary": "Columbiana County election results certified with no changes&nbsp;&nbsp;Morning Journal - News",
-     "image": ""
-    },
-    {
      "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
      "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
      "source": "NPR",
@@ -280,6 +280,14 @@
      "published": "2026-11-25T06:36:00+00:00",
      "summary": "\u00c1brego Garc\u00eda's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
+    },
+    {
+     "title": "Intertwined \u2014 How Renewable Fuels Policy Helps Connect Diesel and Soybean Oil Prices",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3hfZjhtaG9peVlLVkR1d1U0WVgyLWtocTJfZnM4MVRRTEN5WU5xVjVJSkZNS0YzX1BseGdkR19EYmpIc0xzckpCc19meXN2a2E0dklid2RDbEQzMEgyYVRrN1NyeFQxSS1XeWVmd2V4eGloR284M0hZVUd4UHYxaUFiMWY5SVFWUW1hLV9HYzZZems5R2FrclFzdnVBQVlOaDItMExKTjNuNDZDZGc?oc=5",
+     "source": "RBN Energy",
+     "published": "2026-11-25T06:00:00+00:00",
+     "summary": "Intertwined \u2014 How Renewable Fuels Policy Helps Connect Diesel and Soybean Oil Prices&nbsp;&nbsp;RBN Energy",
+     "image": ""
     },
     {
      "title": "The Gambia election: Can the next president deliver on a decade of promise",
@@ -312,19 +320,11 @@
      "published": "2026-11-25T04:47:00+00:00",
      "summary": "Dan Sullivan Concedes Alaska Senate Race While Citing Election Probes&nbsp;&nbsp;Newsweek",
      "image": ""
-    },
-    {
-     "title": "Georgia\u2019s Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGllWUUyNXZHaXRRalhYQTVqQ0FjbFlUVE52bUp1cVpMVDFFS01CODRMMFJIZV81V0hsdzkydEVZWWZBT2t5Wk5WR3lHZVhKQURBVm9NMF9oSC1RVU0xUjZ1eHlZcWVKeENJcWZySXE0WGJDVVdldndsZUstVkZ3WHUzb0tfWXl0OE9JTVNXQ1NPV0F0NXp3SDY2OA?oc=5",
-     "source": "CNN",
-     "published": "2026-11-25T04:28:00+00:00",
-     "summary": "Georgia\u2019s Fulton County ordered to give copy of 2020 election records seized by FBI to state board&nbsp;&nbsp;CNN",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-25T07:36:18.586828+00:00",
+   "fetched_at": "2026-11-25T08:06:21.994025+00:00",
    "stale": false,
    "items": [
     {
