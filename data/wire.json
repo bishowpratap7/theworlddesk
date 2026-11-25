@@ -1,17 +1,41 @@
 {
- "generated_at": "2026-11-25T21:08:30.864152+00:00",
+ "generated_at": "2026-11-25T21:38:34.526663+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-25T21:08:30.864131+00:00",
+   "fetched_at": "2026-11-25T21:38:34.526641+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Hanson \u2018delighted\u2019 as Blyth defects to One Nation; Bowen says global tensions \u2018infected\u2019 Cop31",
+     "title": "Australian politics live: Hanson \u2018delighted\u2019 as Liberal senator defects to One Nation; Bowen says global tensions \u2018infected\u2019 Cop31",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-25T20:59:25+00:00",
+     "published": "2026-11-25T21:30:06+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is ",
      "image": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=140&quality=85&auto=format&fit=max&s=bb74df4639acdddc2a7c95b3f50d4b41"
+    },
+    {
+     "title": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
+     "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-25T21:25:14+00:00",
+     "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+     "title": "New York City\u2019s Macy\u2019s Thanksgiving Day parade postponed due to weather",
+     "url": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
+     "source": "The Guardian",
+     "published": "2026-11-25T21:08:45+00:00",
+     "summary": "Forecasters say high winds on Thursday may spoil the annual march of huge balloons and have moved the parade to SaturdayNew York City\u2019s Macy\u2019s Thanksgiving Day parade has been post",
+     "image": "https://i.guim.co.uk/img/media/909560ee7a3ac1c6bb1d90e92cd7819321ac3a07/411_0_3953_3163/master/3953.jpg?width=140&quality=85&auto=format&fit=max&s=3ab3506c090536b4e33d7bb2d0974aca"
+    },
+    {
+     "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+     "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T21:03:51+00:00",
+     "summary": "About 200,000 tents need replacing, Gaza\u2019s municipalities say, as the EU urges Israel to reopen all crossings.",
+     "image": ""
     },
     {
      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week \u2013 live",
@@ -20,6 +44,14 @@
      "published": "2026-11-25T20:55:05+00:00",
      "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer Sign up for the Breaking News US emailUS trade repr",
      "image": "https://i.guim.co.uk/img/media/1ded0ee0250a7ae31faed7b6ee3dc216c3eee7d6/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=a3e67bf3a7035af45285bc7c8dfd8e91"
+    },
+    {
+     "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+     "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T20:52:32+00:00",
+     "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
+     "image": ""
     },
     {
      "title": "Liberal senator Leah Blyth announces defection to One Nation",
@@ -84,52 +116,52 @@
      "published": "2026-11-25T20:06:57+00:00",
      "summary": "Father of the Duchess of Sussex currently being held in Florida is charged with possession of child pornographyA judge in the US has ordered the transfer of Thomas Markle, the Duch",
      "image": "https://i.guim.co.uk/img/media/06ff9b8b2315623a5d183d2719ace1c58a955e2c/126_0_3881_3105/master/3881.jpg?width=140&quality=85&auto=format&fit=max&s=104cdc8c812f89dc6333859b14b3efd7"
-    },
-    {
-     "title": "Oregon man and dog narrowly escape being swept away by high tides as officials urge caution at beaches",
-     "url": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
-     "source": "The Guardian",
-     "published": "2026-11-25T20:03:53+00:00",
-     "summary": "Record-breaking king tides have prompted west coast authorities to warn residents to stay away from beaches The US west coast has seen record-breaking tides this week and authoriti",
-     "image": "https://i.guim.co.uk/img/media/ef6af85495b81c7ebc8b95c8a3494fc818211960/8_87_1029_823/master/1029.jpg?width=140&quality=85&auto=format&fit=max&s=6ad48c4bcb698c0715dfb78e1ef453e7"
-    },
-    {
-     "title": "High levels of salmonella found in some products from nation\u2019s biggest turkey producer",
-     "url": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
-     "source": "The Guardian",
-     "published": "2026-11-25T20:00:34+00:00",
-     "summary": "Two years of inspections at four Butterball plants show rates far exceeding US averages in ground or chopped meatInspectors found salmonella bacteria in more than a third of ground",
-     "image": "https://i.guim.co.uk/img/media/404418d13f0572f70432a63c4f917b56d766af04/343_0_2514_2012/master/2514.jpg?width=140&quality=85&auto=format&fit=max&s=7107f6aca99432d88f7a08e83036f12d"
-    },
-    {
-     "title": "Lululemon founder stuns Canadian women\u2019s leadership conference with sexist comments",
-     "url": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
-     "source": "The Guardian",
-     "published": "2026-11-25T19:57:49+00:00",
-     "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have childrenThe controversial founder of Lululemon suggested women in Canada are having to",
-     "image": "https://i.guim.co.uk/img/media/791b8933a92292555c629c4bcc1e8056243c898c/0_94_3742_2993/master/3742.jpg?width=140&quality=85&auto=format&fit=max&s=8fd2114a9006f05a834aace6fb28f4ce"
-    },
-    {
-     "title": "Elderly man with Alzheimer\u2019s rescued after 11 days in Amazon jungle",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T19:57:08+00:00",
-     "summary": "A 74-year-old man with Alzheimer&#039;s has been found alive after missing for 11 days in Brazil&#039;s Amazon rainforest.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-25T21:08:30.864141+00:00",
+   "fetched_at": "2026-11-25T21:38:34.526651+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Hanson \u2018delighted\u2019 as Blyth defects to One Nation; Bowen says global tensions \u2018infected\u2019 Cop31",
+     "title": "Australian politics live: Hanson \u2018delighted\u2019 as Liberal senator defects to One Nation; Bowen says global tensions \u2018infected\u2019 Cop31",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-25T20:59:25+00:00",
+     "published": "2026-11-25T21:30:06+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is ",
      "image": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=140&quality=85&auto=format&fit=max&s=bb74df4639acdddc2a7c95b3f50d4b41"
+    },
+    {
+     "title": "Trump to meet NATO chief Mark Rutte at Mar-a-Lago after Putin and Xi talks",
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOcms3WXQyU0RNbXl5ckt1TUE3SmpkNGI2VHBlbU14OHZZM0F3ZEhwdHU5V2NhZFpmcUgyQTljX2plWHpOUFJnQm5Lb1hpM0FlOUczb2JoZ2RqUDh4ZGVGcmdlS0U1dDdhOXVUdFRrLUlZbTY3VXE2cS1SUUE1RHVqbVh6VTh3eUJfaFZjaUVSYlVwOFNkWVNUckRYcG12ZEh1cWZ2ZWdwTU80VmhzY3J5dlhTT0dJaGlOaWwxVVB4dmFacGYzeFB6TUFIRTVmRjJCTmZfcl9XeHhNUFJMdFA1TGZYUWRob2hrYXpnbzllVGhsRGpIWG1rOWJWRXl5WWFPeEYtLVFPYlBPQXpDeUItclIyY2RUZkRBSmRMMWpTN0FXalpyMFA0QkRNeWJQMTBSS1hmcjBuOXZ4QnZYY1lvX2U1dF9oTGc?oc=5",
+     "source": "WSET",
+     "published": "2026-11-25T21:21:20+00:00",
+     "summary": "Trump to meet NATO chief Mark Rutte at Mar-a-Lago after Putin and Xi talks&nbsp;&nbsp;WSET",
+     "image": ""
+    },
+    {
+     "title": "DW News. . Ukraine's military has hit a Russian naval and cargo ship in Libyan waters. Did these drone strikes breach international law? #dwgeopolitics",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbmZhU243bGJJRm8yYW5FalFmUEpILXJmU1RnOWNJX0h4c3lKc0lORnh6ZG1GMXh4bnNxV1pONFQyLUFhTVZXdHlycXA4TW1sT3l5Ni14TkYzaGt2cXEyREt1bHF6djVFSmdSeVdreHNnNG1zcjZQSXZrWlB1ZXA2N0ZvOHJoM2ViWlEyOFZUZWJJdU5Oc0hOdV9nd2MwU3pHR3prUldiN091anJJNTVsWlNRZlZvT0UzS1N0Y2ZLRmlIYlVVZ2lSNzJqM2d0dlVLam1WVG0yX1pPaUN0MnluOGV3?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-25T21:15:12+00:00",
+     "summary": "DW News. . Ukraine's military has hit a Russian naval and cargo ship in Libyan waters. Did these drone strikes breach international law? #dwgeopolitics&nbsp;&nbsp;Facebook",
+     "image": ""
+    },
+    {
+     "title": "Melania Trump reunites her seventh group of Ukrainian and Russian children with their families",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZDhpdEhZa3ZTdnBCdV9iRFhQc1FLcC16WjJXSUVsS0JqWEFPOWRSdjlhMFZUWGhGZWF1SEF5dU5XMDJ1UDMxT0Rmajd3WVE0VTc0NWZzRGR2cS1CZUJ6LU9vbTZZWFBIYU8wRHA3NElQQlVMSzJIYXh2ZTZQU190T2ZHb0MzV3NMTl9DNzBTaS10bmFWUV94VHNubUdGcnRmMFNOUTZscHFwNDhXSnlzN0dsXy1TWXVhSnp2bDJPQkpnbFppREJ6M9IBzgFBVV95cUxNVTFvbzdEOVBKcmZfbk5kTDd6b2JJenFWeXlOaG9XcjJBZVZodTExaDF0T1ljT09Sd08tdlNGT1lNN01sM2QtMVpNUm1fQWl6OTZzVC1icVI5d0pLY3dHWWNvWnh1QXgtZEZWLS1fcjR6WU5VZEtGdlhwcjJqYmpMZFhMMGxPQUcwNl8xemtROVVhNy1saF9zSm1BZDhGa0hNbmlKV3pDcmRsNnRndDJLQTh1bDkzWlBOclNIQW5qVkVyOVN5ckNNRDRPZXQxUQ?oc=5",
+     "source": "PBS",
+     "published": "2026-11-25T21:08:56+00:00",
+     "summary": "Melania Trump reunites her seventh group of Ukrainian and Russian children with their families&nbsp;&nbsp;PBS",
+     "image": ""
+    },
+    {
+     "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+     "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T21:03:51+00:00",
+     "summary": "About 200,000 tents need replacing, Gaza\u2019s municipalities say, as the EU urges Israel to reopen all crossings.",
+     "image": ""
     },
     {
      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week \u2013 live",
@@ -172,14 +204,6 @@
      "image": ""
     },
     {
-     "title": "Trump to meet NATO chief Mark Rutte at Mar-a-Lago after Putin and Xi talks",
-     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPcEFNaFU4LWRCbmdCdklleW8wY1ROeVdieER0ekdnSTRYb1RKbi11ZkRLeXhaV0xaM0FOYjU1ek1sT180bDVaLWRvN0phM1Iwam56ak5DaGJ1dDRjTEVSc2VEQlFzenBBVmtGWnFGX1BkOFN3TmphSlhHcEpkN0F0bHhOaEhRYURFUVZmU2RFdmhuVVBjUEl1T25ZNVo1d0dKY1dhNW9NMndqMzhPZlFHeU90c0RyUTJTbkdYSXdwUDd6Z2lUTXd5dk5KZDYyd2VwMHdIMF9wdExJejJhOFY5bTJha2Fwc3Rvay1iSk45TFR0QUwyNHpkWUlOLTBSeDdLWFNaSlJCd3MyY1A5Rkdocmtsd19kc1Fnc1lzYUVRWVZleXM1dDI3OFVTdWxLRFc5eHlqSW9VQmJ1S0FjR1RTTVJJazVvTmpYRnJMS1FTOGRFWnhhWVhLdzNGRVowbkJ0RHhMQmRCMA?oc=5",
-     "source": "KATU",
-     "published": "2026-11-25T20:35:14+00:00",
-     "summary": "Trump to meet NATO chief Mark Rutte at Mar-a-Lago after Putin and Xi talks&nbsp;&nbsp;KATU",
-     "image": ""
-    },
-    {
      "title": "Russia Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNk8xOG8xMDJ1NnpkeUNsb1BYRnRSVHlKREFmaFhMZ3pQY0ltWGJGakM0UW91LWhMbEdyLVV4UV9ZbktxX1RsNTlTVUxvVGJaczNQMWtZUGxod0JLT0dka3A3MmdMcWljRldQYjEzMnZtOFA3WnF6VDJidVQ4Ukk5Q0I5cExfNk41dDFJZzZNRFhHalEyWmNicXhmVElPSXpURWg5dHpMWQ?oc=5",
      "source": "WV News",
@@ -194,37 +218,37 @@
      "published": "2026-11-25T20:29:22+00:00",
      "summary": "The judges&#039; recommendations came as Israel&#039;s longest-serving prime minister fights for his political survival.",
      "image": ""
-    },
-    {
-     "title": "More than 490,000 Russian soldiers have died during Ukraine war, leaked data suggests",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2pWcjFHdXEyc0tDU1lnYUFVaDhneEg2eHY4ajVDaG9IemhYNXpJejJ0ekFfRmNQM2xXaVVKTWlSRS1XUGNfekxtNGEtXzg3SHNCZlJtOURPdFplQ2N3Z1dLcDVtaldGTmRTSXNEM1RtSTVRUU14WHBINWJfVkRfczczZ3hqaUJGNlVURGpn?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-25T20:28:49+00:00",
-     "summary": "More than 490,000 Russian soldiers have died during Ukraine war, leaked data suggests&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Melania Trump Announces 9 Children Reunited with Families Amid Russia-Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QMVRnb1pjZW5rX283cERhcmhuZFExTi1SN3BzWVhKNjhYWW5oM3YwYzBwV1pwenZRdzJLZi1BbjNRNTQ1cWFTQ3dHelk1NHZMY1ItU29NSFVISmhVNThpV0JiVEFJdjNQbWpHU3JzNkJjR3p2WHZqdQ?oc=5",
-     "source": "East Wing Magazine",
-     "published": "2026-11-25T20:22:40+00:00",
-     "summary": "Melania Trump Announces 9 Children Reunited with Families Amid Russia-Ukraine War&nbsp;&nbsp;East Wing Magazine",
-     "image": ""
-    },
-    {
-     "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
-     "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-     "source": "The Guardian",
-     "published": "2026-11-25T20:20:23+00:00",
-     "summary": "Unclear if \u2018hostage-taker\u2019 who was killed may have been a hostage as daylong siege in Cartagena shopping centre endsColombian police have stormed a supermarket in one of the countr",
-     "image": "https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-25T21:08:30.864144+00:00",
+   "fetched_at": "2026-11-25T21:38:34.526654+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Former special counsel asks court to dismiss Marsha Blackburn\u2019s lawsuit from Trump election probe",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeDA4LUlCU1p0alg0bU5ETEN1SUh5ODJsTWl4Z2FVZmdHcWpsa2xtOTQtTnMxSU10NTFkSEhoZXBQRTR5VmxnQTNYYXdWVmFxVm1xQXJRdm5iQ3JjTy1oTFlWQkNETUQ2Q0pMS0MzV2VpSkhiblR1dG9YaWJiaEpTNVBBUnk3eGNTaHFILVVNMW5GYVdPa3J0OHV6VDFJLWNTX2QxaDlINDFmNTBtNWlaQmc3MU1ab2NTem14cXVn?oc=5",
+     "source": "WSMV",
+     "published": "2026-11-25T21:20:00+00:00",
+     "summary": "Former special counsel asks court to dismiss Marsha Blackburn\u2019s lawsuit from Trump election probe&nbsp;&nbsp;WSMV",
+     "image": ""
+    },
+    {
+     "title": "Likud appeals election results from 120 ballot boxes, seeks revote at those locations",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlNLVzYyR09wS0hVcjV1RWdHUElhVkRCT0lxclNuVnZwVno4dDRWZVBNUEpSN2N2c1FBRENXZTRsdXg4VmVTM0VSVjhYU2VObF9VOGQtTXlTSEZXeHFKSkNiYzVialpOZXZCSE1aeWNla3NxU3hBNkg4QzA2b2VRUnN6aWlvUVp5TUV1U3ZGY1h4eGtRaVh6amxhZzBlWTlPal9sdTZaV3Z1SFZPS05YdWU0WVNlQdIBuwFBVV95cUxQcjktZmJucTdlUXVFSzhMc1l3cG5LU3NwWU82dXZTdVg5eWNZcVc2YjJCbFpocHNCbGRqdFNyaWNIdUhDTkNRZEZRTW4xcTVHNXpfbDJISDNpWEJtWkt2YURnQkozdDFqTlJtM2Z5NngtWGNudmZ5OTRkNVpOMW4xRmNBZTdSdDZ4eF9KNjNaYkdHRUVFSGtJRnE2N0JfSFNUZmtnZm81Z0p6SFNyYVdJbjBoX3ZPcmhmOEVN?oc=5",
+     "source": "The Times of Israel",
+     "published": "2026-11-25T21:19:39+00:00",
+     "summary": "Likud appeals election results from 120 ballot boxes, seeks revote at those locations&nbsp;&nbsp;The Times of Israel",
+     "image": ""
+    },
+    {
+     "title": "Q&A: Learn about the Pflugerville City Council Place 4 candidates in the Dec. 12 runoff election",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdDZiZm9KQmtDaTdqVEh6ZFAySm84dmx6VkJwSUFLZ0lUdWVrQlRlbHlHSFZENDdkSkt5VUQ0anRrZXpOVUlBcWVMYkN3dW5XUjhJdnZzLU1CSzVlOUF0NGp1YWI4eU4xQ3Y0Q0lXc28yNHFhVHp2Q1FYeWtLNktld3o2X3Nzb1psM2xmeVFNS01aZHlXNG0wVnVPSFhEc2ZibUE5MnN4Q29TbVBESHRpTDBhUjNKaXF4N2J5akV2ekFXSl9BWFp5d0FMVzVwempDc29sQlM5dF9rZGx1SFdnVVIyZm9QZw?oc=5",
+     "source": "Community Impact Newspaper",
+     "published": "2026-11-25T21:15:37+00:00",
+     "summary": "Q&A: Learn about the Pflugerville City Council Place 4 candidates in the Dec. 12 runoff election&nbsp;&nbsp;Community Impact Newspaper",
+     "image": ""
+    },
     {
      "title": "UNC researchers study impact of generative AI on education as Google policy change approaches",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPam0yZjRzWXdZSkM1cjVsQlNRTVVtNXNKbUFFanh1Rmp3Mnp5VThjLXhrOE1wOXlqUmJsM3dsZ0h1RmVOVC12Sk50U1kzRTF1ZzJTaU4zQnRGNzNVdUtiNS1SdGJsWElBWEtzY1I1aC1XWXZQNk5lNWVQSnFHVVptVGlSd1R5dUFMZjZQRUpmR0xaWllXOUJ5cUJB?oc=5",
@@ -234,11 +258,27 @@
      "image": ""
     },
     {
-     "title": "Q&A: Learn about the Pflugerville City Council Place 4 candidates in the Dec. 12 runoff election",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdDZiZm9KQmtDaTdqVEh6ZFAySm84dmx6VkJwSUFLZ0lUdWVrQlRlbHlHSFZENDdkSkt5VUQ0anRrZXpOVUlBcWVMYkN3dW5XUjhJdnZzLU1CSzVlOUF0NGp1YWI4eU4xQ3Y0Q0lXc28yNHFhVHp2Q1FYeWtLNktld3o2X3Nzb1psM2xmeVFNS01aZHlXNG0wVnVPSFhEc2ZibUE5MnN4Q29TbVBESHRpTDBhUjNKaXF4N2J5akV2ekFXSl9BWFp5d0FMVzVwempDc29sQlM5dF9rZGx1SFdnVVIyZm9QZw?oc=5",
-     "source": "Community Impact Newspaper",
-     "published": "2026-11-25T21:06:28+00:00",
-     "summary": "Q&A: Learn about the Pflugerville City Council Place 4 candidates in the Dec. 12 runoff election&nbsp;&nbsp;Community Impact Newspaper",
+     "title": "MacEwen, Simmons re-elected as close Kitsap races certified",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa29sQ1JXMG5mQVVwTGR5WFdrN3lMQ0VJQzVIYmNCWVZfOWF3RG50NFFwWWItckNrVFV6SnZCS3V4WklEX1V6V3U4aHpjQk96T2VyVU90Z1VjaklUOUowZDE5SzBGYmJSWHozQV9mUmVPVTg1OG45QmxNYktlR3drZENMekNGdzQzd2wxYk9NUUpRd2JIWWoyMmxGcmZGN01xRGpNYWgyTmV6d3B0TlNrYjJEQm92R05Ya213WFA4QWNsWHpickxfa1NxaVNCOVdzdXhRZmhqYmRZZ0JmUGc?oc=5",
+     "source": "Kitsap Sun",
+     "published": "2026-11-25T21:05:00+00:00",
+     "summary": "MacEwen, Simmons re-elected as close Kitsap races certified&nbsp;&nbsp;Kitsap Sun",
+     "image": ""
+    },
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NUkVFTmlha3Fob1Y2R2NlcTduXzZYbkJzdmFQV1dpVWhKeC10NDBLSXJfRjBMd1paaGJma0hTZk1IR1FSRGJwLWEzNXloVmZjM0tLd3pOb09kUTdlbDliMlRVelIzdHJGZFltMVE2bkFVMEdOano5NWVZRmlVQQ?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-25T21:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
+     "title": "Australia\u2019s most progressive state is poised to turn blue. How would Victoria change under a Coalition government?",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM3Y2b2NaMzM5UnR4QURKRXRjYWNOR1g2U0RzUWc0ejNEZzY5ME1hQk12SDk3cmwtUHR6ZWR2dW5OOWZOeUR3MjdOZFR3RTNmVkF4czBOZHczam54c21NTk1zX2s3SjJrQ1N5TFYya1ltVXJBODJiLUtiYmJibnU0T25veGRJOFNDX2w4YkkwUXJNRmdPcUhTR2JhblBPVU5RR3lqYWhFV01WdjB4UFZpWQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-25T20:59:00+00:00",
+     "summary": "Australia\u2019s most progressive state is poised to turn blue. How would Victoria change under a Coalition government?&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-25T20:34:59+00:00",
      "summary": "Land banks can help fill the affordable housing gap&nbsp;&nbsp;Oklahoma Policy Institute",
      "image": ""
-    },
-    {
-     "title": "The people who kept American democracy alive on Nov. 3 \u2014 and why they deserve our thanks",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkdnaTNVMFQtMXpUZkFYLW9ySlpfX3hleDUybEd0aU1jaElUclRQNmVBU1lJYjg1X05iOGRZZkZZdHBvaVhtcm9vTHZqM0hGU1BKa05aMXY2X3FzQ3ZTdHE4cVRuQ0M2WUFfZXpIWTZvQmRfTWEydHVsQmI3NGZkOE9OLS1OQVZORmdydjl5MlU4bUZES0ZDUC1kRXhQSHFlamUtXzlfZ1pFbHdTbFMtTW1YV0F5RU1zeFE?oc=5",
-     "source": "Cleveland.com",
-     "published": "2026-11-25T20:32:00+00:00",
-     "summary": "The people who kept American democracy alive on Nov. 3 \u2014 and why they deserve our thanks&nbsp;&nbsp;Cleveland.com",
-     "image": ""
-    },
-    {
-     "title": "Beyond the Ballot Ep 97: Newly elected Attorney General talks election win, priorities ahead",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMlJvNHNhSmpXSy1jTjFJRWVXOUdzajBkdUpyaEZVOWRrOFMwUDhuY3h5Y0dDYU1TdmlLMmt2RW5JZnNEVkhmcTF5dWlsWWxERE5MaGx2OV9iNWVHRUtWdGxxSGl3RmVmbmhlVlZpRWJZSUVaTS14dzhGdXJ2ODI3N296dzYxbXd5Zmw3cV9hM3FudFNsOTV0WElGQ1h1Y01SZ1EwRXRUSTJ1U2hMX1VsWURteGVkVUdvd2trem9wQ0prZmVaalZZWXlZdXpQMHJC0gHkAUFVX3lxTE1ybXA3dEZHcHFQRzVMWGt1NlhmVTJQckNSWnM1WmhRRG85MUtaZUFNbXRLcHlvVWJ2aGs0Rkt0UlVNTUM1azA4VDB1b0hTdGwzTjByaEplRmVhbEdRdWRXNHJFOXhBUHdfOEdiVWhoMkx2U2FBWV8zbGdoYWx0UG9TYTVXaUNONjhoZ2xIckJuYnUwa3oyc282QnEzbUV6X1NMaVVkeV9xRU5hVTh0LV91N1BsMFdEa2Ytb2dXZ0lmNWVlMXMyNVRraTdxS0VtLWVEdjhndGRmTDBFb3hvbENjV19mcw?oc=5",
-     "source": "Upper Michigan's Source",
-     "published": "2026-11-25T20:31:10+00:00",
-     "summary": "Beyond the Ballot Ep 97: Newly elected Attorney General talks election win, priorities ahead&nbsp;&nbsp;Upper Michigan's Source",
-     "image": ""
-    },
-    {
-     "title": "What\u2019s behind Europe\u2019s protests?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T20:30:22+00:00",
-     "summary": "Increase in protests and industrial disputes across EU and UK.",
-     "image": ""
-    },
-    {
-     "title": "Woman accused of illegally voting in 2022 election appears in federal court",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOalB1b3NnYmpSR3hGQ3RKazNKOU01MHlpMWgxZUxXcVAwTlF5Q2ZIVThxTjFqUFNCOGlUTTV0djVXTTdiTDNaeVo4VXVtTWN6bWZJZXMydVR0YWlhdEVkc3phWXlsMnpLNlZZei1JWFYxQkNCVHQxMmVIVk1Ua2RJVG1YRmk2TVl3RW5ZTjhRR1MxMEg4Y3VnV1ZGT3ZkNjYwQ21UdFY0ZU1VQkhSSDcwTXRTc0U4QzBCV1BUelRKY1U4R0hkTkdwZzlwY1ZESTRyNm5hOXhtSTI4ek83cmFUMEV5cDI5ZzdOV1F2Rm9JTQ?oc=5",
-     "source": "KTVN",
-     "published": "2026-11-25T20:30:00+00:00",
-     "summary": "Woman accused of illegally voting in 2022 election appears in federal court&nbsp;&nbsp;KTVN",
-     "image": ""
-    },
-    {
-     "title": "Sen. Lankford laying foundation for 2028 re-election campaign",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUtFTHpXT2gxUmQ3YTNnQWU2TURXVzdMMlozZG1BTTBaUEFjNmpqLWVmc0pOV3V0RzBvZ2dMTXdqVFl3ekl0UEU1UUQ3d0dmenVZUFVVckgtZ0pZRHlpd04yOS1WSHRpN3BSYjJicHhuT2RuekN4Y05oZEZKZWZ4cjVoTTlDdDRZRENfY1U3X3ZEYlk?oc=5",
-     "source": "KRMG",
-     "published": "2026-11-25T20:28:55+00:00",
-     "summary": "Sen. Lankford laying foundation for 2028 re-election campaign&nbsp;&nbsp;KRMG",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-25T21:08:30.864146+00:00",
+   "fetched_at": "2026-11-25T21:38:34.526656+00:00",
    "stale": false,
    "items": [
     {
