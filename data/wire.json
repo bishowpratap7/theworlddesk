@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-25T05:05:45.048525+00:00",
+ "generated_at": "2026-11-25T05:35:49.126304+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-25T05:05:45.048504+00:00",
+   "fetched_at": "2026-11-25T05:35:49.126286+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australian politics live: \u2018A tragedy in the life of our nation\u2019: prime minister apologises to LGBTQ+ veterans",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-25T05:28:45+00:00",
+     "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
+     "image": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=140&quality=85&auto=format&fit=max&s=ac63489291435c88ab4b315a41629975"
+    },
+    {
+     "title": "The Gambia election: Can the next president deliver on a decade of promise",
+     "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T05:03:04+00:00",
+     "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
+     "image": ""
+    },
     {
      "title": "In charts: how power could shift in Europe\u2019s big year of elections",
      "url": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
@@ -22,20 +38,20 @@
      "image": "https://i.guim.co.uk/img/media/2d223c8b5e26f79cb3997f0a2575630d648c5211/551_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a72a13a74d03822c02704754be504b08"
     },
     {
-     "title": "Australian politics live: \u2018A tragedy in the life of our nation\u2019: prime minister apologises to LGBTQ+ veterans",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-25T04:59:58+00:00",
-     "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
-     "image": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=140&quality=85&auto=format&fit=max&s=ac63489291435c88ab4b315a41629975"
-    },
-    {
      "title": "Kilmar \u00c1brego Garc\u00eda leaving US for Spain, ending Trump deportation battle",
      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-25T04:49:55+00:00",
      "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
+    },
+    {
+     "title": "UK warns companies of potential Russian sabotage threat",
+     "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T04:48:57+00:00",
+     "summary": "Britain&#039;s Defence Ministry and security service warn of the threat in unusual public announcement.",
+     "image": ""
     },
     {
      "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
@@ -100,29 +116,45 @@
      "published": "2026-11-25T03:44:07+00:00",
      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-     "title": "Asia\u2019s stock markets dive as doubts swirl over AI boom",
-     "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T03:31:59+00:00",
-     "summary": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
-     "image": ""
-    },
-    {
-     "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-     "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-25T03:28:37+00:00",
-     "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-25T05:05:45.048513+00:00",
+   "fetched_at": "2026-11-25T05:35:49.126294+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-25T05:16:00+00:00",
+     "summary": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Trump\u2019s Ukraine-war realpolitik isn\u2019t realistic | RICH LOWRY | Opinion",
+     "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOcENIVFpKcGVTTlhfRmpubFdQbWpOc0ZITHpvZ2dfS1ZESjNHY0JuOVdDMnJ4TjN6bXh2cVBVNjlWVXRsSllMa09WTjBpdThSdU9CNlA2NGREX0hWM2poc0pRWVJnMnNJclZOWW1nVFpINE0yVy0wUmtDZ3BMS2U2dHJMcjVfeHFnc2dvd3Z0Q2x5VnhfRFpBN2hZYjBNQldKTmlEU1pWeFJDZG10d1lpUmhLSENPcXFlWTNhbHgxdWJ2NWR5eU5aVmJHQU1pbmF0Nm5pcXRWWlo4TFVIUWlYcnFxTHdUcmlaZWZxSkxiRk9SX3dQM3BqRG5VNUZzOS13T3A5U0Z6MUo1TlpQQ3VyVDcyTzJ5d0RwM2g3LTJoNV9iX3BOUkpQWXVTQzJQT1Q1QVNNeVZXTEN5R3J3RTc4RXBGZ1ZMS1A3dE1RQjJCb1JFMkZLUkotT3RQNkhnYkk3Q0hMMFA0WlJUNnYza25sYlZiUThxUQ?oc=5",
+     "source": "Las Vegas Review-Journal",
+     "published": "2026-11-25T05:08:50+00:00",
+     "summary": "Trump\u2019s Ukraine-war realpolitik isn\u2019t realistic | RICH LOWRY | Opinion&nbsp;&nbsp;Las Vegas Review-Journal",
+     "image": ""
+    },
+    {
+     "title": "Russia\u2013Ukraine confrontation off Libya threatens Europe's southern flank",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnZTQzBYU0Y2TTg2N3ZDblN4UG1VcnBEUnMtaExGcTZyYlFlbEY3OGF5SElsM2tsRkF4aTJPVzdhdmNyYXllN1dfOGNlWmdxNV84SWlSMHZqNmtvWmQ2UWVGZnl1N1dmUmhCUThURTZBSHJWWF9qcVFtUzI2cnlEYk1iWEl6X1g3MS1PQjlPd1dtczc4UkNPU3FWZkJrSGNWQUZpVER5WnBKZnFJcG1aLU11cHB6N1ZmYmg1UVVUNzA?oc=5",
+     "source": "Escudo Digital",
+     "published": "2026-11-25T05:05:01+00:00",
+     "summary": "Russia\u2013Ukraine confrontation off Libya threatens Europe's southern flank&nbsp;&nbsp;Escudo Digital",
+     "image": ""
+    },
+    {
+     "title": "On Ukraine, Kushner Just Sold Out America First",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVTFBUVdSNVRVM0p2eHE3QUxhMHVUcFZ5OTRVODVXQUVWVnBkS1RRTTk2UHRiWDdGNkR3alpDS3F6cjFHTHQ3Rm5iTzFnbFJBZm9wOE1pcEtPQ19FQTFudHViNloxWjZGaGlZTEhPM1BRUmd4VjlZOFNkZE0xWklvdldTNFo3S2VrdzZmWENNMmE?oc=5",
+     "source": "The American Conservative",
+     "published": "2026-11-25T05:05:00+00:00",
+     "summary": "On Ukraine, Kushner Just Sold Out America First&nbsp;&nbsp;The American Conservative",
+     "image": ""
+    },
     {
      "title": "\u2018They don\u2019t believe in freedom\u2019: Yemenis plan their escape as Houthis advance on Aden",
      "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
@@ -133,7 +165,7 @@
     },
     {
      "title": "UK warns companies of potential Russian sabotage threat",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXBtQzg4dC1XcmdvS29rR3AtZ3BZU1VTaHhIcWtoWGVJdnkwdWVfLVdOczg3X2JUSzdld21iU0RhY0UzWFlXWUVqRVl1Z0l2aDVfajA4Q2F3NFUydlVyVTY0bjQtMS1kUEhRcUx1RGs3OXBRYjhlb0dKSHZpQktfYlFXSS1mRkc0ckRyZGcyajRQdFBMejM2R2phYWtRQdIBowFBVV95cUxOZ3dyNzFjbUk0YlQzLUFDVzZqSC1MdEdjNGtfa3g0LTF1LUhQLWxqeFlUaHdjcXdDLWRCLWpVeS1RMFZ2dm1RQ3FianFXbER2Y1dNb1VOclNDV0JnZU45dEJIY1ROeUZEWmQ3N0NyblNrV2pINVN1VXNuVXJVMmJzTDFBT25EeFo1TzkzaDRyNHdONDZTNjcxSjd1bmUta3Ywc1Z3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXBtQzg4dC1XcmdvS29rR3AtZ3BZU1VTaHhIcWtoWGVJdnkwdWVfLVdOczg3X2JUSzdld21iU0RhY0UzWFlXWUVqRVl1Z0l2aDVfajA4Q2F3NFUydlVyVTY0bjQtMS1kUEhRcUx1RGs3OXBRYjhlb0dKSHZpQktfYlFXSS1mRkc0ckRyZGcyajRQdFBMejM2R2phYWtRQQ?oc=5",
      "source": "Al Jazeera",
      "published": "2026-11-25T04:52:30+00:00",
      "summary": "UK warns companies of potential Russian sabotage threat&nbsp;&nbsp;Al Jazeera",
@@ -186,45 +218,37 @@
      "published": "2026-11-25T03:46:51+00:00",
      "summary": "Two Libyan soldiers have died from injuries sustained in an attack, claimed by Ukraine, on Russian ships near Benghazi, a senior figure in the administration in eastern Libya said ",
      "image": "https://s.france24.com/media/display/dd313f6c-e76f-11f1-85b8-e56ab3dc0809/w:1024/p:16x9/2026-11-23T102302Z-464352545-RC2MTOAS4A1W-RTRMADP-3-UKRAINE-CRISIS.jpg"
-    },
-    {
-     "title": "Media: Over 490,000 Russian soldiers killed in Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wdy1VemQ4bjNOeE9xSHdqZzRZOWNnRlpZTjA3blk1b2UyN0lfTkZYU2F1blJaQ3VqTUlkUHRNWHVMOTZyM2JxaFBZQnotNXh6VjZxaDNfXzVPOHpUSWZVdFNJOA?oc=5",
-     "source": "NHK\u30cb\u30e5\u30fc\u30b9",
-     "published": "2026-11-25T03:38:39+00:00",
-     "summary": "Media: Over 490,000 Russian soldiers killed in Ukraine war&nbsp;&nbsp;NHK\u30cb\u30e5\u30fc\u30b9",
-     "image": ""
-    },
-    {
-     "title": "The Russian army\u2019s secret death toll \u2013 podcast",
-     "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
-     "source": "The Guardian",
-     "published": "2026-11-25T03:00:03+00:00",
-     "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions",
-     "image": "https://i.guim.co.uk/img/media/73eb1f79e1f589dbc01f5457078faa6090ee6ee2/17_0_3549_2838/master/3549.jpg?width=140&quality=85&auto=format&fit=max&s=8f2b91771886bc5fe0b2dd8f2686ebf1"
-    },
-    {
-     "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
-     "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T02:40:59+00:00",
-     "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia&#039;s safe departure to Spain as a &#039;free man&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war briefing: Zelenskyy and Hungary PM hail new era of cooperation after Orb\u00e1n",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0NGbmNYUlhldnlJSjJhb3pNbGdNSWswaDFERVZWanhxa2FLYmhxbGUtbHZVc1VWS2RCQnZQT2FmVjlUS3ZPY3ozbjYyOVFHNEdXalh2bXZBR1diNUNEbUZCV1E4bUpRaER0MVpWRXlRdjlERmdjUXNmbEk4MV9yeFhMVi12NUFCM2FFR0RDdWp3a0Z4d195VXpoN0JveVV1VExFMWxBT0RWZjBacjNRNXVXMzJpb2xXVkw2QWUycnd1TElCOUVMbFVpcw?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-25T02:21:00+00:00",
-     "summary": "Ukraine war briefing: Zelenskyy and Hungary PM hail new era of cooperation after Orb\u00e1n&nbsp;&nbsp;The Guardian",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-25T05:05:45.048516+00:00",
+   "fetched_at": "2026-11-25T05:35:49.126297+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Australian politics live: \u2018A tragedy in the life of our nation\u2019: prime minister apologises to LGBTQ+ veterans",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-25T05:28:45+00:00",
+     "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
+     "image": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=140&quality=85&auto=format&fit=max&s=ac63489291435c88ab4b315a41629975"
+    },
+    {
+     "title": "The Gambia election: Can the next president deliver on a decade of promise",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFDSVlVY2J3Mk9TLUIzRTFXWmdBajlZRDlWdkxtdDB5cTdCSlc3a1gxbjRoY0hzWEJnenFuQk5UZ0lfanNTazFXUzNVUXN3Zl96Wll6dUhmaVdrRkZBcThxb3JOX2xGX0syYlhaZmFrNzZrY3J1ZHNad1NmUFd0Y0UzVXUtX3pwZ3Z6c2Q1UmFpM3BXQU4xdUMzNTFZbFJDbDVXQTdlUGcyXzdNY0RyUGE1aFpSZ9IBuwFBVV95cUxNTVN3ankyQjlsdEl2M1RiejZIQmdjN1RBUnBSOFVhV1FGLTFqQVpiWjhya09QSmcwZDlXcHlrbEFjdEFHck9pRGY2NkpLRTllRFc3cklNaXpnMkxKVFppVFhWLXQ3bzhjbFIzbG9DSUtJNGxHZkFOX2dsME5IaG5jeE8wa1luRlYtWGo5b3pLVDBDSm5rb2hNSmxwWkFkLVJ2U0tBeTNCdEU1ai1ZVjNoeExaQzhVX05oaUVz?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T05:06:04+00:00",
+     "summary": "The Gambia election: Can the next president deliver on a decade of promise&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Q&A: Learn about the Kyle mayor candidates in the Dec. 12 runoff election",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTFVMUnBXYW5xWm9MbFRLOXZwREwtMHlqZXZuWXRNNVBBUUI5MzZ2ajJLNlROWlZZY09adXlSamxFMkNoNXFwbEZqRFZoUTNDTlo5d0RRdldNY0JsRkFGS0t5dHZGVDRpblVoVGtKRHFfZ25PNjNoMTZyMktUWXhSV3FHdV95Y1ZkUXlfem9TUWl6cjBVTnlnaWM3bVN6Qmo2WUF3bEFLX0FSZUhBZ25CZkdJQjYyLU55UHZxVWRjbFBDd2h2MGZkVVp3?oc=5",
+     "source": "Community Impact Newspaper",
+     "published": "2026-11-25T05:04:57+00:00",
+     "summary": "Q&A: Learn about the Kyle mayor candidates in the Dec. 12 runoff election&nbsp;&nbsp;Community Impact Newspaper",
+     "image": ""
+    },
     {
      "title": "In charts: how power could shift in Europe\u2019s big year of elections",
      "url": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
@@ -232,14 +256,6 @@
      "published": "2026-11-25T05:00:06+00:00",
      "summary": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trendsOver the coming",
      "image": "https://i.guim.co.uk/img/media/3fb443520d5ae15fd4e46dca873678b8da5e63ea/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6c8d875c651e2501485fc0d31e2f52d2"
-    },
-    {
-     "title": "Australian politics live: \u2018A tragedy in the life of our nation\u2019: prime minister apologises to LGBTQ+ veterans",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-25T04:59:58+00:00",
-     "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a \u2018zero-sum game\u2019Weighing into the gigantic debate that is AI com",
-     "image": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=140&quality=85&auto=format&fit=max&s=ac63489291435c88ab4b315a41629975"
     },
     {
      "title": "Kilmar \u00c1brego Garc\u00eda leaving US for Spain, ending Trump deportation battle",
@@ -304,27 +320,11 @@
      "published": "2026-11-25T03:19:00+00:00",
      "summary": "North Korea expels Swiss representative over sanctions related to children's camp&nbsp;&nbsp;Reuters",
      "image": ""
-    },
-    {
-     "title": "Iowa certifies midterm election results after historic voter turnout",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEtkSDdqTVJ4ZlBkNW1yajVyR1VVd3NuVWh3QXpVaTFEZDZQaDBCVXFZSngzR016bjg1VVAzTnJUOTVrSGcyNU9XVG9Kem85NG11NFBkd18zVGxwVm16TmU0SHo4S3cxdXZwbGlJR3luMDZDNHpSWmt2M2l6QjZvQWJ5RUx2ZUxlYXFxMF9kLU1XUXdLZDhocXIzSXdlYnpzbDM0MNIBqgFBVV95cUxOZ1pFbHVqNjJ4UUVYN2dIdFdLaU9BU24xUzQwdVpFV3MxYUpIWnZBRmhTMHBNYjFuMVFaN19LMUZIQ3ozT201RV9DTER2QWk5QlBWZXVzQmhkazNYMmtCcUVlMUtXeFdObDJvUklKd1BGM1ZmUHh3SjcyRTF2dzlvTk1ZMmZQaVBhXzFxby1lZkNaNHZPX1B3YUdkZlFpc3BTNmVhNnJoUHU4dw?oc=5",
-     "source": "WHO13.com",
-     "published": "2026-11-25T03:16:02+00:00",
-     "summary": "Iowa certifies midterm election results after historic voter turnout&nbsp;&nbsp;WHO13.com",
-     "image": ""
-    },
-    {
-     "title": "Early leaders, money measures prevail in final GC election count",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNktNS1Y5MWVIUENXRk5ZMGk0b1doQkh4VHZ3UEttUGIzMkN5TWUzQmozZUtmWnVUa2c4dzg4VnJjcnpfZkNBSVdzN0pwRUllVUp2UGlLLVBsWWlldk9DWGlUUzV2ck1YNTFrR3NBQ3NPWG42RTJVcGRLQWdQRGpVZTRzUVNTbXJxMHlsTFN3?oc=5",
-     "source": "GCJ.news",
-     "published": "2026-11-25T03:03:52+00:00",
-     "summary": "Early leaders, money measures prevail in final GC election count&nbsp;&nbsp;GCJ.news",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-25T05:05:45.048518+00:00",
+   "fetched_at": "2026-11-25T05:35:49.126298+00:00",
    "stale": false,
    "items": [
     {
