@@ -1,17 +1,41 @@
 {
- "generated_at": "2026-11-26T05:15:04.932618+00:00",
+ "generated_at": "2026-11-26T05:45:08.919062+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-26T05:15:04.932593+00:00",
+   "fetched_at": "2026-11-26T05:45:08.919036+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Chalmers says unemployment rise a \u2018very bad development\u2019; Liberals \u2018tossing up whether to leave or remain\u2019, PM says",
+     "title": "Coalition would privatise Melbourne\u2019s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+     "source": "The Guardian",
+     "published": "2026-11-26T05:30:32+00:00",
+     "summary": "Liberal and Nationals\u2019 pre-election policy costings also reveal that \u2018air rights\u2019 between Richmond train station and the MCG would be soldFollow our Australia politics live blog fo",
+     "image": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=7fe8d3290955a71627069d699b669954"
+    },
+    {
+     "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying \u2018you gave her your trust, she threw it away\u2019",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-26T05:02:34+00:00",
+     "published": "2026-11-26T05:28:39+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is ",
-     "image": "https://i.guim.co.uk/img/media/ead3c0a6d92c227ba66bb9b3cf56c9b35db0c0c8/1311_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=634693b9ed73c34e4486ccf6c16de604"
+     "image": "https://i.guim.co.uk/img/media/c3ec155e9d4a650a27cbceedb519cb4854d5ff62/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=2865d03e58df7373f41d2246e7e8c1d9"
+    },
+    {
+     "title": "\u2018Trapped in grief\u2019: wife of Japanese journalist detained by Russia pleads for his release",
+     "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+     "source": "The Guardian",
+     "published": "2026-11-26T05:16:17+00:00",
+     "summary": "Yuki Imai being held in Moscow on allegations he conducted \u2018espionage\u2019 while working for a newspaper in Sakhalin island in Russia\u2019s far eastThe wife of a Japanese journalist who ha",
+     "image": "https://i.guim.co.uk/img/media/f7349b5a0198586f19bc4822b8a0fa79befc8a06/321_0_1567_1254/master/1567.jpg?width=140&quality=85&auto=format&fit=max&s=4bfa5529a96469d080a5a4e64d4ad1dd"
+    },
+    {
+     "title": "Puerto Rico\u2019s Supreme Court cancels major power contract",
+     "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T05:09:55+00:00",
+     "summary": "The court&#039;s five-to-four ruling ends Luma Energy&#039;s operations after a contentious legal battle.",
+     "image": ""
     },
     {
      "title": "UK to invest \u00a39.5m in Ukraine windfarm to bolster war-hit energy system",
@@ -44,14 +68,6 @@
      "published": "2026-11-26T04:47:36+00:00",
      "summary": "Fire making a \u2018significant run\u2019 towards the south-west of Flinders Island on Thursday, Tasmania Fire Service saysGet our breaking news email, free app or daily news podcastResident",
      "image": "https://i.guim.co.uk/img/media/233bcc415b139a4c7cb303ad0a176d9ff6433c48/66_0_880_704/master/880.jpg?width=140&quality=85&auto=format&fit=max&s=b202b3c29c5683ffa86cc26b07ff0f0b"
-    },
-    {
-     "title": "Coalition would privatise Melbourne\u2019s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-     "source": "The Guardian",
-     "published": "2026-11-26T04:34:12+00:00",
-     "summary": "Liberal and Nationals\u2019 pre-election policy costings also reveal that \u2018air rights\u2019 between Richmond train station and the MCG would be soldFollow our Australia politics live blog fo",
-     "image": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=7fe8d3290955a71627069d699b669954"
     },
     {
      "title": "Racecourse office blown away in Brazil",
@@ -99,30 +115,54 @@
      "source": "BBC News",
      "published": "2026-11-26T03:27:33+00:00",
      "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0d/live/c9da76c0-e94c-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-     "title": "Colombian president taunts arrested supermarket hostage-takers",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T03:23:24+00:00",
-     "summary": "Colombia\u2019s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
-     "image": ""
-    },
-    {
-     "title": "Anthropic CEO Amodei denies wanting humanity to \u2018surrender\u2019 free will to AI",
-     "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T03:20:23+00:00",
-     "summary": "Dario Amodei&#039;s remarks come amid predictions that AI may soon match or surpass human intelligence.",
-     "image": ""
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-26T05:15:04.932606+00:00",
+   "fetched_at": "2026-11-26T05:45:08.919050+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Bulgaria\u2019s premier says biggest risk from Ukraine war is safety of nuclear plants",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnRPMzVvX3lBYVZMWHF5ZVBYUmRvMmdkTlNjTjhjX0VPbXdZM2lSdG1uazl3bkdlVktFNFg1Z0doTy1qcWJZa3ZlTUJ0VjF2eXF6cDhvN2MwUng2cFl1RERfcTlCaVZhbjlTTU1XMlJ0eER5enVJbS1KOWNZbXlXTTRwZkh1MDliY1lseUppb19teDFfeGcxLTEtR2N6eWtLTFgwT2Vnb3Y5c3AzLTVUTGRFNUZ0VkdZX21j?oc=5",
+     "source": "Yeni Safak English",
+     "published": "2026-11-26T05:39:43+00:00",
+     "summary": "Bulgaria\u2019s premier says biggest risk from Ukraine war is safety of nuclear plants&nbsp;&nbsp;Yeni Safak English",
+     "image": ""
+    },
+    {
+     "title": "Trump, NATO chief urge Russia not to \u2018expand\u2019 Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR044UGt2ZWdqNmJLclFnc21MZC1FcHVSSl90RXlENXV1cFlNZ1pOWVNoTDRCWUlldFNkQ3R2a2ZtczdleHE1dmRSR3JtYi1vcXBkRnZWd2YxMUZLbVVCbUF6WE9pTVo2ZzhhWXVGMkVGaDRUbXZHWFA4NnpFVUdLdmppeHlqdjBXM2RhaVZ3Y3FlWVJsOWR0TQ?oc=5",
+     "source": "Arab News",
+     "published": "2026-11-26T05:29:32+00:00",
+     "summary": "Trump, NATO chief urge Russia not to \u2018expand\u2019 Ukraine war&nbsp;&nbsp;Arab News",
+     "image": ""
+    },
+    {
+     "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying \u2018you gave her your trust, she threw it away\u2019",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-26T05:28:39+00:00",
+     "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is ",
+     "image": "https://i.guim.co.uk/img/media/c3ec155e9d4a650a27cbceedb519cb4854d5ff62/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=2865d03e58df7373f41d2246e7e8c1d9"
+    },
+    {
+     "title": "Ukraine sinks Russian corvette in Libya, taking the war into the Mediterranean",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM1h1bF9uQUctU1czT1lYNnAyajVOcFpKRkUtZzZ4dmtqLWJ2NEUweDl0QjRYRjlHWVhDMWlwR2RLSVI2LUpxU0ZBMlQzLVFfV2ZVbTdsNzdpcXFuNUw3eEFoUlM4QjI3T0k0NDItUUlVV2tmVHUxQnJqZW04Tkc4TUR2VjhtOXF3TDQtZG9vMmc1NlhWRUFoTGF6UHdfVEV0c3FxeGJuaWNScVNEd3E5WW9BdHcyZw?oc=5",
+     "source": "Escudo Digital",
+     "published": "2026-11-26T05:20:02+00:00",
+     "summary": "Ukraine sinks Russian corvette in Libya, taking the war into the Mediterranean&nbsp;&nbsp;Escudo Digital",
+     "image": ""
+    },
+    {
+     "title": "\u2018Trapped in grief\u2019: wife of Japanese journalist detained by Russia pleads for his release",
+     "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+     "source": "The Guardian",
+     "published": "2026-11-26T05:16:17+00:00",
+     "summary": "Yuki Imai being held in Moscow on allegations he conducted \u2018espionage\u2019 while working for a newspaper in Sakhalin island in Russia\u2019s far eastThe wife of a Japanese journalist who ha",
+     "image": "https://i.guim.co.uk/img/media/f7349b5a0198586f19bc4822b8a0fa79befc8a06/321_0_1567_1254/master/1567.jpg?width=140&quality=85&auto=format&fit=max&s=4bfa5529a96469d080a5a4e64d4ad1dd"
+    },
     {
      "title": "Russia must avoid \u2018any actions\u2019 expanding war in Ukraine -- Trump, NATO chief say after Mar-a-Lago meeting",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzVqR3J2cDZqYW9Lbks4eE5oblRrekdmSXNNUTR3VHJFbWVkT2tGMDFpY1NJMEcwb3VlQ0NkYmN6eDNkVjQxSzF6TE0tTHN0NjczVGdZcWkxMDFBOWNOTWRaelJJbVhSa3BubEIyeG05bmozSFdiZHEzdDF3NEExcE1aS0stX0NxRWJyVTBQNFdoUGJVQWpXdTRmbFBZelBMNDJ0dmpxWTA2TDhLV241UExDZGZtWDdoWm5UQ0pVejkzRWU3bzBHb2g1ZTlSVXdoZjlrYWtB?oc=5",
@@ -130,14 +170,6 @@
      "published": "2026-11-26T05:04:00+00:00",
      "summary": "Russia must avoid \u2018any actions\u2019 expanding war in Ukraine -- Trump, NATO chief say after Mar-a-Lago meeting&nbsp;&nbsp;New York Post",
      "image": ""
-    },
-    {
-     "title": "Australian politics live: Chalmers says unemployment rise a \u2018very bad development\u2019; Liberals \u2018tossing up whether to leave or remain\u2019, PM says",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-26T05:02:34+00:00",
-     "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is ",
-     "image": "https://i.guim.co.uk/img/media/ead3c0a6d92c227ba66bb9b3cf56c9b35db0c0c8/1311_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=634693b9ed73c34e4486ccf6c16de604"
     },
     {
      "title": "\u2018Just taking part was a victory\u2019: veterans\u2019 sport helps recovery in Ukraine",
@@ -153,14 +185,6 @@
      "source": "The Guardian",
      "published": "2026-11-26T05:00:00+00:00",
      "summary": "UK to invest \u00a39.5m in Ukraine windfarm to bolster war-hit energy system&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "The devastating scale of Putin\u2019s war on Ukraine laid bare as leaked figures show 500,000 Russian soldiers dead",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmp6aE9sTnUxdUx4LU9IbXpqcUJWUjNuZnFMd0VHT2NVTC1ZdjVPY1lWRVFqNWJkcnNJTmQtUzVBR25KVDZaQWxrWGNtY1hjRHc0QTNHcW9nRjRqRUhTWkVkTnMybml0VWU3NFhqbWVhOFRxVUc1bi1ueDdzRkhIV0I1TzhEWWVIVXFmNlVaVHBEZUt3VG1udXZCeklIMHp5TkJlVjZyLWhEUEV4TXZGMjNVS2VveG1JY1BfY3VmZFNZZw?oc=5",
-     "source": "The Independent",
-     "published": "2026-11-26T04:53:00+00:00",
-     "summary": "The devastating scale of Putin\u2019s war on Ukraine laid bare as leaked figures show 500,000 Russian soldiers dead&nbsp;&nbsp;The Independent",
      "image": ""
     },
     {
@@ -194,37 +218,53 @@
      "published": "2026-11-26T03:23:24+00:00",
      "summary": "Colombia\u2019s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
      "image": ""
-    },
-    {
-     "title": "Ukraine\u2019s Shadow War in Africa",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjV3dkloWC1YVnVUYjh4anRoazJpcndNQXNUejg0S1E3QlRmbU5qaEdYRER1NUg3YnVOWWdqa3dmZmVUZ0dsc2R1VGVKQlM5bHN6di1jMkZUZjh6UXpKQ2FTZ0RlckJkWENTdFRGalJPY2l6djdPQWhpWDA2RjJBQnBFT0VXR1lwVzZGN1dWTW0?oc=5",
-     "source": "Foreign Policy",
-     "published": "2026-11-26T02:46:06+00:00",
-     "summary": "Ukraine\u2019s Shadow War in Africa&nbsp;&nbsp;Foreign Policy",
-     "image": ""
-    },
-    {
-     "title": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3JxOXQ3SWhCN1U4OENUcVh1TmZLYXdLS2lHa1FIa01PR0JyaDctdHF6NjJVWmhPbWZ5N0pqeW90T01fQlo4a0EwaDE0Y1Z3dk9KNkE0Mml0QjdORmVrOW84bnBZRTg3dkRUeVpHRW5VMWxCcEJ4RGhQUVBtaWJpNnl1enNUd1V2RWpRSi1CME54NmFoRF9EenF6X1I1V3I4NGhnaTZFWFdvQUFxY0d2bllzaDFRWUE0N25zSTVYdkdpdUxRb2VldnZQM3oyUQ?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-26T02:35:00+00:00",
-     "summary": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Australia projected to completely miss 2035 emissions target without new climate policies",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
-     "source": "The Guardian",
-     "published": "2026-11-26T02:26:10+00:00",
-     "summary": "New official projections show country nearly on track for 2030 goal but Chris Bowen warns of \u2018undeniable headwinds\u2019Sign up for climate and environment editor Adam Morton\u2019s free Cle",
-     "image": "https://i.guim.co.uk/img/media/6bc9fc5f6a817cf2c3f2ae94fa662f095a4a7e4a/152_0_2369_1896/master/2369.jpg?width=140&quality=85&auto=format&fit=max&s=cfed3809fab50aa7547ab0cc010d00dc"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-26T05:15:04.932608+00:00",
+   "fetched_at": "2026-11-26T05:45:08.919053+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Coalition would privatise Melbourne\u2019s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+     "source": "The Guardian",
+     "published": "2026-11-26T05:30:32+00:00",
+     "summary": "Liberal and Nationals\u2019 pre-election policy costings also reveal that \u2018air rights\u2019 between Richmond train station and the MCG would be soldFollow our Australia politics live blog fo",
+     "image": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=7fe8d3290955a71627069d699b669954"
+    },
+    {
+     "title": "US-China pickleball diplomacy: 39 Maryland students to visit China",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbTlxWGw5VDNfTzd5aUNGbkdsdEJaSXVxYVdHY3lFMFAwX053c0pxVy1QTDN0U3ZKeGJJOUxCMG5SeEc1OG1MSVNoVlhrUHJ3RlFzQ0FvRFlQczZuVWJSQnFTYUVGWmtQN20xR3A4czlqOFgyZnIzQmdta3FVcmtkWC1n?oc=5",
+     "source": "China Daily Global Edition",
+     "published": "2026-11-26T05:28:03+00:00",
+     "summary": "US-China pickleball diplomacy: 39 Maryland students to visit China&nbsp;&nbsp;China Daily Global Edition",
+     "image": ""
+    },
+    {
+     "title": "PAC SCRUTINY: Election Commission ends complaints against Engling, Bayh; Hoosier Leadership for America decision delayed",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORmFFV3U1QkxsaDcwa0swRVhWcXJFdmpabXlXZjR3RS1WOWxfMmdnaHF2V1lUa3ZDcTlxVTFmR2oySFVTNmI3NEo0N2NfXzhJSXphZGhBSUJlajRacTJVbzl0Y1N0T3BDMFJxNTBOLUxIU2s5WEhTUzV3RWUyTWdmOWJ3MkY5RXFfTXVjNFY3QnpDRjdDN0NiTkFLbTluQQ?oc=5",
+     "source": "the indiana citizen",
+     "published": "2026-11-26T05:26:15+00:00",
+     "summary": "PAC SCRUTINY: Election Commission ends complaints against Engling, Bayh; Hoosier Leadership for America decision delayed&nbsp;&nbsp;the indiana citizen",
+     "image": ""
+    },
+    {
+     "title": "Puerto Rico\u2019s Supreme Court cancels major power contract",
+     "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T05:09:55+00:00",
+     "summary": "The court&#039;s five-to-four ruling ends Luma Energy&#039;s operations after a contentious legal battle.",
+     "image": ""
+    },
+    {
+     "title": "Spain's snap election: Five key questions for financial markets",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFZGRnlyUS1kZHlNY28tLXpFdGFiMGhPZTNCTGtkaDNaZ0t6YVdqU3VGeTA0YWVIdHp0STNadFg5Nmx0alp6SkRlTGFzV0NiZFo3STdpV1FxaTI3WnJvYjFQU05FOURkbVE4RVE5Sm1ZZVdLYkVYTFVVNXhMY0JOU3Bza0VkckxwdUFwVU1hUGNuSThTakxkSlpkWHFiQWdHM3hYYVpiNUVSN3lLMDB3?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-26T05:04:00+00:00",
+     "summary": "Spain's snap election: Five key questions for financial markets&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "Spain\u2019s election could see Europe\u2019s far-right \u2018firewall\u2019 begin to fall apart",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2pXdnUzTWppYWdXakV0b3ZGV2xWWi1rYlQ1eHQtYzVTVUFseWxla1U2MTN1R0dIS05zOEw0Ti1hbDF2dEJHQkJEeVdKX29UUEIyRTlZUGtRaEplVXpwNkF1Y0V5eTlnTkxMRVBtZUlaRVdwdTFfeU5NUW1JV0d2RHI2OGVqbTNHNjhyRzB5UWoybDgxVEJUQUdDR3lpbXZCSkdkSzl2bUxLVGM?oc=5",
@@ -250,14 +290,6 @@
      "image": ""
     },
     {
-     "title": "Coalition would privatise Melbourne\u2019s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-     "source": "The Guardian",
-     "published": "2026-11-26T04:34:12+00:00",
-     "summary": "Liberal and Nationals\u2019 pre-election policy costings also reveal that \u2018air rights\u2019 between Richmond train station and the MCG would be soldFollow our Australia politics live blog fo",
-     "image": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=7fe8d3290955a71627069d699b669954"
-    },
-    {
      "title": "San Bernardino County certifies General Election results; new mayors confirmed for Fontana and Ontario",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWE9ScllYQ1ZlMVVkbV9kZm0yRmpPcHBtYUJjQ3dXZGI4NkVVWFhHVzdpa0Q4cnRMbTRjWDZCYXVrLVcwcEtvWnkyeUVxUGs2RmNySXBqQkpEVU45Q0hjUXl6ajFoM19VQ3EydEEtNDIwTGw2dmNpX2tZZG9IUTBiLUNQRXp2V0xETFBYNzIycUFXNVFZUGQ2SEhlMEdrQXpKNXNrU2xjajBNS3J5UFdYdXhPLXBwOHZfeE80cjlyZzdMcGpGMTRab0tQa0dTenQt?oc=5",
      "source": "San Bernardino Sun",
@@ -274,57 +306,25 @@
      "image": ""
     },
     {
-     "title": "Australia\u2019s most progressive state is poised to turn blue. How would Victoria change under a Coalition government?",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM3Y2b2NaMzM5UnR4QURKRXRjYWNOR1g2U0RzUWc0ejNEZzY5ME1hQk12SDk3cmwtUHR6ZWR2dW5OOWZOeUR3MjdOZFR3RTNmVkF4czBOZHczam54c21NTk1zX2s3SjJrQ1N5TFYya1ltVXJBODJiLUtiYmJibnU0T25veGRJOFNDX2w4YkkwUXJNRmdPcUhTR2JhblBPVU5RR3lqYWhFV01WdjB4UFZpWQ?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-26T03:10:00+00:00",
-     "summary": "Australia\u2019s most progressive state is poised to turn blue. How would Victoria change under a Coalition government?&nbsp;&nbsp;The Guardian",
+     "title": "Stable weather expected for Election Day",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EZ0wtV3hyQmlMWWhlMGV5V09xTUYxY1UtMTdJeGVvVzJZZUdIb1pGcVlqUkxZWWtGYmZYazJfR0NOZGtwZ24ybE1ud1ZnSzh5OG1JZ1JzYVQyUlRiRVktYmJUa3g2dXpKRldkWmo4RWtHZG1vV3drUUR3?oc=5",
+     "source": "Taipei Times",
+     "published": "2026-11-26T03:51:03+00:00",
+     "summary": "Stable weather expected for Election Day&nbsp;&nbsp;Taipei Times",
      "image": ""
     },
     {
-     "title": "How to watch the Spanish election like a pro",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS0UzMDRtQWVhVlJyd2NsVTdDUXVGb2kxMF9wRzh3M2FsUURSbXlweEoxWEJ6c0dvaE4wQXZBNDRNR0l3cmJBbERVTnpiS1JKVDVwaHdFTmE5VXQyUTlkY3BLTnF3aTl1LUpxVmtabVBGVWN0U0Z0TE1fS2lvdUREQ2ZXQQ?oc=5",
-     "source": "POLITICO.eu",
-     "published": "2026-11-26T03:04:31+00:00",
-     "summary": "How to watch the Spanish election like a pro&nbsp;&nbsp;POLITICO.eu",
-     "image": ""
-    },
-    {
-     "title": "Spain\u2019s election: the end of a leftwing icon? - podcast",
-     "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
-     "source": "The Guardian",
-     "published": "2026-11-26T03:00:43+00:00",
-     "summary": "Madrid correspondent Sam Jones and European community affairs correspondent Ashifa Kassam report on a pivotal election in Spain this weekend, which could see longtime PM Pedro S\u00e1nc",
-     "image": "https://i.guim.co.uk/img/media/a4570fa84a7e3ee4aac3e257799591f91a8b2aba/175_0_6119_4896/master/6119.jpg?width=140&quality=85&auto=format&fit=max&s=2c0eb21083f234b613af4ccf88a4feeb"
-    },
-    {
-     "title": "Q&A: Learn about the Pflugerville City Council Place 4 candidates in the Dec. 12 runoff election",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdDZiZm9KQmtDaTdqVEh6ZFAySm84dmx6VkJwSUFLZ0lUdWVrQlRlbHlHSFZENDdkSkt5VUQ0anRrZXpOVUlBcWVMYkN3dW5XUjhJdnZzLU1CSzVlOUF0NGp1YWI4eU4xQ3Y0Q0lXc28yNHFhVHp2Q1FYeWtLNktld3o2X3Nzb1psM2xmeVFNS01aZHlXNG0wVnVPSFhEc2ZibUE5MnN4Q29TbVBESHRpTDBhUjNKaXF4N2J5akV2ekFXSl9BWFp5d0FMVzVwempDc29sQlM5dF9rZGx1SFdnVVIyZm9QZw?oc=5",
-     "source": "Community Impact Newspaper",
-     "published": "2026-11-26T03:00:00+00:00",
-     "summary": "Q&A: Learn about the Pflugerville City Council Place 4 candidates in the Dec. 12 runoff election&nbsp;&nbsp;Community Impact Newspaper",
-     "image": ""
-    },
-    {
-     "title": "Romania Owes $6M More Sanctions, Court Hears",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1ZDbENua2pVdWNBbFQyeTdNdVl5dWE5S0dGYXh3MG5NcFdzY1VpYUwyYUp4emUzMkczMlJPazJuRy03LS1IRE55RU5PUHB4a1VGM3E3cEtRbmcyVFBCdzlTUm9ROWlKUk9vUW5WRTJwVjZoS0lWQXhhbk15a3dCc3lTdUdjM2hzZVHSAVZBVV95cUxQZDNrOTZJaGRWbkhVbHdCRVhZVEpPREpwZUdYQXZDeGM3ZTFWQjRHc0tmcnBUWEthRi16YmxXMjNpTV8wbkp4RGRScmNQVjZFb0g5LTd0UQ?oc=5",
-     "source": "Law360",
-     "published": "2026-11-26T02:32:50+00:00",
-     "summary": "Romania Owes $6M More Sanctions, Court Hears&nbsp;&nbsp;Law360",
-     "image": ""
-    },
-    {
-     "title": "GA Election Board documents, data center fight & tariff war",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Wcm5CZUxvdHlEVjNzVGxVUW5KMEhVc054RElja1liNU01MnlWSEFDYlFnY3BKUlg5NTNnZVBqS1VmaHpRUU51UUczaGx1NFFlQU5DS09IS1dHSWtzaS1GbzY0aW_SAWpBVV95cUxQVWt3dXhteEVnY2UyazZQMVRVZXBucFdvNWI1dHRheE96ZlhhaklRQTZDQVYzSjB6MkxXeGxxdlNxQUZWTmJ5ODI4bDNkc1VROFVjaDhQNU5mTWxGVDY1NWx0MDBiLThnaEFR?oc=5",
-     "source": "FOX 5 Atlanta",
-     "published": "2026-11-26T02:32:17+00:00",
-     "summary": "GA Election Board documents, data center fight & tariff war&nbsp;&nbsp;FOX 5 Atlanta",
+     "title": "Coalition in election-winning lead in final DemosAU/PremierNational Victorian poll",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVJZUHNOMV9fNVBzSEh3UnMzQ3pLUFZYMzIzSkJ0NHEwYlR1eWYzd0YxWW9XdF9sSzFfM1ZydUx6SW54NGpVVEZmd3pLMGFUUGZGZkV2UlFrQkVzbmw1c3pnc2FXYzlzQnhLYXI3QjhuNm5rZllfUGQ1d1ZRdzNNOTREQzZDd1Q3aFZoaXNtR2owS2JDVE0xbEM3OGNSdklaXzlqQlAzbDRUSGJ2?oc=5",
+     "source": "DemosAU",
+     "published": "2026-11-26T03:50:28+00:00",
+     "summary": "Coalition in election-winning lead in final DemosAU/PremierNational Victorian poll&nbsp;&nbsp;DemosAU",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-26T05:15:04.932610+00:00",
+   "fetched_at": "2026-11-26T05:45:08.919055+00:00",
    "stale": false,
    "items": [
     {
