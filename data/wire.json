@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-26T16:47:08.445284+00:00",
+ "generated_at": "2026-11-26T17:17:12.073312+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-26T16:47:08.445251+00:00",
+   "fetched_at": "2026-11-26T17:17:12.073275+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
+     "url": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
+     "source": "The Guardian",
+     "published": "2026-11-26T17:05:02+00:00",
+     "summary": "The army blows up US stockpile of lead azide, a chemical used for explosives, to avoid uncontrollable explosionThe US army blew up the nation\u2019s entire stockpile of lead azide, a ch",
+     "image": "https://i.guim.co.uk/img/media/a041ad2917e5fdbcd5dea606ebf97c914f03f13e/363_0_2858_2287/master/2858.jpg?width=140&quality=85&auto=format&fit=max&s=d309b1d3b10e20c06f5ad79090ec1ad1"
+    },
+    {
+     "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
+     "url": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
+     "source": "The Guardian",
+     "published": "2026-11-26T17:00:52+00:00",
+     "summary": "Further deals can be enacted via same legislation, though it excludes rejoining single market, customs union or bloc as a wholeA bill to implement the UK-EU deal will grant signifi",
+     "image": "https://i.guim.co.uk/img/media/9f619d89b9be2fe6b15f51d5f2a5acaa898ac34a/316_0_2459_1968/master/2459.jpg?width=140&quality=85&auto=format&fit=max&s=84f14e882009ea1089dadf849de52b55"
+    },
+    {
+     "title": "How a teen\u2019s death raises questions about Colombia\u2019s security crackdown",
+     "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T16:49:59+00:00",
+     "summary": "President Abelardo de la Espriella&#039;s campaign against armed groups has resulted in accusations of extrajudicial killing.",
+     "image": ""
+    },
     {
      "title": "Italy says two citizens killed in Iranian strike in Kuwait",
      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
@@ -34,7 +58,7 @@
      "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-26T16:20:54+00:00",
-     "summary": "This is a breaking news story.",
+     "summary": "French President Emmanuel Macron announces on X that EU leaders have agreed on the appointment of Pablo Hernandez de Cos",
      "image": ""
     },
     {
@@ -92,37 +116,29 @@
      "published": "2026-11-26T15:56:39+00:00",
      "summary": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza.",
      "image": ""
-    },
-    {
-     "title": "Spanish economist de Cos to succeed Lagarde as head of ECB",
-     "url": "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb",
-     "source": "\u00a9 Jose Luis Magana, AP",
-     "published": "2026-11-26T15:55:45+00:00",
-     "summary": "Spanish monetary economist Pablo Hernandez de Cos on Thursday was set to replace France's Christine Lagarde as the new head of the European Central Bank (ECB). His nomination comes",
-     "image": "https://s.france24.com/media/display/8782840e-e9a4-11f1-a5e6-f9cf020caef6/w:1024/p:16x9/AP25290616236227.jpg"
-    },
-    {
-     "title": "Two dead after Iranian drone attack on Kuwait",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T15:55:15+00:00",
-     "summary": "Kuwait\u2019s army says two Italian workers were killed and four others were injured in an Iranian drone attack.",
-     "image": ""
-    },
-    {
-     "title": "Pep Guardiola calls on world to \u2018disobey horror\u2019 over Gaza and praises BDS",
-     "url": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T15:53:32+00:00",
-     "summary": "Football icon says it is more urgent than ever to demand an end to Israel&#039;s &#039;apartheid, colonialism and occupation&#039;.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-26T16:47:08.445268+00:00",
+   "fetched_at": "2026-11-26T17:17:12.073294+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump says he urged Putin to 'pull back' military aggression in Europe",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVVscU9NZEpkNlNpamxDSjVUVWJ2eUV4WG9HZXJtcWh2VmxpWE5rNC1OR09kR2piX2g4SVlXWjg3WS1zZGNxZlZmTm9lUUZIOVRZWVZ4QjZQTXUwU0VXLWtZUUhjZU5jUG9MaGJaSUI1b0diRVdYUHVjTFlxaWdqYmZQWmh5QVAtcmxJYmg3OHlzeWRDcnZ1ZFRaWHRFamx5dUZV0gGjAUFVX3lxTE5kSl9EYUNTdGNPVVh2NkZYYzBHV2E5MDlYX2tBRXNpWjdraTZ1QTJXMjdBYUNQcHVtSTdUZHhFVXl1ZWVxMHZNLVptUnF0c1QxQVVrWjV4X2lrTnBiXzI1cHVXQmVHaTV4MW1zaEl5UnNraFJmdTlMU0d1c3YycUllSlVYRzJjNi1mTk12MXBoSFBGT3B4MkJpRnowcThpMlB2NVU?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-26T16:57:49+00:00",
+     "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe&nbsp;&nbsp;DW.com",
+     "image": ""
+    },
+    {
+     "title": "Trump, NATO chief urge Russia not to expand war in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcnU0M2NGaGJhbVRDYkd0M2VYcWJhMW9iQlIwVU5wQXFVOTUxQ0dTQXJQclc1VUxidzV1TFJxaUZHR2NkQUxYWXhJM05BQVFpd1VRTnk5d1JYSDdweEJSSDlyVG90TmZTSUJlOGtnNnRWTHY2OEtpVjM2Z2lhYjg4U3YzWTFFcGpLRy1ZSWhqekVQVUdmSmJmYm81Yklybk5iQVHSAacBQVVfeXFMUGpoMVF3dmU5OFVMZHFvVk54TjNtNktqdXc3bnR0S3F4Z21KRlU3VkNVWGdTd2NCSjl1a2dGY3IycDJ2NkdYQngwRHhNeDVfalJib1FEUVBDZ2swY3VuNWJabzlZZG1JNHl2MnVBRnZUcEIzekY0WW14SmgtU2liLTJ3RkhNbm5sWGxvZ1Q1dTlqRWVuRmpkOXZnN1JSZGM5UWtYRHMtNkU?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-26T16:44:00+00:00",
+     "summary": "Trump, NATO chief urge Russia not to expand war in Ukraine&nbsp;&nbsp;The Hill",
+     "image": ""
+    },
     {
      "title": "Italy says two citizens killed in Iranian strike in Kuwait",
      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
@@ -153,6 +169,14 @@
      "source": "The Independent",
      "published": "2026-11-26T16:13:00+00:00",
      "summary": "Kushner claim we should be grateful Putin hasn\u2019t used nukes in Ukraine is staggering&nbsp;&nbsp;The Independent",
+     "image": ""
+    },
+    {
+     "title": "NATO-like guarantees for Ukraine? U.S. envoy signals possibility, but questions remain",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUHh3ZW4yc3JrNnZHdjF1aFBPMGZIcUNMM0xNTEdmRlJ3cC12SDV1YUZhZEpHWFc2Q29CVkNFdTdjTW5DM3JHdlJPNE5QZS1lYlFoalR0SmF6aksyWWo5STRNM1FJbjRrOGNUUmQ2Z3pTTU1MYzBKM3ZMTTQ5OFloaEtTWWhYQk90OEp3MTJVZEZ1SXJTQnRrVFBMT25MZlQ3aHY0RlRDTElJSkJPVXBuNlVpYUphZG8tdHQ0?oc=5",
+     "source": "The Ukrainian Weekly",
+     "published": "2026-11-26T16:12:31+00:00",
+     "summary": "NATO-like guarantees for Ukraine? U.S. envoy signals possibility, but questions remain&nbsp;&nbsp;The Ukrainian Weekly",
      "image": ""
     },
     {
@@ -194,43 +218,75 @@
      "published": "2026-11-26T15:41:38+00:00",
      "summary": "Two books about losing everything have just won America's most prestigious literary honours. Hannah Lillith Assadi took the National Book Award for fiction for \"Paradiso 17\", a nov",
      "image": "https://s.france24.com/media/display/faf78374-e9a6-11f1-a42f-81bc2b1dcd65/w:1024/p:16x9/capture-5c1d3af7.jpg"
-    },
-    {
-     "title": "Brazilian Duped Into Fighting for Russia: \u2018War Is Hell\u2019",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUtzUk9TS1EtOENIeS1WOUVKS21xTTA5MFNRa1lmTmtHbnN3cDloV0JLbklJeGlnNDlCWGxBdmpnVGZ1QVVPNTNHR2NZNFU0Z0FTOW9ZZHF5dS10VGRWZnZFS3BRbGtleGo4T21CMmxGX0pIV1EyLVdFVkY4VkNjWEgzN2pPZkJE?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-26T15:27:03+00:00",
-     "summary": "Brazilian Duped Into Fighting for Russia: \u2018War Is Hell\u2019&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T15:23:25+00:00",
-     "summary": "Al Jazeera\u2019s Ava Warriner has the latest in Jerusalem Daily.",
-     "image": ""
-    },
-    {
-     "title": "Why is Italy angry with Ukraine for striking Russian ships off Libya?",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk1SakpTcUdjdkJJV0R5NzRFTGVHRkhIUEJIMWNzV0o1OU5wUlVMOS1vTWtERGFya3h6WU50dVg2TzRUbUhaRVZoeFVOZXRJRUduVVh5ZzRIMWttZ3FKd19VeC1SNDJuZnlHdThrMFpWcVd4V0R1Wnd2bXdkZXI1SkFNSTNHamFFcFpwZDJHOTBIbWZHRklYc3hKU1hOSzFWajBXdWR2OXBtVTZLdWdF0gG0AUFVX3lxTE10UU1wMlZzQmowbGd1ZUhYSDhpTlFSVnhxZ3EtRUtoMHJDMzJmOXNubGJ2WTNENk1oV2FMWG5URm5OclA2cldhR182VUluVWdXdkZsZGwxbUcxYnNfZWZfc1FORFBFRlA2d0hONlRrNDBkS3FISmpJdFB0LTBsVURqdGE1eWlSbnhwUlFBc0ZPNk1oUElZeEFQVDVOWVhIUE9FZEpHMDR1elE4cGhUNGExVzY5VA?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T15:07:56+00:00",
-     "summary": "Why is Italy angry with Ukraine for striking Russian ships off Libya?&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-26T16:47:08.445272+00:00",
+   "fetched_at": "2026-11-26T17:17:12.073299+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Woodbury: Nicole Mitchell, MN AG respond to election challenge",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy1YUXpIYUhPd3NzNWIwLWNUaXFpMXp6WmJoMmJSNlA2ZFlNWW1GZEUtMFY1ZUZMd0h4MUhyZTgyR0FyVHg4cW5NSUZndkJsOXUxM0ZPa3RVSDg3VV9PaU9uMkJvS3ZIUElkcmJzUzlKNk11OE9XdmR1X3Q5RlBUcXdhMGhzdHloQ2hJSW5FLUE1OWJHX1RxSndYa3VPbFpW?oc=5",
+     "source": "Pioneer Press",
+     "published": "2026-11-26T17:07:54+00:00",
+     "summary": "Woodbury: Nicole Mitchell, MN AG respond to election challenge&nbsp;&nbsp;Pioneer Press",
+     "image": ""
+    },
+    {
+     "title": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQmdOYkFrRVA1LUZLbUxZS2Q4QnBoWDdQdGx6NUgwQ2RaOU5RdHh1cE5MLXBiaTlBa2Jzc0wxbEFGd3V0NFlZaUMzV01xR1d0SFNmQkdWT0NueFNPR19zTDRBVVhQS2phZEdMd3VKLWlMLXBiNjhOcEJzTlVLNHhLMXMzTWJqeWo1bjd4VHRxSlVBamVxMEdWSGJwRVdLUXdiQUxwbldxZnloSFpDS3dvRFRlaEtPcTBqbk9wZXdGdkR4c2c?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-26T17:06:05+00:00",
+     "summary": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
+     "url": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
+     "source": "The Guardian",
+     "published": "2026-11-26T17:00:52+00:00",
+     "summary": "Further deals can be enacted via same legislation, though it excludes rejoining single market, customs union or bloc as a wholeA bill to implement the UK-EU deal will grant signifi",
+     "image": "https://i.guim.co.uk/img/media/9f619d89b9be2fe6b15f51d5f2a5acaa898ac34a/316_0_2459_1968/master/2459.jpg?width=140&quality=85&auto=format&fit=max&s=84f14e882009ea1089dadf849de52b55"
+    },
+    {
+     "title": "Who\u2019s ahead in Roseville\u2019s City Council and school board races? See the results",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRkJzLUx3WW4zUjl3MzZlZUgzdkluQk5lbTV0TnluTk1VelMyalBKRjVGWVR5bnJTenpPc1o2NzFVcFZjZG9vRGUwWmtUVE9ROTI4ekE0R1JwSVBfdEpOVjI0M0hSOUNoYmMzcUdjdktFUXJFVUg5MVdYSmlOM0M4YVhmbVlWTzhUMDM2VS1uNkNMcVUtNXNONdIBmAFBVV95cUxOeTFENFpWc2JEVVBRbXVGN0NCRDJMMnJGcGhfRE5OT1hJTlJETGRjNVdWWV82SFJtX29ibXVzMUtEOGVmVlE3S1ptQTllbVRUOUtIQlJscUdSdllyRVVadzNlWGpJVzAzLXdfbVRxeGoxOEhMTDl4N3A2cFQwaVNNemNWNU9MM2dBdXJmbHhpT01sSDZQQWNQQw?oc=5",
+     "source": "Sacramento Bee",
+     "published": "2026-11-26T16:55:00+00:00",
+     "summary": "Who\u2019s ahead in Roseville\u2019s City Council and school board races? See the results&nbsp;&nbsp;Sacramento Bee",
+     "image": ""
+    },
+    {
+     "title": "How a teen\u2019s death raises questions about Colombia\u2019s security crackdown",
+     "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T16:49:59+00:00",
+     "summary": "President Abelardo de la Espriella&#039;s campaign against armed groups has resulted in accusations of extrajudicial killing.",
+     "image": ""
+    },
+    {
+     "title": "Spanish election: final days of campaigning ahead of Sunday\u2019s snap poll",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUER4Q3VHNjJ5X3ExWlQ1cldSWXNHdlFsR3ZrZ056djhBSVBkZW82aFRWSlpxMGNUSUc0Ql9lUkdfZ1pGa005UFVfam80VFF4OHdic1pvMUlyQlRzdklHTEdEZUs2TDcyVnVpb3hpbG92b2VFTFllZFhybmJMV2llU3dTVTdPaWZ2M2ZmOU9YWkNQQ2UxQWRSVFlpNG9NZFlCdjY0dUx5M3VBVWVNNWRNLVNROWhreGxu?oc=5",
+     "source": "CNN",
+     "published": "2026-11-26T16:37:28+00:00",
+     "summary": "Spanish election: final days of campaigning ahead of Sunday\u2019s snap poll&nbsp;&nbsp;CNN",
+     "image": ""
+    },
     {
      "title": "Can a Democratic Congress change US Middle East policy?",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2R2UjFjRWE5bU9OTTZTTmItdkxyMHZZVkNBRGtqYjA0b0paU3Jlb1IybUlhbS1QMzV1SFNDQklpXzBwdnFLYVFRdnJ3T1F2MWkyZllCZHRaS3VUZFlneG9IS0MwVlVXN2RMbEF2d1VlMzR4OGhmYUVpeGRjRVB1SFRvRmQ3TENPMnJBbGRB0gGTAUFVX3lxTE1GNTdqa1BPMDJwMmFvLWlLYlFuV2I1ZXBRQ2hTUjk2c0lPZ21mcTFtRVp3QTZLWHJzcDRhdTFUYmpxQk1wMEVKTndPeGREOTM4c0tVZ2J1bXJYYWwtQjFmamVLT1NJMzZ6ZFZqVUVvaVpCSUI5emhKdXphMk43em1FQkNLeGxSSHdpZWdBeF91UXBETQ?oc=5",
      "source": "The New Arab",
-     "published": "2026-11-26T16:32:08+00:00",
+     "published": "2026-11-26T16:32:38+00:00",
      "summary": "Can a Democratic Congress change US Middle East policy?&nbsp;&nbsp;The New Arab",
+     "image": ""
+    },
+    {
+     "title": "Spanish economist to become new European Central Bank chief",
+     "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T16:20:54+00:00",
+     "summary": "French President Emmanuel Macron announces on X that EU leaders have agreed on the appointment of Pablo Hernandez de Cos",
      "image": ""
     },
     {
@@ -250,81 +306,25 @@
      "image": ""
     },
     {
+     "title": "Argentina's Senate poised to suspend primaries, boosting Milei's re-election bid",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOME12Z2hWeXJDdjhYQll0TW9vYWFaMzgwdWdBQ05BR3k4ckdrdFo3SkdfOXZrOGVXU1VUOTNtYXRXWEJBYlExUllERjdYRGxqR3lCelZyQTJxd0o2Q1VacWw0Sk5QajJWbGlDaDV1Y2hjWDE4dEVjNFpSQXdhQWg4MmFydGdDMEhmQjI2TjNiMUliZ1hBX1lXaDBoRlN0RHoxeUpxV3JuMkU2TmFncHhfWXdyOFNaUlVrUC1NZnlSS0NoRFE?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-26T16:11:15+00:00",
+     "summary": "Argentina's Senate poised to suspend primaries, boosting Milei's re-election bid&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
      "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdlAzN1JUQVRnazFiZnZQNExQSlNGdHkwWTQ2Yk1FRHEza2JldGRTTm1xT3dLMVhOeGQyeWdpSlZLbVM0cjM2MldOc3NkQ0Y0SENSd0stNWkzTFNpUjE3OXd3Vndfb19pbDdNOThSeFU4ZVpZQWJ4ZDRGUDFhUQ?oc=5",
      "source": "The Jerusalem Post",
      "published": "2026-11-26T16:10:21+00:00",
      "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
-    },
-    {
-     "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGxBdGttdXB4a2FZMExPclVmbk53V04wcnBvcXVscVNzdkItQmdQbzh6ODJGNGF6YklQYVVQcFJZUEw2TWR4T2Q1MGJCcUgzR3hkcGZ2b05UZWFWZjNVUWwxTk92ajhNSkp0YWlIRlEyc2hzSU05NXZXaGFCV3hOaXNLa29LZw?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-26T16:10:00+00:00",
-     "summary": "Georgia judge blocks own order to turn over US election ballot copies to state board&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Is Burnham changing direction on climate policy?",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVzRIRFlNZGMtUnh6U0hVSHNLc055Zkp6YXlTejkzQm0xU0tyYkpDTDFqLUVNa25naGNmNEs4aXdGMmpCQ29PWUtpRi11XzFqc0wwM3ZLMHhscl9qMUtwNzVyd290dWFXR1Q4ZDd3TGdTYU9VSW9yZVZGNVJMR2xBSWFJdFBKeHZuT1dLR3VxakxFODNZOUwtSQ?oc=5",
-     "source": "The London School of Economics and Political Science",
-     "published": "2026-11-26T16:04:51+00:00",
-     "summary": "Is Burnham changing direction on climate policy?&nbsp;&nbsp;The London School of Economics and Political Science",
-     "image": ""
-    },
-    {
-     "title": "Why the wave election may not end the frenzy to redraw political maps",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmhJX3hkcXlFeTZUNFdOOGVFeVhMaFlzSXh3RjdKZlhmNFlWaUhzTXFwdVk4M3l3R0VIbFh0MjVhbzQ1eWFUS0JrcDJWUGJJTzBBS1lsX2Y3OEVzMTdtbGJ5TjU5ZDBzVFFwcFU3Z0pVZXNvV2ZuaUpsallqd3R1Qkd3Qk12MWc3ajJrM1dmUEN1ZmtpSWgxTlJiYW9jR28wQWFtRkdQb1c?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-26T16:02:53+00:00",
-     "summary": "Why the wave election may not end the frenzy to redraw political maps&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "2026 Elections: Election-eve permits secured in 1 second since 2020",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0X0hKNzA2UzVfQ2JxeEZSaklxVWhQTU9faEdxS1JGQ0tPRnZKaHU4eUF6bnVYa19TaEpfamVleWlzY0pybWpNM1Jjd0dVRjBqZl9ZVUdRZVBZTXNENHUxbUxVMzBZcEJscVNxQjkzMVpQdG5rdlNvb3Zn?oc=5",
-     "source": "Taipei Times",
-     "published": "2026-11-26T16:00:00+00:00",
-     "summary": "2026 Elections: Election-eve permits secured in 1 second since 2020&nbsp;&nbsp;Taipei Times",
-     "image": ""
-    },
-    {
-     "title": "Coweta County data center referendum petition moves to special election after judge's ruling",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM3p2akhqUWV2UDBESWhJUDhRY0Zlc1M4dW44WmpuME1uUFROYmJYd2tuM1pwN1JBQnIwRm14NE1lVTd6RndfeF9HOGpyQ0x4NUxZdVB4UDM3a19aaHlRRHpTREs4SmE1S1Q4MEIzVmhxb29KRE5udThpcnJyU3lSRkJBQXlJN0l6WXVZOXZleC1mUkcxUVdsSzNPQjduTWFESWF2M1VMT0ljRV9nbVhIYml1aVRpaFozaldOWXh1X2s0TTF5YVJLWA?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-26T15:51:15+00:00",
-     "summary": "Coweta County data center referendum petition moves to special election after judge's ruling&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Four of Seven WHO Director-General Contenders Have Yet to Disclose Campaign Financing",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83ZEluV2R1UXJ1OUhmdHlyTGd1c0s4enhZelNTNkxrTjk1TEY0elFLV1ZMOHZWQXJ2aGhkVzJTR0s0NkpXQWpLMTlmMFlBQnNlTmxXRzdiRUl5WURRX0xlT0ZObzdOWDVi?oc=5",
-     "source": "Health Policy Watch",
-     "published": "2026-11-26T15:50:52+00:00",
-     "summary": "Four of Seven WHO Director-General Contenders Have Yet to Disclose Campaign Financing&nbsp;&nbsp;Health Policy Watch",
-     "image": ""
-    },
-    {
-     "title": "Spain\u2019s housing crisis becomes main election issue",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalNNc0ltUjVrbjY3VFlXT3pyNVlOWTJVQjc4RXNBc0d0OEhvMlpFdWNwYlFiNVB5MzU4U2ViVDFVVjFwNG51RFJVM2tuQlNDc0FDZTduNWhQQTJ2UEJvUmhjZ3lXcENMM05LbHdRYktVQWNhNENyQ3I2S1llcFdJSkl3eHYxWExmRUVVM0s4Zw?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-26T15:46:16+00:00",
-     "summary": "Spain\u2019s housing crisis becomes main election issue&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "Spain's Election Could Topple One of Europe's Last Left-Wing Holdouts",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdm9Ib2JOdDlGUHVmM3F5TzNRSDdlWmhUZUZjZmFMdDJCTFNCMWRGR21CanlFZjlkUnVSTEd2QjNqeHhOLVg3b0lIcHpFVFExaVd4QXNnVEZSM2YxSHRFcFFaekJySkxnN1N3S3dzZEtnellZMTZWZnk0ZnhGdmJMY2JIcFZUSFU2UnBQS19oR3FIUzNCbUFiU0owekZQcEtiVUhkTDczM1UxVG4tbml3czBORm16VWR5bDhVVzF5YVQ5NnFKcWJ4R2JyY01MUlVISEVDMzZyOVEwZWJvc3NZVWJSNGhGQS1MSmtfZlVjMDl6S0Vid3VUc25BY1hjSU1oeHEyMk5ueFBZMGM?oc=5",
-     "source": "Haaretz",
-     "published": "2026-11-26T15:43:00+00:00",
-     "summary": "Spain's Election Could Topple One of Europe's Last Left-Wing Holdouts&nbsp;&nbsp;Haaretz",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-26T16:47:08.445275+00:00",
+   "fetched_at": "2026-11-26T17:17:12.073301+00:00",
    "stale": false,
    "items": [
     {
@@ -332,7 +332,7 @@
      "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-26T16:20:54+00:00",
-     "summary": "This is a breaking news story.",
+     "summary": "French President Emmanuel Macron announces on X that EU leaders have agreed on the appointment of Pablo Hernandez de Cos",
      "image": ""
     },
     {
