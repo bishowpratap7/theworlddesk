@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T23:18:11.693785+00:00",
+ "generated_at": "2026-11-26T23:18:24.204446+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-26T23:18:11.693755+00:00",
+   "fetched_at": "2026-11-26T23:18:24.204398+00:00",
    "stale": false,
    "items": [
     {
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-26T23:18:11.693770+00:00",
+   "fetched_at": "2026-11-26T23:18:24.204412+00:00",
    "stale": false,
    "items": [
     {
@@ -222,9 +222,17 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-26T23:18:11.693774+00:00",
+   "fetched_at": "2026-11-26T23:18:24.204416+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Final election results revealed today: what you need to know",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2xZdDFKejZQV2pobWZ4MDc0b3pzRjBWV2NCZ1JEQWswd2ljeFAzdEctYTgyYkdfSGZCcC1tU0k1QURMbGZscFpwRUVvWUFKS2p3VjROQjFFcXlYMlc0SUFWblEzX3FLMVlQV3A2TEtvVjhLWWZ4YWZaU3o3V2lXdTZSYll4ZVRFTFNNd2dPdlBMZXVHUzJqQkM0Yw?oc=5",
+     "source": "1News",
+     "published": "2026-11-26T23:05:55+00:00",
+     "summary": "Final election results revealed today: what you need to know&nbsp;&nbsp;1News",
+     "image": ""
+    },
     {
      "title": "PNG\u2019s three-child policy: the family planning numbers behind it",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzU0amtjVWQwNkxWRFN4TjVSZml1NE5teWFvTE41dzNydElYZWZMc1RESXM4UDRiRnBRMEhEcUlMT1hyTFVRZVIzVVdmY05rVEh6bWRvenNVbUZ2NEJEeGtQQVpwTkRYU0JldzlYRi1JSzFXcU5LVHA4N25EbE9wanY5bEpfeGJOZlJQOGhaZ0xqS3pubHVRT3ZLd0lMVTdvX1dYRVYzVmxGWk5B?oc=5",
@@ -312,19 +320,11 @@
      "published": "2026-11-26T22:07:32+00:00",
      "summary": "New Zealand heads for weeks of wrangling with final election results due&nbsp;&nbsp;RFI",
      "image": ""
-    },
-    {
-     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdlAzN1JUQVRnazFiZnZQNExQSlNGdHkwWTQ2Yk1FRHEza2JldGRTTm1xT3dLMVhOeGQyeWdpSlZLbVM0cjM2MldOc3NkQ0Y0SENSd0stNWkzTFNpUjE3OXd3Vndfb19pbDdNOThSeFU4ZVpZQWJ4ZDRGUDFhUQ?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-26T22:00:05+00:00",
-     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-26T23:18:11.693776+00:00",
+   "fetched_at": "2026-11-26T23:18:24.204419+00:00",
    "stale": false,
    "items": [
     {
