@@ -1,10 +1,66 @@
 {
- "generated_at": "2026-11-26T20:17:48.339859+00:00",
+ "generated_at": "2026-11-26T20:47:52.577140+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-26T20:17:48.339831+00:00",
+   "fetched_at": "2026-11-26T20:47:52.577114+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T20:35:39+00:00",
+     "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+     "title": "Attack on Saudi\u2019s Jazan refinery kills one person, disrupts operations",
+     "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T20:34:34+00:00",
+     "summary": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
+     "image": ""
+    },
+    {
+     "title": "\u2018Disaster\u2019 unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
+     "source": "The Guardian",
+     "published": "2026-11-26T20:33:26+00:00",
+     "summary": "Farmers\u2019 federation president says Australia \u2018can\u2019t even keep [illicit] cigarettes out of the country \u2026 let alone some of these difficult-to-detect pests\u2019Get our breaking news emai",
+     "image": "https://i.guim.co.uk/img/media/99d2feb195ab09ebe90cf8d6c5c285f643644dc3/159_0_4000_3201/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d734029df2496b532c19ce85ad7ce0b3"
+    },
+    {
+     "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+     "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+     "source": "The Guardian",
+     "published": "2026-11-26T20:33:08+00:00",
+     "summary": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza CityIsraeli strikes have killed at least 16 schoolchildren in Gaza since the start",
+     "image": "https://i.guim.co.uk/img/media/fb6f93363b44e1d9e8b27377c45da23d0f007ce4/215_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=c5008fad4f7aa165fff5115f0adb772f"
+    },
+    {
+     "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T20:32:43+00:00",
+     "summary": "An estimated 400,000 people attended politician Anant Singh\u2019s daughter\u2019s lavish wedding in Bihar, India\u2019s poorest state.",
+     "image": ""
+    },
+    {
+     "title": "Mexico seeks US talks about suspected SpaceX debris",
+     "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T20:31:50+00:00",
+     "summary": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
+     "image": ""
+    },
+    {
+     "title": "Musk pledges two SpaceX shares for every US child",
+     "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T20:19:22+00:00",
+     "summary": "US children would receive one share from SpaceX and one from him personally, Musk said.",
+     "image": ""
+    },
     {
      "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
      "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
@@ -38,14 +94,6 @@
      "image": "https://i.guim.co.uk/img/media/ea5e95ac0fd2b916b7acdbd7a3c2351e5463c97a/243_0_1994_1596/master/1994.jpg?width=140&quality=85&auto=format&fit=max&s=6cd239910a6f8be620de7f7732e86bf0"
     },
     {
-     "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T19:27:45+00:00",
-     "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
-    },
-    {
      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -68,61 +116,37 @@
      "published": "2026-11-26T19:16:35+00:00",
      "summary": "The Bipartisan American Affordability and Jobs Act passed the Senate and is now being debated in the HouseAn industry-backed \u201cpermitting bill\u201d approved by the US Senate would gut k",
      "image": "https://i.guim.co.uk/img/media/938a4b41d113e71a1854de50ecd489ff51eab129/380_0_3787_3031/master/3787.jpg?width=140&quality=85&auto=format&fit=max&s=d6f67b81bdb88dbc9b60a6408240ab3c"
-    },
-    {
-     "title": "Judge strikes down Trump\u2019s latest restrictions on US birthright citizenship",
-     "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T19:09:39+00:00",
-     "summary": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
-     "image": ""
-    },
-    {
-     "title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
-     "url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T19:07:44+00:00",
-     "summary": "Persistent failures in psychiatric care have been exposed, including staff shortages, poor training and weak oversight.",
-     "image": ""
-    },
-    {
-     "title": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
-     "url": "https://www.theguardian.com/culture/2026/nov/26/oxford-pitt-rivers-museum-naga-gaidinliu",
-     "source": "The Guardian",
-     "published": "2026-11-26T19:03:47+00:00",
-     "summary": "Notebooks, clothes and ritual objects taken by British forces in India in the 1930s go on show at Pitt Rivers MuseumIn 1932, British forces in north-east India imprisoned a 17-year",
-     "image": "https://i.guim.co.uk/img/media/4bb99ac14cf7c4cb4c9947722bc939fa6192be22/0_143_1612_1289/master/1612.jpg?width=140&quality=85&auto=format&fit=max&s=346765bd7c17fef72f9b85a2b4271b1b"
-    },
-    {
-     "title": "What will Trump\u2019s latest tariffs mean for the world?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T18:53:15+00:00",
-     "summary": "New measures come after previous trade tariffs ruled illegal.",
-     "image": ""
-    },
-    {
-     "title": "Reporters Without Borders demands suspension of controversial French TV channel CNews",
-     "url": "https://www.france24.com/en/france/20261126-reporters-without-borders-demands-suspension-controversial-french-tv-channel-cnews",
-     "source": "\u00a9 Sameer al-Doumy, AFP",
-     "published": "2026-11-26T18:48:41+00:00",
-     "summary": "Paris-based international press freedom group Reporters Without Borders (RSF) on Thursday called on France's media regulator Arcom to suspend right-wing channel CNews for one month",
-     "image": "https://s.france24.com/media/display/3a179a3c-dbb8-11f1-8811-a575454bc579/w:1024/p:16x9/000-D6EK9T4.jpg"
-    },
-    {
-     "title": "Fifa confirms cyber-attack exposed \u2018personal and business information\u2019",
-     "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
-     "source": "The Guardian",
-     "published": "2026-11-26T18:45:44+00:00",
-     "summary": "Football\u2019s governing body says hackers accessed a limited set of personal and business dataFifa confirmed that hackers gained access to a \u201climited set of personal and business info",
-     "image": "https://i.guim.co.uk/img/media/bab41d81f787d91a1ca38252c7fa18495020e16d/130_0_4766_3815/master/4766.jpg?width=140&quality=85&auto=format&fit=max&s=7a5174da62e44f7aba85322a929a6ca4"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-26T20:17:48.339845+00:00",
+   "fetched_at": "2026-11-26T20:47:52.577126+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T20:35:39+00:00",
+     "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+     "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+     "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+     "source": "The Guardian",
+     "published": "2026-11-26T20:33:08+00:00",
+     "summary": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza CityIsraeli strikes have killed at least 16 schoolchildren in Gaza since the start",
+     "image": "https://i.guim.co.uk/img/media/fb6f93363b44e1d9e8b27377c45da23d0f007ce4/215_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=c5008fad4f7aa165fff5115f0adb772f"
+    },
+    {
+     "title": "Kushner Says Putin Shows No Interest in a Ceasefire, Calls Ukraine War a Proxy War",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclg0TDNzVWJzX0xFYUxxN3RJLVZqQ1RoUzJFSFlTLU1xaVRNb2tORUZaNWxSWUxNaWN0MWdnRVZ2d1QxLXpQY0hIYXNqWF84dS1neU5oTWQtR0ptUFZfa2QxemNxR2FNME9fV01XajhzZU1UV3RSZXIzSUwyVW45MmVPNGdqQ0NlTzNuSTBuVEsyZEJVYXB3bW02ZW9FdUwxLWdCZ05UZjZ5eWwwZ0dIa3lzQXBGUQ?oc=5",
+     "source": "Around Prague",
+     "published": "2026-11-26T20:26:30+00:00",
+     "summary": "Kushner Says Putin Shows No Interest in a Ceasefire, Calls Ukraine War a Proxy War&nbsp;&nbsp;Around Prague",
+     "image": ""
+    },
     {
      "title": "Documentary about Ukraine wins International Emmy; producer cites \u2018unvarnished\u2019 look at war",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNb2xxdnp2aTRwSWt3aWo0d3BHQVBKTnlzdWs4V09fV1JSRlRaUGZTTTVHaGdIV0NvVFdKTjZCUDhuTWh6QjdrVkhqSFFGR3fSAVJBVV95cUxQVXRQRkpYQ3Nrc055MUlqd01aOEpXM1FVSjZ2c2pacy1OaWdDXy0teUlPZ1E0cHgweGlZTjh6WC05dDhWZjZ0VUxqV1l6aERhajJB?oc=5",
@@ -132,11 +156,11 @@
      "image": ""
     },
     {
-     "title": "APTOPIX Russia Ukraine War",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzJOZnZBRl9vYlJDSEJzMG1xN01GY201VjhkMGhTU2NiRElFQXF3czVBU29IMWp2SHRlUEI4dnRrNGxSeS1MbXJzMnhYXzRlSHNkS2Fxci1VNllnMmhlYzR3VnVEVDZSUmpUZXVXZUYwbDdkcm1uU3Rid3l0ZmhXLWhPU1NTdktvaEVqemw3N0J0aVhXWFRqYXc5RGVBd2dzVjJTWm50YVdNWDVranVJMGxTV0ZnaEpP?oc=5",
-     "source": "chronicleonline.com",
-     "published": "2026-11-26T20:01:55+00:00",
-     "summary": "APTOPIX Russia Ukraine War&nbsp;&nbsp;chronicleonline.com",
+     "title": "\u2018Trucks on fire and drones overhead\u2019: the Russians risking the long road to Crimea",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVhGZF9aVy0tamY0ZTdiLUVqaHVsNkYyMXRjdW5od3RyYVoyb09TZFhfUU1ZdjFoS1V1VTNpMURqM01hSXljZmtfeHc1Rl9jYWZGWVJlSzk1NjNQNWRJU2pDYm1XVEVRdUFxSzhUSGtrR3N3OVg1MnNZY29SLWo1cGRaWmUzY1RJbDc5akduM1Z2WDA?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-26T20:01:00+00:00",
+     "summary": "\u2018Trucks on fire and drones overhead\u2019: the Russians risking the long road to Crimea&nbsp;&nbsp;The Guardian",
      "image": ""
     },
     {
@@ -146,14 +170,6 @@
      "published": "2026-11-26T19:48:09+00:00",
      "summary": "Minotaur: devastating betrayal in the Ukraine war&nbsp;&nbsp;New Statesman",
      "image": ""
-    },
-    {
-     "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T19:27:45+00:00",
-     "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
     },
     {
      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
@@ -202,29 +218,37 @@
      "published": "2026-11-26T18:39:33+00:00",
      "summary": "Tanker Owner Seeks Declaration Of Ukraine War Risks&nbsp;&nbsp;Law360",
      "image": ""
-    },
-    {
-     "title": "Kushner explains the \u2018good thing\u2019 about Gaza\u2019s destruction",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T18:30:36+00:00",
-     "summary": "Jared Kushner says the \u201cgood thing\u201d about Israel\u2019s genocidal war on Gaza is that it can be built into \u201csomething new\u201d.",
-     "image": ""
-    },
-    {
-     "title": "Italy\u2019s PM rebukes Ukraine for attacks on Russian ships in Mediterranean",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFh0VFRPVEdvSXRZei1ZeFpleEMzUkV4MW1SVlg1OTQwM1AzeElUNVhQM2pqc0s4RWpqbzdaR2lveENCQktTSF9ESUh2UTZQV3dqTkZOeWJKVVRIdjhfM0FXTVdTSnc4b2d3MzVDekUwYUR4VVVyUjdoV3JOOGdkTzVyakQ?oc=5",
-     "source": "Financial Times",
-     "published": "2026-11-26T18:28:26+00:00",
-     "summary": "Italy\u2019s PM rebukes Ukraine for attacks on Russian ships in Mediterranean&nbsp;&nbsp;Financial Times",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-26T20:17:48.339848+00:00",
+   "fetched_at": "2026-11-26T20:47:52.577129+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\u2018Disaster\u2019 unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
+     "source": "The Guardian",
+     "published": "2026-11-26T20:33:26+00:00",
+     "summary": "Farmers\u2019 federation president says Australia \u2018can\u2019t even keep [illicit] cigarettes out of the country \u2026 let alone some of these difficult-to-detect pests\u2019Get our breaking news emai",
+     "image": "https://i.guim.co.uk/img/media/99d2feb195ab09ebe90cf8d6c5c285f643644dc3/159_0_4000_3201/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d734029df2496b532c19ce85ad7ce0b3"
+    },
+    {
+     "title": "Iran\u2019s \u2018self-sanctions\u2019 compound pressure from US blockade, critics say",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ObDlsWkZ4V2daSklXMHozRzBsMEZVaU5UMWJHVURqWDdqTzRGTkRzc2dXU1pNallnbXBmZ2UxQktlWUpIRjFiRU5RNDNXSzE2OWc?oc=5",
+     "source": "Iran International",
+     "published": "2026-11-26T20:24:00+00:00",
+     "summary": "Iran\u2019s \u2018self-sanctions\u2019 compound pressure from US blockade, critics say&nbsp;&nbsp;Iran International",
+     "image": ""
+    },
+    {
+     "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-26T20:22:51+00:00",
+     "summary": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
     {
      "title": "Greek diaspora and the path toward the presidential election",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXlOaHBBV2R4UTY4QlJub0FRZmpHOTY2VldaX3gxVnRidWJfb3otNHAxTXg3T0d5aldXYmZyUkZ5S0Uyc2l4aVVvY3NFSnRITmpQQjIycEpTWGVydDlMdmZ0UE9GUXVfOTJ5ckRvNXZqQ0JNcWVOTG9IQnBxZi1lS0N4Ti1GNHlHN3JRTHNHdnBuamlVbjVrM010cjZIN0JReDFHYWh0R3htUQ?oc=5",
@@ -234,11 +258,11 @@
      "image": ""
     },
     {
-     "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-26T20:13:24+00:00",
-     "summary": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80&nbsp;&nbsp;The Washington Post",
+     "title": "Guinea-Bissau's junta delays election for 2 years on anniversary of coup",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa01YaG14Q2Q4UkRkZktxSU9LLUNKbW12d0kybEtjam1uRGdXUjVBWnA1OTNqWG9lN0RxX09EQmFmMDRmYm90cG9mN0lOVDJHcHMwcGg3dXppQ0hIT0luOVE0MC1sV2dkSUU4TWtZSWQ1NXpUX1lQMDlvdlB2MjRLZUJzX0pYY241TjJhQWRaMWp4Q0HSAZMBQVVfeXFMTUdkM29TaVh4SkxYZnR3WmstZDdPNHg4REZxLWxvWjB2SFp0N1RtQ202U1JvY3JLRkgxTjFKU0x1alh4NVJqS2ZJVi1QVnIzVGF4SXRJU05TRXVKQkoyMWM1V1Rud2ctRkhiQVRYYWpNNDJOVWEybmNORVAwM0owbm5oOXBnckRmTklfb1NlbzdlaHRF?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-26T20:12:32+00:00",
+     "summary": "Guinea-Bissau's junta delays election for 2 years on anniversary of coup&nbsp;&nbsp;DW.com",
      "image": ""
     },
     {
@@ -250,11 +274,19 @@
      "image": "https://i.guim.co.uk/img/media/2acbd7cd57ac01e54489d7c1bc69d56ed62a57a8/607_609_3999_3201/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=00fb07bfeee9a001fcfb3a1d8dfbc0a7"
     },
     {
-     "title": "EU leaders clash over push for bloc's budget before French election",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSHVuNGxrbXZpeXRlbERSSXpOaEx2Z193elJqTjF5Y0c3UEpjcURSX0FERUFBMEZoR3pEWURlX0lObjdiZW9RV0Rsb0s1QVNoWE0wSmtOQl9vdVgydFRPYTFLUGlURjVWY0NZazhSR0steDdsbjV6V2g3NTZzTlhTeEFaLTItXy1xbEFxQUw1MTQ0YmhuUzNtMUdOQ2pCei1Qb19WSDhpcVI3ZGV6MnQxMGh2Wjl0bUtZMm9GUmViREEwV3Z4U01menY4Ym1YZzk5RGVGZWJzejY?oc=5",
-     "source": "Le Monde.fr",
-     "published": "2026-11-26T20:00:13+00:00",
-     "summary": "EU leaders clash over push for bloc's budget before French election&nbsp;&nbsp;Le Monde.fr",
+     "title": "Far Right Australian Party Set for Historic Result in State Poll",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2R0dFAyTHJpMGtPb2k3WnFqd2EwVk5PU2I3ek9hNDFUczRLLVZNXzlWNmJFMUtnRnljeFV0WHpXdWRIVEZ4eEFMSFhVSWQ0ZmN4TnIxc3M1VVozNHNTQjg4d21wX2lqbWUtQ2RBTW5qeEd2Y1ZRQWkzdFB2Vl92M3ZOQlVyVkxVTU5rNVFPVjdFSk10Ry05NUdWRldaMzlZNFR2bW81SlF0UGNsTWZyU29wLWtrQQ?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-26T20:00:00+00:00",
+     "summary": "Far Right Australian Party Set for Historic Result in State Poll&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "EU weighs sanctions on Kyrgyzstan crypto exchanges",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxR0V5QWVDT3B0ZDBiUVJ0bUlzb1p4ZHBEbmJKc2RYTnpQNEpheVc5NjRLU3lUSHI1MnBPRlZiTzAzNVJxRUdQcUk3cWtUSHUwZVlFcjQxN2lPZW5sMXgwVkFsS05tT0VwUV9HeA?oc=5",
+     "source": "Crypto News",
+     "published": "2026-11-26T19:42:15+00:00",
+     "summary": "EU weighs sanctions on Kyrgyzstan crypto exchanges&nbsp;&nbsp;Crypto News",
      "image": ""
     },
     {
@@ -288,43 +320,11 @@
      "published": "2026-11-26T19:23:05+00:00",
      "summary": "Guinea-Bissau delays presidential election by two years&nbsp;&nbsp;TRT Afrika",
      "image": ""
-    },
-    {
-     "title": "US Senate \u2018permitting bill\u2019 threatens clean water protections to speed up energy projects",
-     "url": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
-     "source": "The Guardian",
-     "published": "2026-11-26T19:16:35+00:00",
-     "summary": "The Bipartisan American Affordability and Jobs Act passed the Senate and is now being debated in the HouseAn industry-backed \u201cpermitting bill\u201d approved by the US Senate would gut k",
-     "image": "https://i.guim.co.uk/img/media/938a4b41d113e71a1854de50ecd489ff51eab129/380_0_3787_3031/master/3787.jpg?width=140&quality=85&auto=format&fit=max&s=d6f67b81bdb88dbc9b60a6408240ab3c"
-    },
-    {
-     "title": "Victoria\u2019s mental health crisis has been decades in the making. It\u2019s going to be harder than potholes to fix | Zoe Daniel",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX3RaMm10RVNFdFNQV1hyU3ZWVjR6WEhWZXZOZmljXy11SHY0ZjZpaEcyTDIteGxoWTJpN0FHNzZGS3hRMDV1UTlwQ2xyRVA3YU84VHVnQ2xlN18xYll1LVBsZTVWMklueVlzU0FxTURPMnBUV1pweGpxcTBrY2VKYk1FWmVmRDVrTlRERk9KbUhkVW1hTjZHMmduUFhjOHNPTnRsYW1LcS1PV0ZLRm5CckwtMzNfWjJhUGJXcWxQdmNoRnc2b2NvYkx6Y3I?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-26T19:10:00+00:00",
-     "summary": "Victoria\u2019s mental health crisis has been decades in the making. It\u2019s going to be harder than potholes to fix | Zoe Daniel&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Judge strikes down Trump\u2019s latest restrictions on US birthright citizenship",
-     "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T19:09:39+00:00",
-     "summary": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
-     "image": ""
-    },
-    {
-     "title": "Spanish Polls: Anti-Israel Prime Minister Pedro S\u00e1nchez Trails Conservatives",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVotdVJ4b2tWMGJNLTJsR2VYbHBYb2syaEE0VXhBanNDUllPc2VjcWdFNHVWbm4xTG9DZnQybmY3ZHJYakNBUU1Ca0pIcTZySGxpTVJMc3B0U3JKOTl0ek5kRk04S2toU3Q0T1lvd2tPRWRlZDFqTlo3T3RTcDZFUUliVUtac1U0TnRmVWtpVXhWNENmbHIwTDNHa0IxRENESnk0bi0zWTQ2elBQenlj?oc=5",
-     "source": "Middle East Forum",
-     "published": "2026-11-26T19:01:51+00:00",
-     "summary": "Spanish Polls: Anti-Israel Prime Minister Pedro S\u00e1nchez Trails Conservatives&nbsp;&nbsp;Middle East Forum",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-26T20:17:48.339850+00:00",
+   "fetched_at": "2026-11-26T20:47:52.577131+00:00",
    "stale": false,
    "items": [
     {
@@ -342,6 +342,14 @@
      "published": "2026-11-26T18:27:27+00:00",
      "summary": "President says it was a deliberate decision to release &#039;fake&#039; growth numbers before US midterm elections.",
      "image": ""
+    },
+    {
+     "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia\u2019s largest exporters",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+     "source": "The Guardian",
+     "published": "2026-11-26T17:35:25+00:00",
+     "summary": "Coalition voted in Senate to pass government\u2019s final major piece of legislation for 2026, denying Greens\u2019 bid for 25% tax on exportsGet our daily political email, free app or daily",
+     "image": "https://i.guim.co.uk/img/media/5e85107add688802688910ec8b127178d48de914/435_0_4350_3480/master/4350.jpg?width=140&quality=85&auto=format&fit=max&s=6f4a4d12b8c33efe85ecbed1e2eea322"
     },
     {
      "title": "Spanish economist to become new European Central Bank chief",
