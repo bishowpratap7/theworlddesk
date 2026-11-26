@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-26T23:18:24.204446+00:00",
+ "generated_at": "2026-11-26T23:48:27.224878+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-26T23:18:24.204398+00:00",
+   "fetched_at": "2026-11-26T23:48:27.224845+00:00",
    "stale": false,
    "items": [
     {
@@ -12,6 +12,14 @@
      "published": "2026-11-26T23:07:36+00:00",
      "summary": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
      "image": ""
+    },
+    {
+     "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+     "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T23:03:16+00:00",
+     "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg"
     },
     {
      "title": "Chance of snow forecast for northern England and Scotland in next few days",
@@ -108,19 +116,11 @@
      "published": "2026-11-26T21:09:22+00:00",
      "summary": "A Paris event on Iranian women's rights attended by French Foreign Minister Jean-No\u00ebl Barrot was disrupted when diaspora supporters of Reza Pahlavi, the US-based son of Iran's depo",
      "image": "https://s.france24.com/media/display/0e1a9d64-e9d5-11f1-a648-77d069279b82/w:1024/p:16x9/ima-2.jpg"
-    },
-    {
-     "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-     "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T21:08:44+00:00",
-     "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-26T23:18:24.204412+00:00",
+   "fetched_at": "2026-11-26T23:48:27.224860+00:00",
    "stale": false,
    "items": [
     {
@@ -156,6 +156,14 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
     },
     {
+     "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-26T22:32:57+00:00",
+     "summary": "Trump says he asked Putin to 'pull back' military aggression throughout Europe&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
      "title": "Russia Ukraine War",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFdNNy1JOV82NVRERFJnR20tNE1BRHZPSFA0Zk9KX01rTmF6ajBnQXV3cUxTTnE0NE9RWENTX3dOZHFoenA0a1M3X19iWVVEMkpwOFpUenpvUWlvTGxuZHg0TnRRZXhlZzB5b213ZjBsSWZUOUMwRTR2MEpoT0lzOXFrS0ZSZHYwa0t5LXlxQ29CeU4xOW9KTw?oc=5",
      "source": "TelegraphHerald.com",
@@ -188,6 +196,14 @@
      "image": ""
     },
     {
+     "title": "War in Ukraine is devastating a generation of Russians",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaU10U3Y1eHJuY2U3c2RFZy1LTnVNRkh6V19jOTlMbnhwRG1aUkVvWGo0LUsyZDNNQml2NUVoR2tMNV90WTBLcGdPa2xCQmp0d0c5ZVVUM2VSZm03c05RT2Z0YV81Ulp2Q0RSbk9sU3RPc1lvWm9JRElrdnByY21mZVotcHV5TDdRSkw4eTQ1RTMyemVyMDBGYXhpLThaQ2FUcWp0dkluZGRjVEZXSzRFcV8teTN4VkRfY2NaOA?oc=5",
+     "source": "The Times",
+     "published": "2026-11-26T21:25:29+00:00",
+     "summary": "War in Ukraine is devastating a generation of Russians&nbsp;&nbsp;The Times",
+     "image": ""
+    },
+    {
      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -202,35 +218,43 @@
      "published": "2026-11-26T21:09:22+00:00",
      "summary": "A Paris event on Iranian women's rights attended by French Foreign Minister Jean-No\u00ebl Barrot was disrupted when diaspora supporters of Reza Pahlavi, the US-based son of Iran's depo",
      "image": "https://s.france24.com/media/display/0e1a9d64-e9d5-11f1-a648-77d069279b82/w:1024/p:16x9/ima-2.jpg"
-    },
-    {
-     "title": "Trump urges Putin to end 'military aggression' in Europe",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnhpSjNieXhxQVB4YXZSTUkyQUJiX2lSbmhrdU1fU09qOV9VekR0MGJtMGNXV0xMVXZzZU9mM3hBc2NERTFzRjlJMmk5aHdZZUlMcV9icTFTVHp3TXd4QXFlRFlIdm9RUHZ0blc1UkdHN29sZm94MTBrOG9ocnhZcTFrYVRrRlBGcW9heDB6dEhmcjRtbzBaeExn?oc=5",
-     "source": "Japan Today",
-     "published": "2026-11-26T21:05:00+00:00",
-     "summary": "Trump urges Putin to end 'military aggression' in Europe&nbsp;&nbsp;Japan Today",
-     "image": ""
-    },
-    {
-     "title": "Trump diverges from NATO statement, emphasizing Ukraine mustn\u2019t expand war",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWg1NTJPR0x6RXN2T0JIOXd6OUI0cGdkcUh2clZJbWZBUGZVdTZkX3plemh4NEtOLUxIRHctM3dCbUFzMHBWb2Rya3Y2UDZKUXhab2plWG9HZUNxN3ZJMF90d2p1djNQaW5QbThDeW00NVJ4MXNBSnowaUxWeVBzT0paSTZaTGdqN2wzbEdaSzNGUVQwVGRuUHlYTllBZGhLWXFVb1gtaERxblNnQVFscVR3?oc=5",
-     "source": "POLITICO.eu",
-     "published": "2026-11-26T20:40:00+00:00",
-     "summary": "Trump diverges from NATO statement, emphasizing Ukraine mustn\u2019t expand war&nbsp;&nbsp;POLITICO.eu",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-26T23:18:24.204416+00:00",
+   "fetched_at": "2026-11-26T23:48:27.224865+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Final election results revealed today: what you need to know",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2xZdDFKejZQV2pobWZ4MDc0b3pzRjBWV2NCZ1JEQWswd2ljeFAzdEctYTgyYkdfSGZCcC1tU0k1QURMbGZscFpwRUVvWUFKS2p3VjROQjFFcXlYMlc0SUFWblEzX3FLMVlQV3A2TEtvVjhLWWZ4YWZaU3o3V2lXdTZSYll4ZVRFTFNNd2dPdlBMZXVHUzJqQkM0Yw?oc=5",
-     "source": "1News",
-     "published": "2026-11-26T23:05:55+00:00",
-     "summary": "Final election results revealed today: what you need to know&nbsp;&nbsp;1News",
+     "title": "Milei\u2019s economic policy dealt fresh blow as Argentina enters recession",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnpVbGhGV2hCeVhHQm11TDR0bHZncnUzZ256TG9CMnZQOGhscWVxVTlDYTViRHhCS3VGQTUzZUNTbUJPTGFuTjUtSEg4M0JVU2FQVDAyamVQSjQ5M01yc0ZLRUFOaU52X012NTN6TnZRRDhFQlhtTEdhZHlHZzV2SUw4WlZQS3FJRlRYcGRPQ2VieXcyd1IxM0JieUpaa1Q3ZDlLTmpVNA?oc=5",
+     "source": "Argentina Reports",
+     "published": "2026-11-26T23:22:51+00:00",
+     "summary": "Milei\u2019s economic policy dealt fresh blow as Argentina enters recession&nbsp;&nbsp;Argentina Reports",
+     "image": ""
+    },
+    {
+     "title": "Trump spends Thanksgiving at golf club, accuses Commerce Department of releasing \"fake economic numbers\"",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTU5SFExTE5aRTdISVVBdDZHZnNPbktKRWE0ZlFPcEF3eUJUWDBOeF93Sm5nckVMbkJtRERONkZOZ3N3X0NaeWJTT2xpc1dTVWFSejZFZVJSY2M4dHdXdFNVOGMtaUJQcXU1UFlwUXYtYWp5WWZEamszMWJqbmcwcUgwRmt3R2FOOERqTnpJOA?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-26T23:17:35+00:00",
+     "summary": "Trump spends Thanksgiving at golf club, accuses Commerce Department of releasing \"fake economic numbers\"&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
+    {
+     "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-26T23:15:53+00:00",
+     "summary": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Live updates as the final NZ election results are revealed",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGpkVGpLclplY1JEdTFxZTJfNDJDNDVzX1pmRDVhZEQ3clU3TUV3c0s4eFRldlFLYmhOWDFheUU0eDRPM0R6a0tScnNaZ3BONWRac1c4Rnh2NlRuOHByeVZPbkM0YnFGalJxUVhQNzBVbjdXZy03Y1ZEenNVOUFjZi12dDJIdmQtZGhOUV9kcTlVMHluMGVETEc3MEFJV0NGYXFxY25R?oc=5",
+     "source": "The Spinoff",
+     "published": "2026-11-26T23:00:41+00:00",
+     "summary": "Live updates as the final NZ election results are revealed&nbsp;&nbsp;The Spinoff",
      "image": ""
     },
     {
@@ -296,35 +320,11 @@
      "published": "2026-11-26T22:22:35+00:00",
      "summary": "Coalition set for a big win in Victorian election as One Nation fades in final polls&nbsp;&nbsp;The Conversation",
      "image": ""
-    },
-    {
-     "title": "Is Spain's snap election being rigged? Debunking viral claims - Truth or Fake",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE9ldVUwWF9ZRXI2VUdzNVRxMlpsRDFDWlJ4YTZWMmNXbGxkbjU1WVNUb002ZWFQUkdsR1c4NG16cVhpQ2dMejJzREtlWW5VZmw1NE1mZHZKbHhoVVk2M2ZUYnh2RDR1VVRienpVbWtBYjczNHVIeGFDcFBIYmhIMGdUcWRzSnFwMW9kaXlCcW9rLWxaaGJhREJUYTYwQ1ZkMHl3cEZqaTJrUVZ4TzBTNkZUY2k5aFdDbUJkcg?oc=5",
-     "source": "France 24",
-     "published": "2026-11-26T22:17:06+00:00",
-     "summary": "Is Spain's snap election being rigged? Debunking viral claims - Truth or Fake&nbsp;&nbsp;France 24",
-     "image": ""
-    },
-    {
-     "title": "Rosenthal prepares to join Railroad Commission after election win",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONThGd3owVE9jejEzU1FtendZVmZSNDB3c295aDlZbXNIeDFpX0RkNUQwMVg1V3k3MS1hZDlEWnFTNG1ZdmVvTkM1cjg1YWJjQ2JkeFBfNTlNTWd1T05FRUhxbFhGZUFUT1pLNWRJeF9OcldzWldqQ0tmT0JEQ0lxT0tpa2RBSFRZR05yZE9EVVdsLVM5TTRUTFBiakNZVjRjajZ3bXlvQVNiNC05S1NCOE9EbUljWUtPaEtxREZCUXYwX2cwNDZhTWln0gHSAUFVX3lxTE02LUE1dHV0cXNxOXJfNElFRzdkRXpWcWdXaUNHSG9YeTV0UHQ3MEJPdW84X2wxaEJOTm51c0FBeWRrVXdPcDkwc0ltZ3hSQWdrUjZhY01nNHJEcHlrNW5LRC1jWVN3VFJxeU14MnJQLVk1a3E1ekoxUWxPd3l2ZnF1T0Y2Q3QwUmRMdmJxenZ4dVFuM284X29OZjBFbjdDeTVWcDdRZzFLNFBjcFBHTWNGN0J2aFpKMzM2Ym1hdHZGRE9JUzZ0OGlWU0hlZ0g1cmFiZw?oc=5",
-     "source": "NBC 5 Dallas-Fort Worth",
-     "published": "2026-11-26T22:12:29+00:00",
-     "summary": "Rosenthal prepares to join Railroad Commission after election win&nbsp;&nbsp;NBC 5 Dallas-Fort Worth",
-     "image": ""
-    },
-    {
-     "title": "New Zealand heads for weeks of wrangling with final election results due",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFhHYm9SY0pVT3E2bW8wQVQyVjFKV0pXNVZoZ1hpTXhxbk1xM3lKclZvcVNzSkpEajN3OUZYY1o1eTdIODROb2tIY3RreEoyc0R0R1hsWFljWG1XUnhCOHFfZDF6VE9BUzFKMk5sd2hrZm1sNk5UM3hKdTdJbElnRnliNmJWako4eE9tQ2kyOXNVbDNkSkZfeFNsRTZXMTNvWm9xXzIyLTBMUE9XekJGeG1rSlh2SnpqNVZFYWktTQ?oc=5",
-     "source": "RFI",
-     "published": "2026-11-26T22:07:32+00:00",
-     "summary": "New Zealand heads for weeks of wrangling with final election results due&nbsp;&nbsp;RFI",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-26T23:18:24.204419+00:00",
+   "fetched_at": "2026-11-26T23:48:27.224867+00:00",
    "stale": false,
    "items": [
     {
