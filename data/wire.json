@@ -1,17 +1,81 @@
 {
- "generated_at": "2026-11-26T00:41:58.743427+00:00",
+ "generated_at": "2026-11-26T01:12:30.370987+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-26T00:41:58.743395+00:00",
+   "fetched_at": "2026-11-26T01:12:30.370946+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Hanson says she \u2018never approached\u2019 Liberal defector; spoof parliamentary tool spreads cheer",
+     "title": "Judges recommend prosecutors end corruption case against Netanyahu",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T01:08:43+00:00",
+     "summary": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
+     "image": ""
+    },
+    {
+     "title": "California braces for potential Thanksgiving flooding as storms threaten US coasts",
+     "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T01:05:47+00:00",
+     "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg"
+    },
+    {
+     "title": "Australian politics live: Blyth did not \u2018feel safe\u2019 in the Liberal party before One Nation defection; Canavan vows \u2018more united\u2019 comeback",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-26T00:31:08+00:00",
+     "published": "2026-11-26T01:03:23+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is ",
-     "image": "https://i.guim.co.uk/img/media/87531633bff6f1ff18a63af6d9b206b446c1aad4/475_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=150c3166c9ca62a66ffef650169ce2e8"
+     "image": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=140&quality=85&auto=format&fit=max&s=a3fb4d9b90e850985c9b942f5d497f98"
+    },
+    {
+     "title": "US announces new tariffs on host of countries including China",
+     "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T01:00:06+00:00",
+     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg"
+    },
+    {
+     "title": "\u2018Turncoat\u2019: Liberal senator Leah Blyth announces defection to One Nation, blindsiding Coalition",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-26T00:58:49+00:00",
+     "summary": "South Australian senator labels One Nation the \u2018only party with the bold ideas needed to turn this country around\u2019Follow our Australia politics live blog for latest updatesGet our ",
+     "image": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/0_0_1943_1555/master/1943.jpg?width=140&quality=85&auto=format&fit=max&s=757367d930714c816470fe6d0a80c401"
+    },
+    {
+     "title": "Storms push Macy\u2019s Thanksgiving Day Parade in New York City to Saturday",
+     "url": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T00:52:56+00:00",
+     "summary": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
+     "image": ""
+    },
+    {
+     "title": "ISIL blamed for multiple suicide attacks in Syria",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T00:51:17+00:00",
+     "summary": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
+     "image": ""
+    },
+    {
+     "title": "Two Syrian security personnel killed in ISIL suicide attack",
+     "url": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T00:41:49+00:00",
+     "summary": "Syrian forces say the attack in northeastern Syria&#039;s city of Hasakah involved four assailants who were all killed.",
+     "image": ""
+    },
+    {
+     "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+     "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+     "source": "The Guardian",
+     "published": "2026-11-26T00:39:10+00:00",
+     "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charredA crash involving a fuel tanker ignited a huge fire on a highway s",
+     "image": "https://i.guim.co.uk/img/media/6812ad2841dc33db22e057b035ee4c97d0e86530/187_212_1857_1486/master/1857.jpg?width=140&quality=85&auto=format&fit=max&s=383efbd03159a528ed80f89ede390c4b"
     },
     {
      "title": "The US pastor who wants to see women's right to vote overturned",
@@ -52,84 +116,52 @@
      "published": "2026-11-26T00:22:18+00:00",
      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae31/live/2d66b8d0-e8d9-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "Zambia bans protest against push to remove presidential term limits",
-     "url": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T00:22:15+00:00",
-     "summary": "Critics fear the campaign could undermine democratic safeguards as senior opposition figures remain behind bars.",
-     "image": ""
-    },
-    {
-     "title": "A meeting with Democrats over healthcare? Trump says he\u2019s open to it",
-     "url": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T00:18:49+00:00",
-     "summary": "Experts tell Al Jazeera they are sceptical that Trump would back Medicare for All, a proposal for national healthcare.",
-     "image": ""
-    },
-    {
-     "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
-     "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
-     "source": "The Guardian",
-     "published": "2026-11-26T00:05:50+00:00",
-     "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damagedA UN tribunal has cast doubt on the evidence used to justify the sac",
-     "image": "https://i.guim.co.uk/img/media/65d32fbb43f0e7ee1a67c12068fb35f5cd6d3afb/780_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=b274c1d56c0497a8ae693e8ba87186da"
-    },
-    {
-     "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-26T00:02:52+00:00",
-     "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer Sign up for the Breaking News US emailUS trade repr",
-     "image": "https://i.guim.co.uk/img/media/1ded0ee0250a7ae31faed7b6ee3dc216c3eee7d6/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=a3e67bf3a7035af45285bc7c8dfd8e91"
-    },
-    {
-     "title": "Ministers to create new stalking offence and scrap need for proof of fear or distress",
-     "url": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
-     "source": "The Guardian",
-     "published": "2026-11-26T00:01:40+00:00",
-     "summary": "Victims\u2019 commissioner welcomes strengthening of law in England and Wales but calls for measures to tackle convicted stalkersMinisters will create a new stalking offence so that vic",
-     "image": "https://i.guim.co.uk/img/media/505b432603622161b285e9a4f97a1f95e661d26c/431_0_3058_2447/master/3058.jpg?width=140&quality=85&auto=format&fit=max&s=2e09c280067db9ac8175b386e3341d56"
-    },
-    {
-     "title": "Children in overcrowded homes get poorer GCSE results, study finds",
-     "url": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
-     "source": "The Guardian",
-     "published": "2026-11-26T00:01:39+00:00",
-     "summary": "Researchers urge ministers to ensure young people in rented homes have space for a desk in their bedroomChildren who share a bedroom and lack a quiet place to study at home get wor",
-     "image": "https://i.guim.co.uk/img/media/efcbf5966e70ac7fdc150878c56d20292fd9b3c7/294_0_2911_2329/master/2911.jpg?width=140&quality=85&auto=format&fit=max&s=6f199fdd5e6825aa883b741c3f6315f6"
-    },
-    {
-     "title": "Patrick Radden Keefe\u2019s London Falling named Waterstones book of the year",
-     "url": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
-     "source": "The Guardian",
-     "published": "2026-11-26T00:01:39+00:00",
-     "summary": "The word-of-mouth success of the journalist\u2019s investigation into the death of a London teenager is \u2018one of the defining features of the literary year\u2019London Falling, Patrick Radden",
-     "image": "https://i.guim.co.uk/img/media/57211361d63b75554de53c3c74f80426be74e3d5/0_3689_8742_6994/master/8742.jpg?width=140&quality=85&auto=format&fit=max&s=1e0442f3398aebf55920eacbae3489b6"
-    },
-    {
-     "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T00:00:00+00:00",
-     "summary": "A blast hits Sanaa after air strikes near the airport, as the Saudi coalition intercepts missiles over Riyadh.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-26T00:41:58.743414+00:00",
+   "fetched_at": "2026-11-26T01:12:30.370968+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Australian politics live: Hanson says she \u2018never approached\u2019 Liberal defector; spoof parliamentary tool spreads cheer",
+     "title": "Judges recommend prosecutors end corruption case against Netanyahu",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T01:08:43+00:00",
+     "summary": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
+     "image": ""
+    },
+    {
+     "title": "Australian politics live: Blyth did not \u2018feel safe\u2019 in the Liberal party before One Nation defection; Canavan vows \u2018more united\u2019 comeback",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-26T00:31:08+00:00",
+     "published": "2026-11-26T01:03:23+00:00",
      "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is ",
-     "image": "https://i.guim.co.uk/img/media/87531633bff6f1ff18a63af6d9b206b446c1aad4/475_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=150c3166c9ca62a66ffef650169ce2e8"
+     "image": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=140&quality=85&auto=format&fit=max&s=a3fb4d9b90e850985c9b942f5d497f98"
+    },
+    {
+     "title": "\u2018Turncoat\u2019: Liberal senator Leah Blyth announces defection to One Nation, blindsiding Coalition",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-26T00:58:49+00:00",
+     "summary": "South Australian senator labels One Nation the \u2018only party with the bold ideas needed to turn this country around\u2019Follow our Australia politics live blog for latest updatesGet our ",
+     "image": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/0_0_1943_1555/master/1943.jpg?width=140&quality=85&auto=format&fit=max&s=757367d930714c816470fe6d0a80c401"
+    },
+    {
+     "title": "ISIL blamed for multiple suicide attacks in Syria",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T00:51:17+00:00",
+     "summary": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
+     "image": ""
+    },
+    {
+     "title": "Two Syrian security personnel killed in ISIL suicide attack",
+     "url": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-26T00:41:49+00:00",
+     "summary": "Syrian forces say the attack in northeastern Syria&#039;s city of Hasakah involved four assailants who were all killed.",
+     "image": ""
     },
     {
      "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
@@ -186,43 +218,11 @@
      "published": "2026-11-25T22:26:40+00:00",
      "summary": "Israel's new parliament on Wednesday took a first step to set up a state commission of inquiry into the security failures that led to Hamas's unprecedented October 7, 2023 attack, ",
      "image": "https://s.france24.com/media/display/30dabc2c-d09d-11f1-a1eb-4d317af013fd/w:1024/p:16x9/2026-10-24T174015Z-1419027181-RC2T9OAZQPTJ-RTRMADP-3-ISRAEL-ELECTION-RALLY.jpg"
-    },
-    {
-     "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-     "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T21:03:51+00:00",
-     "summary": "About 200,000 tents need replacing, Gaza\u2019s municipalities say, as the EU urges Israel to reopen all crossings.",
-     "image": ""
-    },
-    {
-     "title": "Liberal senator Leah Blyth announces defection to One Nation",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-25T20:50:15+00:00",
-     "summary": "South Australian senator labels One Nation the \u2018only party with the bold ideas needed to turn this country around\u2019Follow our Australia politics live blog for latest updatesGet our ",
-     "image": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/0_0_1943_1555/master/1943.jpg?width=140&quality=85&auto=format&fit=max&s=757367d930714c816470fe6d0a80c401"
-    },
-    {
-     "title": "Baby Aliyah steals the show during Australian Senate debate",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T20:42:41+00:00",
-     "summary": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
-     "image": ""
-    },
-    {
-     "title": "Netanyahu says corruption trial \u2018must end\u2019 as court suggests dropping case",
-     "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T20:29:22+00:00",
-     "summary": "The judges&#039; recommendations came as Israel&#039;s longest-serving prime minister fights for his political survival.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-26T00:41:58.743417+00:00",
+   "fetched_at": "2026-11-26T01:12:30.370971+00:00",
    "stale": false,
    "items": [
     {
@@ -298,6 +298,14 @@
      "image": ""
     },
     {
+     "title": "What we know about Trump's Thanksgiving tariffs",
+     "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-25T19:38:05+00:00",
+     "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9742/live/bc650a50-e906-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
      "title": "Kilmar \u00c1brego Garc\u00eda, target of Trump\u2019s immigration crackdown, lands in Spain after \u2018leaving happy\u2019",
      "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
      "source": "The Guardian",
@@ -312,21 +320,21 @@
      "published": "2026-11-25T19:15:03+00:00",
      "summary": "The United States on Wednesday unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production -- the lat",
      "image": "https://s.france24.com/media/display/204bc0b6-e904-11f1-8964-81da3ab2acbb/w:1024/p:16x9/EN-20261125-200200-200343-CS.jpg"
-    },
-    {
-     "title": "The \u2018French Milei\u2019? Presidential candidate David Lisnard aims to reshape France\u2019s right wing",
-     "url": "https://www.france24.com/en/france/20261125-french-milei-presidential-candidate-david-lisnard-aims-reshape-france-right-wing",
-     "source": "\u00a9 Julien de Rosa, AFP",
-     "published": "2026-11-25T18:59:26+00:00",
-     "summary": "Having secured reelection victory Wednesday as leader of France's mayors, Cannes Mayor David Lisnard turns once more to build on his recent bid for the \u00c9lys\u00e9e. As his Nouvelle \u00c9ner",
-     "image": "https://s.france24.com/media/display/b4432cb4-e8f0-11f1-9c76-29d00e23de9a/w:1024/p:16x9/000-D8KT7H4.jpg"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-26T00:41:58.743419+00:00",
+   "fetched_at": "2026-11-26T01:12:30.370973+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US announces new tariffs on host of countries including China",
+     "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T01:00:06+00:00",
+     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg"
+    },
     {
      "title": "New US tariffs: 'Trump lashing out really indiscriminately', expert says",
      "url": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
@@ -352,28 +360,20 @@
      "image": "https://s.france24.com/media/display/d88720f4-e908-11f1-ab85-81da3ab2acbb/w:1024/p:16x9/EN-20261125-203356-203840-CS.jpg"
     },
     {
+     "title": "What we know about Trump's Thanksgiving tariffs",
+     "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-25T19:38:05+00:00",
+     "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9742/live/bc650a50-e906-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
      "title": "US unveils proposed tariffs on major partners, including EU and China",
      "url": "https://www.france24.com/en/us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
      "source": "France 24",
      "published": "2026-11-25T19:15:03+00:00",
      "summary": "The United States on Wednesday unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production -- the lat",
      "image": "https://s.france24.com/media/display/204bc0b6-e904-11f1-8964-81da3ab2acbb/w:1024/p:16x9/EN-20261125-200200-200343-CS.jpg"
-    },
-    {
-     "title": "World reacts to Trump\u2019s new tariffs as US stocks tumble",
-     "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T18:59:26+00:00",
-     "summary": "The new levies come after an eight-month investigation launched by the United States Trade Representative.",
-     "image": ""
-    },
-    {
-     "title": "US announces new tariffs on host of countries including China",
-     "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-25T16:21:34+00:00",
-     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg"
     }
    ]
   }
