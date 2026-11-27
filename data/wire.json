@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-27T22:22:47.997259+00:00",
+ "generated_at": "2026-11-27T22:52:52.046226+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T22:22:47.997232+00:00",
+   "fetched_at": "2026-11-27T22:52:52.046197+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+     "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T22:22:02+00:00",
+     "summary": "The US military says it disabled the Palau-flagged ship\u2019s propulsion but its crew was unharmed.",
+     "image": ""
+    },
     {
      "title": "Thousands still without power after storms that snarled Thanksgiving travel",
      "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
@@ -36,6 +44,14 @@
      "published": "2026-11-27T22:00:20+00:00",
      "summary": "Rating agency S&P revised France\u2019s outlook to \"negative\" from \"stable\" on Friday, citing growing budget pressures as weak economic growth and higher interest costs make it harder t",
      "image": "https://s.france24.com/media/display/c550db02-eaab-11f1-9bac-174dac1c1bf0/w:1024/p:16x9/AP16236824377278.jpg"
+    },
+    {
+     "title": "\u2018Activists of rhythm\u2019: Fighting Spain\u2019s far-right through art",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T21:59:11+00:00",
+     "summary": "Madrid\u2019s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
+     "image": ""
     },
     {
      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
@@ -100,29 +116,29 @@
      "published": "2026-11-27T20:43:44+00:00",
      "summary": "\u201cHis main political platform is to say, I am not S\u00e1nchez, I am the opposite of S\u00e1nchez.\u201d As Spain heads to the polls, what do Alberto N\u00fa\u00f1ez Feij\u00f3o's campaign and political career t",
      "image": "https://s.france24.com/media/display/18289436-ea9e-11f1-891f-81bc2b1dcd65/w:1024/p:16x9/NW304504-O-01-20261127-01.jpg"
-    },
-    {
-     "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
-     "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T20:40:51+00:00",
-     "summary": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
-     "image": ""
-    },
-    {
-     "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
-     "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T20:39:57+00:00",
-     "summary": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T22:22:47.997245+00:00",
+   "fetched_at": "2026-11-27T22:52:52.046212+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+     "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T22:22:02+00:00",
+     "summary": "The US military says it disabled the Palau-flagged ship\u2019s propulsion but its crew was unharmed.",
+     "image": ""
+    },
+    {
+     "title": "Zelenskyy likens Trump calling Putin \"my friend\" to Hitler being viewed as friend during World War II",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT05GR0ZBR0VFVndFTTE0VEhxT250eFRUVVpxRlhzM2ZLVkt3SFVSckdQb1lLSGhlNDJCUk5DenZQQnZZM3Z2NTl2NVM3MVpzUEFBblhCUlRNWGRJbE1Va2VSZ09QdE1naFNjUmdwZ0hQbUY0amNQVzZOa1lPUjhZd2JBMkpRWWdXZ1M0anBFNVZJVkR6SzMwcUpsLVhXQQ?oc=5",
+     "source": "CBS News",
+     "published": "2026-11-27T22:10:41+00:00",
+     "summary": "Zelenskyy likens Trump calling Putin \"my friend\" to Hitler being viewed as friend during World War II&nbsp;&nbsp;CBS News",
+     "image": ""
+    },
     {
      "title": "Uganda to withdraw troops from DR Congo",
      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
@@ -202,29 +218,45 @@
      "published": "2026-11-27T20:13:58+00:00",
      "summary": "Promise Me, America, which has lukewarm reviews from critics, sold about 21,000 copies during its first week on saleJoe Biden\u2019s memoir Promise Me, America debuted with modest sales",
      "image": "https://i.guim.co.uk/img/media/003740be3a0434261a2d2a66fd6076cbdc141ac0/365_0_3200_2560/master/3200.jpg?width=140&quality=85&auto=format&fit=max&s=6baca68ed99fb648d2435cb43530876a"
-    },
-    {
-     "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T20:10:30+00:00",
-     "summary": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded \u2018links to terrorist acts\u2019.",
-     "image": ""
-    },
-    {
-     "title": "Israel kills four in Gaza as Hamas chief al-Hayya\u2019s son survives strike",
-     "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T19:53:25+00:00",
-     "summary": "Four of Khalil al-Hayya&#039;s other sons were previously killed by Israeli forces, according to the Palestinian group.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T22:22:47.997248+00:00",
+   "fetched_at": "2026-11-27T22:52:52.046216+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Political novice turns kingmaker after New Zealand\u2019s deadlocked election",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUQ1YzJiOVpUQWczN2lmR3E0aGRNSXFuMWtkVUY2c2NrQWo5ai1XX3B4M2hLazYyaWJhLUl0V1pqRTNHaW5JUm9vU3YtMjJwdjNlV1pGZURab0ZsRjlfbUhMOV9kemw4eVBFUkxuNjNBcjczQWE0X3N3Y3JSbDUteEx6djZWUWhGalNXOENKRmdwN3RxSkNmdngtUFhaRzk2STNPV2NNYlZReVc5Y0M2X19ONmd1dw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-27T22:46:54+00:00",
+     "summary": "Political novice turns kingmaker after New Zealand\u2019s deadlocked election&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Colombian chiefs rush to reassure China as envoy berates lawmakers in Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWxZQV8xQjVFdXFkamhSc3hlcHozVjcwSWNrQ1BKbnBXSEpBdHFldVo2SVZtOXlZZmpYRjVsX3lYMXpZbWtrZVFfRzdiY0VmUGtJS3cxODFuc1NTSkt4TDJjZTFLaUhySURScEZPRjhSVU16cXBZQnZJcjJfY1V4R05DeUlXbzNkdlhzeWtoc1BJOW9xcTg4U3JjUzB0ak9JbEpyMnFiajRVMXZYWVVEQzVfTjdJaV9zQnNqdnM5MU1JdmNIdzZmaE1qNTI4RnPSAc8BQVVfeXFMTXFsN3NpX05DcDJreW5aV3l0MVRCRXdNX2oxd0pvVGloT1FhdlhGbUFXQW5vRGdvalkybnFyMTdSRF96Q2FBNWV2ZzA3MUktQnBZREw3blJ4cGNsYnRrSExaaUxua05ubUVVeHNyMVlfOHBKdXliT1g1TXBGYndsMm0zQWloWjJHMlNvUmtZbW9ZTkhsSFhRcm0wTDExZjRTRGJuSFlvbFFXMGdIT0JzYjFHX1d6aUVNZlpIQzhEOFgtVHFmcHFBa08zakFoR1NN?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-27T22:27:36+00:00",
+     "summary": "Colombian chiefs rush to reassure China as envoy berates lawmakers in Taiwan&nbsp;&nbsp;South China Morning Post",
+     "image": ""
+    },
+    {
+     "title": "Amazon discriminated against Iranian job candidate under global hiring policy, Ontario tribunal rules",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbkFRSS1EVmsxUV83UktKVy1xZzFBbEtta3JTNURTX1haRGtoSjRJRi1tUDZxcUVrWW9OWktnaXBXSG9Wb3Z1dWZhaVBNTkloODM4TUVva3RodXFxMWVfZm05cERqa0tVWVV3UG43azBnYlNvM1dGTklUcnNxZUJQV2V5N1Y4T1lMSU8yZDJKTWh3bG91NVJoOEQ0aHJEZEZucFR4amtrNjdqeU9BOWYxSzUtYXgtbmJBa2tpaE51c2dELU1nZ0pVaEo2dw?oc=5",
+     "source": "GeekWire",
+     "published": "2026-11-27T22:21:11+00:00",
+     "summary": "Amazon discriminated against Iranian job candidate under global hiring policy, Ontario tribunal rules&nbsp;&nbsp;GeekWire",
+     "image": ""
+    },
+    {
+     "title": "Lt. Gov-elect Zac Johnson says bipartisan election reform and rural polling places are top priorities",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMGZsX0NQeEVUcWh5LTZSWmFzTzNWV20xcFVLNUlnUWF1V3NJaDZaRG9CdGhwZEdHaDJNNzItbFlFdEwxLUN6dFNCMExHWm5Yb05aaVhhWHFyT3l4YmNkY19URGw1LTlUUjNOOTdvR1lPdGViSnVjQ1pTRm9ua2NBM0t4ZFc5Yjd5bGpQa2hXVGtkajI3ZlEzeDU0RHJKb2tnSUNoMjBoQzVSU1VJMnIzU0xOQWFsRm9KTENucmJLcldLbHE0UUdPTW55Wkc2Q0pJOUYtSEJkLU1ZT1pCYThnT0RmR3JPUm1qVFlkcFVQT0VDQQ?oc=5",
+     "source": "Alaska Public Media",
+     "published": "2026-11-27T22:14:00+00:00",
+     "summary": "Lt. Gov-elect Zac Johnson says bipartisan election reform and rural polling places are top priorities&nbsp;&nbsp;Alaska Public Media",
+     "image": ""
+    },
     {
      "title": "Now, According to Trump, the Pre-Election GDP was \u201cFake\u201d",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDVGTjdSVkFmakk0dkJuSGozQXAwd3liQnhTY2xpdVlYTjBxNmIzNG9rUE1iQVYxVWpBQVBxNS11UkRUUjNqZTA0ZWp3dVdwQUZCQ3JtOGhZQ3E3UWhjb3J5NVZnZUZ5MTdNNS14Tkx2ckprVERHOVdBaEY3Z2d1LXByRERfU0E?oc=5",
@@ -250,12 +282,12 @@
      "image": ""
     },
     {
-     "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-     "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T21:55:53+00:00",
-     "summary": "Prime Minister Pedro S\u00e1nchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
+     "title": "France Outlook Cut to Negative by S&P in Pre-Election Warning",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWZXMlNNYkZqRTNXdU8yamZKc2JjQVZWMWQ1TGJueHVOZml3ckVIMXVPdlNsakdFTWY3SThWT05IZ051RWQ1amd0cF95dVdrM196UVRLdHZrVjJWNlk1V2ZrS1NRbndaLWJtUFdOXzVTTzlNSDhuNllyVnB3aUlCQUFqRmYxXzVXWnIycFBjWUpPWVVjeW9oRmFlRWwzTVhlVmY0VElWT2JPdmlad2RDMGpB?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-27T21:55:05+00:00",
+     "summary": "France Outlook Cut to Negative by S&P in Pre-Election Warning&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
     },
     {
      "title": "Europe Braces for Election Season as Spain Votes",
@@ -288,43 +320,11 @@
      "published": "2026-11-27T21:24:10+00:00",
      "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared \u2018persona non grata\u2019A petition signed by nearly 290,000 Canadians calling on Mark Carney\u2019s government to ous",
      "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=f9e753676a68320c2d147c2a5561d6a1"
-    },
-    {
-     "title": "France Outlook Cut to Negative by S&P in Pre-Election Warning",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWZXMlNNYkZqRTNXdU8yamZKc2JjQVZWMWQ1TGJueHVOZml3ckVIMXVPdlNsakdFTWY3SThWT05IZ051RWQ1amd0cF95dVdrM196UVRLdHZrVjJWNlk1V2ZrS1NRbndaLWJtUFdOXzVTTzlNSDhuNllyVnB3aUlCQUFqRmYxXzVXWnIycFBjWUpPWVVjeW9oRmFlRWwzTVhlVmY0VElWT2JPdmlad2RDMGpB?oc=5",
-     "source": "Bloomberg",
-     "published": "2026-11-27T21:17:53+00:00",
-     "summary": "France Outlook Cut to Negative by S&P in Pre-Election Warning&nbsp;&nbsp;Bloomberg",
-     "image": ""
-    },
-    {
-     "title": "Nebraska board to certify 2026 general election results",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjZZUVFxZnExb2tIbEFMbmZ1bFVodnpBWkNLdERiWlo3anBGWlAwYms0dnN1M0xkdDZweXQ3aUlKUDhCeXQ3cWFZc2pCYlI0VVNYUFFFZHFFWkIxWmhwc25odThsa19CTFVvcm5OTDNUSnNkWHpwbVVOVlZtem5OcWZjSl9NRWJLbXdTVWZTdTB1Wlo0c21na2tWb3pZUHVBU1VyVXJFR3pXSnBOS3AzR3NZMA?oc=5",
-     "source": "Lincoln Journal Star",
-     "published": "2026-11-27T21:00:00+00:00",
-     "summary": "Nebraska board to certify 2026 general election results&nbsp;&nbsp;Lincoln Journal Star",
-     "image": ""
-    },
-    {
-     "title": "Election 2026: Final results are in for three of South Bay\u2019s tightest races",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUm9TeW9sSWdFbWxxNlJVUllITXB3ZTBHcXhZaHhwaWtJZ29MNS11YzJGTEZSNWE1V18xRkd1SVBqWnNwWG5uMzZFa1dicWlJVzRNVFlwWEJaOFg4VkM4aWlORGw4U19QNzFKR2llVkhZQTc4WFN3c1ZyM213bFdYMWh2RE5yS2swa1lxV2VjcVplZzBSOHQ3VkJTQ0hpUlRJX3lMV2pHbXh3OTBuUmltMDlCTQ?oc=5",
-     "source": "Daily Breeze",
-     "published": "2026-11-27T20:56:30+00:00",
-     "summary": "Election 2026: Final results are in for three of South Bay\u2019s tightest races&nbsp;&nbsp;Daily Breeze",
-     "image": ""
-    },
-    {
-     "title": "Johannesburg Lawmakers Snub Top Vote-Getter in Mayoral Election",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2JxNUlkOF9WRFNxRVg2ajFIYkJCRzQwdmwxY2F2M0VLTEMyaXp6TnpjcXVFal8wQ1RjdFRCSExsbmNELVlQbEVMaW9jc0JkUEdtVi1zb0FIeHVKT0pNeXA2X2hrN0QtWnV3RVEwTDduYVc4TkFjTXFyWEVNNGJVdWMyenFldFRUVWhuQ211SjY1ZTg?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-27T20:51:21+00:00",
-     "summary": "Johannesburg Lawmakers Snub Top Vote-Getter in Mayoral Election&nbsp;&nbsp;The New York Times",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T22:22:47.997250+00:00",
+   "fetched_at": "2026-11-27T22:52:52.046218+00:00",
    "stale": false,
    "items": [
     {
