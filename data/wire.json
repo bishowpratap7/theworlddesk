@@ -1,17 +1,57 @@
 {
- "generated_at": "2026-11-27T09:50:16.804449+00:00",
+ "generated_at": "2026-11-27T10:20:20.176298+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T09:50:16.804417+00:00",
+   "fetched_at": "2026-11-27T10:20:20.176267+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Israeli opposition leader seeks path to form government without Netanyahu",
-     "url": "https://www.npr.org/2026/11/27/nx-s1-6054840/israeli-opposition-leader-seeks-path-to-form-government-without-netanyahu",
+     "title": "Department for Work and Pensions takes services offline after \u2018cyber incident\u2019 \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-27T10:02:21+00:00",
+     "summary": "The department is working with cyber security experts to restore services and limit disruptionAlmost all pensions and benefits systems have been knocked offline following a \u201ccyber ",
+     "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
+    },
+    {
+     "title": "\u2018It\u2019s not helping\u2019: calls for guardrails and regulations as AI use rises at US retailers",
+     "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+     "source": "The Guardian",
+     "published": "2026-11-27T10:00:02+00:00",
+     "summary": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplaceAs millions of Americans begin holiday shopping this Black Friday, consumer",
+     "image": "https://i.guim.co.uk/img/media/b00b5e8e8d672e254701571ca7a06b5d31716990/950_531_4337_3469/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=88f707a2ab8bf753941c28b1c5bcd775"
+    },
+    {
+     "title": "Pizza history: AI agent\u2019s cardless purchase is a first for UK",
+     "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+     "source": "The Guardian",
+     "published": "2026-11-27T09:53:11+00:00",
+     "summary": "Papa John\u2019s order was made without sharing bank security details \u2013 tech that could revolutionise shoppingRetailers enter the unknown with AI shopping assistants on Black FridayAn o",
+     "image": "https://i.guim.co.uk/img/media/bf6bce003fbe74cd0f36f89414dd7b2fb6f3888f/996_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=cc476f12dc0c009172d0f11ea897ec28"
+    },
+    {
+     "title": "As UN Secretary General's last day approaches, search for his replacement continues",
+     "url": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
      "source": "NPR",
-     "published": "2026-11-27T09:43:54+00:00",
-     "summary": "NPR's A Martinez speaks with Israeli pollster and columnist Dahlia Scheindlin about the Israeli opposition leader's strategy as he races to form a government without Benjamin Netan",
+     "published": "2026-11-27T09:46:13+00:00",
+     "summary": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up ",
      "image": ""
+    },
+    {
+     "title": "Democrats want to end Trump\u2019s Iran war. But how different are they?",
+     "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T09:43:01+00:00",
+     "summary": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
+     "image": ""
+    },
+    {
+     "title": "Trump calling Putin \u2018friend\u2019 like declaring friendship with Hitler during WW2, Zelenskyy says \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-27T09:42:32+00:00",
+     "summary": "Ukraine\u2019s president labels US counterpart\u2019s comments \u2018strange\u2019 and urges Washington to increase pressure on MoscowOvernight, Nato fighter jets and an interceptor drone were scrambl",
+     "image": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=140&quality=85&auto=format&fit=max&s=a276fc4e051a91037a091bc654e57435"
     },
     {
      "title": "Five people hospitalised as Levski Sofia and Marseille fans clash ahead of Europa League game",
@@ -20,14 +60,6 @@
      "published": "2026-11-27T09:36:56+00:00",
      "summary": "Fighting broke out ahead of Thursday's Europa League match between Levski Sofia and Olympique Marseille, with five Bulgarian fans ending up in hospital. Local media reported a numb",
      "image": "https://s.france24.com/media/display/1af24180-ea03-11f1-877a-81bc2b1dcd65/w:1024/p:16x9/7f7c9be0c0c970cd16bffc4140780dafdd889644.jpg"
-    },
-    {
-     "title": "Department for Work and Pensions takes services offline after \u2018cyber incident\u2019 \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-27T09:24:09+00:00",
-     "summary": "The department is working with cyber security experts to restore services and limit disruptionHere is the statement from the DWP on the \u201ccyber incident\u201d:We have taken some DWP onli",
-     "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
     },
     {
      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
@@ -84,51 +116,51 @@
      "published": "2026-11-27T08:37:52+00:00",
      "summary": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
      "image": ""
-    },
-    {
-     "title": "At critical juncture, Friedrich Merz finds Germans\u2019 support for Ukraine wavering",
-     "url": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering",
-     "source": "The Guardian",
-     "published": "2026-11-27T08:33:08+00:00",
-     "summary": "German chancellor is on difficult terrain, at home and abroad, as he fights to maintain European backing for KyivThe German chancellor, Friedrich Merz, is navigating choppy waters ",
-     "image": "https://i.guim.co.uk/img/media/97b3ddc6aaa11f0ad62558d6d5f150837db7a46c/291_0_2859_2288/master/2859.jpg?width=140&quality=85&auto=format&fit=max&s=d016ed947539ab2a68f84890c70efd55"
-    },
-    {
-     "title": "Police bodycam shows rescue of man from burning car in US",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T08:24:59+00:00",
-     "summary": "Dramatic police bodycam video shows the moment an officer and a passing motorist rescued a man inside a burning car",
-     "image": ""
-    },
-    {
-     "title": "Deadly floods leave parts of Ecuador under water",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T08:24:18+00:00",
-     "summary": "Deadly floods have submerged homes, businesses and roads across Ecuador.",
-     "image": ""
-    },
-    {
-     "title": "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
-     "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
-     "source": "The Guardian",
-     "published": "2026-11-27T08:17:13+00:00",
-     "summary": "Big lenders will aim to \u2018protect their earnings\u2019 amid temporary increase in corporation tax surcharge, says Andrew BaileyBusiness live \u2013 latest updatesThe governor of the Bank of E",
-     "image": "https://i.guim.co.uk/img/media/4052a9d7c5a9c1de8842fe2b75cc4143a1c9fa82/830_252_4289_3435/master/4289.jpg?width=140&quality=85&auto=format&fit=max&s=3fce09a4246c730c56a379165ec92dff"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T09:50:16.804432+00:00",
+   "fetched_at": "2026-11-27T10:20:20.176282+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Israeli opposition leader seeks path to form government without Netanyahu",
-     "url": "https://www.npr.org/2026/11/27/nx-s1-6054840/israeli-opposition-leader-seeks-path-to-form-government-without-netanyahu",
-     "source": "NPR",
-     "published": "2026-11-27T09:43:54+00:00",
-     "summary": "NPR's A Martinez speaks with Israeli pollster and columnist Dahlia Scheindlin about the Israeli opposition leader's strategy as he races to form a government without Benjamin Netan",
+     "title": "Democrats want to end Trump\u2019s Iran war. But how different are they?",
+     "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T09:43:01+00:00",
+     "summary": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
+     "image": ""
+    },
+    {
+     "title": "Trump calling Putin \u2018friend\u2019 like declaring friendship with Hitler during WW2, Zelenskyy says \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-27T09:42:32+00:00",
+     "summary": "Ukraine\u2019s president labels US counterpart\u2019s comments \u2018strange\u2019 and urges Washington to increase pressure on MoscowOvernight, Nato fighter jets and an interceptor drone were scrambl",
+     "image": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=140&quality=85&auto=format&fit=max&s=a276fc4e051a91037a091bc654e57435"
+    },
+    {
+     "title": "Zelensky says Trump calling Putin \u2018my friend\u2019 is like saying it of Hitler",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUttR3NoZVFfNktsVEJpZWc0aVpvNVNkMWJjS3loQ3M3cmVObUNFamltUzBCaUkyay1ZZVQtZEo0a1FMd2Y2d190NWNWcWxneWFfQ0FDYWxILWFRc2hZamhQc3lrYVVoTXdscG9RcXFibzlqVnZhVDd4STlHTXpGVGxQbmdEd1VOQXhpQXNxREhWa3dHZ0FhaXFZS1p0M2VEZWJnWXN6aGxLVk9CRUNHUUNHWWZIQ1ZGRnNLZjJEMHVNd9IBwgFBVV95cUxOanZWaG85cWV6WDZoVjBORG5kWW1VN3otMjBUZzVMVW1KblhxNm1KMHZiSUZmalhBTW12QUJsTzhac1lTVFZsSDE0UWQ3YURSU0RtU3NNLWFjNXBVZ3JkbE1OdHl5cUtDanB3U1FYNEl1SlN1VG5WR08wMWRsQ0U0S1Bldk1PaWdlYlFkVkJkN0J1NnVBcldJZ3lkcjBUYzcxTmJGNUM3XzczNDlYcGczUGJuQ28yNExhdXRLeVR5c2Exdw?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-27T09:22:39+00:00",
+     "summary": "Zelensky says Trump calling Putin \u2018my friend\u2019 is like saying it of Hitler&nbsp;&nbsp;South China Morning Post",
+     "image": ""
+    },
+    {
+     "title": "Ukraine War, Day 1,737: Zelensky \u2014 Trump Camp Still Restricting Starshield",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYl8xWkw1QkVtVDVZcHItQUNEZjh2XzFZeENFRV9ySG5EWTNvMUJIejV6ZHZrcUpiU0FVd1hRZm52MTdzYnlWY2V0NTdJWW5kVy1sR2s5WDdrMXZ6RFl1SnNOUTVFUkxpUEl5bFI2SzJCTjdLUk15S3VDbHlsdUdDRzVYVzJWVzk5OHA1YnRGbGl1X0VLSWhrUg?oc=5",
+     "source": "EA WorldView",
+     "published": "2026-11-27T09:08:34+00:00",
+     "summary": "Ukraine War, Day 1,737: Zelensky \u2014 Trump Camp Still Restricting Starshield&nbsp;&nbsp;EA WorldView",
+     "image": ""
+    },
+    {
+     "title": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
+     "source": "BBC",
+     "published": "2026-11-27T09:07:48+00:00",
+     "summary": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough&nbsp;&nbsp;BBC",
      "image": ""
     },
     {
@@ -172,14 +204,6 @@
      "image": "https://i.guim.co.uk/img/media/97b3ddc6aaa11f0ad62558d6d5f150837db7a46c/291_0_2859_2288/master/2859.jpg?width=140&quality=85&auto=format&fit=max&s=d016ed947539ab2a68f84890c70efd55"
     },
     {
-     "title": "Ukraine\u2019s Zelenskyy compares Trump\u2019s friendship with Putin to friendship with Hitler",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb0NfYU5adjMyNHZiTk9iSzlWTTRlRkZlTzIxMVY5SUNhZERjeDQwYXhzTEFHLS1UNHFISDhxYmZKQmJTeUdvTjBzZ18xNV9XNVZfck91UU5KME5vd2dvLWhmTVlRMUpBbDVtNnc4anlxYl9mSUp3aWJTQ25LSUFjYWJ1SmtwUm9kRF81dGZLNzdyVk5RSllYaDlYQmRZQ0NUd0VkMml0bmlSdEpxZXNxMHhqc0pYZDc3a3hYbVBsa3ptdS1GZXExRFZ3a1V2SU1HVWfSAdcBQVVfeXFMTWI5emEzTlZZMDhCeDgxdmNQNUxoeGNjZHNabUFtNS1JeVIxODBITDgzdXFhN1hnUnRoYkp3U191aW5NTlRCQ2JyV0xFeHNkXzRWSDhYN1Fwa2JCQXpLMnotd1I3N0FuTTZ6WEp2UVRXYVRzZ3pWM2pQay1ZSVRQRi1TaGNWZkFBVXBxQVIza1ZiblJPSmNlaWY5cTBzdFFVd0xncnpOY0VzUjhSeEF3U2JsUVBRSTFDUXdLcjBHTTlfdEVpclBjcFdZZ0t2ejNfMUhmSy0tb1k?oc=5",
-     "source": "Al Arabiya English",
-     "published": "2026-11-27T08:29:00+00:00",
-     "summary": "Ukraine\u2019s Zelenskyy compares Trump\u2019s friendship with Putin to friendship with Hitler&nbsp;&nbsp;Al Arabiya English",
-     "image": ""
-    },
-    {
      "title": "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
      "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
      "source": "The Guardian",
@@ -194,37 +218,37 @@
      "published": "2026-11-27T08:17:02+00:00",
      "summary": "As Europe braces itself for a slew of tense elections in 2027, Paris and Berlin are pushing for the European Union to strike a budget deal by December 31 to lock in financial aid f",
      "image": "https://s.france24.com/media/display/dc7e33b4-ea20-11f1-92cc-81bc2b1dcd65/w:1024/p:16x9/2026-11-26T195141Z-1710060570-RC2VVOA3Q7FW-RTRMADP-3-EU-SUMMIT.jpg"
-    },
-    {
-     "title": "Is Russia-Ukraine war poised to suck in rest of Europe?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2VMU2NjbEhNWGRlTmo0VG5RYWhSVHZ0UGc3WkkwUDhNNGtoc25OV3BPVXBuazZjWVBmSXdVdnpkYWZXTjE5Z2VHUzMzc2hOdWZwaExXZXBqSkJ4ekJaWVY3M2Y0Y3EtOW94ZG90bUxhVkp6a3NmM2tCQ292eE1ISUhUNEF3eE1FWTRvUENHd1FkVTBFdDkxSlVFYWxlX0FJcURn?oc=5",
-     "source": "The Federal",
-     "published": "2026-11-27T07:30:00+00:00",
-     "summary": "Is Russia-Ukraine war poised to suck in rest of Europe?&nbsp;&nbsp;The Federal",
-     "image": ""
-    },
-    {
-     "title": "Can the Mecca pact turn its collective defence promise into real support?",
-     "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T07:16:30+00:00",
-     "summary": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
-     "image": ""
-    },
-    {
-     "title": "Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?",
-     "url": "https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T07:11:19+00:00",
-     "summary": "The presumptive House speaker&#039;s political pragmatism will be tested by divisions over healthcare, Israel and Iran.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T09:50:16.804437+00:00",
+   "fetched_at": "2026-11-27T10:20:20.176286+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "\ud83c\udf08 The battle over gender in Spain\u2019s 2026 election",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtSnc5WTkxekhzVWl4b3VBMTJhMldTdkN1SG5yVHZQbDdwY0Z6bWdQa0F0U1ROMUlvb3Z6RXE5STJVdXoweG9kX2hBeFNFdHNnWmRHclo4ZmZJMDVxZG4xaHVhYUpocEJQWUFzcEVBeUdrU0tBVXFYclJUWQ?oc=5",
+     "source": "European Consortium for Political Research (ECPR)",
+     "published": "2026-11-27T10:05:22+00:00",
+     "summary": "\ud83c\udf08 The battle over gender in Spain\u2019s 2026 election&nbsp;&nbsp;European Consortium for Political Research (ECPR)",
+     "image": ""
+    },
+    {
+     "title": "Hot Springs considers March sales tax election to fund city projects, reduce wastewater bills",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQk5icS1lY0tsN0FHeWlKc3NYV1JXdjl3YWxmWVdCZU4yVGxJUDB1azZqQktPRjhSRkhfQnhodHZxelI5YTBXSERqWDJHUzBsdENkaUJFZkJoQk9MS2RfSjMtd1Vld3YzdEVQd3RQVnhUa1JUN0U4d1BJNmNGNDRKQ3JhM2d2YW5GSlBtVjluS3BpUEU?oc=5",
+     "source": "Hot Springs Sentinel Record",
+     "published": "2026-11-27T10:05:00+00:00",
+     "summary": "Hot Springs considers March sales tax election to fund city projects, reduce wastewater bills&nbsp;&nbsp;Hot Springs Sentinel Record",
+     "image": ""
+    },
+    {
+     "title": "Australia sanctions Iranian agents over attacks on Jewish sites",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYU9WakQ0dmlYN1lvMVoyc3MyYkFsY1JjeUxoTUtfdHhRdkNqalFCbm9sV01lbmZfY0syT3JTMUFSV2VXZHVQRElBQVpkZ0ZpUU9GZjhpenpubDByRTZnR0E2WjdwYWJrd0c0OHhsdGRRS3gwVU4zdXNYOE9DbVUzRmd4NjdSLTloYWN6dmZFVQ?oc=5",
+     "source": "The Arab Weekly",
+     "published": "2026-11-27T09:57:19+00:00",
+     "summary": "Australia sanctions Iranian agents over attacks on Jewish sites&nbsp;&nbsp;The Arab Weekly",
+     "image": ""
+    },
     {
      "title": "Seoul Mayor Oh questioned by police over alleged election law violation ahead of June elections",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTXJmMVR3RGIwVk1vdWQ1WkxBSzR3aXJCNUNId1NFdGxYeDFITDduMUJGMUJLemNDbW5oS0h2Y25PQlhDaldlRGJZQ19tc3VvQXR3OXlxLThJa1dQaXBxSGJoNTh5NDVRZGxfYVljRk02eG5qYzZxTWxEYjU3cFB2YU1MdEdCaURoNFJGNHVaeERLTjR1WkpWZGRSOFIzZm9tVmpjNzBZM2lSQTNLTEtVWE1KWk1jZmRzTUJEMFJUZVU5NDlaOWlaUHdwYkxwbktEVC1pVGpnV3R6V2lvbFE?oc=5",
@@ -274,6 +298,14 @@
      "image": ""
     },
     {
+     "title": "Outgoing Adams County assessor reflects on service, transition after election loss",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcXY3cGtFcDRVUzFnV1NBQldBOVAzcktXWjVnTWtZNUZwQ1gxNlBISVRNWTg4ZTE1cU1xNWhHV3RvcmMyZEdnNVh6QVhWY0FsUm5YQXA1UVpoNEpiRXdZWWRvWHFRU2c5eU90aXR0WDBWeElic2ljSHhfNU1FNUJRRGU0UkRnZTBNbWRkUzVMZ3luU0I0RTdKbVZHWk0zNHRWcTNoN2xJVlk4UnNEVjBqcDFTczdxZ0hWYzUwV0FyNnBlYlVsZlE1UXR2bw?oc=5",
+     "source": "Columbia Basin Herald",
+     "published": "2026-11-27T09:15:00+00:00",
+     "summary": "Outgoing Adams County assessor reflects on service, transition after election loss&nbsp;&nbsp;Columbia Basin Herald",
+     "image": ""
+    },
+    {
      "title": "Policy figure Talbott dead at 80",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUZYMkxkTzBrQmdjTGdFYU1fTG1sZVBDZFVabmZMQlNxOXZMTUVGSzNyUDZyWDA2RVg5M2FlRFdmLWNRRlItc2NjMUptSXNUdnhOSFdLYXBJNHkxRjUtcHFEczdxeTJNOGVOQnB2YVJYZ3ZDbmIwdmtxdWFJV0NhT1ppM0tHRlV3?oc=5",
      "source": "The Arkansas Democrat-Gazette",
@@ -288,60 +320,20 @@
      "published": "2026-11-27T09:00:05+00:00",
      "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
-    },
-    {
-     "title": "A Decision That Sets the Course: The Election of the DSAG Board",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkdOdTJhVFowbDl1MkRycXZINlhaRExJS3MyYmxJNnF3N3JyRFdUa21xV3YtN2tPN0tlR3V5NU5xN1gyRjVyLWVJRU56Y0xKNl8zYzdNamx6NXpfU29DU1ZjdDRpRHE1andTMHBzS2RpTk5IbDQ4RVdWUFk3OU5fTTB3UW1rNUpr?oc=5",
-     "source": "E3-Magazin",
-     "published": "2026-11-27T09:00:00+00:00",
-     "summary": "A Decision That Sets the Course: The Election of the DSAG Board&nbsp;&nbsp;E3-Magazin",
-     "image": ""
-    },
-    {
-     "title": "Centre-right leader Feijoo pitches himself as the manager Spain needs",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVJ6YS0tTzRFQzNnVC1vOWNDTUYxTkJYQ1F1TUJ3NFJkWXZQQUowMFlMOHFHTHRRRi1icXBIckZuREZhd0xJMTNERlpJZEN4RGl5aFZjQWd0ZDQtczlEUDVma1A4TllFNjVjYVMyUGVCWGNDclI4X2lMTHdzeU9JOG5RR3RDN3pMNU16R1FNSXdyRXBBUEtQLTJVTVdrLXhoVFNiUDN0ejdEZXM5aFVPeDlRRQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-27T08:50:49+00:00",
-     "summary": "Centre-right leader Feijoo pitches himself as the manager Spain needs&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Factbox-Spain Election: What the Main Parties Are Proposing",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHJaQmRjUzNyX2l4X0FVenJ3NXhBUWlNWjVlNXJ0MDY3cEQwaUM4UGRqOGNIMHVyaGhUZzhVRUlzU2lWTS1nUFIzNWlJdnBqWThtWWNwdS02UHFiWjhRTGFBODJ3TUIwTVlfUHlHLXZHQTZLMk5jX0x3VXJrZC1vYm85NVlwcThuR1JfMjNfZktyalhGVXV4Z1QzMG1LNnY5ZzB3VjlhTGNXTmROV1hRQWxR?oc=5",
-     "source": "U.S. News & World Report",
-     "published": "2026-11-27T08:48:18+00:00",
-     "summary": "Factbox-Spain Election: What the Main Parties Are Proposing&nbsp;&nbsp;U.S. News & World Report",
-     "image": ""
-    },
-    {
-     "title": "Spain\u2019s Vox party leader Abascal nears power as election kingmaker",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWd6XzhaaEswdFBFU3lDMDJaeUFWa0lEZGxNNWpxX00yN3hBYnFITzJDYVNxVnNORkNpSmpoT3dGa2pQRXBkVG9MaElkS0ZZU0xmYlV4d3BLUGN3YW95WkI5dDhFYlRDT01lUHdFdzdNMHJkM0xaQ3c3SjRWNXJxZzExR2E4RzRYR21SaURJSQ?oc=5",
-     "source": "SRN News",
-     "published": "2026-11-27T08:42:40+00:00",
-     "summary": "Spain\u2019s Vox party leader Abascal nears power as election kingmaker&nbsp;&nbsp;SRN News",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T09:50:16.804439+00:00",
+   "fetched_at": "2026-11-27T10:20:20.176289+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Houthi attacks test Saudi Arabia's image of security",
+     "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-27T06:04:51+00:00",
      "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "Asian stock markets rise after earlier tech rout",
-     "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T03:42:16+00:00",
-     "summary": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
-     "image": ""
     },
     {
      "title": "Spain's De Cos chosen as next ECB president",
