@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-11-27T01:18:39.563712+00:00",
+ "generated_at": "2026-11-27T01:48:43.114695+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T01:18:39.563681+00:00",
+   "fetched_at": "2026-11-27T01:48:43.114662+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T01:45:30+00:00",
+     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+    },
+    {
+     "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+     "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T01:07:44+00:00",
+     "summary": "France&#039;s cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+     "image": ""
+    },
     {
      "title": "Threat from China looms large over Taiwan\u2019s local elections",
      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
@@ -62,7 +78,7 @@
      "image": ""
     },
     {
-     "title": "Qantas and Air New Zealand planes too close at Sydney airport as \u2018mental models\u2019 of flight crews to be investigated",
+     "title": "Qantas and Air New Zealand planes too close at Sydney airport as \u2018mental models\u2019 of crews to be investigated",
      "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
      "source": "The Guardian",
      "published": "2026-11-27T00:10:55+00:00",
@@ -100,29 +116,21 @@
      "published": "2026-11-27T00:00:00+00:00",
      "summary": "Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is &quot;suspicious&quot; and looks like a &quot;pre-cooked recipe&quot; for war.",
      "image": ""
-    },
-    {
-     "title": "Georgian police clash with Turkiye\u2019s Besiktas fans over Palestinian flag",
-     "url": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T23:37:17+00:00",
-     "summary": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
-     "image": ""
-    },
-    {
-     "title": "Israeli settlers damage Palestinian family\u2019s homes in West Bank attack",
-     "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T23:07:36+00:00",
-     "summary": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T01:18:39.563696+00:00",
+   "fetched_at": "2026-11-27T01:48:43.114678+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia wants to build a new security framework to end the war. This is why it won\u2019t work",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHkwODhwOVM0WVNRa3lKWGtfMWhya1hjcm1mWHRJQzlHM2JXRUxwWW1zOEpwTGJ0Z2NjMEhFZzdJQnlxSTBUVWJrVWwxZDQ5S2pyS3B5RkxxOEZRWVBzcjRfTmJSc0VOa0k3MlBKQWM0LWxmdWZxN1NJeS1kSVZOSGFiMHRTX0hocWp2UzU0VGdPN2hSYjhNd0lCLU41cUJjZDFCSmZHSnVLQTVNMmVWNWdKMDUyWlU4V2Q2dGVn?oc=5",
+     "source": "The Conversation",
+     "published": "2026-11-27T01:19:00+00:00",
+     "summary": "Russia wants to build a new security framework to end the war. This is why it won\u2019t work&nbsp;&nbsp;The Conversation",
+     "image": ""
+    },
     {
      "title": "Inside Ukraine\u2019s power crisis amid its war with Russia",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmJQQ1B1bjZIY0RkLU96aHluSnhCamhVSWlMZUdsRXQxbThQMFFBNW9YUFZLR0lPaVhfZFo1a2FnQ1duUWFHaGM2R3ZIemw5MmlzYWhYQ1Q2NzBxa1FkaUdpRTdCUU5CVEw3dnp5Q0JsdldyN3JobzNZd3pRaU80WFJMaXB2ME9DY05kbE95UGlPejNFLVBmaVJCdklGaHF0TThsQklDQ0HSAa4BQVVfeXFMT0dSbnlkemlMNkhVTWJscDI0ZjNsMXJ5aWJSTF95bE1FNHluOW5UVU82cWFwVUtacmJFc0pfR0dXaF9GNlVFRjBwb2MzZmVEVEVzNEVldjA3T19FY3JBZmZHT0c0bDduNXdOLTVLYUpGNjZWdnJwYVRHd09ILUVDbThPTVRyRmlkR1JYbVR4cTQ2LW1SaUs0RjR6YTlieFA4TTdxUlE1V3BkcFV3dzhn?oc=5",
@@ -133,10 +141,10 @@
     },
     {
      "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXlld0FmMFoxdUVjNlhmNURVMmZwLXJNcXZrVkhEQWxOLS14ajJFb2VQZzBOOUZKM1Z1VGwzLURERG9lUWdGczh0bTZGTGJqdC00Nk9tYjZLR21iN1ZRbEtmTHhnRFAzV3lYRzVRN2txb3h0TUxoeENQbmNTeHlmN1AtNnBnTE1rYTRnYmxxTXNBUkh1WTdZVHpBN3h2XzNYMXlUaWVLRmlOR051bTIwbE9BWVhJRjRHSWxVd0pXQy1tdnc?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-27T00:29:00+00:00",
-     "summary": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant&nbsp;&nbsp;Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVJlbHg3YkhOX1Z1RVlSU1pkelg3dERVTzhPZWhPSVFmeS1QSENNQTRRc3hnWnBqSlBxRVVXQ0pQRi1zaloybXRIbGpvTFpWbEQybWFzQTV6cTZ3Y3EtVHlnNENiYkRNYXNXQ2prTkNEM1VleGtIMEgtQTZBVmo4MnBITDA2Z29QSnZsaEcxcFVIUkxHM1pxeXRTU05fUnRicHZkUjYyeVRqQkJEbVpLMTJTcXh6c3I5cmpqRmlR?oc=5",
+     "source": "Al-Monitor",
+     "published": "2026-11-27T00:29:33+00:00",
+     "summary": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant&nbsp;&nbsp;Al-Monitor",
      "image": ""
     },
     {
@@ -210,34 +218,90 @@
      "published": "2026-11-26T22:08:36+00:00",
      "summary": "Russo-Ukrainian war, day 1737: Russian ballistic missiles hit a Kyiv shopping center and injure seven people in the city&nbsp;&nbsp;Euromaidan Press",
      "image": ""
-    },
-    {
-     "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-     "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T22:06:20+00:00",
-     "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T01:18:39.563700+00:00",
+   "fetched_at": "2026-11-27T01:48:43.114682+00:00",
    "stale": false,
    "items": [
     {
+     "title": "New Zealand Election Ends in Deadlock, Turns Outsider Into Kingmaker",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDlISzMzY2pKdGhGbjE4SDBncHBlRnJ5eW5mVHpPbDJDMWlvVUJ4bFdodnc5cE5DUm96clBKSkV3XzZJQkcxR1VUaHhsN3diS0JMWEtOdUtoOWlmblZseVk5QzVNTmVCTmt3OGUweGxUQlY4TmlUTVF4RHlONVJuZ1NKcHlGLXRIOEZBV0hFcGJ0eUtTczd6Tk00bURRZHlaNFgtY25Qa0daejQ?oc=5",
+     "source": "WSJ",
+     "published": "2026-11-27T01:46:00+00:00",
+     "summary": "New Zealand Election Ends in Deadlock, Turns Outsider Into Kingmaker&nbsp;&nbsp;WSJ",
+     "image": ""
+    },
+    {
+     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T01:45:30+00:00",
+     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+    },
+    {
+     "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEk5YVZhQkVab283WHpWNWNfQ3JlcFFPM0pUeHJ0SjlkblhSbEFNNTYzdElNTVJwOXRncXk2cDEtWUlEYVBJc21hdWFOY19fZzlINE9iOG5PeG14QVR3VXdRdV9ybE5nbldiQjF6VUE4VXZfMTM2Q0J4WlBlY0RUWXpHb01LUWpiRHFOaElpdmRpQQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-27T01:43:00+00:00",
+     "summary": "New Zealand election: final results show ruling coalition needs minor party to govern&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "New Zealand\u2019s final election results reveal hung parliament",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDhJWV93UUJlMjNkV3ZHd1hJVzc1RG52T2lEWWRPQm1OMW5Yb3BsSzQyQXVjUDI1Q2d2OE9iSlNxV3c5c1BwQ1luZWk3SFkzcHY3ZDYxZ1Y5UmRVd0xVN2JJZWFkb2QwOXN0Rm1POUxfY29ZY2VUbUtxR19JV284aEhsSFFNb29xNFF0ajZtX1Bjc0FHWXJIb2JKZG9GN2tQdUVF?oc=5",
+     "source": "FXStreet",
+     "published": "2026-11-27T01:39:23+00:00",
+     "summary": "New Zealand\u2019s final election results reveal hung parliament&nbsp;&nbsp;FXStreet",
+     "image": ""
+    },
+    {
+     "title": "Kiwi edges higher as official NZ election count confirms a hung parliament",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTZocjdvVVI4bHVTRmJJNnRGRXdjQ1I4NDZiT2dJYzlMWlBLVUo1WmtkUE51RXlYSml3ODkzYWFCbjA2YjM0MWNTdWpqU1VfLW5PLU5IemhZT2xTX3lkb1pWcktKYk9NVEhvcktBaGhSSlZMa2dTTTlPYTVTSDVNdldRSWFmdkR5NTdjRXo0UC1YUDN3eWplVk5US3BQZ1FsV3BfdG54SktvUQ?oc=5",
+     "source": "investingLive",
+     "published": "2026-11-27T01:26:36+00:00",
+     "summary": "Kiwi edges higher as official NZ election count confirms a hung parliament&nbsp;&nbsp;investingLive",
+     "image": ""
+    },
+    {
+     "title": "Breaking: NZ's incumbent government fails to secure majority from election",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTEyTzlnRXBUSFRJTXhaTVVkaEhFT0NsMlVYOWhWUFZ4WHZpemczblFySzBBZHZ4WHlZaVVrWlNBTTNLLU5ValZJQ0lSNUoxTnJoaldJU3k2UHBFU3pOYlM3aEZ5ZlU2aF9rdGtaTHo3M1pFZ0JHSlJuOUg1cjZaUmVsYm4zakllZG5KSVA2dFNfWER3NmxmQlVpR2h3anN0dmo4Y0VYSHIyNTdmdTc0?oc=5",
+     "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+     "published": "2026-11-27T01:19:24+00:00",
+     "summary": "Breaking: NZ's incumbent government fails to secure majority from election&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+     "image": ""
+    },
+    {
+     "title": "\u2018Diplomacy key to South China Sea disputes\u2019 says Malaysia PM Anwar",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzF0OXJ3SVZaTVpGcGIxZURzTGdDQ3ZGU2VTQzJtQVE2U2FlU3pPa3BYU09DUU9Da3RlMFdaZVJyaU5JVVN1aFJEQTBNMmpmUVo5cVNrdWF0dUE1d09XaU4tRUU1V3pQcWZiRFhBQ1pNWDFDenVHc2tUZFlqQ3pPeUQ1OFRoc3hGOTgzLVNDSGJ5UWo0?oc=5",
+     "source": "Asia News Network",
+     "published": "2026-11-27T01:18:45+00:00",
+     "summary": "\u2018Diplomacy key to South China Sea disputes\u2019 says Malaysia PM Anwar&nbsp;&nbsp;Asia News Network",
+     "image": ""
+    },
+    {
+     "title": "2026 NZ election results: Interactive maps",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2tnS1hxUzFTeElRSjBjRnczWkRta1gzNE5PMEpTek5vcEZlOGU0UlJ6N0hSM0R2aWhGczZKYkY2TEY0amZaSUFEWjUyblI0aGZGNjl1Qzg1ME50LUpVbnEzNmNpQWNPR2dUWlVZYWpRc0ZFUVFxaDhFaUE2cTByOXNJd1ZRazFtVlp1ak93WW0yYm1DaDBhNDliVE9zZWZ4MUE?oc=5",
+     "source": "The Spinoff",
+     "published": "2026-11-27T01:17:54+00:00",
+     "summary": "2026 NZ election results: Interactive maps&nbsp;&nbsp;The Spinoff",
+     "image": ""
+    },
+    {
      "title": "Final count in New Zealand\u2019s election gives neither right nor left bloc enough seats for a majority",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdjFoM2ZFcTVPOFhtdWdjNEp0UTVqcU9uTmhnZzlLaUxJRjZveVhMenliMnlFaVFTTlQxem9YaWE0X0pRWFNCSm1Ndnl5ZnBNbGdoMThLRkxfWHc0aWlfOXJJU1FwM2ZSaWhxbUM5NUV3bFJSQ3VmU05GbnF5Q0c2R2tPRVQwdU00RVJIUTNaMHllX0c5QTJRRHpJaGpSczBVdWhIVnlpdWdtM3hMODJ6RHN4Mm9EZTNzcnBqYndETGFycUhjVnJ6Nm5TUDFOVXZT?oc=5",
-     "source": "WRAL",
-     "published": "2026-11-27T01:15:46+00:00",
-     "summary": "Final count in New Zealand\u2019s election gives neither right nor left bloc enough seats for a majority&nbsp;&nbsp;WRAL",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUYyNjdXYjlOWm12Ukd3XzJLSUQwM1JtSlV3REh2bmIyWHdzelNCajRoNU4zYllONWRVLXRZY0pDVm16MVNtdWZzTlFmS0xMUHpzVFRIQnlVR2J1TlY2WE1zZVNZVmczeDA0cG50Y0VlSUk0SE1XRnBkOHgxU2hBdlJFMkpZdzZDWDFyUEo0alJ3QQ?oc=5",
+     "source": "AP News",
+     "published": "2026-11-27T01:13:00+00:00",
+     "summary": "Final count in New Zealand\u2019s election gives neither right nor left bloc enough seats for a majority&nbsp;&nbsp;AP News",
      "image": ""
     },
     {
      "title": "CA announces sandpaper forum will be 'confidential' with 'no sanctions'",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDIzQ19SY2p5M0VqRW9UZlJpbUZpaEd3U0Joc1BENU5fU1pVVkxMQ2lEYzBRV3YwZzdEdXZYUlVPSGJ3NTlqZk1PVmpnOE9oeWZVeE1VNHNRZU9iSVdEVmVxRXdBMy0wSkhLQnMzVEdsUXhadE94UXkxOGw5U2ROYWNGYnFmdFRUVXRYZmQwSmJHeTBTQVVlcm5UV1cyRE91c1MwRzBqTVp3OVRxN3RCaHYtSWVSVGhJU3RvVkRB0gHPAUFVX3lxTFBxR3hYOU9FSkItdUxwVDlBaW02RUlzd0VrSG4weU1xZnNZTkIxRDBnbW1pSnp6VkpYNE4tSHpkYlNyNVlBSjRjaXNBY3llUWtWZjNzRVdTRDluODhVVXRmTkpuQjY2N1FJQTFPd1VnbjlZWmY1Y3g1d0lJQnZBT0FRVXZZQ0l4ZkRTWTQ5YXp0aDc0eEtvSmxUdnZNaUd0V2tHcU1TVW1WLURucUVTVDl4d2tlQXJSckNHbDVSQ0t2amV1ZGhQdGFhblcwV0lONA?oc=5",
      "source": "Cricinfo",
-     "published": "2026-11-27T01:09:08+00:00",
+     "published": "2026-11-27T01:10:49+00:00",
      "summary": "CA announces sandpaper forum will be 'confidential' with 'no sanctions'&nbsp;&nbsp;Cricinfo",
      "image": ""
     },
@@ -250,81 +314,17 @@
      "image": "https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=fe609d22179f2bf0a6ec3accbe60b685"
     },
     {
-     "title": "New Zealand Election",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXJ3bnBxQ2lUZzNwbEl5bktOLU56V09fdndpMEhFY1NKSU1wUVY2SkRudlZVdWNINi0zMXE2X0xQSUNyWklkNmtZOHYxTTlaekZOVzJ5TUV0Z2xIQ0pyY09jUE1WX3hHX1RwdXp2Qk5rb0dCZkotXzcyYWtoZ0x5V0lhandOUXZMTkRDWEV5S2xXUFhrTE9mSkNUdG51bXBDVGZWeDBTdFRiNWd4T2o5Sg?oc=5",
-     "source": "chronicleonline.com",
-     "published": "2026-11-27T00:59:32+00:00",
-     "summary": "New Zealand Election&nbsp;&nbsp;chronicleonline.com",
-     "image": ""
-    },
-    {
-     "title": "No sanctions and no recrimination: Cricket Australia ball tampering forum to include 2017-18 Ashes series",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZEFFOVBvWF9FQ0szY2g1M3UwaTNva0FfSFdNRUZyQTc5VUVXMXFCX09yRkdkdHFLcG12dVN0S0ptUlBpV1EtUXpNdUNER0FvLWlFTFQtS0dhODJyQmFvYi1MVlFjZnlINm03WnVsdDMxMFBuNFJfVjF5UDA1RGJGdGFkMnZMVVdyUEV5bDJkLXU3NUh1Sk9SZE5xVGNYTVFBU2trdS1odG5DTmJNVzVOM3VFTHA2TGZiN2JkR1ZDZw?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-27T00:52:00+00:00",
-     "summary": "No sanctions and no recrimination: Cricket Australia ball tampering forum to include 2017-18 Ashes series&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-     "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T00:47:43+00:00",
-     "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-     "title": "Gyeongnam Governor Park Wan-soo Not Referred in Election Act Case",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0JFSWd3S2FwRmhuY2ZNN3lGdzhuYTI3R2F4TUl5dHdjU0ROTm15cXA4V25XZlltV29IVkd4WlIzaFZFUElzdUdLbXpnY1VCNE02LTBkSlpCWVNHN2JFcTRsbDFCZTl2eDZlTkZrdUswclhaTTRMVnBkOE9xcGhReTZjaXFPOEl3?oc=5",
-     "source": "\uc870\uc120\uc77c\ubcf4",
-     "published": "2026-11-27T00:47:34+00:00",
-     "summary": "Gyeongnam Governor Park Wan-soo Not Referred in Election Act Case&nbsp;&nbsp;\uc870\uc120\uc77c\ubcf4",
-     "image": ""
-    },
-    {
-     "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-27T00:45:53+00:00",
-     "summary": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Judge pauses order requiring Fulton County to hand over unredacted 2020 election records",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVFQ4MDUxbWVWejBOTjQtd1I1RlJNMEkzY3QxVjFpRjZTdFBDeXlzelZXbXhzQ1IxMVViWWdjYl9BSzhsRlJOSjI3SlJ5ZGxWeEYwMTY3QTFOY0VDRGdFdGQ0am9iQTE1bEJQdnR4RDRjN1VyXzR1Q0hUWXVwaXhJSFpPYWZYSDg?oc=5",
-     "source": "TheGrio",
-     "published": "2026-11-27T00:38:33+00:00",
-     "summary": "Judge pauses order requiring Fulton County to hand over unredacted 2020 election records&nbsp;&nbsp;TheGrio",
-     "image": ""
-    },
-    {
-     "title": "Final election results revealed today: what you need to know",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2xZdDFKejZQV2pobWZ4MDc0b3pzRjBWV2NCZ1JEQWswd2ljeFAzdEctYTgyYkdfSGZCcC1tU0k1QURMbGZscFpwRUVvWUFKS2p3VjROQjFFcXlYMlc0SUFWblEzX3FLMVlQV3A2TEtvVjhLWWZ4YWZaU3o3V2lXdTZSYll4ZVRFTFNNd2dPdlBMZXVHUzJqQkM0Yw?oc=5",
-     "source": "1News",
-     "published": "2026-11-27T00:36:45+00:00",
-     "summary": "Final election results revealed today: what you need to know&nbsp;&nbsp;1News",
-     "image": ""
-    },
-    {
-     "title": "Beyond Diplomacy and Trade: Authorities Highlight Renewed Momentum for Cooperation between Poland and Latin America and the Caribbean",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZGNDbGVlNmEyUUhfcVk5ZVN0VDNJZmJ3NFNiWlNKZzQ0ck1zZWxCT0JmMHI3dENDUzFTM18yYWZWaV9CXy1Fak9TUnJKMkRBMmlQeEM2eXJ4VU8zMFRYYXpjcGl6bFBzX0x3MEJzNDFZcUZXdnVXNHNORWJPNGMxNTIySVNQU2RKUWNnV1hmN0VCT1RUbFVOSDlDY1JSSk8zRFBBVHpLMHBWbXBWM3VCMkRuUVlaOU9Lbkcwc2Q2RQ?oc=5",
-     "source": "Comisi\u00f3n Econ\u00f3mica para Am\u00e9rica Latina y el Caribe",
-     "published": "2026-11-27T00:28:19+00:00",
-     "summary": "Beyond Diplomacy and Trade: Authorities Highlight Renewed Momentum for Cooperation between Poland and Latin America and the Caribbean&nbsp;&nbsp;Comisi\u00f3n Econ\u00f3mica para Am\u00e9rica Lat",
-     "image": ""
-    },
-    {
-     "title": "Live updates as the final NZ election results are revealed",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGpkVGpLclplY1JEdTFxZTJfNDJDNDVzX1pmRDVhZEQ3clU3TUV3c0s4eFRldlFLYmhOWDFheUU0eDRPM0R6a0tScnNaZ3BONWRac1c4Rnh2NlRuOHByeVZPbkM0YnFGalJxUVhQNzBVbjdXZy03Y1ZEenNVOUFjZi12dDJIdmQtZGhOUV9kcTlVMHluMGVETEc3MEFJV0NGYXFxY25R?oc=5",
-     "source": "The Spinoff",
-     "published": "2026-11-27T00:23:27+00:00",
-     "summary": "Live updates as the final NZ election results are revealed&nbsp;&nbsp;The Spinoff",
+     "title": "New Zealand\u2019s Official Election Results Reveal Hung Parliament",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3lxZGdfOVhqQ05VUHJFOHgtSVlUU0xGTEZVVHY5SFhNenJUajJLVnExZ1hBbmp1RDE4Tm9tZnZYRWVyQTRhUUZRUjZSc1ZwZG55RW1NZHY5RDZGYUU5SGpaalhlU3VuZDVOelFqeWVrTi1YaVEwVlB1OU1qNXRhd0hScXRwZ0N6SDdyQkk5ckhOZFlNMkkxeTYydWhLSXFsd3h0bE1uQWVFS3h0NEhfbkZObw?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-27T01:00:00+00:00",
+     "summary": "New Zealand\u2019s Official Election Results Reveal Hung Parliament&nbsp;&nbsp;Bloomberg.com",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T01:18:39.563703+00:00",
+   "fetched_at": "2026-11-27T01:48:43.114685+00:00",
    "stale": false,
    "items": [
     {
