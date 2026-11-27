@@ -1,10 +1,34 @@
 {
- "generated_at": "2026-11-27T00:18:31.493867+00:00",
+ "generated_at": "2026-11-27T00:48:35.367677+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T00:18:31.493838+00:00",
+   "fetched_at": "2026-11-27T00:48:35.367647+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+     "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T00:29:48+00:00",
+     "summary": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "Argentina bars Central Bank from printing money to fund government spending",
+     "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T00:11:16+00:00",
+     "summary": "The South American country&#039;s Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
+     "image": ""
+    },
+    {
+     "title": "Qantas and Air New Zealand planes too close at Sydney airport as \u2018mental models\u2019 of flight crews to be investigated",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
+     "source": "The Guardian",
+     "published": "2026-11-27T00:10:55+00:00",
+     "summary": "Aborted descent on Wednesday morning is latest in a series of landing incidents at Sydney airportGet our breaking news email, free app or daily news podcastThe Australian Transport",
+     "image": "https://i.guim.co.uk/img/media/3a39c5f52fb7b585065ce4fc05a813feb4323c1a/146_0_5182_4146/master/5182.jpg?width=140&quality=85&auto=format&fit=max&s=4bc076c51986d8538b6449b136128a82"
+    },
     {
      "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia\u2019s largest exporters",
      "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
@@ -92,43 +116,35 @@
      "published": "2026-11-26T22:36:55+00:00",
      "summary": "After 21 years at Time, Talbott joined the Clinton administration and later headed the Brookings InstitutionStrobe Talbott, a former Time magazine reporter who later served as depu",
      "image": "https://i.guim.co.uk/img/media/57a24bd402f8245002e6b0db6ce2771261189de8/212_0_2738_2190/master/2738.jpg?width=140&quality=85&auto=format&fit=max&s=49a869b2e5a5bb97b157ba6300310731"
-    },
-    {
-     "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
-     "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-26T22:06:54+00:00",
-     "summary": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
-     "image": ""
-    },
-    {
-     "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-     "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T22:06:20+00:00",
-     "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg"
-    },
-    {
-     "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-     "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T22:01:22+00:00",
-     "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T00:18:31.493852+00:00",
+   "fetched_at": "2026-11-27T00:48:35.367661+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXlld0FmMFoxdUVjNlhmNURVMmZwLXJNcXZrVkhEQWxOLS14ajJFb2VQZzBOOUZKM1Z1VGwzLURERG9lUWdGczh0bTZGTGJqdC00Nk9tYjZLR21iN1ZRbEtmTHhnRFAzV3lYRzVRN2txb3h0TUxoeENQbmNTeHlmN1AtNnBnTE1rYTRnYmxxTXNBUkh1WTdZVHpBN3h2XzNYMXlUaWVLRmlOR051bTIwbE9BWVhJRjRHSWxVd0pXQy1tdnc?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-27T00:29:00+00:00",
+     "summary": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "Iran war live: Iran\u2019s Araghchi calls deadly Kuwait attack \u2018suspicious\u2019",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-27T00:00:00+00:00",
      "summary": "Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is &quot;suspicious&quot; and looks like a &quot;pre-cooked recipe&quot; for war.",
+     "image": ""
+    },
+    {
+     "title": "Ukraine, Russia could hold largest prisoner exchange of war before winter holidays, Kushner says",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1U3VkczZVE2OVdHM1VNck9DNHozc002SEtSamxzNzc0Rk83bi04czZoY0NGMzl0Q2xmQUpfdjNTd1NUSHJnVG5vUktIVkg0dnhrYmJCQVdMU3oyT1NDT3RiN0MyRGtZdjhPYWJ0YmFMRHZPMFVqajR4TENNNzRlTzA2cDFmaEZJWHdXdlEwc3BjcTVZd2ZNWTdHZXRvYUk?oc=5",
+     "source": "Euromaidan Press",
+     "published": "2026-11-26T23:54:36+00:00",
+     "summary": "Ukraine, Russia could hold largest prisoner exchange of war before winter holidays, Kushner says&nbsp;&nbsp;Euromaidan Press",
      "image": ""
     },
     {
@@ -172,6 +188,14 @@
      "image": ""
     },
     {
+     "title": "Russia Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFdNNy1JOV82NVRERFJnR20tNE1BRHZPSFA0Zk9KX01rTmF6ajBnQXV3cUxTTnE0NE9RWENTX3dOZHFoenA0a1M3X19iWVVEMkpwOFpUenpvUWlvTGxuZHg0TnRRZXhlZzB5b213ZjBsSWZUOUMwRTR2MEpoT0lzOXFrS0ZSZHYwa0t5LXlxQ29CeU4xOW9KTw?oc=5",
+     "source": "TelegraphHerald.com",
+     "published": "2026-11-26T22:15:46+00:00",
+     "summary": "Russia Ukraine War&nbsp;&nbsp;TelegraphHerald.com",
+     "image": ""
+    },
+    {
      "title": "Russo-Ukrainian war, day 1737: Russian ballistic missiles hit a Kyiv shopping center and injure seven people in the city",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZWWtMT2JpRFhiU0hERVV3SE11SWQ5SG9DM3ZSNDBYYjlzd1FaU25xZmo0NmZWcXdBVEVuV0tvNXRRbVZOWTlTbFFPT3VPTTQwdlNlbHRScU1mMkdGTkFXdzJ2WkQycTZfUkx1QktGV3lzb2FxRmJn?oc=5",
      "source": "Euromaidan Press",
@@ -194,43 +218,51 @@
      "published": "2026-11-26T21:59:00+00:00",
      "summary": "Diplomacy, grievances dominate Trump's 2026 Thanksgiving in Palm Beach&nbsp;&nbsp;The Palm Beach Post",
      "image": ""
-    },
-    {
-     "title": "Ukraine has \u2018no intention\u2019 of spreading war to Libya: minister",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTVCOVBwbmoxMFhVUG1sYTBGdGdhWV9SelJEMTVmRW9tZ2dGeS1CSWhSUmdYUmVxM1BVVUFBeGJ2Uk1vZnNCVlhOSnB1RTNUMF96VXpIem13T1lZT3lveWNvLW91d0hORWZPQ0Vtbm5vRXk1WmhGSTJlTllyTEpYTVM4WTFRS3hFSUdQek9GVG84bU5wclp2XzIzbEpIRHc?oc=5",
-     "source": "Arab News",
-     "published": "2026-11-26T21:46:30+00:00",
-     "summary": "Ukraine has \u2018no intention\u2019 of spreading war to Libya: minister&nbsp;&nbsp;Arab News",
-     "image": ""
-    },
-    {
-     "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T21:17:53+00:00",
-     "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png"
-    },
-    {
-     "title": "Iranian monarchists disrupt Paris event, highlighting bitter diaspora divide",
-     "url": "https://www.france24.com/en/france/20261126-iranian-monarchists-disrupt-paris-event-highlighting-bitter-diaspora-divide",
-     "source": "\u00a9 Screengrab X",
-     "published": "2026-11-26T21:09:22+00:00",
-     "summary": "A Paris event on Iranian women's rights attended by French Foreign Minister Jean-No\u00ebl Barrot was disrupted when diaspora supporters of Reza Pahlavi, the US-based son of Iran's depo",
-     "image": "https://s.france24.com/media/display/0e1a9d64-e9d5-11f1-a648-77d069279b82/w:1024/p:16x9/ima-2.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T00:18:31.493856+00:00",
+   "fetched_at": "2026-11-27T00:48:35.367665+00:00",
    "stale": false,
    "items": [
     {
      "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
      "source": "The Washington Post",
-     "published": "2026-11-27T00:12:10+00:00",
+     "published": "2026-11-27T00:45:53+00:00",
      "summary": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Judge pauses order requiring Fulton County to hand over unredacted 2020 election records",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVFQ4MDUxbWVWejBOTjQtd1I1RlJNMEkzY3QxVjFpRjZTdFBDeXlzelZXbXhzQ1IxMVViWWdjYl9BSzhsRlJOSjI3SlJ5ZGxWeEYwMTY3QTFOY0VDRGdFdGQ0am9iQTE1bEJQdnR4RDRjN1VyXzR1Q0hUWXVwaXhJSFpPYWZYSDg?oc=5",
+     "source": "TheGrio",
+     "published": "2026-11-27T00:38:33+00:00",
+     "summary": "Judge pauses order requiring Fulton County to hand over unredacted 2020 election records&nbsp;&nbsp;TheGrio",
+     "image": ""
+    },
+    {
+     "title": "Beyond Diplomacy and Trade: Authorities Highlight Renewed Momentum for Cooperation between Poland and Latin America and the Caribbean",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZGNDbGVlNmEyUUhfcVk5ZVN0VDNJZmJ3NFNiWlNKZzQ0ck1zZWxCT0JmMHI3dENDUzFTM18yYWZWaV9CXy1Fak9TUnJKMkRBMmlQeEM2eXJ4VU8zMFRYYXpjcGl6bFBzX0x3MEJzNDFZcUZXdnVXNHNORWJPNGMxNTIySVNQU2RKUWNnV1hmN0VCT1RUbFVOSDlDY1JSSk8zRFBBVHpLMHBWbXBWM3VCMkRuUVlaOU9Lbkcwc2Q2RQ?oc=5",
+     "source": "Comisi\u00f3n Econ\u00f3mica para Am\u00e9rica Latina y el Caribe",
+     "published": "2026-11-27T00:28:19+00:00",
+     "summary": "Beyond Diplomacy and Trade: Authorities Highlight Renewed Momentum for Cooperation between Poland and Latin America and the Caribbean&nbsp;&nbsp;Comisi\u00f3n Econ\u00f3mica para Am\u00e9rica Lat",
+     "image": ""
+    },
+    {
+     "title": "Live updates as the final NZ election results are revealed",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGpkVGpLclplY1JEdTFxZTJfNDJDNDVzX1pmRDVhZEQ3clU3TUV3c0s4eFRldlFLYmhOWDFheUU0eDRPM0R6a0tScnNaZ3BONWRac1c4Rnh2NlRuOHByeVZPbkM0YnFGalJxUVhQNzBVbjdXZy03Y1ZEenNVOUFjZi12dDJIdmQtZGhOUV9kcTlVMHluMGVETEc3MEFJV0NGYXFxY25R?oc=5",
+     "source": "The Spinoff",
+     "published": "2026-11-27T00:23:27+00:00",
+     "summary": "Live updates as the final NZ election results are revealed&nbsp;&nbsp;The Spinoff",
+     "image": ""
+    },
+    {
+     "title": "Argentina bars Central Bank from printing money to fund government spending",
+     "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T00:11:16+00:00",
+     "summary": "The South American country&#039;s Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
      "image": ""
     },
     {
@@ -240,6 +272,14 @@
      "published": "2026-11-27T00:01:48+00:00",
      "summary": "Department for Work and Pensions to provide data about households missing out on WaterSure support schemeWater companies will use government data to identify as many as 250,000 vul",
      "image": "https://i.guim.co.uk/img/media/94632807690955606802ebb1b2fec938e14f7658/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28b839ff371b9946686f883c83390475"
+    },
+    {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdlAzN1JUQVRnazFiZnZQNExQSlNGdHkwWTQ2Yk1FRHEza2JldGRTTm1xT3dLMVhOeGQyeWdpSlZLbVM0cjM2MldOc3NkQ0Y0SENSd0stNWkzTFNpUjE3OXd3Vndfb19pbDdNOThSeFU4ZVpZQWJ4ZDRGUDFhUQ?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-27T00:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
     },
     {
      "title": "Talking politics? How to handle awkward family run-ins following the election",
@@ -280,53 +320,21 @@
      "published": "2026-11-26T23:44:23+00:00",
      "summary": "South Korean minister nominees defend policy disagreements&nbsp;&nbsp;upi",
      "image": ""
-    },
-    {
-     "title": "How Democrats' election successes could lead to new climate change policies",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNU1GSEJmSEZKX0Q0VndEQ0M0Zl9BczZ2RDdJYjFFWFZtb2JEQmlWWGJZZ3NWTWpWb2FnUm9hakhPcVhxakV5UEJ0aENhZ2xKa196MDBIdWd0TGJOYmlFMWZ4MlhWQjBoWDYyRk1VMHhmV0dNSXozUzg1eDNLRExLWHJUejBRZW1yc3RqWVdJeXkzVXlnVGtJdEFJQ2hodjZHSG9EdXVvWkRURi1z?oc=5",
-     "source": "PBS",
-     "published": "2026-11-26T23:40:45+00:00",
-     "summary": "How Democrats' election successes could lead to new climate change policies&nbsp;&nbsp;PBS",
-     "image": ""
-    },
-    {
-     "title": "Milei\u2019s economic policy dealt fresh blow as Argentina enters recession",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnpVbGhGV2hCeVhHQm11TDR0bHZncnUzZ256TG9CMnZQOGhscWVxVTlDYTViRHhCS3VGQTUzZUNTbUJPTGFuTjUtSEg4M0JVU2FQVDAyamVQSjQ5M01yc0ZLRUFOaU52X012NTN6TnZRRDhFQlhtTEdhZHlHZzV2SUw4WlZQS3FJRlRYcGRPQ2VieXcyd1IxM0JieUpaa1Q3ZDlLTmpVNA?oc=5",
-     "source": "Argentina Reports",
-     "published": "2026-11-26T23:22:51+00:00",
-     "summary": "Milei\u2019s economic policy dealt fresh blow as Argentina enters recession&nbsp;&nbsp;Argentina Reports",
-     "image": ""
-    },
-    {
-     "title": "Trump spends Thanksgiving at golf club, accuses Commerce Department of releasing \"fake economic numbers\"",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTU5SFExTE5aRTdISVVBdDZHZnNPbktKRWE0ZlFPcEF3eUJUWDBOeF93Sm5nckVMbkJtRERONkZOZ3N3X0NaeWJTT2xpc1dTVWFSejZFZVJSY2M4dHdXdFNVOGMtaUJQcXU1UFlwUXYtYWp5WWZEamszMWJqbmcwcUgwRmt3R2FOOERqTnpJOA?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-26T23:17:35+00:00",
-     "summary": "Trump spends Thanksgiving at golf club, accuses Commerce Department of releasing \"fake economic numbers\"&nbsp;&nbsp;CBS News",
-     "image": ""
-    },
-    {
-     "title": "Ex-Conservative MP sues Liberal volunteer over alleged election campaign interference",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNFBKVTJESFpHektmS1RhRnluaUhkeDAtdHVuX2J0c2FPcGdSOWRVYU1rZ1JEcEV5TUl2SDJHdXZUeW92TXh3M3lKYjcxYzU3RnZEc0pnbXVTek1kYk1ENjBnbHdGQlMzaGcwVHNFYTRDblBQQmV3bVlpSWdDbEpCWkhYY1g?oc=5",
-     "source": "CBC",
-     "published": "2026-11-26T23:17:08+00:00",
-     "summary": "Ex-Conservative MP sues Liberal volunteer over alleged election campaign interference&nbsp;&nbsp;CBC",
-     "image": ""
-    },
-    {
-     "title": "PNG\u2019s three-child policy: the family planning numbers behind it",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzU0amtjVWQwNkxWRFN4TjVSZml1NE5teWFvTE41dzNydElYZWZMc1RESXM4UDRiRnBRMEhEcUlMT1hyTFVRZVIzVVdmY05rVEh6bWRvenNVbUZ2NEJEeGtQQVpwTkRYU0JldzlYRi1JSzFXcU5LVHA4N25EbE9wanY5bEpfeGJOZlJQOGhaZ0xqS3pubHVRT3ZLd0lMVTdvX1dYRVYzVmxGWk5B?oc=5",
-     "source": "Lowy Institute",
-     "published": "2026-11-26T23:00:00+00:00",
-     "summary": "PNG\u2019s three-child policy: the family planning numbers behind it&nbsp;&nbsp;Lowy Institute",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T00:18:31.493858+00:00",
+   "fetched_at": "2026-11-27T00:48:35.367668+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Argentina bars Central Bank from printing money to fund government spending",
+     "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T00:11:16+00:00",
+     "summary": "The South American country&#039;s Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
+     "image": ""
+    },
     {
      "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia\u2019s largest exporters",
      "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
