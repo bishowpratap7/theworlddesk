@@ -1,17 +1,65 @@
 {
- "generated_at": "2026-11-27T05:49:32.318778+00:00",
+ "generated_at": "2026-11-27T06:19:36.434629+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T05:49:32.318750+00:00",
+   "fetched_at": "2026-11-27T06:19:36.434604+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+     "url": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
+     "source": "NPR",
+     "published": "2026-11-27T06:12:45+00:00",
+     "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday.",
+     "image": ""
+    },
+    {
+     "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+     "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+     "source": "The Guardian",
+     "published": "2026-11-27T06:00:56+00:00",
+     "summary": "What started as one artist\u2019s response to being cut out of a music video has exploded, becoming a driving force in Nigeria\u2019s cultural landscapeAs a student in the central Nigerian c",
+     "image": "https://i.guim.co.uk/img/media/420a704a7b9337bcc84564de8c0db0836d052aac/433_0_5275_4223/master/5275.jpg?width=140&quality=85&auto=format&fit=max&s=558556ddc90089bd8666c299074f9675"
+    },
+    {
+     "title": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+     "source": "The Guardian",
+     "published": "2026-11-27T06:00:55+00:00",
+     "summary": "Andy Burnham is warned against calls from bosses to water down employment rights legislationAndy Burnham is being warned that 1.4 million workers will be at risk of being stuck in ",
+     "image": "https://i.guim.co.uk/img/media/9d8fe4e1e133840150c64308612a6fd47bd62fb1/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=0a64c99a20e7296796ab864ea41a9504"
+    },
+    {
+     "title": "India\u2019s Pant plays for New Zealand side under false name \u2018Stan Stan\u2019",
+     "url": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T06:00:39+00:00",
+     "summary": "Rishabh Pant plays for Open House Swingers in New Zealand on eve of second Test as India wicketkeeper uses false name.",
+     "image": ""
+    },
+    {
+     "title": "Spain\u2019s 2026 election explained in maps and charts",
+     "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T05:57:37+00:00",
+     "summary": "Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.",
+     "image": ""
+    },
     {
      "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
      "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
      "source": "The Guardian",
      "published": "2026-11-27T05:31:38+00:00",
-     "summary": "Patterson, 52, seeks leave to appeal to Australia\u2019s highest court over deaths of estranged family members after fatal beef wellington lunchErin Patterson has applied to the high co",
+     "summary": "Patterson, 52, seeks leave to appeal to Australia\u2019s highest court over deaths of estranged family members after fatal beef wellington lunchGet our breaking news email, free app or ",
      "image": "https://i.guim.co.uk/img/media/179ea9ee8d7a132742cba734ebb059a2c6aa5333/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=04cb290e5e5f036f58f4df71b20198a9"
+    },
+    {
+     "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+     "url": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T05:27:18+00:00",
+     "summary": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
+     "image": ""
     },
     {
      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
@@ -68,67 +116,35 @@
      "published": "2026-11-27T04:34:43+00:00",
      "summary": "Severe weather across the US causes outages and flight delays as families and friends gather for the annual holiday.",
      "image": ""
-    },
-    {
-     "title": "At least 13 Niger soldiers killed in Sanam armed attack",
-     "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T04:06:52+00:00",
-     "summary": "It remains unclear who carried out the attack on Niger&#039;s National Guard in Tillaberi, near the Mali border.",
-     "image": ""
-    },
-    {
-     "title": "Trump downplays Russia, China support for Iran during talks with US troops",
-     "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T03:49:08+00:00",
-     "summary": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
-     "image": ""
-    },
-    {
-     "title": "Asian stock markets rise after earlier tech rout",
-     "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T03:42:16+00:00",
-     "summary": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
-     "image": ""
-    },
-    {
-     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T03:28:15+00:00",
-     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
-    },
-    {
-     "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
-     "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
-     "source": "The Guardian",
-     "published": "2026-11-27T03:14:10+00:00",
-     "summary": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coastGet our breaking news email, free app or daily news podcastM",
-     "image": "https://i.guim.co.uk/img/media/ff0dfabe6ea18f527edb59eab7b707945bfdab3d/258_0_4179_3344/master/4179.jpg?width=140&quality=85&auto=format&fit=max&s=d1a6b3cd130b5119d83881668dd7b798"
-    },
-    {
-     "title": "Spain and Morocco under-17 stars target World Cup 2030",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T02:58:48+00:00",
-     "summary": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T05:49:32.318765+00:00",
+   "fetched_at": "2026-11-27T06:19:36.434617+00:00",
    "stale": false,
    "items": [
     {
-     "title": "Trump, NATO's Rutte Urge Russia to Avoid Wider War",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSzJOTW1idHNBVWYzZWNLRXhhaVBGdy1vbGdVM2JyeVN6TmVvZDdabnh6V2hsQ2dUcUF4d1JlYzdUbFM5QVFOOEZFdFgzRVZDQ2hJSlRjVS1yRy1SYjVkVVVfTGI1LWxROEQ4YlA3RDJ4VlVhRGg1VXVlNHZ2MlBwQ1I4MmxuWjlhdVhHLTBVLTZPZw?oc=5",
-     "source": "Briefs Finance",
-     "published": "2026-11-27T04:48:25+00:00",
-     "summary": "Trump, NATO's Rutte Urge Russia to Avoid Wider War&nbsp;&nbsp;Briefs Finance",
+     "title": "Trump and Rutte Urge Russia to Avoid Escalating the War in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalJ4TVNSRWhyeHF3c0ZYT3A5X0xpNHdDbEZCUjlkRmxCbkVLQUlWczZEV3R2enRFSS1NVUdKRTlQN2ZVeHF0SkFaNV9Hanl1SzczNXctQ24zY0RpM1NRZkZ6Q2lxUVZ2akpsNXFRT1JLTmJETnE1d282MlAtVjhOdHRzWlAyYU5hTWxycDRjTzdzdw?oc=5",
+     "source": "commonspace.eu",
+     "published": "2026-11-27T06:15:33+00:00",
+     "summary": "Trump and Rutte Urge Russia to Avoid Escalating the War in Ukraine&nbsp;&nbsp;commonspace.eu",
+     "image": ""
+    },
+    {
+     "title": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+     "source": "The Guardian",
+     "published": "2026-11-27T06:00:55+00:00",
+     "summary": "Andy Burnham is warned against calls from bosses to water down employment rights legislationAndy Burnham is being warned that 1.4 million workers will be at risk of being stuck in ",
+     "image": "https://i.guim.co.uk/img/media/9d8fe4e1e133840150c64308612a6fd47bd62fb1/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=0a64c99a20e7296796ab864ea41a9504"
+    },
+    {
+     "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+     "url": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T05:27:18+00:00",
+     "summary": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
      "image": ""
     },
     {
@@ -172,6 +188,14 @@
      "image": ""
     },
     {
+     "title": "Donald Trump says Vladimir Putin, Volodymyr Zelensky hate each other, unsure Vladimir Putin will attend G20 Miami",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmM2MFhuZHVJa1h4dUFDTElNQjBFRWcwb3h2Z2lkSnZwbUgxaWYyOHpVUEhmYThmZkx4XzNYUTN5WFJJTDJGYXhpcWpLU3BHX1VaX04yalllT0RLZExqWS13a3FFMV9UeTdQbDNlYWJzWlRMNXBPaFYyNEp3Uk9aazZMQU9ZVUNtWUE?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-27T02:37:38+00:00",
+     "summary": "Donald Trump says Vladimir Putin, Volodymyr Zelensky hate each other, unsure Vladimir Putin will attend G20 Miami&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to \u2018pull back\u2019",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj?oc=5",
      "source": "Al Jazeera",
@@ -194,37 +218,85 @@
      "published": "2026-11-27T00:58:46+00:00",
      "summary": "Inside Ukraine\u2019s power crisis amid its war with Russia&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXlld0FmMFoxdUVjNlhmNURVMmZwLXJNcXZrVkhEQWxOLS14ajJFb2VQZzBOOUZKM1Z1VGwzLURERG9lUWdGczh0bTZGTGJqdC00Nk9tYjZLR21iN1ZRbEtmTHhnRFAzV3lYRzVRN2txb3h0TUxoeENQbmNTeHlmN1AtNnBnTE1rYTRnYmxxTXNBUkh1WTdZVHpBN3h2XzNYMXlUaWVLRmlOR051bTIwbE9BWVhJRjRHSWxVd0pXQy1tdnc?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-27T00:29:00+00:00",
-     "summary": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "Iran war live: Iran\u2019s Araghchi calls deadly Kuwait attack \u2018suspicious\u2019",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T00:00:00+00:00",
-     "summary": "Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is &quot;suspicious&quot; and looks like a &quot;pre-cooked recipe&quot; for war.",
-     "image": ""
-    },
-    {
-     "title": "Kushner: Blame for Ukraine War Falls on 'Many'",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFloZ0VxR2h0Rl94Rnk0QktWejgyOGNNNFpkOXpJLXM4V0YzSlgtYUZlQzRmX3NWeU1LcE5xUzFaVnV2TDUtbVcySk9LeEVoWER2eGJST1ZOdHZkT1N5LUhaMV8wZWJJamlNRGwxTkFDZ205MFhpMVZYMmlQQUgxa1BMeEJ4dlJGTkJxWA?oc=5",
-     "source": "Newser",
-     "published": "2026-11-26T23:15:00+00:00",
-     "summary": "Kushner: Blame for Ukraine War Falls on 'Many'&nbsp;&nbsp;Newser",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T05:49:32.318768+00:00",
+   "fetched_at": "2026-11-27T06:19:36.434620+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "How S\u00e1nchez\u2019s Election Gamble Is an Opening for Spain\u2019s Far Right",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNblA1Tmw0Tk5OM1p0QmZqemlYS3ZHLS0tekZad2xOWXduM1RtT3lLUi1MLTc5UUtkZDhXUXhoc0xHYUkzYnUyQXAtZWZSM1VMXzNaY2xGR3lscnVFY2JaQlVkd29hUVhVek9kOTJXNnlXYV9mUW9DWFRWb05SSjZtbF9SYnowV0t3Umx6ZHpCTmRMMzh0SFdRaHJvV0p2NXJuTE9SQjJOTHl6c0lZRGNDRmJuVUo4ZEQwWlRJRzlKOGRJZ2tHLXBEQTFiVVNUZlNrd0ZLM29xOGhZTFRlUnFKVGxxT0tYdw?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-27T06:15:00+00:00",
+     "summary": "How S\u00e1nchez\u2019s Election Gamble Is an Opening for Spain\u2019s Far Right&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+     "url": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
+     "source": "NPR",
+     "published": "2026-11-27T06:12:45+00:00",
+     "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday.",
+     "image": ""
+    },
+    {
+     "title": "What would French foreign policy look like under Marine Le Pen presidency?",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUdRNUpnODdRVmRJWXRXdThiaUtZdW9yTjNCV2VGd3hVTlBxVDVJNklJUG1jc29MVHE3blJFVFJjeWJYeHZaenRHczM4ZjlxWmFKTWFFQ2FqVWh4aklvYy0zRG52V3FKYkRibnFOalRPbl8zX3BBbUYtcl9yUHBKbUF3SWZ4UlRiN01QWFpKWVJpbGtFdWtaRkZyazVBNHFtX3E3bjR2TEFheXMtZ1d5c0xNd3pwUFRLSklYOVVQMlgwZXEwQ0JDVEVjNA?oc=5",
+     "source": "The National",
+     "published": "2026-11-27T06:11:15+00:00",
+     "summary": "What would French foreign policy look like under Marine Le Pen presidency?&nbsp;&nbsp;The National",
+     "image": ""
+    },
+    {
+     "title": "Could housing decide Spain's general election?",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GYjJZeUFtUHRoVTBZWGU5T1BtX1JtdGhHNTBiNG9FcXFBSEFuUzNiZGZwNGxyay1zZ1VQMnN4U3NlcXBseVhRTHFIXzBubFJaX0pzSGszOVQ?oc=5",
+     "source": "BBC",
+     "published": "2026-11-27T06:09:31+00:00",
+     "summary": "Could housing decide Spain's general election?&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "NZ shares end choppy session lower after election results",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTVRfUW1hbFlTLXoxdlhva3paNEZ4aUt5NUJyVHl6MzREVnZTUnNXTGlCdHdoa204Q19MeGZoMFRMazBxVGRoS1ZGYWRFc3dnd3A1cHhheUZrZFhMVVFfcDR6V2VGcWo2anJ5UDk4dXVXeU5kM1N5b2wycjhKNEdDamZNcjVLQjI4eUthT0ZWMGVVaGRDUUVUNXlzM21EVjYyTVJoRUhwbnI0MU1RazcwOEQtZ3ZoTGRMMXJMODNVd2dfcnBIOWc?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-27T06:07:00+00:00",
+     "summary": "NZ shares end choppy session lower after election results&nbsp;&nbsp;TradingView",
+     "image": ""
+    },
+    {
+     "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JSkp6Q1VsNUxiV1ctRERoRkVwb3dMRDRZYi0tMXdYQllkSFppVTYwdmlvcW5oZWJmT2JZQzFVcjBfSk9QTVJEbE03ODNIUWo1TFVTWVJpNmNpcjQ?oc=5",
+     "source": "BBC",
+     "published": "2026-11-27T06:03:39+00:00",
+     "summary": "Leaders clash in final Spain election debate as housing dominates run-in&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "Spain\u2019s 2026 election explained in maps and charts",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjdBLXBwZmVvWG9NU3Y2djVBNnZXWGM5WEpkNldHelQ1SE53SjluMDdtd1JKN3ZrNU9saERxRWx4U3NQTUVVLWhZTVBZTmtoeXRMVGZiUmFFR3BtOGVrNmpCSWtiMlhRMDgwREhmTkhscDFEc0tCWmNJUG9ZR0NPdXEwWGFKVnFXWHh6R2xJZkc5Wk8zSXfSAZsBQVVfeXFMTlVRNndBSUVDSE1FaFhjY2dacWFkZmRXcDU3Mkt0MXhUYTJvLVo4ZXh4UFNvUVFvSDdlTjdVSkNnZ3d3ZHdLQWpMdHpVMGdhN1NtUkZsT3dhV1VHWENuVUFja3BfMTlmVzl6Zy0tbXhGM0FldHppN2tTYlM1Y2V5M0pKdk40eUZVUzhOUVZkZ3prMTRIMXlWQnBRY1U?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T06:02:02+00:00",
+     "summary": "Spain\u2019s 2026 election explained in maps and charts&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTJUcHd2UlE2MzlVM0tiYkZZVFRDSXBEeEx2QkhsV1dRQWd2SjFTRWFqTUZBX2lUUWV4UGQwbE9rLWZLNWllVlo5VGNQVGtkWTRwUFI1YzVZMG9sUmhoNDFQalNwRnNtLWFuWU9pWEVKd3RxYVY2LUQtVVc4MkphNEFUZmxTWFZxQ1hvbU8yVEpmM2NHcVVQWkJ1cHVqeU1oSHNfNEdEUWt0OUJ5MGRiNUF0ODc4X0ZtQWJoYmdILTF4cUVKbG1xbWZ5bVpUTWprQjVtRVJZbk9WWWtpZVNCYnRzUlhmMmhBdFRuZ0ZpZXlCeGZpMGU2eHJqdjFLMG0wZ1Y2UzdRcw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-27T05:58:04+00:00",
+     "summary": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "New Zealand's final vote count leaves PM Luxon at a newcomer's mercy",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTBXaXZ1RkdnU2doOXM2MFdpcG1UWWlsMVBwWnp2TEVKZWlCYmQ1WlJxMERKc0k5VmphZDREclFLUjZDOVZfY2UtQ1U2ZTNja0hGeHZRNFNWR0NFcGhNNVF5TTE0X0loS3dmN25xcUJsdjZxMnhkQ1hjTlNxdWxDaWIyd2xYMC1YbFVuRllISklvSURqZFNoMWVJN3l4R1Z0bVZMMmU5UlZUREtMS3BxSzdndElmVUtic0l1cTJ1QUwwUmZm?oc=5",
+     "source": "Euronews.com",
+     "published": "2026-11-27T05:47:52+00:00",
+     "summary": "New Zealand's final vote count leaves PM Luxon at a newcomer's mercy&nbsp;&nbsp;Euronews.com",
+     "image": ""
+    },
     {
      "title": "Here are the main issues driving Spain's national election and why they matter for Europe",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTXpnNnZPeWtJY045bjdlMHc4bm1YakZ1azVtMEptQjNRcTU2NHladUFJSU5WSW9kdFpXSWk3SkNqTmNBcVdvMTFQZkR2RWFINUNpVFUyX0lib0VjUlJYUWNtQjlxUmJ4YVY1Tl9DdFh1bndFd3N3UmgyaEZfbHlqLUtRQmVzd212UnhjeHExbm9DVERkWjRUMUhfdW9Ja3E3YzBIRFVyaWRETl9aZ2pWdHloU3NKaXFhUG1yaGdldTVyYXpPenpDNVNwTkI5RGdmdzFhTkNhYlRteG9n?oc=5",
@@ -242,89 +314,17 @@
      "image": ""
     },
     {
-     "title": "New Zealand Dollar strengthens to near 0.5500 as final election outcome reveal hung parliament",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYTFsNThnQ3FQTWZaNlFHaHRWT2Q5VWxLV19BOHZZZ1hjMHk0dHdlZ1FQRUZWcTl5akhBMTdVWWpScXVjX2ZLek90NnQ2YVhvX3dCcl92ZjhFdDFEeDF2LU5MaUJwTW1Fd1k0R1dnTEJjcU84eW5ITmI3RDJzbkVhZ2Y3dVdJekJlX1c5NTRFVW1hY05lMHgxSzRoZVBaRnNnMHZzMllvcWZwdnZDZExNMXpURFYyU3NJT0JvWDlaS0JIVHNROGhZbTBmT0tWSzVFcXc?oc=5",
-     "source": "FXStreet",
-     "published": "2026-11-27T05:45:25+00:00",
-     "summary": "New Zealand Dollar strengthens to near 0.5500 as final election outcome reveal hung parliament&nbsp;&nbsp;FXStreet",
-     "image": ""
-    },
-    {
-     "title": "Australia Sanctions Iranian Agents Suspected of Directing Antisemitic Attacks",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczd2NEVTbE0tdWRyNm1lOEpXTUxvTG5mM1ktTHhvSDdscHFTRS1yY3JzWkxPdXRwY1ZFeVZ3U0FrZUo4YUJxQkYxbjlKZzVpR1d2eXFlVHFram50NXdiMmdWSE0wN3BySUJyLVEySmg2V1lsUTJtRE5HVGhNc3hrcW1MRGRHbThfZmZLNTR2QjN3Z1RkRlJPSHJrRU9BbDIxTHlBSXZoQXpab2RLN1FYbHU0MlljUQ?oc=5",
-     "source": "ASHARQ AL-AWSAT English",
-     "published": "2026-11-27T05:40:52+00:00",
-     "summary": "Australia Sanctions Iranian Agents Suspected of Directing Antisemitic Attacks&nbsp;&nbsp;ASHARQ AL-AWSAT English",
-     "image": ""
-    },
-    {
-     "title": "FILE PHOTO: New Zealand's general election",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaHg3eW5NUDNrNzdvZ3A2VWVuVlJ3dkxpMjBycENXZEltZDI3ajBXZzFKc0hNVjR2Z3hwSllscWJoVlhtRG8tbnpreElDZ3FfRzZ5c2x5NVlrdF9OZWRFUzNPdG5PbVUtSXFyaE1tZjdDOWgwZlJKOXRWUWRSRTRfQVJnRlN6U0tEZktkX1ZVOE1EZ1Bpa1BaekRLVHFOblRwckxEVVdWS2pkUjliUFQtTkphOElhUXpNcEIwMjN2YlVGZEwwNDN0OTdGVlY0LW1vcU5xMg?oc=5",
-     "source": "The Lufkin Daily News",
-     "published": "2026-11-27T05:30:12+00:00",
-     "summary": "FILE PHOTO: New Zealand's general election&nbsp;&nbsp;The Lufkin Daily News",
-     "image": ""
-    },
-    {
-     "title": "New Zealand coalition loses majority in final election count",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenRsclZTNnpfM21iUjBib1NSb2tBcDBnWWJ6RmMzeU00T05la2dRUjJXOW54RjRwWDJVUG5lODBkNE03YnMyNGUxNENOXzlBb0N5NWlod0JXZy1SUV8xNFBWSkdMNzYtNWttZkJxaXZ3LTFwbHBVdWp6ZjdnSDV3UjIwdjM0QW9nbklTU2J0c2R4T3liZlhpdzUySDlFdk5r?oc=5",
-     "source": "Yeni Safak English",
-     "published": "2026-11-27T05:28:34+00:00",
-     "summary": "New Zealand coalition loses majority in final election count&nbsp;&nbsp;Yeni Safak English",
-     "image": ""
-    },
-    {
-     "title": "S\u00e1nchez, Feij\u00f3o, Abascal and Colau Clash in Spain Election Debate Over Gaza, Migration: how 5 outlets framed it",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2d0bXJ2OV95ZEZIR2R4aU5DVlpzbElhM0hNSDlEX1k4OXFlTGtudzBkQWI0ck54aHhrUDFtSEZsNmJhQk1YR2thYUxleVg2YXhuelQ2YnhnTXBRZG9XdnUwMlo1M3FzSkRTNFBGSUNkN3pmOVdyOHpBQ3czWEFiTEhXMy15RXlLX2ZTQThxUFhxc21tNnotc1dnTjc3UjdjV0NwRmY1eUpaU2RpbHZRajhiYmFxdjRCekE3TGpuMTJjMldSQy1EQWs3YTNXd2c?oc=5",
-     "source": "NewsCord",
-     "published": "2026-11-27T05:19:50+00:00",
-     "summary": "S\u00e1nchez, Feij\u00f3o, Abascal and Colau Clash in Spain Election Debate Over Gaza, Migration: how 5 outlets framed it&nbsp;&nbsp;NewsCord",
-     "image": ""
-    },
-    {
-     "title": "Trump calls the pre-election GDP figures \u2018fake\u2019 and demands an investigation of Commerce Department",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0tuTGo2blQzUkNvVDFBWXZYS0ZXQWpvaWVER01SS094aTM5ME85N0ZvQ0F4cHVMUUItMGdyRG9HY1Z1M1pEeXo0Mm9ocmllbHoyLU9Va1VCQVNoYXFyYmlveE50Y0NUQXVJV3lIOTcwZzRrQVloV1phcm5pbHJ5MW5BUVJFWnRQU3BIZmVsdi1KM1liYXNlcUlVNF8tRWJZZ2tuVGFieHBtOVF5R1lJVmlmVjJ1MEpqTG9ERXVWSHhLOEVn?oc=5",
-     "source": "The Augusta Press",
-     "published": "2026-11-27T05:18:22+00:00",
-     "summary": "Trump calls the pre-election GDP figures \u2018fake\u2019 and demands an investigation of Commerce Department&nbsp;&nbsp;The Augusta Press",
-     "image": ""
-    },
-    {
-     "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-27T05:15:53+00:00",
-     "summary": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "SR National Assembly election",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa290Q3lyYkhfU2M3RnJrcnp0T1lwUUhFLTBDSkZaWlEtMXRZc05rc2dYUFg3aVZGWnFIVkZucVFJOE5ULUZpNFJRYjNIbFo0c1ZIOFI4SGRBWXJENE4zTVhBNmlDYmJPYXotY1Y0TzNSVHZKbW5oV3JSVmN2anlTZWRzRXRxTFJQVkk5TWRoTGJURkcyRnJKbHpDNEJkVkRhMFAzdXJsVjZmZlRlRFlhck9wWWVPS0lxam5xa1l0NWI2VGJ3dzFGMzRFdjFkdHpESkc1Z1Iydw?oc=5",
-     "source": "European Interest",
-     "published": "2026-11-27T05:15:23+00:00",
-     "summary": "SR National Assembly election&nbsp;&nbsp;European Interest",
-     "image": ""
-    },
-    {
-     "title": "Sikyong Penpa Tsering Returns to Ottawa After Re-election, Meets 23 Canadian Parliamentarians",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjNPTGN3SWZNR2lianFYMk9CZ096U2lTdWcydUxaMHl0Ty1yWjRTb0FHd1JYVHc1c0J0OTNFd0ZLZ2phb1JJU1ZNVDFMVk5vbTdJQW8yLU52ODE4LWpZRWd1Y0tPTl9rbVdXcHphR015LTVITS0ySlpwM281QzZRazQtVGR1QkwtNkc3NG14ajV2N0VwZmJOUS03NzFkSmQ0Uk9WUHgzdk5NQ0tyOWpGNQ?oc=5",
-     "source": "Central Tibetan Administration",
-     "published": "2026-11-27T05:12:48+00:00",
-     "summary": "Sikyong Penpa Tsering Returns to Ottawa After Re-election, Meets 23 Canadian Parliamentarians&nbsp;&nbsp;Central Tibetan Administration",
-     "image": ""
-    },
-    {
-     "title": "New Zealand faces deadlock after final election results",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiem5EazJjSk5CblFsdnB1bm9FUWFNb0tyMEdreTV3cHhtZVBuS3F0TThiMFdXbGxZbm51ekdXRXh5eHZaOEZQdHUwSU5DVUwwT3FXS25pd3oyZFB3MDc2QTc3NzBfMEN2cGlMSkxlZGFxcHgwb2ZsS1Q5cUxvUQ?oc=5",
-     "source": "China Daily",
-     "published": "2026-11-27T05:09:09+00:00",
-     "summary": "New Zealand faces deadlock after final election results&nbsp;&nbsp;China Daily",
+     "title": "How Serbia\u2019s students devised a winning strategy to bring down strongman Vucic",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeDc3UnV4eGxuckd6Rm9pclFHZ0E2NnFyMTYwOXJhX0xHRTZmbXdPcFJkYUZVZEVkUlhPSHVGdFpOSEZ4LVF0ejlMMFQyMlVmUWs1TmloOXNuRDR1Y01QUXJZVGtabU9yUUhLRUR5ZGtLT1UzU0ljVUN4U1ZDVVJ0Z2w5V2xvMHJ1Mkk1RkZZOFRZcDk2Nlo2am82ZnJaNFdu?oc=5",
+     "source": "AP News",
+     "published": "2026-11-27T05:47:00+00:00",
+     "summary": "How Serbia\u2019s students devised a winning strategy to bring down strongman Vucic&nbsp;&nbsp;AP News",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T05:49:32.318770+00:00",
+   "fetched_at": "2026-11-27T06:19:36.434621+00:00",
    "stale": false,
    "items": [
     {
