@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-27T04:19:21.495790+00:00",
+ "generated_at": "2026-11-27T04:49:25.181179+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T04:19:21.495764+00:00",
+   "fetched_at": "2026-11-27T04:49:25.181154+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+     "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T04:06:52+00:00",
+     "summary": "It remains unclear who carried out the attack on Niger&#039;s National Guard in Tillaberi, near the Mali border.",
+     "image": ""
+    },
     {
      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
      "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
@@ -108,19 +116,11 @@
      "published": "2026-11-27T00:48:11+00:00",
      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg"
-    },
-    {
-     "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-     "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T00:47:43+00:00",
-     "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T04:19:21.495777+00:00",
+   "fetched_at": "2026-11-27T04:49:25.181167+00:00",
    "stale": false,
    "items": [
     {
@@ -167,7 +167,7 @@
      "title": "Inside Ukraine\u2019s power crisis amid its war with Russia",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmJQQ1B1bjZIY0RkLU96aHluSnhCamhVSWlMZUdsRXQxbThQMFFBNW9YUFZLR0lPaVhfZFo1a2FnQ1duUWFHaGM2R3ZIemw5MmlzYWhYQ1Q2NzBxa1FkaUdpRTdCUU5CVEw3dnp5Q0JsdldyN3JobzNZd3pRaU80WFJMaXB2ME9DY05kbE95UGlPejNFLVBmaVJCdklGaHF0TThsQklDQ0HSAa4BQVVfeXFMT0dSbnlkemlMNkhVTWJscDI0ZjNsMXJ5aWJSTF95bE1FNHluOW5UVU82cWFwVUtacmJFc0pfR0dXaF9GNlVFRjBwb2MzZmVEVEVzNEVldjA3T19FY3JBZmZHT0c0bDduNXdOLTVLYUpGNjZWdnJwYVRHd09ILUVDbThPTVRyRmlkR1JYbVR4cTQ2LW1SaUs0RjR6YTlieFA4TTdxUlE1V3BkcFV3dzhn?oc=5",
      "source": "Al Jazeera",
-     "published": "2026-11-27T00:53:47+00:00",
+     "published": "2026-11-27T00:58:46+00:00",
      "summary": "Inside Ukraine\u2019s power crisis amid its war with Russia&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
@@ -185,14 +185,6 @@
      "source": "Al Jazeera",
      "published": "2026-11-27T00:00:00+00:00",
      "summary": "Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is &quot;suspicious&quot; and looks like a &quot;pre-cooked recipe&quot; for war.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine, Russia could hold largest prisoner exchange of war before winter holidays, Kushner says",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1U3VkczZVE2OVdHM1VNck9DNHozc002SEtSamxzNzc0Rk83bi04czZoY0NGMzl0Q2xmQUpfdjNTd1NUSHJnVG5vUktIVkg0dnhrYmJCQVdMU3oyT1NDT3RiN0MyRGtZdjhPYWJ0YmFMRHZPMFVqajR4TENNNzRlTzA2cDFmaEZJWHdXdlEwc3BjcTVZd2ZNWTdHZXRvYUk?oc=5",
-     "source": "Euromaidan Press",
-     "published": "2026-11-26T23:54:36+00:00",
-     "summary": "Ukraine, Russia could hold largest prisoner exchange of war before winter holidays, Kushner says&nbsp;&nbsp;Euromaidan Press",
      "image": ""
     },
     {
@@ -218,19 +210,83 @@
      "published": "2026-11-26T23:01:40+00:00",
      "summary": "Met Office warns of icy roads and risk of freezing rain on higher ground as weather turns cold and unsettledParts of England could see snow in the coming days as cold and unsettled",
      "image": "https://i.guim.co.uk/img/media/1a3f32c3b0c72a8bf4455187aaa420ab87f2c293/1095_86_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=79fab39d02d228fc3263a4e77a4740fd"
+    },
+    {
+     "title": "Diplomacy, grievances dominate Trump's 2026 Thanksgiving in Palm Beach",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDYtWnlXVmQ5SmJqQlZoLUdpTXBlb0Z5anU5LXYwWERKYWhHYzRXUTVab3JHUXkwZnFuRy1MLTlERmxQaDJkeHdHZXFkSi1KcGNhbHUzekEwQ3Z4eWNIYXVTU092OGU4YjRxY0FZVXFsbjZSTW1IdW4wNFlNeXVpNHhRblI0b2otbFUzc0FXT09rUElBUm0wc0lnYWRGbkNXRU5vdVFtYVduYk51TUJ3UHd2bFU1VnhfVkJBTlJGdUR2azFBVlQ5RUhLdGlfUFh1WVVEcFJrY3NLUVJOMnc?oc=5",
+     "source": "The Palm Beach Post",
+     "published": "2026-11-26T22:50:54+00:00",
+     "summary": "Diplomacy, grievances dominate Trump's 2026 Thanksgiving in Palm Beach&nbsp;&nbsp;The Palm Beach Post",
+     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T04:19:21.495780+00:00",
+   "fetched_at": "2026-11-27T04:49:25.181170+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "New Zealand election produces hung parliament, neither bloc wins majority",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVWktJc1FXOUpFVVQxUUpfVjhkZEZKRmxqWGpXempFeFdXelg1SVQwNHpwOERSR1NaY2dnZTVFendFbjlPSERFZm4zUHcxSEJRTklLOFgwZjI3QjJ5Y0lPT3YtdkRBVW5OZW1SUjdvdFExem9KeTMzYXl6RFE?oc=5",
+     "source": "Xinhua",
+     "published": "2026-11-27T04:43:04+00:00",
+     "summary": "New Zealand election produces hung parliament, neither bloc wins majority&nbsp;&nbsp;Xinhua",
+     "image": ""
+    },
+    {
+     "title": "New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hycUtMZFgxQmhhTmU3YV9VQW9sQ0Q4MVJJM1NuRTBFb1lPNHM3bjNsWGZBcEtfUXZGbUdNZEY1NHNNd3pROWswVmFpdC1vSGhBUUhyVmdTQjlCSnR5UENLM1NsZHpQZlBoMmhiWDNsT0FvLUdxbkFrbTZzZTZRQUxtTTg?oc=5",
+     "source": "Financial Times",
+     "published": "2026-11-27T04:32:45+00:00",
+     "summary": "New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant&nbsp;&nbsp;Financial Times",
+     "image": ""
+    },
+    {
+     "title": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTJUcHd2UlE2MzlVM0tiYkZZVFRDSXBEeEx2QkhsV1dRQWd2SjFTRWFqTUZBX2lUUWV4UGQwbE9rLWZLNWllVlo5VGNQVGtkWTRwUFI1YzVZMG9sUmhoNDFQalNwRnNtLWFuWU9pWEVKd3RxYVY2LUQtVVc4MkphNEFUZmxTWFZxQ1hvbU8yVEpmM2NHcVVQWkJ1cHVqeU1oSHNfNEdEUWt0OUJ5MGRiNUF0ODc4X0ZtQWJoYmdILTF4cUVKbG1xbWZ5bVpUTWprQjVtRVJZbk9WWWtpZVNCYnRzUlhmMmhBdFRuZ0ZpZXlCeGZpMGU2eHJqdjFLMG0wZ1Y2UzdRcw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-27T04:28:04+00:00",
+     "summary": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "A pall of silence in the Victorian election on the dangers of war",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EOXE5VkxxazJPclQ0NWVhbGx3dFpCNmxneWFoM0xsNXFJdmplcGF3SVhwUFJRTTVjd0paS3R0elBFU3A1Ukx4TXhyQkp4RUdMZUF4ektlRlFXc0piYVJIMzNLRHg2RGtN?oc=5",
+     "source": "World Socialist Web Site",
+     "published": "2026-11-27T04:18:52+00:00",
+     "summary": "A pall of silence in the Victorian election on the dangers of war&nbsp;&nbsp;World Socialist Web Site",
+     "image": ""
+    },
+    {
+     "title": "Christopher Luxon favoured for second term as New Zealand Prime Minister",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmNCNlRJNEl1MXNtUFJYX3NBQjhqdFdYTnlwX0t1OUtaV051cF9BM0J3akdyN2ZBWENOQnFGWk9CTGxPcjlGYnEyWGxFem9lQkQteVNUOXRwaW45NHF5YVpDZmpPZWR0ZDVnTDlwT1NQbzZzbzdaRVVGVEU2aUZST05KNTZIRnlqM3o1ZzF4Z1ZWT19hSkRGc2JUdWwycTZrSDhjVFhPdHZ3aTlXR2w2LU1jRWtqTzluaklBMg?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-27T04:12:00+00:00",
+     "summary": "Christopher Luxon favoured for second term as New Zealand Prime Minister&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "Spain\u2019s election candidates clash over Gaza, migration and housing in televised debate",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFZfMjhhN2pnbVJWSzRzRnhyaTFZTEVOQy10blpEZTViYjNjUDNhQzlydS1wUGxMd3R4Z2czWUkzdnh3Mkh6TlVYQmhsUUF2dHhMcnlabkFtV29mVktyOWlYb2Y5dTRSSE5fbjJEVHFoQXE2RHpTM256MjMydElncnNMNkZldk1RNHluRWUweldPSnFiQTlNeWRLc1VjUmhzOHNuSERVWEZoR2l4aXJ0Q3Z6bW9QYlhWX21YSU9vZE9EWFU?oc=5",
      "source": "Anadolu Ajans\u0131",
      "published": "2026-11-27T04:03:10+00:00",
      "summary": "Spain\u2019s election candidates clash over Gaza, migration and housing in televised debate&nbsp;&nbsp;Anadolu Ajans\u0131",
+     "image": ""
+    },
+    {
+     "title": "LIVE: Final election result lands as special votes counted",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd3JFZWJ0ZkYxbzBFbVB4dUYtS3J1d3FaZ3pyM1M1MEVKOUNWdHJnY0VMblM4VnM0MVEyVGdSN3BXd2s1MVFGbUMzdC1NTWtvTEQ3UGM4UlZpUGVWcG5YQXZnUEgzQWhZMmtHel9JcUJiSXlWTlZEMV9wc3BhRmc3YnFOZVg2NTB3WTk5YnE5UlNBYmhJMzlQLXVPUzM?oc=5",
+     "source": "Te Ao M\u0101ori News",
+     "published": "2026-11-27T04:01:49+00:00",
+     "summary": "LIVE: Final election result lands as special votes counted&nbsp;&nbsp;Te Ao M\u0101ori News",
+     "image": ""
+    },
+    {
+     "title": "Australia sanctions two people over antisemitic arson attacks it says were linked to Iran",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcGh2cUNpdW1OYTZuQVRvelZiSXljRllHZWswbFdubmlmbkd2ZmNzeXRqTV8zWXd0X1c1Wm5HVDFfQXpGV2VuUDlFZ2tCMFZ6OWdIY2ppaXpQcDVrRnNmdnQtdXpOMzZFdTFtajRqOURvZ0dLTDVLRWtHZ1RKMzFFTi1ybzhnaWFITi1tMUVXVFhGcEVlNjlFWUZTRXNEQm1lQk1majR6eHlkRnBtb3BnNUtrek9KZFpJZUJoVVV3RW5zRUN2ZV9EUw?oc=5",
+     "source": "The Times of Israel",
+     "published": "2026-11-27T04:00:54+00:00",
+     "summary": "Australia sanctions two people over antisemitic arson attacks it says were linked to Iran&nbsp;&nbsp;The Times of Israel",
      "image": ""
     },
     {
@@ -258,73 +314,17 @@
      "image": ""
     },
     {
-     "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-27T03:45:53+00:00",
-     "summary": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Asian stock markets rise after earlier tech rout",
-     "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T03:42:16+00:00",
-     "summary": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
-     "image": ""
-    },
-    {
-     "title": "No sanctions and no recrimination: Cricket Australia ball tampering forum to include 2017-18 Ashes series",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZEFFOVBvWF9FQ0szY2g1M3UwaTNva0FfSFdNRUZyQTc5VUVXMXFCX09yRkdkdHFLcG12dVN0S0ptUlBpV1EtUXpNdUNER0FvLWlFTFQtS0dhODJyQmFvYi1MVlFjZnlINm03WnVsdDMxMFBuNFJfVjF5UDA1RGJGdGFkMnZMVVdyUEV5bDJkLXU3NUh1Sk9SZE5xVGNYTVFBU2trdS1odG5DTmJNVzVOM3VFTHA2TGZiN2JkR1ZDZw?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-27T03:39:00+00:00",
-     "summary": "No sanctions and no recrimination: Cricket Australia ball tampering forum to include 2017-18 Ashes series&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "NZ election produces hung parliament, neither bloc wins majority",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VbWpDU0ZCWS01RUJycEttbzlPa2JOMTNZaEcyenJpdGVuX2pYTnQ5aDFvNzNvZ3JfVzlCT1ktMENWOUcyZEJYdXQ3V25NakdXa252LVY4b3Y?oc=5",
-     "source": "chinadailyhk",
-     "published": "2026-11-27T03:36:58+00:00",
-     "summary": "NZ election produces hung parliament, neither bloc wins majority&nbsp;&nbsp;chinadailyhk",
-     "image": ""
-    },
-    {
-     "title": "New Zealand Election",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWNTRklpeVpieUl0YnhtQzQ3OWczcmVoYk11bTVwRVJfLW5oTVlEYlZBampJQjVGS3dNeGZZTV8wRXllcmZDTkk2c2UwQS1zbU40R1VGb2liR1EwNXU2aTQ1ejFSZnFzUmdhWGRrdF9mWUJNRm0xdjlPQ3VXRHRwbFhRaWFxWjh4dlc4MjZvSkNwRTJkc1Q1MURZa0RkS2VUWktoS3ZQSmFjZw?oc=5",
-     "source": "WV News",
-     "published": "2026-11-27T03:29:36+00:00",
-     "summary": "New Zealand Election&nbsp;&nbsp;WV News",
-     "image": ""
-    },
-    {
-     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T03:28:15+00:00",
-     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
-    },
-    {
-     "title": "New Zealand election ends in hung parliament",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWlJFcTI5a19YNDYtY3prYV9NOHA0QlJBdE1GWElUTWEwdU5MOFRzQXdhY2Z1V1hOejNWN3MyS0VjUW1laDI5djlHM2ZJbno4bk9tdnBzQm1veWRDRjJSempJNFpLbjZhSEY4d2UtbkltZ2lZVWxqOHU2MGprcmNDWXZ5VdIBgwFBVV95cUxNU1J3ckxveElsZHBxMEdXRjJfaEZtcEhOUlVyWVVDaE1DbXFKYW5RNmctVHk2NUtFYzNHYW1XMUh0WVU2NXRxbV9GNkN4ZU14SGhIaF9OcFlYS3FkQ2FIdnJEWUxSR19MeTA5ZzV6X1VaaWFPWmZLa0VzUDhPRG5KT2RvQQ?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-27T03:18:35+00:00",
-     "summary": "New Zealand election ends in hung parliament&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTJUcHd2UlE2MzlVM0tiYkZZVFRDSXBEeEx2QkhsV1dRQWd2SjFTRWFqTUZBX2lUUWV4UGQwbE9rLWZLNWllVlo5VGNQVGtkWTRwUFI1YzVZMG9sUmhoNDFQalNwRnNtLWFuWU9pWEVKd3RxYVY2LUQtVVc4MkphNEFUZmxTWFZxQ1hvbU8yVEpmM2NHcVVQWkJ1cHVqeU1oSHNfNEdEUWt0OUJ5MGRiNUF0ODc4X0ZtQWJoYmdILTF4cUVKbG1xbWZ5bVpUTWprQjVtRVJZbk9WWWtpZVNCYnRzUlhmMmhBdFRuZ0ZpZXlCeGZpMGU2eHJqdjFLMG0wZ1Y2UzdRcw?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-27T03:14:38+00:00",
-     "summary": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation&nbsp;&nbsp;The Guardian",
+     "title": "Australia sanctions two individuals over IRGC-linked antisemitic attacks",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WQ1FyT3pwbUR4dnlEQ25VdzdCMDNVTlZRcTAtYms3THpyLWxIcENkbXZ0dEtoS3JKb0JXUWx5aEFsN3dnNXJxWUd1ZnhpSGpTemc?oc=5",
+     "source": "Iran International",
+     "published": "2026-11-27T03:53:08+00:00",
+     "summary": "Australia sanctions two individuals over IRGC-linked antisemitic attacks&nbsp;&nbsp;Iran International",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T04:19:21.495782+00:00",
+   "fetched_at": "2026-11-27T04:49:25.181171+00:00",
    "stale": false,
    "items": [
     {
