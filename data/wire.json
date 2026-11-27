@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-11-27T03:18:53.757966+00:00",
+ "generated_at": "2026-11-27T03:48:57.338165+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T03:18:53.757933+00:00",
+   "fetched_at": "2026-11-27T03:48:57.338136+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T03:28:15+00:00",
+     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+    },
     {
      "title": "Spain and Morocco under-17 stars target World Cup 2030",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
@@ -12,14 +20,6 @@
      "published": "2026-11-27T02:58:48+00:00",
      "summary": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
      "image": ""
-    },
-    {
-     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T02:55:31+00:00",
-     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
     },
     {
      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
@@ -120,7 +120,7 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T03:18:53.757950+00:00",
+   "fetched_at": "2026-11-27T03:48:57.338150+00:00",
    "stale": false,
    "items": [
     {
@@ -173,10 +173,10 @@
     },
     {
      "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVJlbHg3YkhOX1Z1RVlSU1pkelg3dERVTzhPZWhPSVFmeS1QSENNQTRRc3hnWnBqSlBxRVVXQ0pQRi1zaloybXRIbGpvTFpWbEQybWFzQTV6cTZ3Y3EtVHlnNENiYkRNYXNXQ2prTkNEM1VleGtIMEgtQTZBVmo4MnBITDA2Z29QSnZsaEcxcFVIUkxHM1pxeXRTU05fUnRicHZkUjYyeVRqQkJEbVpLMTJTcXh6c3I5cmpqRmlR?oc=5",
-     "source": "Al-Monitor",
-     "published": "2026-11-27T00:29:33+00:00",
-     "summary": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant&nbsp;&nbsp;Al-Monitor",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXlld0FmMFoxdUVjNlhmNURVMmZwLXJNcXZrVkhEQWxOLS14ajJFb2VQZzBOOUZKM1Z1VGwzLURERG9lUWdGczh0bTZGTGJqdC00Nk9tYjZLR21iN1ZRbEtmTHhnRFAzV3lYRzVRN2txb3h0TUxoeENQbmNTeHlmN1AtNnBnTE1rYTRnYmxxTXNBUkh1WTdZVHpBN3h2XzNYMXlUaWVLRmlOR051bTIwbE9BWVhJRjRHSWxVd0pXQy1tdnc?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-27T00:29:00+00:00",
+     "summary": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant&nbsp;&nbsp;Reuters",
      "image": ""
     },
     {
@@ -188,11 +188,11 @@
      "image": ""
     },
     {
-     "title": "Ukrainian Foreign Minister Says Military Action Was Never Directed Against Libya",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmxtMEpHSm1fVURNQzhjN1h1WHhscFd4Tl9JYU1Ma1M2cHhSaGoyR3NLNjBVOHJPRm15b2pQWmZubHFyTFFkOERNazY2V2c5VzJPZ0JkbnBncEFTQ180eklZRTJ3M0dROEE0NlRtYkYxbmtLc0pSM0VPUVhxUEVfN0t4b0Q2RTdNbkcxMDljd1JKZ0JvN0h0amZHeG1lSnM1TEtxWjgwYUJfZnpONk1pU2E2aEpkTmNxTnpCbV9VLTBfb3NDTFBnWTFfSnI2czA?oc=5",
-     "source": "U.S. News & World Report",
-     "published": "2026-11-26T23:38:00+00:00",
-     "summary": "Ukrainian Foreign Minister Says Military Action Was Never Directed Against Libya&nbsp;&nbsp;U.S. News & World Report",
+     "title": "Ukraine, Russia could hold largest prisoner exchange of war before winter holidays, Kushner says",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1U3VkczZVE2OVdHM1VNck9DNHozc002SEtSamxzNzc0Rk83bi04czZoY0NGMzl0Q2xmQUpfdjNTd1NUSHJnVG5vUktIVkg0dnhrYmJCQVdMU3oyT1NDT3RiN0MyRGtZdjhPYWJ0YmFMRHZPMFVqajR4TENNNzRlTzA2cDFmaEZJWHdXdlEwc3BjcTVZd2ZNWTdHZXRvYUk?oc=5",
+     "source": "Euromaidan Press",
+     "published": "2026-11-26T23:54:36+00:00",
+     "summary": "Ukraine, Russia could hold largest prisoner exchange of war before winter holidays, Kushner says&nbsp;&nbsp;Euromaidan Press",
      "image": ""
     },
     {
@@ -222,9 +222,65 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T03:18:53.757954+00:00",
+   "fetched_at": "2026-11-27T03:48:57.338154+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "NZ election produces hung parliament, neither bloc wins majority",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VbWpDU0ZCWS01RUJycEttbzlPa2JOMTNZaEcyenJpdGVuX2pYTnQ5aDFvNzNvZ3JfVzlCT1ktMENWOUcyZEJYdXQ3V25NakdXa252LVY4b3Y?oc=5",
+     "source": "chinadailyhk",
+     "published": "2026-11-27T03:36:58+00:00",
+     "summary": "NZ election produces hung parliament, neither bloc wins majority&nbsp;&nbsp;chinadailyhk",
+     "image": ""
+    },
+    {
+     "title": "New Zealand Election",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWNTRklpeVpieUl0YnhtQzQ3OWczcmVoYk11bTVwRVJfLW5oTVlEYlZBampJQjVGS3dNeGZZTV8wRXllcmZDTkk2c2UwQS1zbU40R1VGb2liR1EwNXU2aTQ1ejFSZnFzUmdhWGRrdF9mWUJNRm0xdjlPQ3VXRHRwbFhRaWFxWjh4dlc4MjZvSkNwRTJkc1Q1MURZa0RkS2VUWktoS3ZQSmFjZw?oc=5",
+     "source": "WV News",
+     "published": "2026-11-27T03:29:36+00:00",
+     "summary": "New Zealand Election&nbsp;&nbsp;WV News",
+     "image": ""
+    },
+    {
+     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T03:28:15+00:00",
+     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+    },
+    {
+     "title": "Australia sanctions two people over antisemitic attacks that it blames on Iran",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHBtblZnbWZBQUo5LVNGb2sxQkpHOFdJTGI0YlozM0YxUGh0bnZkLWZOeWJrMFBoX0h3aGNkTEtCVVA3Zjg0WEpuYi1MdjBEa2dKVDg3Rk5yWFJCNEs1NDFnYTRrVmpJeVQ1Y1lMR0daaDItcWczSEhzT3VfVTRxVno4Zm9HVGdTN2RDT2NtYmk5NlZqTGJnekNMSTI5dERMY1dZaFpFUy1IM01aVUFjbzI3MDEteXFNS2FvaEhFLTJhZnBvRTVRbzln?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-27T03:18:56+00:00",
+     "summary": "Australia sanctions two people over antisemitic attacks that it blames on Iran&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "New Zealand election ends in hung parliament",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWlJFcTI5a19YNDYtY3prYV9NOHA0QlJBdE1GWElUTWEwdU5MOFRzQXdhY2Z1V1hOejNWN3MyS0VjUW1laDI5djlHM2ZJbno4bk9tdnBzQm1veWRDRjJSempJNFpLbjZhSEY4d2UtbkltZ2lZVWxqOHU2MGprcmNDWXZ5VdIBgwFBVV95cUxNU1J3ckxveElsZHBxMEdXRjJfaEZtcEhOUlVyWVVDaE1DbXFKYW5RNmctVHk2NUtFYzNHYW1XMUh0WVU2NXRxbV9GNkN4ZU14SGhIaF9OcFlYS3FkQ2FIdnJEWUxSR19MeTA5ZzV6X1VaaWFPWmZLa0VzUDhPRG5KT2RvQQ?oc=5",
+     "source": "DW.com",
+     "published": "2026-11-27T03:18:35+00:00",
+     "summary": "New Zealand election ends in hung parliament&nbsp;&nbsp;DW.com",
+     "image": ""
+    },
+    {
+     "title": "Political newcomer holds keys to power in New Zealand election",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlE0UGxFT1lsUXpjVU9hZkVxekxmZmwxYjV0QldnRktIcTFmV3lWX0pqQ3pHRGJad01rWkdTM1VQclFIblExTUhoNEF6NHJxMjJtdEk0emRrZ0EyM21KUEliRWpURTUyNGd1bGdSYzRtNGt5bHVLNjdDQWRCSFhXcVBTZVRKbXJqN3BqM1JDV1JPdU9xa0pF?oc=5",
+     "source": "Yahoo",
+     "published": "2026-11-27T03:18:00+00:00",
+     "summary": "Political newcomer holds keys to power in New Zealand election&nbsp;&nbsp;Yahoo",
+     "image": ""
+    },
+    {
+     "title": "New Zealand PM fails to secure majority in election",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUW9vRGhZZmVZd19YTVlUd3RXdXBvZU5UUUlfbzhVb1p6UTA4TDQxMFJjdzBQSjROMWdsd3VOaE51UmtjNlQ2WFRGVGlwT2pSWnAtakxqc3pjQnZnbndoN1RINzI3c0ExWmxSRkx2cjFrVVVIaWZzQkFWMTNUNHBZXzM3LXozeXdJdEJMOG94bFl1TmJROE5WMnFFWlQydVlBNUhrbQ?oc=5",
+     "source": "The Telegraph",
+     "published": "2026-11-27T03:12:00+00:00",
+     "summary": "New Zealand PM fails to secure majority in election&nbsp;&nbsp;The Telegraph",
+     "image": ""
+    },
     {
      "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
@@ -242,35 +298,19 @@
      "image": ""
     },
     {
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdlAzN1JUQVRnazFiZnZQNExQSlNGdHkwWTQ2Yk1FRHEza2JldGRTTm1xT3dLMVhOeGQyeWdpSlZLbVM0cjM2MldOc3NkQ0Y0SENSd0stNWkzTFNpUjE3OXd3Vndfb19pbDdNOThSeFU4ZVpZQWJ4ZDRGUDFhUQ?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-27T03:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
+    {
      "title": "When is the Victorian state election 2026, how and where to vote in the polls. What voters need to know ahead of election day",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVlVwRjJidjBiYllfMUphQ2lGd3lleTgxcEhMeFk2S05OcFJUOHZ2Uzc4R2JFakdJZmdURndtVmtPRC14MEVQUzJZMmMtWHViZXF6M2p2OFI4ZXpZR0x2UFlXa1FUMXA3WExTTnZSMVhtT2J5NDBVdzR2SGhQWGJiQkhfWlZUdzZSdFM1NjlnRmo1UWNpOGxFbmQ5enJFRjdQSjRxSGRHUTFxUmtWc3RobTdjQnlYR0FpRlE0bDdEc1k4eVhvZ3ZpN3JXNW5jV01CeWJpN3FvVFlDdzdSbm52ZUxOR3dIVEV4Qmd6cnAzNWxYdFVfenRLbE1NNS1lQQ?oc=5",
      "source": "The Guardian",
      "published": "2026-11-27T02:56:00+00:00",
      "summary": "When is the Victorian state election 2026, how and where to vote in the polls. What voters need to know ahead of election day&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T02:55:31+00:00",
-     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
-    },
-    {
-     "title": "South Korean shares rise more than 2% on hopes of policy support",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdnMwcGtCb1ZRT05mSFdQWlJtZnVyR0VDX01JbVZrMnY4WkdtN2t4eXV0SDd0aFhYRHBrdEY2T1l6YjRXV2dQaUVZRG55VG8yVUZHT1dhVVZZX1Q3Vm5OU0NwRGJqQjJEVTVGTk5uamFvRmRyMEdxOHY3QnJ1QlVlY09HRTdLZnNqekpzc2lPUGlyaDhxdEV1b1JFRy1DVDVfcTduQUpuVGNKT1FULXR4TlVySFB2VWJ6SVBOZ1Z1bWk1SVdtNVVhV3B5U2FSdw?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-27T02:44:51+00:00",
-     "summary": "South Korean shares rise more than 2% on hopes of policy support&nbsp;&nbsp;TradingView",
-     "image": ""
-    },
-    {
-     "title": "Indonesia bourse sanctions five companies over free-float share data discrepancies",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNDhSdktMUkdCRV93LWJaUjhOb0tyUnNJRGdTOWNQRGctOUtBR2xpcnFZODZOMWlLMjJvVFJ5amFVWEFtR296OEY5cGU4M2pPd0RpZXUxQS1waWdpMDlIazZlX3FPSEFKd2RFYlJOMDBJMHJBb2FrU0tLbTItUzg2dTVBeTZxYTRTWXVlV1FQZUZ2UzlrNm93ZkJwbkNwelY0M3dDZjU3Z2J4YW9DY0ZYZTJXWV8xem5jMXdWa2IySnJSSnpjM3JFRVdwV1dUYy13RVhTWTQ4NFlfbm1YU3J3S3ZGSTJYTmM?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-27T02:44:00+00:00",
-     "summary": "Indonesia bourse sanctions five companies over free-float share data discrepancies&nbsp;&nbsp;TradingView",
      "image": ""
     },
     {
@@ -280,51 +320,11 @@
      "published": "2026-11-27T02:42:33+00:00",
      "summary": "Breaking: Official results of New Zealand's national election announced&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
      "image": ""
-    },
-    {
-     "title": "The final election result is in - what could happen now?",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1VoMzhlM2xLX2xIZXdJZUNYZ0p5RkxwRGlZcGdLdDlFN0FJOUg0TDBaWUFBMGV6ZFk1Ul9ZN25WNDhPY2tKVUpJa3pDTkJlVE0tR1J3NXZaRUtIeWkyeGlMLVpkSk96TFdqbEhfYlRmalF4QWZKTVBQX2JVRE90TFk3ejcxT3hVRFF2SWZ2RDdqalRwUE1heEp6MTRKRHlxdmEzRHpHSUQ5akJ3SXIyX2R6b3JRVFdPN1BZUURYV1haTGdaLW9xV2lVQQ?oc=5",
-     "source": "NZ Herald",
-     "published": "2026-11-27T02:42:31+00:00",
-     "summary": "The final election result is in - what could happen now?&nbsp;&nbsp;NZ Herald",
-     "image": ""
-    },
-    {
-     "title": "The data centre black hole that could swallow Labor\u2019s gas policy",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRDJPdnJobmQ1RHY0QUdFSVNkbjFUVXlnTkV1bWxWM0Z3a2d4RkZmYnlEVDlBSFMyU080WEozQm1JcDI0Q1h1N0thY0w0M1d2c1JTTUcwa0FGNVlaZDFUUDEwOS04ZVlHU09BNjNlOTZXSDVaR2NmWmtCbHZhOGlUWnZWdVVuWEJhNXc?oc=5",
-     "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-     "published": "2026-11-27T02:42:13+00:00",
-     "summary": "The data centre black hole that could swallow Labor\u2019s gas policy&nbsp;&nbsp;Institute for Energy Economics and Financial Analysis (IEEFA)",
-     "image": ""
-    },
-    {
-     "title": "NZ election final: right needs Opportunity to govern, uncharted political waters ahead",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazZVa01lckNWVmZ0RTZSMHVGVW9lTDY2ZHZwZ3E4OGQ2MUlJOGFpQ0xXLWFfcE5nQm5ZTlVYVTFxMnFaVnkxdzhDQXZ0ZGpvQUlWbk9ocGhOTFo0WUc4Q3JXWFV5WWNLT28zMTF5RV9aS3R5TXp4WXZnTTVKc3lXeUlaUjhxc1I3T3ZVeVBsa291R1h4S1Atc1o3Uk9PZ01BNkNqaWRTMGI1UUdDT1hLRjREV0VXTkxZcFFJ?oc=5",
-     "source": "The Conversation",
-     "published": "2026-11-27T02:42:00+00:00",
-     "summary": "NZ election final: right needs Opportunity to govern, uncharted political waters ahead&nbsp;&nbsp;The Conversation",
-     "image": ""
-    },
-    {
-     "title": "New Zealand Election",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFVrRmRGdlBPSndBOTVNVWZWTDhubTBVSUxXMFhjWkRyWXdWa25UblZUUklSNDFCN01qbmVDZmt4Vks0R2Zsa1BZOHdHV2Y2NnhGQUh3RzBOQ0Q0LTZoRkZnbVRtdFhYWF9XRUVpWlNBUG1qaU5ZcVJ2d0RUOGpRZ28zRXBRUGpTcTE0VExXaDN1MDRDRW1acDdTVFZhZ0xrbW9maG4yMWRjVGl4dF9pTw?oc=5",
-     "source": "chronicleonline.com",
-     "published": "2026-11-27T02:39:28+00:00",
-     "summary": "New Zealand Election&nbsp;&nbsp;chronicleonline.com",
-     "image": ""
-    },
-    {
-     "title": "New Zealand PM rules out new election amid coalition talks",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlVIdklLTlVNS21RcGtOTzE1NlRnelFKQ0FFbl8xOXRqQjBmUmxvQlpiNWFpNlYxNEUzbVNkR3VvRzRLWlVzcjc5bVUwbDNJbFUyR3VnOUlFVEdpVzlnekZ6R0RCbGhwRFdodHVwTngyNk9ITU41dGhudHZIYldjNUtrSWxmcDk4dGd5QlRaZw?oc=5",
-     "source": "Crypto Briefing",
-     "published": "2026-11-27T02:28:52+00:00",
-     "summary": "New Zealand PM rules out new election amid coalition talks&nbsp;&nbsp;Crypto Briefing",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T03:18:53.757957+00:00",
+   "fetched_at": "2026-11-27T03:48:57.338156+00:00",
    "stale": false,
    "items": [
     {
