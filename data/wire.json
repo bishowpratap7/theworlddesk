@@ -1,10 +1,82 @@
 {
- "generated_at": "2026-11-27T17:51:34.364092+00:00",
+ "generated_at": "2026-11-27T18:21:38.417243+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T17:51:34.364063+00:00",
+   "fetched_at": "2026-11-27T18:21:38.417215+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+     "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T18:00:40+00:00",
+     "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "Mexico files complaint with US over tip line on alleged drug traffickers",
+     "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T17:58:36+00:00",
+     "summary": "Tensions rise over DEA tip line, with Mexico emphasizing respect for its sovereignty amidst growing bilateral discord.",
+     "image": ""
+    },
+    {
+     "title": "The Com: the global cybercrime network posing a \u2018chilling threat\u2019 to children",
+     "url": "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
+     "source": "The Guardian",
+     "published": "2026-11-27T17:53:30+00:00",
+     "summary": "FBI estimates thousands of people identify as members, or recent members, of group linked to indecent images of girls and blackmailIt sounds benign: the Com, short for the Communit",
+     "image": "https://i.guim.co.uk/img/media/27342db124531d5754148be774d6fe5cd69cbdb3/162_0_3163_2530/master/3163.jpg?width=140&quality=85&auto=format&fit=max&s=0d11e1ea1482886a6387f4c85a84bf16"
+    },
+    {
+     "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T17:44:50+00:00",
+     "summary": "Spain&#039;s Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
+     "image": ""
+    },
+    {
+     "title": "Kyiv offers Black Sea ceasefire, as Putin expands Russia\u2019s navy",
+     "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T17:44:33+00:00",
+     "summary": "Ukraine awaits Moscow\u2019s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump\u2019s Putin \u2018friendship\u2019",
+     "image": ""
+    },
+    {
+     "title": "Mecca pact allies condemn \u2018heinous\u2019 Houthi attacks on Saudi Arabia",
+     "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T17:41:24+00:00",
+     "summary": "Officials from Pakistan, Saudi Arabia and Turkiye pledge to protect the kingdom&#039;s security during talks in Islamabad.",
+     "image": ""
+    },
+    {
+     "title": "Why India\u2019s captain wants saliva back in cricket",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-indias-captain-wants-saliva-back-in-cricket?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T17:39:57+00:00",
+     "summary": "India captain Shubman Gill wants cricket\u2019s Covid-era saliva ban relaxed after a five-day Test in Wellington.",
+     "image": ""
+    },
+    {
+     "title": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
+     "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+     "source": "The Guardian",
+     "published": "2026-11-27T17:39:10+00:00",
+     "summary": "After nearly 100 colleagues called on Andy Burnham to block the oilfield, as many as 80 Labour MPs are planning to urge the oppositeDozens of Labour MPs in favour of Rosebank are p",
+     "image": "https://i.guim.co.uk/img/media/5cef95b05dbffa1580f40f77587a802800a4c9ca/481_0_4683_3747/master/4683.jpg?width=140&quality=85&auto=format&fit=max&s=d7732410c824da149c1436e92934863e"
+    },
+    {
+     "title": "Spain races to stop oil spill after ship capsizes off Ibiza",
+     "url": "https://www.france24.com/en/video/20261127-spain-races-to-stop-oil-spill-after-ship-capsizes-off-ibiza",
+     "source": "France 24",
+     "published": "2026-11-27T17:35:36+00:00",
+     "summary": "Spanish authorities raced to contain any damage to ecologically valuable Mediterranean waters on Thursday after a tanker carrying up to 7,000 tonnes of diesel capsized off Ibiza, l",
+     "image": "https://s.france24.com/media/display/526daf5c-ea56-11f1-aeb5-1991d4929b54/w:1024/p:16x9/EN-20261127-110950-111106-CS.jpg"
+    },
     {
      "title": "French far-left candidate M\u00e9lenchon demands \u2018thorough overhaul\u2019 of Germany ties",
      "url": "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties",
@@ -22,11 +94,11 @@
      "image": "https://s.france24.com/media/display/02485f9a-ea88-11f1-91da-174dac1c1bf0/w:1024/p:16x9/Thumb-Marseille-01-1.jpg"
     },
     {
-     "title": "Man jailed in Newcastle for blackmailing vulnerable girls online",
+     "title": "UK man jailed for online blackmail of vulnerable girls around the world",
      "url": "https://www.theguardian.com/uk-news/2026/nov/27/man-jailed-in-newcastle-for-blackmailing-vulnerable-girls-online",
      "source": "The Guardian",
      "published": "2026-11-27T17:27:03+00:00",
-     "summary": "Beau-jack Mensforth, 20, coerced girls across world into self-harm, making indecent images of themselves and physically harming their petsA 20-year-old man from north-east England ",
+     "summary": "Beau-Jack Mensforth, 20, part of a group known as the Com, coerced girls into self-harm, making indecent images of themselves and physically harming petsThe Com: the global cybercr",
      "image": "https://i.guim.co.uk/img/media/0e92477adc3d73aa42ee94bf77b47b24b90e21c6/0_141_516_413/master/516.jpg?width=140&quality=85&auto=format&fit=max&s=62283ea09f450f70095c54055beaebd5"
     },
     {
@@ -44,85 +116,85 @@
      "published": "2026-11-27T17:21:18+00:00",
      "summary": "Greenpeace publishes report showing tech firm is continuing to build despite planning appeal still unresolvedBelgian authorities have ordered Google to halt construction work on a ",
      "image": "https://i.guim.co.uk/img/media/53fa79a19abbefe201798e60613aa1864cc000e7/0_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=a7db4ce91794fea20a5cd3b0263dedc4"
-    },
-    {
-     "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-     "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T17:19:31+00:00",
-     "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
-    },
-    {
-     "title": "Spain\u2019s Pedro Sanchez bets on left-wing voting surge to defy election polls",
-     "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T17:15:35+00:00",
-     "summary": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
-     "image": ""
-    },
-    {
-     "title": "\u2018Bear trap\u2019: Ukraine hails new operation as Russian casualties mount",
-     "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T17:13:46+00:00",
-     "summary": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
-     "image": ""
-    },
-    {
-     "title": "France is dealing with water insecurity \u2013 a new study shows it's a global problem",
-     "url": "https://www.france24.com/en/environment/20261127-france-dealing-with-water-insecurity-%E2%80%93-new-study-shows-global-problem",
-     "source": "\u00a9 Manu Fernandez, AP",
-     "published": "2026-11-27T17:10:11+00:00",
-     "summary": "Tens of thousands of people in France are living under water restrictions as the country deals with a drought despite recent rains, according to the environment ministry. But this ",
-     "image": "https://s.france24.com/media/display/34af910c-ea6e-11f1-8207-1991d4929b54/w:1024/p:16x9/AP26273445409241.jpg"
-    },
-    {
-     "title": "Big EU defence projects under threat from proposed budget cuts: Commissioner Andrius Kubilius",
-     "url": "https://www.france24.com/en/tv-shows/talking-europe/20261127-big-eu-defence-projects-under-threat-from-proposed-budget-cuts-commissioner-andrius-kubilius",
-     "source": "France 24",
-     "published": "2026-11-27T17:03:56+00:00",
-     "summary": "We speak to the EU's Commissioner for Defence and Space, Andrius Kubilius. The former prime minister of Lithuania \u2013 who grew up during the Soviet era \u2013 tells us how he sees the con",
-     "image": "https://s.france24.com/media/display/d8b20618-ea78-11f1-9216-f9cf020caef6/w:1024/p:16x9/PHOTO-ANDRIUS-KUBILIUS.jpg"
-    },
-    {
-     "title": "From cyberbullying to extremist content, can EU Kids Act protect minors online?",
-     "url": "https://www.france24.com/en/tv-shows/talking-europe/20261127-from-cyberbullying-to-extremist-content-can-eu-kids-act-protect-minors-online",
-     "source": "France 24",
-     "published": "2026-11-27T17:02:32+00:00",
-     "summary": "Almost every European teenager is online. Some 96 percent of 15-year-olds use social media, yet many say they do not feel safe there. One in four children in the EU, aged 12 to 17,",
-     "image": "https://s.france24.com/media/display/ce32d74e-e7fd-11f1-a05d-c131ae9bfe9c/w:1024/p:16x9/MONTAGE-DEBAT-EU-KIDS-ACT-EN.png"
-    },
-    {
-     "title": "Elon Musk gets the greenlight from the US to launch one million satellites",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/elon-musk-gets-the-greenlight-from-the-us-to-launch-one-million-satellites?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T16:54:05+00:00",
-     "summary": "Elon Musk wants to move AI data centres into space, where near-constant sunlight could help power them.",
-     "image": ""
-    },
-    {
-     "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-     "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T16:53:46+00:00",
-     "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
-    },
-    {
-     "title": "Jared Kushner\u2019s 70-minute interview shows the peril of treating Putin like a corporate rival",
-     "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
-     "source": "The Guardian",
-     "published": "2026-11-27T16:49:59+00:00",
-     "summary": "Trump\u2019s son-in-law and top negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolvedIn the space of a 70-minute interview, Jared Kushner \u2013 Donald Trump\u2019s s",
-     "image": "https://i.guim.co.uk/img/media/2982dd4242ca828d413c2bc16a208c6b356eb841/401_0_5492_4392/master/5492.jpg?width=140&quality=85&auto=format&fit=max&s=e799b6911fb30f055aad60dbd69170c9"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T17:51:34.364076+00:00",
+   "fetched_at": "2026-11-27T18:21:38.417229+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORi1McEY4Z0s0WFpoM1JMenFlX1hiejdjbExuMkwyNlI4cWljR0V2V2pkcEV0NDRZYXM4Rzd2TFJjRnBJLW8tcWI5S0ZSX3lUcEpkaWs3X2J0MFpCd3BXZ2FZSm03WGV0WVlOdE8xSDhhR3R1Wk4ySGhaRkRPMk9mdm5XSV85QklC?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-27T18:01:19+00:00",
+     "summary": "With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
+    {
+     "title": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
+     "source": "BBC",
+     "published": "2026-11-27T18:00:40+00:00",
+     "summary": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough&nbsp;&nbsp;BBC",
+     "image": ""
+    },
+    {
+     "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+     "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T18:00:40+00:00",
+     "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "Kyiv offers Black Sea ceasefire, as Putin expands Russia\u2019s navy",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWW9taURHbFpkMjd6YkFzNEliSVpaOW5zal9CUEY1R0kyS3NWVU9HbkIzRkNhcWtoOWgxUi02WWdWN1dpQTU5UVVpc3dGa04yVVBQbk1NQVMzSFBLVmxvUllTNTVwVEdwR1FtdGI3Nnppb0lvNjNRMUZwYl9EaXI1akI0VE5SRGcxVkxzVzNZbFM2S0RCc2JOdi05R2s1dlg4eVZIdDBB0gGrAUFVX3lxTFB6OWM4c1NpYjVhZUp2MVV1eUppS1lVLW1lNjIwaktRN1lWUDlGOG5meWIySTByVVhUQ2tnSGh4d05pVXN0SWxnSFlFc0lzVzhmQzlWaFRZTW5ELU0yWUpNYTIwVV8tQmhqODBCVzhQMjBseHVydHcydEJya3lJREtMbFd2aW0zMmlndy1oV2M2RHZPbzh2V3FQcV8tNE5xMmx1S3Jfb1NXNXdHVQ?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T17:56:33+00:00",
+     "summary": "Kyiv offers Black Sea ceasefire, as Putin expands Russia\u2019s navy&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Video New questions over Trump-Putin ties amid Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kOXNjQVZnMTZhVzItR29vVW85SzVDUXhRc2xleFhnd0pCeTg3N3o0emNUX3F5eHlBYncwZjZ0ZzZ0VlJ1XzdjemtDWGw?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "published": "2026-11-27T17:49:15+00:00",
+     "summary": "Video New questions over Trump-Putin ties amid Ukraine war&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+     "image": ""
+    },
+    {
+     "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T17:44:50+00:00",
+     "summary": "Spain&#039;s Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
+     "image": ""
+    },
+    {
+     "title": "Mecca pact allies condemn \u2018heinous\u2019 Houthi attacks on Saudi Arabia",
+     "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T17:41:24+00:00",
+     "summary": "Officials from Pakistan, Saudi Arabia and Turkiye pledge to protect the kingdom&#039;s security during talks in Islamabad.",
+     "image": ""
+    },
+    {
+     "title": "Zelensky criticizes Trump for cozying up to Putin as EU kicks Ukraine funding down the road",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14STQ1dllEd2JGN0ZRdTlYck04Qm5PcE9fQ0p6eW9mVERITnJDYWE4VG9PZ1Nub2xoNTJBZThxaG9lMUg3S3RvTDJiaUROYkktUFhRRlFRVk9vMkxyQTZ3dmNuMl8wMktFVmN3Y0ZNSjN0dzQ5aFE?oc=5",
+     "source": "CBC",
+     "published": "2026-11-27T17:41:21+00:00",
+     "summary": "Zelensky criticizes Trump for cozying up to Putin as EU kicks Ukraine funding down the road&nbsp;&nbsp;CBC",
+     "image": ""
+    },
+    {
+     "title": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
+     "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+     "source": "The Guardian",
+     "published": "2026-11-27T17:39:10+00:00",
+     "summary": "After nearly 100 colleagues called on Andy Burnham to block the oilfield, as many as 80 Labour MPs are planning to urge the oppositeDozens of Labour MPs in favour of Rosebank are p",
+     "image": "https://i.guim.co.uk/img/media/5cef95b05dbffa1580f40f77587a802800a4c9ca/481_0_4683_3747/master/4683.jpg?width=140&quality=85&auto=format&fit=max&s=d7732410c824da149c1436e92934863e"
+    },
     {
      "title": "\u2018Bear trap\u2019: Ukraine hails new operation as Russian casualties mount",
      "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
@@ -146,91 +218,67 @@
      "published": "2026-11-27T16:47:35+00:00",
      "summary": "Syria may amend its nationality law to grant citizenship to children of Syrian mothers and foreign fighters.",
      "image": ""
-    },
-    {
-     "title": "Turkey summons Georgian envoy after football fans' pro-Palestine protest sparks clashes",
-     "url": "https://www.france24.com/en/sport/20261127-turkey-summons-georgian-envoy-after-football-fans-pro-palestine-protest-sparks-clashes",
-     "source": "\u00a9 Oto Davitadze, AP",
-     "published": "2026-11-27T16:37:29+00:00",
-     "summary": "Turkey summoned \u200bGeorgia's ambassador on \u200bFriday over violence that broke out \u200bat \u200ca Europa \u2060League match in Batumi \u200cbetween the Turkish Besiktas \u2060and Israeli Hapoel Beer-Sheva tea",
-     "image": "https://s.france24.com/media/display/520d2918-ea72-11f1-9d01-1991d4929b54/w:1024/p:16x9/AP26330794389547.jpg"
-    },
-    {
-     "title": "Zelenskyy urges US to pressure Putin and questions Trump\u2019s reference to Putin as a \u2018friend\u2019",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHZncjd6TjJOQy1tZVlWUVowZ0hBY2NWMjN2d1k3WXdzUlB4VUdlbl9kMDdLTnZ2bzY5eGlZUGFNSEQxYVNCaVNRYWlBTkZneUxoZm5ub1Q2MVd3QjFza1BJWWhiWEQ2Tk1aUE1jVlByV0h6NldmUC1NOUQ5WW5ka3pqdUFwaXI1SEd4VzNzUGNoZ2c5WG5Yd3dFeWpyY0taN3c?oc=5",
-     "source": "AP News",
-     "published": "2026-11-27T16:37:00+00:00",
-     "summary": "Zelenskyy urges US to pressure Putin and questions Trump\u2019s reference to Putin as a \u2018friend\u2019&nbsp;&nbsp;AP News",
-     "image": ""
-    },
-    {
-     "title": "Trump, NATO chief urge Russia, Ukraine to avoid expanding war after Mar-a-Lago meeting",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemVNaUxHQ3VpMXFPWTlIQUU0bWowOTZmei1ZQkRKUmxsX250ZWdQVm9uUXZ1c3dWZmVZWUpVVHh5ckJUenFhTHZpa0NOeTQyMnNmZnl4NjJJVGxHS21xVmpnSVAtd1MxZEtfRXRjVEZKalhoYThmTkM5TDBKU1QyUEh5UVI5c1l6Y1VETFlJSzVTaGtsd2d3aW80V29XdW1lelJkaDl0TU10NnBrVmc?oc=5",
-     "source": "Florida\u2019s Voice",
-     "published": "2026-11-27T16:35:00+00:00",
-     "summary": "Trump, NATO chief urge Russia, Ukraine to avoid expanding war after Mar-a-Lago meeting&nbsp;&nbsp;Florida\u2019s Voice",
-     "image": ""
-    },
-    {
-     "title": "Israel\u2019s Eisenkot accuses Netanyahu\u2019s party of stalling coalition talks",
-     "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T16:33:21+00:00",
-     "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
-     "image": ""
-    },
-    {
-     "title": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
-     "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T16:31:20+00:00",
-     "summary": "Passengers advised to seek refunds via bankruptcy process, though guarantees are not assured, warns Norse Atlantic.",
-     "image": ""
-    },
-    {
-     "title": "Russia Ukraine War Children",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeWxtbjU2X19QMTRkeHBzXzVBMFJ4aE5JdXduQnQxcHNfd0Q2NlkzVV9sZm1jSWdjdFh3WlNnenMwWmlsQUtfdzhiQUJoSFloWm1nSzVYaEkxZVA2X3JpTVRySVQzSHpHOFhndWFmc3R4NU9NWHNLdGxZa2tHTFd6dGRKR29mQzdtVC1VOWpGcE52LVlQMXZ3UFdLWVZXeFlNQWZJdnZCcDBXQ1g4cHFFMXl4d3ktdFR0V0E?oc=5",
-     "source": "chronicleonline.com",
-     "published": "2026-11-27T16:14:18+00:00",
-     "summary": "Russia Ukraine War Children&nbsp;&nbsp;chronicleonline.com",
-     "image": ""
-    },
-    {
-     "title": "Trump backs Iraqi PM\u2019s oil smuggling crackdown",
-     "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T16:13:07+00:00",
-     "summary": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
-     "image": ""
-    },
-    {
-     "title": "Jerusalem Daily: Kushner calls Gaza rebuilding \u2018act of kindness\u2019",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T16:01:44+00:00",
-     "summary": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a \u2018huge act of kindness&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Zelensky chides the Trump-Putin friendship as \u2018strange\u2019",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWkyaXg2d3IwYXNmZV8yb3pRcFJIWVY5cTcxSmdvdnEtck1NVlh4c3dPWDEtSGQySFlvRG5ocE5jS1A3eEozdEpmWWc0VnI5aG16LXcwZ1AtYVV3VVI0RHMyalFZT29PZFMwczVuMkJJN2Y1clhidm5wcTRucXZqM0JDYVp3bWttS3dPN2xuMFVKbi1zbVNwM1ZHdjcwRnlnODBlMkhyMUg?oc=5",
-     "source": "Washington Examiner",
-     "published": "2026-11-27T15:54:09+00:00",
-     "summary": "Zelensky chides the Trump-Putin friendship as \u2018strange\u2019&nbsp;&nbsp;Washington Examiner",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T17:51:34.364080+00:00",
+   "fetched_at": "2026-11-27T18:21:38.417232+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Spanish Elections Could Reshape Nuclear, Renewable Policy",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44UVhTdlpHZmVONW1tR05nZUV3ckNobHdBaE5ZbWcwMG5odkJrN3J5Y1Z3dG81S1EyT2FIdDZOMklDUDBlaTBUQ01MY3I3bTZfMm5ySDVvVzJ6bzNaVGJVek51b044MlZDQ0VoLTNvSVlPUQ?oc=5",
+     "source": "Energy Intelligence",
+     "published": "2026-11-27T18:09:12+00:00",
+     "summary": "Spanish Elections Could Reshape Nuclear, Renewable Policy&nbsp;&nbsp;Energy Intelligence",
+     "image": ""
+    },
+    {
+     "title": "Opinion: Blue-wave election a mandate for supporting public schools",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUp0VmRib0g2dTlRMVdldmVJd2ZUZm54LTRGNzZfeHZ0WVlkSENqSW5HcXN3Q2plazlkeGx3NVVGUndZZ2owREZNVHJGSm52ZlBUb2VIQ1lzTDA5cm1sVGZCUzluWnR0VnVKelVwU09FdXRpTU1xcG90X0lPUTRvajU4Nkx2OTQwZTAyd00xaDY3aG83Y1E5SlpzNEtVR29LeWc?oc=5",
+     "source": "The Citizens' Voice",
+     "published": "2026-11-27T18:06:30+00:00",
+     "summary": "Opinion: Blue-wave election a mandate for supporting public schools&nbsp;&nbsp;The Citizens' Voice",
+     "image": ""
+    },
+    {
+     "title": "Early voting opens Nov. 30 for Tarrant Appraisal District runoff election",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd182VTRVY29icUJyODV3QWpXYU0tQXRucG16WkExb2tkRWhWaHhZX2FuWVJiZGt5b2x0R2p6dkpaOXN1Q3BzS0F0bk4zVmZXbllnMHR4SF9ZcEZULUpmamxBZEFOMXNyWWRTNFFIZGdVdU1Mb2JkUHluNHZYSzRtSXJCby1LY2xfVUNndWhNVGRVSElFZWNrUTNJZndDbTFjOGdKTFJLcHFkeGVtb01qY25n?oc=5",
+     "source": "Fort Worth Report",
+     "published": "2026-11-27T18:00:00+00:00",
+     "summary": "Early voting opens Nov. 30 for Tarrant Appraisal District runoff election&nbsp;&nbsp;Fort Worth Report",
+     "image": ""
+    },
+    {
+     "title": "Berkeley\u2019s School Reparations Coalition Sets Its Sights on 2028 Election",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakNKbWZ4THkwYldhUlhySl9zNXRUUjB0S183b1cxTF9vNjRoMGUzcWxOY3JjU2c1UVdBcVBRamo0VVpNYkpQS0ZmSjNYOGV4R1JJbVYzWVVBT3BHRld4OXkwczFmT2R6dVJDckpoVkNEeHNJUTJsTFA0cm0yUUYtNk02MWR0OElCeXZyYkFkYXRMc2RoSnNvSWxvMWszU1VRcG0xSVhiN2ttZw?oc=5",
+     "source": "KQED",
+     "published": "2026-11-27T18:00:00+00:00",
+     "summary": "Berkeley\u2019s School Reparations Coalition Sets Its Sights on 2028 Election&nbsp;&nbsp;KQED",
+     "image": ""
+    },
+    {
+     "title": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTJUcHd2UlE2MzlVM0tiYkZZVFRDSXBEeEx2QkhsV1dRQWd2SjFTRWFqTUZBX2lUUWV4UGQwbE9rLWZLNWllVlo5VGNQVGtkWTRwUFI1YzVZMG9sUmhoNDFQalNwRnNtLWFuWU9pWEVKd3RxYVY2LUQtVVc4MkphNEFUZmxTWFZxQ1hvbU8yVEpmM2NHcVVQWkJ1cHVqeU1oSHNfNEdEUWt0OUJ5MGRiNUF0ODc4X0ZtQWJoYmdILTF4cUVKbG1xbWZ5bVpUTWprQjVtRVJZbk9WWWtpZVNCYnRzUlhmMmhBdFRuZ0ZpZXlCeGZpMGU2eHJqdjFLMG0wZ1Y2UzdRcw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-27T17:58:04+00:00",
+     "summary": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
     {
      "title": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2pPOGI3eGpsamlSRzVfcUtiZWh2LUJqSWp1WVdyNmVfRzYwMWhKcXFaeUlQSEppUGNmOEMyOWJJRHQ3ZDY5Q0x4WnBnUHY2UWVCN0JwNHA5TVZPLXhSckhVQVh6cXhLcXJiSlZnQVc0VXRsWUVhTEw2dW5qdmd4Q3kyUHY1dlRCQjFZNHpySEtJZXJKRFZibEhxbnF5RmZJbTBCeW1KbXZqblhfTmQzN01fZ0NmdVZHMC1OWg?oc=5",
      "source": "The Washington Post",
      "published": "2026-11-27T17:46:15+00:00",
      "summary": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "Global Measles Vaccine Coverage Remains Fragile, Even as Global Deaths Hit Historic Low",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDUxX0V1eDIwQlFzWmtJbGZkTUNxTDdGTktKTWpaUzQxNTNrSENjV18wTHlaMHpUZUh2eE1CQ0RsZXQySHBrZzZQRDJEd2JNczk0Mldfc0hQWkVCNFF6NWotVndkUHNCY0ExOEY2MzNOVVhOWjRpX3FiUUhlaE9VNHJxWUx5cTZvY2RzVGllYVlVbXZwck40anhMd1F2QlFwRWpyNUJSTGU5R3M?oc=5",
+     "source": "Health Policy Watch",
+     "published": "2026-11-27T17:45:40+00:00",
+     "summary": "Global Measles Vaccine Coverage Remains Fragile, Even as Global Deaths Hit Historic Low&nbsp;&nbsp;Health Policy Watch",
      "image": ""
     },
     {
@@ -242,6 +290,14 @@
      "image": ""
     },
     {
+     "title": "Video. Spain election: Will Vox be the kingmaker?",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONjdUY21mVTFINmJ0MTZFVnJXNmVhQkpiQ2xWaGQyX3VJZlhVZjhtaDBJZ3Jqa3lBdWtCdHNBRkl2cmM4TG54ODNwSHpGYzNvMk80S2J0WVBYNkMwcnVINXU5OHNaa01MRGpfbFRRRTJDdE8zRFZVMHZOQUFicHZ1T19qV3AyRlJqNUQtdDJtS0NYNlB4cVd3Mk5yT3gwaGh0Wk1USENRendjbjJqcHpPOVBIc1NjWEhiZU1aZkhiaktSTW9DdFJxQVB5WnA?oc=5",
+     "source": "Euronews.com",
+     "published": "2026-11-27T17:40:17+00:00",
+     "summary": "Video. Spain election: Will Vox be the kingmaker?&nbsp;&nbsp;Euronews.com",
+     "image": ""
+    },
+    {
      "title": "One Health: Bridging Policy Silos and Treaty Deadlock Vital to Halt Zoonotic Threats from Industrial Farming",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CY0dJNWx2eW1QdlpJamZSS3RVeUhFY2dESGhncHFscFNDcUdfUTRMTUppNF9xcU9nV0xOX090ZmwyMGF2WS1adHBBZElKQWpLOFRVTHhKakNKdDFraUdQMV9YOUZ5WkdyeUI0cUViQQ?oc=5",
      "source": "Health Policy Watch",
@@ -250,11 +306,11 @@
      "image": ""
     },
     {
-     "title": "The midterm election is barely behind us, but in some ways the 2028 presidential race has already begun. Debates are being scheduled, likely candidates are recruiting top aides and everyone in politics is waiting for some of the biggest names to reveal wheth",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUc4SE9EcmdPQjNrTG45dXZOV19nTmlPQlZHQnNXRW5jMFNrZXFEUVI2emhrWnphQlBJT3JORXFKZlVHNGpJTjNCbUlvaWFzUFM2UkpVTTlFT0ljSEY3bURvU2VvSWpNc0M5VkZRX2JNdlZkMXRSejZnS1FkVHVpRDdfWUhzWHczNEZhR245eW1GbmZ1ZWdpNG1ka0R0Q3lNampsNU13QnJ5d1UtcldrZE9EdlMwTk8ycDNZLWVNT2kxZmNYMmJJM3NpNkZSeUpoeW40?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-27T17:40:03+00:00",
-     "summary": "The midterm election is barely behind us, but in some ways the 2028 presidential race has already begun. Debates are being scheduled, likely candidates are recruiting top aides and",
+     "title": "Wisconsin Election Commission will certify Nov. 3 election results on Monday",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ0Q0TjlmUkRzNmdaS2JqRXhiWHlQdXZUZURtZjdZWHBiNUZFR2E4cFE1TEZ5OGUwbjZTMW9NUVJEWDRPN0gzLXczVm04MzM2dHBUN1ZoeVY0eWZBcmNPaENSbVZUelc3QzFMTE1QN0xlLVo4Nnp3Ui1DOE9tTk1fcmxUbG9jUnowOG1oeWplNWhJam80WW0tSWNHOEQ0QzBFc3RpYTJ4clhoaFlqMjlOTTRtUGFtWEM4V2llci1YWVc1SmRrdHFwX1k1MjRDUVhWYWhRRWFIX2tKdk1KUnAtTnBqVmtqTHRZbXVnVWxpNA?oc=5",
+     "source": "Channel 3000",
+     "published": "2026-11-27T17:39:00+00:00",
+     "summary": "Wisconsin Election Commission will certify Nov. 3 election results on Monday&nbsp;&nbsp;Channel 3000",
      "image": ""
     },
     {
@@ -264,67 +320,11 @@
      "published": "2026-11-27T17:32:49+00:00",
      "summary": "Election 2027: A look at some key races, dates and deadlines&nbsp;&nbsp;Scranton Times-Tribune",
      "image": ""
-    },
-    {
-     "title": "French far-left candidate M\u00e9lenchon demands \u2018thorough overhaul\u2019 of Germany ties",
-     "url": "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties",
-     "source": "\u00a9 Kenzo Tribouillard, AFP",
-     "published": "2026-11-27T17:31:15+00:00",
-     "summary": "Jean-Luc M\u00e9lenchon, leader of the hard-left France Unbowed (LFI) party, on Friday declared he was \"hostile\" to German economic liberalism and its dominance of the European Union. T",
-     "image": "https://s.france24.com/media/display/6260b69e-dac9-11f1-8de7-a575454bc579/w:1024/p:16x9/000-D6RA7GJ.jpg"
-    },
-    {
-     "title": "Venezuela Moves to Repeal Law That Allowed Decades-Long Prison Terms and 60-Year Political Bans",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXZ3SU81c0xjcG1aRE1ZMGFGaTE1RGd0R2U3VFB1RzZ1a3R5elM2M2FfclN2WDloYjBIekdrOVRpaVJHWm9VQnNSa0hCMk5BbDJrUlU3ZzJFQTNlNWxSNjJqMjVLSkRwZXlwcXMtZXBqWGNabExpaEJLbUpId1BVVHpQM0lxQ3FxeFUta1hRc2Y0WTJ5ZkFSaXZLZ3J4bWc0c1FxWEhKdw?oc=5",
-     "source": "Latin Times",
-     "published": "2026-11-27T17:30:21+00:00",
-     "summary": "Venezuela Moves to Repeal Law That Allowed Decades-Long Prison Terms and 60-Year Political Bans&nbsp;&nbsp;Latin Times",
-     "image": ""
-    },
-    {
-     "title": "No sanctions and no recrimination: Cricket Australia ball tampering forum to include 2017-18 Ashes series",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZEFFOVBvWF9FQ0szY2g1M3UwaTNva0FfSFdNRUZyQTc5VUVXMXFCX09yRkdkdHFLcG12dVN0S0ptUlBpV1EtUXpNdUNER0FvLWlFTFQtS0dhODJyQmFvYi1MVlFjZnlINm03WnVsdDMxMFBuNFJfVjF5UDA1RGJGdGFkMnZMVVdyUEV5bDJkLXU3NUh1Sk9SZE5xVGNYTVFBU2trdS1odG5DTmJNVzVOM3VFTHA2TGZiN2JkR1ZDZw?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-27T17:17:00+00:00",
-     "summary": "No sanctions and no recrimination: Cricket Australia ball tampering forum to include 2017-18 Ashes series&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Will the Trade Policy Pendulum Swing?",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rUER4dENpUld5dXBGbGJWZWI1LWNhVHY3ME9kVFYxaHFJMnJUdmVlVi0tejhBd2dWaGU2MWN5NGZBc0lwcE91YXZyLUY5WHk4ckgycy1IbnZTVmJSTDZRdm5xRDA1WFpGeURUc1hGNWZxeWEzSkN5Vw?oc=5",
-     "source": "Red River Farm Network",
-     "published": "2026-11-27T17:16:38+00:00",
-     "summary": "Will the Trade Policy Pendulum Swing?&nbsp;&nbsp;Red River Farm Network",
-     "image": ""
-    },
-    {
-     "title": "Spain\u2019s Pedro Sanchez bets on left-wing voting surge to defy election polls",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNem1pMTg5cnBXUWhMQU1pV1pmbjBmR29lcnpsS2hQM2pwTlpJUGRxbktCOW5EMGZQb3hlM3JUWDg4Xzh3bU1VYnItYklVNlNRa1lpdERuNHRDQ1l4T3NGQWF4MzhWdEh4TWFNVnBZZ2p0TzJQTWdMWlZrYms3UGhXdU9tSHc2a3FMa3BMaUhlNFZfSUZqeXA5VFFwS280ckpsR2NsN29UMkxFa29XN01mbGd2VkUwczTSAbwBQVVfeXFMTlJackVKZUtBOGZaX3VvbGI5ZGEwZ3VzUDlBaTY5NnEyZEJDUXdIdjI0cGU5MG53cHppUnFCR2pOMkYxNEI5UjhjSVhQdXJYX3RqbnhFTUcyOURER0d6MlU3TGNRMWQwUlhPRWpuZGx5MjIyTEl5aGRnOUZMN2ZBeU9kLXBZYmwybDZNME9zY3ZOVk5raWJHOTV5UUdhMV8yY0h6WWlDV3hVek56aGFIamVMOU1EV1pCcVpUYjA?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T17:16:10+00:00",
-     "summary": "Spain\u2019s Pedro Sanchez bets on left-wing voting surge to defy election polls&nbsp;&nbsp;Al Jazeera",
-     "image": ""
-    },
-    {
-     "title": "Big EU defence projects under threat from proposed budget cuts: Commissioner Andrius Kubilius",
-     "url": "https://www.france24.com/en/tv-shows/talking-europe/20261127-big-eu-defence-projects-under-threat-from-proposed-budget-cuts-commissioner-andrius-kubilius",
-     "source": "France 24",
-     "published": "2026-11-27T17:03:56+00:00",
-     "summary": "We speak to the EU's Commissioner for Defence and Space, Andrius Kubilius. The former prime minister of Lithuania \u2013 who grew up during the Soviet era \u2013 tells us how he sees the con",
-     "image": "https://s.france24.com/media/display/d8b20618-ea78-11f1-9216-f9cf020caef6/w:1024/p:16x9/PHOTO-ANDRIUS-KUBILIUS.jpg"
-    },
-    {
-     "title": "Europe Braces for Election Season as Spain Votes",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdzhHbXl2MU9wWHo3eW1HTzNLN0V6SVJkb1VTM0VJXzNzMU9mdXZaRkJXRTZqZXlKOEhBM0NROGxZaXVuaWgwRU1TMFNVaGRIRU4xTUN6dEptUHpibXYtck1oelNqek95RVB4a2xxV0o3aFdnSWpkQTMtN3hWQjRRNkpFSW1QdHF2aFltbjl3X3NKMjhKNU9WM2RaaVE3UlctdGRyNg?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-27T17:01:31+00:00",
-     "summary": "Europe Braces for Election Season as Spain Votes&nbsp;&nbsp;Bloomberg.com",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T17:51:34.364083+00:00",
+   "fetched_at": "2026-11-27T18:21:38.417234+00:00",
    "stale": false,
    "items": [
     {
@@ -334,22 +334,6 @@
      "published": "2026-11-27T16:43:55+00:00",
      "summary": "Stocks jumped on Wall Street on Friday, putting markets on track for strong weekly gains despite several days of erratic swings. Jameel Ahmad, Chief Analyst at GTC, tells us more.",
      "image": "https://s.france24.com/media/display/3ed5d554-ea7f-11f1-aaaf-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-144231-144559-CS-01.jpg"
-    },
-    {
-     "title": "Trump embraced Xi, then slapped new tariffs on China: What\u2019s his game plan?",
-     "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T12:48:44+00:00",
-     "summary": "US president&#039;s new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine: Residents brace for another difficult winter",
-     "url": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
-     "source": "France 24",
-     "published": "2026-11-27T11:54:15+00:00",
-     "summary": "As Russia continues to target Ukraine's energy infrastructure, residents are preparing for another difficult winter of strikes and power cuts. With supply chains under pressure, fo",
-     "image": "https://s.france24.com/media/display/d8573b56-ea51-11f1-a70e-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-110352-110520-CS.jpg"
     },
     {
      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
