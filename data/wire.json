@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-27T14:21:02.081059+00:00",
+ "generated_at": "2026-11-27T14:51:09.405084+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T14:21:02.081015+00:00",
+   "fetched_at": "2026-11-27T14:51:09.405055+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+     "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T14:49:59+00:00",
+     "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "With new law, Iraq sees rise in child marriage, custody battles",
+     "url": "https://www.france24.com/en/tv-shows/focus/20261127-with-new-law-iraq-sees-rise-in-child-marriage-custody-battles",
+     "source": "France 24",
+     "published": "2026-11-27T14:48:28+00:00",
+     "summary": "In January 2025, Iraq's parliament passed an amendment allowing families to place their household under religious law, governing all issues around marriage, divorce and inheritance",
+     "image": "https://s.france24.com/media/display/377a84f8-ea66-11f1-af1d-77d069279b82/w:1024/p:16x9/capture-077060cd.jpg"
+    },
+    {
+     "title": "Japan's radical past: Retracing the far-left groups of the 1970s",
+     "url": "https://www.france24.com/en/tv-shows/revisited/20261127-japan-radical-past-retracing-far-left-groups-1970s",
+     "source": "France 24",
+     "published": "2026-11-27T14:33:04+00:00",
+     "summary": "Our correspondents delve into the history of Japan's radical left in the 1970s. From the United Red Army to the Japanese Red Army, several movements turned to armed struggle and vi",
+     "image": "https://s.france24.com/media/display/da3352f6-e9ad-11f1-8d6a-f9cf020caef6/w:1024/p:16x9/billet-retour-EN-ArmeeRouge.jpg"
+    },
+    {
+     "title": "DWP \u2018cyber incident\u2019 knocks almost all pensions and benefits systems offline",
+     "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+     "source": "The Guardian",
+     "published": "2026-11-27T14:28:22+00:00",
+     "summary": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outageTell us: have you been affected by the DWP \u2018cyber incident\u2019Almost all pe",
+     "image": "https://i.guim.co.uk/img/media/0d82e1461d1d579ccc389c5c6840749137a2819f/342_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b99780f3f8c851e11de0b6d5d913b35c"
+    },
+    {
+     "title": "Why is Israel celebrating Costa Rica\u2019s ban on Francesca Albanese?",
+     "url": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T14:17:25+00:00",
+     "summary": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel&#039;s genocidal war on Gaza.",
+     "image": ""
+    },
     {
      "title": "Spanish prime minister Pedro S\u00e1nchez confident of election victory despite polls \u2013 Europe live",
      "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
@@ -14,11 +54,11 @@
      "image": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=e0451af87ed7ddbb9844096f8792224d"
     },
     {
-     "title": "Department for Work and Pensions takes services offline after \u2018cyber incident\u2019 \u2013 UK politics live",
+     "title": "UK pensions department hit by \u2018serious cyber incident\u2019, minister says \u2013 UK politics live",
      "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
      "source": "The Guardian",
      "published": "2026-11-27T14:01:55+00:00",
-     "summary": "The department is working with cyber security experts to restore services and limit disruptionTell us: have you been affected by the DWP \u2018cyber incident\u2019According to Downdetector, ",
+     "summary": "Pat McFadden says the government doesn\u2019t believe any personal data has been compromisedTell us: have you been affected by the DWP \u2018cyber incident\u2019According to Downdetector, which t",
      "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
     },
     {
@@ -70,59 +110,35 @@
      "image": ""
     },
     {
-     "title": "Britain\u2019s taste for cow\u2019s milk fades as sales hit record low",
+     "title": "UK\u2019s taste for cow\u2019s milk sours as sales hit record low",
      "url": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
      "source": "The Guardian",
      "published": "2026-11-27T13:32:07+00:00",
      "summary": "Environmental and animal welfare concerns, and taste preferences, are behind rising popularity of vegan alternativesHas milk gotta lotta bottle? It may not have as much as it used ",
      "image": "https://i.guim.co.uk/img/media/2ec208e4382ab770c2192d22683be7bc473ef71a/0_215_3697_2957/master/3697.jpg?width=140&quality=85&auto=format&fit=max&s=d862da9a2a27d2992d6e5336ffbe806e"
-    },
-    {
-     "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
-     "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T13:28:55+00:00",
-     "summary": "Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.",
-     "image": ""
-    },
-    {
-     "title": "Sentence served, still detained: Palestinian families waiting for reunions",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T13:14:52+00:00",
-     "summary": "Palestinian families say their loved ones remain in Israeli prisons despite having completed their sentences.",
-     "image": ""
-    },
-    {
-     "title": "DWP \u2018cyber incident\u2019 knocks almost all pensions and benefits systems offline",
-     "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-     "source": "The Guardian",
-     "published": "2026-11-27T13:13:00+00:00",
-     "summary": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outageTell us: have you been affected by the DWP \u2018cyber incident\u2019Almost all pe",
-     "image": "https://i.guim.co.uk/img/media/0d82e1461d1d579ccc389c5c6840749137a2819f/342_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b99780f3f8c851e11de0b6d5d913b35c"
-    },
-    {
-     "title": "England\u2019s Overton takes 5-12 as Australia bowled out for record low in T20",
-     "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T13:06:54+00:00",
-     "summary": "Australia are bowled out for 108 as Jamie Overton claims career-best figures in England&#039;s seven-wicket win in Brisbane.",
-     "image": ""
-    },
-    {
-     "title": "Bigfoot enthusiasts hope government\u2019s US sightings files are \u2018just the beginning\u2019 of proving the creature real",
-     "url": "https://www.theguardian.com/us-news/2026/nov/27/bigfoot-enthusiasts-sightings",
-     "source": "The Guardian",
-     "published": "2026-11-27T13:00:12+00:00",
-     "summary": "The Forest Service\u2019s work will \u2018help normalize\u2019 talk happening \u2018for decades\u2019, says \u2018wood ape\u2019 conservancy directorWhen the Forest Service, one of the US government\u2019s less sexy depa",
-     "image": "https://i.guim.co.uk/img/media/79a60e0c527c8f0b9c535184583b20c5e2a1e653/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=70f6aaf88fcd46bd2643027a4ea375ff"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T14:21:02.081028+00:00",
+   "fetched_at": "2026-11-27T14:51:09.405069+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Russia\u2019s Unconventional War on Europe: Sabotage, Deterrence and Future Scenarios",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEVJUDdqR0otVXZJb2Fpc1hRNWdZOVBZNlVtaFFfemdVQlF2eTJ3UzFRSHhaWU4tUzh2X2xfeU83WFM4Y3JoNllhNEZrTDVUNzZkWkdZdUZTajBKX3ByQ2pGRDBqZUNBeTdCVTBlSkVFR1JPeGpHNTFLZkFodWJYWHZXck9vUm8tSG1kWjdtY1NsdWxleGk4cXRUTDhjUXJxeFliVzFSQ2ZVS2EzRDlSaWJ1RmJuZGx3TlE?oc=5",
+     "source": "Small Wars Journal",
+     "published": "2026-11-27T14:35:38+00:00",
+     "summary": "Russia\u2019s Unconventional War on Europe: Sabotage, Deterrence and Future Scenarios&nbsp;&nbsp;Small Wars Journal",
+     "image": ""
+    },
+    {
+     "title": "Why is Israel celebrating Costa Rica\u2019s ban on Francesca Albanese?",
+     "url": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T14:17:25+00:00",
+     "summary": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel&#039;s genocidal war on Gaza.",
+     "image": ""
+    },
     {
      "title": "Ukraine plans $4B war risk insurance fund",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRjJ1N0ExSTdEbERrQTNxdW1wRmVrSjJQUzh5Z1JFZEZOYnktVWFINnY4aXdtRkQtYzdOVmZiSFNIMk44QU1fQk5xNE1Pcy1LS2RpcnlvbmhKNUctSHJTNW5SS1NwQ254SnZHMWVHM3JLRDFIU2VweWtsRmNaVFdSMg?oc=5",
@@ -202,29 +218,45 @@
      "published": "2026-11-27T12:00:22+00:00",
      "summary": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.",
      "image": ""
-    },
-    {
-     "title": "Ukraine: Residents brace for another difficult winter",
-     "url": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
-     "source": "France 24",
-     "published": "2026-11-27T11:54:15+00:00",
-     "summary": "As Russia continues to target Ukraine's energy infrastructure, residents are preparing for another difficult winter of strikes and power cuts. With supply chains under pressure, fo",
-     "image": "https://s.france24.com/media/display/d8573b56-ea51-11f1-a70e-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-110352-110520-CS.jpg"
-    },
-    {
-     "title": "Russia\u2019s hybrid war on Europe evolving, but failing: IISS",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSi1EdWxpNDFBQ2NFLWNNZUJjSHloMDd4cXM0QVIxY2dKOVk1SlA4SThmTWVEVGc1SFB3WTQ0WWZBejU0dUZlRE5CblRjbC04UTBJLWlGSzFEX0gxMVVHQkc4X1dhUmJMRHdKdjdlNV8tUkU3WnhfeHlCQ2h0OXoxUzVIdHI2cC1KMEN4cGUzTG9vTHo4MGxhR1lPTnHSAaIBQVVfeXFMT3ZGMERBTzlsUVd0a240SlpPNVhJYjB0akdlMXI1U1RwR2sxSHdpWjhLWVhNcTcxQWg0MVFZRzY0ZTZpZ0FZRHZ4SzFMdHhKYjNxaTY2RWdpNzcxMVZwXzRfVlpNakw2RlV6cXpKOGMySjJxWTl6QUVpQXBJZWJrOWhGNnhROHUtVzJMb196d3N5dVJjTldtZ19CSnFFYkUxMHNn?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T11:51:40+00:00",
-     "summary": "Russia\u2019s hybrid war on Europe evolving, but failing: IISS&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T14:21:02.081031+00:00",
+   "fetched_at": "2026-11-27T14:51:09.405073+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "With new law, Iraq sees rise in child marriage, custody battles",
+     "url": "https://www.france24.com/en/tv-shows/focus/20261127-with-new-law-iraq-sees-rise-in-child-marriage-custody-battles",
+     "source": "France 24",
+     "published": "2026-11-27T14:48:28+00:00",
+     "summary": "In January 2025, Iraq's parliament passed an amendment allowing families to place their household under religious law, governing all issues around marriage, divorce and inheritance",
+     "image": "https://s.france24.com/media/display/377a84f8-ea66-11f1-af1d-77d069279b82/w:1024/p:16x9/capture-077060cd.jpg"
+    },
+    {
+     "title": "Election results: Voters largely favored incumbents in Orange County school board races",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0RETDRGUFhQT3ppekZhbF9BNldvYU0taXhkNW9KREdBcmRuTTN1Z0UxSURqcHBPX1lmbzRPbUhLUjZQbmtTQktQcnYzR3FWS1Q2WXJDUlhMUEltS0tvdnd0SXU5RXdzcVYzV2IwSWdZMXA4N19NRnExQnZEaUREYjRhVGVzTGhlWmswcTMxVWZ5VUtEWW1CdFp3TzBHSThZc2N4emdyTV93TzJmZE8tM1lFekxqVkJEaUU2LVRWRGUwSDg?oc=5",
+     "source": "Orange County Register",
+     "published": "2026-11-27T14:44:40+00:00",
+     "summary": "Election results: Voters largely favored incumbents in Orange County school board races&nbsp;&nbsp;Orange County Register",
+     "image": ""
+    },
+    {
+     "title": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2pPOGI3eGpsamlSRzVfcUtiZWh2LUJqSWp1WVdyNmVfRzYwMWhKcXFaeUlQSEppUGNmOEMyOWJJRHQ3ZDY5Q0x4WnBnUHY2UWVCN0JwNHA5TVZPLXhSckhVQVh6cXhLcXJiSlZnQVc0VXRsWUVhTEw2dW5qdmd4Q3kyUHY1dlRCQjFZNHpySEtJZXJKRFZibEhxbnF5RmZJbTBCeW1KbXZqblhfTmQzN01fZ0NmdVZHMC1OWg?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-27T14:37:19+00:00",
+     "summary": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "One Month After The Election, Israel Still Has No New Government",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM1RSc09DWkNyZWZmWDBmejdKRGFzVDM4T2xuOVNUR1lBeDYxekJSRE1ScG83eFpKb3ZzRTEwVjlnTjZiM2hqa2VZZVVKc0dzbVhqeUtua1B5al9JRHdHdzdHUjc3bGNlS05XSnFpNFdzZGFhRFBBcGNpNGhtYVhKNi1LN1BfdGw1d0VrTHMyOUwzOEVjQ2R1SWNBREp4OHZVa2ZteDBqaXVfQUZtQVYyblk5VWVRdw?oc=5",
+     "source": "i24NEWS",
+     "published": "2026-11-27T14:34:16+00:00",
+     "summary": "One Month After The Election, Israel Still Has No New Government&nbsp;&nbsp;i24NEWS",
+     "image": ""
+    },
     {
      "title": "Early voting for the December 12, 2026 Election begins Saturday, November 28! \ud83d\uddf3\ufe0f\ud83c\uddfa\ud83c\uddf8 With THREE early voting locations across Iberville Parish, including our East and North Iberville satellite locations established under the Daigle Administration, we're maki",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVDRWSTUxMXJtODBqN1kxTENJS0lOMDB2UlZub2VzbEZkWEtTaGlTZmE4bFZNbk9rSkZITnpBNklPMWgxSU5XcGIxU1NtNTFmLUFDWlZtS3lkQTBld0Qtb08tbjRYdUFnSld0RWpxRjhMTTFLdnBUbzRLNU5KekllQmloNGh3c1VVMi1IRUFXMWRyM1hBblIyZjNEdXF4MlZBYlhIVmRGajhDbzhCNlZ0RTZiMXJ0czFraXFiakhwQXU3RFFyS3ktSktJc05MN1JYMU5OSTdvclZJZw?oc=5",
@@ -234,11 +266,11 @@
      "image": ""
     },
     {
-     "title": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2pPOGI3eGpsamlSRzVfcUtiZWh2LUJqSWp1WVdyNmVfRzYwMWhKcXFaeUlQSEppUGNmOEMyOWJJRHQ3ZDY5Q0x4WnBnUHY2UWVCN0JwNHA5TVZPLXhSckhVQVh6cXhLcXJiSlZnQVc0VXRsWUVhTEw2dW5qdmd4Q3kyUHY1dlRCQjFZNHpySEtJZXJKRFZibEhxbnF5RmZJbTBCeW1KbXZqblhfTmQzN01fZ0NmdVZHMC1OWg?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-27T14:03:44+00:00",
-     "summary": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits&nbsp;&nbsp;The Washington Post",
+     "title": "Officials prepare ahead of Pass Christian School Board runoff election",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVA3ZUJJeW5CSFNQc3RwZUtjb19iTHdiSWRmVnJRU1FYRks0VnlXN1hTWHdPRkcyTXpLeXpRNkRVVDd3clpWLVEyYUUyT2o5ejJaM0FuTVV4S1pxWFNGX2lQSGRsbm1VQ1BBcFpjQlVjX1B6MTh0X3pJNzR6T2tBNURXak53eDg1Q00wVjJyMlJoOHp2M3AwVW53?oc=5",
+     "source": "WXXV News 25",
+     "published": "2026-11-27T14:03:29+00:00",
+     "summary": "Officials prepare ahead of Pass Christian School Board runoff election&nbsp;&nbsp;WXXV News 25",
      "image": ""
     },
     {
@@ -248,6 +280,14 @@
      "published": "2026-11-27T14:02:29+00:00",
      "summary": "\u2018I can\u2019t conceive of us losing,\u2019 the leader saidFreelance journalist based in Madrid and host of the Sobremesa podcastVox has often been portrayed in international coverage as a pa",
      "image": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=e0451af87ed7ddbb9844096f8792224d"
+    },
+    {
+     "title": "UK pensions department hit by \u2018serious cyber incident\u2019, minister says \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-27T14:01:55+00:00",
+     "summary": "Pat McFadden says the government doesn\u2019t believe any personal data has been compromisedTell us: have you been affected by the DWP \u2018cyber incident\u2019According to Downdetector, which t",
+     "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
     },
     {
      "title": "Jess Wilson\u2019s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
@@ -280,51 +320,11 @@
      "published": "2026-11-27T14:00:01+00:00",
      "summary": "Europe Braces for Election Season as Spain Votes&nbsp;&nbsp;Bloomberg.com",
      "image": ""
-    },
-    {
-     "title": "A Guide to Major U.S. Sanctions Imposed During Trump\u2019s Second Term",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVN0LXVRSlBzd1RLaHY4MzFCYmc4ZXA3R09rdWhaVy1wVy1seS1UVDhxd1RLWnkxYmJPT2JPV2h4RkhJSVB6R19oQW9GeUtfRU5KR3Z4d2MwVE9JQjRlMWlKdTRfRnU5MzMzaTFPb1llbHBuZ3ppalJjOUtjRzA5Q085NUtfM0cyLThrTVBnSURDMmZ4NEc1Yg?oc=5",
-     "source": "Council on Foreign Relations",
-     "published": "2026-11-27T14:00:00+00:00",
-     "summary": "A Guide to Major U.S. Sanctions Imposed During Trump\u2019s Second Term&nbsp;&nbsp;Council on Foreign Relations",
-     "image": ""
-    },
-    {
-     "title": "Serbia's student movement proposes a chemistry professor for presidency ahead of Dec. 27 ballot",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOWhBUm13MnBNSG1fYUc2SXpKY2ZCazhTek9fTmVPUDZxVUtOcl9RM1NYWkg3aXNnWXBubE0wR3RVV2RTNGtMV0k2TzI2T0U0WGxwTHUtWkFVVDB3ZFVWdzFwVHJ2RGNqWDdfbmRRUW54MFBxRGEwVHk0UW9IU1ZidTBXSFVqVEJyOFo5YzhsZjVVcEs0Um81SExtdlRIWWpFT2tvX2FiRHA5NTBpN1hlaVZrN1otZ3ZIZVBSN2Q0V0U0MDh5NE5RbzlmTEJGZEJ4Z0x2bEZFVkZjSzdQMnQzX1ZPT0E?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-27T13:54:54+00:00",
-     "summary": "Serbia's student movement proposes a chemistry professor for presidency ahead of Dec. 27 ballot&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "Spain Election 2026: Where the Main Political Parties Stand on Key Issues",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2lHN29paEE2Y3pUaHhocVBCYVNiR21pNEFaQ3hlbUtEUDdOVHpKVktDV2xodXVybFhiZTBDazFtTF9kYkljUGJjck5NSGRaeFFDUUtsOHRrc3Q0MEZ1WGhIajRocmoxYjRzLVVKMnU4N1hrRlh0VC1aOVpWaG5hc0hTT2Z1eXVEWGQydDhNM3JQcE94NC1FNWhUR2RrNk1rbkJ3U2VkNUg5TnF1ekc1WQ?oc=5",
-     "source": "Modern Diplomacy",
-     "published": "2026-11-27T13:39:19+00:00",
-     "summary": "Spain Election 2026: Where the Main Political Parties Stand on Key Issues&nbsp;&nbsp;Modern Diplomacy",
-     "image": ""
-    },
-    {
-     "title": "The Gambia election: Can Barrow secure a third term?",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTJsNE9iQ1BQb0liaEZrVnFpZE5ndm1WOWxOVVVQa2VLZ3MyZ3F0dDRqOG1JbWN3S1JjcGN4QXdNU3RsUS1CVW5FMUIxTWlnQkVIV3dyb0dGQXNhNTd5cTg4MFZWNUcydmVRUC1iSG05ZGFMcTFsMmRaUFFzcnE1Q1I5bGFlUjFNV0M00gGLAUFVX3lxTE14S2FmWkRZeWhpTEFYNDloY2k4SjM5aDZVSThVVmpkaWNRcjRvUVhybnMtM0RvdkFqdVlsekVxV1lRNjRhdGZsaWJRQjhONVFpVlNHdmltMFJhU01aNHVrTGRlcDdfbnRSOWhMMVRRM3p2Q3lSSjU3MnV3aEV0cEFpVkN4akJic0Z6eHM?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-27T13:36:59+00:00",
-     "summary": "The Gambia election: Can Barrow secure a third term?&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
-     "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T13:28:55+00:00",
-     "summary": "Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T14:21:02.081033+00:00",
+   "fetched_at": "2026-11-27T14:51:09.405075+00:00",
    "stale": false,
    "items": [
     {
