@@ -1,17 +1,25 @@
 {
- "generated_at": "2026-11-27T02:18:46.321402+00:00",
+ "generated_at": "2026-11-27T02:48:50.160671+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T02:18:46.321372+00:00",
+   "fetched_at": "2026-11-27T02:48:50.160640+00:00",
    "stale": false,
    "items": [
     {
      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-27T01:45:30+00:00",
+     "published": "2026-11-27T02:22:37+00:00",
      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+    },
+    {
+     "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to \u2018pull back\u2019",
+     "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T02:14:25+00:00",
+     "summary": "Trump says he urged Putin to &#039;pull back&#039; military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+     "image": ""
     },
     {
      "title": "Trump says the US has \u2018close to 50%\u2019 of world\u2019s oil",
@@ -108,26 +116,34 @@
      "published": "2026-11-27T00:10:55+00:00",
      "summary": "Aborted descent on Wednesday morning is latest in a series of landing incidents at Sydney airportGet our breaking news email, free app or daily news podcastThe Australian Transport",
      "image": "https://i.guim.co.uk/img/media/3a39c5f52fb7b585065ce4fc05a813feb4323c1a/146_0_5182_4146/master/5182.jpg?width=140&quality=85&auto=format&fit=max&s=4bc076c51986d8538b6449b136128a82"
-    },
-    {
-     "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia\u2019s largest exporters",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
-     "source": "The Guardian",
-     "published": "2026-11-27T00:02:10+00:00",
-     "summary": "Labor passes final major piece of legislation for 2026, denying Greens\u2019 bid for 25% tax on exportsGet our daily political email, free app or daily news podcastA federal gas reserva",
-     "image": "https://i.guim.co.uk/img/media/5e85107add688802688910ec8b127178d48de914/435_0_4350_3480/master/4350.jpg?width=140&quality=85&auto=format&fit=max&s=6f4a4d12b8c33efe85ecbed1e2eea322"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T02:18:46.321385+00:00",
+   "fetched_at": "2026-11-27T02:48:50.160654+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Trump adds Ukraine to warning against expanding war, diverging from joint NATO statement",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNG56cXJkVFZtbkJReUd2V2xydnk5aWFRUjNFRS14Zk9MdDEwTXd5eXp1SHJzblBzenQ1c3JER3VjZEZBdUdhWUF2TllURkpsaHdLai04QktNWWVVdGF1RzJxMzJ2bWpnMmVwWFpKR0k5YWRpVGJnZlJPUnV0WmlINVZheExQa0s4X3VkbExBNkpOLWZVM0xDN0lzRTBEUllEazQ2RlhFeHNxTFNubUJoRmdmVTVxZ2c?oc=5",
+     "source": "The Kyiv Independent",
+     "published": "2026-11-27T02:40:44+00:00",
+     "summary": "Trump adds Ukraine to warning against expanding war, diverging from joint NATO statement&nbsp;&nbsp;The Kyiv Independent",
+     "image": ""
+    },
+    {
+     "title": "Donald Trump says Vladimir Putin, Volodymyr Zelensky hate each other, unsure Vladimir Putin will attend G20 Miami",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmM2MFhuZHVJa1h4dUFDTElNQjBFRWcwb3h2Z2lkSnZwbUgxaWYyOHpVUEhmYThmZkx4XzNYUTN5WFJJTDJGYXhpcWpLU3BHX1VaX04yalllT0RLZExqWS13a3FFMV9UeTdQbDNlYWJzWlRMNXBPaFYyNEp3Uk9aazZMQU9ZVUNtWUE?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-27T02:37:38+00:00",
+     "summary": "Donald Trump says Vladimir Putin, Volodymyr Zelensky hate each other, unsure Vladimir Putin will attend G20 Miami&nbsp;&nbsp;The Jerusalem Post",
+     "image": ""
+    },
     {
      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to \u2018pull back\u2019",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj?oc=5",
      "source": "Al Jazeera",
-     "published": "2026-11-27T02:14:54+00:00",
+     "published": "2026-11-27T02:20:43+00:00",
      "summary": "Zelenskyy warns of major Russian attack as Trump urges Putin to \u2018pull back\u2019&nbsp;&nbsp;Al Jazeera",
      "image": ""
     },
@@ -196,35 +212,67 @@
      "image": "https://i.guim.co.uk/img/media/1a3f32c3b0c72a8bf4455187aaa420ab87f2c293/1095_86_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=79fab39d02d228fc3263a4e77a4740fd"
     },
     {
-     "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T22:49:27+00:00",
-     "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
-    },
-    {
-     "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-26T22:32:57+00:00",
-     "summary": "Trump says he asked Putin to 'pull back' military aggression throughout Europe&nbsp;&nbsp;Reuters",
+     "title": "Diplomacy, grievances dominate Trump's 2026 Thanksgiving in Palm Beach",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDYtWnlXVmQ5SmJqQlZoLUdpTXBlb0Z5anU5LXYwWERKYWhHYzRXUTVab3JHUXkwZnFuRy1MLTlERmxQaDJkeHdHZXFkSi1KcGNhbHUzekEwQ3Z4eWNIYXVTU092OGU4YjRxY0FZVXFsbjZSTW1IdW4wNFlNeXVpNHhRblI0b2otbFUzc0FXT09rUElBUm0wc0lnYWRGbkNXRU5vdVFtYVduYk51TUJ3UHd2bFU1VnhfVkJBTlJGdUR2azFBVlQ5RUhLdGlfUFh1WVVEcFJrY3NLUVJOMnc?oc=5",
+     "source": "The Palm Beach Post",
+     "published": "2026-11-26T22:50:54+00:00",
+     "summary": "Diplomacy, grievances dominate Trump's 2026 Thanksgiving in Palm Beach&nbsp;&nbsp;The Palm Beach Post",
      "image": ""
-    },
-    {
-     "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-     "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T22:06:20+00:00",
-     "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T02:18:46.321389+00:00",
+   "fetched_at": "2026-11-27T02:48:50.160658+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "The data centre black hole that could swallow Labor\u2019s gas policy",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRDJPdnJobmQ1RHY0QUdFSVNkbjFUVXlnTkV1bWxWM0Z3a2d4RkZmYnlEVDlBSFMyU080WEozQm1JcDI0Q1h1N0thY0w0M1d2c1JTTUcwa0FGNVlaZDFUUDEwOS04ZVlHU09BNjNlOTZXSDVaR2NmWmtCbHZhOGlUWnZWdVVuWEJhNXc?oc=5",
+     "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+     "published": "2026-11-27T02:42:30+00:00",
+     "summary": "The data centre black hole that could swallow Labor\u2019s gas policy&nbsp;&nbsp;Institute for Energy Economics and Financial Analysis (IEEFA)",
+     "image": ""
+    },
+    {
+     "title": "New Zealand\u2019s Official Election Results Reveal Hung Parliament",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3lxZGdfOVhqQ05VUHJFOHgtSVlUU0xGTEZVVHY5SFhNenJUajJLVnExZ1hBbmp1RDE4Tm9tZnZYRWVyQTRhUUZRUjZSc1ZwZG55RW1NZHY5RDZGYUU5SGpaalhlU3VuZDVOelFqeWVrTi1YaVEwVlB1OU1qNXRhd0hScXRwZ0N6SDdyQkk5ckhOZFlNMkkxeTYydWhLSXFsd3h0bE1uQWVFS3h0NEhfbkZObw?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-27T02:28:00+00:00",
+     "summary": "New Zealand\u2019s Official Election Results Reveal Hung Parliament&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "Final results revealed: Opportunity is the kingmaker",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGpkVGpLclplY1JEdTFxZTJfNDJDNDVzX1pmRDVhZEQ3clU3TUV3c0s4eFRldlFLYmhOWDFheUU0eDRPM0R6a0tScnNaZ3BONWRac1c4Rnh2NlRuOHByeVZPbkM0YnFGalJxUVhQNzBVbjdXZy03Y1ZEenNVOUFjZi12dDJIdmQtZGhOUV9kcTlVMHluMGVETEc3MEFJV0NGYXFxY25R?oc=5",
+     "source": "The Spinoff",
+     "published": "2026-11-27T02:24:02+00:00",
+     "summary": "Final results revealed: Opportunity is the kingmaker&nbsp;&nbsp;The Spinoff",
+     "image": ""
+    },
+    {
+     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T02:22:37+00:00",
+     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+    },
+    {
+     "title": "The final 2026 election results are in, but who actually won?",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XLUdJanc4TkVjbFZ5X3RKRjVSRmQ3QjFPaHN0c3VsbjNTblU2NlpLRGJMN0xOemxBQXprNEllVzNlalNXVnFmWkt3WkhySUxTZ3pZenlDcy00dkh3bEdmZThCUE5yUHJoZ2NieTVZWDJobFVSS3l4Y3BHelhBdw?oc=5",
+     "source": "The Spinoff",
+     "published": "2026-11-27T02:21:09+00:00",
+     "summary": "The final 2026 election results are in, but who actually won?&nbsp;&nbsp;The Spinoff",
+     "image": ""
+    },
+    {
+     "title": "Indonesia bourse sanctions five companies over shareholder data",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUliTUI3S09BY2dpd0tnNnR5MGtJNkxrM0Y5a205NGVIOHR0bnNHV0NtaVNBRG5BU2NqcmdEN0xybGtqRi14WC0zaWR4Qk44Ul91VEh4dW01M0VCanBLblJXdU5Na2pVaS1wZTNaTTNBenM2c215MmozMHg0SWtybEx0VV9aNFU1a25BVHllSE53TDRscEcwRWpQblNYWVdzYlFhYTJvM3prQXB0MHkyREJR?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-27T02:19:00+00:00",
+     "summary": "Indonesia bourse sanctions five companies over shareholder data&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
     {
      "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
@@ -250,6 +298,14 @@
      "image": ""
     },
     {
+     "title": "Breaking: Official results of New Zealand's national election announced",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTEyTzlnRXBUSFRJTXhaTVVkaEhFT0NsMlVYOWhWUFZ4WHZpemczblFySzBBZHZ4WHlZaVVrWlNBTTNLLU5ValZJQ0lSNUoxTnJoaldJU3k2UHBFU3pOYlM3aEZ5ZlU2aF9rdGtaTHo3M1pFZ0JHSlJuOUg1cjZaUmVsYm4zakllZG5KSVA2dFNfWER3NmxmQlVpR2h3anN0dmo4Y0VYSHIyNTdmdTc0?oc=5",
+     "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+     "published": "2026-11-27T02:04:10+00:00",
+     "summary": "Breaking: Official results of New Zealand's national election announced&nbsp;&nbsp;ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+     "image": ""
+    },
+    {
      "title": "Political newcomer holds power in New Zealand election",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM214Y3FTSHhGRDlzdVRwdS16M0RkMlprVlpVVXBORnlMUmFWU2Z0UGpvaDRNOE15aDc0VlphSzl4YWxhY28ya1RVVHQzd2hPek1HNEYxVGFiVE5vTFVya0VGT0taaWkzblB1ZFNMOUlFTEpHT3ZFd0xkR2F0SXZaVDM1MEVhNHdKN0JsS21ucXYzUEN6ajUtWVU3OA?oc=5",
      "source": "Yahoo",
@@ -258,73 +314,17 @@
      "image": ""
     },
     {
-     "title": "Bayern Munich could reconsider transfers policy amid injury crisis",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2hvRUdncG43NGRaMmhfQ3hXcEk0MUUwaUl0ME9nX1RkNFFOMFZVZFM2UWplbDVHLU1XaUpNTURVcEFOTTFuYUFYcFlvemNXSTZ6YXh5a0Q0T1JHaERfMWxaM1U0R2RsRDR3RS0tVXlHYkJzOGdOUllGbVp6c3gyRVF2dVA0Z3h3bmF4eTM5Q0Y3VW1XV2lyak5FTV9OVHVSZzBkVTNIVTQwUFFqQXFRU1FSWGtBZFVaTXpnTEhlMFdGOEpISU91ZU45ZkVzOUlralpqaFFiNA?oc=5",
-     "source": "Bavarian Football Works",
+     "title": "FC Bayern could reconsider transfers policy amid injury crisis",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUTJSRzlQeWlfTEhpeEJmU2NNVkxScGNyNWRRX2ZQOFhVTkJLZnBIMlpjejIydGdqbnlDMFl6M0pGSkU4bi1JQjBxQm5SbUY0d3dGTlZUZ3lUaFVoUThkNkNhMlU0UW44QThGaERBcHVYTi14eHVKWm5jZklLYXdsRWVEeFVpZXRUaTR3U0RwRTJwZEpHMk40?oc=5",
+     "source": "Yahoo Sports",
      "published": "2026-11-27T02:00:00+00:00",
-     "summary": "Bayern Munich could reconsider transfers policy amid injury crisis&nbsp;&nbsp;Bavarian Football Works",
-     "image": ""
-    },
-    {
-     "title": "New Zealand\u2019s ruling coalition falls just short of majority in final election count",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLUJJR2tmTGJxc05wVjE5MXN0ZUpZVHhod21ac21oRE1LbENWaGY1ODZCa0stM0lDMU9pRERZUFMzcnl6b1RwLWEyWEhsSFpFaGd1TDloS2VuWEZpa2VPbU9sMkRHbDNLSXhfYVFOVTg1OXNfM3hSQk9xWkJsVVI5clA3ZlNvNURvMENuaEpHaG90ZXZwbWlqalJVZDdRbXVzWVBtNXdiZGoyamkxRGRjMGtjbUFtZ0F5MHFkVU0tckpyOFQ0UWEyeVNhbw?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-27T01:59:00+00:00",
-     "summary": "New Zealand\u2019s ruling coalition falls just short of majority in final election count&nbsp;&nbsp;Reuters",
-     "image": ""
-    },
-    {
-     "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEk5YVZhQkVab283WHpWNWNfQ3JlcFFPM0pUeHJ0SjlkblhSbEFNNTYzdElNTVJwOXRncXk2cDEtWUlEYVBJc21hdWFOY19fZzlINE9iOG5PeG14QVR3VXdRdV9ybE5nbldiQjF6VUE4VXZfMTM2Q0J4WlBlY0RUWXpHb01LUWpiRHFOaElpdmRpQQ?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-27T01:55:00+00:00",
-     "summary": "New Zealand election: final results show ruling coalition needs minor party to govern&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "New Zealand election final results leave Luxon's coalition one seat short",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRk5TUmpQYzYxMDRSYTZ6SDVpRTRhUGJ5eHNpNnJ3cy1POVhNRVRjbWFPcHhTY0twcXNKdlNheUZuRUZBZWxJVjdsdUJTME1yeFJrcWNIMFFvWVc2Szkw?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-27T01:49:56+00:00",
-     "summary": "New Zealand election final results leave Luxon's coalition one seat short&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "New Zealand Election Ends in Deadlock, Turns Outsider Into Kingmaker",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVdfLVRUcEF0MmVUdXBONm9KaVExVFgxUHMwWXd3VW03djBsMkx2QzZOMlRvOWd0N2x6bmRwM0JhVWxNVXd1OWlDOWJwbDgxSVJva2gwRWJ6RHpHZHhzLWItX1dLNGQxazQ0Zk5NOGtYZ1FFWWFOTFY4aEdQZ0ZJUk5uay1QeVg3bnRpMjdsajR1ZXV2X0RpNnRxR0pvX3hETG5BQVNwQWNQNGlReU9jak8tVVg5UQ?oc=5",
-     "source": "WSJ",
-     "published": "2026-11-27T01:46:00+00:00",
-     "summary": "New Zealand Election Ends in Deadlock, Turns Outsider Into Kingmaker&nbsp;&nbsp;WSJ",
-     "image": ""
-    },
-    {
-     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T01:45:30+00:00",
-     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
-    },
-    {
-     "title": "New Zealand\u2019s final election results reveal hung parliament",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDhJWV93UUJlMjNkV3ZHd1hJVzc1RG52T2lEWWRPQm1OMW5Yb3BsSzQyQXVjUDI1Q2d2OE9iSlNxV3c5c1BwQ1luZWk3SFkzcHY3ZDYxZ1Y5UmRVd0xVN2JJZWFkb2QwOXN0Rm1POUxfY29ZY2VUbUtxR19JV284aEhsSFFNb29xNFF0ajZtX1Bjc0FHWXJIb2JKZG9GN2tQdUVF?oc=5",
-     "source": "FXStreet",
-     "published": "2026-11-27T01:39:23+00:00",
-     "summary": "New Zealand\u2019s final election results reveal hung parliament&nbsp;&nbsp;FXStreet",
-     "image": ""
-    },
-    {
-     "title": "Trump demands investigation into \u2018fake\u2019 pre-election GDP",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMXZvQjdQUEJRR2lWZ25MMDY1YVlYaDhpTkYxdFhjRlYwT3QzRzRBdXBOcUI2UXhzMHJJQ2kyTXBqMV9DUXp0TGpGcF9HcE5HY2x2YmxtWHF5cm80N01wd09MekhiNGRjb0hGaEIxV1dDaGphT3VESmlvY0RRLVFPbFlzY3FqVTQ0YXV4V2NYNTNZak1FY1dlNVpTV19sT3o0RFRn?oc=5",
-     "source": "The Times",
-     "published": "2026-11-27T01:30:00+00:00",
-     "summary": "Trump demands investigation into \u2018fake\u2019 pre-election GDP&nbsp;&nbsp;The Times",
+     "summary": "FC Bayern could reconsider transfers policy amid injury crisis&nbsp;&nbsp;Yahoo Sports",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T02:18:46.321392+00:00",
+   "fetched_at": "2026-11-27T02:48:50.160661+00:00",
    "stale": false,
    "items": [
     {
