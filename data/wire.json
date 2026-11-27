@@ -1,10 +1,66 @@
 {
- "generated_at": "2026-11-27T11:50:30.975458+00:00",
+ "generated_at": "2026-11-27T12:20:34.854494+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T11:50:30.975426+00:00",
+   "fetched_at": "2026-11-27T12:20:34.854462+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Department for Work and Pensions takes services offline after \u2018cyber incident\u2019 \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-27T12:02:55+00:00",
+     "summary": "The department is working with cyber security experts to restore services and limit disruptionAccording to Downdetector, which tracks online service outages, reports of problems wi",
+     "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
+    },
+    {
+     "title": "US: Thanksgiving storms cause flooding and travel chaos",
+     "url": "https://www.france24.com/en/video/20261127-us-thanksgiving-storms-cause-flooding-and-travel-chaos",
+     "source": "France 24",
+     "published": "2026-11-27T12:02:48+00:00",
+     "summary": "Severe storms battered the US East Coast on Thursday, bringing torrential rain, strong winds and coastal flooding. Nearly one million homes were left without power, while hundreds ",
+     "image": "https://s.france24.com/media/display/97d15a54-ea55-11f1-9cd7-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-111335-111501-CS.jpg"
+    },
+    {
+     "title": "Black Friday: The evolution of a shopping phenomenon",
+     "url": "https://www.france24.com/en/video/20261127-black-friday-the-evolution-of-a-shopping-phenomenon",
+     "source": "France 24",
+     "published": "2026-11-27T12:01:43+00:00",
+     "summary": "Once defined by crowds queuing outside shops for one-off bargains, Black Friday has evolved into weeks of online promotions. As discounts spread throughout the year, consumers are ",
+     "image": "https://s.france24.com/media/display/796ad248-ea55-11f1-a00c-77d069279b82/w:1024/p:16x9/EN-20261127-111142-111319-CS.jpg"
+    },
+    {
+     "title": "Ukraine: Residents brace for another difficult winter",
+     "url": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
+     "source": "France 24",
+     "published": "2026-11-27T11:54:15+00:00",
+     "summary": "As Russia continues to target Ukraine's energy infrastructure, residents are preparing for another difficult winter of strikes and power cuts. With supply chains under pressure, fo",
+     "image": "https://s.france24.com/media/display/d8573b56-ea51-11f1-a70e-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-110352-110520-CS.jpg"
+    },
+    {
+     "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+     "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T11:51:26+00:00",
+     "summary": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+     "image": ""
+    },
+    {
+     "title": "Spain election: Housing crisis and immigration dominate final campaign debate",
+     "url": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
+     "source": "France 24",
+     "published": "2026-11-27T11:51:07+00:00",
+     "summary": "Spain goes to the polls on Sunday in an early parliamentary election that may usher in a right-wing coalition to replace the Socialist-led minority government of Prime Minister Ped",
+     "image": "https://s.france24.com/media/display/c71918ae-ea52-11f1-947a-f9cf020caef6/w:1024/p:16x9/EN-20261127-110703-110925-CS.jpg"
+    },
+    {
+     "title": "French cinema star G\u00e9rard Depardieu ordered to stand trial for rape and sexual assault",
+     "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+     "source": "NPR",
+     "published": "2026-11-27T11:49:50+00:00",
+     "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+     "image": ""
+    },
     {
      "title": "Kuwait: Two Italians killed in drone attack",
      "url": "https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
@@ -12,6 +68,14 @@
      "published": "2026-11-27T11:45:48+00:00",
      "summary": "A drone attack in Kuwait killed two Italian technicians working on an air defence system on Thursday, marking the first fatal strike in the Gulf state for months.",
      "image": "https://s.france24.com/media/display/4502e30e-ea52-11f1-ae75-77d069279b82/w:1024/p:16x9/EN-20261127-110542-110701-CS.jpg"
+    },
+    {
+     "title": "Russia\u2019s hybrid war on Europe evolving, but failing: IISS",
+     "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T11:44:46+00:00",
+     "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+     "image": ""
     },
     {
      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
@@ -30,6 +94,14 @@
      "image": "https://s.france24.com/media/display/4a1ccf86-ea51-11f1-b8a6-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-110106-110328-CS.jpg"
     },
     {
+     "title": "Spanish prime minister Pedro S\u00e1nchez confident of election victory despite polls \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-27T11:41:55+00:00",
+     "summary": "\u2018I can\u2019t conceive of us losing,\u2019 the leader saidIt\u2019s probably a good moment to say that we will be running a special Europe live blog from Madrid on Sunday night to bring you all t",
+     "image": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=e0451af87ed7ddbb9844096f8792224d"
+    },
+    {
      "title": "Israel's Eisenkot reaches deal with left-wing faction as coalition talks gain steam",
      "url": "https://www.france24.com/en/video/20261127-israel-s-eisenkot-reaches-deal-with-left-wing-faction-as-coalition-talks-gain-steam",
      "source": "France 24",
@@ -44,85 +116,45 @@
      "published": "2026-11-27T11:35:34+00:00",
      "summary": "Redevelopment reshapes the city, but some worry as residents are displaced and cultural heritage appears at risk.",
      "image": ""
-    },
-    {
-     "title": "What Spain\u2019s election means for Morocco",
-     "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T11:33:17+00:00",
-     "summary": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries.",
-     "image": ""
-    },
-    {
-     "title": "Department for Work and Pensions takes services offline after \u2018cyber incident\u2019 \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-27T11:25:20+00:00",
-     "summary": "The department is working with cyber security experts to restore services and limit disruptionAccording to Downdetector, which tracks online service outages, reports of problems wi",
-     "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
-    },
-    {
-     "title": "\u2018Crisis in empathy\u2019: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-27T11:18:47+00:00",
-     "summary": "Judge says officers should be banned from screens and phones while on shift after the 33-year-old\u2019s death at Silverwater\u2022 Warning: This article contains references to Indigenous Au",
-     "image": "https://i.guim.co.uk/img/media/3ed474d282a9fb1521fe2f84620f6cc0b572ec16/834_0_4172_3338/master/4172.jpg?width=140&quality=85&auto=format&fit=max&s=c67038bbe9b6e2902174359583958e97"
-    },
-    {
-     "title": "Israeli attacks on women and girls meant \u2018to destroy life\u2019 in Gaza: Amnesty",
-     "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T11:15:03+00:00",
-     "summary": "Israel seeking &#039;to prevent births&#039; and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
-     "image": ""
-    },
-    {
-     "title": "DWP \u2018cyber incident\u2019 knocks almost all pensions and benefits systems offline",
-     "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-     "source": "The Guardian",
-     "published": "2026-11-27T11:14:02+00:00",
-     "summary": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outageUK politics live \u2013 latest updatesAlmost all pensions and benefits system",
-     "image": "https://i.guim.co.uk/img/media/0d82e1461d1d579ccc389c5c6840749137a2819f/342_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b99780f3f8c851e11de0b6d5d913b35c"
-    },
-    {
-     "title": "Tyson Fury\u2019s wife backtracks on claim boxer suffers from schizophrenia",
-     "url": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T11:12:58+00:00",
-     "summary": "Paris Fury had claimed mental health diagnosis for Tyson following his 2015 victory over Ukraine&#039;s Wladimir Klitschko.",
-     "image": ""
-    },
-    {
-     "title": "Pakistan\u2019s viral cricket catch star hopes to launch career",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-pakistan-viral-cricket-catch?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T11:12:54+00:00",
-     "summary": "The motorbike passenger who went viral for his stunning cricket catch in Pakistan says he hopes to play for his country.",
-     "image": ""
-    },
-    {
-     "title": "US shoppers get ready for Black Friday and Cyber Monday",
-     "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T10:59:27+00:00",
-     "summary": "Cyber Monday and Black Friday compete for shoppers, but discounts on electronics may peak after the weekend frenzy.",
-     "image": ""
-    },
-    {
-     "title": "Why Benjamin Netanyahu\u2019s corruption trial could be unravelling",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T10:54:16+00:00",
-     "summary": "Could Netanyahu escape his most serious corruption charges? Al Jazeera&#039;s Lina-Serene explains.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T11:50:30.975441+00:00",
+   "fetched_at": "2026-11-27T12:20:34.854477+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine Struck Targets in 11 Russian Regions in Just One Week\u2014Here\u2019s What Was Hit",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHFBeHJKZExzUGlielZ5SVpYdWZVRXluZ2JTbVdxYy1paXB0VEt0dHR1WlMzRWVZRTc5alBBejFYQmItUk5xUjRSVDF0aFdXemwyZG5uYVFpQUdZQTNnTlUyOVhndE1ubGZuUmZreVBzRGV0alMzT3ppZm1zMlhUcUNwc20wTDRHWkQ2elc5Q1ZoTFdmVTh3NHQ0TElSNW9sTXhUZVlGbXdnaGlaNlVTbkhQM24tSkNQSl9FSE5La0cwOFlIdVE?oc=5",
+     "source": "UNITED24 Media",
+     "published": "2026-11-27T12:06:39+00:00",
+     "summary": "Ukraine Struck Targets in 11 Russian Regions in Just One Week\u2014Here\u2019s What Was Hit&nbsp;&nbsp;UNITED24 Media",
+     "image": ""
+    },
+    {
+     "title": "Ukraine: Residents brace for another difficult winter",
+     "url": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
+     "source": "France 24",
+     "published": "2026-11-27T11:54:15+00:00",
+     "summary": "As Russia continues to target Ukraine's energy infrastructure, residents are preparing for another difficult winter of strikes and power cuts. With supply chains under pressure, fo",
+     "image": "https://s.france24.com/media/display/d8573b56-ea51-11f1-a70e-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-110352-110520-CS.jpg"
+    },
+    {
+     "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+     "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T11:51:26+00:00",
+     "summary": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+     "image": ""
+    },
+    {
+     "title": "Russia\u2019s hybrid war on Europe evolving, but failing: IISS",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSi1EdWxpNDFBQ2NFLWNNZUJjSHloMDd4cXM0QVIxY2dKOVk1SlA4SThmTWVEVGc1SFB3WTQ0WWZBejU0dUZlRE5CblRjbC04UTBJLWlGSzFEX0gxMVVHQkc4X1dhUmJMRHdKdjdlNV8tUkU3WnhfeHlCQ2h0OXoxUzVIdHI2cC1KMEN4cGUzTG9vTHo4MGxhR1lPTnHSAaIBQVVfeXFMT3ZGMERBTzlsUVd0a240SlpPNVhJYjB0akdlMXI1U1RwR2sxSHdpWjhLWVhNcTcxQWg0MVFZRzY0ZTZpZ0FZRHZ4SzFMdHhKYjNxaTY2RWdpNzcxMVZwXzRfVlpNakw2RlV6cXpKOGMySjJxWTl6QUVpQXBJZWJrOWhGNnhROHUtVzJMb196d3N5dVJjTldtZ19CSnFFYkUxMHNn?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T11:48:45+00:00",
+     "summary": "Russia\u2019s hybrid war on Europe evolving, but failing: IISS&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
     {
      "title": "Kuwait: Two Italians killed in drone attack",
      "url": "https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
@@ -186,45 +218,93 @@
      "published": "2026-11-27T11:12:58+00:00",
      "summary": "Paris Fury had claimed mental health diagnosis for Tyson following his 2015 victory over Ukraine&#039;s Wladimir Klitschko.",
      "image": ""
-    },
-    {
-     "title": "Trump calling Putin \u2018friend\u2019 like declaring friendship with Hitler during WW2, Zelenskyy says \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-27T10:52:28+00:00",
-     "summary": "Ukraine\u2019s president labels US counterpart\u2019s comments \u2018strange\u2019 and urges Washington to increase pressure on Moscowin MadridLast night\u2019s debate between the leaders of Spain\u2019s four b",
-     "image": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=140&quality=85&auto=format&fit=max&s=a276fc4e051a91037a091bc654e57435"
-    },
-    {
-     "title": "Israeli justice system at tipping point as judges call for end to Netanyahu trial",
-     "url": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
-     "source": "The Guardian",
-     "published": "2026-11-27T10:48:29+00:00",
-     "summary": "Dropping of corruption charges against PM after highly unusual intervention could set damaging precedentThe Israeli judges presiding over Benjamin Netanyahu\u2019s corruption trial have",
-     "image": "https://i.guim.co.uk/img/media/4b6175712949d01a8b832dc4670e3721e65a6c17/221_138_2799_2239/master/2799.jpg?width=140&quality=85&auto=format&fit=max&s=419b706a76db966be7eccb86809c70d6"
-    },
-    {
-     "title": "Israel's Eisenkot and left-wing party agree coalition deal",
-     "url": "https://www.france24.com/en/video/20261127-israel-s-eisenkot-and-left-wing-party-agree-coalition-deal",
-     "source": "France 24",
-     "published": "2026-11-27T10:48:08+00:00",
-     "summary": "The centrist party of Gadi Eisenkot, who is trying to form the next Israeli government, and an allied left-wing party on Thursday announced they had agreed on a coalition deal.",
-     "image": "https://s.france24.com/media/display/20a3c2a6-ea4f-11f1-bc65-174dac1c1bf0/w:1024/p:16x9/EN-20261127-100726-100903-CS.jpg"
-    },
-    {
-     "title": "Russia Moved Fuel by Train to a Secret Forest Depot\u2014Ukraine Found and Destroyed the Supply Hub",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY1ZJSktfcUhmc2xGMFBzSkpnOWx0TFlLTndnaUhWVkRPNDgyT2dNa0xiUmk2N3hhSTM3eERUMHRaX29pR0tfbXBCMUdDMjdUdmE5SktaVHVCZnVQTUtLT1lVSThadzN6Q1Z5ZjU1ZEdKOXBmSXlEdnVsNjZDVHFLQjQ3TEk2S05HanVMWXhFaEdoaTBpemxYR05pR1d3LWhwZ0xobjlfQ1NhRzVSUnlZR2swb0VjRUxTQ2dBNlBvSU13LWx4Y0p2dnMwYkxpNTJ3cklLcVdGTHk?oc=5",
-     "source": "UNITED24 Media",
-     "published": "2026-11-27T10:47:05+00:00",
-     "summary": "Russia Moved Fuel by Train to a Secret Forest Depot\u2014Ukraine Found and Destroyed the Supply Hub&nbsp;&nbsp;UNITED24 Media",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T11:50:30.975445+00:00",
+   "fetched_at": "2026-11-27T12:20:34.854482+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2pPOGI3eGpsamlSRzVfcUtiZWh2LUJqSWp1WVdyNmVfRzYwMWhKcXFaeUlQSEppUGNmOEMyOWJJRHQ3ZDY5Q0x4WnBnUHY2UWVCN0JwNHA5TVZPLXhSckhVQVh6cXhLcXJiSlZnQVc0VXRsWUVhTEw2dW5qdmd4Q3kyUHY1dlRCQjFZNHpySEtJZXJKRFZibEhxbnF5RmZJbTBCeW1KbXZqblhfTmQzN01fZ0NmdVZHMC1OWg?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-27T12:15:01+00:00",
+     "summary": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
+    {
+     "title": "PSR policy statement on amending confirmation of payee direction",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVpJdFoweHFfVHZmeVZJNlh0QURTYU90OWwtLXdPSlRZTnF1VzFpU3ZNTVJTbUdDb2FTcGwxdktkX1FUWEtLRk1kX0NmWDFQdjA2TjUzejhLcms4clktN19ONHJlblp6ZXlDR2pOWmdCR1Bxb0k4Ty1fVU9RQTh3UFpJNXBrX2xtZkdpb2JrYXJ0R1dJUWFKWjN6OGZhUWphWEtqcGNIemE2M1o5QmMwUU5kQUczb19FWXQwTG0xVjVVaEx6?oc=5",
+     "source": "Dentons",
+     "published": "2026-11-27T12:07:04+00:00",
+     "summary": "PSR policy statement on amending confirmation of payee direction&nbsp;&nbsp;Dentons",
+     "image": ""
+    },
+    {
+     "title": "Polish President Blocks Pre-Election Tax Cut in New Blow to Tusk",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXhlUmhwTFB3VVNfRDloU245N0E1a2U5c2lTZ3E5dUQ5UHFkV054RThBVHVsWXZxZGNDZmxQbUZlbGszNHhYblpGaGphM0pPdnZkMWVrdTl5MjFfYWdHY04ybUlNNlVjOGZzSGptSm1ibmRmNEFjSHRTaWpEUGJodURZTTl6YnZiMlRCQ3lXTk9MTDRqYjdPbk9YYVBWVGdzVk5SRHNmc1ljdEZJRE5LWlVNWnRkUQ?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-27T12:00:28+00:00",
+     "summary": "Polish President Blocks Pre-Election Tax Cut in New Blow to Tusk&nbsp;&nbsp;Bloomberg.com",
+     "image": ""
+    },
+    {
+     "title": "How Trump Is Swinging an Election on the Other Side of the World",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQzNFYW5xcmVuaDJ2RkJTYzJna2lYY2d0YzlmVlYtaHhjVjg5dXhHVlZZWDFMX0lMaXZLcGsxa0VDcVJWZ3dYaTlCX3FFWDFGRTlBV2RQdV9RcUQxWEpPdXFKLWJFRVdvVGtFTWtyQTNpZ2U3UWV3UlpDN1ltRmt4akxlSVItSzAtSW9TSkoxaHdNemJ2NW8xcFp6bzNkNkE?oc=5",
+     "source": "Newsweek",
+     "published": "2026-11-27T12:00:00+00:00",
+     "summary": "How Trump Is Swinging an Election on the Other Side of the World&nbsp;&nbsp;Newsweek",
+     "image": ""
+    },
+    {
+     "title": "Roofing's John Kenney Publishes Policy Paper on Safety Regulation and Bidding, Estimating",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcGNGSFVTcHp3REIzM3ZSZjRtVnN2M0ZrRmJQWmhxVnhwRlV3X1QybzVSYmZqVFh3MWJJT1JCLWluT2pBelgtdk1GbjhfRVU3SzZxV21UOElIZkNZTW1JQVNVNW1oaWVHRjZibVlfcTExNzE1NTNjVGUxNktEcUNodW50NDktQVB4Y0JEeVRQZEZiZlBzQk82ZXNlQ2R5ZHRZcmRvNDNtWGxodG02ZlVOc0ZYQmFQNmtGVjJ5RFpQZ3lPVnRyMXdKZlRKWHZSaDV2V2JV?oc=5",
+     "source": "Roofing Contractor",
+     "published": "2026-11-27T12:00:00+00:00",
+     "summary": "Roofing's John Kenney Publishes Policy Paper on Safety Regulation and Bidding, Estimating&nbsp;&nbsp;Roofing Contractor",
+     "image": ""
+    },
+    {
+     "title": "Legalized pot provides election boost for Dem",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQlRTVlc5SHctQUlGYUxlR1hEdEpUMzY1NlJOZzJ4b2tPclhQTVlVdExFQzZBWkh3cWN6b2RNMTFpY2owM3hySDNocVlBNjQ1WTcyZ1N6OC1acDZhSUVPX1NWVldyZVRiXzRiWmFqMzZ4RTh1bXBtOUhicFBFOW45MG1TcUpiTUR2VHQ1UXlXNXBoOGM0SE5adzNKdXo0anJIVExxenFJbjRCWExGYVZtQVo0LUlUZEd1dV96bE5iamdiZHU2OTd1eE0yRm1yazYtTVFiWGdSUnp1MENB?oc=5",
+     "source": "Mankato Free Press",
+     "published": "2026-11-27T12:00:00+00:00",
+     "summary": "Legalized pot provides election boost for Dem&nbsp;&nbsp;Mankato Free Press",
+     "image": ""
+    },
+    {
+     "title": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTJUcHd2UlE2MzlVM0tiYkZZVFRDSXBEeEx2QkhsV1dRQWd2SjFTRWFqTUZBX2lUUWV4UGQwbE9rLWZLNWllVlo5VGNQVGtkWTRwUFI1YzVZMG9sUmhoNDFQalNwRnNtLWFuWU9pWEVKd3RxYVY2LUQtVVc4MkphNEFUZmxTWFZxQ1hvbU8yVEpmM2NHcVVQWkJ1cHVqeU1oSHNfNEdEUWt0OUJ5MGRiNUF0ODc4X0ZtQWJoYmdILTF4cUVKbG1xbWZ5bVpUTWprQjVtRVJZbk9WWWtpZVNCYnRzUlhmMmhBdFRuZ0ZpZXlCeGZpMGU2eHJqdjFLMG0wZ1Y2UzdRcw?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-27T11:58:04+00:00",
+     "summary": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Spain election: Housing crisis and immigration dominate final campaign debate",
+     "url": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
+     "source": "France 24",
+     "published": "2026-11-27T11:51:07+00:00",
+     "summary": "Spain goes to the polls on Sunday in an early parliamentary election that may usher in a right-wing coalition to replace the Socialist-led minority government of Prime Minister Ped",
+     "image": "https://s.france24.com/media/display/c71918ae-ea52-11f1-947a-f9cf020caef6/w:1024/p:16x9/EN-20261127-110703-110925-CS.jpg"
+    },
+    {
+     "title": "Spain's Sanchez insists he will defy polls as election campaign wraps up",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWJleDNqeFIxY19DeHdSdjNfMWJKYkxMMmtnTWJkZzZDYzFidEVrOXZ0Und0eTJldEx1c1llcnp6VmhSRnJWczVGOXNwbUM5RVZPbDNOUmFPaTRzbWp6YnRtTFM1Y3FxREs5WkFKaUZzeUh3d0hhci1rWlB0QlEwbFNxY1h6bEI0Mkp3NG55aXRBc2JzVmstZk5xeE0wMWg5TS1jVnE5T2U4UlBGR3Y3V0hHZzlfM3B3?oc=5",
+     "source": "Reuters",
+     "published": "2026-11-27T11:43:28+00:00",
+     "summary": "Spain's Sanchez insists he will defy polls as election campaign wraps up&nbsp;&nbsp;Reuters",
+     "image": ""
+    },
+    {
+     "title": "Spanish prime minister Pedro S\u00e1nchez confident of election victory despite polls \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-27T11:41:55+00:00",
+     "summary": "\u2018I can\u2019t conceive of us losing,\u2019 the leader saidIt\u2019s probably a good moment to say that we will be running a special Europe live blog from Madrid on Sunday night to bring you all t",
+     "image": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=e0451af87ed7ddbb9844096f8792224d"
+    },
     {
      "title": "What Spain\u2019s election means for Morocco",
      "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
@@ -240,93 +320,21 @@
      "published": "2026-11-27T11:29:30+00:00",
      "summary": "Data centers in a changing policy landscape&nbsp;&nbsp;UBS",
      "image": ""
-    },
-    {
-     "title": "Election in Spain: what's at stake?",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92QVFrZDhVMmdES3BySUhaYzMtYUFjc2N4VVF6c2wtTWpBRk1nbmoxdk5yOV9qYmpFUTZhVWwzOWk5OEpqc2lHNGlrZjBIdmZwWVRlZXBRSVBYMkl6VEdldXltQ1pJRDRtQXhzX1Q0WjdHZHpJMXU2V2d3?oc=5",
-     "source": "eurotopics.net",
-     "published": "2026-11-27T11:23:34+00:00",
-     "summary": "Election in Spain: what's at stake?&nbsp;&nbsp;eurotopics.net",
-     "image": ""
-    },
-    {
-     "title": "EXPLAINER \u2013 What\u2019s at stake if Spain swings right in Sunday\u2019s election?",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUnpQYXQtRVJSUktTb29KY0JZSTNDRmk0WnR2X21mdXc4ZE94bEpKb25tcFlNTDRuSEo4S3N6MTJwaWplMThQVUJVbU9Xd011Tk1yTmIzZmN3b3gyS2ItNWlRUEEtN0V0cXh1bm5RcVFvZlhRNVplNTBfdTFRWi15UmthOTRJNlpZNjY3VFdOYk81S1RROTN2dGQ4cVpJMWNiLU9xNWxIYzl3UVdG?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-27T11:19:55+00:00",
-     "summary": "EXPLAINER \u2013 What\u2019s at stake if Spain swings right in Sunday\u2019s election?&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "Feij\u00f3o vows to quit if he loses Spanish election and dares S\u00e1nchez to do the same",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0JOOWE5OEVJdHdBQkV3UE40T3I3cHhETWZGLXY0ZVFKTm1EX2hkVDhVeUY5UkxCSWp1Ni1zU2t4R1FCUFBhN2hzaVB2TE1hMzBJd2pHclM5SUJqM3d5ZlZGZzBlNHhRT09HSGV2NXNQOUtVUzdmVXpsc1M0X0FlakFHV3BJdkZNWVpJM0xWblFZU0Y2SXEySzFpZlFtdDlVcnRicEtqUW0yT3RHckdQdkdENlBpOWhS?oc=5",
-     "source": "Euronews.com",
-     "published": "2026-11-27T11:13:34+00:00",
-     "summary": "Feij\u00f3o vows to quit if he loses Spanish election and dares S\u00e1nchez to do the same&nbsp;&nbsp;Euronews.com",
-     "image": ""
-    },
-    {
-     "title": "Women In Nutraceuticals Announces 2027 Board Election Timeline and Application Details",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWNLcV9EdHlHLWxhaGFRY253WXMwaXczWXF4ZFA5Vlo2LXFpVi16SGtaRVFNNVZUWld6cTRwbHVRYW8xXzMwekNDRkRHbEVoMEtwN2NuZkFMREEtRU56UHBIVTd3cTVkaGhONTJMa3hCbWtfRWFXUkdDMkpJUzM1QlZHdWNLNzA0em1jc2VpeDA3aGl4a3BKWXMxXzVQUGtuTDR4bHBxWkxBU2lVOHlxeXN3?oc=5",
-     "source": "Nutritional Outlook",
-     "published": "2026-11-27T11:08:16+00:00",
-     "summary": "Women In Nutraceuticals Announces 2027 Board Election Timeline and Application Details&nbsp;&nbsp;Nutritional Outlook",
-     "image": ""
-    },
-    {
-     "title": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2pPOGI3eGpsamlSRzVfcUtiZWh2LUJqSWp1WVdyNmVfRzYwMWhKcXFaeUlQSEppUGNmOEMyOWJJRHQ3ZDY5Q0x4WnBnUHY2UWVCN0JwNHA5TVZPLXhSckhVQVh6cXhLcXJiSlZnQVc0VXRsWUVhTEw2dW5qdmd4Q3kyUHY1dlRCQjFZNHpySEtJZXJKRFZibEhxbnF5RmZJbTBCeW1KbXZqblhfTmQzN01fZ0NmdVZHMC1OWg?oc=5",
-     "source": "The Washington Post",
-     "published": "2026-11-27T11:03:44+00:00",
-     "summary": "Democrats vow to restrain Trump\u2019s foreign policy, but foresee limits&nbsp;&nbsp;The Washington Post",
-     "image": ""
-    },
-    {
-     "title": "\u2018SNL\u2019 \u2018Sister\u2019 sketch nails the failures of US healthcare policy | National News | U.S. News",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXlsRmM4R2JpdzNSNUktT1Z4dGNMUmxpSWJvTUg0eXR4SEdLXzJVVUhwZUt5ZHdHV0V3TmxUd2xNUmV3OXo5MVR0eHRHSy1yRWtzelduakhTRmpFc01iZmI0QlltakdGTUxORkgwRGNlLUhrTFV1U295TDRwLV9Bc1hoSFMxOFRhX3pRRHcwWlI2amJraDVjVVltenVySUtsQVFSaF9kOU5tMjhkQ2hCRVRyUnJmbzVTRGtPMDB4bw?oc=5",
-     "source": "U.S. News & World Report",
-     "published": "2026-11-27T11:02:10+00:00",
-     "summary": "\u2018SNL\u2019 \u2018Sister\u2019 sketch nails the failures of US healthcare policy | National News | U.S. News&nbsp;&nbsp;U.S. News & World Report",
-     "image": ""
-    },
-    {
-     "title": "Who's on the ballot for Hinds County's Dec. 1 runoff election in MS?",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN21mSW9DSkNsbXZOdjhxRHZDRGJpMDVBSTNNY1JqQnRrbFU3cHczVzQ1a2tKd3g4ZWtQMUU0VEQwZ3JkWW5qdjgzUHhDRC1CX2dYSzBISk1rNFpEWFpzaG9KMG83bEFRdHNIRmhlQ1FhRUtyM0NaZWdxTl92cUxESWdsQVpUMjl6NElkcXMxTlNOaE04ekIzRlNieXNlTEpZMU1OcWZzY3dJNklIdkJENGhSTmhvVG5CRDBpd0x1MTVQZlB2dzBPWlo1dU9jZWRoNE9Hczk5ZnJjWW1QZ1JqTWxmYTRSTmVH?oc=5",
-     "source": "The Clarion-Ledger",
-     "published": "2026-11-27T11:02:00+00:00",
-     "summary": "Who's on the ballot for Hinds County's Dec. 1 runoff election in MS?&nbsp;&nbsp;The Clarion-Ledger",
-     "image": ""
-    },
-    {
-     "title": "New Zealand election results leave Luxon one seat short of a majority",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRklPbnprRjdOUEJ4a2FTUjB1TXJUb1pCUHFBXzEtUXppRTVQcWhLLU9rMjBFSlBjNXltUy03MlppMkhmMlU3VU1rdWNsS09wX0RLcHEzWVBIZUFMWHppbjY2Mi1Qbkk2NmpDeWFFcWphT3dxaGxtSGItYnFMeXBicmxpTUR1QlJ6VHN4dnc2TlFQa19TRm9PeUtvSG1UdVllSHRtUkVkb00zcW92amZEOWw3RllJWlk?oc=5",
-     "source": "finchannel",
-     "published": "2026-11-27T11:00:48+00:00",
-     "summary": "New Zealand election results leave Luxon one seat short of a majority&nbsp;&nbsp;finchannel",
-     "image": ""
-    },
-    {
-     "title": "Early voting for December 12 election begins tomorrow",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmo5Wk43ekNjQzc3bFNsSDVkUF91UU4yZHdDeTdBdjlnS083VmotVHJxZno4ZEpQT3B4cDhOd2FRZkQxdGZyWDVOa1RUbU84MlZkeTIzYkpnb1B6bEZoZzctcW55c2o1YkkzbEY3cWFGakJhWlZtSU4zbWZxY2ptUnZYUWRVRUg0cGlJNkQ5azZJeHBwN2JydHMtaTlCdnM?oc=5",
-     "source": "Rapides Parish Journal",
-     "published": "2026-11-27T11:00:19+00:00",
-     "summary": "Early voting for December 12 election begins tomorrow&nbsp;&nbsp;Rapides Parish Journal",
-     "image": ""
-    },
-    {
-     "title": "Local seats up for grabs in April 2027 election",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnBJVFlzWm9FN0pxclJrMWZfckZ2VjRRUHhGVDBMMGhvQnpmNUllSWRJQmNYanVQVW9takppTFR2VUktbGFFV0kydG1IS2ItMkhrQ2xlXzNiSzFLQmVLblhnUDRjcy1RNzVuZ2J1b2NYanhVTkRCMXl2bTNMOUJMOXFyQTBvSVZvVEZmTHp0MUhEUXl2UXc?oc=5",
-     "source": "The Mexico Ledger",
-     "published": "2026-11-27T11:00:00+00:00",
-     "summary": "Local seats up for grabs in April 2027 election&nbsp;&nbsp;The Mexico Ledger",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T11:50:30.975448+00:00",
+   "fetched_at": "2026-11-27T12:20:34.854485+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Ukraine: Residents brace for another difficult winter",
+     "url": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
+     "source": "France 24",
+     "published": "2026-11-27T11:54:15+00:00",
+     "summary": "As Russia continues to target Ukraine's energy infrastructure, residents are preparing for another difficult winter of strikes and power cuts. With supply chains under pressure, fo",
+     "image": "https://s.france24.com/media/display/d8573b56-ea51-11f1-a70e-81bc2b1dcd65/w:1024/p:16x9/EN-20261127-110352-110520-CS.jpg"
+    },
     {
      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
@@ -334,14 +342,6 @@
      "published": "2026-11-27T06:04:51+00:00",
      "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-     "title": "Spain's De Cos chosen as next ECB president",
-     "url": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president",
-     "source": "France 24",
-     "published": "2026-11-26T21:40:29+00:00",
-     "summary": "European leaders have agreed to nominate the former head of the Bank of Spain as the next president of the European Central Bank. Pablo \u200bHernandez \u200cde \u2060Cos will replace the outgoin",
-     "image": "https://s.france24.com/media/display/a2393400-e9e0-11f1-93c6-174dac1c1bf0/w:1024/p:16x9/capture-10efea26.jpg"
     },
     {
      "title": "China reserves right to take \u2018necessary measures\u2019 after Trump\u2019s new tariff proposals",
