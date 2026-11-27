@@ -1,18 +1,10 @@
 {
- "generated_at": "2026-11-27T04:19:01.366119+00:00",
+ "generated_at": "2026-11-27T04:19:21.495790+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T04:19:01.366087+00:00",
+   "fetched_at": "2026-11-27T04:19:21.495764+00:00",
    "stale": false,
    "items": [
-    {
-     "title": "At least 13 Niger soldiers killed in Sanam armed attack",
-     "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T04:06:52+00:00",
-     "summary": "It remains unclear who carried out the attack on Niger&#039;s National Guard in Tillaberi, near the Mali border.",
-     "image": ""
-    },
     {
      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
      "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
@@ -116,11 +108,19 @@
      "published": "2026-11-27T00:48:11+00:00",
      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg"
+    },
+    {
+     "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+     "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T00:47:43+00:00",
+     "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T04:19:01.366102+00:00",
+   "fetched_at": "2026-11-27T04:19:21.495777+00:00",
    "stale": false,
    "items": [
     {
@@ -222,7 +222,7 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T04:19:01.366107+00:00",
+   "fetched_at": "2026-11-27T04:19:21.495780+00:00",
    "stale": false,
    "items": [
     {
@@ -239,6 +239,14 @@
      "source": "Le Monde.fr",
      "published": "2026-11-27T04:00:10+00:00",
      "summary": "Why mayors play a key role in France's presidential election&nbsp;&nbsp;Le Monde.fr",
+     "image": ""
+    },
+    {
+     "title": "Lee\u2019s approval rises again as diplomacy boosts ratings even as opposition gap narrows",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN0FkNW42WUJib1lqWDRCbnVpTlBtNzhFMnVqa1VsbzFZbk9sMUlHUUNDbGdybUU0bE1TNjM0d1pzQ2w1NWhRekZTR28wdkk1MDVmdUdIMVdNQlFSUFFRTHpqWkkxcFk3NjNhSUlKb1VtQkxSN3NjQV85R3dob3R5SU9HeE42VU1zWmlHVlJRMWZRT2VCejdIVGVNMFBlcERTZktjY3JnNjAwb1VhNVM5a2xJNDZmU3o5Ty14bjhsYXNHem5wT29TM05DUFhFQXc?oc=5",
+     "source": "Korea JoongAng Daily",
+     "published": "2026-11-27T03:58:13+00:00",
+     "summary": "Lee\u2019s approval rises again as diplomacy boosts ratings even as opposition gap narrows&nbsp;&nbsp;Korea JoongAng Daily",
      "image": ""
     },
     {
@@ -312,19 +320,11 @@
      "published": "2026-11-27T03:14:38+00:00",
      "summary": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation&nbsp;&nbsp;The Guardian",
      "image": ""
-    },
-    {
-     "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
-     "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
-     "source": "The Guardian",
-     "published": "2026-11-27T03:14:10+00:00",
-     "summary": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coastGet our breaking news email, free app or daily news podcastM",
-     "image": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/28_0_805_644/master/805.jpg?width=140&quality=85&auto=format&fit=max&s=f40d056aa224aeae82ec6832a11e9baa"
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T04:19:01.366109+00:00",
+   "fetched_at": "2026-11-27T04:19:21.495782+00:00",
    "stale": false,
    "items": [
     {
