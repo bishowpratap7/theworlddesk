@@ -1,10 +1,66 @@
 {
- "generated_at": "2026-11-27T04:49:25.181179+00:00",
+ "generated_at": "2026-11-27T05:19:28.618091+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-27T04:49:25.181154+00:00",
+   "fetched_at": "2026-11-27T05:19:28.618072+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+     "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T05:15:26+00:00",
+     "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+     "title": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-27T05:02:40+00:00",
+     "summary": "Former broadcaster, 85, has pleaded not guilty to 21 counts of sexual touching and indecent assaultAlan Jones\u2019s defence in his indecent assault and sexual touching trial has lasted",
+     "image": "https://i.guim.co.uk/img/media/9a14f73bf85c82ca8d5e453d06c96c43a6951725/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=879105fb0586cc009f4778c70fc63790"
+    },
+    {
+     "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+     "url": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
+     "source": "The Guardian",
+     "published": "2026-11-27T05:00:55+00:00",
+     "summary": "Torre-Pacheco\u2019s diverse communities are fearful that the far-right Vox party will enter government after Sunday\u2019s election Sitting on a park bench, taking in the sunny day, Naima r",
+     "image": "https://i.guim.co.uk/img/media/9d3d58c198fcc24a8b26df39126e909732d8a356/50_41_3288_2631/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=5079a40e922db4a458272b6553d684d8"
+    },
+    {
+     "title": "New Zealand\u2019s Opportunity Party poised to become election kingmaker",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T04:59:53+00:00",
+     "summary": "The newly-elected Opportunity party is now in a position to swing New Zealand\u2019s next parliament to the left or right.",
+     "image": ""
+    },
+    {
+     "title": "Former RAAF pilot convicted of murder after staging wife\u2019s death as lawnmower accident",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-27T04:56:32+00:00",
+     "summary": "Brisbane supreme court jury finds Robert John Crawford guilty of murder after he stood to lose financially in divorce settlementFormer air force pilot Robert John Crawford has been",
+     "image": "https://i.guim.co.uk/img/media/bb04e375911b11f5697e4c07ff421d79a221ae72/383_0_3422_2739/master/3422.jpg?width=140&quality=85&auto=format&fit=max&s=3e4c84291e7ca1a19fad7c94d87ca04e"
+    },
+    {
+     "title": "Estonia closing land borders with Russia to keep out spies",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T04:46:15+00:00",
+     "summary": "Estonia is set to close its land border crossings to Russia by December 1.",
+     "image": ""
+    },
+    {
+     "title": "Thanksgiving storms leave nearly a million without power across the US",
+     "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T04:34:43+00:00",
+     "summary": "Severe weather across the US causes outages and flight delays as families and friends gather for the annual holiday.",
+     "image": ""
+    },
     {
      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
@@ -60,69 +116,29 @@
      "published": "2026-11-27T02:38:15+00:00",
      "summary": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another electionThe final results of New Zeala",
      "image": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43d6b064ba99972f2f4003cf962441bc"
-    },
-    {
-     "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to \u2018pull back\u2019",
-     "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T02:14:25+00:00",
-     "summary": "Trump says he urged Putin to &#039;pull back&#039; military aggression in Europe amid escalating Russian and Ukrainian attacks.",
-     "image": ""
-    },
-    {
-     "title": "Trump says the US has \u2018close to 50%\u2019 of world\u2019s oil",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T01:44:02+00:00",
-     "summary": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not \u2018need Middle East oil&#039;.",
-     "image": ""
-    },
-    {
-     "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T01:36:23+00:00",
-     "summary": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
-     "image": ""
-    },
-    {
-     "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-     "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T01:07:44+00:00",
-     "summary": "France&#039;s cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
-     "image": ""
-    },
-    {
-     "title": "Threat from China looms large over Taiwan\u2019s local elections",
-     "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-     "source": "The Guardian",
-     "published": "2026-11-27T01:00:49+00:00",
-     "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling partyTaiwanese voters go to the polls on Saturday in closely watched loca",
-     "image": "https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=fe609d22179f2bf0a6ec3accbe60b685"
-    },
-    {
-     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-     "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T00:52:11+00:00",
-     "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-     "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T00:48:11+00:00",
-     "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-27T04:49:25.181167+00:00",
+   "fetched_at": "2026-11-27T05:19:28.618082+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Estonia closing land borders with Russia to keep out spies",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T04:46:15+00:00",
+     "summary": "Estonia is set to close its land border crossings to Russia by December 1.",
+     "image": ""
+    },
+    {
+     "title": "Italy Warns Against Spread of Ukraine War into the Mediterranean Following Russian Warship Strike",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yOU5wQzBRUThNMXJXSlA1Vmx3RTFkM0tTUVQ0b1NmX0o1S0RFUWlNWmxTQ0FhTDdxR24wQ3Q1VnpJZGlEam5aLURHT0ZpUnFSSHROdS1TdXM0UUg5eW9halBsQjBFUlppanpkS0Utbk9lWEtaNHc5aTlB?oc=5",
+     "source": "EU Today",
+     "published": "2026-11-27T04:38:48+00:00",
+     "summary": "Italy Warns Against Spread of Ukraine War into the Mediterranean Following Russian Warship Strike&nbsp;&nbsp;EU Today",
+     "image": ""
+    },
     {
      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
      "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
@@ -202,129 +218,113 @@
      "published": "2026-11-26T23:07:36+00:00",
      "summary": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
      "image": ""
-    },
-    {
-     "title": "Chance of snow forecast for northern England and Scotland in next few days",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
-     "source": "The Guardian",
-     "published": "2026-11-26T23:01:40+00:00",
-     "summary": "Met Office warns of icy roads and risk of freezing rain on higher ground as weather turns cold and unsettledParts of England could see snow in the coming days as cold and unsettled",
-     "image": "https://i.guim.co.uk/img/media/1a3f32c3b0c72a8bf4455187aaa420ab87f2c293/1095_86_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=79fab39d02d228fc3263a4e77a4740fd"
-    },
-    {
-     "title": "Diplomacy, grievances dominate Trump's 2026 Thanksgiving in Palm Beach",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDYtWnlXVmQ5SmJqQlZoLUdpTXBlb0Z5anU5LXYwWERKYWhHYzRXUTVab3JHUXkwZnFuRy1MLTlERmxQaDJkeHdHZXFkSi1KcGNhbHUzekEwQ3Z4eWNIYXVTU092OGU4YjRxY0FZVXFsbjZSTW1IdW4wNFlNeXVpNHhRblI0b2otbFUzc0FXT09rUElBUm0wc0lnYWRGbkNXRU5vdVFtYVduYk51TUJ3UHd2bFU1VnhfVkJBTlJGdUR2azFBVlQ5RUhLdGlfUFh1WVVEcFJrY3NLUVJOMnc?oc=5",
-     "source": "The Palm Beach Post",
-     "published": "2026-11-26T22:50:54+00:00",
-     "summary": "Diplomacy, grievances dominate Trump's 2026 Thanksgiving in Palm Beach&nbsp;&nbsp;The Palm Beach Post",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-27T04:49:25.181170+00:00",
+   "fetched_at": "2026-11-27T05:19:28.618084+00:00",
    "stale": false,
    "items": [
     {
-     "title": "New Zealand election produces hung parliament, neither bloc wins majority",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVWktJc1FXOUpFVVQxUUpfVjhkZEZKRmxqWGpXempFeFdXelg1SVQwNHpwOERSR1NaY2dnZTVFendFbjlPSERFZm4zUHcxSEJRTklLOFgwZjI3QjJ5Y0lPT3YtdkRBVW5OZW1SUjdvdFExem9KeTMzYXl6RFE?oc=5",
-     "source": "Xinhua",
-     "published": "2026-11-27T04:43:04+00:00",
-     "summary": "New Zealand election produces hung parliament, neither bloc wins majority&nbsp;&nbsp;Xinhua",
+     "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdDBhNWk2ZE80WUlXRy1HbFU1MXBTc21ka09vM3BTbVQxVFN0eEtiN0RCS1NheV9maDk4RHpZNTh4M3MwRUNDcG9abG15UE9QMWFjMjBQZmNCMVV5Sm05cDJVT0xKU2xYR3hTQ2ZCemFibWZmTE1kcXVNQnRSR29qREFJbXFTWlhyaE9qbnktdXhUTXppdXJ2VkJwbFJhSHh5YlZWREItY1V0MmV5SWk3SjkwQU5zbTBUMzZrbQ?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-27T05:15:53+00:00",
+     "summary": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80&nbsp;&nbsp;The Washington Post",
      "image": ""
     },
     {
-     "title": "New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hycUtMZFgxQmhhTmU3YV9VQW9sQ0Q4MVJJM1NuRTBFb1lPNHM3bjNsWGZBcEtfUXZGbUdNZEY1NHNNd3pROWswVmFpdC1vSGhBUUhyVmdTQjlCSnR5UENLM1NsZHpQZlBoMmhiWDNsT0FvLUdxbkFrbTZzZTZRQUxtTTg?oc=5",
-     "source": "Financial Times",
-     "published": "2026-11-27T04:32:45+00:00",
-     "summary": "New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant&nbsp;&nbsp;Financial Times",
+     "title": "SR National Assembly election",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa290Q3lyYkhfU2M3RnJrcnp0T1lwUUhFLTBDSkZaWlEtMXRZc05rc2dYUFg3aVZGWnFIVkZucVFJOE5ULUZpNFJRYjNIbFo0c1ZIOFI4SGRBWXJENE4zTVhBNmlDYmJPYXotY1Y0TzNSVHZKbW5oV3JSVmN2anlTZWRzRXRxTFJQVkk5TWRoTGJURkcyRnJKbHpDNEJkVkRhMFAzdXJsVjZmZlRlRFlhck9wWWVPS0lxam5xa1l0NWI2VGJ3dzFGMzRFdjFkdHpESkc1Z1Iydw?oc=5",
+     "source": "European Interest",
+     "published": "2026-11-27T05:15:23+00:00",
+     "summary": "SR National Assembly election&nbsp;&nbsp;European Interest",
      "image": ""
     },
     {
-     "title": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUTJUcHd2UlE2MzlVM0tiYkZZVFRDSXBEeEx2QkhsV1dRQWd2SjFTRWFqTUZBX2lUUWV4UGQwbE9rLWZLNWllVlo5VGNQVGtkWTRwUFI1YzVZMG9sUmhoNDFQalNwRnNtLWFuWU9pWEVKd3RxYVY2LUQtVVc4MkphNEFUZmxTWFZxQ1hvbU8yVEpmM2NHcVVQWkJ1cHVqeU1oSHNfNEdEUWt0OUJ5MGRiNUF0ODc4X0ZtQWJoYmdILTF4cUVKbG1xbWZ5bVpUTWprQjVtRVJZbk9WWWtpZVNCYnRzUlhmMmhBdFRuZ0ZpZXlCeGZpMGU2eHJqdjFLMG0wZ1Y2UzdRcw?oc=5",
+     "title": "New Zealand faces deadlock after final election results",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiem5EazJjSk5CblFsdnB1bm9FUWFNb0tyMEdreTV3cHhtZVBuS3F0TThiMFdXbGxZbm51ekdXRXh5eHZaOEZQdHUwSU5DVUwwT3FXS25pd3oyZFB3MDc2QTc3NzBfMEN2cGlMSkxlZGFxcHgwb2ZsS1Q5cUxvUQ?oc=5",
+     "source": "China Daily",
+     "published": "2026-11-27T05:09:09+00:00",
+     "summary": "New Zealand faces deadlock after final election results&nbsp;&nbsp;China Daily",
+     "image": ""
+    },
+    {
+     "title": "Australia Sanctions Two Over Antisemitic Arson Attacks It Blames On Iran",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMW5Ic2lER0xUWmZwWThWQWxIdy1YVWhCbkp5cXZhUWkzV19HRVBLa1IxS0tFOU1PR0NTVm1ISUp0cTFSQ0VLLWpTRGhQelVXRmlIZkgxMmtYdUVYOUFnZzE4QkU2bTJXWFNSaTA1aTQxNUd0WFIxTGUwRVFzTExjanNPanlkUFd6NGNJelJkNTRzU3BvSXdhVGpMcGZaNUZ1TENXM1VXNFNmVkpRWXQ4b3BtN3BYOGZOU3p4VTRReDBHY2gyclo0RVlVMTl3NXpt?oc=5",
+     "source": "i24NEWS",
+     "published": "2026-11-27T05:04:00+00:00",
+     "summary": "Australia Sanctions Two Over Antisemitic Arson Attacks It Blames On Iran&nbsp;&nbsp;i24NEWS",
+     "image": ""
+    },
+    {
+     "title": "Cricket Australia rules out retroactive sanctions in Sandpapergate review forum",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdTE2ZG10V19FX1lLWkx3Vy1uTTZRNmpXUkJEMjdBSGFhRFBoRDhiemFsZ0NSTURXVUtXbkZLVDZ3N0VCTFM3SU9LZmJTT2Z5V194QmlUbDlFZmZHSUtMZjFVbGRsamxZZUZ3OEppcjM3eHVOSFNFZnJSb3o3QUtnQ2o4Wk9xbER2OXV2RU5JbjJ3cWtQSkFQUXVKektmbTRPSG1iby1hWUhwOGw0TWhjdml3akl0QjdIQklXbWNmMEluWi1NdzN5TGVHbk9XLVNoQkVlNXFVelJfTlNvM2x3cXoyTFliUjVoX3FqNDJ2UU55bTBsbVRudDJEemtyajQycXc?oc=5",
+     "source": "Mankato Free Press",
+     "published": "2026-11-27T05:03:53+00:00",
+     "summary": "Cricket Australia rules out retroactive sanctions in Sandpapergate review forum&nbsp;&nbsp;Mankato Free Press",
+     "image": ""
+    },
+    {
+     "title": "New Zealand Stocks Slipped As Election Math Tightened",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTBnWlRnWTg3M0hRMkVpbFVobjY5ZGxjQkZQR3RBdnd4MERHQjQ4b01WbUo3NlNjLU1YV0FMZUFJTXpNa243N2VKTU1PZm1sZ1VLcE4wUlZyYnVqR2RuRTlRVEtZTnd1cVRsNkN2ckZ0NjNGYkhxc0dsQzJqNFVJa2Z1STdUTmt0R1E?oc=5",
+     "source": "Finimize",
+     "published": "2026-11-27T05:03:46+00:00",
+     "summary": "New Zealand Stocks Slipped As Election Math Tightened&nbsp;&nbsp;Finimize",
+     "image": ""
+    },
+    {
+     "title": "New Zealand\u2019s Opportunity Party poised to become election kingmaker",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajgxZ0FYYXRTdjFiamtvWHFEdTlja01ZbGs4YU5VY2dQSVpmblppRGc2RERjRG11TjlqcmZCc0tGZnl5dE1PblNkVTBBeDVRVmlFekd0LUltb0d5MGxxTGRWUjFQTVdwU29GV01CM0xuUEdDMFRkLWlNdC1VQXJzaUJ5MDdhTng3VXRuYlZNM1NSeGlvUFg2b2F5NmN6QW44WlpudXRPTlVqMHdmUnNteC1wNEVKMHdQMkHSAb8BQVVfeXFMTmdMRDNJeTZMei1JVEdmTWFaSjJjNEpBT1BCclpoSlVFTWVHYkRUM2NMSi1wbUlkdENxclEzZkpCblFfeFVwc1RWQVVQdFhNRHRBOUxGaWFnbVZuVllGNFJlUnR3ekJkeVo0RER4QzR4Y1dMMnFwWEF0a2lhV0VYR1M3dmdwMHQxZFZVektfeV8zS1pHYWJ5ckZoNWRVa1NjYjBUZm5ra3MxY1dhay1xYXFsTWlrb3ZpX0JRMkJpYjg?oc=5",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T05:01:47+00:00",
+     "summary": "New Zealand\u2019s Opportunity Party poised to become election kingmaker&nbsp;&nbsp;Al Jazeera",
+     "image": ""
+    },
+    {
+     "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+     "url": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
      "source": "The Guardian",
-     "published": "2026-11-27T04:28:04+00:00",
-     "summary": "Confused about who to vote for in the Victoria election? A guide to key promises made by Labor, the Coalition, Greens and One Nation&nbsp;&nbsp;The Guardian",
+     "published": "2026-11-27T05:00:55+00:00",
+     "summary": "Torre-Pacheco\u2019s diverse communities are fearful that the far-right Vox party will enter government after Sunday\u2019s election Sitting on a park bench, taking in the sunny day, Naima r",
+     "image": "https://i.guim.co.uk/img/media/9d3d58c198fcc24a8b26df39126e909732d8a356/50_41_3288_2631/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=5079a40e922db4a458272b6553d684d8"
+    },
+    {
+     "title": "How Flexible Work Is Reshaping China\u2019s Young Workforce",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1FnMmF5d3FaUDRwREVJSEVtMnFFaU9uTzZnb2I2a1hEVG5HZll3YTFMOUNMTjNiNkMyLUxBRkhnZEpicGdKYVBqVDNQcDN6RFJqcl9VZ3o4SDE2VkFDb1dfV25WV1J5Ym9HdWJqTnNyM3dDaFFWbl9tQTF2NElLYjhXVnZZeGYzQTFnUmFISDRfVzZCMkxZ?oc=5",
+     "source": "Modern Diplomacy",
+     "published": "2026-11-27T05:00:45+00:00",
+     "summary": "How Flexible Work Is Reshaping China\u2019s Young Workforce&nbsp;&nbsp;Modern Diplomacy",
      "image": ""
     },
     {
-     "title": "A pall of silence in the Victorian election on the dangers of war",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EOXE5VkxxazJPclQ0NWVhbGx3dFpCNmxneWFoM0xsNXFJdmplcGF3SVhwUFJRTTVjd0paS3R0elBFU3A1Ukx4TXhyQkp4RUdMZUF4ektlRlFXc0piYVJIMzNLRHg2RGtN?oc=5",
-     "source": "World Socialist Web Site",
-     "published": "2026-11-27T04:18:52+00:00",
-     "summary": "A pall of silence in the Victorian election on the dangers of war&nbsp;&nbsp;World Socialist Web Site",
+     "title": "Here are the main issues driving Spain\u2019s national election and why they matter for Europe",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUklNd1FwdW9hNmlEamhqU3ZWMlVCaTVSRnVsV3NFMkJrZHJGNmNuWTdoMWVFZ3otSm03UEgwWHNRbVhST0hVZWZaQU5jMnp5eTRGTjNQdmMxNHpQTUtrN3Q4Y29XYWJIejJTNFZuNkN1QXgwdWZBb25Xc2FWOGlSZ09KallsTU9Ga19WNlBkblZzenZOOHFvRDVTblNqOGpyU2M4VkxRVFNvLUd6ZEZhdE1SWUpuY29vdjlqYQ?oc=5",
+     "source": "WTOP News",
+     "published": "2026-11-27T05:00:38+00:00",
+     "summary": "Here are the main issues driving Spain\u2019s national election and why they matter for Europe&nbsp;&nbsp;WTOP News",
      "image": ""
     },
     {
-     "title": "Christopher Luxon favoured for second term as New Zealand Prime Minister",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmNCNlRJNEl1MXNtUFJYX3NBQjhqdFdYTnlwX0t1OUtaV051cF9BM0J3akdyN2ZBWENOQnFGWk9CTGxPcjlGYnEyWGxFem9lQkQteVNUOXRwaW45NHF5YVpDZmpPZWR0ZDVnTDlwT1NQbzZzbzdaRVVGVEU2aUZST05KNTZIRnlqM3o1ZzF4Z1ZWT19hSkRGc2JUdWwycTZrSDhjVFhPdHZ3aTlXR2w2LU1jRWtqTzluaklBMg?oc=5",
-     "source": "Reuters",
-     "published": "2026-11-27T04:12:00+00:00",
-     "summary": "Christopher Luxon favoured for second term as New Zealand Prime Minister&nbsp;&nbsp;Reuters",
+     "title": "Transcript: Spain\u2019s election \u2014 A turn to the right?",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHhnd1pEY2FXTGRoQ2tMX0NYVkx0azlLOE95NDh3cnhiYlBHcW5RUWdEYkJjQnpNa2haM3Jja0luY1MtQldSd0MxeEdRZTZycWNYVjFfS1Nyd2s5ZEtZaVl5SmtyOHdGU0hsS3ZNTDlRdlFYU2VEcF9Dc29ESUFSWklJeEs?oc=5",
+     "source": "Financial Times",
+     "published": "2026-11-27T05:00:31+00:00",
+     "summary": "Transcript: Spain\u2019s election \u2014 A turn to the right?&nbsp;&nbsp;Financial Times",
      "image": ""
     },
     {
-     "title": "Spain\u2019s election candidates clash over Gaza, migration and housing in televised debate",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFZfMjhhN2pnbVJWSzRzRnhyaTFZTEVOQy10blpEZTViYjNjUDNhQzlydS1wUGxMd3R4Z2czWUkzdnh3Mkh6TlVYQmhsUUF2dHhMcnlabkFtV29mVktyOWlYb2Y5dTRSSE5fbjJEVHFoQXE2RHpTM256MjMydElncnNMNkZldk1RNHluRWUweldPSnFiQTlNeWRLc1VjUmhzOHNuSERVWEZoR2l4aXJ0Q3Z6bW9QYlhWX21YSU9vZE9EWFU?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-27T04:03:10+00:00",
-     "summary": "Spain\u2019s election candidates clash over Gaza, migration and housing in televised debate&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "LIVE: Final election result lands as special votes counted",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd3JFZWJ0ZkYxbzBFbVB4dUYtS3J1d3FaZ3pyM1M1MEVKOUNWdHJnY0VMblM4VnM0MVEyVGdSN3BXd2s1MVFGbUMzdC1NTWtvTEQ3UGM4UlZpUGVWcG5YQXZnUEgzQWhZMmtHel9JcUJiSXlWTlZEMV9wc3BhRmc3YnFOZVg2NTB3WTk5YnE5UlNBYmhJMzlQLXVPUzM?oc=5",
-     "source": "Te Ao M\u0101ori News",
-     "published": "2026-11-27T04:01:49+00:00",
-     "summary": "LIVE: Final election result lands as special votes counted&nbsp;&nbsp;Te Ao M\u0101ori News",
-     "image": ""
-    },
-    {
-     "title": "Australia sanctions two people over antisemitic arson attacks it says were linked to Iran",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcGh2cUNpdW1OYTZuQVRvelZiSXljRllHZWswbFdubmlmbkd2ZmNzeXRqTV8zWXd0X1c1Wm5HVDFfQXpGV2VuUDlFZ2tCMFZ6OWdIY2ppaXpQcDVrRnNmdnQtdXpOMzZFdTFtajRqOURvZ0dLTDVLRWtHZ1RKMzFFTi1ybzhnaWFITi1tMUVXVFhGcEVlNjlFWUZTRXNEQm1lQk1majR6eHlkRnBtb3BnNUtrek9KZFpJZUJoVVV3RW5zRUN2ZV9EUw?oc=5",
-     "source": "The Times of Israel",
-     "published": "2026-11-27T04:00:54+00:00",
-     "summary": "Australia sanctions two people over antisemitic arson attacks it says were linked to Iran&nbsp;&nbsp;The Times of Israel",
-     "image": ""
-    },
-    {
-     "title": "Why mayors play a key role in France's presidential election",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDMxU2h5cHpBTVBrNkxpOVZCblpSY3ZRNnN2a3J1R1Y1MkV6S1JjNndUSWVEZElDb2E0UVctZ1ZmUXdhUUJXOTlRYWo3NmxlTjRTQ0dMR0lPaFNVd1laV1czR3VRbWlsZnJpcEhmMEtxeElSUlhPdkE2dmhxQ0VJaFZ0bnZUX1k2dEJvTHlTMWVIV0ViS0VxTFU2SEthMjZxOU9Tbld1d0hKR1dneWZDQS1jZldXT3hlX09Ha0ZIV2g3anViVWhSeg?oc=5",
-     "source": "Le Monde.fr",
-     "published": "2026-11-27T04:00:10+00:00",
-     "summary": "Why mayors play a key role in France's presidential election&nbsp;&nbsp;Le Monde.fr",
-     "image": ""
-    },
-    {
-     "title": "Lee\u2019s approval rises again as diplomacy boosts ratings even as opposition gap narrows",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN0FkNW42WUJib1lqWDRCbnVpTlBtNzhFMnVqa1VsbzFZbk9sMUlHUUNDbGdybUU0bE1TNjM0d1pzQ2w1NWhRekZTR28wdkk1MDVmdUdIMVdNQlFSUFFRTHpqWkkxcFk3NjNhSUlKb1VtQkxSN3NjQV85R3dob3R5SU9HeE42VU1zWmlHVlJRMWZRT2VCejdIVGVNMFBlcERTZktjY3JnNjAwb1VhNVM5a2xJNDZmU3o5Ty14bjhsYXNHem5wT29TM05DUFhFQXc?oc=5",
-     "source": "Korea JoongAng Daily",
-     "published": "2026-11-27T03:58:13+00:00",
-     "summary": "Lee\u2019s approval rises again as diplomacy boosts ratings even as opposition gap narrows&nbsp;&nbsp;Korea JoongAng Daily",
-     "image": ""
-    },
-    {
-     "title": "Australia sanctions alleged IRGC proxies over Melbourne synagogue, Sydney arson",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EVFhrX3BRQzlsWjl0cHY1UzROaldHZDZLLWx0N0laRmR1ZmFFbGNudlg5X0JnZzdTZmNpMS16SERUbnc1YU5xWExJVnlEX1BUcHRROTh4TWI?oc=5",
-     "source": "The Jerusalem Post",
-     "published": "2026-11-27T03:56:56+00:00",
-     "summary": "Australia sanctions alleged IRGC proxies over Melbourne synagogue, Sydney arson&nbsp;&nbsp;The Jerusalem Post",
-     "image": ""
-    },
-    {
-     "title": "Australia sanctions two individuals over IRGC-linked antisemitic attacks",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WQ1FyT3pwbUR4dnlEQ25VdzdCMDNVTlZRcTAtYms3THpyLWxIcENkbXZ0dEtoS3JKb0JXUWx5aEFsN3dnNXJxWUd1ZnhpSGpTemc?oc=5",
-     "source": "Iran International",
-     "published": "2026-11-27T03:53:08+00:00",
-     "summary": "Australia sanctions two individuals over IRGC-linked antisemitic attacks&nbsp;&nbsp;Iran International",
+     "title": "Spain Election Main Issues",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2RGTzFjamR3RF9xLW5zM2ktbWdLZldaWGxpcmZuVU10T0huVlhVb0IzLU9ZSUQ5bV9VUjZQeEl0Ym5oc1I2amVTV1QwRERRMUxBUjN3ckYwMUpUYkRHMTkwTmNFaEVvdEt1eUpuQ3FLV1IzOFllZXBKeDNYaTdtNHhhWjFZcDZIQnRfTFI3b2U5QnhHOXExUm5TU05hYXYzSkJhRUYtd0lha3AzZGhVdmhn?oc=5",
+     "source": "WV News",
+     "published": "2026-11-27T05:00:26+00:00",
+     "summary": "Spain Election Main Issues&nbsp;&nbsp;WV News",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-27T04:49:25.181171+00:00",
+   "fetched_at": "2026-11-27T05:19:28.618086+00:00",
    "stale": false,
    "items": [
     {
