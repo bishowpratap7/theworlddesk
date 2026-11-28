@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-28T02:23:30.878684+00:00",
+ "generated_at": "2026-11-28T02:53:34.636851+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-28T02:23:30.878656+00:00",
+   "fetched_at": "2026-11-28T02:53:34.636822+00:00",
    "stale": false,
    "items": [
     {
      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T02:17:02+00:00",
+     "published": "2026-11-28T02:46:53+00:00",
      "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
     },
@@ -120,9 +120,17 @@
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-28T02:23:30.878669+00:00",
+   "fetched_at": "2026-11-28T02:53:34.636835+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Where\u2019s the Guernica of the Ukraine war?",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBubjRvZFNSVDZWMUtqRUlsdzdCeVMwUThzaVM0S05hNVlncndNd0xROTdUWmNBb0h2UlJIQUlSRVRUMlFhMjFOcWFaUlpHQ3RwektiSmRtZWtLdHY2WDBnZ0VVX3Y0U1hhdzR4ZXVLTlktcUQyMUZmcg?oc=5",
+     "source": "The Spectator",
+     "published": "2026-11-28T02:43:31+00:00",
+     "summary": "Where\u2019s the Guernica of the Ukraine war?&nbsp;&nbsp;The Spectator",
+     "image": ""
+    },
     {
      "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
@@ -210,28 +218,44 @@
      "published": "2026-11-27T21:44:29+00:00",
      "summary": "First, Uganda is heading for the exit in eastern DR Congo. Kampala has announced the withdrawal of its troops from a key town in North Kivu, as relations with Kinshasa deteriorate ",
      "image": "https://s.france24.com/media/display/92a9d6c2-eaa6-11f1-8c67-1991d4929b54/w:1024/p:16x9/DL00006224-VOD-00023676-01.jpg"
-    },
-    {
-     "title": "Trump addresses Nvidia, Russia-Ukraine war, friendship with Putin",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGhIVXJjbC02M0NnSGVLSUduR0FScEVzalF3OEFGMndxTk1pNU1iOGpnUkpFR0xWd3hsTFFndEtGSkJUaXYydkxJMGNZcEFtNkVJNUVBMmc5MWpKa3FiZlNCbXdFaFh0ZHNqSzQ4OHVVbURjM2I0bHBHRzFGRkZyYmlhZjB1anh2Nzl3RDR3ZEVieWhjYXFaUGhaQWRIcXpTVEFXNg?oc=5",
-     "source": "CBS News",
-     "published": "2026-11-27T21:42:00+00:00",
-     "summary": "Trump addresses Nvidia, Russia-Ukraine war, friendship with Putin&nbsp;&nbsp;CBS News",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-28T02:23:30.878673+00:00",
+   "fetched_at": "2026-11-28T02:53:34.636839+00:00",
    "stale": false,
    "items": [
     {
      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T02:17:02+00:00",
+     "published": "2026-11-28T02:46:53+00:00",
      "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Elder shares thoughts about election",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamEwZV9Od0czaHZrVGF3OWtiNVp5d3VEQkxZVVlfX2pOdlZraHFfU2oxVWl1WTkwUGZuVTNNTUtoYTNtOV9pQTVHMzFEd05ldVN6bWZmV3lEcXpVeWR1VEwyYm1fR0hOUzMwR05uZFdXRGRnZ0JCSUFBWC1NLXBhYUpMYTh6VDZWRkE?oc=5",
+     "source": "The VW independent",
+     "published": "2026-11-28T02:42:48+00:00",
+     "summary": "Elder shares thoughts about election&nbsp;&nbsp;The VW independent",
+     "image": ""
+    },
+    {
+     "title": "Taiwan holds elections to choose mayors and other local leaders as China looks on",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2ZRTE4tVlYtc0ZDTF8xcWdDZnFVTVItUTd6UGxZTWtURENhNGlCWkdzVWxBTGt0TVgyeEtYV21vYVNCclpZVHRtRGJTNHItaW5BMnE3NXM2RG9lU2JGLWZnRFRsaWN3X1l5WlAtY3BJUTdlaGY3SVRKbUVLYUpYeFhlLXlLb0FOSlRkbjVLMkdWWlBaNHRQY29YVEtxdw?oc=5",
+     "source": "Audacy",
+     "published": "2026-11-28T02:32:00+00:00",
+     "summary": "Taiwan holds elections to choose mayors and other local leaders as China looks on&nbsp;&nbsp;Audacy",
+     "image": ""
+    },
+    {
+     "title": "Colombian chiefs reassure Beijing as envoy berates lawmakers in Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWxZQV8xQjVFdXFkamhSc3hlcHozVjcwSWNrQ1BKbnBXSEpBdHFldVo2SVZtOXlZZmpYRjVsX3lYMXpZbWtrZVFfRzdiY0VmUGtJS3cxODFuc1NTSkt4TDJjZTFLaUhySURScEZPRjhSVU16cXBZQnZJcjJfY1V4R05DeUlXbzNkdlhzeWtoc1BJOW9xcTg4U3JjUzB0ak9JbEpyMnFiajRVMXZYWVVEQzVfTjdJaV9zQnNqdnM5MU1JdmNIdzZmaE1qNTI4RnPSAc8BQVVfeXFMTXFsN3NpX05DcDJreW5aV3l0MVRCRXdNX2oxd0pvVGloT1FhdlhGbUFXQW5vRGdvalkybnFyMTdSRF96Q2FBNWV2ZzA3MUktQnBZREw3blJ4cGNsYnRrSExaaUxua05ubUVVeHNyMVlfOHBKdXliT1g1TXBGYndsMm0zQWloWjJHMlNvUmtZbW9ZTkhsSFhRcm0wTDExZjRTRGJuSFlvbFFXMGdIT0JzYjFHX1d6aUVNZlpIQzhEOFgtVHFmcHFBa08zakFoR1NN?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-28T02:22:15+00:00",
+     "summary": "Colombian chiefs reassure Beijing as envoy berates lawmakers in Taiwan&nbsp;&nbsp;South China Morning Post",
+     "image": ""
     },
     {
      "title": "Taiwan votes in local elections to choose mayors, other leaders",
@@ -296,35 +320,11 @@
      "published": "2026-11-28T01:00:00+00:00",
      "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
      "image": ""
-    },
-    {
-     "title": "Spain's Sanchez makes final appeal to voters before election",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHZ4TkgzX0pQREY4em9GUUgyMlFZSFdYZWtXY0hXZjNBM3B0VjRTWGYxbVpETnZ4WnJ2UmswQXV1blVkM1lqb1lMRGlKV09Iaml1bi1aQ3ZGNzRlcTcwS3F6U05PLXhScHdxeHgyQlZCQXpWM1FQTzhQTTZRcUlreENqQVpxUGU2b2NjU0pIV3Bxc1A3OFlr0gGXAUFVX3lxTE5sRWNDZUZBcVZ4T0JYSG9mUG5JTXFNeFNsb0Fib0FlSkFxZDliRHpWWktjejJLWjBfRmhibGJfazRPVmtlbGJSZFZzbS1ZRC1HaGtHOUtqZWZMc29NWXVaX1FzbWdFSE5UVk5QQVJmRndiS0l5dzNWeXFvLVhrU1RBSFRuT3N3eWpjU3lSZ2VnNm5qQktUVkU?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-28T00:56:12+00:00",
-     "summary": "Spain's Sanchez makes final appeal to voters before election&nbsp;&nbsp;DW.com",
-     "image": ""
-    },
-    {
-     "title": "Vital to survival, missing from policy: why working donkeys are being overlooked",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS19OSVVaNTBySFJnR3dkTjFIQzY2aXh5UWY0bmQ3aElMZWlVU2ZUVHlCWWthTV9nVy1iaU5Rc3lMZHNYR2Y1NXBLdXV0bVZNZ1NyUm52WHJzNW1BOVBEaW4yN1p5M2x4dGxiZk5JeVplR0w2ZHYyYXlOWlIzM0h0VHR4SFJKLVdTZEllRUlFemp2aHR5NWNkU2tOd0JIOWY1RkJoZ3ZKSVN5cFJQTE5Cdzl3bFozdFJzNW5xSjBn?oc=5",
-     "source": "Vet Candy",
-     "published": "2026-11-28T00:55:39+00:00",
-     "summary": "Vital to survival, missing from policy: why working donkeys are being overlooked&nbsp;&nbsp;Vet Candy",
-     "image": ""
-    },
-    {
-     "title": "Jared Kushner and the limitations of transactional diplomacy: can a businessman end the war in Ukraine?",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlVTWXhKcDBKUjNhcHdEUzF5WnZ2UnhoaVJpQTBQRDMyd3Z5OWxGUzJ0cXJKQjhaanhtU004dlJhaGRuenR2ZXdlc1U1NVJSQjNPdV85MFZIekJjTUFSRkQ5SDVYQmFNZ1hGWDRxR3VucHVWcGpGa2RZUWJ5TldZeWs3UWJkbG02Y0twT1VaalQzMVBfeFFiVTFlbE8yMnRGQWRfQ3VuazVlbXlxOEpnSjBBYWNIWWVjbFVnNFFINzNTcEVyeUZ5NnpQUQ?oc=5",
-     "source": "www.lvivherald.com",
-     "published": "2026-11-28T00:55:12+00:00",
-     "summary": "Jared Kushner and the limitations of transactional diplomacy: can a businessman end the war in Ukraine?&nbsp;&nbsp;www.lvivherald.com",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-28T02:23:30.878676+00:00",
+   "fetched_at": "2026-11-28T02:53:34.636842+00:00",
    "stale": false,
    "items": [
     {
