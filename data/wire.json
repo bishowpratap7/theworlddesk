@@ -1,17 +1,41 @@
 {
- "generated_at": "2026-11-28T01:53:26.984490+00:00",
+ "generated_at": "2026-11-28T02:23:30.878684+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-28T01:53:26.984460+00:00",
+   "fetched_at": "2026-11-28T02:23:30.878656+00:00",
    "stale": false,
    "items": [
     {
      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T01:44:33+00:00",
+     "published": "2026-11-28T02:17:02+00:00",
      "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+     "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T02:08:11+00:00",
+     "summary": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+     "image": ""
+    },
+    {
+     "title": "Taiwan votes in local elections to choose mayors, other leaders",
+     "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T02:05:27+00:00",
+     "summary": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+     "image": ""
+    },
+    {
+     "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T01:55:03+00:00",
+     "summary": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+     "image": ""
     },
     {
      "title": "Nigeria's 'ultimate hard man' who become an online meme",
@@ -92,37 +116,29 @@
      "published": "2026-11-27T23:43:00+00:00",
      "summary": "Se Nah Park was overwhelmed by a wave at the notorious Panther BeachThe purse of a 24-year-old who was swept into the ocean at a notorious California beach three weeks ago was foun",
      "image": "https://i.guim.co.uk/img/media/87e0cce41f886cd60d1d8b165378056b92b1eacc/0_0_1730_1384/master/1730.jpg?width=140&quality=85&auto=format&fit=max&s=193df2b4178c46b858edcdba73de27cc"
-    },
-    {
-     "title": "Schools in England must set aside time for pupils to read for pleasure",
-     "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
-     "source": "The Guardian",
-     "published": "2026-11-27T23:34:55+00:00",
-     "summary": "Education secretary expected to announce measures as part of proposed reforms to national curriculumSchools in England will have to allocate time for children to read for pleasure ",
-     "image": "https://i.guim.co.uk/img/media/6e4183abedc6c8a85e09398416b87c9824ecbfc8/238_298_4221_3378/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=4659c40391e4a2d7ff307e837a3c3944"
-    },
-    {
-     "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
-     "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
-     "source": "The Guardian",
-     "published": "2026-11-27T23:28:50+00:00",
-     "summary": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employeesOpenAI sued Apple on Friday, accusing the company of \u2060stealing it",
-     "image": "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=d56b4209239ea3f6c6aab8f0f336e974"
-    },
-    {
-     "title": "Will Taiwan vote to revive nuclear power \u2013 and why does that matter for AI?",
-     "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T23:09:04+00:00",
-     "summary": "Voters will decide on Saturday whether to scrap the country&#039;s &#039;nuclear-free homeland&#039; policy.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-28T01:53:26.984474+00:00",
+   "fetched_at": "2026-11-28T02:23:30.878669+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T01:55:03+00:00",
+     "summary": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+     "image": ""
+    },
+    {
+     "title": "A Pivotal Moment Appears In The Ukraine War \u2013 OpEd",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVNsXzBNTnBmMmw1TWxuTGtQdS1CeW90QnZITm9QTEVocXYwd3NwQmRJQ3RsZ25NSUZnVDZCOURqR2lxb1FBTy1UV2V4RndWMW5vVUZyYmxxQTJiWnRSZS1ITVpPeV9uMF8wMDlPTkhDRF9hMnJRVHZkQzl6LTVfaUUxVlJzQWRack1fbXVVQjh3QQ?oc=5",
+     "source": "Eurasia Review",
+     "published": "2026-11-28T01:17:09+00:00",
+     "summary": "A Pivotal Moment Appears In The Ukraine War \u2013 OpEd&nbsp;&nbsp;Eurasia Review",
+     "image": ""
+    },
     {
      "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
      "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
@@ -202,29 +218,37 @@
      "published": "2026-11-27T21:42:00+00:00",
      "summary": "Trump addresses Nvidia, Russia-Ukraine war, friendship with Putin&nbsp;&nbsp;CBS News",
      "image": ""
-    },
-    {
-     "title": "Russia\u2019s Big Ambitions for A.I. Are Undercut by Constraints of War",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORi1McEY4Z0s0WFpoM1JMenFlX1hiejdjbExuMkwyNlI4cWljR0V2V2pkcEV0NDRZYXM4Rzd2TFJjRnBJLW8tcWI5S0ZSX3lUcEpkaWs3X2J0MFpCd3BXZ2FZSm03WGV0WVlOdE8xSDhhR3R1Wk4ySGhaRkRPMk9mdm5XSV85QklC?oc=5",
-     "source": "The New York Times",
-     "published": "2026-11-27T21:41:12+00:00",
-     "summary": "Russia\u2019s Big Ambitions for A.I. Are Undercut by Constraints of War&nbsp;&nbsp;The New York Times",
-     "image": ""
-    },
-    {
-     "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWW9taURHbFpkMjd6YkFzNEliSVpaOW5zal9CUEY1R0kyS3NWVU9HbkIzRkNhcWtoOWgxUi02WWdWN1dpQTU5UVVpc3dGa04yVVBQbk1NQVMzSFBLVmxvUllTNTVwVEdwR1FtdGI3Nnppb0lvNjNRMUZwYl9EaXI1akI0VE5SRGcxVkxzVzNZbFM2S0RCc2JOdi05R2s1dlg4eVZIdDBB0gGrAUFVX3lxTFB6OWM4c1NpYjVhZUp2MVV1eUppS1lVLW1lNjIwaktRN1lWUDlGOG5meWIySTByVVhUQ2tnSGh4d05pVXN0SWxnSFlFc0lzVzhmQzlWaFRZTW5ELU0yWUpNYTIwVV8tQmhqODBCVzhQMjBseHVydHcydEJya3lJREtMbFd2aW0zMmlndy1oV2M2RHZPbzh2V3FQcV8tNE5xMmx1S3Jfb1NXNXdHVQ?oc=5",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T21:17:40+00:00",
-     "summary": "Kyiv offers Black Sea ceasefire to protect grain exports&nbsp;&nbsp;Al Jazeera",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-28T01:53:26.984478+00:00",
+   "fetched_at": "2026-11-28T02:23:30.878673+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-28T02:17:02+00:00",
+     "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
+     "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Taiwan votes in local elections to choose mayors, other leaders",
+     "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T02:05:27+00:00",
+     "summary": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+     "image": ""
+    },
+    {
+     "title": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNemJrS0JLYW85VHMwMlhGcjBNd0NZcXRsdGlUUFRjT05CQ1hxTUVRaEMyLTBrQV9xVEp5Y3pZc3o1eUh5bkd1MTZubUxaVWtsSzQ1eE8zRThOYVJYUV95Vy1PdXRGcjc3b09BaFJyeEprWGptdm9Wd29DaHkyMkdBRHR3WklMUEN3VWJPaGtuWHQ5U3BvR2QwWHhPOE5NNG9wTllkR3RmdWhrQWRSeWpwdEpwb3dyX3hpZ3VqWmotMWdfNkJKOVd3SnByTnVBa0RKT2lDNDN4aGxMMXIyU1RteTNab2g3d091aHhwak4wVHlXMDVLOVRlVmgtZjBEMFBNN1FXZ0tNOA?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-28T01:56:57+00:00",
+     "summary": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
     {
      "title": "Juneauites rally to celebrate certification of the midterms, push for election reforms",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYWR0WmdJeFhhRzM5OFBfMXBTZm1Kb1diaVpiaDlMOVZzc2ZaV2kyOXppdmx3TlplRXhuR3Bhdk1faGxOVFo0Uy1YajJHX3FpNldWZzNqdDZ3VjloUnl6eVU4RFFLRTBOTng0MjZZOG1xMkxXMjJzWkZtc3FKODJxNUN2UzZldUNmdjlpMXctUFp1THA5MXB5bnZ6c0xCNjVxUXVXNjQzYkFxN0s1TExtMVA4UVdiYU50X1ItcTFWWQ?oc=5",
@@ -242,12 +266,12 @@
      "image": ""
     },
     {
-     "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-28T01:44:33+00:00",
-     "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
-     "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+     "title": "Rep. Ken King reacts to midterm election results",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2FJTU43bm9MQjNSRS1IdFljSmktM3dzR3FZSXp2am50LVc1bzdmemxNWnlYdmZKOXowLWxmS0FKeENhek8wbzF5ZVRKbVJ5cUNDeGVDaVB0WDBIaDAxRzB5OXZLX1hGblNsQjBPd1JYX3RCeEwybENDX3lJaWhBRXAxNG5JZ3ExaVNGTnEzajduUVlqcUt1RQ?oc=5",
+     "source": "MyHighPlains.com",
+     "published": "2026-11-28T01:22:14+00:00",
+     "summary": "Rep. Ken King reacts to midterm election results&nbsp;&nbsp;MyHighPlains.com",
+     "image": ""
     },
     {
      "title": "NBC Pulls Ad That Criticizes U.S.\u2019 Israel Policy & Aired During \u2018SNL\u2019 Thanksgiving Special",
@@ -296,35 +320,11 @@
      "published": "2026-11-28T00:55:12+00:00",
      "summary": "Jared Kushner and the limitations of transactional diplomacy: can a businessman end the war in Ukraine?&nbsp;&nbsp;www.lvivherald.com",
      "image": ""
-    },
-    {
-     "title": "IVCC to hold Monday lottery for April board election ballot spots",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0o3S1JiS216aVJEenRrc2hiT3lDbzRJMFNZTERaTkExNzJWQk1NQ0NNdklzQWZ0Tm5WdFVJbGpPNzRBYTNpZzVPY2Y5Q3ZGMXlPZTRMc3VYVUQxSV9YTklLbEQ2Y1dCNWxXdmVyTmJnelhYTzFSdkUzQmlDVFRTX09WYlZkMGZ6Uzk0TXVPOGhSY3B0MVFjZ2hhUlQxb1ZzeWczX3NwNEdZcjRsTmZpOE5jTHNBOXdISHJj?oc=5",
-     "source": "Shaw Local",
-     "published": "2026-11-28T00:50:36+00:00",
-     "summary": "IVCC to hold Monday lottery for April board election ballot spots&nbsp;&nbsp;Shaw Local",
-     "image": ""
-    },
-    {
-     "title": "Georgia immigrants file lawsuit challenging DHS re-detention policy",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTRLRi1PTDN5bk00N0dsU3J0eXNMUkFjaTU0T2djWmZEZ1djMnNXclNkczdWNnZFYUJudVg0bGFhbTl2Qy1aVlhUNXJDZlRjcElweFJvOVlLSUlkeVZSNGdHMDBId3U3eWNGNnJfT1BMZ0dVLXhibUR5NmhoZHI3TXVjNVR5NmdsdURtck1DYkc3MU9xRlF0N0wxUGRLbGdETGVkWVVHcmNvNzQ0aWMzOGV3b1h0ZVU?oc=5",
-     "source": "Chattanooga Times Free Press",
-     "published": "2026-11-28T00:47:08+00:00",
-     "summary": "Georgia immigrants file lawsuit challenging DHS re-detention policy&nbsp;&nbsp;Chattanooga Times Free Press",
-     "image": ""
-    },
-    {
-     "title": "Gov. Reynolds announces special election for Iowa Senate seat after senator's death in June",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV21hUVd4Z2F3VXI2elVSSUQ1RFZyQ2QzRHBCRVJuajFlS2NuT1c0V1VLaWlpYkZoZEh0cFN1SUZRRjB0c1RHVTZNd0VZWjN4ZFZOZVlfVm1lc25ldWJ4ZXl0aF9FaDJvMHNjQjZaWm93Y3U3T3BaQ3duU3QtcGpKY085SlpVSkVmR3BiU1dqT3BKWFFDWEhhMU0yaEhaMHBFQVBaWVVtYw?oc=5",
-     "source": "KCCI",
-     "published": "2026-11-28T00:37:00+00:00",
-     "summary": "Gov. Reynolds announces special election for Iowa Senate seat after senator's death in June&nbsp;&nbsp;KCCI",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-28T01:53:26.984481+00:00",
+   "fetched_at": "2026-11-28T02:23:30.878676+00:00",
    "stale": false,
    "items": [
     {
