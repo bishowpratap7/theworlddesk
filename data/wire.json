@@ -1,17 +1,41 @@
 {
- "generated_at": "2026-11-28T06:24:10.819927+00:00",
+ "generated_at": "2026-11-28T06:54:14.835815+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-28T06:24:10.819897+00:00",
+   "fetched_at": "2026-11-28T06:54:14.835784+00:00",
    "stale": false,
    "items": [
     {
      "title": "Victorian election 2026 live updates: polls point to Coalition win over Labor in state election results \u2013 latest news",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T06:16:07+00:00",
+     "published": "2026-11-28T06:49:41+00:00",
      "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Mental health patients refusing NHS treatment over shared therapy notes",
+     "url": "https://www.theguardian.com/society/2026/nov/28/mental-health-patients-refusing-nhs-treatment-medical-history-shared",
+     "source": "The Guardian",
+     "published": "2026-11-28T06:47:29+00:00",
+     "summary": "Exclusive: Uploading of intimate psychiatric information to wider medical records prompts some to shun support altogetherSome psychiatric patients are refusing treatment over the N",
+     "image": "https://i.guim.co.uk/img/media/004c94c765569b58a3c94c48e641df8c020432a6/605_0_6030_4827/master/6030.jpg?width=140&quality=85&auto=format&fit=max&s=a5bc46a68538e509d395d49c01386282"
+    },
+    {
+     "title": "Taiwan holds local elections under Beijing's watchful gaze",
+     "url": "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
+     "source": "\u00a9  Chiang Ying-ying, AP",
+     "published": "2026-11-28T06:25:33+00:00",
+     "summary": "Taiwan is electing local leaders across 22 cities and counties on Saturday amid accusations by Taiwanese authorities of attempts by China to interfere and sow distrust in the islan",
+     "image": "https://s.france24.com/media/display/459f0d90-eaf4-11f1-946c-f9cf020caef6/w:1024/p:16x9/AP26332173544113.jpg"
+    },
+    {
+     "title": "Elon Musk can afford a little MAGA amnesia",
+     "url": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T06:25:24+00:00",
+     "summary": "His failed bet on the Republicans has done nothing to diminish the bipartisan appeal of his fortune.",
+     "image": ""
     },
     {
      "title": "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
@@ -92,35 +116,11 @@
      "published": "2026-11-28T04:19:16+00:00",
      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"
-    },
-    {
-     "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-28T04:13:45+00:00",
-     "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg"
-    },
-    {
-     "title": "The split-second teamwork behind an F1 pit stop",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T04:01:24+00:00",
-     "summary": "Al Jazeera\u2019s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.",
-     "image": ""
-    },
-    {
-     "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
-     "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T03:45:58+00:00",
-     "summary": "MSF says Israeli attack on Gaza clinic a &#039;direct hit&#039; and calls for those responsible to be held accountable.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-28T06:24:10.819911+00:00",
+   "fetched_at": "2026-11-28T06:54:14.835798+00:00",
    "stale": false,
    "items": [
     {
@@ -130,6 +130,14 @@
      "published": "2026-11-28T06:04:56+00:00",
      "summary": "Hackers reportedly breached the US Air Force's Cloud One platform late Friday, potentially exposing sensitive military data. The Pentagon did not specifically deny that the system ",
      "image": "https://s.france24.com/media/display/d18578fc-eaf0-11f1-9279-f9cf020caef6/w:1024/p:16x9/2026-11-27T110013Z-410933699-RC2K8OA5ONF8-RTRMADP-3-USA-PENTAGON-AIR-FORCE-CLOUD.jpg"
+    },
+    {
+     "title": "Russian army loses 2,825 troops, 10 air defense systems in war against Ukraine in past day",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaWVuUUtHTi1SUU96ellBTkNfS3doQmlRbEo5b3c0ZVRiVElwVVhpQ0lyMWV0YXBvX0w1Q2kxaFpCQmVnUjFGMWZGQ3lpTlBBemtiSWJqVmRzVmZOZlJ3ci1kZjdIOVBBdVg0YXpVbmJXWFYtbDZDS0JJd1ZSSXlaUkdUN0lwMFh2RjdDZWV6RVRkcHJucGZqMzI4R2hkQjd0THVfbWtrazhkMHJiOWx6cGFDam5nRjJxZUdaNDFSYTRXM2JmRGNwcHhPY0pTOW9uN01nTNIB2gFBVV95cUxQekZRSzA4SmtRQ0U0Y3ZvUlpPS1BFbkc0UklvMkZvSTlZdldtZzBTVldIbjNPZmdDeDc3QWlZOHRSM0lvall4STJEWmtIblBHSHg2UFpYMjh0X25JQ2lFT2JDdklwcUxPU05aMGtBUmdRUThmbmJaMjdRdFQtei1hbXFEUFU5aDZhcGZVU2RvX1Z4bGlIVklaMGlralRyS3ZCY2Y5R2w4eE9INTdQUmUtWlp2ZVE3RFZuMFFTRTJrS2dibXVxcjhuc3lNNW1tU2VLeEFwX2ZWT2doQQ?oc=5",
+     "source": "Ukrinform",
+     "published": "2026-11-28T06:03:00+00:00",
+     "summary": "Russian army loses 2,825 troops, 10 air defense systems in war against Ukraine in past day&nbsp;&nbsp;Ukrinform",
+     "image": ""
     },
     {
      "title": "Palestinian tells of \u2018devastating\u2019 struggle after being made redundant by  EU in Gaza",
@@ -164,6 +172,14 @@
      "image": ""
     },
     {
+     "title": "Russian Offensive Campaign Assessment, November 27, 2026",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGxVTU85TTRHNEhYeE1zTXVoTzBDd2owY3p2X3hYa0ozd0FqSllRNlM5TnRCaFpVWFJBVXVId1FKbTc4R1pEOVI3azNXM3RfN1NLNjNJc1AtamJydTd6ZTJ6WjFYbjFuT2RRUThKNjFNdDF2alc3V0ctQW95eEtaREk1STE4QWIzU1hfVUdQN2JZeXp0SW1NS0M0UmozSFBnYU1sVDBoc0dSajIy?oc=5",
+     "source": "Institute for the Study of War",
+     "published": "2026-11-28T04:52:21+00:00",
+     "summary": "Russian Offensive Campaign Assessment, November 27, 2026&nbsp;&nbsp;Institute for the Study of War",
+     "image": ""
+    },
+    {
      "title": "Meloni Warns Zelensky Against Expanding Ukraine War Into Mediterranean",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTZvbHdVZ29TTFJzOGRrZHBuOC0ySXo1bENvcTNFdVA1dXNwMHlCOF94LWs0b29xcjlSdUY3QTMxYnhvZnVJQ1IwTE1hMU5VZGo5SF9EV0NiUE9mRC1WLTYtWHBNanRPOEMtTVpBOVUxWXd6Y2p6VWlROGxiVFVwLWdTaVk0NzQ?oc=5",
      "source": "GreekReporter.com",
@@ -180,7 +196,7 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"
     },
     {
-     "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+     "title": "Israeli \u2018direct hit \u2018on Doctors Without Borders Gaza clinic kills 2 staff",
      "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-28T03:45:58+00:00",
@@ -202,44 +218,52 @@
      "published": "2026-11-28T02:43:31+00:00",
      "summary": "Where\u2019s the Guernica of the Ukraine war?&nbsp;&nbsp;The Spectator",
      "image": ""
-    },
-    {
-     "title": "Australia\u2019s east coast deluged by storms as roads flood and damaging winds forecast for NSW and Victoria",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
-     "source": "The Guardian",
-     "published": "2026-11-28T02:39:28+00:00",
-     "summary": "Severe weather and flood watch warnings are in place as a storm band moves from central Queensland through NSW to Victoria and Tasmania Get our breaking news email, free app or dai",
-     "image": "https://i.guim.co.uk/img/media/b1306f70888bea8d529c6649bb994e6d34935c5f/3131_1455_4726_3781/master/4726.jpg?width=140&quality=85&auto=format&fit=max&s=1a14b657d58af11c222723294f42b72e"
-    },
-    {
-     "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T01:55:03+00:00",
-     "summary": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-28T06:24:10.819915+00:00",
+   "fetched_at": "2026-11-28T06:54:14.835802+00:00",
    "stale": false,
    "items": [
     {
      "title": "Victorian election 2026 live updates: polls point to Coalition win over Labor in state election results \u2013 latest news",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T06:16:07+00:00",
+     "published": "2026-11-28T06:49:41+00:00",
      "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Live Oak City Council election top vote-getter faces three felony charges",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ0J4NXFZLVhYZkNXMGlrQjhMbUtiUUVSQ1dYaU5KQXZKbUQydTJNbVRZNGVqdndrbFd3SVpjVnBEdm9QbUwtX1Y2Uy11NVBka0J2SjI1LW94U1RqaHRDTzF5eXZLYzVJUVFodnhmUkthMXFZYm1GalRvamhteFFaSU00bmVpdHVvTWVreVBCVU1Id2hEX1BUNDhDdUNzSUNoaGNYcFJPQUVQTFE4aGUxaDNBNEVaUWxpRjJLdnN6STFYMnlYcVY0VHNMNlpOeExnb1NWWVo2bjh2TVNMWGRwV0xHYlpGUTF1aEpF?oc=5",
+     "source": "ABC10",
+     "published": "2026-11-28T06:34:00+00:00",
+     "summary": "Live Oak City Council election top vote-getter faces three felony charges&nbsp;&nbsp;ABC10",
+     "image": ""
     },
     {
      "title": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises",
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNemJrS0JLYW85VHMwMlhGcjBNd0NZcXRsdGlUUFRjT05CQ1hxTUVRaEMyLTBrQV9xVEp5Y3pZc3o1eUh5bkd1MTZubUxaVWtsSzQ1eE8zRThOYVJYUV95Vy1PdXRGcjc3b09BaFJyeEprWGptdm9Wd29DaHkyMkdBRHR3WklMUEN3VWJPaGtuWHQ5U3BvR2QwWHhPOE5NNG9wTllkR3RmdWhrQWRSeWpwdEpwb3dyX3hpZ3VqWmotMWdfNkJKOVd3SnByTnVBa0RKT2lDNDN4aGxMMXIyU1RteTNab2g3d091aHhwak4wVHlXMDVLOVRlVmgtZjBEMFBNN1FXZ0tNOA?oc=5",
      "source": "The Guardian",
-     "published": "2026-11-28T05:55:54+00:00",
+     "published": "2026-11-28T06:26:57+00:00",
      "summary": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises&nbsp;&nbsp;The Guardian",
      "image": ""
+    },
+    {
+     "title": "Umbrellas, snags and Santa Claus on Victoria\u2019s election day \u2013 in pictures",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekNQN3Rkal9mQUtKdVlGejN2NEx6OTRwanZRSlhzYkZGWnJBM1dNeXh1UURRZ3RGeGEtbFphaDBVd2RLRFZnUncwN2VHaEtmRHBfWEF2Ni1oMkhmQWs5YjEwMG1ZbG01Ym9tb1BNSDRtQm51T3pYYmIwWXJoWWRISnpxaFdfLUN5MkFzZkZaUGdLYlIxeHg5dEoweFV1OFVmUnJJNQ?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-28T06:26:00+00:00",
+     "summary": "Umbrellas, snags and Santa Claus on Victoria\u2019s election day \u2013 in pictures&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Taiwan holds local elections under Beijing's watchful gaze",
+     "url": "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
+     "source": "\u00a9  Chiang Ying-ying, AP",
+     "published": "2026-11-28T06:25:33+00:00",
+     "summary": "Taiwan is electing local leaders across 22 cities and counties on Saturday amid accusations by Taiwanese authorities of attempts by China to interfere and sow distrust in the islan",
+     "image": "https://s.france24.com/media/display/459f0d90-eaf4-11f1-946c-f9cf020caef6/w:1024/p:16x9/AP26332173544113.jpg"
     },
     {
      "title": "Threats to pull out of hosting World Cup 2030 have headlined Spain\u2019s general election",
@@ -282,14 +306,6 @@
      "image": ""
     },
     {
-     "title": "How do I vote in the Victorian election? Polls close at 6pm, and the upper house needs five numbers",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV1NzT3pNSFFEWXhRNVEtYlNBZVlNaGt0T1h4empiUmFYR0tmbFdJN0k5aVVjTUpJbE5sRHExUE04OUEwZnlZQlZWTVpuLXlkMkpBZWM0RlVHQ2R0NllrTXhCWWMxLWVRbXBsempMZXZiTTRiNTRVb0hRNVRubTBkTzFxWl9VM054LUpoMUlFamxPX2htM1FjRmRGRl9ubGktbFZZcWl2dXN0NE9EeFZYRkRCX0VxdnNDbFJ5bm5LMWoyVXUyanc?oc=5",
-     "source": "Nacionale",
-     "published": "2026-11-28T04:34:03+00:00",
-     "summary": "How do I vote in the Victorian election? Polls close at 6pm, and the upper house needs five numbers&nbsp;&nbsp;Nacionale",
-     "image": ""
-    },
-    {
      "title": "Spain's regionalist left hopes to gain ground in general election",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2RtOWRpc3JobzZiUVpwUFBtR2t0a21nRmJYUjNDMF8zV3ZuR1pZZFQ0Y2szLXVRcmlqRFEzLXM2SWVSR29kaDJod1VqSlFjQjhxeU9EMktBUmN5Z1NwMVhxWE84MEpHOHpHQzg3emprTTBJc2JNV1R4R0thU0JRcFNZbmtLbFVxOV83WmdOaGZERDg5SF93Tk85cFgtbTZJQUZRb2ZsRF94aVBwWUI5MmFqbEFOSDFNYUpCMXJVMWR0dU41X0hZeFlXSUVKcHF2a1FIcXN3?oc=5",
      "source": "Le Monde.fr",
@@ -304,27 +320,11 @@
      "published": "2026-11-28T04:13:45+00:00",
      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg"
-    },
-    {
-     "title": "Owosso changes water shutoff policy",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3WnAxQVFiT1RxRVBEbFM3QUotSU1nUEdoR0xGMjUwLWdERVplMkFFaUFNYzFMZGl4OXFWVFlMR01qdFpTOGlQcmQ4Qm5va251ZlhIQ1ZzOGcyMUYxcFhSanZEOVdsQVVVZGFLLW9LXzk4ekpqWHJB0gGLAUFVX3lxTE05LVlqdUZGbnpmQjhRbFBtMU9lSWNHcVJnRXhDaFlMc0NENk1LdWRTSnU3TFl0X29naDY1NHpwTXhMYWl3NkU4V2NTUEI4b293b21tZGhHZFNYWFhpOEt6Z21qbWdxa0N5a3VFdG5SYTYyRjJVVVRpU3ZIZ0hXdGV0SnM2X2xiRS12c2c?oc=5",
-     "source": "WNEM",
-     "published": "2026-11-28T03:51:00+00:00",
-     "summary": "Owosso changes water shutoff policy&nbsp;&nbsp;WNEM",
-     "image": ""
-    },
-    {
-     "title": "China critic Puma Shen in close election race for Taipei mayor",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZE5RTmh1ZzM3eEtsTGoyWXQ0N2l5dWcyS0l6NTlncFlidm5ocENSX2xvVmI2TkJRcUVqWHJMUFRIajM3VVFLTWw4ekpiRVl0dTFaNHBWLWdxQ0V5clVLNUNuejVOX2J6Q2ViWFZzdV8xalNibWNIRnJXcXRqY2Jlemt1NkNDN0xuVFJwdThteVdsUEFQZ1lVdlVweUJGdw?oc=5",
-     "source": "Hong Kong Free Press HKFP",
-     "published": "2026-11-28T03:42:00+00:00",
-     "summary": "China critic Puma Shen in close election race for Taipei mayor&nbsp;&nbsp;Hong Kong Free Press HKFP",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-28T06:24:10.819917+00:00",
+   "fetched_at": "2026-11-28T06:54:14.835805+00:00",
    "stale": false,
    "items": [
     {
