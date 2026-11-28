@@ -1,17 +1,25 @@
 {
- "generated_at": "2026-11-28T00:23:03.863850+00:00",
+ "generated_at": "2026-11-28T00:53:18.540842+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-28T00:23:03.863822+00:00",
+   "fetched_at": "2026-11-28T00:53:18.540811+00:00",
    "stale": false,
    "items": [
     {
      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T00:12:10+00:00",
+     "published": "2026-11-28T00:38:14+00:00",
      "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T00:12:20+00:00",
+     "summary": "UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.",
+     "image": ""
     },
     {
      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
@@ -20,6 +28,14 @@
      "published": "2026-11-28T00:05:17+00:00",
      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg"
+    },
+    {
+     "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T00:00:00+00:00",
+     "summary": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+     "image": ""
     },
     {
      "title": "At least eight found dead on migrant boat off Spain\u2019s Canary Islands",
@@ -100,29 +116,21 @@
      "published": "2026-11-27T22:22:02+00:00",
      "summary": "The US military says it disabled the Palau-flagged ship\u2019s propulsion but its crew was unharmed.",
      "image": ""
-    },
-    {
-     "title": "Thousands still without power after storms that snarled Thanksgiving travel",
-     "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
-     "source": "The Guardian",
-     "published": "2026-11-27T22:14:56+00:00",
-     "summary": "Heavy rains and high winds downed trees and power lines and led to water rescues from New York to VirginiaSkies cleared along the US eastern seaboard on Friday, and power was being",
-     "image": "https://i.guim.co.uk/img/media/13899cb7af4121d5aac3418608943d1e81f34df4/95_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c632060565bcd372c1823ea711eb5290"
-    },
-    {
-     "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-     "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T22:03:46+00:00",
-     "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-28T00:23:03.863836+00:00",
+   "fetched_at": "2026-11-28T00:53:18.540825+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T00:00:00+00:00",
+     "summary": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+     "image": ""
+    },
     {
      "title": "US disables ship attempting to breach Iran blockade",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
@@ -159,7 +167,7 @@
      "title": "Column: Trump tries and fails to break through the Ukraine war deadlock",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXR6T1VtdkJEa3hFUkdyWDlISW5pOHFwOVJhd2UwOGRFSlNETG1Ndmpra25IZGJhaEJISUNXQVVidUVITVpGUDlMM25fZXoyQWV1MV9NMDFrX1dwXzFZT195UlNkczhVQ3hDVHZuM2hOMlA5ejczZUcwZlQ0THVVMzU4cFduZTBTNzRGMGo4NG50N0JFdjNuSEMxQkx6NElfZW5razcyT1dYaUNlaFBz?oc=5",
      "source": "The Virginian-Pilot",
-     "published": "2026-11-27T23:08:06+00:00",
+     "published": "2026-11-27T23:08:58+00:00",
      "summary": "Column: Trump tries and fails to break through the Ukraine war deadlock&nbsp;&nbsp;The Virginian-Pilot",
      "image": ""
     },
@@ -210,21 +218,53 @@
      "published": "2026-11-27T21:17:40+00:00",
      "summary": "Kyiv offers Black Sea ceasefire to protect grain exports&nbsp;&nbsp;Al Jazeera",
      "image": ""
-    },
-    {
-     "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXNRZXdNdVkybkZ1TXRQSlFzaXNXT2xNM252Xzg4TWpfUmVYUi1DVjhuREFHT1ZKbVdWNjc1U2pTUWJtZmRFeWtKa2Y1cFBXR1VZRGg4dHZ2NkxPSE80YTl1VG1rdnkyYW1OUFFDRUhzUGJnQzcxOEkxSlUxU0hXb19ZTjQxYmV6eUFCWUZZc24xMkJubE9BNFAxZlVuTXZTRG5OUGdlQTVmWVEyOEE?oc=5",
-     "source": "France 24",
-     "published": "2026-11-27T21:09:12+00:00",
-     "summary": "Ukraine submits Black Sea ceasefire offer, awaits Russian response&nbsp;&nbsp;France 24",
-     "image": ""
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-28T00:23:03.863839+00:00",
+   "fetched_at": "2026-11-28T00:53:18.540830+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
+     "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+     "source": "The Guardian",
+     "published": "2026-11-28T00:38:14+00:00",
+     "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
+     "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Gov. Reynolds announces special election for Iowa Senate seat after senator's death in June",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV21hUVd4Z2F3VXI2elVSSUQ1RFZyQ2QzRHBCRVJuajFlS2NuT1c0V1VLaWlpYkZoZEh0cFN1SUZRRjB0c1RHVTZNd0VZWjN4ZFZOZVlfVm1lc25ldWJ4ZXl0aF9FaDJvMHNjQjZaWm93Y3U3T3BaQ3duU3QtcGpKY085SlpVSkVmR3BiU1dqT3BKWFFDWEhhMU0yaEhaMHBFQVBaWVVtYw?oc=5",
+     "source": "KCCI",
+     "published": "2026-11-28T00:37:00+00:00",
+     "summary": "Gov. Reynolds announces special election for Iowa Senate seat after senator's death in June&nbsp;&nbsp;KCCI",
+     "image": ""
+    },
+    {
+     "title": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNemJrS0JLYW85VHMwMlhGcjBNd0NZcXRsdGlUUFRjT05CQ1hxTUVRaEMyLTBrQV9xVEp5Y3pZc3o1eUh5bkd1MTZubUxaVWtsSzQ1eE8zRThOYVJYUV95Vy1PdXRGcjc3b09BaFJyeEprWGptdm9Wd29DaHkyMkdBRHR3WklMUEN3VWJPaGtuWHQ5U3BvR2QwWHhPOE5NNG9wTllkR3RmdWhrQWRSeWpwdEpwb3dyX3hpZ3VqWmotMWdfNkJKOVd3SnByTnVBa0RKT2lDNDN4aGxMMXIyU1RteTNab2g3d091aHhwak4wVHlXMDVLOVRlVmgtZjBEMFBNN1FXZ0tNOA?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-28T00:26:57+00:00",
+     "summary": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcjBZeFJtZUVQZkprTHFFQUE4aWZtSnVQVVBzQXhJa0ZfVmxJdlZVV3hMYjBUazBzT1ZBVE9rVTUtM20xUV9yT2NwOU1OYUpQVzVFRkEwVEc2YWhtdV83QXlxQWhfbXdMUGZxSkM5Zno2NEZjN21SaGV5cTlWdmZvbWZVUE9yUk9QRm16X214MFpoV2xPLVVWRDlodHl1dEtCTVQyRVJFVkhhSzJFNkt5Qkt1S28ydHB5T2lSdmRRTTBWbTNoelBQbHRFZ0xQSG9YMDB1TkREaHJqRVlocDZB?oc=5",
+     "source": "The Guardian",
+     "published": "2026-11-28T00:25:00+00:00",
+     "summary": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation&nbsp;&nbsp;The Guardian",
+     "image": ""
+    },
+    {
+     "title": "Polls open across Taiwan in closely watched local elections",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbkNzTGotSFFpckFuTVA0VFVhYW1MVWpCMHprT1hES3lhMElvdENpbFBkeXRFdHlPUVpPSU5yQmVhdDBCZmk1czNabm5nUm83UUNDNVJFeUxtVEMxR3RmdXhaOEdIc3VISDVkeXlGWEQwQkNST3dpTE83WElmTHFrdnByVnRTSUVLNFdGVm90WDFycGF2X1Jna3hacjBIUFl1cXJpazB4aWVFR2ZMLXlQek5VZ2xzZkhSVk9hSWFzT010elA3ekRIYXNvV2c5YUNjSEplOXlFc05aeXlPdmJnXzBTN0dpMnFrOHc?oc=5",
+     "source": "Oskaloosa Herald",
+     "published": "2026-11-28T00:16:55+00:00",
+     "summary": "Polls open across Taiwan in closely watched local elections&nbsp;&nbsp;Oskaloosa Herald",
+     "image": ""
+    },
     {
      "title": "Political novice turns kingmaker after New Zealand\u2019s deadlocked election",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUQ1YzJiOVpUQWczN2lmR3E0aGRNSXFuMWtkVUY2c2NrQWo5ai1XX3B4M2hLazYyaWJhLUl0V1pqRTNHaW5JUm9vU3YtMjJwdjNlV1pGZURab0ZsRjlfbUhMOV9kemw4eVBFUkxuNjNBcjczQWE0X3N3Y3JSbDUteEx6djZWUWhGalNXOENKRmdwN3RxSkNmdngtUFhaRzk2STNPV2NNYlZReVc5Y0M2X19ONmd1dw?oc=5",
@@ -232,14 +272,6 @@
      "published": "2026-11-28T00:16:54+00:00",
      "summary": "Political novice turns kingmaker after New Zealand\u2019s deadlocked election&nbsp;&nbsp;The Washington Post",
      "image": ""
-    },
-    {
-     "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-     "source": "The Guardian",
-     "published": "2026-11-28T00:12:10+00:00",
-     "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
-     "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
     },
     {
      "title": "Fort Worth police tighten pursuit policy to reduce risk without compromising crimefighting ability",
@@ -256,14 +288,6 @@
      "published": "2026-11-28T00:05:17+00:00",
      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg"
-    },
-    {
-     "title": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNemJrS0JLYW85VHMwMlhGcjBNd0NZcXRsdGlUUFRjT05CQ1hxTUVRaEMyLTBrQV9xVEp5Y3pZc3o1eUh5bkd1MTZubUxaVWtsSzQ1eE8zRThOYVJYUV95Vy1PdXRGcjc3b09BaFJyeEprWGptdm9Wd29DaHkyMkdBRHR3WklMUEN3VWJPaGtuWHQ5U3BvR2QwWHhPOE5NNG9wTllkR3RmdWhrQWRSeWpwdEpwb3dyX3hpZ3VqWmotMWdfNkJKOVd3SnByTnVBa0RKT2lDNDN4aGxMMXIyU1RteTNab2g3d091aHhwak4wVHlXMDVLOVRlVmgtZjBEMFBNN1FXZ0tNOA?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-28T00:03:27+00:00",
-     "summary": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises&nbsp;&nbsp;The Guardian",
-     "image": ""
     },
     {
      "title": "Candidate dubbed \u2018diehard separatist\u2019 by China shakes up Taipei election",
@@ -290,41 +314,17 @@
      "image": ""
     },
     {
-     "title": "Column: Our \u2018E pluribus unum\u2019 election makes me grateful",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDluTkxpNTVTcnY2ckRVZVRDTHozOTFIc0pnckNjY2E5NEpTTVZlR0I2RUpQZWVoSTJNbnlDYmtWcDRtdnBrQWtJMTlHR0Y1VENvUUw0X0l3UXJKSXJoMWhzYkpPUVA1S2xzaUkyX0VfLVZLSzQ5VmZQWEtHVFFYNEs5MkhVYk1DT1VfU1BmTjlhQlpzUmk2bg?oc=5",
-     "source": "The Virginian-Pilot",
-     "published": "2026-11-27T23:06:11+00:00",
-     "summary": "Column: Our \u2018E pluribus unum\u2019 election makes me grateful&nbsp;&nbsp;The Virginian-Pilot",
-     "image": ""
-    },
-    {
-     "title": "Taipei\u2019s mayoral election will not change Taiwan\u2019s course",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM25rRFp0dm1wVjJBU09TOUtKNWJ2S1VockgxT1FYMWZTTlhITWNTSURXcms3X0U3T04ycmRlMU9OdUpKeEdyN1Y2Um01aUpaMjFfRUZoQzdsTXhGdWhVa1NHOWFWWS1iZHZZNlJ5VFNWMmlULU0yNzZxY2ltM2k3MjJITlgwX2Z2VHZpOFUwdmdBOHBvNEJ1Mg?oc=5",
-     "source": "East Asia Forum",
-     "published": "2026-11-27T23:05:09+00:00",
-     "summary": "Taipei\u2019s mayoral election will not change Taiwan\u2019s course&nbsp;&nbsp;East Asia Forum",
-     "image": ""
-    },
-    {
-     "title": "L.A. Schools Block Google\u2019s AI Overview Despite Company\u2019s Latest AI Policy",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHg2T09iaURrWGVzdFFYWkVvNHpLZFRocVNPNHBxQURWVmpiLWZzR3NZRnlwamdWNzJCWVRrWHV0bWR5eFdUZDd1LVdrMC1xZjNXQlREaUVrUGFwZ0xXQm1DYkZBelNTUjVsdEJGRXVMQlpoVm1kb1IxWV9tN2l0SjBxMGtVTloyQk54MEc3R01jNHBZS0M3WURYVmJpREtKSmc?oc=5",
-     "source": "LAmag",
-     "published": "2026-11-27T22:57:45+00:00",
-     "summary": "L.A. Schools Block Google\u2019s AI Overview Despite Company\u2019s Latest AI Policy&nbsp;&nbsp;LAmag",
-     "image": ""
-    },
-    {
-     "title": "NZ faces deadlock with election results",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORlZSbWd3QzBWWkM5c01VWkhrSG1HMHNZaW9iTG9Wd1NUVUl4R19uNHpGTmJ3QlJ0WXRsTHJHeUZfV1UxbExJUXJhQWJIMm8yMl82a0d6UzJXendXSl9xTG1OQzNxMzhOYS1ydDBvYnZSRGdGMFpDMWlwdW5Gckd2NFpn?oc=5",
-     "source": "China Daily Global Edition",
-     "published": "2026-11-27T22:50:25+00:00",
-     "summary": "NZ faces deadlock with election results&nbsp;&nbsp;China Daily Global Edition",
+     "title": "Meta whistleblower says gag order reminiscent of \u20181984\u2019",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXV4RmhHZV81Y1IwT1U4c25UNkpWZlpCMnBJQ0xWbVBlQ2RGSUxCczExaGk0cExRN2dGN1FQZ3Rod2VJWU1zZjFZbktzUXA5TXVhYXJ0TklnVkF4R09MUXlkYzd0YWpxeHBXSVZIMGdTLWIwd0tvaG9jV1hZSXpod1ZwVC1DUzlN0gGOAUFVX3lxTE9mR21CZF80WVIzVGdEbzRUeHFRUUdRMzRFSXo2RWx5SHAzamNrdmwwd0hQd2RwN0RSRWY2Mk8yeFVzNHdpLXpoNHZTWkkwVVlEZDhhMWVlV3BZX0NCX3FLOEl2YjdFY0t2RnJrSENmbzlQdzJYQ0dXQXVhRTgxa3ZjS0hJZm1OZFJrNzV5QkE?oc=5",
+     "source": "The Hill",
+     "published": "2026-11-27T23:08:00+00:00",
+     "summary": "Meta whistleblower says gag order reminiscent of \u20181984\u2019&nbsp;&nbsp;The Hill",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-28T00:23:03.863842+00:00",
+   "fetched_at": "2026-11-28T00:53:18.540832+00:00",
    "stale": false,
    "items": [
     {
