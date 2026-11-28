@@ -1,33 +1,65 @@
 {
- "generated_at": "2026-11-28T10:24:54.837743+00:00",
+ "generated_at": "2026-11-28T10:54:58.913529+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-28T10:24:54.837707+00:00",
+   "fetched_at": "2026-11-28T10:54:58.913499+00:00",
    "stale": false,
    "items": [
     {
      "title": "Victorian election 2026 live results: Ben Carroll projected to lose seat as Coalition wipes out Labor",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T10:19:36+00:00",
+     "published": "2026-11-28T10:47:18+00:00",
      "summary": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state\u2019s 51st premierFull report: Ben Carroll concedes Victorian elec",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Two visions of Spain collide as voters weigh PM Sanchez\u2019s record",
+     "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T10:36:41+00:00",
+     "summary": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
+     "image": ""
+    },
+    {
+     "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T10:34:58+00:00",
+     "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
+    },
+    {
+     "title": "Why is Trump backing Iraq\u2019s anti-smuggling campaign?",
+     "url": "https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T10:32:42+00:00",
+     "summary": "Baghdad&#039;s push to seize control of smuggling routes, border crossings and oilfields has Washington&#039;s support.",
+     "image": ""
+    },
+    {
+     "title": "Immigration, a key issue in Sunday's Spanish snap election",
+     "url": "https://www.france24.com/en/immigration-a-key-issue-in-sunday-s-spanish-snap-election",
+     "source": "France 24",
+     "published": "2026-11-28T10:30:47+00:00",
+     "summary": "Vox has focused its campaign on immigration, which dominated politics after tens of thousands of migrants streamed into Spain's north African city of Ceuta from Morocco in July.",
+     "image": "https://s.france24.com/media/display/2bd6c066-eb16-11f1-b012-f9cf020caef6/w:1024/p:16x9/2026-11-27T202624Z-1130337193-RC2JWOAD7O7N-RTRMADP-3-MIGRATION-SPAIN-CANARY-ISLANDS.jpg"
+    },
+    {
+     "title": "Victorian election 2026: Ben Carroll concedes to Jess Wilson, ending 12 years of Labor government",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+     "source": "The Guardian",
+     "published": "2026-11-28T10:29:43+00:00",
+     "summary": "Jess Wilson to become state\u2019s first popularly elected female premier as Ben Carroll projected to lose seatVictoria election live results: votes tracker, map and seat countsLive blo",
+     "image": "https://i.guim.co.uk/img/media/1b93983680d0a1dc4de11aa15c776cd06740ab16/247_0_3996_3197/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=d1026482a1e9daba2cdead90e35d366f"
     },
     {
      "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-28T10:14:37+00:00",
-     "summary": "A spokesman for Afhganistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
-    },
-    {
-     "title": "Victorian election 2026: Ben Carroll concedes to Jess Wilson, ending 12 years of Labor government",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
-     "source": "The Guardian",
-     "published": "2026-11-28T10:11:17+00:00",
-     "summary": "Liberal leader to become state\u2019s first popularly elected female premier as Carroll projected to lose seatVictoria election live results: votes tracker, map and seat countsLive blog",
-     "image": "https://i.guim.co.uk/img/media/1b93983680d0a1dc4de11aa15c776cd06740ab16/247_0_3996_3197/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=d1026482a1e9daba2cdead90e35d366f"
+     "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2da/live/46909920-eb18-11f1-90b9-a9d17de9c0bd.jpg"
     },
     {
      "title": "Several students killed in blast beside Afghan school",
@@ -84,45 +116,45 @@
      "published": "2026-11-28T08:24:03+00:00",
      "summary": "In litter-strewn Khartoum, disease and rubble threaten health.",
      "image": ""
-    },
-    {
-     "title": "UN\u2019s Albanese leaves Costa Rica airport after constitutional court verdict",
-     "url": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T08:05:18+00:00",
-     "summary": "Albanese leaves the Costa Rican airport where she has been held after the court orders her to be released from the premises.",
-     "image": ""
-    },
-    {
-     "title": "Unpaid TV licence or cycling on pavement could bar people from settling in UK",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/28/new-immigration-rules-uk-unpaid-tv-licence-cycling-pavement-adult-convictions",
-     "source": "The Guardian",
-     "published": "2026-11-28T08:00:34+00:00",
-     "summary": "Exclusive: New immigration rules will introduce strict threshold where any adult conviction triggers mandatory refusalPeople could be barred from settling in the UK over minor infr",
-     "image": "https://i.guim.co.uk/img/media/66216be10282cde58509202e52df9663fe0b6dbe/0_177_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=95296f0d815db77251841da203899a24"
-    },
-    {
-     "title": "\u2018I told it to never call me again\u2019: AI bots wreak havoc with UK restaurant bookings",
-     "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
-     "source": "The Guardian",
-     "published": "2026-11-28T08:00:34+00:00",
-     "summary": "Meta claims its Muse assistant will make users\u2019 lives easier, but business owners say AI is driving them to go analogueRestaurant owners are battling a horde of AI bots and returni",
-     "image": "https://i.guim.co.uk/img/media/8bc6323ce50cd4f0f889dd06738199072098a24d/530_0_5223_4180/master/5223.jpg?width=140&quality=85&auto=format&fit=max&s=329230a8f87826f26a67384e3474ff66"
-    },
-    {
-     "title": "At least six students killed in blast beside school in Afghanistan\u2019s Kunar",
-     "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T07:42:09+00:00",
-     "summary": "Official says the figures were preliminary and the casualty numbers could change as more information becomes available.",
-     "image": ""
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-28T10:24:54.837724+00:00",
+   "fetched_at": "2026-11-28T10:54:58.913513+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T10:34:58+00:00",
+     "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
+    },
+    {
+     "title": "Russo-Ukrainian war, day 1738: Germany, EU, and Hungary move on Ukraine\u2019s support",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTEzQnRicXJVNDV2VXlGVjBQSDJJOWRpX0t2SUFkNHNhdzdIWHF2d0JLX0dFaElZcVZabHQxeU9Sb0VJQzRNUFJOZ2VBUDJIRDEyYndlNHV2b3F2VVRudnJpb3NvSW82R0FtdFJnMWV2UjhXcGJ2QVppMGZXSTBQZ2tNVDNNNWJINXlydmpIeUIxWjhQUDJpT01lLWtyOUtFWHhhTE9DZUxDbWQyRFRWY0h6X0syM3c?oc=5",
+     "source": "Euromaidan Press",
+     "published": "2026-11-28T10:28:55+00:00",
+     "summary": "Russo-Ukrainian war, day 1738: Germany, EU, and Hungary move on Ukraine\u2019s support&nbsp;&nbsp;Euromaidan Press",
+     "image": ""
+    },
+    {
+     "title": "\u2018Ukraine war has metastasized into war on global food system\u2019",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CdVNyUE9hRU1UMkVCYV91dy1VQ3dCRTZUNmdJTWE0bUdnZUtEdUxFOHN4X0xfRlJ0aDhscy1CNXBvOHRqd0tMaG8zbkcxMkxrM21LX0ttcUNRR2NiTllmT3pTUzctZFpzZHhBQW1jeUtCNzA?oc=5",
+     "source": "The South Dakota Standard",
+     "published": "2026-11-28T10:23:10+00:00",
+     "summary": "\u2018Ukraine war has metastasized into war on global food system\u2019&nbsp;&nbsp;The South Dakota Standard",
+     "image": ""
+    },
+    {
+     "title": "Ukraine\u2019s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFZjQ2xkMHo2aUpiZUIwaVp4UlV6U1k3R3gyMGFVS1RRS1VpSUFGNzZzcEVEZXBWRE8tdk9wLU13WWlNaFdRV1IxeTZnbi1UMm1Vb1dMNTIxU2lvWlhyTWU0OWNITEs1anYyRDliUTZqdHFLck42TVNPWXA3eUFYX3V3Nnd3aWVaWUFkRUpiQQ?oc=5",
+     "source": "The New York Times",
+     "published": "2026-11-28T10:02:15+00:00",
+     "summary": "Ukraine\u2019s Deep Strikes Grow in Scale and Scope Across Russia and Beyond&nbsp;&nbsp;The New York Times",
+     "image": ""
+    },
     {
      "title": "Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDlOd2FnNzhfOVg1QjFxM1dmUEJoSDI2YUdLVG5MUFl1VUYtWW9KdEJJTXJSekhnUjQwWlRRWHpQN1FtdTU0ekQ2M29tT25YeEhJSFdnS3BiRGM0YTNINGlKODYyc18wdWxKWFJCYW5LeS1vY3FlaW1OQjZxTGFlSzFvcnFDdFByLWc?oc=5",
@@ -156,6 +188,14 @@
      "image": ""
     },
     {
+     "title": "\u042d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u044f \u0432\u043e\u0439\u043d\u044b \u0432 \u0423\u043a\u0440\u0430\u0438\u043d\u0435. \u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c \u2013 \u043e\u043a\u0442\u044f\u0431\u0440\u044c 26",
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMFR3NTNmQlFYMDk2TDNRbmIteEhfU1F5RGJpYmRzQV9iX2FoN1JnRFJlcnU5RmRYV1pwSEVEX2lNVzU3TVRxZTlrQTdEbDBZdlpzSDYtbmpNR2JSNFl0QVZfYVB3UXdMTGFmVW03SmxjTVNFT1RUcDUxdnd6RGdpLVh2RUY0SjVDeFBMb0hoYlZyakF3LVFwOFNTTlFEY2xud3BPNHpHM3phbnd0VlhxUWlfUUxEU1FNcDBNWjZoYmwyNG9GYmZrVDllUDR6NUladElqTGZQRGM4MjZpOUZuMENuWWdtenhiVXcxUG1HR1BYNnFYRDhoNFNPb3lJTG05bEUwU2lPeWN5VWF2SDVVSlBUNXJUMjZMcVZqTXRwRWNwM3Nnb2RneGFHNFdCVFFNTWhGZy02Y0lnVW04NkJ0REhDSV94a1U?oc=5",
+     "source": "Ukraine War Environmental Consequences Work Group",
+     "published": "2026-11-28T08:37:07+00:00",
+     "summary": "\u042d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u044f \u0432\u043e\u0439\u043d\u044b \u0432 \u0423\u043a\u0440\u0430\u0438\u043d\u0435. \u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c \u2013 \u043e\u043a\u0442\u044f\u0431\u0440\u044c 26&nbsp;&nbsp;Ukraine War Environmental Consequences Work Group",
+     "image": ""
+    },
+    {
      "title": "Daily Update: Russia Loses 2,825 Troops, 10 Air Defense Systems and 42 Artillery Systems in One Day",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOalh0SXFra2owV2kxU1pacjY2Y2JkZUVfTHVoWkNnb21UaEMzc2lLMlczbGp0eGkzX0plOWNvdlR3NUx2U2dBQi10enJkYktrMDRVOWJISDU3YXR1bGlrQ0M3d3hyQ0tZeHJSMUJxeF95TlhBdnM2c1FTSlI1c0JBdnZSTHd1OTRvRElyS1lfcm5tRFFGSElrMngwaHlJSDZNdTdZWFVJcm1Kd2Nha2swNHloSDZpS1M3eEdPUmVzSnd4LXFZNU1uY3VpdWdHNzZ5azhSelpVd2ZNN2s?oc=5",
      "source": "UNITED24 Media",
@@ -178,60 +218,60 @@
      "published": "2026-11-28T07:59:00+00:00",
      "summary": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his \u2018friend\u2019; Kyiv deploys new laser weapon&nbsp;&nbsp;The Guardian",
      "image": ""
-    },
-    {
-     "title": "Russian, Ukrainian drone attacks injure at least 16, officials say",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmRGbXpKRWpMUmJuTWI2SE5IUnBUcVVKcnRJV1FaanFVQUNqTjRXQ1lQREJsTGNRdHI4ZmdtLU5rS2xaSFktbHFtejJPSlhKNXJYbW9ldTRKVmtGWVR6dkNQVEFtMnhTTjRQZXJVVzJGeG1nU2hQSG81dFVxYmxnMmZxYXNCRkRENUFIQTh4aU1xd3ZEMVI0WVBBR2VzRUhtZERLcE5GSTA?oc=5",
-     "source": "Anadolu Ajans\u0131",
-     "published": "2026-11-28T07:49:48+00:00",
-     "summary": "Russian, Ukrainian drone attacks injure at least 16, officials say&nbsp;&nbsp;Anadolu Ajans\u0131",
-     "image": ""
-    },
-    {
-     "title": "How Israel is fast-tracking data centres in bid to become \u2018AI superpower\u2019",
-     "url": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T07:21:22+00:00",
-     "summary": "Israel is looking to data centres to boost its data processing, military strength and global clout.",
-     "image": ""
-    },
-    {
-     "title": "Ukraine proposes Black Sea ceasefire, awaits Russia's response",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05ZjNzTzVmT0JUT2JFclpaMl9RRXJSTTMwbVJuMGZQX0JCb2JETnBzLXpwSFhxWUVpMEc2cnUyQ2hOeHBEN0dMSi04OUtCVVhqLUN5MnpzZEg?oc=5",
-     "source": "chinadailyhk",
-     "published": "2026-11-28T07:14:21+00:00",
-     "summary": "Ukraine proposes Black Sea ceasefire, awaits Russia's response&nbsp;&nbsp;chinadailyhk",
-     "image": ""
-    },
-    {
-     "title": "Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault",
-     "url": "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
-     "source": "\u00a9 Evgeniy Maloletka, AP",
-     "published": "2026-11-28T07:12:00+00:00",
-     "summary": "Russia shot down over 1,200 drones targeting Moscow overnight, Russian authorities said Saturday. Both Russia and Ukraine have stepped up their attacks using projectiles in recent ",
-     "image": "https://s.france24.com/media/display/2653445a-eafa-11f1-a4ee-174dac1c1bf0/w:1024/p:16x9/AP26327531590182.jpg"
-    },
-    {
-     "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
-     "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-28T06:52:05+00:00",
-     "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
     }
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-28T10:24:54.837728+00:00",
+   "fetched_at": "2026-11-28T10:54:58.913517+00:00",
    "stale": false,
    "items": [
     {
      "title": "Victorian election 2026 live results: Ben Carroll projected to lose seat as Coalition wipes out Labor",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T10:19:36+00:00",
+     "published": "2026-11-28T10:47:18+00:00",
      "summary": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state\u2019s 51st premierFull report: Ben Carroll concedes Victorian elec",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Coalition wins thumping majority at Victorian election as Labor and Greens in contest for opposition status",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTWRoc2JJQUozNTlBTUNacjZZV0Q5RFFFZGFaSHdkVjdUNXNCTzBZYlhqaHl6LVVHSTRTajN6M1RVb0EtLWE1dmZmZ3RrWHJCUGYxNVkyUV9PQ2x4MnE5NFo4d2p2ZkFJSlhKRm5QRU5CY0xpenkyQV9hYko2a3l5QkUxdHdEbnZBZ3pzVDNKM05NSmpOam41UmFGS21NUG9MdlRTSzc2RXMwbnpFaUFPa3FqOTJzOHJzVDRYZEpDVTdiemQ0ZlJMLXpwbjJ5cmFfc3NnSTIyaFkyUQ?oc=5",
+     "source": "The Conversation",
+     "published": "2026-11-28T10:37:24+00:00",
+     "summary": "Coalition wins thumping majority at Victorian election as Labor and Greens in contest for opposition status&nbsp;&nbsp;The Conversation",
+     "image": ""
+    },
+    {
+     "title": "Two visions of Spain collide as voters weigh PM Sanchez\u2019s record",
+     "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T10:36:41+00:00",
+     "summary": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
+     "image": ""
+    },
+    {
+     "title": "How Ceuta and migration are defining Spain's snap election",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVZCWi02VnB6eVE3a1BVSTNCTFBnb3BzdmQ1M1pMcE5Fd1pacUJBRDd6eW56RkM3OUZkekNIajdqTEZRenhhTjlHeTdEX29xYmFoSksxcEJFTzRBbXZndmZjZnpuZWJfdnhyeHo3aGI5eGZPYkw3QVIxQ1NXR09TREMxdw?oc=5",
+     "source": "Middle East Eye",
+     "published": "2026-11-28T10:31:00+00:00",
+     "summary": "How Ceuta and migration are defining Spain's snap election&nbsp;&nbsp;Middle East Eye",
+     "image": ""
+    },
+    {
+     "title": "EU Climate Policy Report: Emissions Continue to Decline",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGRDRm1yM3lWNnFfcnFvZ1NoZXFicHR1aUtUS2JqX1dua3V5QW9yVVdVLS1BckNfWnAxblAwVEZfaS1qTDZmTDNOOWZlMFRHSENBZFdZWXlmUnNCbHpvZkZBRkNxcEtSa2pwUnhIZkdVbm9zUzBMRzQxY3hiNnRaQlFsd0k2Wm1UVnpGV0tuZHF4UXYyTFo5eGFWTQ?oc=5",
+     "source": "Hungarian Conservative",
+     "published": "2026-11-28T10:30:00+00:00",
+     "summary": "EU Climate Policy Report: Emissions Continue to Decline&nbsp;&nbsp;Hungarian Conservative",
+     "image": ""
+    },
+    {
+     "title": "Victorian election 2026: Ben Carroll concedes to Jess Wilson, ending 12 years of Labor government",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+     "source": "The Guardian",
+     "published": "2026-11-28T10:29:43+00:00",
+     "summary": "Jess Wilson to become state\u2019s first popularly elected female premier as Ben Carroll projected to lose seatVictoria election live results: votes tracker, map and seat countsLive blo",
+     "image": "https://i.guim.co.uk/img/media/1b93983680d0a1dc4de11aa15c776cd06740ab16/247_0_3996_3197/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=d1026482a1e9daba2cdead90e35d366f"
     },
     {
      "title": "The Netherlands is heading the wrong way on taxes, rules and policy stability, warns Jitse Groen",
@@ -243,19 +283,11 @@
     },
     {
      "title": "Taiwan awaits local election results as China watches",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTThad0VnS0VjN1lRblZwTlhOX1RPQ1ZwNTBQRVVQVmRxcGFOcEY3blEtN2xDcThLQ1QtQ2NMX0dEMGxvSGJ1TlE3cmJJN0lZdUoxMXRDNVhVdUhrWndCUGdBMC1YUWo2eGdYaTdLLWx5TzFCdG5RemFYRVNyZWtBMWdYMExkaUJPXzZLcHZyaHhoUTFLcExJMVFLcWhNMDRsRUNrVmxoNUpJVlh3TUVTRXhxbm5kcFJSTlZWaGIxaDg5b1Y0WHotaXljU3dRREo3X195dXUwNk45djhsLWRvcGlJMFlYeXFs?oc=5",
-     "source": "Ottumwa Courier",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUFJOGxGNXUzOFVOaEFDMHp2M2JHODNtX3VWb19qWmpsenEwdFpWQ3JvRFAxNTc3azBfdzlTVTJxdi1ZbzZEcXpEMHZ1WFZReWFZT2dvZ0hqU2E5SEZCcUlPckM2ZHdrSEhVdGx3UHZiVUViREdyV2s1RFlvd1FVM25rTG1PTk9VZTA4akl1cUdaMHJFbmlFNXpUYTlDLXR4WDhGcEJwZXhXRFJRVjhEWU1tRFlJOGZDN21CelZvM1hiSngwS2tZQjZ1M2xBSmc?oc=5",
+     "source": "The Killeen Daily Herald",
      "published": "2026-11-28T10:15:30+00:00",
-     "summary": "Taiwan awaits local election results as China watches&nbsp;&nbsp;Ottumwa Courier",
+     "summary": "Taiwan awaits local election results as China watches&nbsp;&nbsp;The Killeen Daily Herald",
      "image": ""
-    },
-    {
-     "title": "Victorian election 2026: Ben Carroll concedes to Jess Wilson, ending 12 years of Labor government",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
-     "source": "The Guardian",
-     "published": "2026-11-28T10:11:17+00:00",
-     "summary": "Liberal leader to become state\u2019s first popularly elected female premier as Carroll projected to lose seatVictoria election live results: votes tracker, map and seat countsLive blog",
-     "image": "https://i.guim.co.uk/img/media/1b93983680d0a1dc4de11aa15c776cd06740ab16/247_0_3996_3197/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=d1026482a1e9daba2cdead90e35d366f"
     },
     {
      "title": "Spain\u2019s party leaders hold final campaign rallies ahead of national election",
@@ -263,6 +295,14 @@
      "source": "AP News",
      "published": "2026-11-28T10:11:00+00:00",
      "summary": "Spain\u2019s party leaders hold final campaign rallies ahead of national election&nbsp;&nbsp;AP News",
+     "image": ""
+    },
+    {
+     "title": "Anthropic Introduces Claude Ship to Review, Fix, and Approve Pull Requests by Policy",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ya1BveTl5ZlF2MjR5aEpFaTNOdjdGTXFJTmxzRDJ4TExUYVBmelRLM3hHWVlCR0lNN0dwakIyM01kQ2xyY0NOZHlIb0U0ZTNjSXBTSWQzN3FSNzZpSDBkdzVhUmZWRkpM?oc=5",
+     "source": "infoq.com",
+     "published": "2026-11-28T10:08:32+00:00",
+     "summary": "Anthropic Introduces Claude Ship to Review, Fix, and Approve Pull Requests by Policy&nbsp;&nbsp;infoq.com",
      "image": ""
     },
     {
@@ -274,57 +314,17 @@
      "image": ""
     },
     {
-     "title": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNemJrS0JLYW85VHMwMlhGcjBNd0NZcXRsdGlUUFRjT05CQ1hxTUVRaEMyLTBrQV9xVEp5Y3pZc3o1eUh5bkd1MTZubUxaVWtsSzQ1eE8zRThOYVJYUV95Vy1PdXRGcjc3b09BaFJyeEprWGptdm9Wd29DaHkyMkdBRHR3WklMUEN3VWJPaGtuWHQ5U3BvR2QwWHhPOE5NNG9wTllkR3RmdWhrQWRSeWpwdEpwb3dyX3hpZ3VqWmotMWdfNkJKOVd3SnByTnVBa0RKT2lDNDN4aGxMMXIyU1RteTNab2g3d091aHhwak4wVHlXMDVLOVRlVmgtZjBEMFBNN1FXZ0tNOA?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-28T09:26:57+00:00",
-     "summary": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Spain\u2019s far-right Vox leader Abascal slated to gain from Sunday election",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3p2UFozdTkyd3pkSEtfZ2x1ZGVUUHNUeWZKa1pyeVludkhTZi1kb0pSbkw3QzZsN0hmZXl3bEdLdURTQnotcllDUl85bjVIa2lZMjl2RC11SF8xOWFUTnJsa3NIbFh5UVVmcmJCaXVocFhkSGo3SFdFQ0RxLTk3ZG1LS0cwV2stQW9qUDZvTFRVaU0?oc=5",
-     "source": "The Arab Weekly",
-     "published": "2026-11-28T09:19:55+00:00",
-     "summary": "Spain\u2019s far-right Vox leader Abascal slated to gain from Sunday election&nbsp;&nbsp;The Arab Weekly",
-     "image": ""
-    },
-    {
-     "title": "\u2018Victorians have spoken\u2019: Ben Carroll concedes election to Jess Wilson, ending 12 years of Labor government",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNGxaTU1TdldXYzZfMWx4N2JIMVFhYnhWbzdSd3k5dzc4Rmd6ck00QkhVeV9XdElVMGZSSmtPU1VSZEtra0U0em93X1M2WkJScUl5cTBiTEZ0WnBpcXkzQ0MzVkF2TWtWQ2FJWEZmdXA0QzYyUDk1NHJqVmVkbDdMcjd4WHczQjBBeHl0eUNhZkZlcEc2NGo1OGV0YW9KOVN5SkF2WE5Bc1VaVDVyMEFCcUZHeG1rT3pKNWQ2M25yd1RjbElhQjJ4MlJqRzA1R1pxWGd4TkV3bXJjVlpDMUo5OFhsdmEyZw?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-28T08:44:00+00:00",
-     "summary": "\u2018Victorians have spoken\u2019: Ben Carroll concedes election to Jess Wilson, ending 12 years of Labor government&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Polls close with China critic in close election race for Taipei mayor",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqbnZNQjF6Y1J1dEpZUFI5SzN5UjBBOFRSYTZLaHpQV29uSzhIRnV5NjlrNDZKcDFXZFVGamsxRUJyOE5zSkNvQkNVRDZDTzJFNHFybWREQUtPMXEzTmllRmVnTzRQVy1KTmQ3bVZxaEZBSWtvcFpGVngzNWM?oc=5",
-     "source": "Yahoo News Singapore",
-     "published": "2026-11-28T08:29:03+00:00",
-     "summary": "Polls close with China critic in close election race for Taipei mayor&nbsp;&nbsp;Yahoo News Singapore",
-     "image": ""
-    },
-    {
-     "title": "Unpaid TV licence or cycling on pavement could bar people from settling in UK",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/28/new-immigration-rules-uk-unpaid-tv-licence-cycling-pavement-adult-convictions",
-     "source": "The Guardian",
-     "published": "2026-11-28T08:00:34+00:00",
-     "summary": "Exclusive: New immigration rules will introduce strict threshold where any adult conviction triggers mandatory refusalPeople could be barred from settling in the UK over minor infr",
-     "image": "https://i.guim.co.uk/img/media/66216be10282cde58509202e52df9663fe0b6dbe/0_177_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=95296f0d815db77251841da203899a24"
-    },
-    {
-     "title": "Spain's snap election: News, analysis and what you need to know",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ORElHMDJnMTZ4ZUJza2hQTDVMNFU4ZmR3MU1EQldYMmtteFVhNFRMak5GcWNGMWVwNHR1NFR4RGJtaE5uQkhnNnZFWFhIOEhIaXpTR1RzY3pyMDk5eTRPOVhYN0hPTTF0MDFWRzNnTFNiNE1iaE9yTnZR0gF6QVVfeXFMUEhUV3hjd05QWkdtdGNPRnpYT3JadVVfU2V5Q2JVeG1oS3R2eDZ1Y0trQnd5cW56VjlQRndDckRtNUp5UW50MFliZkdScUhMU0IxSVNPUGhDVzRVZ0t5UHNmTzNVQlpJZkFjZzVnckJVcUZ3WGlWak1lSHc?oc=5",
-     "source": "DW.com",
-     "published": "2026-11-28T07:48:29+00:00",
-     "summary": "Spain's snap election: News, analysis and what you need to know&nbsp;&nbsp;DW.com",
+     "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DUmlLRm9sT0Z1M3l5aDdvQy13bG9XSmFxbGpWWE00M09YMDk2UG0zSmJGelFXZDQzX2FGZ3ZoTVp5SXRId0dxU0xIOTg4U3dGMFdvVHFQak1FVWVhV09fcGhXdDZUYi1Lb0lCV3VtWUhyOWItZU5mQzNMSmVWZw?oc=5",
+     "source": "The Jerusalem Post",
+     "published": "2026-11-28T10:00:05+00:00",
+     "summary": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government&nbsp;&nbsp;The Jerusalem Post",
      "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-28T10:24:54.837730+00:00",
+   "fetched_at": "2026-11-28T10:54:58.913519+00:00",
    "stale": false,
    "items": [
     {
