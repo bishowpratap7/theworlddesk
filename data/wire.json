@@ -1,17 +1,25 @@
 {
- "generated_at": "2026-11-28T01:23:22.705833+00:00",
+ "generated_at": "2026-11-28T01:53:26.984490+00:00",
  "sections": {
   "top_world": {
-   "fetched_at": "2026-11-28T01:23:22.705804+00:00",
+   "fetched_at": "2026-11-28T01:53:26.984460+00:00",
    "stale": false,
    "items": [
     {
      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T01:16:55+00:00",
+     "published": "2026-11-28T01:44:33+00:00",
      "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+     "title": "Nigeria's 'ultimate hard man' who become an online meme",
+     "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T01:20:35+00:00",
+     "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg"
     },
     {
      "title": "Thousands of Puerto Ricans join \u2018Day of National Outrage\u2019 protest",
@@ -108,19 +116,11 @@
      "published": "2026-11-27T23:09:04+00:00",
      "summary": "Voters will decide on Saturday whether to scrap the country&#039;s &#039;nuclear-free homeland&#039; policy.",
      "image": ""
-    },
-    {
-     "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
-     "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T23:02:35+00:00",
-     "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg"
     }
    ]
   },
   "wars": {
-   "fetched_at": "2026-11-28T01:23:22.705818+00:00",
+   "fetched_at": "2026-11-28T01:53:26.984474+00:00",
    "stale": false,
    "items": [
     {
@@ -222,14 +222,30 @@
    ]
   },
   "politics": {
-   "fetched_at": "2026-11-28T01:23:22.705822+00:00",
+   "fetched_at": "2026-11-28T01:53:26.984478+00:00",
    "stale": false,
    "items": [
+    {
+     "title": "Juneauites rally to celebrate certification of the midterms, push for election reforms",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYWR0WmdJeFhhRzM5OFBfMXBTZm1Kb1diaVpiaDlMOVZzc2ZaV2kyOXppdmx3TlplRXhuR3Bhdk1faGxOVFo0Uy1YajJHX3FpNldWZzNqdDZ3VjloUnl6eVU4RFFLRTBOTng0MjZZOG1xMkxXMjJzWkZtc3FKODJxNUN2UzZldUNmdjlpMXctUFp1THA5MXB5bnZ6c0xCNjVxUXVXNjQzYkFxN0s1TExtMVA4UVdiYU50X1ItcTFWWQ?oc=5",
+     "source": "Alaska Beacon",
+     "published": "2026-11-28T01:51:30+00:00",
+     "summary": "Juneauites rally to celebrate certification of the midterms, push for election reforms&nbsp;&nbsp;Alaska Beacon",
+     "image": ""
+    },
+    {
+     "title": "Political novice turns kingmaker after New Zealand\u2019s deadlocked election",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUQ1YzJiOVpUQWczN2lmR3E0aGRNSXFuMWtkVUY2c2NrQWo5ai1XX3B4M2hLazYyaWJhLUl0V1pqRTNHaW5JUm9vU3YtMjJwdjNlV1pGZURab0ZsRjlfbUhMOV9kemw4eVBFUkxuNjNBcjczQWE0X3N3Y3JSbDUteEx6djZWUWhGalNXOENKRmdwN3RxSkNmdngtUFhaRzk2STNPV2NNYlZReVc5Y0M2X19ONmd1dw?oc=5",
+     "source": "The Washington Post",
+     "published": "2026-11-28T01:46:54+00:00",
+     "summary": "Political novice turns kingmaker after New Zealand\u2019s deadlocked election&nbsp;&nbsp;The Washington Post",
+     "image": ""
+    },
     {
      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor \u2013 latest news",
      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
      "source": "The Guardian",
-     "published": "2026-11-28T01:16:55+00:00",
+     "published": "2026-11-28T01:44:33+00:00",
      "summary": "Follow live updates today and results tonight as Labor\u2019s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria\u2019s state electionVictorian election 2026 guide: what you",
      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
     },
@@ -282,6 +298,14 @@
      "image": ""
     },
     {
+     "title": "IVCC to hold Monday lottery for April board election ballot spots",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0o3S1JiS216aVJEenRrc2hiT3lDbzRJMFNZTERaTkExNzJWQk1NQ0NNdklzQWZ0Tm5WdFVJbGpPNzRBYTNpZzVPY2Y5Q3ZGMXlPZTRMc3VYVUQxSV9YTklLbEQ2Y1dCNWxXdmVyTmJnelhYTzFSdkUzQmlDVFRTX09WYlZkMGZ6Uzk0TXVPOGhSY3B0MVFjZ2hhUlQxb1ZzeWczX3NwNEdZcjRsTmZpOE5jTHNBOXdISHJj?oc=5",
+     "source": "Shaw Local",
+     "published": "2026-11-28T00:50:36+00:00",
+     "summary": "IVCC to hold Monday lottery for April board election ballot spots&nbsp;&nbsp;Shaw Local",
+     "image": ""
+    },
+    {
      "title": "Georgia immigrants file lawsuit challenging DHS re-detention policy",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTRLRi1PTDN5bk00N0dsU3J0eXNMUkFjaTU0T2djWmZEZ1djMnNXclNkczdWNnZFYUJudVg0bGFhbTl2Qy1aVlhUNXJDZlRjcElweFJvOVlLSUlkeVZSNGdHMDBId3U3eWNGNnJfT1BMZ0dVLXhibUR5NmhoZHI3TXVjNVR5NmdsdURtck1DYkc3MU9xRlF0N0wxUGRLbGdETGVkWVVHcmNvNzQ0aWMzOGV3b1h0ZVU?oc=5",
      "source": "Chattanooga Times Free Press",
@@ -296,35 +320,11 @@
      "published": "2026-11-28T00:37:00+00:00",
      "summary": "Gov. Reynolds announces special election for Iowa Senate seat after senator's death in June&nbsp;&nbsp;KCCI",
      "image": ""
-    },
-    {
-     "title": "One Nation downplays Victorian election chances as Pauline Hanson leads \u2018Labor party farewell tour\u2019",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOejkyWmIyc3FSRDMwSlJvUG1LT0FFdnpvUGYzcUZPWi1VVEl4VjhOdVZVa1MzaGM5TXg4bjQ2VjNiV3dSdHdndHl5d1h3QUk3RVF2cl92S3JhV2tSZGlvRkhQOXZSVFBpRmdsWWFpcGszMjlvVDlLSkJ4WDhWVDZ0bGpPRkdFVDFnSmFuUFFvRGhBVU9YLS0ySWVNSFJqbGU2eXlMcVdWQlVvbXJDR0pTOWU3SHNadENuMlIyc0xxaWxUTlM2c1VFd0l6aw?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-28T00:27:00+00:00",
-     "summary": "One Nation downplays Victorian election chances as Pauline Hanson leads \u2018Labor party farewell tour\u2019&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNemJrS0JLYW85VHMwMlhGcjBNd0NZcXRsdGlUUFRjT05CQ1hxTUVRaEMyLTBrQV9xVEp5Y3pZc3o1eUh5bkd1MTZubUxaVWtsSzQ1eE8zRThOYVJYUV95Vy1PdXRGcjc3b09BaFJyeEprWGptdm9Wd29DaHkyMkdBRHR3WklMUEN3VWJPaGtuWHQ5U3BvR2QwWHhPOE5NNG9wTllkR3RmdWhrQWRSeWpwdEpwb3dyX3hpZ3VqWmotMWdfNkJKOVd3SnByTnVBa0RKT2lDNDN4aGxMMXIyU1RteTNab2g3d091aHhwak4wVHlXMDVLOVRlVmgtZjBEMFBNN1FXZ0tNOA?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-28T00:26:57+00:00",
-     "summary": "Confused about who to vote for in the Victoria election? A guide to each party\u2019s key policy promises&nbsp;&nbsp;The Guardian",
-     "image": ""
-    },
-    {
-     "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcjBZeFJtZUVQZkprTHFFQUE4aWZtSnVQVVBzQXhJa0ZfVmxJdlZVV3hMYjBUazBzT1ZBVE9rVTUtM20xUV9yT2NwOU1OYUpQVzVFRkEwVEc2YWhtdV83QXlxQWhfbXdMUGZxSkM5Zno2NEZjN21SaGV5cTlWdmZvbWZVUE9yUk9QRm16X214MFpoV2xPLVVWRDlodHl1dEtCTVQyRVJFVkhhSzJFNkt5Qkt1S28ydHB5T2lSdmRRTTBWbTNoelBQbHRFZ0xQSG9YMDB1TkREaHJqRVlocDZB?oc=5",
-     "source": "The Guardian",
-     "published": "2026-11-28T00:25:00+00:00",
-     "summary": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation&nbsp;&nbsp;The Guardian",
-     "image": ""
     }
    ]
   },
   "economy": {
-   "fetched_at": "2026-11-28T01:23:22.705825+00:00",
+   "fetched_at": "2026-11-28T01:53:26.984481+00:00",
    "stale": false,
    "items": [
     {
